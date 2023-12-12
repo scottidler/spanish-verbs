@@ -1,0 +1,73 @@
+definitions:
+  tenseString:
+    type: object
+    properties:
+      yo: {type: string}
+      tu: {type: string}
+      vos: {type: string}
+      ud: {type: string}
+      nosotros: {type: string}
+      vosotros: {type: string}
+      uds: {type: string}
+    required: [yo, tu, vos, ud, nosotros, vosotros, uds]
+
+  tenseArray:
+    type: object
+    properties:
+      yo: {type: array, items: {type: string}}
+      tu: {type: array, items: {type: string}}
+      vos: {type: array, items: {type: string}}
+      ud: {type: array, items: {type: string}}
+      nosotros: {type: array, items: {type: string}}
+      vosotros: {type: array, items: {type: string}}
+      uds: {type: array, items: {type: string}}
+    required: [yo, tu, vos, ud, nosotros, vosotros, uds]
+
+  tenseImperative:
+    type: object
+    properties:
+      tu: { type: string }
+      vos: { type: string }
+      ud: { type: string }
+      nosotros: { type: string }
+      vosotros: { type: string }
+      uds: { type: string }
+    required: [tu, vos, ud, nosotros, vosotros, uds]
+
+type: object
+properties:
+  infinitivo: {type: string}
+  gerundio: {type: string}
+  participio-pasado: {type: string}
+  presente-indicativo: {$ref: '#/definitions/tenseString'}
+  preterito-perfecto-simple: {$ref: '#/definitions/tenseString'}
+  preterito-imperfecto: {$ref: '#/definitions/tenseString'}
+  futuro-simple: {$ref: '#/definitions/tenseString'}
+  condicional-simple: {$ref: '#/definitions/tenseString'}
+  presente-perfecto: {$ref: '#/definitions/tenseString'}
+  preterito-pluscuamperfecto: {$ref: '#/definitions/tenseString'}
+  futuro-perfecto: {$ref: '#/definitions/tenseString'}
+  condicional-perfecto: {$ref: '#/definitions/tenseString'}
+  presente-subjuntivo: {$ref: '#/definitions/tenseString'}
+  preterito-perfecto-subjuntivo: {$ref: '#/definitions/tenseString'}
+  imperfecto-subjuntivo: {$ref: '#/definitions/tenseArray'}
+  pluscuamperfecto-subjuntivo: {$ref: '#/definitions/tenseArray'}
+  imperativo: {$ref: '#/definitions/tenseImperative'}
+required:
+  - infinitivo
+  - gerundio
+  - participio-pasado
+  - presente-indicativo
+  - preterito-perfecto-simple
+  - preterito-imperfecto
+  - futuro-simple
+  - condicional-simple
+  - presente-perfecto
+  - preterito-pluscuamperfecto
+  - futuro-perfecto
+  - condicional-perfecto
+  - presente-subjuntivo
+  - preterito-perfecto-subjuntivo
+  - imperfecto-subjuntivo
+  - pluscuamperfecto-subjuntivo
+  - imperativo

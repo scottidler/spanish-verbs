@@ -1,0 +1,145 @@
+vivir:
+  infinitivo: vivir
+  gerundio: viviendo
+  participio-pasado: vivido
+  presente-indicativo:
+    yo: vivo
+    tu: vives
+    vos: vivís
+    ud: vive
+    nosotros: vivimos
+    vosotros: vivís
+    uds: viven
+  preterito-perfecto-simple:
+    yo: viví
+    tu: viviste
+    vos: viviste
+    ud: vivió
+    nosotros: vivimos
+    vosotros: vivisteis
+    uds: vivieron
+  preterito-imperfecto:
+    yo: vivía
+    tu: vivías
+    vos: vivías
+    ud: vivía
+    nosotros: vivíamos
+    vosotros: vivíais
+    uds: vivían
+  futuro-simple:
+    yo: viviré
+    tu: vivirás
+    vos: vivirás
+    ud: vivirá
+    nosotros: viviremos
+    vosotros: viviréis
+    uds: vivirán
+  condicional-simple:
+    yo: viviría
+    tu: vivirías
+    vos: vivirías
+    ud: viviría
+    nosotros: viviríamos
+    vosotros: viviríais
+    uds: vivirían
+  presente-perfecto:
+    yo: he vivido
+    tu: has vivido
+    vos: has vivido
+    ud: ha vivido
+    nosotros: hemos vivido
+    vosotros: habéis vivido
+    uds: han vivido
+  preterito-pluscuamperfecto:
+    yo: había vivido
+    tu: habías vivido
+    vos: habías vivido
+    ud: había vivido
+    nosotros: habíamos vivido
+    vosotros: habíais vivido
+    uds: habían vivido
+  futuro-perfecto:
+    yo: habré vivido
+    tu: habrás vivido
+    vos: habrás vivido
+    ud: habrá vivido
+    nosotros: habremos vivido
+    vosotros: habréis vivido
+    uds: habrán vivido
+  condicional-perfecto:
+    yo: habría vivido
+    tu: habrías vivido
+    vos: habrías vivido
+    ud: habría vivido
+    nosotros: habríamos vivido
+    vosotros: habríais vivido
+    uds: habrían vivido
+  presente-subjuntivo:
+    yo: viva
+    tu: vivas
+    vos: vivas
+    ud: viva
+    nosotros: vivamos
+    vosotros: viváis
+    uds: vivan
+  preterito-perfecto-subjuntivo:
+    yo: haya vivido
+    tu: hayas vivido
+    vos: hayas vivido
+    ud: haya vivido
+    nosotros: hayamos vivido
+    vosotros: hayáis vivido
+    uds: hayan vivido
+  imperfecto-subjuntivo:
+    yo:
+      - viviera
+      - viviese
+    tu:
+      - vivieras
+      - vivieses
+    vos:
+      - vivieras
+      - vivieses
+    ud:
+      - viviera
+      - viviese
+    nosotros:
+      - viviéramos
+      - viviésemos
+    vosotros:
+      - vivierais
+      - vivieseis
+    uds:
+      - vivieran
+      - viviesen
+  pluscuamperfecto-subjuntivo:
+    yo:
+      - hubiera vivido
+      - hubiese vivido
+    tu:
+      - hubieras vivido
+      - hubieses vivido
+    vos:
+      - hubieras vivido
+      - hubieses vivido
+    ud:
+      - hubiera vivido
+      - hubiese vivido
+    nosotros:
+      - hubiéramos vivido
+      - hubiésemos vivido
+    vosotros:
+      - hubierais vivido
+      - hubieseis vivido
+    uds:
+      - hubieran vivido
+      - hubiesen vivido
+  imperativo:
+    tu: vive
+    vos: viví
+    ud: viva
+    nosotros: vivamos
+    vosotros: vidid
+    uds: vivan
+
+

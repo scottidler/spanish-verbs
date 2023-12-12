@@ -1,0 +1,144 @@
+hablar:
+  infinitivo: hablar
+  gerundio: hablando
+  participio-pasado: hablado
+  presente-indicativo:
+    yo: hablo
+    tu: hablas
+    vos: hablás
+    ud: habla
+    nosotros: hablamos
+    vosotros: habláis
+    uds: hablan
+  preterito-perfecto-simple:
+    yo: hablé
+    tu: hablaste
+    vos: hablaste
+    ud: habló
+    nosotros: hablamos
+    vosotros: hablasteis
+    uds: hablaron
+  preterito-imperfecto:
+    yo: hablaba
+    tu: hablabas
+    vos: hablabas
+    ud: hablaba
+    nosotros: hablábamos
+    vosotros: hablabais
+    uds: hablaban
+  futuro-simple:
+    yo: hablaré
+    tu: hablarás
+    vos: hablarás
+    ud: hablará
+    nosotros: hablaremos
+    vosotros: hablaréis
+    uds: hablarán
+  condicional-simple:
+    yo: hablaría
+    tu: hablarías
+    vos: hablarías
+    ud: hablaría
+    nosotros: hablaríamos
+    vosotros: hablaríais
+    uds: hablarían
+  presente-perfecto:
+    yo: he hablado
+    tu: has hablado
+    vos: has hablado
+    ud: ha hablado
+    nosotros: hemos hablado
+    vosotros: habéis hablado
+    uds: han hablado
+  preterito-pluscuamperfecto:
+    yo: había hablado
+    tu: habías hablado
+    vos: habías hablado
+    ud: había hablado
+    nosotros: habíamos hablado
+    vosotros: habíais hablado
+    uds: habían hablado
+  futuro-perfecto:
+    yo: habré hablado
+    tu: habrás hablado
+    vos: habrás hablado
+    ud: habrá hablado
+    nosotros: habremos hablado
+    vosotros: habréis hablado
+    uds: habrán hablado
+  condicional-perfecto:
+    yo: habría hablado
+    tu: habrías hablado
+    vos: habrías hablado
+    ud: habría hablado
+    nosotros: habríamos hablado
+    vosotros: habríais hablado
+    uds: habrían hablado
+  presente-subjuntivo:
+    yo: hable
+    tu: hables
+    vos: hables
+    ud: hable
+    nosotros: hablemos
+    vosotros: habléis
+    uds: hablen
+  preterito-perfecto-subjuntivo:
+    yo: haya hablado
+    tu: hayas hablado
+    vos: hayas hablado
+    ud: haya hablado
+    nosotros: hayamos hablado
+    vosotros: hayáis hablado
+    uds: hayan hablado
+  imperfecto-subjuntivo:
+    yo:
+      - hablara
+      - hablase
+    tu:
+      - hablaras
+      - hablases
+    vos:
+      - hablaras
+      - hablases
+    ud:
+      - hablara
+      - hablase
+    nosotros:
+      - habláramos
+      - hablásemos
+    vosotros:
+      - hablarais
+      - hablaseis
+    uds:
+      - hablaran
+      - hablasen
+  pluscuamperfecto-subjuntivo:
+    yo:
+      - hubiera hablado
+      - hubiese hablado
+    tu:
+      - hubieras hablado
+      - hubieses hablado
+    vos:
+      - hubieras hablado
+      - hubieses hablado
+    ud:
+      - hubiera hablado
+      - hubiese hablado
+    nosotros:
+      - hubiéramos hablado
+      - hubiésemos hablado
+    vosotros:
+      - hubierais hablado
+      - hubieseis hablado
+    uds:
+      - hubieran hablado
+      - hubiesen hablado
+  imperativo:
+    tu: habla
+    vos: hablá
+    ud: hable
+    nosotros: hablemos
+    vosotros: hablad
+    uds: hablen
+
