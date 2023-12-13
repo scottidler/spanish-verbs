@@ -1,0 +1,142 @@
+infinitivo: apoyar
+gerundio: apoyando
+participio-pasado: apoyado
+presente-indicativo:
+  yo: apoyo
+  tu: apoyas
+  vos: apoyas
+  ud: apoya
+  nosotros: apoyamos
+  vosotros: apoyáis
+  uds: apoyan
+preterito-perfecto-simple:
+  yo: apoyé
+  tu: apoyaste
+  vos: apoyaste
+  ud: apoyó
+  nosotros: apoyamos
+  vosotros: apoyasteis
+  uds: apoyaron
+preterito-imperfecto:
+  yo: apoyaba
+  tu: apoyabas
+  vos: apoyabas
+  ud: apoyaba
+  nosotros: apoyábamos
+  vosotros: apoyabais
+  uds: apoyaban
+futuro-simple:
+  yo: apoyaré
+  tu: apoyarás
+  vos: apoyarás
+  ud: apoyará
+  nosotros: apoyaremos
+  vosotros: apoyaréis
+  uds: apoyarán
+condicional-simple:
+  yo: apoyaría
+  tu: apoyarías
+  vos: apoyarías
+  ud: apoyaría
+  nosotros: apoyaríamos
+  vosotros: apoyaríais
+  uds: apoyarían
+presente-perfecto:
+  yo: he apoyado
+  tu: has apoyado
+  vos: has apoyado
+  ud: ha apoyado
+  nosotros: hemos apoyado
+  vosotros: habéis apoyado
+  uds: han apoyado
+preterito-pluscuamperfecto:
+  yo: había apoyado
+  tu: habías apoyado
+  vos: habías apoyado
+  ud: había apoyado
+  nosotros: habíamos apoyado
+  vosotros: habíais apoyado
+  uds: habían apoyado
+futuro-perfecto:
+  yo: habré apoyado
+  tu: habrás apoyado
+  vos: habrás apoyado
+  ud: habrá apoyado
+  nosotros: habremos apoyado
+  vosotros: habréis apoyado
+  uds: habrán apoyado
+condicional-perfecto:
+  yo: habría apoyado
+  tu: habrías apoyado
+  vos: habrías apoyado
+  ud: habría apoyado
+  nosotros: habríamos apoyado
+  vosotros: habríais apoyado
+  uds: habrían apoyado
+presente-subjuntivo:
+  yo: apoye
+  tu: apoyes
+  vos: apoyes
+  ud: apoye
+  nosotros: apoyemos
+  vosotros: apoyéis
+  uds: apoyen
+preterito-perfecto-subjuntivo:
+  yo: haya apoyado
+  tu: hayas apoyado
+  vos: hayas apoyado
+  ud: haya apoyado
+  nosotros: hayamos apoyado
+  vosotros: hayáis apoyado
+  uds: hayan apoyado
+imperfecto-subjuntivo:
+  yo: 
+    - apoyara
+    - apoyase
+  tu: 
+    - apoyaras
+    - apoyases
+  vos: 
+    - apoyaras
+    - apoyases
+  ud: 
+    - apoyara
+    - apoyase
+  nosotros:
+    - apoyáramos
+    - apoyásemos
+  vosotros:
+    - apoyarais
+    - apoyaseis
+  uds:
+    - apoyaran
+    - apoyasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apoyado
+    - hubiese apoyado
+  tu:
+    - hubieras apoyado
+    - hubieses apoyado
+  vos:
+    - hubieras apoyado
+    - hubieses apoyado
+  ud:
+    - hubiera apoyado
+    - hubiese apoyado
+  nosotros:
+    - hubiéramos apoyado
+    - hubiésemos apoyado
+  vosotros:
+    - hubierais apoyado
+    - hubieseis apoyado
+  uds:
+    - hubieran apoyado
+    - hubiesen apoyado
+imperativo:
+  tu: apoya
+  vos: apoyá
+  ud: apoye
+  nosotros: apoyemos
+  vosotros: apoyad
+  uds: apoyen

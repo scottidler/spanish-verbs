@@ -1,0 +1,156 @@
+infinitivo: rodear
+gerundio: rodeando
+participio-pasado: rodeado
+
+presente-indicativo:
+  yo: rodeo
+  tu: rodeas
+  vos: rodeas
+  ud: rodea
+  nosotros: rodeamos
+  vosotros: rodeáis
+  uds: rodean
+
+preterito-perfecto-simple:
+  yo: rodeé
+  tu: rodeaste
+  vos: rodeaste
+  ud: rodeó
+  nosotros: rodeamos
+  vosotros: rodeasteis
+  uds: rodearon
+
+preterito-imperfecto:
+  yo: rodeaba
+  tu: rodeabas
+  vos: rodeabas
+  ud: rodeaba
+  nosotros: rodeábamos
+  vosotros: rodeabais
+  uds: rodeaban
+
+futuro-simple:
+  yo: rodearé
+  tu: rodearás
+  vos: rodearás
+  ud: rodeará
+  nosotros: rodearemos
+  vosotros: rodearéis
+  uds: rodearán
+
+condicional-simple:
+  yo: rodearía
+  tu: rodearías
+  vos: rodearías
+  ud: rodearía
+  nosotros: rodearíamos
+  vosotros: rodearíais
+  uds: rodearían
+
+presente-perfecto:
+  yo: he rodeado
+  tu: has rodeado
+  vos: has rodeado
+  ud: ha rodeado
+  nosotros: hemos rodeado
+  vosotros: habéis rodeado
+  uds: han rodeado
+
+preterito-pluscuamperfecto:
+  yo: había rodeado
+  tu: habías rodeado
+  vos: habías rodeado
+  ud: había rodeado
+  nosotros: habíamos rodeado
+  vosotros: habíais rodeado
+  uds: habían rodeado
+
+futuro-perfecto:
+  yo: habré rodeado
+  tu: habrás rodeado
+  vos: habrás rodeado
+  ud: habrá rodeado
+  nosotros: habremos rodeado
+  vosotros: habréis rodeado
+  uds: habrán rodeado
+
+condicional-perfecto:
+  yo: habría rodeado
+  tu: habrías rodeado
+  vos: habrías rodeado
+  ud: habría rodeado
+  nosotros: habríamos rodeado
+  vosotros: habríais rodeado
+  uds: habrían rodeado
+
+presente-subjuntivo:
+  yo: rodee
+  tu: rodees
+  vos: rodees
+  ud: rodee
+  nosotros: rodeemos
+  vosotros: rodeéis
+  uds: rodeen
+
+preterito-perfecto-subjuntivo:
+  yo: haya rodeado
+  tu: hayas rodeado
+  vos: hayas rodeado
+  ud: haya rodeado
+  nosotros: hayamos rodeado
+  vosotros: hayáis rodeado
+  uds: hayan rodeado
+
+imperfecto-subjuntivo:
+  yo:
+    - rodeara
+    - rodease
+  tu:
+    - rodearas
+    - rodeases
+  vos:
+    - rodearas
+    - rodeases
+  ud:
+    - rodeara
+    - rodease
+  nosotros:
+    - rodeáramos
+    - rodeásemos
+  vosotros:
+    - rodearais
+    - rodeaseis
+  uds:
+    - rodearan
+    - rodeadan
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rodeado
+    - hubiese rodeado
+  tu:
+    - hubieras rodeado
+    - hubieses rodeado
+  vos:
+    - hubieras rodeado
+    - hubieses rodeado
+  ud:
+    - hubiera rodeado
+    - hubiese rodeado
+  nosotros:
+    - hubiéramos rodeado
+    - hubiésemos rodeado
+  vosotros:
+    - hubierais rodeado
+    - hubieseis rodeado
+  uds:
+    - hubieran rodeado
+    - hubiesen rodeado
+
+imperativo:
+  tu: rodea
+  vos: rodeá
+  ud: rodee
+  nosotros: rodeemos
+  vosotros: rodead
+  uds: rodeen

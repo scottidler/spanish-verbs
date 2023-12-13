@@ -1,0 +1,142 @@
+infinitivo: imaginar
+gerundio: imaginando
+participio-pasado: imaginado
+presente-indicativo:
+  yo: imagino
+  tu: imaginas
+  vos: imaginás
+  ud: imagina
+  nosotros: imaginamos
+  vosotros: imagináis
+  uds: imaginan
+preterito-perfecto-simple:
+  yo: imaginé
+  tu: imaginaste
+  vos: imaginaste
+  ud: imaginó
+  nosotros: imaginamos
+  vosotros: imaginasteis
+  uds: imaginaron
+preterito-imperfecto:
+  yo: imaginaba
+  tu: imaginabas
+  vos: imaginabas
+  ud: imaginaba
+  nosotros: imaginábamos
+  vosotros: imaginabais
+  uds: imaginaban
+futuro-simple:
+  yo: imaginaré
+  tu: imaginarás
+  vos: imaginarás
+  ud: imaginará
+  nosotros: imaginaremos
+  vosotros: imaginaréis
+  uds: imaginarán
+condicional-simple:
+  yo: imaginaría
+  tu: imaginarías
+  vos: imaginarías
+  ud: imaginaría
+  nosotros: imaginaríamos
+  vosotros: imaginaríais
+  uds: imaginarían
+presente-perfecto:
+  yo: he imaginado
+  tu: has imaginado
+  vos: has imaginado
+  ud: ha imaginado
+  nosotros: hemos imaginado
+  vosotros: habéis imaginado
+  uds: han imaginado
+preterito-pluscuamperfecto:
+  yo: había imaginado
+  tu: habías imaginado
+  vos: habías imaginado
+  ud: había imaginado
+  nosotros: habíamos imaginado
+  vosotros: habíais imaginado
+  uds: habían imaginado
+futuro-perfecto:
+  yo: habré imaginado
+  tu: habrás imaginado
+  vos: habrás imaginado
+  ud: habrá imaginado
+  nosotros: habremos imaginado
+  vosotros: habréis imaginado
+  uds: habrán imaginado
+condicional-perfecto:
+  yo: habría imaginado
+  tu: habrías imaginado
+  vos: habrías imaginado
+  ud: habría imaginado
+  nosotros: habríamos imaginado
+  vosotros: habríais imaginado
+  uds: habrían imaginado
+presente-subjuntivo:
+  yo: imagine
+  tu: imagines
+  vos: imagines
+  ud: imagine
+  nosotros: imaginemos
+  vosotros: imaginéis
+  uds: imaginen
+preterito-perfecto-subjuntivo:
+  yo: haya imaginado
+  tu: hayas imaginado
+  vos: hayas imaginado
+  ud: haya imaginado
+  nosotros: hayamos imaginado
+  vosotros: hayáis imaginado
+  uds: hayan imaginado
+imperfecto-subjuntivo:
+  yo:
+    - imaginara
+    - imaginase
+  tu:
+    - imaginaras
+    - imaginases
+  vos:
+    - imaginaras
+    - imaginases
+  ud:
+    - imaginara
+    - imaginase
+  nosotros:
+    - imagináramos
+    - imaginásemos
+  vosotros:
+    - imaginarais
+    - imaginaseis
+  uds:
+    - imaginaran
+    - imaginasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera imaginado
+    - hubiese imaginado
+  tu:
+    - hubieras imaginado
+    - hubieses imaginado
+  vos:
+    - hubieras imaginado
+    - hubieses imaginado
+  ud:
+    - hubiera imaginado
+    - hubiese imaginado
+  nosotros:
+    - hubiéramos imaginado
+    - hubiésemos imaginado
+  vosotros:
+    - hubierais imaginado
+    - hubieseis imaginado
+  uds:
+    - hubieran imaginado
+    - hubiesen imaginado
+imperativo:
+  tu: imagina
+  vos: imaginá
+  ud: imagine
+  nosotros: imaginemos
+  vosotros: imaginad
+  uds: imaginen

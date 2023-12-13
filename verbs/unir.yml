@@ -1,0 +1,142 @@
+infinitivo: unir
+gerundio: uniendo
+participio-pasado: unido
+presente-indicativo:
+  yo: uno
+  tu: unes
+  vos: unís
+  ud: une
+  nosotros: unimos
+  vosotros: unís
+  uds: unen
+preterito-perfecto-simple:
+  yo: uní
+  tu: uniste
+  vos: uniste
+  ud: unió
+  nosotros: unimos
+  vosotros: unisteis
+  uds: unieron
+preterito-imperfecto:
+  yo: unía
+  tu: unías
+  vos: unías
+  ud: unía
+  nosotros: uníamos
+  vosotros: uníais
+  uds: unían
+futuro-simple:
+  yo: uniré
+  tu: unirás
+  vos: unirás
+  ud: unirá
+  nosotros: uniremos
+  vosotros: uniréis
+  uds: unirán
+condicional-simple:
+  yo: uniría
+  tu: unirías
+  vos: unirías
+  ud: uniría
+  nosotros: uniríamos
+  vosotros: uniríais
+  uds: unirían
+presente-perfecto:
+  yo: he unido
+  tu: has unido
+  vos: has unido
+  ud: ha unido
+  nosotros: hemos unido
+  vosotros: habéis unido
+  uds: han unido
+preterito-pluscuamperfecto:
+  yo: había unido
+  tu: habías unido
+  vos: habías unido
+  ud: había unido
+  nosotros: habíamos unido
+  vosotros: habíais unido
+  uds: habían unido
+futuro-perfecto:
+  yo: habré unido
+  tu: habrás unido
+  vos: habrás unido
+  ud: habrá unido
+  nosotros: habremos unido
+  vosotros: habréis unido
+  uds: habrán unido
+condicional-perfecto:
+  yo: habría unido
+  tu: habrías unido
+  vos: habrías unido
+  ud: habría unido
+  nosotros: habríamos unido
+  vosotros: habríais unido
+  uds: habrían unido
+presente-subjuntivo:
+  yo: una
+  tu: unas
+  vos: unas
+  ud: una
+  nosotros: unamos
+  vosotros: unáis
+  uds: unan
+preterito-perfecto-subjuntivo:
+  yo: haya unido
+  tu: hayas unido
+  vos: hayas unido
+  ud: haya unido
+  nosotros: hayamos unido
+  vosotros: hayáis unido
+  uds: hayan unido
+imperfecto-subjuntivo:
+  yo:
+    - uniera
+    - uniese
+  tu:
+    - unieras
+    - unieses
+  vos:
+    - unieras
+    - unieses
+  ud:
+    - uniera
+    - uniese
+  nosotros:
+    - uniéramos
+    - uniésemos
+  vosotros:
+    - unierais
+    - unieseis
+  uds:
+    - unieran
+    - uniesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera unido
+    - hubiese unido
+  tu:
+    - hubieras unido
+    - hubieses unido
+  vos:
+    - hubieras unido
+    - hubieses unido
+  ud:
+    - hubiera unido
+    - hubiese unido
+  nosotros:
+    - hubiéramos unido
+    - hubiésemos unido
+  vosotros:
+    - hubierais unido
+    - hubieseis unido
+  uds:
+    - hubieran unido
+    - hubiesen unido
+imperativo:
+  tu: une
+  vos: uní
+  ud: una
+  nosotros: unamos
+  vosotros: unid
+  uds: unan

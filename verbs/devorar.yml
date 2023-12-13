@@ -1,0 +1,142 @@
+infinitivo: devorar
+gerundio: devorando
+participio-pasado: devorado
+presente-indicativo:
+  yo: devoro
+  tu: devoras
+  vos: devorás
+  ud: devora
+  nosotros: devoramos
+  vosotros: devoráis
+  uds: devoran
+preterito-perfecto-simple:
+  yo: devoré
+  tu: devoraste
+  vos: devoraste
+  ud: devoró
+  nosotros: devoramos
+  vosotros: devorasteis
+  uds: devoraron
+preterito-imperfecto:
+  yo: devoraba
+  tu: devorabas
+  vos: devorabas
+  ud: devoraba
+  nosotros: devorábamos
+  vosotros: devorabais
+  uds: devoraban
+futuro-simple:
+  yo: devoraré
+  tu: devorarás
+  vos: devorarás
+  ud: devorará
+  nosotros: devoraremos
+  vosotros: devoraréis
+  uds: devorarán
+condicional-simple:
+  yo: devoraría
+  tu: devorarías
+  vos: devorarías
+  ud: devoraría
+  nosotros: devoraríamos
+  vosotros: devoraríais
+  uds: devorarían
+presente-perfecto:
+  yo: he devorado
+  tu: has devorado
+  vos: has devorado
+  ud: ha devorado
+  nosotros: hemos devorado
+  vosotros: habéis devorado
+  uds: han devorado
+preterito-pluscuamperfecto:
+  yo: había devorado
+  tu: habías devorado
+  vos: habías devorado
+  ud: había devorado
+  nosotros: habíamos devorado
+  vosotros: habíais devorado
+  uds: habían devorado
+futuro-perfecto:
+  yo: habré devorado
+  tu: habrás devorado
+  vos: habrás devorado
+  ud: habrá devorado
+  nosotros: habremos devorado
+  vosotros: habréis devorado
+  uds: habrán devorado
+condicional-perfecto:
+  yo: habría devorado
+  tu: habrías devorado
+  vos: habrías devorado
+  ud: habría devorado
+  nosotros: habríamos devorado
+  vosotros: habríais devorado
+  uds: habrían devorado
+presente-subjuntivo:
+  yo: devore
+  tu: devores
+  vos: devores
+  ud: devore
+  nosotros: devoremos
+  vosotros: devoréis
+  uds: devoren
+preterito-perfecto-subjuntivo:
+  yo: haya devorado
+  tu: hayas devorado
+  vos: hayas devorado
+  ud: haya devorado
+  nosotros: hayamos devorado
+  vosotros: hayáis devorado
+  uds: hayan devorado
+imperfecto-subjuntivo:
+  yo:
+    - devorara
+    - devorase
+  tu:
+    - devoraras
+    - devorases
+  vos:
+    - devoraras
+    - devorases
+  ud:
+    - devorara
+    - devorase
+  nosotros:
+    - devoráramos
+    - devorásemos
+  vosotros:
+    - devorarais
+    - devoraseis
+  uds:
+    - devoraran
+    - devorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera devorado
+    - hubiese devorado
+  tu:
+    - hubieras devorado
+    - hubieses devorado
+  vos:
+    - hubieras devorado
+    - hubieses devorado
+  ud:
+    - hubiera devorado
+    - hubiese devorado
+  nosotros:
+    - hubiéramos devorado
+    - hubiésemos devorado
+  vosotros:
+    - hubierais devorado
+    - hubieseis devorado
+  uds:
+    - hubieran devorado
+    - hubiesen devorado
+imperativo:
+  tu: devora
+  vos: devorá
+  ud: devore
+  nosotros: devoremos
+  vosotros: devorad
+  uds: devoren

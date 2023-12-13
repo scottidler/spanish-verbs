@@ -1,0 +1,142 @@
+infinitivo: silbar
+gerundio: silbando
+participio-pasado: silbado
+presente-indicativo:
+  yo: silbo
+  tu: silbas
+  vos: silbás
+  ud: silba
+  nosotros: silbamos
+  vosotros: silbáis
+  uds: silban
+preterito-perfecto-simple:
+  yo: silbé
+  tu: silbaste
+  vos: silbaste
+  ud: silbó
+  nosotros: silbamos
+  vosotros: silbasteis
+  uds: silbaron
+preterito-imperfecto:
+  yo: silbaba
+  tu: silbabas
+  vos: silbabas
+  ud: silbaba
+  nosotros: silbábamos
+  vosotros: silbabais
+  uds: silbaban
+futuro-simple:
+  yo: silbaré
+  tu: silbarás
+  vos: silbarás
+  ud: silbará
+  nosotros: silbaremos
+  vosotros: silbaréis
+  uds: silbarán
+condicional-simple:
+  yo: silbaría
+  tu: silbarías
+  vos: silbarías
+  ud: silbaría
+  nosotros: silbaríamos
+  vosotros: silbaríais
+  uds: silbarían
+presente-perfecto:
+  yo: he silbado
+  tu: has silbado
+  vos: has silbado
+  ud: ha silbado
+  nosotros: hemos silbado
+  vosotros: habéis silbado
+  uds: han silbado
+preterito-pluscuamperfecto:
+  yo: había silbado
+  tu: habías silbado
+  vos: habías silbado
+  ud: había silbado
+  nosotros: habíamos silbado
+  vosotros: habíais silbado
+  uds: habían silbado
+futuro-perfecto:
+  yo: habré silbado
+  tu: habrás silbado
+  vos: habrás silbado
+  ud: habrá silbado
+  nosotros: habremos silbado
+  vosotros: habréis silbado
+  uds: habrán silbado
+condicional-perfecto:
+  yo: habría silbado
+  tu: habrías silbado
+  vos: habrías silbado
+  ud: habría silbado
+  nosotros: habríamos silbado
+  vosotros: habríais silbado
+  uds: habrían silbado
+presente-subjuntivo:
+  yo: silbe
+  tu: silbes
+  vos: silbes
+  ud: silbe
+  nosotros: silbemos
+  vosotros: silbéis
+  uds: silben
+preterito-perfecto-subjuntivo:
+  yo: haya silbado
+  tu: hayas silbado
+  vos: hayas silbado
+  ud: haya silbado
+  nosotros: hayamos silbado
+  vosotros: hayáis silbado
+  uds: hayan silbado
+imperfecto-subjuntivo:
+  yo:
+    - silbara
+    - silbase
+  tu:
+    - silbaras
+    - silbases
+  vos:
+    - silbaras
+    - silbases
+  ud:
+    - silbara
+    - silbase
+  nosotros:
+    - silbáramos
+    - silbásemos
+  vosotros:
+    - silbarais
+    - silbaseis
+  uds:
+    - silbaran
+    - silbasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera silbado
+    - hubiese silbado
+  tu:
+    - hubieras silbado
+    - hubieses silbado
+  vos:
+    - hubieras silbado
+    - hubieses silbado
+  ud:
+    - hubiera silbado
+    - hubiese silbado
+  nosotros:
+    - hubiéramos silbado
+    - hubiésemos silbado
+  vosotros:
+    - hubierais silbado
+    - hubieseis silbado
+  uds:
+    - hubieran silbado
+    - hubiesen silbado
+imperativo:
+  tu: silba
+  vos: silbá
+  ud: silbe
+  nosotros: silbemos
+  vosotros: silbad
+  uds: silben

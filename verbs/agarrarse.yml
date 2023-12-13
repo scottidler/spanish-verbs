@@ -1,0 +1,156 @@
+infinitivo: agarrarse
+gerundio: agarrándose
+participio-pasado: agarrado
+
+presente-indicativo:
+  yo: me agarro
+  tu: te agarras
+  vos: te agarrás
+  ud: se agarra
+  nosotros: nos agarramos
+  vosotros: os agarráis
+  uds: se agarran
+
+preterito-perfecto-simple:
+  yo: me agarré
+  tu: te agarraste
+  vos: te agarraste
+  ud: se agarró
+  nosotros: nos agarramos
+  vosotros: os agarrasteis
+  uds: se agarraron
+
+preterito-imperfecto:
+  yo: me agarraba
+  tu: te agarrabas
+  vos: te agarrabas
+  ud: se agarraba
+  nosotros: nos agarrábamos
+  vosotros: os agarrabais
+  uds: se agarraban
+
+futuro-simple:
+  yo: me agarraré
+  tu: te agarrarás
+  vos: te agarrarás
+  ud: se agarrará
+  nosotros: nos agarraremos
+  vosotros: os agarraréis
+  uds: se agarrarán
+
+condicional-simple:
+  yo: me agarraría
+  tu: te agarrarías
+  vos: te agarrarías
+  ud: se agarraría
+  nosotros: nos agarraríamos
+  vosotros: os agarraríais
+  uds: se agarrarían
+
+presente-perfecto:
+  yo: me he agarrado
+  tu: te has agarrado
+  vos: te has agarrado
+  ud: se ha agarrado
+  nosotros: nos hemos agarrado
+  vosotros: os habéis agarrado
+  uds: se han agarrado
+
+preterito-pluscuamperfecto:
+  yo: me había agarrado
+  tu: te habías agarrado
+  vos: te habías agarrado
+  ud: se había agarrado
+  nosotros: nos habíamos agarrado
+  vosotros: os habíais agarrado
+  uds: se habían agarrado
+
+futuro-perfecto:
+  yo: me habré agarrado
+  tu: te habrás agarrado
+  vos: te habrás agarrado
+  ud: se habrá agarrado
+  nosotros: nos habremos agarrado
+  vosotros: os habréis agarrado
+  uds: se habrán agarrado
+
+condicional-perfecto:
+  yo: me habría agarrado
+  tu: te habrías agarrado
+  vos: te habrías agarrado
+  ud: se habría agarrado
+  nosotros: nos habríamos agarrado
+  vosotros: os habríais agarrado
+  uds: se habrían agarrado
+
+presente-subjuntivo:
+  yo: me agarre
+  tu: te agarres
+  vos: te agarres
+  ud: se agarre
+  nosotros: nos agarremos
+  vosotros: os agarréis
+  uds: se agarren
+
+preterito-perfecto-subjuntivo:
+  yo: me haya agarrado
+  tu: te hayas agarrado
+  vos: te hayas agarrado
+  ud: se haya agarrado
+  nosotros: nos hayamos agarrado
+  vosotros: os hayáis agarrado
+  uds: se hayan agarrado
+
+imperfecto-subjuntivo:
+  yo:
+    - me agarrara
+    - me agarrase
+  tu:
+    - te agarraras
+    - te agarrases
+  vos:
+    - te agarraras
+    - te agarrases
+  ud:
+    - se agarrara
+    - se agarrase
+  nosotros:
+    - nos agarráramos
+    - nos agarrásemos
+  vosotros:
+    - os agarrarais
+    - os agarraseis
+  uds:
+    - se agarraran
+    - se agarrasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera agarrado
+    - me hubiese agarrado
+  tu:
+    - te hubieras agarrado
+    - te hubieses agarrado
+  vos:
+    - te hubieras agarrado
+    - te hubieses agarrado
+  ud:
+    - se hubiera agarrado
+    - se hubiese agarrado
+  nosotros:
+    - nos hubiéramos agarrado
+    - nos hubiésemos agarrado
+  vosotros:
+    - os hubierais agarrado
+    - os hubieseis agarrado
+  uds:
+    - se hubieran agarrado
+    - se hubiesen agarrado
+
+imperativo:
+  tu: átate
+  vos: átate
+  ud: átese
+  nosotros: atémonos
+  vosotros: ataos
+  uds: átense

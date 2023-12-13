@@ -1,0 +1,142 @@
+infinitivo: estar
+gerundio: estando
+participio-pasado: estado
+presente-indicativo:
+  yo: estoy
+  tu: estás
+  vos: estás
+  ud: está
+  nosotros: estamos
+  vosotros: estáis
+  uds: están
+preterito-perfecto-simple:
+  yo: estuve
+  tu: estuviste
+  vos: estuviste
+  ud: estuvo
+  nosotros: estuvimos
+  vosotros: estuvisteis
+  uds: estuvieron
+preterito-imperfecto:
+  yo: estaba
+  tu: estabas
+  vos: estabas
+  ud: estaba
+  nosotros: estábamos
+  vosotros: estabais
+  uds: estaban
+futuro-simple:
+  yo: estaré
+  tu: estarás
+  vos: estarás
+  ud: estará
+  nosotros: estaremos
+  vosotros: estaréis
+  uds: estarán
+condicional-simple:
+  yo: estaría
+  tu: estarías
+  vos: estarías
+  ud: estaría
+  nosotros: estaríamos
+  vosotros: estaríais
+  uds: estarían
+presente-perfecto:
+  yo: he estado
+  tu: has estado
+  vos: has estado
+  ud: ha estado
+  nosotros: hemos estado
+  vosotros: habéis estado
+  uds: han estado
+preterito-pluscuamperfecto:
+  yo: había estado
+  tu: habías estado
+  vos: habías estado
+  ud: había estado
+  nosotros: habíamos estado
+  vosotros: habíais estado
+  uds: habían estado
+futuro-perfecto:
+  yo: habré estado
+  tu: habrás estado
+  vos: habrás estado
+  ud: habrá estado
+  nosotros: habremos estado
+  vosotros: habréis estado
+  uds: habrán estado
+condicional-perfecto:
+  yo: habría estado
+  tu: habrías estado
+  vos: habrías estado
+  ud: habría estado
+  nosotros: habríamos estado
+  vosotros: habríais estado
+  uds: habrían estado
+presente-subjuntivo:
+  yo: esté
+  tu: estés
+  vos: estés
+  ud: esté
+  nosotros: estemos
+  vosotros: estéis
+  uds: estén
+preterito-perfecto-subjuntivo:
+  yo: haya estado
+  tu: hayas estado
+  vos: hayas estado
+  ud: haya estado
+  nosotros: hayamos estado
+  vosotros: hayáis estado
+  uds: hayan estado
+imperfecto-subjuntivo:
+  yo:
+    - estuviera
+    - estuviese
+  tu:
+    - estuvieras
+    - estuvieses
+  vos:
+    - estuvieras
+    - estuvieses
+  ud:
+    - estuviera
+    - estuviese
+  nosotros:
+    - estuviéramos
+    - estuviésemos
+  vosotros:
+    - estuvierais
+    - estuvieseis
+  uds:
+    - estuvieran
+    - estuviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estado
+    - hubiese estado
+  tu:
+    - hubieras estado
+    - hubieses estado
+  vos:
+    - hubieras estado
+    - hubieses estado
+  ud:
+    - hubiera estado
+    - hubiese estado
+  nosotros:
+    - hubiéramos estado
+    - hubiésemos estado
+  vosotros:
+    - hubierais estado
+    - hubieseis estado
+  uds:
+    - hubieran estado
+    - hubiesen estado
+imperativo:
+  tu: está
+  vos: estad
+  ud: esté
+  nosotros: estemos
+  vosotros: estad
+  uds: estén

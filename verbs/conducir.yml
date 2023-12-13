@@ -1,0 +1,142 @@
+infinitivo: conducir
+gerundio: conduciendo
+participio-pasado: conducido
+presente-indicativo:
+  yo: conduzco
+  tu: conduces
+  vos: conducís
+  ud: conduce
+  nosotros: conducimos
+  vosotros: conducís
+  uds: conducen
+preterito-perfecto-simple:
+  yo: conduje
+  tu: condujiste
+  vos: condujiste
+  ud: condujo
+  nosotros: condujimos
+  vosotros: condujisteis
+  uds: condujeron
+preterito-imperfecto:
+  yo: conducía
+  tu: conducías
+  vos: conducías
+  ud: conducía
+  nosotros: conducíamos
+  vosotros: conducíais
+  uds: conducían
+futuro-simple:
+  yo: conduciré
+  tu: conducirás
+  vos: conducirás
+  ud: conducirá
+  nosotros: conduciremos
+  vosotros: conduciréis
+  uds: conducirán
+condicional-simple:
+  yo: conduciría
+  tu: conducirías
+  vos: conducirías
+  ud: conduciría
+  nosotros: conduciríamos
+  vosotros: conduciríais
+  uds: conducirían
+presente-perfecto:
+  yo: he conducido
+  tu: has conducido
+  vos: has conducido
+  ud: ha conducido
+  nosotros: hemos conducido
+  vosotros: habéis conducido
+  uds: han conducido
+preterito-pluscuamperfecto:
+  yo: había conducido
+  tu: habías conducido
+  vos: habías conducido
+  ud: había conducido
+  nosotros: habíamos conducido
+  vosotros: habíais conducido
+  uds: habían conducido
+futuro-perfecto:
+  yo: habré conducido
+  tu: habrás conducido
+  vos: habrás conducido
+  ud: habrá conducido
+  nosotros: habremos conducido
+  vosotros: habréis conducido
+  uds: habrán conducido
+condicional-perfecto:
+  yo: habría conducido
+  tu: habrías conducido
+  vos: habrías conducido
+  ud: habría conducido
+  nosotros: habríamos conducido
+  vosotros: habríais conducido
+  uds: habrían conducido
+presente-subjuntivo:
+  yo: conduzca
+  tu: conduzcas
+  vos: conduzcas
+  ud: conduzca
+  nosotros: conduzcamos
+  vosotros: conduzcáis
+  uds: conduzcan
+preterito-perfecto-subjuntivo:
+  yo: haya conducido
+  tu: hayas conducido
+  vos: hayas conducido
+  ud: haya conducido
+  nosotros: hayamos conducido
+  vosotros: hayáis conducido
+  uds: hayan conducido
+imperfecto-subjuntivo:
+  yo:
+    - condujera
+    - condujese
+  tu:
+    - condujeras
+    - condujeses
+  vos:
+    - condujeras
+    - condujeses
+  ud:
+    - condujera
+    - condujese
+  nosotros:
+    - condujéramos
+    - condujésemos
+  vosotros:
+    - condujerais
+    - condujeseis
+  uds:
+    - condujeran
+    - condujesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conducido
+    - hubiese conducido
+  tu:
+    - hubieras conducido
+    - hubieses conducido
+  vos:
+    - hubieras conducido
+    - hubieses conducido
+  ud:
+    - hubiera conducido
+    - hubiese conducido
+  nosotros:
+    - hubiéramos conducido
+    - hubiésemos conducido
+  vosotros:
+    - hubierais conducido
+    - hubieseis conducido
+  uds:
+    - hubieran conducido
+    - hubiesen conducido
+imperativo:
+  tu: conduce
+  vos: conducí
+  ud: conduzca
+  nosotros: conduzcamos
+  vosotros: conducid
+  uds: conduzcan

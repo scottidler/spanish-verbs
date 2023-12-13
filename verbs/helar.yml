@@ -1,0 +1,142 @@
+infinitivo: helar
+gerundio: helando
+participio-pasado: helado
+presente-indicativo:
+  yo: hielo
+  tu: hiela
+  vos: hiela
+  ud: hiela
+  nosotros: helamos
+  vosotros: heláis
+  uds: hielan
+preterito-perfecto-simple:
+  yo: helé
+  tu: helaste
+  vos: helaste
+  ud: heló
+  nosotros: helamos
+  vosotros: helasteis
+  uds: helaron
+preterito-imperfecto:
+  yo: helaba
+  tu: helabas
+  vos: helabas
+  ud: helaba
+  nosotros: helábamos
+  vosotros: helabais
+  uds: helaban
+futuro-simple:
+  yo: helaré
+  tu: helarás
+  vos: helarás
+  ud: helará
+  nosotros: helaremos
+  vosotros: helaréis
+  uds: helarán
+condicional-simple:
+  yo: helaría
+  tu: helarías
+  vos: helarías
+  ud: helaría
+  nosotros: helaríamos
+  vosotros: helaríais
+  uds: helarían
+presente-perfecto:
+  yo: he helado
+  tu: has helado
+  vos: has helado
+  ud: ha helado
+  nosotros: hemos helado
+  vosotros: habéis helado
+  uds: han helado
+preterito-pluscuamperfecto:
+  yo: había helado
+  tu: habías helado
+  vos: habías helado
+  ud: había helado
+  nosotros: habíamos helado
+  vosotros: habíais helado
+  uds: habían helado
+futuro-perfecto:
+  yo: habré helado
+  tu: habrás helado
+  vos: habrás helado
+  ud: habrá helado
+  nosotros: habremos helado
+  vosotros: habréis helado
+  uds: habrán helado
+condicional-perfecto:
+  yo: habría helado
+  tu: habrías helado
+  vos: habrías helado
+  ud: habría helado
+  nosotros: habríamos helado
+  vosotros: habríais helado
+  uds: habrían helado
+presente-subjuntivo:
+  yo: hiele
+  tu: hieles
+  vos: hieles
+  ud: hiele
+  nosotros: hielemos
+  vosotros: heléis
+  uds: hielen
+preterito-perfecto-subjuntivo:
+  yo: haya helado
+  tu: hayas helado
+  vos: hayas helado
+  ud: haya helado
+  nosotros: hayamos helado
+  vosotros: hayáis helado
+  uds: hayan helado
+imperfecto-subjuntivo:
+  yo:
+    - helara
+    - helase
+  tu:
+    - halaras
+    - halses
+  vos:
+    - halaras
+    - halses
+  ud:
+    - helara
+    - helase
+  nosotros:
+    - heláramos
+    - helásemos
+  vosotros:
+    - halarais
+    - halseseis
+  uds:
+    - halaran
+    - halsesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera helado
+    - hubiese helado
+  tu:
+    - hubieras helado
+    - hubieses helado
+  vos:
+    - hubieras helado
+    - hubieses helado
+  ud:
+    - hubiera helado
+    - hubiese helado
+  nosotros:
+    - hubiéramos helado
+    - hubiésemos helado
+  vosotros:
+    - hubierais helado
+    - hubieseis helado
+  uds:
+    - hubieran helado
+    - hubiesen helado
+imperativo:
+  tu: hiela
+  vos: hiela
+  ud: hiele
+  nosotros: hielemos
+  vosotros: helad
+  uds: hielen

@@ -1,0 +1,142 @@
+infinitivo: poseer
+gerundio: poseyendo
+participio-pasado: poseído
+presente-indicativo:
+  yo: poseo
+  tu: posees
+  vos: poseés
+  ud: posee
+  nosotros: poseemos
+  vosotros: poseéis
+  uds: poseen
+preterito-perfecto-simple:
+  yo: poseí
+  tu: poseíste
+  vos: poseíste
+  ud: poseyó
+  nosotros: poseímos
+  vosotros: poseísteis
+  uds: poseyeron
+preterito-imperfecto:
+  yo: poseía
+  tu: poseías
+  vos: poseías
+  ud: poseía
+  nosotros: poseíamos
+  vosotros: poseíais
+  uds: poseían
+futuro-simple:
+  yo: poseeré
+  tu: poseerás
+  vos: poseerás
+  ud: poseerá
+  nosotros: poseeremos
+  vosotros: poseeréis
+  uds: poseerán
+condicional-simple:
+  yo: poseería
+  tu: poseerías
+  vos: poseerías
+  ud: poseería
+  nosotros: poseeríamos
+  vosotros: poseeríais
+  uds: poseerían
+presente-perfecto:
+  yo: he poseído
+  tu: has poseído
+  vos: has poseído
+  ud: ha poseído
+  nosotros: hemos poseído
+  vosotros: habéis poseído
+  uds: han poseído
+preterito-pluscuamperfecto:
+  yo: había poseído
+  tu: habías poseído
+  vos: habías poseído
+  ud: había poseído
+  nosotros: habíamos poseído
+  vosotros: habíais poseído
+  uds: habían poseído
+futuro-perfecto:
+  yo: habré poseído
+  tu: habrás poseído
+  vos: habrás poseído
+  ud: habrá poseído
+  nosotros: habremos poseído
+  vosotros: habréis poseído
+  uds: habrán poseído
+condicional-perfecto:
+  yo: habría poseído
+  tu: habrías poseído
+  vos: habrías poseído
+  ud: habría poseído
+  nosotros: habríamos poseído
+  vosotros: habríais poseído
+  uds: habrían poseído
+presente-subjuntivo:
+  yo: posea
+  tu: poseas
+  vos: poseas
+  ud: posea
+  nosotros: poseamos
+  vosotros: poseáis
+  uds: posean
+preterito-perfecto-subjuntivo:
+  yo: haya poseído
+  tu: hayas poseído
+  vos: hayas poseído
+  ud: haya poseído
+  nosotros: hayamos poseído
+  vosotros: hayáis poseído
+  uds: hayan poseído
+imperfecto-subjuntivo:
+  yo:
+    - poseyera
+    - poseyese
+  tu:
+    - poseyeras
+    - poseyeses
+  vos:
+    - poseyeras
+    - poseyeses
+  ud:
+    - poseyera
+    - poseyese
+  nosotros:
+    - poseyéramos
+    - poseyésemos
+  vosotros:
+    - poseyerais
+    - poseyeseis
+  uds:
+    - poseyeran
+    - poseyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera poseído
+    - hubiese poseído
+  tu:
+    - hubieras poseído
+    - hubieses poseído
+  vos:
+    - hubieras poseído
+    - hubieses poseído
+  ud:
+    - hubiera poseído
+    - hubiese poseído
+  nosotros:
+    - hubiéramos poseído
+    - hubiésemos poseído
+  vosotros:
+    - hubierais poseído
+    - hubieseis poseído
+  uds:
+    - hubieran poseído
+    - hubiesen poseído
+imperativo:
+  tu: posee
+  vos: poseé
+  ud: posea
+  nosotros: poseamos
+  vosotros: posed
+  uds: posean

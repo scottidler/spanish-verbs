@@ -1,0 +1,156 @@
+infinitivo: pronunciar
+gerundio: pronunciando
+participio-pasado: pronunciado
+
+presente-indicativo:
+  yo: pronuncio
+  tu: pronuncias
+  vos: pronuncias
+  ud: pronuncia
+  nosotros: pronunciamos
+  vosotros: pronunciáis
+  uds: pronuncian
+
+preterito-perfecto-simple:
+  yo: pronuncié
+  tu: pronunciaste
+  vos: pronunciaste
+  ud: pronunció
+  nosotros: pronunciamos
+  vosotros: pronunciasteis
+  uds: pronunciaron
+
+preterito-imperfecto:
+  yo: pronunciaba
+  tu: pronunciabas
+  vos: pronunciabas
+  ud: pronunciaba
+  nosotros: pronunciábamos
+  vosotros: pronunciabais
+  uds: pronunciaban
+
+futuro-simple:
+  yo: pronunciaré
+  tu: pronunciarás
+  vos: pronunciarás
+  ud: pronunciará
+  nosotros: pronunciaremos
+  vosotros: pronunciaréis
+  uds: pronunciarán
+
+condicional-simple:
+  yo: pronunciaría
+  tu: pronunciarías
+  vos: pronunciarías
+  ud: pronunciaría
+  nosotros: pronunciaríamos
+  vosotros: pronunciaríais
+  uds: pronunciarían
+
+presente-perfecto:
+  yo: he pronunciado
+  tu: has pronunciado
+  vos: has pronunciado
+  ud: ha pronunciado
+  nosotros: hemos pronunciado
+  vosotros: habéis pronunciado
+  uds: han pronunciado
+
+preterito-pluscuamperfecto:
+  yo: había pronunciado
+  tu: habías pronunciado
+  vos: habías pronunciado
+  ud: había pronunciado
+  nosotros: habíamos pronunciado
+  vosotros: habíais pronunciado
+  uds: habían pronunciado
+
+futuro-perfecto:
+  yo: habré pronunciado
+  tu: habrás pronunciado
+  vos: habrás pronunciado
+  ud: habrá pronunciado
+  nosotros: habremos pronunciado
+  vosotros: habréis pronunciado
+  uds: habrán pronunciado
+
+condicional-perfecto:
+  yo: habría pronunciado
+  tu: habrías pronunciado
+  vos: habrías pronunciado
+  ud: habría pronunciado
+  nosotros: habríamos pronunciado
+  vosotros: habríais pronunciado
+  uds: habrían pronunciado
+
+presente-subjuntivo:
+  yo: pronuncie
+  tu: pronuncies
+  vos: pronuncies
+  ud: pronuncie
+  nosotros: pronunciemos
+  vosotros: pronunciéis
+  uds: pronuncien
+
+preterito-perfecto-subjuntivo:
+  yo: haya pronunciado
+  tu: hayas pronunciado
+  vos: hayas pronunciado
+  ud: haya pronunciado
+  nosotros: hayamos pronunciado
+  vosotros: hayáis pronunciado
+  uds: hayan pronunciado
+
+imperfecto-subjuntivo:
+  yo:
+    - pronunciara
+    - pronunciase
+  tu:
+    - pronunciaras
+    - pronunciases
+  vos:
+    - pronunciaras
+    - pronunciases
+  ud:
+    - pronunciara
+    - pronunciase
+  nosotros:
+    - pronunciáramos
+    - pronunciásemos
+  vosotros:
+    - pronunciarais
+    - pronunciaseis
+  uds:
+    - pronunciaran
+    - pronunciasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pronunciado
+    - hubiese pronunciado
+  tu:
+    - hubieras pronunciado
+    - hubieses pronunciado
+  vos:
+    - hubieras pronunciado
+    - hubieses pronunciado
+  ud:
+    - hubiera pronunciado
+    - hubiese pronunciado
+  nosotros:
+    - hubiéramos pronunciado
+    - hubiésemos pronunciado
+  vosotros:
+    - hubierais pronunciado
+    - hubieseis pronunciado
+  uds:
+    - hubieran pronunciado
+    - hubiesen pronunciado
+
+imperativo:
+  tu: pronuncia
+  vos: pronunciá
+  ud: pronuncie
+  nosotros: pronunciemos
+  vosotros: pronunciad
+  uds: pronuncien

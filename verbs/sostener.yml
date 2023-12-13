@@ -1,0 +1,142 @@
+infinitivo: sostener
+gerundio: sosteniendo
+participio-pasado: sostenido
+presente-indicativo:
+  yo: sostengo
+  tu: sostienes
+  vos: sostenés
+  ud: sostiene
+  nosotros: sostenemos
+  vosotros: sostenéis
+  uds: sostienen
+preterito-perfecto-simple:
+  yo: sostuve
+  tu: sostuviste
+  vos: sostuviste
+  ud: sostuvo
+  nosotros: sostuvimos
+  vosotros: sostuvisteis
+  uds: sostuvieron
+preterito-imperfecto:
+  yo: sostenía
+  tu: sostenías
+  vos: sostenías
+  ud: sostenía
+  nosotros: sosteníamos
+  vosotros: sosteníais
+  uds: sostenían
+futuro-simple:
+  yo: sostendré
+  tu: sostendrás
+  vos: sostendrás
+  ud: sostendrá
+  nosotros: sostendremos
+  vosotros: sostendréis
+  uds: sostendrán
+condicional-simple:
+  yo: sostendría
+  tu: sostendrías
+  vos: sostendrías
+  ud: sostendría
+  nosotros: sostendríamos
+  vosotros: sostendríais
+  uds: sostendrían
+presente-perfecto:
+  yo: he sostenido
+  tu: has sostenido
+  vos: has sostenido
+  ud: ha sostenido
+  nosotros: hemos sostenido
+  vosotros: habéis sostenido
+  uds: han sostenido
+preterito-pluscuamperfecto:
+  yo: había sostenido
+  tu: habías sostenido
+  vos: habías sostenido
+  ud: había sostenido
+  nosotros: habíamos sostenido
+  vosotros: habíais sostenido
+  uds: habían sostenido
+futuro-perfecto:
+  yo: habré sostenido
+  tu: habrás sostenido
+  vos: habrás sostenido
+  ud: habrá sostenido
+  nosotros: habremos sostenido
+  vosotros: habréis sostenido
+  uds: habrán sostenido
+condicional-perfecto:
+  yo: habría sostenido
+  tu: habrías sostenido
+  vos: habrías sostenido
+  ud: habría sostenido
+  nosotros: habríamos sostenido
+  vosotros: habríais sostenido
+  uds: habrían sostenido
+presente-subjuntivo:
+  yo: sostenga
+  tu: sostengas
+  vos: sostengas
+  ud: sostenga
+  nosotros: sostengamos
+  vosotros: sostengáis
+  uds: sostengan
+preterito-perfecto-subjuntivo:
+  yo: haya sostenido
+  tu: hayas sostenido
+  vos: hayas sostenido
+  ud: haya sostenido
+  nosotros: hayamos sostenido
+  vosotros: hayáis sostenido
+  uds: hayan sostenido
+imperfecto-subjuntivo:
+  yo:
+    - sostuviera
+    - sostuviese
+  tu:
+    - sostuvieras
+    - sostuvieses
+  vos:
+    - sostuvieras
+    - sostuvieses
+  ud:
+    - sostuviera
+    - sostuviese
+  nosotros:
+    - sostuviéramos
+    - sostuviésemos
+  vosotros:
+    - sostuvierais
+    - sostuvieseis
+  uds:
+    - sostuvieran
+    - sostuviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sostenido
+    - hubiese sostenido
+  tu:
+    - hubieras sostenido
+    - hubieses sostenido
+  vos:
+    - hubieras sostenido
+    - hubieses sostenido
+  ud:
+    - hubiera sostenido
+    - hubiese sostenido
+  nosotros:
+    - hubiéramos sostenido
+    - hubiésemos sostenido
+  vosotros:
+    - hubierais sostenido
+    - hubieseis sostenido
+  uds:
+    - hubieran sostenido
+    - hubiesen sostenido
+imperativo:
+  tu: sostén
+  vos: sostené
+  ud: sostenga
+  nosotros: sostengamos
+  vosotros: sostened
+  uds: sostengan

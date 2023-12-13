@@ -1,0 +1,142 @@
+infinitivo: creer
+gerundio: creyendo
+participio-pasado: creído
+presente-indicativo:
+  yo: creo
+  tu: crees
+  vos: crees
+  ud: cree
+  nosotros: creemos
+  vosotros: creéis
+  uds: creen
+preterito-perfecto-simple:
+  yo: creí
+  tu: creíste
+  vos: creíste
+  ud: creyó
+  nosotros: creímos
+  vosotros: creísteis
+  uds: creyeron
+preterito-imperfecto:
+  yo: creía
+  tu: creías
+  vos: creías
+  ud: creía
+  nosotros: creíamos
+  vosotros: creíais
+  uds: creían
+futuro-simple:
+  yo: creeré
+  tu: creerás
+  vos: creerás
+  ud: creerá
+  nosotros: creeremos
+  vosotros: creeréis
+  uds: creerán
+condicional-simple:
+  yo: creería
+  tu: creerías
+  vos: creerías
+  ud: creería
+  nosotros: creeríamos
+  vosotros: creeríais
+  uds: creerían
+presente-perfecto:
+  yo: he creído
+  tu: has creído
+  vos: has creído
+  ud: ha creído
+  nosotros: hemos creído
+  vosotros: habéis creído
+  uds: han creído
+preterito-pluscuamperfecto:
+  yo: había creído
+  tu: habías creído
+  vos: habías creído
+  ud: había creído
+  nosotros: habíamos creído
+  vosotros: habíais creído
+  uds: habían creído
+futuro-perfecto:
+  yo: habré creído
+  tu: habrás creído
+  vos: habrás creído
+  ud: habrá creído
+  nosotros: habremos creído
+  vosotros: habréis creído
+  uds: habrán creído
+condicional-perfecto:
+  yo: habría creído
+  tu: habrías creído
+  vos: habrías creído
+  ud: habría creído
+  nosotros: habríamos creído
+  vosotros: habríais creído
+  uds: habrían creído
+presente-subjuntivo:
+  yo: crea
+  tu: creas
+  vos: creas
+  ud: crea
+  nosotros: creamos
+  vosotros: creáis
+  uds: crean
+preterito-perfecto-subjuntivo:
+  yo: haya creído
+  tu: hayas creído
+  vos: hayas creído
+  ud: haya creído
+  nosotros: hayamos creído
+  vosotros: hayáis creído
+  uds: hayan creído
+imperfecto-subjuntivo:
+  yo:
+    - creyera
+    - creyese
+  tu:
+    - creyeras
+    - creyeses
+  vos:
+    - creyeras
+    - creyeses
+  ud:
+    - creyera
+    - creyese
+  nosotros:
+    - creyéramos
+    - creyésemos
+  vosotros:
+    - creyerais
+    - creyeseis
+  uds:
+    - creyeran
+    - creyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera creído
+    - hubiese creído
+  tu:
+    - hubieras creído
+    - hubieses creído
+  vos:
+    - hubieras creído
+    - hubieses creído
+  ud:
+    - hubiera creído
+    - hubiese creído
+  nosotros:
+    - hubiéramos creído
+    - hubiésemos creído
+  vosotros:
+    - hubierais creído
+    - hubieseis creído
+  uds:
+    - hubieran creído
+    - hubiesen creído
+imperativo:
+  tu: cree
+  vos: cree
+  ud: crea
+  nosotros: creamos
+  vosotros: creed
+  uds: crean

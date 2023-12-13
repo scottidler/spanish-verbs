@@ -1,0 +1,142 @@
+infinitivo: retirar
+gerundio: retirando
+participio-pasado: retirado
+presente-indicativo:
+  yo: retiro
+  tu: retiras
+  vos: retiras
+  ud: retira
+  nosotros: retiramos
+  vosotros: retiráis
+  uds: retiran
+preterito-perfecto-simple:
+  yo: retiré
+  tu: retiraste
+  vos: retiraste
+  ud: retiró
+  nosotros: retiramos
+  vosotros: retirasteis
+  uds: retiraron
+preterito-imperfecto:
+  yo: retiraba
+  tu: retirabas
+  vos: retirabas
+  ud: retiraba
+  nosotros: retirábamos
+  vosotros: retirabais
+  uds: retiraban
+futuro-simple:
+  yo: retiraré
+  tu: retirarás
+  vos: retirarás
+  ud: retirará
+  nosotros: retiraremos
+  vosotros: retiraréis
+  uds: retirarán
+condicional-simple:
+  yo: retiraría
+  tu: retirarías
+  vos: retirarías
+  ud: retiraría
+  nosotros: retiraríamos
+  vosotros: retiraríais
+  uds: retirarían
+presente-perfecto:
+  yo: he retirado
+  tu: has retirado
+  vos: has retirado
+  ud: ha retirado
+  nosotros: hemos retirado
+  vosotros: habéis retirado
+  uds: han retirado
+preterito-pluscuamperfecto:
+  yo: había retirado
+  tu: habías retirado
+  vos: habías retirado
+  ud: había retirado
+  nosotros: habíamos retirado
+  vosotros: habíais retirado
+  uds: habían retirado
+futuro-perfecto:
+  yo: habré retirado
+  tu: habrás retirado
+  vos: habrás retirado
+  ud: habrá retirado
+  nosotros: habremos retirado
+  vosotros: habréis retirado
+  uds: habrán retirado
+condicional-perfecto:
+  yo: habría retirado
+  tu: habrías retirado
+  vos: habrías retirado
+  ud: habría retirado
+  nosotros: habríamos retirado
+  vosotros: habríais retirado
+  uds: habrían retirado
+presente-subjuntivo:
+  yo: retire
+  tu: retires
+  vos: retires
+  ud: retire
+  nosotros: retiremos
+  vosotros: retiréis
+  uds: retiren
+preterito-perfecto-subjuntivo:
+  yo: haya retirado
+  tu: hayas retirado
+  vos: hayas retirado
+  ud: haya retirado
+  nosotros: hayamos retirado
+  vosotros: hayáis retirado
+  uds: hayan retirado
+imperfecto-subjuntivo:
+  yo:
+    - retirara
+    - retirase
+  tu:
+    - retiraras
+    - retirases
+  vos:
+    - retiraras
+    - retirases
+  ud:
+    - retirara
+    - retirase
+  nosotros:
+    - retiráramos
+    - retirásemos
+  vosotros:
+    - retirarais
+    - retiraseis
+  uds:
+    - retiraran
+    - retirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera retirado
+    - hubiese retirado
+  tu:
+    - hubieras retirado
+    - hubieses retirado
+  vos:
+    - hubieras retirado
+    - hubieses retirado
+  ud:
+    - hubiera retirado
+    - hubiese retirado
+  nosotros:
+    - hubiéramos retirado
+    - hubiésemos retirado
+  vosotros:
+    - hubierais retirado
+    - hubieseis retirado
+  uds:
+    - hubieran retirado
+    - hubiesen retirado
+imperativo:
+  tu: retira
+  vos: retirá
+  ud: retire
+  nosotros: retiremos
+  vosotros: retirad
+  uds: retiren

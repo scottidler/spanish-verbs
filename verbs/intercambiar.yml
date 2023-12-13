@@ -1,0 +1,142 @@
+infinitivo: intercambiar
+gerundio: intercambiando
+participio-pasado: intercambiado
+presente-indicativo:
+  yo: intercambio
+  tu: intercambias
+  vos: intercambiás
+  ud: intercambia
+  nosotros: intercambiamos
+  vosotros: intercambiáis
+  uds: intercambian
+preterito-perfecto-simple:
+  yo: intercambié
+  tu: intercambiaste
+  vos: intercambiaste
+  ud: intercambió
+  nosotros: intercambiamos
+  vosotros: intercambiasteis
+  uds: intercambiaron
+preterito-imperfecto:
+  yo: intercambiaba
+  tu: intercambiabas
+  vos: intercambiabas
+  ud: intercambiaba
+  nosotros: intercambiábamos
+  vosotros: intercambiabais
+  uds: intercambiaban
+futuro-simple:
+  yo: intercambiaré
+  tu: intercambiarás
+  vos: intercambiarás
+  ud: intercambiará
+  nosotros: intercambiaremos
+  vosotros: intercambiaréis
+  uds: intercambiarán
+condicional-simple:
+  yo: intercambiaría
+  tu: intercambiarías
+  vos: intercambiarías
+  ud: intercambiaría
+  nosotros: intercambiaríamos
+  vosotros: intercambiaríais
+  uds: intercambiarían
+presente-perfecto:
+  yo: he intercambiado
+  tu: has intercambiado
+  vos: has intercambiado
+  ud: ha intercambiado
+  nosotros: hemos intercambiado
+  vosotros: habéis intercambiado
+  uds: han intercambiado
+preterito-pluscuamperfecto:
+  yo: había intercambiado
+  tu: habías intercambiado
+  vos: habías intercambiado
+  ud: había intercambiado
+  nosotros: habíamos intercambiado
+  vosotros: habíais intercambiado
+  uds: habían intercambiado
+futuro-perfecto:
+  yo: habré intercambiado
+  tu: habrás intercambiado
+  vos: habrás intercambiado
+  ud: habrá intercambiado
+  nosotros: habremos intercambiado
+  vosotros: habréis intercambiado
+  uds: habrán intercambiado
+condicional-perfecto:
+  yo: habría intercambiado
+  tu: habrías intercambiado
+  vos: habrías intercambiado
+  ud: habría intercambiado
+  nosotros: habríamos intercambiado
+  vosotros: habríais intercambiado
+  uds: habrían intercambiado
+presente-subjuntivo:
+  yo: intercambie
+  tu: intercambies
+  vos: intercambies
+  ud: intercambie
+  nosotros: intercambiemos
+  vosotros: intercambiéis
+  uds: intercambien
+preterito-perfecto-subjuntivo:
+  yo: haya intercambiado
+  tu: hayas intercambiado
+  vos: hayas intercambiado
+  ud: haya intercambiado
+  nosotros: hayamos intercambiado
+  vosotros: hayáis intercambiado
+  uds: hayan intercambiado
+imperfecto-subjuntivo:
+  yo:
+    - intercambiara
+    - intercambiase
+  tu:
+    - intercambiaras
+    - intercambiases
+  vos:
+    - intercambiaras
+    - intercambiases
+  ud:
+    - intercambiara
+    - intercambiase
+  nosotros:
+    - intercambiáramos
+    - intercambiásemos
+  vosotros:
+    - intercambiarais
+    - intercambiaseis
+  uds:
+    - intercambiaran
+    - intercambiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera intercambiado
+    - hubiese intercambiado
+  tu:
+    - hubieras intercambiado
+    - hubieses intercambiado
+  vos:
+    - hubieras intercambiado
+    - hubieses intercambiado
+  ud:
+    - hubiera intercambiado
+    - hubiese intercambiado
+  nosotros:
+    - hubiéramos intercambiado
+    - hubiésemos intercambiado
+  vosotros:
+    - hubierais intercambiado
+    - hubieseis intercambiado
+  uds:
+    - hubieran intercambiado
+    - hubiesen intercambiado  
+imperativo:
+  tu: intercambia
+  vos: intercambiá
+  ud: intercambie
+  nosotros: intercambiemos
+  vosotros: intercambiad
+  uds: intercambien

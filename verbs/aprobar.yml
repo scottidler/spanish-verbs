@@ -1,0 +1,142 @@
+infinitivo: aprobar
+gerundio: aprobando
+participio-pasado: aprobado
+presente-indicativo:
+  yo: apruebo
+  tu: apruebas
+  vos: apruebás
+  ud: aprueba
+  nosotros: aprobamos
+  vosotros: aprobáis
+  uds: aprueban
+preterito-perfecto-simple:
+  yo: aprobé
+  tu: aprobaste
+  vos: aprobaste
+  ud: aprobó
+  nosotros: aprobamos
+  vosotros: aprobasteis
+  uds: aprobaron
+preterito-imperfecto:
+  yo: aprobaba
+  tu: aprobabas
+  vos: aprobabas
+  ud: aprobaba
+  nosotros: aprobábamos
+  vosotros: aprobabais
+  uds: aprobaban
+futuro-simple:
+  yo: aprobaré
+  tu: aprobarás
+  vos: aprobarás
+  ud: aprobará
+  nosotros: aprobaremos
+  vosotros: aprobaréis
+  uds: aprobarán
+condicional-simple:
+  yo: aprobaría
+  tu: aprobarías
+  vos: aprobarías
+  ud: aprobaría
+  nosotros: aprobaríamos
+  vosotros: aprobaríais
+  uds: aprobarían
+presente-perfecto:
+  yo: he aprobado
+  tu: has aprobado
+  vos: has aprobado
+  ud: ha aprobado
+  nosotros: hemos aprobado
+  vosotros: habéis aprobado
+  uds: han aprobado
+preterito-pluscuamperfecto:
+  yo: había aprobado
+  tu: habías aprobado
+  vos: habías aprobado
+  ud: había aprobado
+  nosotros: habíamos aprobado
+  vosotros: habíais aprobado
+  uds: habían aprobado
+futuro-perfecto:
+  yo: habré aprobado
+  tu: habrás aprobado
+  vos: habrás aprobado
+  ud: habrá aprobado
+  nosotros: habremos aprobado
+  vosotros: habréis aprobado
+  uds: habrán aprobado
+condicional-perfecto:
+  yo: habría aprobado
+  tu: habrías aprobado
+  vos: habrías aprobado
+  ud: habría aprobado
+  nosotros: habríamos aprobado
+  vosotros: habríais aprobado
+  uds: habrían aprobado
+presente-subjuntivo:
+  yo: apruebe
+  tu: apruebes
+  vos: apruebes
+  ud: apruebe
+  nosotros: aprobemos
+  vosotros: aprobéis
+  uds: aprueben
+preterito-perfecto-subjuntivo:
+  yo: haya aprobado
+  tu: hayas aprobado
+  vos: hayas aprobado
+  ud: haya aprobado
+  nosotros: hayamos aprobado
+  vosotros: hayáis aprobado
+  uds: hayan aprobado
+imperfecto-subjuntivo:
+  yo:
+    - aprobara
+    - aprobase
+  tu:
+    - aprobaras
+    - aprobases
+  vos:
+    - aprobaras
+    - aprobases
+  ud:
+    - aprobara
+    - aprobase
+  nosotros:
+    - aprobáramos
+    - aprobásemos
+  vosotros:
+    - aprobarais
+    - aprobaseis
+  uds:
+    - aprobaran
+    - aprobasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aprobado
+    - hubiese aprobado
+  tu:
+    - hubieras aprobado
+    - hubieses aprobado
+  vos:
+    - hubieras aprobado
+    - hubieses aprobado
+  ud:
+    - hubiera aprobado
+    - hubiese aprobado
+  nosotros:
+    - hubiéramos aprobado
+    - hubiésemos aprobado
+  vosotros:
+    - hubierais aprobado
+    - hubieseis aprobado
+  uds:
+    - hubieran aprobado
+    - hubiesen aprobado
+imperativo:
+  tu: aprueba
+  vos: aprobá
+  ud: apruebe
+  nosotros: aprobemos
+  vosotros: aprobad
+  uds: aprueben

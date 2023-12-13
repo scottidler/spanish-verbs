@@ -1,0 +1,142 @@
+infinitivo: atravesar
+gerundio: atravesando
+participio-pasado: atravesado
+presente-indicativo:
+  yo: atravieso
+  tu: atraviesas
+  vos: atravesás
+  ud: atraviesa
+  nosotros: atravesamos
+  vosotros: atravesáis
+  uds: atraviesan
+preterito-perfecto-simple:
+  yo: atravesé
+  tu: atravesaste
+  vos: atravesaste
+  ud: atravesó
+  nosotros: atravesamos
+  vosotros: atravesasteis
+  uds: atravesaron
+preterito-imperfecto:
+  yo: atravesaba
+  tu: atravesabas
+  vos: atravesabas
+  ud: atravesaba
+  nosotros: atravesábamos
+  vosotros: atravesabais
+  uds: atravesaban
+futuro-simple:
+  yo: atravesaré
+  tu: atravesarás
+  vos: atravesarás
+  ud: atravesará
+  nosotros: atravesaremos
+  vosotros: atravesaréis
+  uds: atravesarán
+condicional-simple:
+  yo: atravesaría
+  tu: atravesarías
+  vos: atravesarías
+  ud: atravesaría
+  nosotros: atravesaríamos
+  vosotros: atravesaríais
+  uds: atravesarían
+presente-perfecto:
+  yo: he atravesado
+  tu: has atravesado
+  vos: has atravesado
+  ud: ha atravesado
+  nosotros: hemos atravesado
+  vosotros: habéis atravesado
+  uds: han atravesado
+preterito-pluscuamperfecto:
+  yo: había atravesado
+  tu: habías atravesado
+  vos: habías atravesado
+  ud: había atravesado
+  nosotros: habíamos atravesado
+  vosotros: habíais atravesado
+  uds: habían atravesado
+futuro-perfecto:
+  yo: habré atravesado
+  tu: habrás atravesado
+  vos: habrás atravesado
+  ud: habrá atravesado
+  nosotros: habremos atravesado
+  vosotros: habréis atravesado
+  uds: habrán atravesado
+condicional-perfecto:
+  yo: habría atravesado
+  tu: habrías atravesado
+  vos: habrías atravesado
+  ud: habría atravesado
+  nosotros: habríamos atravesado
+  vosotros: habríais atravesado
+  uds: habrían atravesado
+presente-subjuntivo:
+  yo: atraviese
+  tu: atravieses
+  vos: atravieses
+  ud: atraviese
+  nosotros: atravesemos
+  vosotros: atraveséis
+  uds: atraviesen
+preterito-perfecto-subjuntivo:
+  yo: haya atravesado
+  tu: hayas atravesado
+  vos: hayas atravesado
+  ud: haya atravesado
+  nosotros: hayamos atravesado
+  vosotros: hayáis atravesado
+  uds: hayan atravesado
+imperfecto-subjuntivo:
+  yo:
+    - atravesara
+    - atravesase
+  tu:
+    - atravesaras
+    - atravesases
+  vos:
+    - atravesaras
+    - atravesases
+  ud:
+    - atravesara
+    - atravesase
+  nosotros:
+    - atravesáramos
+    - atravesásemos
+  vosotros:
+    - atravesarais
+    - atravesaseis
+  uds:
+    - atravesaran
+    - atraviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atravesado
+    - hubiese atravesado
+  tu:
+    - hubieras atravesado
+    - hubieses atravesado
+  vos:
+    - hubieras atravesado
+    - hubieses atravesado
+  ud:
+    - hubiera atravesado
+    - hubiese atravesado
+  nosotros:
+    - hubiéramos atravesado
+    - hubiésemos atravesado
+  vosotros:
+    - hubierais atravesado
+    - hubieseis atravesado
+  uds:
+    - hubieran atravesado
+    - hubiesen atravesado
+imperativo:
+  tu: atraviesa
+  vos: atravesá
+  ud: atraviese
+  nosotros: atravesemos
+  vosotros: atravesad
+  uds: atraviesen

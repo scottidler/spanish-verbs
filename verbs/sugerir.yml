@@ -1,0 +1,142 @@
+infinitivo: sugerir
+gerundio: sugiriendo
+participio-pasado: sugerido
+presente-indicativo:
+  yo: sugiero
+  tu: sugieres
+  vos: sugerís
+  ud: sugiere
+  nosotros: sugerimos
+  vosotros: sugerís
+  uds: sugieren
+preterito-perfecto-simple:
+  yo: sugerí
+  tu: sugeriste
+  vos: sugeriste
+  ud: sugirió
+  nosotros: sugerimos
+  vosotros: sugeristeis
+  uds: sugirieron
+preterito-imperfecto:
+  yo: sugería
+  tu: sugerías
+  vos: sugerías
+  ud: sugería
+  nosotros: sugeríamos
+  vosotros: sugeríais
+  uds: sugerían
+futuro-simple:
+  yo: sugeriré
+  tu: sugerirás
+  vos: sugerirás
+  ud: sugerirá
+  nosotros: sugeriremos
+  vosotros: sugeriréis
+  uds: sugerirán
+condicional-simple:
+  yo: sugeriría
+  tu: sugerirías
+  vos: sugerirías
+  ud: sugeriría
+  nosotros: sugeriríamos
+  vosotros: sugeriríais
+  uds: sugerirían
+presente-perfecto:
+  yo: he sugerido
+  tu: has sugerido
+  vos: has sugerido
+  ud: ha sugerido
+  nosotros: hemos sugerido
+  vosotros: habéis sugerido
+  uds: han sugerido
+preterito-pluscuamperfecto:
+  yo: había sugerido
+  tu: habías sugerido
+  vos: habías sugerido
+  ud: había sugerido
+  nosotros: habíamos sugerido
+  vosotros: habíais sugerido
+  uds: habían sugerido
+futuro-perfecto:
+  yo: habré sugerido
+  tu: habrás sugerido
+  vos: habrás sugerido
+  ud: habrá sugerido
+  nosotros: habremos sugerido
+  vosotros: habréis sugerido
+  uds: habrán sugerido
+condicional-perfecto:
+  yo: habría sugerido
+  tu: habrías sugerido
+  vos: habrías sugerido
+  ud: habría sugerido
+  nosotros: habríamos sugerido
+  vosotros: habríais sugerido
+  uds: habrían sugerido
+presente-subjuntivo:
+  yo: sugiera
+  tu: sugieras
+  vos: sugieras
+  ud: sugiera
+  nosotros: sugiramos
+  vosotros: sugiráis
+  uds: sugieran
+preterito-perfecto-subjuntivo:
+  yo: haya sugerido
+  tu: hayas sugerido
+  vos: hayas sugerido
+  ud: haya sugerido
+  nosotros: hayamos sugerido
+  vosotros: hayáis sugerido
+  uds: hayan sugerido
+imperfecto-subjuntivo:
+  yo:
+    - sugiriera
+    - sugiriese
+  tu:
+    - sugirieras
+    - sugirieses
+  vos:
+    - sugirieras
+    - sugirieses
+  ud:
+    - sugiriera
+    - sugiriese
+  nosotros:
+    - sugiriéramos
+    - sugiriésemos
+  vosotros:
+    - sugirierais
+    - sugirieseis
+  uds:
+    - sugirieran
+    - sugiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sugerido
+    - hubiese sugerido
+  tu:
+    - hubieras sugerido
+    - hubieses sugerido
+  vos:
+    - hubieras sugerido
+    - hubieses sugerido
+  ud:
+    - hubiera sugerido
+    - hubiese sugerido
+  nosotros:
+    - hubiéramos sugerido
+    - hubiésemos sugerido
+  vosotros:
+    - hubierais sugerido
+    - hubieseis sugerido
+  uds:
+    - hubieran sugerido
+    - hubiesen sugerido
+imperativo:
+  tu: sugiere
+  vos: sugerí
+  ud: sugiera
+  nosotros: sugiramos
+  vosotros: sugerid
+  uds: sugieran

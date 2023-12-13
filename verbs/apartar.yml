@@ -1,0 +1,142 @@
+infinitivo: apartar
+gerundio: apartando
+participio-pasado: apartado
+presente-indicativo:
+  yo: aparto
+  tu: apartas
+  vos: apartás
+  ud: aparta
+  nosotros: apartamos
+  vosotros: apartáis
+  uds: apartan
+preterito-perfecto-simple:
+  yo: aparté
+  tu: apartaste
+  vos: apartaste
+  ud: apartó
+  nosotros: apartamos
+  vosotros: apartasteis
+  uds: apartaron
+preterito-imperfecto:
+  yo: apartaba
+  tu: apartabas
+  vos: apartabas
+  ud: apartaba
+  nosotros: apartábamos
+  vosotros: apartabais
+  uds: apartaban
+futuro-simple:
+  yo: apartaré
+  tu: apartarás
+  vos: apartarás
+  ud: apartará
+  nosotros: apartaremos
+  vosotros: apartaréis
+  uds: apartarán
+condicional-simple:
+  yo: apartaría
+  tu: apartarías
+  vos: apartarías
+  ud: apartaría
+  nosotros: apartaríamos
+  vosotros: apartaríais
+  uds: apartarían
+presente-perfecto:
+  yo: he apartado
+  tu: has apartado
+  vos: has apartado
+  ud: ha apartado
+  nosotros: hemos apartado
+  vosotros: habéis apartado
+  uds: han apartado
+preterito-pluscuamperfecto:
+  yo: había apartado
+  tu: habías apartado
+  vos: habías apartado
+  ud: había apartado
+  nosotros: habíamos apartado
+  vosotros: habíais apartado
+  uds: habían apartado
+futuro-perfecto:
+  yo: habré apartado
+  tu: habrás apartado
+  vos: habrás apartado
+  ud: habrá apartado
+  nosotros: habremos apartado
+  vosotros: habréis apartado
+  uds: habrán apartado
+condicional-perfecto:
+  yo: habría apartado
+  tu: habrías apartado
+  vos: habrías apartado
+  ud: habría apartado
+  nosotros: habríamos apartado
+  vosotros: habríais apartado
+  uds: habrían apartado
+presente-subjuntivo:
+  yo: aparte
+  tu: apartes
+  vos: apartes
+  ud: aparte
+  nosotros: apartemos
+  vosotros: apartéis
+  uds: aparten
+preterito-perfecto-subjuntivo:
+  yo: haya apartado
+  tu: hayas apartado
+  vos: hayas apartado
+  ud: haya apartado
+  nosotros: hayamos apartado
+  vosotros: hayáis apartado
+  uds: hayan apartado
+imperfecto-subjuntivo:
+  yo:
+    - apartara
+    - apartase
+  tu:
+    - apartaras
+    - apartases
+  vos:
+    - apartaras
+    - apartases
+  ud:
+    - apartara
+    - apartase
+  nosotros:
+    - apartáramos
+    - apartásemos
+  vosotros:
+    - apartarais
+    - apartaseis
+  uds:
+    - apartaran
+    - apartasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apartado
+    - hubiese apartado
+  tu:
+    - hubieras apartado
+    - hubieses apartado
+  vos:
+    - hubieras apartado
+    - hubieses apartado
+  ud:
+    - hubiera apartado
+    - hubiese apartado
+  nosotros:
+    - hubiéramos apartado
+    - hubiésemos apartado
+  vosotros:
+    - hubierais apartado
+    - hubieseis apartado
+  uds:
+    - hubieran apartado
+    - hubiesen apartado
+imperativo:
+  tu: aparta
+  vos: apartá
+  ud: aparte
+  nosotros: apartemos
+  vosotros: apartad
+  uds: aparten

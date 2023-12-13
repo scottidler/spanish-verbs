@@ -1,0 +1,142 @@
+infinitivo: devolver
+gerundio: devolviendo
+participio-pasado: devuelto
+presente-indicativo:
+  yo: devuelvo
+  tu: devuelves
+  vos: devolvés
+  ud: devuelve
+  nosotros: devolvemos
+  vosotros: devolvéis
+  uds: devuelven
+preterito-perfecto-simple:
+  yo: devolví
+  tu: devolviste
+  vos: devolviste
+  ud: devolvió
+  nosotros: devolvimos
+  vosotros: devolvisteis
+  uds: devolvieron
+preterito-imperfecto:
+  yo: devolvía
+  tu: devolvías
+  vos: devolvías
+  ud: devolvía
+  nosotros: devolvíamos
+  vosotros: devolvíais
+  uds: devolvían
+futuro-simple:
+  yo: devolveré
+  tu: devolverás
+  vos: devolverás
+  ud: devolverá
+  nosotros: devolveremos
+  vosotros: devolveréis
+  uds: devolverán
+condicional-simple:
+  yo: devolvería
+  tu: devolverías
+  vos: devolverías
+  ud: devolvería
+  nosotros: devolveríamos
+  vosotros: devolveríais
+  uds: devolverían
+presente-perfecto:
+  yo: he devuelto
+  tu: has devuelto
+  vos: has devuelto
+  ud: ha devuelto
+  nosotros: hemos devuelto
+  vosotros: habéis devuelto
+  uds: han devuelto
+preterito-pluscuamperfecto:
+  yo: había devuelto
+  tu: habías devuelto
+  vos: habías devuelto
+  ud: había devuelto
+  nosotros: habíamos devuelto
+  vosotros: habíais devuelto
+  uds: habían devuelto
+futuro-perfecto:
+  yo: habré devuelto
+  tu: habrás devuelto
+  vos: habrás devuelto
+  ud: habrá devuelto
+  nosotros: habremos devuelto
+  vosotros: habréis devuelto
+  uds: habrán devuelto
+condicional-perfecto:
+  yo: habría devuelto
+  tu: habrías devuelto
+  vos: habrías devuelto
+  ud: habría devuelto
+  nosotros: habríamos devuelto
+  vosotros: habríais devuelto
+  uds: habrían devuelto
+presente-subjuntivo:
+  yo: devuelva
+  tu: devuelvas
+  vos: devuelvas
+  ud: devuelva
+  nosotros: devolvamos
+  vosotros: devolváis
+  uds: devuelvan
+preterito-perfecto-subjuntivo:
+  yo: haya devuelto
+  tu: hayas devuelto
+  vos: hayas devuelto
+  ud: haya devuelto
+  nosotros: hayamos devuelto
+  vosotros: hayáis devuelto
+  uds: hayan devuelto
+imperfecto-subjuntivo:
+  yo:
+    - devolviera
+    - devolviese
+  tu:
+    - devolvieras
+    - devolvieses
+  vos:
+    - devolvieras
+    - devolvieses
+  ud:
+    - devolviera
+    - devolviese
+  nosotros:
+    - devolviéramos
+    - devolviésemos
+  vosotros:
+    - devolvierais
+    - devolvieseis
+  uds:
+    - devolvieran
+    - devolviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera devuelto
+    - hubiese devuelto
+  tu:
+    - hubieras devuelto
+    - hubieses devuelto
+  vos:
+    - hubieras devuelto
+    - hubieses devuelto
+  ud:
+    - hubiera devuelto
+    - hubiese devuelto
+  nosotros:
+    - hubiéramos devuelto
+    - hubiésemos devuelto
+  vosotros:
+    - hubierais devuelto
+    - hubieseis devuelto
+  uds:
+    - hubieran devuelto
+    - hubiesen devuelto
+imperativo:
+  tu: devuelve
+  vos: devolvé
+  ud: devuelva
+  nosotros: devolvamos
+  vosotros: devolved
+  uds: devuelvan

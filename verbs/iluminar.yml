@@ -1,0 +1,142 @@
+infinitivo: iluminar
+gerundio: iluminando
+participio-pasado: iluminado
+presente-indicativo:
+  yo: ilumino
+  tu: iluminas
+  vos: iluminas
+  ud: ilumina
+  nosotros: iluminamos
+  vosotros: ilumináis
+  uds: iluminan
+preterito-perfecto-simple:
+  yo: iluminé
+  tu: iluminaste
+  vos: iluminaste
+  ud: iluminó
+  nosotros: iluminamos
+  vosotros: iluminasteis
+  uds: iluminaron
+preterito-imperfecto:
+  yo: iluminaba
+  tu: iluminabas
+  vos: iluminabas
+  ud: iluminaba
+  nosotros: iluminábamos
+  vosotros: iluminabais
+  uds: iluminaban
+futuro-simple:
+  yo: iluminaré
+  tu: iluminarás
+  vos: iluminarás
+  ud: iluminará
+  nosotros: iluminaremos
+  vosotros: iluminaréis
+  uds: iluminarán
+condicional-simple:
+  yo: iluminaría
+  tu: iluminarías
+  vos: iluminarías
+  ud: iluminaría
+  nosotros: iluminaríamos
+  vosotros: iluminaríais
+  uds: iluminarían
+presente-perfecto:
+  yo: he iluminado
+  tu: has iluminado
+  vos: has iluminado
+  ud: ha iluminado
+  nosotros: hemos iluminado
+  vosotros: habéis iluminado
+  uds: han iluminado
+preterito-pluscuamperfecto:
+  yo: había iluminado
+  tu: habías iluminado
+  vos: habías iluminado
+  ud: había iluminado
+  nosotros: habíamos iluminado
+  vosotros: habíais iluminado
+  uds: habían iluminado
+futuro-perfecto:
+  yo: habré iluminado
+  tu: habrás iluminado
+  vos: habrás iluminado
+  ud: habrá iluminado
+  nosotros: habremos iluminado
+  vosotros: habréis iluminado
+  uds: habrán iluminado
+condicional-perfecto:
+  yo: habría iluminado
+  tu: habrías iluminado
+  vos: habrías iluminado
+  ud: habría iluminado
+  nosotros: habríamos iluminado
+  vosotros: habríais iluminado
+  uds: habrían iluminado
+presente-subjuntivo:
+  yo: ilumine
+  tu: ilumines
+  vos: ilumines
+  ud: ilumine
+  nosotros: iluminemos
+  vosotros: iluminéis
+  uds: iluminen
+preterito-perfecto-subjuntivo:
+  yo: haya iluminado
+  tu: hayas iluminado
+  vos: hayas iluminado
+  ud: haya iluminado
+  nosotros: hayamos iluminado
+  vosotros: hayáis iluminado
+  uds: hayan iluminado
+imperfecto-subjuntivo:
+  yo:
+    - iluminara
+    - iluminase
+  tu:
+    - iluminaras
+    - iluminases
+  vos:
+    - iluminaras
+    - iluminases
+  ud:
+    - iluminara
+    - iluminase
+  nosotros:
+    - ilumináramos
+    - iluminásemos
+  vosotros:
+    - iluminarais
+    - iluminaseis
+  uds:
+    - iluminaran
+    - iluminasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera iluminado
+    - hubiese iluminado
+  tu:
+    - hubieras iluminado
+    - hubieses iluminado
+  vos:
+    - hubieras iluminado
+    - hubieses iluminado
+  ud:
+    - hubiera iluminado
+    - hubiese iluminado
+  nosotros:
+    - hubiéramos iluminado
+    - hubiésemos iluminado
+  vosotros:
+    - hubierais iluminado
+    - hubieseis iluminado
+  uds:
+    - hubieran iluminado
+    - hubiesen iluminado
+imperativo:
+  tu: ilumina
+  vos: iluminá
+  ud: ilumine
+  nosotros: iluminemos
+  vosotros: iluminad
+  uds: iluminen

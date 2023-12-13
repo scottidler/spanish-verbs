@@ -1,0 +1,142 @@
+infinitivo: yacer
+gerundio: yaciendo
+participio-pasado: yacido
+presente-indicativo:
+  yo: yazco
+  tu: yaces
+  vos: yaces
+  ud: yace
+  nosotros: yacemos
+  vosotros: yacéis
+  uds: yacen
+preterito-perfecto-simple:
+  yo: yací
+  tu: yaciste
+  vos: yaciste
+  ud: yació
+  nosotros: yacimos
+  vosotros: yacisteis
+  uds: yacieron
+preterito-imperfecto:
+  yo: yacía
+  tu: yacías
+  vos: yacías
+  ud: yacía
+  nosotros: yacíamos
+  vosotros: yacíais
+  uds: yacían
+futuro-simple:
+  yo: yaceré
+  tu: yacerás
+  vos: yacerás
+  ud: yacerá
+  nosotros: yaceremos
+  vosotros: yaceréis
+  uds: yacerán
+condicional-simple:
+  yo: yacería
+  tu: yacerías
+  vos: yacerías
+  ud: yacería
+  nosotros: yaceríamos
+  vosotros: yaceríais
+  uds: yacerían
+presente-perfecto:
+  yo: he yacido
+  tu: has yacido
+  vos: has yacido
+  ud: ha yacido
+  nosotros: hemos yacido
+  vosotros: habéis yacido
+  uds: han yacido
+preterito-pluscuamperfecto:
+  yo: había yacido
+  tu: habías yacido
+  vos: habías yacido
+  ud: había yacido
+  nosotros: habíamos yacido
+  vosotros: habíais yacido
+  uds: habían yacido
+futuro-perfecto:
+  yo: habré yacido
+  tu: habrás yacido
+  vos: habrás yacido
+  ud: habrá yacido
+  nosotros: habremos yacido
+  vosotros: habréis yacido
+  uds: habrán yacido
+condicional-perfecto:
+  yo: habría yacido
+  tu: habrías yacido
+  vos: habrías yacido
+  ud: habría yacido
+  nosotros: habríamos yacido
+  vosotros: habríais yacido
+  uds: habrían yacido
+presente-subjuntivo:
+  yo: yazca
+  tu: yazcas
+  vos: yazcas
+  ud: yazca
+  nosotros: yazcamos
+  vosotros: yazcáis
+  uds: yazcan
+preterito-perfecto-subjuntivo:
+  yo: haya yacido
+  tu: hayas yacido
+  vos: hayas yacido
+  ud: haya yacido
+  nosotros: hayamos yacido
+  vosotros: hayáis yacido
+  uds: hayan yacido
+imperfecto-subjuntivo:
+  yo:
+    - yaciera
+    - yaciese
+  tu:
+    - yacieras
+    - yacieses
+  vos:
+    - yacieras
+    - yacieses
+  ud:
+    - yaciera
+    - yaciese
+  nosotros:
+    - yaciéramos
+    - yaciésemos
+  vosotros:
+    - yacierais
+    - yacieseis
+  uds:
+    - yacieran
+    - yaciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera yacido
+    - hubiese yacido
+  tu:
+    - hubieras yacido
+    - hubieses yacido
+  vos:
+    - hubieras yacido
+    - hubieses yacido
+  ud:
+    - hubiera yacido
+    - hubiese yacido
+  nosotros:
+    - hubiéramos yacido
+    - hubiésemos yacido
+  vosotros:
+    - hubierais yacido
+    - hubieseis yacido
+  uds:
+    - hubieran yacido
+    - hubiesen yacido
+imperativo:
+  tu: yace
+  vos: yacé
+  ud: yazca
+  nosotros: yazcamos
+  vosotros: yaced
+  uds: yazcan

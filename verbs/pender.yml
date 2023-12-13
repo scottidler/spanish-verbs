@@ -1,0 +1,142 @@
+infinitivo: pender
+gerundio: pendiendo
+participio-pasado: pendido
+presente-indicativo:
+  yo: pendo
+  tu: pienes
+  vos: piens
+  ud: piensa
+  nosotros: pendemos
+  vosotros: pendéis
+  uds: piensan
+preterito-perfecto-simple:
+  yo: pendí
+  tu: pendiste
+  vos: pendiste
+  ud: pendió
+  nosotros: pendimos
+  vosotros: pendisteis
+  uds: pendieron
+preterito-imperfecto:
+  yo: pendía
+  tu: pendías
+  vos: pendías
+  ud: pendía
+  nosotros: pendíamos
+  vosotros: pendíais
+  uds: pendían
+futuro-simple:
+  yo: penderé
+  tu: penderás
+  vos: penderás
+  ud: penderá
+  nosotros: penderemos
+  vosotros: penderéis
+  uds: penderán
+condicional-simple:
+  yo: pendería
+  tu: penderías
+  vos: penderías
+  ud: pendería
+  nosotros: penderíamos
+  vosotros: penderíais
+  uds: penderían
+presente-perfecto:
+  yo: he pendido
+  tu: has pendido
+  vos: has pendido
+  ud: ha pendido
+  nosotros: hemos pendido
+  vosotros: habéis pendido
+  uds: han pendido
+preterito-pluscuamperfecto:
+  yo: había pendido
+  tu: habías pendido
+  vos: habías pendido
+  ud: había pendido
+  nosotros: habíamos pendido
+  vosotros: habíais pendido
+  uds: habían pendido
+futuro-perfecto:
+  yo: habré pendido
+  tu: habrás pendido
+  vos: habrás pendido
+  ud: habrá pendido
+  nosotros: habremos pendido
+  vosotros: habréis pendido
+  uds: habrán pendido
+condicional-perfecto:
+  yo: habría pendido
+  tu: habrías pendido
+  vos: habrías pendido
+  ud: habría pendido
+  nosotros: habríamos pendido
+  vosotros: habríais pendido
+  uds: habrían pendido
+presente-subjuntivo:
+  yo: pienda
+  tu: piendas
+  vos: piendas
+  ud: pienda
+  nosotros: pendamos
+  vosotros: pendáis
+  uds: piendan
+preterito-perfecto-subjuntivo:
+  yo: haya pendido
+  tu: hayas pendido
+  vos: hayas pendido
+  ud: haya pendido
+  nosotros: hayamos pendido
+  vosotros: hayáis pendido
+  uds: hayan pendido
+imperfecto-subjuntivo:
+  yo:
+    - pendiera
+    - pudiese
+  tu:
+    - pendieras
+    - pudieras
+  vos:
+    - pendieras
+    - pudieras
+  ud:
+    - pendiera
+    - pudiese
+  nosotros:
+    - pendiéramos
+    - pudiésemos
+  vosotros:
+    - pendierais
+    - pudierais
+  uds:
+    - pendieran
+    - pudiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pendido
+    - hubiese pendido
+  tu:
+    - hubieras pendido
+    - hubieses pendido
+  vos:
+    - hubieras pendido
+    - hubieses pendido
+  ud:
+    - hubiera pendido
+    - hubiese pendido
+  nosotros:
+    - hubiéramos pendido
+    - hubiésemos pendido
+  vosotros:
+    - hubierais pendido
+    - hubieseis pendido
+  uds:
+    - hubieran pendido
+    - hubiesen pendido
+imperativo:
+  tu: piende
+  vos: piendé
+  ud: pienda
+  nosotros: pendamos
+  vosotros: pended
+  uds: piendan

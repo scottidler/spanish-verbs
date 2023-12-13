@@ -1,0 +1,142 @@
+infinitivo: acariciar
+gerundio: acariciando
+participio-pasado: acariciado
+presente-indicativo:
+  yo: acaricio
+  tu: acaricias
+  vos: acariciás
+  ud: acaricia
+  nosotros: acariciamos
+  vosotros: acariciáis
+  uds: acarician
+preterito-perfecto-simple:
+  yo: acaricié
+  tu: acariciaste
+  vos: acariciaste
+  ud: acarició
+  nosotros: acariciamos
+  vosotros: acariciasteis
+  uds: acariciaron
+preterito-imperfecto:
+  yo: acariciaba
+  tu: acariciabas
+  vos: acariciabas
+  ud: acariciaba
+  nosotros: acariciábamos
+  vosotros: acariciabais
+  uds: acariciaban
+futuro-simple:
+  yo: acariciaré
+  tu: acariciarás
+  vos: acariciarás
+  ud: acariciará
+  nosotros: acariciaremos
+  vosotros: acariciaréis
+  uds: acariciarán
+condicional-simple:
+  yo: acariciaría
+  tu: acariciarías
+  vos: acariciarías
+  ud: acariciaría
+  nosotros: acariciaríamos
+  vosotros: acariciaríais
+  uds: acariciarían
+presente-perfecto:
+  yo: he acariciado
+  tu: has acariciado
+  vos: has acariciado
+  ud: ha acariciado
+  nosotros: hemos acariciado
+  vosotros: habéis acariciado
+  uds: han acariciado
+preterito-pluscuamperfecto:
+  yo: había acariciado
+  tu: habías acariciado
+  vos: habías acariciado
+  ud: había acariciado
+  nosotros: habíamos acariciado
+  vosotros: habíais acariciado
+  uds: habían acariciado
+futuro-perfecto:
+  yo: habré acariciado
+  tu: habrás acariciado
+  vos: habrás acariciado
+  ud: habrá acariciado
+  nosotros: habremos acariciado
+  vosotros: habréis acariciado
+  uds: habrán acariciado
+condicional-perfecto:
+  yo: habría acariciado
+  tu: habrías acariciado
+  vos: habrías acariciado
+  ud: habría acariciado
+  nosotros: habríamos acariciado
+  vosotros: habríais acariciado
+  uds: habrían acariciado
+presente-subjuntivo:
+  yo: acaricie
+  tu: acaricies
+  vos: acaricies
+  ud: acaricie
+  nosotros: acariciemos
+  vosotros: acariciéis
+  uds: acaricien
+preterito-perfecto-subjuntivo:
+  yo: haya acariciado
+  tu: hayas acariciado
+  vos: hayas acariciado
+  ud: haya acariciado
+  nosotros: hayamos acariciado
+  vosotros: hayáis acariciado
+  uds: hayan acariciado
+imperfecto-subjuntivo:
+  yo:
+    - acariciara
+    - acariciase
+  tu:
+    - acariciaras
+    - acariciases
+  vos:
+    - acariciaras
+    - acariciases
+  ud:
+    - acariciara
+    - acariciase
+  nosotros:
+    - acariciáramos
+    - acariciésemos
+  vosotros:
+    - acariciarais
+    - acariciaseis
+  uds:
+    - acariciaran
+    - acariciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acariciado
+    - hubiese acariciado
+  tu:
+    - hubieras acariciado
+    - hubieses acariciado
+  vos:
+    - hubieras acariciado
+    - hubieses acariciado
+  ud:
+    - hubiera acariciado
+    - hubiese acariciado
+  nosotros:
+    - hubiéramos acariciado
+    - hubiésemos acariciado
+  vosotros:
+    - hubierais acariciado
+    - hubieseis acariciado
+  uds:
+    - hubieran acariciado
+    - hubiesen acariciado
+imperativo:
+  tu: acaricia
+  vos: acariciá
+  ud: acaricie
+  nosotros: acariciemos
+  vosotros: acariciad
+  uds: acaricien

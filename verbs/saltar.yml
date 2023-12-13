@@ -1,0 +1,142 @@
+infinitivo: saltar
+gerundio: saltando
+participio-pasado: saltado
+presente-indicativo:
+  yo: salto
+  tu: saltas
+  vos: saltás
+  ud: salta
+  nosotros: saltamos
+  vosotros: saltáis
+  uds: saltan
+preterito-perfecto-simple:
+  yo: salté
+  tu: saltaste
+  vos: saltaste
+  ud: saltó
+  nosotros: saltamos
+  vosotros: saltasteis
+  uds: saltaron
+preterito-imperfecto:
+  yo: saltaba
+  tu: saltabas
+  vos: saltabas
+  ud: saltaba
+  nosotros: saltábamos
+  vosotros: saltabais
+  uds: saltaban
+futuro-simple:
+  yo: saltaré
+  tu: saltarás
+  vos: saltarás
+  ud: saltará
+  nosotros: saltaremos
+  vosotros: saltaréis
+  uds: saltarán
+condicional-simple:
+  yo: saltaría
+  tu: saltarías
+  vos: saltarías
+  ud: saltaría
+  nosotros: saltaríamos
+  vosotros: saltaríais
+  uds: saltarían
+presente-perfecto:
+  yo: he saltado
+  tu: has saltado
+  vos: has saltado
+  ud: ha saltado
+  nosotros: hemos saltado
+  vosotros: habéis saltado
+  uds: han saltado
+preterito-pluscuamperfecto:
+  yo: había saltado
+  tu: habías saltado
+  vos: habías saltado
+  ud: había saltado
+  nosotros: habíamos saltado
+  vosotros: habíais saltado
+  uds: habían saltado
+futuro-perfecto:
+  yo: habré saltado
+  tu: habrás saltado
+  vos: habrás saltado
+  ud: habrá saltado
+  nosotros: habremos saltado
+  vosotros: habréis saltado
+  uds: habrán saltado
+condicional-perfecto:
+  yo: habría saltado
+  tu: habrías saltado
+  vos: habrías saltado
+  ud: habría saltado
+  nosotros: habríamos saltado
+  vosotros: habríais saltado
+  uds: habrían saltado
+presente-subjuntivo:
+  yo: salte
+  tu: saltes
+  vos: saltes
+  ud: salte
+  nosotros: saltemos
+  vosotros: saltéis
+  uds: salten
+preterito-perfecto-subjuntivo:
+  yo: haya saltado
+  tu: hayas saltado
+  vos: hayas saltado
+  ud: haya saltado
+  nosotros: hayamos saltado
+  vosotros: hayáis saltado
+  uds: hayan saltado
+imperfecto-subjuntivo:
+  yo:
+    - saltara
+    - saltase
+  tu:
+    - saltaras
+    - saltases
+  vos:
+    - saltaras
+    - saltases
+  ud:
+    - saltara
+    - saltase
+  nosotros:
+    - saltáramos
+    - saltásemos
+  vosotros:
+    - saltarais
+    - saltaseis
+  uds:
+    - saltaran
+    - saltasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera saltado
+    - hubiese saltado
+  tu:
+    - hubieras saltado
+    - hubieses saltado
+  vos:
+    - hubieras saltado
+    - hubieses saltado
+  ud:
+    - hubiera saltado
+    - hubiese saltado
+  nosotros:
+    - hubiéramos saltado
+    - hubiésemos saltado
+  vosotros:
+    - hubierais saltado
+    - hubieseis saltado
+  uds:
+    - hubieran saltado
+    - hubiesen saltado
+imperativo:
+  tu: salta
+  vos: saltá
+  ud: salte
+  nosotros: saltemos
+  vosotros: saltad
+  uds: salten

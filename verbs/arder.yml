@@ -1,0 +1,142 @@
+infinitivo: arder
+gerundio: ardiendo
+participio-pasado: ardido
+presente-indicativo:
+  yo: ardo
+  tu: ardes
+  vos: ardés
+  ud: arde
+  nosotros: ardemos
+  vosotros: ardéis
+  uds: arden
+preterito-perfecto-simple:
+  yo: ardí
+  tu: ardiste
+  vos: ardiste
+  ud: ardió
+  nosotros: ardimos
+  vosotros: ardisteis
+  uds: ardieron
+preterito-imperfecto:
+  yo: ardía
+  tu: ardías
+  vos: ardías
+  ud: ardía
+  nosotros: ardíamos
+  vosotros: ardíais
+  uds: ardían
+futuro-simple:
+  yo: arderé
+  tu: arderás
+  vos: arderás
+  ud: arderá
+  nosotros: arderemos
+  vosotros: arderéis
+  uds: arderán
+condicional-simple:
+  yo: ardería
+  tu: arderías
+  vos: arderías
+  ud: ardería
+  nosotros: arderíamos
+  vosotros: arderíais
+  uds: arderían
+presente-perfecto:
+  yo: he ardido
+  tu: has ardido
+  vos: has ardido
+  ud: ha ardido
+  nosotros: hemos ardido
+  vosotros: habéis ardido
+  uds: han ardido
+preterito-pluscuamperfecto:
+  yo: había ardido
+  tu: habías ardido
+  vos: habías ardido
+  ud: había ardido
+  nosotros: habíamos ardido
+  vosotros: habíais ardido
+  uds: habían ardido
+futuro-perfecto:
+  yo: habré ardido
+  tu: habrás ardido
+  vos: habrás ardido
+  ud: habrá ardido
+  nosotros: habremos ardido
+  vosotros: habréis ardido
+  uds: habrán ardido
+condicional-perfecto:
+  yo: habría ardido
+  tu: habrías ardido
+  vos: habrías ardido
+  ud: habría ardido
+  nosotros: habríamos ardido
+  vosotros: habríais ardido
+  uds: habrían ardido
+presente-subjuntivo:
+  yo: arda
+  tu: ardas
+  vos: ardas
+  ud: arda
+  nosotros: ardamos
+  vosotros: ardáis
+  uds: ardan
+preterito-perfecto-subjuntivo:
+  yo: haya ardido
+  tu: hayas ardido
+  vos: hayas ardido
+  ud: haya ardido
+  nosotros: hayamos ardido
+  vosotros: hayáis ardido
+  uds: hayan ardido
+imperfecto-subjuntivo:
+  yo:
+    - ardiera
+    - ardiease
+  tu:
+    - ardieras
+    - ardieases
+  vos:
+    - ardieras
+    - ardieases
+  ud:
+    - ardiera
+    - ardiease
+  nosotros:
+    - ardiéramos
+    - ardiésemos
+  vosotros:
+    - ardiérais
+    - ardieaseis
+  uds:
+    - ardieran
+    - ardiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ardido
+    - hubiese ardido
+  tu:
+    - hubieras ardido
+    - hubieses ardido
+  vos:
+    - hubieras ardido
+    - hubieses ardido
+  ud:
+    - hubiera ardido
+    - hubiese ardido
+  nosotros:
+    - hubiéramos ardido
+    - hubiésemos ardido
+  vosotros:
+    - hubierais ardido
+    - hubieseis ardido
+  uds:
+    - hubieran ardido
+    - hubiesen ardido
+imperativo:
+  tu: arde
+  vos: ardé
+  ud: arda
+  nosotros: ardamo
+  vosotros: ardad
+  uds: ardan

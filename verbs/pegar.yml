@@ -1,0 +1,142 @@
+infinitivo: pegar
+gerundio: pegando
+participio-pasado: pegado
+presente-indicativo:
+  yo: pego
+  tu: pegas
+  vos: pegas
+  ud: pega
+  nosotros: pegamos
+  vosotros: pegáis
+  uds: pegan
+preterito-perfecto-simple:
+  yo: pegué
+  tu: pegaste
+  vos: pegaste
+  ud: pegó
+  nosotros: pegamos
+  vosotros: pegasteis
+  uds: pegaron
+preterito-imperfecto:
+  yo: pegaba
+  tu: pegabas
+  vos: pegabas
+  ud: pegaba
+  nosotros: pegábamos
+  vosotros: pegabais
+  uds: pegaban
+futuro-simple:
+  yo: pegaré
+  tu: pegarás
+  vos: pegarás
+  ud: pegará
+  nosotros: pegaremos
+  vosotros: pegaréis
+  uds: pegarán
+condicional-simple:
+  yo: pegaría
+  tu: pegarías
+  vos: pegarías
+  ud: pegaría
+  nosotros: pegaríamos
+  vosotros: pegaríais
+  uds: pegarían
+presente-perfecto:
+  yo: he pegado
+  tu: has pegado
+  vos: has pegado
+  ud: ha pegado
+  nosotros: hemos pegado
+  vosotros: habéis pegado
+  uds: han pegado
+preterito-pluscuamperfecto:
+  yo: había pegado
+  tu: habías pegado
+  vos: habías pegado
+  ud: había pegado
+  nosotros: habíamos pegado
+  vosotros: habíais pegado
+  uds: habían pegado
+futuro-perfecto:
+  yo: habré pegado
+  tu: habrás pegado
+  vos: habrás pegado
+  ud: habrá pegado
+  nosotros: habremos pegado
+  vosotros: habréis pegado
+  uds: habrán pegado
+condicional-perfecto:
+  yo: habría pegado
+  tu: habrías pegado
+  vos: habrías pegado
+  ud: habría pegado
+  nosotros: habríamos pegado
+  vosotros: habríais pegado
+  uds: habrían pegado
+presente-subjuntivo:
+  yo: pegue
+  tu: pegues
+  vos: pegues
+  ud: pegue
+  nosotros: peguemos
+  vosotros: peguéis
+  uds: peguen
+preterito-perfecto-subjuntivo:
+  yo: haya pegado
+  tu: hayas pegado
+  vos: hayas pegado
+  ud: haya pegado
+  nosotros: hayamos pegado
+  vosotros: hayáis pegado
+  uds: hayan pegado
+imperfecto-subjuntivo:
+  yo:
+    - pegara
+    - pegase
+  tu:
+    - pegaras
+    - pegases
+  vos:
+    - pegaras
+    - pegases
+  ud:
+    - pegara
+    - pegase
+  nosotros:
+    - pegáramos
+    - pegásemos
+  vosotros:
+    - pegarais
+    - pegaseis
+  uds:
+    - pegaran
+    - pegasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pegado
+    - hubiese pegado
+  tu:
+    - hubieras pegado
+    - hubieses pegado
+  vos:
+    - hubieras pegado
+    - hubieses pegado
+  ud:
+    - hubiera pegado
+    - hubiese pegado
+  nosotros:
+    - hubiéramos pegado
+    - hubiésemos pegado
+  vosotros:
+    - hubierais pegado
+    - hubieseis pegado
+  uds:
+    - hubieran pegado
+    - hubiesen pegado
+imperativo:
+  tu: pega
+  vos: pegá
+  ud: pegue
+  nosotros: peguemos
+  vosotros: pegad
+  uds: peguen

@@ -1,0 +1,142 @@
+infinitivo: contemplar
+gerundio: contemplando
+participio-pasado: contemplado
+presente-indicativo:
+  yo: contemplo
+  tu: contemplas
+  vos: contemplas
+  ud: contempla
+  nosotros: contemplamos
+  vosotros: contempláis
+  uds: contemplan
+preterito-perfecto-simple:
+  yo: contemplé
+  tu: contemplaste
+  vos: contemplaste
+  ud: contempló
+  nosotros: contemplamos
+  vosotros: contemplasteis
+  uds: contemplaron
+preterito-imperfecto:
+  yo: contemplaba
+  tu: contemplabas
+  vos: contemplabas
+  ud: contemplaba
+  nosotros: contemplábamos
+  vosotros: contemplabais
+  uds: contemplaban
+futuro-simple:
+  yo: contemplaré
+  tu: contemplarás
+  vos: contemplarás
+  ud: contemplará
+  nosotros: contemplaremos
+  vosotros: contemplaréis
+  uds: contemplarán
+condicional-simple:
+  yo: contemplaría
+  tu: contemplarías
+  vos: contemplarías
+  ud: contemplaría
+  nosotros: contemplaríamos
+  vosotros: contemplaríais
+  uds: contemplarían
+presente-perfecto:
+  yo: he contemplado
+  tu: has contemplado
+  vos: has contemplado
+  ud: ha contemplado
+  nosotros: hemos contemplado
+  vosotros: habéis contemplado
+  uds: han contemplado
+preterito-pluscuamperfecto:
+  yo: había contemplado
+  tu: habías contemplado
+  vos: habías contemplado
+  ud: había contemplado
+  nosotros: habíamos contemplado
+  vosotros: habíais contemplado
+  uds: habían contemplado
+futuro-perfecto:
+  yo: habré contemplado
+  tu: habrás contemplado
+  vos: habrás contemplado
+  ud: habrá contemplado
+  nosotros: habremos contemplado
+  vosotros: habréis contemplado
+  uds: habrán contemplado
+condicional-perfecto:
+  yo: habría contemplado
+  tu: habrías contemplado
+  vos: habrías contemplado
+  ud: habría contemplado
+  nosotros: habríamos contemplado
+  vosotros: habríais contemplado
+  uds: habrían contemplado
+presente-subjuntivo:
+  yo: contemple
+  tu: contemples
+  vos: contemples
+  ud: contemple
+  nosotros: contemplemos
+  vosotros: contempléis
+  uds: contemplen
+preterito-perfecto-subjuntivo:
+  yo: haya contemplado
+  tu: hayas contemplado
+  vos: hayas contemplado
+  ud: haya contemplado
+  nosotros: hayamos contemplado
+  vosotros: hayáis contemplado
+  uds: hayan contemplado
+imperfecto-subjuntivo:
+  yo:
+    - contemplara
+    - contemplase
+  tu:
+    - contemplaras
+    - contemplases
+  vos:
+    - contemplaras
+    - contemplases
+  ud:
+    - contemplara
+    - contemplase
+  nosotros:
+    - contempláramos
+    - contemplásemos
+  vosotros:
+    - contemplarais
+    - contemplaseis
+  uds:
+    - contemplaran
+    - contemplasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera contemplado
+    - hubiese contemplado
+  tu:
+    - hubieras contemplado
+    - hubieses contemplado
+  vos:
+    - hubieras contemplado
+    - hubieses contemplado
+  ud:
+    - hubiera contemplado
+    - hubiese contemplado
+  nosotros:
+    - hubiéramos contemplado
+    - hubiésemos contemplado
+  vosotros:
+    - hubierais contemplado
+    - hubieseis contemplado
+  uds:
+    - hubieran contemplado
+    - hubiesen contemplado
+imperativo:
+  tu: contempla
+  vos: contemplá
+  ud: contemple
+  nosotros: contemplemos
+  vosotros: contemplad
+  uds: contemplen

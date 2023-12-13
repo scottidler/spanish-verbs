@@ -1,0 +1,142 @@
+infinitivo: contestar
+gerundio: contestando
+participio-pasado: contestado
+presente-indicativo:
+  yo: contesto
+  tu: contestas
+  vos: contestas
+  ud: contesta
+  nosotros: contestamos
+  vosotros: contestáis
+  uds: contestan
+preterito-perfecto-simple:
+  yo: contesté
+  tu: contestaste
+  vos: contestaste
+  ud: contestó
+  nosotros: contestamos
+  vosotros: contestasteis
+  uds: contestaron
+preterito-imperfecto:
+  yo: contestaba
+  tu: contestabas
+  vos: contestabas
+  ud: contestaba
+  nosotros: contestábamos
+  vosotros: contestabais
+  uds: contestaban
+futuro-simple:
+  yo: contestaré
+  tu: contestarás
+  vos: contestarás
+  ud: contestará
+  nosotros: contestaremos
+  vosotros: contestaréis
+  uds: contestarán
+condicional-simple:
+  yo: contestaría
+  tu: contestarías
+  vos: contestarías
+  ud: contestaría
+  nosotros: contestaríamos
+  vosotros: contestaríais
+  uds: contestarían
+presente-perfecto:
+  yo: he contestado
+  tu: has contestado
+  vos: has contestado
+  ud: ha contestado
+  nosotros: hemos contestado
+  vosotros: habéis contestado
+  uds: han contestado
+preterito-pluscuamperfecto:
+  yo: había contestado
+  tu: habías contestado
+  vos: habías contestado
+  ud: había contestado
+  nosotros: habíamos contestado
+  vosotros: habíais contestado
+  uds: habían contestado
+futuro-perfecto:
+  yo: habré contestado
+  tu: habrás contestado
+  vos: habrás contestado
+  ud: habrá contestado
+  nosotros: habremos contestado
+  vosotros: habréis contestado
+  uds: habrán contestado
+condicional-perfecto:
+  yo: habría contestado
+  tu: habrías contestado
+  vos: habrías contestado
+  ud: habría contestado
+  nosotros: habríamos contestado
+  vosotros: habríais contestado
+  uds: habrían contestado
+presente-subjuntivo:
+  yo: conteste
+  tu: contestes
+  vos: contestes
+  ud: conteste
+  nosotros: contestemos
+  vosotros: contestéis
+  uds: contesten
+preterito-perfecto-subjuntivo:
+  yo: haya contestado
+  tu: hayas contestado
+  vos: hayas contestado
+  ud: haya contestado
+  nosotros: hayamos contestado
+  vosotros: hayáis contestado
+  uds: hayan contestado
+imperfecto-subjuntivo:
+  yo: 
+    - contestara
+    - contestase
+  tu: 
+    - contestaras
+    - contestases
+  vos: 
+    - contestaras
+    - contestases
+  ud: 
+    - contestara
+    - contestase
+  nosotros: 
+    - contestáramos
+    - contestásemos
+  vosotros: 
+    - contestarais
+    - contestaseis
+  uds: 
+    - contestaran
+    - contestasen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - hubiera contestado
+    - hubiese contestado
+  tu: 
+    - hubieras contestado
+    - hubieses contestado
+  vos: 
+    - hubieras contestado
+    - hubieses contestado
+  ud: 
+    - hubiera contestado
+    - hubiese contestado
+  nosotros: 
+    - hubiéramos contestado
+    - hubiésemos contestado
+  vosotros: 
+    - hubierais contestado
+    - hubieseis contestado
+  uds: 
+    - hubieran contestado
+    - hubiesen contestado
+imperativo:
+  tu: contesta
+  vos: contestá
+  ud: conteste
+  nosotros: contestemos
+  vosotros: contestad
+  uds: contesten

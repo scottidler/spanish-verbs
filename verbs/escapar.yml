@@ -1,0 +1,142 @@
+infinitivo: escapar
+gerundio: escapando
+participio-pasado: escapado
+presente-indicativo:
+  yo: escapo
+  tu: escapas
+  vos: escapás
+  ud: escapa
+  nosotros: escapamos
+  vosotros: escapáis
+  uds: escapan
+preterito-perfecto-simple:
+  yo: escapé
+  tu: escapaste
+  vos: escapaste
+  ud: escapó
+  nosotros: escapamos
+  vosotros: escapasteis
+  uds: escaparon
+preterito-imperfecto:
+  yo: escapaba
+  tu: escapabas
+  vos: escapabas
+  ud: escapaba
+  nosotros: escapábamos
+  vosotros: escapabais
+  uds: escapaban
+futuro-simple:
+  yo: escaparé
+  tu: escaparás
+  vos: escaparás
+  ud: escapará
+  nosotros: escaparemos
+  vosotros: escaparéis
+  uds: escaparán
+condicional-simple:
+  yo: escaparía
+  tu: escaparías
+  vos: escaparías
+  ud: escaparía
+  nosotros: escaparíamos
+  vosotros: escaparíais
+  uds: escaparían
+presente-perfecto:
+  yo: he escapado
+  tu: has escapado
+  vos: has escapado
+  ud: ha escapado
+  nosotros: hemos escapado
+  vosotros: habéis escapado
+  uds: han escapado
+preterito-pluscuamperfecto:
+  yo: había escapado
+  tu: habías escapado
+  vos: habías escapado
+  ud: había escapado
+  nosotros: habíamos escapado
+  vosotros: habíais escapado
+  uds: habían escapado
+futuro-perfecto:
+  yo: habré escapado
+  tu: habrás escapado
+  vos: habrás escapado
+  ud: habrá escapado
+  nosotros: habremos escapado
+  vosotros: habréis escapado
+  uds: habrán escapado
+condicional-perfecto:
+  yo: habría escapado
+  tu: habrías escapado
+  vos: habrías escapado
+  ud: habría escapado
+  nosotros: habríamos escapado
+  vosotros: habríais escapado
+  uds: habrían escapado
+presente-subjuntivo:
+  yo: escape
+  tu: escapes
+  vos: escapes
+  ud: escape
+  nosotros: escapemos
+  vosotros: escapéis
+  uds: escapen
+preterito-perfecto-subjuntivo:
+  yo: haya escapado
+  tu: hayas escapado
+  vos: hayas escapado
+  ud: haya escapado
+  nosotros: hayamos escapado
+  vosotros: hayáis escapado
+  uds: hayan escapado
+imperfecto-subjuntivo:
+  yo:
+    - escapara
+    - escapase
+  tu:
+    - escaparas
+    - escapases
+  vos:
+    - escaparas
+    - escapases
+  ud:
+    - escapara
+    - escapase
+  nosotros:
+    - escapáramos
+    - escapásemos
+  vosotros:
+    - escaparais
+    - escapaseis
+  uds:
+    - escaparan
+    - escapesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera escapado
+    - hubiese escapado
+  tu:
+    - hubieras escapado
+    - hubieses escapado
+  vos:
+    - hubieras escapado
+    - hubieses escapado
+  ud:
+    - hubiera escapado
+    - hubiese escapado
+  nosotros:
+    - hubiéramos escapado
+    - hubiésemos escapado
+  vosotros:
+    - hubierais escapado
+    - hubieseis escapado
+  uds:
+    - hubieran escapado
+    - hubiesen escapado
+imperativo:
+  tu: escapa
+  vos: escapá
+  ud: escape
+  nosotros: escapemos
+  vosotros: escapad
+  uds: escapen

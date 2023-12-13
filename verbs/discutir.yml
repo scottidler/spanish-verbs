@@ -1,0 +1,142 @@
+infinitivo: discutir
+gerundio: discutiendo
+participio-pasado: discutido
+presente-indicativo:
+  yo: discuto
+  tu: discutes
+  vos: discutís
+  ud: discute
+  nosotros: discutimos
+  vosotros: discutís
+  uds: discuten
+preterito-perfecto-simple:
+  yo: discutí
+  tu: discutiste
+  vos: discutiste
+  ud: discutió
+  nosotros: discutimos
+  vosotros: discutisteis
+  uds: discutieron
+preterito-imperfecto:
+  yo: discutía
+  tu: discutías
+  vos: discutías
+  ud: discutía
+  nosotros: discutíamos
+  vosotros: discutíais
+  uds: discutían
+futuro-simple:
+  yo: discutiré
+  tu: discutirás
+  vos: discutirás
+  ud: discutirá
+  nosotros: discutiremos
+  vosotros: discutiréis
+  uds: discutirán
+condicional-simple:
+  yo: discutiría
+  tu: discutirías
+  vos: discutirías
+  ud: discutiría
+  nosotros: discutiríamos
+  vosotros: discutiríais
+  uds: discutirían
+presente-perfecto:
+  yo: he discutido
+  tu: has discutido
+  vos: has discutido
+  ud: ha discutido
+  nosotros: hemos discutido
+  vosotros: habéis discutido
+  uds: han discutido
+preterito-pluscuamperfecto:
+  yo: había discutido
+  tu: habías discutido
+  vos: habías discutido
+  ud: había discutido
+  nosotros: habíamos discutido
+  vosotros: habíais discutido
+  uds: habían discutido
+futuro-perfecto:
+  yo: habré discutido
+  tu: habrás discutido
+  vos: habrás discutido
+  ud: habrá discutido
+  nosotros: habremos discutido
+  vosotros: habréis discutido
+  uds: habrán discutido
+condicional-perfecto:
+  yo: habría discutido
+  tu: habrías discutido
+  vos: habrías discutido
+  ud: habría discutido
+  nosotros: habríamos discutido
+  vosotros: habríais discutido
+  uds: habrían discutido
+presente-subjuntivo:
+  yo: discuta
+  tu: discutas
+  vos: discutas
+  ud: discuta
+  nosotros: discutamos
+  vosotros: discutáis
+  uds: discutan
+preterito-perfecto-subjuntivo:
+  yo: haya discutido
+  tu: hayas discutido
+  vos: hayas discutido
+  ud: haya discutido
+  nosotros: hayamos discutido
+  vosotros: hayáis discutido
+  uds: hayan discutido
+imperfecto-subjuntivo:
+  yo:
+    - discutiera
+    - discutiese
+  tu:
+    - discutieras
+    - discutieses
+  vos:
+    - discutieras
+    - discutieses
+  ud:
+    - discutiera
+    - discutiese
+  nosotros:
+    - discutiéramos
+    - discutiésemos
+  vosotros:
+    - discutierais
+    - discutieseis
+  uds:
+    - discutieran
+    - discutiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera discutido
+    - hubiese discutido
+  tu:
+    - hubieras discutido
+    - hubieses discutido
+  vos:
+    - hubieras discutido
+    - hubieses discutido
+  ud:
+    - hubiera discutido
+    - hubiese discutido
+  nosotros:
+    - hubiéramos discutido
+    - hubiésemos discutido
+  vosotros:
+    - hubierais discutido
+    - hubieseis discutido
+  uds:
+    - hubieran discutido
+    - hubiesen discutido
+imperativo:
+  tu: discute
+  vos: discutí
+  ud: discuta
+  nosotros: discutamos
+  vosotros: discutid
+  uds: discutan

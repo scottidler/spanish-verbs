@@ -1,0 +1,142 @@
+infinitivo: invadir
+gerundio: invadiendo
+participio-pasado: invadido
+presente-indicativo:
+  yo: invado
+  tu: invades
+  vos: invadís
+  ud: invade
+  nosotros: invadimos
+  vosotros: invadís
+  uds: invaden
+preterito-perfecto-simple:
+  yo: invadí
+  tu: invadiste
+  vos: invadiste
+  ud: invadió
+  nosotros: invadimos
+  vosotros: invadisteis
+  uds: invadieron
+preterito-imperfecto:
+  yo: invadía
+  tu: invadías
+  vos: invadías
+  ud: invadía
+  nosotros: invadíamos
+  vosotros: invadíais
+  uds: invadían
+futuro-simple:
+  yo: invadiré
+  tu: invadirás
+  vos: invadirás
+  ud: invadirá
+  nosotros: invadiremos
+  vosotros: invadiréis
+  uds: invadirán
+condicional-simple:
+  yo: invadiría
+  tu: invadirías
+  vos: invadirías
+  ud: invadiría
+  nosotros: invadiríamos
+  vosotros: invadiríais
+  uds: invadirían
+presente-perfecto:
+  yo: he invadido
+  tu: has invadido
+  vos: has invadido
+  ud: ha invadido
+  nosotros: hemos invadido
+  vosotros: habéis invadido
+  uds: han invadido
+preterito-pluscuamperfecto:
+  yo: había invadido
+  tu: habías invadido
+  vos: habías invadido
+  ud: había invadido
+  nosotros: habíamos invadido
+  vosotros: habíais invadido
+  uds: habían invadido
+futuro-perfecto:
+  yo: habré invadido
+  tu: habrás invadido
+  vos: habrás invadido
+  ud: habrá invadido
+  nosotros: habremos invadido
+  vosotros: habréis invadido
+  uds: habrán invadido
+condicional-perfecto:
+  yo: habría invadido
+  tu: habrías invadido
+  vos: habrías invadido
+  ud: habría invadido
+  nosotros: habríamos invadido
+  vosotros: habríais invadido
+  uds: habrían invadido
+presente-subjuntivo:
+  yo: invada
+  tu: invadas
+  vos: invadas
+  ud: invada
+  nosotros: invadamos
+  vosotros: invadáis
+  uds: invadan
+preterito-perfecto-subjuntivo:
+  yo: haya invadido
+  tu: hayas invadido
+  vos: hayas invadido
+  ud: haya invadido
+  nosotros: hayamos invadido
+  vosotros: hayáis invadido
+  uds: hayan invadido
+imperfecto-subjuntivo:
+  yo:
+    - invadiera
+    - invadiese
+  tu:
+    - invadieras
+    - invadieses
+  vos:
+    - invadieras
+    - invadieses
+  ud:
+    - invadiera
+    - invadiese
+  nosotros:
+    - invadiéramos
+    - invadiésemos
+  vosotros:
+    - invadierais
+    - invadieseis
+  uds:
+    - invadieran
+    - invadiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera invadido
+    - hubiese invadido
+  tu:
+    - hubieras invadido
+    - hubieses invadido
+  vos:
+    - hubieras invadido
+    - hubieses invadido
+  ud:
+    - hubiera invadido
+    - hubiese invadido
+  nosotros:
+    - hubiéramos invadido
+    - hubiésemos invadido
+  vosotros:
+    - hubierais invadido
+    - hubieseis invadido
+  uds:
+    - hubieran invadido
+    - hubiesen invadido
+imperativo:
+  tu: invade
+  vos: invadí
+  ud: invada
+  nosotros: invadamos
+  vosotros: invadid
+  uds: invadan

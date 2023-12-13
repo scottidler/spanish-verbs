@@ -1,0 +1,142 @@
+infinitivo: atender
+gerundio: atendiendo
+participio-pasado: atendido
+presente-indicativo:
+  yo: atiendo
+  tu: atiendes
+  vos: atendés
+  ud: atiende
+  nosotros: atendemos
+  vosotros: atendéis
+  uds: atienden
+preterito-perfecto-simple:
+  yo: atendí
+  tu: atendiste
+  vos: atendiste
+  ud: atendió
+  nosotros: atendimos
+  vosotros: atendisteis
+  uds: atendieron
+preterito-imperfecto:
+  yo: atendía
+  tu: atendías
+  vos: atendías
+  ud: atendía
+  nosotros: atendíamos
+  vosotros: atendíais
+  uds: atendían
+futuro-simple:
+  yo: atenderé
+  tu: atenderás
+  vos: atenderás
+  ud: atenderá
+  nosotros: atenderemos
+  vosotros: atenderéis
+  uds: atenderán
+condicional-simple:
+  yo: atendería
+  tu: atenderías
+  vos: atenderías
+  ud: atendería
+  nosotros: atenderíamos
+  vosotros: atenderíais
+  uds: atenderían
+presente-perfecto:
+  yo: he atendido
+  tu: has atendido
+  vos: has atendido
+  ud: ha atendido
+  nosotros: hemos atendido
+  vosotros: habéis atendido
+  uds: han atendido
+preterito-pluscuamperfecto:
+  yo: había atendido
+  tu: habías atendido
+  vos: habías atendido
+  ud: había atendido
+  nosotros: habíamos atendido
+  vosotros: habíais atendido
+  uds: habían atendido
+futuro-perfecto:
+  yo: habré atendido
+  tu: habrás atendido
+  vos: habrás atendido
+  ud: habrá atendido
+  nosotros: habremos atendido
+  vosotros: habréis atendido
+  uds: habrán atendido
+condicional-perfecto:
+  yo: habría atendido
+  tu: habrías atendido
+  vos: habrías atendido
+  ud: habría atendido
+  nosotros: habríamos atendido
+  vosotros: habríais atendido
+  uds: habrían atendido
+presente-subjuntivo:
+  yo: atienda
+  tu: atiendas
+  vos: atiendas
+  ud: atienda
+  nosotros: atendamos
+  vosotros: atendáis
+  uds: atiendan
+preterito-perfecto-subjuntivo:
+  yo: haya atendido
+  tu: hayas atendido
+  vos: hayas atendido
+  ud: haya atendido
+  nosotros: hayamos atendido
+  vosotros: hayáis atendido
+  uds: hayan atendido
+imperfecto-subjuntivo:
+  yo:
+    - atendiera
+    - atendiese
+  tu:
+    - atendieras
+    - atendieses
+  vos:
+    - atendieras
+    - atendieses
+  ud:
+    - atendiera
+    - atendiese
+  nosotros:
+    - atendiéramos
+    - atendiésemos
+  vosotros:
+    - atendierais
+    - atendieseis
+  uds:
+    - atendieran
+    - atendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atendido
+    - hubiese atendido
+  tu:
+    - hubieras atendido
+    - hubieses atendido
+  vos:
+    - hubieras atendido
+    - hubieses atendido
+  ud:
+    - hubiera atendido
+    - hubiese atendido
+  nosotros:
+    - hubiéramos atendido
+    - hubiésemos atendido
+  vosotros:
+    - hubierais atendido
+    - hubieseis atendido
+  uds:
+    - hubieran atendido
+    - hubiesen atendido
+imperativo:
+  tu: atiende
+  vos: atendé
+  ud: atienda
+  nosotros: atendamos
+  vosotros: atended
+  uds: atiendan

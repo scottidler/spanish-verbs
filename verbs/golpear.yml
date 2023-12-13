@@ -1,0 +1,142 @@
+infinitivo: golpear
+gerundio: golpeando
+participio-pasado: golpeado
+presente-indicativo:
+  yo: golpeo
+  tu: golpeas
+  vos: golpeas
+  ud: golpea
+  nosotros: golpeamos
+  vosotros: golpeáis
+  uds: golpean
+preterito-perfecto-simple:
+  yo: golpeé
+  tu: golpeaste
+  vos: golpeaste
+  ud: golpeó
+  nosotros: golpeamos
+  vosotros: golpeasteis
+  uds: golpearon
+preterito-imperfecto:
+  yo: golpeaba
+  tu: golpeabas
+  vos: golpeabas
+  ud: golpeaba
+  nosotros: golpeábamos
+  vosotros: golpeabais
+  uds: golpeaban
+futuro-simple:
+  yo: golpearé
+  tu: golpearás
+  vos: golpearás
+  ud: golpeará
+  nosotros: golpearemos
+  vosotros: golpearéis
+  uds: golpearán
+condicional-simple:
+  yo: golpearía
+  tu: golpearías
+  vos: golpearías
+  ud: golpearía
+  nosotros: golpearíamos
+  vosotros: golpearíais
+  uds: golpearían
+presente-perfecto:
+  yo: he golpeado
+  tu: has golpeado
+  vos: has golpeado
+  ud: ha golpeado
+  nosotros: hemos golpeado
+  vosotros: habéis golpeado
+  uds: han golpeado
+preterito-pluscuamperfecto:
+  yo: había golpeado
+  tu: habías golpeado
+  vos: habías golpeado
+  ud: había golpeado
+  nosotros: habíamos golpeado
+  vosotros: habíais golpeado
+  uds: habían golpeado
+futuro-perfecto:
+  yo: habré golpeado
+  tu: habrás golpeado
+  vos: habrás golpeado
+  ud: habrá golpeado
+  nosotros: habremos golpeado
+  vosotros: habréis golpeado
+  uds: habrán golpeado
+condicional-perfecto:
+  yo: habría golpeado
+  tu: habrías golpeado
+  vos: habrías golpeado
+  ud: habría golpeado
+  nosotros: habríamos golpeado
+  vosotros: habríais golpeado
+  uds: habrían golpeado
+presente-subjuntivo:
+  yo: golpee
+  tu: golpees
+  vos: golpees
+  ud: golpee
+  nosotros: golpeemos
+  vosotros: golpeéis
+  uds: golpeen
+preterito-perfecto-subjuntivo:
+  yo: haya golpeado
+  tu: hayas golpeado
+  vos: hayas golpeado
+  ud: haya golpeado
+  nosotros: hayamos golpeado
+  vosotros: hayáis golpeado
+  uds: hayan golpeado
+imperfecto-subjuntivo:
+  yo:
+    - golpeara
+    - golpease
+  tu:
+    - golpearas
+    - golpeases
+  vos:
+    - golpearas
+    - golpeases
+  ud:
+    - golpeara
+    - golpease
+  nosotros:
+    - golpeáramos
+    - golpeásemos
+  vosotros:
+    - golpearais
+    - golpeaseis
+  uds:
+    - golpearan
+    - golpeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera golpeado
+    - hubiese golpeado
+  tu:
+    - hubieras golpeado
+    - hubieses golpeado
+  vos:
+    - hubieras golpeado
+    - hubieses golpeado
+  ud:
+    - hubiera golpeado
+    - hubiese golpeado
+  nosotros:
+    - hubiéramos golpeado
+    - hubiésemos golpeado
+  vosotros:
+    - hubierais golpeado
+    - hubieseis golpeado
+  uds:
+    - hubieran golpeado
+    - hubiesen golpeado
+imperativo:
+  tu: golpea
+  vos: golpeá
+  ud: golpee
+  nosotros: golpeemos
+  vosotros: golpead
+  uds: golpeen

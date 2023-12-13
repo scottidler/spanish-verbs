@@ -1,0 +1,142 @@
+infinitivo: encontrar
+gerundio: encontrando
+participio-pasado: encontrado
+presente-indicativo:
+  yo: encuentro
+  tu: encuentras
+  vos: encontrás
+  ud: encuentra
+  nosotros: encontramos
+  vosotros: encontráis
+  uds: encuentran
+preterito-perfecto-simple:
+  yo: encontré
+  tu: encontraste
+  vos: encontraste
+  ud: encontró
+  nosotros: encontramos
+  vosotros: encontrasteis
+  uds: encontraron
+preterito-imperfecto:
+  yo: encontraba
+  tu: encontrabas
+  vos: encontrabas
+  ud: encontraba
+  nosotros: encontrábamos
+  vosotros: encontrabais
+  uds: encontraban
+futuro-simple:
+  yo: encontraré
+  tu: encontrarás
+  vos: encontrarás
+  ud: encontrará
+  nosotros: encontraremos
+  vosotros: encontraréis
+  uds: encontrarán
+condicional-simple:
+  yo: encontraría
+  tu: encontrarías
+  vos: encontrarías
+  ud: encontraría
+  nosotros: encontraríamos
+  vosotros: encontraríais
+  uds: encontrarían
+presente-perfecto:
+  yo: he encontrado
+  tu: has encontrado
+  vos: has encontrado
+  ud: ha encontrado
+  nosotros: hemos encontrado
+  vosotros: habéis encontrado
+  uds: han encontrado
+preterito-pluscuamperfecto:
+  yo: había encontrado
+  tu: habías encontrado
+  vos: habías encontrado
+  ud: había encontrado
+  nosotros: habíamos encontrado
+  vosotros: habíais encontrado
+  uds: habían encontrado
+futuro-perfecto:
+  yo: habré encontrado
+  tu: habrás encontrado
+  vos: habrás encontrado
+  ud: habrá encontrado
+  nosotros: habremos encontrado
+  vosotros: habréis encontrado
+  uds: habrán encontrado
+condicional-perfecto:
+  yo: habría encontrado
+  tu: habrías encontrado
+  vos: habrías encontrado
+  ud: habría encontrado
+  nosotros: habríamos encontrado
+  vosotros: habríais encontrado
+  uds: habrían encontrado
+presente-subjuntivo:
+  yo: encuentre
+  tu: encuentres
+  vos: encuentres
+  ud: encuentre
+  nosotros: encontremos
+  vosotros: encontréis
+  uds: encuentren
+preterito-perfecto-subjuntivo:
+  yo: haya encontrado
+  tu: hayas encontrado
+  vos: hayas encontrado
+  ud: haya encontrado
+  nosotros: hayamos encontrado
+  vosotros: hayáis encontrado
+  uds: hayan encontrado
+imperfecto-subjuntivo:
+  yo:
+    - encontrara
+    - encontrase
+  tu:
+    - encontraras
+    - encontrases
+  vos:
+    - encontraras
+    - encontrases
+  ud:
+    - encontrara
+    - encontrase
+  nosotros:
+    - encontráramos
+    - encontrásemos
+  vosotros:
+    - encontrarais
+    - encontraseis
+  uds:
+    - encontraran
+    - encontrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encontrado
+    - hubiese encontrado
+  tu:
+    - hubieras encontrado
+    - hubieses encontrado
+  vos:
+    - hubieras encontrado
+    - hubieses encontrado
+  ud:
+    - hubiera encontrado
+    - hubiese encontrado
+  nosotros:
+    - hubiéramos encontrado
+    - hubiésemos encontrado
+  vosotros:
+    - hubierais encontrado
+    - hubieseis encontrado
+  uds:
+    - hubieran encontrado
+    - hubiesen encontrado
+imperativo:
+  tu: encuentra
+  vos: encontrá
+  ud: encuentre
+  nosotros: encontremos
+  vosotros: encontrad
+  uds: encuentren

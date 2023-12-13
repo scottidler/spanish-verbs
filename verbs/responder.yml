@@ -1,0 +1,142 @@
+participio-pasado: respondido
+infinitivo: responder
+gerundio: respondiendo
+presente-indicativo:
+  yo: respondo
+  tu: respondes
+  vos: respondes
+  ud: responde
+  nosotros: respondemos
+  vosotros: respondéis
+  uds: responden
+preterito-perfecto-simple:
+  yo: respondí
+  tu: respondiste
+  vos: respondiste
+  ud: respondió
+  nosotros: respondimos
+  vosotros: respondisteis
+  uds: respondieron
+preterito-imperfecto:
+  yo: respondía
+  tu: respondías
+  vos: respondías
+  ud: respondía
+  nosotros: respondíamos
+  vosotros: respondíais
+  uds: respondían
+futuro-simple:
+  yo: responderé
+  tu: responderás
+  vos: responderás
+  ud: responderá
+  nosotros: responderemos
+  vosotros: responderéis
+  uds: responderán
+condicional-simple:
+  yo: respondería
+  tu: responderías
+  vos: responderías
+  ud: respondería
+  nosotros: responderíamos
+  vosotros: responderíais
+  uds: responderían
+presente-perfecto:
+  yo: he respondido
+  tu: has respondido
+  vos: has respondido
+  ud: ha respondido
+  nosotros: hemos respondido
+  vosotros: habéis respondido
+  uds: han respondido
+preterito-pluscuamperfecto:
+  yo: había respondido
+  tu: habías respondido
+  vos: habías respondido
+  ud: había respondido
+  nosotros: habíamos respondido
+  vosotros: habíais respondido
+  uds: habían respondido
+futuro-perfecto:
+  yo: habré respondido
+  tu: habrás respondido
+  vos: habrás respondido
+  ud: habrá respondido
+  nosotros: habremos respondido
+  vosotros: habréis respondido
+  uds: habrán respondido
+condicional-perfecto:
+  yo: habría respondido
+  tu: habrías respondido
+  vos: habrías respondido
+  ud: habría respondido
+  nosotros: habríamos respondido
+  vosotros: habríais respondido
+  uds: habrían respondido
+presente-subjuntivo:
+  yo: responda
+  tu: respondas
+  vos: respondas
+  ud: responda
+  nosotros: respondamos
+  vosotros: respondáis
+  uds: respondan
+preterito-perfecto-subjuntivo:
+  yo: haya respondido
+  tu: hayas respondido
+  vos: hayas respondido
+  ud: haya respondido
+  nosotros: hayamos respondido
+  vosotros: hayáis respondido
+  uds: hayan respondido
+imperfecto-subjuntivo:
+  yo:
+    - respondiera
+    - respondiese
+  tu:
+    - respondieras
+    - respondieses
+  vos:
+    - respondieras
+    - respondieses
+  ud:
+    - respondiera
+    - respondiese
+  nosotros:
+    - respondiéramos
+    - respondiésemos
+  vosotros:
+    - respondierais
+    - respondieseis
+  uds:
+    - respondieran
+    - respondiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera respondido
+    - hubiese respondido
+  tu:
+    - hubieras respondido
+    - hubieses respondido
+  vos:
+    - hubieras respondido
+    - hubieses respondido
+  ud:
+    - hubiera respondido
+    - hubiese respondido
+  nosotros:
+    - hubiéramos respondido
+    - hubiésemos respondido
+  vosotros:
+    - hubierais respondido
+    - hubieseis respondido
+  uds:
+    - hubieran respondido
+    - hubiesen respondido
+imperativo:
+  tu: responde
+  vos: respondé
+  ud: responda
+  nosotros: respondamos
+  vosotros: responded
+  uds: respondan

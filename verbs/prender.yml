@@ -1,0 +1,142 @@
+infinitivo: prender
+gerundio: prendiendo
+participio-pasado: prendido
+presente-indicativo:
+  yo: prendo
+  tu: prendes
+  vos: prendés
+  ud: prende
+  nosotros: prendemos
+  vosotros: prendéis
+  uds: prenden
+preterito-perfecto-simple:
+  yo: prendí
+  tu: prendiste
+  vos: prendiste
+  ud: prendió
+  nosotros: prendimos
+  vosotros: prendisteis
+  uds: prendieron
+preterito-imperfecto:
+  yo: prendía
+  tu: prendías
+  vos: prendías
+  ud: prendía
+  nosotros: prendíamos
+  vosotros: prendíais
+  uds: prendían
+futuro-simple:
+  yo: prenderé
+  tu: prenderás
+  vos: prenderás
+  ud: prenderá
+  nosotros: prenderemos
+  vosotros: prenderéis
+  uds: prenderán
+condicional-simple:
+  yo: prendería
+  tu: prenderías
+  vos: prenderías
+  ud: prendería
+  nosotros: prenderíamos
+  vosotros: prenderíais
+  uds: prenderían
+presente-perfecto:
+  yo: he prendido
+  tu: has prendido
+  vos: has prendido
+  ud: ha prendido
+  nosotros: hemos prendido
+  vosotros: habéis prendido
+  uds: han prendido
+preterito-pluscuamperfecto:
+  yo: había prendido
+  tu: habías prendido
+  vos: habías prendido
+  ud: había prendido
+  nosotros: habíamos prendido
+  vosotros: habíais prendido
+  uds: habían prendido
+futuro-perfecto:
+  yo: habré prendido
+  tu: habrás prendido
+  vos: habrás prendido
+  ud: habrá prendido
+  nosotros: habremos prendido
+  vosotros: habréis prendido
+  uds: habrán prendido
+condicional-perfecto:
+  yo: habría prendido
+  tu: habrías prendido
+  vos: habrías prendido
+  ud: habría prendido
+  nosotros: habríamos prendido
+  vosotros: habríais prendido
+  uds: habrían prendido
+presente-subjuntivo:
+  yo: prenda
+  tu: prendas
+  vos: prendas
+  ud: prenda
+  nosotros: prendamos
+  vosotros: prendáis
+  uds: prendan
+preterito-perfecto-subjuntivo:
+  yo: haya prendido
+  tu: hayas prendido
+  vos: hayas prendido
+  ud: haya prendido
+  nosotros: hayamos prendido
+  vosotros: hayáis prendido
+  uds: hayan prendido
+imperfecto-subjuntivo:
+  yo:
+    - prendiera
+    - prendiese
+  tu:
+    - prendieras
+    - prendieses
+  vos:
+    - prendieras
+    - prendieses
+  ud:
+    - prendiera
+    - prendiese
+  nosotros:
+    - prendiéramos
+    - prendiésemos
+  vosotros:
+    - prendierais
+    - prendieseis
+  uds:
+    - prendieran
+    - prendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera prendido
+    - hubiese prendido
+  tu:
+    - hubieras prendido
+    - hubieses prendido
+  vos:
+    - hubieras prendido
+    - hubieses prendido
+  ud:
+    - hubiera prendido
+    - hubiese prendido
+  nosotros:
+    - hubiéramos prendido
+    - hubiésemos prendido
+  vosotros:
+    - hubierais prendido
+    - hubieseis prendido
+  uds:
+    - hubieran prendido
+    - hubiesen prendido
+imperativo:
+  tu: prende
+  vos: prendé
+  ud: prenda
+  nosotros: prendamos
+  vosotros: prended
+  uds: prendan

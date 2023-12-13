@@ -1,0 +1,142 @@
+infinitivo: mantener
+gerundio: manteniendo
+participio-pasado: mantenido
+presente-indicativo:
+  yo: mantengo
+  tu: mantienes
+  vos: mantenés
+  ud: mantiene
+  nosotros: mantenemos
+  vosotros: mantenéis
+  uds: mantienen
+preterito-perfecto-simple:
+  yo: mantuve
+  tu: mantuviste
+  vos: mantuviste
+  ud: mantuvo
+  nosotros: mantuvimos
+  vosotros: mantuvisteis
+  uds: mantuvieron
+preterito-imperfecto:
+  yo: mantenía
+  tu: mantenías
+  vos: mantenías
+  ud: mantenía
+  nosotros: manteníamos
+  vosotros: manteníais
+  uds: mantenían
+futuro-simple:
+  yo: mantendré
+  tu: mantendrás
+  vos: mantendrás
+  ud: mantendrá
+  nosotros: mantendremos
+  vosotros: mantendréis
+  uds: mantendrán
+condicional-simple:
+  yo: mantendría
+  tu: mantendrías
+  vos: mantendrías
+  ud: mantendría
+  nosotros: mantendríamos
+  vosotros: mantendríais
+  uds: mantendrían
+presente-perfecto:
+  yo: he mantenido
+  tu: has mantenido
+  vos: has mantenido
+  ud: ha mantenido
+  nosotros: hemos mantenido
+  vosotros: habéis mantenido
+  uds: han mantenido
+preterito-pluscuamperfecto:
+  yo: había mantenido
+  tu: habías mantenido
+  vos: habías mantenido
+  ud: había mantenido
+  nosotros: habíamos mantenido
+  vosotros: habíais mantenido
+  uds: habían mantenido
+futuro-perfecto:
+  yo: habré mantenido
+  tu: habrás mantenido
+  vos: habrás mantenido
+  ud: habrá mantenido
+  nosotros: habremos mantenido
+  vosotros: habréis mantenido
+  uds: habrán mantenido
+condicional-perfecto:
+  yo: habría mantenido
+  tu: habrías mantenido
+  vos: habrías mantenido
+  ud: habría mantenido
+  nosotros: habríamos mantenido
+  vosotros: habríais mantenido
+  uds: habrían mantenido
+presente-subjuntivo:
+  yo: mantenga
+  tu: mantengas
+  vos: mantengas
+  ud: mantenga
+  nosotros: mantengamos
+  vosotros: mantengáis
+  uds: mantengan
+preterito-perfecto-subjuntivo:
+  yo: haya mantenido
+  tu: hayas mantenido
+  vos: hayas mantenido
+  ud: haya mantenido
+  nosotros: hayamos mantenido
+  vosotros: hayáis mantenido
+  uds: hayan mantenido
+imperfecto-subjuntivo:
+  yo:
+    - mantuviera
+    - mantuviese
+  tu:
+    - mantuvieras
+    - mantuvieses
+  vos:
+    - mantuvieras
+    - mantuvieses
+  ud:
+    - mantuviera
+    - mantuviese
+  nosotros:
+    - mantuviéramos
+    - mantuviésemos
+  vosotros:
+    - mantuvierais
+    - mantuvieseis
+  uds:
+    - mantuvieran
+    - mantuviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mantenido
+    - hubiese mantenido
+  tu:
+    - hubieras mantenido
+    - hubieses mantenido
+  vos:
+    - hubieras mantenido
+    - hubieses mantenido
+  ud:
+    - hubiera mantenido
+    - hubiese mantenido
+  nosotros:
+    - hubiéramos mantenido
+    - hubiésemos mantenido
+  vosotros:
+    - hubierais mantenido
+    - hubieseis mantenido
+  uds:
+    - hubieran mantenido
+    - hubiesen mantenido
+imperativo:
+  tu: mantén
+  vos: mantené
+  ud: mantenga
+  nosotros: mantengamos
+  vosotros: mantened
+  uds: mantengan

@@ -1,0 +1,142 @@
+infinitivo: tostar
+gerundio: tostando
+participio-pasado: tostado
+presente-indicativo:
+  yo: tuesto
+  tu: tuestas
+  vos: tuestas
+  ud: tuesta
+  nosotros: tostamos
+  vosotros: tostáis
+  uds: tuestan
+preterito-perfecto-simple:
+  yo: tosté
+  tu: tostaste
+  vos: tocaste
+  ud: tostó
+  nosotros: tostamos
+  vosotros: tostasteis
+  uds: tostaron
+preterito-imperfecto:
+  yo: tostaba
+  tu: tostabas
+  vos: tostabas
+  ud: tostaba
+  nosotros: tostábamos
+  vosotros: tostabais
+  uds: tostaban
+futuro-simple:
+  yo: tostaré
+  tu: tostarás
+  vos: tostarás
+  ud: tostará
+  nosotros: tostaremos
+  vosotros: tostaréis
+  uds: tostarán
+condicional-simple:
+  yo: tostaría
+  tu: tostarías
+  vos: tostarías
+  ud: tostaría
+  nosotros: tostaríamos
+  vosotros: tostaríais
+  uds: tostarían
+presente-perfecto:
+  yo: he tostado
+  tu: has tostado
+  vos: has tostado
+  ud: ha tostado
+  nosotros: hemos tostado
+  vosotros: habéis tostado
+  uds: han tostado
+preterito-pluscuamperfecto:
+  yo: había tostado
+  tu: habías tostado
+  vos: habías tostado
+  ud: había tostado
+  nosotros: habíamos tostado
+  vosotros: habíais tostado
+  uds: habían tostado
+futuro-perfecto:
+  yo: habré tostado
+  tu: habrás tostado
+  vos: habrás tostado
+  ud: habrá tostado
+  nosotros: habremos tostado
+  vosotros: habréis tostado
+  uds: habrán tostado
+condicional-perfecto:
+  yo: habría tostado
+  tu: habrías tostado
+  vos: habrías tostado
+  ud: habría tostado
+  nosotros: habríamos tostado
+  vosotros: habríais tostado
+  uds: habrían tostado
+presente-subjuntivo:
+  yo: tueste
+  tu: tuestes
+  vos: tuestes
+  ud: tueste
+  nosotros: tostemos
+  vosotros: tostéis
+  uds: tuesten
+preterito-perfecto-subjuntivo:
+  yo: haya tostado
+  tu: hayas tostado
+  vos: hayas tostado
+  ud: haya tostado
+  nosotros: hayamos tostado
+  vosotros: hayáis tostado
+  uds: hayan tostado
+imperfecto-subjuntivo:
+  yo:
+    - tostara
+    - tostase
+  tu:
+    - tostaras
+    - tostases
+  vos:
+    - tostaras
+    - tostases
+  ud:
+    - tostara
+    - tostase
+  nosotros:
+    - tostáramos
+    - tostásemos
+  vosotros:
+    - tostarais
+    - tostaseis
+  uds:
+    - tostaran
+    - tostasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tostado
+    - hubiese tostado
+  tu:
+    - hubieras tostado
+    - hubieses tostado
+  vos:
+    - hubieras tostado
+    - hubieses tostado
+  ud:
+    - hubiera tostado
+    - hubiese tostado
+  nosotros:
+    - hubiéramos tostado
+    - hubiésemos tostado
+  vosotros:
+    - hubierais tostado
+    - hubieseis tostado
+  uds:
+    - hubieran tostado
+    - hubiesen tostado
+imperativo:
+  tu: tuesta
+  vos: tuestá
+  ud: tueste
+  nosotros: tostemos
+  vosotros: tostad
+  uds: tuesten

@@ -1,0 +1,142 @@
+infinitivo: pertenecer
+gerundio: perteneciendo
+participio-pasado: pertenecido
+presente-indicativo:
+  yo: pertenezco
+  tu: perteneces
+  vos: pertenecés
+  ud: pertenece
+  nosotros: pertenecemos
+  vosotros: pertenecéis
+  uds: pertenecen
+preterito-perfecto-simple:
+  yo: pertenecí
+  tu: perteneciste
+  vos: perteneciste
+  ud: perteneció
+  nosotros: pertenecimos
+  vosotros: pertenecisteis
+  uds: pertenecieron
+preterito-imperfecto:
+  yo: pertenecía
+  tu: pertenecías
+  vos: pertenecías
+  ud: pertenecía
+  nosotros: pertenecíamos
+  vosotros: pertenecíais
+  uds: pertenecían
+futuro-simple:
+  yo: perteneceré
+  tu: pertenecerás
+  vos: pertenecerás
+  ud: pertenecerá
+  nosotros: perteneceremos
+  vosotros: perteneceréis
+  uds: pertenecerán
+condicional-simple:
+  yo: pertenecería
+  tu: pertenecerías
+  vos: pertenecerías
+  ud: pertenecería
+  nosotros: perteneceríamos
+  vosotros: perteneceríais
+  uds: pertenecerían
+presente-perfecto:
+  yo: he pertenecido
+  tu: has pertenecido
+  vos: has pertenecido
+  ud: ha pertenecido
+  nosotros: hemos pertenecido
+  vosotros: habéis pertenecido
+  uds: han pertenecido
+preterito-pluscuamperfecto:
+  yo: había pertenecido
+  tu: habías pertenecido
+  vos: habías pertenecido
+  ud: había pertenecido
+  nosotros: habíamos pertenecido
+  vosotros: habíais pertenecido
+  uds: habían pertenecido
+futuro-perfecto:
+  yo: habré pertenecido
+  tu: habrás pertenecido
+  vos: habrás pertenecido
+  ud: habrá pertenecido
+  nosotros: habremos pertenecido
+  vosotros: habréis pertenecido
+  uds: habrán pertenecido
+condicional-perfecto:
+  yo: habría pertenecido
+  tu: habrías pertenecido
+  vos: habrías pertenecido
+  ud: habría pertenecido
+  nosotros: habríamos pertenecido
+  vosotros: habríais pertenecido
+  uds: habrían pertenecido
+presente-subjuntivo:
+  yo: pertenezca
+  tu: pertenezcas
+  vos: pertenezcas
+  ud: pertenezca
+  nosotros: pertenezcamos
+  vosotros: pertenezcáis
+  uds: pertenezcan
+preterito-perfecto-subjuntivo:
+  yo: haya pertenecido
+  tu: hayas pertenecido
+  vos: hayas pertenecido
+  ud: haya pertenecido
+  nosotros: hayamos pertenecido
+  vosotros: hayáis pertenecido
+  uds: hayan pertenecido
+imperfecto-subjuntivo:
+  yo:
+    - perteneciera
+    - perteneciese
+  tu:
+    - pertenecieras
+    - pertenecieses
+  vos:
+    - pertenecieras
+    - pertenecieses
+  ud:
+    - perteneciera
+    - perteneciese
+  nosotros:
+    - perteneciéramos
+    - perteneciésemos
+  vosotros:
+    - pertenecierais
+    - pertenecieseis
+  uds:
+    - pertenecieran
+    - perteneciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pertenecido
+    - hubiese pertenecido
+  tu:
+    - hubieras pertenecido
+    - hubieses pertenecido
+  vos:
+    - hubieras pertenecido
+    - hubieses pertenecido
+  ud:
+    - hubiera pertenecido
+    - hubiese pertenecido
+  nosotros:
+    - hubiéramos pertenecido
+    - hubiésemos pertenecido
+  vosotros:
+    - hubierais pertenecido
+    - hubieseis pertenecido
+  uds:
+    - hubieran pertenecido
+    - hubiesen pertenecido
+imperativo:
+  tu: pertenece
+  vos: pertenecé
+  ud: pertenezca
+  nosotros: pertenezcamos
+  vosotros: perteneced
+  uds: pertenezcan

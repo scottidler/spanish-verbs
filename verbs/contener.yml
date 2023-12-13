@@ -1,0 +1,142 @@
+infinitivo: contener
+gerundio: conteniendo
+participio-pasado: contenido
+presente-indicativo:
+  yo: contengo
+  tu: contienes
+  vos: contenés
+  ud: contiene
+  nosotros: contenemos
+  vosotros: contenéis
+  uds: contienen
+preterito-perfecto-simple:
+  yo: contuve
+  tu: contuviste
+  vos: contuviste
+  ud: contuvo
+  nosotros: contuvimos
+  vosotros: contuvisteis
+  uds: contuvieron
+preterito-imperfecto:
+  yo: contenía
+  tu: contenías
+  vos: contenías
+  ud: contenía
+  nosotros: conteníamos
+  vosotros: conteníais
+  uds: contenían
+futuro-simple:
+  yo: contendré
+  tu: contendrás
+  vos: contendrás
+  ud: contendrá
+  nosotros: contendremos
+  vosotros: contendréis
+  uds: contendrán
+condicional-simple:
+  yo: contendría
+  tu: contendrías
+  vos: contendrías
+  ud: contendría
+  nosotros: contendríamos
+  vosotros: contendríais
+  uds: contendrían
+presente-perfecto:
+  yo: he contenido
+  tu: has contenido
+  vos: has contenido
+  ud: ha contenido
+  nosotros: hemos contenido
+  vosotros: habéis contenido
+  uds: han contenido
+preterito-pluscuamperfecto:
+  yo: había contenido
+  tu: habías contenido
+  vos: habías contenido
+  ud: había contenido
+  nosotros: habíamos contenido
+  vosotros: habíais contenido
+  uds: habían contenido
+futuro-perfecto:
+  yo: habré contenido
+  tu: habrás contenido
+  vos: habrás contenido
+  ud: habrá contenido
+  nosotros: habremos contenido
+  vosotros: habréis contenido
+  uds: habrán contenido
+condicional-perfecto:
+  yo: habría contenido
+  tu: habrías contenido
+  vos: habrías contenido
+  ud: habría contenido
+  nosotros: habríamos contenido
+  vosotros: habríais contenido
+  uds: habrían contenido
+presente-subjuntivo:
+  yo: contenga
+  tu: contengas
+  vos: contengas
+  ud: contenga
+  nosotros: contengamos
+  vosotros: contengáis
+  uds: contengan
+preterito-perfecto-subjuntivo:
+  yo: haya contenido
+  tu: hayas contenido
+  vos: hayas contenido
+  ud: haya contenido
+  nosotros: hayamos contenido
+  vosotros: hayáis contenido
+  uds: hayan contenido
+imperfecto-subjuntivo:
+  yo:
+    - contuviera
+    - contuviese
+  tu:
+    - contuvieras
+    - contuvieses
+  vos:
+    - contuvieras
+    - contuvieses
+  ud:
+    - contuviera
+    - contuviese
+  nosotros:
+    - contuviéramos
+    - contuviésemos
+  vosotros:
+    - contuvierais
+    - contuvieseis
+  uds:
+    - contuvieran
+    - contuviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera contenido
+    - hubiese contenido
+  tu:
+    - hubieras contenido
+    - hubieses contenido
+  vos:
+    - hubieras contenido
+    - hubieses contenido
+  ud:
+    - hubiera contenido
+    - hubiese contenido
+  nosotros:
+    - hubiéramos contenido
+    - hubiésemos contenido
+  vosotros:
+    - hubierais contenido
+    - hubieseis contenido
+  uds:
+    - hubieran contenido
+    - hubiesen contenido
+imperativo:
+  tu: contiene
+  vos: contené
+  ud: contenga
+  nosotros: contengamos
+  vosotros: contain
+  uds: contengan

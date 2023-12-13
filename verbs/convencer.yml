@@ -1,0 +1,142 @@
+infinitivo: convencer
+gerundio: convenciendo
+participio-pasado: convencido
+presente-indicativo:
+  yo: convenzo
+  tu: convences
+  vos: convencés
+  ud: convence
+  nosotros: convencemos
+  vosotros: convencéis
+  uds: convencen
+preterito-perfecto-simple:
+  yo: convencí
+  tu: convenciste
+  vos: convenciste
+  ud: convenció
+  nosotros: convencimos
+  vosotros: convencisteis
+  uds: convencieron
+preterito-imperfecto:
+  yo: convencía
+  tu: convencías
+  vos: convencías
+  ud: convencía
+  nosotros: convencíamos
+  vosotros: convencíais
+  uds: convencían
+futuro-simple:
+  yo: convenceré
+  tu: convencerás
+  vos: convencerás
+  ud: convencerá
+  nosotros: convenceremos
+  vosotros: convenceréis
+  uds: convencerán
+condicional-simple:
+  yo: convencería
+  tu: convencerías
+  vos: convencerías
+  ud: convencería
+  nosotros: convenceríamos
+  vosotros: convenceríais
+  uds: convencerían
+presente-perfecto:
+  yo: he convencido
+  tu: has convencido
+  vos: has convencido
+  ud: ha convencido
+  nosotros: hemos convencido
+  vosotros: habéis convencido
+  uds: han convencido
+preterito-pluscuamperfecto:
+  yo: había convencido
+  tu: habías convencido
+  vos: habías convencido
+  ud: había convencido
+  nosotros: habíamos convencido
+  vosotros: habíais convencido
+  uds: habían convencido
+futuro-perfecto:
+  yo: habré convencido
+  tu: habrás convencido
+  vos: habrás convencido
+  ud: habrá convencido
+  nosotros: habremos convencido
+  vosotros: habréis convencido
+  uds: habrán convencido
+condicional-perfecto:
+  yo: habría convencido
+  tu: habrías convencido
+  vos: habrías convencido
+  ud: habría convencido
+  nosotros: habríamos convencido
+  vosotros: habríais convencido
+  uds: habrían convencido
+presente-subjuntivo:
+  yo: convenza
+  tu: convenzas
+  vos: convenzas
+  ud: convenza
+  nosotros: convenzamos
+  vosotros: convenzáis
+  uds: convenzan
+preterito-perfecto-subjuntivo:
+  yo: haya convencido
+  tu: hayas convencido
+  vos: hayas convencido
+  ud: haya convencido
+  nosotros: hayamos convencido
+  vosotros: hayáis convencido
+  uds: hayan convencido
+imperfecto-subjuntivo:
+  yo:
+    - convenciera
+    - convenciese
+  tu:
+    - convencieras
+    - convieses
+  vos:
+    - convencieras
+    - convieses
+  ud:
+    - convenciera
+    - convenciese
+  nosotros:
+    - convenciéramos
+    - convenciésemos
+  vosotros:
+    - convencierais
+    - convieseis
+  uds:
+    - convencieran
+    - conviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera convencido
+    - hubiese convencido
+  tu:
+    - hubieras convencido
+    - hubieses convencido
+  vos:
+    - hubieras convencido
+    - hubieses convencido
+  ud:
+    - hubiera convencido
+    - hubiese convencido
+  nosotros:
+    - hubiéramos convencido
+    - hubiésemos convencido
+  vosotros:
+    - hubierais convencido
+    - hubieseis convencido
+  uds:
+    - hubieran convencido
+    - hubiesen convencido
+imperativo:
+  tu: convence
+  vos: convencé
+  ud: convenza
+  nosotros: convenzamos
+  vosotros: convenced
+  uds: convenzan

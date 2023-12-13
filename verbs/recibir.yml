@@ -1,0 +1,142 @@
+infinitivo: recibir
+gerundio: recibiendo
+participio-pasado: recibido
+presente-indicativo:
+  yo: recibo
+  tu: recibes
+  vos: recibes
+  ud: recibe
+  nosotros: recibimos
+  vosotros: recibís
+  uds: reciben
+preterito-perfecto-simple:
+  yo: recibí
+  tu: recibiste
+  vos: recibiste
+  ud: recibió
+  nosotros: recibimos
+  vosotros: recibisteis
+  uds: recibieron
+preterito-imperfecto:
+  yo: recibía
+  tu: recibías
+  vos: recibías
+  ud: recibía
+  nosotros: recibíamos
+  vosotros: recibíais
+  uds: recibían
+futuro-simple:
+  yo: recibiré
+  tu: recibirás
+  vos: recibirás
+  ud: recibirá
+  nosotros: recibiremos
+  vosotros: recibiréis
+  uds: recibirán
+condicional-simple:
+  yo: recibiría
+  tu: recibirías
+  vos: recibirías
+  ud: recibiría
+  nosotros: recibiríamos
+  vosotros: recibiríais
+  uds: recibirían
+presente-perfecto:
+  yo: he recibido
+  tu: has recibido
+  vos: has recibido
+  ud: ha recibido
+  nosotros: hemos recibido
+  vosotros: habéis recibido
+  uds: han recibido
+preterito-pluscuamperfecto:
+  yo: había recibido
+  tu: habías recibido
+  vos: habías recibido
+  ud: había recibido
+  nosotros: habíamos recibido
+  vosotros: habíais recibido
+  uds: habían recibido
+futuro-perfecto:
+  yo: habré recibido
+  tu: habrás recibido
+  vos: habrás recibido
+  ud: habrá recibido
+  nosotros: habremos recibido
+  vosotros: habréis recibido
+  uds: habrán recibido
+condicional-perfecto:
+  yo: habría recibido
+  tu: habrías recibido
+  vos: habrías recibido
+  ud: habría recibido
+  nosotros: habríamos recibido
+  vosotros: habríais recibido
+  uds: habrían recibido
+presente-subjuntivo:
+  yo: reciba
+  tu: recibas
+  vos: recibas
+  ud: reciba
+  nosotros: recibamos
+  vosotros: recibáis
+  uds: reciban
+preterito-perfecto-subjuntivo:
+  yo: haya recibido
+  tu: hayas recibido
+  vos: hayas recibido
+  ud: haya recibido
+  nosotros: hayamos recibido
+  vosotros: hayáis recibido
+  uds: hayan recibido
+imperfecto-subjuntivo:
+  yo:
+    - recibiera
+    - recibiese
+  tu:
+    - recibieras
+    - recibieses
+  vos:
+    - recibieras
+    - recibieses
+  ud:
+    - recibiera
+    - recibiese
+  nosotros:
+    - recibiéramos
+    - recibiésemos
+  vosotros:
+    - recibierais
+    - recibieseis
+  uds:
+    - recibieran
+    - recibiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recibido
+    - hubiese recibido
+  tu:
+    - hubieras recibido
+    - hubieses recibido
+  vos:
+    - hubieras recibido
+    - hubieses recibido
+  ud:
+    - hubiera recibido
+    - hubiese recibido
+  nosotros:
+    - hubiéramos recibido
+    - hubiésemos recibido
+  vosotros:
+    - hubierais recibido
+    - hubieseis recibido
+  uds:
+    - hubieran recibido
+    - hubiesen recibido
+imperativo:
+  tu: recibe
+  vos: recibí
+  ud: reciba
+  nosotros: recibamos
+  vosotros: recibid
+  uds: reciban

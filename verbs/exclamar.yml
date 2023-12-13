@@ -1,0 +1,142 @@
+infinitivo: exclamar
+gerundio: exclamando
+participio-pasado: exclamado
+presente-indicativo:
+  yo: exclamo
+  tu: exclamas
+  vos: exclamás
+  ud: exclama
+  nosotros: exclamamos
+  vosotros: exclamáis
+  uds: exclaman
+preterito-perfecto-simple:
+  yo: exclamé
+  tu: exclamaste
+  vos: exclamaste
+  ud: exclamó
+  nosotros: exclamamos
+  vosotros: exclamasteis
+  uds: exclamaron
+preterito-imperfecto:
+  yo: exclamaba
+  tu: exclamabas
+  vos: exclamabas
+  ud: exclamaba
+  nosotros: exclamábamos
+  vosotros: exclamabais
+  uds: exclamaban
+futuro-simple:
+  yo: exclamaré
+  tu: exclamarás
+  vos: exclamarás
+  ud: exclamará
+  nosotros: exclamaremos
+  vosotros: exclamaréis
+  uds: exclamarán
+condicional-simple:
+  yo: exclamaría
+  tu: exclamarías
+  vos: exclamarías
+  ud: exclamaría
+  nosotros: exclamaríamos
+  vosotros: exclamaríais
+  uds: exclamarían
+presente-perfecto:
+  yo: he exclamado
+  tu: has exclamado
+  vos: has exclamado
+  ud: ha exclamado
+  nosotros: hemos exclamado
+  vosotros: habéis exclamado
+  uds: han exclamado
+preterito-pluscuamperfecto:
+  yo: había exclamado
+  tu: habías exclamado
+  vos: habías exclamado
+  ud: había exclamado
+  nosotros: habíamos exclamado
+  vosotros: habíais exclamado
+  uds: habían exclamado
+futuro-perfecto:
+  yo: habré exclamado
+  tu: habrás exclamado
+  vos: habrás exclamado
+  ud: habrá exclamado
+  nosotros: habremos exclamado
+  vosotros: habréis exclamado
+  uds: habrán exclamado
+condicional-perfecto:
+  yo: habría exclamado
+  tu: habrías exclamado
+  vos: habrías exclamado
+  ud: habría exclamado
+  nosotros: habríamos exclamado
+  vosotros: habríais exclamado
+  uds: habrían exclamado
+presente-subjuntivo:
+  yo: exclame
+  tu: exclames
+  vos: exclames
+  ud: exclame
+  nosotros: exclamemos
+  vosotros: exclaméis
+  uds: exclamen
+preterito-perfecto-subjuntivo:
+  yo: haya exclamado
+  tu: hayas exclamado
+  vos: hayas exclamado
+  ud: haya exclamado
+  nosotros: hayamos exclamado
+  vosotros: hayáis exclamado
+  uds: hayan exclamado
+imperfecto-subjuntivo:
+  yo:
+    - exclamara
+    - exclamase
+  tu:
+    - exclamaras
+    - exclamases
+  vos:
+    - exclamaras
+    - exclamases
+  ud:
+    - exclamara
+    - exclamase
+  nosotros:
+    - exclamáramos
+    - exclamásemos
+  vosotros:
+    - exclamarais
+    - exclamaseis
+  uds:
+    - exclamaran
+    - exclamasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera exclamado
+    - hubiese exclamado
+  tu:
+    - hubieras exclamado
+    - hubieses exclamado
+  vos:
+    - hubieras exclamado
+    - hubieses exclamado
+  ud:
+    - hubiera exclamado
+    - hubiese exclamado
+  nosotros:
+    - hubiéramos exclamado
+    - hubiésemos exclamado
+  vosotros:
+    - hubierais exclamado
+    - hubieseis exclamado
+  uds:
+    - hubieran exclamado
+    - hubiesen exclamado
+imperativo:
+  tu: exclama
+  vos: exclamá
+  ud: exclame
+  nosotros: exclamemos
+  vosotros: exclamad
+  uds: exclamen

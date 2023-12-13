@@ -1,0 +1,142 @@
+infinitivo: aparecer
+gerundio: apareciendo
+participio-pasado: aparecido
+presente-indicativo:
+  yo: aparezco
+  tu: apareces
+  vos: apareces
+  ud: aparece
+  nosotros: aparecemos
+  vosotros: aparecéis
+  uds: aparecen
+preterito-perfecto-simple:
+  yo: aparecí
+  tu: apareciste
+  vos: apareciste
+  ud: apareció
+  nosotros: aparecimos
+  vosotros: aparecisteis
+  uds: aparecieron
+preterito-imperfecto:
+  yo: aparecía
+  tu: aparecías
+  vos: aparecías
+  ud: aparecía
+  nosotros: aparecíamos
+  vosotros: aparecíais
+  uds: aparecían
+futuro-simple:
+  yo: apareceré
+  tu: aparecerás
+  vos: aparecerás
+  ud: aparecerá
+  nosotros: apareceremos
+  vosotros: apareceréis
+  uds: aparecerán
+condicional-simple:
+  yo: aparecería
+  tu: aparecerías
+  vos: aparecerías
+  ud: aparecería
+  nosotros: apareceríamos
+  vosotros: apareceríais
+  uds: aparecerían
+presente-perfecto:
+  yo: he aparecido
+  tu: has aparecido
+  vos: has aparecido
+  ud: ha aparecido
+  nosotros: hemos aparecido
+  vosotros: habéis aparecido
+  uds: han aparecido
+preterito-pluscuamperfecto:
+  yo: había aparecido
+  tu: habías aparecido
+  vos: habías aparecido
+  ud: había aparecido
+  nosotros: habíamos aparecido
+  vosotros: habíais aparecido
+  uds: habían aparecido
+futuro-perfecto:
+  yo: habré aparecido
+  tu: habrás aparecido
+  vos: habrás aparecido
+  ud: habrá aparecido
+  nosotros: habremos aparecido
+  vosotros: habréis aparecido
+  uds: habrán aparecido
+condicional-perfecto:
+  yo: habría aparecido
+  tu: habrías aparecido
+  vos: habrías aparecido
+  ud: habría aparecido
+  nosotros: habríamos aparecido
+  vosotros: habríais aparecido
+  uds: habrían aparecido
+presente-subjuntivo:
+  yo: aparezca
+  tu: aparezcas
+  vos: aparezcas
+  ud: aparezca
+  nosotros: aparezcamos
+  vosotros: aparezcáis
+  uds: aparezcan
+preterito-perfecto-subjuntivo:
+  yo: haya aparecido
+  tu: hayas aparecido
+  vos: hayas aparecido
+  ud: haya aparecido
+  nosotros: hayamos aparecido
+  vosotros: hayáis aparecido
+  uds: hayan aparecido
+imperfecto-subjuntivo:
+  yo:
+    - apareciera
+    - apareciese
+  tu:
+    - aparecieras
+    - aparecieses
+  vos:
+    - aparecieras
+    - aparecieses
+  ud:
+    - apareciera
+    - apareciese
+  nosotros:
+    - apareciéramos
+    - apareciésemos
+  vosotros:
+    - aparecierais
+    - aparecieseis
+  uds:
+    - aparecieran
+    - apareciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aparecido
+    - hubiese aparecido
+  tu:
+    - hubieras aparecido
+    - hubieses aparecido
+  vos:
+    - hubieras aparecido
+    - hubieses aparecido
+  ud:
+    - hubiera aparecido
+    - hubiese aparecido
+  nosotros:
+    - hubiéramos aparecido
+    - hubiésemos aparecido
+  vosotros:
+    - hubierais aparecido
+    - hubieseis aparecido
+  uds:
+    - hubieran aparecido
+    - hubiesen aparecido
+imperativo:
+  tu: aparece
+  vos: aparecé
+  ud: aparezca
+  nosotros: aparezcamos
+  vosotros: apareced
+  uds: aparezcan

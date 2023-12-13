@@ -1,0 +1,142 @@
+infinitivo: parpadear
+gerundio: parpadeando
+participio-pasado: parpadeado
+presente-indicativo:
+    yo: parpadeo
+    tu: parpadeas
+    vos: parpadeas
+    ud: parpadea
+    nosotros: parpadeamos
+    vosotros: parpadeáis
+    uds: parpadean
+preterito-perfecto-simple:
+    yo: parpadeé
+    tu: parpadeaste
+    vos: parpadeaste
+    ud: parpadeó
+    nosotros: parpadeamos
+    vosotros: parpadeasteis
+    uds: parpadearon
+preterito-imperfecto:
+    yo: parpadeaba
+    tu: parpadeabas
+    vos: parpadeabas
+    ud: parpadeaba
+    nosotros: parpadeábamos
+    vosotros: parpadeabais
+    uds: parpadeaban
+futuro-simple:
+    yo: parpadearé
+    tu: parpadearás
+    vos: parpadearás
+    ud: parpadeará
+    nosotros: parpadearemos
+    vosotros: parpadearéis
+    uds: parpadearán
+condicional-simple:
+    yo: parpadearía
+    tu: parpadearías
+    vos: parpadearías
+    ud: parpadearía
+    nosotros: parpadearemos
+    vosotros: parpadeareis
+    uds: parpadearían
+presente-perfecto:
+    yo: he parpadeado
+    tu: has parpadeado
+    vos: has parpadeado
+    ud: ha parpadeado
+    nosotros: hemos parpadeado
+    vosotros: habéis parpadeado
+    uds: han parpadeado
+preterito-pluscuamperfecto:
+    yo: había parpadeado
+    tu: habías parpadeado
+    vos: habías parpadeado
+    ud: había parpadeado
+    nosotros: habíamos parpadeado
+    vosotros: habíais parpadeado
+    uds: habían parpadeado
+futuro-perfecto:
+    yo: habré parpadeado
+    tu: habrás parpadeado
+    vos: habrás parpadeado
+    ud: habrá parpadeado
+    nosotros: habremos parpadeado
+    vosotros: habréis parpadeado
+    uds: habrán parpadeado
+condicional-perfecto:
+    yo: habría parpadeado
+    tu: habrías parpadeado
+    vos: habrías parpadeado
+    ud: habría parpadeado
+    nosotros: habríamos parpadeado
+    vosotros: habríais parpadeado
+    uds: habrían parpadeado
+presente-subjuntivo:
+    yo: parpadee
+    tu: parpadees
+    vos: parpadees
+    ud: parpadee
+    nosotros: parpadeemos
+    vosotros: parpadeéis
+    uds: parpadeen
+preterito-perfecto-subjuntivo:
+    yo: haya parpadeado
+    tu: hayas parpadeado
+    vos: hayas parpadeado
+    ud: haya parpadeado
+    nosotros: hayamos parpadeado
+    vosotros: hayáis parpadeado
+    uds: hayan parpadeado
+imperfecto-subjuntivo:
+    yo:
+      - parpadeara
+      - parpadease
+    tu:
+      - parpadearas
+      - parpadeases
+    vos:
+      - parpadearas
+      - parpadeases
+    ud:
+      - parpadeara
+      - parpadease
+    nosotros:
+      - parpadeáramos
+      - parpadeásemos
+    vosotros:
+      - parpadearais
+      - parpadeaseis
+    uds:
+      - parpadearan
+      - parpadeasen
+pluscuamperfecto-subjuntivo:
+    yo:
+      - hubiera parpadeado
+      - hubiese parpadeado
+    tu:
+      - hubieras parpadeado
+      - hubieses parpadeado
+    vos:
+      - hubieras parpadeado
+      - hubieses parpadeado
+    ud:
+      - hubiera parpadeado
+      - hubiese parpadeado
+    nosotros:
+      - hubiéramos parpadeado
+      - hubiésemos parpadeado
+    vosotros:
+      - hubierais parpadeado
+      - hubieseis parpadeado
+    uds:
+      - hubieran parpadeado
+      - hubiesen parpadeado
+imperativo:
+    tu: parpadea
+    vos: parpadea
+    ud: parpadee
+    nosotros: parpadeemos
+    vosotros: parpadead
+    uds: parpadeen

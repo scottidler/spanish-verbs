@@ -1,0 +1,142 @@
+infinitivo: trepar
+gerundio: trepando
+participio-pasado: trepado
+presente-indicativo:
+  yo: trepo
+  tu: trepas
+  vos: trepás
+  ud: trepa
+  nosotros: trepamos
+  vosotros: trepáis
+  uds: trepan
+preterito-perfecto-simple:
+  yo: trepé
+  tu: trepaste
+  vos: trepaste
+  ud: trepó
+  nosotros: trepamos
+  vosotros: trepasteis
+  uds: treparon
+preterito-imperfecto:
+  yo: trepaba
+  tu: trepabas
+  vos: trepabas
+  ud: trepaba
+  nosotros: trepábamos
+  vosotros: trepabais
+  uds: trepaban
+futuro-simple:
+  yo: treparé
+  tu: treparás
+  vos: treparás
+  ud: trepará
+  nosotros: treparemos
+  vosotros: treparéis
+  uds: treparán
+condicional-simple:
+  yo: treparía
+  tu: treparías
+  vos: treparías
+  ud: treparía
+  nosotros: treparíamos
+  vosotros: treparíais
+  uds: treparían
+presente-perfecto:
+  yo: he trepado
+  tu: has trepado
+  vos: has trepado
+  ud: ha trepado
+  nosotros: hemos trepado
+  vosotros: habéis trepado
+  uds: han trepado
+preterito-pluscuamperfecto:
+  yo: había trepado
+  tu: habías trepado
+  vos: habías trepado
+  ud: había trepado
+  nosotros: habíamos trepado
+  vosotros: habíais trepado
+  uds: habían trepado
+futuro-perfecto:
+  yo: habré trepado
+  tu: habrás trepado
+  vos: habrás trepado
+  ud: habrá trepado
+  nosotros: habremos trepado
+  vosotros: habréis trepado
+  uds: habrán trepado
+condicional-perfecto:
+  yo: habría trepado
+  tu: habrías trepado
+  vos: habrías trepado
+  ud: habría trepado
+  nosotros: habríamos trepado
+  vosotros: habríais trepado
+  uds: habrían trepado
+presente-subjuntivo:
+  yo: trepe
+  tu: trepes
+  vos: trepes
+  ud: trepe
+  nosotros: trepemos
+  vosotros: trepéis
+  uds: trepen
+preterito-perfecto-subjuntivo:
+  yo: haya trepado
+  tu: hayas trepado
+  vos: hayas trepado
+  ud: haya trepado
+  nosotros: hayamos trepado
+  vosotros: hayáis trepado
+  uds: hayan trepado
+imperfecto-subjuntivo:
+  yo:
+    - trepara
+    - trepase
+  tu:
+    - treparas
+    - trepases
+  vos:
+    - treparas
+    - trepases
+  ud:
+    - trepara
+    - trepase
+  nosotros:
+    - trepáramos
+    - trepásemos
+  vosotros:
+    - treparais
+    - trepaseis
+  uds:
+    - treparan
+    - trepasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera trepado
+    - hubiese trepado
+  tu:
+    - hubieras trepado
+    - hubieses trepado
+  vos:
+    - hubieras trepado
+    - hubieses trepado
+  ud:
+    - hubiera trepado
+    - hubiese trepado
+  nosotros:
+    - hubiéramos trepado
+    - hubiésemos trepado
+  vosotros:
+    - hubierais trepado
+    - hubieseis trepado
+  uds:
+    - hubieran trepado
+    - hubiesen trepado
+imperativo:
+  tu: trepa
+  vos: trepá
+  ud: trepe
+  nosotros: trepemos
+  vosotros: trepad
+  uds: trepen

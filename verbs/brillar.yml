@@ -1,0 +1,156 @@
+infinitivo: brillar
+gerundio: brillando
+participio-pasado: brillado
+
+presente-indicativo:
+  yo: brillo
+  tu: brillas
+  vos: brillas
+  ud: brilla
+  nosotros: brillamos
+  vosotros: brilláis
+  uds: brillan
+
+preterito-perfecto-simple:
+  yo: brillé
+  tu: brillaste
+  vos: brillaste
+  ud: brilló
+  nosotros: brillamos
+  vosotros: brillasteis
+  uds: brillaron
+
+preterito-imperfecto:
+  yo: brillaba
+  tu: brillabas
+  vos: brillabas
+  ud: brillaba
+  nosotros: brillábamos
+  vosotros: brillabais
+  uds: brillaban
+
+futuro-simple:
+  yo: brillaré
+  tu: brillarás
+  vos: brillarás
+  ud: brillará
+  nosotros: brillaremos
+  vosotros: brillaréis
+  uds: brillarán
+
+condicional-simple:
+  yo: brillaría
+  tu: brillarías
+  vos: brillarías
+  ud: brillaría
+  nosotros: brillaríamos
+  vosotros: brillaríais
+  uds: brillarían
+
+presente-perfecto:
+  yo: he brillado
+  tu: has brillado
+  vos: has brillado
+  ud: ha brillado
+  nosotros: hemos brillado
+  vosotros: habéis brillado
+  uds: han brillado
+
+preterito-pluscuamperfecto:
+  yo: había brillado
+  tu: habías brillado
+  vos: habías brillado
+  ud: había brillado
+  nosotros: habíamos brillado
+  vosotros: habíais brillado
+  uds: habían brillado
+
+futuro-perfecto:
+  yo: habré brillado
+  tu: habrás brillado
+  vos: habrás brillado
+  ud: habrá brillado
+  nosotros: habremos brillado
+  vosotros: habréis brillado
+  uds: habrán brillado
+
+condicional-perfecto:
+  yo: habría brillado
+  tu: habrías brillado
+  vos: habrías brillado
+  ud: habría brillado
+  nosotros: habríamos brillado
+  vosotros: habríais brillado
+  uds: habrían brillado
+
+presente-subjuntivo:
+  yo: brille
+  tu: brilles
+  vos: brilles
+  ud: brille
+  nosotros: brillamos
+  vosotros: brilláis
+  uds: brillen
+
+preterito-perfecto-subjuntivo:
+  yo: haya brillado
+  tu: hayas brillado
+  vos: hayas brillado
+  ud: haya brillado
+  nosotros: hayamos brillado
+  vosotros: hayáis brillado
+  uds: hayan brillado
+
+imperfecto-subjuntivo:
+  yo:
+    - brillara
+    - brillase
+  tu:
+    - brillaras
+    - brilloses
+  vos:
+    - brillaras
+    - brilloses
+  ud:
+    - brillara
+    - brillase
+  nosotros:
+    - brilláramos
+    - brillásemos
+  vosotros:
+    - brillarais
+    - brilleaseis
+  uds:
+    - brillaran
+    - brillasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera brillado
+    - hubiese brillado
+  tu:
+    - hubieras brillado
+    - hubieses brillado
+  vos:
+    - hubieras brillado
+    - hubieses brillado
+  ud:
+    - hubiera brillado
+    - hubiese brillado
+  nosotros:
+    - hubiéramos brillado
+    - hubiésemos brillado
+  vosotros:
+    - hubierais brillado
+    - hubieseis brillado
+  uds:
+    - hubieran brillado
+    - hubiesen brillado
+
+imperativo:
+  tu: brilla
+  vos: brillá
+  ud: brille
+  nosotros: brillamos
+  vosotros: brillad
+  uds: brillen

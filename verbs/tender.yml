@@ -1,0 +1,142 @@
+infinitivo: tender
+gerundio: tendiendo
+participio-pasado: tendido
+presente-indicativo:
+  yo: tiento
+  tu: tientas
+  vos: tientas
+  ud: tienta
+  nosotros: tendemos
+  vosotros: tendéis
+  uds: tientan
+preterito-perfecto-simple:
+  yo: tendí
+  tu: tendiste
+  vos: tendiste
+  ud: tendió
+  nosotros: tendimos
+  vosotros: tendisteis
+  uds: tendieron
+preterito-imperfecto:
+  yo: tendía
+  tu: tendías
+  vos: tendías
+  ud: tendía
+  nosotros: tendíamos
+  vosotros: tendíais
+  uds: tendían
+futuro-simple:
+  yo: tenderé
+  tu: tenderás
+  vos: tenderás
+  ud: tenderá
+  nosotros: tenderemos
+  vosotros: tenderéis
+  uds: tenderán
+condicional-simple:
+  yo: tendería
+  tu: tenderías
+  vos: tenderías
+  ud: tendería
+  nosotros: tenderíamos
+  vosotros: tenderíais
+  uds: tenderían
+presente-perfecto:
+  yo: he tendido
+  tu: has tendido
+  vos: has tendido
+  ud: ha tendido
+  nosotros: hemos tendido
+  vosotros: habéis tendido
+  uds: han tendido
+preterito-pluscuamperfecto:
+  yo: había tendido
+  tu: habías tendido
+  vos: habías tendido
+  ud: había tendido
+  nosotros: habíamos tendido
+  vosotros: habíais tendido
+  uds: habían tendido
+futuro-perfecto:
+  yo: habré tendido
+  tu: habrás tendido
+  vos: habrás tendido
+  ud: habrá tendido
+  nosotros: habremos tendido
+  vosotros: habréis tendido
+  uds: habrán tendido
+condicional-perfecto:
+  yo: habría tendido
+  tu: habrías tendido
+  vos: habrías tendido
+  ud: habría tendido
+  nosotros: habríamos tendido
+  vosotros: habríais tendido
+  uds: habrían tendido
+presente-subjuntivo:
+  yo: tienda
+  tu: tiendas
+  vos: tiendas
+  ud: tienda
+  nosotros: tendamos
+  vosotros: tendáis
+  uds: tiendan
+preterito-perfecto-subjuntivo:
+  yo: haya tendido
+  tu: hayas tendido
+  vos: hayas tendido
+  ud: haya tendido
+  nosotros: hayamos tendido
+  vosotros: hayáis tendido
+  uds: hayan tendido
+imperfecto-subjuntivo:
+  yo:
+    - tendiera
+    - tendiese
+  tu:
+    - tenderas
+    - tendieses
+  vos:
+    - tenderas
+    - tendieses
+  ud:
+    - tendiera
+    - tendiese
+  nosotros:
+    - tendiéramos
+    - tendiésemos
+  vosotros:
+    - tenderais
+    - tendieseis
+  uds:
+    - tenderan
+    - tendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tendido
+    - hubiese tendido
+  tu:
+    - hubieras tendido
+    - hubieses tendido
+  vos:
+    - hubieras tendido
+    - hubieses tendido
+  ud:
+    - hubiera tendido
+    - hubiese tendido
+  nosotros:
+    - hubiéramos tendido
+    - hubiésemos tendido
+  vosotros:
+    - hubierais tendido
+    - hubieseis tendido
+  uds:
+    - hubieran tendido
+    - hubiesen tendido
+imperativo:
+  tu: tiende
+  vos: tiendé
+  ud: tienda
+  nosotros: tendamos
+  vosotros: tended
+  uds: tiendan

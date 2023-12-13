@@ -1,0 +1,156 @@
+infinitivo: leer
+gerundio: leyendo
+participio-pasado: leído
+
+presente-indicativo:
+  yo: leo
+  tu: lees
+  vos: lees
+  ud: lee
+  nosotros: leemos
+  vosotros: leéis
+  uds: leen
+
+preterito-perfecto-simple:
+  yo: leí
+  tu: leíste
+  vos: leíste
+  ud: leyó
+  nosotros: leímos
+  vosotros: leísteis
+  uds: leyeron
+
+preterito-imperfecto:
+  yo: leía
+  tu: leías
+  vos: leías
+  ud: leía
+  nosotros: leíamos
+  vosotros: leíais
+  uds: leían
+
+futuro-simple:
+  yo: leeré
+  tu: leerás
+  vos: leerás
+  ud: leerá
+  nosotros: leeremos
+  vosotros: leeréis
+  uds: leerán
+
+condicional-simple:
+  yo: leería
+  tu: leerías
+  vos: leerías
+  ud: leería
+  nosotros: leeríamos
+  vosotros: leeríais
+  uds: leerían
+
+presente-perfecto:
+  yo: he leído
+  tu: has leído
+  vos: has leído
+  ud: ha leído
+  nosotros: hemos leído
+  vosotros: habéis leído
+  uds: han leído
+
+preterito-pluscuamperfecto:
+  yo: había leído
+  tu: habías leído
+  vos: habías leído
+  ud: había leído
+  nosotros: habíamos leído
+  vosotros: habíais leído
+  uds: habían leído
+
+futuro-perfecto:
+  yo: habré leído
+  tu: habrás leído
+  vos: habrás leído
+  ud: habrá leído
+  nosotros: habremos leído
+  vosotros: habréis leído
+  uds: habrán leído
+
+condicional-perfecto:
+  yo: habría leído
+  tu: habrías leído
+  vos: habrías leído
+  ud: habría leído
+  nosotros: habríamos leído
+  vosotros: habríais leído
+  uds: habrían leído
+
+presente-subjuntivo:
+  yo: lea
+  tu: leas
+  vos: leas
+  ud: lea
+  nosotros: leamos
+  vosotros: leáis
+  uds: lean
+
+preterito-perfecto-subjuntivo:
+  yo: haya leído
+  tu: hayas leído
+  vos: hayas leído
+  ud: haya leído
+  nosotros: hayamos leído
+  vosotros: hayáis leído
+  uds: hayan leído
+
+imperfecto-subjuntivo:
+  yo:
+    - leyera
+    - leyesa
+  tu:
+    - leyeras
+    - leyeras
+  vos:
+    - leyeras
+    - leyeras
+  ud:
+    - leyera
+    - leyesa
+  nosotros:
+    - leyéramos
+    - leyésemos
+  vosotros:
+    - leyerais
+    - leyeseis
+  uds:
+    - leyeran
+    - leyesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera leído
+    - hubiese leído
+  tu:
+    - hubieras leído
+    - hubieses leído
+  vos:
+    - hubieras leído
+    - hubieses leído
+  ud:
+    - hubiera leído
+    - hubiese leído
+  nosotros:
+    - hubiéramos leído
+    - hubiésemos leído
+  vosotros:
+    - hubierais leído
+    - hubieseis leído
+  uds:
+    - hubieran leído
+    - hubiesen leído
+
+imperativo:
+  tu: lee
+  vos: leé
+  ud: lea
+  nosotros: leamos
+  vosotros: leed
+  uds: lean

@@ -1,0 +1,142 @@
+infinitivo: sobrevolar
+gerundio: sobrevolando
+participio-pasado: sobrevolado
+presente-indicativo:
+  yo: sobrevuelo
+  tu: sobrevuelas
+  vos: sobrevolás
+  ud: sobrevuela
+  nosotros: sobrevolamos
+  vosotros: sobrevoláis
+  uds: sobrevuelan
+preterito-perfecto-simple:
+  yo: sobrevolé
+  tu: sobrevolaste
+  vos: sobrevolaste
+  ud: sobrevoló
+  nosotros: sobrevolamos
+  vosotros: sobrevolasteis
+  uds: sobrevolaron
+preterito-imperfecto:
+  yo: sobrevolaba
+  tu: sobrevolabas
+  vos: sobrevolabas
+  ud: sobrevolaba
+  nosotros: sobrevolábamos
+  vosotros: sobrevolabais
+  uds: sobrevolaban
+futuro-simple:
+  yo: sobrevolaré
+  tu: sobrevolarás
+  vos: sobrevolarás
+  ud: sobrevolará
+  nosotros: sobrevolaremos
+  vosotros: sobrevolaréis
+  uds: sobrevolarán
+condicional-simple:
+  yo: sobrevolaría
+  tu: sobrevolarías
+  vos: sobrevolarías
+  ud: sobrevolaría
+  nosotros: sobrevolaríamos
+  vosotros: sobrevolaríais
+  uds: sobrevolarían
+presente-perfecto:
+  yo: he sobrevolado
+  tu: has sobrevolado
+  vos: has sobrevolado
+  ud: ha sobrevolado
+  nosotros: hemos sobrevolado
+  vosotros: habéis sobrevolado
+  uds: han sobrevolado
+preterito-pluscuamperfecto:
+  yo: había sobrevolado
+  tu: habías sobrevolado
+  vos: habías sobrevolado
+  ud: había sobrevolado
+  nosotros: habíamos sobrevolado
+  vosotros: habíais sobrevolado
+  uds: habían sobrevolado
+futuro-perfecto:
+  yo: habré sobrevolado
+  tu: habrás sobrevolado
+  vos: habrás sobrevolado
+  ud: habrá sobrevolado
+  nosotros: habremos sobrevolado
+  vosotros: habréis sobrevolado
+  uds: habrán sobrevolado
+condicional-perfecto:
+  yo: habría sobrevolado
+  tu: habrías sobrevolado
+  vos: habrías sobrevolado
+  ud: habría sobrevolado
+  nosotros: habríamos sobrevolado
+  vosotros: habríais sobrevolado
+  uds: habrían sobrevolado
+presente-subjuntivo:
+  yo: sobrevuele
+  tu: sobrevueles
+  vos: sobrevueles
+  ud: sobrevuele
+  nosotros: sobrevolemos
+  vosotros: sobrevoléis
+  uds: sobrevuelen
+preterito-perfecto-subjuntivo:
+  yo: haya sobrevolado
+  tu: hayas sobrevolado
+  vos: hayas sobrevolado
+  ud: haya sobrevolado
+  nosotros: hayamos sobrevolado
+  vosotros: hayáis sobrevolado
+  uds: hayan sobrevolado
+imperfecto-subjuntivo:
+  yo:
+    - sobrevolara
+    - sobrevolase
+  tu:
+    - sobrevolaras
+    - sobrevolases
+  vos:
+    - sobrevolaras
+    - sobrevolases
+  ud:
+    - sobrevolara
+    - sobrevolase
+  nosotros:
+    - sobrevoláramos
+    - sobrevolásemos
+  vosotros:
+    - sobrevolarais
+    - sobrevolaseis
+  uds:
+    - sobrevolaran
+    - sobrevolasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sobrevolado
+    - hubiese sobrevolado
+  tu:
+    - hubieras sobrevolado
+    - hubieses sobrevolado
+  vos:
+    - hubieras sobrevolado
+    - hubieses sobrevolado
+  ud:
+    - hubiera sobrevolado
+    - hubiese sobrevolado
+  nosotros:
+    - hubiéramos sobrevolado
+    - hubiésemos sobrevolado
+  vosotros:
+    - hubierais sobrevolado
+    - hubieseis sobrevolado
+  uds:
+    - hubieran sobrevolado
+    - hubiesen sobrevolado
+imperativo:
+  tu: sobrevuela
+  vos: sobrevolá
+  ud: sobrevuele
+  nosotros: sobrevolemos
+  vosotros: sobrevolad
+  uds: sobrevuelen

@@ -1,0 +1,142 @@
+infinitivo: preferir
+gerundio: prefiriendo
+participio-pasado: preferido
+presente-indicativo:
+  yo: prefiero
+  tu: prefieres
+  vos: preferís
+  ud: prefiere
+  nosotros: preferimos
+  vosotros: preferís
+  uds: prefieren
+preterito-perfecto-simple:
+  yo: preferí
+  tu: preferiste
+  vos: preferiste
+  ud: prefirió
+  nosotros: preferimos
+  vosotros: preferisteis
+  uds: prefirieron
+preterito-imperfecto:
+  yo: prefería
+  tu: preferías
+  vos: preferías
+  ud: prefería
+  nosotros: preferíamos
+  vosotros: preferíais
+  uds: preferían
+futuro-simple:
+  yo: preferiré
+  tu: preferirás
+  vos: preferirás
+  ud: preferirá
+  nosotros: preferiremos
+  vosotros: preferiréis
+  uds: preferirán
+condicional-simple:
+  yo: preferiría
+  tu: preferirías
+  vos: preferirías
+  ud: preferiría
+  nosotros: preferiríamos
+  vosotros: preferiríais
+  uds: preferirían
+presente-perfecto:
+  yo: he preferido
+  tu: has preferido
+  vos: has preferido
+  ud: ha preferido
+  nosotros: hemos preferido
+  vosotros: habéis preferido
+  uds: han preferido
+preterito-pluscuamperfecto:
+  yo: había preferido
+  tu: habías preferido
+  vos: habías preferido
+  ud: había preferido
+  nosotros: habíamos preferido
+  vosotros: habíais preferido
+  uds: habían preferido
+futuro-perfecto:
+  yo: habré preferido
+  tu: habrás preferido
+  vos: habrás preferido
+  ud: habrá preferido
+  nosotros: habremos preferido
+  vosotros: habréis preferido
+  uds: habrán preferido
+condicional-perfecto:
+  yo: habría preferido
+  tu: habrías preferido
+  vos: habrías preferido
+  ud: habría preferido
+  nosotros: habríamos preferido
+  vosotros: habríais preferido
+  uds: habrían preferido
+presente-subjuntivo:
+  yo: prefiera
+  tu: prefieras
+  vos: prefieras
+  ud: prefiera
+  nosotros: prefiramos
+  vosotros: prefiráis
+  uds: prefieran
+preterito-perfecto-subjuntivo:
+  yo: haya preferido
+  tu: hayas preferido
+  vos: hayas preferido
+  ud: haya preferido
+  nosotros: hayamos preferido
+  vosotros: hayáis preferido
+  uds: hayan preferido
+imperfecto-subjuntivo:
+  yo:
+    - prefiriera
+    - prefiriese
+  tu:
+    - prefirieras
+    - prefirieses
+  vos:
+    - prefirieras
+    - prefirieses
+  ud:
+    - prefiriera
+    - prefiriese
+  nosotros:
+    - prefiriéramos
+    - prefiriésemos
+  vosotros:
+    - prefirierais
+    - prefirieseis
+  uds:
+    - prefirieran
+    - prefiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera preferido
+    - hubiese preferido
+  tu:
+    - hubieras preferido
+    - hubieses preferido
+  vos:
+    - hubieras preferido
+    - hubieses preferido
+  ud:
+    - hubiera preferido
+    - hubiese preferido
+  nosotros:
+    - hubiéramos preferido
+    - hubiésemos preferido
+  vosotros:
+    - hubierais preferido
+    - hubieseis preferido
+  uds:
+    - hubieran preferido
+    - hubiesen preferido
+imperativo:
+  tu: prefiere
+  vos: preferí
+  ud: prefiera
+  nosotros: prefiramos
+  vosotros: preferid
+  uds: prefieran

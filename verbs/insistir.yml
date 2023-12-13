@@ -1,0 +1,142 @@
+infinitivo: insistir
+gerundio: insistiendo
+participio-pasado: insistido
+presente-indicativo:
+  yo: insisto
+  tu: insistes
+  vos: insistís
+  ud: insiste
+  nosotros: insistimos
+  vosotros: insistís
+  uds: insisten
+preterito-perfecto-simple:
+  yo: insistí
+  tu: insististe
+  vos: insististe
+  ud: insistió
+  nosotros: insistimos
+  vosotros: insististeis
+  uds: insistieron
+preterito-imperfecto:
+  yo: insistía
+  tu: insistías
+  vos: insistías
+  ud: insistía
+  nosotros: insistíamos
+  vosotros: insistíais
+  uds: insistían
+futuro-simple:
+  yo: insistiré
+  tu: insistirás
+  vos: insistirás
+  ud: insistirá
+  nosotros: insistiremos
+  vosotros: insistiréis
+  uds: insistirán
+condicional-simple:
+  yo: insistiría
+  tu: insistirías
+  vos: insistirías
+  ud: insistiría
+  nosotros: insistiríamos
+  vosotros: insistiríais
+  uds: insistirían
+presente-perfecto:
+  yo: he insistido
+  tu: has insistido
+  vos: has insistido
+  ud: ha insistido
+  nosotros: hemos insistido
+  vosotros: habéis insistido
+  uds: han insistido
+preterito-pluscuamperfecto:
+  yo: había insistido
+  tu: habías insistido
+  vos: habías insistido
+  ud: había insistido
+  nosotros: habíamos insistido
+  vosotros: habíais insistido
+  uds: habían insistido
+futuro-perfecto:
+  yo: habré insistido
+  tu: habrás insistido
+  vos: habrás insistido
+  ud: habrá insistido
+  nosotros: habremos insistido
+  vosotros: habréis insistido
+  uds: habrán insistido
+condicional-perfecto:
+  yo: habría insistido
+  tu: habrías insistido
+  vos: habrías insistido
+  ud: habría insistido
+  nosotros: habríamos insistido
+  vosotros: habríais insistido
+  uds: habrían insistido
+presente-subjuntivo:
+  yo: insista
+  tu: insistas
+  vos: insistas
+  ud: insista
+  nosotros: insistamos
+  vosotros: insistáis
+  uds: insistan
+preterito-perfecto-subjuntivo:
+  yo: haya insistido
+  tu: hayas insistido
+  vos: hayas insistido
+  ud: haya insistido
+  nosotros: hayamos insistido
+  vosotros: hayáis insistido
+  uds: hayan insistido
+imperfecto-subjuntivo:
+  yo:
+    - insistiera
+    - insistiese
+  tu:
+    - insistieras
+    - insistieses
+  vos:
+    - insistieras
+    - insistieses
+  ud:
+    - insistiera
+    - insistiese
+  nosotros:
+    - insistiéramos
+    - insistiésemos
+  vosotros:
+    - insistierais
+    - insistieseis
+  uds:
+    - insistieran
+    - insistiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera insistido
+    - hubiese insistido
+  tu:
+    - hubieras insistido
+    - hubieses insistido
+  vos:
+    - hubieras insistido
+    - hubieses insistido
+  ud:
+    - hubiera insistido
+    - hubiese insistido
+  nosotros:
+    - hubiéramos insistido
+    - hubiésemos insistido
+  vosotros:
+    - hubierais insistido
+    - hubieseis insistido
+  uds:
+    - hubieran insistido
+    - hubiesen insistido
+imperativo:
+  tu: insiste
+  vos: insistí
+  ud: insista
+  nosotros: insistamos
+  vosotros: insistid
+  uds: insistan

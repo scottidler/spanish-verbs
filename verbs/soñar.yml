@@ -1,0 +1,142 @@
+infinitivo: soñar
+gerundio: soñando
+participio-pasado: soñado
+presente-indicativo:
+  yo: sueño
+  tu: sueñas
+  vos: soñás
+  ud: sueña
+  nosotros: soñamos
+  vosotros: soñáis
+  uds: sueñan
+preterito-perfecto-simple:
+  yo: soñé
+  tu: soñaste
+  vos: soñaste
+  ud: soñó
+  nosotros: soñamos
+  vosotros: soñasteis
+  uds: soñaron
+preterito-imperfecto:
+  yo: soñaba
+  tu: soñabas
+  vos: soñabas
+  ud: soñaba
+  nosotros: soñábamos
+  vosotros: soñabais
+  uds: soñaban
+futuro-simple:
+  yo: soñaré
+  tu: soñarás
+  vos: soñarás
+  ud: soñará
+  nosotros: soñaremos
+  vosotros: soñaréis
+  uds: soñarán
+condicional-simple:
+  yo: soñaría
+  tu: soñarías
+  vos: soñarías
+  ud: soñaría
+  nosotros: soñaríamos
+  vosotros: soñaríais
+  uds: soñarían
+presente-perfecto:
+  yo: he soñado
+  tu: has soñado
+  vos: has soñado
+  ud: ha soñado
+  nosotros: hemos soñado
+  vosotros: habéis soñado
+  uds: han soñado
+preterito-pluscuamperfecto:
+  yo: había soñado
+  tu: habías soñado
+  vos: habías soñado
+  ud: había soñado
+  nosotros: habíamos soñado
+  vosotros: habíais soñado
+  uds: habían soñado
+futuro-perfecto:
+  yo: habré soñado
+  tu: habrás soñado
+  vos: habrás soñado
+  ud: habrá soñado
+  nosotros: habremos soñado
+  vosotros: habréis soñado
+  uds: habrán soñado
+condicional-perfecto:
+  yo: habría soñado
+  tu: habrías soñado
+  vos: habrías soñado
+  ud: habría soñado
+  nosotros: habríamos soñado
+  vosotros: habríais soñado
+  uds: habrían soñado
+presente-subjuntivo:
+  yo: sueñe
+  tu: sueñes
+  vos: sueñes
+  ud: sueñe
+  nosotros: soñemos
+  vosotros: soñéis
+  uds: sueñen
+preterito-perfecto-subjuntivo:
+  yo: haya soñado
+  tu: hayas soñado
+  vos: hayas soñado
+  ud: haya soñado
+  nosotros: hayamos soñado
+  vosotros: hayáis soñado
+  uds: hayan soñado
+imperfecto-subjuntivo:
+  yo:
+    - soñara
+    - soñase
+  tu:
+    - soñaras
+    - soñases
+  vos:
+    - soñaras
+    - soñases
+  ud:
+    - soñara
+    - soñase
+  nosotros:
+    - soñáramos
+    - soñásemos
+  vosotros:
+    - soñarais
+    - soñaseis
+  uds:
+    - soñaran
+    - soñasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera soñado
+    - hubiese soñado
+  tu:
+    - hubieras soñado
+    - hubieses soñado
+  vos:
+    - hubieras soñado
+    - hubieses soñado
+  ud:
+    - hubiera soñado
+    - hubiese soñado
+  nosotros:
+    - hubiéramos soñado
+    - hubiésemos soñado
+  vosotros:
+    - hubierais soñado
+    - hubieseis soñado
+  uds:
+    - hubieran soñado
+    - hubiesen soñado
+imperativo:
+  tu: sueña
+  vos: soñá
+  ud: sueñe
+  nosotros: soñemos
+  vosotros: soñad
+  uds: sueñen

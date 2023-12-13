@@ -1,0 +1,142 @@
+infinitivo: prestar
+gerundio: prestando
+participio-pasado: prestado
+presente-indicativo:
+  yo: presto
+  tu: prestas
+  vos: prestas
+  ud: presta
+  nosotros: prestamos
+  vosotros: prestáis
+  uds: prestan
+preterito-perfecto-simple:
+  yo: presté
+  tu: prestaste
+  vos: prestaste
+  ud: prestó
+  nosotros: prestamos
+  vosotros: prestasteis
+  uds: prestaron
+preterito-imperfecto:
+  yo: prestaba
+  tu: prestabas
+  vos: prestabas
+  ud: prestaba
+  nosotros: prestábamos
+  vosotros: prestabais
+  uds: prestaban
+futuro-simple:
+  yo: prestaré
+  tu: prestarás
+  vos: prestarás
+  ud: prestará
+  nosotros: prestaremos
+  vosotros: prestaréis
+  uds: prestarán
+condicional-simple:
+  yo: prestaría
+  tu: prestarías
+  vos: prestarías
+  ud: prestaría
+  nosotros: prestaríamos
+  vosotros: prestaríais
+  uds: prestarían
+presente-perfecto:
+  yo: he prestado
+  tu: has prestado
+  vos: has prestado
+  ud: ha prestado
+  nosotros: hemos prestado
+  vosotros: habéis prestado
+  uds: han prestado
+preterito-pluscuamperfecto:
+  yo: había prestado
+  tu: habías prestado
+  vos: habías prestado
+  ud: había prestado
+  nosotros: habíamos prestado
+  vosotros: habíais prestado
+  uds: habían prestado
+futuro-perfecto:
+  yo: habré prestado
+  tu: habrás prestado
+  vos: habrás prestado
+  ud: habrá prestado
+  nosotros: habremos prestado
+  vosotros: habréis prestado
+  uds: habrán prestado
+condicional-perfecto:
+  yo: habría prestado
+  tu: habrías prestado
+  vos: habrías prestado
+  ud: habría prestado
+  nosotros: habríamos prestado
+  vosotros: habríais prestado
+  uds: habrían prestado
+presente-subjuntivo:
+  yo: preste
+  tu: prestes
+  vos: prestes
+  ud: preste
+  nosotros: prestemos
+  vosotros: prestéis
+  uds: presten
+preterito-perfecto-subjuntivo:
+  yo: haya prestado
+  tu: hayas prestado
+  vos: hayas prestado
+  ud: haya prestado
+  nosotros: hayamos prestado
+  vosotros: hayáis prestado
+  uds: hayan prestado
+imperfecto-subjuntivo:
+  yo:
+    - prestara
+    - prestase
+  tu:
+    - prestaras
+    - prestases
+  vos:
+    - prestaras
+    - prestases
+  ud:
+    - prestara
+    - prestase
+  nosotros:
+    - prestáramos
+    - prestásemos
+  vosotros:
+    - prestarais
+    - prestaseis
+  uds:
+    - prestaran
+    - prestasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera prestado
+    - hubiese prestado
+  tu:
+    - hubieras prestado
+    - hubieses prestado
+  vos:
+    - hubieras prestado
+    - hubieses prestado
+  ud:
+    - hubiera prestado
+    - hubiese prestado
+  nosotros:
+    - hubiéramos prestado
+    - hubiésemos prestado
+  vosotros:
+    - hubierais prestado
+    - hubieseis prestado
+  uds:
+    - hubieran prestado
+    - hubiesen prestado
+imperativo:
+  tu: presta
+  vos: prestá
+  ud: preste
+  nosotros: prestemos
+  vosotros: prestad
+  uds: presten

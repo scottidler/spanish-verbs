@@ -1,0 +1,142 @@
+infinitivo: permanecer
+gerundio: permaneciendo
+participio-pasado: permanecido
+presente-indicativo:
+  yo: permanezco
+  tu: permaneces
+  vos: permaneces
+  ud: permanece
+  nosotros: permanecemos
+  vosotros: permanecéis
+  uds: permanecen
+preterito-perfecto-simple:
+  yo: permanecí
+  tu: permaneciste
+  vos: permaneciste
+  ud: permaneció
+  nosotros: permanecimos
+  vosotros: permanecisteis
+  uds: permanecieron
+preterito-imperfecto:
+  yo: permanecía
+  tu: permanecías
+  vos: permanecías
+  ud: permanecía
+  nosotros: permanecíamos
+  vosotros: permanecíais
+  uds: permanecían
+futuro-simple:
+  yo: permaneceré
+  tu: permanecerás
+  vos: permanecerás
+  ud: permanecerá
+  nosotros: permaneceremos
+  vosotros: permaneceréis
+  uds: permanecerán
+condicional-simple:
+  yo: permanecería
+  tu: permanecerías
+  vos: permanecerías
+  ud: permanecería
+  nosotros: permaneceríamos
+  vosotros: permaneceríais
+  uds: permanecerían
+presente-perfecto:
+  yo: he permanecido
+  tu: has permanecido
+  vos: has permanecido
+  ud: ha permanecido
+  nosotros: hemos permanecido
+  vosotros: habéis permanecido
+  uds: han permanecido
+preterito-pluscuamperfecto:
+  yo: había permanecido
+  tu: habías permanecido
+  vos: habías permanecido
+  ud: había permanecido
+  nosotros: habíamos permanecido
+  vosotros: habíais permanecido
+  uds: habían permanecido
+futuro-perfecto:
+  yo: habré permanecido
+  tu: habrás permanecido
+  vos: habrás permanecido
+  ud: habrá permanecido
+  nosotros: habremos permanecido
+  vosotros: habréis permanecido
+  uds: habrán permanecido
+condicional-perfecto:
+  yo: habría permanecido
+  tu: habrías permanecido
+  vos: habrías permanecido
+  ud: habría permanecido
+  nosotros: habríamos permanecido
+  vosotros: habríais permanecido
+  uds: habrían permanecido
+presente-subjuntivo:
+  yo: permanezca
+  tu: permanezcas
+  vos: permanezcas
+  ud: permanezca
+  nosotros: permanezcamos
+  vosotros: permanezcáis
+  uds: permanezcan
+preterito-perfecto-subjuntivo:
+  yo: haya permanecido
+  tu: hayas permanecido
+  vos: hayas permanecido
+  ud: haya permanecido
+  nosotros: hayamos permanecido
+  vosotros: hayáis permanecido
+  uds: hayan permanecido
+imperfecto-subjuntivo:
+  yo:
+    - permaneciera
+    - permaneciese
+  tu:
+    - permanecieras
+    - permanecieses
+  vos:
+    - permanecieras
+    - permanecieses
+  ud:
+    - permaneciera
+    - permaneciese
+  nosotros:
+    - permaneciéramos
+    - permaneciésemos
+  vosotros:
+    - permanecierais
+    - permanecieseis
+  uds:
+    - permanecieran
+    - permaneciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera permanecido
+    - hubiese permanecido
+  tu:
+    - hubieras permanecido
+    - hubieses permanecido
+  vos:
+    - hubieras permanecido
+    - hubieses permanecido
+  ud:
+    - hubiera permanecido
+    - hubiese permanecido
+  nosotros:
+    - hubiéramos permanecido
+    - hubiésemos permanecido
+  vosotros:
+    - hubierais permanecido
+    - hubieseis permanecido
+  uds:
+    - hubieran permanecido
+    - hubiesen permanecido
+imperativo:
+  tu: permanece
+  vos: permanece
+  ud: permanezca
+  nosotros: permanezcamos
+  vosotros: permaneced
+  uds: permanezcan

@@ -1,0 +1,142 @@
+infinitivo: deslizarse
+gerundio: deslizándose
+participio-pasado: deslizado
+presente-indicativo:
+  yo: me deslizo
+  tu: te deslizas
+  vos: te deslizás
+  ud: se desliza
+  nosotros: nos deslizamos
+  vosotros: os deslizáis
+  uds: se deslizan
+preterito-perfecto-simple:
+  yo: me deslicé
+  tu: te deslizaste
+  vos: te deslizaste
+  ud: se deslizó
+  nosotros: nos deslizamos
+  vosotros: os deslizasteis
+  uds: se deslizaron
+preterito-imperfecto:
+  yo: me deslizaba
+  tu: te deslizabas
+  vos: te deslizabas
+  ud: se deslizaba
+  nosotros: nos deslizábamos
+  vosotros: os deslizabais
+  uds: se deslizaban
+futuro-simple:
+  yo: me deslizaré
+  tu: te deslizarás
+  vos: te deslizarás
+  ud: se deslizará
+  nosotros: nos deslizaremos
+  vosotros: os deslizaréis
+  uds: se deslizarán
+condicional-simple:
+  yo: me deslizaría
+  tu: te deslizarías
+  vos: te deslizarías
+  ud: se deslizaría
+  nosotros: nos deslizaríamos
+  vosotros: os deslizaríais
+  uds: se deslizarían
+presente-perfecto:
+  yo: me he deslizado
+  tu: te has deslizado
+  vos: te has deslizado
+  ud: se ha deslizado
+  nosotros: nos hemos deslizado
+  vosotros: os habéis deslizado
+  uds: se han deslizado
+preterito-pluscuamperfecto:
+  yo: me había deslizado
+  tu: te habías deslizado
+  vos: te habías deslizado
+  ud: se había deslizado
+  nosotros: nos habíamos deslizado
+  vosotros: os habíais deslizado
+  uds: se habían deslizado
+futuro-perfecto:
+  yo: me habré deslizado
+  tu: te habrás deslizado
+  vos: te habrás deslizado
+  ud: se habrá deslizado
+  nosotros: nos habremos deslizado
+  vosotros: os habréis deslizado
+  uds: se habrán deslizado
+condicional-perfecto:
+  yo: me habría deslizado
+  tu: te habrías deslizado
+  vos: te habrías deslizado
+  ud: se habría deslizado
+  nosotros: nos habríamos deslizado
+  vosotros: os habríais deslizado
+  uds: se habrían deslizado
+presente-subjuntivo:
+  yo: me deslice
+  tu: te deslices
+  vos: te deslices
+  ud: se deslice
+  nosotros: nos deslicemos
+  vosotros: os deslicéis
+  uds: se deslicen
+preterito-perfecto-subjuntivo:
+  yo: me haya deslizado
+  tu: te hayas deslizado
+  vos: te hayas deslizado
+  ud: se haya deslizado
+  nosotros: nos hayamos deslizado
+  vosotros: os hayáis deslizado
+  uds: se hayan deslizado
+imperfecto-subjuntivo:
+  yo:
+    - me deslizara
+    - me deslizase
+  tu:
+    - te deslizaras
+    - te deslizases
+  vos:
+    - te deslizaras
+    - te deslizases
+  ud:
+    - se deslizara
+    - se deslizase
+  nosotros:
+    - nos deslizáramos
+    - nos deslizásemos
+  vosotros:
+    - os deslizarais
+    - os deslizaseis
+  uds:
+    - se deslizaran
+    - se deslizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera deslizado
+    - me hubiese deslizado
+  tu:
+    - te hubieras deslizado
+    - te hubieses deslizado
+  vos:
+    - te hubieras deslizado
+    - te hubieses deslizado
+  ud:
+    - se hubiera deslizado
+    - se hubiese deslizado
+  nosotros:
+    - nos hubiéramos deslizado
+    - nos hubiésemos deslizado
+  vosotros:
+    - os hubierais deslizado
+    - os hubieseis deslizado
+  uds:
+    - se hubieran deslizado
+    - se hubiesen deslizado
+imperativo:
+  tu: deslízate
+  vos: deslizáte
+  ud: deslícese
+  nosotros: deslicémonos
+  vosotros: deslizaos
+  uds: deslícense

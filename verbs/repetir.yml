@@ -1,0 +1,142 @@
+infinitivo: repetir
+gerundio: repitiendo
+participio-pasado: repetido
+presente-indicativo:
+  yo: repito
+  tu: repites
+  vos: repetís
+  ud: repite
+  nosotros: repetimos
+  vosotros: repetís
+  uds: repiten
+preterito-perfecto-simple:
+  yo: repetí
+  tu: repetiste
+  vos: repetiste
+  ud: repitió
+  nosotros: repetimos
+  vosotros: repetisteis
+  uds: repitieron
+preterito-imperfecto:
+  yo: repetía
+  tu: repetías
+  vos: repetías
+  ud: repetía
+  nosotros: repetíamos
+  vosotros: repetíais
+  uds: repetían
+futuro-simple:
+  yo: repetiré
+  tu: repetirás
+  vos: repetirás
+  ud: repetirá
+  nosotros: repetiremos
+  vosotros: repetiréis
+  uds: repetirán
+condicional-simple:
+  yo: repetiría
+  tu: repetirías
+  vos: repetirías
+  ud: repetiría
+  nosotros: repetiríamos
+  vosotros: repetiríais
+  uds: repetirían
+presente-perfecto:
+  yo: he repetido
+  tu: has repetido
+  vos: has repetido
+  ud: ha repetido
+  nosotros: hemos repetido
+  vosotros: habéis repetido
+  uds: han repetido
+preterito-pluscuamperfecto:
+  yo: había repetido
+  tu: habías repetido
+  vos: habías repetido
+  ud: había repetido
+  nosotros: habíamos repetido
+  vosotros: habíais repetido
+  uds: habían repetido
+futuro-perfecto:
+  yo: habré repetido
+  tu: habrás repetido
+  vos: habrás repetido
+  ud: habrá repetido
+  nosotros: habremos repetido
+  vosotros: habréis repetido
+  uds: habrán repetido
+condicional-perfecto:
+  yo: habría repetido
+  tu: habrías repetido
+  vos: habrías repetido
+  ud: habría repetido
+  nosotros: habríamos repetido
+  vosotros: habríais repetido
+  uds: habrían repetido
+presente-subjuntivo:
+  yo: repita
+  tu: repitas
+  vos: repitas
+  ud: repita
+  nosotros: repitamos
+  vosotros: repitáis
+  uds: repitan
+preterito-perfecto-subjuntivo:
+  yo: haya repetido
+  tu: hayas repetido
+  vos: hayas repetido
+  ud: haya repetido
+  nosotros: hayamos repetido
+  vosotros: hayáis repetido
+  uds: hayan repetido
+imperfecto-subjuntivo:
+  yo:
+    - repitiera
+    - repitiese
+  tu:
+    - repitieras
+    - repitieses
+  vos:
+    - repitieras
+    - repitieses
+  ud:
+    - repitiera
+    - repitiese
+  nosotros:
+    - repitiéramos
+    - repitiésemos
+  vosotros:
+    - repitierais
+    - repitieseis
+  uds:
+    - repitieran
+    - repitiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera repetido
+    - hubiese repetido
+  tu:
+    - hubieras repetido
+    - hubieses repetido
+  vos:
+    - hubieras repetido
+    - hubieses repetido
+  ud:
+    - hubiera repetido
+    - hubiese repetido
+  nosotros:
+    - hubiéramos repetido
+    - hubiésemos repetido
+  vosotros:
+    - hubierais repetido
+    - hubieseis repetido
+  uds:
+    - hubieran repetido
+    - hubiesen repetido
+imperativo:
+  tu: repite
+  vos: repetí
+  ud: repita
+  nosotros: repitamos
+  vosotros: repetid
+  uds: repitan

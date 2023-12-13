@@ -1,0 +1,142 @@
+infinitivo: ayudar
+gerundio: ayudando
+participio-pasado: ayudado
+presente-indicativo:
+  yo: ayudo
+  tu: ayudas
+  vos: ayudas
+  ud: ayuda
+  nosotros: ayudamos
+  vosotros: ayudáis
+  uds: ayudan
+preterito-perfecto-simple:
+  yo: ayudé
+  tu: ayudaste
+  vos: ayudaste
+  ud: ayudó
+  nosotros: ayudamos
+  vosotros: ayudasteis
+  uds: ayudaron
+preterito-imperfecto:
+  yo: ayudaba
+  tu: ayudabas
+  vos: ayudabas
+  ud: ayudaba
+  nosotros: ayudábamos
+  vosotros: ayudabais
+  uds: ayudaban
+futuro-simple:
+  yo: ayudaré
+  tu: ayudarás
+  vos: ayudarás
+  ud: ayudará
+  nosotros: ayudaremos
+  vosotros: ayudaréis
+  uds: ayudarán
+condicional-simple:
+  yo: ayudaría
+  tu: ayudarías
+  vos: ayudarías
+  ud: ayudaría
+  nosotros: ayudaríamos
+  vosotros: ayudaríais
+  uds: ayudarían
+presente-perfecto:
+  yo: he ayudado
+  tu: has ayudado
+  vos: has ayudado
+  ud: ha ayudado
+  nosotros: hemos ayudado
+  vosotros: habéis ayudado
+  uds: han ayudado
+preterito-pluscuamperfecto:
+  yo: había ayudado
+  tu: habías ayudado
+  vos: habías ayudado
+  ud: había ayudado
+  nosotros: habíamos ayudado
+  vosotros: habíais ayudado
+  uds: habían ayudado
+futuro-perfecto:
+  yo: habré ayudado
+  tu: habrás ayudado
+  vos: habrás ayudado
+  ud: habrá ayudado
+  nosotros: habremos ayudado
+  vosotros: habréis ayudado
+  uds: habrán ayudado
+condicional-perfecto:
+  yo: habría ayudado
+  tu: habrías ayudado
+  vos: habrías ayudado
+  ud: habría ayudado
+  nosotros: habríamos ayudado
+  vosotros: habríais ayudado
+  uds: habrían ayudado
+presente-subjuntivo:
+  yo: ayude
+  tu: ayudes
+  vos: ayudes
+  ud: ayude
+  nosotros: ayudemos
+  vosotros: ayudéis
+  uds: ayuden
+preterito-perfecto-subjuntivo:
+  yo: haya ayudado
+  tu: hayas ayudado
+  vos: hayas ayudado
+  ud: haya ayudado
+  nosotros: hayamos ayudado
+  vosotros: hayáis ayudado
+  uds: hayan ayudado
+imperfecto-subjuntivo:
+  yo:
+    - ayudara
+    - ayudase
+  tu:
+    - ayudaras
+    - ayudases
+  vos:
+    - ayudaras
+    - ayudases
+  ud:
+    - ayudara
+    - ayudase
+  nosotros:
+    - ayudáramos
+    - ayudásemos
+  vosotros:
+    - ayudarais
+    - ayudaseis
+  uds:
+    - ayudaran
+    - ayudasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ayudado
+    - hubiese ayudado
+  tu:
+    - hubieras ayudado
+    - hubieses ayudado
+  vos:
+    - hubieras ayudado
+    - hubieses ayudado
+  ud:
+    - hubiera ayudado
+    - hubiese ayudado
+  nosotros:
+    - hubiéramos ayudado
+    - hubiésemos ayudado
+  vosotros:
+    - hubierais ayudado
+    - hubieseis ayudado
+  uds:
+    - hubieran ayudado
+    - hubiesen ayudado
+imperativo:
+  tu: ayuda
+  vos: ayudá
+  ud: ayude
+  nosotros: ayudemos
+  vosotros: ayudad
+  uds: ayuden

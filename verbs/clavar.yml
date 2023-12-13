@@ -1,0 +1,142 @@
+infinitivo: clavar
+gerundio: clavando
+participio-pasado: clavado
+presente-indicativo:
+  yo: clavo
+  tu: clavas
+  vos: clavas
+  ud: clava
+  nosotros: clavamos
+  vosotros: claváis
+  uds: clavan
+preterito-perfecto-simple:
+  yo: clavé
+  tu: clavaste
+  vos: clavaste
+  ud: clavó
+  nosotros: clavamos
+  vosotros: clavasteis
+  uds: clavaron
+preterito-imperfecto:
+  yo: clavaba
+  tu: clavabas
+  vos: clavabas
+  ud: clavaba
+  nosotros: clavábamos
+  vosotros: clavabais
+  uds: clavaban
+futuro-simple:
+  yo: clavaré
+  tu: clavarás
+  vos: clavarás
+  ud: clavará
+  nosotros: clavaremos
+  vosotros: clavaréis
+  uds: clavarán
+condicional-simple:
+  yo: clavaría
+  tu: clavarías
+  vos: clavarías
+  ud: clavaría
+  nosotros: clavaríamos
+  vosotros: clavaríais
+  uds: clavarían
+presente-perfecto:
+  yo: he clavado
+  tu: has clavado
+  vos: has clavado
+  ud: ha clavado
+  nosotros: hemos clavado
+  vosotros: habéis clavado
+  uds: han clavado
+preterito-pluscuamperfecto:
+  yo: había clavado
+  tu: habías clavado
+  vos: habías clavado
+  ud: había clavado
+  nosotros: habíamos clavado
+  vosotros: habíais clavado
+  uds: habían clavado
+futuro-perfecto:
+  yo: habré clavado
+  tu: habrás clavado
+  vos: habrás clavado
+  ud: habrá clavado
+  nosotros: habremos clavado
+  vosotros: habréis clavado
+  uds: habrán clavado
+condicional-perfecto:
+  yo: habría clavado
+  tu: habrías clavado
+  vos: habrías clavado
+  ud: habría clavado
+  nosotros: habríamos clavado
+  vosotros: habríais clavado
+  uds: habrían clavado
+presente-subjuntivo:
+  yo: clave
+  tu: claves
+  vos: claves
+  ud: clave
+  nosotros: clavemos
+  vosotros: clavéis
+  uds: claven
+preterito-perfecto-subjuntivo:
+  yo: haya clavado
+  tu: hayas clavado
+  vos: hayas clavado
+  ud: haya clavado
+  nosotros: hayamos clavado
+  vosotros: hayáis clavado
+  uds: hayan clavado
+imperfecto-subjuntivo:
+  yo:
+    - clavara
+    - clavase
+  tu:
+    - clavaras
+    - clavases
+  vos:
+    - clavaras
+    - clavases
+  ud:
+    - clavara
+    - clavase
+  nosotros:
+    - claváramos
+    - clavásemos
+  vosotros:
+    - clavarais
+    - clavaseis
+  uds:
+    - clavaran
+    - clavasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera clavado
+    - hubiese clavado
+  tu:
+    - hubieras clavado
+    - hubieses clavado
+  vos:
+    - hubieras clavado
+    - hubieses clavado
+  ud:
+    - hubiera clavado
+    - hubiese clavado
+  nosotros:
+    - hubiéramos clavado
+    - hubiésemos clavado
+  vosotros:
+    - hubierais clavado
+    - hubieseis clavado
+  uds:
+    - hubieran clavado
+    - hubiesen clavado
+imperativo:
+  tu: clava
+  vos: clavá
+  ud: clave
+  nosotros: clavemos
+  vosotros: clavad
+  uds: claven

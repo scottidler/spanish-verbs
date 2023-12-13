@@ -1,0 +1,142 @@
+infinitivo: andar
+gerundio: andando
+participio-pasado: andado
+presente-indicativo:
+  yo: ando
+  tu: andas
+  vos: andás
+  ud: anda
+  nosotros: andamos
+  vosotros: andáis
+  uds: andan
+preterito-perfecto-simple:
+  yo: anduve
+  tu: anduviste
+  vos: anduviste
+  ud: anduvo
+  nosotros: anduvimos
+  vosotros: anduvisteis
+  uds: anduvieron
+preterito-imperfecto:
+  yo: andaba
+  tu: andabas
+  vos: andabas
+  ud: andaba
+  nosotros: andábamos
+  vosotros: andabais
+  uds: andaban
+futuro-simple:
+  yo: andaré
+  tu: andarás
+  vos: andarás
+  ud: andará
+  nosotros: andaremos
+  vosotros: andaréis
+  uds: andarán
+condicional-simple:
+  yo: andaría
+  tu: andarías
+  vos: andarías
+  ud: andaría
+  nosotros: andaríamos
+  vosotros: andaríais
+  uds: andarían
+presente-perfecto:
+  yo: he andado
+  tu: has andado
+  vos: has andado
+  ud: ha andado
+  nosotros: hemos andado
+  vosotros: habéis andado
+  uds: han andado
+preterito-pluscuamperfecto:
+  yo: había andado
+  tu: habías andado
+  vos: habías andado
+  ud: había andado
+  nosotros: habíamos andado
+  vosotros: habíais andado
+  uds: habían andado
+futuro-perfecto:
+  yo: habré andado
+  tu: habrás andado
+  vos: habrás andado
+  ud: habrá andado
+  nosotros: habremos andado
+  vosotros: habréis andado
+  uds: habrán andado
+condicional-perfecto:
+  yo: habría andado
+  tu: habrías andado
+  vos: habrías andado
+  ud: habría andado
+  nosotros: habríamos andado
+  vosotros: habríais andado
+  uds: habrían andado
+presente-subjuntivo:
+  yo: ande
+  tu: andes
+  vos: andes
+  ud: ande
+  nosotros: andemos
+  vosotros: andéis
+  uds: anden
+preterito-perfecto-subjuntivo:
+  yo: haya andado
+  tu: hayas andado
+  vos: hayas andado
+  ud: haya andado
+  nosotros: hayamos andado
+  vosotros: hayáis andado
+  uds: hayan andado
+imperfecto-subjuntivo:
+  yo:
+    - anduviera
+    - anduviese
+  tu:
+    - anduvieras
+    - anduvieses
+  vos:
+    - anduvieras
+    - anduvieses
+  ud:
+    - anduviera
+    - anduviese
+  nosotros:
+    - anduviéramos
+    - anduviésemos
+  vosotros:
+    - anduvierais
+    - anduvieseis
+  uds:
+    - anduvieran
+    - anduviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera andado
+    - hubiese andado
+  tu:
+    - hubieras andado
+    - hubieses andado
+  vos:
+    - hubieras andado
+    - hubieses andado
+  ud:
+    - hubiera andado
+    - hubiese andado
+  nosotros:
+    - hubiéramos andado
+    - hubiésemos andado
+  vosotros:
+    - hubierais andado
+    - hubieseis andado
+  uds:
+    - hubieran andado
+    - hubiesen andado
+imperativo:
+  tu: anda
+  vos: andá
+  ud: ande
+  nosotros: andemos
+  vosotros: andad
+  uds: anden

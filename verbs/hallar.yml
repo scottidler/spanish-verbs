@@ -1,0 +1,142 @@
+infinitivo: hallar
+gerundio: hallando
+participio-pasado: hallado
+presente-indicativo:
+  yo: hallo
+  tu: hallas
+  vos: hallás
+  ud: halla
+  nosotros: hallamos
+  vosotros: halláis
+  uds: hallan
+preterito-perfecto-simple:
+  yo: hallé
+  tu: hallaste
+  vos: hallaste
+  ud: halló
+  nosotros: hallamos
+  vosotros: hallasteis
+  uds: hallaron
+preterito-imperfecto:
+  yo: hallaba
+  tu: hallabas
+  vos: hallabas
+  ud: hallaba
+  nosotros: hallábamos
+  vosotros: hallabais
+  uds: hallaban
+futuro-simple:
+  yo: hallaré
+  tu: hallarás
+  vos: hallarás
+  ud: hallará
+  nosotros: hallaremos
+  vosotros: hallaréis
+  uds: hallarán
+condicional-simple:
+  yo: hallaría
+  tu: hallarías
+  vos: hallarías
+  ud: hallaría
+  nosotros: hallaríamos
+  vosotros: hallaríais
+  uds: hallarían
+presente-perfecto:
+  yo: he hallado
+  tu: has hallado
+  vos: has hallado
+  ud: ha hallado
+  nosotros: hemos hallado
+  vosotros: habéis hallado
+  uds: han hallado
+preterito-pluscuamperfecto:
+  yo: había hallado
+  tu: habías hallado
+  vos: habías hallado
+  ud: había hallado
+  nosotros: habíamos hallado
+  vosotros: habíais hallado
+  uds: habían hallado
+futuro-perfecto:
+  yo: habré hallado
+  tu: habrás hallado
+  vos: habrás hallado
+  ud: habrá hallado
+  nosotros: habremos hallado
+  vosotros: habréis hallado
+  uds: habrán hallado
+condicional-perfecto:
+  yo: habría hallado
+  tu: habrías hallado
+  vos: habrías hallado
+  ud: habría hallado
+  nosotros: habríamos hallado
+  vosotros: habríais hallado
+  uds: habrían hallado
+presente-subjuntivo:
+  yo: halle
+  tu: halles
+  vos: halles
+  ud: halle
+  nosotros: hallemos
+  vosotros: halléis
+  uds: hallen
+preterito-perfecto-subjuntivo:
+  yo: haya hallado
+  tu: hayas hallado
+  vos: hayas hallado
+  ud: haya hallado
+  nosotros: hayamos hallado
+  vosotros: hayáis hallado
+  uds: hayan hallado
+imperfecto-subjuntivo:
+  yo:
+    - hallara
+    - hallase
+  tu:
+    - hallaras
+    - hallases
+  vos:
+    - hallaras
+    - hallases
+  ud:
+    - hallara
+    - hallase
+  nosotros:
+    - halláramos
+    - hallásemos
+  vosotros:
+    - hallarais
+    - hallaseis
+  uds:
+    - hallaran
+    - hallasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera hallado
+    - hubiese hallado
+  tu:
+    - hubieras hallado
+    - hubieses hallado
+  vos:
+    - hubieras hallado
+    - hubieses hallado
+  ud:
+    - hubiera hallado
+    - hubiese hallado
+  nosotros:
+    - hubiéramos hallado
+    - hubiésemos hallado
+  vosotros:
+    - hubierais hallado
+    - hubieseis hallado
+  uds:
+    - hubieran hallado
+    - hubiesen hallado
+imperativo:
+  tu: halla
+  vos: hallá
+  ud: halle
+  nosotros: hallemos
+  vosotros: hallad
+  uds: hallen

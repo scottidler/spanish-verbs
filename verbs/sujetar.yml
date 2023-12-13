@@ -1,0 +1,142 @@
+infinitivo: sujetar
+gerundio: sujetando
+participio-pasado: sujetado
+presente-indicativo:
+  yo: sujeto
+  tu: sujetas
+  vos: sujetas
+  ud: sujeta
+  nosotros: sujetamos
+  vosotros: sujetáis
+  uds: sujetan
+preterito-perfecto-simple:
+  yo: sujeté
+  tu: sujetaste
+  vos: sujetaste
+  ud: sujetó
+  nosotros: sujetamos
+  vosotros: sujetasteis
+  uds: sujetaron
+preterito-imperfecto:
+  yo: sujetaba
+  tu: sujetabas
+  vos: sujetabas
+  ud: sujetaba
+  nosotros: sujetábamos
+  vosotros: sujetabais
+  uds: sujetaban
+futuro-simple:
+  yo: sujetaré
+  tu: sujetarás
+  vos: sujetarás
+  ud: sujetará
+  nosotros: sujetaremos
+  vosotros: sujetaréis
+  uds: sujetarán
+condicional-simple:
+  yo: sujetaría
+  tu: sujetarías
+  vos: sujetarías
+  ud: sujetaría
+  nosotros: sujetaríamos
+  vosotros: sujetaríais
+  uds: sujetarían
+presente-perfecto:
+  yo: he sujetado
+  tu: has sujetado
+  vos: has sujetado
+  ud: ha sujetado
+  nosotros: hemos sujetado
+  vosotros: habéis sujetado
+  uds: han sujetado
+preterito-pluscuamperfecto:
+  yo: había sujetado
+  tu: habías sujetado
+  vos: habías sujetado
+  ud: había sujetado
+  nosotros: habíamos sujetado
+  vosotros: habíais sujetado
+  uds: habían sujetado
+futuro-perfecto:
+  yo: habré sujetado
+  tu: habrás sujetado
+  vos: habrás sujetado
+  ud: habrá sujetado
+  nosotros: habremos sujetado
+  vosotros: habréis sujetado
+  uds: habrán sujetado
+condicional-perfecto:
+  yo: habría sujetado
+  tu: habrías sujetado
+  vos: habrías sujetado
+  ud: habría sujetado
+  nosotros: habríamos sujetado
+  vosotros: habríais sujetado
+  uds: habrían sujetado
+presente-subjuntivo:
+  yo: sujete
+  tu: sujetes
+  vos: sujetes
+  ud: sujete
+  nosotros: sujetemos
+  vosotros: sujetéis
+  uds: sujeten
+preterito-perfecto-subjuntivo:
+  yo: haya sujetado
+  tu: hayas sujetado
+  vos: hayas sujetado
+  ud: haya sujetado
+  nosotros: hayamos sujetado
+  vosotros: hayáis sujetado
+  uds: hayan sujetado
+imperfecto-subjuntivo:
+  yo:
+    - sujetara
+    - sujetase
+  tu:
+    - sujetaras
+    - sujetases
+  vos:
+    - sujetaras
+    - sujetases
+  ud:
+    - sujetara
+    - sujetase
+  nosotros:
+    - sujetáramos
+    - sujetásemos
+  vosotros:
+    - sujetarais
+    - sujetaseis
+  uds:
+    - sujetaran
+    - sujetasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sujetado
+    - hubiese sujetado
+  tu:
+    - hubieras sujetado
+    - hubieses sujetado
+  vos:
+    - hubieras sujetado
+    - hubieses sujetado
+  ud:
+    - hubiera sujetado
+    - hubiese sujetado
+  nosotros:
+    - hubiéramos sujetado
+    - hubiésemos sujetado
+  vosotros:
+    - hubierais sujetado
+    - hubieseis sujetado
+  uds:
+    - hubieran sujetado
+    - hubiesen sujetado
+imperativo:
+  tu: sujeta
+  vos: sujetá
+  ud: sujete
+  nosotros: sujetemos
+  vosotros: sujetad
+  uds: sujeten

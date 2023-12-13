@@ -1,0 +1,142 @@
+infinitivo: corregir
+gerundio: corrigiendo
+participio-pasado: corregido
+presente-indicativo:
+  yo: corrijo
+  tu: corriges
+  vos: corriges
+  ud: corrige
+  nosotros: corregimos
+  vosotros: corregís
+  uds: corrigen
+preterito-perfecto-simple:
+  yo: corregí
+  tu: corregiste
+  vos: corregiste
+  ud: corrigió
+  nosotros: corregimos
+  vosotros: corregisteis
+  uds: corrigieron
+preterito-imperfecto:
+  yo: corregía
+  tu: corregías
+  vos: corregías
+  ud: corregía
+  nosotros: corregíamos
+  vosotros: corregíais
+  uds: corregían
+futuro-simple:
+  yo: corregiré
+  tu: corregirás
+  vos: corregirás
+  ud: corregirá
+  nosotros: corregiremos
+  vosotros: corregiréis
+  uds: corregirán
+condicional-simple:
+  yo: corregiría
+  tu: corregirías
+  vos: corregirías
+  ud: corregiría
+  nosotros: corregiríamos
+  vosotros: corregiríais
+  uds: corregirían
+presente-perfecto:
+  yo: he corregido
+  tu: has corregido
+  vos: has corregido
+  ud: ha corregido
+  nosotros: hemos corregido
+  vosotros: habéis corregido
+  uds: han corregido
+preterito-pluscuamperfecto:
+  yo: había corregido
+  tu: habías corregido
+  vos: habías corregido
+  ud: había corregido
+  nosotros: habíamos corregido
+  vosotros: habíais corregido
+  uds: habían corregido
+futuro-perfecto:
+  yo: habré corregido
+  tu: habrás corregido
+  vos: habrás corregido
+  ud: habrá corregido
+  nosotros: habremos corregido
+  vosotros: habréis corregido
+  uds: habrán corregido
+condicional-perfecto:
+  yo: habría corregido
+  tu: habrías corregido
+  vos: habrías corregido
+  ud: habría corregido
+  nosotros: habríamos corregido
+  vosotros: habríais corregido
+  uds: habrían corregido
+presente-subjuntivo:
+  yo: corrija
+  tu: corrijas
+  vos: corrijas
+  ud: corrija
+  nosotros: corrijamos
+  vosotros: corrijáis
+  uds: corrijan
+preterito-perfecto-subjuntivo:
+  yo: haya corregido
+  tu: hayas corregido
+  vos: hayas corregido
+  ud: haya corregido
+  nosotros: hayamos corregido
+  vosotros: hayáis corregido
+  uds: hayan corregido
+imperfecto-subjuntivo:
+  yo:
+    - corrigiera
+    - corrigiese
+  tu:
+    - corrigieras
+    - corrigieses
+  vos:
+    - corrigieras
+    - corrigieses
+  ud:
+    - corrigiera
+    - corrigiese
+  nosotros:
+    - corrigiéramos
+    - corrigiésemos
+  vosotros:
+    - corrigierais
+    - corrigieseis
+  uds:
+    - corrigieran
+    - corrigiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera corregido
+    - hubiese corregido
+  tu:
+    - hubieras corregido
+    - hubieses corregido
+  vos:
+    - hubieras corregido
+    - hubieses corregido
+  ud:
+    - hubiera corregido
+    - hubiese corregido
+  nosotros:
+    - hubiéramos corregido
+    - hubiésemos corregido
+  vosotros:
+    - hubierais corregido
+    - hubieseis corregido
+  uds:
+    - hubieran corregido
+    - hubiesen corregido
+imperativo:
+  tu: corrige
+  vos: corregí
+  ud: corrija
+  nosotros: corrijamos
+  vosotros: corregid
+  uds: corrijan

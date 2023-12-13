@@ -1,0 +1,142 @@
+infinitivo: comentar
+gerundio: comentando
+participio-pasado: comentado
+presente-indicativo:
+  yo: comento
+  tu: comentas
+  vos: comentás
+  ud: comenta
+  nosotros: comentamos
+  vosotros: comentáis
+  uds: comentan
+preterito-perfecto-simple:
+  yo: comenté
+  tu: comentaste
+  vos: comentaste
+  ud: comentó
+  nosotros: comentamos
+  vosotros: comentasteis
+  uds: comentaron
+preterito-imperfecto:
+  yo: comentaba
+  tu: comentabas
+  vos: comentabas
+  ud: comentaba
+  nosotros: comentábamos
+  vosotros: comentabais
+  uds: comentaban
+futuro-simple:
+  yo: comentaré
+  tu: comentarás
+  vos: comentarás
+  ud: comentará
+  nosotros: comentaremos
+  vosotros: comentaréis
+  uds: comentarán
+condicional-simple:
+  yo: comentaría
+  tu: comentarías
+  vos: comentarías
+  ud: comentaría
+  nosotros: comentaríamos
+  vosotros: comentaríais
+  uds: comentarían
+presente-perfecto:
+  yo: he comentado
+  tu: has comentado
+  vos: has comentado
+  ud: ha comentado
+  nosotros: hemos comentado
+  vosotros: habéis comentado
+  uds: han comentado
+preterito-pluscuamperfecto:
+  yo: había comentado
+  tu: habías comentado
+  vos: habías comentado
+  ud: había comentado
+  nosotros: habíamos comentado
+  vosotros: habíais comentado
+  uds: habían comentado
+futuro-perfecto:
+  yo: habré comentado
+  tu: habrás comentado
+  vos: habrás comentado
+  ud: habrá comentado
+  nosotros: habremos comentado
+  vosotros: habréis comentado
+  uds: habrán comentado
+condicional-perfecto:
+  yo: habría comentado
+  tu: habrías comentado
+  vos: habrías comentado
+  ud: habría comentado
+  nosotros: habríamos comentado
+  vosotros: habríais comentado
+  uds: habrían comentado
+presente-subjuntivo:
+  yo: comente
+  tu: comentes
+  vos: comentes
+  ud: comente
+  nosotros: comentemos
+  vosotros: comentéis
+  uds: comenten
+preterito-perfecto-subjuntivo:
+  yo: haya comentado
+  tu: hayas comentado
+  vos: hayas comentado
+  ud: haya comentado
+  nosotros: hayamos comentado
+  vosotros: hayáis comentado
+  uds: hayan comentado
+imperfecto-subjuntivo:
+  yo:
+    - comentara
+    - comentase
+  tu:
+    - comentaras
+    - comentases
+  vos:
+    - comentaras
+    - comentases
+  ud:
+    - comentara
+    - comentase
+  nosotros:
+    - comentáramos
+    - comentásemos
+  vosotros:
+    - comentarais
+    - comentaseis
+  uds:
+    - comentaran
+    - comentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera comentado
+    - hubiese comentado
+  tu:
+    - hubieras comentado
+    - hubieses comentado
+  vos:
+    - hubieras comentado
+    - hubieses comentado
+  ud:
+    - hubiera comentado
+    - hubiese comentado
+  nosotros:
+    - hubiéramos comentado
+    - hubiésemos comentado
+  vosotros:
+    - hubierais comentado
+    - hubieseis comentado
+  uds:
+    - hubieran comentado
+    - hubiesen comentado
+imperativo:
+  tu: comenta
+  vos: comentá
+  ud: comente
+  nosotros: comentemos
+  vosotros: comentad
+  uds: comenten

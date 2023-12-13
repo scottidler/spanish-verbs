@@ -1,0 +1,142 @@
+infinitivo: realizar
+gerundio: realizando
+participio-pasado: realizado
+presente-indicativo:
+  yo: realizo
+  tu: realizas
+  vos: realizas
+  ud: realiza
+  nosotros: realizamos
+  vosotros: realizáis
+  uds: realizan
+preterito-perfecto-simple:
+  yo: realicé
+  tu: realizaste
+  vos: realizaste
+  ud: realizó
+  nosotros: realizamos
+  vosotros: realizasteis
+  uds: realizaron
+preterito-imperfecto:
+  yo: realizaba
+  tu: realizabas
+  vos: realizabas
+  ud: realizaba
+  nosotros: realizábamos
+  vosotros: realizabais
+  uds: realizaban
+futuro-simple:
+  yo: realizaré
+  tu: realizarás
+  vos: realizarás
+  ud: realizará
+  nosotros: realizaremos
+  vosotros: realizaréis
+  uds: realizarán
+condicional-simple:
+  yo: realizaría
+  tu: realizarías
+  vos: realizarías
+  ud: realizaría
+  nosotros: realizaríamos
+  vosotros: realizaríais
+  uds: realizarían
+presente-perfecto:
+  yo: he realizado
+  tu: has realizado
+  vos: has realizado
+  ud: ha realizado
+  nosotros: hemos realizado
+  vosotros: habéis realizado
+  uds: han realizado
+preterito-pluscuamperfecto:
+  yo: había realizado
+  tu: habías realizado
+  vos: habías realizado
+  ud: había realizado
+  nosotros: habíamos realizado
+  vosotros: habíais realizado
+  uds: habían realizado
+futuro-perfecto:
+  yo: habré realizado
+  tu: habrás realizado
+  vos: habrás realizado
+  ud: habrá realizado
+  nosotros: habremos realizado
+  vosotros: habréis realizado
+  uds: habrán realizado
+condicional-perfecto:
+  yo: habría realizado
+  tu: habrías realizado
+  vos: habrías realizado
+  ud: habría realizado
+  nosotros: habríamos realizado
+  vosotros: habríais realizado
+  uds: habrían realizado
+presente-subjuntivo:
+  yo: realice
+  tu: realices
+  vos: realices
+  ud: realice
+  nosotros: realicemos
+  vosotros: realicéis
+  uds: realicen
+preterito-perfecto-subjuntivo:
+  yo: haya realizado
+  tu: hayas realizado
+  vos: hayas realizado
+  ud: haya realizado
+  nosotros: hayamos realizado
+  vosotros: hayáis realizado
+  uds: hayan realizado
+imperfecto-subjuntivo:
+  yo:
+    - realizara
+    - realizase
+  tu:
+    - realizaras
+    - realizases
+  vos:
+    - realizaras
+    - realizases
+  ud:
+    - realizara
+    - realizase
+  nosotros:
+    - realizáramos
+    - realizásemos
+  vosotros:
+    - realizarais
+    - realizaseis
+  uds:
+    - realizaran
+    - realizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera realizado
+    - hubiese realizado
+  tu:
+    - hubieras realizado
+    - hubieses realizado
+  vos:
+    - hubieras realizado
+    - hubieses realizado
+  ud:
+    - hubiera realizado
+    - hubiese realizado
+  nosotros:
+    - hubiéramos realizado
+    - hubiésemos realizado
+  vosotros:
+    - hubierais realizado
+    - hubieseis realizado
+  uds:
+    - hubieran realizado
+    - hubiesen realizado
+imperativo:
+  tu: realiza
+  vos: realizá
+  ud: realice
+  nosotros: realicemos
+  vosotros: realizad
+  uds: realicen

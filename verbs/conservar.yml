@@ -1,0 +1,142 @@
+infinitivo: conservar
+gerundio: conservando
+participio-pasado: conservado
+presente-indicativo:
+  yo: conservo
+  tu: conservas
+  vos: conservás
+  ud: conserva
+  nosotros: conservamos
+  vosotros: conserváis
+  uds: conservan
+preterito-perfecto-simple:
+  yo: conservé
+  tu: conservaste
+  vos: conservaste
+  ud: conservó
+  nosotros: conservamos
+  vosotros: conservasteis
+  uds: conservaron
+preterito-imperfecto:
+  yo: conservaba
+  tu: conservabas
+  vos: conservabas
+  ud: conservaba
+  nosotros: conservábamos
+  vosotros: conservabais
+  uds: conservaban
+futuro-simple:
+  yo: conservaré
+  tu: conservarás
+  vos: conservarás
+  ud: conservará
+  nosotros: conservaremos
+  vosotros: conservaréis
+  uds: conservarán
+condicional-simple:
+  yo: conservaría
+  tu: conservarías
+  vos: conservarías
+  ud: conservaría
+  nosotros: conservaríamos
+  vosotros: conservaríais
+  uds: conservarían
+presente-perfecto:
+  yo: he conservado
+  tu: has conservado
+  vos: has conservado
+  ud: ha conservado
+  nosotros: hemos conservado
+  vosotros: habéis conservado
+  uds: han conservado
+preterito-pluscuamperfecto:
+  yo: había conservado
+  tu: habías conservado
+  vos: habías conservado
+  ud: había conservado
+  nosotros: habíamos conservado
+  vosotros: habíais conservado
+  uds: habían conservado
+futuro-perfecto:
+  yo: habré conservado
+  tu: habrás conservado
+  vos: habrás conservado
+  ud: habrá conservado
+  nosotros: habremos conservado
+  vosotros: habréis conservado
+  uds: habrán conservado
+condicional-perfecto:
+  yo: habría conservado
+  tu: habrías conservado
+  vos: habrías conservado
+  ud: habría conservado
+  nosotros: habríamos conservado
+  vosotros: habríais conservado
+  uds: habrían conservado
+presente-subjuntivo:
+  yo: conserve
+  tu: conserves
+  vos: conserves
+  ud: conserve
+  nosotros: conservemos
+  vosotros: conservéis
+  uds: conserven
+preterito-perfecto-subjuntivo:
+  yo: haya conservado
+  tu: hayas conservado
+  vos: hayas conservado
+  ud: haya conservado
+  nosotros: hayamos conservado
+  vosotros: hayáis conservado
+  uds: hayan conservado
+imperfecto-subjuntivo:
+  yo:
+    - conservara
+    - conservase
+  tu:
+    - conservaras
+    - conservases
+  vos:
+    - conservaras
+    - conservases
+  ud:
+    - conservara
+    - conservase
+  nosotros:
+    - conserváramos
+    - conservásemos
+  vosotros:
+    - conservarais
+    - conservaseis
+  uds:
+    - conservaran
+    - conservasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conservado
+    - hubiese conservado
+  tu:
+    - hubieras conservado
+    - hubieses conservado
+  vos:
+    - hubieras conservado
+    - hubieses conservado
+  ud:
+    - hubiera conservado
+    - hubiese conservado
+  nosotros:
+    - hubiéramos conservado
+    - hubiésemos conservado
+  vosotros:
+    - hubierais conservado
+    - hubieseis conservado
+  uds:
+    - hubieran conservado
+    - hubiesen conservado
+imperativo:
+  tu: conserva
+  vos: conservá
+  ud: conserve
+  nosotros: conservemos
+  vosotros: conservad
+  uds: conserven

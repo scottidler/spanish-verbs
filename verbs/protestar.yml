@@ -1,0 +1,142 @@
+infinitivo: protestar
+gerundio: protestando
+participio-pasado: protestado
+presente-indicativo:
+  yo: protesto
+  tu: protestas
+  vos: protestás
+  ud: protesta
+  nosotros: protestamos
+  vosotros: protestáis
+  uds: protestan
+preterito-perfecto-simple:
+  yo: protesté
+  tu: protestaste
+  vos: protestaste
+  ud: protestó
+  nosotros: protestamos
+  vosotros: protestasteis
+  uds: protestaron
+preterito-imperfecto:
+  yo: protestaba
+  tu: protestabas
+  vos: protestabas
+  ud: protestaba
+  nosotros: protestábamos
+  vosotros: protestabais
+  uds: protestaban
+futuro-simple:
+  yo: protestaré
+  tu: protestarás
+  vos: protestarás
+  ud: protestará
+  nosotros: protestaremos
+  vosotros: protestaréis
+  uds: protestarán
+condicional-simple:
+  yo: protestaría
+  tu: protestarías
+  vos: protestarías
+  ud: protestaría
+  nosotros: protestaríamos
+  vosotros: protestaríais
+  uds: protestarían
+presente-perfecto:
+  yo: he protestado
+  tu: has protestado
+  vos: has protestado
+  ud: ha protestado
+  nosotros: hemos protestado
+  vosotros: habéis protestado
+  uds: han protestado
+preterito-pluscuamperfecto:
+  yo: había protestado
+  tu: habías protestado
+  vos: habías protestado
+  ud: había protestado
+  nosotros: habíamos protestado
+  vosotros: habíais protestado
+  uds: habían protestado
+futuro-perfecto:
+  yo: habré protestado
+  tu: habrás protestado
+  vos: habrás protestado
+  ud: habrá protestado
+  nosotros: habremos protestado
+  vosotros: habréis protestado
+  uds: habrán protestado
+condicional-perfecto:
+  yo: habría protestado
+  tu: habrías protestado
+  vos: habrías protestado
+  ud: habría protestado
+  nosotros: habríamos protestado
+  vosotros: habríais protestado
+  uds: habrían protestado
+presente-subjuntivo:
+  yo: proteste
+  tu: protestes
+  vos: protestes
+  ud: proteste
+  nosotros: protestemos
+  vosotros: protestéis
+  uds: protesten
+preterito-perfecto-subjuntivo:
+  yo: haya protestado
+  tu: hayas protestado
+  vos: hayas protestado
+  ud: haya protestado
+  nosotros: hayamos protestado
+  vosotros: hayáis protestado
+  uds: hayan protestado
+imperfecto-subjuntivo:
+  yo:
+    - protestara
+    - protestase
+  tu:
+    - protestaras
+    - protestases
+  vos:
+    - protestaras
+    - protestases
+  ud:
+    - protestara
+    - protestase
+  nosotros:
+    - protestáramos
+    - protestásemos
+  vosotros:
+    - protestarais
+    - protestaseis
+  uds:
+    - protestaran
+    - protestasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera protestado
+    - hubiese protestado
+  tu:
+    - hubieras protestado
+    - hubieses protestado
+  vos:
+    - hubieras protestado
+    - hubieses protestado
+  ud:
+    - hubiera protestado
+    - hubiese protestado
+  nosotros:
+    - hubiéramos protestado
+    - hubiésemos protestado
+  vosotros:
+    - hubierais protestado
+    - hubieseis protestado
+  uds:
+    - hubieran protestado
+    - hubiesen protestado
+imperativo:
+  tu: protesta
+  vos: protestá
+  ud: proteste
+  nosotros: protestemos
+  vosotros: protestad
+  uds: protesten

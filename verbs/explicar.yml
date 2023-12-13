@@ -1,0 +1,142 @@
+infinitivo: explicar
+gerundio: explicando
+participio-pasado: explicado
+presente-indicativo:
+  yo: explico
+  tu: explicas
+  vos: explicás
+  ud: explica
+  nosotros: explicamos
+  vosotros: explicáis
+  uds: explican
+preterito-perfecto-simple:
+  yo: expliqué
+  tu: explicaste
+  vos: explicaste
+  ud: explicó
+  nosotros: explicamos
+  vosotros: explicasteis
+  uds: explicaron
+preterito-imperfecto:
+  yo: explicaba
+  tu: explicabas
+  vos: explicabas
+  ud: explicaba
+  nosotros: explicábamos
+  vosotros: explicabais
+  uds: explicaban
+futuro-simple:
+  yo: explicaré
+  tu: explicarás
+  vos: explicarás
+  ud: explicará
+  nosotros: explicaremos
+  vosotros: explicaréis
+  uds: explicarán
+condicional-simple:
+  yo: explicaría
+  tu: explicarías
+  vos: explicarías
+  ud: explicaría
+  nosotros: explicaríamos
+  vosotros: explicaríais
+  uds: explicarían
+presente-perfecto:
+  yo: he explicado
+  tu: has explicado
+  vos: has explicado
+  ud: ha explicado
+  nosotros: hemos explicado
+  vosotros: habéis explicado
+  uds: han explicado
+preterito-pluscuamperfecto:
+  yo: había explicado
+  tu: habías explicado
+  vos: habías explicado
+  ud: había explicado
+  nosotros: habíamos explicado
+  vosotros: habíais explicado
+  uds: habían explicado
+futuro-perfecto:
+  yo: habré explicado
+  tu: habrás explicado
+  vos: habrás explicado
+  ud: habrá explicado
+  nosotros: habremos explicado
+  vosotros: habréis explicado
+  uds: habrán explicado
+condicional-perfecto:
+  yo: habría explicado
+  tu: habrías explicado
+  vos: habrías explicado
+  ud: habría explicado
+  nosotros: habríamos explicado
+  vosotros: habríais explicado
+  uds: habrían explicado
+presente-subjuntivo:
+  yo: explique
+  tu: expliques
+  vos: expliques
+  ud: explique
+  nosotros: expliquemos
+  vosotros: expliquéis
+  uds: expliquen
+preterito-perfecto-subjuntivo:
+  yo: haya explicado
+  tu: hayas explicado
+  vos: hayas explicado
+  ud: haya explicado
+  nosotros: hayamos explicado
+  vosotros: hayáis explicado
+  uds: hayan explicado
+imperfecto-subjuntivo:
+  yo:
+    - explicara
+    - explicase
+  tu:
+    - explicaras
+    - explicases
+  vos:
+    - explicaras
+    - explicases
+  ud:
+    - explicara
+    - explicase
+  nosotros:
+    - explicáramos
+    - explicásemos
+  vosotros:
+    - explicarais
+    - explicaseis
+  uds:
+    - explicaran
+    - explicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera explicado
+    - hubiese explicado
+  tu:
+    - hubieras explicado
+    - hubieses explicado
+  vos:
+    - hubieras explicado
+    - hubieses explicado
+  ud:
+    - hubiera explicado
+    - hubiese explicado
+  nosotros:
+    - hubiéramos explicado
+    - hubiésemos explicado
+  vosotros:
+    - hubierais explicado
+    - hubieseis explicado
+  uds:
+    - hubieran explicado
+    - hubiesen explicado
+imperativo:
+  tu: explica
+  vos: explicá
+  ud: explique
+  nosotros: expliquemos
+  vosotros: explicad
+  uds: expliquen

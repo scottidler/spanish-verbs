@@ -1,0 +1,156 @@
+infinitivo: sentirse
+gerundio: sintiéndose
+participio-pasado: sentido
+
+presente-indicativo:
+  yo: me siento
+  tu: te sientes
+  vos: te sentís
+  ud: se siente
+  nosotros: nos sentimos
+  vosotros: os sentís
+  uds: se sienten
+
+preterito-perfecto-simple:
+  yo: me sentí
+  tu: te sentiste
+  vos: te sentiste
+  ud: se sintió
+  nosotros: nos sentimos
+  vosotros: os sentisteis
+  uds: se sintieron
+
+preterito-imperfecto:
+  yo: me sentía
+  tu: te sentías
+  vos: te sentías
+  ud: se sentía
+  nosotros: nos sentíamos
+  vosotros: os sentíais
+  uds: se sentían
+
+futuro-simple:
+  yo: me sentiré
+  tu: te sentirás
+  vos: te sentirás
+  ud: se sentirá
+  nosotros: nos sentiremos
+  vosotros: os sentiréis
+  uds: se sentirán
+
+condicional-simple:
+  yo: me sentiría
+  tu: te sentirías
+  vos: te sentirías
+  ud: se sentiría
+  nosotros: nos sentiríamos
+  vosotros: os sentiríais
+  uds: se sentirían
+
+presente-perfecto:
+  yo: me he sentido
+  tu: te has sentido
+  vos: te has sentido
+  ud: se ha sentido
+  nosotros: nos hemos sentido
+  vosotros: os habéis sentido
+  uds: se han sentido
+
+preterito-pluscuamperfecto:
+  yo: me había sentido
+  tu: te habías sentido
+  vos: te habías sentido
+  ud: se había sentido
+  nosotros: nos habíamos sentido
+  vosotros: os habíais sentido
+  uds: se habían sentido
+
+futuro-perfecto:
+  yo: me habré sentido
+  tu: te habrás sentido
+  vos: te habrás sentido
+  ud: se habrá sentido
+  nosotros: nos habremos sentido
+  vosotros: os habréis sentido
+  uds: se habrán sentido
+
+condicional-perfecto:
+  yo: me habría sentido
+  tu: te habrías sentido
+  vos: te habrías sentido
+  ud: se habría sentido
+  nosotros: nos habríamos sentido
+  vosotros: os habríais sentido
+  uds: se habrían sentido
+
+presente-subjuntivo:
+  yo: me sienta
+  tu: te sientas
+  vos: te sientas
+  ud: se sienta
+  nosotros: nos sintamos
+  vosotros: os sintáis
+  uds: se sientan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya sentido
+  tu: te hayas sentido
+  vos: te hayas sentido
+  ud: se haya sentido
+  nosotros: nos hayamos sentido
+  vosotros: os hayáis sentido
+  uds: se hayan sentido
+
+imperfecto-subjuntivo:
+  yo:
+    - me sintiera
+    - me sintiese
+  tu:
+    - te sintieras
+    - te sintieses
+  vos:
+    - te sintieras
+    - te sintieses
+  ud:
+    - se sintiera
+    - se sintiese
+  nosotros:
+    - nos sintiéramos
+    - nos sintiésemos
+  vosotros:
+    - os sintierais
+    - os sintieseis
+  uds:
+    - se sintieran
+    - se sintiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera sentido
+    - me hubiese sentido
+  tu:
+    - te hubieras sentido
+    - te hubieses sentido
+  vos:
+    - te hubieras sentido
+    - te hubieses sentido
+  ud:
+    - se hubiera sentido
+    - se hubiese sentido
+  nosotros:
+    - nos hubiéramos sentido
+    - nos hubiésemos sentido
+  vosotros:
+    - os hubierais sentido
+    - os hubieseis sentido
+  uds:
+    - se hubieran sentido
+    - se hubiesen sentido
+
+imperativo:
+  tu: siéntete
+  vos: sentite
+  ud: siéntase
+  nosotros: sintámonos
+  vosotros: sentíos
+  uds: siéntanse

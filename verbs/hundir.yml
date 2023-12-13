@@ -1,0 +1,142 @@
+infinitivo: hundir
+gerundio: hundiendo
+participio-pasado: hundido
+presente-indicativo:
+  yo: hundo
+  tu: hundes
+  vos: hundís
+  ud: hunde
+  nosotros: hundimos
+  vosotros: hundís
+  uds: hunden
+preterito-perfecto-simple:
+  yo: hundí
+  tu: hundiste
+  vos: hundiste
+  ud: hundió
+  nosotros: hundimos
+  vosotros: hundisteis
+  uds: hundieron
+preterito-imperfecto:
+  yo: hundía
+  tu: hundías
+  vos: hundías
+  ud: hundía
+  nosotros: hundíamos
+  vosotros: hundíais
+  uds: hundían
+futuro-simple:
+  yo: hundiré
+  tu: hundirás
+  vos: hundirás
+  ud: hundirá
+  nosotros: hundiremos
+  vosotros: hundiréis
+  uds: hundirán
+condicional-simple:
+  yo: hundiría
+  tu: hundirías
+  vos: hundirías
+  ud: hundiría
+  nosotros: hundiríamos
+  vosotros: hundiríais
+  uds: hundirían
+presente-perfecto:
+  yo: he hundido
+  tu: has hundido
+  vos: has hundido
+  ud: ha hundido
+  nosotros: hemos hundido
+  vosotros: habéis hundido
+  uds: han hundido
+preterito-pluscuamperfecto:
+  yo: había hundido
+  tu: habías hundido
+  vos: habías hundido
+  ud: había hundido
+  nosotros: habíamos hundido
+  vosotros: habíais hundido
+  uds: habían hundido
+futuro-perfecto:
+  yo: habré hundido
+  tu: habrás hundido
+  vos: habrás hundido
+  ud: habrá hundido
+  nosotros: habremos hundido
+  vosotros: habréis hundido
+  uds: habrán hundido
+condicional-perfecto:
+  yo: habría hundido
+  tu: habrías hundido
+  vos: habrías hundido
+  ud: habría hundido
+  nosotros: habríamos hundido
+  vosotros: habríais hundido
+  uds: habrían hundido
+presente-subjuntivo:
+  yo: hunda
+  tu: hundas
+  vos: hundas
+  ud: hunda
+  nosotros: hundamos
+  vosotros: hundáis
+  uds: hundan
+preterito-perfecto-subjuntivo:
+  yo: haya hundido
+  tu: hayas hundido
+  vos: hayas hundido
+  ud: haya hundido
+  nosotros: hayamos hundido
+  vosotros: hayáis hundido
+  uds: hayan hundido
+imperfecto-subjuntivo:
+  yo:
+    - hundiera
+    - hundiese
+  tu:
+    - hundieras
+    - hundieses
+  vos:
+    - hundieras
+    - hundieses
+  ud:
+    - hundiera
+    - hundiese
+  nosotros:
+    - hundiéramos
+    - hundiésemos
+  vosotros:
+    - hundierais
+    - hundieseis
+  uds:
+    - hundieran
+    - hundiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera hundido
+    - hubiese hundido
+  tu:
+    - hubieras hundido
+    - hubieses hundido
+  vos:
+    - hubieras hundido
+    - hubieses hundido
+  ud:
+    - hubiera hundido
+    - hubiese hundido
+  nosotros:
+    - hubiéramos hundido
+    - hubiésemos hundido
+  vosotros:
+    - hubierais hundido
+    - hubieseis hundido
+  uds:
+    - hubieran hundido
+    - hubiesen hundido
+imperativo:
+  tu: hunde
+  vos: hundí
+  ud: hunda
+  nosotros: hundamos
+  vosotros: hundid
+  uds: hundan

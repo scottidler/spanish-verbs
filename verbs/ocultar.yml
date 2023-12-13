@@ -1,0 +1,142 @@
+infinitivo: ocultar
+gerundio: ocultando
+participio-pasado: ocultado
+presente-indicativo:
+  yo: oculto
+  tu: ocultas
+  vos: ocultás
+  ud: oculta
+  nosotros: ocultamos
+  vosotros: ocultáis
+  uds: ocultan
+preterito-perfecto-simple:
+  yo: oculté
+  tu: ocultaste
+  vos: ocultaste
+  ud: ocultó
+  nosotros: ocultamos
+  vosotros: ocultasteis
+  uds: ocultaron
+preterito-imperfecto:
+  yo: ocultaba
+  tu: ocultabas
+  vos: ocultabas
+  ud: ocultaba
+  nosotros: ocultábamos
+  vosotros: ocultabais
+  uds: ocultaban
+futuro-simple:
+  yo: ocultaré
+  tu: ocultarás
+  vos: ocultarás
+  ud: ocultará
+  nosotros: ocultaremos
+  vosotros: ocultaréis
+  uds: ocultarán
+condicional-simple:
+  yo: ocultaría
+  tu: ocultarías
+  vos: ocultarías
+  ud: ocultaría
+  nosotros: ocultaríamos
+  vosotros: ocultaríais
+  uds: ocultarían
+presente-perfecto:
+  yo: he ocultado
+  tu: has ocultado
+  vos: has ocultado
+  ud: ha ocultado
+  nosotros: hemos ocultado
+  vosotros: habéis ocultado
+  uds: han ocultado
+preterito-pluscuamperfecto:
+  yo: había ocultado
+  tu: habías ocultado
+  vos: habías ocultado
+  ud: había ocultado
+  nosotros: habíamos ocultado
+  vosotros: habíais ocultado
+  uds: habían ocultado
+futuro-perfecto:
+  yo: habré ocultado
+  tu: habrás ocultado
+  vos: habrás ocultado
+  ud: habrá ocultado
+  nosotros: habremos ocultado
+  vosotros: habréis ocultado
+  uds: habrán ocultado
+condicional-perfecto:
+  yo: habría ocultado
+  tu: habrías ocultado
+  vos: habrías ocultado
+  ud: habría ocultado
+  nosotros: habríamos ocultado
+  vosotros: habríais ocultado
+  uds: habrían ocultado
+presente-subjuntivo:
+  yo: oculte
+  tu: ocultes
+  vos: ocultes
+  ud: oculte
+  nosotros: ocultemos
+  vosotros: ocultéis
+  uds: oculten
+preterito-perfecto-subjuntivo:
+  yo: haya ocultado
+  tu: hayas ocultado
+  vos: hayas ocultado
+  ud: haya ocultado
+  nosotros: hayamos ocultado
+  vosotros: hayáis ocultado
+  uds: hayan ocultado
+imperfecto-subjuntivo:
+  yo:
+    - ocultara
+    - ocultase
+  tu:
+    - ocultaras
+    - ocultases
+  vos:
+    - ocultaras
+    - ocultases
+  ud:
+    - ocultara
+    - ocultase
+  nosotros:
+    - ocultáramos
+    - ocultásemos
+  vosotros:
+    - ocultarais
+    - ocultaseis
+  uds:
+    - ocultaran
+    - ocultasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ocultado
+    - hubiese ocultado
+  tu:
+    - hubieras ocultado
+    - hubieses ocultado
+  vos:
+    - hubieras ocultado
+    - hubieses ocultado
+  ud:
+    - hubiera ocultado
+    - hubiese ocultado
+  nosotros:
+    - hubiéramos ocultado
+    - hubiésemos ocultado
+  vosotros:
+    - hubierais ocultado
+    - hubieseis ocultado
+  uds:
+    - hubieran ocultado
+    - hubiesen ocultado
+imperativo:
+  tu: oculta
+  vos: ocultá
+  ud: oculte
+  nosotros: ocultemos
+  vosotros: ocultad
+  uds: oculten

@@ -1,0 +1,142 @@
+infinitivo: reflejar
+gerundio: reflejando
+participio-pasado: reflejado
+presente-indicativo:
+  yo: reflejo
+  tu: reflejas
+  vos: reflejás
+  ud: refleja
+  nosotros: reflejamos
+  vosotros: reflejáis
+  uds: reflejan
+preterito-perfecto-simple:
+  yo: reflejé
+  tu: reflejaste
+  vos: reflejaste
+  ud: reflejó
+  nosotros: reflejamos
+  vosotros: reflejasteis
+  uds: reflejaron
+preterito-imperfecto:
+  yo: reflejaba
+  tu: reflejabas
+  vos: reflejabas
+  ud: reflejaba
+  nosotros: reflejábamos
+  vosotros: reflejabais
+  uds: reflejaban
+futuro-simple:
+  yo: reflejaré
+  tu: reflejarás
+  vos: reflejarás
+  ud: reflejará
+  nosotros: reflejaremos
+  vosotros: reflejaréis
+  uds: reflejarán
+condicional-simple:
+  yo: reflejaría
+  tu: reflejarías
+  vos: reflejarías
+  ud: reflejaría
+  nosotros: reflejaríamos
+  vosotros: reflejaríais
+  uds: reflejarían
+presente-perfecto:
+  yo: he reflejado
+  tu: has reflejado
+  vos: has reflejado
+  ud: ha reflejado
+  nosotros: hemos reflejado
+  vosotros: habéis reflejado
+  uds: han reflejado
+preterito-pluscuamperfecto:
+  yo: había reflejado
+  tu: habías reflejado
+  vos: habías reflejado
+  ud: había reflejado
+  nosotros: habíamos reflejado
+  vosotros: habíais reflejado
+  uds: habían reflejado
+futuro-perfecto:
+  yo: habré reflejado
+  tu: habrás reflejado
+  vos: habrás reflejado
+  ud: habrá reflejado
+  nosotros: habremos reflejado
+  vosotros: habréis reflejado
+  uds: habrán reflejado
+condicional-perfecto:
+  yo: habría reflejado
+  tu: habrías reflejado
+  vos: habrías reflejado
+  ud: habría reflejado
+  nosotros: habríamos reflejado
+  vosotros: habríais reflejado
+  uds: habrían reflejado
+presente-subjuntivo:
+  yo: refleje
+  tu: reflejes
+  vos: reflejes
+  ud: refleje
+  nosotros: reflejemos
+  vosotros: reflejéis
+  uds: reflejen
+preterito-perfecto-subjuntivo:
+  yo: haya reflejado
+  tu: hayas reflejado
+  vos: hayas reflejado
+  ud: haya reflejado
+  nosotros: hayamos reflejado
+  vosotros: hayáis reflejado
+  uds: hayan reflejado
+imperfecto-subjuntivo:
+  yo:
+    - reflejara
+    - reflejase
+  tu:
+    - reflejaras
+    - reflejases
+  vos:
+    - reflejaras
+    - reflejases
+  ud:
+    - reflejara
+    - reflejase
+  nosotros:
+    - reflejáramos
+    - reflejásemos
+  vosotros:
+    - reflejarais
+    - reflejaseis
+  uds:
+    - reflejaran
+    - reflejasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reflejado
+    - hubiese reflejado
+  tu:
+    - hubieras reflejado
+    - hubieses reflejado
+  vos:
+    - hubieras reflejado
+    - hubieses reflejado
+  ud:
+    - hubiera reflejado
+    - hubiese reflejado
+  nosotros:
+    - hubiéramos reflejado
+    - hubiésemos reflejado
+  vosotros:
+    - hubierais reflejado
+    - hubieseis reflejado
+  uds:
+    - hubieran reflejado
+    - hubiesen reflejado
+imperativo:
+  tu: refleja
+  vos: reflejá
+  ud: refleje
+  nosotros: reflejemos
+  vosotros: reflejad
+  uds: reflejen

@@ -1,0 +1,142 @@
+infinitivo: despedir
+gerundio: despidiendo
+participio-pasado: despedido
+presente-indicativo:
+  yo: despido
+  tu: despides
+  vos: despedís
+  ud: despide
+  nosotros: despedimos
+  vosotros: despedís
+  uds: despiden
+preterito-perfecto-simple:
+  yo: despedí
+  tu: despediste
+  vos: despediste
+  ud: despidió
+  nosotros: despedimos
+  vosotros: despedisteis
+  uds: despidieron
+preterito-imperfecto:
+  yo: despedía
+  tu: despedías
+  vos: despedías
+  ud: despedía
+  nosotros: despedíamos
+  vosotros: despedíais
+  uds: despedían
+futuro-simple:
+  yo: despediré
+  tu: despedirás
+  vos: despedirás
+  ud: despedirá
+  nosotros: despediremos
+  vosotros: despediréis
+  uds: despedirán
+condicional-simple:
+  yo: despediría
+  tu: despedirías
+  vos: despedirías
+  ud: despediría
+  nosotros: despediríamos
+  vosotros: despediríais
+  uds: despedirían
+presente-perfecto:
+  yo: he despedido
+  tu: has despedido
+  vos: has despedido
+  ud: ha despedido
+  nosotros: hemos despedido
+  vosotros: habéis despedido
+  uds: han despedido
+preterito-pluscuamperfecto:
+  yo: había despedido
+  tu: habías despedido
+  vos: habías despedido
+  ud: había despedido
+  nosotros: habíamos despedido
+  vosotros: habíais despedido
+  uds: habían despedido
+futuro-perfecto:
+  yo: habré despedido
+  tu: habrás despedido
+  vos: habrás despedido
+  ud: habrá despedido
+  nosotros: habremos despedido
+  vosotros: habréis despedido
+  uds: habrán despedido
+condicional-perfecto:
+  yo: habría despedido
+  tu: habrías despedido
+  vos: habrías despedido
+  ud: habría despedido
+  nosotros: habríamos despedido
+  vosotros: habríais despedido
+  uds: habrían despedido
+presente-subjuntivo:
+  yo: despida
+  tu: despidas
+  vos: despidas
+  ud: despida
+  nosotros: despidamos
+  vosotros: despidáis
+  uds: despidan
+preterito-perfecto-subjuntivo:
+  yo: haya despedido
+  tu: hayas despedido
+  vos: hayas despedido
+  ud: haya despedido
+  nosotros: hayamos despedido
+  vosotros: hayáis despedido
+  uds: hayan despedido
+imperfecto-subjuntivo:
+  yo:
+    - despidiera
+    - despidiese
+  tu:
+    - despidieras
+    - despidieses
+  vos:
+    - despidieras
+    - despidieses
+  ud:
+    - despidiera
+    - despidiese
+  nosotros:
+    - despidiéramos
+    - despidiésemos
+  vosotros:
+    - despidierais
+    - despidieseis
+  uds:
+    - despidieran
+    - despidiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera despedido
+    - hubiese despedido
+  tu:
+    - hubieras despedido
+    - hubieses despedido
+  vos:
+    - hubieras despedido
+    - hubieses despedido
+  ud:
+    - hubiera despedido
+    - hubiese despedido
+  nosotros:
+    - hubiéramos despedido
+    - hubiésemos despedido
+  vosotros:
+    - hubierais despedido
+    - hubieseis despedido
+  uds:
+    - hubieran despedido
+    - hubiesen despedido
+imperativo:
+  tu: despide
+  vos: despedí
+  ud: despida
+  nosotros: despidamos
+  vosotros: despedid
+  uds: despidan

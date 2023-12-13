@@ -1,0 +1,142 @@
+infinitivo: llegar
+gerundio: llegando
+participio-pasado: llegado
+presente-indicativo:
+  yo: llego
+  tu: llegas
+  vos: llegas
+  ud: llega
+  nosotros: llegamos
+  vosotros: llegáis
+  uds: llegan
+preterito-perfecto-simple:
+  yo: llegué
+  tu: llegaste
+  vos: llegaste
+  ud: llegó
+  nosotros: llegamos
+  vosotros: llegasteis
+  uds: llegaron
+preterito-imperfecto:
+  yo: llegaba
+  tu: llegabas
+  vos: llegabas
+  ud: llegaba
+  nosotros: llegábamos
+  vosotros: llegabais
+  uds: llegaban
+futuro-simple:
+  yo: llegaré
+  tu: llegarás
+  vos: llegarás
+  ud: llegará
+  nosotros: llegaremos
+  vosotros: llegaréis
+  uds: llegarán
+condicional-simple:
+  yo: llegaría
+  tu: llegarías
+  vos: llegarías
+  ud: llegaría
+  nosotros: llegaríamos
+  vosotros: llegaríais
+  uds: llegarían
+presente-perfecto:
+  yo: he llegado
+  tu: has llegado
+  vos: has llegado
+  ud: ha llegado
+  nosotros: hemos llegado
+  vosotros: habéis llegado
+  uds: han llegado
+preterito-pluscuamperfecto:
+  yo: había llegado
+  tu: habías llegado
+  vos: habías llegado
+  ud: había llegado
+  nosotros: habíamos llegado
+  vosotros: habíais llegado
+  uds: habían llegado
+futuro-perfecto:
+  yo: habré llegado
+  tu: habrás llegado
+  vos: habrás llegado
+  ud: habrá llegado
+  nosotros: habremos llegado
+  vosotros: habréis llegado
+  uds: habrán llegado
+condicional-perfecto:
+  yo: habría llegado
+  tu: habrías llegado
+  vos: habrías llegado
+  ud: habría llegado
+  nosotros: habríamos llegado
+  vosotros: habríais llegado
+  uds: habrían llegado
+presente-subjuntivo:
+  yo: llegue
+  tu: llegues
+  vos: llegues
+  ud: llegue
+  nosotros: lleguemos
+  vosotros: lleguéis
+  uds: lleguen
+preterito-perfecto-subjuntivo:
+  yo: haya llegado
+  tu: hayas llegado
+  vos: hayas llegado
+  ud: haya llegado
+  nosotros: hayamos llegado
+  vosotros: hayáis llegado
+  uds: hayan llegado
+imperfecto-subjuntivo:
+  yo:
+    - llegara
+    - llegase
+  tu:
+    - llegaras
+    - llegases
+  vos:
+    - llegaras
+    - llegases
+  ud:
+    - llegara
+    - llegase
+  nosotros:
+    - llegáramos
+    - llegásemos
+  vosotros:
+    - llegarais
+    - llegaseis
+  uds:
+    - llegaran
+    - llegasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llegado
+    - hubiese llegado
+  tu:
+    - hubieras llegado
+    - hubieses llegado
+  vos:
+    - hubieras llegado
+    - hubieses llegado
+  ud:
+    - hubiera llegado
+    - hubiese llegado
+  nosotros:
+    - hubiéramos llegado
+    - hubiésemos llegado
+  vosotros:
+    - hubierais llegado
+    - hubieseis llegado
+  uds:
+    - hubieran llegado
+    - hubiesen llegado
+imperativo:
+  tu: llega
+  vos: llega
+  ud: llegue
+  nosotros: lleguemos
+  vosotros: llegad
+  uds: lleguen

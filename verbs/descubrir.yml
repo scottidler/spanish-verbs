@@ -1,0 +1,142 @@
+infinitivo: descubrir
+gerundio: descubriendo
+participio-pasado: descubierto
+presente-indicativo: 
+  yo: descubro
+  tu: descubres
+  vos: descubrís
+  ud: descubre
+  nosotros: descubrimos
+  vosotros: descubrís
+  uds: descubren
+preterito-perfecto-simple:
+  yo: descubrí
+  tu: descubriste
+  vos: descubriste
+  ud: descubrió
+  nosotros: descubrimos
+  vosotros: descubristeis
+  uds: descubrieron
+preterito-imperfecto:
+  yo: descubría
+  tu: descubrías
+  vos: descubrías
+  ud: descubría
+  nosotros: descubríamos
+  vosotros: descubríais
+  uds: descubrían
+futuro-simple:
+  yo: descubriré
+  tu: descubrirás
+  vos: descubrirás
+  ud: descubrirá
+  nosotros: descubriremos
+  vosotros: descubriréis
+  uds: descubrirán
+condicional-simple:
+  yo: descubriría
+  tu: descubrirías
+  vos: descubrirías
+  ud: descubriría
+  nosotros: descubriríamos
+  vosotros: descubriríais
+  uds: descubrirían
+presente-perfecto:
+  yo: he descubierto
+  tu: has descubierto
+  vos: has descubierto
+  ud: ha descubierto
+  nosotros: hemos descubierto
+  vosotros: habéis descubierto
+  uds: han descubierto
+preterito-pluscuamperfecto:
+  yo: había descubierto
+  tu: habías descubierto
+  vos: habías descubierto
+  ud: había descubierto
+  nosotros: habíamos descubierto
+  vosotros: habíais descubierto
+  uds: habían descubierto
+futuro-perfecto:
+  yo: habré descubierto
+  tu: habrás descubierto
+  vos: habrás descubierto
+  ud: habrá descubierto
+  nosotros: habremos descubierto
+  vosotros: habréis descubierto
+  uds: habrán descubierto
+condicional-perfecto:
+  yo: habría descubierto
+  tu: habrías descubierto
+  vos: habrías descubierto
+  ud: habría descubierto
+  nosotros: habríamos descubierto
+  vosotros: habríais descubierto
+  uds: habrían descubierto
+presente-subjuntivo:
+  yo: descubra
+  tu: descubras
+  vos: descubras
+  ud: descubra
+  nosotros: descubramos
+  vosotros: descubráis
+  uds: descubran
+preterito-perfecto-subjuntivo:
+  yo: haya descubierto
+  tu: hayas descubierto
+  vos: hayas descubierto
+  ud: haya descubierto
+  nosotros: hayamos descubierto
+  vosotros: hayáis descubierto
+  uds: hayan descubierto
+imperfecto-subjuntivo: 
+  yo: 
+    - descubriera
+    - descubriese
+  tu: 
+    - descubrieras
+    - descubrieses
+  vos: 
+    - descubrieras
+    - descubrieses
+  ud: 
+    - descubriera
+    - descubriese
+  nosotros: 
+    - descubriéramos
+    - descubriésemos
+  vosotros: 
+    - descubrierais
+    - descubrieseis
+  uds: 
+    - descubrieran
+    - descubriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera descubierto
+    - hubiese descubierto
+  tu:
+    - hubieras descubierto
+    - hubieses descubierto
+  vos:
+    - hubieras descubierto
+    - hubieses descubierto
+  ud:
+    - hubiera descubierto
+    - hubiese descubierto
+  nosotros:
+    - hubiéramos descubierto
+    - hubiésemos descubierto
+  vosotros:
+    - hubierais descubierto
+    - hubieseis descubierto
+  uds:
+    - hubieran descubierto
+    - hubiesen descubierto
+imperativo:
+  tu: descubre
+  vos: descubrí
+  ud: descubra
+  nosotros: descubramos
+  vosotros: descubrid
+  uds: descubran

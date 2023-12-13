@@ -1,0 +1,142 @@
+infinitivo: ocurrir
+gerundio: ocurriendo
+participio-pasado: ocurrido
+presente-indicativo:
+  yo: ocurro
+  tu: ocurre
+  vos: ocurre
+  ud: ocurre
+  nosotros: ocurrimos
+  vosotros: ocurris
+  uds: ocurren
+preterito-perfecto-simple:
+  yo: ocurri
+  tu: ocurriste
+  vos: ocurriste
+  ud: ocurrio
+  nosotros: ocurrimos
+  vosotros: ocurristeis
+  uds: ocurrieron
+preterito-imperfecto:
+  yo: ocurría
+  tu: ocurrías
+  vos: ocurrías
+  ud: ocurría
+  nosotros: ocurríamos
+  vosotros: ocurríais
+  uds: ocurrían
+futuro-simple:
+  yo: ocurriré
+  tu: ocurrirás
+  vos: ocurrirás
+  ud: ocurrirá
+  nosotros: ocurriremos
+  vosotros: ocurriréis
+  uds: ocurrirán
+condicional-simple:
+  yo: ocurriría
+  tu: ocurrirías
+  vos: ocurrirías
+  ud: ocurriría
+  nosotros: ocurriríamos
+  vosotros: ocurriríais
+  uds: ocurrirían
+presente-perfecto:
+  yo: he ocurrido
+  tu: has ocurrido
+  vos: has ocurrido
+  ud: ha ocurrido
+  nosotros: hemos ocurrido
+  vosotros: habéis ocurrido
+  uds: han ocurrido
+preterito-pluscuamperfecto:
+  yo: había ocurrido
+  tu: habías ocurrido
+  vos: habías ocurrido
+  ud: había ocurrido
+  nosotros: habíamos ocurrido
+  vosotros: habíais ocurrido
+  uds: habían ocurrido
+futuro-perfecto:
+  yo: habré ocurrido
+  tu: habrás ocurrido
+  vos: habrás ocurrido
+  ud: habrá ocurrido
+  nosotros: habremos ocurrido
+  vosotros: habréis ocurrido
+  uds: habrán ocurrido
+condicional-perfecto:
+  yo: habría ocurrido
+  tu: habrías ocurrido
+  vos: habrías ocurrido
+  ud: habría ocurrido
+  nosotros: habríamos ocurrido
+  vosotros: habríais ocurrido
+  uds: habrían ocurrido
+presente-subjuntivo:
+  yo: ocurra
+  tu: ocurras
+  vos: ocurras
+  ud: ocurra
+  nosotros: ocurramos
+  vosotros: ocurrais
+  uds: ocurran
+preterito-perfecto-subjuntivo:
+  yo: haya ocurrido
+  tu: hayas ocurrido
+  vos: hayas ocurrido
+  ud: haya ocurrido
+  nosotros: hayamos ocurrido
+  vosotros: hayáis ocurrido
+  uds: hayan ocurrido
+imperfecto-subjuntivo:
+  yo:
+    - ocurriera
+    - ocurriese
+  tu:
+    - ocurrieras
+    - ocurrieses
+  vos:
+    - ocurrieras
+    - ocurrieses
+  ud:
+    - ocurriera
+    - ocurriese
+  nosotros:
+    - ocurriéramos
+    - ocurriésemos
+  vosotros:
+    - ocurrierais
+    - ocurrieseis
+  uds:
+    - ocurrieran
+    - ocurriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ocurrido
+    - hubiese ocurrido
+  tu:
+    - hubieras ocurrido
+    - hubieses ocurrido
+  vos:
+    - hubieras ocurrido
+    - hubieses ocurrido
+  ud:
+    - hubiera ocurrido
+    - hubiese ocurrido
+  nosotros:
+    - hubiéramos ocurrido
+    - hubiésemos ocurrido
+  vosotros:
+    - hubierais ocurrido
+    - hubieseis ocurrido
+  uds:
+    - hubieran ocurrido
+    - hubiesen ocurrido
+imperativo:
+  tu: ocurre
+  vos: ocurre
+  ud: ocurra
+  nosotros: ocurramos
+  vosotros: ocurrir
+  uds: ocurran

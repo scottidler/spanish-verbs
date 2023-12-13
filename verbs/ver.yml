@@ -1,0 +1,156 @@
+infinitivo: ver
+gerundio: viendo
+participio-pasado: visto
+
+presente-indicativo:
+  yo: veo
+  tu: ves
+  vos: ves
+  ud: ve
+  nosotros: vemos
+  vosotros: veis
+  uds: ven
+
+preterito-perfecto-simple:
+  yo: vi
+  tu: viste
+  vos: viste
+  ud: vio
+  nosotros: vimos
+  vosotros: visteis
+  uds: vieron
+
+preterito-imperfecto:
+  yo: veía
+  tu: veías
+  vos: veías
+  ud: veía
+  nosotros: veíamos
+  vosotros: veíais
+  uds: veían
+
+futuro-simple:
+  yo: veré
+  tu: verás
+  vos: verás
+  ud: verá
+  nosotros: veremos
+  vosotros: veréis
+  uds: verán
+
+condicional-simple:
+  yo: vería
+  tu: verías
+  vos: verías
+  ud: vería
+  nosotros: veríamos
+  vosotros: veríais
+  uds: verían
+
+presente-perfecto:
+  yo: he visto
+  tu: has visto
+  vos: has visto
+  ud: ha visto
+  nosotros: hemos visto
+  vosotros: habéis visto
+  uds: han visto
+
+preterito-pluscuamperfecto:
+  yo: había visto
+  tu: habías visto
+  vos: habías visto
+  ud: había visto
+  nosotros: habíamos visto
+  vosotros: habíais visto
+  uds: habían visto
+
+futuro-perfecto:
+  yo: habré visto
+  tu: habrás visto
+  vos: habrás visto
+  ud: habrá visto
+  nosotros: habremos visto
+  vosotros: habréis visto
+  uds: habrán visto
+
+condicional-perfecto:
+  yo: habría visto
+  tu: habrías visto
+  vos: habrías visto
+  ud: habría visto
+  nosotros: habríamos visto
+  vosotros: habríais visto
+  uds: habrían visto
+
+presente-subjuntivo:
+  yo: vea
+  tu: veas
+  vos: veas
+  ud: vea
+  nosotros: veamos
+  vosotros: veáis
+  uds: vean
+
+preterito-perfecto-subjuntivo:
+  yo: haya visto
+  tu: hayas visto
+  vos: hayas visto
+  ud: haya visto
+  nosotros: hayamos visto
+  vosotros: hayáis visto
+  uds: hayan visto
+
+imperfecto-subjuntivo:
+  yo:
+    - viera
+    - viese
+  tu:
+    - vieras
+    - vieses
+  vos:
+    - vieras
+    - vieses
+  ud:
+    - viera
+    - viese
+  nosotros:
+    - viéramos
+    - viésemos
+  vosotros:
+    - vierais
+    - vieseis
+  uds:
+    - vieran
+    - viesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera visto
+    - hubiese visto
+  tu:
+    - hubieras visto
+    - hubieses visto
+  vos:
+    - hubieras visto
+    - hubieses visto
+  ud:
+    - hubiera visto
+    - hubiese visto
+  nosotros:
+    - hubiéramos visto
+    - hubiésemos visto
+  vosotros:
+    - hubierais visto
+    - hubieseis visto
+  uds:
+    - hubieran visto
+    - hubiesen visto
+
+imperativo:
+  tu: ve
+  vos: ve
+  ud: vea
+  nosotros: veamos
+  vosotros: ved
+  uds: vean

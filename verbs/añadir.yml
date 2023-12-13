@@ -1,0 +1,142 @@
+infinitivo: añadir
+gerundio: añadiendo
+participio-pasado: añadido
+presente-indicativo:
+  yo: añado
+  tu: añades
+  vos: añadís
+  ud: añade
+  nosotros: añadimos
+  vosotros: añadís
+  uds: añaden
+preterito-perfecto-simple:
+  yo: añadí
+  tu: añadiste
+  vos: añadiste
+  ud: añadió
+  nosotros: añadimos
+  vosotros: añadisteis
+  uds: añadieron
+preterito-imperfecto:
+  yo: añadía
+  tu: añadías
+  vos: añadías
+  ud: añadía
+  nosotros: añadíamos
+  vosotros: añadíais
+  uds: añadían
+futuro-simple:
+  yo: añadiré
+  tu: añadirás
+  vos: añadirás
+  ud: añadirá
+  nosotros: añadiremos
+  vosotros: añadiréis
+  uds: añadirán
+condicional-simple:
+  yo: añadiría
+  tu: añadirías
+  vos: añadirías
+  ud: añadiría
+  nosotros: añadiríamos
+  vosotros: añadiríais
+  uds: añadirían
+presente-perfecto:
+  yo: he añadido
+  tu: has añadido
+  vos: has añadido
+  ud: ha añadido
+  nosotros: hemos añadido
+  vosotros: habéis añadido
+  uds: han añadido
+preterito-pluscuamperfecto:
+  yo: había añadido
+  tu: habías añadido
+  vos: habías añadido
+  ud: había añadido
+  nosotros: habíamos añadido
+  vosotros: habíais añadido
+  uds: habían añadido
+futuro-perfecto:
+  yo: habré añadido
+  tu: habrás añadido
+  vos: habrás añadido
+  ud: habrá añadido
+  nosotros: habremos añadido
+  vosotros: habréis añadido
+  uds: habrán añadido
+condicional-perfecto:
+  yo: habría añadido
+  tu: habrías añadido
+  vos: habrías añadido
+  ud: habría añadido
+  nosotros: habríamos añadido
+  vosotros: habríais añadido
+  uds: habrían añadido
+presente-subjuntivo:
+  yo: añada
+  tu: añadas
+  vos: añadas
+  ud: añada
+  nosotros: añadamos
+  vosotros: añadáis
+  uds: añadan
+preterito-perfecto-subjuntivo:
+  yo: haya añadido
+  tu: hayas añadido
+  vos: hayas añadido
+  ud: haya añadido
+  nosotros: hayamos añadido
+  vosotros: hayáis añadido
+  uds: hayan añadido
+imperfecto-subjuntivo:
+  yo:
+    - añadiera
+    - añadiese
+  tu:
+    - añadieras
+    - añadieses
+  vos:
+    - añadieras
+    - añadieses
+  ud:
+    - añadiera
+    - añadiese
+  nosotros:
+    - añadiéramos
+    - añadiésemos
+  vosotros:
+    - añadierais
+    - añadieseis
+  uds:
+    - añadieran
+    - añadiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera añadido
+    - hubiese añadido
+  tu:
+    - hubieras añadido
+    - hubieses añadido
+  vos:
+    - hubieras añadido
+    - hubieses añadido
+  ud:
+    - hubiera añadido
+    - hubiese añadido
+  nosotros:
+    - hubiéramos añadido
+    - hubiésemos añadido
+  vosotros:
+    - hubierais añadido
+    - hubieseis añadido
+  uds:
+    - hubieran añadido
+    - hubiesen añadido
+imperativo:
+  tu: añade
+  vos: añadí
+  ud: añada
+  nosotros: añadamos
+  vosotros: añadid
+  uds: añadan

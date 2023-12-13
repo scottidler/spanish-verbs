@@ -1,0 +1,156 @@
+infinitivo: ponerse
+gerundio: poniéndose
+participio-pasado: puesto
+
+presente-indicativo:
+  yo: me pongo
+  tu: te pones
+  vos: te pones
+  ud: se pone
+  nosotros: nos ponemos
+  vosotros: os ponéis
+  uds: se ponen
+
+preterito-perfecto-simple:
+  yo: me puse
+  tu: te pusiste
+  vos: te pusiste
+  ud: se puso
+  nosotros: nos pusimos
+  vosotros: os pusisteis
+  uds: se pusieron
+
+preterito-imperfecto:
+  yo: me ponía
+  tu: te ponías
+  vos: te ponías
+  ud: se ponía
+  nosotros: nos poníamos
+  vosotros: os poníais
+  uds: se ponían
+
+futuro-simple:
+  yo: me pondré
+  tu: te pondrás
+  vos: te pondrás
+  ud: se pondrá
+  nosotros: nos pondremos
+  vosotros: os pondréis
+  uds: se pondrán
+
+condicional-simple:
+  yo: me pondría
+  tu: te pondrías
+  vos: te pondrías
+  ud: se pondría
+  nosotros: nos pondríamos
+  vosotros: os pondríais
+  uds: se pondrían
+
+presente-perfecto:
+  yo: me he puesto
+  tu: te has puesto
+  vos: te has puesto
+  ud: se ha puesto
+  nosotros: nos hemos puesto
+  vosotros: os habéis puesto
+  uds: se han puesto
+
+preterito-pluscuamperfecto:
+  yo: me había puesto
+  tu: te habías puesto
+  vos: te habías puesto
+  ud: se había puesto
+  nosotros: nos habíamos puesto
+  vosotros: os habíais puesto
+  uds: se habían puesto
+
+futuro-perfecto:
+  yo: me habré puesto
+  tu: te habrás puesto
+  vos: te habrás puesto
+  ud: se habrá puesto
+  nosotros: nos habremos puesto
+  vosotros: os habréis puesto
+  uds: se habrán puesto
+
+condicional-perfecto:
+  yo: me habría puesto
+  tu: te habrías puesto
+  vos: te habrías puesto
+  ud: se habría puesto
+  nosotros: nos habríamos puesto
+  vosotros: os habríais puesto
+  uds: se habrían puesto
+
+presente-subjuntivo:
+  yo: me ponga
+  tu: te pongas
+  vos: te pongas
+  ud: se ponga
+  nosotros: nos pongamos
+  vosotros: os pongáis
+  uds: se pongan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya puesto
+  tu: te hayas puesto
+  vos: te hayas puesto
+  ud: se haya puesto
+  nosotros: nos hayamos puesto
+  vosotros: os hayáis puesto
+  uds: se hayan puesto
+
+imperfecto-subjuntivo:
+  yo:
+    - me pusiera
+    - me pusiese
+  tu:
+    - te pusieras
+    - te pusieses
+  vos:
+    - te pusieras
+    - te pusieses
+  ud:
+    - se pusiera
+    - se pusiese
+  nosotros:
+    - nos pusiéramos
+    - nos pusiésemos
+  vosotros:
+    - os pusierais
+    - os pusieseis
+  uds:
+    - se pusieran
+    - se pusiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera puesto
+    - me hubiese puesto
+  tu:
+    - te hubieras puesto
+    - te hubieses puesto
+  vos:
+    - te hubieras puesto
+    - te hubieses puesto
+  ud:
+    - se hubiera puesto
+    - se hubiese puesto
+  nosotros:
+    - nos hubiéramos puesto
+    - nos hubiésemos puesto
+  vosotros:
+    - os hubierais puesto
+    - os hubieseis puesto
+  uds:
+    - se hubieran puesto
+    - se hubiesen puesto
+
+imperativo:
+  tu: ponte
+  vos: ponte
+  ud: póngase
+  nosotros: pongámonos
+  vosotros: poneos
+  uds: pónganse

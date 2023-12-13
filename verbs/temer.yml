@@ -1,0 +1,142 @@
+infinitivo: temer
+gerundio: temiendo
+participio-pasado: temido
+presente-indicativo:
+  yo: temo
+  tu: temes
+  vos: temes
+  ud: teme
+  nosotros: tememos
+  vosotros: teméis
+  uds: temen
+preterito-perfecto-simple:
+  yo: temí
+  tu: temiste
+  vos: temiste
+  ud: temió
+  nosotros: temimos
+  vosotros: temisteis
+  uds: temieron
+preterito-imperfecto:
+  yo: temía
+  tu: temías
+  vos: temías
+  ud: temía
+  nosotros: temíamos
+  vosotros: temíais
+  uds: temían
+futuro-simple:
+  yo: temeré
+  tu: temerás
+  vos: temerás
+  ud: temerá
+  nosotros: temeremos
+  vosotros: temeréis
+  uds: temerán
+condicional-simple:
+  yo: temería
+  tu: temerías
+  vos: temerías
+  ud: temería
+  nosotros: temeríamos
+  vosotros: temeríais
+  uds: temerían
+presente-perfecto:
+  yo: he temido
+  tu: has temido
+  vos: has temido
+  ud: ha temido
+  nosotros: hemos temido
+  vosotros: habéis temido
+  uds: han temido
+preterito-pluscuamperfecto:
+  yo: había temido
+  tu: habías temido
+  vos: habías temido
+  ud: había temido
+  nosotros: habíamos temido
+  vosotros: habíais temido
+  uds: habían temido
+futuro-perfecto:
+  yo: habré temido
+  tu: habrás temido
+  vos: habrás temido
+  ud: habrá temido
+  nosotros: habremos temido
+  vosotros: habréis temido
+  uds: habrán temido
+condicional-perfecto:
+  yo: habría temido
+  tu: habrías temido
+  vos: habrías temido
+  ud: habría temido
+  nosotros: habríamos temido
+  vosotros: habríais temido
+  uds: habrían temido
+presente-subjuntivo:
+  yo: tema
+  tu: temas
+  vos: temas
+  ud: tema
+  nosotros: temamos
+  vosotros: temáis
+  uds: teman
+preterito-perfecto-subjuntivo:
+  yo: haya temido
+  tu: hayas temido
+  vos: hayas temido
+  ud: haya temido
+  nosotros: hayamos temido
+  vosotros: hayáis temido
+  uds: hayan temido
+imperfecto-subjuntivo:
+  yo:
+    - temiera
+    - temiese
+  tu:
+    - temieras
+    - temieses
+  vos:
+    - temieras
+    - temieses
+  ud:
+    - temiera
+    - temiese
+  nosotros:
+    - temiéramos
+    - temiésemos
+  vosotros:
+    - temierais
+    - temieseis
+  uds:
+    - temieran
+    - temiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera temido
+    - hubiese temido
+  tu:
+    - hubieras temido
+    - hubieses temido
+  vos:
+    - hubieras temido
+    - hubieses temido
+  ud:
+    - hubiera temido
+    - hubiese temido
+  nosotros:
+    - hubiéramos temido
+    - hubiésemos temido
+  vosotros:
+    - hubierais temido
+    - hubieseis temido
+  uds:
+    - hubieran temido
+    - hubiesen temido
+imperativo:
+  tu: teme
+  vos: temé
+  ud: tema
+  nosotros: temamos
+  vosotros: temed
+  uds: teman

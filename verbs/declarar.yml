@@ -1,0 +1,142 @@
+infinitivo: declarar
+gerundio: declarando
+participio-pasado: declarado
+presente-indicativo:
+  yo: declaro
+  tu: declaras
+  vos: declarás
+  ud: declara
+  nosotros: declaramos
+  vosotros: declaráis
+  uds: declaran
+preterito-perfecto-simple:
+  yo: declaré
+  tu: declaraste
+  vos: declaraste
+  ud: declaró
+  nosotros: declaramos
+  vosotros: declarasteis
+  uds: declararon
+preterito-imperfecto:
+  yo: declaraba
+  tu: declarabas
+  vos: declarabas
+  ud: declaraba
+  nosotros: declarábamos
+  vosotros: declarabais
+  uds: declaraban
+futuro-simple:
+  yo: declararé
+  tu: declararás
+  vos: declararás
+  ud: declarará
+  nosotros: declararemos
+  vosotros: declararéis
+  uds: declararán
+condicional-simple:
+  yo: declararía
+  tu: declararías
+  vos: declararías
+  ud: declararía
+  nosotros: declararíamos
+  vosotros: declararíais
+  uds: declararían
+presente-perfecto:
+  yo: he declarado
+  tu: has declarado
+  vos: has declarado
+  ud: ha declarado
+  nosotros: hemos declarado
+  vosotros: habéis declarado
+  uds: han declarado
+preterito-pluscuamperfecto:
+  yo: había declarado
+  tu: habías declarado
+  vos: habías declarado
+  ud: había declarado
+  nosotros: habíamos declarado
+  vosotros: habíais declarado
+  uds: habían declarado
+futuro-perfecto:
+  yo: habré declarado
+  tu: habrás declarado
+  vos: habrás declarado
+  ud: habrá declarado
+  nosotros: habremos declarado
+  vosotros: habréis declarado
+  uds: habrán declarado
+condicional-perfecto:
+  yo: habría declarado
+  tu: habrías declarado
+  vos: habrías declarado
+  ud: habría declarado
+  nosotros: habríamos declarado
+  vosotros: habríais declarado
+  uds: habrían declarado
+presente-subjuntivo:
+  yo: declare
+  tu: declares
+  vos: declares
+  ud: declare
+  nosotros: declaremos
+  vosotros: declaréis
+  uds: declaren
+preterito-perfecto-subjuntivo:
+  yo: haya declarado
+  tu: hayas declarado
+  vos: hayas declarado
+  ud: haya declarado
+  nosotros: hayamos declarado
+  vosotros: hayáis declarado
+  uds: hayan declarado
+imperfecto-subjuntivo:
+  yo:
+    - declarara
+    - declarase
+  tu:
+    - declararas
+    - declarases
+  vos:
+    - declararas
+    - declarases
+  ud:
+    - declarara
+    - declarase
+  nosotros:
+    - declaráramos
+    - declarásemos
+  vosotros:
+    - declararais
+    - declaraseis
+  uds:
+    - declararan
+    - declarasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera declarado
+    - hubiese declarado
+  tu:
+    - hubieras declarado
+    - hubieses declarado
+  vos:
+    - hubieras declarado
+    - hubieses declarado
+  ud:
+    - hubiera declarado
+    - hubiese declarado
+  nosotros:
+    - hubiéramos declarado
+    - hubiésemos declarado
+  vosotros:
+    - hubierais declarado
+    - hubieseis declarado
+  uds:
+    - hubieran declarado
+    - hubiesen declarado
+imperativo:
+  tu: declara
+  vos: declará
+  ud: declare
+  nosotros: declaremos
+  vosotros: declarad
+  uds: declaren

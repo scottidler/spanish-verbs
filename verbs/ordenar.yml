@@ -1,0 +1,142 @@
+infinitivo: ordenar
+gerundio: ordenando
+participio-pasado: ordenado
+presente-indicativo:
+  yo: ordeno
+  tu: ordenas
+  vos: ordenas
+  ud: ordena
+  nosotros: ordenamos
+  vosotros: ordenáis
+  uds: ordenan
+preterito-perfecto-simple:
+  yo: ordené
+  tu: ordenaste
+  vos: ordenaste
+  ud: ordenó
+  nosotros: ordenamos
+  vosotros: ordenasteis
+  uds: ordenaron
+preterito-imperfecto:
+  yo: ordenaba
+  tu: ordenabas
+  vos: ordenabas
+  ud: ordenaba
+  nosotros: ordenábamos
+  vosotros: ordenabais
+  uds: ordenaban
+futuro-simple:
+  yo: ordenaré
+  tu: ordenarás
+  vos: ordenarás
+  ud: ordenará
+  nosotros: ordenaremos
+  vosotros: ordenaréis
+  uds: ordenarán
+condicional-simple:
+  yo: ordenaría
+  tu: ordenarías
+  vos: ordenarías
+  ud: ordenaría
+  nosotros: ordenaríamos
+  vosotros: ordenaríais
+  uds: ordenarían
+presente-perfecto:
+  yo: he ordenado
+  tu: has ordenado
+  vos: has ordenado
+  ud: ha ordenado
+  nosotros: hemos ordenado
+  vosotros: habéis ordenado
+  uds: han ordenado
+preterito-pluscuamperfecto:
+  yo: había ordenado
+  tu: habías ordenado
+  vos: habías ordenado
+  ud: había ordenado
+  nosotros: habíamos ordenado
+  vosotros: habíais ordenado
+  uds: habían ordenado
+futuro-perfecto:
+  yo: habré ordenado
+  tu: habrás ordenado
+  vos: habrás ordenado
+  ud: habrá ordenado
+  nosotros: habremos ordenado
+  vosotros: habréis ordenado
+  uds: habrán ordenado
+condicional-perfecto:
+  yo: habría ordenado
+  tu: habrías ordenado
+  vos: habrías ordenado
+  ud: habría ordenado
+  nosotros: habríamos ordenado
+  vosotros: habríais ordenado
+  uds: habrían ordenado
+presente-subjuntivo:
+  yo: ordene
+  tu: ordenes
+  vos: ordenes
+  ud: ordene
+  nosotros: ordenemos
+  vosotros: ordenéis
+  uds: ordenen
+preterito-perfecto-subjuntivo:
+  yo: haya ordenado
+  tu: hayas ordenado
+  vos: hayas ordenado
+  ud: haya ordenado
+  nosotros: hayamos ordenado
+  vosotros: hayáis ordenado
+  uds: hayan ordenado
+imperfecto-subjuntivo:
+  yo:
+    - ordenara
+    - ordenase
+  tu:
+    - ordenaras
+    - ordenases
+  vos:
+    - ordenaras
+    - ordenases
+  ud:
+    - ordenara
+    - ordenase
+  nosotros:
+    - ordenáramos
+    - ordenásemos
+  vosotros:
+    - ordenarais
+    - ordenaseis
+  uds:
+    - ordenaran
+    - ordenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ordenado
+    - hubiese ordenado
+  tu:
+    - hubieras ordenado
+    - hubieses ordenado
+  vos:
+    - hubieras ordenado
+    - hubieses ordenado
+  ud:
+    - hubiera ordenado
+    - hubiese ordenado
+  nosotros:
+    - hubiéramos ordenado
+    - hubiésemos ordenado
+  vosotros:
+    - hubierais ordenado
+    - hubieseis ordenado
+  uds:
+    - hubieran ordenado
+    - hubiesen ordenado
+imperativo:
+  tu: ordena
+  vos: ordená
+  ud: ordene
+  nosotros: ordenemos
+  vosotros: ordenad
+  uds: ordenen

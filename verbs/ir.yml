@@ -1,0 +1,142 @@
+infinitivo: ir
+gerundio: yendo
+participio-pasado: ido
+presente-indicativo:
+  yo: voy
+  tu: vas
+  vos: vas
+  ud: va
+  nosotros: vamos
+  vosotros: vais
+  uds: van
+preterito-perfecto-simple:
+  yo: fui
+  tu: fuiste
+  vos: fuiste
+  ud: fue
+  nosotros: fuimos
+  vosotros: fuisteis
+  uds: fueron
+preterito-imperfecto:
+  yo: iba
+  tu: ibas
+  vos: ibas
+  ud: iba
+  nosotros: íbamos
+  vosotros: ibais
+  uds: iban
+futuro-simple:
+  yo: iré
+  tu: irás
+  vos: irás
+  ud: irá
+  nosotros: iremos
+  vosotros: iréis
+  uds: irán
+condicional-simple:
+  yo: iría
+  tu: irías
+  vos: irías
+  ud: iría
+  nosotros: iríamos
+  vosotros: iríais
+  uds: irían
+presente-perfecto:
+  yo: he ido
+  tu: has ido
+  vos: has ido
+  ud: ha ido
+  nosotros: hemos ido
+  vosotros: habéis ido
+  uds: han ido
+preterito-pluscuamperfecto:
+  yo: había ido
+  tu: habías ido
+  vos: habías ido
+  ud: había ido
+  nosotros: habíamos ido
+  vosotros: habíais ido
+  uds: habían ido
+futuro-perfecto:
+  yo: habré ido
+  tu: habrás ido
+  vos: habrás ido
+  ud: habrá ido
+  nosotros: habremos ido
+  vosotros: habréis ido
+  uds: habrán ido
+condicional-perfecto:
+  yo: habría ido
+  tu: habrías ido
+  vos: habrías ido
+  ud: habría ido
+  nosotros: habríamos ido
+  vosotros: habríais ido
+  uds: habrían ido
+presente-subjuntivo:
+  yo: vaya
+  tu: vayas
+  vos: vayas
+  ud: vaya
+  nosotros: vayamos
+  vosotros: vayáis
+  uds: vayan
+preterito-perfecto-subjuntivo:
+  yo: haya ido
+  tu: hayas ido
+  vos: hayas ido
+  ud: haya ido
+  nosotros: hayamos ido
+  vosotros: hayáis ido
+  uds: hayan ido
+imperfecto-subjuntivo:
+  yo:
+    - fuera
+    - fuese
+  tu:
+    - fueras
+    - fueses
+  vos:
+    - fueras
+    - fueses
+  ud:
+    - fuera
+    - fuese
+  nosotros:
+    - fuéramos
+    - fuésemos
+  vosotros:
+    - fuerais
+    - fueseis
+  uds:
+    - fueran
+    - fuesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ido
+    - hubiese ido
+  tu:
+    - hubieras ido
+    - hubieses ido
+  vos:
+    - hubieras ido
+    - hubieses ido
+  ud:
+    - hubiera ido
+    - hubiese ido
+  nosotros:
+    - hubiéramos ido
+    - hubiésemos ido
+  vosotros:
+    - hubierais ido
+    - hubieseis ido
+  uds:
+    - hubieran ido
+    - hubiesen ido
+imperativo:
+  tu: ve
+  vos: ve
+  ud: vaya
+  nosotros: vayamos
+  vosotros: id
+  uds: vayan

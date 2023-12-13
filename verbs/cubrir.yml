@@ -1,0 +1,142 @@
+infinitivo: cubrir
+gerundio: cubriendo
+participio-pasado: cubierto
+presente-indicativo:
+  yo: cubro
+  tu: cubres
+  vos: cubrís
+  ud: cubre
+  nosotros: cubrimos
+  vosotros: cubrís
+  uds: cubren
+preterito-perfecto-simple:
+  yo: cubrí
+  tu: cubriste
+  vos: cubriste
+  ud: cubrió
+  nosotros: cubrimos
+  vosotros: cubristeis
+  uds: cubrieron
+preterito-imperfecto:
+  yo: cubría
+  tu: cubrías
+  vos: cubrías
+  ud: cubría
+  nosotros: cubríamos
+  vosotros: cubríais
+  uds: cubrían
+futuro-simple:
+  yo: cubriré
+  tu: cubrirás
+  vos: cubrirás
+  ud: cubrirá
+  nosotros: cubriremos
+  vosotros: cubriréis
+  uds: cubrirán
+condicional-simple:
+  yo: cubriría
+  tu: cubrirías
+  vos: cubrirías
+  ud: cubriría
+  nosotros: cubriríamos
+  vosotros: cubriríais
+  uds: cubrirían
+presente-perfecto:
+  yo: he cubierto
+  tu: has cubierto
+  vos: has cubierto
+  ud: ha cubierto
+  nosotros: hemos cubierto
+  vosotros: habéis cubierto
+  uds: han cubierto
+preterito-pluscuamperfecto:
+  yo: había cubierto
+  tu: habías cubierto
+  vos: habías cubierto
+  ud: había cubierto
+  nosotros: habíamos cubierto
+  vosotros: habíais cubierto
+  uds: habían cubierto
+futuro-perfecto:
+  yo: habré cubierto
+  tu: habrás cubierto
+  vos: habrás cubierto
+  ud: habrá cubierto
+  nosotros: habremos cubierto
+  vosotros: habréis cubierto
+  uds: habrán cubierto
+condicional-perfecto:
+  yo: habría cubierto
+  tu: habrías cubierto
+  vos: habrías cubierto
+  ud: habría cubierto
+  nosotros: habríamos cubierto
+  vosotros: habríais cubierto
+  uds: habrían cubierto
+presente-subjuntivo:
+  yo: cubra
+  tu: cubras
+  vos: cubras
+  ud: cubra
+  nosotros: cubramos
+  vosotros: cubráis
+  uds: cubran
+preterito-perfecto-subjuntivo:
+  yo: haya cubierto
+  tu: hayas cubierto
+  vos: hayas cubierto
+  ud: haya cubierto
+  nosotros: hayamos cubierto
+  vosotros: hayáis cubierto
+  uds: hayan cubierto
+imperfecto-subjuntivo:
+  yo:
+    - cubriera
+    - cubriese
+  tu:
+    - cubrieras
+    - cubrieses
+  vos:
+    - cubrieras
+    - cubrieses
+  ud:
+    - cubriera
+    - cubriese
+  nosotros:
+    - cubriéramos
+    - cubriésemos
+  vosotros:
+    - cubrierais
+    - cubrieseis
+  uds:
+    - cubrieran
+    - cubriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cubierto
+    - hubiese cubierto
+  tu:
+    - hubieras cubierto
+    - hubieses cubierto
+  vos:
+    - hubieras cubierto
+    - hubieses cubierto
+  ud:
+    - hubiera cubierto
+    - hubiese cubierto
+  nosotros:
+    - hubiéramos cubierto
+    - hubiésemos cubierto
+  vosotros:
+    - hubierais cubierto
+    - hubieseis cubierto
+  uds:
+    - hubieran cubierto
+    - hubiesen cubierto
+imperativo:
+  tu: cubre
+  vos: cubrí
+  ud: cubra
+  nosotros: cubramos
+  vosotros: cubrid
+  uds: cubran

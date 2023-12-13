@@ -1,0 +1,142 @@
+infinitivo: soplar
+gerundio: soplando
+participio-pasado: soplado
+presente-indicativo:
+  yo: soplo
+  tu: soplas
+  vos: soplas
+  ud: sopla
+  nosotros: soplamos
+  vosotros: sopláis
+  uds: soplan
+preterito-perfecto-simple:
+  yo: soplé
+  tu: soplaste
+  vos: soplaste
+  ud: sopló
+  nosotros: soplamos
+  vosotros: soplasteis
+  uds: soplaron
+preterito-imperfecto:
+  yo: soplaba
+  tu: soplabas
+  vos: soplabas
+  ud: soplaba
+  nosotros: soplábamos
+  vosotros: soplabais
+  uds: soplaban
+futuro-simple:
+  yo: soplaré
+  tu: soplarás
+  vos: soplarás
+  ud: soplará
+  nosotros: soplaremos
+  vosotros: soplaréis
+  uds: soplarán
+condicional-simple:
+  yo: soplaría
+  tu: soplarías
+  vos: soplarías
+  ud: soplaría
+  nosotros: soplaríamos
+  vosotros: soplaríais
+  uds: soplarían
+presente-perfecto:
+  yo: he soplado
+  tu: has soplado
+  vos: has soplado
+  ud: ha soplado
+  nosotros: hemos soplado
+  vosotros: habéis soplado
+  uds: han soplado
+preterito-pluscuamperfecto:
+  yo: había soplado
+  tu: habías soplado
+  vos: habías soplado
+  ud: había soplado
+  nosotros: habíamos soplado
+  vosotros: habíais soplado
+  uds: habían soplado
+futuro-perfecto:
+  yo: habré soplado
+  tu: habrás soplado
+  vos: habrás soplado
+  ud: habrá soplado
+  nosotros: habremos soplado
+  vosotros: habréis soplado
+  uds: habrán soplado
+condicional-perfecto:
+  yo: habría soplado
+  tu: habrías soplado
+  vos: habrías soplado
+  ud: habría soplado
+  nosotros: habríamos soplado
+  vosotros: habríais soplado
+  uds: habrían soplado
+presente-subjuntivo:
+  yo: sople
+  tu: soples
+  vos: soples
+  ud: sople
+  nosotros: soplemos
+  vosotros: sopléis
+  uds: soplen
+preterito-perfecto-subjuntivo:
+  yo: haya soplado
+  tu: hayas soplado
+  vos: hayas soplado
+  ud: haya soplado
+  nosotros: hayamos soplado
+  vosotros: hayáis soplado
+  uds: hayan soplado
+imperfecto-subjuntivo:
+  yo:
+    - soplara
+    - soplase
+  tu:
+    - soplaras
+    - soplases
+  vos:
+    - soplaras
+    - soplases
+  ud:
+    - soplara
+    - soplase
+  nosotros:
+    - sopláramos
+    - soplásemos
+  vosotros:
+    - soplarais
+    - soplaseis
+  uds:
+    - soplaran
+    - soplasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera soplado
+    - hubiese soplado
+  tu:
+    - hubieras soplado
+    - hubieses soplado
+  vos:
+    - hubieras soplado
+    - hubieses soplado
+  ud:
+    - hubiera soplado
+    - hubiese soplado
+  nosotros:
+    - hubiéramos soplado
+    - hubiésemos soplado
+  vosotros:
+    - hubierais soplado
+    - hubieseis soplado
+  uds:
+    - hubieran soplado
+    - hubiesen soplado
+imperativo:
+  tu: sopla
+  vos: soplá
+  ud: sopla
+  nosotros: soplemos
+  vosotros: soplad
+  uds: soplen

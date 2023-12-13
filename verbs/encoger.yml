@@ -1,0 +1,142 @@
+infinitivo: encoger
+gerundio: encogiendo
+participio-pasado: encogido
+presente-indicativo:
+  yo: encojo
+  tu: encojes
+  vos: encojés
+  ud: encoje
+  nosotros: encogemos
+  vosotros: encojéis
+  uds: encojen
+preterito-perfecto-simple:
+  yo: encogí
+  tu: encogiste
+  vos: encogiste
+  ud: encogió
+  nosotros: encogimos
+  vosotros: encogisteis
+  uds: encogieron
+preterito-imperfecto:
+  yo: encogía
+  tu: encogías
+  vos: encogías
+  ud: encogía
+  nosotros: encogíamos
+  vosotros: encogíais
+  uds: encogían
+futuro-simple:
+  yo: encogeré
+  tu: encogerás
+  vos: encogerás
+  ud: encogerá
+  nosotros: encogeremos
+  vosotros: encogeréis
+  uds: encogerán
+condicional-simple:
+  yo: encogería
+  tu: encogerías
+  vos: encogerías
+  ud: encogería
+  nosotros: encogeríamos
+  vosotros: encogeríais
+  uds: encogerían
+presente-perfecto:
+  yo: he encogido
+  tu: has encogido
+  vos: has encogido
+  ud: ha encogido
+  nosotros: hemos encogido
+  vosotros: habéis encogido
+  uds: han encogido
+preterito-pluscuamperfecto:
+  yo: había encogido
+  tu: habías encogido
+  vos: habías encogido
+  ud: había encogido
+  nosotros: habíamos encogido
+  vosotros: habíais encogido
+  uds: habían encogido
+futuro-perfecto:
+  yo: habré encogido
+  tu: habrás encogido
+  vos: habrás encogido
+  ud: habrá encogido
+  nosotros: habremos encogido
+  vosotros: habréis encogido
+  uds: habrán encogido
+condicional-perfecto:
+  yo: habría encogido
+  tu: habrías encogido
+  vos: habrías encogido
+  ud: habría encogido
+  nosotros: habríamos encogido
+  vosotros: habríais encogido
+  uds: habrían encogido
+presente-subjuntivo:
+  yo: encoja
+  tu: encojas
+  vos: encojas
+  ud: encoja
+  nosotros: encojamos
+  vosotros: encogáis
+  uds: encojan
+preterito-perfecto-subjuntivo:
+  yo: haya encogido
+  tu: hayas encogido
+  vos: hayas encogido
+  ud: haya encogido
+  nosotros: hayamos encogido
+  vosotros: hayáis encogido
+  uds: hayan encogido
+imperfecto-subjuntivo:
+  yo:
+    - encogiera
+    - encogiese
+  tu:
+    - encogieras
+    - encogieses
+  vos:
+    - encogieras
+    - encogieses
+  ud:
+    - encogiera
+    - encogiese
+  nosotros:
+    - encogiéramos
+    - encogiésemos
+  vosotros:
+    - encogierais
+    - encogieseis
+  uds:
+    - encogieran
+    - encogiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encogido
+    - hubiese encogido
+  tu:
+    - hubieras encogido
+    - hubieses encogido
+  vos:
+    - hubieras encogido
+    - hubieses encogido
+  ud:
+    - hubiera encogido
+    - hubiese encogido
+  nosotros:
+    - hubiéramos encogido
+    - hubiésemos encogido
+  vosotros:
+    - hubierais encogido
+    - hubieseis encogido
+  uds:
+    - hubieran encogido
+    - hubiesen encogido
+imperativo:
+  tu: encoge
+  vos: encogé
+  ud: encoja
+  nosotros: encojamos
+  vosotros: encoged
+  uds: encojan

@@ -1,0 +1,142 @@
+infinitivo: convertir
+gerundio: convirtiendo
+participio-pasado: convertido
+presente-indicativo:
+  yo: convierto
+  tu: conviertes
+  vos: convertís
+  ud: convierte
+  nosotros: convertimos
+  vosotros: convertís
+  uds: convierten
+preterito-perfecto-simple:
+  yo: convertí
+  tu: convertiste
+  vos: convertiste
+  ud: convirtió
+  nosotros: convertimos
+  vosotros: convertisteis
+  uds: convirtieron
+preterito-imperfecto:
+  yo: convertía
+  tu: convertías
+  vos: convertías
+  ud: convertía
+  nosotros: convertíamos
+  vosotros: convertíais
+  uds: convertían
+futuro-simple:
+  yo: convertiré
+  tu: convertirás
+  vos: convertirás
+  ud: convertirá
+  nosotros: convertiremos
+  vosotros: convertiréis
+  uds: convertirán
+condicional-simple:
+  yo: convertiría
+  tu: convertirías
+  vos: convertirías
+  ud: convertiría
+  nosotros: convertiríamos
+  vosotros: convertiríais
+  uds: convertirían
+presente-perfecto:
+  yo: he convertido
+  tu: has convertido
+  vos: has convertido
+  ud: ha convertido
+  nosotros: hemos convertido
+  vosotros: habéis convertido
+  uds: han convertido
+preterito-pluscuamperfecto:
+  yo: había convertido
+  tu: habías convertido
+  vos: habías convertido
+  ud: había convertido
+  nosotros: habíamos convertido
+  vosotros: habíais convertido
+  uds: habían convertido
+futuro-perfecto:
+  yo: habré convertido
+  tu: habrás convertido
+  vos: habrás convertido
+  ud: habrá convertido
+  nosotros: habremos convertido
+  vosotros: habréis convertido
+  uds: habrán convertido
+condicional-perfecto:
+  yo: habría convertido
+  tu: habrías convertido
+  vos: habrías convertido
+  ud: habría convertido
+  nosotros: habríamos convertido
+  vosotros: habríais convertido
+  uds: habrían convertido
+presente-subjuntivo:
+  yo: convierta
+  tu: conviertas
+  vos: conviertas
+  ud: convierta
+  nosotros: convirtamos
+  vosotros: convirtáis
+  uds: conviertan
+preterito-perfecto-subjuntivo:
+  yo: haya convertido
+  tu: hayas convertido
+  vos: hayas convertido
+  ud: haya convertido
+  nosotros: hayamos convertido
+  vosotros: hayáis convertido
+  uds: hayan convertido
+imperfecto-subjuntivo:
+  yo:
+    - convirtiera
+    - convirtiese
+  tu:
+    - convirtieras
+    - convirtieses
+  vos:
+    - convirtieras
+    - convirtieses
+  ud:
+    - convirtiera
+    - convirtiese
+  nosotros:
+    - convirtiéramos
+    - convirtiésemos
+  vosotros:
+    - convirtierais
+    - convirtieseis
+  uds:
+    - convirtieran
+    - convirtiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera convertido
+    - hubiese convertido
+  tu:
+    - hubieras convertido
+    - hubieses convertido
+  vos:
+    - hubieras convertido
+    - hubieses convertido
+  ud:
+    - hubiera convertido
+    - hubiese convertido
+  nosotros:
+    - hubiéramos convertido
+    - hubiésemos convertido
+  vosotros:
+    - hubierais convertido
+    - hubieseis convertido
+  uds:
+    - hubieran convertido
+    - hubiesen convertido
+imperativo:
+  tu: convierte
+  vos: convertí
+  ud: convierta
+  nosotros: convirtamos
+  vosotros: convertid
+  uds: conviertan

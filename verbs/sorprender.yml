@@ -1,0 +1,142 @@
+infinitivo: sorprender
+gerundio: sorprendiendo
+participio-pasado: sorprendido
+presente-indicativo:
+  yo: sorprendo
+  tu: sorprendes
+  vos: sorprendés
+  ud: sorprende
+  nosotros: sorprendemos
+  vosotros: sorprendéis
+  uds: sorprenden
+preterito-perfecto-simple:
+  yo: sorprendí
+  tu: sorprendiste
+  vos: sorprendiste
+  ud: sorprendió
+  nosotros: sorprendimos
+  vosotros: sorprendisteis
+  uds: sorprendieron
+preterito-imperfecto:
+  yo: sorprendía
+  tu: sorprendías
+  vos: sorprendías
+  ud: sorprendía
+  nosotros: sorprendíamos
+  vosotros: sorprendíais
+  uds: sorprendían
+futuro-simple:
+  yo: sorprenderé
+  tu: sorprenderás
+  vos: sorprenderás
+  ud: sorprenderá
+  nosotros: sorprenderemos
+  vosotros: sorprenderéis
+  uds: sorprenderán
+condicional-simple:
+  yo: sorprendería
+  tu: sorprenderías
+  vos: sorprenderías
+  ud: sorprendería
+  nosotros: sorprenderíamos
+  vosotros: sorprenderíais
+  uds: sorprenderían
+presente-perfecto:
+  yo: he sorprendido
+  tu: has sorprendido
+  vos: has sorprendido
+  ud: ha sorprendido
+  nosotros: hemos sorprendido
+  vosotros: habéis sorprendido
+  uds: han sorprendido
+preterito-pluscuamperfecto:
+  yo: había sorprendido
+  tu: habías sorprendido
+  vos: habías sorprendido
+  ud: había sorprendido
+  nosotros: habíamos sorprendido
+  vosotros: habíais sorprendido
+  uds: habían sorprendido
+futuro-perfecto:
+  yo: habré sorprendido
+  tu: habrás sorprendido
+  vos: habrás sorprendido
+  ud: habrá sorprendido
+  nosotros: habremos sorprendido
+  vosotros: habréis sorprendido
+  uds: habrán sorprendido
+condicional-perfecto:
+  yo: habría sorprendido
+  tu: habrías sorprendido
+  vos: habrías sorprendido
+  ud: habría sorprendido
+  nosotros: habríamos sorprendido
+  vosotros: habríais sorprendido
+  uds: habrían sorprendido
+presente-subjuntivo:
+  yo: sorprenda
+  tu: sorprendas
+  vos: sorprendas
+  ud: sorprenda
+  nosotros: sorprendamos
+  vosotros: sorprendáis
+  uds: sorprendan
+preterito-perfecto-subjuntivo:
+  yo: haya sorprendido
+  tu: hayas sorprendido
+  vos: hayas sorprendido
+  ud: haya sorprendido
+  nosotros: hayamos sorprendido
+  vosotros: hayáis sorprendido
+  uds: hayan sorprendido
+imperfecto-subjuntivo:
+  yo:
+    - sorprendiera
+    - sorprendiese
+  tu:
+    - sorprendieras
+    - sorprendieses
+  vos:
+    - sorprendieras
+    - sorprendieses
+  ud:
+    - sorprendiera
+    - sorprendiese
+  nosotros:
+    - sorprendiéramos
+    - sorprendiésemos
+  vosotros:
+    - sorprendierais
+    - sorprendieseis
+  uds:
+    - sorprendieran
+    - sorprendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sorprendido
+    - hubiese sorprendido
+  tu:
+    - hubieras sorprendido
+    - hubieses sorprendido
+  vos:
+    - hubieras sorprendido
+    - hubieses sorprendido
+  ud:
+    - hubiera sorprendido
+    - hubiese sorprendido
+  nosotros:
+    - hubiéramos sorprendido
+    - hubiésemos sorprendido
+  vosotros:
+    - hubierais sorprendido
+    - hubieseis sorprendido
+  uds:
+    - hubieran sorprendido
+    - hubiesen sorprendido
+imperativo:
+  tu: sorprende
+  vos: sorprendé
+  ud: sorprenda
+  nosotros: sorprendamos
+  vosotros: sorprended
+  uds: sorprendan

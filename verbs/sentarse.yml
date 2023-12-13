@@ -1,0 +1,156 @@
+infinitivo: sentarse
+gerundio: sentándose
+participio-pasado: sentado
+
+presente-indicativo:
+  yo: me siento
+  tu: te sientas
+  vos: te sientas
+  ud: se sienta
+  nosotros: nos sentamos
+  vosotros: os sentáis
+  uds: se sientan
+
+preterito-perfecto-simple:
+  yo: me senté
+  tu: te sentaste
+  vos: te sentaste
+  ud: se sentó
+  nosotros: nos sentamos
+  vosotros: os sentasteis
+  uds: se sentaron
+
+preterito-imperfecto:
+  yo: me sentaba
+  tu: te sentabas
+  vos: te sentabas
+  ud: se sentaba
+  nosotros: nos sentábamos
+  vosotros: os sentabais
+  uds: se sentaban
+
+futuro-simple:
+  yo: me sentaré
+  tu: te sentarás
+  vos: te sentarás
+  ud: se sentará
+  nosotros: nos sentaremos
+  vosotros: os sentaréis
+  uds: se sentarán
+
+condicional-simple:
+  yo: me sentaría
+  tu: te sentirías
+  vos: te sentirías
+  ud: se sentiría
+  nosotros: nos sentiríamos
+  vosotros: os sentiríais
+  uds: se sentirían
+
+presente-perfecto:
+  yo: me he sentado
+  tu: te has sentado
+  vos: te has sentado
+  ud: se ha sentado
+  nosotros: nos hemos sentado
+  vosotros: os habéis sentado
+  uds: se han sentado
+
+preterito-pluscuamperfecto:
+  yo: me había sentado
+  tu: te habías sentado
+  vos: te habías sentado
+  ud: se había sentado
+  nosotros: nos habíamos sentado
+  vosotros: os habíais sentado
+  uds: se habían sentado
+
+futuro-perfecto:
+  yo: me habré sentado
+  tu: te habrás sentado
+  vos: te habrás sentado
+  ud: se habrá sentado
+  nosotros: nos habremos sentado
+  vosotros: os habréis sentado
+  uds: se habrán sentado
+
+condicional-perfecto:
+  yo: me habría sentado
+  tu: te habrías sentado
+  vos: te habrías sentado
+  ud: se habría sentado
+  nosotros: nos habríamos sentado
+  vosotros: os habríais sentado
+  uds: se habrían sentado
+
+presente-subjuntivo:
+  yo: me siente
+  tu: te sientes
+  vos: te sientes
+  ud: se siente
+  nosotros: nos sentemos
+  vosotros: os sentéis
+  uds: se sienten
+
+preterito-perfecto-subjuntivo:
+  yo: me haya sentado
+  tu: te hayas sentado
+  vos: te hayas sentado
+  ud: se haya sentado
+  nosotros: nos hayamos sentado
+  vosotros: os hayáis sentado
+  uds: se hayan sentado
+
+imperfecto-subjuntivo:
+  yo:
+    - me sentara
+    - me sentase
+  tu:
+    - te sentaras
+    - te sentases
+  vos:
+    - te sentaras
+    - te sentases
+  ud:
+    - se sentara
+    - se sentase
+  nosotros:
+    - nos sentáramos
+    - nos sentásemos
+  vosotros:
+    - os sentarais
+    - os sentaseis
+  uds:
+    - se sentaran
+    - se sentasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera sentado
+    - me hubiese sentado
+  tu:
+    - te hubieras sentado
+    - te hubieses sentado
+  vos:
+    - te hubieras sentado
+    - te hubieses sentado
+  ud:
+    - se hubiera sentado
+    - se hubiese sentado
+  nosotros:
+    - nos hubiéramos sentado
+    - nos hubiésemos sentado
+  vosotros:
+    - os hubierais sentado
+    - os hubieseis sentado
+  uds:
+    - se hubieran sentado
+    - se hubiesen sentado
+
+imperativo:
+  tu: siéntate
+  vos: siéntate
+  ud: siéntese
+  nosotros: sentémonos
+  vosotros: sentaos
+  uds: siéntense

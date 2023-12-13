@@ -1,0 +1,142 @@
+infinitivo: servir
+gerundio: sirviendo
+participio-pasado: servido
+presente-indicativo:
+  yo: sirvo
+  tu: sirves
+  vos: servís
+  ud: sirve
+  nosotros: servimos
+  vosotros: servís
+  uds: sirven
+preterito-perfecto-simple:
+  yo: serví
+  tu: serviste
+  vos: serviste
+  ud: sirvió
+  nosotros: servimos
+  vosotros: servisteis
+  uds: sirvieron
+preterito-imperfecto:
+  yo: servía
+  tu: servías
+  vos: servías
+  ud: servía
+  nosotros: servíamos
+  vosotros: servíais
+  uds: servían
+futuro-simple:
+  yo: serviré
+  tu: servirás
+  vos: servirás
+  ud: servirá
+  nosotros: serviremos
+  vosotros: serviréis
+  uds: servirán
+condicional-simple:
+  yo: serviría
+  tu: servirías
+  vos: servirías
+  ud: serviría
+  nosotros: serviríamos
+  vosotros: serviríais
+  uds: servirían
+presente-perfecto:
+  yo: he servido
+  tu: has servido
+  vos: has servido
+  ud: ha servido
+  nosotros: hemos servido
+  vosotros: habéis servido
+  uds: han servido
+preterito-pluscuamperfecto:
+  yo: había servido
+  tu: habías servido
+  vos: habías servido
+  ud: había servido
+  nosotros: habíamos servido
+  vosotros: habíais servido
+  uds: habían servido
+futuro-perfecto:
+  yo: habré servido
+  tu: habrás servido
+  vos: habrás servido
+  ud: habrá servido
+  nosotros: habremos servido
+  vosotros: habréis servido
+  uds: habrán servido
+condicional-perfecto:
+  yo: habría servido
+  tu: habrías servido
+  vos: habrías servido
+  ud: habría servido
+  nosotros: habríamos servido
+  vosotros: habríais servido
+  uds: habrían servido
+presente-subjuntivo:
+  yo: sirva
+  tu: sirvas
+  vos: sirvas
+  ud: sirva
+  nosotros: sirvamos
+  vosotros: sirváis
+  uds: sirvan
+preterito-perfecto-subjuntivo:
+  yo: haya servido
+  tu: hayas servido
+  vos: hayas servido
+  ud: haya servido
+  nosotros: hayamos servido
+  vosotros: hayáis servido
+  uds: hayan servido
+imperfecto-subjuntivo:
+  yo:
+    - sirviera
+    - sirviese
+  tu:
+    - sirvieras
+    - sirvieses
+  vos:
+    - sirvieras
+    - sirvieses
+  ud:
+    - sirviera
+    - sirviese
+  nosotros:
+    - sirviéramos
+    - sirviésemos
+  vosotros:
+    - sirvierais
+    - sirvieseis
+  uds:
+    - sirvieran
+    - sirviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera servido
+    - hubiese servido
+  tu:
+    - hubieras servido
+    - hubieses servido
+  vos:
+    - hubieras servido
+    - hubieses servido
+  ud:
+    - hubiera servido
+    - hubiese servido
+  nosotros:
+    - hubiéramos servido
+    - hubiésemos servido
+  vosotros:
+    - hubierais servido
+    - hubieseis servido
+  uds:
+    - hubieran servido
+    - hubiesen servido
+imperativo:
+  tu: sirve
+  vos: serví
+  ud: sirva
+  nosotros: sirvamos
+  vosotros: servid
+  uds: sirvan

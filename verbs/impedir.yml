@@ -1,0 +1,142 @@
+infinitivo: impedir
+gerundio: impidiendo
+participio-pasado: impedido
+presente-indicativo:
+  yo: impido
+  tu: impides
+  vos: impedís
+  ud: impide
+  nosotros: impedimos
+  vosotros: impedís
+  uds: impiden
+preterito-perfecto-simple:
+  yo: impedí
+  tu: impediste
+  vos: impediste
+  ud: impidió
+  nosotros: impedimos
+  vosotros: impedisteis
+  uds: impidieron
+preterito-imperfecto:
+  yo: impedía
+  tu: impedías
+  vos: impedías
+  ud: impedía
+  nosotros: impedíamos
+  vosotros: impedíais
+  uds: impedían
+futuro-simple:
+  yo: impediré
+  tu: impedirás
+  vos: impedirás
+  ud: impedirá
+  nosotros: impediremos
+  vosotros: impediréis
+  uds: impedirán
+condicional-simple:
+  yo: impediría
+  tu: impedirías
+  vos: impedirías
+  ud: impediría
+  nosotros: impediríamos
+  vosotros: impediríais
+  uds: impedirían
+presente-perfecto:
+  yo: he impedido
+  tu: has impedido
+  vos: has impedido
+  ud: ha impedido
+  nosotros: hemos impedido
+  vosotros: habéis impedido
+  uds: han impedido
+preterito-pluscuamperfecto:
+  yo: había impedido
+  tu: habías impedido
+  vos: habías impedido
+  ud: había impedido
+  nosotros: habíamos impedido
+  vosotros: habíais impedido
+  uds: habían impedido
+futuro-perfecto:
+  yo: habré impedido
+  tu: habrás impedido
+  vos: habrás impedido
+  ud: habrá impedido
+  nosotros: habremos impedido
+  vosotros: habréis impedido
+  uds: habrán impedido
+condicional-perfecto:
+  yo: habría impedido
+  tu: habrías impedido
+  vos: habrías impedido
+  ud: habría impedido
+  nosotros: habríamos impedido
+  vosotros: habríais impedido
+  uds: habrían impedido
+presente-subjuntivo:
+  yo: impida
+  tu: impidas
+  vos: impidas
+  ud: impida
+  nosotros: impidamos
+  vosotros: impidáis
+  uds: impidan
+preterito-perfecto-subjuntivo:
+  yo: haya impedido
+  tu: hayas impedido
+  vos: hayas impedido
+  ud: haya impedido
+  nosotros: hayamos impedido
+  vosotros: hayáis impedido
+  uds: hayan impedido
+imperfecto-subjuntivo:
+  yo:
+    - impidiera
+    - impidiese
+  tu:
+    - impidieras
+    - impidieses
+  vos:
+    - impidieras
+    - impidieses
+  ud:
+    - impidiera
+    - impidiese
+  nosotros:
+    - impidiéramos
+    - impidiésemos
+  vosotros:
+    - impidierais
+    - impidieseis
+  uds:
+    - impidieran
+    - impidiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera impedido
+    - hubiese impedido
+  tu:
+    - hubieras impedido
+    - hubieses impedido
+  vos:
+    - hubieras impedido
+    - hubieses impedido
+  ud:
+    - hubiera impedido
+    - hubiese impedido
+  nosotros:
+    - hubiéramos impedido
+    - hubiésemos impedido
+  vosotros:
+    - hubierais impedido
+    - hubieseis impedido
+  uds:
+    - hubieran impedido
+    - hubiesen impedido
+imperativo:
+  tu: impide
+  vos: impedí
+  ud: impida
+  nosotros: impidamos
+  vosotros: impedid
+  uds: impidan

@@ -1,0 +1,142 @@
+infinitivo: advertir
+gerundio: advirtiendo
+participio-pasado: advertido
+presente-indicativo:
+  yo: advierto
+  tu: adviertes
+  vos: advertís
+  ud: advierte
+  nosotros: advertimos
+  vosotros: advertís
+  uds: advierten
+preterito-perfecto-simple:
+  yo: advertí
+  tu: advertiste
+  vos: advertiste
+  ud: advirtió
+  nosotros: advertimos
+  vosotros: advertisteis
+  uds: advirtieron
+preterito-imperfecto:
+  yo: advertía
+  tu: advertías
+  vos: advertías
+  ud: advertía
+  nosotros: advertíamos
+  vosotros: advertíais
+  uds: advertían
+futuro-simple:
+  yo: advertiré
+  tu: advertirás
+  vos: advertirás
+  ud: advertirá
+  nosotros: advertiremos
+  vosotros: advertiréis
+  uds: advertirán
+condicional-simple:
+  yo: advertiría
+  tu: advertirías
+  vos: advertirías
+  ud: advertiría
+  nosotros: advertiríamos
+  vosotros: advertiríais
+  uds: advertirían
+presente-perfecto:
+  yo: he advertido
+  tu: has advertido
+  vos: has advertido
+  ud: ha advertido
+  nosotros: hemos advertido
+  vosotros: habéis advertido
+  uds: han advertido
+preterito-pluscuamperfecto:
+  yo: había advertido
+  tu: habías advertido
+  vos: habías advertido
+  ud: había advertido
+  nosotros: habíamos advertido
+  vosotros: habíais advertido
+  uds: habían advertido
+futuro-perfecto:
+  yo: habré advertido
+  tu: habrás advertido
+  vos: habrás advertido
+  ud: habrá advertido
+  nosotros: habremos advertido
+  vosotros: habréis advertido
+  uds: habrán advertido
+condicional-perfecto:
+  yo: habría advertido
+  tu: habrías advertido
+  vos: habrías advertido
+  ud: habría advertido
+  nosotros: habríamos advertido
+  vosotros: habríais advertido
+  uds: habrían advertido
+presente-subjuntivo:
+  yo: advierta
+  tu: adviertas
+  vos: adviertas
+  ud: advierta
+  nosotros: advirtamos
+  vosotros: advirtáis
+  uds: adviertan
+preterito-perfecto-subjuntivo:
+  yo: haya advertido
+  tu: hayas advertido
+  vos: hayas advertido
+  ud: haya advertido
+  nosotros: hayamos advertido
+  vosotros: hayáis advertido
+  uds: hayan advertido
+imperfecto-subjuntivo:
+  yo:
+    - advirtiera
+    - advirtiese
+  tu:
+    - advirtieras
+    - advirtieses
+  vos:
+    - advirtieras
+    - advirtieses
+  ud:
+    - advirtiera
+    - advirtiese
+  nosotros:
+    - advirtiéramos
+    - advirtiésemos
+  vosotros:
+    - advirtierais
+    - advirtieseis
+  uds:
+    - advirtieran
+    - advirtiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera advertido
+    - hubiese advertido
+  tu:
+    - hubieras advertido
+    - hubieses advertido
+  vos:
+    - hubieras advertido
+    - hubieses advertido
+  ud:
+    - hubiera advertido
+    - hubiese advertido
+  nosotros:
+    - hubiéramos advertido
+    - hubiésemos advertido
+  vosotros:
+    - hubierais advertido
+    - hubieseis advertido
+  uds:
+    - hubieran advertido
+    - hubiesen advertido
+imperativo:
+  tu: advierte
+  vos: advertí
+  ud: advierta
+  nosotros: advirtamos
+  vosotros: advertid
+  uds: adviertan

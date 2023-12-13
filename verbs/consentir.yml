@@ -1,0 +1,142 @@
+infinitivo: consentir
+gerundio: consintiendo
+participio-pasado: consentido
+presente-indicativo:
+  yo: consiento
+  tu: consientes
+  vos: consentís
+  ud: consiente
+  nosotros: consentimos
+  vosotros: consentís
+  uds: consienten
+preterito-perfecto-simple:
+  yo: consentí
+  tu: consentiste
+  vos: consentiste
+  ud: consintió
+  nosotros: consentimos
+  vosotros: consentisteis
+  uds: consintieron
+preterito-imperfecto:
+  yo: consentía
+  tu: consentías
+  vos: consentías
+  ud: consentía
+  nosotros: consentíamos
+  vosotros: consentíais
+  uds: consentían
+futuro-simple:
+  yo: consentiré
+  tu: consentirás
+  vos: consentirás
+  ud: consentirá
+  nosotros: consentiremos
+  vosotros: consentiréis
+  uds: consentirán
+condicional-simple:
+  yo: consentiría
+  tu: consentirías
+  vos: consentirías
+  ud: consentiría
+  nosotros: consentiríamos
+  vosotros: consentiríais
+  uds: consentirían
+presente-perfecto:
+  yo: he consentido
+  tu: has consentido
+  vos: has consentido
+  ud: ha consentido
+  nosotros: hemos consentido
+  vosotros: habéis consentido
+  uds: han consentido
+preterito-pluscuamperfecto:
+  yo: había consentido
+  tu: habías consentido
+  vos: habías consentido
+  ud: había consentido
+  nosotros: habíamos consentido
+  vosotros: habíais consentido
+  uds: habían consentido
+futuro-perfecto:
+  yo: habré consentido
+  tu: habrás consentido
+  vos: habrás consentido
+  ud: habrá consentido
+  nosotros: habremos consentido
+  vosotros: habréis consentido
+  uds: habrán consentido
+condicional-perfecto:
+  yo: habría consentido
+  tu: habrías consentido
+  vos: habrías consentido
+  ud: habría consentido
+  nosotros: habríamos consentido
+  vosotros: habríais consentido
+  uds: habrían consentido
+presente-subjuntivo:
+  yo: consienta
+  tu: consientas
+  vos: consientas
+  ud: consienta
+  nosotros: consintamos
+  vosotros: consintáis
+  uds: consientan
+preterito-perfecto-subjuntivo:
+  yo: haya consentido
+  tu: hayas consentido
+  vos: hayas consentido
+  ud: haya consentido
+  nosotros: hayamos consentido
+  vosotros: hayáis consentido
+  uds: hayan consentido
+imperfecto-subjuntivo:
+  yo:
+    - consintiera
+    - consintiese
+  tu:
+    - consintieras
+    - consintieses
+  vos:
+    - consintieras
+    - consintieses
+  ud:
+    - consintiera
+    - consintiese
+  nosotros:
+    - consintiéramos
+    - consintiésemos
+  vosotros:
+    - consintierais
+    - consintieseis
+  uds:
+    - consintieran
+    - consintiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera consentido
+    - hubiese consentido
+  tu:
+    - hubieras consentido
+    - hubieses consentido
+  vos:
+    - hubieras consentido
+    - hubieses consentido
+  ud:
+    - hubiera consentido
+    - hubiese consentido
+  nosotros:
+    - hubiéramos consentido
+    - hubiésemos consentido
+  vosotros:
+    - hubierais consentido
+    - hubieseis consentido
+  uds:
+    - hubieran consentido
+    - hubiesen consentido
+imperativo:
+  tu: consiente
+  vos: consinté
+  ud: consienta
+  nosotros: consintamos
+  vosotros: consentid
+  uds: consientan

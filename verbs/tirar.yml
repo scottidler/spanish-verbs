@@ -1,0 +1,142 @@
+infinitivo: tirar
+gerundio: tirando
+participio-pasado: tirado
+presente-indicativo:
+  yo: tiro
+  tu: tiras
+  vos: tiras
+  ud: tira
+  nosotros: tiramos
+  vosotros: tiráis
+  uds: tiran
+preterito-perfecto-simple:
+  yo: tiré
+  tu: tiraste
+  vos: tiraste
+  ud: tiró
+  nosotros: tiramos
+  vosotros: tirasteis
+  uds: tiraron
+preterito-imperfecto:
+  yo: tiraba
+  tu: tirabas
+  vos: tirabas
+  ud: tiraba
+  nosotros: tirábamos
+  vosotros: tirabais
+  uds: tiraban
+futuro-simple:
+  yo: tiraré
+  tu: tirarás
+  vos: tirarás
+  ud: tirará
+  nosotros: tiraremos
+  vosotros: tiraréis
+  uds: tirarán
+condicional-simple:
+  yo: tiraría
+  tu: tirarías
+  vos: tirarías
+  ud: tiraría
+  nosotros: tiraríamos
+  vosotros: tiraríais
+  uds: tirarían
+presente-perfecto:
+  yo: he tirado
+  tu: has tirado
+  vos: has tirado
+  ud: ha tirado
+  nosotros: hemos tirado
+  vosotros: habéis tirado
+  uds: han tirado
+preterito-pluscuamperfecto:
+  yo: había tirado
+  tu: habías tirado
+  vos: habías tirado
+  ud: había tirado
+  nosotros: habíamos tirado
+  vosotros: habíais tirado
+  uds: habían tirado
+futuro-perfecto:
+  yo: habré tirado
+  tu: habrás tirado
+  vos: habrás tirado
+  ud: habrá tirado
+  nosotros: habremos tirado
+  vosotros: habréis tirado
+  uds: habrán tirado
+condicional-perfecto:
+  yo: habría tirado
+  tu: habrías tirado
+  vos: habrías tirado
+  ud: habría tirado
+  nosotros: habríamos tirado
+  vosotros: habríais tirado
+  uds: habrían tirado
+presente-subjuntivo:
+  yo: tire
+  tu: tires
+  vos: tires
+  ud: tire
+  nosotros: tiremos
+  vosotros: tiréis
+  uds: tiren
+preterito-perfecto-subjuntivo:
+  yo: haya tirado
+  tu: hayas tirado
+  vos: hayas tirado
+  ud: haya tirado
+  nosotros: hayamos tirado
+  vosotros: hayáis tirado
+  uds: hayan tirado
+imperfecto-subjuntivo:
+  yo:
+    - tirara
+    - tirase
+  tu:
+    - tiraras
+    - tirases
+  vos:
+    - tiraras
+    - tirases
+  ud:
+    - tirara
+    - tirase
+  nosotros:
+    - tiráramos
+    - tirásemos
+  vosotros:
+    - tirarais
+    - tiraseis
+  uds:
+    - tiraran
+    - tirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tirado
+    - hubiese tirado
+  tu:
+    - hubieras tirado
+    - hubieses tirado
+  vos:
+    - hubieras tirado
+    - hubieses tirado
+  ud:
+    - hubiera tirado
+    - hubiese tirado
+  nosotros:
+    - hubiéramos tirado
+    - hubiésemos tirado
+  vosotros:
+    - hubierais tirado
+    - hubieseis tirado
+  uds:
+    - hubieran tirado
+    - hubiesen tirado
+imperativo:
+  tu: tira
+  vos: tirá
+  ud: tire
+  nosotros: tiremos
+  vosotros: tirad
+  uds: tiren

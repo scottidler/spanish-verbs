@@ -1,0 +1,142 @@
+infinitivo: cerrar
+gerundio: cerrando
+participio-pasado: cerrado
+presente-indicativo:
+  yo: cierro
+  tu: cierras
+  vos: cierras
+  ud: cierra
+  nosotros: cerramos
+  vosotros: cerráis
+  uds: cierran
+preterito-perfecto-simple:
+  yo: cerré
+  tu: cerraste
+  vos: cerraste
+  ud: cerró
+  nosotros: cerramos
+  vosotros: cerrasteis
+  uds: cerraron
+preterito-imperfecto:
+  yo: cerraba
+  tu: cerrabas
+  vos: cerrabas
+  ud: cerraba
+  nosotros: cerrábamos
+  vosotros: cerrabais
+  uds: cerraban
+futuro-simple:
+  yo: cerraré
+  tu: cerrarás
+  vos: cerrarás
+  ud: cerrará
+  nosotros: cerraremos
+  vosotros: cerraréis
+  uds: cerrarán
+condicional-simple:
+  yo: cerraría
+  tu: cerrarías
+  vos: cerrarías
+  ud: cerraría
+  nosotros: cerraríamos
+  vosotros: cerraríais
+  uds: cerrarían
+presente-perfecto:
+  yo: he cerrado
+  tu: has cerrado
+  vos: has cerrado
+  ud: ha cerrado
+  nosotros: hemos cerrado
+  vosotros: habéis cerrado
+  uds: han cerrado
+preterito-pluscuamperfecto:
+  yo: había cerrado
+  tu: habías cerrado
+  vos: habías cerrado
+  ud: había cerrado
+  nosotros: habíamos cerrado
+  vosotros: habíais cerrado
+  uds: habían cerrado
+futuro-perfecto:
+  yo: habré cerrado
+  tu: habrás cerrado
+  vos: habrás cerrado
+  ud: habrá cerrado
+  nosotros: habremos cerrado
+  vosotros: habréis cerrado
+  uds: habrán cerrado
+condicional-perfecto:
+  yo: habría cerrado
+  tu: habrías cerrado
+  vos: habrías cerrado
+  ud: habría cerrado
+  nosotros: habríamos cerrado
+  vosotros: habríais cerrado
+  uds: habrían cerrado
+presente-subjuntivo:
+  yo: cierre
+  tu: cierres
+  vos: cierres
+  ud: cierre
+  nosotros: cerremos
+  vosotros: cerréis
+  uds: cierren
+preterito-perfecto-subjuntivo:
+  yo: haya cerrado
+  tu: hayas cerrado
+  vos: hayas cerrado
+  ud: haya cerrado
+  nosotros: hayamos cerrado
+  vosotros: hayáis cerrado
+  uds: hayan cerrado
+imperfecto-subjuntivo:
+  yo:
+    - cerrara
+    - cerrase
+  tu:
+    - cerraras
+    - cerrases
+  vos:
+    - cerraras
+    - cerrases
+  ud:
+    - cerrara
+    - cerrase
+  nosotros:
+    - cerráramos
+    - cerrásemos
+  vosotros:
+    - cerrarais
+    - cerraseis
+  uds:
+    - cerraran
+    - cerrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cerrado
+    - hubiese cerrado
+  tu:
+    - hubieras cerrado
+    - hubieses cerrado
+  vos:
+    - hubieras cerrado
+    - hubieses cerrado
+  ud:
+    - hubiera cerrado
+    - hubiese cerrado
+  nosotros:
+    - hubiéramos cerrado
+    - hubiésemos cerrado
+  vosotros:
+    - hubierais cerrado
+    - hubieseis cerrado
+  uds:
+    - hubieran cerrado
+    - hubiesen cerrado
+imperativo:
+  tu: cierra
+  vos: cerrá
+  ud: cierre
+  nosotros: cerremos
+  vosotros: cerrad
+  uds: cierren

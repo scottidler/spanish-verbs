@@ -1,0 +1,142 @@
+infinitivo: pensar
+gerundio: pensando
+participio-pasado: pensado
+presente-indicativo:
+  yo: pienso
+  tu: piensas
+  vos: pensás
+  ud: piensa
+  nosotros: pensamos
+  vosotros: pensáis
+  uds: piensan
+preterito-perfecto-simple:
+  yo: pensé
+  tu: pensaste
+  vos: pensaste
+  ud: pensó
+  nosotros: pensamos
+  vosotros: pensasteis
+  uds: pensaron
+preterito-imperfecto:
+  yo: pensaba
+  tu: pensabas
+  vos: pensabas
+  ud: pensaba
+  nosotros: pensábamos
+  vosotros: pensabais
+  uds: pensaban
+futuro-simple:
+  yo: pensaré
+  tu: pensarás
+  vos: pensarás
+  ud: pensará
+  nosotros: pensaremos
+  vosotros: pensaréis
+  uds: pensarán
+condicional-simple:
+  yo: pensaría
+  tu: pensarías
+  vos: pensarías
+  ud: pensaría
+  nosotros: pensaríamos
+  vosotros: pensaríais
+  uds: pensarían
+presente-perfecto:
+  yo: he pensado
+  tu: has pensado
+  vos: has pensado
+  ud: ha pensado
+  nosotros: hemos pensado
+  vosotros: habéis pensado
+  uds: han pensado
+preterito-pluscuamperfecto:
+  yo: había pensado
+  tu: habías pensado
+  vos: habías pensado
+  ud: había pensado
+  nosotros: habíamos pensado
+  vosotros: habíais pensado
+  uds: habían pensado
+futuro-perfecto:
+  yo: habré pensado
+  tu: habrás pensado
+  vos: habrás pensado
+  ud: habrá pensado
+  nosotros: habremos pensado
+  vosotros: habréis pensado
+  uds: habrán pensado
+condicional-perfecto:
+  yo: habría pensado
+  tu: habrías pensado
+  vos: habrías pensado
+  ud: habría pensado
+  nosotros: habríamos pensado
+  vosotros: habríais pensado
+  uds: habrían pensado
+presente-subjuntivo:
+  yo: piense
+  tu: pienses
+  vos: pienses
+  ud: piense
+  nosotros: pensemos
+  vosotros: penséis
+  uds: piensen
+preterito-perfecto-subjuntivo:
+  yo: haya pensado
+  tu: hayas pensado
+  vos: hayas pensado
+  ud: haya pensado
+  nosotros: hayamos pensado
+  vosotros: hayáis pensado
+  uds: hayan pensado
+imperfecto-subjuntivo:
+  yo:
+    - pensara
+    - pensase
+  tu:
+    - pensaras
+    - pensases
+  vos:
+    - pensaras
+    - pensases
+  ud:
+    - pensara
+    - pensase
+  nosotros:
+    - pensáramos
+    - pensásemos
+  vosotros:
+    - pensarais
+    - pensaseis
+  uds:
+    - pensaran
+    - pensasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pensado
+    - hubiese pensado
+  tu:
+    - hubieras pensado
+    - hubieses pensado
+  vos:
+    - hubieras pensado
+    - hubieses pensado
+  ud:
+    - hubiera pensado
+    - hubiese pensado
+  nosotros:
+    - hubiéramos pensado
+    - hubiésemos pensado
+  vosotros:
+    - hubierais pensado
+    - hubieseis pensado
+  uds:
+    - hubieran pensado
+    - hubiesen pensado
+imperativo:
+  tu: piensa
+  vos: pensá
+  ud: piense
+  nosotros: pensemos
+  vosotros: pensad
+  uds: piensen

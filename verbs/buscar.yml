@@ -1,0 +1,142 @@
+infinitivo: buscar
+gerundio: buscando
+participio-pasado: buscado
+presente-indicativo:
+  yo: busco
+  tu: buscas
+  vos: buscas
+  ud: busca
+  nosotros: buscamos
+  vosotros: buscáis
+  uds: buscan
+preterito-perfecto-simple:
+  yo: busqué
+  tu: buscaste
+  vos: buscaste
+  ud: buscó
+  nosotros: buscamos
+  vosotros: buscasteis
+  uds: buscaron
+preterito-imperfecto:
+  yo: buscaba
+  tu: buscabas
+  vos: buscabas
+  ud: buscaba
+  nosotros: buscábamos
+  vosotros: buscabais
+  uds: buscaban
+futuro-simple:
+  yo: buscaré
+  tu: buscarás
+  vos: buscarás
+  ud: buscará
+  nosotros: buscaremos
+  vosotros: buscaréis
+  uds: buscarán
+condicional-simple:
+  yo: buscaría
+  tu: buscarías
+  vos: buscarías
+  ud: buscaría
+  nosotros: buscaríamos
+  vosotros: buscaríais
+  uds: buscarían
+presente-perfecto:
+  yo: he buscado
+  tu: has buscado
+  vos: has buscado
+  ud: ha buscado
+  nosotros: hemos buscado
+  vosotros: habéis buscado
+  uds: han buscado
+preterito-pluscuamperfecto:
+  yo: había buscado
+  tu: habías buscado
+  vos: habías buscado
+  ud: había buscado
+  nosotros: habíamos buscado
+  vosotros: habíais buscado
+  uds: habían buscado
+futuro-perfecto:
+  yo: habré buscado
+  tu: habrás buscado
+  vos: habrás buscado
+  ud: habrá buscado
+  nosotros: habremos buscado
+  vosotros: habréis buscado
+  uds: habrán buscado
+condicional-perfecto:
+  yo: habría buscado
+  tu: habrías buscado
+  vos: habrías buscado
+  ud: habría buscado
+  nosotros: habríamos buscado
+  vosotros: habríais buscado
+  uds: habrían buscado
+presente-subjuntivo:
+  yo: busque
+  tu: busques
+  vos: busques
+  ud: busque
+  nosotros: busquemos
+  vosotros: busquéis
+  uds: busquen
+preterito-perfecto-subjuntivo:
+  yo: haya buscado
+  tu: hayas buscado
+  vos: hayas buscado
+  ud: haya buscado
+  nosotros: hayamos buscado
+  vosotros: hayáis buscado
+  uds: hayan buscado
+imperfecto-subjuntivo:
+  yo:
+    - buscara
+    - buscase
+  tu:
+    - buscaras
+    - buscases
+  vos:
+    - buscaras
+    - buscases
+  ud:
+    - buscara
+    - buscase
+  nosotros:
+    - buscáramos
+    - buscásemos
+  vosotros:
+    - buscarais
+    - buscaseis
+  uds:
+    - buscaran
+    - buscasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera buscado
+    - hubiese buscado
+  tu:
+    - hubieras buscado
+    - hubieses buscado
+  vos:
+    - hubieras buscado
+    - hubieses buscado
+  ud:
+    - hubiera buscado
+    - hubiese buscado
+  nosotros:
+    - hubiéramos buscado
+    - hubiésemos buscado
+  vosotros:
+    - hubierais buscado
+    - hubieseis buscado
+  uds:
+    - hubieran buscado
+    - hubiesen buscado
+imperativo:
+  tu: busca
+  vos: buscá
+  ud: busque
+  nosotros: busquemos
+  vosotros: buscad
+  uds: busquen

@@ -1,0 +1,142 @@
+infinitivo: entender
+gerundio: entendiendo
+participio-pasado: entendido
+presente-indicativo:
+  yo: entiendo
+  tu: entiendes
+  vos: entendés
+  ud: entiende
+  nosotros: entendemos
+  vosotros: entendéis
+  uds: entienden
+preterito-perfecto-simple:
+  yo: entendí
+  tu: entendiste
+  vos: entendiste
+  ud: entendió
+  nosotros: entendimos
+  vosotros: entendisteis
+  uds: entendieron
+preterito-imperfecto:
+  yo: entendía
+  tu: entendías
+  vos: entendías
+  ud: entendía
+  nosotros: entendíamos
+  vosotros: entendíais
+  uds: entendían
+futuro-simple:
+  yo: entenderé
+  tu: entenderás
+  vos: entenderás
+  ud: entenderá
+  nosotros: entenderemos
+  vosotros: entenderéis
+  uds: entenderán
+condicional-simple:
+  yo: entendería
+  tu: entenderías
+  vos: entenderías
+  ud: entendería
+  nosotros: entenderíamos
+  vosotros: entenderíais
+  uds: entenderían
+presente-perfecto:
+  yo: he entendido
+  tu: has entendido
+  vos: has entendido
+  ud: ha entendido
+  nosotros: hemos entendido
+  vosotros: habéis entendido
+  uds: han entendido
+preterito-pluscuamperfecto:
+  yo: había entendido
+  tu: habías entendido
+  vos: habías entendido
+  ud: había entendido
+  nosotros: habíamos entendido
+  vosotros: habíais entendido
+  uds: habían entendido
+futuro-perfecto:
+  yo: habré entendido
+  tu: habrás entendido
+  vos: habrás entendido
+  ud: habrá entendido
+  nosotros: habremos entendido
+  vosotros: habréis entendido
+  uds: habrán entendido
+condicional-perfecto:
+  yo: habría entendido
+  tu: habrías entendido
+  vos: habrías entendido
+  ud: habría entendido
+  nosotros: habríamos entendido
+  vosotros: habríais entendido
+  uds: habrían entendido
+presente-subjuntivo:
+  yo: entienda
+  tu: entiendas
+  vos: entiendas
+  ud: entienda
+  nosotros: entendamos
+  vosotros: entendáis
+  uds: entiendan
+preterito-perfecto-subjuntivo:
+  yo: haya entendido
+  tu: hayas entendido
+  vos: hayas entendido
+  ud: haya entendido
+  nosotros: hayamos entendido
+  vosotros: hayáis entendido
+  uds: hayan entendido
+imperfecto-subjuntivo:
+  yo:
+    - entendiera
+    - entendiese
+  tu:
+    - entendieras
+    - entendieses
+  vos:
+    - entendieras
+    - entendieses
+  ud:
+    - entendiera
+    - entendiese
+  nosotros:
+    - entendiéramos
+    - entendiésemos
+  vosotros:
+    - entendierais
+    - entendieseis
+  uds:
+    - entendieran
+    - entendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera entendido
+    - hubiese entendido
+  tu:
+    - hubieras entendido
+    - hubieses entendido
+  vos:
+    - hubieras entendido
+    - hubieses entendido
+  ud:
+    - hubiera entendido
+    - hubiese entendido
+  nosotros:
+    - hubiéramos entendido
+    - hubiésemos entendido
+  vosotros:
+    - hubierais entendido
+    - hubieseis entendido
+  uds:
+    - hubieran entendido
+    - hubiesen entendido
+imperativo:
+  tu: entiende
+  vos: entendé
+  ud: entienda
+  nosotros: entendamos
+  vosotros: entended
+  uds: entiendan

@@ -1,0 +1,142 @@
+infinitivo: reconocer
+gerundio: reconociendo
+participio-pasado: reconocido
+presente-indicativo:
+  yo: reconozco
+  tu: reconoces
+  vos: reconoces
+  ud: reconoce
+  nosotros: reconocemos
+  vosotros: reconocéis
+  uds: reconocen
+preterito-perfecto-simple:
+  yo: reconocí
+  tu: reconociste
+  vos: reconociste
+  ud: reconoció
+  nosotros: reconocimos
+  vosotros: reconocisteis
+  uds: reconocieron
+preterito-imperfecto:
+  yo: reconocía
+  tu: reconocías
+  vos: reconocías
+  ud: reconocía
+  nosotros: reconocíamos
+  vosotros: reconocíais
+  uds: reconocían
+futuro-simple:
+  yo: reconoceré
+  tu: reconocerás
+  vos: reconocerás
+  ud: reconocerá
+  nosotros: reconoceremos
+  vosotros: reconoceréis
+  uds: reconocerán
+condicional-simple:
+  yo: reconocería
+  tu: reconocerías
+  vos: reconocerías
+  ud: reconocería
+  nosotros: reconoceríamos
+  vosotros: reconoceríais
+  uds: reconocerían
+presente-perfecto:
+  yo: he reconocido
+  tu: has reconocido
+  vos: has reconocido
+  ud: ha reconocido
+  nosotros: hemos reconocido
+  vosotros: habéis reconocido
+  uds: han reconocido
+preterito-pluscuamperfecto:
+  yo: había reconocido
+  tu: habías reconocido
+  vos: habías reconocido
+  ud: había reconocido
+  nosotros: habíamos reconocido
+  vosotros: habíais reconocido
+  uds: habían reconocido
+futuro-perfecto:
+  yo: habré reconocido
+  tu: habrás reconocido
+  vos: habrás reconocido
+  ud: habrá reconocido
+  nosotros: habremos reconocido
+  vosotros: habréis reconocido
+  uds: habrán reconocido
+condicional-perfecto:
+  yo: habría reconocido
+  tu: habrías reconocido
+  vos: habrías reconocido
+  ud: habría reconocido
+  nosotros: habríamos reconocido
+  vosotros: habríais reconocido
+  uds: habrían reconocido
+presente-subjuntivo:
+  yo: reconozca
+  tu: reconozcas
+  vos: reconozcas
+  ud: reconozca
+  nosotros: reconozcamos
+  vosotros: reconozcáis
+  uds: reconozcan
+preterito-perfecto-subjuntivo:
+  yo: haya reconocido
+  tu: hayas reconocido
+  vos: hayas reconocido
+  ud: haya reconocido
+  nosotros: hayamos reconocido
+  vosotros: hayáis reconocido
+  uds: hayan reconocido
+imperfecto-subjuntivo:
+  yo:
+    - reconociera
+    - reconociese
+  tu:
+    - reconocieras
+    - reconocieses
+  vos:
+    - reconocieras
+    - reconocieses
+  ud:
+    - reconociera
+    - reconociese
+  nosotros:
+    - reconociéramos
+    - reconociésemos
+  vosotros:
+    - reconocierais
+    - reconocieseis
+  uds:
+    - reconocieran
+    - reconociesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reconocido
+    - hubiese reconocido
+  tu:
+    - hubieras reconocido
+    - hubieses reconocido
+  vos:
+    - hubieras reconocido
+    - hubieses reconocido
+  ud:
+    - hubiera reconocido
+    - hubiese reconocido
+  nosotros:
+    - hubiéramos reconocido
+    - hubiésemos reconocido
+  vosotros:
+    - hubierais reconocido
+    - hubieseis reconocido
+  uds:
+    - hubieran reconocido
+    - hubiesen reconocido
+imperativo:
+  tu: reconoce
+  vos: reconocé
+  ud: reconozca
+  nosotros: reconozcamos
+  vosotros: reconoced
+  uds: reconozcan

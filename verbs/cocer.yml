@@ -1,0 +1,142 @@
+infinitivo: cocer
+gerundio: cociendo
+participio-pasado: cocido
+presente-indicativo:
+  yo: cuezo
+  tu: cueces
+  vos: cueces
+  ud: cuece
+  nosotros: cocemos
+  vosotros: cocéis
+  uds: cuecen
+preterito-perfecto-simple:
+  yo: cocí
+  tu: cociste
+  vos: cociste
+  ud: coció
+  nosotros: cocimos
+  vosotros: cocisteis
+  uds: cocieron
+preterito-imperfecto:
+  yo: cocía
+  tu: cocías
+  vos: cocías
+  ud: cocía
+  nosotros: cocíamos
+  vosotros: cocíais
+  uds: cocían
+futuro-simple:
+  yo: coceré
+  tu: cocerás
+  vos: cocerás
+  ud: cocerá
+  nosotros: coceremos
+  vosotros: coceréis
+  uds: cocerán
+condicional-simple:
+  yo: cocería
+  tu: cocerías
+  vos: cocerías
+  ud: cocería
+  nosotros: coceríamos
+  vosotros: coceríais
+  uds: cocerían
+presente-perfecto:
+  yo: he cocido
+  tu: has cocido
+  vos: has cocido
+  ud: ha cocido
+  nosotros: hemos cocido
+  vosotros: habéis cocido
+  uds: han cocido
+preterito-pluscuamperfecto:
+  yo: había cocido
+  tu: habías cocido
+  vos: habías cocido
+  ud: había cocido
+  nosotros: habíamos cocido
+  vosotros: habíais cocido
+  uds: habían cocido
+futuro-perfecto:
+  yo: habré cocido
+  tu: habrás cocido
+  vos: habrás cocido
+  ud: habrá cocido
+  nosotros: habremos cocido
+  vosotros: habréis cocido
+  uds: habrán cocido
+condicional-perfecto:
+  yo: habría cocido
+  tu: habrías cocido
+  vos: habrías cocido
+  ud: habría cocido
+  nosotros: habríamos cocido
+  vosotros: habríais cocido
+  uds: habrían cocido
+presente-subjuntivo:
+  yo: cueza
+  tu: cuezas
+  vos: cuezas
+  ud: cueza
+  nosotros: cozamos
+  vosotros: cozáis
+  uds: cuezan
+preterito-perfecto-subjuntivo:
+  yo: haya cocido
+  tu: hayas cocido
+  vos: hayas cocido
+  ud: haya cocido
+  nosotros: hayamos cocido
+  vosotros: hayáis cocido
+  uds: hayan cocido
+imperfecto-subjuntivo:
+  yo:
+    - cociera
+    - cociese
+  tu:
+    - cocieras
+    - cocieses
+  vos:
+    - cocieras
+    - cocieses
+  ud:
+    - cociera
+    - cociese
+  nosotros:
+    - cociéramos
+    - cociésemos
+  vosotros:
+    - cocierais
+    - cocieseis
+  uds:
+    - cocieran
+    - cociesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cocido
+    - hubiese cocido
+  tu:
+    - hubieras cocido
+    - hubieses cocido
+  vos:
+    - hubieras cocido
+    - hubieses cocido
+  ud:
+    - hubiera cocido
+    - hubiese cocido
+  nosotros:
+    - hubiéramos cocido
+    - hubiésemos cocido
+  vosotros:
+    - hubierais cocido
+    - hubieseis cocido
+  uds:
+    - hubieran cocido
+    - hubiesen cocido
+imperativo:
+  tu: cuece
+  vos: cueza
+  ud: cueza
+  nosotros: cozamos
+  vosotros: coced
+  uds: cuezan

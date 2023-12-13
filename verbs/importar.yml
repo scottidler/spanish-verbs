@@ -1,0 +1,142 @@
+infinitivo: importar
+gerundio: importando
+participio-pasado: importado
+presente-indicativo:
+  yo: importo
+  tu: importas
+  vos: importás
+  ud: importa
+  nosotros: importamos
+  vosotros: importáis
+  uds: importan
+preterito-perfecto-simple:
+  yo: importé
+  tu: importaste
+  vos: importaste
+  ud: importó
+  nosotros: importamos
+  vosotros: importasteis
+  uds: importaron
+preterito-imperfecto:
+  yo: importaba
+  tu: importabas
+  vos: importabas
+  ud: importaba
+  nosotros: importábamos
+  vosotros: importabais
+  uds: importaban
+futuro-simple:
+  yo: importaré
+  tu: importarás
+  vos: importarás
+  ud: importará
+  nosotros: importaremos
+  vosotros: importaréis
+  uds: importarán
+condicional-simple:
+  yo: importaría
+  tu: importarías
+  vos: importarías
+  ud: importaría
+  nosotros: importaríamos
+  vosotros: importaríais
+  uds: importarían
+presente-perfecto:
+  yo: he importado
+  tu: has importado
+  vos: has importado
+  ud: ha importado
+  nosotros: hemos importado
+  vosotros: habéis importado
+  uds: han importado
+preterito-pluscuamperfecto:
+  yo: había importado
+  tu: habías importado
+  vos: habías importado
+  ud: había importado
+  nosotros: habíamos importado
+  vosotros: habíais importado
+  uds: habían importado
+futuro-perfecto:
+  yo: habré importado
+  tu: habrás importado
+  vos: habrás importado
+  ud: habrá importado
+  nosotros: habremos importado
+  vosotros: habréis importado
+  uds: habrán importado
+condicional-perfecto:
+  yo: habría importado
+  tu: habrías importado
+  vos: habrías importado
+  ud: habría importado
+  nosotros: habríamos importado
+  vosotros: habríais importado
+  uds: habrían importado
+presente-subjuntivo:
+  yo: importe
+  tu: importes
+  vos: importes
+  ud: importe
+  nosotros: importemos
+  vosotros: importéis
+  uds: importen
+preterito-perfecto-subjuntivo:
+  yo: haya importado
+  tu: hayas importado
+  vos: hayas importado
+  ud: haya importado
+  nosotros: hayamos importado
+  vosotros: hayáis importado
+  uds: hayan importado
+imperfecto-subjuntivo:
+  yo:
+    - importara
+    - importase
+  tu:
+    - importaras
+    - importases
+  vos:
+    - importaras
+    - importases
+  ud:
+    - importara
+    - importase
+  nosotros:
+    - importáramos
+    - importásemos
+  vosotros:
+    - importarais
+    - importaseis
+  uds:
+    - importaran
+    - importasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera importado
+    - hubiese importado
+  tu:
+    - hubieras importado
+    - hubieses importado
+  vos:
+    - hubieras importado
+    - hubieses importado
+  ud:
+    - hubiera importado
+    - hubiese importado
+  nosotros:
+    - hubiéramos importado
+    - hubiésemos importado
+  vosotros:
+    - hubierais importado
+    - hubieseis importado
+  uds:
+    - hubieran importado
+    - hubiesen importado
+imperativo:
+  tu: importa
+  vos: importá
+  ud: importe
+  nosotros: importemos
+  vosotros: importad
+  uds: importen

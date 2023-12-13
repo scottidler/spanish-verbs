@@ -1,0 +1,142 @@
+infinitivo: divertir
+gerundio: divirtiendo
+participio-pasado: divertido
+presente-indicativo:
+  yo: divierto
+  tu: diviertes
+  vos: divertís
+  ud: divierte
+  nosotros: divertimos
+  vosotros: divertís
+  uds: divierten
+preterito-perfecto-simple:
+  yo: divertí
+  tu: divertiste
+  vos: divertiste
+  ud: divirtió
+  nosotros: divertimos
+  vosotros: divertisteis
+  uds: divirtieron
+preterito-imperfecto:
+  yo: divertía
+  tu: divertías
+  vos: divertías
+  ud: divertía
+  nosotros: divertíamos
+  vosotros: divertíais
+  uds: divertían
+futuro-simple:
+  yo: divertiré
+  tu: divertirás
+  vos: divertirás
+  ud: divertirá
+  nosotros: divertiremos
+  vosotros: divertiréis
+  uds: divertirán
+condicional-simple:
+  yo: divertiría
+  tu: divertirías
+  vos: divertirías
+  ud: divertiría
+  nosotros: divertiríamos
+  vosotros: divertiríais
+  uds: divertirían
+presente-perfecto:
+  yo: he divertido
+  tu: has divertido
+  vos: has divertido
+  ud: ha divertido
+  nosotros: hemos divertido
+  vosotros: habéis divertido
+  uds: han divertido
+preterito-pluscuamperfecto:
+  yo: había divertido
+  tu: habías divertido
+  vos: habías divertido
+  ud: había divertido
+  nosotros: habíamos divertido
+  vosotros: habíais divertido
+  uds: habían divertido
+futuro-perfecto:
+  yo: habré divertido
+  tu: habrás divertido
+  vos: habrás divertido
+  ud: habrá divertido
+  nosotros: habremos divertido
+  vosotros: habréis divertido
+  uds: habrán divertido
+condicional-perfecto:
+  yo: habría divertido
+  tu: habrías divertido
+  vos: habrías divertido
+  ud: habría divertido
+  nosotros: habríamos divertido
+  vosotros: habríais divertido
+  uds: habrían divertido
+presente-subjuntivo:
+  yo: divierta
+  tu: diviertas
+  vos: diviertas
+  ud: divierta
+  nosotros: divirtamos
+  vosotros: divirtáis
+  uds: diviertan
+preterito-perfecto-subjuntivo:
+  yo: haya divertido
+  tu: hayas divertido
+  vos: hayas divertido
+  ud: haya divertido
+  nosotros: hayamos divertido
+  vosotros: hayáis divertido
+  uds: hayan divertido
+imperfecto-subjuntivo:
+  yo:
+    - divirtiera
+    - divirtiese
+  tu:
+    - divirtieras
+    - divirtieses
+  vos:
+    - divirtieras
+    - divirtieses
+  ud:
+    - divirtiera
+    - divirtiese
+  nosotros:
+    - divirtiéramos
+    - divirtiésemos
+  vosotros:
+    - divirtierais
+    - divirtieseis
+  uds:
+    - divirtieran
+    - divirtiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera divertido
+    - hubiese divertido
+  tu:
+    - hubieras divertido
+    - hubieses divertido
+  vos:
+    - hubieras divertido
+    - hubieses divertido
+  ud:
+    - hubiera divertido
+    - hubiese divertido
+  nosotros:
+    - hubiéramos divertido
+    - hubiésemos divertido
+  vosotros:
+    - hubierais divertido
+    - hubieseis divertido
+  uds:
+    - hubieran divertido
+    - hubiesen divertido
+imperativo:
+  tu: divierte
+  vos: divertí
+  ud: divierta
+  nosotros: divirtamos
+  vosotros: divertid
+  uds: diviertan

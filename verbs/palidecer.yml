@@ -1,0 +1,142 @@
+infinitivo: palidecer
+gerundio: palideciendo
+participio-pasado: palidecido
+presente-indicativo:
+  yo: palidezco
+  tu: palideces
+  vos: palideces
+  ud: palidece
+  nosotros: palidecemos
+  vosotros: palidecéis
+  uds: palidecen
+preterito-perfecto-simple:
+  yo: palidecí
+  tu: palideciste
+  vos: palideciste
+  ud: palideció
+  nosotros: palidecimos
+  vosotros: palidecisteis
+  uds: palidecieron
+preterito-imperfecto:
+  yo: palidecía
+  tu: palidecías
+  vos: palidecías
+  ud: palidecía
+  nosotros: palidecíamos
+  vosotros: palidecíais
+  uds: palidecían
+futuro-simple:
+  yo: palideceré
+  tu: palidecerás
+  vos: palidecerás
+  ud: palidecerá
+  nosotros: palideceremos
+  vosotros: palideceréis
+  uds: palidecerán
+condicional-simple:
+  yo: palidecería
+  tu: palidecerías
+  vos: palidecerías
+  ud: palidecería
+  nosotros: palideceríamos
+  vosotros: palideceríais
+  uds: palidecerían
+presente-perfecto:
+  yo: he palidecido
+  tu: has palidecido
+  vos: has palidecido
+  ud: ha palidecido
+  nosotros: hemos palidecido
+  vosotros: habéis palidecido
+  uds: han palidecido
+preterito-pluscuamperfecto:
+  yo: había palidecido
+  tu: habías palidecido
+  vos: habías palidecido
+  ud: había palidecido
+  nosotros: habíamos palidecido
+  vosotros: habíais palidecido
+  uds: habían palidecido
+futuro-perfecto:
+  yo: habré palidecido
+  tu: habrás palidecido
+  vos: habrás palidecido
+  ud: habrá palidecido
+  nosotros: habremos palidecido
+  vosotros: habréis palidecido
+  uds: habrán palidecido
+condicional-perfecto:
+  yo: habría palidecido
+  tu: habrías palidecido
+  vos: habrías palidecido
+  ud: habría palidecido
+  nosotros: habríamos palidecido
+  vosotros: habríais palidecido
+  uds: habrían palidecido
+presente-subjuntivo:
+  yo: palidezca
+  tu: palidezcas
+  vos: palidezcas
+  ud: palidezca
+  nosotros: palidezcamos
+  vosotros: palidezcáis
+  uds: palidezcan
+preterito-perfecto-subjuntivo:
+  yo: haya palidecido
+  tu: hayas palidecido
+  vos: hayas palidecido
+  ud: haya palidecido
+  nosotros: hayamos palidecido
+  vosotros: hayáis palidecido
+  uds: hayan palidecido
+imperfecto-subjuntivo:
+  yo:
+    - palideciera
+    - palideciese
+  tu:
+    - palidecieras
+    - palidecieses
+  vos:
+    - palidecieras
+    - palidecieses
+  ud:
+    - palideciera
+    - palideciese
+  nosotros:
+    - palideciéramos
+    - palideciésemos
+  vosotros:
+    - palidecierais
+    - palidecieseis
+  uds:
+    - palidecieran
+    - palideciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera palidecido
+    - hubiese palidecido
+  tu:
+    - hubieras palidecido
+    - hubieses palidecido
+  vos:
+    - hubieras palidecido
+    - hubieses palidecido
+  ud:
+    - hubiera palidecido
+    - hubiese palidecido
+  nosotros:
+    - hubiéramos palidecido
+    - hubiésemos palidecido
+  vosotros:
+    - hubierais palidecido
+    - hubieseis palidecido
+  uds:
+    - hubieran palidecido
+    - hubiesen palidecido
+imperativo:
+  tu: palidece
+  vos: palidecé
+  ud: palidezca
+  nosotros: palidezcamos
+  vosotros: palideced
+  uds: palidezcan

@@ -1,0 +1,142 @@
+infinitivo: costar
+gerundio: costando
+participio-pasado: costado
+presente-indicativo:
+  yo: cuesto
+  tu: cuestas
+  vos: cuestas
+  ud: cuesta
+  nosotros: costamos
+  vosotros: costáis
+  uds: cuestan
+preterito-perfecto-simple:
+  yo: costé
+  tu: costaste
+  vos: costaste
+  ud: costó
+  nosotros: costamos
+  vosotros: costasteis
+  uds: costaron
+preterito-imperfecto:
+  yo: costaba
+  tu: costabas
+  vos: costabas
+  ud: costaba
+  nosotros: costábamos
+  vosotros: costabais
+  uds: costaban
+futuro-simple:
+  yo: costaré
+  tu: costarás
+  vos: costarás
+  ud: costará
+  nosotros: costaremos
+  vosotros: costaréis
+  uds: costarán
+condicional-simple:
+  yo: costaría
+  tu: costarías
+  vos: costarías
+  ud: costaría
+  nosotros: costaríamos
+  vosotros: costaríais
+  uds: costarían
+presente-perfecto:
+  yo: he costado
+  tu: has costado
+  vos: has costado
+  ud: ha costado
+  nosotros: hemos costado
+  vosotros: habéis costado
+  uds: han costado
+preterito-pluscuamperfecto:
+  yo: había costado
+  tu: habías costado
+  vos: habías costado
+  ud: había costado
+  nosotros: habíamos costado
+  vosotros: habíais costado
+  uds: habían costado
+futuro-perfecto:
+  yo: habré costado
+  tu: habrás costado
+  vos: habrás costado
+  ud: habrá costado
+  nosotros: habremos costado
+  vosotros: habréis costado
+  uds: habrán costado
+condicional-perfecto:
+  yo: habría costado
+  tu: habrías costado
+  vos: habrías costado
+  ud: habría costado
+  nosotros: habríamos costado
+  vosotros: habríais costado
+  uds: habrían costado
+presente-subjuntivo:
+  yo: cueste
+  tu: cuestes
+  vos: cuestes
+  ud: cueste
+  nosotros: cuestemos
+  vosotros: cuestéis
+  uds: cuesten
+preterito-perfecto-subjuntivo:
+  yo: haya costado
+  tu: hayas costado
+  vos: hayas costado
+  ud: haya costado
+  nosotros: hayamos costado
+  vosotros: hayáis costado
+  uds: hayan costado
+imperfecto-subjuntivo:
+  yo:
+    - costara
+    - costase
+  tu:
+    - costaras
+    - costases
+  vos:
+    - costaras
+    - costases
+  ud:
+    - costara
+    - costase
+  nosotros:
+    - costáramos
+    - costásemos
+  vosotros:
+    - costarais
+    - costaseis
+  uds:
+    - costaran
+    - costasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera costado
+    - hubiese costado
+  tu:
+    - hubieras costado
+    - hubieses costado
+  vos:
+    - hubieras costado
+    - hubieses costado
+  ud:
+    - hubiera costado
+    - hubiese costado
+  nosotros:
+    - hubiéramos costado
+    - hubiésemos costado
+  vosotros:
+    - hubierais costado
+    - hubieseis costado
+  uds:
+    - hubieran costado
+    - hubiesen costado
+imperativo:
+  tu: cuesta
+  vos: cuestá
+  ud: cueste
+  nosotros: cuestemos
+  vosotros: costad
+  uds: cuesten

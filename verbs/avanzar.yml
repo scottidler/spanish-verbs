@@ -1,0 +1,142 @@
+infinitivo: avanzar
+gerundio: avanzando
+participio-pasado: avanzado
+presente-indicativo:
+  yo: avanzo
+  tu: avanzas
+  vos: avanzas
+  ud: avanza
+  nosotros: avanzamos
+  vosotros: avanzáis
+  uds: avanzan
+preterito-perfecto-simple:
+  yo: avancé
+  tu: avanzaste
+  vos: avanzaste
+  ud: avanzó
+  nosotros: avanzamos
+  vosotros: avanzasteis
+  uds: avanzaron
+preterito-imperfecto:
+  yo: avanzaba
+  tu: avanzabas
+  vos: avanzabas
+  ud: avanzaba
+  nosotros: avanzábamos
+  vosotros: avanzabais
+  uds: avanzaban
+futuro-simple:
+  yo: avanzaré
+  tu: avanzarás
+  vos: avanzarás
+  ud: avanzará
+  nosotros: avanzaremos
+  vosotros: avanzaréis
+  uds: avanzarán
+condicional-simple:
+  yo: avanzaría
+  tu: avanzarías
+  vos: avanzarías
+  ud: avanzaría
+  nosotros: avanzaríamos
+  vosotros: avanzaríais
+  uds: avanzarían
+presente-perfecto:
+  yo: he avanzado
+  tu: has avanzado
+  vos: has avanzado
+  ud: ha avanzado
+  nosotros: hemos avanzado
+  vosotros: habéis avanzado
+  uds: han avanzado
+preterito-pluscuamperfecto:
+  yo: había avanzado
+  tu: habías avanzado
+  vos: habías avanzado
+  ud: había avanzado
+  nosotros: habíamos avanzado
+  vosotros: habíais avanzado
+  uds: habían avanzado
+futuro-perfecto:
+  yo: habré avanzado
+  tu: habrás avanzado
+  vos: habrás avanzado
+  ud: habrá avanzado
+  nosotros: habremos avanzado
+  vosotros: habréis avanzado
+  uds: habrán avanzado
+condicional-perfecto:
+  yo: habría avanzado
+  tu: habrías avanzado
+  vos: habrías avanzado
+  ud: habría avanzado
+  nosotros: habríamos avanzado
+  vosotros: habríais avanzado
+  uds: habrían avanzado
+presente-subjuntivo:
+  yo: avance
+  tu: avances
+  vos: avances
+  ud: avance
+  nosotros: avancemos
+  vosotros: avanzáis
+  uds: avancen
+preterito-perfecto-subjuntivo:
+  yo: haya avanzado
+  tu: hayas avanzado
+  vos: hayas avanzado
+  ud: haya avanzado
+  nosotros: hayamos avanzado
+  vosotros: hayáis avanzado
+  uds: hayan avanzado
+imperfecto-subjuntivo:
+  yo:
+    - avanzara
+    - avanzase
+  tu:
+    - avanzaras
+    - avanzases
+  vos:
+    - avanzaras
+    - avanzases
+  ud:
+    - avanzara
+    - avanzase
+  nosotros:
+    - avanzáramos
+    - avanzásemos
+  vosotros:
+    - avanzarais
+    - avanzaseis
+  uds:
+    - avanzaran
+    - avanzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera avanzado
+    - hubiese avanzado
+  tu:
+    - hubieras avanzado
+    - hubieses avanzado
+  vos:
+    - hubieras avanzado
+    - hubieses avanzado
+  ud:
+    - hubiera avanzado
+    - hubiese avanzado
+  nosotros:
+    - hubiéramos avanzado
+    - hubiésemos avanzado
+  vosotros:
+    - hubierais avanzado
+    - hubieseis avanzado
+  uds:
+    - hubieran avanzado
+    - hubiesen avanzado
+imperativo:
+  tu: avanza
+  vos: avanzá
+  ud: avance
+  nosotros: avancemos
+  vosotros: avanzad
+  uds: avancen

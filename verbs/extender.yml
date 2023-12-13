@@ -1,0 +1,142 @@
+infinitivo: extender
+gerundio: extendiendo
+participio-pasado: extendido
+presente-indicativo:
+  yo: extiendo
+  tu: extiendes
+  vos: extendés
+  ud: extiende
+  nosotros: extendemos
+  vosotros: extendéis
+  uds: extienden
+preterito-perfecto-simple:
+  yo: extendí
+  tu: extendiste
+  vos: extendiste
+  ud: extendió
+  nosotros: extendimos
+  vosotros: extendisteis
+  uds: extendieron
+preterito-imperfecto:
+  yo: extendía
+  tu: extendías
+  vos: extendías
+  ud: extendía
+  nosotros: extendíamos
+  vosotros: extendíais
+  uds: extendían
+futuro-simple:
+  yo: extenderé
+  tu: extenderás
+  vos: extenderás
+  ud: extenderá
+  nosotros: extenderemos
+  vosotros: extenderéis
+  uds: extenderán
+condicional-simple:
+  yo: extendería
+  tu: extenderías
+  vos: extenderías
+  ud: extendería
+  nosotros: extenderíamos
+  vosotros: extenderíais
+  uds: extenderían
+presente-perfecto:
+  yo: he extendido
+  tu: has extendido
+  vos: has extendido
+  ud: ha extendido
+  nosotros: hemos extendido
+  vosotros: habéis extendido
+  uds: han extendido
+preterito-pluscuamperfecto:
+  yo: había extendido
+  tu: habías extendido
+  vos: habías extendido
+  ud: había extendido
+  nosotros: habíamos extendido
+  vosotros: habíais extendido
+  uds: habían extendido
+futuro-perfecto:
+  yo: habré extendido
+  tu: habrás extendido
+  vos: habrás extendido
+  ud: habrá extendido
+  nosotros: habremos extendido
+  vosotros: habréis extendido
+  uds: habrán extendido
+condicional-perfecto:
+  yo: habría extendido
+  tu: habrías extendido
+  vos: habrías extendido
+  ud: habría extendido
+  nosotros: habríamos extendido
+  vosotros: habríais extendido
+  uds: habrían extendido
+presente-subjuntivo:
+  yo: extienda
+  tu: extiendas
+  vos: extiendas
+  ud: extienda
+  nosotros: extendamos
+  vosotros: extendáis
+  uds: extiendan
+preterito-perfecto-subjuntivo:
+  yo: haya extendido
+  tu: hayas extendido
+  vos: hayas extendido
+  ud: haya extendido
+  nosotros: hayamos extendido
+  vosotros: hayáis extendido
+  uds: hayan extendido
+imperfecto-subjuntivo:
+  yo:
+    - extendiera
+    - extendiese
+  tu:
+    - extendieras
+    - extendieses
+  vos:
+    - extendieras
+    - extendieses
+  ud:
+    - extendiera
+    - extendiese
+  nosotros:
+    - extendiéramos
+    - extendiésemos
+  vosotros:
+    - extendierais
+    - extendieseis
+  uds:
+    - extendieran
+    - extendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera extendido
+    - hubiese extendido
+  tu:
+    - hubieras extendido
+    - hubieses extendido
+  vos:
+    - hubieras extendido
+    - hubieses extendido
+  ud:
+    - hubiera extendido
+    - hubiese extendido
+  nosotros:
+    - hubiéramos extendido
+    - hubiésemos extendido
+  vosotros:
+    - hubierais extendido
+    - hubieseis extendido
+  uds:
+    - hubieran extendido
+    - hubiesen extendido
+imperativo:
+  tu: extiende
+  vos: extendé
+  ud: extienda
+  nosotros: extendamos
+  vosotros: extended
+  uds: extiendan

@@ -1,0 +1,142 @@
+infinitivo: despertar
+gerundio: despertando
+participio-pasado: despertado
+presente-indicativo:
+  yo: despierto
+  tu: despiertas
+  vos: despiertas
+  ud: despierta
+  nosotros: despertamos
+  vosotros: despertáis
+  uds: despiertan
+preterito-perfecto-simple:
+  yo: desperté
+  tu: despertaste
+  vos: despertaste
+  ud: despertó
+  nosotros: despertamos
+  vosotros: despertasteis
+  uds: despertaron
+preterito-imperfecto:
+  yo: despertaba
+  tu: despertabas
+  vos: despertabas
+  ud: despertaba
+  nosotros: despertábamos
+  vosotros: despertabais
+  uds: despertaban
+futuro-simple:
+  yo: despertaré
+  tu: despertarás
+  vos: despertarás
+  ud: despertará
+  nosotros: despertaremos
+  vosotros: despertaréis
+  uds: despertarán
+condicional-simple:
+  yo: despertaría
+  tu: despertarías
+  vos: despertarías
+  ud: despertaría
+  nosotros: despertaríamos
+  vosotros: despertaríais
+  uds: despertarían
+presente-perfecto:
+  yo: he despertado
+  tu: has despertado
+  vos: has despertado
+  ud: ha despertado
+  nosotros: hemos despertado
+  vosotros: habéis despertado
+  uds: han despertado
+preterito-pluscuamperfecto:
+  yo: había despertado
+  tu: habías despertado
+  vos: habías despertado
+  ud: había despertado
+  nosotros: habíamos despertado
+  vosotros: habíais despertado
+  uds: habían despertado
+futuro-perfecto:
+  yo: habré despertado
+  tu: habrás despertado
+  vos: habrás despertado
+  ud: habrá despertado
+  nosotros: habremos despertado
+  vosotros: habréis despertado
+  uds: habrán despertado
+condicional-perfecto:
+  yo: habría despertado
+  tu: habrías despertado
+  vos: habrías despertado
+  ud: habría despertado
+  nosotros: habríamos despertado
+  vosotros: habríais despertado
+  uds: habrían despertado
+presente-subjuntivo:
+  yo: despierte
+  tu: despiertes
+  vos: despiertes
+  ud: despierte
+  nosotros: despertemos
+  vosotros: despertéis
+  uds: despierten
+preterito-perfecto-subjuntivo:
+  yo: haya despertado
+  tu: hayas despertado
+  vos: hayas despertado
+  ud: haya despertado
+  nosotros: hayamos despertado
+  vosotros: hayáis despertado
+  uds: hayan despertado
+imperfecto-subjuntivo:
+  yo:
+    - despertara
+    - despertase
+  tu:
+    - despertaras
+    - despertases
+  vos:
+    - despertaras
+    - despertases
+  ud:
+    - despertara
+    - despertase
+  nosotros:
+    - despertáramos
+    - despertásemos
+  vosotros:
+    - despertarais
+    - despertaseis
+  uds:
+    - despertaran
+    - despertasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera despertado
+    - hubiese despertado
+  tu:
+    - hubieras despertado
+    - hubieses despertado
+  vos:
+    - hubieras despertado
+    - hubieses despertado
+  ud:
+    - hubiera despertado
+    - hubiese despertado
+  nosotros:
+    - hubiéramos despertado
+    - hubiésemos despertado
+  vosotros:
+    - hubierais despertado
+    - hubieseis despertado
+  uds:
+    - hubieran despertado
+    - hubiesen despertado
+imperativo:
+  tu: despierta
+  vos: despertá
+  ud: despierte
+  nosotros: despertemos
+  vosotros: despertad
+  uds: despierten

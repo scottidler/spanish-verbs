@@ -1,0 +1,142 @@
+infinitivo: perseguir
+gerundio: persiguiendo
+participio-pasado: perseguido
+presente-indicativo:
+  yo: persigo
+  tu: persigues
+  vos: perseguís
+  ud: persigue
+  nosotros: perseguimos
+  vosotros: perseguís
+  uds: persiguen
+preterito-perfecto-simple:
+  yo: perseguí
+  tu: perseguiste
+  vos: perseguiste
+  ud: persiguió
+  nosotros: perseguimos
+  vosotros: perseguisteis
+  uds: persiguieron
+preterito-imperfecto:
+  yo: perseguía
+  tu: perseguías
+  vos: perseguías
+  ud: perseguía
+  nosotros: perseguíamos
+  vosotros: perseguíais
+  uds: perseguían
+futuro-simple:
+  yo: perseguiré
+  tu: perseguirás
+  vos: perseguirás
+  ud: perseguirá
+  nosotros: perseguiremos
+  vosotros: perseguiréis
+  uds: perseguirán
+condicional-simple:
+  yo: perseguiría
+  tu: perseguirías
+  vos: perseguirías
+  ud: perseguiría
+  nosotros: perseguiríamos
+  vosotros: perseguiríais
+  uds: perseguirían
+presente-perfecto:
+  yo: he perseguido
+  tu: has perseguido
+  vos: has perseguido
+  ud: ha perseguido
+  nosotros: hemos perseguido
+  vosotros: habéis perseguido
+  uds: han perseguido
+preterito-pluscuamperfecto:
+  yo: había perseguido
+  tu: habías perseguido
+  vos: habías perseguido
+  ud: había perseguido
+  nosotros: habíamos perseguido
+  vosotros: habíais perseguido
+  uds: habían perseguido
+futuro-perfecto:
+  yo: habré perseguido
+  tu: habrás perseguido
+  vos: habrás perseguido
+  ud: habrá perseguido
+  nosotros: habremos perseguido
+  vosotros: habréis perseguido
+  uds: habrán perseguido
+condicional-perfecto:
+  yo: habría perseguido
+  tu: habrías perseguido
+  vos: habrías perseguido
+  ud: habría perseguido
+  nosotros: habríamos perseguido
+  vosotros: habríais perseguido
+  uds: habrían perseguido
+presente-subjuntivo:
+  yo: persiga
+  tu: persigas
+  vos: persigas
+  ud: persiga
+  nosotros: persigamos
+  vosotros: persigáis
+  uds: persigan
+preterito-perfecto-subjuntivo:
+  yo: haya perseguido
+  tu: hayas perseguido
+  vos: hayas perseguido
+  ud: haya perseguido
+  nosotros: hayamos perseguido
+  vosotros: hayáis perseguido
+  uds: hayan perseguido
+imperfecto-subjuntivo:
+  yo:
+    - persiguiera
+    - persiguiese
+  tu:
+    - persiguieras
+    - persiguieses
+  vos:
+    - persiguieras
+    - persiguieses
+  ud:
+    - persiguiera
+    - persiguiese
+  nosotros:
+    - persiguiéramos
+    - persiguiésemos
+  vosotros:
+    - persiguierais
+    - persiguieseis
+  uds:
+    - persiguieran
+    - persiguiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera perseguido
+    - hubiese perseguido
+  tu:
+    - hubieras perseguido
+    - hubieses perseguido
+  vos:
+    - hubieras perseguido
+    - hubieses perseguido
+  ud:
+    - hubiera perseguido
+    - hubiese perseguido
+  nosotros:
+    - hubiéramos perseguido
+    - hubiésemos perseguido
+  vosotros:
+    - hubierais perseguido
+    - hubieseis perseguido
+  uds:
+    - hubieran perseguido
+    - hubiesen perseguido
+imperativo:
+  tu: persigue
+  vos: perseguid
+  ud: persiga
+  nosotros: persigamos
+  vosotros: perseguid
+  uds: persigan

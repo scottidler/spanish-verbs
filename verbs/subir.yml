@@ -1,0 +1,142 @@
+infinitivo: subir
+gerundio: subiendo
+participio-pasado: subido
+presente-indicativo:
+  yo: subo
+  tu: subes
+  vos: subís
+  ud: sube
+  nosotros: subimos
+  vosotros: subís
+  uds: suben
+preterito-perfecto-simple:
+  yo: subí
+  tu: subiste
+  vos: subiste
+  ud: subió
+  nosotros: subimos
+  vosotros: subisteis
+  uds: subieron
+preterito-imperfecto:
+  yo: subía
+  tu: subías
+  vos: subías
+  ud: subía
+  nosotros: subíamos
+  vosotros: subíais
+  uds: subían
+futuro-simple:
+  yo: subiré
+  tu: subirás
+  vos: subirás
+  ud: subirá
+  nosotros: subiremos
+  vosotros: subiréis
+  uds: subirán
+condicional-simple:
+  yo: subiría
+  tu: subirías
+  vos: subirías
+  ud: subiría
+  nosotros: subiríamos
+  vosotros: subiríais
+  uds: subirían
+presente-perfecto:
+  yo: he subido
+  tu: has subido
+  vos: has subido
+  ud: ha subido
+  nosotros: hemos subido
+  vosotros: habéis subido
+  uds: han subido
+preterito-pluscuamperfecto:
+  yo: había subido
+  tu: habías subido
+  vos: habías subido
+  ud: había subido
+  nosotros: habíamos subido
+  vosotros: habíais subido
+  uds: habían subido
+futuro-perfecto:
+  yo: habré subido
+  tu: habrás subido
+  vos: habrás subido
+  ud: habrá subido
+  nosotros: habremos subido
+  vosotros: habréis subido
+  uds: habrán subido
+condicional-perfecto:
+  yo: habría subido
+  tu: habrías subido
+  vos: habrías subido
+  ud: habría subido
+  nosotros: habríamos subido
+  vosotros: habríais subido
+  uds: habrían subido
+presente-subjuntivo:
+  yo: suba
+  tu: subas
+  vos: subas
+  ud: suba
+  nosotros: subamos
+  vosotros: subáis
+  uds: suban
+preterito-perfecto-subjuntivo:
+  yo: haya subido
+  tu: hayas subido
+  vos: hayas subido
+  ud: haya subido
+  nosotros: hayamos subido
+  vosotros: hayáis subido
+  uds: hayan subido
+imperfecto-subjuntivo:
+  yo:
+    - subiera
+    - subiese
+  tu:
+    - subieras
+    - subieses
+  vos:
+    - subieras
+    - subieses
+  ud:
+    - subiera
+    - subiese
+  nosotros:
+    - subiéramos
+    - subiésemos
+  vosotros:
+    - subierais
+    - subieseis
+  uds:
+    - subieran
+    - subiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera subido
+    - hubiese subido
+  tu:
+    - hubieras subido
+    - hubieses subido
+  vos:
+    - hubieras subido
+    - hubieses subido
+  ud:
+    - hubiera subido
+    - hubiese subido
+  nosotros:
+    - hubiéramos subido
+    - hubiésemos subido
+  vosotros:
+    - hubierais subido
+    - hubieseis subido
+  uds:
+    - hubieran subido
+    - hubiesen subido
+imperativo:
+  tu: sube
+  vos: subí
+  ud: suba
+  nosotros: subamos
+  vosotros: subid
+  uds: suban

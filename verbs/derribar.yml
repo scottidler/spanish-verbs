@@ -1,0 +1,142 @@
+infinitivo: derribar
+gerundio: derribando
+participio-pasado: derribado
+presente-indicativo:
+  yo: derribo
+  tu: derribas
+  vos: derribás
+  ud: derriba
+  nosotros: derribamos
+  vosotros: derribáis
+  uds: derriban
+preterito-perfecto-simple:
+  yo: derribé
+  tu: derribaste
+  vos: derribaste
+  ud: derribó
+  nosotros: derribamos
+  vosotros: derribasteis
+  uds: derribaron
+preterito-imperfecto:
+  yo: derribaba
+  tu: derribabas
+  vos: derribabas
+  ud: derribaba
+  nosotros: derribábamos
+  vosotros: derribabais
+  uds: derribaban
+futuro-simple:
+  yo: derribaré
+  tu: derribarás
+  vos: derribarás
+  ud: derribará
+  nosotros: derribaremos
+  vosotros: derribaréis
+  uds: derribarán
+condicional-simple:
+  yo: derribaría
+  tu: derribarías
+  vos: derribarías
+  ud: derribaría
+  nosotros: derribaríamos
+  vosotros: derribaríais
+  uds: derribarían
+presente-perfecto:
+  yo: he derribado
+  tu: has derribado
+  vos: has derribado
+  ud: ha derribado
+  nosotros: hemos derribado
+  vosotros: habéis derribado
+  uds: han derribado
+preterito-pluscuamperfecto:
+  yo: había derribado
+  tu: habías derribado
+  vos: habías derribado
+  ud: había derribado
+  nosotros: habíamos derribado
+  vosotros: habíais derribado
+  uds: habían derribado
+futuro-perfecto:
+  yo: habré derribado
+  tu: habrás derribado
+  vos: habrás derribado
+  ud: habrá derribado
+  nosotros: habremos derribado
+  vosotros: habréis derribado
+  uds: habrán derribado
+condicional-perfecto:
+  yo: habría derribado
+  tu: habrías derribado
+  vos: habrías derribado
+  ud: habría derribado
+  nosotros: habríamos derribado
+  vosotros: habríais derribado
+  uds: habrían derribado
+presente-subjuntivo:
+  yo: derribe
+  tu: derribes
+  vos: derribes
+  ud: derribe
+  nosotros: derribemos
+  vosotros: derribéis
+  uds: derriben
+preterito-perfecto-subjuntivo:
+  yo: haya derribado
+  tu: hayas derribado
+  vos: hayas derribado
+  ud: haya derribado
+  nosotros: hayamos derribado
+  vosotros: hayáis derribado
+  uds: hayan derribado
+imperfecto-subjuntivo:
+  yo:
+    - derribara
+    - derribase
+  tu:
+    - derribaras
+    - derribases
+  vos:
+    - derribaras
+    - derribases
+  ud:
+    - derribara
+    - derribase
+  nosotros:
+    - derribáramos
+    - derribásemos
+  vosotros:
+    - derribarais
+    - derribaseis
+  uds:
+    - derribaran
+    - derribasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera derribado
+    - hubiese derribado
+  tu:
+    - hubieras derribado
+    - hubieses derribado
+  vos:
+    - hubieras derribado
+    - hubieses derribado
+  ud:
+    - hubiera derribado
+    - hubiese derribado
+  nosotros:
+    - hubiéramos derribado
+    - hubiésemos derribado
+  vosotros:
+    - hubierais derribado
+    - hubieseis derribado
+  uds:
+    - hubieran derribado
+    - hubiesen derribado
+imperativo:
+  tu: derriba
+  vos: derribá
+  ud: derriba
+  nosotros: derribemos
+  vosotros: derribad
+  uds: derriben

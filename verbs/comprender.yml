@@ -1,0 +1,142 @@
+infinitivo: comprender
+gerundio: comprendiendo
+participio-pasado: comprendido
+presente-indicativo:
+  yo: comprendo
+  tu: comprendes
+  vos: comprendes
+  ud: comprende
+  nosotros: comprendemos
+  vosotros: comprendéis
+  uds: comprenden
+preterito-perfecto-simple:
+  yo: comprendí
+  tu: comprendiste
+  vos: comprendiste
+  ud: comprendió
+  nosotros: comprendimos
+  vosotros: comprendisteis
+  uds: comprendieron
+preterito-imperfecto:
+  yo: comprendía
+  tu: comprendías
+  vos: comprendías
+  ud: comprendía
+  nosotros: comprendíamos
+  vosotros: comprendíais
+  uds: comprendían
+futuro-simple:
+  yo: comprenderé
+  tu: comprenderás
+  vos: comprenderás
+  ud: comprenderá
+  nosotros: comprenderemos
+  vosotros: comprenderéis
+  uds: comprenderán
+condicional-simple:
+  yo: comprendería
+  tu: comprenderías
+  vos: comprenderías
+  ud: comprendería
+  nosotros: comprenderíamos
+  vosotros: comprenderíais
+  uds: comprenderían
+presente-perfecto:
+  yo: he comprendido
+  tu: has comprendido
+  vos: has comprendido
+  ud: ha comprendido
+  nosotros: hemos comprendido
+  vosotros: habéis comprendido
+  uds: han comprendido
+preterito-pluscuamperfecto:
+  yo: había comprendido
+  tu: habías comprendido
+  vos: habías comprendido
+  ud: había comprendido
+  nosotros: habíamos comprendido
+  vosotros: habíais comprendido
+  uds: habían comprendido
+futuro-perfecto:
+  yo: habré comprendido
+  tu: habrás comprendido
+  vos: habrás comprendido
+  ud: habrá comprendido
+  nosotros: habremos comprendido
+  vosotros: habréis comprendido
+  uds: habrán comprendido
+condicional-perfecto:
+  yo: habría comprendido
+  tu: habrías comprendido
+  vos: habrías comprendido
+  ud: habría comprendido
+  nosotros: habríamos comprendido
+  vosotros: habríais comprendido
+  uds: habrían comprendido
+presente-subjuntivo:
+  yo: comprenda
+  tu: comprendas
+  vos: comprendas
+  ud: comprenda
+  nosotros: comprendamos
+  vosotros: comprendáis
+  uds: comprendan
+preterito-perfecto-subjuntivo:
+  yo: haya comprendido
+  tu: hayas comprendido
+  vos: hayas comprendido
+  ud: haya comprendido
+  nosotros: hayamos comprendido
+  vosotros: hayáis comprendido
+  uds: hayan comprendido
+imperfecto-subjuntivo:
+  yo:
+    - comprendiera
+    - comprendiese
+  tu:
+    - comprendieras
+    - comprendieses
+  vos:
+    - comprendieras
+    - comprendieses
+  ud:
+    - comprendiera
+    - comprendiese
+  nosotros:
+    - comprendiéramos
+    - comprendiésemos
+  vosotros:
+    - comprendierais
+    - comprendieseis
+  uds:
+    - comprendieran
+    - comprendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera comprendido
+    - hubiese comprendido
+  tu:
+    - hubieras comprendido
+    - hubieses comprendido
+  vos:
+    - hubieras comprendido
+    - hubieses comprendido
+  ud:
+    - hubiera comprendido
+    - hubiese comprendido
+  nosotros:
+    - hubiéramos comprendido
+    - hubiésemos comprendido
+  vosotros:
+    - hubierais comprendido
+    - hubieseis comprendido
+  uds:
+    - hubieran comprendido
+    - hubiesen comprendido
+imperativo:
+  tu: comprende
+  vos: comprendé
+  ud: comprenda
+  nosotros: comprendamos
+  vosotros: comprended
+  uds: comprendan

@@ -1,0 +1,142 @@
+infinitivo: desembocar
+gerundio: desembocando
+participio-pasado: desembocado
+presente-indicativo:
+  yo: desemboque
+  tu: desembocas
+  vos: desembocás
+  ud: desemboca
+  nosotros: desembocamos
+  vosotros: desembocáis
+  uds: desembocan
+preterito-perfecto-simple:
+  yo: desemboqué
+  tu: desembocaste
+  vos: desembocaste
+  ud: desembocó
+  nosotros: desembocamos
+  vosotros: desembocasteis
+  uds: desembocaron
+preterito-imperfecto:
+  yo: desembocaba
+  tu: desembocabas
+  vos: desembocabas
+  ud: desembocaba
+  nosotros: desembocábamos
+  vosotros: desembocabais
+  uds: desembocaban
+futuro-simple:
+  yo: desembocaré
+  tu: desembocarás
+  vos: desembocarás
+  ud: desembocará
+  nosotros: desembocaremos
+  vosotros: desembocaréis
+  uds: desembocarán
+condicional-simple:
+  yo: desembocaría
+  tu: desembocarías
+  vos: desembocarías
+  ud: desembocaría
+  nosotros: desembocaríamos
+  vosotros: desembocaríais
+  uds: desembocarían
+presente-perfecto:
+  yo: he desembocado
+  tu: has desembocado
+  vos: has desembocado
+  ud: ha desembocado
+  nosotros: hemos desembocado
+  vosotros: habéis desembocado
+  uds: han desembocado
+preterito-pluscuamperfecto:
+  yo: había desembocado
+  tu: habías desembocado
+  vos: habías desembocado
+  ud: había desembocado
+  nosotros: habíamos desembocado
+  vosotros: habíais desembocado
+  uds: habían desembocado
+futuro-perfecto:
+  yo: habré desembocado
+  tu: habrás desembocado
+  vos: habrás desembocado
+  ud: habrá desembocado
+  nosotros: habremos desembocado
+  vosotros: habréis desembocado
+  uds: habrán desembocado
+condicional-perfecto:
+  yo: habría desembocado
+  tu: habrías desembocado
+  vos: habrías desembocado
+  ud: habría desembocado
+  nosotros: habríamos desembocado
+  vosotros: habríais desembocado
+  uds: habrían desembocado
+presente-subjuntivo:
+  yo: desemboque
+  tu: desemboques
+  vos: desemboques
+  ud: desemboque
+  nosotros: desemboquemos
+  vosotros: desemboquéis
+  uds: desemboquen
+preterito-perfecto-subjuntivo:
+  yo: haya desembocado
+  tu: hayas desembocado
+  vos: hayas desembocado
+  ud: haya desembocado
+  nosotros: hayamos desembocado
+  vosotros: hayáis desembocado
+  uds: hayan desembocado
+imperfecto-subjuntivo:
+  yo:
+    - desembocara
+    - desembocase
+  tu:
+    - desembo caras
+    - desembocases
+  vos:
+    - desembocaras
+    - desembocases
+  ud:
+    - desembocara
+    - desembocase
+  nosotros:
+    - desembocáramos
+    - desembocásemos
+  vosotros:
+    - desembocarais
+    - desembocaseis
+  uds:
+    - desembocaran
+    - desembocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desembocado
+    - hubiese desembocado
+  tu:
+    - hubieras desembocado
+    - hubieses desembocado
+  vos:
+    - hubieras desembocado
+    - hubieses desembocado
+  ud:
+    - hubiera desembocado
+    - hubiese desembocado
+  nosotros:
+    - hubiéramos desembocado
+    - hubiésemos desembocado
+  vosotros:
+    - hubierais desembocado
+    - hubieseis desembocado
+  uds:
+    - hubieran desembocado
+    - hubiesen desembocado
+imperativo:
+  tu: desemboca
+  vos: desembocá
+  ud: desemboque
+  nosotros: desemboquemos
+  vosotros: desembocad
+  uds: desemboquen

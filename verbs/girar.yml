@@ -1,0 +1,142 @@
+infinitivo: girar
+gerundio: girando
+participio-pasado: girado
+presente-indicativo:
+  yo: giro
+  tu: giras
+  vos: girás
+  ud: gira
+  nosotros: giramos
+  vosotros: giráis
+  uds: giran
+preterito-perfecto-simple:
+  yo: giré
+  tu: giraste
+  vos: giraste
+  ud: giró
+  nosotros: giramos
+  vosotros: girasteis
+  uds: giraron
+preterito-imperfecto:
+  yo: giraba
+  tu: girabas
+  vos: girabas
+  ud: giraba
+  nosotros: girábamos
+  vosotros: girabais
+  uds: giraban
+futuro-simple:
+  yo: giraré
+  tu: girarás
+  vos: girarás
+  ud: girará
+  nosotros: giraremos
+  vosotros: giraréis
+  uds: girarán
+condicional-simple:
+  yo: giraría
+  tu: girarías
+  vos: girarías
+  ud: giraría
+  nosotros: giraríamos
+  vosotros: giraríais
+  uds: girarían
+presente-perfecto:
+  yo: he girado
+  tu: has girado
+  vos: has girado
+  ud: ha girado
+  nosotros: hemos girado
+  vosotros: habéis girado
+  uds: han girado
+preterito-pluscuamperfecto:
+  yo: había girado
+  tu: habías girado
+  vos: habías girado
+  ud: había girado
+  nosotros: habíamos girado
+  vosotros: habíais girado
+  uds: habían girado
+futuro-perfecto:
+  yo: habré girado
+  tu: habrás girado
+  vos: habrás girado
+  ud: habrá girado
+  nosotros: habremos girado
+  vosotros: habréis girado
+  uds: habrán girado
+condicional-perfecto:
+  yo: habría girado
+  tu: habrías girado
+  vos: habrías girado
+  ud: habría girado
+  nosotros: habríamos girado
+  vosotros: habríais girado
+  uds: habrían girado
+presente-subjuntivo:
+  yo: gire
+  tu: gires
+  vos: gires
+  ud: gire
+  nosotros: giremos
+  vosotros: giréis
+  uds: giren
+preterito-perfecto-subjuntivo:
+  yo: haya girado
+  tu: hayas girado
+  vos: hayas girado
+  ud: haya girado
+  nosotros: hayamos girado
+  vosotros: hayáis girado
+  uds: hayan girado
+imperfecto-subjuntivo:
+  yo:
+    - girara
+    - girase
+  tu:
+    - giraras
+    - girases
+  vos:
+    - giraras
+    - girases
+  ud:
+    - girara
+    - girase
+  nosotros:
+    - giráramos
+    - girásemos
+  vosotros:
+    - girarais
+    - giraseis
+  uds:
+    - giraran
+    - girasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera girado
+    - hubiese girado
+  tu:
+    - hubieras girado
+    - hubieses girado
+  vos:
+    - hubieras girado
+    - hubieses girado
+  ud:
+    - hubiera girado
+    - hubiese girado
+  nosotros:
+    - hubiéramos girado
+    - hubiésemos girado
+  vosotros:
+    - hubierais girado
+    - hubieseis girado
+  uds:
+    - hubieran girado
+    - hubiesen girado
+imperativo:
+  tu: gira
+  vos: girá
+  ud: gire
+  nosotros: giremos
+  vosotros: girad
+  uds: giren

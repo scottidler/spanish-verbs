@@ -1,0 +1,142 @@
+infinitivo: dudar
+gerundio: dudando
+participio-pasado: dudado
+presente-indicativo:
+  yo: dudo
+  tu: dudas
+  vos: dudás
+  ud: duda
+  nosotros: dudamos
+  vosotros: dudáis
+  uds: dudan
+preterito-perfecto-simple:
+  yo: dudé
+  tu: dudaste
+  vos: dudaste
+  ud: dudó
+  nosotros: dudamos
+  vosotros: dudasteis
+  uds: dudaron
+preterito-imperfecto:
+  yo: dudaba
+  tu: dudabas
+  vos: dudabas
+  ud: dudaba
+  nosotros: dudábamos
+  vosotros: dudabais
+  uds: dudaban
+futuro-simple:
+  yo: dudaré
+  tu: dudarás
+  vos: dudarás
+  ud: dudará
+  nosotros: dudaremos
+  vosotros: dudaréis
+  uds: dudarán
+condicional-simple:
+  yo: dudaría
+  tu: dudarías
+  vos: dudarías
+  ud: dudaría
+  nosotros: dudaríamos
+  vosotros: dudaríais
+  uds: dudarían
+presente-perfecto:
+  yo: he dudado
+  tu: has dudado
+  vos: has dudado
+  ud: ha dudado
+  nosotros: hemos dudado
+  vosotros: habéis dudado
+  uds: han dudado
+preterito-pluscuamperfecto:
+  yo: había dudado
+  tu: habías dudado
+  vos: habías dudado
+  ud: había dudado
+  nosotros: habíamos dudado
+  vosotros: habíais dudado
+  uds: habían dudado
+futuro-perfecto:
+  yo: habré dudado
+  tu: habrás dudado
+  vos: habrás dudado
+  ud: habrá dudado
+  nosotros: habremos dudado
+  vosotros: habréis dudado
+  uds: habrán dudado
+condicional-perfecto:
+  yo: habría dudado
+  tu: habrías dudado
+  vos: habrías dudado
+  ud: habría dudado
+  nosotros: habríamos dudado
+  vosotros: habríais dudado
+  uds: habrían dudado
+presente-subjuntivo:
+  yo: dude
+  tu: dudes
+  vos: dudes
+  ud: dude
+  nosotros: dudemos
+  vosotros: dudéis
+  uds: dudes
+preterito-perfecto-subjuntivo:
+  yo: haya dudado
+  tu: hayas dudado
+  vos: hayas dudado
+  ud: haya dudado
+  nosotros: hayamos dudado
+  vosotros: hayáis dudado
+  uds: hayan dudado
+imperfecto-subjuntivo:
+  yo:
+    - dudara
+    - dudase
+  tu:
+    - dudaras
+    - dudases
+  vos:
+    - dudaras
+    - dudases
+  ud:
+    - dudara
+    - dudase
+  nosotros:
+    - dudáramos
+    - dudásemos
+  vosotros:
+    - dudarais
+    - dudaseis
+  uds:
+    - dudaran
+    - dudasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dudado
+    - hubiese dudado
+  tu:
+    - hubieras dudado
+    - hubieses dudado
+  vos:
+    - hubieras dudado
+    - hubieses dudado
+  ud:
+    - hubiera dudado
+    - hubiese dudado
+  nosotros:
+    - hubiéramos dudado
+    - hubiésemos dudado
+  vosotros:
+    - hubierais dudado
+    - hubieseis dudado
+  uds:
+    - hubieran dudado
+    - hubiesen dudado
+imperativo:
+  tu: duda
+  vos: dudá
+  ud: dude
+  nosotros: dudemos
+  vosotros: dudad
+  uds: dudes

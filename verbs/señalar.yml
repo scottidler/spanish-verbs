@@ -1,0 +1,142 @@
+infinitivo: señalar
+gerundio: señalando
+participio-pasado: señalado
+presente-indicativo:
+  yo: señalo
+  tu: señalas
+  vos: señalás
+  ud: señala
+  nosotros: señalamos
+  vosotros: señaláis
+  uds: señalan
+preterito-perfecto-simple:
+  yo: señalé
+  tu: señalaste
+  vos: señalaste
+  ud: señaló
+  nosotros: señalamos
+  vosotros: señalasteis
+  uds: señalaron
+preterito-imperfecto:
+  yo: señalaba
+  tu: señalabas
+  vos: señalabas
+  ud: señalaba
+  nosotros: señalábamos
+  vosotros: señalabais
+  uds: señalaban
+futuro-simple:
+  yo: señalaré
+  tu: señalarás
+  vos: señalarás
+  ud: señalará
+  nosotros: señalaremos
+  vosotros: señalaréis
+  uds: señalarán
+condicional-simple:
+  yo: señalaría
+  tu: señalarías
+  vos: señalarías
+  ud: señalaría
+  nosotros: señalaríamos
+  vosotros: señalaríais
+  uds: señalarían
+presente-perfecto:
+  yo: he señalado
+  tu: has señalado
+  vos: has señalado
+  ud: ha señalado
+  nosotros: hemos señalado
+  vosotros: habéis señalado
+  uds: han señalado
+preterito-pluscuamperfecto:
+  yo: había señalado
+  tu: habías señalado
+  vos: habías señalado
+  ud: había señalado
+  nosotros: habíamos señalado
+  vosotros: habíais señalado
+  uds: habían señalado
+futuro-perfecto:
+  yo: habré señalado
+  tu: habrás señalado
+  vos: habrás señalado
+  ud: habrá señalado
+  nosotros: habremos señalado
+  vosotros: habréis señalado
+  uds: habrán señalado
+condicional-perfecto:
+  yo: habría señalado
+  tu: habrías señalado
+  vos: habrías señalado
+  ud: habría señalado
+  nosotros: habríamos señalado
+  vosotros: habríais señalado
+  uds: habrían señalado
+presente-subjuntivo:
+  yo: señale
+  tu: señales
+  vos: señales
+  ud: señale
+  nosotros: señalemos
+  vosotros: señaléis
+  uds: señalen
+preterito-perfecto-subjuntivo:
+  yo: haya señalado
+  tu: hayas señalado
+  vos: hayas señalado
+  ud: haya señalado
+  nosotros: hayamos señalado
+  vosotros: hayáis señalado
+  uds: hayan señalado
+imperfecto-subjuntivo:
+  yo:
+    - señalara
+    - señalase
+  tu:
+    - señalaras
+    - señalases
+  vos:
+    - señalaras
+    - señalases
+  ud:
+    - señalara
+    - señalase
+  nosotros:
+    - señaláramos
+    - señalásemos
+  vosotros:
+    - señalarais
+    - señalaseis
+  uds:
+    - señalaran
+    - señalasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera señalado
+    - hubiese señalado
+  tu:
+    - hubieras señalado
+    - hubieses señalado
+  vos:
+    - hubieras señalado
+    - hubieses señalado
+  ud:
+    - hubiera señalado
+    - hubiese señalado
+  nosotros:
+    - hubiéramos señalado
+    - hubiésemos señalado
+  vosotros:
+    - hubierais señalado
+    - hubieseis señalado
+  uds:
+    - hubieran señalado
+    - hubiesen señalado
+imperativo:
+  tu: señala
+  vos: señalá
+  ud: señale
+  nosotros: señalemos
+  vosotros: señalad
+  uds: señalen

@@ -1,0 +1,142 @@
+infinitivo: considerar
+gerundio: considerando
+participio-pasado: considerado
+presente-indicativo:
+  yo: considero
+  tu: consideras
+  vos: considerás
+  ud: considera
+  nosotros: consideramos
+  vosotros: consideráis
+  uds: consideran
+preterito-perfecto-simple:
+  yo: consideré
+  tu: consideraste
+  vos: consideraste
+  ud: consideró
+  nosotros: consideramos
+  vosotros: considerasteis
+  uds: consideraron
+preterito-imperfecto:
+  yo: consideraba
+  tu: considerabas
+  vos: considerabas
+  ud: consideraba
+  nosotros: considerábamos
+  vosotros: considerabais
+  uds: consideraban
+futuro-simple:
+  yo: consideraré
+  tu: considerarás
+  vos: considerarás
+  ud: considerará
+  nosotros: consideraremos
+  vosotros: consideraréis
+  uds: considerarán
+condicional-simple:
+  yo: consideraría
+  tu: considerarías
+  vos: considerarías
+  ud: consideraría
+  nosotros: consideraríamos
+  vosotros: consideraríais
+  uds: considerarían
+presente-perfecto:
+  yo: he considerado
+  tu: has considerado
+  vos: has considerado
+  ud: ha considerado
+  nosotros: hemos considerado
+  vosotros: habéis considerado
+  uds: han considerado
+preterito-pluscuamperfecto:
+  yo: había considerado
+  tu: habías considerado
+  vos: habías considerado
+  ud: había considerado
+  nosotros: habíamos considerado
+  vosotros: habíais considerado
+  uds: habían considerado
+futuro-perfecto:
+  yo: habré considerado
+  tu: habrás considerado
+  vos: habrás considerado
+  ud: habrá considerado
+  nosotros: habremos considerado
+  vosotros: habréis considerado
+  uds: habrán considerado
+condicional-perfecto:
+  yo: habría considerado
+  tu: habrías considerado
+  vos: habrías considerado
+  ud: habría considerado
+  nosotros: habríamos considerado
+  vosotros: habríais considerado
+  uds: habrían considerado
+presente-subjuntivo:
+  yo: considere
+  tu: considers
+  vos: considers
+  ud: considere
+  nosotros: consideremos
+  vosotros: consideréis
+  uds: consideren
+preterito-perfecto-subjuntivo:
+  yo: haya considerado
+  tu: hayas considerado
+  vos: hayas considerado
+  ud: haya considerado
+  nosotros: hayamos considerado
+  vosotros: hayáis considerado
+  uds: hayan considerado
+imperfecto-subjuntivo:
+  yo:
+    - considerara
+    - considerase
+  tu:
+    - consideraras
+    - considerases
+  vos:
+    - consideraras
+    - considerases
+  ud:
+    - considerara
+    - considerase
+  nosotros:
+    - consideráramos
+    - considerásemos
+  vosotros:
+    - considerarais
+    - consideraseis
+  uds:
+    - consideraran
+    - considerasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera considerado
+    - hubiese considerado
+  tu:
+    - hubieras considerado
+    - hubieses considerado
+  vos:
+    - hubieras considerado
+    - hubieses considerado
+  ud:
+    - hubiera considerado
+    - hubiese considerado
+  nosotros:
+    - hubiéramos considerado
+    - hubiésemos considerado
+  vosotros:
+    - hubierais considerado
+    - hubieseis considerado
+  uds:
+    - hubieran considerado
+    - hubiesen considerado
+imperativo:
+  tu: considera
+  vos: considerá
+  ud: considere
+  nosotros: consideremos
+  vosotros: considerad
+  uds: consideren

@@ -1,0 +1,142 @@
+infinitivo: nevar
+gerundio: nevando
+participio-pasado: nevado
+presente-indicativo:
+  yo: nevo
+  tu: nevas
+  vos: nevás
+  ud: neva
+  nosotros: nevamos
+  vosotros: neváis
+  uds: nevan
+preterito-perfecto-simple:
+  yo: nevé
+  tu: nevaste
+  vos: nevaste
+  ud: nevó
+  nosotros: nevamos
+  vosotros: nevasteis
+  uds: nevaron
+preterito-imperfecto:
+  yo: nevaba
+  tu: nevabas
+  vos: nevabas
+  ud: nevaba
+  nosotros: nevábamos
+  vosotros: nevabais
+  uds: nevaban
+futuro-simple:
+  yo: nevaré
+  tu: nevarás
+  vos: nevarás
+  ud: nevará
+  nosotros: nevaremos
+  vosotros: nevaréis
+  uds: nevarán
+condicional-simple:
+  yo: nevaría
+  tu: nevarías
+  vos: nevarías
+  ud: nevaría
+  nosotros: nevaríamos
+  vosotros: nevaríais
+  uds: nevarían
+presente-perfecto:
+  yo: he nevado
+  tu: has nevado
+  vos: has nevado
+  ud: ha nevado
+  nosotros: hemos nevado
+  vosotros: habéis nevado
+  uds: han nevado
+preterito-pluscuamperfecto:
+  yo: había nevado
+  tu: habías nevado
+  vos: habías nevado
+  ud: había nevado
+  nosotros: habíamos nevado
+  vosotros: habíais nevado
+  uds: habían nevado
+futuro-perfecto:
+  yo: habré nevado
+  tu: habrás nevado
+  vos: habrás nevado
+  ud: habrá nevado
+  nosotros: habremos nevado
+  vosotros: habréis nevado
+  uds: habrán nevado
+condicional-perfecto:
+  yo: habría nevado
+  tu: habrías nevado
+  vos: habrías nevado
+  ud: habría nevado
+  nosotros: habríamos nevado
+  vosotros: habríais nevado
+  uds: habrían nevado
+presente-subjuntivo:
+  yo: neve
+  tu: neves
+  vos: neves
+  ud: neve
+  nosotros: nevemos
+  vosotros: nevéis
+  uds: neven
+preterito-perfecto-subjuntivo:
+  yo: haya nevado
+  tu: hayas nevado
+  vos: hayas nevado
+  ud: haya nevado
+  nosotros: hayamos nevado
+  vosotros: hayáis nevado
+  uds: hayan nevado
+imperfecto-subjuntivo:
+  yo:
+    - nevara
+    - nevase
+  tu:
+    - nevaras
+    - nevases
+  vos:
+    - nevaras
+    - nevases
+  ud:
+    - nevara
+    - nevase
+  nosotros:
+    - neváramos
+    - nevásemos
+  vosotros:
+    - nevarais
+    - nevaseis
+  uds:
+    - nevaran
+    - nevasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera nevado
+    - hubiese nevado
+  tu:
+    - hubieras nevado
+    - hubieses nevado
+  vos:
+    - hubieras nevado
+    - hubieses nevado
+  ud:
+    - hubiera nevado
+    - hubiese nevado
+  nosotros:
+    - hubiéramos nevado
+    - hubiésemos nevado
+  vosotros:
+    - hubierais nevado
+    - hubieseis nevado
+  uds:
+    - hubieran nevado
+    - hubiesen nevado
+imperativo:
+  tu: nieva
+  vos: nevá
+  ud: neve
+  nosotros: nevemos
+  vosotros: nevad
+  uds: neven

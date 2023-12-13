@@ -1,0 +1,142 @@
+infinitivo: crear
+gerundio: creando
+participio-pasado: creado
+presente-indicativo:
+  yo: creo
+  tu: creas
+  vos: creas
+  ud: crea
+  nosotros: creamos
+  vosotros: creáis
+  uds: crean
+preterito-perfecto-simple:
+  yo: creé
+  tu: creaste
+  vos: creaste
+  ud: creó
+  nosotros: creamos
+  vosotros: creasteis
+  uds: crearon
+preterito-imperfecto:
+  yo: creaba
+  tu: creabas
+  vos: creabas
+  ud: creaba
+  nosotros: creábamos
+  vosotros: creabais
+  uds: creaban
+futuro-simple:
+  yo: crearé
+  tu: crearás
+  vos: crearás
+  ud: creará
+  nosotros: crearemos
+  vosotros: crearéis
+  uds: crearán
+condicional-simple:
+  yo: crearía
+  tu: crearías
+  vos: crearías
+  ud: crearía
+  nosotros: crearíamos
+  vosotros: crearíais
+  uds: crearían
+presente-perfecto:
+  yo: he creado
+  tu: has creado
+  vos: has creado
+  ud: ha creado
+  nosotros: hemos creado
+  vosotros: habéis creado
+  uds: han creado
+preterito-pluscuamperfecto:
+  yo: había creado
+  tu: habías creado
+  vos: habías creado
+  ud: había creado
+  nosotros: habíamos creado
+  vosotros: habíais creado
+  uds: habían creado
+futuro-perfecto:
+  yo: habré creado
+  tu: habrás creado
+  vos: habrás creado
+  ud: habrá creado
+  nosotros: habremos creado
+  vosotros: habréis creado
+  uds: habrán creado
+condicional-perfecto:
+  yo: habría creado
+  tu: habrías creado
+  vos: habrías creado
+  ud: habría creado
+  nosotros: habríamos creado
+  vosotros: habríais creado
+  uds: habrían creado
+presente-subjuntivo:
+  yo: crea
+  tu: creas
+  vos: creas
+  ud: crea
+  nosotros: creemos
+  vosotros: creéis
+  uds: crean
+preterito-perfecto-subjuntivo:
+  yo: haya creado
+  tu: hayas creado
+  vos: hayas creado
+  ud: haya creado
+  nosotros: hayamos creado
+  vosotros: hayáis creado
+  uds: hayan creado
+imperfecto-subjuntivo:
+  yo:
+    - creara
+    - crease
+  tu:
+    - crearas
+    - creases
+  vos:
+    - crearas
+    - creases
+  ud:
+    - creara
+    - crease
+  nosotros:
+    - creáramos
+    - creásemos
+  vosotros:
+    - crearais
+    - creaseis
+  uds:
+    - crearan
+    - creasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera creado
+    - hubiese creado
+  tu:
+    - hubieras creado
+    - hubieses creado
+  vos:
+    - hubieras creado
+    - hubieses creado
+  ud:
+    - hubiera creado
+    - hubiese creado
+  nosotros:
+    - hubiéramos creado
+    - hubiésemos creado
+  vosotros:
+    - hubierais creado
+    - hubieseis creado
+  uds:
+    - hubieran creado
+    - hubiesen creado
+imperativo:
+  tu: crea
+  vos: creá
+  ud: crea
+  nosotros: creemos
+  vosotros: cread
+  uds: crean

@@ -1,0 +1,142 @@
+infinitivo: sonar
+gerundio: sonando
+participio-pasado: sonado
+presente-indicativo:
+  yo: sueno
+  tu: suenas
+  vos: sonas
+  ud: suena
+  nosotros: sonamos
+  vosotros: sonáis
+  uds: suenan
+preterito-perfecto-simple:
+  yo: soné
+  tu: sonaste
+  vos: sonaste
+  ud: sonó
+  nosotros: sonamos
+  vosotros: sonasteis
+  uds: sonaron
+preterito-imperfecto:
+  yo: sonaba
+  tu: sonabas
+  vos: sonabas
+  ud: sonaba
+  nosotros: sonábamos
+  vosotros: sonabais
+  uds: sonaban
+futuro-simple:
+  yo: sonaré
+  tu: sonarás
+  vos: sonarás
+  ud: sonará
+  nosotros: sonaremos
+  vosotros: sonaréis
+  uds: sonarán
+condicional-simple:
+  yo: sonaría
+  tu: sonarías
+  vos: sonarías
+  ud: sonaría
+  nosotros: sonaríamos
+  vosotros: sonaríais
+  uds: sonarían
+presente-perfecto:
+  yo: he sonado
+  tu: has sonado
+  vos: has sonado
+  ud: ha sonado
+  nosotros: hemos sonado
+  vosotros: habéis sonado
+  uds: han sonado
+preterito-pluscuamperfecto:
+  yo: había sonado
+  tu: habías sonado
+  vos: habías sonado
+  ud: había sonado
+  nosotros: habíamos sonado
+  vosotros: habíais sonado
+  uds: habían sonado
+futuro-perfecto:
+  yo: habré sonado
+  tu: habrás sonado
+  vos: habrás sonado
+  ud: habrá sonado
+  nosotros: habremos sonado
+  vosotros: habréis sonado
+  uds: habrán sonado
+condicional-perfecto:
+  yo: habría sonado
+  tu: habrías sonado
+  vos: habrías sonado
+  ud: habría sonado
+  nosotros: habríamos sonado
+  vosotros: habríais sonado
+  uds: habrían sonado
+presente-subjuntivo:
+  yo: suene
+  tu: suenes
+  vos: suenes
+  ud: suene
+  nosotros: sonemos
+  vosotros: sonéis
+  uds: suenen
+preterito-perfecto-subjuntivo:
+  yo: haya sonado
+  tu: hayas sonado
+  vos: hayas sonado
+  ud: haya sonado
+  nosotros: hayamos sonado
+  vosotros: hayáis sonado
+  uds: hayan sonado
+imperfecto-subjuntivo:
+  yo:
+    - sonara
+    - sonase
+  tu:
+    - sonaras
+    - sonases
+  vos:
+    - sonaras
+    - sonases
+  ud:
+    - sonara
+    - sonase
+  nosotros:
+    - sonáramos
+    - sonásemos
+  vosotros:
+    - sonarais
+    - sonaseis
+  uds:
+    - sonaran
+    - sonasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sonado
+    - hubiese sonado
+  tu:
+    - hubieras sonado
+    - hubieses sonado
+  vos:
+    - hubieras sonado
+    - hubieses sonado
+  ud:
+    - hubiera sonado
+    - hubiese sonado
+  nosotros:
+    - hubiéramos sonado
+    - hubiésemos sonado
+  vosotros:
+    - hubierais sonado
+    - hubieseis sonado
+  uds:
+    - hubieran sonado
+    - hubiesen sonado
+imperativo:
+  tu: suena
+  vos: suená
+  ud: suene
+  nosotros: sonemos
+  vosotros: sonad
+  uds: suenen

@@ -1,0 +1,156 @@
+infinitivo: renovar
+gerundio: renovando
+participio-pasado: renovado
+
+presente-indicativo:
+  yo: renuevo
+  tu: renuevas
+  vos: renovás
+  ud: renueva
+  nosotros: renovamos
+  vosotros: renováis
+  uds: renuevan
+
+preterito-perfecto-simple:
+  yo: renové
+  tu: renovaste
+  vos: renovaste
+  ud: renovó
+  nosotros: renovamos
+  vosotros: renovasteis
+  uds: renovaron
+
+preterito-imperfecto:
+  yo: renovaba
+  tu: renovabas
+  vos: renovabas
+  ud: renovaba
+  nosotros: renovábamos
+  vosotros: renovabais
+  uds: renovaban
+
+futuro-simple:
+  yo: renovaré
+  tu: renovarás
+  vos: renovarás
+  ud: renovará
+  nosotros: renovaremos
+  vosotros: renovaréis
+  uds: renovarán
+
+condicional-simple:
+  yo: renovaría
+  tu: renovarías
+  vos: renovarías
+  ud: renovaría
+  nosotros: renovaríamos
+  vosotros: renovaríais
+  uds: renovarían
+
+presente-perfecto:
+  yo: he renovado
+  tu: has renovado
+  vos: has renovado
+  ud: ha renovado
+  nosotros: hemos renovado
+  vosotros: habéis renovado
+  uds: han renovado
+
+preterito-pluscuamperfecto:
+  yo: había renovado
+  tu: habías renovado
+  vos: habías renovado
+  ud: había renovado
+  nosotros: habíamos renovado
+  vosotros: habíais renovado
+  uds: habían renovado
+
+futuro-perfecto:
+  yo: habré renovado
+  tu: habrás renovado
+  vos: habrás renovado
+  ud: habrá renovado
+  nosotros: habremos renovado
+  vosotros: habréis renovado
+  uds: habrán renovado
+
+condicional-perfecto:
+  yo: habría renovado
+  tu: habrías renovado
+  vos: habrías renovado
+  ud: habría renovado
+  nosotros: habríamos renovado
+  vosotros: habríais renovado
+  uds: habrían renovado
+
+presente-subjuntivo:
+  yo: renueve
+  tu: renueves
+  vos: renueves
+  ud: renueve
+  nosotros: renovemos
+  vosotros: renovéis
+  uds: renueven
+
+preterito-perfecto-subjuntivo:
+  yo: haya renovado
+  tu: hayas renovado
+  vos: hayas renovado
+  ud: haya renovado
+  nosotros: hayamos renovado
+  vosotros: hayáis renovado
+  uds: hayan renovado
+
+imperfecto-subjuntivo:
+  yo:
+    - renovara
+    - renovase
+  tu:
+    - renovaras
+    - renovases
+  vos:
+    - renovaras
+    - renovases
+  ud:
+    - renovara
+    - renovase
+  nosotros:
+    - renováramos
+    - renovásemos
+  vosotros:
+    - renovarais
+    - renovaseis
+  uds:
+    - renovaran
+    - renovasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera renovado
+    - hubiese renovado
+  tu:
+    - hubieras renovado
+    - hubieses renovado
+  vos:
+    - hubieras renovado
+    - hubieses renovado
+  ud:
+    - hubiera renovado
+    - hubiese renovado
+  nosotros:
+    - hubiéramos renovado
+    - hubiésemos renovado
+  vosotros:
+    - hubierais renovado
+    - hubieseis renovado
+  uds:
+    - hubieran renovado
+    - hubiesen renovado
+
+imperativo:
+  tu: renueva
+  vos: renová
+  ud: renueve
+  nosotros: renovemos
+  vosotros: renovad
+  uds: renueven

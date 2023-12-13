@@ -1,0 +1,142 @@
+infinitivo: cambiar
+gerundio: cambiando
+participio-pasado: cambiado
+presente-indicativo:
+  yo: cambio
+  tu: cambias
+  vos: cambiás
+  ud: cambia
+  nosotros: cambiamos
+  vosotros: cambiáis
+  uds: cambian
+preterito-perfecto-simple:
+  yo: cambié
+  tu: cambiaste
+  vos: cambiaste
+  ud: cambió
+  nosotros: cambiamos
+  vosotros: cambiasteis
+  uds: cambiaron
+preterito-imperfecto:
+  yo: cambiaba
+  tu: cambiabas
+  vos: cambiabas
+  ud: cambiaba
+  nosotros: cambiábamos
+  vosotros: cambiabais
+  uds: cambiaban
+futuro-simple:
+  yo: cambiaré
+  tu: cambiarás
+  vos: cambiarás
+  ud: cambiará
+  nosotros: cambiaremos
+  vosotros: cambiaréis
+  uds: cambiarán
+condicional-simple:
+  yo: cambiaría
+  tu: cambiarías
+  vos: cambiarías
+  ud: cambiaría
+  nosotros: cambiaríamos
+  vosotros: cambiaríais
+  uds: cambiarían
+presente-perfecto:
+  yo: he cambiado
+  tu: has cambiado
+  vos: has cambiado
+  ud: ha cambiado
+  nosotros: hemos cambiado
+  vosotros: habéis cambiado
+  uds: han cambiado
+preterito-pluscuamperfecto:
+  yo: había cambiado
+  tu: habías cambiado
+  vos: habías cambiado
+  ud: había cambiado
+  nosotros: habíamos cambiado
+  vosotros: habíais cambiado
+  uds: habían cambiado
+futuro-perfecto:
+  yo: habré cambiado
+  tu: habrás cambiado
+  vos: habrás cambiado
+  ud: habrá cambiado
+  nosotros: habremos cambiado
+  vosotros: habréis cambiado
+  uds: habrán cambiado
+condicional-perfecto:
+  yo: habría cambiado
+  tu: habrías cambiado
+  vos: habrías cambiado
+  ud: habría cambiado
+  nosotros: habríamos cambiado
+  vosotros: habríais cambiado
+  uds: habrían cambiado
+presente-subjuntivo:
+  yo: cambie
+  tu: cambies
+  vos: cambies
+  ud: cambie
+  nosotros: cambiemos
+  vosotros: cambiéis
+  uds: cambien
+preterito-perfecto-subjuntivo:
+  yo: haya cambiado
+  tu: hayas cambiado
+  vos: hayas cambiado
+  ud: haya cambiado
+  nosotros: hayamos cambiado
+  vosotros: hayáis cambiado
+  uds: hayan cambiado
+imperfecto-subjuntivo:
+  yo:
+    - cambiara
+    - cambiese
+  tu:
+    - cambiaras
+    - cambieses
+  vos:
+    - cambiaras
+    - cambieses
+  ud:
+    - cambiara
+    - cambiese
+  nosotros:
+    - cambiáramos
+    - cambiésemos
+  vosotros:
+    - cambiarais
+    - cambieseis
+  uds:
+    - cambiaran
+    - cambiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cambiado
+    - hubiese cambiado
+  tu:
+    - hubieras cambiado
+    - hubieses cambiado
+  vos:
+    - hubieras cambiado
+    - hubieses cambiado
+  ud:
+    - hubiera cambiado
+    - hubiese cambiado
+  nosotros:
+    - hubiéramos cambiado
+    - hubiésemos cambiado
+  vosotros:
+    - hubierais cambiado
+    - hubieseis cambiado
+  uds:
+    - hubieran cambiado
+    - hubiesen cambiado
+imperativo:
+  tu: cambia
+  vos: cambiá
+  ud: cambie
+  nosotros: cambiemos
+  vosotros: cambiad
+  uds: cambien

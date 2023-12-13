@@ -1,0 +1,114 @@
+infinitivo: quemar
+gerundio: quemando
+participio-pasado: quemado
+presente-indicativo:
+  yo: quemo
+  tu: quemas
+  vos: quemas
+  ud: quema
+  nosotros: quemamos
+  vosotros: quemáis
+  uds: queman
+preterito-perfecto-simple:
+  yo: quemé
+  tu: quemaste
+  vos: quemaste
+  ud: quemó
+  nosotros: quemamos
+  vosotros: quemasteis
+  uds: quemaron
+preterito-imperfecto:
+  yo: quemaba
+  tu: quemabas
+  vos: quemabas
+  ud: quemaba
+  nosotros: quemábamos
+  vosotros: quemabais
+  uds: quemaban
+futuro-simple:
+  yo: quemaré
+  tu: quemarás
+  vos: quemarás
+  ud: quemará
+  nosotros: quemaremos
+  vosotros: quemaréis
+  uds: quemarán
+condicional-simple:
+  yo: quemaría
+  tu: quemarías
+  vos: quemarías
+  ud: quemaría
+  nosotros: quemaríamos
+  vosotros: quemaríais
+  uds: quemarían
+presente-perfecto:
+  yo: he quemado
+  tu: has quemado
+  vos: has quemado
+  ud: ha quemado
+  nosotros: hemos quemado
+  vosotros: habéis quemado
+  uds: han quemado
+preterito-pluscuamperfecto:
+  yo: había quemado
+  tu: habías quemado
+  vos: habías quemado
+  ud: había quemado
+  nosotros: habíamos quemado
+  vosotros: habíais quemado
+  uds: habían quemado
+futuro-perfecto:
+  yo: habré quemado
+  tu: habrás quemado
+  vos: habrás quemado
+  ud: habrá quemado
+  nosotros: habremos quemado
+  vosotros: habréis quemado
+  uds: habrán quemado
+condicional-perfecto:
+  yo: habría quemado
+  tu: habrías quemado
+  vos: habrías quemado
+  ud: habría quemado
+  nosotros: habríamos quemado
+  vosotros: habríais quemado
+  uds: habrían quemado
+presente-subjuntivo:
+  yo: queme
+  tu: quemes
+  vos: quemes
+  ud: queme
+  nosotros: quememos
+  vosotros: queméis
+  uds: quemen
+preterito-perfecto-subjuntivo:
+  yo: haya quemado
+  tu: hayas quemado
+  vos: hayas quemado
+  ud: haya quemado
+  nosotros: hayamos quemado
+  vosotros: hayáis quemado
+  uds: hayan quemado
+imperfecto-subjuntivo:
+  yo: [quemara, quemase]
+  tu: [quemaras, quemases]
+  vos: [quemaras, quemases]
+  ud: [quemara, quemase]
+  nosotros: [quemáramos, quemásemos]
+  vosotros: [quemarais, quemaseis]
+  uds: [quemaran, quemasen]
+pluscuamperfecto-subjuntivo:
+  yo: [hubiera quemado, hubiese quemado]
+  tu: [hubieras quemado, hubieses quemado]
+  vos: [hubieras quemado, hubieses quemado]
+  ud: [hubiera quemado, hubiese quemado]
+  nosotros: [hubiéramos quemado, hubiésemos quemado]
+  vosotros: [hubierais quemado, hubieseis quemado]
+  uds: [hubieran quemado, hubiesen quemado]
+imperativo:
+  tu: quema
+  vos: quemá
+  ud: queme
+  nosotros: quememos
+  vosotros: quemad
+  uds: quemen

@@ -1,0 +1,142 @@
+infinitivo: revolver
+gerundio: revolviendo
+participio-pasado: revuelto
+presente-indicativo:
+  yo: revuelvo
+  tu: revuelves
+  vos: revolver
+  ud: revuelve
+  nosotros: revolvemos
+  vosotros: revolvéis
+  uds: revuelven
+preterito-perfecto-simple:
+  yo: revolví
+  tu: revolviste
+  vos: revolviste
+  ud: revolvió
+  nosotros: revolvimos
+  vosotros: revolvisteis
+  uds: revolvieron
+preterito-imperfecto:
+  yo: revolvía
+  tu: revolvías
+  vos: revolvías
+  ud: revolvía
+  nosotros: revolvíamos
+  vosotros: revolvíais
+  uds: revolvían
+futuro-simple:
+  yo: revolveré
+  tu: revolverás
+  vos: revolverás
+  ud: revolverá
+  nosotros: revolveremos
+  vosotros: revolveréis
+  uds: revolverán
+condicional-simple:
+  yo: revolvería
+  tu: revolverías
+  vos: revolverías
+  ud: revolvería
+  nosotros: revolveríamos
+  vosotros: revolveríais
+  uds: revolverían
+presente-perfecto:
+  yo: he revuelto
+  tu: has revuelto
+  vos: has revuelto
+  ud: ha revuelto
+  nosotros: hemos revuelto
+  vosotros: habéis revuelto
+  uds: han revuelto
+preterito-pluscuamperfecto:
+  yo: había revuelto
+  tu: habías revuelto
+  vos: habías revuelto
+  ud: había revuelto
+  nosotros: habíamos revuelto
+  vosotros: habíais revuelto
+  uds: habían revuelto
+futuro-perfecto:
+  yo: habré revuelto
+  tu: habrás revuelto
+  vos: habrás revuelto
+  ud: habrá revuelto
+  nosotros: habremos revuelto
+  vosotros: habréis revuelto
+  uds: habrán revuelto
+condicional-perfecto:
+  yo: habría revuelto
+  tu: habrías revuelto
+  vos: habrías revuelto
+  ud: habría revuelto
+  nosotros: habríamos revuelto
+  vosotros: habríais revuelto
+  uds: habrían revuelto
+presente-subjuntivo:
+  yo: revuelva
+  tu: revuelvas
+  vos: revuelvas
+  ud: revuelva
+  nosotros: revolvamos
+  vosotros: revolváis
+  uds: revuelvan
+preterito-perfecto-subjuntivo:
+  yo: haya revuelto
+  tu: hayas revuelto
+  vos: hayas revuelto
+  ud: haya revuelto
+  nosotros: hayamos revuelto
+  vosotros: hayáis revuelto
+  uds: hayan revuelto
+imperfecto-subjuntivo:
+  yo:
+    - revolviera
+    - revolviese
+  tu:
+    - revolveras
+    - revolvieses
+  vos:
+    - revolveras
+    - revolvieses
+  ud:
+    - revolviera
+    - revolviese
+  nosotros:
+    - revolviéramos
+    - revolviésemos
+  vosotros:
+    - revolvierais
+    - revolvieseis
+  uds:
+    - revolvieran
+    - revolviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera revuelto
+    - hubiese revuelto
+  tu:
+    - hubieras revuelto
+    - hubieses revuelto
+  vos:
+    - hubieras revuelto
+    - hubieses revuelto
+  ud:
+    - hubiera revuelto
+    - hubiese revuelto
+  nosotros:
+    - hubiéramos revuelto
+    - hubiésemos revuelto
+  vosotros:
+    - hubierais revuelto
+    - hubieseis revuelto
+  uds:
+    - hubieran revuelto
+    - hubiesen revuelto
+imperativo:
+  tu: revuelve
+  vos: revolvé
+  ud: revuelva
+  nosotros: revolvamos
+  vosotros: revolved
+  uds: revuelvan

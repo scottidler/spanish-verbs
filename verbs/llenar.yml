@@ -1,0 +1,142 @@
+infinitivo: llenar
+gerundio: llenando
+participio-pasado: llenado
+presente-indicativo:
+  yo: lleno
+  tu: llenas
+  vos: llenás
+  ud: llena
+  nosotros: llenamos
+  vosotros: llenáis
+  uds: llenan
+preterito-perfecto-simple:
+  yo: llené
+  tu: llenaste
+  vos: llenaste
+  ud: llenó
+  nosotros: llenamos
+  vosotros: llenasteis
+  uds: llenaron
+preterito-imperfecto:
+  yo: llenaba
+  tu: llenabas
+  vos: llenabas
+  ud: llenaba
+  nosotros: llenábamos
+  vosotros: llenabais
+  uds: llenaban
+futuro-simple:
+  yo: llenaré
+  tu: llenarás
+  vos: llenarás
+  ud: llenará
+  nosotros: llenaremos
+  vosotros: llenaréis
+  uds: llenarán
+condicional-simple:
+  yo: llenaría
+  tu: llenarías
+  vos: llenarías
+  ud: llenaría
+  nosotros: llenaríamos
+  vosotros: llenaríais
+  uds: llenarían
+presente-perfecto:
+  yo: he llenado
+  tu: has llenado
+  vos: has llenado
+  ud: ha llenado
+  nosotros: hemos llenado
+  vosotros: habéis llenado
+  uds: han llenado
+preterito-pluscuamperfecto:
+  yo: había llenado
+  tu: habías llenado
+  vos: habías llenado
+  ud: había llenado
+  nosotros: habíamos llenado
+  vosotros: habíais llenado
+  uds: habían llenado
+futuro-perfecto:
+  yo: habré llenado
+  tu: habrás llenado
+  vos: habrás llenado
+  ud: habrá llenado
+  nosotros: habremos llenado
+  vosotros: habréis llenado
+  uds: habrán llenado
+condicional-perfecto:
+  yo: habría llenado
+  tu: habrías llenado
+  vos: habrías llenado
+  ud: habría llenado
+  nosotros: habríamos llenado
+  vosotros: habríais llenado
+  uds: habrían llenado
+presente-subjuntivo:
+  yo: llene
+  tu: llenes
+  vos: llenes
+  ud: llene
+  nosotros: llenemos
+  vosotros: llenéis
+  uds: llenen
+preterito-perfecto-subjuntivo:
+  yo: haya llenado
+  tu: hayas llenado
+  vos: hayas llenado
+  ud: haya llenado
+  nosotros: hayamos llenado
+  vosotros: hayáis llenado
+  uds: hayan llenado
+imperfecto-subjuntivo:
+  yo:
+    - llenara
+    - llenase
+  tu:
+    - llenaras
+    - llenases
+  vos:
+    - llenaras
+    - llenases
+  ud:
+    - llenara
+    - llenase
+  nosotros:
+    - llenáramos
+    - llenásemos
+  vosotros:
+    - llenarais
+    - llenaseis
+  uds:
+    - llenaran
+    - lleneasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llenado
+    - hubiese llenado
+  tu:
+    - hubieras llenado
+    - hubieses llenado
+  vos:
+    - hubieras llenado
+    - hubieses llenado
+  ud:
+    - hubiera llenado
+    - hubiese llenado
+  nosotros:
+    - hubiéramos llenado
+    - hubiésemos llenado
+  vosotros:
+    - hubierais llenado
+    - hubieseis llenado
+  uds:
+    - hubieran llenado
+    - hubiesen llenado
+imperativo:
+  tu: llena
+  vos: llená
+  ud: llene
+  nosotros: llenemos
+  vosotros: llenad
+  uds: llenen

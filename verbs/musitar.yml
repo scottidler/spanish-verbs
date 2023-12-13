@@ -1,0 +1,142 @@
+infinitivo: musitar
+gerundio: musitando
+participio-pasado: musitado
+presente-indicativo:
+  yo: musito
+  tu: musitas
+  vos: musitas
+  ud: musita
+  nosotros: musitamos
+  vosotros: musitáis
+  uds: musitan
+preterito-perfecto-simple:
+  yo: musité
+  tu: musitaste
+  vos: musitaste
+  ud: musitó
+  nosotros: musitamos
+  vosotros: musitasteis
+  uds: musitaron
+preterito-imperfecto:
+  yo: musitaba
+  tu: musitabas
+  vos: musitabas
+  ud: musitaba
+  nosotros: musitábamos
+  vosotros: musitabais
+  uds: musitaban
+futuro-simple:
+  yo: musitaré
+  tu: musitarás
+  vos: musitarás
+  ud: musitará
+  nosotros: musitaremos
+  vosotros: musitaréis
+  uds: musitarán
+condicional-simple:
+  yo: musitaría
+  tu: musitarías
+  vos: musitarías
+  ud: musitaría
+  nosotros: musitaríamos
+  vosotros: musitaríais
+  uds: musitarían
+presente-perfecto:
+  yo: he musitado
+  tu: has musitado
+  vos: has musitado
+  ud: ha musitado
+  nosotros: hemos musitado
+  vosotros: habéis musitado
+  uds: han musitado
+preterito-pluscuamperfecto:
+  yo: había musitado
+  tu: habías musitado
+  vos: habías musitado
+  ud: había musitado
+  nosotros: habíamos musitado
+  vosotros: habíais musitado
+  uds: habían musitado
+futuro-perfecto:
+  yo: habré musitado
+  tu: habrás musitado
+  vos: habrás musitado
+  ud: habrá musitado
+  nosotros: habremos musitado
+  vosotros: habréis musitado
+  uds: habrán musitado
+condicional-perfecto:
+  yo: habría musitado
+  tu: habrías musitado
+  vos: habrías musitado
+  ud: habría musitado
+  nosotros: habríamos musitado
+  vosotros: habríais musitado
+  uds: habrían musitado
+presente-subjuntivo:
+  yo: musite
+  tu: musites
+  vos: musites
+  ud: musite
+  nosotros: musitemos
+  vosotros: musitéis
+  uds: musiten
+preterito-perfecto-subjuntivo:
+  yo: haya musitado
+  tu: hayas musitado
+  vos: hayas musitado
+  ud: haya musitado
+  nosotros: hayamos musitado
+  vosotros: hayáis musitado
+  uds: hayan musitado
+imperfecto-subjuntivo:
+  yo:
+    - musitara
+    - musitase
+  tu:
+    - musitaras
+    - musitases
+  vos:
+    - musitaras
+    - musitases
+  ud:
+    - musitara
+    - musitase
+  nosotros:
+    - musitáramos
+    - musitásemos
+  vosotros:
+    - musitarais
+    - musitaseis
+  uds:
+    - musitaran
+    - musitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera musitado
+    - hubiese musitado
+  tu:
+    - hubieras musitado
+    - hubieses musitado
+  vos:
+    - hubieras musitado
+    - hubieses musitado
+  ud:
+    - hubiera musitado
+    - hubiese musitado
+  nosotros:
+    - hubiéramos musitado
+    - hubiésemos musitado
+  vosotros:
+    - hubierais musitado
+    - hubieseis musitado
+  uds:
+    - hubieran musitado
+    - hubiesen musitado
+imperativo:
+  tu: musita
+  vos: musitá
+  ud: musite
+  nosotros: musitemos
+  vosotros: musitad
+  uds: musiten

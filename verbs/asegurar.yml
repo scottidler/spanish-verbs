@@ -1,0 +1,142 @@
+infinitivo: asegurar
+gerundio: asegurando
+participio-pasado: asegurado
+presente-indicativo:
+  yo: aseguro
+  tu: aseguras
+  vos: asegurás
+  ud: asegura
+  nosotros: aseguramos
+  vosotros: aseguráis
+  uds: aseguran
+preterito-perfecto-simple:
+  yo: aseguré
+  tu: aseguraste
+  vos: aseguraste
+  ud: aseguró
+  nosotros: aseguramos
+  vosotros: asegurasteis
+  uds: aseguraron
+preterito-imperfecto:
+  yo: aseguraba
+  tu: asegurabas
+  vos: asegurabas
+  ud: aseguraba
+  nosotros: asegurábamos
+  vosotros: asegurabais
+  uds: aseguraban
+futuro-simple:
+  yo: aseguraré
+  tu: asegurarás
+  vos: asegurarás
+  ud: asegurará
+  nosotros: aseguraremos
+  vosotros: aseguraréis
+  uds: asegurarán
+condicional-simple:
+  yo: aseguraría
+  tu: asegurarías
+  vos: asegurarías
+  ud: aseguraría
+  nosotros: aseguraríamos
+  vosotros: aseguraríais
+  uds: asegurarían
+presente-perfecto:
+  yo: he asegurado
+  tu: has asegurado
+  vos: has asegurado
+  ud: ha asegurado
+  nosotros: hemos asegurado
+  vosotros: habéis asegurado
+  uds: han asegurado
+preterito-pluscuamperfecto:
+  yo: había asegurado
+  tu: habías asegurado
+  vos: habías asegurado
+  ud: había asegurado
+  nosotros: habíamos asegurado
+  vosotros: habíais asegurado
+  uds: habían asegurado
+futuro-perfecto:
+  yo: habré asegurado
+  tu: habrás asegurado
+  vos: habrás asegurado
+  ud: habrá asegurado
+  nosotros: habremos asegurado
+  vosotros: habréis asegurado
+  uds: habrán asegurado
+condicional-perfecto:
+  yo: habría asegurado
+  tu: habrías asegurado
+  vos: habrías asegurado
+  ud: habría asegurado
+  nosotros: habríamos asegurado
+  vosotros: habríais asegurado
+  uds: habrían asegurado
+presente-subjuntivo:
+  yo: asegure
+  tu: asegures
+  vos: asegures
+  ud: asegure
+  nosotros: aseguremos
+  vosotros: aseguréis
+  uds: aseguren
+preterito-perfecto-subjuntivo:
+  yo: haya asegurado
+  tu: hayas asegurado
+  vos: hayas asegurado
+  ud: haya asegurado
+  nosotros: hayamos asegurado
+  vosotros: hayáis asegurado
+  uds: hayan asegurado
+imperfecto-subjuntivo:
+  yo:
+    - asegurara
+    - asegurase
+  tu:
+    - aseguraras
+    - asegurases
+  vos:
+    - aseguraras
+    - asegurases
+  ud:
+    - asegurara
+    - asegurase
+  nosotros:
+    - aseguráramos
+    - asegurásemos
+  vosotros:
+    - asegurarais
+    - aseguraseis
+  uds:
+    - aseguraran
+    - asegurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asegurado
+    - hubiese asegurado
+  tu:
+    - hubieras asegurado
+    - hubieses asegurado
+  vos:
+    - hubieras asegurado
+    - hubieses asegurado
+  ud:
+    - hubiera asegurado
+    - hubiese asegurado
+  nosotros:
+    - hubiéramos asegurado
+    - hubiésemos asegurado
+  vosotros:
+    - hubierais asegurado
+    - hubieseis asegurado
+  uds:
+    - hubieran asegurado
+    - hubiesen asegurado
+imperativo:
+  tu: asegura
+  vos: asegurá
+  ud: asegure
+  nosotros: aseguremos
+  vosotros: asegurad
+  uds: aseguren

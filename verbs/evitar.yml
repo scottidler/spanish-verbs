@@ -1,0 +1,142 @@
+infinitivo: evitar
+gerundio: evitando
+participio-pasado: evitado
+presente-indicativo:
+  yo: evito
+  tu: evitas
+  vos: evitas
+  ud: evita
+  nosotros: evitamos
+  vosotros: evitáis
+  uds: evitan
+preterito-perfecto-simple:
+  yo: evité
+  tu: evitaste
+  vos: evitaste
+  ud: evitó
+  nosotros: evitamos
+  vosotros: evitasteis
+  uds: evitaron
+preterito-imperfecto:
+  yo: evitaba
+  tu: evitabas
+  vos: evitabas
+  ud: evitaba
+  nosotros: evitábamos
+  vosotros: evitabais
+  uds: evitaban
+futuro-simple:
+  yo: evitaré
+  tu: evitarás
+  vos: evitarás
+  ud: evitará
+  nosotros: evitaremos
+  vosotros: evitaréis
+  uds: evitarán
+condicional-simple:
+  yo: evitaría
+  tu: evitarías
+  vos: evitarías
+  ud: evitaría
+  nosotros: evitaríamos
+  vosotros: evitaríais
+  uds: evitarían
+presente-perfecto:
+  yo: he evitado
+  tu: has evitado
+  vos: has evitado
+  ud: ha evitado
+  nosotros: hemos evitado
+  vosotros: habéis evitado
+  uds: han evitado
+preterito-pluscuamperfecto:
+  yo: había evitado
+  tu: habías evitado
+  vos: habías evitado
+  ud: había evitado
+  nosotros: habíamos evitado
+  vosotros: habíais evitado
+  uds: habían evitado
+futuro-perfecto:
+  yo: habré evitado
+  tu: habrás evitado
+  vos: habrás evitado
+  ud: habrá evitado
+  nosotros: habremos evitado
+  vosotros: habréis evitado
+  uds: habrán evitado
+condicional-perfecto:
+  yo: habría evitado
+  tu: habrías evitado
+  vos: habrías evitado
+  ud: habría evitado
+  nosotros: habríamos evitado
+  vosotros: habríais evitado
+  uds: habrían evitado
+presente-subjuntivo:
+  yo: evite
+  tu: evites
+  vos: evites
+  ud: evite
+  nosotros: evitemos
+  vosotros: evitéis
+  uds: eviten
+preterito-perfecto-subjuntivo:
+  yo: haya evitado
+  tu: hayas evitado
+  vos: hayas evitado
+  ud: haya evitado
+  nosotros: hayamos evitado
+  vosotros: hayáis evitado
+  uds: hayan evitado
+imperfecto-subjuntivo:
+  yo:
+    - evitara
+    - evitase
+  tu:
+    - evitaras
+    - evitases
+  vos:
+    - evitaras
+    - evitases
+  ud:
+    - evitara
+    - evitase
+  nosotros:
+    - evitáramos
+    - evitásemos
+  vosotros:
+    - evitarais
+    - evitaseis
+  uds:
+    - evitaran
+    - evitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera evitado
+    - hubiese evitado
+  tu:
+    - hubieras evitado
+    - hubieses evitado
+  vos:
+    - hubieras evitado
+    - hubieses evitado
+  ud:
+    - hubiera evitado
+    - hubiese evitado
+  nosotros:
+    - hubiéramos evitado
+    - hubiésemos evitado
+  vosotros:
+    - hubierais evitado
+    - hubieseis evitado
+  uds:
+    - hubieran evitado
+    - hubiesen evitado
+imperativo:
+  tu: evita
+  vos: evitá
+  ud: evite
+  nosotros: evitemos
+  vosotros: evitad
+  uds: eviten

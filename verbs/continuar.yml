@@ -1,0 +1,142 @@
+infinitivo: continuar
+gerundio: continuando
+participio-pasado: continuado
+presente-indicativo:
+  yo: continúo
+  tu: continúas
+  vos: continúas
+  ud: continúa
+  nosotros: continuamos
+  vosotros: continuáis
+  uds: continúan
+preterito-perfecto-simple:
+  yo: continué
+  tu: continuaste
+  vos: continuaste
+  ud: continuó
+  nosotros: continuamos
+  vosotros: continuasteis
+  uds: continuaron
+preterito-imperfecto:
+  yo: continuaba
+  tu: continuabas
+  vos: continuabas
+  ud: continuaba
+  nosotros: continuábamos
+  vosotros: continuabais
+  uds: continuaban
+futuro-simple:
+  yo: continuaré
+  tu: continuarás
+  vos: continuarás
+  ud: continuará
+  nosotros: continuaremos
+  vosotros: continuaréis
+  uds: continuarán
+condicional-simple:
+  yo: continuaría
+  tu: continuarías
+  vos: continuarías
+  ud: continuaría
+  nosotros: continuaríamos
+  vosotros: continuaríais
+  uds: continuarían
+presente-perfecto:
+  yo: he continuado
+  tu: has continuado
+  vos: has continuado
+  ud: ha continuado
+  nosotros: hemos continuado
+  vosotros: habéis continuado
+  uds: han continuado
+preterito-pluscuamperfecto:
+  yo: había continuado
+  tu: habías continuado
+  vos: habías continuado
+  ud: había continuado
+  nosotros: habíamos continuado
+  vosotros: habíais continuado
+  uds: habían continuado
+futuro-perfecto:
+  yo: habré continuado
+  tu: habrás continuado
+  vos: habrás continuado
+  ud: habrá continuado
+  nosotros: habremos continuado
+  vosotros: habréis continuado
+  uds: habrán continuado
+condicional-perfecto:
+  yo: habría continuado
+  tu: habrías continuado
+  vos: habrías continuado
+  ud: habría continuado
+  nosotros: habríamos continuado
+  vosotros: habríais continuado
+  uds: habrían continuado
+presente-subjuntivo:
+  yo: continúe
+  tu: continúes
+  vos: continúes
+  ud: continúe
+  nosotros: continuemos
+  vosotros: continuéis
+  uds: continúen
+preterito-perfecto-subjuntivo:
+  yo: haya continuado
+  tu: hayas continuado
+  vos: hayas continuado
+  ud: haya continuado
+  nosotros: hayamos continuado
+  vosotros: hayáis continuado
+  uds: hayan continuado
+imperfecto-subjuntivo:
+  yo:
+    - continuara
+    - continuase
+  tu:
+    - continuaras
+    - continuases
+  vos:
+    - continuaras
+    - continuases
+  ud:
+    - continuara
+    - continuase
+  nosotros:
+    - continuáramos
+    - continuásemos
+  vosotros:
+    - continuarais
+    - continuaseis
+  uds:
+    - continuaran
+    - continuasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera continuado
+    - hubiese continuado
+  tu:
+    - hubieras continuado
+    - hubieses continuado
+  vos:
+    - hubieras continuado
+    - hubieses continuado
+  ud:
+    - hubiera continuado
+    - hubiese continuado
+  nosotros:
+    - hubiéramos continuado
+    - hubiésemos continuado
+  vosotros:
+    - hubierais continuado
+    - hubieseis continuado
+  uds:
+    - hubieran continuado
+    - hubiesen continuado
+imperativo:
+  tu: continúa
+  vos: continuá
+  ud: continúe
+  nosotros: continuemos
+  vosotros: continuad
+  uds: continúen

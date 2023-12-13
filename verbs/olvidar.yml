@@ -1,0 +1,142 @@
+infinitivo: olvidar
+gerundio: olvidando
+participio-pasado: olvidado
+presente-indicativo:
+  yo: olvido
+  tu: olvidas
+  vos: olvidas
+  ud: olvida
+  nosotros: olvidamos
+  vosotros: olvidáis
+  uds: olvidan
+preterito-perfecto-simple:
+  yo: olvidé
+  tu: olvidaste
+  vos: olvidaste
+  ud: olvidó
+  nosotros: olvidamos
+  vosotros: olvidasteis
+  uds: olvidaron
+preterito-imperfecto:
+  yo: olvidaba
+  tu: olvidabas
+  vos: olvidabas
+  ud: olvidaba
+  nosotros: olvidábamos
+  vosotros: olvidabais
+  uds: olvidaban
+futuro-simple:
+  yo: olvidaré
+  tu: olvidarás
+  vos: olvidarás
+  ud: olvidará
+  nosotros: olvidaremos
+  vosotros: olvidaréis
+  uds: olvidarán
+condicional-simple:
+  yo: olvidaría
+  tu: olvidarías
+  vos: olvidarías
+  ud: olvidaría
+  nosotros: olvidaríamos
+  vosotros: olvidaríais
+  uds: olvidarían
+presente-perfecto:
+  yo: he olvidado
+  tu: has olvidado
+  vos: has olvidado
+  ud: ha olvidado
+  nosotros: hemos olvidado
+  vosotros: habéis olvidado
+  uds: han olvidado
+preterito-pluscuamperfecto:
+  yo: había olvidado
+  tu: habías olvidado
+  vos: habías olvidado
+  ud: había olvidado
+  nosotros: habíamos olvidado
+  vosotros: habíais olvidado
+  uds: habían olvidado
+futuro-perfecto:
+  yo: habré olvidado
+  tu: habrás olvidado
+  vos: habrás olvidado
+  ud: habrá olvidado
+  nosotros: habremos olvidado
+  vosotros: habréis olvidado
+  uds: habrán olvidado
+condicional-perfecto:
+  yo: habría olvidado
+  tu: habrías olvidado
+  vos: habrías olvidado
+  ud: habría olvidado
+  nosotros: habríamos olvido
+  vosotros: habríais olvido
+  uds: habrían olvido
+presente-subjuntivo:
+  yo: olvide
+  tu: olvides
+  vos: olvides
+  ud: olvide
+  nosotros: olvidemos
+  vosotros: olvidéis
+  uds: olviden
+preterito-perfecto-subjuntivo:
+  yo: haya olvidado
+  tu: hayas olvidado
+  vos: hayas olvidado
+  ud: haya olvidado
+  nosotros: hayamos olvidado
+  vosotros: hayáis olvidado
+  uds: hayan olvidado
+imperfecto-subjuntivo:
+  yo:
+    - olvidara
+    - olvidase
+  tu:
+    - olvidaras
+    - olvidases
+  vos:
+    - olvidaras
+    - olvidases
+  ud:
+    - olvidara
+    - olvidase
+  nosotros:
+    - olvidáramos
+    - olvidásemos
+  vosotros:
+    - olvidarais
+    - olvidaseis
+  uds:
+    - olvidaran
+    - olvidasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera olvidado
+    - hubiese olvidado
+  tu:
+    - hubieras olvidado
+    - hubieses olvidado
+  vos:
+    - hubieras olvidado
+    - hubieses olvidado
+  ud:
+    - hubiera olvidado
+    - hubiese olvidado
+  nosotros:
+    - hubiéramos olvidado
+    - hubiésemos olvidado
+  vosotros:
+    - hubierais olvidado
+    - hubieseis olvidado
+  uds:
+    - hubieran olvidado
+    - hubiesen olvidado
+imperativo:
+  tu: olvida
+  vos: olvidá
+  ud: olvide
+  nosotros: olvidemos
+  vosotros: olvidad
+  uds: olviden

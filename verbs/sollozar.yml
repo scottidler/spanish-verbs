@@ -1,0 +1,142 @@
+infinitivo: sollozar
+gerundio: sollozando
+participio-pasado: sollozado
+presente-indicativo:
+  yo: sollozo
+  tu: sollozas
+  vos: sollozás
+  ud: solloza
+  nosotros: sollozamos
+  vosotros: sollozáis
+  uds: sollozan
+preterito-perfecto-simple:
+  yo: sollocé
+  tu: sollocaste
+  vos: sollocaste
+  ud: sollocó
+  nosotros: sollozamos
+  vosotros: sollocasteis
+  uds: sollocaron
+preterito-imperfecto:
+  yo: sollozaba
+  tu: sollozabas
+  vos: sollozabas
+  ud: sollozaba
+  nosotros: sollozábamos
+  vosotros: sollozabais
+  uds: sollozaban
+futuro-simple:
+  yo: sollozaré
+  tu: sollozarás
+  vos: sollozarás
+  ud: sollozará
+  nosotros: sollozaremos
+  vosotros: sollozaréis
+  uds: sollozarán
+condicional-simple:
+  yo: sollozaría
+  tu: sollozarías
+  vos: sollozarías
+  ud: sollozaría
+  nosotros: sollozaríamos
+  vosotros: sollozaríais
+  uds: sollozarían
+presente-perfecto:
+  yo: he sollozado
+  tu: has sollozado
+  vos: has sollozado
+  ud: ha sollozado
+  nosotros: hemos sollozado
+  vosotros: habéis sollozado
+  uds: han sollozado
+preterito-pluscuamperfecto:
+  yo: había sollozado
+  tu: habías sollozado
+  vos: habías sollozado
+  ud: había sollozado
+  nosotros: habíamos sollozado
+  vosotros: habíais sollozado
+  uds: habían sollozado
+futuro-perfecto:
+  yo: habré sollozado
+  tu: habrás sollozado
+  vos: habrás sollozado
+  ud: habrá sollozado
+  nosotros: habremos sollozado
+  vosotros: habréis sollozado
+  uds: habrán sollozado
+condicional-perfecto:
+  yo: habría sollozado
+  tu: habrías sollozado
+  vos: habrías sollozado
+  ud: habría sollozado
+  nosotros: habríamos sollozado
+  vosotros: habríais sollozado
+  uds: habrían sollozado
+presente-subjuntivo:
+  yo: solloce
+  tu: solloces
+  vos: solloces
+  ud: solloce
+  nosotros: sollocemos
+  vosotros: sollocéis
+  uds: sollocen
+preterito-perfecto-subjuntivo:
+  yo: haya sollozado
+  tu: hayas sollozado
+  vos: hayas sollozado
+  ud: haya sollozado
+  nosotros: hayamos sollozado
+  vosotros: hayáis sollozado
+  uds: hayan sollozado
+imperfecto-subjuntivo:
+  yo:
+    - sollozara
+    - sollozase
+  tu:
+    - sollozaras
+    - sollozases
+  vos:
+    - sollozaras
+    - sollozases
+  ud:
+    - sollozara
+    - sollozase
+  nosotros:
+    - sollozáramos
+    - sollozásemos
+  vosotros:
+    - sollozarais
+    - sollozaseis
+  uds:
+    - sollozaran
+    - sollozasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sollozado
+    - hubiese sollozado
+  tu:
+    - hubieras sollozado
+    - hubieses sollozado
+  vos:
+    - hubieras sollozado
+    - hubieses sollozado
+  ud:
+    - hubiera sollozado
+    - hubiese sollozado
+  nosotros:
+    - hubiéramos sollozado
+    - hubiésemos sollozado
+  vosotros:
+    - hubierais sollozado
+    - hubieseis sollozado
+  uds:
+    - hubieran sollozado
+    - hubiesen sollozado
+imperativo:
+  tu: solloza
+  vos: sollozá
+  ud: solloce
+  nosotros: sollocemos
+  vosotros: sollozad
+  uds: sollocen

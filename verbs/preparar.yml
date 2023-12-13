@@ -1,0 +1,142 @@
+infinitivo: preparar
+gerundio: preparando
+participio-pasado: preparado
+presente-indicativo:
+  yo: preparo
+  tu: preparas
+  vos: preparás
+  ud: prepara
+  nosotros: preparamos
+  vosotros: preparáis
+  uds: preparan
+preterito-perfecto-simple:
+  yo: preparé
+  tu: preparaste
+  vos: preparaste
+  ud: preparó
+  nosotros: preparamos
+  vosotros: preparasteis
+  uds: prepararon
+preterito-imperfecto:
+  yo: preparaba
+  tu: preparabas
+  vos: preparabas
+  ud: preparaba
+  nosotros: preparábamos
+  vosotros: preparabais
+  uds: preparaban
+futuro-simple:
+  yo: prepararé
+  tu: prepararás
+  vos: prepararás
+  ud: preparará
+  nosotros: prepararemos
+  vosotros: prepararéis
+  uds: prepararán
+condicional-simple:
+  yo: prepararía
+  tu: prepararías
+  vos: prepararías
+  ud: prepararía
+  nosotros: prepararíamos
+  vosotros: prepararíais
+  uds: prepararían
+presente-perfecto:
+  yo: he preparado
+  tu: has preparado
+  vos: has preparado
+  ud: ha preparado
+  nosotros: hemos preparado
+  vosotros: habéis preparado
+  uds: han preparado
+preterito-pluscuamperfecto:
+  yo: había preparado
+  tu: habías preparado
+  vos: habías preparado
+  ud: había preparado
+  nosotros: habíamos preparado
+  vosotros: habíais preparado
+  uds: habían preparado
+futuro-perfecto:
+  yo: habré preparado
+  tu: habrás preparado
+  vos: habrás preparado
+  ud: habrá preparado
+  nosotros: habremos preparado
+  vosotros: habréis preparado
+  uds: habrán preparado
+condicional-perfecto:
+  yo: habría preparado
+  tu: habrías preparado
+  vos: habrías preparado
+  ud: habría preparado
+  nosotros: habríamos preparado
+  vosotros: habríais preparado
+  uds: habrían preparado
+presente-subjuntivo:
+  yo: prepare
+  tu: prepares
+  vos: prepares
+  ud: prepare
+  nosotros: preparemos
+  vosotros: preparéis
+  uds: preparen
+preterito-perfecto-subjuntivo:
+  yo: haya preparado
+  tu: hayas preparado
+  vos: hayas preparado
+  ud: haya preparado
+  nosotros: hayamos preparado
+  vosotros: hayáis preparado
+  uds: hayan preparado
+imperfecto-subjuntivo:
+  yo:
+    - preparara
+    - preparase
+  tu:
+    - prepararas
+    - preparases
+  vos:
+    - prepararas
+    - preparases
+  ud:
+    - preparara
+    - preparase
+  nosotros:
+    - preparáramos
+    - preparásemos
+  vosotros:
+    - prepararais
+    - preparaseis
+  uds:
+    - prepararan
+    - preparasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera preparado
+    - hubiese preparado
+  tu:
+    - hubieras preparado
+    - hubieses preparado
+  vos:
+    - hubieras preparado
+    - hubieses preparado
+  ud:
+    - hubiera preparado
+    - hubiese preparado
+  nosotros:
+    - hubiéramos preparado
+    - hubiésemos preparado
+  vosotros:
+    - hubierais preparado
+    - hubieseis preparado
+  uds:
+    - hubieran preparado
+    - hubiesen preparado
+imperativo:
+  tu: prepara
+  vos: prepará
+  ud: prepare
+  nosotros: preparemos
+  vosotros: preparad
+  uds: preparen

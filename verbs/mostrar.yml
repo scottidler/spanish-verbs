@@ -1,0 +1,142 @@
+infinitivo: mostrar
+gerundio: mostrando
+participio-pasado: mostrado
+presente-indicativo:
+  yo: muestro
+  tu: muestras
+  vos: mostrás
+  ud: muestra
+  nosotros: mostramos
+  vosotros: mostráis
+  uds: muestran
+preterito-perfecto-simple:
+  yo: mostré
+  tu: mostraste
+  vos: mostraste
+  ud: mostró
+  nosotros: mostramos
+  vosotros: mostrasteis
+  uds: mostraron
+preterito-imperfecto:
+  yo: mostraba
+  tu: mostrabas
+  vos: mostrabas
+  ud: mostraba
+  nosotros: mostrábamos
+  vosotros: mostrabais
+  uds: mostraban
+futuro-simple:
+  yo: mostraré
+  tu: mostrarás
+  vos: mostrarás
+  ud: mostrará
+  nosotros: mostraremos
+  vosotros: mostraréis
+  uds: mostrarán
+condicional-simple:
+  yo: mostraría
+  tu: mostrarías
+  vos: mostrarías
+  ud: mostraría
+  nosotros: mostraríamos
+  vosotros: mostraríais
+  uds: mostrarían
+presente-perfecto:
+  yo: he mostrado
+  tu: has mostrado
+  vos: has mostrado
+  ud: ha mostrado
+  nosotros: hemos mostrado
+  vosotros: habéis mostrado
+  uds: han mostrado
+preterito-pluscuamperfecto:
+  yo: había mostrado
+  tu: habías mostrado
+  vos: habías mostrado
+  ud: había mostrado
+  nosotros: habíamos mostrado
+  vosotros: habíais mostrado
+  uds: habían mostrado
+futuro-perfecto:
+  yo: habré mostrado
+  tu: habrás mostrado
+  vos: habrás mostrado
+  ud: habrá mostrado
+  nosotros: habremos mostrado
+  vosotros: habréis mostrado
+  uds: habrán mostrado
+condicional-perfecto:
+  yo: habría mostrado
+  tu: habrías mostrado
+  vos: habrías mostrado
+  ud: habría mostrado
+  nosotros: habríamos mostrado
+  vosotros: habríais mostrado
+  uds: habrían mostrado
+presente-subjuntivo:
+  yo: muestre
+  tu: muestres
+  vos: muestres
+  ud: muestre
+  nosotros: mostremos
+  vosotros: mostréis
+  uds: muestren
+preterito-perfecto-subjuntivo:
+  yo: haya mostrado
+  tu: hayas mostrado
+  vos: hayas mostrado
+  ud: haya mostrado
+  nosotros: hayamos mostrado
+  vosotros: hayáis mostrado
+  uds: hayan mostrado
+imperfecto-subjuntivo:
+  yo:
+    - mostrara
+    - mostrase
+  tu:
+    - mostraras
+    - mostrases
+  vos:
+    - mostraras
+    - mostrases
+  ud:
+    - mostrara
+    - mostrase
+  nosotros:
+    - mostráramos
+    - mostrásemos
+  vosotros:
+    - mostrarais
+    - mostraseis
+  uds:
+    - mostraran
+    - mostrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mostrado
+    - hubiese mostrado
+  tu:
+    - hubieras mostrado
+    - hubieses mostrado
+  vos:
+    - hubieras mostrado
+    - hubieses mostrado
+  ud:
+    - hubiera mostrado
+    - hubiese mostrado
+  nosotros:
+    - hubiéramos mostrado
+    - hubiésemos mostrado
+  vosotros:
+    - hubierais mostrado
+    - hubieseis mostrado
+  uds:
+    - hubieran mostrado
+    - hubiesen mostrado
+imperativo:
+  tu: muestra
+  vos: mostrá
+  ud: muestre
+  nosotros: mostremos
+  vosotros: mostrad
+  uds: muestren

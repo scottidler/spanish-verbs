@@ -1,0 +1,142 @@
+infinitivo: informar
+gerundio: informando
+participio-pasado: informado
+presente-indicativo:
+  yo: informo
+  tu: informas
+  vos: informás
+  ud: informa
+  nosotros: informamos
+  vosotros: informáis
+  uds: informan
+preterito-perfecto-simple:
+  yo: informé
+  tu: informaste
+  vos: informaste
+  ud: informó
+  nosotros: informamos
+  vosotros: informasteis
+  uds: informaron
+preterito-imperfecto:
+  yo: informaba
+  tu: informabas
+  vos: informabas
+  ud: informaba
+  nosotros: informábamos
+  vosotros: informabais
+  uds: informaban
+futuro-simple:
+  yo: informaré
+  tu: informarás
+  vos: informarás
+  ud: informará
+  nosotros: informaremos
+  vosotros: informaréis
+  uds: informarán
+condicional-simple:
+  yo: informaría
+  tu: informarías
+  vos: informarías
+  ud: informaría
+  nosotros: informaríamos
+  vosotros: informaríais
+  uds: informarían
+presente-perfecto:
+  yo: he informado
+  tu: has informado
+  vos: has informado
+  ud: ha informado
+  nosotros: hemos informado
+  vosotros: habéis informado
+  uds: han informado
+preterito-pluscuamperfecto:
+  yo: había informado
+  tu: habías informado
+  vos: habías informado
+  ud: había informado
+  nosotros: habíamos informado
+  vosotros: habíais informado
+  uds: habían informado
+futuro-perfecto:
+  yo: habré informado
+  tu: habrás informado
+  vos: habrás informado
+  ud: habrá informado
+  nosotros: habremos informado
+  vosotros: habréis informado
+  uds: habrán informado
+condicional-perfecto:
+  yo: habría informado
+  tu: habrías informado
+  vos: habrías informado
+  ud: habría informado
+  nosotros: habríamos informado
+  vosotros: habríais informado
+  uds: habrían informado
+presente-subjuntivo:
+  yo: informe
+  tu: informes
+  vos: informes
+  ud: informe
+  nosotros: informemos
+  vosotros: informéis
+  uds: informen
+preterito-perfecto-subjuntivo:
+  yo: haya informado
+  tu: hayas informado
+  vos: hayas informado
+  ud: haya informado
+  nosotros: hayamos informado
+  vosotros: hayáis informado
+  uds: hayan informado
+imperfecto-subjuntivo:
+  yo:
+    - informara
+    - informase
+  tu:
+    - informaras
+    - informases
+  vos:
+    - informaras
+    - informases
+  ud:
+    - informara
+    - informase
+  nosotros:
+    - informáramos
+    - informásemos
+  vosotros:
+    - informarais
+    - informaseis
+  uds:
+    - informaran
+    - informasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera informado
+    - hubiese informado
+  tu:
+    - hubieras informado
+    - hubieses informado
+  vos:
+    - hubieras informado
+    - hubieses informado
+  ud:
+    - hubiera informado
+    - hubiese informado
+  nosotros:
+    - hubiéramos informado
+    - hubiésemos informado
+  vosotros:
+    - hubierais informado
+    - hubieseis informado
+  uds:
+    - hubieran informado
+    - hubiesen informado
+imperativo:
+  tu: informa
+  vos: informá
+  ud: informe
+  nosotros: informemos
+  vosotros: informad
+  uds: informen

@@ -1,0 +1,142 @@
+infinitivo: salvar
+gerundio: salvando
+participio-pasado: salvado
+presente-indicativo:
+  yo: salvo
+  tu: salvas
+  vos: salvas
+  ud: salva
+  nosotros: salvamos
+  vosotros: salváis
+  uds: salvan
+preterito-perfecto-simple:
+  yo: salvé
+  tu: salvaste
+  vos: salvaste
+  ud: salvó
+  nosotros: salvamos
+  vosotros: salvasteis
+  uds: salvaron
+preterito-imperfecto:
+  yo: salvaba
+  tu: salvabas
+  vos: salvabas
+  ud: salvaba
+  nosotros: salvábamos
+  vosotros: salvabais
+  uds: salvaban
+futuro-simple:
+  yo: salvaré
+  tu: salvarás
+  vos: salvarás
+  ud: salvará
+  nosotros: salvaremos
+  vosotros: salvaréis
+  uds: salvarán
+condicional-simple:
+  yo: salvaría
+  tu: salvarías
+  vos: salvarías
+  ud: salvaría
+  nosotros: salvaríamos
+  vosotros: salvaríais
+  uds: salvarían
+presente-perfecto:
+  yo: he salvado
+  tu: has salvado
+  vos: has salvado
+  ud: ha salvado
+  nosotros: hemos salvado
+  vosotros: habéis salvado
+  uds: han salvado
+preterito-pluscuamperfecto:
+  yo: había salvado
+  tu: habías salvado
+  vos: habías salvado
+  ud: había salvado
+  nosotros: habíamos salvado
+  vosotros: habíais salvado
+  uds: habían salvado
+futuro-perfecto:
+  yo: habré salvado
+  tu: habrás salvado
+  vos: habrás salvado
+  ud: habrá salvado
+  nosotros: habremos salvado
+  vosotros: habréis salvado
+  uds: habrán salvado
+condicional-perfecto:
+  yo: habría salvado
+  tu: habrías salvado
+  vos: habrías salvado
+  ud: habría salvado
+  nosotros: habríamos salvado
+  vosotros: habríais salvado
+  uds: habrían salvado
+presente-subjuntivo:
+  yo: salve
+  tu: salves
+  vos: salves
+  ud: salve
+  nosotros: salvemos
+  vosotros: salvéis
+  uds: salven
+preterito-perfecto-subjuntivo:
+  yo: haya salvado
+  tu: hayas salvado
+  vos: hayas salvado
+  ud: haya salvado
+  nosotros: hayamos salvado
+  vosotros: hayáis salvado
+  uds: hayan salvado
+imperfecto-subjuntivo:
+  yo:
+    - salvara
+    - salvase
+  tu:
+    - salvaras
+    - salvases
+  vos:
+    - salvaras
+    - salvases
+  ud:
+    - salvara
+    - salvase
+  nosotros:
+    - salváramos
+    - salvásemos
+  vosotros:
+    - salvarais
+    - salvaseis
+  uds:
+    - salvaran
+    - salvasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera salvado
+    - hubiese salvado
+  tu:
+    - hubieras salvado
+    - hubieses salvado
+  vos:
+    - hubieras salvado
+    - hubieses salvado
+  ud:
+    - hubiera salvado
+    - hubiese salvado
+  nosotros:
+    - hubiéramos salvado
+    - hubiésemos salvado
+  vosotros:
+    - hubierais salvado
+    - hubieseis salvado
+  uds:
+    - hubieran salvado
+    - hubiesen salvado
+imperativo:
+  tu: salva
+  vos: salvá
+  ud: salve
+  nosotros: salvemos
+  vosotros: salvad
+  uds: salven

@@ -1,0 +1,142 @@
+infinitivo: llorar
+gerundio: llorando
+participio-pasado: llorado
+presente-indicativo:
+  yo: lloro
+  tu: lloras
+  vos: llorás
+  ud: llora
+  nosotros: lloramos
+  vosotros: lloráis
+  uds: lloran
+preterito-perfecto-simple:
+  yo: lloré
+  tu: lloraste
+  vos: lloraste
+  ud: lloró
+  nosotros: lloramos
+  vosotros: llorasteis
+  uds: lloraron
+preterito-imperfecto:
+  yo: lloraba
+  tu: llorabas
+  vos: llorabas
+  ud: lloraba
+  nosotros: llorábamos
+  vosotros: llorabais
+  uds: lloraban
+futuro-simple:
+  yo: lloraré
+  tu: llorarás
+  vos: llorarás
+  ud: llorará
+  nosotros: lloraremos
+  vosotros: lloraréis
+  uds: llorarán
+condicional-simple:
+  yo: lloraría
+  tu: llorarías
+  vos: llorarías
+  ud: lloraría
+  nosotros: lloraríamos
+  vosotros: lloraríais
+  uds: llorarían
+presente-perfecto:
+  yo: he llorado
+  tu: has llorado
+  vos: has llorado
+  ud: ha llorado
+  nosotros: hemos llorado
+  vosotros: habéis llorado
+  uds: han llorado
+preterito-pluscuamperfecto:
+  yo: había llorado
+  tu: habías llorado
+  vos: habías llorado
+  ud: había llorado
+  nosotros: habíamos llorado
+  vosotros: habíais llorado
+  uds: habían llorado
+futuro-perfecto:
+  yo: habré llorado
+  tu: habrás llorado
+  vos: habrás llorado
+  ud: habrá llorado
+  nosotros: habremos llorado
+  vosotros: habréis llorado
+  uds: habrán llorado
+condicional-perfecto:
+  yo: habría llorado
+  tu: habrías llorado
+  vos: habrías llorado
+  ud: habría llorado
+  nosotros: habríamos llorado
+  vosotros: habríais llorado
+  uds: habrían llorado
+presente-subjuntivo:
+  yo: llore
+  tu: llores
+  vos: llores
+  ud: llore
+  nosotros: lloremos
+  vosotros: lloréis
+  uds: lloren
+preterito-perfecto-subjuntivo:
+  yo: haya llorado
+  tu: hayas llorado
+  vos: hayas llorado
+  ud: haya llorado
+  nosotros: hayamos llorado
+  vosotros: hayáis llorado
+  uds: hayan llorado
+imperfecto-subjuntivo:
+  yo:
+    - llorara
+    - llorase
+  tu:
+    - lloraras
+    - llorases
+  vos:
+    - lloraras
+    - llorases
+  ud:
+    - llorara
+    - llorase
+  nosotros:
+    - lloráramos
+    - llorásemos
+  vosotros:
+    - llorarais
+    - lloraseis
+  uds:
+    - lloraran
+    - llorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llorado
+    - hubiese llorado
+  tu:
+    - hubieras llorado
+    - hubieses llorado
+  vos:
+    - hubieras llorado
+    - hubieses llorado
+  ud:
+    - hubiera llorado
+    - hubiese llorado
+  nosotros:
+    - hubiéramos llorado
+    - hubiésemos llorado
+  vosotros:
+    - hubierais llorado
+    - hubieseis llorado
+  uds:
+    - hubieran llorado
+    - hubiesen llorado
+imperativo:
+  tu: llora
+  vos: llorá
+  ud: llore
+  nosotros: lloremos
+  vosotros: llorad
+  uds: lloren

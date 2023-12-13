@@ -1,0 +1,142 @@
+infinitivo: guiar
+gerundio: guiando
+participio-pasado: guiado
+presente-indicativo:
+  yo: guío
+  tu: guías
+  vos: guías
+  ud: guía
+  nosotros: guiamos
+  vosotros: guiais
+  uds: guían
+preterito-perfecto-simple:
+  yo: guié
+  tu: guiaste
+  vos: guiaste
+  ud: guió
+  nosotros: guiamos
+  vosotros: guiasteis
+  uds: guiaron
+preterito-imperfecto:
+  yo: guiaba
+  tu: guiabas
+  vos: guiabas
+  ud: guiaba
+  nosotros: guiábamos
+  vosotros: guiabais
+  uds: guiaban
+futuro-simple:
+  yo: guiaré
+  tu: guiarás
+  vos: guiarás
+  ud: guiará
+  nosotros: guiaremos
+  vosotros: guiaréis
+  uds: guiarán
+condicional-simple:
+  yo: guiaría
+  tu: guiarías
+  vos: guiarías
+  ud: guiaría
+  nosotros: guiaríamos
+  vosotros: guiaríais
+  uds: guiarían
+presente-perfecto:
+  yo: he guiado
+  tu: has guiado
+  vos: has guiado
+  ud: ha guiado
+  nosotros: hemos guiado
+  vosotros: habéis guiado
+  uds: han guiado
+preterito-pluscuamperfecto:
+  yo: había guiado
+  tu: habías guiado
+  vos: habías guiado
+  ud: había guiado
+  nosotros: habíamos guiado
+  vosotros: habíais guiado
+  uds: habían guiado
+futuro-perfecto:
+  yo: habré guiado
+  tu: habrás guiado
+  vos: habrás guiado
+  ud: habrá guiado
+  nosotros: habremos guiado
+  vosotros: habréis guiado
+  uds: habrán guiado
+condicional-perfecto:
+  yo: habría guiado
+  tu: habrías guiado
+  vos: habrías guiado
+  ud: habría guiado
+  nosotros: habríamos guiado
+  vosotros: habríais guiado
+  uds: habrían guiado
+presente-subjuntivo:
+  yo: guíe
+  tu: guíes
+  vos: guíes
+  ud: guíe
+  nosotros: guiemos
+  vosotros: guiéis
+  uds: guíen
+preterito-perfecto-subjuntivo:
+  yo: haya guiado
+  tu: hayas guiado
+  vos: hayas guiado
+  ud: haya guiado
+  nosotros: hayamos guiado
+  vosotros: hayáis guiado
+  uds: hayan guiado
+imperfecto-subjuntivo:
+  yo:
+    - guiara
+    - guiese
+  tu:
+    - guiaras
+    - guieses
+  vos:
+    - guiaras
+    - guieses
+  ud:
+    - guiara
+    - guiese
+  nosotros:
+    - guiáramos
+    - guiésemos
+  vosotros:
+    - guiarais
+    - guieseis
+  uds:
+    - guiaran
+    - guiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera guiado
+    - hubiese guiado
+  tu:
+    - hubieras guiado
+    - hubieses guiado
+  vos:
+    - hubieras guiado
+    - hubieses guiado
+  ud:
+    - hubiera guiado
+    - hubiese guiado
+  nosotros:
+    - hubiéramos guiado
+    - hubiésemos guiado
+  vosotros:
+    - hubierais guiado
+    - hubieseis guiado
+  uds:
+    - hubieran guiado
+    - hubiesen guiado
+imperativo:
+  tu: guía
+  vos: guía
+  ud: guíe
+  nosotros: guiemos
+  vosotros: guiad
+  uds: guíen

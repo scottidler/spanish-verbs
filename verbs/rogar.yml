@@ -1,0 +1,142 @@
+infinitivo: rogar
+gerundio: rogando
+participio-pasado: rogado
+presente-indicativo:
+  yo: rogo
+  tu: róegas
+  vos: róegas
+  ud: róega
+  nosotros: rogamos
+  vosotros: rogáis
+  uds: róegan
+preterito-perfecto-simple:
+  yo: rogué
+  tu: rogaste
+  vos: rogaste
+  ud: rogó
+  nosotros: rogamos
+  vosotros: rogasteis
+  uds: rogaron
+preterito-imperfecto:
+  yo: rogaba
+  tu: rogabas
+  vos: rogabas
+  ud: rogaba
+  nosotros: rogábamos
+  vosotros: rogabais
+  uds: rogaban
+futuro-simple:
+  yo: rogaré
+  tu: rogarás
+  vos: rogarás
+  ud: rogará
+  nosotros: rogaremos
+  vosotros: rogaréis
+  uds: rogarán
+condicional-simple:
+  yo: rogaría
+  tu: rogarías
+  vos: rogarías
+  ud: rogaría
+  nosotros: rogaríamos
+  vosotros: rogaríais
+  uds: rogarían
+presente-perfecto:
+  yo: he rogado
+  tu: has rogado
+  vos: has rogado
+  ud: ha rogado
+  nosotros: hemos rogado
+  vosotros: habéis rogado
+  uds: han rogado
+preterito-pluscuamperfecto:
+  yo: había rogado
+  tu: habías rogado
+  vos: habías rogado
+  ud: había rogado
+  nosotros: habíamos rogado
+  vosotros: habíais rogado
+  uds: habían rogado
+futuro-perfecto:
+  yo: habré rogado
+  tu: habrás rogado
+  vos: habrás rogado
+  ud: habrá rogado
+  nosotros: habremos rogado
+  vosotros: habréis rogado
+  uds: habrán rogado
+condicional-perfecto:
+  yo: habría rogado
+  tu: habrías rogado
+  vos: habrías rogado
+  ud: habría rogado
+  nosotros: habríamos rogado
+  vosotros: habríais rogado
+  uds: habrían rogado
+presente-subjuntivo:
+  yo: ruegue
+  tu: ruegues
+  vos: ruegues
+  ud: ruegue
+  nosotros: roguemos
+  vosotros: rogéis
+  uds: rueguen
+preterito-perfecto-subjuntivo:
+  yo: haya rogado
+  tu: hayas rogado
+  vos: hayas rogado
+  ud: haya rogado
+  nosotros: hayamos rogado
+  vosotros: hayáis rogado
+  uds: hayan rogado
+imperfecto-subjuntivo:
+  yo:
+    - rogara
+    - rogase
+  tu:
+    - rogaras
+    - rogases
+  vos:
+    - rogaras
+    - rogases
+  ud:
+    - rogara
+    - rogase
+  nosotros:
+    - rogáramos
+    - rogásemos
+  vosotros:
+    - rogarais
+    - rogaseis
+  uds:
+    - rogaran
+    - rogasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rogado
+    - hubiese rogado
+  tu:
+    - hubieras rogado
+    - hubieses rogado
+  vos:
+    - hubieras rogado
+    - hubieses rogado
+  ud:
+    - hubiera rogado
+    - hubiese rogado
+  nosotros:
+    - hubiéramos rogado
+    - hubiésemos rogado
+  vosotros:
+    - hubierais rogado
+    - hubieseis rogado
+  uds:
+    - hubieran rogado
+    - hubiesen rogado
+imperativo:
+  tu: ruega
+  vos: rógale
+  ud: ruegue
+  nosotros: roguemos
+  vosotros: rogad
+  uds: rueguen

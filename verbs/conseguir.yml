@@ -1,0 +1,142 @@
+infinitivo: conseguir
+gerundio: consiguiendo
+participio-pasado: conseguido
+presente-indicativo:
+  yo: consigo
+  tu: consigues
+  vos: conseguis
+  ud: consigue
+  nosotros: conseguimos
+  vosotros: conseguís
+  uds: consiguen
+preterito-perfecto-simple:
+  yo: conseguí
+  tu: conseguiste
+  vos: conseguiste
+  ud: consiguió
+  nosotros: conseguimos
+  vosotros: conseguisteis
+  uds: consiguieron
+preterito-imperfecto:
+  yo: conseguía
+  tu: conseguías
+  vos: conseguías
+  ud: conseguía
+  nosotros: conseguíamos
+  vosotros: conseguíais
+  uds: conseguían
+futuro-simple:
+  yo: conseguiré
+  tu: conseguirás
+  vos: conseguirás
+  ud: conseguirá
+  nosotros: conseguiremos
+  vosotros: conseguiréis
+  uds: conseguirán
+condicional-simple:
+  yo: conseguiría
+  tu: conseguirías
+  vos: conseguirías
+  ud: conseguiría
+  nosotros: conseguiríamos
+  vosotros: conseguiríais
+  uds: conseguirían
+presente-perfecto:
+  yo: he conseguido
+  tu: has conseguido
+  vos: has conseguido
+  ud: ha conseguido
+  nosotros: hemos conseguido
+  vosotros: habéis conseguido
+  uds: han conseguido
+preterito-pluscuamperfecto:
+  yo: había conseguido
+  tu: habías conseguido
+  vos: habías conseguido
+  ud: había conseguido
+  nosotros: habíamos conseguido
+  vosotros: habíais conseguido
+  uds: habían conseguido
+futuro-perfecto:
+  yo: habré conseguido
+  tu: habrás conseguido
+  vos: habrás conseguido
+  ud: habrá conseguido
+  nosotros: habremos conseguido
+  vosotros: habréis conseguido
+  uds: habrán conseguido
+condicional-perfecto:
+  yo: habría conseguido
+  tu: habrías conseguido
+  vos: habrías conseguido
+  ud: habría conseguido
+  nosotros: habríamos conseguido
+  vosotros: habríais conseguido
+  uds: habrían conseguido
+presente-subjuntivo:
+  yo: consiga
+  tu: consigas
+  vos: consigas
+  ud: consiga
+  nosotros: consigamos
+  vosotros: consigáis
+  uds: consigan
+preterito-perfecto-subjuntivo:
+  yo: haya conseguido
+  tu: hayas conseguido
+  vos: hayas conseguido
+  ud: haya conseguido
+  nosotros: hayamos conseguido
+  vosotros: hayáis conseguido
+  uds: hayan conseguido
+imperfecto-subjuntivo:
+  yo:
+    - consiguiera
+    - consiguiese
+  tu:
+    - consiguieras
+    - consiguieses
+  vos:
+    - consiguieras
+    - consiguieses
+  ud:
+    - consiguiera
+    - consiguiese
+  nosotros:
+    - consiguiéramos
+    - consiguiésemos
+  vosotros:
+    - consiguierais
+    - consiguieseis
+  uds:
+    - consiguieran
+    - consiguiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conseguido
+    - hubiese conseguido
+  tu:
+    - hubieras conseguido
+    - hubieses conseguido
+  vos:
+    - hubieras conseguido
+    - hubieses conseguido
+  ud:
+    - hubiera conseguido
+    - hubiese conseguido
+  nosotros:
+    - hubiéramos conseguido
+    - hubiésemos conseguido
+  vosotros:
+    - hubierais conseguido
+    - hubieseis conseguido
+  uds:
+    - hubieran conseguido
+    - hubiesen conseguido
+imperativo:
+  tu: consigue
+  vos: conseguí
+  ud: consiga
+  nosotros: consigamos
+  vosotros: conseguid
+  uds: consigan

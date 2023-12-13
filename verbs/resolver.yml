@@ -1,0 +1,142 @@
+infinitivo: resolver
+gerundio: resolviendo
+participio-pasado: resuelto
+presente-indicativo:
+  yo: resuelvo
+  tu: resuelves
+  vos: resolvés
+  ud: resuelve
+  nosotros: resolvemos
+  vosotros: resolvéis
+  uds: resuelven
+preterito-perfecto-simple:
+  yo: resolví
+  tu: resolviste
+  vos: resolviste
+  ud: resolvió
+  nosotros: resolvimos
+  vosotros: resolvisteis
+  uds: resolvieron
+preterito-imperfecto:
+  yo: resolvía
+  tu: resolvías
+  vos: resolvías
+  ud: resolvía
+  nosotros: resolvíamos
+  vosotros: resolvíais
+  uds: resolvían
+futuro-simple:
+  yo: resolveré
+  tu: resolverás
+  vos: resolverás
+  ud: resolverá
+  nosotros: resolveremos
+  vosotros: resolveréis
+  uds: resolverán
+condicional-simple:
+  yo: resolvería
+  tu: resolverías
+  vos: resolverías
+  ud: resolvería
+  nosotros: resolveríamos
+  vosotros: resolveríais
+  uds: resolverían
+presente-perfecto:
+  yo: he resuelto
+  tu: has resuelto
+  vos: has resuelto
+  ud: ha resuelto
+  nosotros: hemos resuelto
+  vosotros: habéis resuelto
+  uds: han resuelto
+preterito-pluscuamperfecto:
+  yo: había resuelto
+  tu: habías resuelto
+  vos: habías resuelto
+  ud: había resuelto
+  nosotros: habíamos resuelto
+  vosotros: habíais resuelto
+  uds: habían resuelto
+futuro-perfecto:
+  yo: habré resuelto
+  tu: habrás resuelto
+  vos: habrás resuelto
+  ud: habrá resuelto
+  nosotros: habremos resuelto
+  vosotros: habréis resuelto
+  uds: habrán resuelto
+condicional-perfecto:
+  yo: habría resuelto
+  tu: habrías resuelto
+  vos: habrías resuelto
+  ud: habría resuelto
+  nosotros: habríamos resuelto
+  vosotros: habríais resuelto
+  uds: habrían resuelto
+presente-subjuntivo:
+  yo: resuelva
+  tu: resuelvas
+  vos: resuelvas
+  ud: resuelva
+  nosotros: resolvamos
+  vosotros: resolváis
+  uds: resuelvan
+preterito-perfecto-subjuntivo:
+  yo: haya resuelto
+  tu: hayas resuelto
+  vos: hayas resuelto
+  ud: haya resuelto
+  nosotros: hayamos resuelto
+  vosotros: hayáis resuelto
+  uds: hayan resuelto
+imperfecto-subjuntivo:
+  yo:
+    - resolviera
+    - resolviese
+  tu:
+    - resolvieras
+    - resolvieses
+  vos:
+    - resolvieras
+    - resolvieses
+  ud:
+    - resolviera
+    - resolviese
+  nosotros:
+    - resolviéramos
+    - resolviésemos
+  vosotros:
+    - resolvierais
+    - resolvieseis
+  uds:
+    - resolvieran
+    - resolviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera resuelto
+    - hubiese resuelto
+  tu:
+    - hubieras resuelto
+    - hubieses resuelto
+  vos:
+    - hubieras resuelto
+    - hubieses resuelto
+  ud:
+    - hubiera resuelto
+    - hubiese resuelto
+  nosotros:
+    - hubiéramos resuelto
+    - hubiésemos resuelto
+  vosotros:
+    - hubierais resuelto
+    - hubieseis resuelto
+  uds:
+    - hubieran resuelto
+    - hubiesen resuelto
+imperativo:
+  tu: resuelve
+  vos: resolvé
+  ud: resuelva
+  nosotros: resolvamos
+  vosotros: resolved
+  uds: resuelvan

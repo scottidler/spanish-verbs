@@ -1,0 +1,142 @@
+infinitivo: resultar
+gerundio: resultando
+participio-pasado: resultado
+presente-indicativo:
+  yo: resulto
+  tu: resultas
+  vos: resultas
+  ud: resulta
+  nosotros: resultamos
+  vosotros: resultáis
+  uds: resultan
+preterito-perfecto-simple:
+  yo: resulté
+  tu: resultaste
+  vos: resultaste
+  ud: resultó
+  nosotros: resultamos
+  vosotros: resultasteis
+  uds: resultaron
+preterito-imperfecto:
+  yo: resultaba
+  tu: resultabas
+  vos: resultabas
+  ud: resultaba
+  nosotros: resultábamos
+  vosotros: resultabais
+  uds: resultaban
+futuro-simple:
+  yo: resultaré
+  tu: resultarás
+  vos: resultarás
+  ud: resultará
+  nosotros: resultaremos
+  vosotros: resultaréis
+  uds: resultarán
+condicional-simple:
+  yo: resultaría
+  tu: resultarías
+  vos: resultarías
+  ud: resultaría
+  nosotros: resultaríamos
+  vosotros: resultaríais
+  uds: resultarían
+presente-perfecto:
+  yo: he resultado
+  tu: has resultado
+  vos: has resultado
+  ud: ha resultado
+  nosotros: hemos resultado
+  vosotros: habéis resultado
+  uds: han resultado
+preterito-pluscuamperfecto:
+  yo: había resultado
+  tu: habías resultado
+  vos: habías resultado
+  ud: había resultado
+  nosotros: habíamos resultado
+  vosotros: habíais resultado
+  uds: habían resultado
+futuro-perfecto:
+  yo: habré resultado
+  tu: habrás resultado
+  vos: habrás resultado
+  ud: habrá resultado
+  nosotros: habremos resultado
+  vosotros: habréis resultado
+  uds: habrán resultado
+condicional-perfecto:
+  yo: habría resultado
+  tu: habrías resultado
+  vos: habrías resultado
+  ud: habría resultado
+  nosotros: habríamos resultado
+  vosotros: habríais resultado
+  uds: habrían resultado
+presente-subjuntivo:
+  yo: resulte
+  tu: resultes
+  vos: resultes
+  ud: resulte
+  nosotros: resultemos
+  vosotros: resultéis
+  uds: resulten
+preterito-perfecto-subjuntivo:
+  yo: haya resultado
+  tu: hayas resultado
+  vos: hayas resultado
+  ud: haya resultado
+  nosotros: hayamos resultado
+  vosotros: hayáis resultado
+  uds: hayan resultado
+imperfecto-subjuntivo:
+  yo:
+    - resultara
+    - resultase
+  tu:
+    - resultaras
+    - resultases
+  vos:
+    - resultaras
+    - resultases
+  ud:
+    - resultara
+    - resultase
+  nosotros:
+    - resultáramos
+    - resultásemos
+  vosotros:
+    - resultarais
+    - resultaseis
+  uds:
+    - resultaran
+    - resultasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera resultado
+    - hubiese resultado
+  tu:
+    - hubieras resultado
+    - hubieses resultado
+  vos:
+    - hubieras resultado
+    - hubieses resultado
+  ud:
+    - hubiera resultado
+    - hubiese resultado
+  nosotros:
+    - hubiéramos resultado
+    - hubiésemos resultado
+  vosotros:
+    - hubierais resultado
+    - hubieseis resultado
+  uds:
+    - hubieran resultado
+    - hubiesen resultado
+imperativo:
+  tu: resulta
+  vos: resultá
+  ud: resulte
+  nosotros: resultemos
+  vosotros: resultad
+  uds: resulten

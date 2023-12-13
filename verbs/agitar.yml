@@ -1,0 +1,142 @@
+infinitivo: agitar
+gerundio: agitando
+participio-pasado: agitado
+presente-indicativo:
+  yo: agito
+  tu: agitas
+  vos: agitas
+  ud: agita
+  nosotros: agitamos
+  vosotros: agitáis
+  uds: agitan
+preterito-perfecto-simple:
+  yo: agité
+  tu: agitaste
+  vos: agitaste
+  ud: agitó
+  nosotros: agitamos
+  vosotros: agitasteis
+  uds: agitaron
+preterito-imperfecto:
+  yo: agitaba
+  tu: agitabas
+  vos: agitabas
+  ud: agitaba
+  nosotros: agitábamos
+  vosotros: agitabais
+  uds: agitaban
+futuro-simple:
+  yo: agitaré
+  tu: agitarás
+  vos: agitarás
+  ud: agitará
+  nosotros: agitaremos
+  vosotros: agitaréis
+  uds: agitarán
+condicional-simple:
+  yo: agitaría
+  tu: agitarías
+  vos: agitarías
+  ud: agitaría
+  nosotros: agitaríamos
+  vosotros: agitaríais
+  uds: agitarían
+presente-perfecto:
+  yo: he agitado
+  tu: has agitado
+  vos: has agitado
+  ud: ha agitado
+  nosotros: hemos agitado
+  vosotros: habéis agitado
+  uds: han agitado
+preterito-pluscuamperfecto:
+  yo: había agitado
+  tu: habías agitado
+  vos: habías agitado
+  ud: había agitado
+  nosotros: habíamos agitado
+  vosotros: habíais agitado
+  uds: habían agitado
+futuro-perfecto:
+  yo: habré agitado
+  tu: habrás agitado
+  vos: habrás agitado
+  ud: habrá agitado
+  nosotros: habremos agitado
+  vosotros: habréis agitado
+  uds: habrán agitado
+condicional-perfecto:
+  yo: habría agitado
+  tu: habrías agitado
+  vos: habrías agitado
+  ud: habría agitado
+  nosotros: habríamos agitado
+  vosotros: habríais agitado
+  uds: habrían agitado
+presente-subjuntivo:
+  yo: agite
+  tu: agites
+  vos: agites
+  ud: agite
+  nosotros: agitemos
+  vosotros: agitéis
+  uds: agiten
+preterito-perfecto-subjuntivo:
+  yo: haya agitado
+  tu: hayas agitado
+  vos: hayas agitado
+  ud: haya agitado
+  nosotros: hayamos agitado
+  vosotros: hayáis agitado
+  uds: hayan agitado
+imperfecto-subjuntivo:
+  yo:
+    - agitara
+    - agitase
+  tu:
+    - agitaras
+    - agitases
+  vos:
+    - agitaras
+    - agitases
+  ud:
+    - agitara
+    - agitase
+  nosotros:
+    - agitáramos
+    - agitásemos
+  vosotros:
+    - agitarais
+    - agitaseis
+  uds:
+    - agitaran
+    - agitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agitado
+    - hubiese agitado
+  tu:
+    - hubieras agitado
+    - hubieses agitado
+  vos:
+    - hubieras agitado
+    - hubieses agitado
+  ud:
+    - hubiera agitado
+    - hubiese agitado
+  nosotros:
+    - hubiéramos agitado
+    - hubiésemos agitado
+  vosotros:
+    - hubierais agitado
+    - hubieseis agitado
+  uds:
+    - hubieran agitado
+    - hubiesen agitado
+imperativo:
+  tu: agita
+  vos: agitá
+  ud: agite
+  nosotros: agitemos
+  vosotros: agitad
+  uds: agiten

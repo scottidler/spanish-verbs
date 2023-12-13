@@ -1,0 +1,142 @@
+infinitivo: partir
+gerundio: partiendo
+participio-pasado: partido
+presente-indicativo:
+  yo: parto
+  tu: partes
+  vos: partís
+  ud: parte
+  nosotros: partimos
+  vosotros: partís
+  uds: parten
+preterito-perfecto-simple:
+  yo: partí
+  tu: partiste
+  vos: partiste
+  ud: partió
+  nosotros: partimos
+  vosotros: partisteis
+  uds: partieron
+preterito-imperfecto:
+  yo: partía
+  tu: partías
+  vos: partías
+  ud: partía
+  nosotros: partíamos
+  vosotros: partíais
+  uds: partían
+futuro-simple:
+  yo: partiré
+  tu: partirás
+  vos: partirás
+  ud: partirá
+  nosotros: partiremos
+  vosotros: partiréis
+  uds: partirán
+condicional-simple:
+  yo: partiría
+  tu: partirías
+  vos: partirías
+  ud: partiría
+  nosotros: partiríamos
+  vosotros: partiríais
+  uds: partirían
+presente-perfecto:
+  yo: he partido
+  tu: has partido
+  vos: has partido
+  ud: ha partido
+  nosotros: hemos partido
+  vosotros: habéis partido
+  uds: han partido
+preterito-pluscuamperfecto:
+  yo: había partido
+  tu: habías partido
+  vos: habías partido
+  ud: había partido
+  nosotros: habíamos partido
+  vosotros: habíais partido
+  uds: habían partido
+futuro-perfecto:
+  yo: habré partido
+  tu: habrás partido
+  vos: habrás partido
+  ud: habrá partido
+  nosotros: habremos partido
+  vosotros: habréis partido
+  uds: habrán partido
+condicional-perfecto:
+  yo: habría partido
+  tu: habrías partido
+  vos: habrías partido
+  ud: habría partido
+  nosotros: habríamos partido
+  vosotros: habríais partido
+  uds: habrían partido
+presente-subjuntivo:
+  yo: parta
+  tu: partas
+  vos: partas
+  ud: parta
+  nosotros: partamos
+  vosotros: partáis
+  uds: partan
+preterito-perfecto-subjuntivo:
+  yo: haya partido
+  tu: hayas partido
+  vos: hayas partido
+  ud: haya partido
+  nosotros: hayamos partido
+  vosotros: hayáis partido
+  uds: hayan partido
+imperfecto-subjuntivo:
+  yo:
+    - partiera
+    - partiese
+  tu:
+    - partieras
+    - partieses
+  vos:
+    - partieras
+    - partieses
+  ud:
+    - partiera
+    - partiese
+  nosotros:
+    - partiéramos
+    - partiésemos
+  vosotros:
+    - partierais
+    - partieseis
+  uds:
+    - partieran
+    - partiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera partido
+    - hubiese partido
+  tu:
+    - hubieras partido
+    - hubieses partido
+  vos:
+    - hubieras partido
+    - hubieses partido
+  ud:
+    - hubiera partido
+    - hubiese partido
+  nosotros:
+    - hubiéramos partido
+    - hubiésemos partido
+  vosotros:
+    - hubierais partido
+    - hubieseis partido
+  uds:
+    - hubieran partido
+    - hubiesen partido
+imperativo:
+  tu: parte
+  vos: partí
+  ud: parta
+  nosotros: partamos
+  vosotros: partid
+  uds: partan

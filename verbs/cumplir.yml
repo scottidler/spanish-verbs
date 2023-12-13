@@ -1,0 +1,142 @@
+infinitivo: cumplir
+gerundio: cumpliendo
+participio-pasado: cumplido
+presente-indicativo:
+  yo: cumplo
+  tu: cumples
+  vos: cumples
+  ud: cumple
+  nosotros: cumplimos
+  vosotros: cumplís
+  uds: cumplen
+preterito-perfecto-simple:
+  yo: cumplí
+  tu: cumpliste
+  vos: cumpliste
+  ud: cumplió
+  nosotros: cumplimos
+  vosotros: cumplisteis
+  uds: cumplieron
+preterito-imperfecto:
+  yo: cumplía
+  tu: cumplías
+  vos: cumplías
+  ud: cumplía
+  nosotros: cumplíamos
+  vosotros: cumplíais
+  uds: cumplían
+futuro-simple:
+  yo: cumpliré
+  tu: cumplirás
+  vos: cumplirás
+  ud: cumplirá
+  nosotros: cumpliremos
+  vosotros: cumpliréis
+  uds: cumplirán
+condicional-simple:
+  yo: cumpliría
+  tu: cumplirías
+  vos: cumplirías
+  ud: cumpliría
+  nosotros: cumpliríamos
+  vosotros: cumpliríais
+  uds: cumplirían
+presente-perfecto:
+  yo: he cumplido
+  tu: has cumplido
+  vos: has cumplido
+  ud: ha cumplido
+  nosotros: hemos cumplido
+  vosotros: habéis cumplido
+  uds: han cumplido
+preterito-pluscuamperfecto:
+  yo: había cumplido
+  tu: habías cumplido
+  vos: habías cumplido
+  ud: había cumplido
+  nosotros: habíamos cumplido
+  vosotros: habíais cumplido
+  uds: habían cumplido
+futuro-perfecto:
+  yo: habré cumplido
+  tu: habrás cumplido
+  vos: habrás cumplido
+  ud: habrá cumplido
+  nosotros: habremos cumplido
+  vosotros: habréis cumplido
+  uds: habrán cumplido
+condicional-perfecto:
+  yo: habría cumplido
+  tu: habrías cumplido
+  vos: habrías cumplido
+  ud: habría cumplido
+  nosotros: habríamos cumplido
+  vosotros: habríais cumplido
+  uds: habrían cumplido
+presente-subjuntivo:
+  yo: cumpla
+  tu: cumplas
+  vos: cumplas
+  ud: cumpla
+  nosotros: cumplamos
+  vosotros: cumpláis
+  uds: cumplan
+preterito-perfecto-subjuntivo:
+  yo: haya cumplido
+  tu: hayas cumplido
+  vos: hayas cumplido
+  ud: haya cumplido
+  nosotros: hayamos cumplido
+  vosotros: hayáis cumplido
+  uds: hayan cumplido
+imperfecto-subjuntivo:
+  yo:
+    - cumpliera
+    - cumpliese
+  tu:
+    - cumplieras
+    - cumplieses
+  vos:
+    - cumplieras
+    - cumplieses
+  ud:
+    - cumpliera
+    - cumpliese
+  nosotros:
+    - cumpliéramos
+    - cumpliésemos
+  vosotros:
+    - cumplierais
+    - cumplieseis
+  uds:
+    - cumplieran
+    - cumpliesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cumplido
+    - hubiese cumplido
+  tu:
+    - hubieras cumplido
+    - hubieses cumplido
+  vos:
+    - hubieras cumplido
+    - hubieses cumplido
+  ud:
+    - hubiera cumplido
+    - hubiese cumplido
+  nosotros:
+    - hubiéramos cumplido
+    - hubiésemos cumplido
+  vosotros:
+    - hubierais cumplido
+    - hubieseis cumplido
+  uds:
+    - hubieran cumplido
+    - hubiesen cumplido
+imperativo:
+  tu: cumple
+  vos: cumplí
+  ud: cumpla
+  nosotros: cumplamos
+  vosotros: cumplid
+  uds: cumplan

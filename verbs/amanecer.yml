@@ -1,0 +1,142 @@
+infinitivo: amanecer
+gerundio: amaneciendo
+participio-pasado: amanecido
+presente-indicativo:
+  yo: amanezco
+  tu: amaneces
+  vos: amaneces
+  ud: amanece
+  nosotros: amanecemos
+  vosotros: amanecéis
+  uds: amanecen
+preterito-perfecto-simple:
+  yo: amanecí
+  tu: amaneciste
+  vos: amaneciste
+  ud: amaneció
+  nosotros: amanecimos
+  vosotros: amanecisteis
+  uds: amanecieron
+preterito-imperfecto:
+  yo: amanecía
+  tu: amanecías
+  vos: amanecías
+  ud: amanecía
+  nosotros: amanecíamos
+  vosotros: amanecíais
+  uds: amanecían
+futuro-simple:
+  yo: amaneceré
+  tu: amanecerás
+  vos: amanecerás
+  ud: amanecerá
+  nosotros: amaneceremos
+  vosotros: amaneceréis
+  uds: amanecerán
+condicional-simple:
+  yo: amanecería
+  tu: amanecerías
+  vos: amanecerías
+  ud: amanecería
+  nosotros: amaneceríamos
+  vosotros: amaneceríais
+  uds: amanecerían
+presente-perfecto:
+  yo: he amanecido
+  tu: has amanecido
+  vos: has amanecido
+  ud: ha amanecido
+  nosotros: hemos amanecido
+  vosotros: habéis amanecido
+  uds: han amanecido
+preterito-pluscuamperfecto:
+  yo: había amanecido
+  tu: habías amanecido
+  vos: habías amanecido
+  ud: había amanecido
+  nosotros: habíamos amanecido
+  vosotros: habíais amanecido
+  uds: habían amanecido
+futuro-perfecto:
+  yo: habré amanecido
+  tu: habrás amanecido
+  vos: habrás amanecido
+  ud: habrá amanecido
+  nosotros: habremos amanecido
+  vosotros: habréis amanecido
+  uds: habrán amanecido
+condicional-perfecto:
+  yo: habría amanecido
+  tu: habrías amanecido
+  vos: habrías amanecido
+  ud: habría amanecido
+  nosotros: habríamos amanecido
+  vosotros: habríais amanecido
+  uds: habrían amanecido
+presente-subjuntivo:
+  yo: amanezca
+  tu: amanezcas
+  vos: amanezcas
+  ud: amanezca
+  nosotros: amanezcamos
+  vosotros: amanezcáis
+  uds: amanezcan
+preterito-perfecto-subjuntivo:
+  yo: haya amanecido
+  tu: hayas amanecido
+  vos: hayas amanecido
+  ud: haya amanecido
+  nosotros: hayamos amanecido
+  vosotros: hayáis amanecido
+  uds: hayan amanecido
+imperfecto-subjuntivo:
+  yo:
+    - amaneciera
+    - amaneciese
+  tu:
+    - amanecieras
+    - amanecieses
+  vos:
+    - amanecieras
+    - amanecieses
+  ud:
+    - amaneciera
+    - amaneciese
+  nosotros:
+    - amaneciéramos
+    - amaneciésemos
+  vosotros:
+    - amanecierais
+    - amanecieseis
+  uds:
+    - amanecieran
+    - amaneciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera amanecido
+    - hubiese amanecido
+  tu:
+    - hubieras amanecido
+    - hubieses amanecido
+  vos:
+    - hubieras amanecido
+    - hubieses amanecido
+  ud:
+    - hubiera amanecido
+    - hubiese amanecido
+  nosotros:
+    - hubiéramos amanecido
+    - hubiésemos amanecido
+  vosotros:
+    - hubierais amanecido
+    - hubieseis amanecido
+  uds:
+    - hubieran amanecido
+    - hubiesen amanecido
+imperativo:
+  tu: amanece
+  vos: amanece
+  ud: amanezca
+  nosotros: amanezcamos
+  vosotros: amaneced
+  uds: amanezcan

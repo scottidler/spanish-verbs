@@ -1,0 +1,142 @@
+infinitivo: acabar
+gerundio: acabando
+participio-pasado: acabado
+presente-indicativo: 
+  yo: acabo
+  tu: acabas
+  vos: acabas
+  ud: acaba
+  nosotros: acabamos
+  vosotros: acabáis
+  uds: acaban
+preterito-perfecto-simple: 
+  yo: acabé
+  tu: acabaste
+  vos: acabaste
+  ud: acabó
+  nosotros: acabamos
+  vosotros: acabasteis
+  uds: acabaron
+preterito-imperfecto: 
+  yo: acababa
+  tu: acababas
+  vos: acababas
+  ud: acababa
+  nosotros: acabábamos
+  vosotros: acababais
+  uds: acababan
+futuro-simple: 
+  yo: acabaré
+  tu: acabarás
+  vos: acabarás
+  ud: acabará
+  nosotros: acabaremos
+  vosotros: acabaréis
+  uds: acabarán
+condicional-simple: 
+  yo: acabaría
+  tu: acabarías
+  vos: acabarías
+  ud: acabaría
+  nosotros: acabaríamos
+  vosotros: acabaríais
+  uds: acabarían
+presente-perfecto: 
+  yo: he acabado
+  tu: has acabado
+  vos: has acabado
+  ud: ha acabado
+  nosotros: hemos acabado
+  vosotros: habéis acabado
+  uds: han acabado
+preterito-pluscuamperfecto: 
+  yo: había acabado
+  tu: habías acabado
+  vos: habías acabado
+  ud: había acabado
+  nosotros: habíamos acabado
+  vosotros: habíais acabado
+  uds: habían acabado
+futuro-perfecto: 
+  yo: habré acabado
+  tu: habrás acabado
+  vos: habrás acabado
+  ud: habrá acabado
+  nosotros: habremos acabado
+  vosotros: habréis acabado
+  uds: habrán acabado
+condicional-perfecto: 
+  yo: habría acabado
+  tu: habrías acabado
+  vos: habrías acabado
+  ud: habría acabado
+  nosotros: habríamos acabado
+  vosotros: habríais acabado
+  uds: habrían acabado
+presente-subjuntivo: 
+  yo: acabe
+  tu: acabes
+  vos: acabes
+  ud: acabe
+  nosotros: acabemos
+  vosotros: acabéis
+  uds: acaben
+preterito-perfecto-subjuntivo: 
+  yo: haya acabado
+  tu: hayas acabado
+  vos: hayas acabado
+  ud: haya acabado
+  nosotros: hayamos acabado
+  vosotros: hayáis acabado
+  uds: hayan acabado
+imperfecto-subjuntivo: 
+  yo: 
+    - acabara
+    - acabase
+  tu: 
+    - acabaras
+    - acabases
+  vos: 
+    - acabaras
+    - acabases
+  ud: 
+    - acabara
+    - acabase
+  nosotros: 
+    - acabáramos
+    - acabásemos
+  vosotros: 
+    - acabarais
+    - acabaseis
+  uds: 
+    - acabaran
+    - acabasen
+pluscuamperfecto-subjuntivo: 
+  yo: 
+    - hubiera acabado
+    - hubiese acabado
+  tu: 
+    - hubieras acabado
+    - hubieses acabado
+  vos: 
+    - hubieras acabado
+    - hubieses acabado
+  ud: 
+    - hubiera acabado
+    - hubiese acabado
+  nosotros: 
+    - hubiéramos acabado
+    - hubiésemos acabado
+  vosotros: 
+    - hubierais acabado
+    - hubieseis acabado
+  uds: 
+    - hubieran acabado
+    - hubiesen acabado
+imperativo: 
+  tu: acaba
+  vos: acabá
+  ud: acabe
+  nosotros: acabemos
+  vosotros: acabad
+  uds: acaben

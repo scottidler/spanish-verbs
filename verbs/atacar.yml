@@ -1,0 +1,142 @@
+infinitivo: atacar
+gerundio: atacando
+participio-pasado: atacado
+presente-indicativo:
+  yo: ataco
+  tu: atacas
+  vos: atacas
+  ud: ataca
+  nosotros: atacamos
+  vosotros: atacáis
+  uds: atacan
+preterito-perfecto-simple:
+  yo: ataqué
+  tu: atacaste
+  vos: atacaste
+  ud: atacó
+  nosotros: atacamos
+  vosotros: atacasteis
+  uds: atacaron
+preterito-imperfecto:
+  yo: atacaba
+  tu: atacabas
+  vos: atacabas
+  ud: atacaba
+  nosotros: atacábamos
+  vosotros: atacabais
+  uds: atacaban
+futuro-simple:
+  yo: atacaré
+  tu: atacarás
+  vos: atacarás
+  ud: atacará
+  nosotros: atacaremos
+  vosotros: atacaréis
+  uds: atacarán
+condicional-simple:
+  yo: atacaría
+  tu: atacarías
+  vos: atacarías
+  ud: atacaría
+  nosotros: atacaríamos
+  vosotros: atacaríais
+  uds: atacarían
+presente-perfecto:
+  yo: he atacado
+  tu: has atacado
+  vos: has atacado
+  ud: ha atacado
+  nosotros: hemos atacado
+  vosotros: habéis atacado
+  uds: han atacado
+preterito-pluscuamperfecto:
+  yo: había atacado
+  tu: habías atacado
+  vos: habías atacado
+  ud: había atacado
+  nosotros: habíamos atacado
+  vosotros: habíais atacado
+  uds: habían atacado
+futuro-perfecto:
+  yo: habré atacado
+  tu: habrás atacado
+  vos: habrás atacado
+  ud: habrá atacado
+  nosotros: habremos atacado
+  vosotros: habréis atacado
+  uds: habrán atacado
+condicional-perfecto:
+  yo: habría atacado
+  tu: habrías atacado
+  vos: habrías atacado
+  ud: habría atacado
+  nosotros: habríamos atacado
+  vosotros: habríais atacado
+  uds: habrían atacado
+presente-subjuntivo:
+  yo: ataque
+  tu: ataques
+  vos: ataques
+  ud: ataque
+  nosotros: ataquemos
+  vosotros: ataquéis
+  uds: ataquen
+preterito-perfecto-subjuntivo:
+  yo: haya atacado
+  tu: hayas atacado
+  vos: hayas atacado
+  ud: haya atacado
+  nosotros: hayamos atacado
+  vosotros: hayáis atacado
+  uds: hayan atacado
+imperfecto-subjuntivo:
+  yo:
+    - atacara
+    - atacase
+  tu:
+    - atacaras
+    - atacases
+  vos:
+    - atacaras
+    - atacases
+  ud:
+    - atacara
+    - atacase
+  nosotros:
+    - atacáramos
+    - atacásemos
+  vosotros:
+    - atacarais
+    - atacaseis
+  uds:
+    - atacaran
+    - atacasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atacado
+    - hubiese atacado
+  tu:
+    - hubieras atacado
+    - hubieses atacado
+  vos:
+    - hubieras atacado
+    - hubieses atacado
+  ud:
+    - hubiera atacado
+    - hubiese atacado
+  nosotros:
+    - hubiéramos atacado
+    - hubiésemos atacado
+  vosotros:
+    - hubierais atacado
+    - hubieseis atacado
+  uds:
+    - hubieran atacado
+    - hubiesen atacado
+imperativo:
+  tu: ataca
+  vos: atacá
+  ud: ataque
+  nosotros: ataquemos
+  vosotros: atacad
+  uds: ataquen

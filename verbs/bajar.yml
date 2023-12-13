@@ -1,0 +1,142 @@
+infinitivo: bajar
+gerundio: bajando
+participio-pasado: bajado
+presente-indicativo:
+  yo: bajo
+  tu: bajas
+  vos: bajas
+  ud: baja
+  nosotros: bajamos
+  vosotros: bajáis
+  uds: bajan
+preterito-perfecto-simple:
+  yo: bajé
+  tu: bajaste
+  vos: bajaste
+  ud: bajó
+  nosotros: bajamos
+  vosotros: bajasteis
+  uds: bajaron
+preterito-imperfecto:
+  yo: bajaba
+  tu: bajabas
+  vos: bajabas
+  ud: bajaba
+  nosotros: bajábamos
+  vosotros: bajabais
+  uds: bajaban
+futuro-simple:
+  yo: bajaré
+  tu: bajarás
+  vos: bajarás
+  ud: bajará
+  nosotros: bajaremos
+  vosotros: bajaréis
+  uds: bajarán
+condicional-simple:
+  yo: bajaría
+  tu: bajarías
+  vos: bajarías
+  ud: bajaría
+  nosotros: bajaríamos
+  vosotros: bajaríais
+  uds: bajarían
+presente-perfecto:
+  yo: he bajado
+  tu: has bajado
+  vos: has bajado
+  ud: ha bajado
+  nosotros: hemos bajado
+  vosotros: habéis bajado
+  uds: han bajado
+preterito-pluscuamperfecto:
+  yo: había bajado
+  tu: habías bajado
+  vos: habías bajado
+  ud: había bajado
+  nosotros: habíamos bajado
+  vosotros: habíais bajado
+  uds: habían bajado
+futuro-perfecto:
+  yo: habré bajado
+  tu: habrás bajado
+  vos: habrás bajado
+  ud: habrá bajado
+  nosotros: habremos bajado
+  vosotros: habréis bajado
+  uds: habrán bajado
+condicional-perfecto:
+  yo: habría bajado
+  tu: habrías bajado
+  vos: habrías bajado
+  ud: habría bajado
+  nosotros: habríamos bajado
+  vosotros: habríais bajado
+  uds: habrían bajado
+presente-subjuntivo:
+  yo: baje
+  tu: bajes
+  vos: bajes
+  ud: baje
+  nosotros: bajemos
+  vosotros: bajéis
+  uds: bajen
+preterito-perfecto-subjuntivo:
+  yo: haya bajado
+  tu: hayas bajado
+  vos: hayas bajado
+  ud: haya bajado
+  nosotros: hayamos bajado
+  vosotros: hayáis bajado
+  uds: hayan bajado
+imperfecto-subjuntivo:
+  yo:
+    - bajara
+    - bajase
+  tu:
+    - bajaras
+    - bajases
+  vos:
+    - bajaras
+    - bajases
+  ud:
+    - bajara
+    - bajase
+  nosotros:
+    - bajáramos
+    - bajásemos
+  vosotros:
+    - bajarais
+    - bajaseis
+  uds:
+    - bajaran
+    - bajasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bajado
+    - hubiese bajado
+  tu:
+    - hubieras bajado
+    - hubieses bajado
+  vos:
+    - hubieras bajado
+    - hubieses bajado
+  ud:
+    - hubiera bajado
+    - hubiese bajado
+  nosotros:
+    - hubiéramos bajado
+    - hubiésemos bajado
+  vosotros:
+    - hubierais bajado
+    - hubieseis bajado
+  uds:
+    - hubieran bajado
+    - hubiesen bajado
+imperativo:
+  tu: baja
+  vos: bajá
+  ud: baje
+  nosotros: bajemos
+  vosotros: bajad
+  uds: bajen

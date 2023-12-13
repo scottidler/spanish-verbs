@@ -1,0 +1,142 @@
+infinitivo: abandonar
+gerundio: abandonando
+participio-pasado: abandonado
+presente-indicativo:
+  yo: abandono
+  tu: abandonas
+  vos: abandonas
+  ud: abandona
+  nosotros: abandonamos
+  vosotros: abandonáis
+  uds: abandonan
+preterito-perfecto-simple:
+  yo: abandoné
+  tu: abandonaste
+  vos: abandonaste
+  ud: abandonó
+  nosotros: abandonamos
+  vosotros: abandonasteis
+  uds: abandonaron
+preterito-imperfecto:
+  yo: abandonaba
+  tu: abandonabas
+  vos: abandonabas
+  ud: abandonaba
+  nosotros: abandonábamos
+  vosotros: abandonabais
+  uds: abandonaban
+futuro-simple:
+  yo: abandonaré
+  tu: abandonarás
+  vos: abandonarás
+  ud: abandonará
+  nosotros: abandonaremos
+  vosotros: abandonaréis
+  uds: abandonarán
+condicional-simple:
+  yo: abandonaría
+  tu: abandonarías
+  vos: abandonarías
+  ud: abandonaría
+  nosotros: abandonaríamos
+  vosotros: abandonaríais
+  uds: abandonarían
+presente-perfecto:
+  yo: he abandonado
+  tu: has abandonado
+  vos: has abandonado
+  ud: ha abandonado
+  nosotros: hemos abandonado
+  vosotros: habéis abandonado
+  uds: han abandonado
+preterito-pluscuamperfecto:
+  yo: había abandonado
+  tu: habías abandonado
+  vos: habías abandonado
+  ud: había abandonado
+  nosotros: habíamos abandonado
+  vosotros: habíais abandonado
+  uds: habían abandonado
+futuro-perfecto:
+  yo: habré abandonado
+  tu: habrás abandonado
+  vos: habrás abandonado
+  ud: habrá abandonado
+  nosotros: habremos abandonado
+  vosotros: habréis abandonado
+  uds: habrán abandonado
+condicional-perfecto:
+  yo: habría abandonado
+  tu: habrías abandonado
+  vos: habrías abandonado
+  ud: habría abandonado
+  nosotros: habríamos abandonado
+  vosotros: habríais abandonado
+  uds: habrían abandonado
+presente-subjuntivo:
+  yo: abandone
+  tu: abandones
+  vos: abandones
+  ud: abandone
+  nosotros: abandonemos
+  vosotros: abandonéis
+  uds: abandonen
+preterito-perfecto-subjuntivo:
+  yo: haya abandonado
+  tu: hayas abandonado
+  vos: hayas abandonado
+  ud: haya abandonado
+  nosotros: hayamos abandonado
+  vosotros: hayáis abandonado
+  uds: hayan abandonado
+imperfecto-subjuntivo:
+  yo:
+    - abandonara
+    - abandonase
+  tu:
+    - abandonaras
+    - abandonases
+  vos:
+    - abandonaras
+    - abandonases
+  ud:
+    - abandonara
+    - abandonase
+  nosotros:
+    - abandonáramos
+    - abandonásemos
+  vosotros:
+    - abandonarais
+    - abandonaseis
+  uds:
+    - abandonaran
+    - abandonasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera abandonado
+    - hubiese abandonado
+  tu:
+    - hubieras abandonado
+    - hubieses abandonado
+  vos:
+    - hubieras abandonado
+    - hubieses abandonado
+  ud:
+    - hubiera abandonado
+    - hubiese abandonado
+  nosotros:
+    - hubiéramos abandonado
+    - hubiésemos abandonado
+  vosotros:
+    - hubierais abandonado
+    - hubieseis abandonado
+  uds:
+    - hubieran abandonado
+    - hubiesen abandonado
+imperativo:
+  tu: abandona
+  vos: abandona
+  ud: abandone
+  nosotros: abandonemos
+  vosotros: abandonad
+  uds: abandonen

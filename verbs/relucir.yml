@@ -1,0 +1,142 @@
+infinitivo: relucir
+gerundio: reluciendo
+participio-pasado: relucido
+presente-indicativo:
+  yo: reluzco
+  tu: reluces
+  vos: reluces
+  ud: reluce
+  nosotros: relucimos
+  vosotros: relucís
+  uds: relucen
+preterito-perfecto-simple:
+  yo: relucí
+  tu: reluciste
+  vos: reluciste
+  ud: relució
+  nosotros: relucimos
+  vosotros: relucisteis
+  uds: relucieron
+preterito-imperfecto:
+  yo: relucía
+  tu: relucías
+  vos: relucías
+  ud: relucía
+  nosotros: relucíamos
+  vosotros: relucíais
+  uds: relucían
+futuro-simple:
+  yo: reluciré
+  tu: relucirás
+  vos: relucirás
+  ud: relucirá
+  nosotros: reluciremos
+  vosotros: reluciréis
+  uds: relucirán
+condicional-simple:
+  yo: reluciría
+  tu: relucirías
+  vos: relucirías
+  ud: reluciría
+  nosotros: reluciríamos
+  vosotros: reluciríais
+  uds: relucirían
+presente-perfecto:
+  yo: he relucido
+  tu: has relucido
+  vos: has relucido
+  ud: ha relucido
+  nosotros: hemos relucido
+  vosotros: habéis relucido
+  uds: han relucido
+preterito-pluscuamperfecto:
+  yo: había relucido
+  tu: habías relucido
+  vos: habías relucido
+  ud: había relucido
+  nosotros: habíamos relucido
+  vosotros: habíais relucido
+  uds: habían relucido
+futuro-perfecto:
+  yo: habré relucido
+  tu: habrás relucido
+  vos: habrás relucido
+  ud: habrá relucido
+  nosotros: habremos relucido
+  vosotros: habréis relucido
+  uds: habrán relucido
+condicional-perfecto:
+  yo: habría relucido
+  tu: habrías relucido
+  vos: habrías relucido
+  ud: habría relucido
+  nosotros: habríamos relucido
+  vosotros: habríais relucido
+  uds: habrían relucido
+presente-subjuntivo:
+  yo: reluzca
+  tu: reluzcas
+  vos: reluzcas
+  ud: reluzca
+  nosotros: reluzcamos
+  vosotros: reluzcáis
+  uds: reluzcan
+preterito-perfecto-subjuntivo:
+  yo: haya relucido
+  tu: hayas relucido
+  vos: hayas relucido
+  ud: haya relucido
+  nosotros: hayamos relucido
+  vosotros: hayáis relucido
+  uds: hayan relucido
+imperfecto-subjuntivo:
+  yo:
+    - reluciera
+    - reluciese
+  tu:
+    - relucieras
+    - relucieses
+  vos:
+    - relucieras
+    - relucieses
+  ud:
+    - reluciera
+    - reluciese
+  nosotros:
+    - reluciéramos
+    - reluciésemos
+  vosotros:
+    - relucierais
+    - relucieseis
+  uds:
+    - relucieran
+    - reluciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera relucido
+    - hubiese relucido
+  tu:
+    - hubieras relucido
+    - hubieses relucido
+  vos:
+    - hubieras relucido
+    - hubieses relucido
+  ud:
+    - hubiera relucido
+    - hubiese relucido
+  nosotros:
+    - hubiéramos relucido
+    - hubiésemos relucido
+  vosotros:
+    - hubierais relucido
+    - hubieseis relucido
+  uds:
+    - hubieran relucido
+    - hubiesen relucido
+imperativo:
+  tu: reluce
+  vos: relucí
+  ud: reluzca
+  nosotros: reluzcamos
+  vosotros: relucid
+  uds: reluzcan

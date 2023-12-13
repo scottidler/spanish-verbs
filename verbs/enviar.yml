@@ -1,0 +1,142 @@
+infinitivo: enviar
+gerundio: enviando
+participio-pasado: enviado
+presente-indicativo:
+  yo: envío
+  tu: envías
+  vos: enviás
+  ud: envía
+  nosotros: enviamos
+  vosotros: enviáis
+  uds: envían
+preterito-perfecto-simple:
+  yo: envié
+  tu: enviaste
+  vos: enviaste
+  ud: envió
+  nosotros: enviamos
+  vosotros: enviasteis
+  uds: enviaron
+preterito-imperfecto:
+  yo: enviaba
+  tu: enviabas
+  vos: enviabas
+  ud: enviaba
+  nosotros: enviábamos
+  vosotros: enviabais
+  uds: enviaban
+futuro-simple:
+  yo: enviaré
+  tu: enviarás
+  vos: enviarás
+  ud: enviará
+  nosotros: enviaremos
+  vosotros: enviaréis
+  uds: enviarán
+condicional-simple:
+  yo: enviaría
+  tu: enviarías
+  vos: enviarías
+  ud: enviaría
+  nosotros: enviaríamos
+  vosotros: enviaríais
+  uds: enviarían
+presente-perfecto:
+  yo: he enviado
+  tu: has enviado
+  vos: has enviado
+  ud: ha enviado
+  nosotros: hemos enviado
+  vosotros: habéis enviado
+  uds: han enviado
+preterito-pluscuamperfecto:
+  yo: había enviado
+  tu: habías enviado
+  vos: habías enviado
+  ud: había enviado
+  nosotros: habíamos enviado
+  vosotros: habíais enviado
+  uds: habían enviado
+futuro-perfecto:
+  yo: habré enviado
+  tu: habrás enviado
+  vos: habrás enviado
+  ud: habrá enviado
+  nosotros: habremos enviado
+  vosotros: habréis enviado
+  uds: habrán enviado
+condicional-perfecto:
+  yo: habría enviado
+  tu: habrías enviado
+  vos: habrías enviado
+  ud: habría enviado
+  nosotros: habríamos enviado
+  vosotros: habríais enviado
+  uds: habrían enviado
+presente-subjuntivo:
+  yo: envíe
+  tu: envíes
+  vos: envíes
+  ud: envíe
+  nosotros: enviemos
+  vosotros: enviéis
+  uds: envíen
+preterito-perfecto-subjuntivo:
+  yo: haya enviado
+  tu: hayas enviado
+  vos: hayas enviado
+  ud: haya enviado
+  nosotros: hayamos enviado
+  vosotros: hayáis enviado
+  uds: hayan enviado
+imperfecto-subjuntivo:
+  yo:
+    - enviara
+    - enviase
+  tu:
+    - enviaras
+    - enviases
+  vos:
+    - enviaras
+    - enviases
+  ud:
+    - enviara
+    - enviase
+  nosotros:
+    - enviáramos
+    - enviásemos
+  vosotros:
+    - enviarais
+    - enviaseis
+  uds:
+    - enviaran
+    - enviasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enviado
+    - hubiese enviado
+  tu:
+    - hubieras enviado
+    - hubieses enviado
+  vos:
+    - hubieras enviado
+    - hubieses enviado
+  ud:
+    - hubiera enviado
+    - hubiese enviado
+  nosotros:
+    - hubiéramos enviado
+    - hubiésemos enviado
+  vosotros:
+    - hubierais enviado
+    - hubieseis enviado
+  uds:
+    - hubieran enviado
+    - hubiesen enviado
+imperativo:
+  tu: envía
+  vos: enviá
+  ud: envíe
+  nosotros: enviemos
+  vosotros: enviad
+  uds: envíen

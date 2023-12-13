@@ -1,0 +1,142 @@
+infinitivo: alcanzar
+gerundio: alcanzando
+participio-pasado: alcanzado
+presente-indicativo:
+  yo: alcanzo
+  tu: alcanzas
+  vos: alcanzas
+  ud: alcanza
+  nosotros: alcanzamos
+  vosotros: alcanzáis
+  uds: alcanzan
+preterito-perfecto-simple:
+  yo: alcancé
+  tu: alcanzaste
+  vos: alcanzaste
+  ud: alcanzó
+  nosotros: alcanzamos
+  vosotros: alcanzasteis
+  uds: alcanzaron
+preterito-imperfecto:
+  yo: alcanzaba
+  tu: alcanzabas
+  vos: alcanzabas
+  ud: alcanzaba
+  nosotros: alcanzábamos
+  vosotros: alcanzabais
+  uds: alcanzaban
+futuro-simple:
+  yo: alcanzaré
+  tu: alcanzarás
+  vos: alcanzarás
+  ud: alcanzará
+  nosotros: alcanzaremos
+  vosotros: alcanzaréis
+  uds: alcanzarán
+condicional-simple:
+  yo: alcanzaría
+  tu: alcanzarías
+  vos: alcanzarías
+  ud: alcanzaría
+  nosotros: alcanzaríamos
+  vosotros: alcanzaríais
+  uds: alcanzarían
+presente-perfecto:
+  yo: he alcanzado
+  tu: has alcanzado
+  vos: has alcanzado
+  ud: ha alcanzado
+  nosotros: hemos alcanzado
+  vosotros: habéis alcanzado
+  uds: han alcanzado
+preterito-pluscuamperfecto:
+  yo: había alcanzado
+  tu: habías alcanzado
+  vos: habías alcanzado
+  ud: había alcanzado
+  nosotros: habíamos alcanzado
+  vosotros: habíais alcanzado
+  uds: habían alcanzado
+futuro-perfecto:
+  yo: habré alcanzado
+  tu: habrás alcanzado
+  vos: habrás alcanzado
+  ud: habrá alcanzado
+  nosotros: habremos alcanzado
+  vosotros: habréis alcanzado
+  uds: habrán alcanzado
+condicional-perfecto:
+  yo: habría alcanzado
+  tu: habrías alcanzado
+  vos: habrías alcanzado
+  ud: habría alcanzado
+  nosotros: habríamos alcanzado
+  vosotros: habríais alcanzado
+  uds: habrían alcanzado
+presente-subjuntivo:
+  yo: alcance
+  tu: alcances
+  vos: alcances
+  ud: alcance
+  nosotros: alcancemos
+  vosotros: alcancéis
+  uds: alcancen
+preterito-perfecto-subjuntivo:
+  yo: haya alcanzado
+  tu: hayas alcanzado
+  vos: hayas alcanzado
+  ud: haya alcanzado
+  nosotros: hayamos alcanzado
+  vosotros: hayáis alcanzado
+  uds: hayan alcanzado
+imperfecto-subjuntivo:
+  yo:
+    - alcanzara
+    - alcanzase
+  tu:
+    - alcanzaras
+    - alcanzases
+  vos:
+    - alcanzaras
+    - alcanzases
+  ud:
+    - alcanzara
+    - alcanzase
+  nosotros:
+    - alcanzáramos
+    - alcanzásemos
+  vosotros:
+    - alcanzarais
+    - alcanzaseis
+  uds:
+    - alcanzaran
+    - alcanzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alcanzado
+    - hubiese alcanzado
+  tu:
+    - hubieras alcanzado
+    - hubieses alcanzado
+  vos:
+    - hubieras alcanzado
+    - hubieses alcanzado
+  ud:
+    - hubiera alcanzado
+    - hubiese alcanzado
+  nosotros:
+    - hubiéramos alcanzado
+    - hubiésemos alcanzado
+  vosotros:
+    - hubierais alcanzado
+    - hubieseis alcanzado
+  uds:
+    - hubieran alcanzado
+    - hubiesen alcanzado
+imperativo:
+  tu: alcanza
+  vos: alcanzá
+  ud: alcance
+  nosotros: alcancemos
+  vosotros: alcanzad
+  uds: alcancen

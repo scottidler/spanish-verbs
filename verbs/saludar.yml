@@ -1,0 +1,142 @@
+infinitivo: saludar
+gerundio: saludando
+participio-pasado: saludado
+presente-indicativo:
+  yo: saludo
+  tu: saludas
+  vos: saludas
+  ud: saluda
+  nosotros: saludamos
+  vosotros: saludáis
+  uds: saludan
+preterito-perfecto-simple:
+  yo: saludé
+  tu: saludaste
+  vos: saludaste
+  ud: saludó
+  nosotros: saludamos
+  vosotros: saludasteis
+  uds: saludaron
+preterito-imperfecto:
+  yo: saludaba
+  tu: saludabas
+  vos: saludabas
+  ud: saludaba
+  nosotros: saludábamos
+  vosotros: saludabais
+  uds: saludaban
+futuro-simple:
+  yo: saludaré
+  tu: saludarás
+  vos: saludarás
+  ud: saludará
+  nosotros: saludaremos
+  vosotros: saludaréis
+  uds: saludarán
+condicional-simple:
+  yo: saludaría
+  tu: saludarías
+  vos: saludarías
+  ud: saludaría
+  nosotros: saludaríamos
+  vosotros: saludaríais
+  uds: saludarían
+presente-perfecto:
+  yo: he saludado
+  tu: has saludado
+  vos: has saludado
+  ud: ha saludado
+  nosotros: hemos saludado
+  vosotros: habéis saludado
+  uds: han saludado
+preterito-pluscuamperfecto:
+  yo: había saludado
+  tu: habías saludado
+  vos: habías saludado
+  ud: había saludado
+  nosotros: habíamos saludado
+  vosotros: habíais saludado
+  uds: habían saludado
+futuro-perfecto:
+  yo: habré saludado
+  tu: habrás saludado
+  vos: habrás saludado
+  ud: habrá saludado
+  nosotros: habremos saludado
+  vosotros: habréis saludado
+  uds: habrán saludado
+condicional-perfecto:
+  yo: habría saludado
+  tu: habrías saludado
+  vos: habrías saludado
+  ud: habría saludado
+  nosotros: habríamos saludado
+  vosotros: habríais saludado
+  uds: habrían saludado
+presente-subjuntivo:
+  yo: salude
+  tu: saludes
+  vos: saludes
+  ud: salude
+  nosotros: saludemos
+  vosotros: saludéis
+  uds: saluden
+preterito-perfecto-subjuntivo:
+  yo: haya saludado
+  tu: hayas saludado
+  vos: hayas saludado
+  ud: haya saludado
+  nosotros: hayamos saludado
+  vosotros: hayáis saludado
+  uds: hayan saludado
+imperfecto-subjuntivo:
+  yo:
+    - saludara
+    - saludase
+  tu:
+    - saludaras
+    - saludases
+  vos:
+    - saludaras
+    - saludases
+  ud:
+    - saludara
+    - saludase
+  nosotros:
+    - saludáramos
+    - saludásemos
+  vosotros:
+    - saludarais
+    - saludaseis
+  uds:
+    - saludaran
+    - saludasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera saludado
+    - hubiese saludado
+  tu:
+    - hubieras saludado
+    - hubieses saludado
+  vos:
+    - hubieras saludado
+    - hubieses saludado
+  ud:
+    - hubiera saludado
+    - hubiese saludado
+  nosotros:
+    - hubiéramos saludado
+    - hubiésemos saludado
+  vosotros:
+    - hubierais saludado
+    - hubieseis saludado
+  uds:
+    - hubieran saludado
+    - hubiesen saludado
+imperativo:
+  tu: saluda
+  vos: saluda
+  ud: salude
+  nosotros: saludemos
+  vosotros: saludad
+  uds: saluden

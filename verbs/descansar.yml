@@ -1,0 +1,142 @@
+infinitivo: descansar
+gerundio: descansando
+participio-pasado: descansado
+presente-indicativo:
+  yo: descanso
+  tu: descansas
+  vos: descansas
+  ud: descansa
+  nosotros: descansamos
+  vosotros: descansáis
+  uds: descansan
+preterito-perfecto-simple:
+  yo: descansé
+  tu: descansaste
+  vos: descansaste
+  ud: descansó
+  nosotros: descansamos
+  vosotros: descansasteis
+  uds: descansaron
+preterito-imperfecto:
+  yo: descansaba
+  tu: descansabas
+  vos: descansabas
+  ud: descansaba
+  nosotros: descansábamos
+  vosotros: descansabais
+  uds: descansaban
+futuro-simple:
+  yo: descansaré
+  tu: descansarás
+  vos: descansarás
+  ud: descansará
+  nosotros: descansaremos
+  vosotros: descansaréis
+  uds: descansarán
+condicional-simple:
+  yo: descansaría
+  tu: descansarías
+  vos: descansarías
+  ud: descansaría
+  nosotros: descansaríamos
+  vosotros: descansaríais
+  uds: descansarían
+presente-perfecto:
+  yo: he descansado
+  tu: has descansado
+  vos: has descansado
+  ud: ha descansado
+  nosotros: hemos descansado
+  vosotros: habéis descansado
+  uds: han descansado
+preterito-pluscuamperfecto:
+  yo: había descansado
+  tu: habías descansado
+  vos: habías descansado
+  ud: había descansado
+  nosotros: habíamos descansado
+  vosotros: habíais descansado
+  uds: habían descansado
+futuro-perfecto:
+  yo: habré descansado
+  tu: habrás descansado
+  vos: habrás descansado
+  ud: habrá descansado
+  nosotros: habremos descansado
+  vosotros: habréis descansado
+  uds: habrán descansado
+condicional-perfecto:
+  yo: habría descansado
+  tu: habrías descansado
+  vos: habrías descansado
+  ud: habría descansado
+  nosotros: habríamos descansado
+  vosotros: habríais descansado
+  uds: habrían descansado
+presente-subjuntivo:
+  yo: descanse
+  tu: descanses
+  vos: descanses
+  ud: descanse
+  nosotros: descansemos
+  vosotros: descanséis
+  uds: descansen
+preterito-perfecto-subjuntivo:
+  yo: haya descansado
+  tu: hayas descansado
+  vos: hayas descansado
+  ud: haya descansado
+  nosotros: hayamos descansado
+  vosotros: hayáis descansado
+  uds: hayan descansado
+imperfecto-subjuntivo:
+  yo:
+    - descansara
+    - descansase
+  tu:
+    - descansaras
+    - descansases
+  vos:
+    - descansaras
+    - descansases
+  ud:
+    - descansara
+    - descansase
+  nosotros:
+    - descansáramos
+    - descansásemos
+  vosotros:
+    - descansarais
+    - descansaseis
+  uds:
+    - descansaran
+    - descansasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera descansado
+    - hubiese descansado
+  tu:
+    - hubieras descansado
+    - hubieses descansado
+  vos:
+    - hubieras descansado
+    - hubieses descansado
+  ud:
+    - hubiera descansado
+    - hubiese descansado
+  nosotros:
+    - hubiéramos descansado
+    - hubiésemos descansado
+  vosotros:
+    - hubierais descansado
+    - hubieseis descansado
+  uds:
+    - hubieran descansado
+    - hubiesen descansado
+imperativo:
+  tu: descansa
+  vos: descansá
+  ud: descanse
+  nosotros: descansemos
+  vosotros: descansad
+  uds: descansen

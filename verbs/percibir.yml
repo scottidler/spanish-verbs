@@ -1,0 +1,142 @@
+infinitivo: percibir
+gerundio: percibiendo
+participio-pasado: percibido
+presente-indicativo:
+  yo: percibo
+  tu: percibes
+  vos: percibís
+  ud: percibe
+  nosotros: percibimos
+  vosotros: percibís
+  uds: perciben
+preterito-perfecto-simple:
+  yo: percibí
+  tu: percibiste
+  vos: percibiste
+  ud: percibió
+  nosotros: percibimos
+  vosotros: percibisteis
+  uds: percibieron
+preterito-imperfecto:
+  yo: percibía
+  tu: percibías
+  vos: percibías
+  ud: percibía
+  nosotros: percibíamos
+  vosotros: percibíais
+  uds: percibían
+futuro-simple:
+  yo: percibiré
+  tu: percibirás
+  vos: percibirás
+  ud: percibirá
+  nosotros: percibiremos
+  vosotros: percibiréis
+  uds: percibirán
+condicional-simple:
+  yo: percibiría
+  tu: percibirías
+  vos: percibirías
+  ud: percibiría
+  nosotros: percibiríamos
+  vosotros: percibiríais
+  uds: percibirían
+presente-perfecto:
+  yo: he percibido
+  tu: has percibido
+  vos: has percibido
+  ud: ha percibido
+  nosotros: hemos percibido
+  vosotros: habéis percibido
+  uds: han percibido
+preterito-pluscuamperfecto:
+  yo: había percibido
+  tu: habías percibido
+  vos: habías percibido
+  ud: había percibido
+  nosotros: habíamos percibido
+  vosotros: habíais percibido
+  uds: habían percibido
+futuro-perfecto:
+  yo: habré percibido
+  tu: habrás percibido
+  vos: habrás percibido
+  ud: habrá percibido
+  nosotros: habremos percibido
+  vosotros: habréis percibido
+  uds: habrán percibido
+condicional-perfecto:
+  yo: habría percibido
+  tu: habrías percibido
+  vos: habrías percibido
+  ud: habría percibido
+  nosotros: habríamos percibido
+  vosotros: habríais percibido
+  uds: habrían percibido
+presente-subjuntivo:
+  yo: perciba
+  tu: percibas
+  vos: percibas
+  ud: perciba
+  nosotros: percibamos
+  vosotros: percibáis
+  uds: perciban
+preterito-perfecto-subjuntivo:
+  yo: haya percibido
+  tu: hayas percibido
+  vos: hayas percibido
+  ud: haya percibido
+  nosotros: hayamos percibido
+  vosotros: hayáis percibido
+  uds: hayan percibido
+imperfecto-subjuntivo:
+  yo:
+    - percibiera
+    - percibiese
+  tu:
+    - percibieras
+    - percibieses
+  vos:
+    - percibieras
+    - percibieses
+  ud:
+    - percibiera
+    - percibiese
+  nosotros:
+    - percibiéramos
+    - percibiésemos
+  vosotros:
+    - percibierais
+    - percibieseis
+  uds:
+    - percibieran
+    - percibiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera percibido
+    - hubiese percibido
+  tu:
+    - hubieras percibido
+    - hubieses percibido
+  vos:
+    - hubieras percibido
+    - hubieses percibido
+  ud:
+    - hubiera percibido
+    - hubiese percibido
+  nosotros:
+    - hubiéramos percibido
+    - hubiésemos percibido
+  vosotros:
+    - hubierais percibido
+    - hubieseis percibido
+  uds:
+    - hubieran percibido
+    - hubiesen percibido
+imperativo:
+  tu: percibe
+  vos: percibí
+  ud: perciba
+  nosotros: percibamos
+  vosotros: percibid
+  uds: perciban

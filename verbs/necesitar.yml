@@ -1,0 +1,142 @@
+infinitivo: necesitar
+gerundio: necesitando
+participio-pasado: necesitado
+presente-indicativo:
+  yo: necesito
+  tu: necesitas
+  vos: necesitás
+  ud: necesita
+  nosotros: necesitamos
+  vosotros: necesitáis
+  uds: necesitan
+preterito-perfecto-simple:
+  yo: necesité
+  tu: necesitaste
+  vos: necesitaste
+  ud: necesitó
+  nosotros: necesitamos
+  vosotros: necesitasteis
+  uds: necesitaron
+preterito-imperfecto:
+  yo: necesitaba
+  tu: necesitabas
+  vos: necesitabas
+  ud: necesitaba
+  nosotros: necesitábamos
+  vosotros: necesitabais
+  uds: necesitaban
+futuro-simple:
+  yo: necesitaré
+  tu: necesitarás
+  vos: necesitarás
+  ud: necesitará
+  nosotros: necesitaremos
+  vosotros: necesitaréis
+  uds: necesitarán
+condicional-simple:
+  yo: necesitaría
+  tu: necesitarías
+  vos: necesitarías
+  ud: necesitaría
+  nosotros: necesitaríamos
+  vosotros: necesitaríais
+  uds: necesitarían
+presente-perfecto:
+  yo: he necesitado
+  tu: has necesitado
+  vos: has necesitado
+  ud: ha necesitado
+  nosotros: hemos necesitado
+  vosotros: habéis necesitado
+  uds: han necesitado
+preterito-pluscuamperfecto:
+  yo: había necesitado
+  tu: habías necesitado
+  vos: habías necesitado
+  ud: había necesitado
+  nosotros: habíamos necesitado
+  vosotros: habíais necesitado
+  uds: habían necesitado
+futuro-perfecto:
+  yo: habré necesitado
+  tu: habrás necesitado
+  vos: habrás necesitado
+  ud: habrá necesitado
+  nosotros: habremos necesitado
+  vosotros: habréis necesitado
+  uds: habrán necesitado
+condicional-perfecto:
+  yo: habría necesitado
+  tu: habrías necesitado
+  vos: habrías necesitado
+  ud: habría necesitado
+  nosotros: habríamos necesitado
+  vosotros: habríais necesitado
+  uds: habrían necesitado
+presente-subjuntivo:
+  yo: necesite
+  tu: necesites
+  vos: necesites
+  ud: necesite
+  nosotros: necesitemos
+  vosotros: necesitéis
+  uds: necesiten
+preterito-perfecto-subjuntivo:
+  yo: haya necesitado
+  tu: hayas necesitado
+  vos: hayas necesitado
+  ud: haya necesitado
+  nosotros: hayamos necesitado
+  vosotros: hayáis necesitado
+  uds: hayan necesitado
+imperfecto-subjuntivo:
+  yo:
+    - necesitara
+    - necesitase
+  tu:
+    - necesitaras
+    - necesitases
+  vos:
+    - necesitaras
+    - necesitases
+  ud:
+    - necesitara
+    - necesitase
+  nosotros:
+    - necesitáramos
+    - necesitásemos
+  vosotros:
+    - necesitarais
+    - necesitaseis
+  uds:
+    - necesitaran
+    - necesitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera necesitado
+    - hubiese necesitado
+  tu:
+    - hubieras necesitado
+    - hubieses necesitado
+  vos:
+    - hubieras necesitado
+    - hubieses necesitado
+  ud:
+    - hubiera necesitado
+    - hubiese necesitado
+  nosotros:
+    - hubiéramos necesitado
+    - hubiésemos necesitado
+  vosotros:
+    - hubierais necesitado
+    - hubieseis necesitado
+  uds:
+    - hubieran necesitado
+    - hubiesen necesitado
+imperativo:
+  tu: necesita
+  vos: necesitá
+  ud: necesite
+  nosotros: necesitemos
+  vosotros: necesitad
+  uds: necesiten

@@ -1,0 +1,142 @@
+infinitivo: alargar
+gerundio: alargando
+participio-pasado: alargado
+presente-indicativo:
+  yo: alargo
+  tu: alargas
+  vos: alargas
+  ud: alarga
+  nosotros: alargamos
+  vosotros: alargáis
+  uds: alargan
+preterito-perfecto-simple:
+  yo: alargué
+  tu: alargaste
+  vos: alargaste
+  ud: alargó
+  nosotros: alargamos
+  vosotros: alargasteis
+  uds: alargaron
+preterito-imperfecto:
+  yo: alargaba
+  tu: alargabas
+  vos: alargabas
+  ud: alargaba
+  nosotros: alargábamos
+  vosotros: alargabais
+  uds: alargaban
+futuro-simple:
+  yo: alargaré
+  tu: alargarás
+  vos: alargarás
+  ud: alargará
+  nosotros: alargaremos
+  vosotros: alargaréis
+  uds: alargarán
+condicional-simple:
+  yo: alargaría
+  tu: alargarías
+  vos: alargarías
+  ud: alargaría
+  nosotros: alargaríamos
+  vosotros: alargaríais
+  uds: alargarían
+presente-perfecto:
+  yo: he alargado
+  tu: has alargado
+  vos: has alargado
+  ud: ha alargado
+  nosotros: hemos alargado
+  vosotros: habéis alargado
+  uds: han alargado
+preterito-pluscuamperfecto:
+  yo: había alargado
+  tu: habías alargado
+  vos: habías alargado
+  ud: había alargado
+  nosotros: habíamos alargado
+  vosotros: habíais alargado
+  uds: habían alargado
+futuro-perfecto:
+  yo: habré alargado
+  tu: habrás alargado
+  vos: habrás alargado
+  ud: habrá alargado
+  nosotros: habremos alargado
+  vosotros: habréis alargado
+  uds: habrán alargado
+condicional-perfecto:
+  yo: habría alargado
+  tu: habrías alargado
+  vos: habrías alargado
+  ud: habría alargado
+  nosotros: habríamos alargado
+  vosotros: habríais alargado
+  uds: habrían alargado
+presente-subjuntivo:
+  yo: alargue
+  tu: alargues
+  vos: alargues
+  ud: alargue
+  nosotros: alarguemos
+  vosotros: alarguéis
+  uds: alarguen
+preterito-perfecto-subjuntivo:
+  yo: haya alargado
+  tu: hayas alargado
+  vos: hayas alargado
+  ud: haya alargado
+  nosotros: hayamos alargado
+  vosotros: hayáis alargado
+  uds: hayan alargado
+imperfecto-subjuntivo:
+  yo:
+    - alargara
+    - alargase
+  tu:
+    - alargaras
+    - alargases
+  vos:
+    - alargaras
+    - alargases
+  ud:
+    - alargara
+    - alargase
+  nosotros:
+    - alargáramos
+    - alargásemos
+  vosotros:
+    - alargarais
+    - alargaseis
+  uds:
+    - alargaran
+    - alargasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alargado
+    - hubiese alargado
+  tu:
+    - hubieras alargado
+    - hubieses alargado
+  vos:
+    - hubieras alargado
+    - hubieses alargado
+  ud:
+    - hubiera alargado
+    - hubiese alargado
+  nosotros:
+    - hubiéramos alargado
+    - hubiésemos alargado
+  vosotros:
+    - hubierais alargado
+    - hubieseis alargado
+  uds:
+    - hubieran alargado
+    - hubiesen alargado
+imperativo:
+  tu: alarga
+  vos: alargá
+  ud: alargue
+  nosotros: alarguemos
+  vosotros: alargad
+  uds: alarguen

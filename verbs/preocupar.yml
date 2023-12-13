@@ -1,0 +1,142 @@
+infinitivo: preocupar
+gerundio: preocupando
+participio-pasado: preocupado
+presente-indicativo:
+  yo: preocupo
+  tu: preocupas
+  vos: preocupas
+  ud: preocupa
+  nosotros: preocupamos
+  vosotros: preocupáis
+  uds: preocupan
+preterito-perfecto-simple:
+  yo: preocupé
+  tu: preocupaste
+  vos: preocupaste
+  ud: preocupó
+  nosotros: preocupamos
+  vosotros: preocupasteis
+  uds: preocuparon
+preterito-imperfecto:
+  yo: preocupaba
+  tu: preocupabas
+  vos: preocupabas
+  ud: preocupaba
+  nosotros: preocupábamos
+  vosotros: preocupabais
+  uds: preocupaban
+futuro-simple:
+  yo: preocuparé
+  tu: preocuparás
+  vos: preocuparás
+  ud: preocupará
+  nosotros: preocuparemos
+  vosotros: preocuparéis
+  uds: preocuparán
+condicional-simple:
+  yo: preocuparía
+  tu: preocuparías
+  vos: preocuparías
+  ud: preocuparía
+  nosotros: preocuparíamos
+  vosotros: preocuparíais
+  uds: preocuparían
+presente-perfecto:
+  yo: he preocupado
+  tu: has preocupado
+  vos: has preocupado
+  ud: ha preocupado
+  nosotros: hemos preocupado
+  vosotros: habéis preocupado
+  uds: han preocupado
+preterito-pluscuamperfecto:
+  yo: había preocupado
+  tu: habías preocupado
+  vos: habías preocupado
+  ud: había preocupado
+  nosotros: habíamos preocupado
+  vosotros: habíais preocupado
+  uds: habían preocupado
+futuro-perfecto:
+  yo: habré preocupado
+  tu: habrás preocupado
+  vos: habrás preocupado
+  ud: habrá preocupado
+  nosotros: habremos preocupado
+  vosotros: habréis preocupado
+  uds: habrán preocupado
+condicional-perfecto:
+  yo: habría preocupado
+  tu: habrías preocupado
+  vos: habrías preocupado
+  ud: habría preocupado
+  nosotros: habríamos preocupado
+  vosotros: habríais preocupado
+  uds: habrían preocupado
+presente-subjuntivo:
+  yo: preocupe
+  tu: preocupes
+  vos: preocupes
+  ud: preocupe
+  nosotros: preocupemos
+  vosotros: preocupéis
+  uds: preocupen
+preterito-perfecto-subjuntivo:
+  yo: haya preocupado
+  tu: hayas preocupado
+  vos: hayas preocupado
+  ud: haya preocupado
+  nosotros: hayamos preocupado
+  vosotros: hayáis preocupado
+  uds: hayan preocupado
+imperfecto-subjuntivo:
+  yo:
+    - preocupara
+    - preocupase
+  tu:
+    - preocuparas
+    - preocupases
+  vos:
+    - preocuparas
+    - preocupases
+  ud:
+    - preocupara
+    - preocupase
+  nosotros:
+    - preocupáramos
+    - preocupásemos
+  vosotros:
+    - preocuparais
+    - preocupaseis
+  uds:
+    - preocuparan
+    - preocupasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera preocupado
+    - hubiese preocupado
+  tu:
+    - hubieras preocupado
+    - hubieses preocupado
+  vos:
+    - hubieras preocupado
+    - hubieses preocupado
+  ud:
+    - hubiera preocupado
+    - hubiese preocupado
+  nosotros:
+    - hubiéramos preocupado
+    - hubiésemos preocupado
+  vosotros:
+    - hubierais preocupado
+    - hubieseis preocupado
+  uds:
+    - hubieran preocupado
+    - hubiesen preocupado
+imperativo:
+  tu: preocupa
+  vos: preocupá
+  ud: preocupe
+  nosotros: preocupemos
+  vosotros: preocupad
+  uds: preocupen

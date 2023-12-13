@@ -1,0 +1,142 @@
+infinitivo: almorzar
+gerundio: almorzando
+participio-pasado: almorzado
+presente-indicativo:
+  yo: almuerzo
+  tu: almuerzas
+  vos: almuerzas
+  ud: almuerza
+  nosotros: almorzamos
+  vosotros: almorzáis
+  uds: almuerzan
+preterito-perfecto-simple:
+  yo: almorcé
+  tu: almorzaste
+  vos: almorzaste
+  ud: almorzó
+  nosotros: almorzamos
+  vosotros: almorzasteis
+  uds: almorzaron
+preterito-imperfecto:
+  yo: almorzaba
+  tu: almorzabas
+  vos: almorzabas
+  ud: almorzaba
+  nosotros: almorzábamos
+  vosotros: almorzabais
+  uds: almorzaban
+futuro-simple:
+  yo: almorzaré
+  tu: almorzarás
+  vos: almorzarás
+  ud: almorzará
+  nosotros: almorzaremos
+  vosotros: almorzaréis
+  uds: almorzarán
+condicional-simple:
+  yo: almorzaría
+  tu: almorzarías
+  vos: almorzarías
+  ud: almorzaría
+  nosotros: almorzaríamos
+  vosotros: almorzaríais
+  uds: almorzarían
+presente-perfecto:
+  yo: he almorzado
+  tu: has almorzado
+  vos: has almorzado
+  ud: ha almorzado
+  nosotros: hemos almorzado
+  vosotros: habéis almorzado
+  uds: han almorzado
+preterito-pluscuamperfecto:
+  yo: había almorzado
+  tu: habías almorzado
+  vos: habías almorzado
+  ud: había almorzado
+  nosotros: habíamos almorzado
+  vosotros: habíais almorzado
+  uds: habían almorzado
+futuro-perfecto:
+  yo: habré almorzado
+  tu: habrás almorzado
+  vos: habrás almorzado
+  ud: habrá almorzado
+  nosotros: habremos almorzado
+  vosotros: habréis almorzado
+  uds: habrán almorzado
+condicional-perfecto:
+  yo: habría almorzado
+  tu: habrías almorzado
+  vos: habrías almorzado
+  ud: habría almorzado
+  nosotros: habríamos almorzado
+  vosotros: habríais almorzado
+  uds: habrían almorzado
+presente-subjuntivo:
+  yo: almuerce
+  tu: almuerces
+  vos: almuerces
+  ud: almuerce
+  nosotros: almorcemos
+  vosotros: almorcéis
+  uds: almuerce
+preterito-perfecto-subjuntivo:
+  yo: haya almorzado
+  tu: hayas almorzado
+  vos: hayas almorzado
+  ud: haya almorzado
+  nosotros: hayamos almorzado
+  vosotros: hayáis almorzado
+  uds: hayan almorzado
+imperfecto-subjuntivo:
+  yo:
+    - almorzara
+    - almorzase
+  tu:
+    - almorzaras
+    - almorzases
+  vos:
+    - almorzaras
+    - almorzases
+  ud:
+    - almorzara
+    - almorzase
+  nosotros:
+    - almorzáramos
+    - almorzásemos
+  vosotros:
+    - almorzarais
+    - almorzaseis
+  uds:
+    - almorzaran
+    - almorzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera almorzado
+    - hubiese almorzado
+  tu:
+    - hubieras almorzado
+    - hubieses almorzado
+  vos:
+    - hubieras almorzado
+    - hubieses almorzado
+  ud:
+    - hubiera almorzado
+    - hubiese almorzado
+  nosotros:
+    - hubiéramos almorzado
+    - hubiésemos almorzado
+  vosotros:
+    - hubierais almorzado
+    - hubieseis almorzado
+  uds:
+    - hubieran almorzado
+    - hubiesen almorzado
+imperativo:
+  tu: almuerza
+  vos: almuerza
+  ud: almuerce
+  nosotros: almorcemos
+  vosotros: almorzad
+  uds: almuercen

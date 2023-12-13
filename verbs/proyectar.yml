@@ -1,0 +1,142 @@
+infinitivo: proyectar
+gerundio: proyectando
+participio-pasado: proyectado
+presente-indicativo:
+  yo: proyecto
+  tu: proyectas
+  vos: proyectas
+  ud: proyecta
+  nosotros: proyectamos
+  vosotros: proyectáis
+  uds: proyectan
+preterito-perfecto-simple:
+  yo: proyecté
+  tu: proyectaste
+  vos: proyectaste
+  ud: proyectó
+  nosotros: proyectamos
+  vosotros: proyectasteis
+  uds: proyectaron
+preterito-imperfecto:
+  yo: proyectaba
+  tu: proyectabas
+  vos: proyectabas
+  ud: proyectaba
+  nosotros: proyectábamos
+  vosotros: proyectabais
+  uds: proyectaban
+futuro-simple:
+  yo: proyectaré
+  tu: proyectarás
+  vos: proyectarás
+  ud: proyectará
+  nosotros: proyectaremos
+  vosotros: proyectaréis
+  uds: proyectarán
+condicional-simple:
+  yo: proyectaría
+  tu: proyectarías
+  vos: proyectarías
+  ud: proyectaría
+  nosotros: proyectaríamos
+  vosotros: proyectaríais
+  uds: proyectarían
+presente-perfecto:
+  yo: he proyectado
+  tu: has proyectado
+  vos: has proyectado
+  ud: ha proyectado
+  nosotros: hemos proyectado
+  vosotros: habéis proyectado
+  uds: han proyectado
+preterito-pluscuamperfecto:
+  yo: había proyectado
+  tu: habías proyectado
+  vos: habías proyectado
+  ud: había proyectado
+  nosotros: habíamos proyectado
+  vosotros: habíais proyectado
+  uds: habían proyectado
+futuro-perfecto:
+  yo: habré proyectado
+  tu: habrás proyectado
+  vos: habrás proyectado
+  ud: habrá proyectado
+  nosotros: habremos proyectado
+  vosotros: habréis proyectado
+  uds: habrán proyectado
+condicional-perfecto:
+  yo: habría proyectado
+  tu: habrías proyectado
+  vos: habrías proyectado
+  ud: habría proyectado
+  nosotros: habríamos proyectado
+  vosotros: habríais proyectado
+  uds: habrían proyectado
+presente-subjuntivo:
+  yo: proyecte
+  tu: proyectes
+  vos: proyectes
+  ud: proyecte
+  nosotros: proyectemos
+  vosotros: proyectéis
+  uds: proyecten
+preterito-perfecto-subjuntivo:
+  yo: haya proyectado
+  tu: hayas proyectado
+  vos: hayas proyectado
+  ud: haya proyectado
+  nosotros: hayamos proyectado
+  vosotros: hayáis proyectado
+  uds: hayan proyectado
+imperfecto-subjuntivo:
+  yo: 
+    - proyectara
+    - proyectase
+  tu: 
+    - proyectaras
+    - proyectases
+  vos: 
+    - proyectaras
+    - proyectases
+  ud: 
+    - proyectara
+    - proyectase
+  nosotros: 
+    - proyectáramos
+    - proyectásemos
+  vosotros: 
+    - proyectarais
+    - proyectaseis
+  uds: 
+    - proyectaran
+    - proyectasen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - hubiera proyectado
+    - hubiese proyectado
+  tu: 
+    - hubieras proyectado
+    - hubieses proyectado
+  vos: 
+    - hubieras proyectado
+    - hubieses proyectado
+  ud: 
+    - hubiera proyectado
+    - hubiese proyectado
+  nosotros: 
+    - hubiéramos proyectado
+    - hubiésemos proyectado
+  vosotros: 
+    - hubierais proyectado
+    - hubieseis proyectado
+  uds: 
+    - hubieran proyectado
+    - hubiesen proyectado
+imperativo:
+  tu: proyecta
+  vos: proyectá
+  ud: proyecte
+  nosotros: proyectemos
+  vosotros: proyectad
+  uds: proyecten

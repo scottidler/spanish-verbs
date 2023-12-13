@@ -1,0 +1,142 @@
+infinitivo: suceder
+gerundio: sucediendo
+participio-pasado: sucedido
+presente-indicativo:
+  yo: sucedo
+  tu: sucedes
+  vos: sucedes
+  ud: sucede
+  nosotros: sucedemos
+  vosotros: sucedéis
+  uds: suceden
+preterito-perfecto-simple:
+  yo: sucedí
+  tu: sucediste
+  vos: sucediste
+  ud: sucedió
+  nosotros: sucedimos
+  vosotros: sucedisteis
+  uds: sucedieron
+preterito-imperfecto:
+  yo: sucedía
+  tu: sucedías
+  vos: sucedías
+  ud: sucedía
+  nosotros: sucedíamos
+  vosotros: sucedíais
+  uds: sucedían
+futuro-simple:
+  yo: sucederé
+  tu: sucederás
+  vos: sucederás
+  ud: sucederá
+  nosotros: sucederemos
+  vosotros: sucederéis
+  uds: sucederán
+condicional-simple:
+  yo: sucedería
+  tu: sucederías
+  vos: sucederías
+  ud: sucedería
+  nosotros: sucederíamos
+  vosotros: sucederíais
+  uds: sucederían
+presente-perfecto:
+  yo: he sucedido
+  tu: has sucedido
+  vos: has sucedido
+  ud: ha sucedido
+  nosotros: hemos sucedido
+  vosotros: habéis sucedido
+  uds: han sucedido
+preterito-pluscuamperfecto:
+  yo: había sucedido
+  tu: habías sucedido
+  vos: habías sucedido
+  ud: había sucedido
+  nosotros: habíamos sucedido
+  vosotros: habíais sucedido
+  uds: habían sucedido
+futuro-perfecto:
+  yo: habré sucedido
+  tu: habrás sucedido
+  vos: habrás sucedido
+  ud: habrá sucedido
+  nosotros: habremos sucedido
+  vosotros: habréis sucedido
+  uds: habrán sucedido
+condicional-perfecto:
+  yo: habría sucedido
+  tu: habrías sucedido
+  vos: habrías sucedido
+  ud: habría sucedido
+  nosotros: habríamos sucedido
+  vosotros: habríais sucedido
+  uds: habrían sucedido
+presente-subjuntivo:
+  yo: suceda
+  tu: sucedas
+  vos: sucedas
+  ud: suceda
+  nosotros: sucedamos
+  vosotros: sucedáis
+  uds: sucedan
+preterito-perfecto-subjuntivo:
+  yo: haya sucedido
+  tu: hayas sucedido
+  vos: hayas sucedido
+  ud: haya sucedido
+  nosotros: hayamos sucedido
+  vosotros: hayáis sucedido
+  uds: hayan sucedido
+imperfecto-subjuntivo:
+  yo:
+    - sucediera
+    - sucediese
+  tu:
+    - sucedieras
+    - sucedieses
+  vos:
+    - sucedieras
+    - sucedieses
+  ud:
+    - sucediera
+    - sucediese
+  nosotros:
+    - sucediéramos
+    - sucediésemos
+  vosotros:
+    - sucedierais
+    - sucedieseis
+  uds:
+    - sucedieran
+    - sucediesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sucedido
+    - hubiese sucedido
+  tu:
+    - hubieras sucedido
+    - hubieses sucedido
+  vos:
+    - hubieras sucedido
+    - hubieses sucedido
+  ud:
+    - hubiera sucedido
+    - hubiese sucedido
+  nosotros:
+    - hubiéramos sucedido
+    - hubiésemos sucedido
+  vosotros:
+    - hubierais sucedido
+    - hubieseis sucedido
+  uds:
+    - hubieran sucedido
+    - hubiesen sucedido
+imperativo:
+  tu: sucede
+  vos: sucedé
+  ud: suceda
+  nosotros: sucedamos
+  vosotros: suceded
+  uds: sucedan

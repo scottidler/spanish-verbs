@@ -1,0 +1,142 @@
+infinitivo: recorrer
+gerundio: recorriendo
+participio-pasado: recorrido
+presente-indicativo:
+  yo: recorro
+  tu: recorres
+  vos: recorrés
+  ud: recorre
+  nosotros: recorremos
+  vosotros: recorréis
+  uds: recorren
+preterito-perfecto-simple:
+  yo: recorrí
+  tu: recorriste
+  vos: recorriste
+  ud: recorrió
+  nosotros: recorrimos
+  vosotros: recorristeis
+  uds: recorrieron
+preterito-imperfecto:
+  yo: recorría
+  tu: recorrías
+  vos: recorrías
+  ud: recorría
+  nosotros: recorríamos
+  vosotros: recorríais
+  uds: recorrían
+futuro-simple:
+  yo: recorreré
+  tu: recorrerás
+  vos: recorrerás
+  ud: recorrerá
+  nosotros: recorreremos
+  vosotros: recorreréis
+  uds: recorrerán
+condicional-simple:
+  yo: recorrería
+  tu: recorrerías
+  vos: recorrerías
+  ud: recorrería
+  nosotros: recorreríamos
+  vosotros: recorreríais
+  uds: recorrerían
+presente-perfecto:
+  yo: he recorrido
+  tu: has recorrido
+  vos: has recorrido
+  ud: ha recorrido
+  nosotros: hemos recorrido
+  vosotros: habéis recorrido
+  uds: han recorrido
+preterito-pluscuamperfecto:
+  yo: había recorrido
+  tu: habías recorrido
+  vos: habías recorrido
+  ud: había recorrido
+  nosotros: habíamos recorrido
+  vosotros: habíais recorrido
+  uds: habían recorrido
+futuro-perfecto:
+  yo: habré recorrido
+  tu: habrás recorrido
+  vos: habrás recorrido
+  ud: habrá recorrido
+  nosotros: habremos recorrido
+  vosotros: habréis recorrido
+  uds: habrán recorrido
+condicional-perfecto:
+  yo: habría recorrido
+  tu: habrías recorrido
+  vos: habrías recorrido
+  ud: habría recorrido
+  nosotros: habríamos recorrido
+  vosotros: habríais recorrido
+  uds: habrían recorrido
+presente-subjuntivo:
+  yo: recorra
+  tu: recorras
+  vos: recorras
+  ud: recorra
+  nosotros: recorramos
+  vosotros: recorráis
+  uds: recorran
+preterito-perfecto-subjuntivo:
+  yo: haya recorrido
+  tu: hayas recorrido
+  vos: hayas recorrido
+  ud: haya recorrido
+  nosotros: hayamos recorrido
+  vosotros: hayáis recorrido
+  uds: hayan recorrido
+imperfecto-subjuntivo:
+  yo:
+    - recorriera
+    - recorriese
+  tu:
+    - recorrieras
+    - recorrieses
+  vos:
+    - recorrieras
+    - recorrieses
+  ud:
+    - recorriera
+    - recorriese
+  nosotros:
+    - recorriéramos
+    - recorriésemos
+  vosotros:
+    - recorrierais
+    - recorrieseis
+  uds:
+    - recorrieran
+    - recorriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recorrido
+    - hubiese recorrido
+  tu:
+    - hubieras recorrido
+    - hubieses recorrido
+  vos:
+    - hubieras recorrido
+    - hubieses recorrido
+  ud:
+    - hubiera recorrido
+    - hubiese recorrido
+  nosotros:
+    - hubiéramos recorrido
+    - hubiésemos recorrido
+  vosotros:
+    - hubierais recorrido
+    - hubieseis recorrido
+  uds:
+    - hubieran recorrido
+    - hubiesen recorrido
+imperativo:
+  tu: recorre
+  vos: recorré
+  ud: recorra
+  nosotros: recorramos
+  vosotros: recorred
+  uds: recorran

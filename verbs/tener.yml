@@ -1,0 +1,142 @@
+infinitivo: tener
+gerundio: teniendo
+participio-pasado: tenido
+presente-indicativo:
+  yo: tengo
+  tu: tienes
+  vos: tenes
+  ud: tiene
+  nosotros: tenemos
+  vosotros: tenéis
+  uds: tienen
+preterito-perfecto-simple:
+  yo: tuve
+  tu: tuviste
+  vos: tuviste
+  ud: tuvo
+  nosotros: tuvimos
+  vosotros: tuvisteis
+  uds: tuvieron
+preterito-imperfecto:
+  yo: tenía
+  tu: tenías
+  vos: tenías
+  ud: tenía
+  nosotros: teníamos
+  vosotros: teníais
+  uds: tenían
+futuro-simple:
+  yo: tendré
+  tu: tendrás
+  vos: tendrás
+  ud: tendrá
+  nosotros: tendremos
+  vosotros: tendréis
+  uds: tendrán
+condicional-simple:
+  yo: tendría
+  tu: tendrías
+  vos: tendrías
+  ud: tendría
+  nosotros: tendríamos
+  vosotros: tendríais
+  uds: tendrían
+presente-perfecto:
+  yo: he tenido
+  tu: has tenido
+  vos: has tenido
+  ud: ha tenido
+  nosotros: hemos tenido
+  vosotros: habéis tenido
+  uds: han tenido
+preterito-pluscuamperfecto:
+  yo: había tenido
+  tu: habías tenido
+  vos: habías tenido
+  ud: había tenido
+  nosotros: habíamos tenido
+  vosotros: habíais tenido
+  uds: habían tenido
+futuro-perfecto:
+  yo: habré tenido
+  tu: habrás tenido
+  vos: habrás tenido
+  ud: habrá tenido
+  nosotros: habremos tenido
+  vosotros: habréis tenido
+  uds: habrán tenido
+condicional-perfecto:
+  yo: habría tenido
+  tu: habrías tenido
+  vos: habrías tenido
+  ud: habría tenido
+  nosotros: habríamos tenido
+  vosotros: habríais tenido
+  uds: habrían tenido
+presente-subjuntivo:
+  yo: tenga
+  tu: tengas
+  vos: tengas
+  ud: tenga
+  nosotros: tengamos
+  vosotros: tengáis
+  uds: tengan
+preterito-perfecto-subjuntivo:
+  yo: haya tenido
+  tu: hayas tenido
+  vos: hayas tenido
+  ud: haya tenido
+  nosotros: hayamos tenido
+  vosotros: hayáis tenido
+  uds: hayan tenido
+imperfecto-subjuntivo:
+  yo:
+    - tuviera
+    - tuviese
+  tu:
+    - tuvieras
+    - tuvieses
+  vos:
+    - tuvieras
+    - tuvieses
+  ud:
+    - tuviera
+    - tuviese
+  nosotros:
+    - tuviéramos
+    - tuviésemos
+  vosotros:
+    - tuvierais
+    - tuvieseis
+  uds:
+    - tuvieran
+    - tuviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tenido
+    - hubiese tenido
+  tu:
+    - hubieras tenido
+    - hubieses tenido
+  vos:
+    - hubieras tenido
+    - hubieses tenido
+  ud:
+    - hubiera tenido
+    - hubiese tenido
+  nosotros:
+    - hubiéramos tenido
+    - hubiésemos tenido
+  vosotros:
+    - hubierais tenido
+    - hubieseis tenido
+  uds:
+    - hubieran tenido
+    - hubiesen tenido
+imperativo:
+  tu: ten
+  vos: tené
+  ud: tenga
+  nosotros: tengamos
+  vosotros: tened
+  uds: tengan

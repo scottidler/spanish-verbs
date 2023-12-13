@@ -1,0 +1,142 @@
+infinitivo: resbalar
+gerundio: resbalando
+participio-pasado: resbalado
+presente-indicativo:
+  yo: resbalo
+  tu: resbalas
+  vos: resbalás
+  ud: resbala
+  nosotros: resbalamos
+  vosotros: resbaláis
+  uds: resbalan
+preterito-perfecto-simple:
+  yo: resbalé
+  tu: resbalaste
+  vos: resbalaste
+  ud: resbaló
+  nosotros: resbalamos
+  vosotros: resbalasteis
+  uds: resbalaron
+preterito-imperfecto:
+  yo: resbalaba
+  tu: resbalabas
+  vos: resbalabas
+  ud: resbalaba
+  nosotros: resbalábamos
+  vosotros: resbalabais
+  uds: resbalaban
+futuro-simple:
+  yo: resbalaré
+  tu: resbalarás
+  vos: resbalarás
+  ud: resbalará
+  nosotros: resbalaremos
+  vosotros: resbalaréis
+  uds: resbalarán
+condicional-simple:
+  yo: resbalaría
+  tu: resbalarías
+  vos: resbalarías
+  ud: resbalaría
+  nosotros: resbalaríamos
+  vosotros: resbalaríais
+  uds: resbalarían
+presente-perfecto:
+  yo: he resbalado
+  tu: has resbalado
+  vos: has resbalado
+  ud: ha resbalado
+  nosotros: hemos resbalado
+  vosotros: habéis resbalado
+  uds: han resbalado
+preterito-pluscuamperfecto:
+  yo: había resbalado
+  tu: habías resbalado
+  vos: habías resbalado
+  ud: había resbalado
+  nosotros: habíamos resbalado
+  vosotros: habíais resbalado
+  uds: habían resbalado
+futuro-perfecto:
+  yo: habré resbalado
+  tu: habrás resbalado
+  vos: habrás resbalado
+  ud: habrá resbalado
+  nosotros: habremos resbalado
+  vosotros: habréis resbalado
+  uds: habrán resbalado
+condicional-perfecto:
+  yo: habría resbalado
+  tu: habrías resbalado
+  vos: habrías resbalado
+  ud: habría resbalado
+  nosotros: habríamos resbalado
+  vosotros: habríais resbalado
+  uds: habrían resbalado
+presente-subjuntivo:
+  yo: resbale
+  tu: resbales
+  vos: resbales
+  ud: resbale
+  nosotros: resbalemos
+  vosotros: resbaléis
+  uds: resbalen
+preterito-perfecto-subjuntivo:
+  yo: haya resbalado
+  tu: hayas resbalado
+  vos: hayas resbalado
+  ud: haya resbalado
+  nosotros: hayamos resbalado
+  vosotros: hayáis resbalado
+  uds: hayan resbalado
+imperfecto-subjuntivo:
+  yo:
+    - resbalara
+    - resbalase
+  tu:
+    - resbalaras
+    - resbalases
+  vos:
+    - resbalaras
+    - resbalases
+  ud:
+    - resbalara
+    - resbalase
+  nosotros:
+    - resbaláramos
+    - resbalásemos
+  vosotros:
+    - resbalarais
+    - resbalaseis
+  uds:
+    - resbalaran
+    - resbalsen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera resbalado
+    - hubiese resbalado
+  tu:
+    - hubieras resbalado
+    - hubieses resbalado
+  vos:
+    - hubieras resbalado
+    - hubieses resbalado
+  ud:
+    - hubiera resbalado
+    - hubiese resbalado
+  nosotros:
+    - hubiéramos resbalado
+    - hubiésemos resbalado
+  vosotros:
+    - hubierais resbalado
+    - hubieseis resbalado
+  uds:
+    - hubieran resbalado
+    - hubiesen resbalado
+imperativo:
+  tu: resbala
+  vos: resbalá
+  ud: resbale
+  nosotros: resbalemos
+  vosotros: resbalad
+  uds: resbalen

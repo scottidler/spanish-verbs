@@ -1,0 +1,142 @@
+infinitivo: obligar
+gerundio: obligando
+participio-pasado: obligado
+presente-indicativo:
+  yo: obligo
+  tu: obligas
+  vos: obligás
+  ud: obliga
+  nosotros: obligamos
+  vosotros: obligáis
+  uds: obligan
+preterito-perfecto-simple:
+  yo: obligué
+  tu: obligaste
+  vos: obligaste
+  ud: obligó
+  nosotros: obligamos
+  vosotros: obligasteis
+  uds: obligaron
+preterito-imperfecto:
+  yo: obligaba
+  tu: obligabas
+  vos: obligabas
+  ud: obligaba
+  nosotros: obligábamos
+  vosotros: obligabais
+  uds: obligaban
+futuro-simple:
+  yo: obligaré
+  tu: obligarás
+  vos: obligarás
+  ud: obligará
+  nosotros: obligaremos
+  vosotros: obligaréis
+  uds: obligarán
+condicional-simple:
+  yo: obligaría
+  tu: obligarías
+  vos: obligarías
+  ud: obligaría
+  nosotros: obligaríamos
+  vosotros: obligaríais
+  uds: obligarían
+presente-perfecto:
+  yo: he obligado
+  tu: has obligado
+  vos: has obligado
+  ud: ha obligado
+  nosotros: hemos obligado
+  vosotros: habéis obligado
+  uds: han obligado
+preterito-pluscuamperfecto:
+  yo: había obligado
+  tu: habías obligado
+  vos: habías obligado
+  ud: había obligado
+  nosotros: habíamos obligado
+  vosotros: habíais obligado
+  uds: habían obligado
+futuro-perfecto:
+  yo: habré obligado
+  tu: habrás obligado
+  vos: habrás obligado
+  ud: habrá obligado
+  nosotros: habremos obligado
+  vosotros: habréis obligado
+  uds: habrán obligado
+condicional-perfecto:
+  yo: habría obligado
+  tu: habrías obligado
+  vos: habrías obligado
+  ud: habría obligado
+  nosotros: habríamos obligado
+  vosotros: habríais obligado
+  uds: habrían obligado
+presente-subjuntivo:
+  yo: obligue
+  tu: obligues
+  vos: obligues
+  ud: obligue
+  nosotros: obliguemos
+  vosotros: obliguéis
+  uds: obliguen
+preterito-perfecto-subjuntivo:
+  yo: haya obligado
+  tu: hayas obligado
+  vos: hayas obligado
+  ud: haya obligado
+  nosotros: hayamos obligado
+  vosotros: hayáis obligado
+  uds: hayan obligado
+imperfecto-subjuntivo:
+  yo:
+    - obligara
+    - obligase
+  tu:
+    - obligaras
+    - obligases
+  vos:
+    - obligaras
+    - obligases
+  ud:
+    - obligara
+    - obligase
+  nosotros:
+    - obligáramos
+    - obligásemos
+  vosotros:
+    - obligarais
+    - obligaseis
+  uds:
+    - obligaran
+    - obligasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera obligado
+    - hubiese obligado
+  tu:
+    - hubieras obligado
+    - hubieses obligado
+  vos:
+    - hubieras obligado
+    - hubieses obligado
+  ud:
+    - hubiera obligado
+    - hubiese obligado
+  nosotros:
+    - hubiéramos obligado
+    - hubiésemos obligado
+  vosotros:
+    - hubierais obligado
+    - hubieseis obligado
+  uds:
+    - hubieran obligado
+    - hubiesen obligado
+imperativo:
+  tu: obliga
+  vos: obligá
+  ud: obligue
+  nosotros: obliguemos
+  vosotros: obligad
+  uds: obliguen

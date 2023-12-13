@@ -1,0 +1,142 @@
+infinitivo: lograr
+gerundio: logrando
+participio-pasado: logrado
+presente-indicativo:
+  yo: logro
+  tu: logras
+  vos: lográs
+  ud: logra
+  nosotros: logramos
+  vosotros: lográis
+  uds: logran
+preterito-perfecto-simple:
+  yo: logré
+  tu: lograste
+  vos: lograste
+  ud: logró
+  nosotros: logramos
+  vosotros: lograsteis
+  uds: lograron
+preterito-imperfecto:
+  yo: lograba
+  tu: lograbas
+  vos: lograbas
+  ud: lograba
+  nosotros: lográbamos
+  vosotros: lograbais
+  uds: lograban
+futuro-simple:
+  yo: lograré
+  tu: lograrás
+  vos: lograrás
+  ud: logrará
+  nosotros: lograremos
+  vosotros: lograréis
+  uds: lograrán
+condicional-simple:
+  yo: lograría
+  tu: lograrías
+  vos: lograrías
+  ud: lograría
+  nosotros: lograríamos
+  vosotros: lograríais
+  uds: lograrían
+presente-perfecto:
+  yo: he logrado
+  tu: has logrado
+  vos: has logrado
+  ud: ha logrado
+  nosotros: hemos logrado
+  vosotros: habéis logrado
+  uds: han logrado
+preterito-pluscuamperfecto:
+  yo: había logrado
+  tu: habías logrado
+  vos: habías logrado
+  ud: había logrado
+  nosotros: habíamos logrado
+  vosotros: habíais logrado
+  uds: habían logrado
+futuro-perfecto:
+  yo: habré logrado
+  tu: habrás logrado
+  vos: habrás logrado
+  ud: habrá logrado
+  nosotros: habremos logrado
+  vosotros: habréis logrado
+  uds: habrán logrado
+condicional-perfecto:
+  yo: habría logrado
+  tu: habrías logrado
+  vos: habrías logrado
+  ud: habría logrado
+  nosotros: habríamos logrado
+  vosotros: habríais logrado
+  uds: habrían logrado
+presente-subjuntivo:
+  yo: logre
+  tu: logres
+  vos: logres
+  ud: logre
+  nosotros: logremos
+  vosotros: logréis
+  uds: logren
+preterito-perfecto-subjuntivo:
+  yo: haya logrado
+  tu: hayas logrado
+  vos: hayas logrado
+  ud: haya logrado
+  nosotros: hayamos logrado
+  vosotros: hayáis logrado
+  uds: hayan logrado
+imperfecto-subjuntivo:
+  yo:
+    - lograra
+    - lograse
+  tu:
+    - lograras
+    - lograses
+  vos:
+    - lograras
+    - lograses
+  ud:
+    - lograra
+    - lograse
+  nosotros:
+    - lográramos
+    - lográsemos
+  vosotros:
+    - lograrais
+    - lograseis
+  uds:
+    - lograran
+    - lograsen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera logrado
+    - hubiese logrado
+  tu:
+    - hubieras logrado
+    - hubieses logrado
+  vos:
+    - hubieras logrado
+    - hubieses logrado
+  ud:
+    - hubiera logrado
+    - hubiese logrado
+  nosotros:
+    - hubiéramos logrado
+    - hubiésemos logrado
+  vosotros:
+    - hubierais logrado
+    - hubieseis logrado
+  uds:
+    - hubieran logrado
+    - hubiesen logrado
+imperativo:
+  tu: logra
+  vos: lográ
+  ud: logre
+  nosotros: logremos
+  vosotros: lograd
+  uds: logren

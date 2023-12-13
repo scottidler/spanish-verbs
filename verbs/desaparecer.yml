@@ -1,0 +1,142 @@
+infinitivo: desaparecer
+gerundio: desapareciendo
+participio-pasado: desaparecido
+presente-indicativo:
+  yo: desaparezco
+  tu: desapareces
+  vos: desapareces
+  ud: desaparece
+  nosotros: desaparecemos
+  vosotros: desaparecéis
+  uds: desaparecen
+preterito-perfecto-simple:
+  yo: desaparecí
+  tu: desapareciste
+  vos: desapareciste
+  ud: desapareció
+  nosotros: desaparecimos
+  vosotros: desaparecisteis
+  uds: desaparecieron
+preterito-imperfecto:
+  yo: desaparecía
+  tu: desaparecías
+  vos: desaparecías
+  ud: desaparecía
+  nosotros: desaparecíamos
+  vosotros: desaparecíais
+  uds: desaparecían
+futuro-simple:
+  yo: desapareceré
+  tu: desaparecerás
+  vos: desaparecerás
+  ud: desaparecerá
+  nosotros: desapareceremos
+  vosotros: desapareceréis
+  uds: desaparecerán
+condicional-simple:
+  yo: desaparecería
+  tu: desaparecerías
+  vos: desaparecerías
+  ud: desaparecería
+  nosotros: desapareceríamos
+  vosotros: desapareceríais
+  uds: desaparecerían
+presente-perfecto:
+  yo: he desaparecido
+  tu: has desaparecido
+  vos: has desaparecido
+  ud: ha desaparecido
+  nosotros: hemos desaparecido
+  vosotros: habéis desaparecido
+  uds: han desaparecido
+preterito-pluscuamperfecto:
+  yo: había desaparecido
+  tu: habías desaparecido
+  vos: habías desaparecido
+  ud: había desaparecido
+  nosotros: habíamos desaparecido
+  vosotros: habíais desaparecido
+  uds: habían desaparecido
+futuro-perfecto:
+  yo: habré desaparecido
+  tu: habrás desaparecido
+  vos: habrás desaparecido
+  ud: habrá desaparecido
+  nosotros: habremos desaparecido
+  vosotros: habréis desaparecido
+  uds: habrán desaparecido
+condicional-perfecto:
+  yo: habría desaparecido
+  tu: habrías desaparecido
+  vos: habrías desaparecido
+  ud: habría desaparecido
+  nosotros: habríamos desaparecido
+  vosotros: habríais desaparecido
+  uds: habrían desaparecido
+presente-subjuntivo:
+  yo: desaparezca
+  tu: desaparezcas
+  vos: desaparezcas
+  ud: desaparezca
+  nosotros: desaparezcamos
+  vosotros: desaparezcáis
+  uds: desaparezcan
+preterito-perfecto-subjuntivo:
+  yo: haya desaparecido
+  tu: hayas desaparecido
+  vos: hayas desaparecido
+  ud: haya desaparecido
+  nosotros: hayamos desaparecido
+  vosotros: hayáis desaparecido
+  uds: hayan desaparecido
+imperfecto-subjuntivo:
+  yo:
+    - desapareciera
+    - desapareciese
+  tu:
+    - desaparecieras
+    - desaparecieses
+  vos:
+    - desaparecieras
+    - desaparecieses
+  ud:
+    - desapareciera
+    - desapareciese
+  nosotros:
+    - desapareciéramos
+    - desapareciésemos
+  vosotros:
+    - desaparecierais
+    - desaparecieseis
+  uds:
+    - desaparecieran
+    - desapareciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desaparecido
+    - hubiese desaparecido
+  tu:
+    - hubieras desaparecido
+    - hubieses desaparecido
+  vos:
+    - hubieras desaparecido
+    - hubieses desaparecido
+  ud:
+    - hubiera desaparecido
+    - hubiese desaparecido
+  nosotros:
+    - hubiéramos desaparecido
+    - hubiésemos desaparecido
+  vosotros:
+    - hubierais desaparecido
+    - hubieseis desaparecido
+  uds:
+    - hubieran desaparecido
+    - hubiesen desaparecido
+imperativo:
+  tu: desaparece
+  vos: desaparecé
+  ud: desaparezca
+  nosotros: desaparezcamos
+  vosotros: desapareced
+  uds: desaparezcan

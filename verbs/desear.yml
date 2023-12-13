@@ -1,0 +1,142 @@
+infinitivo: desear
+gerundio: deseando
+participio-pasado: deseado
+presente-indicativo:
+  yo: deseo
+  tu: deseas
+  vos: deseas
+  ud: desea
+  nosotros: deseamos
+  vosotros: deseáis
+  uds: desean
+preterito-perfecto-simple:
+  yo: deseé
+  tu: deseaste
+  vos: deseaste
+  ud: deseó
+  nosotros: deseamos
+  vosotros: deseasteis
+  uds: desearon
+preterito-imperfecto:
+  yo: deseaba
+  tu: deseabas
+  vos: deseabas
+  ud: deseaba
+  nosotros: deseábamos
+  vosotros: deseabais
+  uds: deseaban
+futuro-simple:
+  yo: desearé
+  tu: desearás
+  vos: desearás
+  ud: deseará
+  nosotros: desearemos
+  vosotros: desearéis
+  uds: desearán
+condicional-simple:
+  yo: desearía
+  tu: desearías
+  vos: desearías
+  ud: desearía
+  nosotros: desearíamos
+  vosotros: desearíais
+  uds: desearían
+presente-perfecto:
+  yo: he deseado
+  tu: has deseado
+  vos: has deseado
+  ud: ha deseado
+  nosotros: hemos deseado
+  vosotros: habéis deseado
+  uds: han deseado
+preterito-pluscuamperfecto:
+  yo: había deseado
+  tu: habías deseado
+  vos: habías deseado
+  ud: había deseado
+  nosotros: habíamos deseado
+  vosotros: habíais deseado
+  uds: habían deseado
+futuro-perfecto:
+  yo: habré deseado
+  tu: habrás deseado
+  vos: habrás deseado
+  ud: habrá deseado
+  nosotros: habremos deseado
+  vosotros: habréis deseado
+  uds: habrán deseado
+condicional-perfecto:
+  yo: habría deseado
+  tu: habrías deseado
+  vos: habrías deseado
+  ud: habría deseado
+  nosotros: habríamos deseado
+  vosotros: habríais deseado
+  uds: habrían deseado
+presente-subjuntivo:
+  yo: desee
+  tu: desees
+  vos: desees
+  ud: desee
+  nosotros: deseemos
+  vosotros: deseéis
+  uds: deseen
+preterito-perfecto-subjuntivo:
+  yo: haya deseado
+  tu: hayas deseado
+  vos: hayas deseado
+  ud: haya deseado
+  nosotros: hayamos deseado
+  vosotros: hayáis deseado
+  uds: hayan deseado
+imperfecto-subjuntivo:
+  yo:
+    - deseara
+    - desease
+  tu:
+    - desearas
+    - deseases
+  vos:
+    - desearas
+    - deseases
+  ud:
+    - deseara
+    - desease
+  nosotros:
+    - deseáramos
+    - deseásemos
+  vosotros:
+    - desearais
+    - deseaseis
+  uds:
+    - desearan
+    - deseasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera deseado
+    - hubiese deseado
+  tu:
+    - hubieras deseado
+    - hubieses deseado
+  vos:
+    - hubieras deseado
+    - hubieses deseado
+  ud:
+    - hubiera deseado
+    - hubiese deseado
+  nosotros:
+    - hubiéramos deseado
+    - hubiésemos deseado
+  vosotros:
+    - hubierais deseado
+    - hubieseis deseado
+  uds:
+    - hubieran deseado
+    - hubiesen deseado
+imperativo:
+  tu: desea
+  vos: desead
+  ud: desee
+  nosotros: deseemos
+  vosotros: deseád
+  uds: deseen

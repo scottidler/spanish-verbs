@@ -1,0 +1,142 @@
+infinitivo: caer
+gerundio: cayendo
+participio-pasado: caído
+presente-indicativo:
+  yo: caigo
+  tu: caes
+  vos: caes
+  ud: cae
+  nosotros: caemos
+  vosotros: caéis
+  uds: caen
+preterito-perfecto-simple:
+  yo: caí
+  tu: caíste
+  vos: caíste
+  ud: cayó
+  nosotros: caímos
+  vosotros: caísteis
+  uds: cayeron
+preterito-imperfecto:
+  yo: caía
+  tu: caías
+  vos: caías
+  ud: caía
+  nosotros: caíamos
+  vosotros: caíais
+  uds: caían
+futuro-simple:
+  yo: caeré
+  tu: caerás
+  vos: caerás
+  ud: caerá
+  nosotros: caeremos
+  vosotros: caeréis
+  uds: caerán
+condicional-simple:
+  yo: caería
+  tu: caerías
+  vos: caerías
+  ud: caería
+  nosotros: caeríamos
+  vosotros: caeríais
+  uds: caerían
+presente-perfecto:
+  yo: he caído
+  tu: has caído
+  vos: has caído
+  ud: ha caído
+  nosotros: hemos caído
+  vosotros: habéis caído
+  uds: han caído
+preterito-pluscuamperfecto:
+  yo: había caído
+  tu: habías caído
+  vos: habías caído
+  ud: había caído
+  nosotros: habíamos caído
+  vosotros: habíais caído
+  uds: habían caído
+futuro-perfecto:
+  yo: habré caído
+  tu: habrás caído
+  vos: habrás caído
+  ud: habrá caído
+  nosotros: habremos caído
+  vosotros: habréis caído
+  uds: habrán caído
+condicional-perfecto:
+  yo: habría caído
+  tu: habrías caído
+  vos: habrías caído
+  ud: habría caído
+  nosotros: habríamos caído
+  vosotros: habríais caído
+  uds: habrían caído
+presente-subjuntivo:
+  yo: caiga
+  tu: caigas
+  vos: caigas
+  ud: caiga
+  nosotros: caigamos
+  vosotros: caigáis
+  uds: caigan
+preterito-perfecto-subjuntivo:
+  yo: haya caído
+  tu: hayas caído
+  vos: hayas caído
+  ud: haya caído
+  nosotros: hayamos caído
+  vosotros: hayáis caído
+  uds: hayan caído
+imperfecto-subjuntivo:
+  yo:
+    - cayera
+    - cayese
+  tu:
+    - cayeras
+    - cayeses
+  vos:
+    - cayeras
+    - cayeses
+  ud:
+    - cayera
+    - cayese
+  nosotros:
+    - cayéramos
+    - cayésemos
+  vosotros:
+    - cayerais
+    - cayeseis
+  uds:
+    - cayeran
+    - cayesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera caído
+    - hubiese caído
+  tu:
+    - hubieras caído
+    - hubieses caído
+  vos:
+    - hubieras caído
+    - hubieses caído
+  ud:
+    - hubiera caído
+    - hubiese caído
+  nosotros:
+    - hubiéramos caído
+    - hubiésemos caído
+  vosotros:
+    - hubierais caído
+    - hubieseis caído
+  uds:
+    - hubieran caído
+    - hubiesen caído
+imperativo:
+  tu: cae
+  vos: caé
+  ud: caiga
+  nosotros: caigamos
+  vosotros: caed
+  uds: caigan

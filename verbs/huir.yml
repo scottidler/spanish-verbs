@@ -1,0 +1,142 @@
+infinitivo: huir
+gerundio: huyendo
+participio-pasado: huido
+presente-indicativo:
+  yo: huyo
+  tu: huyes
+  vos: huyes
+  ud: huye
+  nosotros: huimos
+  vosotros: huís
+  uds: huyen
+preterito-perfecto-simple:
+  yo: huí
+  tu: huiste
+  vos: huiste
+  ud: huyó
+  nosotros: huimos
+  vosotros: huisteis
+  uds: huyeron
+preterito-imperfecto:
+  yo: huía
+  tu: huías
+  vos: huías
+  ud: huía
+  nosotros: huíamos
+  vosotros: huíais
+  uds: huían
+futuro-simple:
+  yo: huiré
+  tu: huirás
+  vos: huirás
+  ud: huirá
+  nosotros: huiremos
+  vosotros: huiréis
+  uds: huirán
+condicional-simple:
+  yo: huiría
+  tu: huirías
+  vos: huirías
+  ud: huiría
+  nosotros: huiríamos
+  vosotros: huiríais
+  uds: huirían
+presente-perfecto:
+  yo: he huido
+  tu: has huido
+  vos: has huido
+  ud: ha huido
+  nosotros: hemos huido
+  vosotros: habéis huido
+  uds: han huido
+preterito-pluscuamperfecto:
+  yo: había huido
+  tu: habías huido
+  vos: habías huido
+  ud: había huido
+  nosotros: habíamos huido
+  vosotros: habíais huido
+  uds: habían huido
+futuro-perfecto:
+  yo: habré huido
+  tu: habrás huido
+  vos: habrás huido
+  ud: habrá huido
+  nosotros: habremos huido
+  vosotros: habréis huido
+  uds: habrán huido
+condicional-perfecto:
+  yo: habría huido
+  tu: habrías huido
+  vos: habrías huido
+  ud: habría huido
+  nosotros: habríamos huido
+  vosotros: habríais huido
+  uds: habrían huido
+presente-subjuntivo:
+  yo: huya
+  tu: huyas
+  vos: huyas
+  ud: huya
+  nosotros: huyamos
+  vosotros: huyáis
+  uds: huyan
+preterito-perfecto-subjuntivo:
+  yo: haya huido
+  tu: hayas huido
+  vos: hayas huido
+  ud: haya huido
+  nosotros: hayamos huido
+  vosotros: hayáis huido
+  uds: hayan huido
+imperfecto-subjuntivo:
+  yo:
+    - huyera
+    - huyese
+  tu:
+    - huyeras
+    - huyeses
+  vos:
+    - huyeras
+    - huyeses
+  ud:
+    - huyera
+    - huyese
+  nosotros:
+    - huyéramos
+    - huyésemos
+  vosotros:
+    - huyerais
+    - huyeseis
+  uds:
+    - huyeran
+    - huyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera huido
+    - hubiese huido
+  tu:
+    - hubieras huido
+    - hubieses huido
+  vos:
+    - hubieras huido
+    - hubieses huido
+  ud:
+    - hubiera huido
+    - hubiese huido
+  nosotros:
+    - hubiéramos huido
+    - hubiésemos huido
+  vosotros:
+    - hubierais huido
+    - hubieseis huido
+  uds:
+    - hubieran huido
+    - hubiesen huido
+imperativo:
+  tu: huye
+  vos: huye
+  ud: huya
+  nosotros: huyamos
+  vosotros: huid
+  uds: huyan

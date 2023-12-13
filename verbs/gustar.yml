@@ -1,0 +1,142 @@
+infinitivo: gustar
+gerundio: gustando
+participio-pasado: gustado
+presente-indicativo:
+  yo: gusto
+  tu: gustas
+  vos: gustas
+  ud: gusta
+  nosotros: gustamos
+  vosotros: gustáis
+  uds: gustan
+preterito-perfecto-simple:
+  yo: gusté
+  tu: gustaste
+  vos: gustaste
+  ud: gustó
+  nosotros: gustamos
+  vosotros: gustasteis
+  uds: gustaron
+preterito-imperfecto:
+  yo: gustaba
+  tu: gustabas
+  vos: gustabas
+  ud: gustaba
+  nosotros: gustábamos
+  vosotros: gustabais
+  uds: gustaban
+futuro-simple:
+  yo: gustaré
+  tu: gustarás
+  vos: gustarás
+  ud: gustará
+  nosotros: gustaremos
+  vosotros: gustaréis
+  uds: gustarán
+condicional-simple:
+  yo: gustaría
+  tu: gustarías
+  vos: gustarías
+  ud: gustaría
+  nosotros: gustaríamos
+  vosotros: gustaríais
+  uds: gustarían
+presente-perfecto:
+  yo: he gustado
+  tu: has gustado
+  vos: has gustado
+  ud: ha gustado
+  nosotros: hemos gustado
+  vosotros: habéis gustado
+  uds: han gustado
+preterito-pluscuamperfecto:
+  yo: había gustado
+  tu: habías gustado
+  vos: habías gustado
+  ud: había gustado
+  nosotros: habíamos gustado
+  vosotros: habíais gustado
+  uds: habían gustado
+futuro-perfecto:
+  yo: habré gustado
+  tu: habrás gustado
+  vos: habrás gustado
+  ud: habrá gustado
+  nosotros: habremos gustado
+  vosotros: habréis gustado
+  uds: habrán gustado
+condicional-perfecto:
+  yo: habría gustado
+  tu: habrías gustado
+  vos: habrías gustado
+  ud: habría gustado
+  nosotros: habríamos gustado
+  vosotros: habríais gustado
+  uds: habrían gustado
+presente-subjuntivo:
+  yo: guste
+  tu: gustes
+  vos: gustes
+  ud: guste
+  nosotros: gustemos
+  vosotros: gustéis
+  uds: gusten
+preterito-perfecto-subjuntivo:
+  yo: haya gustado
+  tu: hayas gustado
+  vos: hayas gustado
+  ud: haya gustado
+  nosotros: hayamos gustado
+  vosotros: hayáis gustado
+  uds: hayan gustado
+imperfecto-subjuntivo:
+  yo:
+    - gustara
+    - gustase
+  tu:
+    - gustaras
+    - gustases
+  vos:
+    - gustaras
+    - gustases
+  ud:
+    - gustara
+    - gustase
+  nosotros:
+    - gustáramos
+    - gustásemos
+  vosotros:
+    - gustarais
+    - gustaseis
+  uds:
+    - gustaran
+    - gustasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gustado
+    - hubiese gustado
+  tu:
+    - hubieras gustado
+    - hubieses gustado
+  vos:
+    - hubieras gustado
+    - hubieses gustado
+  ud:
+    - hubiera gustado
+    - hubiese gustado
+  nosotros:
+    - hubiéramos gustado
+    - hubiésemos gustado
+  vosotros:
+    - hubierais gustado
+    - hubieseis gustado
+  uds:
+    - hubieran gustado
+    - hubiesen gustado
+imperativo:
+  tu: gusta
+  vos: gustá
+  ud: guste
+  nosotros: gustemos
+  vosotros: gustad
+  uds: gusten

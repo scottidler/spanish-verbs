@@ -1,0 +1,142 @@
+infinitivo: jadear
+gerundio: jadeando
+participio-pasado: jadeado
+presente-indicativo:
+  yo: jadeo
+  tu: jadeas
+  vos: jadeás
+  ud: jadea
+  nosotros: jadeamos
+  vosotros: jadeáis
+  uds: jadean
+preterito-perfecto-simple:
+  yo: jadeé
+  tu: jadeaste
+  vos: jadeaste
+  ud: jadeó
+  nosotros: jadeamos
+  vosotros: jadeasteis
+  uds: jadearon
+preterito-imperfecto:
+  yo: jadeaba
+  tu: jadeabas
+  vos: jadeabas
+  ud: jadeaba
+  nosotros: jadeábamos
+  vosotros: jadeabais
+  uds: jadeaban
+futuro-simple:
+  yo: jadearé
+  tu: jadearás
+  vos: jadearás
+  ud: jadeará
+  nosotros: jadearemos
+  vosotros: jadearéis
+  uds: jadearán
+condicional-simple:
+  yo: jadearía
+  tu: jadearías
+  vos: jadearías
+  ud: jadearía
+  nosotros: jadearíamos
+  vosotros: jadearíais
+  uds: jadearían
+presente-perfecto:
+  yo: he jadeado
+  tu: has jadeado
+  vos: has jadeado
+  ud: ha jadeado
+  nosotros: hemos jadeado
+  vosotros: habéis jadeado
+  uds: han jadeado
+preterito-pluscuamperfecto:
+  yo: había jadeado
+  tu: habías jadeado
+  vos: habías jadeado
+  ud: había jadeado
+  nosotros: habíamos jadeado
+  vosotros: habíais jadeado
+  uds: habían jadeado
+futuro-perfecto:
+  yo: habré jadeado
+  tu: habrás jadeado
+  vos: habrás jadeado
+  ud: habrá jadeado
+  nosotros: habremos jadeado
+  vosotros: habréis jadeado
+  uds: habrán jadeado
+condicional-perfecto:
+  yo: habría jadeado
+  tu: habrías jadeado
+  vos: habrías jadeado
+  ud: habría jadeado
+  nosotros: habríamos jadeado
+  vosotros: habríais jadeado
+  uds: habrían jadeado
+presente-subjuntivo:
+  yo: jadée
+  tu: jadees
+  vos: jadees
+  ud: jadée
+  nosotros: jademos
+  vosotros: jadeéis
+  uds: jadeen
+preterito-perfecto-subjuntivo:
+  yo: haya jadeado
+  tu: hayas jadeado
+  vos: hayas jadeado
+  ud: haya jadeado
+  nosotros: hayamos jadeado
+  vosotros: hayáis jadeado
+  uds: hayan jadeado
+imperfecto-subjuntivo:
+  yo:
+    - jadeara
+    - jadease
+  tu:
+    - jadearas
+    - jadearas
+  vos:
+    - jadearas
+    - jadearas
+  ud:
+    - jadeara
+    - jadease
+  nosotros:
+    - jadeáramos
+    - jadeásemos
+  vosotros:
+    - jadearais
+    - jadearais
+  uds:
+    - jadearan
+    - jadeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera jadeado
+    - hubiese jadeado
+  tu:
+    - hubieras jadeado
+    - hubieses jadeado
+  vos:
+    - hubieras jadeado
+    - hubieses jadeado
+  ud:
+    - hubiera jadeado
+    - hubiese jadeado
+  nosotros:
+    - hubiéramos jadeado
+    - hubiésemos jadeado
+  vosotros:
+    - hubierais jadeado
+    - hubieseis jadeado
+  uds:
+    - hubieran jadeado
+    - hubiesen jadeado
+imperativo:
+  tu: jadea
+  vos: jadeá
+  ud: jadée
+  nosotros: jademos
+  vosotros: jadead
+  uds: jadeen

@@ -1,0 +1,142 @@
+infinitivo: apresurar
+gerundio: apresurando
+participio-pasado: apresurado
+presente-indicativo:
+  yo: apresuro
+  tu: apresuras
+  vos: apresurás
+  ud: apresura
+  nosotros: apresuramos
+  vosotros: apresuráis
+  uds: apresuran
+preterito-perfecto-simple:
+  yo: apresuré
+  tu: apresuraste
+  vos: apresuraste
+  ud: apresuró
+  nosotros: apresuramos
+  vosotros: apresurasteis
+  uds: apresuraron
+preterito-imperfecto:
+  yo: apresuraba
+  tu: apresurabas
+  vos: apresurabas
+  ud: apresuraba
+  nosotros: apresurábamos
+  vosotros: apresurabais
+  uds: apresuraban
+futuro-simple:
+  yo: apresuraré
+  tu: apresurarás
+  vos: apresurarás
+  ud: apresurará
+  nosotros: apresuraremos
+  vosotros: apresuraréis
+  uds: apresurarán
+condicional-simple:
+  yo: apresuraría
+  tu: apresurarías
+  vos: apresurarías
+  ud: apresuraría
+  nosotros: apresuraríamos
+  vosotros: apresuraríais
+  uds: apresurarían
+presente-perfecto:
+  yo: he apresurado
+  tu: has apresurado
+  vos: has apresurado
+  ud: ha apresurado
+  nosotros: hemos apresurado
+  vosotros: habéis apresurado
+  uds: han apresurado
+preterito-pluscuamperfecto:
+  yo: había apresurado
+  tu: habías apresurado
+  vos: habías apresurado
+  ud: había apresurado
+  nosotros: habíamos apresurado
+  vosotros: habíais apresurado
+  uds: habían apresurado
+futuro-perfecto:
+  yo: habré apresurado
+  tu: habrás apresurado
+  vos: habrás apresurado
+  ud: habrá apresurado
+  nosotros: habremos apresurado
+  vosotros: habréis apresurado
+  uds: habrán apresurado
+condicional-perfecto:
+  yo: habría apresurado
+  tu: habrías apresurado
+  vos: habrías apresurado
+  ud: habría apresurado
+  nosotros: habríamos apresurado
+  vosotros: habríais apresurado
+  uds: habrían apresurado
+presente-subjuntivo:
+  yo: apresure
+  tu: apresures
+  vos: apresures
+  ud: apresure
+  nosotros: apresuremos
+  vosotros: apresuréis
+  uds: apresuren
+preterito-perfecto-subjuntivo:
+  yo: haya apresurado
+  tu: hayas apresurado
+  vos: hayas apresurado
+  ud: haya apresurado
+  nosotros: hayamos apresurado
+  vosotros: hayáis apresurado
+  uds: hayan apresurado
+imperfecto-subjuntivo:
+  yo:
+    - apresurara
+    - apresurase
+  tu:
+    - apresuraras
+    - apresurases
+  vos:
+    - apresuraras
+    - apresurases
+  ud:
+    - apresurara
+    - apresurase
+  nosotros:
+    - apresuráramos
+    - apresurásemos
+  vosotros:
+    - apresurarais
+    - apresuraseis
+  uds:
+    - apresuraran
+    - apresurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apresurado
+    - hubiese apresurado
+  tu:
+    - hubieras apresurado
+    - hubieses apresurado
+  vos:
+    - hubieras apresurado
+    - hubieses apresurado
+  ud:
+    - hubiera apresurado
+    - hubiese apresurado
+  nosotros:
+    - hubiéramos apresurado
+    - hubiésemos apresurado
+  vosotros:
+    - hubierais apresurado
+    - hubieseis apresurado
+  uds:
+    - hubieran apresurado
+    - hubiesen apresurado
+imperativo:
+  tu: apresura
+  vos: apresurá
+  ud: apresure
+  nosotros: apresuremos
+  vosotros: apresurad
+  uds: apresuren

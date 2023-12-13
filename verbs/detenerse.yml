@@ -1,0 +1,156 @@
+infinitivo: detenerse
+gerundio: deteniéndose
+participio-pasado: detenido
+
+presente-indicativo:
+  yo: me detengo
+  tu: te detienes
+  vos: te detienes
+  ud: se detiene
+  nosotros: nos detenemos
+  vosotros: os detenéis
+  uds: se detienen
+
+preterito-perfecto-simple:
+  yo: me detuve
+  tu: te detuviste
+  vos: te detuviste
+  ud: se detuvo
+  nosotros: nos detuvimos
+  vosotros: os detuvisteis
+  uds: se detuvieron
+
+preterito-imperfecto:
+  yo: me detenía
+  tu: te detenías
+  vos: te detenías
+  ud: se detenía
+  nosotros: nos deteníamos
+  vosotros: os deteníais
+  uds: se detenían
+
+futuro-simple:
+  yo: me detendré
+  tu: te detendrás
+  vos: te detendrás
+  ud: se detendrá
+  nosotros: nos detendremos
+  vosotros: os detendréis
+  uds: se detendrán
+
+condicional-simple:
+  yo: me detendría
+  tu: te detendrías
+  vos: te detendrías
+  ud: se detendría
+  nosotros: nos detendríamos
+  vosotros: os detendríais
+  uds: se detendrían
+
+presente-perfecto:
+  yo: me he detenido
+  tu: te has detenido
+  vos: te has detenido
+  ud: se ha detenido
+  nosotros: nos hemos detenido
+  vosotros: os habéis detenido
+  uds: se han detenido
+
+preterito-pluscuamperfecto:
+  yo: me había detenido
+  tu: te habías detenido
+  vos: te habías detenido
+  ud: se había detenido
+  nosotros: nos habíamos detenido
+  vosotros: os habíais detenido
+  uds: se habían detenido
+
+futuro-perfecto:
+  yo: me habré detenido
+  tu: te habrás detenido
+  vos: te habrás detenido
+  ud: se habrá detenido
+  nosotros: nos habremos detenido
+  vosotros: os habréis detenido
+  uds: se habrán detenido
+
+condicional-perfecto:
+  yo: me habría detenido
+  tu: te habrías detenido
+  vos: te habrías detenido
+  ud: se habría detenido
+  nosotros: nos habríamos detenido
+  vosotros: os habríais detenido
+  uds: se habrían detenido
+
+presente-subjuntivo:
+  yo: me detenga
+  tu: te detengas
+  vos: te detengas
+  ud: se detenga
+  nosotros: nos detengamos
+  vosotros: os detengáis
+  uds: se detengan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya detenido
+  tu: te hayas detenido
+  vos: te hayas detenido
+  ud: se haya detenido
+  nosotros: nos hayamos detenido
+  vosotros: os hayáis detenido
+  uds: se hayan detenido
+
+imperfecto-subjuntivo:
+  yo:
+    - me detuviera
+    - me detuviese
+  tu:
+    - te detuvieras
+    - te detuvieses
+  vos:
+    - te detuvieras
+    - te detuvieses
+  ud:
+    - se detuviera
+    - se detuviese
+  nosotros:
+    - nos detuviéramos
+    - nos detuviésemos
+  vosotros:
+    - os detuvierais
+    - os detuvieseis
+  uds:
+    - se detuvieran
+    - se detuviesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera detenido
+    - me hubiese detenido
+  tu:
+    - te hubieras detenido
+    - te hubieses detenido
+  vos:
+    - te hubieras detenido
+    - te hubieses detenido
+  ud:
+    - se hubiera detenido
+    - se hubiese detenido
+  nosotros:
+    - nos hubiéramos detenido
+    - nos hubiésemos detenido
+  vosotros:
+    - os hubierais detenido
+    - os hubieseis detenido
+  uds:
+    - se hubieran detenido
+    - se hubiesen detenido
+
+imperativo:
+  tu: detente
+  vos: detente
+  ud: deténgase
+  nosotros: detengámonos
+  vosotros: deteneos
+  uds: deténganse

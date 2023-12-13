@@ -1,0 +1,142 @@
+infinitivo: viajar
+gerundio: viajando
+participio-pasado: viajado
+presente-indicativo:
+  yo: viajo
+  tu: viajas
+  vos: viajas
+  ud: viaja
+  nosotros: viajamos
+  vosotros: viajáis
+  uds: viajan
+preterito-perfecto-simple:
+  yo: viajé
+  tu: viajaste
+  vos: viajaste
+  ud: viajó
+  nosotros: viajamos
+  vosotros: viajasteis
+  uds: viajaron
+preterito-imperfecto:
+  yo: viajaba
+  tu: viajabas
+  vos: viajabas
+  ud: viajaba
+  nosotros: viajábamos
+  vosotros: viajabais
+  uds: viajaban
+futuro-simple:
+  yo: viajaré
+  tu: viajarás
+  vos: viajarás
+  ud: viajará
+  nosotros: viajaremos
+  vosotros: viajaréis
+  uds: viajarán
+condicional-simple:
+  yo: viajaría
+  tu: viajarías
+  vos: viajarías
+  ud: viajaría
+  nosotros: viajaríamos
+  vosotros: viajaríais
+  uds: viajarían
+presente-perfecto:
+  yo: he viajado
+  tu: has viajado
+  vos: has viajado
+  ud: ha viajado
+  nosotros: hemos viajado
+  vosotros: habéis viajado
+  uds: han viajado
+preterito-pluscuamperfecto:
+  yo: había viajado
+  tu: habías viajado
+  vos: habías viajado
+  ud: había viajado
+  nosotros: habíamos viajado
+  vosotros: habíais viajado
+  uds: habían viajado
+futuro-perfecto:
+  yo: habré viajado
+  tu: habrás viajado
+  vos: habrás viajado
+  ud: habrá viajado
+  nosotros: habremos viajado
+  vosotros: habréis viajado
+  uds: habrán viajado
+condicional-perfecto:
+  yo: habría viajado
+  tu: habrías viajado
+  vos: habrías viajado
+  ud: habría viajado
+  nosotros: habríamos viajado
+  vosotros: habríais viajado
+  uds: habrían viajado
+presente-subjuntivo:
+  yo: viaje
+  tu: viajes
+  vos: viajes
+  ud: viaje
+  nosotros: viajemos
+  vosotros: viajéis
+  uds: viajen
+preterito-perfecto-subjuntivo:
+  yo: haya viajado
+  tu: hayas viajado
+  vos: hayas viajado
+  ud: haya viajado
+  nosotros: hayamos viajado
+  vosotros: hayáis viajado
+  uds: hayan viajado
+imperfecto-subjuntivo:
+  yo:
+    - viajara
+    - viajase
+  tu:
+    - viajaras
+    - viajases
+  vos:
+    - viajaras
+    - viajases
+  ud:
+    - viajara
+    - viajase
+  nosotros:
+    - viajáramos
+    - viajásemos
+  vosotros:
+    - viajarais
+    - viajaseis
+  uds:
+    - viajaran
+    - viajasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera viajado
+    - hubiese viajado
+  tu:
+    - hubieras viajado
+    - hubieses viajado
+  vos:
+    - hubieras viajado
+    - hubieses viajado
+  ud:
+    - hubiera viajado
+    - hubiese viajado
+  nosotros:
+    - hubiéramos viajado
+    - hubiésemos viajado
+  vosotros:
+    - hubierais viajado
+    - hubieseis viajado
+  uds:
+    - hubieran viajado
+    - hubiesen viajado
+imperativo:
+  tu: viaja
+  vos: viajá
+  ud: viaje
+  nosotros: viajemos
+  vosotros: viajad
+  uds: viajen

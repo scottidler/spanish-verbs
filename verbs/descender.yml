@@ -1,0 +1,142 @@
+infinitivo: descender
+gerundio: descendiendo
+participio-pasado: descendido
+presente-indicativo:
+  yo: desciendo
+  tu: desciendes
+  vos: desciendes
+  ud: desciende
+  nosotros: descendemos
+  vosotros: descendéis
+  uds: descienden
+preterito-perfecto-simple:
+  yo: descendí
+  tu: descendiste
+  vos: descendiste
+  ud: descendió
+  nosotros: descendimos
+  vosotros: descendisteis
+  uds: descendieron
+preterito-imperfecto:
+  yo: descendía
+  tu: descendías
+  vos: descendías
+  ud: descendía
+  nosotros: descendíamos
+  vosotros: descendíais
+  uds: descendían
+futuro-simple:
+  yo: descenderé
+  tu: descenderás
+  vos: descenderás
+  ud: descenderá
+  nosotros: descenderemos
+  vosotros: descenderéis
+  uds: descenderán
+condicional-simple:
+  yo: descendería
+  tu: descenderías
+  vos: descenderías
+  ud: descendería
+  nosotros: descenderíamos
+  vosotros: descenderíais
+  uds: descenderían
+presente-perfecto:
+  yo: he descendido
+  tu: has descendido
+  vos: has descendido
+  ud: ha descendido
+  nosotros: hemos descendido
+  vosotros: habéis descendido
+  uds: han descendido
+preterito-pluscuamperfecto:
+  yo: había descendido
+  tu: habías descendido
+  vos: habías descendido
+  ud: había descendido
+  nosotros: habíamos descendido
+  vosotros: habíais descendido
+  uds: habían descendido
+futuro-perfecto:
+  yo: habré descendido
+  tu: habrás descendido
+  vos: habrás descendido
+  ud: habrá descendido
+  nosotros: habremos descendido
+  vosotros: habréis descendido
+  uds: habrán descendido
+condicional-perfecto:
+  yo: habría descendido
+  tu: habrías descendido
+  vos: habrías descendido
+  ud: habría descendido
+  nosotros: habríamos descendido
+  vosotros: habríais descendido
+  uds: habrían descendido
+presente-subjuntivo:
+  yo: descienda
+  tu: desciendas
+  vos: desciendas
+  ud: descienda
+  nosotros: descendamos
+  vosotros: descendáis
+  uds: desciendan
+preterito-perfecto-subjuntivo:
+  yo: haya descendido
+  tu: hayas descendido
+  vos: hayas descendido
+  ud: haya descendido
+  nosotros: hayamos descendido
+  vosotros: hayáis descendido
+  uds: hayan descendido
+imperfecto-subjuntivo:
+  yo:
+    - descendiera
+    - descendiese
+  tu:
+    - descendieras
+    - descendieses
+  vos:
+    - descendieras
+    - descendieses
+  ud:
+    - descendiera
+    - descendiese
+  nosotros:
+    - descendiéramos
+    - descendiésemos
+  vosotros:
+    - descendierais
+    - descendieseis
+  uds:
+    - descendieran
+    - descendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera descendido
+    - hubiese descendido
+  tu:
+    - hubieras descendido
+    - hubieses descendido
+  vos:
+    - hubieras descendido
+    - hubieses descendido
+  ud:
+    - hubiera descendido
+    - hubiese descendido
+  nosotros:
+    - hubiéramos descendido
+    - hubiésemos descendido
+  vosotros:
+    - hubierais descendido
+    - hubieseis descendido
+  uds:
+    - hubieran descendido
+    - hubiesen descendido
+imperativo:
+  tu: desciende
+  vos: descendé
+  ud: descienda
+  nosotros: descendamos
+  vosotros: descended
+  uds: desciendan

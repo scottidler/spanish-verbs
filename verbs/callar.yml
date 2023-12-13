@@ -1,0 +1,142 @@
+infinitivo: callar
+gerundio: callando
+participio-pasado: callado
+presente-indicativo:
+  yo: callo
+  tu: callas
+  vos: callás
+  ud: calla
+  nosotros: callamos
+  vosotros: calláis
+  uds: callan
+preterito-perfecto-simple:
+  yo: callé
+  tu: callaste
+  vos: callaste
+  ud: calló
+  nosotros: callamos
+  vosotros: callasteis
+  uds: callaron
+preterito-imperfecto:
+  yo: callaba
+  tu: callabas
+  vos: callabas
+  ud: callaba
+  nosotros: callábamos
+  vosotros: callabais
+  uds: callaban
+futuro-simple:
+  yo: callaré
+  tu: callarás
+  vos: callarás
+  ud: callará
+  nosotros: callaremos
+  vosotros: callaréis
+  uds: callarán
+condicional-simple:
+  yo: callaría
+  tu: callarías
+  vos: callarías
+  ud: callaría
+  nosotros: callaríamos
+  vosotros: callaríais
+  uds: callarían
+presente-perfecto:
+  yo: he callado
+  tu: has callado
+  vos: has callado
+  ud: ha callado
+  nosotros: hemos callado
+  vosotros: habéis callado
+  uds: han callado
+preterito-pluscuamperfecto:
+  yo: había callado
+  tu: habías callado
+  vos: habías callado
+  ud: había callado
+  nosotros: habíamos callado
+  vosotros: habíais callado
+  uds: habían callado
+futuro-perfecto:
+  yo: habré callado
+  tu: habrás callado
+  vos: habrás callado
+  ud: habrá callado
+  nosotros: habremos callado
+  vosotros: habréis callado
+  uds: habrán callado
+condicional-perfecto:
+  yo: habría callado
+  tu: habrías callado
+  vos: habrías callado
+  ud: habría callado
+  nosotros: habríamos callado
+  vosotros: habríais callado
+  uds: habrían callado
+presente-subjuntivo:
+  yo: calle
+  tu: calles
+  vos: calles
+  ud: calle
+  nosotros: callemos
+  vosotros: calléis
+  uds: callen
+preterito-perfecto-subjuntivo:
+  yo: haya callado
+  tu: hayas callado
+  vos: hayas callado
+  ud: haya callado
+  nosotros: hayamos callado
+  vosotros: hayáis callado
+  uds: hayan callado
+imperfecto-subjuntivo:
+  yo:
+    - callara
+    - callase
+  tu:
+    - callaras
+    - callases
+  vos:
+    - callaras
+    - callases
+  ud:
+    - callara
+    - callase
+  nosotros:
+    - calláramos
+    - callásemos
+  vosotros:
+    - callarais
+    - callaseis
+  uds:
+    - callaran
+    - callasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera callado
+    - hubiese callado
+  tu:
+    - hubieras callado
+    - hubieses callado
+  vos:
+    - hubieras callado
+    - hubieses callado
+  ud:
+    - hubiera callado
+    - hubiese callado
+  nosotros:
+    - hubiéramos callado
+    - hubiésemos callado
+  vosotros:
+    - hubierais callado
+    - hubieseis callado
+  uds:
+    - hubieran callado
+    - hubiesen callado
+imperativo:
+  tu: calla
+  vos: callá
+  ud: calle
+  nosotros: callemos
+  vosotros: callad
+  uds: callen

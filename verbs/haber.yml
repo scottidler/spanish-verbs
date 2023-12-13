@@ -1,0 +1,142 @@
+infinitivo: haber
+gerundio: habiendo
+participio-pasado: habido
+presente-indicativo:
+  yo: he
+  tu: has
+  vos: has
+  ud: ha
+  nosotros: hemos
+  vosotros: habéis
+  uds: han
+preterito-perfecto-simple:
+  yo: hube
+  tu: hubiste
+  vos: hubiste
+  ud: hubo
+  nosotros: hubimos
+  vosotros: hubisteis
+  uds: hubieron
+preterito-imperfecto:
+  yo: había
+  tu: habías
+  vos: habías
+  ud: había
+  nosotros: habíamos
+  vosotros: habíais
+  uds: habían
+futuro-simple:
+  yo: habré
+  tu: habrás
+  vos: habrás
+  ud: habrá
+  nosotros: habremos
+  vosotros: habréis
+  uds: habrán
+condicional-simple:
+  yo: habría
+  tu: habrías
+  vos: habrías
+  ud: habría
+  nosotros: habríamos
+  vosotros: habríais
+  uds: habrían
+presente-perfecto:
+  yo: haya
+  tu: hayas
+  vos: hayas
+  ud: haya
+  nosotros: hayamos
+  vosotros: hayáis
+  uds: hayan
+preterito-pluscuamperfecto:
+  yo: hubiera
+  tu: hubieras
+  vos: hubieras
+  ud: hubiera
+  nosotros: hubiéramos
+  vosotros: hubierais
+  uds: hubieran
+futuro-perfecto:
+  yo: habré
+  tu: habrás
+  vos: habrás
+  ud: habrá
+  nosotros: habremos
+  vosotros: habréis
+  uds: habrán
+condicional-perfecto:
+  yo: habría
+  tu: habrías
+  vos: habrías
+  ud: habría
+  nosotros: habríamos
+  vosotros: habríais
+  uds: habrían
+presente-subjuntivo:
+  yo: haya
+  tu: hayas
+  vos: hayas
+  ud: haya
+  nosotros: hayamos
+  vosotros: hayáis
+  uds: hayan
+preterito-perfecto-subjuntivo:
+  yo: hubiera
+  tu: hubieras
+  vos: hubieras
+  ud: hubiera
+  nosotros: hubiéramos
+  vosotros: hubierais
+  uds: hubieran
+imperfecto-subjuntivo:
+  yo:
+    - hubiera
+    - hubiese
+  tu:
+    - hubieras
+    - hubieses
+  vos:
+    - hubieras
+    - hubieses
+  ud:
+    - hubiera
+    - hubiese
+  nosotros:
+    - hubiéramos
+    - hubiésemos
+  vosotros:
+    - hubierais
+    - hubieseis
+  uds:
+    - hubieran
+    - hubiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera
+    - hubiese
+  tu:
+    - hubieras
+    - hubieses
+  vos:
+    - hubieras
+    - hubieses
+  ud:
+    - hubiera
+    - hubiese
+  nosotros:
+    - hubiéramos
+    - hubiésemos
+  vosotros:
+    - hubierais
+    - hubieseis
+  uds:
+    - hubieran
+    - hubiesen
+imperativo:
+  tu: habé
+  vos: había
+  ud: haya
+  nosotros: hayamos
+  vosotros: habed
+  uds: hayan

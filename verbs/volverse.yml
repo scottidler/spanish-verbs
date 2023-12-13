@@ -1,0 +1,156 @@
+infinitivo: volverse
+gerundio: volviéndose
+participio-pasado: volto
+
+presente-indicativo:
+  yo: me vuelvo
+  tu: te vuelves
+  vos: te volvés
+  ud: se vuelve
+  nosotros: nos volvemos
+  vosotros: os volvéis
+  uds: se vuelven
+
+preterito-perfecto-simple:
+  yo: me volví
+  tu: te volviste
+  vos: te volviste
+  ud: se volvió
+  nosotros: nos volvimos
+  vosotros: os volvisteis
+  uds: se volvieron
+
+preterito-imperfecto:
+  yo: me volvía
+  tu: te volvías
+  vos: te volvías
+  ud: se volvía
+  nosotros: nos volvíamos
+  vosotros: os volvíais
+  uds: se volvían
+
+futuro-simple:
+  yo: me volveré
+  tu: te volverás
+  vos: te volverás
+  ud: se volverá
+  nosotros: nos volveremos
+  vosotros: os volveréis
+  uds: se volverán
+
+condicional-simple:
+  yo: me volvería
+  tu: te volverías
+  vos: te volverías
+  ud: se volvería
+  nosotros: nos volveríamos
+  vosotros: os volveríais
+  uds: se volverían
+
+presente-perfecto:
+  yo: me he vuelto
+  tu: te has vuelto
+  vos: te has vuelto
+  ud: se ha vuelto
+  nosotros: nos hemos vuelto
+  vosotros: os habéis vuelto
+  uds: se han vuelto
+
+preterito-pluscuamperfecto:
+  yo: me había vuelto
+  tu: te habías vuelto
+  vos: te habías vuelto
+  ud: se había vuelto
+  nosotros: nos habíamos vuelto
+  vosotros: os habíais vuelto
+  uds: se habían vuelto
+
+futuro-perfecto:
+  yo: me habré vuelto
+  tu: te habrás vuelto
+  vos: te habrás vuelto
+  ud: se habrá vuelto
+  nosotros: nos habremos vuelto
+  vosotros: os habréis vuelto
+  uds: se habrán vuelto
+
+condicional-perfecto:
+  yo: me habría vuelto
+  tu: te habrías vuelto
+  vos: te habrías vuelto
+  ud: se habría vuelto
+  nosotros: nos habríamos vuelto
+  vosotros: os habríais vuelto
+  uds: se habrían vuelto
+
+presente-subjuntivo:
+  yo: me vuelva
+  tu: te vuelvas
+  vos: te vuelvas
+  ud: se vuelva
+  nosotros: nos volvamos
+  vosotros: os volváis
+  uds: se vuelvan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya vuelto
+  tu: te hayas vuelto
+  vos: te hayas vuelto
+  ud: se haya vuelto
+  nosotros: nos hayamos vuelto
+  vosotros: os hayáis vuelto
+  uds: se hayan vuelto
+
+imperfecto-subjuntivo:
+  yo:
+    - me volviera
+    - me volviese
+  tu:
+    - te volvieras
+    - te volvieses
+  vos:
+    - te volvieras
+    - te volvieses
+  ud:
+    - se volviera
+    - se volviese
+  nosotros:
+    - nos volviéramos
+    - nos volviésemos
+  vosotros:
+    - os volvierais
+    - os volvieseis
+  uds:
+    - se volvieran
+    - se volviesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera vuelto
+    - me hubiese vuelto
+  tu:
+    - te hubieras vuelto
+    - te hubieses vuelto
+  vos:
+    - te hubieras vuelto
+    - te hubieses vuelto
+  ud:
+    - se hubiera vuelto
+    - se hubiese vuelto
+  nosotros:
+    - nos hubiéramos vuelto
+    - nos hubiésemos vuelto
+  vosotros:
+    - os hubierais vuelto
+    - os hubieseis vuelto
+  uds:
+    - se hubieran vuelto
+    - se hubiesen vuelto
+
+imperativo:
+  tu: vuélvete
+  vos: volvéte
+  ud: vuelva
+  nosotros: volvámonos
+  vosotros: volved
+  uds: vuelvan

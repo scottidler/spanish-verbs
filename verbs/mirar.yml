@@ -1,0 +1,142 @@
+infinitivo: mirar
+gerundio: mirando
+participio-pasado: mirado
+presente-indicativo:
+  yo: miro
+  tu: miras
+  vos: mirás
+  ud: mira
+  nosotros: miramos
+  vosotros: miráis
+  uds: miran
+preterito-perfecto-simple:
+  yo: miré
+  tu: miraste
+  vos: miraste
+  ud: miró
+  nosotros: miramos
+  vosotros: mirasteis
+  uds: miraron
+preterito-imperfecto:
+  yo: miraba
+  tu: mirabas
+  vos: mirabas
+  ud: miraba
+  nosotros: mirábamos
+  vosotros: mirabais
+  uds: miraban
+futuro-simple:
+  yo: miraré
+  tu: mirarás
+  vos: mirarás
+  ud: mirará
+  nosotros: miraremos
+  vosotros: miraréis
+  uds: mirarán
+condicional-simple:
+  yo: miraría
+  tu: mirarías
+  vos: mirarías
+  ud: miraría
+  nosotros: miraríamos
+  vosotros: miraríais
+  uds: mirarían
+presente-perfecto:
+  yo: he mirado
+  tu: has mirado
+  vos: has mirado
+  ud: ha mirado
+  nosotros: hemos mirado
+  vosotros: habéis mirado
+  uds: han mirado
+preterito-pluscuamperfecto:
+  yo: había mirado
+  tu: habías mirado
+  vos: habías mirado
+  ud: había mirado
+  nosotros: habíamos mirado
+  vosotros: habíais mirado
+  uds: habían mirado
+futuro-perfecto:
+  yo: habré mirado
+  tu: habrás mirado
+  vos: habrás mirado
+  ud: habrá mirado
+  nosotros: habremos mirado
+  vosotros: habréis mirado
+  uds: habrán mirado
+condicional-perfecto:
+  yo: habría mirado
+  tu: habrías mirado
+  vos: habrías mirado
+  ud: habría mirado
+  nosotros: habríamos mirado
+  vosotros: habríais mirado
+  uds: habrían mirado
+presente-subjuntivo:
+  yo: mire
+  tu: mires
+  vos: mires
+  ud: mire
+  nosotros: miremos
+  vosotros: miréis
+  uds: miren
+preterito-perfecto-subjuntivo:
+  yo: haya mirado
+  tu: hayas mirado
+  vos: hayas mirado
+  ud: haya mirado
+  nosotros: hayamos mirado
+  vosotros: hayáis mirado
+  uds: hayan mirado
+imperfecto-subjuntivo:
+  yo:
+    - mirara
+    - mirase
+  tu:
+    - miraras
+    - mirases
+  vos:
+    - miraras
+    - mirases
+  ud:
+    - mirara
+    - mirase
+  nosotros:
+    - miráramos
+    - mirásemos
+  vosotros:
+    - mirarais
+    - miraseis
+  uds:
+    - miraran
+    - mirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mirado
+    - hubiese mirado
+  tu:
+    - hubieras mirado
+    - hubieses mirado
+  vos:
+    - hubieras mirado
+    - hubieses mirado
+  ud:
+    - hubiera mirado
+    - hubiese mirado
+  nosotros:
+    - hubiéramos mirado
+    - hubiésemos mirado
+  vosotros:
+    - hubierais mirado
+    - hubieseis mirado
+  uds:
+    - hubieran mirado
+    - hubiesen mirado
+imperativo:
+  tu: mira
+  vos: mirá
+  ud: mire
+  nosotros: miremos
+  vosotros: mirad
+  uds: miren

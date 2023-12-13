@@ -1,0 +1,142 @@
+infinitivo: recoger
+gerundio: recogiendo
+participio-pasado: recogido
+presente-indicativo:
+  yo: recojo
+  tu: recoges
+  vos: recoges
+  ud: recoge
+  nosotros: recogemos
+  vosotros: recogéis
+  uds: recogen
+preterito-perfecto-simple:
+  yo: recogí
+  tu: recogiste
+  vos: recogiste
+  ud: recogió
+  nosotros: recogimos
+  vosotros: recogisteis
+  uds: recogieron
+preterito-imperfecto:
+  yo: recogía
+  tu: recogías
+  vos: recogías
+  ud: recogía
+  nosotros: recogíamos
+  vosotros: recogíais
+  uds: recogían
+futuro-simple:
+  yo: recogeré
+  tu: recogerás
+  vos: recogerás
+  ud: recogerá
+  nosotros: recogeremos
+  vosotros: recogeréis
+  uds: recogerán
+condicional-simple:
+  yo: recogería
+  tu: recogerías
+  vos: recogerías
+  ud: recogería
+  nosotros: recogeríamos
+  vosotros: recogeríais
+  uds: recogerían
+presente-perfecto:
+  yo: he recogido
+  tu: has recogido
+  vos: has recogido
+  ud: ha recogido
+  nosotros: hemos recogido
+  vosotros: habéis recogido
+  uds: han recogido
+preterito-pluscuamperfecto:
+  yo: había recogido
+  tu: habías recogido
+  vos: habías recogido
+  ud: había recogido
+  nosotros: habíamos recogido
+  vosotros: habíais recogido
+  uds: habían recogido
+futuro-perfecto:
+  yo: habré recogido
+  tu: habrás recogido
+  vos: habrás recogido
+  ud: habrá recogido
+  nosotros: habremos recogido
+  vosotros: habréis recogido
+  uds: habrán recogido
+condicional-perfecto:
+  yo: habría recogido
+  tu: habrías recogido
+  vos: habrías recogido
+  ud: habría recogido
+  nosotros: habríamos recogido
+  vosotros: habríais recogido
+  uds: habrían recogido
+presente-subjuntivo:
+  yo: recoja
+  tu: recojas
+  vos: recojas
+  ud: recoja
+  nosotros: recojamos
+  vosotros: recojáis
+  uds: recojan
+preterito-perfecto-subjuntivo:
+  yo: haya recogido
+  tu: hayas recogido
+  vos: hayas recogido
+  ud: haya recogido
+  nosotros: hayamos recogido
+  vosotros: hayáis recogido
+  uds: hayan recogido
+imperfecto-subjuntivo:
+  yo:
+    - recogiera
+    - recogiese
+  tu:
+    - recogieras
+    - recogieses
+  vos:
+    - recogieras
+    - recogieses
+  ud:
+    - recogiera
+    - recogiese
+  nosotros:
+    - recogiéramos
+    - recogiésemos
+  vosotros:
+    - recogierais
+    - recogieseis
+  uds:
+    - recogieran
+    - recogiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recogido
+    - hubiese recogido
+  tu:
+    - hubieras recogido
+    - hubieses recogido
+  vos:
+    - hubieras recogido
+    - hubieses recogido
+  ud:
+    - hubiera recogido
+    - hubiese recogido
+  nosotros:
+    - hubiéramos recogido
+    - hubiésemos recogido
+  vosotros:
+    - hubierais recogido
+    - hubieseis recogido
+  uds:
+    - hubieran recogido
+    - hubiesen recogido
+imperativo:
+  tu: recoge
+  vos: recogé
+  ud: recoja
+  nosotros: recojamos
+  vosotros: recoged
+  uds: recojan

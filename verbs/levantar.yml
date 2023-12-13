@@ -1,0 +1,142 @@
+infinitivo: levantar
+gerundio: levantando
+participio-pasado: levantado
+presente-indicativo:
+  yo: levanto
+  tu: levantas
+  vos: levantas
+  ud: levanta
+  nosotros: levantamos
+  vosotros: levantáis
+  uds: levantan
+preterito-perfecto-simple:
+  yo: levanté
+  tu: levantaste
+  vos: levantaste
+  ud: levantó
+  nosotros: levantamos
+  vosotros: levantasteis
+  uds: levantaron
+preterito-imperfecto:
+  yo: levantaba
+  tu: levantabas
+  vos: levantabas
+  ud: levantaba
+  nosotros: levantábamos
+  vosotros: levantabais
+  uds: levantaban
+futuro-simple:
+  yo: levantaré
+  tu: levantarás
+  vos: levantarás
+  ud: levantará
+  nosotros: levantaremos
+  vosotros: levantaréis
+  uds: levantarán
+condicional-simple:
+  yo: levantaría
+  tu: levantarías
+  vos: levantarías
+  ud: levantaría
+  nosotros: levantaríamos
+  vosotros: levantaríais
+  uds: levantarían
+presente-perfecto:
+  yo: he levantado
+  tu: has levantado
+  vos: has levantado
+  ud: ha levantado
+  nosotros: hemos levantado
+  vosotros: habéis levantado
+  uds: han levantado
+preterito-pluscuamperfecto:
+  yo: había levantado
+  tu: habías levantado
+  vos: habías levantado
+  ud: había levantado
+  nosotros: habíamos levantado
+  vosotros: habíais levantado
+  uds: habían levantado
+futuro-perfecto:
+  yo: habré levantado
+  tu: habrás levantado
+  vos: habrás levantado
+  ud: habrá levantado
+  nosotros: habremos levantado
+  vosotros: habréis levantado
+  uds: habrán levantado
+condicional-perfecto:
+  yo: habría levantado
+  tu: habrías levantado
+  vos: habrías levantado
+  ud: habría levantado
+  nosotros: habríamos levantado
+  vosotros: habríais levantado
+  uds: habrían levantado
+presente-subjuntivo:
+  yo: levante
+  tu: levantes
+  vos: levantes
+  ud: levante
+  nosotros: levantemos
+  vosotros: levantéis
+  uds: levanten
+preterito-perfecto-subjuntivo:
+  yo: haya levantado
+  tu: hayas levantado
+  vos: hayas levantado
+  ud: haya levantado
+  nosotros: hayamos levantado
+  vosotros: hayáis levantado
+  uds: hayan levantado
+imperfecto-subjuntivo:
+  yo:
+    - levantara
+    - levantase
+  tu:
+    - levantaras
+    - levantases
+  vos:
+    - levantaras
+    - levantases
+  ud:
+    - levantara
+    - levantase
+  nosotros:
+    - levantáramos
+    - levantásemos
+  vosotros:
+    - levantarais
+    - levantaseis
+  uds:
+    - levantaran
+    - levantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera levantado
+    - hubiese levantado
+  tu:
+    - hubieras levantado
+    - hubieses levantado
+  vos:
+    - hubieras levantado
+    - hubieses levantado
+  ud:
+    - hubiera levantado
+    - hubiese levantado
+  nosotros:
+    - hubiéramos levantado
+    - hubiésemos levantado
+  vosotros:
+    - hubierais levantado
+    - hubieseis levantado
+  uds:
+    - hubieran levantado
+    - hubiesen levantado
+imperativo:
+  tu: levanta
+  vos: levantá
+  ud: levante
+  nosotros: levantemos
+  vosotros: levantad
+  uds: levanten

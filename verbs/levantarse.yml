@@ -1,0 +1,142 @@
+infinitivo: levantarse
+gerundio: levantándose
+participio-pasado: levantado
+presente-indicativo:
+  yo: me levanto
+  tu: te levantas
+  vos: te levantás
+  ud: se levanta
+  nosotros: nos levantamos
+  vosotros: os levantáis
+  uds: se levantan
+preterito-perfecto-simple:
+  yo: me levanté
+  tu: te levantaste
+  vos: te levantaste
+  ud: se levantó
+  nosotros: nos levantamos
+  vosotros: os levantasteis
+  uds: se levantaron
+preterito-imperfecto:
+  yo: me levantaba
+  tu: te levantabas
+  vos: te levantabas
+  ud: se levantaba
+  nosotros: nos levantábamos
+  vosotros: os levantabais
+  uds: se levantaban
+futuro-simple:
+  yo: me levantaré
+  tu: te levantarás
+  vos: te levantarás
+  ud: se levantará
+  nosotros: nos levantaremos
+  vosotros: os levantaréis
+  uds: se levantarán
+condicional-simple:
+  yo: me levantaría
+  tu: te levantarías
+  vos: te levantarías
+  ud: se levantaría
+  nosotros: nos levantaríamos
+  vosotros: os levantaríais
+  uds: se levantarían
+presente-perfecto:
+  yo: me he levantado
+  tu: te has levantado
+  vos: te has levantado
+  ud: se ha levantado
+  nosotros: nos hemos levantado
+  vosotros: os habéis levantado
+  uds: se han levantado
+preterito-pluscuamperfecto:
+  yo: me había levantado
+  tu: te habías levantado
+  vos: te habías levantado
+  ud: se había levantado
+  nosotros: nos habíamos levantado
+  vosotros: os habíais levantado
+  uds: se habían levantado
+futuro-perfecto:
+  yo: me habré levantado
+  tu: te habrás levantado
+  vos: te habrás levantado
+  ud: se habrá levantado
+  nosotros: nos habremos levantado
+  vosotros: os habréis levantado
+  uds: se habrán levantado
+condicional-perfecto:
+  yo: me habría levantado
+  tu: te habrías levantado
+  vos: te habrías levantado
+  ud: se habría levantado
+  nosotros: nos habríamos levantado
+  vosotros: os habríais levantado
+  uds: se habrían levantado
+presente-subjuntivo:
+  yo: me levante
+  tu: te levantes
+  vos: te levantes
+  ud: se levante
+  nosotros: nos levantemos
+  vosotros: os levantéis
+  uds: se levanten
+preterito-perfecto-subjuntivo:
+  yo: me haya levantado
+  tu: te hayas levantado
+  vos: te hayas levantado
+  ud: se haya levantado
+  nosotros: nos hayamos levantado
+  vosotros: os hayáis levantado
+  uds: se hayan levantado
+imperfecto-subjuntivo:
+  yo:
+    - me levantara
+    - me levantase
+  tu:
+    - te levantaras
+    - te levantases
+  vos:
+    - te levantaras
+    - te levantases
+  ud:
+    - se levantara
+    - se levantase
+  nosotros:
+    - nos levantáramos
+    - nos levantásemos
+  vosotros:
+    - os levantarais
+    - os levantaseis
+  uds:
+    - se levantaran
+    - se levantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera levantado
+    - me hubiese levantado
+  tu:
+    - te hubieras levantado
+    - te hubieses levantado
+  vos:
+    - te hubieras levantado
+    - te hubieses levantado
+  ud:
+    - se hubiera levantado
+    - se hubiese levantado
+  nosotros:
+    - nos hubiéramos levantado
+    - nos hubiésemos levantado
+  vosotros:
+    - os hubierais levantado
+    - os hubieseis levantado
+  uds:
+    - se hubieran levantado
+    - se hubiesen levantado
+imperativo:
+  tu: levántate
+  vos: levantáte
+  ud: levántese
+  nosotros: levantémonos
+  vosotros: levantaos
+  uds: levántense

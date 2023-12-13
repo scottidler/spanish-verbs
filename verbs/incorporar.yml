@@ -1,0 +1,142 @@
+infinitivo: incorporar
+gerundio: incorporando
+participio-pasado: incorporado
+presente-indicativo:
+  yo: incorporo
+  tu: incorporas
+  vos: incorporás
+  ud: incorpora
+  nosotros: incorporamos
+  vosotros: incorporáis
+  uds: incorporan
+preterito-perfecto-simple:
+  yo: incorporé
+  tu: incorporaste
+  vos: incorporaste
+  ud: incorporó
+  nosotros: incorporamos
+  vosotros: incorporasteis
+  uds: incorporaron
+preterito-imperfecto:
+  yo: incorporaba
+  tu: incorporabas
+  vos: incorporabas
+  ud: incorporaba
+  nosotros: incorporábamos
+  vosotros: incorporabais
+  uds: incorporaban
+futuro-simple:
+  yo: incorporaré
+  tu: incorporarás
+  vos: incorporarás
+  ud: incorporará
+  nosotros: incorporaremos
+  vosotros: incorporaréis
+  uds: incorporarán
+condicional-simple:
+  yo: incorporaría
+  tu: incorporarías
+  vos: incorporarías
+  ud: incorporaría
+  nosotros: incorporaríamos
+  vosotros: incorporaríais
+  uds: incorporarían
+presente-perfecto:
+  yo: he incorporado
+  tu: has incorporado
+  vos: has incorporado
+  ud: ha incorporado
+  nosotros: hemos incorporado
+  vosotros: habéis incorporado
+  uds: han incorporado
+preterito-pluscuamperfecto:
+  yo: había incorporado
+  tu: habías incorporado
+  vos: habías incorporado
+  ud: había incorporado
+  nosotros: habíamos incorporado
+  vosotros: habíais incorporado
+  uds: habían incorporado
+futuro-perfecto:
+  yo: habré incorporado
+  tu: habrás incorporado
+  vos: habrás incorporado
+  ud: habrá incorporado
+  nosotros: habremos incorporado
+  vosotros: habréis incorporado
+  uds: habrán incorporado
+condicional-perfecto:
+  yo: habría incorporado
+  tu: habrías incorporado
+  vos: habrías incorporado
+  ud: habría incorporado
+  nosotros: habríamos incorporado
+  vosotros: habríais incorporado
+  uds: habrían incorporado
+presente-subjuntivo:
+  yo: incorpore
+  tu: incorpores
+  vos: incorpores
+  ud: incorpore
+  nosotros: incorporemos
+  vosotros: incorporéis
+  uds: incorporen
+preterito-perfecto-subjuntivo:
+  yo: haya incorporado
+  tu: hayas incorporado
+  vos: hayas incorporado
+  ud: haya incorporado
+  nosotros: hayamos incorporado
+  vosotros: hayáis incorporado
+  uds: hayan incorporado
+imperfecto-subjuntivo:
+  yo:
+    - incorporara
+    - incorporase
+  tu:
+    - incorporaras
+    - incorporases
+  vos:
+    - incorporaras
+    - incorporases
+  ud:
+    - incorporara
+    - incorporase
+  nosotros:
+    - incorporáramos
+    - incorporásemos
+  vosotros:
+    - incorporarais
+    - incorporaseis
+  uds:
+    - incorporaran
+    - incorporasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera incorporado
+    - hubiese incorporado
+  tu:
+    - hubieras incorporado
+    - hubieses incorporado
+  vos:
+    - hubieras incorporado
+    - hubieses incorporado
+  ud:
+    - hubiera incorporado
+    - hubiese incorporado
+  nosotros:
+    - hubiéramos incorporado
+    - hubiésemos incorporado
+  vosotros:
+    - hubierais incorporado
+    - hubieseis incorporado
+  uds:
+    - hubieran incorporado
+    - hubiesen incorporado
+imperativo:
+  tu: incorpora
+  vos: incorporá
+  ud: incorpore
+  nosotros: incorporemos
+  vosotros: incorporad
+  uds: incorporen

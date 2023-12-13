@@ -1,0 +1,142 @@
+infinitivo: tragar
+gerundio: tragando
+participio-pasado: tragado
+presente-indicativo:
+  yo: trago
+  tu: tragas
+  vos: tragas
+  ud: traga
+  nosotros: tragamos
+  vosotros: tragáis
+  uds: tragan
+preterito-perfecto-simple:
+  yo: tragué
+  tu: tragaste
+  vos: tragaste
+  ud: tragó
+  nosotros: tragamos
+  vosotros: tragasteis
+  uds: tragaron
+preterito-imperfecto:
+  yo: tragaba
+  tu: tragabas
+  vos: tragabas
+  ud: tragaba
+  nosotros: tragábamos
+  vosotros: tragabais
+  uds: tragaban
+futuro-simple:
+  yo: tragaré
+  tu: tragarás
+  vos: tragarás
+  ud: tragará
+  nosotros: tragaremos
+  vosotros: tragaréis
+  uds: tragarán
+condicional-simple:
+  yo: tragaría
+  tu: tragarías
+  vos: tragarías
+  ud: tragaría
+  nosotros: tragaríamos
+  vosotros: tragaríais
+  uds: tragarían
+presente-perfecto:
+  yo: he tragado
+  tu: has tragado
+  vos: has tragado
+  ud: ha tragado
+  nosotros: hemos tragado
+  vosotros: habéis tragado
+  uds: han tragado
+preterito-pluscuamperfecto:
+  yo: había tragado
+  tu: habías tragado
+  vos: habías tragado
+  ud: había tragado
+  nosotros: habíamos tragado
+  vosotros: habíais tragado
+  uds: habían tragado
+futuro-perfecto:
+  yo: habré tragado
+  tu: habrás tragado
+  vos: habrás tragado
+  ud: habrá tragado
+  nosotros: habremos tragado
+  vosotros: habréis tragado
+  uds: habrán tragado
+condicional-perfecto:
+  yo: habría tragado
+  tu: habrías tragado
+  vos: habrías tragado
+  ud: habría tragado
+  nosotros: habríamos tragado
+  vosotros: habríais tragado
+  uds: habrían tragado
+presente-subjuntivo:
+  yo: trague
+  tu: tragues
+  vos: tragues
+  ud: trague
+  nosotros: traguemos
+  vosotros: tragáis
+  uds: traguen
+preterito-perfecto-subjuntivo:
+  yo: haya tragado
+  tu: hayas tragado
+  vos: hayas tragado
+  ud: haya tragado
+  nosotros: hayamos tragado
+  vosotros: hayáis tragado
+  uds: hayan tragado
+imperfecto-subjuntivo:
+  yo:
+    - tragara
+    - tragara
+  tu:
+    - tragaras
+    - tragaras
+  vos:
+    - tragaras
+    - tragaras
+  ud:
+    - tragara
+    - tragara
+  nosotros:
+    - tragáramos
+    - trágaramos
+  vosotros:
+    - tragarais
+    - tragarais
+  uds:
+    - tragara
+    - tragara
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tragado
+    - hubiese tragado
+  tu:
+    - hubieras tragado
+    - hubieses tragado
+  vos:
+    - hubieras tragado
+    - hubieses tragado
+  ud:
+    - hubiera tragado
+    - hubiese tragado
+  nosotros:
+    - hubiéramos tragado
+    - hubiésemos tragado
+  vosotros:
+    - hubierais tragado
+    - hubieseis tragado
+  uds:
+    - hubieran tragado
+    - hubiesen tragado
+imperativo:
+  tu: traga
+  vos: tragá
+  ud: trague
+  nosotros: traguemos
+  vosotros: tragad
+  uds: traguen

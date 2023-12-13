@@ -1,0 +1,142 @@
+infinitivo: pedir
+gerundio: pidiendo
+participio-pasado: pedido
+presente-indicativo:
+  yo: pido
+  tu: pides
+  vos: pides
+  ud: pide
+  nosotros: pedimos
+  vosotros: pedís
+  uds: piden
+preterito-perfecto-simple:
+  yo: pedí
+  tu: pediste
+  vos: pediste
+  ud: pidió
+  nosotros: pedimos
+  vosotros: pedisteis
+  uds: pidieron
+preterito-imperfecto:
+  yo: pedía
+  tu: pedías
+  vos: pedías
+  ud: pedía
+  nosotros: pedíamos
+  vosotros: pedíais
+  uds: pedían
+futuro-simple:
+  yo: pediré
+  tu: pedirás
+  vos: pedirás
+  ud: pedirá
+  nosotros: pediremos
+  vosotros: pediréis
+  uds: pedirán
+condicional-simple:
+  yo: pediría
+  tu: pedirías
+  vos: pedirías
+  ud: pediría
+  nosotros: pediríamos
+  vosotros: pediríais
+  uds: pedirían
+presente-perfecto:
+  yo: he pedido
+  tu: has pedido
+  vos: has pedido
+  ud: ha pedido
+  nosotros: hemos pedido
+  vosotros: habéis pedido
+  uds: han pedido
+preterito-pluscuamperfecto:
+  yo: había pedido
+  tu: habías pedido
+  vos: habías pedido
+  ud: había pedido
+  nosotros: habíamos pedido
+  vosotros: habíais pedido
+  uds: habían pedido
+futuro-perfecto:
+  yo: habré pedido
+  tu: habrás pedido
+  vos: habrás pedido
+  ud: habrá pedido
+  nosotros: habremos pedido
+  vosotros: habréis pedido
+  uds: habrán pedido
+condicional-perfecto:
+  yo: habría pedido
+  tu: habrías pedido
+  vos: habrías pedido
+  ud: habría pedido
+  nosotros: habríamos pedido
+  vosotros: habríais pedido
+  uds: habrían pedido
+presente-subjuntivo:
+  yo: pida
+  tu: pidas
+  vos: pidas
+  ud: pida
+  nosotros: pidamos
+  vosotros: pidáis
+  uds: pidan
+preterito-perfecto-subjuntivo:
+  yo: haya pedido
+  tu: hayas pedido
+  vos: hayas pedido
+  ud: haya pedido
+  nosotros: hayamos pedido
+  vosotros: hayáis pedido
+  uds: hayan pedido
+imperfecto-subjuntivo:
+  yo:
+    - pidiera
+    - pidiese
+  tu:
+    - pidieras
+    - pidieses
+  vos:
+    - pidieras
+    - pidieses
+  ud:
+    - pidiera
+    - pidiese
+  nosotros:
+    - pidiéramos
+    - pidiésemos
+  vosotros:
+    - pidierais
+    - pidieseis
+  uds:
+    - pidieran
+    - pidiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pedido
+    - hubiese pedido
+  tu:
+    - hubieras pedido
+    - hubieses pedido
+  vos:
+    - hubieras pedido
+    - hubieses pedido
+  ud:
+    - hubiera pedido
+    - hubiese pedido
+  nosotros:
+    - hubiéramos pedido
+    - hubiésemos pedido
+  vosotros:
+    - hubierais pedido
+    - hubieseis pedido
+  uds:
+    - hubieran pedido
+    - hubiesen pedido
+imperativo:
+  tu: pide
+  vos: pedí
+  ud: pida
+  nosotros: pidamos
+  vosotros: pedid
+  uds: pidan

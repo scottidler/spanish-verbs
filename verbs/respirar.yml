@@ -1,0 +1,142 @@
+infinitivo: respirar
+gerundio: respirando
+participio-pasado: respirado
+presente-indicativo:
+  yo: respiro
+  tu: respiras
+  vos: respiras
+  ud: respira
+  nosotros: respiramos
+  vosotros: respiráis
+  uds: respiran
+preterito-perfecto-simple:
+  yo: respiré
+  tu: respiraste
+  vos: respiraste
+  ud: respiró
+  nosotros: respiramos
+  vosotros: respirasteis
+  uds: respiraron
+preterito-imperfecto:
+  yo: respiraba
+  tu: respirabas
+  vos: respirabas
+  ud: respiraba
+  nosotros: respirábamos
+  vosotros: respirabais
+  uds: respiraban
+futuro-simple:
+  yo: respiraré
+  tu: respirarás
+  vos: respirarás
+  ud: respirará
+  nosotros: respiraremos
+  vosotros: respiraréis
+  uds: respirarán
+condicional-simple:
+  yo: respiraría
+  tu: respirarías
+  vos: respirarías
+  ud: respiraría
+  nosotros: respiraríamos
+  vosotros: respiraríais
+  uds: respirarían
+presente-perfecto:
+  yo: he respirado
+  tu: has respirado
+  vos: has respirado
+  ud: ha respirado
+  nosotros: hemos respirado
+  vosotros: habéis respirado
+  uds: han respirado
+preterito-pluscuamperfecto:
+  yo: había respirado
+  tu: habías respirado
+  vos: habías respirado
+  ud: había respirado
+  nosotros: habíamos respirado
+  vosotros: habíais respirado
+  uds: habían respirado
+futuro-perfecto:
+  yo: habré respirado
+  tu: habrás respirado
+  vos: habrás respirado
+  ud: habrá respirado
+  nosotros: habremos respirado
+  vosotros: habréis respirado
+  uds: habrán respirado
+condicional-perfecto:
+  yo: habría respirado
+  tu: habrías respirado
+  vos: habrías respirado
+  ud: habría respirado
+  nosotros: habríamos respirado
+  vosotros: habríais respirado
+  uds: habrían respirado
+presente-subjuntivo:
+  yo: respire
+  tu: respires
+  vos: respires
+  ud: respire
+  nosotros: respiremos
+  vosotros: respiréis
+  uds: respiren
+preterito-perfecto-subjuntivo:
+  yo: haya respirado
+  tu: hayas respirado
+  vos: hayas respirado
+  ud: haya respirado
+  nosotros: hayamos respirado
+  vosotros: hayáis respirado
+  uds: hayan respirado
+imperfecto-subjuntivo:
+  yo:
+    - respirara
+    - respirase
+  tu:
+    - respiraras
+    - respirases
+  vos:
+    - respiraras
+    - respirases
+  ud:
+    - respirara
+    - respirase
+  nosotros:
+    - respiráramos
+    - respirásemos
+  vosotros:
+    - respirarais
+    - respiraseis
+  uds:
+    - respiraran
+    - respirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera respirado
+    - hubiese respirado
+  tu:
+    - hubieras respirado
+    - hubieses respirado
+  vos:
+    - hubieras respirado
+    - hubieses respirado
+  ud:
+    - hubiera respirado
+    - hubiese respirado
+  nosotros:
+    - hubiéramos respirado
+    - hubiésemos respirado
+  vosotros:
+    - hubierais respirado
+    - hubieseis respirado
+  uds:
+    - hubieran respirado
+    - hubiesen respirado
+imperativo:
+  tu: respira
+  vos: respirá
+  ud: respire
+  nosotros: respiremos
+  vosotros: respirad
+  uds: respiren

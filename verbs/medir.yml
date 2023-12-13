@@ -1,0 +1,142 @@
+infinitivo: medir
+gerundio: midiendo
+participio-pasado: medido
+presente-indicativo:
+  yo: mido
+  tu: mides
+  vos: medís
+  ud: mide
+  nosotros: medimos
+  vosotros: medís
+  uds: miden
+preterito-perfecto-simple:
+  yo: medí
+  tu: mediste
+  vos: mediste
+  ud: midió
+  nosotros: medimos
+  vosotros: medisteis
+  uds: midieron
+preterito-imperfecto:
+  yo: medía
+  tu: medías
+  vos: medías
+  ud: medía
+  nosotros: medíamos
+  vosotros: medíais
+  uds: medían
+futuro-simple:
+  yo: mediré
+  tu: medirás
+  vos: medirás
+  ud: medirá
+  nosotros: mediremos
+  vosotros: mediréis
+  uds: medirán
+condicional-simple:
+  yo: mediría
+  tu: medirías
+  vos: medirías
+  ud: mediría
+  nosotros: mediríamos
+  vosotros: mediríais
+  uds: medirían
+presente-perfecto:
+  yo: he medido
+  tu: has medido
+  vos: has medido
+  ud: ha medido
+  nosotros: hemos medido
+  vosotros: habéis medido
+  uds: han medido
+preterito-pluscuamperfecto:
+  yo: había medido
+  tu: habías medido
+  vos: habías medido
+  ud: había medido
+  nosotros: habíamos medido
+  vosotros: habíais medido
+  uds: habían medido
+futuro-perfecto:
+  yo: habré medido
+  tu: habrás medido
+  vos: habrás medido
+  ud: habrá medido
+  nosotros: habremos medido
+  vosotros: habréis medido
+  uds: habrán medido
+condicional-perfecto:
+  yo: habría medido
+  tu: habrías medido
+  vos: habrías medido
+  ud: habría medido
+  nosotros: habríamos medido
+  vosotros: habríais medido
+  uds: habrían medido
+presente-subjuntivo:
+  yo: mida
+  tu: midas
+  vos: midas
+  ud: mida
+  nosotros: midamos
+  vosotros: midáis
+  uds: midan
+preterito-perfecto-subjuntivo:
+  yo: haya medido
+  tu: hayas medido
+  vos: hayas medido
+  ud: haya medido
+  nosotros: hayamos medido
+  vosotros: hayáis medido
+  uds: hayan medido
+imperfecto-subjuntivo:
+  yo:
+    - midiera
+    - midiese
+  tu:
+    - midieras
+    - midieses
+  vos:
+    - midieras
+    - midieses
+  ud:
+    - midiera
+    - midiese
+  nosotros:
+    - midiéramos
+    - midiésemos
+  vosotros:
+    - midierais
+    - midieseis
+  uds:
+    - midieran
+    - midiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera medido
+    - hubiese medido
+  tu:
+    - hubieras medido
+    - hubieses medido
+  vos:
+    - hubieras medido
+    - hubieses medido
+  ud:
+    - hubiera medido
+    - hubiese medido
+  nosotros:
+    - hubiéramos medido
+    - hubiésemos medido
+  vosotros:
+    - hubierais medido
+    - hubieseis medido
+  uds:
+    - hubieran medido
+    - hubiesen medido
+imperativo:
+  tu: mide
+  vos: midé
+  ud: mida
+  nosotros: midamos
+  vosotros: medid
+  uds: midan

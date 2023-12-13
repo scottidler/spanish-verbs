@@ -1,0 +1,142 @@
+infinitivo: soportar
+gerundio: soportando
+participio-pasado: soportado
+presente-indicativo:
+  yo: soporto
+  tu: soportas
+  vos: soportas
+  ud: soporta
+  nosotros: soportamos
+  vosotros: soportáis
+  uds: soportan
+preterito-perfecto-simple:
+  yo: soporté
+  tu: soportaste
+  vos: soportaste
+  ud: soportó
+  nosotros: soportamos
+  vosotros: soportasteis
+  uds: soportaron
+preterito-imperfecto:
+  yo: soportaba
+  tu: soportabas
+  vos: soportabas
+  ud: soportaba
+  nosotros: soportábamos
+  vosotros: soportabais
+  uds: soportaban
+futuro-simple:
+  yo: soportaré
+  tu: soportarás
+  vos: soportarás
+  ud: soportará
+  nosotros: soportaremos
+  vosotros: soportaréis
+  uds: soportarán
+condicional-simple:
+  yo: soportaría
+  tu: soportarías
+  vos: soportarías
+  ud: soportaría
+  nosotros: soportaríamos
+  vosotros: soportaríais
+  uds: soportarían
+presente-perfecto:
+  yo: he soportado
+  tu: has soportado
+  vos: has soportado
+  ud: ha soportado
+  nosotros: hemos soportado
+  vosotros: habéis soportado
+  uds: han soportado
+preterito-pluscuamperfecto:
+  yo: había soportado
+  tu: habías soportado
+  vos: habías soportado
+  ud: había soportado
+  nosotros: habíamos soportado
+  vosotros: habíais soportado
+  uds: habían soportado
+futuro-perfecto:
+  yo: habré soportado
+  tu: habrás soportado
+  vos: habrás soportado
+  ud: habrá soportado
+  nosotros: habremos soportado
+  vosotros: habréis soportado
+  uds: habrán soportado
+condicional-perfecto:
+  yo: habría soportado
+  tu: habrías soportado
+  vos: habrías soportado
+  ud: habría soportado
+  nosotros: habríamos soportado
+  vosotros: habríais soportado
+  uds: habrían soportado
+presente-subjuntivo:
+  yo: soporte
+  tu: soportes
+  vos: soportes
+  ud: soporte
+  nosotros: soportemos
+  vosotros: soportéis
+  uds: soporten
+preterito-perfecto-subjuntivo:
+  yo: haya soportado
+  tu: hayas soportado
+  vos: hayas soportado
+  ud: haya soportado
+  nosotros: hayamos soportado
+  vosotros: hayáis soportado
+  uds: hayan soportado
+imperfecto-subjuntivo:
+  yo:
+    - soportara
+    - soportase
+  tu:
+    - soportaras
+    - soportases
+  vos:
+    - soportaras
+    - soportases
+  ud:
+    - soportara
+    - soportase
+  nosotros:
+    - soportáramos
+    - soportásemos
+  vosotros:
+    - soportarais
+    - soportaseis
+  uds:
+    - soportaran
+    - soportasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera soportado
+    - hubiese soportado
+  tu:
+    - hubieras soportado
+    - hubieses soportado
+  vos:
+    - hubieras soportado
+    - hubieses soportado
+  ud:
+    - hubiera soportado
+    - hubiese soportado
+  nosotros:
+    - hubiéramos soportado
+    - hubiésemos soportado
+  vosotros:
+    - hubierais soportado
+    - hubieseis soportado
+  uds:
+    - hubieran soportado
+    - hubiesen soportado
+imperativo:
+  tu: soporta
+  vos: soportá
+  ud: soporte
+  nosotros: soportemos
+  vosotros: soportad
+  uds: soporten

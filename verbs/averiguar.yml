@@ -1,0 +1,142 @@
+infinitivo: averiguar
+gerundio: averiguando
+participio-pasado: averiguado
+presente-indicativo:
+  yo: averiguo
+  tu: averiguas
+  vos: averiguás
+  ud: averigua
+  nosotros: averiguamos
+  vosotros: averiguáis
+  uds: averiguan
+preterito-perfecto-simple:
+  yo: averigüé
+  tu: averiguaste
+  vos: averiguaste
+  ud: averiguó
+  nosotros: averiguamos
+  vosotros: averiguasteis
+  uds: averiguaron
+preterito-imperfecto:
+  yo: averiguaba
+  tu: averiguabas
+  vos: averiguabas
+  ud: averiguaba
+  nosotros: averiguábamos
+  vosotros: averiguabais
+  uds: averiguaban
+futuro-simple:
+  yo: averiguaré
+  tu: averiguarás
+  vos: averiguarás
+  ud: averiguará
+  nosotros: averiguaremos
+  vosotros: averiguaréis
+  uds: averiguarán
+condicional-simple:
+  yo: averiguaría
+  tu: averiguarías
+  vos: averiguarías
+  ud: averiguaría
+  nosotros: averiguaríamos
+  vosotros: averiguaríais
+  uds: averiguarían
+presente-perfecto:
+  yo: he averiguado
+  tu: has averiguado
+  vos: has averiguado
+  ud: ha averiguado
+  nosotros: hemos averiguado
+  vosotros: habéis averiguado
+  uds: han averiguado
+preterito-pluscuamperfecto:
+  yo: había averiguado
+  tu: habías averiguado
+  vos: habías averiguado
+  ud: había averiguado
+  nosotros: habíamos averiguado
+  vosotros: habíais averiguado
+  uds: habían averiguado
+futuro-perfecto:
+  yo: habré averiguado
+  tu: habrás averiguado
+  vos: habrás averiguado
+  ud: habrá averiguado
+  nosotros: habremos averiguado
+  vosotros: habréis averiguado
+  uds: habrán averiguado
+condicional-perfecto:
+  yo: habría averiguado
+  tu: habrías averiguado
+  vos: habrías averiguado
+  ud: habría averiguado
+  nosotros: habríamos averiguado
+  vosotros: habríais averiguado
+  uds: habrían averiguado
+presente-subjuntivo:
+  yo: averigüe
+  tu: averigües
+  vos: averigües
+  ud: averigüe
+  nosotros: averigüemos
+  vosotros: averigüéis
+  uds: averigüen
+preterito-perfecto-subjuntivo:
+  yo: haya averiguado
+  tu: hayas averiguado
+  vos: hayas averiguado
+  ud: haya averiguado
+  nosotros: hayamos averiguado
+  vosotros: hayáis averiguado
+  uds: hayan averiguado
+imperfecto-subjuntivo:
+  yo:
+    - averiguara
+    - averiguase
+  tu:
+    - averiguaras
+    - averiguases
+  vos:
+    - averiguaras
+    - averiguases
+  ud:
+    - averiguara
+    - averiguase
+  nosotros:
+    - averiguáramos
+    - averiguásemos
+  vosotros:
+    - averiguarais
+    - averiguaseis
+  uds:
+    - averiguaran
+    - averiguasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera averiguado
+    - hubiese averiguado
+  tu:
+    - hubieras averiguado
+    - hubieses averiguado
+  vos:
+    - hubieras averiguado
+    - hubieses averiguado
+  ud:
+    - hubiera averiguado
+    - hubiese averiguado
+  nosotros:
+    - hubiéramos averiguado
+    - hubiésemos averiguado
+  vosotros:
+    - hubierais averiguado
+    - hubieseis averiguado
+  uds:
+    - hubieran averiguado
+    - hubiesen averiguado
+imperativo:
+  tu: averigua
+  vos: averiguá
+  ud: averigüe
+  nosotros: averigüemos
+  vosotros: averiguad
+  uds: averigüen

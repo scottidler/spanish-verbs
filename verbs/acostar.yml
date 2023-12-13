@@ -1,0 +1,142 @@
+infinitivo: acostar
+gerundio: acostando
+participio-pasado: acostado
+presente-indicativo:
+  yo: acuesto
+  tu: acuestas
+  vos: acostás
+  ud: acuesta
+  nosotros: acostamos
+  vosotros: acostáis
+  uds: acuestan
+preterito-perfecto-simple:
+  yo: acosté
+  tu: acostaste
+  vos: acostaste
+  ud: acostó
+  nosotros: acostamos
+  vosotros: acostasteis
+  uds: acostaron
+preterito-imperfecto:
+  yo: acostaba
+  tu: acostabas
+  vos: acostabas
+  ud: acostaba
+  nosotros: acostábamos
+  vosotros: acostabais
+  uds: acostaban
+futuro-simple:
+  yo: acostaré
+  tu: acostarás
+  vos: acostarás
+  ud: acostará
+  nosotros: acostaremos
+  vosotros: acostaréis
+  uds: acostarán
+condicional-simple:
+  yo: acostaría
+  tu: acostarías
+  vos: acostarías
+  ud: acostaría
+  nosotros: acostaríamos
+  vosotros: acostaríais
+  uds: acostarían
+presente-perfecto:
+  yo: he acostado
+  tu: has acostado
+  vos: has acostado
+  ud: ha acostado
+  nosotros: hemos acostado
+  vosotros: habéis acostado
+  uds: han acostado
+preterito-pluscuamperfecto:
+  yo: había acostado
+  tu: habías acostado
+  vos: habías acostado
+  ud: había acostado
+  nosotros: habíamos acostado
+  vosotros: habíais acostado
+  uds: habían acostado
+futuro-perfecto:
+  yo: habré acostado
+  tu: habrás acostado
+  vos: habrás acostado
+  ud: habrá acostado
+  nosotros: habremos acostado
+  vosotros: habréis acostado
+  uds: habrán acostado
+condicional-perfecto:
+  yo: habría acostado
+  tu: habrías acostado
+  vos: habrías acostado
+  ud: habría acostado
+  nosotros: habríamos acostado
+  vosotros: habríais acostado
+  uds: habrían acostado
+presente-subjuntivo:
+  yo: acueste
+  tu: acuestes
+  vos: acuestes
+  ud: acueste
+  nosotros: acostemos
+  vosotros: acostéis
+  uds: acuesten
+preterito-perfecto-subjuntivo:
+  yo: haya acostado
+  tu: hayas acostado
+  vos: hayas acostado
+  ud: haya acostado
+  nosotros: hayamos acostado
+  vosotros: hayáis acostado
+  uds: hayan acostado
+imperfecto-subjuntivo:
+  yo:
+    - acostara
+    - acostase
+  tu:
+    - acostaras
+    - acostases
+  vos:
+    - acostaras
+    - acostases
+  ud:
+    - acostara
+    - acostase
+  nosotros:
+    - acostáramos
+    - acostásemos
+  vosotros:
+    - acostarais
+    - acostaseis
+  uds:
+    - acostaran
+    - acostasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acostado
+    - hubiese acostado
+  tu:
+    - hubieras acostado
+    - hubieses acostado
+  vos:
+    - hubieras acostado
+    - hubieses acostado
+  ud:
+    - hubiera acostado
+    - hubiese acostado
+  nosotros:
+    - hubiéramos acostado
+    - hubiésemos acostado
+  vosotros:
+    - hubierais acostado
+    - hubieseis acostado
+  uds:
+    - hubieran acostado
+    - hubiesen acostado
+imperativo:
+  tu: acuesta
+  vos: acostá
+  ud: acueste
+  nosotros: acostémonos
+  vosotros: acostad
+  uds: acuesten

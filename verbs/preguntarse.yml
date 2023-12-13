@@ -1,0 +1,156 @@
+infinitivo: preguntarse
+gerundio: preguntándose
+participio-pasado: preguntado
+
+presente-indicativo:
+  yo: me pregunto
+  tu: te preguntas
+  vos: te preguntás
+  ud: se pregunta
+  nosotros: nos preguntamos
+  vosotros: os preguntáis
+  uds: se preguntan
+
+preterito-perfecto-simple:
+  yo: me pregunté
+  tu: te preguntaste
+  vos: te preguntaste
+  ud: se preguntó
+  nosotros: nos preguntamos
+  vosotros: os preguntasteis
+  uds: se preguntaron
+
+preterito-imperfecto:
+  yo: me preguntaba
+  tu: te preguntabas
+  vos: te preguntabas
+  ud: se preguntaba
+  nosotros: nos preguntábamos
+  vosotros: os preguntabais
+  uds: se preguntaban
+
+futuro-simple:
+  yo: me preguntaré
+  tu: te preguntarás
+  vos: te preguntarás
+  ud: se preguntará
+  nosotros: nos preguntaremos
+  vosotros: os preguntaréis
+  uds: se preguntarán
+
+condicional-simple:
+  yo: me preguntaría
+  tu: te preguntarías
+  vos: te preguntarías
+  ud: se preguntaría
+  nosotros: nos preguntaríamos
+  vosotros: os preguntaríais
+  uds: se preguntarían
+
+presente-perfecto:
+  yo: me he preguntado
+  tu: te has preguntado
+  vos: te has preguntado
+  ud: se ha preguntado
+  nosotros: nos hemos preguntado
+  vosotros: os habéis preguntado
+  uds: se han preguntado
+
+preterito-pluscuamperfecto:
+  yo: me había preguntado
+  tu: te habías preguntado
+  vos: te habías preguntado
+  ud: se había preguntado
+  nosotros: nos habíamos preguntado
+  vosotros: os habíais preguntado
+  uds: se habían preguntado
+
+futuro-perfecto:
+  yo: me habré preguntado
+  tu: te habrás preguntado
+  vos: te habrás preguntado
+  ud: se habrá preguntado
+  nosotros: nos habremos preguntado
+  vosotros: os habréis preguntado
+  uds: se habrán preguntado
+
+condicional-perfecto:
+  yo: me habría preguntado
+  tu: te habrías preguntado
+  vos: te habrías preguntado
+  ud: se habría preguntado
+  nosotros: nos habríamos preguntado
+  vosotros: os habríais preguntado
+  uds: se habrían preguntado
+
+presente-subjuntivo:
+  yo: me pregunte
+  tu: te preguntes
+  vos: te preguntes
+  ud: se pregunte
+  nosotros: nos preguntemos
+  vosotros: os preguntéis
+  uds: se pregunten
+
+preterito-perfecto-subjuntivo:
+  yo: me haya preguntado
+  tu: te hayas preguntado
+  vos: te hayas preguntado
+  ud: se haya preguntado
+  nosotros: nos hayamos preguntado
+  vosotros: os hayáis preguntado
+  uds: se hayan preguntado
+
+imperfecto-subjuntivo:
+  yo:
+    - me preguntara
+    - me preguntase
+  tu:
+    - te preguntaras
+    - te preguntases
+  vos:
+    - te preguntaras
+    - te preguntases
+  ud:
+    - se preguntara
+    - se preguntase
+  nosotros:
+    - nos preguntáramos
+    - nos preguntásemos
+  vosotros:
+    - os preguntarais
+    - os preguntaseis
+  uds:
+    - se preguntaran
+    - se preguntasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera preguntado
+    - me hubiese preguntado
+  tu:
+    - te hubieras preguntado
+    - te hubieses preguntado
+  vos:
+    - te hubieras preguntado
+    - te hubieses preguntado
+  ud:
+    - se hubiera preguntado
+    - se hubiese preguntado
+  nosotros:
+    - nos hubiéramos preguntado
+    - nos hubiésemos preguntado
+  vosotros:
+    - os hubierais preguntado
+    - os hubieseis preguntado
+  uds:
+    - se hubieran preguntado
+    - se hubiesen preguntado
+
+imperativo:
+  tu: pregúntate
+  vos: pregúntate
+  ud: pregúntese
+  nosotros: preguntémonos
+  vosotros: preguntaos
+  uds: pregúntense

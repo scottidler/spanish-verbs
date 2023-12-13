@@ -1,0 +1,142 @@
+infinitivo: comunicar
+gerundio: comunicando
+participio-pasado: comunicado
+presente-indicativo:
+  yo: comunico
+  tu: comunicas
+  vos: comunicás
+  ud: comunica
+  nosotros: comunicamos
+  vosotros: comunicáis
+  uds: comunican
+preterito-perfecto-simple:
+  yo: comuniqué
+  tu: comunicaste
+  vos: comunicaste
+  ud: comunicó
+  nosotros: comunicamos
+  vosotros: comunicasteis
+  uds: comunicaron
+preterito-imperfecto:
+  yo: comunicaba
+  tu: comunicabas
+  vos: comunicabas
+  ud: comunicaba
+  nosotros: comunicábamos
+  vosotros: comunicabais
+  uds: comunicaban
+futuro-simple:
+  yo: comunicaré
+  tu: comunicarás
+  vos: comunicarás
+  ud: comunicará
+  nosotros: comunicaremos
+  vosotros: comunicaréis
+  uds: comunicarán
+condicional-simple:
+  yo: comunicaría
+  tu: comunicarías
+  vos: comunicarías
+  ud: comunicaría
+  nosotros: comunicaríamos
+  vosotros: comunicaríais
+  uds: comunicarían
+presente-perfecto:
+  yo: he comunicado
+  tu: has comunicado
+  vos: has comunicado
+  ud: ha comunicado
+  nosotros: hemos comunicado
+  vosotros: habéis comunicado
+  uds: han comunicado
+preterito-pluscuamperfecto:
+  yo: había comunicado
+  tu: habías comunicado
+  vos: habías comunicado
+  ud: había comunicado
+  nosotros: habíamos comunicado
+  vosotros: habíais comunicado
+  uds: habían comunicado
+futuro-perfecto:
+  yo: habré comunicado
+  tu: habrás comunicado
+  vos: habrás comunicado
+  ud: habrá comunicado
+  nosotros: habremos comunicado
+  vosotros: habréis comunicado
+  uds: habrán comunicado
+condicional-perfecto:
+  yo: habría comunicado
+  tu: habrías comunicado
+  vos: habrías comunicado
+  ud: habría comunicado
+  nosotros: habríamos comunicado
+  vosotros: habríais comunicado
+  uds: habrían comunicado
+presente-subjuntivo:
+  yo: comunique
+  tu: comuniques
+  vos: comuniques
+  ud: comunique
+  nosotros: comuniquemos
+  vosotros: comuniquéis
+  uds: comuniquen
+preterito-perfecto-subjuntivo:
+  yo: haya comunicado
+  tu: hayas comunicado
+  vos: hayas comunicado
+  ud: haya comunicado
+  nosotros: hayamos comunicado
+  vosotros: hayáis comunicado
+  uds: hayan comunicado
+imperfecto-subjuntivo:
+  yo:
+    - comunicara
+    - comunicase
+  tu:
+    - comunicaras
+    - comunicases
+  vos:
+    - comunicaras
+    - comunicases
+  ud:
+    - comunicara
+    - comunicase
+  nosotros:
+    - comunicáramos
+    - comunicásemos
+  vosotros:
+    - comunicarais
+    - comunicaseis
+  uds:
+    - comunicaran
+    - comunicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera comunicado
+    - hubiese comunicado
+  tu:
+    - hubieras comunicado
+    - hubieses comunicado
+  vos:
+    - hubieras comunicado
+    - hubieses comunicado
+  ud:
+    - hubiera comunicado
+    - hubiese comunicado
+  nosotros:
+    - hubiéramos comunicado
+    - hubiésemos comunicado
+  vosotros:
+    - hubierais comunicado
+    - hubieseis comunicado
+  uds:
+    - hubieran comunicado
+    - hubiesen comunicado
+imperativo:
+  tu: comunica
+  vos: comunicá
+  ud: comunique
+  nosotros: comuniquemos
+  vosotros: comunicad
+  uds: comuniquen

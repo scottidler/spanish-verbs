@@ -1,0 +1,142 @@
+infinitivo: resonar
+gerundio: resonando
+participio-pasado: resonado
+presente-indicativo:
+  yo: resueno
+  tu: resuenas
+  vos: resuenas
+  ud: resuena
+  nosotros: resonamos
+  vosotros: resuenaís
+  uds: resuenan
+preterito-perfecto-simple:
+  yo: resone
+  tu: resonaste
+  vos: resonaste
+  ud: resonó
+  nosotros: resonamos
+  vosotros: resonasteis
+  uds: resonaron
+preterito-imperfecto:
+  yo: resonaba
+  tu: resonabas
+  vos: resonabas
+  ud: resonaba
+  nosotros: resonábamos
+  vosotros: resonabais
+  uds: resonaban
+futuro-simple:
+  yo: resonaré
+  tu: resonarás
+  vos: resonarás
+  ud: resonará
+  nosotros: resonaremos
+  vosotros: resonaréis
+  uds: resonarán
+condicional-simple:
+  yo: resonaría
+  tu: resonarías
+  vos: resonarías
+  ud: resonaría
+  nosotros: resonaríamos
+  vosotros: resonaríais
+  uds: resonarían
+presente-perfecto:
+  yo: he resonado
+  tu: has resonado
+  vos: has resonado
+  ud: ha resonado
+  nosotros: hemos resonado
+  vosotros: habéis resonado
+  uds: han resonado
+preterito-pluscuamperfecto:
+  yo: había resonado
+  tu: habías resonado
+  vos: habías resonado
+  ud: había resonado
+  nosotros: habíamos resonado
+  vosotros: habíais resonado
+  uds: habían resonado
+futuro-perfecto:
+  yo: habré resonado
+  tu: habrás resonado
+  vos: habrás resonado
+  ud: habrá resonado
+  nosotros: habremos resonado
+  vosotros: habréis resonado
+  uds: habrán resonado
+condicional-perfecto:
+  yo: habría resonado
+  tu: habrías resonado
+  vos: habrías resonado
+  ud: habría resonado
+  nosotros: habríamos resonado
+  vosotros: habríais resonado
+  uds: habrían resonado
+presente-subjuntivo:
+  yo: resuene
+  tu: resuenes
+  vos: resuenes
+  ud: resuene
+  nosotros: resuene
+  vosotros: resonáis
+  uds: resuenen
+preterito-perfecto-subjuntivo:
+  yo: haya resonado
+  tu: hayas resonado
+  vos: hayas resonado
+  ud: haya resonado
+  nosotros: hayamos resonado
+  vosotros: hayáis resonado
+  uds: hayan resonado
+imperfecto-subjuntivo:
+  yo:
+    - resonara
+    - resonase
+  tu:
+    - resonaras
+    - resonases
+  vos:
+    - resonaras
+    - resonases
+  ud:
+    - resonara
+    - resonase
+  nosotros:
+    - resonáramos
+    - resonásemos
+  vosotros:
+    - resonarais
+    - resonaseis
+  uds:
+    - resonaran
+    - resonasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera resonado
+    - hubiese resonado
+  tu:
+    - hubieras resonado
+    - hubieses resonado
+  vos:
+    - hubieras resonado
+    - hubieses resonado
+  ud:
+    - hubiera resonado
+    - hubiese resonado
+  nosotros:
+    - hubiéramos resonado
+    - hubiésemos resonado
+  vosotros:
+    - hubierais resonado
+    - hubieseis resonado
+  uds:
+    - hubieran resonado
+    - hubiesen resonado
+imperativo:
+  tu: resuena
+  vos: resuená
+  ud: resuene
+  nosotros: resueneos
+  vosotros: resonad
+  uds: resuenen

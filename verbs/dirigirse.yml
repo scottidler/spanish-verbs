@@ -1,0 +1,156 @@
+infinitivo: dirigirse
+gerundio: dirigiéndose
+participio-pasado: dirigido
+
+presente-indicativo:
+  yo: me dirijo
+  tu: te diriges
+  vos: te dirigís
+  ud: se dirige
+  nosotros: nos dirigimos
+  vosotros: os dirigís
+  uds: se dirigen
+
+preterito-perfecto-simple:
+  yo: me dirigí
+  tu: te dirigiste
+  vos: te dirigiste
+  ud: se dirigió
+  nosotros: nos dirigimos
+  vosotros: os dirigisteis
+  uds: se dirigieron
+
+preterito-imperfecto:
+  yo: me dirigía
+  tu: te dirigías
+  vos: te dirigías
+  ud: se dirigía
+  nosotros: nos dirigíamos
+  vosotros: os dirigíais
+  uds: se dirigían
+
+futuro-simple:
+  yo: me dirigiré
+  tu: te dirigirás
+  vos: te dirigirás
+  ud: se dirigirá
+  nosotros: nos dirigiremos
+  vosotros: os dirigiréis
+  uds: se dirigirán
+
+condicional-simple:
+  yo: me dirigiría
+  tu: te dirigirías
+  vos: te dirigirías
+  ud: se dirigiría
+  nosotros: nos dirigiríamos
+  vosotros: os dirigiríais
+  uds: se dirigirían
+
+presente-perfecto:
+  yo: me he dirigido
+  tu: te has dirigido
+  vos: te has dirigido
+  ud: se ha dirigido
+  nosotros: nos hemos dirigido
+  vosotros: os habéis dirigido
+  uds: se han dirigido
+
+preterito-pluscuamperfecto:
+  yo: me había dirigido
+  tu: te habías dirigido
+  vos: te habías dirigido
+  ud: se había dirigido
+  nosotros: nos habíamos dirigido
+  vosotros: os habíais dirigido
+  uds: se habían dirigido
+
+futuro-perfecto:
+  yo: me habré dirigido
+  tu: te habrás dirigido
+  vos: te habrás dirigido
+  ud: se habrá dirigido
+  nosotros: nos habremos dirigido
+  vosotros: os habréis dirigido
+  uds: se habrán dirigido
+
+condicional-perfecto:
+  yo: me habría dirigido
+  tu: te habrías dirigido
+  vos: te habrías dirigido
+  ud: se habría dirigido
+  nosotros: nos habríamos dirigido
+  vosotros: os habríais dirigido
+  uds: se habrían dirigido
+
+presente-subjuntivo:
+  yo: me dirija
+  tu: te dirijas
+  vos: te dirijas
+  ud: se dirija
+  nosotros: nos dirijamos
+  vosotros: os dirijáis
+  uds: se dirijan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya dirigido
+  tu: te hayas dirigido
+  vos: te hayas dirigido
+  ud: se haya dirigido
+  nosotros: nos hayamos dirigido
+  vosotros: os hayáis dirigido
+  uds: se hayan dirigido
+
+imperfecto-subjuntivo:
+  yo:
+    - me dirigiera
+    - me diriguiese
+  tu:
+    - te dirigieras
+    - te diriguieses
+  vos:
+    - te dirigieras
+    - te diriguieses
+  ud:
+    - se dirigiera
+    - se diriguiese
+  nosotros:
+    - nos dirigiéramos
+    - nos dirigiésemos
+  vosotros:
+    - os dirigierais
+    - os diriguieseis
+  uds:
+    - se dirigieran
+    - se diriguiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera dirigido
+    - me hubiese dirigido
+  tu:
+    - te hubieras dirigido
+    - te hubieses dirigido
+  vos:
+    - te hubieras dirigido
+    - te hubieses dirigido
+  ud:
+    - se hubiera dirigido
+    - se hubiese dirigido
+  nosotros:
+    - nos hubiéramos dirigido
+    - nos hubiésemos dirigido
+  vosotros:
+    - os hubierais dirigido
+    - os hubieseis dirigido
+  uds:
+    - se hubieran dirigido
+    - se hubiesen dirigido
+
+imperativo:
+  tu: dirígete
+  vos: dirígete
+  ud: diríjase
+  nosotros: dirijámonos
+  vosotros: dirigiros
+  uds: diríjanse

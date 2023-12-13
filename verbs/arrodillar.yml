@@ -1,0 +1,156 @@
+infinitivo: arrodillar
+gerundio: arrodillando
+participio-pasado: arrodillado
+
+presente-indicativo:
+  yo: arrodillo
+  tu: arrodillas
+  vos: arrodillás
+  ud: arrodilla
+  nosotros: arrodillamos
+  vosotros: arrodilláis
+  uds: arrodillan
+
+preterito-perfecto-simple:
+  yo: arrodillé
+  tu: arrodillaste
+  vos: arrodillaste
+  ud: arrodilló
+  nosotros: arrodillamos
+  vosotros: arrodillasteis
+  uds: arrodillaron
+
+preterito-imperfecto:
+  yo: arrodillaba
+  tu: arrodillabas
+  vos: arrodillabas
+  ud: arrodillaba
+  nosotros: arrodillábamos
+  vosotros: arrodillabais
+  uds: arrodillaban
+
+futuro-simple:
+  yo: arrodillaré
+  tu: arrodillarás
+  vos: arrodillarás
+  ud: arrodillará
+  nosotros: arrodillaremos
+  vosotros: arrodillaréis
+  uds: arrodillarán
+
+condicional-simple:
+  yo: arrodillaría
+  tu: arrodillarías
+  vos: arrodillarías
+  ud: arrodillaría
+  nosotros: arrodillaríamos
+  vosotros: arrodillaríais
+  uds: arrodillarían
+
+presente-perfecto:
+  yo: he arrodillado
+  tu: has arrodillado
+  vos: has arrodillado
+  ud: ha arrodillado
+  nosotros: hemos arrodillado
+  vosotros: habéis arrodillado
+  uds: han arrodillado
+
+preterito-pluscuamperfecto:
+  yo: había arrodillado
+  tu: habías arrodillado
+  vos: habías arrodillado
+  ud: había arrodillado
+  nosotros: habíamos arrodillado
+  vosotros: habíais arrodillado
+  uds: habían arrodillado
+
+futuro-perfecto:
+  yo: habré arrodillado
+  tu: habrás arrodillado
+  vos: habrás arrodillado
+  ud: habrá arrodillado
+  nosotros: habremos arrodillado
+  vosotros: habréis arrodillado
+  uds: habrán arrodillado
+
+condicional-perfecto:
+  yo: habría arrodillado
+  tu: habrías arrodillado
+  vos: habrías arrodillado
+  ud: habría arrodillado
+  nosotros: habríamos arrodillado
+  vosotros: habríais arrodillado
+  uds: habrían arrodillado
+
+presente-subjuntivo:
+  yo: arrodille
+  tu: arrodilles
+  vos: arrodilles
+  ud: arrodille
+  nosotros: arrodillemos
+  vosotros: arrodilléis
+  uds: arrodillen
+
+preterito-perfecto-subjuntivo:
+  yo: haya arrodillado
+  tu: hayas arrodillado
+  vos: hayas arrodillado
+  ud: haya arrodillado
+  nosotros: hayamos arrodillado
+  vosotros: hayáis arrodillado
+  uds: hayan arrodillado
+
+imperfecto-subjuntivo:
+  yo:
+    - arrodillara
+    - arrodillase
+  tu:
+    - arrodillaras
+    - arrodillases
+  vos:
+    - arrodillaras
+    - arrodillases
+  ud:
+    - arrodillara
+    - arrodillase
+  nosotros:
+    - arrodilláramos
+    - arrodillásemos
+  vosotros:
+    - arrodillarais
+    - arrodillaseis
+  uds:
+    - arrodillaran
+    - arrodillasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arrodillado
+    - hubiese arrodillado
+  tu:
+    - hubieras arrodillado
+    - hubieses arrodillado
+  vos:
+    - hubieras arrodillado
+    - hubieses arrodillado
+  ud:
+    - hubiera arrodillado
+    - hubiese arrodillado
+  nosotros:
+    - hubiéramos arrodillado
+    - hubiésemos arrodillado
+  vosotros:
+    - hubierais arrodillado
+    - hubieseis arrodillado
+  uds:
+    - hubieran arrodillado
+    - hubiesen arrodillado
+
+imperativo:
+  tu: arrodilla
+  vos: arrodillá
+  ud: arrodille
+  nosotros: arrodillemos
+  vosotros: arrodillad
+  uds: arrodillen

@@ -1,0 +1,142 @@
+infinitivo: reaccionar
+gerundio: reaccionando
+participio-pasado: reaccionado
+presente-indicativo:
+  yo: reacciono
+  tu: reaccionas
+  vos: reaccionas
+  ud: reacciona
+  nosotros: reaccionamos
+  vosotros: reaccionáis
+  uds: reaccionan
+preterito-perfecto-simple:
+  yo: reaccioné
+  tu: reaccionaste
+  vos: reaccionaste
+  ud: reaccionó
+  nosotros: reaccionamos
+  vosotros: reaccionasteis
+  uds: reaccionaron
+preterito-imperfecto:
+  yo: reaccionaba
+  tu: reaccionabas
+  vos: reaccionabas
+  ud: reaccionaba
+  nosotros: reaccionábamos
+  vosotros: reaccionabais
+  uds: reaccionaban
+futuro-simple:
+  yo: reaccionaré
+  tu: reaccionarás
+  vos: reaccionarás
+  ud: reaccionará
+  nosotros: reaccionaremos
+  vosotros: reaccionaréis
+  uds: reaccionarán
+condicional-simple:
+  yo: reaccionaría
+  tu: reaccionarías
+  vos: reaccionarías
+  ud: reaccionaría
+  nosotros: reaccionaríamos
+  vosotros: reaccionaríais
+  uds: reaccionarían
+presente-perfecto:
+  yo: he reaccionado
+  tu: has reaccionado
+  vos: has reaccionado
+  ud: ha reaccionado
+  nosotros: hemos reaccionado
+  vosotros: habéis reaccionado
+  uds: han reaccionado
+preterito-pluscuamperfecto:
+  yo: había reaccionado
+  tu: habías reaccionado
+  vos: habías reaccionado
+  ud: había reaccionado
+  nosotros: habíamos reaccionado
+  vosotros: habíais reaccionado
+  uds: habían reaccionado
+futuro-perfecto:
+  yo: habré reaccionado
+  tu: habrás reaccionado
+  vos: habrás reaccionado
+  ud: habrá reaccionado
+  nosotros: habremos reaccionado
+  vosotros: habréis reaccionado
+  uds: habrán reaccionado
+condicional-perfecto:
+  yo: habría reaccionado
+  tu: habrías reaccionado
+  vos: habrías reaccionado
+  ud: habría reaccionado
+  nosotros: habríamos reaccionado
+  vosotros: habríais reaccionado
+  uds: habrían reaccionado
+presente-subjuntivo:
+  yo: reaccione
+  tu: reacciones
+  vos: reacciones
+  ud: reaccione
+  nosotros: reaccionemos
+  vosotros: reaccionéis
+  uds: reaccionen
+preterito-perfecto-subjuntivo:
+  yo: haya reaccionado
+  tu: hayas reaccionado
+  vos: hayas reaccionado
+  ud: haya reaccionado
+  nosotros: hayamos reaccionado
+  vosotros: hayáis reaccionado
+  uds: hayan reaccionado
+imperfecto-subjuntivo:
+  yo:
+    - reaccionara
+    - reaccionase
+  tu:
+    - reaccionaras
+    - reaccionases
+  vos:
+    - reaccionaras
+    - reaccionases
+  ud:
+    - reaccionara
+    - reaccionase
+  nosotros:
+    - reaccionáramos
+    - reaccionásemos
+  vosotros:
+    - reaccionarais
+    - reaccionaseis
+  uds:
+    - reaccionaran
+    - reaccionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reaccionado
+    - hubiese reaccionado
+  tu:
+    - hubieras reaccionado
+    - hubieses reaccionado
+  vos:
+    - hubieras reaccionado
+    - hubieses reaccionado
+  ud:
+    - hubiera reaccionado
+    - hubiese reaccionado
+  nosotros:
+    - hubiéramos reaccionado
+    - hubiésemos reaccionado
+  vosotros:
+    - hubierais reaccionado
+    - hubieseis reaccionado
+  uds:
+    - hubieran reaccionado
+    - hubiesen reaccionado
+imperativo:
+  tu: reacciona
+  vos: reaccioná
+  ud: reaccione
+  nosotros: reaccionemos
+  vosotros: reaccionad
+  uds: reaccionen

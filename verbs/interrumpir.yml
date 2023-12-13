@@ -1,0 +1,142 @@
+infinitivo: interrumpir
+gerundio: interrumpiendo
+participio-pasado: interrumpido
+presente-indicativo:
+  yo: interrumpo
+  tu: interrumpes
+  vos: interrumpís
+  ud: interrumpe
+  nosotros: interrumpimos
+  vosotros: interrumpís
+  uds: interrumpen
+preterito-perfecto-simple:
+  yo: interrumpí
+  tu: interrumpiste
+  vos: interrumpiste
+  ud: interrumpió
+  nosotros: interrumpimos
+  vosotros: interrumpisteis
+  uds: interrumpieron
+preterito-imperfecto:
+  yo: interrumpía
+  tu: interrumpías
+  vos: interrumpías
+  ud: interrumpía
+  nosotros: interrumpíamos
+  vosotros: interrumpíais
+  uds: interrumpían
+futuro-simple:
+  yo: interrumpiré
+  tu: interrumpirás
+  vos: interrumpirás
+  ud: interrumpirá
+  nosotros: interrumpiremos
+  vosotros: interrumpiréis
+  uds: interrumpirán
+condicional-simple:
+  yo: interrumpiría
+  tu: interrumpirías
+  vos: interrumpirías
+  ud: interrumpiría
+  nosotros: interrumpiríamos
+  vosotros: interrumpiríais
+  uds: interrumpirían
+presente-perfecto:
+  yo: he interrumpido
+  tu: has interrumpido
+  vos: has interrumpido
+  ud: ha interrumpido
+  nosotros: hemos interrumpido
+  vosotros: habéis interrumpido
+  uds: han interrumpido
+preterito-pluscuamperfecto:
+  yo: había interrumpido
+  tu: habías interrumpido
+  vos: habías interrumpido
+  ud: había interrumpido
+  nosotros: habíamos interrumpido
+  vosotros: habíais interrumpido
+  uds: habían interrumpido
+futuro-perfecto:
+  yo: habré interrumpido
+  tu: habrás interrumpido
+  vos: habrás interrumpido
+  ud: habrá interrumpido
+  nosotros: habremos interrumpido
+  vosotros: habréis interrumpido
+  uds: habrán interrumpido
+condicional-perfecto:
+  yo: habría interrumpido
+  tu: habrías interrumpido
+  vos: habrías interrumpido
+  ud: habría interrumpido
+  nosotros: habríamos interrumpido
+  vosotros: habríais interrumpido
+  uds: habrían interrumpido
+presente-subjuntivo:
+  yo: interrumpa
+  tu: interrumpas
+  vos: interrumpas
+  ud: interrumpa
+  nosotros: interrumpamos
+  vosotros: interrumpáis
+  uds: interrumpan
+preterito-perfecto-subjuntivo:
+  yo: haya interrumpido
+  tu: hayas interrumpido
+  vos: hayas interrumpido
+  ud: haya interrumpido
+  nosotros: hayamos interrumpido
+  vosotros: hayáis interrumpido
+  uds: hayan interrumpido
+imperfecto-subjuntivo:
+  yo:
+    - interrumpiera
+    - interrumpiese
+  tu:
+    - interrumpieras
+    - interrumpieses
+  vos:
+    - interrumpieras
+    - interrumpieses
+  ud:
+    - interrumpiera
+    - interrumpiese
+  nosotros:
+    - interrumpiéramos
+    - interrumpiésemos
+  vosotros:
+    - interrumpierais
+    - interrumpieseis
+  uds:
+    - interrumpieran
+    - interrumpiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera interrumpido
+    - hubiese interrumpido
+  tu:
+    - hubieras interrumpido
+    - hubieses interrumpido
+  vos:
+    - hubieras interrumpido
+    - hubieses interrumpido
+  ud:
+    - hubiera interrumpido
+    - hubiese interrumpido
+  nosotros:
+    - hubiéramos interrumpido
+    - hubiésemos interrumpido
+  vosotros:
+    - hubierais interrumpido
+    - hubieseis interrumpido
+  uds:
+    - hubieran interrumpido
+    - hubiesen interrumpido
+imperativo:
+  tu: interrumpe
+  vos: interrumpí
+  ud: interrumpa
+  nosotros: interrumpamos
+  vosotros: interrumpid
+  uds: interrumpan

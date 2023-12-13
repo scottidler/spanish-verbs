@@ -1,0 +1,142 @@
+infinitivo: examinar
+gerundio: examinando
+participio-pasado: examinado
+presente-indicativo:
+  yo: examino
+  tu: examinas
+  vos: examinas
+  ud: examina
+  nosotros: examinamos
+  vosotros: examináis
+  uds: examinan
+preterito-perfecto-simple:
+  yo: examiné
+  tu: examinaste
+  vos: examinaste
+  ud: examinó
+  nosotros: examinamos
+  vosotros: examinasteis
+  uds: examinaron
+preterito-imperfecto:
+  yo: examinaba
+  tu: examinabas
+  vos: examinabas
+  ud: examinaba
+  nosotros: examinábamos
+  vosotros: examinabais
+  uds: examinaban
+futuro-simple:
+  yo: examinaré
+  tu: examinarás
+  vos: examinarás
+  ud: examinará
+  nosotros: examinaremos
+  vosotros: examinaréis
+  uds: examinarán
+condicional-simple:
+  yo: examinaría
+  tu: examinarías
+  vos: examinarías
+  ud: examinaría
+  nosotros: examinaríamos
+  vosotros: examinaríais
+  uds: examinarían
+presente-perfecto:
+  yo: he examinado
+  tu: has examinado
+  vos: has examinado
+  ud: ha examinado
+  nosotros: hemos examinado
+  vosotros: habéis examinado
+  uds: han examinado
+preterito-pluscuamperfecto:
+  yo: había examinado
+  tu: habías examinado
+  vos: habías examinado
+  ud: había examinado
+  nosotros: habíamos examinado
+  vosotros: habíais examinado
+  uds: habían examinado
+futuro-perfecto:
+  yo: habré examinado
+  tu: habrás examinado
+  vos: habrás examinado
+  ud: habrá examinado
+  nosotros: habremos examinado
+  vosotros: habréis examinado
+  uds: habrán examinado
+condicional-perfecto:
+  yo: habría examinado
+  tu: habrías examinado
+  vos: habrías examinado
+  ud: habría examinado
+  nosotros: habríamos examinado
+  vosotros: habríais examinado
+  uds: habrían examinado
+presente-subjuntivo:
+  yo: examine
+  tu: examines
+  vos: examines
+  ud: examine
+  nosotros: examinemos
+  vosotros: examinéis
+  uds: examinen
+preterito-perfecto-subjuntivo:
+  yo: haya examinado
+  tu: hayas examinado
+  vos: hayas examinado
+  ud: haya examinado
+  nosotros: hayamos examinado
+  vosotros: hayáis examinado
+  uds: hayan examinado
+imperfecto-subjuntivo:
+  yo:
+    - examinara
+    - examinase
+  tu:
+    - examinaras
+    - examinases
+  vos:
+    - examinaras
+    - examinases
+  ud:
+    - examinara
+    - examinase
+  nosotros:
+    - examináramos
+    - examinásemos
+  vosotros:
+    - examinarais
+    - examinaseis
+  uds:
+    - examinaran
+    - examinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera examinado
+    - hubiese examinado
+  tu:
+    - hubieras examinado
+    - hubieses examinado
+  vos:
+    - hubieras examinado
+    - hubieses examinado
+  ud:
+    - hubiera examinado
+    - hubiese examinado
+  nosotros:
+    - hubiéramos examinado
+    - hubiésemos examinado
+  vosotros:
+    - hubierais examinado
+    - hubieseis examinado
+  uds:
+    - hubieran examinado
+    - hubiesen examinado
+imperativo:
+  tu: examina
+  vos: examiná
+  ud: examine
+  nosotros: examinemos
+  vosotros: examinad
+  uds: examinen

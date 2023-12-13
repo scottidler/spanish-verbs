@@ -1,0 +1,142 @@
+infinitivo: colar
+gerundio: colando
+participio-pasado: colado
+presente-indicativo:
+  yo: cuelo
+  tu: cuelas
+  vos: colás
+  ud: cuela
+  nosotros: colamos
+  vosotros: coláis
+  uds: cuelan
+preterito-perfecto-simple:
+  yo: colé
+  tu: colaste
+  vos: colaste
+  ud: coló
+  nosotros: colamos
+  vosotros: colasteis
+  uds: colaron
+preterito-imperfecto:
+  yo: colaba
+  tu: colabas
+  vos: colabas
+  ud: colaba
+  nosotros: colábamos
+  vosotros: colabais
+  uds: colaban
+futuro-simple:
+  yo: colaré
+  tu: colarás
+  vos: colarás
+  ud: colará
+  nosotros: colaremos
+  vosotros: colaréis
+  uds: colarán
+condicional-simple:
+  yo: colaría
+  tu: colarías
+  vos: colarías
+  ud: colaría
+  nosotros: colaríamos
+  vosotros: colaríais
+  uds: colarían
+presente-perfecto:
+  yo: he colado
+  tu: has colado
+  vos: has colado
+  ud: ha colado
+  nosotros: hemos colado
+  vosotros: habéis colado
+  uds: han colado
+preterito-pluscuamperfecto:
+  yo: había colado
+  tu: habías colado
+  vos: habías colado
+  ud: había colado
+  nosotros: habíamos colado
+  vosotros: habíais colado
+  uds: habían colado
+futuro-perfecto:
+  yo: habré colado
+  tu: habrás colado
+  vos: habrás colado
+  ud: habrá colado
+  nosotros: habremos colado
+  vosotros: habréis colado
+  uds: habrán colado
+condicional-perfecto:
+  yo: habría colado
+  tu: habrías colado
+  vos: habrías colado
+  ud: habría colado
+  nosotros: habríamos colado
+  vosotros: habríais colado
+  uds: habrían colado
+presente-subjuntivo:
+  yo: cuele
+  tu: cueles
+  vos: cueles
+  ud: cuele
+  nosotros: colemos
+  vosotros: coléis
+  uds: cuelen
+preterito-perfecto-subjuntivo:
+  yo: haya colado
+  tu: hayas colado
+  vos: hayas colado
+  ud: haya colado
+  nosotros: hayamos colado
+  vosotros: hayáis colado
+  uds: hayan colado
+imperfecto-subjuntivo:
+  yo:
+    - colara
+    - colase
+  tu:
+    - colaras
+    - colases
+  vos:
+    - colaras
+    - colases
+  ud:
+    - colara
+    - colase
+  nosotros:
+    - coláramos
+    - colásemos
+  vosotros:
+    - colarais
+    - colaseis
+  uds:
+    - colaran
+    - colasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera colado
+    - hubiese colado
+  tu:
+    - hubieras colado
+    - hubieses colado
+  vos:
+    - hubieras colado
+    - hubieses colado
+  ud:
+    - hubiera colado
+    - hubiese colado
+  nosotros:
+    - hubiéramos colado
+    - hubiésemos colado
+  vosotros:
+    - hubierais colado
+    - hubieseis colado
+  uds:
+    - hubieran colado
+    - hubiesen colado
+imperativo:
+  tu: cuela
+  vos: colá
+  ud: cuele
+  nosotros: colemos
+  vosotros: colad
+  uds: cuelen

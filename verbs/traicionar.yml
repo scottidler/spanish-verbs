@@ -1,0 +1,142 @@
+infinitivo: traicionar
+gerundio: traicionando
+participio-pasado: traicionado
+presente-indicativo:
+  yo: traiciono
+  tu: traicionas
+  vos: traicionás
+  ud: traiciona
+  nosotros: traicionamos
+  vosotros: traicionáis
+  uds: traicionan
+preterito-perfecto-simple:
+  yo: traicioné
+  tu: traicionaste
+  vos: traicionaste
+  ud: traicionó
+  nosotros: traicionamos
+  vosotros: traicionasteis
+  uds: traicionaron
+preterito-imperfecto:
+  yo: traicionaba
+  tu: traicionabas
+  vos: traicionabas
+  ud: traicionaba
+  nosotros: traicionábamos
+  vosotros: traicionabais
+  uds: traicionaban
+futuro-simple:
+  yo: traicionaré
+  tu: traicionarás
+  vos: traicionarás
+  ud: traicionará
+  nosotros: traicionaremos
+  vosotros: traicionaréis
+  uds: traicionarán
+condicional-simple:
+  yo: traicionaría
+  tu: traicionarías
+  vos: traicionarías
+  ud: traicionaría
+  nosotros: traicionaríamos
+  vosotros: traicionaríais
+  uds: traicionarían
+presente-perfecto:
+  yo: he traicionado
+  tu: has traicionado
+  vos: has traicionado
+  ud: ha traicionado
+  nosotros: hemos traicionado
+  vosotros: habéis traicionado
+  uds: han traicionado
+preterito-pluscuamperfecto:
+  yo: había traicionado
+  tu: habías traicionado
+  vos: habías traicionado
+  ud: había traicionado
+  nosotros: habíamos traicionado
+  vosotros: habíais traicionado
+  uds: habían traicionado
+futuro-perfecto:
+  yo: habré traicionado
+  tu: habrás traicionado
+  vos: habrás traicionado
+  ud: habrá traicionado
+  nosotros: habremos traicionado
+  vosotros: habréis traicionado
+  uds: habrán traicionado
+condicional-perfecto:
+  yo: habría traicionado
+  tu: habrías traicionado
+  vos: habrías traicionado
+  ud: habría traicionado
+  nosotros: habríamos traicionado
+  vosotros: habríais traicionado
+  uds: habrían traicionado
+presente-subjuntivo:
+  yo: traicione
+  tu: traiciones
+  vos: traiciones
+  ud: traicione
+  nosotros: traicionemos
+  vosotros: traicionéis
+  uds: traicionen
+preterito-perfecto-subjuntivo:
+  yo: haya traicionado
+  tu: hayas traicionado
+  vos: hayas traicionado
+  ud: haya traicionado
+  nosotros: hayamos traicionado
+  vosotros: hayáis traicionado
+  uds: hayan traicionado
+imperfecto-subjuntivo:
+  yo:
+    - traicionara
+    - traicionase
+  tu:
+    - traicionaras
+    - traicionases
+  vos:
+    - traicionaras
+    - traicionases
+  ud:
+    - traicionara
+    - traicionase
+  nosotros:
+    - traicionáramos
+    - traicionásemos
+  vosotros:
+    - traicionarais
+    - traicionaseis
+  uds:
+    - traicionaran
+    - traicionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera traicionado
+    - hubiese traicionado
+  tu:
+    - hubieras traicionado
+    - hubieses traicionado
+  vos:
+    - hubieras traicionado
+    - hubieses traicionado
+  ud:
+    - hubiera traicionado
+    - hubiese traicionado
+  nosotros:
+    - hubiéramos traicionado
+    - hubiésemos traicionado
+  vosotros:
+    - hubierais traicionado
+    - hubieseis traicionado
+  uds:
+    - hubieran traicionado
+    - hubiesen traicionado
+imperativo:
+  tu: traiciona
+  vos: traicioná
+  ud: traicione
+  nosotros: traicionemos
+  vosotros: traicionad
+  uds: traicionen

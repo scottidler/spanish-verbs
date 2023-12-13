@@ -1,0 +1,142 @@
+infinitivo: sentar
+gerundio: sentando
+participio-pasado: sentado
+presente-indicativo:
+  yo: siento
+  tu: sientas
+  vos: sentás
+  ud: sienta
+  nosotros: sentamos
+  vosotros: sentáis
+  uds: sientan
+preterito-perfecto-simple:
+  yo: senté
+  tu: sentaste
+  vos: sentaste
+  ud: sentó
+  nosotros: sentamos
+  vosotros: sentasteis
+  uds: sentaron
+preterito-imperfecto:
+  yo: sentaba
+  tu: sentabas
+  vos: sentabas
+  ud: sentaba
+  nosotros: sentábamos
+  vosotros: sentabais
+  uds: sentaban
+futuro-simple:
+  yo: sentaré
+  tu: sentarás
+  vos: sentarás
+  ud: sentará
+  nosotros: sentaremos
+  vosotros: sentaréis
+  uds: sentarán
+condicional-simple:
+  yo: sentaría
+  tu: sentarías
+  vos: sentarías
+  ud: sentaría
+  nosotros: sentaríamos
+  vosotros: sentaríais
+  uds: sentarían
+presente-perfecto:
+  yo: he sentado
+  tu: has sentado
+  vos: has sentado
+  ud: ha sentado
+  nosotros: hemos sentado
+  vosotros: habéis sentado
+  uds: han sentado
+preterito-pluscuamperfecto:
+  yo: había sentado
+  tu: habías sentado
+  vos: habías sentado
+  ud: había sentado
+  nosotros: habíamos sentado
+  vosotros: habíais sentado
+  uds: habían sentado
+futuro-perfecto:
+  yo: habré sentado
+  tu: habrás sentado
+  vos: habrás sentado
+  ud: habrá sentado
+  nosotros: habremos sentado
+  vosotros: habréis sentado
+  uds: habrán sentado
+condicional-perfecto:
+  yo: habría sentado
+  tu: habrías sentado
+  vos: habrías sentado
+  ud: habría sentado
+  nosotros: habríamos sentado
+  vosotros: habríais sentado
+  uds: habrían sentado
+presente-subjuntivo:
+  yo: siente
+  tu: sientes
+  vos: sientes
+  ud: siente
+  nosotros: sentemos
+  vosotros: sentéis
+  uds: sienten
+preterito-perfecto-subjuntivo:
+  yo: haya sentado
+  tu: hayas sentado
+  vos: hayas sentado
+  ud: haya sentado
+  nosotros: hayamos sentado
+  vosotros: hayáis sentado
+  uds: hayan sentado
+imperfecto-subjuntivo:
+  yo:
+    - sentara
+    - sentase
+  tu:
+    - sentaras
+    - sentases
+  vos:
+    - sentaras
+    - sentases
+  ud:
+    - sentara
+    - sentase
+  nosotros:
+    - sentáramos
+    - sentásemos
+  vosotros:
+    - sentarais
+    - sentaseis
+  uds:
+    - sentaran
+    - sentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sentado
+    - hubiese sentado
+  tu:
+    - hubieras sentado
+    - hubieses sentado
+  vos:
+    - hubieras sentado
+    - hubieses sentado
+  ud:
+    - hubiera sentado
+    - hubiese sentado
+  nosotros:
+    - hubiéramos sentado
+    - hubiésemos sentado
+  vosotros:
+    - hubierais sentado
+    - hubieseis sentado
+  uds:
+    - hubieran sentado
+    - hubiesen sentado
+imperativo:
+  tu: sienta
+  vos: sentá
+  ud: siente
+  nosotros: sentemos
+  vosotros: sentad
+  uds: sienten

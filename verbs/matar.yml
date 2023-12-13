@@ -1,0 +1,142 @@
+infinitivo: matar
+gerundio: matando
+participio-pasado: matado
+presente-indicativo:
+  yo: mato
+  tu: matas
+  vos: matas
+  ud: mata
+  nosotros: matamos
+  vosotros: matáis
+  uds: matan
+preterito-perfecto-simple:
+  yo: maté
+  tu: mataste
+  vos: mataste
+  ud: mató
+  nosotros: matamos
+  vosotros: matasteis
+  uds: mataron
+preterito-imperfecto:
+  yo: mataba
+  tu: matabas
+  vos: matabas
+  ud: mataba
+  nosotros: matábamos
+  vosotros: matabais
+  uds: mataban
+futuro-simple:
+  yo: mataré
+  tu: matarás
+  vos: matarás
+  ud: matará
+  nosotros: mataremos
+  vosotros: mataréis
+  uds: matarán
+condicional-simple:
+  yo: mataría
+  tu: matarías
+  vos: matarías
+  ud: mataría
+  nosotros: mataríamos
+  vosotros: mataríais
+  uds: matarían
+presente-perfecto:
+  yo: he matado
+  tu: has matado
+  vos: has matado
+  ud: ha matado
+  nosotros: hemos matado
+  vosotros: habéis matado
+  uds: han matado
+preterito-pluscuamperfecto:
+  yo: había matado
+  tu: habías matado
+  vos: habías matado
+  ud: había matado
+  nosotros: habíamos matado
+  vosotros: habíais matado
+  uds: habían matado
+futuro-perfecto:
+  yo: habré matado
+  tu: habrás matado
+  vos: habrás matado
+  ud: habrá matado
+  nosotros: habremos matado
+  vosotros: habréis matado
+  uds: habrán matado
+condicional-perfecto:
+  yo: habría matado
+  tu: habrías matado
+  vos: habrías matado
+  ud: habría matado
+  nosotros: habríamos matado
+  vosotros: habríais matado
+  uds: habrían matado
+presente-subjuntivo:
+  yo: mate
+  tu: mates
+  vos: mates
+  ud: mate
+  nosotros: matemos
+  vosotros: matéis
+  uds: maten
+preterito-perfecto-subjuntivo:
+  yo: haya matado
+  tu: hayas matado
+  vos: hayas matado
+  ud: haya matado
+  nosotros: hayamos matado
+  vosotros: hayáis matado
+  uds: hayan matado
+imperfecto-subjuntivo:
+  yo:
+    - matara
+    - matase
+  tu:
+    - mataras
+    - matases
+  vos:
+    - mataras
+    - matases
+  ud:
+    - matara
+    - matase
+  nosotros:
+    - matáramos
+    - matásemos
+  vosotros:
+    - matarais
+    - mataseis
+  uds:
+    - mataran
+    - matasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera matado
+    - hubiese matado
+  tu:
+    - hubieras matado
+    - hubieses matado
+  vos:
+    - hubieras matado
+    - hubieses matado
+  ud:
+    - hubiera matado
+    - hubiese matado
+  nosotros:
+    - hubiéramos matado
+    - hubiésemos matado
+  vosotros:
+    - hubierais matado
+    - hubieseis matado
+  uds:
+    - hubieran matado
+    - hubiesen matado
+imperativo:
+  tu: mata
+  vos: matá
+  ud: mate
+  nosotros: matemos
+  vosotros: matad
+  uds: maten

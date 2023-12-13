@@ -1,0 +1,142 @@
+infinitivo: invertir
+gerundio: invirtiendo
+participio-pasado: invertido
+presente-indicativo:
+  yo: invierto
+  tu: inviertes
+  vos: invertís
+  ud: invierte
+  nosotros: invertimos
+  vosotros: invertís
+  uds: invierten
+preterito-perfecto-simple:
+  yo: invertí
+  tu: invertiste
+  vos: invertiste
+  ud: invirtió
+  nosotros: invertimos
+  vosotros: invertisteis
+  uds: invirtieron
+preterito-imperfecto:
+  yo: invertía
+  tu: invertías
+  vos: invertías
+  ud: invertía
+  nosotros: invertíamos
+  vosotros: invertíais
+  uds: invertían
+futuro-simple:
+  yo: invertiré
+  tu: invertirás
+  vos: invertirás
+  ud: invertirá
+  nosotros: invertiremos
+  vosotros: invertiréis
+  uds: invertirán
+condicional-simple:
+  yo: invertiría
+  tu: invertirías
+  vos: invertirías
+  ud: invertiría
+  nosotros: invertiríamos
+  vosotros: invertiríais
+  uds: invertirían
+presente-perfecto:
+  yo: he invertido
+  tu: has invertido
+  vos: has invertido
+  ud: ha invertido
+  nosotros: hemos invertido
+  vosotros: habéis invertido
+  uds: han invertido
+preterito-pluscuamperfecto:
+  yo: había invertido
+  tu: habías invertido
+  vos: habías invertido
+  ud: había invertido
+  nosotros: habíamos invertido
+  vosotros: habíais invertido
+  uds: habían invertido
+futuro-perfecto:
+  yo: habré invertido
+  tu: habrás invertido
+  vos: habrás invertido
+  ud: habrá invertido
+  nosotros: habremos invertido
+  vosotros: habréis invertido
+  uds: habrán invertido
+condicional-perfecto:
+  yo: habría invertido
+  tu: habrías invertido
+  vos: habrías invertido
+  ud: habría invertido
+  nosotros: habríamos invertido
+  vosotros: habríais invertido
+  uds: habrían invertido
+presente-subjuntivo:
+  yo: invierta
+  tu: inviertas
+  vos: inviertas
+  ud: invierta
+  nosotros: invirtamos
+  vosotros: invirtáis
+  uds: inviertan
+preterito-perfecto-subjuntivo:
+  yo: haya invertido
+  tu: hayas invertido
+  vos: hayas invertido
+  ud: haya invertido
+  nosotros: hayamos invertido
+  vosotros: hayáis invertido
+  uds: hayan invertido
+imperfecto-subjuntivo:
+  yo:
+    - invirtiera
+    - invirtiese
+  tu:
+    - invirtieras
+    - invirtieses
+  vos:
+    - invirtieras
+    - invirtieses
+  ud:
+    - invirtiera
+    - invirtiese
+  nosotros:
+    - invirtiéramos
+    - invirtiésemos
+  vosotros:
+    - invirtierais
+    - invirtieseis
+  uds:
+    - invirtieran
+    - invirtiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera invertido
+    - hubiese invertido
+  tu:
+    - hubieras invertido
+    - hubieses invertido
+  vos:
+    - hubieras invertido
+    - hubieses invertido
+  ud:
+    - hubiera invertido
+    - hubiese invertido
+  nosotros:
+    - hubiéramos invertido
+    - hubiésemos invertido
+  vosotros:
+    - hubierais invertido
+    - hubieseis invertido
+  uds:
+    - hubieran invertido
+    - hubiesen invertido
+imperativo:
+  tu: invierte
+  vos: invertí
+  ud: invierta
+  nosotros: invirtamos
+  vosotros: invertid
+  uds: inviertan

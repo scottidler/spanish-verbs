@@ -1,0 +1,142 @@
+infinitivo: montar
+gerundio: montando
+participio-pasado: montado
+presente-indicativo:
+  yo: monto
+  tu: montas
+  vos: montás
+  ud: monta
+  nosotros: montamos
+  vosotros: montáis
+  uds: montan
+preterito-perfecto-simple:
+  yo: monté
+  tu: montaste
+  vos: montaste
+  ud: montó
+  nosotros: montamos
+  vosotros: montasteis
+  uds: montaron
+preterito-imperfecto:
+  yo: montaba
+  tu: montabas
+  vos: montabas
+  ud: montaba
+  nosotros: montábamos
+  vosotros: montabais
+  uds: montaban
+futuro-simple:
+  yo: montaré
+  tu: montarás
+  vos: montarás
+  ud: montará
+  nosotros: montaremos
+  vosotros: montaréis
+  uds: montarán
+condicional-simple:
+  yo: montaría
+  tu: montarías
+  vos: montarías
+  ud: montaría
+  nosotros: montaríamos
+  vosotros: montaríais
+  uds: montarían
+presente-perfecto:
+  yo: he montado
+  tu: has montado
+  vos: has montado
+  ud: ha montado
+  nosotros: hemos montado
+  vosotros: habéis montado
+  uds: han montado
+preterito-pluscuamperfecto:
+  yo: había montado
+  tu: habías montado
+  vos: habías montado
+  ud: había montado
+  nosotros: habíamos montado
+  vosotros: habíais montado
+  uds: habían montado
+futuro-perfecto:
+  yo: habré montado
+  tu: habrás montado
+  vos: habrás montado
+  ud: habrá montado
+  nosotros: habremos montado
+  vosotros: habréis montado
+  uds: habrán montado
+condicional-perfecto:
+  yo: habría montado
+  tu: habrías montado
+  vos: habrías montado
+  ud: habría montado
+  nosotros: habríamos montado
+  vosotros: habríais montado
+  uds: habrían montado
+presente-subjuntivo:
+  yo: monte
+  tu: montes
+  vos: montes
+  ud: monte
+  nosotros: montemos
+  vosotros: montéis
+  uds: monten
+preterito-perfecto-subjuntivo:
+  yo: haya montado
+  tu: hayas montado
+  vos: hayas montado
+  ud: haya montado
+  nosotros: hayamos montado
+  vosotros: hayáis montado
+  uds: hayan montado
+imperfecto-subjuntivo:
+  yo:
+    - montara
+    - montase
+  tu:
+    - montaras
+    - montases
+  vos:
+    - montaras
+    - montases
+  ud:
+    - montara
+    - montase
+  nosotros:
+    - montáramos
+    - montásemos
+  vosotros:
+    - montarais
+    - montaseis
+  uds:
+    - montaran
+    - montasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera montado
+    - hubiese montado
+  tu:
+    - hubieras montado
+    - hubieses montado
+  vos:
+    - hubieras montado
+    - hubieses montado
+  ud:
+    - hubiera montado
+    - hubiese montado
+  nosotros:
+    - hubiéramos montado
+    - hubiésemos montado
+  vosotros:
+    - hubierais montado
+    - hubieseis montado
+  uds:
+    - hubieran montado
+    - hubiesen montado
+imperativo:
+  tu: monta
+  vos: montá
+  ud: monte
+  nosotros: montemos
+  vosotros: montad
+  uds: monten

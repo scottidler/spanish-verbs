@@ -1,0 +1,142 @@
+infinitivo: vigilar
+gerundio: vigilando
+participio-pasado: vigilado
+presente-indicativo:
+  yo: vigilo
+  tu: vigilas
+  vos: vigilás
+  ud: vigila
+  nosotros: vigilamos
+  vosotros: vigiláis
+  uds: vigilan
+preterito-perfecto-simple:
+  yo: vigilé
+  tu: vigilaste
+  vos: vigilaste
+  ud: vigiló
+  nosotros: vigilamos
+  vosotros: vigilasteis
+  uds: vigilaron
+preterito-imperfecto:
+  yo: vigilaba
+  tu: vigilabas
+  vos: vigilabas
+  ud: vigilaba
+  nosotros: vigilábamos
+  vosotros: vigilabais
+  uds: vigilaban
+futuro-simple:
+  yo: vigilaré
+  tu: vigilarás
+  vos: vigilarás
+  ud: vigilará
+  nosotros: vigilaremos
+  vosotros: vigilaréis
+  uds: vigilarán
+condicional-simple:
+  yo: vigilaría
+  tu: vigilarías
+  vos: vigilarías
+  ud: vigilaría
+  nosotros: vigilaríamos
+  vosotros: vigilaríais
+  uds: vigilarían
+presente-perfecto:
+  yo: he vigilado
+  tu: has vigilado
+  vos: has vigilado
+  ud: ha vigilado
+  nosotros: hemos vigilado
+  vosotros: habéis vigilado
+  uds: han vigilado
+preterito-pluscuamperfecto:
+  yo: había vigilado
+  tu: habías vigilado
+  vos: habías vigilado
+  ud: había vigilado
+  nosotros: habíamos vigilado
+  vosotros: habíais vigilado
+  uds: habían vigilado
+futuro-perfecto:
+  yo: habré vigilado
+  tu: habrás vigilado
+  vos: habrás vigilado
+  ud: habrá vigilado
+  nosotros: habremos vigilado
+  vosotros: habréis vigilado
+  uds: habrán vigilado
+condicional-perfecto:
+  yo: habría vigilado
+  tu: habrías vigilado
+  vos: habrías vigilado
+  ud: habría vigilado
+  nosotros: habríamos vigilado
+  vosotros: habríais vigilado
+  uds: habrían vigilado
+presente-subjuntivo:
+  yo: vigile
+  tu: vigiles
+  vos: vigiles
+  ud: vigile
+  nosotros: vigilemos
+  vosotros: vigiléis
+  uds: vigilen
+preterito-perfecto-subjuntivo:
+  yo: haya vigilado
+  tu: hayas vigilado
+  vos: hayas vigilado
+  ud: haya vigilado
+  nosotros: hayamos vigilado
+  vosotros: hayáis vigilado
+  uds: hayan vigilado
+imperfecto-subjuntivo:
+  yo:
+    - vigilara
+    - vigilase
+  tu:
+    - vigilaras
+    - vigilases
+  vos:
+    - vigilaras
+    - vigilases
+  ud:
+    - vigilara
+    - vigilase
+  nosotros:
+    - vigiláramos
+    - vigilásemos
+  vosotros:
+    - vigilarais
+    - vigilaseis
+  uds:
+    - vigilaran
+    - vigilasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vigilado
+    - hubiese vigilado
+  tu:
+    - hubieras vigilado
+    - hubieses vigilado
+  vos:
+    - hubieras vigilado
+    - hubieses vigilado
+  ud:
+    - hubiera vigilado
+    - hubiese vigilado
+  nosotros:
+    - hubiéramos vigilado
+    - hubiésemos vigilado
+  vosotros:
+    - hubierais vigilado
+    - hubieseis vigilado
+  uds:
+    - hubieran vigilado
+    - hubiesen vigilado
+imperativo:
+  tu: vigila
+  vos: vigilá
+  ud: vigile
+  nosotros: vigilemos
+  vosotros: vigilad
+  uds: vigilen

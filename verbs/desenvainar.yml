@@ -1,0 +1,142 @@
+infinitivo: desenvainar
+gerundio: desenvainando
+participio-pasado: desenvainado
+presente-indicativo:
+  yo: desenvaino
+  tu: desenvainas
+  vos: desenvainás
+  ud: desenvaina
+  nosotros: desenvainamos
+  vosotros: desenvaináis
+  uds: desenvainan
+preterito-perfecto-simple:
+  yo: desenvainé
+  tu: desenvainaste
+  vos: desenvainaste
+  ud: desenvainó
+  nosotros: desenvainamos
+  vosotros: desenvainasteis
+  uds: desenvainaron
+preterito-imperfecto:
+  yo: desenvainaba
+  tu: desenvainabas
+  vos: desenvainabas
+  ud: desenvainaba
+  nosotros: desenvainábamos
+  vosotros: desenvainabais
+  uds: desenvainaban
+futuro-simple:
+  yo: desenvainaré
+  tu: desenvainarás
+  vos: desenvainarás
+  ud: desenvainará
+  nosotros: desenvainaremos
+  vosotros: desenvainaréis
+  uds: desenvainarán
+condicional-simple:
+  yo: desenvainaría
+  tu: desenvainarías
+  vos: desenvainarías
+  ud: desenvainaría
+  nosotros: desenvainaríamos
+  vosotros: desenvainaríais
+  uds: desenvainarían
+presente-perfecto:
+  yo: he desenvainado
+  tu: has desenvainado
+  vos: has desenvainado
+  ud: ha desenvainado
+  nosotros: hemos desenvainado
+  vosotros: habéis desenvainado
+  uds: han desenvainado
+preterito-pluscuamperfecto:
+  yo: había desenvainado
+  tu: habías desenvainado
+  vos: habías desenvainado
+  ud: había desenvainado
+  nosotros: habíamos desenvainado
+  vosotros: habíais desenvainado
+  uds: habían desenvainado
+futuro-perfecto:
+  yo: habré desenvainado
+  tu: habrás desenvainado
+  vos: habrás desenvainado
+  ud: habrá desenvainado
+  nosotros: habremos desenvainado
+  vosotros: habréis desenvainado
+  uds: habrán desenvainado
+condicional-perfecto:
+  yo: habría desenvainado
+  tu: habrías desenvainado
+  vos: habrías desenvainado
+  ud: habría desenvainado
+  nosotros: habríamos desenvainado
+  vosotros: habríais desenvainado
+  uds: habrían desenvainado
+presente-subjuntivo:
+  yo: desenvaine
+  tu: desenvaines
+  vos: desenvaines
+  ud: desenvaine
+  nosotros: desenvainemos
+  vosotros: desenvainéis
+  uds: desenvainen
+preterito-perfecto-subjuntivo:
+  yo: haya desenvainado
+  tu: hayas desenvainado
+  vos: hayas desenvainado
+  ud: haya desenvainado
+  nosotros: hayamos desenvainado
+  vosotros: hayáis desenvainado
+  uds: hayan desenvainado
+imperfecto-subjuntivo:
+  yo:
+    - desenvainara
+    - desenvainase
+  tu:
+    - desenvainaras
+    - desenvainases
+  vos:
+    - desenvainaras
+    - desenvainases
+  ud:
+    - desenvainara
+    - desenvainase
+  nosotros:
+    - desenvaináramos
+    - desenvainásemos
+  vosotros:
+    - desenvainarais
+    - desenvainaseis
+  uds:
+    - desenvainaran
+    - desenvainasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desenvainado
+    - hubiese desenvainado
+  tu:
+    - hubieras desenvainado
+    - hubieses desenvainado
+  vos:
+    - hubieras desenvainado
+    - hubieses desenvainado
+  ud:
+    - hubiera desenvainado
+    - hubiese desenvainado
+  nosotros:
+    - hubiéramos desenvainado
+    - hubiésemos desenvainado
+  vosotros:
+    - hubierais desenvainado
+    - hubieseis desenvainado
+  uds:
+    - hubieran desenvainado
+    - hubiesen desenvainado
+imperativo:
+  tu: desenvaina
+  vos: desenvainá
+  ud: desenvaine
+  nosotros: desenvainemos
+  vosotros: desenvainad
+  uds: desenvainen

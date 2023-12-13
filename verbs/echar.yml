@@ -1,0 +1,142 @@
+infinitivo: echar
+gerundio: echando
+participio-pasado: echado
+presente-indicativo:
+  yo: echo
+  tu: echas
+  vos: echas
+  ud: echa
+  nosotros: echamos
+  vosotros: echáis
+  uds: echan
+preterito-perfecto-simple:
+  yo: eché
+  tu: echaste
+  vos: echaste
+  ud: echó
+  nosotros: echamos
+  vosotros: echasteis
+  uds: echaron
+preterito-imperfecto:
+  yo: echaba
+  tu: echabas
+  vos: echabas
+  ud: echaba
+  nosotros: echábamos
+  vosotros: echabais
+  uds: echaban
+futuro-simple:
+  yo: echaré
+  tu: echarás
+  vos: echarás
+  ud: echará
+  nosotros: echaremos
+  vosotros: echaréis
+  uds: echarán
+condicional-simple:
+  yo: echaría
+  tu: echarías
+  vos: echarías
+  ud: echaría
+  nosotros: echaríamos
+  vosotros: echaríais
+  uds: echarían
+presente-perfecto:
+  yo: he echado
+  tu: has echado
+  vos: has echado
+  ud: ha echado
+  nosotros: hemos echado
+  vosotros: habéis echado
+  uds: han echado
+preterito-pluscuamperfecto:
+  yo: había echado
+  tu: habías echado
+  vos: habías echado
+  ud: había echado
+  nosotros: habíamos echado
+  vosotros: habíais echado
+  uds: habían echado
+futuro-perfecto:
+  yo: habré echado
+  tu: habrás echado
+  vos: habrás echado
+  ud: habrá echado
+  nosotros: habremos echado
+  vosotros: habréis echado
+  uds: habrán echado
+condicional-perfecto:
+  yo: habría echado
+  tu: habrías echado
+  vos: habrías echado
+  ud: habría echado
+  nosotros: habríamos echado
+  vosotros: habríais echado
+  uds: habrían echado
+presente-subjuntivo:
+  yo: eche
+  tu: eches
+  vos: eches
+  ud: eche
+  nosotros: echemos
+  vosotros: echéis
+  uds: echen
+preterito-perfecto-subjuntivo:
+  yo: haya echado
+  tu: hayas echado
+  vos: hayas echado
+  ud: haya echado
+  nosotros: hayamos echado
+  vosotros: hayáis echado
+  uds: hayan echado
+imperfecto-subjuntivo:
+  yo:
+    - echara
+    - echase
+  tu:
+    - echaras
+    - echases
+  vos:
+    - echaras
+    - echases
+  ud:
+    - echara
+    - echase
+  nosotros:
+    - echáramos
+    - echásemos
+  vosotros:
+    - echarais
+    - echaseis
+  uds:
+    - echaran
+    - echasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera echado
+    - hubiese echado
+  tu:
+    - hubieras echado
+    - hubieses echado
+  vos:
+    - hubieras echado
+    - hubieses echado
+  ud:
+    - hubiera echado
+    - hubiese echado
+  nosotros:
+    - hubiéramos echado
+    - hubiésemos echado
+  vosotros:
+    - hubierais echado
+    - hubieseis echado
+  uds:
+    - hubieran echado
+    - hubiesen echado
+imperativo:
+  tu: echa
+  vos: echá
+  ud: eche
+  nosotros: echemos
+  vosotros: echad
+  uds: echen

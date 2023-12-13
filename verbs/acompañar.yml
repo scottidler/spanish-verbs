@@ -1,0 +1,142 @@
+infinitivo: acompañar
+gerundio: acompañando
+participio-pasado: acompañado
+presente-indicativo:
+  yo: acompaño
+  tu: acompañas
+  vos: acompañás
+  ud: acompaña
+  nosotros: acompañamos
+  vosotros: acompañáis
+  uds: acompañan
+preterito-perfecto-simple:
+  yo: acompañé
+  tu: acompañaste
+  vos: acompañaste
+  ud: acompañó
+  nosotros: acompañamos
+  vosotros: acompañasteis
+  uds: acompañaron
+preterito-imperfecto:
+  yo: acompañaba
+  tu: acompañabas
+  vos: acompañabas
+  ud: acompañaba
+  nosotros: acompañábamos
+  vosotros: acompañabais
+  uds: acompañaban
+futuro-simple:
+  yo: acompañaré
+  tu: acompañarás
+  vos: acompañarás
+  ud: acompañará
+  nosotros: acompañaremos
+  vosotros: acompañaréis
+  uds: acompañarán
+condicional-simple:
+  yo: acompañaría
+  tu: acompañarías
+  vos: acompañarías
+  ud: acompañaría
+  nosotros: acompañaríamos
+  vosotros: acompañaríais
+  uds: acompañarían
+presente-perfecto:
+  yo: he acompañado
+  tu: has acompañado
+  vos: has acompañado
+  ud: ha acompañado
+  nosotros: hemos acompañado
+  vosotros: habéis acompañado
+  uds: han acompañado
+preterito-pluscuamperfecto:
+  yo: había acompañado
+  tu: habías acompañado
+  vos: habías acompañado
+  ud: había acompañado
+  nosotros: habíamos acompañado
+  vosotros: habíais acompañado
+  uds: habían acompañado
+futuro-perfecto:
+  yo: habré acompañado
+  tu: habrás acompañado
+  vos: habrás acompañado
+  ud: habrá acompañado
+  nosotros: habremos acompañado
+  vosotros: habréis acompañado
+  uds: habrán acompañado
+condicional-perfecto:
+  yo: habría acompañado
+  tu: habrías acompañado
+  vos: habrías acompañado
+  ud: habría acompañado
+  nosotros: habríamos acompañado
+  vosotros: habríais acompañado
+  uds: habrían acompañado
+presente-subjuntivo:
+  yo: acompañe
+  tu: acompañes
+  vos: acompañes
+  ud: acompañe
+  nosotros: acompañemos
+  vosotros: acompañéis
+  uds: acompañen
+preterito-perfecto-subjuntivo:
+  yo: haya acompañado
+  tu: hayas acompañado
+  vos: hayas acompañado
+  ud: haya acompañado
+  nosotros: hayamos acompañado
+  vosotros: hayáis acompañado
+  uds: hayan acompañado
+imperfecto-subjuntivo:
+  yo:
+    - acompañara
+    - acompañase
+  tu:
+    - acompañaras
+    - acompañases
+  vos:
+    - acompañaras
+    - acompañases
+  ud:
+    - acompañara
+    - acompañase
+  nosotros:
+    - acompañáramos
+    - acompañásemos
+  vosotros:
+    - acompañarais
+    - acompañaseis
+  uds:
+    - acompañaran
+    - acompañasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acompañado
+    - hubiese acompañado
+  tu:
+    - hubieras acompañado
+    - hubieses acompañado
+  vos:
+    - hubieras acompañado
+    - hubieses acompañado
+  ud:
+    - hubiera acompañado
+    - hubiese acompañado
+  nosotros:
+    - hubiéramos acompañado
+    - hubiésemos acompañado
+  vosotros:
+    - hubierais acompañado
+    - hubieseis acompañado
+  uds:
+    - hubieran acompañado
+    - hubiesen acompañado
+imperativo:
+  tu: acompaña
+  vos: acompañá
+  ud: acompañe
+  nosotros: acompañemos
+  vosotros: acompañad
+  uds: acompañen

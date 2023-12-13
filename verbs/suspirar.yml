@@ -1,0 +1,142 @@
+infinitivo: suspirar
+gerundio: suspirando
+participio-pasado: suspirado
+presente-indicativo:
+  yo: suspiro
+  tu: suspiras
+  vos: suspirás
+  ud: suspira
+  nosotros: suspiramos
+  vosotros: suspiráis
+  uds: suspiran
+preterito-perfecto-simple:
+  yo: suspiré
+  tu: suspiraste
+  vos: suspiraste
+  ud: suspiró
+  nosotros: suspiramos
+  vosotros: suspirasteis
+  uds: suspiraron
+preterito-imperfecto:
+  yo: suspiraba
+  tu: suspirabas
+  vos: suspirabas
+  ud: suspiraba
+  nosotros: suspirábamos
+  vosotros: suspirabais
+  uds: suspiraban
+futuro-simple:
+  yo: suspiraré
+  tu: suspirarás
+  vos: suspirarás
+  ud: suspirará
+  nosotros: suspiraremos
+  vosotros: suspiraréis
+  uds: suspirarán
+condicional-simple:
+  yo: suspiraría
+  tu: suspirarías
+  vos: suspirarías
+  ud: suspiraría
+  nosotros: suspiraríamos
+  vosotros: suspiraríais
+  uds: suspirarían
+presente-perfecto:
+  yo: he suspirado
+  tu: has suspirado
+  vos: has suspirado
+  ud: ha suspirado
+  nosotros: hemos suspirado
+  vosotros: habéis suspirado
+  uds: han suspirado
+preterito-pluscuamperfecto:
+  yo: había suspirado
+  tu: habías suspirado
+  vos: habías suspirado
+  ud: había suspirado
+  nosotros: habíamos suspirado
+  vosotros: habíais suspirado
+  uds: habían suspirado
+futuro-perfecto:
+  yo: habré suspirado
+  tu: habrás suspirado
+  vos: habrás suspirado
+  ud: habrá suspirado
+  nosotros: habremos suspirado
+  vosotros: habréis suspirado
+  uds: habrán suspirado
+condicional-perfecto:
+  yo: habría suspirado
+  tu: habrías suspirado
+  vos: habrías suspirado
+  ud: habría suspirado
+  nosotros: habríamos suspirado
+  vosotros: habríais suspirado
+  uds: habrían suspirado
+presente-subjuntivo:
+  yo: suspire
+  tu: suspires
+  vos: suspires
+  ud: suspire
+  nosotros: suspiremos
+  vosotros: suspiréis
+  uds: suspiren
+preterito-perfecto-subjuntivo:
+  yo: haya suspirado
+  tu: hayas suspirado
+  vos: hayas suspirado
+  ud: haya suspirado
+  nosotros: hayamos suspirado
+  vosotros: hayáis suspirado
+  uds: hayan suspirado
+imperfecto-subjuntivo:
+  yo:
+    - suspirara
+    - suspirase
+  tu:
+    - suspiraras
+    - suspirases
+  vos:
+    - suspiraras
+    - suspirases
+  ud:
+    - suspirara
+    - suspirase
+  nosotros:
+    - suspiráramos
+    - suspirásemos
+  vosotros:
+    - suspirarais
+    - suspiraseis
+  uds:
+    - suspiraran
+    - suspirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera suspirado
+    - hubiese suspirado
+  tu:
+    - hubieras suspirado
+    - hubieses suspirado
+  vos:
+    - hubieras suspirado
+    - hubieses suspirado
+  ud:
+    - hubiera suspirado
+    - hubiese suspirado
+  nosotros:
+    - hubiéramos suspirado
+    - hubiésemos suspirado
+  vosotros:
+    - hubierais suspirado
+    - hubieseis suspirado
+  uds:
+    - hubieran suspirado
+    - hubiesen suspirado
+imperativo:
+  tu: suspira
+  vos: suspirá
+  ud: suspire
+  nosotros: suspiremos
+  vosotros: suspirad
+  uds: suspiren

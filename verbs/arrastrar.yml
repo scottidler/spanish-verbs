@@ -1,0 +1,142 @@
+infinitivo: arrastrar
+gerundio: arrastrando
+participio-pasado: arrastrado
+presente-indicativo:
+  yo: arrastro
+  tu: arrastras
+  vos: arrastras
+  ud: arrastra
+  nosotros: arrastramos
+  vosotros: arrastráis
+  uds: arrastran
+preterito-perfecto-simple:
+  yo: arrastré
+  tu: arrastraste
+  vos: arrastraste
+  ud: arrastró
+  nosotros: arrastramos
+  vosotros: arrastrasteis
+  uds: arrastraron
+preterito-imperfecto:
+  yo: arrastraba
+  tu: arrastrabas
+  vos: arrastrabas
+  ud: arrastraba
+  nosotros: arrastrábamos
+  vosotros: arrastrabais
+  uds: arrastraban
+futuro-simple:
+  yo: arrastraré
+  tu: arrastrarás
+  vos: arrastrarás
+  ud: arrastrará
+  nosotros: arrastraremos
+  vosotros: arrastraréis
+  uds: arrastrarán
+condicional-simple:
+  yo: arrastraría
+  tu: arrastrarías
+  vos: arrastrarías
+  ud: arrastraría
+  nosotros: arrastraríamos
+  vosotros: arrastraríais
+  uds: arrastrarían
+presente-perfecto:
+  yo: he arrastrado
+  tu: has arrastrado
+  vos: has arrastrado
+  ud: ha arrastrado
+  nosotros: hemos arrastrado
+  vosotros: habéis arrastrado
+  uds: han arrastrado
+preterito-pluscuamperfecto:
+  yo: había arrastrado
+  tu: habías arrastrado
+  vos: habías arrastrado
+  ud: había arrastrado
+  nosotros: habíamos arrastrado
+  vosotros: habíais arrastrado
+  uds: habían arrastrado
+futuro-perfecto:
+  yo: habré arrastrado
+  tu: habrás arrastrado
+  vos: habrás arrastrado
+  ud: habrá arrastrado
+  nosotros: habremos arrastrado
+  vosotros: habréis arrastrado
+  uds: habrán arrastrado
+condicional-perfecto:
+  yo: habría arrastrado
+  tu: habrías arrastrado
+  vos: habrías arrastrado
+  ud: habría arrastrado
+  nosotros: habríamos arrastrado
+  vosotros: habríais arrastrado
+  uds: habrían arrastrado
+presente-subjuntivo:
+  yo: arrastre
+  tu: arrastres
+  vos: arrastres
+  ud: arrastre
+  nosotros: arrastremos
+  vosotros: arrastréis
+  uds: arrastren
+preterito-perfecto-subjuntivo:
+  yo: haya arrastrado
+  tu: hayas arrastrado
+  vos: hayas arrastrado
+  ud: haya arrastrado
+  nosotros: hayamos arrastrado
+  vosotros: hayáis arrastrado
+  uds: hayan arrastrado
+imperfecto-subjuntivo:
+  yo: 
+    - arrastrara
+    - arrastrase
+  tu: 
+    - arrastraras
+    - arrastrases
+  vos: 
+    - arrastraras
+    - arrastrases
+  ud: 
+    - arrastrara
+    - arrastrase
+  nosotros: 
+    - arrastráramos
+    - arrastrásemos
+  vosotros: 
+    - arrastrarais
+    - arrastraseis
+  uds: 
+    - arrastraran
+    - arrastrasen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - hubiera arrastrado
+    - hubiese arrastrado
+  tu: 
+    - hubieras arrastrado
+    - hubieses arrastrado
+  vos:
+    - hubieras arrastrado
+    - hubieses arrastrado
+  ud: 
+    - hubiera arrastrado
+    - hubiese arrastrado
+  nosotros: 
+    - hubiéramos arrastrado
+    - hubiésemos arrastrado
+  vosotros: 
+    - hubierais arrastrado
+    - hubieseis arrastrado
+  uds: 
+    - hubieran arrastrado
+    - hubiesen arrastrado
+imperativo:
+  tu: arrastra
+  vos: arrastrá
+  ud: arrastre
+  nosotros: arrastremos
+  vosotros: arrastrad
+  uds: arrastren

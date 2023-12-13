@@ -1,0 +1,142 @@
+infinitivo: elevar
+gerundio: elevando
+participio-pasado: elevado
+presente-indicativo:
+  yo: elevo
+  tu: elevas
+  vos: elevas
+  ud: eleva
+  nosotros: elevamos
+  vosotros: eleváis
+  uds: elevan
+preterito-perfecto-simple:
+  yo: elevé
+  tu: elevaste
+  vos: elevaste
+  ud: elevó
+  nosotros: elevamos
+  vosotros: elevasteis
+  uds: elevaron
+preterito-imperfecto:
+  yo: elevaba
+  tu: elevabas
+  vos: elevabas
+  ud: elevaba
+  nosotros: elevábamos
+  vosotros: elevabais
+  uds: elevaban
+futuro-simple:
+  yo: elevaré
+  tu: elevarás
+  vos: elevarás
+  ud: elevará
+  nosotros: elevaremos
+  vosotros: elevaréis
+  uds: elevarán
+condicional-simple:
+  yo: elevaría
+  tu: elevarías
+  vos: elevarías
+  ud: elevaría
+  nosotros: elevaríamos
+  vosotros: elevaríais
+  uds: elevarían
+presente-perfecto:
+  yo: he elevado
+  tu: has elevado
+  vos: has elevado
+  ud: ha elevado
+  nosotros: hemos elevado
+  vosotros: habéis elevado
+  uds: han elevado
+preterito-pluscuamperfecto:
+  yo: había elevado
+  tu: habías elevado
+  vos: habías elevado
+  ud: había elevado
+  nosotros: habíamos elevado
+  vosotros: habíais elevado
+  uds: habían elevado
+futuro-perfecto:
+  yo: habré elevado
+  tu: habrás elevado
+  vos: habrás elevado
+  ud: habrá elevado
+  nosotros: habremos elevado
+  vosotros: habréis elevado
+  uds: habrán elevado
+condicional-perfecto:
+  yo: habría elevado
+  tu: habrías elevado
+  vos: habrías elevado
+  ud: habría elevado
+  nosotros: habríamos elevado
+  vosotros: habríais elevado
+  uds: habrían elevado
+presente-subjuntivo:
+  yo: eleve
+  tu: eleves
+  vos: eleves
+  ud: eleve
+  nosotros: elevemos
+  vosotros: elevéis
+  uds: eleven
+preterito-perfecto-subjuntivo:
+  yo: haya elevado
+  tu: hayas elevado
+  vos: hayas elevado
+  ud: haya elevado
+  nosotros: hayamos elevado
+  vosotros: hayáis elevado
+  uds: hayan elevado
+imperfecto-subjuntivo:
+  yo:
+    - elevara
+    - elevase
+  tu:
+    - elevaras
+    - elevases
+  vos:
+    - elevaras
+    - elevases
+  ud:
+    - elevara
+    - elevase
+  nosotros:
+    - eleváramos
+    - elevásemos
+  vosotros:
+    - elevarais
+    - elevaseis
+  uds:
+    - elevaran
+    - elevasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera elevado
+    - hubiese elevado
+  tu:
+    - hubieras elevado
+    - hubieses elevado
+  vos:
+    - hubieras elevado
+    - hubieses elevado
+  ud:
+    - hubiera elevado
+    - hubiese elevado
+  nosotros:
+    - hubiéramos elevado
+    - hubiésemos elevado
+  vosotros:
+    - hubierais elevado
+    - hubieseis elevado
+  uds:
+    - hubieran elevado
+    - hubiesen elevado
+imperativo:
+  tu: eleva
+  vos: elevá
+  ud: eleve
+  nosotros: elevemos
+  vosotros: elevad
+  uds: eleven

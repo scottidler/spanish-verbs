@@ -1,0 +1,142 @@
+infinitivo: salir
+gerundio: saliendo
+participio-pasado: salido
+presente-indicativo:
+  yo: salgo
+  tu: sales
+  vos: sales
+  ud: sale
+  nosotros: salimos
+  vosotros: salís
+  uds: salen
+preterito-perfecto-simple:
+  yo: salí
+  tu: saliste
+  vos: saliste
+  ud: salió
+  nosotros: salimos
+  vosotros: salisteis
+  uds: salieron
+preterito-imperfecto:
+  yo: salía
+  tu: salías
+  vos: salías
+  ud: salía
+  nosotros: salíamos
+  vosotros: salíais
+  uds: salían
+futuro-simple:
+  yo: saldré
+  tu: saldrás
+  vos: saldrás
+  ud: saldrá
+  nosotros: saldremos
+  vosotros: saldréis
+  uds: saldrán
+condicional-simple:
+  yo: saldría
+  tu: saldrías
+  vos: saldrías
+  ud: saldría
+  nosotros: saldríamos
+  vosotros: saldríais
+  uds: saldrían
+presente-perfecto:
+  yo: he salido
+  tu: has salido
+  vos: has salido
+  ud: ha salido
+  nosotros: hemos salido
+  vosotros: habéis salido
+  uds: han salido
+preterito-pluscuamperfecto:
+  yo: había salido
+  tu: habías salido
+  vos: habías salido
+  ud: había salido
+  nosotros: habíamos salido
+  vosotros: habíais salido
+  uds: habían salido
+futuro-perfecto:
+  yo: habré salido
+  tu: habrás salido
+  vos: habrás salido
+  ud: habrá salido
+  nosotros: habremos salido
+  vosotros: habréis salido
+  uds: habrán salido
+condicional-perfecto:
+  yo: habría salido
+  tu: habrías salido
+  vos: habrías salido
+  ud: habría salido
+  nosotros: habríamos salido
+  vosotros: habríais salido
+  uds: habrían salido
+presente-subjuntivo:
+  yo: salga
+  tu: salgas
+  vos: salgas
+  ud: salga
+  nosotros: salgamos
+  vosotros: salgáis
+  uds: salgan
+preterito-perfecto-subjuntivo:
+  yo: haya salido
+  tu: hayas salido
+  vos: hayas salido
+  ud: haya salido
+  nosotros: hayamos salido
+  vosotros: hayáis salido
+  uds: hayan salido
+imperfecto-subjuntivo:
+  yo:
+    - saliera
+    - saliese
+  tu:
+    - salieras
+    - salieses
+  vos:
+    - salieras
+    - salieses
+  ud:
+    - saliera
+    - saliese
+  nosotros:
+    - saliéramos
+    - saliésemos
+  vosotros:
+    - salierais
+    - salieseis
+  uds:
+    - salieran
+    - saliesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera salido
+    - hubiese salido
+  tu:
+    - hubieras salido
+    - hubieses salido
+  vos:
+    - hubieras salido
+    - hubieses salido
+  ud:
+    - hubiera salido
+    - hubiese salido
+  nosotros:
+    - hubiéramos salido
+    - hubiésemos salido
+  vosotros:
+    - hubierais salido
+    - hubieseis salido
+  uds:
+    - hubieran salido
+    - hubiesen salido
+imperativo:
+  tu: sal
+  vos: salí
+  ud: salga
+  nosotros: salgamos
+  vosotros: salid
+  uds: salgan

@@ -1,0 +1,142 @@
+infinitivo: existir
+gerundio: existiendo
+participio-pasado: existido
+presente-indicativo:
+  yo: existo
+  tu: existes
+  vos: existís
+  ud: existe
+  nosotros: existimos
+  vosotros: existís
+  uds: existen
+preterito-perfecto-simple:
+  yo: existí
+  tu: exististe
+  vos: exististe
+  ud: existió
+  nosotros: existimos
+  vosotros: exististeis
+  uds: existieron
+preterito-imperfecto:
+  yo: existía
+  tu: existías
+  vos: existías
+  ud: existía
+  nosotros: existíamos
+  vosotros: existíais
+  uds: existían
+futuro-simple:
+  yo: existiré
+  tu: existirás
+  vos: existirás
+  ud: existirá
+  nosotros: existiremos
+  vosotros: existiréis
+  uds: existirán
+condicional-simple:
+  yo: existiría
+  tu: existirías
+  vos: existirías
+  ud: existiría
+  nosotros: existiríamos
+  vosotros: existiríais
+  uds: existirían
+presente-perfecto:
+  yo: he existido
+  tu: has existido
+  vos: has existido
+  ud: ha existido
+  nosotros: hemos existido
+  vosotros: habéis existido
+  uds: han existido
+preterito-pluscuamperfecto:
+  yo: había existido
+  tu: habías existido
+  vos: habías existido
+  ud: había existido
+  nosotros: habíamos existido
+  vosotros: habíais existido
+  uds: habían existido
+futuro-perfecto:
+  yo: habré existido
+  tu: habrás existido
+  vos: habrás existido
+  ud: habrá existido
+  nosotros: habremos existido
+  vosotros: habréis existido
+  uds: habrán existido
+condicional-perfecto:
+  yo: habría existido
+  tu: habrías existido
+  vos: habrías existido
+  ud: habría existido
+  nosotros: habríamos existido
+  vosotros: habríais existido
+  uds: habrían existido
+presente-subjuntivo:
+  yo: exista
+  tu: existas
+  vos: existas
+  ud: exista
+  nosotros: existamos
+  vosotros: existáis
+  uds: existan
+preterito-perfecto-subjuntivo:
+  yo: haya existido
+  tu: hayas existido
+  vos: hayas existido
+  ud: haya existido
+  nosotros: hayamos existido
+  vosotros: hayáis existido
+  uds: hayan existido
+imperfecto-subjuntivo:
+  yo:
+    - existiera
+    - existiese
+  tu:
+    - existieras
+    - existieses
+  vos:
+    - existieras
+    - existieses
+  ud:
+    - existiera
+    - existiese
+  nosotros:
+    - existiéramos
+    - existiésemos
+  vosotros:
+    - existierais
+    - existieseis
+  uds:
+    - existieran
+    - existiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera existido
+    - hubiese existido
+  tu:
+    - hubieras existido
+    - hubieses existido
+  vos:
+    - hubieras existido
+    - hubieses existido
+  ud:
+    - hubiera existido
+    - hubiese existido
+  nosotros:
+    - hubiéramos existido
+    - hubiésemos existido
+  vosotros:
+    - hubierais existido
+    - hubieseis existido
+  uds:
+    - hubieran existido
+    - hubiesen existido
+imperativo:
+  tu: existe
+  vos: existí
+  ud: exista
+  nosotros: existamos
+  vosotros: existid
+  uds: existan

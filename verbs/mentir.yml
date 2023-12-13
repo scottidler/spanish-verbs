@@ -1,0 +1,142 @@
+infinitivo: mentir
+gerundio: mintiendo
+participio-pasado: mentido
+presente-indicativo:
+  yo: miento
+  tu: mientes
+  vos: mentís
+  ud: miente
+  nosotros: mentimos
+  vosotros: mentís
+  uds: mienten
+preterito-perfecto-simple:
+  yo: mentí
+  tu: mentiste
+  vos: mentiste
+  ud: mintió
+  nosotros: mentimos
+  vosotros: mentisteis
+  uds: mintieron
+preterito-imperfecto:
+  yo: mentía
+  tu: mentías
+  vos: mentías
+  ud: mentía
+  nosotros: mentíamos
+  vosotros: mentíais
+  uds: mentían
+futuro-simple:
+  yo: mentiré
+  tu: mentirás
+  vos: mentirás
+  ud: mentirá
+  nosotros: mentiremos
+  vosotros: mentiréis
+  uds: mentirán
+condicional-simple:
+  yo: mentiría
+  tu: mentirías
+  vos: mentirías
+  ud: mentiría
+  nosotros: mentiríamos
+  vosotros: mentiríais
+  uds: mentirían
+presente-perfecto:
+  yo: he mentido
+  tu: has mentido
+  vos: has mentido
+  ud: ha mentido
+  nosotros: hemos mentido
+  vosotros: habéis mentido
+  uds: han mentido
+preterito-pluscuamperfecto:
+  yo: había mentido
+  tu: habías mentido
+  vos: habías mentido
+  ud: había mentido
+  nosotros: habíamos mentido
+  vosotros: habíais mentido
+  uds: habían mentido
+futuro-perfecto:
+  yo: habré mentido
+  tu: habrás mentido
+  vos: habrás mentido
+  ud: habrá mentido
+  nosotros: habremos mentido
+  vosotros: habréis mentido
+  uds: habrán mentido
+condicional-perfecto:
+  yo: habría mentido
+  tu: habrías mentido
+  vos: habrías mentido
+  ud: habría mentido
+  nosotros: habríamos mentido
+  vosotros: habríais mentido
+  uds: habrían mentido
+presente-subjuntivo:
+  yo: mienta
+  tu: mientas
+  vos: mientas
+  ud: mienta
+  nosotros: mintamos
+  vosotros: mintáis
+  uds: mientan
+preterito-perfecto-subjuntivo:
+  yo: haya mentido
+  tu: hayas mentido
+  vos: hayas mentido
+  ud: haya mentido
+  nosotros: hayamos mentido
+  vosotros: hayáis mentido
+  uds: hayan mentido
+imperfecto-subjuntivo:
+  yo:
+    - mintiera
+    - mintiese
+  tu:
+    - mintieras
+    - mintieses
+  vos:
+    - mintieras
+    - mintieses
+  ud:
+    - mintiera
+    - mintiese
+  nosotros:
+    - mintiéramos
+    - mintiésemos
+  vosotros:
+    - mintierais
+    - mintieseis
+  uds:
+    - mintieran
+    - mintiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mentido
+    - hubiese mentido
+  tu:
+    - hubieras mentido
+    - hubieses mentido
+  vos:
+    - hubieras mentido
+    - hubieses mentido
+  ud:
+    - hubiera mentido
+    - hubiese mentido
+  nosotros:
+    - hubiéramos mentido
+    - hubiésemos mentido
+  vosotros:
+    - hubierais mentido
+    - hubieseis mentido
+  uds:
+    - hubieran mentido
+    - hubiesen mentido
+imperativo:
+  tu: miente
+  vos: mintí
+  ud: mienta
+  nosotros: mintamos
+  vosotros: mentid
+  uds: mientan

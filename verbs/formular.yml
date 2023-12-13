@@ -1,0 +1,142 @@
+infinitivo: formular
+gerundio: formulando
+participio-pasado: formulado
+presente-indicativo:
+  yo: formulo
+  tu: formulas
+  vos: formulas
+  ud: formula
+  nosotros: formulamos
+  vosotros: formuláis
+  uds: formulan
+preterito-perfecto-simple:
+  yo: formulé
+  tu: formulaste
+  vos: formulaste
+  ud: formuló
+  nosotros: formulamos
+  vosotros: formulasteis
+  uds: formularon
+preterito-imperfecto:
+  yo: formulaba
+  tu: formulabas
+  vos: formulabas
+  ud: formulaba
+  nosotros: formulábamos
+  vosotros: formulabais
+  uds: formulaban
+futuro-simple:
+  yo: formularé
+  tu: formularás
+  vos: formularás
+  ud: formulará
+  nosotros: formularemos
+  vosotros: formularéis
+  uds: formularán
+condicional-simple:
+  yo: formularía
+  tu: formularías
+  vos: formularías
+  ud: formularía
+  nosotros: formularíamos
+  vosotros: formularíais
+  uds: formularían
+presente-perfecto:
+  yo: he formulado
+  tu: has formulado
+  vos: has formulado
+  ud: ha formulado
+  nosotros: hemos formulado
+  vosotros: habéis formulado
+  uds: han formulado
+preterito-pluscuamperfecto:
+  yo: había formulado
+  tu: habías formulado
+  vos: habías formulado
+  ud: había formulado
+  nosotros: habíamos formulado
+  vosotros: habíais formulado
+  uds: habían formulado
+futuro-perfecto:
+  yo: habré formulado
+  tu: habrás formulado
+  vos: habrás formulado
+  ud: habrá formulado
+  nosotros: habremos formulado
+  vosotros: habréis formulado
+  uds: habrán formulado
+condicional-perfecto:
+  yo: habría formulado
+  tu: habrías formulado
+  vos: habrías formulado
+  ud: habría formulado
+  nosotros: habríamos formulado
+  vosotros: habríais formulado
+  uds: habrían formulado
+presente-subjuntivo:
+  yo: formule
+  tu: formules
+  vos: formules
+  ud: formule
+  nosotros: formulemos
+  vosotros: formuléis
+  uds: formulen
+preterito-perfecto-subjuntivo:
+  yo: haya formulado
+  tu: hayas formulado
+  vos: hayas formulado
+  ud: haya formulado
+  nosotros: hayamos formulado
+  vosotros: hayáis formulado
+  uds: hayan formulado
+imperfecto-subjuntivo:
+  yo:
+    - formulara
+    - formularase
+  tu:
+    - formularas
+    - formularases
+  vos:
+    - formularas
+    - formularases
+  ud:
+    - formulara
+    - formularase
+  nosotros:
+    - formuláramos
+    - formulásemos
+  vosotros:
+    - formularais
+    - formularaseis
+  uds:
+    - formularan
+    - formulasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera formulado
+    - hubiese formulado
+  tu:
+    - hubieras formulado
+    - hubieses formulado
+  vos:
+    - hubieras formulado
+    - hubieses formulado
+  ud:
+    - hubiera formulado
+    - hubiese formulado
+  nosotros:
+    - hubiéramos formulado
+    - hubiésemos formulado
+  vosotros:
+    - hubierais formulado
+    - hubieseis formulado
+  uds:
+    - hubieran formulado
+    - hubiesen formulado
+imperativo:
+  tu: formula
+  vos: formulá
+  ud: formule
+  nosotros: formulemos
+  vosotros: formulad
+  uds: formulen

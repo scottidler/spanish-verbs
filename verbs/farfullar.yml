@@ -1,0 +1,142 @@
+infinitivo: farfullar
+gerundio: farfullando
+participio-pasado: farfullado
+presente-indicativo:
+  yo: farfullo
+  tu: farfullas
+  vos: farfullas
+  ud: farfulla
+  nosotros: farfullamos
+  vosotros: farfulláis
+  uds: farfullan
+preterito-perfecto-simple:
+  yo: farfullé
+  tu: farfullaste
+  vos: farfullaste
+  ud: farfulló
+  nosotros: farfullamos
+  vosotros: farfullasteis
+  uds: farfullaron
+preterito-imperfecto:
+  yo: farfullaba
+  tu: farfullabas
+  vos: farfullabas
+  ud: farfullaba
+  nosotros: farfullábamos
+  vosotros: farfullabais
+  uds: farfullaban
+futuro-simple:
+  yo: farfullaré
+  tu: farfullarás
+  vos: farfullarás
+  ud: farfullará
+  nosotros: farfullaremos
+  vosotros: farfullaréis
+  uds: farfullarán
+condicional-simple:
+  yo: farfullaría
+  tu: farfullarías
+  vos: farfullarías
+  ud: farfullaría
+  nosotros: farfullaríamos
+  vosotros: farfullaríais
+  uds: farfullarían
+presente-perfecto:
+  yo: he farfullado
+  tu: has farfullado
+  vos: has farfullado
+  ud: ha farfullado
+  nosotros: hemos farfullado
+  vosotros: habéis farfullado
+  uds: han farfullado
+preterito-pluscuamperfecto:
+  yo: había farfullado
+  tu: habías farfullado
+  vos: habías farfullado
+  ud: había farfullado
+  nosotros: habíamos farfullado
+  vosotros: habíais farfullado
+  uds: habían farfullado
+futuro-perfecto:
+  yo: habré farfullado
+  tu: habrás farfullado
+  vos: habrás farfullado
+  ud: habrá farfullado
+  nosotros: habremos farfullado
+  vosotros: habréis farfullado
+  uds: habrán farfullado
+condicional-perfecto:
+  yo: habría farfullado
+  tu: habrías farfullado
+  vos: habrías farfullado
+  ud: habría farfullado
+  nosotros: habríamos farfullado
+  vosotros: habríais farfullado
+  uds: habrían farfullado
+presente-subjuntivo:
+  yo: farfulle
+  tu: farfulles
+  vos: farfulles
+  ud: farfulle
+  nosotros: farfullemos
+  vosotros: farfulléis
+  uds: farfullen
+preterito-perfecto-subjuntivo:
+  yo: haya farfullado
+  tu: hayas farfullado
+  vos: hayas farfullado
+  ud: haya farfullado
+  nosotros: hayamos farfullado
+  vosotros: hayáis farfullado
+  uds: hayan farfullado
+imperfecto-subjuntivo:
+  yo:
+    - farfullara
+    - farfullase
+  tu:
+    - farfullaras
+    - farfullases
+  vos:
+    - farfullaras
+    - farfullases
+  ud:
+    - farfullara
+    - farfullase
+  nosotros:
+    - farfulláramos
+    - farfullásemos
+  vosotros:
+    - farfullarais
+    - farfullaseis
+  uds:
+    - farfullaran
+    - farfullasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera farfullado
+    - hubiese farfullado
+  tu:
+    - hubieras farfullado
+    - hubieses farfullado
+  vos:
+    - hubieras farfullado
+    - hubieses farfullado
+  ud:
+    - hubiera farfullado
+    - hubiese farfullado
+  nosotros:
+    - hubiéramos farfullado
+    - hubiésemos farfullado
+  vosotros:
+    - hubierais farfullado
+    - hubieseis farfullado
+  uds:
+    - hubieran farfullado
+    - hubiesen farfullado
+imperativo:
+  tu: farfulla
+  vos: farfullá
+  ud: farulle
+  nosotros: farfullemos
+  vosotros: farfullad
+  uds: farfullen

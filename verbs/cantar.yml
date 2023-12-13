@@ -1,0 +1,142 @@
+infinitivo: cantar
+gerundio: cantando
+participio-pasado: cantado
+presente-indicativo:
+  yo: canto
+  tu: cantas
+  vos: cantás
+  ud: canta
+  nosotros: cantamos
+  vosotros: cantáis
+  uds: cantan
+preterito-perfecto-simple:
+  yo: canté
+  tu: cantaste
+  vos: cantaste
+  ud: cantó
+  nosotros: cantamos
+  vosotros: cantasteis
+  uds: cantaron
+preterito-imperfecto:
+  yo: cantaba
+  tu: cantabas
+  vos: cantabas
+  ud: cantaba
+  nosotros: cantábamos
+  vosotros: cantabais
+  uds: cantaban
+futuro-simple:
+  yo: cantaré
+  tu: cantarás
+  vos: cantarás
+  ud: cantará
+  nosotros: cantaremos
+  vosotros: cantaréis
+  uds: cantarán
+condicional-simple:
+  yo: cantaría
+  tu: cantarías
+  vos: cantarías
+  ud: cantaría
+  nosotros: cantaríamos
+  vosotros: cantaríais
+  uds: cantarían
+presente-perfecto:
+  yo: he cantado
+  tu: has cantado
+  vos: has cantado
+  ud: ha cantado
+  nosotros: hemos cantado
+  vosotros: habéis cantado
+  uds: han cantado
+preterito-pluscuamperfecto:
+  yo: había cantado
+  tu: habías cantado
+  vos: habías cantado
+  ud: había cantado
+  nosotros: habíamos cantado
+  vosotros: habíais cantado
+  uds: habían cantado
+futuro-perfecto:
+  yo: habré cantado
+  tu: habrás cantado
+  vos: habrás cantado
+  ud: habrá cantado
+  nosotros: habremos cantado
+  vosotros: habréis cantado
+  uds: habrán cantado
+condicional-perfecto:
+  yo: habría cantado
+  tu: habrías cantado
+  vos: habrías cantado
+  ud: habría cantado
+  nosotros: habríamos cantado
+  vosotros: habríais cantado
+  uds: habrían cantado
+presente-subjuntivo:
+  yo: cante
+  tu: cantes
+  vos: cantes
+  ud: cante
+  nosotros: cantemos
+  vosotros: cantéis
+  uds: canten
+preterito-perfecto-subjuntivo:
+  yo: haya cantado
+  tu: hayas cantado
+  vos: hayas cantado
+  ud: haya cantado
+  nosotros: hayamos cantado
+  vosotros: hayáis cantado
+  uds: hayan cantado
+imperfecto-subjuntivo:
+  yo:
+    - cantara
+    - cantase
+  tu:
+    - cantaras
+    - cantases
+  vos:
+    - cantaras
+    - cantases
+  ud:
+    - cantara
+    - cantase
+  nosotros:
+    - cantáramos
+    - cantásemos
+  vosotros:
+    - cantarais
+    - cantaseis
+  uds:
+    - cantaran
+    - cantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cantado
+    - hubiese cantado
+  tu:
+    - hubieras cantado
+    - hubieses cantado
+  vos:
+    - hubieras cantado
+    - hubieses cantado
+  ud:
+    - hubiera cantado
+    - hubiese cantado
+  nosotros:
+    - hubiéramos cantado
+    - hubiésemos cantado
+  vosotros:
+    - hubierais cantado
+    - hubieseis cantado
+  uds:
+    - hubieran cantado
+    - hubiesen cantado
+imperativo:
+  tu: canta
+  vos: cantá
+  ud: cante
+  nosotros: cantemos
+  vosotros: cantad
+  uds: canten

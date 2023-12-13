@@ -1,0 +1,142 @@
+infinitivo: planear
+gerundio: planeando
+participio-pasado: planificado
+presente-indicativo:
+  yo: planifico
+  tu: planificas
+  vos: planificás
+  ud: planifica
+  nosotros: planificamos
+  vosotros: planificáis
+  uds: planifican
+preterito-perfecto-simple:
+  yo: planifiqué
+  tu: planificaste
+  vos: planificaste
+  ud: planificó
+  nosotros: planificamos
+  vosotros: planificasteis
+  uds: planificaron
+preterito-imperfecto:
+  yo: planificaba
+  tu: planificabas
+  vos: planificabas
+  ud: planificaba
+  nosotros: planificábamos
+  vosotros: planificabais
+  uds: planificaban
+futuro-simple:
+  yo: planificaré
+  tu: planificarás
+  vos: planificarás
+  ud: planificará
+  nosotros: planificaremos
+  vosotros: planificaréis
+  uds: planificarán
+condicional-simple:
+  yo: planificaría
+  tu: planificarías
+  vos: planificarías
+  ud: planificaría
+  nosotros: planificaríamos
+  vosotros: planificaríais
+  uds: planificarían
+presente-perfecto:
+  yo: he planificado
+  tu: has planificado
+  vos: has planificado
+  ud: ha planificado
+  nosotros: hemos planificado
+  vosotros: habéis planificado
+  uds: han planificado
+preterito-pluscuamperfecto:
+  yo: había planificado
+  tu: habías planificado
+  vos: habías planificado
+  ud: había planificado
+  nosotros: habíamos planificado
+  vosotros: habíais planificado
+  uds: habían planificado
+futuro-perfecto:
+  yo: habré planificado
+  tu: habrás planificado
+  vos: habrás planificado
+  ud: habrá planificado
+  nosotros: habremos planificado
+  vosotros: habréis planificado
+  uds: habrán planificado
+condicional-perfecto:
+  yo: habría planificado
+  tu: habrías planificado
+  vos: habrías planificado
+  ud: habría planificado
+  nosotros: habríamos planificado
+  vosotros: habríais planificado
+  uds: habrían planificado
+presente-subjuntivo:
+  yo: planifique
+  tu: planifiques
+  vos: planifiques
+  ud: planifique
+  nosotros: planifiquemos
+  vosotros: planifiquéis
+  uds: planifiquen
+preterito-perfecto-subjuntivo:
+  yo: haya planificado
+  tu: hayas planificado
+  vos: hayas planificado
+  ud: haya planificado
+  nosotros: hayamos planificado
+  vosotros: hayáis planificado
+  uds: hayan planificado
+imperfecto-subjuntivo:
+  yo:
+    - planificara
+    - planificase
+  tu:
+    - planificaras
+    - planificases
+  vos:
+    - planificaras
+    - planificases
+  ud:
+    - planificara
+    - planificase
+  nosotros:
+    - planificáramos
+    - planificásemos
+  vosotros:
+    - planificarais
+    - planificaseis
+  uds:
+    - planificaran
+    - planificasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera planificado
+    - hubiese planificado
+  tu:
+    - hubieras planificado
+    - hubieses planificado
+  vos:
+    - hubieras planificado
+    - hubieses planificado
+  ud:
+    - hubiera planificado
+    - hubiese planificado
+  nosotros:
+    - hubiéramos planificado
+    - hubiésemos planificado
+  vosotros:
+    - hubierais planificado
+    - hubieseis planificado
+  uds:
+    - hubieran planificado
+    - hubiesen planificado
+imperativo:
+  tu: planifica
+  vos: planificá
+  ud: planifique
+  nosotros: planifiquemos
+  vosotros: planificad
+  uds: planifiquen

@@ -1,0 +1,142 @@
+infinitivo: colgar
+gerundio: colgando
+participio-pasado: colgado
+presente-indicativo:
+  yo: cuelgo
+  tu: cuelgas
+  vos: colgás
+  ud: cuelga
+  nosotros: colgamos
+  vosotros: colgáis
+  uds: cuelgan
+preterito-perfecto-simple:
+  yo: colgué
+  tu: colgaste
+  vos: colgaste
+  ud: colgó
+  nosotros: colgamos
+  vosotros: colgasteis
+  uds: colgaron
+preterito-imperfecto:
+  yo: colgaba
+  tu: colgabas
+  vos: colgabas
+  ud: colgaba
+  nosotros: colgábamos
+  vosotros: colgabais
+  uds: colgaban
+futuro-simple:
+  yo: colgaré
+  tu: colgarás
+  vos: colgarás
+  ud: colgará
+  nosotros: colgaremos
+  vosotros: colgaréis
+  uds: colgarán
+condicional-simple:
+  yo: colgaría
+  tu: colgarías
+  vos: colgarías
+  ud: colgaría
+  nosotros: colgaríamos
+  vosotros: colgaríais
+  uds: colgarían
+presente-perfecto:
+  yo: he colgado
+  tu: has colgado
+  vos: has colgado
+  ud: ha colgado
+  nosotros: hemos colgado
+  vosotros: habéis colgado
+  uds: han colgado
+preterito-pluscuamperfecto:
+  yo: había colgado
+  tu: habías colgado
+  vos: habías colgado
+  ud: había colgado
+  nosotros: habíamos colgado
+  vosotros: habíais colgado
+  uds: habían colgado
+futuro-perfecto:
+  yo: habré colgado
+  tu: habrás colgado
+  vos: habrás colgado
+  ud: habrá colgado
+  nosotros: habremos colgado
+  vosotros: habréis colgado
+  uds: habrán colgado
+condicional-perfecto:
+  yo: habría colgado
+  tu: habrías colgado
+  vos: habrías colgado
+  ud: habría colgado
+  nosotros: habríamos colgado
+  vosotros: habríais colgado
+  uds: habrían colgado
+presente-subjuntivo:
+  yo: cuelgue
+  tu: cuelgues
+  vos: cuelgues
+  ud: cuelgue
+  nosotros: colguemos
+  vosotros: colguéis
+  uds: cuelguen
+preterito-perfecto-subjuntivo:
+  yo: haya colgado
+  tu: hayas colgado
+  vos: hayas colgado
+  ud: haya colgado
+  nosotros: hayamos colgado
+  vosotros: hayáis colgado
+  uds: hayan colgado
+imperfecto-subjuntivo:
+  yo:
+    - colgara
+    - colgase
+  tu:
+    - colgaras
+    - colgases
+  vos:
+    - colgaras
+    - colgases
+  ud:
+    - colgara
+    - colgase
+  nosotros:
+    - colgáramos
+    - colgásemos
+  vosotros:
+    - colgarais
+    - colgaseis
+  uds:
+    - colgaran
+    - colgasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera colgado
+    - hubiese colgado
+  tu:
+    - hubieras colgado
+    - hubieses colgado
+  vos:
+    - hubieras colgado
+    - hubieses colgado
+  ud:
+    - hubiera colgado
+    - hubiese colgado
+  nosotros:
+    - hubiéramos colgado
+    - hubiésemos colgado
+  vosotros:
+    - hubierais colgado
+    - hubieseis colgado
+  uds:
+    - hubieran colgado
+    - hubiesen colgado
+imperativo:
+  tu: cuelga
+  vos: colgá
+  ud: cuelgue
+  nosotros: colguemos
+  vosotros: colgad
+  uds: cuelguen

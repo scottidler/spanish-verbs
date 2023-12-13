@@ -1,0 +1,142 @@
+infinitivo: sisear
+gerundio: siseando
+participio-pasado: siseado
+presente-indicativo:
+  yo: siseo
+  tu: siseas
+  vos: siseas
+  ud: sisea
+  nosotros: siseamos
+  vosotros: siseáis
+  uds: sisean
+preterito-perfecto-simple:
+  yo: siseé
+  tu: siseaste
+  vos: siseaste
+  ud: siseó
+  nosotros: siseamos
+  vosotros: siseasteis
+  uds: sisearon
+preterito-imperfecto:
+  yo: siseaba
+  tu: siseabas
+  vos: siseabas
+  ud: siseaba
+  nosotros: siseábamos
+  vosotros: siseabais
+  uds: siseaban
+futuro-simple:
+  yo: sisearé
+  tu: sisearás
+  vos: sisearás
+  ud: siseará
+  nosotros: sisearemos
+  vosotros: sisearéis
+  uds: sisearán
+condicional-simple:
+  yo: sisearía
+  tu: sisearías
+  vos: sisearías
+  ud: sisearía
+  nosotros: sisearíamos
+  vosotros: sisearíais
+  uds: sisearían
+presente-perfecto:
+  yo: he siseado
+  tu: has siseado
+  vos: has siseado
+  ud: ha siseado
+  nosotros: hemos siseado
+  vosotros: habéis siseado
+  uds: han siseado
+preterito-pluscuamperfecto:
+  yo: había siseado
+  tu: habías siseado
+  vos: habías siseado
+  ud: había siseado
+  nosotros: habíamos siseado
+  vosotros: habíais siseado
+  uds: habían siseado
+futuro-perfecto:
+  yo: habré siseado
+  tu: habrás siseado
+  vos: habrás siseado
+  ud: habrá siseado
+  nosotros: habremos siseado
+  vosotros: habréis siseado
+  uds: habrán siseado
+condicional-perfecto:
+  yo: habría siseado
+  tu: habrías siseado
+  vos: habrías siseado
+  ud: habría siseado
+  nosotros: habríamos siseado
+  vosotros: habríais siseado
+  uds: habrían siseado
+presente-subjuntivo:
+  yo: sisee
+  tu: sisees
+  vos: sisees
+  ud: sisee
+  nosotros: siseemos
+  vosotros: siseéis
+  uds: siseen
+preterito-perfecto-subjuntivo:
+  yo: haya siseado
+  tu: hayas siseado
+  vos: hayas siseado
+  ud: haya siseado
+  nosotros: hayamos siseado
+  vosotros: hayáis siseado
+  uds: hayan siseado
+imperfecto-subjuntivo:
+  yo:
+    - siseara
+    - sisease
+  tu:
+    - sisearas
+    - siseases
+  vos:
+    - sisearas
+    - siseases
+  ud:
+    - siseara
+    - sisease
+  nosotros:
+    - siseáramos
+    - siseásemos
+  vosotros:
+    - sisearais
+    - siseaseis
+  uds:
+    - sisearan
+    - siseasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera siseado
+    - hubiese siseado
+  tu:
+    - hubieras siseado
+    - hubieses siseado
+  vos:
+    - hubieras siseado
+    - hubieses siseado
+  ud:
+    - hubiera siseado
+    - hubiese siseado
+  nosotros:
+    - hubiéramos siseado
+    - hubiésemos siseado
+  vosotros:
+    - hubierais siseado
+    - hubieseis siseado
+  uds:
+    - hubieran siseado
+    - hubiesen siseado
+imperativo:
+  tu: sisea
+  vos: siseá
+  ud: sisee
+  nosotros: siseemos
+  vosotros: sisead
+  uds: siseen

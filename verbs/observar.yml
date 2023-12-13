@@ -1,0 +1,142 @@
+infinitivo: observar
+gerundio: observando
+participio-pasado: observado
+presente-indicativo:
+  yo: observo
+  tu: observas
+  vos: observas
+  ud: observa
+  nosotros: observamos
+  vosotros: observáis
+  uds: observan
+preterito-perfecto-simple:
+  yo: observé
+  tu: observaste
+  vos: observaste
+  ud: observó
+  nosotros: observamos
+  vosotros: observasteis
+  uds: observaron
+preterito-imperfecto:
+  yo: observaba
+  tu: observabas
+  vos: observabas
+  ud: observaba
+  nosotros: observábamos
+  vosotros: observabais
+  uds: observaban
+futuro-simple:
+  yo: observaré
+  tu: observarás
+  vos: observarás
+  ud: observará
+  nosotros: observaremos
+  vosotros: observaréis
+  uds: observarán
+condicional-simple:
+  yo: observaría
+  tu: observarías
+  vos: observarías
+  ud: observaría
+  nosotros: observaríamos
+  vosotros: observaríais
+  uds: observarían
+presente-perfecto:
+  yo: he observado
+  tu: has observado
+  vos: has observado
+  ud: ha observado
+  nosotros: hemos observado
+  vosotros: habéis observado
+  uds: han observado
+preterito-pluscuamperfecto:
+  yo: había observado
+  tu: habías observado
+  vos: habías observado
+  ud: había observado
+  nosotros: habíamos observado
+  vosotros: habíais observado
+  uds: habían observado
+futuro-perfecto:
+  yo: habré observado
+  tu: habrás observado
+  vos: habrás observado
+  ud: habrá observado
+  nosotros: habremos observado
+  vosotros: habréis observado
+  uds: habrán observado
+condicional-perfecto:
+  yo: habría observado
+  tu: habrías observado
+  vos: habrías observado
+  ud: habría observado
+  nosotros: habríamos observado
+  vosotros: habríais observado
+  uds: habrían observado
+presente-subjuntivo:
+  yo: observe
+  tu: observes
+  vos: observes
+  ud: observe
+  nosotros: observemos
+  vosotros: observéis
+  uds: observen
+preterito-perfecto-subjuntivo:
+  yo: haya observado
+  tu: hayas observado
+  vos: hayas observado
+  ud: haya observado
+  nosotros: hayamos observado
+  vosotros: hayáis observado
+  uds: hayan observado
+imperfecto-subjuntivo:
+  yo:
+    - observara
+    - observase
+  tu:
+    - observaras
+    - observases
+  vos:
+    - observaras
+    - observases
+  ud:
+    - observara
+    - observase
+  nosotros:
+    - observáramos
+    - observásemos
+  vosotros:
+    - observarais
+    - observaseis
+  uds:
+    - observaran
+    - observasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera observado
+    - hubiese observado
+  tu:
+    - hubieras observado
+    - hubieses observado
+  vos:
+    - hubieras observado
+    - hubieses observado
+  ud:
+    - hubiera observado
+    - hubiese observado
+  nosotros:
+    - hubiéramos observado
+    - hubiésemos observado
+  vosotros:
+    - hubierais observado
+    - hubieseis observado
+  uds:
+    - hubieran observado
+    - hubiesen observado
+imperativo:
+  tu: observa
+  vos: observá
+  ud: observe
+  nosotros: observemos
+  vosotros: observad
+  uds: observen

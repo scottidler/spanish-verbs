@@ -1,0 +1,142 @@
+infinitivo: romper
+gerundio: rompiendo
+participio-pasado: roto
+presente-indicativo:
+  yo: rompo
+  tu: rompes
+  vos: rompés
+  ud: rompe
+  nosotros: rompemos
+  vosotros: rompéis
+  uds: rompen
+preterito-perfecto-simple:
+  yo: rompí
+  tu: rompiste
+  vos: rompiste
+  ud: rompió
+  nosotros: rompimos
+  vosotros: rompisteis
+  uds: rompieron
+preterito-imperfecto:
+  yo: rompía
+  tu: rompías
+  vos: rompías
+  ud: rompía
+  nosotros: rompíamos
+  vosotros: rompíais
+  uds: rompían
+futuro-simple:
+  yo: romperé
+  tu: romperás
+  vos: romperás
+  ud: romperá
+  nosotros: romperemos
+  vosotros: romperéis
+  uds: romperán
+condicional-simple:
+  yo: rompería
+  tu: romperías
+  vos: romperías
+  ud: rompería
+  nosotros: romperíamos
+  vosotros: romperíais
+  uds: romperían
+presente-perfecto:
+  yo: he roto
+  tu: has roto
+  vos: has roto
+  ud: ha roto
+  nosotros: hemos roto
+  vosotros: habéis roto
+  uds: han roto
+preterito-pluscuamperfecto:
+  yo: había roto
+  tu: habías roto
+  vos: habías roto
+  ud: había roto
+  nosotros: habíamos roto
+  vosotros: habíais roto
+  uds: habían roto
+futuro-perfecto:
+  yo: habré roto
+  tu: habrás roto
+  vos: habrás roto
+  ud: habrá roto
+  nosotros: habremos roto
+  vosotros: habréis roto
+  uds: habrán roto
+condicional-perfecto:
+  yo: habría roto
+  tu: habrías roto
+  vos: habrías roto
+  ud: habría roto
+  nosotros: habríamos roto
+  vosotros: habríais roto
+  uds: habrían roto
+presente-subjuntivo:
+  yo: rompa
+  tu: rompas
+  vos: rompas
+  ud: rompa
+  nosotros: rompamos
+  vosotros: rompáis
+  uds: rompan
+preterito-perfecto-subjuntivo:
+  yo: haya roto
+  tu: hayas roto
+  vos: hayas roto
+  ud: haya roto
+  nosotros: hayamos roto
+  vosotros: hayáis roto
+  uds: hayan roto
+imperfecto-subjuntivo:
+  yo:
+    - rompiera
+    - rompiese
+  tu:
+    - rompieras
+    - rompieses
+  vos:
+    - rompieras
+    - rompieses
+  ud:
+    - rompiera
+    - rompiese
+  nosotros:
+    - rompiéramos
+    - rompiésemos
+  vosotros:
+    - rompierais
+    - rompieseis
+  uds:
+    - rompieran
+    - rompiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera roto
+    - hubiese roto
+  tu:
+    - hubieras roto
+    - hubieses roto
+  vos:
+    - hubieras roto
+    - hubieses roto
+  ud:
+    - hubiera roto
+    - hubiese roto
+  nosotros:
+    - hubiéramos roto
+    - hubiésemos roto
+  vosotros:
+    - hubierais roto
+    - hubieseis roto
+  uds:
+    - hubieran roto
+    - hubiesen roto
+imperativo:
+  tu: rompe
+  vos: rompé
+  ud: rompa
+  nosotros: rompamos
+  vosotros: romped
+  uds: rompan

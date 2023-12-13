@@ -1,0 +1,142 @@
+infinitivo: darse
+gerundio: dándose
+participio-pasado: dado
+presente-indicativo:
+  yo: me doy
+  tu: te das
+  vos: te das
+  ud: se da
+  nosotros: nos damos
+  vosotros: os dais
+  uds: se dan
+preterito-perfecto-simple:
+  yo: me di
+  tu: te diste
+  vos: te diste
+  ud: se dio
+  nosotros: nos dimos
+  vosotros: os disteis
+  uds: se dieron
+preterito-imperfecto:
+  yo: me daba
+  tu: te dabas
+  vos: te dabas
+  ud: se daba
+  nosotros: nos dábamos
+  vosotros: os dabais
+  uds: se daban
+futuro-simple:
+  yo: me daré
+  tu: te darás
+  vos: te darás
+  ud: se dará
+  nosotros: nos daremos
+  vosotros: os daréis
+  uds: se darán
+condicional-simple:
+  yo: me daría
+  tu: te darías
+  vos: te darías
+  ud: se daría
+  nosotros: nos daríamos
+  vosotros: os daríais
+  uds: se darían
+presente-perfecto:
+  yo: me he dado
+  tu: te has dado
+  vos: te has dado
+  ud: se ha dado
+  nosotros: nos hemos dado
+  vosotros: os habéis dado
+  uds: se han dado
+preterito-pluscuamperfecto:
+  yo: me había dado
+  tu: te habías dado
+  vos: te habías dado
+  ud: se había dado
+  nosotros: nos habíamos dado
+  vosotros: os habíais dado
+  uds: se habían dado
+futuro-perfecto:
+  yo: me habré dado
+  tu: te habrás dado
+  vos: te habrás dado
+  ud: se habrá dado
+  nosotros: nos habremos dado
+  vosotros: os habréis dado
+  uds: se habrán dado
+condicional-perfecto:
+  yo: me habría dado
+  tu: te habrías dado
+  vos: te habrías dado
+  ud: se habría dado
+  nosotros: nos habríamos dado
+  vosotros: os habríais dado
+  uds: se habrían dado
+presente-subjuntivo:
+  yo: me dé
+  tu: te des
+  vos: te des
+  ud: se dé
+  nosotros: nos demos
+  vosotros: os deis
+  uds: se den
+preterito-perfecto-subjuntivo:
+  yo: me haya dado
+  tu: te hayas dado
+  vos: te hayas dado
+  ud: se haya dado
+  nosotros: nos hayamos dado
+  vosotros: os hayáis dado
+  uds: se hayan dado
+imperfecto-subjuntivo:
+  yo:
+    - me diera
+    - me diese
+  tu:
+    - te dieras
+    - te dieses
+  vos:
+    - te dieras
+    - te dieses
+  ud:
+    - se diera
+    - se diese
+  nosotros:
+    - nos diéramos
+    - nos diésemos
+  vosotros:
+    - os dierais
+    - os dieseis
+  uds:
+    - se dieran
+    - se diesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera dado
+    - me hubiese dado
+  tu:
+    - te hubieras dado
+    - te hubieses dado
+  vos:
+    - te hubieras dado
+    - te hubieses dado
+  ud:
+    - se hubiera dado
+    - se hubiese dado
+  nosotros:
+    - nos hubiéramos dado
+    - nos hubiésemos dado
+  vosotros:
+    - os hubierais dado
+    - os hubieseis dado
+  uds:
+    - se hubieran dado
+    - se hubiesen dado
+imperativo:
+  tu: date
+  vos: date
+  ud: dése
+  nosotros: démonos
+  vosotros: daos
+  uds: dense

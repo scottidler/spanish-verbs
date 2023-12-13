@@ -1,0 +1,142 @@
+infinitivo: suponer
+gerundio: suponiendo
+participio-pasado: supuesto
+presente-indicativo:
+  yo: supongo
+  tu: supones
+  vos: supones
+  ud: supone
+  nosotros: suponemos
+  vosotros: suponéis
+  uds: suponen
+preterito-perfecto-simple:
+  yo: supuse
+  tu: supusiste
+  vos: supusiste
+  ud: supuso
+  nosotros: supimos
+  vosotros: supusisteis
+  uds: supusieron
+preterito-imperfecto:
+  yo: suponía
+  tu: suponías
+  vos: suponías
+  ud: suponía
+  nosotros: suponíamos
+  vosotros: suponíais
+  uds: suponían
+futuro-simple:
+  yo: supondré
+  tu: supondrás
+  vos: supondrás
+  ud: supondrá
+  nosotros: supondremos
+  vosotros: supondréis
+  uds: supondrán
+condicional-simple:
+  yo: supondría
+  tu: supondrías
+  vos: supondrías
+  ud: supondría
+  nosotros: supondríamos
+  vosotros: supondríais
+  uds: supondrían
+presente-perfecto:
+  yo: he supuesto
+  tu: has supuesto
+  vos: has supuesto
+  ud: ha supuesto
+  nosotros: hemos supuesto
+  vosotros: habéis supuesto
+  uds: han supuesto
+preterito-pluscuamperfecto:
+  yo: había supuesto
+  tu: habías supuesto
+  vos: habías supuesto
+  ud: había supuesto
+  nosotros: habíamos supuesto
+  vosotros: habíais supuesto
+  uds: habían supuesto
+futuro-perfecto:
+  yo: habré supuesto
+  tu: habrás supuesto
+  vos: habrás supuesto
+  ud: habrá supuesto
+  nosotros: habremos supuesto
+  vosotros: habréis supuesto
+  uds: habrán supuesto
+condicional-perfecto:
+  yo: habría supuesto
+  tu: habrías supuesto
+  vos: habrías supuesto
+  ud: habría supuesto
+  nosotros: habríamos supuesto
+  vosotros: habríais supuesto
+  uds: habrían supuesto
+presente-subjuntivo:
+  yo: suponga
+  tu: supongas
+  vos: supongas
+  ud: suponga
+  nosotros: supongamos
+  vosotros: supongáis
+  uds: supongan
+preterito-perfecto-subjuntivo:
+  yo: haya supuesto
+  tu: hayas supuesto
+  vos: hayas supuesto
+  ud: haya supuesto
+  nosotros: hayamos supuesto
+  vosotros: hayáis supuesto
+  uds: hayan supuesto
+imperfecto-subjuntivo:
+  yo:
+    - supusiera
+    - supusiese
+  tu:
+    - supusieras
+    - supusieses
+  vos:
+    - supusieras
+    - supusieses
+  ud:
+    - supusiera
+    - supusiese
+  nosotros:
+    - supusiéramos
+    - supusiésemos
+  vosotros:
+    - supusierais
+    - supusieseis
+  uds:
+    - supusieran
+    - supusiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera supuesto
+    - hubiese supuesto
+  tu:
+    - hubieras supuesto
+    - hubieses supuesto
+  vos:
+    - hubieras supuesto
+    - hubieses supuesto
+  ud:
+    - hubiera supuesto
+    - hubiese supuesto
+  nosotros:
+    - hubiéramos supuesto
+    - hubiésemos supuesto
+  vosotros:
+    - hubierais supuesto
+    - hubieseis supuesto
+  uds:
+    - hubieran supuesto
+    - hubiesen supuesto
+imperativo:
+  tu: supón
+  vos: suponé
+  ud: suponga
+  nosotros: supongamos
+  vosotros: suponed
+  uds: supongan

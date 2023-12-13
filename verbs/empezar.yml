@@ -1,0 +1,142 @@
+infinitivo: empezar
+gerundio: empezando
+participio-pasado: empezado
+presente-indicativo:
+  yo: empiezo
+  tu: empiezas
+  vos: empezás
+  ud: empieza
+  nosotros: empezamos
+  vosotros: empezáis
+  uds: empiezan
+preterito-perfecto-simple:
+  yo: empecé
+  tu: empezaste
+  vos: empezaste
+  ud: empezó
+  nosotros: empezamos
+  vosotros: empezasteis
+  uds: empezaron
+preterito-imperfecto:
+  yo: empezaba
+  tu: empezabas
+  vos: empezabas
+  ud: empezaba
+  nosotros: empezábamos
+  vosotros: empezabais
+  uds: empezaban
+futuro-simple:
+  yo: empezaré
+  tu: empezarás
+  vos: empezarás
+  ud: empezará
+  nosotros: empezaremos
+  vosotros: empezaréis
+  uds: empezarán
+condicional-simple:
+  yo: empezaría
+  tu: empezarías
+  vos: empezarías
+  ud: empezaría
+  nosotros: empezaríamos
+  vosotros: empezaríais
+  uds: empezarían
+presente-perfecto:
+  yo: he empezado
+  tu: has empezado
+  vos: has empezado
+  ud: ha empezado
+  nosotros: hemos empezado
+  vosotros: habéis empezado
+  uds: han empezado
+preterito-pluscuamperfecto:
+  yo: había empezado
+  tu: habías empezado
+  vos: habías empezado
+  ud: había empezado
+  nosotros: habíamos empezado
+  vosotros: habíais empezado
+  uds: habían empezado
+futuro-perfecto:
+  yo: habré empezado
+  tu: habrás empezado
+  vos: habrás empezado
+  ud: habrá empezado
+  nosotros: habremos empezado
+  vosotros: habréis empezado
+  uds: habrán empezado
+condicional-perfecto:
+  yo: habría empezado
+  tu: habrías empezado
+  vos: habrías empezado
+  ud: habría empezado
+  nosotros: habríamos empezado
+  vosotros: habríais empezado
+  uds: habrían empezado
+presente-subjuntivo:
+  yo: empiece
+  tu: empieces
+  vos: empieces
+  ud: empiece
+  nosotros: empecemos
+  vosotros: empecéis
+  uds: empiecen
+preterito-perfecto-subjuntivo:
+  yo: haya empezado
+  tu: hayas empezado
+  vos: hayas empezado
+  ud: haya empezado
+  nosotros: hayamos empezado
+  vosotros: hayáis empezado
+  uds: hayan empezado
+imperfecto-subjuntivo:
+  yo:
+    - empezara
+    - empezase
+  tu:
+    - empezaras
+    - empezases
+  vos:
+    - empezaras
+    - empezases
+  ud:
+    - empezara
+    - empezase
+  nosotros:
+    - empezáramos
+    - empezásemos
+  vosotros:
+    - empezarais
+    - empezaseis
+  uds:
+    - empezaran
+    - empezasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera empezado
+    - hubiese empezado
+  tu:
+    - hubieras empezado
+    - hubieses empezado
+  vos:
+    - hubieras empezado
+    - hubieses empezado
+  ud:
+    - hubiera empezado
+    - hubiese empezado
+  nosotros:
+    - hubiéramos empezado
+    - hubiésemos empezado
+  vosotros:
+    - hubierais empezado
+    - hubieseis empezado
+  uds:
+    - hubieran empezado
+    - hubiesen empezado
+imperativo:
+  tu: empieza
+  vos: empezá
+  ud: empiece
+  nosotros: empecemos
+  vosotros: empezad
+  uds: empiecen

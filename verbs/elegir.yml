@@ -1,0 +1,142 @@
+infinitivo: elegir
+gerundio: eligiendo
+participio-pasado: elegido
+presente-indicativo:
+  yo: elijo
+  tu: eliges
+  vos: elegís
+  ud: elige
+  nosotros: elegimos
+  vosotros: elegís
+  uds: eligen
+preterito-perfecto-simple:
+  yo: elegí
+  tu: elegiste
+  vos: elegiste
+  ud: eligió
+  nosotros: elegimos
+  vosotros: elegisteis
+  uds: eligieron
+preterito-imperfecto:
+  yo: elegía
+  tu: elegías
+  vos: elegías
+  ud: elegía
+  nosotros: elegíamos
+  vosotros: elegíais
+  uds: elegían
+futuro-simple:
+  yo: elegiré
+  tu: elegirás
+  vos: elegirás
+  ud: elegirá
+  nosotros: elegiremos
+  vosotros: elegiréis
+  uds: elegirán
+condicional-simple:
+  yo: elegiría
+  tu: elegirías
+  vos: elegirías
+  ud: elegiría
+  nosotros: elegiríamos
+  vosotros: elegiríais
+  uds: elegirían
+presente-perfecto:
+  yo: he elegido
+  tu: has elegido
+  vos: has elegido
+  ud: ha elegido
+  nosotros: hemos elegido
+  vosotros: habéis elegido
+  uds: han elegido
+preterito-pluscuamperfecto:
+  yo: había elegido
+  tu: habías elegido
+  vos: habías elegido
+  ud: había elegido
+  nosotros: habíamos elegido
+  vosotros: habíais elegido
+  uds: habían elegido
+futuro-perfecto:
+  yo: habré elegido
+  tu: habrás elegido
+  vos: habrás elegido
+  ud: habrá elegido
+  nosotros: habremos elegido
+  vosotros: habréis elegido
+  uds: habrán elegido
+condicional-perfecto:
+  yo: habría elegido
+  tu: habrías elegido
+  vos: habrías elegido
+  ud: habría elegido
+  nosotros: habríamos elegido
+  vosotros: habríais elegido
+  uds: habrían elegido
+presente-subjuntivo:
+  yo: elija
+  tu: elijas
+  vos: elijas
+  ud: elija
+  nosotros: elijamos
+  vosotros: elijáis
+  uds: elijan
+preterito-perfecto-subjuntivo:
+  yo: haya elegido
+  tu: hayas elegido
+  vos: hayas elegido
+  ud: haya elegido
+  nosotros: hayamos elegido
+  vosotros: hayáis elegido
+  uds: hayan elegido
+imperfecto-subjuntivo:
+  yo:
+    - eligiera
+    - eligiese
+  tu:
+    - eligieras
+    - eligieses
+  vos:
+    - eligieras
+    - eligieses
+  ud:
+    - eligiera
+    - eligiese
+  nosotros:
+    - eligiéramos
+    - eligiésemos
+  vosotros:
+    - eligierais
+    - eligieseis
+  uds:
+    - eligieran
+    - eligiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera elegido
+    - hubiese elegido
+  tu:
+    - hubieras elegido
+    - hubieses elegido
+  vos:
+    - hubieras elegido
+    - hubieses elegido
+  ud:
+    - hubiera elegido
+    - hubiese elegido
+  nosotros:
+    - hubiéramos elegido
+    - hubiésemos elegido
+  vosotros:
+    - hubierais elegido
+    - hubieseis elegido
+  uds:
+    - hubieran elegido
+    - hubiesen elegido
+imperativo:
+  tu: elige
+  vos: elegí
+  ud: elija
+  nosotros: elijamos
+  vosotros: elegid
+  uds: elijan

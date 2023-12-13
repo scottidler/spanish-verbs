@@ -1,0 +1,142 @@
+infinitivo: acurrucar
+gerundio: acurrucando
+participio-pasado: acurrucado
+presente-indicativo:
+  yo: acurruco
+  tu: acurrucas
+  vos: acurrucás
+  ud: acurruca
+  nosotros: acurrucamos
+  vosotros: acurrucáis
+  uds: acurrucan
+preterito-perfecto-simple:
+  yo: acurruqué
+  tu: acurrucaste
+  vos: acurrucaste
+  ud: acurruco
+  nosotros: acurrucamos
+  vosotros: acurrucasteis
+  uds: acurrucaron
+preterito-imperfecto:
+  yo: acurrucaba
+  tu: acurrucabas
+  vos: acurrucabas
+  ud: acurrucaba
+  nosotros: acurrucábamos
+  vosotros: acurrucabais
+  uds: acurrucaban
+futuro-simple:
+  yo: acurrucaré
+  tu: acurrucarás
+  vos: acurrucarás
+  ud: acurrucará
+  nosotros: acurrucaremos
+  vosotros: acurrucaréis
+  uds: acurrucarán
+condicional-simple:
+  yo: acurrucaría
+  tu: acurrucarías
+  vos: acurrucarías
+  ud: acurrucaría
+  nosotros: acurrucaríamos
+  vosotros: acurrucaríais
+  uds: acurrucarían
+presente-perfecto:
+  yo: he acurrucado
+  tu: has acurrucado
+  vos: has acurrucado
+  ud: ha acurrucado
+  nosotros: hemos acurrucado
+  vosotros: habéis acurrucado
+  uds: han acurrucado
+preterito-pluscuamperfecto:
+  yo: había acurrucado
+  tu: habías acurrucado
+  vos: habías acurrucado
+  ud: había acurrucado
+  nosotros: habíamos acurrucado
+  vosotros: habíais acurrucado
+  uds: habían acurrucado
+futuro-perfecto:
+  yo: habré acurrucado
+  tu: habrás acurrucado
+  vos: habrás acurrucado
+  ud: habrá acurrucado
+  nosotros: habremos acurrucado
+  vosotros: habréis acurrucado
+  uds: habrán acurrucado
+condicional-perfecto:
+  yo: habría acurrucado
+  tu: habrías acurrucado
+  vos: habrías acurrucado
+  ud: habría acurrucado
+  nosotros: habríamos acurrucado
+  vosotros: habríais acurrucado
+  uds: habrían acurrucado
+presente-subjuntivo:
+  yo: acurruque
+  tu: acurruques
+  vos: acurruques
+  ud: acurruque
+  nosotros: acurruquemos
+  vosotros: acurruquéis
+  uds: acurruquen
+preterito-perfecto-subjuntivo:
+  yo: haya acurrucado
+  tu: hayas acurrucado
+  vos: hayas acurrucado
+  ud: haya acurrucado
+  nosotros: hayamos acurrucado
+  vosotros: hayáis acurrucado
+  uds: hayan acurrucado
+imperfecto-subjuntivo:
+  yo:
+    - acurrucara
+    - acurrucase
+  tu:
+    - acurrucaras
+    - acurrucases
+  vos:
+    - acurrucaras
+    - acurrucases
+  ud:
+    - acurrucara
+    - acurrucase
+  nosotros:
+    - acurrucáramos
+    - acurrucásemos
+  vosotros:
+    - acurrucarais
+    - acurrucaseis
+  uds:
+    - acurrucaran
+    - acurrucasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acurrucado
+    - hubiese acurrucado
+  tu:
+    - hubieras acurrucado
+    - hubieses acurrucado
+  vos:
+    - hubieras acurrucado
+    - hubieses acurrucado
+  ud:
+    - hubiera acurrucado
+    - hubiese acurrucado
+  nosotros:
+    - hubiéramos acurrucado
+    - hubiésemos acurrucado
+  vosotros:
+    - hubierais acurrucado
+    - hubieseis acurrucado
+  uds:
+    - hubieran acurrucado
+    - hubiesen acurrucado
+imperativo:
+  tu: acurrúcate
+  vos: acurrucáte
+  ud: acurruque
+  nosotros: acurruquemos
+  vosotros: acurrucad
+  uds: acurruquen

@@ -1,0 +1,142 @@
+infinitivo: guardar
+gerundio: guardando
+participio-pasado: guardado
+presente-indicativo:
+  yo: guardo
+  tu: guardas
+  vos: guardás
+  ud: guarda
+  nosotros: guardamos
+  vosotros: guardáis
+  uds: guardan
+preterito-perfecto-simple:
+  yo: guardé
+  tu: guardaste
+  vos: guardaste
+  ud: guardó
+  nosotros: guardamos
+  vosotros: guardasteis
+  uds: guardaron
+preterito-imperfecto:
+  yo: guardaba
+  tu: guardabas
+  vos: guardabas
+  ud: guardaba
+  nosotros: guardábamos
+  vosotros: guardabais
+  uds: guardaban
+futuro-simple:
+  yo: guardaré
+  tu: guardarás
+  vos: guardarás
+  ud: guardará
+  nosotros: guardaremos
+  vosotros: guardaréis
+  uds: guardarán
+condicional-simple:
+  yo: guardaría
+  tu: guardarías
+  vos: guardarías
+  ud: guardaría
+  nosotros: guardaríamos
+  vosotros: guardaríais
+  uds: guardarían
+presente-perfecto:
+  yo: he guardado
+  tu: has guardado
+  vos: has guardado
+  ud: ha guardado
+  nosotros: hemos guardado
+  vosotros: habéis guardado
+  uds: han guardado
+preterito-pluscuamperfecto:
+  yo: había guardado
+  tu: habías guardado
+  vos: habías guardado
+  ud: había guardado
+  nosotros: habíamos guardado
+  vosotros: habíais guardado
+  uds: habían guardado
+futuro-perfecto:
+  yo: habré guardado
+  tu: habrás guardado
+  vos: habrás guardado
+  ud: habrá guardado
+  nosotros: habremos guardado
+  vosotros: habréis guardado
+  uds: habrán guardado
+condicional-perfecto:
+  yo: habría guardado
+  tu: habrías guardado
+  vos: habrías guardado
+  ud: habría guardado
+  nosotros: habríamos guardado
+  vosotros: habríais guardado
+  uds: habrían guardado
+presente-subjuntivo:
+  yo: guarde
+  tu: guardes
+  vos: guardes
+  ud: guarde
+  nosotros: guardemos
+  vosotros: guardéis
+  uds: guarden
+preterito-perfecto-subjuntivo:
+  yo: haya guardado
+  tu: hayas guardado
+  vos: hayas guardado
+  ud: haya guardado
+  nosotros: hayamos guardado
+  vosotros: hayáis guardado
+  uds: hayan guardado
+imperfecto-subjuntivo:
+  yo:
+    - guardara
+    - guardase
+  tu:
+    - guardaras
+    - guardases
+  vos:
+    - guardaras
+    - guardases
+  ud:
+    - guardara
+    - guardase
+  nosotros:
+    - guardáramos
+    - guardásemos
+  vosotros:
+    - guardarais
+    - guardaseis
+  uds:
+    - guardaran
+    - guardasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera guardado
+    - hubiese guardado
+  tu:
+    - hubieras guardado
+    - hubieses guardado
+  vos:
+    - hubieras guardado
+    - hubieses guardado
+  ud:
+    - hubiera guardado
+    - hubiese guardado
+  nosotros:
+    - hubiéramos guardado
+    - hubiésemos guardado
+  vosotros:
+    - hubierais guardado
+    - hubieseis guardado
+  uds:
+    - hubieran guardado
+    - hubiesen guardado
+imperativo:
+  tu: guarda
+  vos: guardá
+  ud: guarde
+  nosotros: guardemos
+  vosotros: guardad
+  uds: guarden

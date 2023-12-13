@@ -1,0 +1,142 @@
+infinitivo: soltar
+gerundio: soltando
+participio-pasado: soltado
+presente-indicativo:
+  yo: suelto
+  tu: sueltas
+  vos: sueltas
+  ud: suelta
+  nosotros: soltamos
+  vosotros: soltáis
+  uds: sueltan
+preterito-perfecto-simple:
+  yo: solté
+  tu: soltaste
+  vos: soltaste
+  ud: soltó
+  nosotros: soltamos
+  vosotros: soltasteis
+  uds: soltaron
+preterito-imperfecto:
+  yo: soltaba
+  tu: soltabas
+  vos: soltabas
+  ud: soltaba
+  nosotros: soltabamos
+  vosotros: soltabais
+  uds: soltaban
+futuro-simple:
+  yo: soltaré
+  tu: soltarás
+  vos: soltarás
+  ud: soltará
+  nosotros: soltaremos
+  vosotros: soltaréis
+  uds: soltarán
+condicional-simple:
+  yo: soltaría
+  tu: soltarías
+  vos: soltarías
+  ud: soltaría
+  nosotros: soltaríamos
+  vosotros: soltaríais
+  uds: soltarían
+presente-perfecto:
+  yo: he soltado
+  tu: has soltado
+  vos: has soltado
+  ud: ha soltado
+  nosotros: hemos soltado
+  vosotros: habéis soltado
+  uds: han soltado
+preterito-pluscuamperfecto:
+  yo: había soltado
+  tu: habías soltado
+  vos: habías soltado
+  ud: había soltado
+  nosotros: habíamos soltado
+  vosotros: habíais soltado
+  uds: habían soltado
+futuro-perfecto:
+  yo: habré soltado
+  tu: habrás soltado
+  vos: habrás soltado
+  ud: habrá soltado
+  nosotros: habremos soltado
+  vosotros: habréis soltado
+  uds: habrán soltado
+condicional-perfecto:
+  yo: habría soltado
+  tu: habrías soltado
+  vos: habrías soltado
+  ud: habría soltado
+  nosotros: habríamos soltado
+  vosotros: habríais soltado
+  uds: habrían soltado
+presente-subjuntivo:
+  yo: suelte
+  tu: sueltes
+  vos: sueltes
+  ud: suelte
+  nosotros: soltemos
+  vosotros: soltéis
+  uds: suelten
+preterito-perfecto-subjuntivo:
+  yo: haya soltado
+  tu: hayas soltado
+  vos: hayas soltado
+  ud: haya soltado
+  nosotros: hayamos soltado
+  vosotros: hayáis soltado
+  uds: hayan soltado
+imperfecto-subjuntivo:
+  yo:
+    - soltara
+    - soltase
+  tu:
+    - soltaras
+    - soltases
+  vos:
+    - soltaras
+    - soltases
+  ud:
+    - soltara
+    - soltase
+  nosotros:
+    - soltáramos
+    - soltásemos
+  vosotros:
+    - soltarais
+    - soltaseis
+  uds:
+    - soltaran
+    - soltasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera soltado
+    - hubiese soltado
+  tu:
+    - hubieras soltado
+    - hubieses soltado
+  vos:
+    - hubieras soltado
+    - hubieses soltado
+  ud:
+    - hubiera soltado
+    - hubiese soltado
+  nosotros:
+    - hubiéramos soltado
+    - hubiésemos soltado
+  vosotros:
+    - hubierais soltado
+    - hubieseis soltado
+  uds:
+    - hubieran soltado
+    - hubiesen soltado
+imperativo:
+  tu: suelta
+  vos: sueltá
+  ud: suelte
+  nosotros: soltemos
+  vosotros: soltad
+  uds: suelten

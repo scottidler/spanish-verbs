@@ -1,0 +1,142 @@
+infinitivo: esperar
+gerundio: esperando
+participio-pasado: esperado
+presente-indicativo:
+  yo: espero
+  tu: esperas
+  vos: esperás
+  ud: espera
+  nosotros: esperamos
+  vosotros: esperáis
+  uds: esperan
+preterito-perfecto-simple:
+  yo: esperé
+  tu: esperaste
+  vos: esperaste
+  ud: esperó
+  nosotros: esperamos
+  vosotros: esperasteis
+  uds: esperaron
+preterito-imperfecto:
+  yo: esperaba
+  tu: esperabas
+  vos: esperabas
+  ud: esperaba
+  nosotros: esperábamos
+  vosotros: esperabais
+  uds: esperaban
+futuro-simple:
+  yo: esperaré
+  tu: esperarás
+  vos: esperarás
+  ud: esperará
+  nosotros: esperaremos
+  vosotros: esperaréis
+  uds: esperarán
+condicional-simple:
+  yo: esperaría
+  tu: esperarías
+  vos: esperarías
+  ud: esperaría
+  nosotros: esperaríamos
+  vosotros: esperaríais
+  uds: esperarían
+presente-perfecto:
+  yo: he esperado
+  tu: has esperado
+  vos: has esperado
+  ud: ha esperado
+  nosotros: hemos esperado
+  vosotros: habéis esperado
+  uds: han esperado
+preterito-pluscuamperfecto:
+  yo: había esperado
+  tu: habías esperado
+  vos: habías esperado
+  ud: había esperado
+  nosotros: habíamos esperado
+  vosotros: habíais esperado
+  uds: habían esperado
+futuro-perfecto:
+  yo: habré esperado
+  tu: habrás esperado
+  vos: habrás esperado
+  ud: habrá esperado
+  nosotros: habremos esperado
+  vosotros: habréis esperado
+  uds: habrán esperado
+condicional-perfecto:
+  yo: habría esperado
+  tu: habrías esperado
+  vos: habrías esperado
+  ud: habría esperado
+  nosotros: habríamos esperado
+  vosotros: habríais esperado
+  uds: habrían esperado
+presente-subjuntivo:
+  yo: espere
+  tu: esperes
+  vos: esperes
+  ud: espere
+  nosotros: esperemos
+  vosotros: esperéis
+  uds: esperen
+preterito-perfecto-subjuntivo:
+  yo: haya esperado
+  tu: hayas esperado
+  vos: hayas esperado
+  ud: haya esperado
+  nosotros: hayamos esperado
+  vosotros: hayáis esperado
+  uds: hayan esperado
+imperfecto-subjuntivo:
+  yo:
+    - esperara
+    - esperase
+  tu:
+    - esperaras
+    - esperases
+  vos:
+    - esperaras
+    - esperases
+  ud:
+    - esperara
+    - esperase
+  nosotros:
+    - esperáramos
+    - esperásemos
+  vosotros:
+    - esperarais
+    - esperaseis
+  uds:
+    - esperaran
+    - esperasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera esperado
+    - hubiese esperado
+  tu:
+    - hubieras esperado
+    - hubieses esperado
+  vos:
+    - hubieras esperado
+    - hubieses esperado
+  ud:
+    - hubiera esperado
+    - hubiese esperado
+  nosotros:
+    - hubiéramos esperado
+    - hubiésemos esperado
+  vosotros:
+    - hubierais esperado
+    - hubieseis esperado
+  uds:
+    - hubieran esperado
+    - hubiesen esperado
+imperativo:
+  tu: espera
+  vos: esperá
+  ud: espere
+  nosotros: esperemos
+  vosotros: esperad
+  uds: esperen

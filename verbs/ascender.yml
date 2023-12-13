@@ -1,0 +1,142 @@
+infinitivo: ascender
+gerundio: ascendiendo
+participio-pasado: ascendido
+presente-indicativo:
+  yo: asciendo
+  tu: asciendes
+  vos: ascendés
+  ud: asciende
+  nosotros: ascendemos
+  vosotros: ascendéis
+  uds: ascienden
+preterito-perfecto-simple:
+  yo: ascendí
+  tu: ascendiste
+  vos: ascendiste
+  ud: ascendió
+  nosotros: ascendimos
+  vosotros: ascendisteis
+  uds: ascendieron
+preterito-imperfecto:
+  yo: ascendía
+  tu: ascendías
+  vos: ascendías
+  ud: ascendía
+  nosotros: ascendíamos
+  vosotros: ascendíais
+  uds: ascendían
+futuro-simple:
+  yo: ascenderé
+  tu: ascenderás
+  vos: ascenderás
+  ud: ascenderá
+  nosotros: ascenderemos
+  vosotros: ascenderéis
+  uds: ascenderán
+condicional-simple:
+  yo: ascendería
+  tu: ascenderías
+  vos: ascenderías
+  ud: ascendería
+  nosotros: ascenderíamos
+  vosotros: ascenderíais
+  uds: ascenderían
+presente-perfecto:
+  yo: he ascendido
+  tu: has ascendido
+  vos: has ascendido
+  ud: ha ascendido
+  nosotros: hemos ascendido
+  vosotros: habéis ascendido
+  uds: han ascendido
+preterito-pluscuamperfecto:
+  yo: había ascendido
+  tu: habías ascendido
+  vos: habías ascendido
+  ud: había ascendido
+  nosotros: habíamos ascendido
+  vosotros: habíais ascendido
+  uds: habían ascendido
+futuro-perfecto:
+  yo: habré ascendido
+  tu: habrás ascendido
+  vos: habrás ascendido
+  ud: habrá ascendido
+  nosotros: habremos ascendido
+  vosotros: habréis ascendido
+  uds: habrán ascendido
+condicional-perfecto:
+  yo: habría ascendido
+  tu: habrías ascendido
+  vos: habrías ascendido
+  ud: habría ascendido
+  nosotros: habríamos ascendido
+  vosotros: habríais ascendido
+  uds: habrían ascendido
+presente-subjuntivo:
+  yo: ascienda
+  tu: asciendas
+  vos: asciendas
+  ud: ascienda
+  nosotros: ascendamos
+  vosotros: ascendáis
+  uds: asciendan
+preterito-perfecto-subjuntivo:
+  yo: haya ascendido
+  tu: hayas ascendido
+  vos: hayas ascendido
+  ud: haya ascendido
+  nosotros: hayamos ascendido
+  vosotros: hayáis ascendido
+  uds: hayan ascendido
+imperfecto-subjuntivo:
+  yo:
+    - ascendiera
+    - ascendiese
+  tu:
+    - ascendieras
+    - ascendieses
+  vos:
+    - ascendieras
+    - ascendieses
+  ud:
+    - ascendiera
+    - ascendiese
+  nosotros:
+    - ascendiéramos
+    - ascendiésemos
+  vosotros:
+    - ascendierais
+    - ascendieseis
+  uds:
+    - ascendieran
+    - ascendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ascendido
+    - hubiese ascendido
+  tu:
+    - hubieras ascendido
+    - hubieses ascendido
+  vos:
+    - hubieras ascendido
+    - hubieses ascendido
+  ud:
+    - hubiera ascendido
+    - hubiese ascendido
+  nosotros:
+    - hubiéramos ascendido
+    - hubiésemos ascendido
+  vosotros:
+    - hubierais ascendido
+    - hubieseis ascendido
+  uds:
+    - hubieran ascendido
+    - hubiesen ascendido
+imperativo:
+  tu: asciende
+  vos: ascendé
+  ud: ascienda
+  nosotros: ascendamos
+  vosotros: ascendended
+  uds: asciendan

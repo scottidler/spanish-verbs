@@ -1,0 +1,142 @@
+infinitivo: mover
+gerundio: moviendo
+participio-pasado: movido
+presente-indicativo:
+  yo: muevo
+  tu: mueves
+  vos: movés
+  ud: mueve
+  nosotros: movemos
+  vosotros: movéis
+  uds: mueven
+preterito-perfecto-simple:
+  yo: moví
+  tu: moviste
+  vos: moviste
+  ud: movió
+  nosotros: movimos
+  vosotros: movisteis
+  uds: movieron
+preterito-imperfecto:
+  yo: movía
+  tu: movías
+  vos: movías
+  ud: movía
+  nosotros: movíamos
+  vosotros: movíais
+  uds: movían
+futuro-simple:
+  yo: moveré
+  tu: moverás
+  vos: moverás
+  ud: moverá
+  nosotros: moveremos
+  vosotros: moveréis
+  uds: moverán
+condicional-simple:
+  yo: movería
+  tu: moverías
+  vos: moverías
+  ud: movería
+  nosotros: moveríamos
+  vosotros: moveríais
+  uds: moverían
+presente-perfecto:
+  yo: he movido
+  tu: has movido
+  vos: has movido
+  ud: ha movido
+  nosotros: hemos movido
+  vosotros: habéis movido
+  uds: han movido
+preterito-pluscuamperfecto:
+  yo: había movido
+  tu: habías movido
+  vos: habías movido
+  ud: había movido
+  nosotros: habíamos movido
+  vosotros: habíais movido
+  uds: habían movido
+futuro-perfecto:
+  yo: habré movido
+  tu: habrás movido
+  vos: habrás movido
+  ud: habrá movido
+  nosotros: habremos movido
+  vosotros: habréis movido
+  uds: habrán movido
+condicional-perfecto:
+  yo: habría movido
+  tu: habrías movido
+  vos: habrías movido
+  ud: habría movido
+  nosotros: habríamos movido
+  vosotros: habríais movido
+  uds: habrían movido
+presente-subjuntivo:
+  yo: mueva
+  tu: muevas
+  vos: muevas
+  ud: mueva
+  nosotros: movamos
+  vosotros: mováis
+  uds: muevan
+preterito-perfecto-subjuntivo:
+  yo: haya movido
+  tu: hayas movido
+  vos: hayas movido
+  ud: haya movido
+  nosotros: hayamos movido
+  vosotros: hayáis movido
+  uds: hayan movido
+imperfecto-subjuntivo:
+  yo:
+    - moviera
+    - moviese
+  tu:
+    - movieras
+    - movieses
+  vos:
+    - movieras
+    - movieses
+  ud:
+    - moviera
+    - moviese
+  nosotros:
+    - moviéramos
+    - moviésemos
+  vosotros:
+    - movierais
+    - movieseis
+  uds:
+    - movieran
+    - moviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera movido
+    - hubiese movido
+  tu:
+    - hubieras movido
+    - hubieses movido
+  vos:
+    - hubieras movido
+    - hubieses movido
+  ud:
+    - hubiera movido
+    - hubiese movido
+  nosotros:
+    - hubiéramos movido
+    - hubiésemos movido
+  vosotros:
+    - hubierais movido
+    - hubieseis movido
+  uds:
+    - hubieran movido
+    - hubiesen movido
+imperativo:
+  tu: mueve
+  vos: mové
+  ud: mueva
+  nosotros: movamos
+  vosotros: moved
+  uds: muevan

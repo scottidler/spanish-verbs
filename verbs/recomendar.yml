@@ -1,0 +1,142 @@
+infinitivo: recomendar
+gerundio: recomendando
+participio-pasado: recomendado
+presente-indicativo:
+  yo: recomiendo
+  tu: recomiendas
+  vos: recomendás
+  ud: recomienda
+  nosotros: recomendamos
+  vosotros: recomendáis
+  uds: recomiendan
+preterito-perfecto-simple:
+  yo: recomendé
+  tu: recomendaste
+  vos: recomendaste
+  ud: recomendó
+  nosotros: recomendamos
+  vosotros: recomendasteis
+  uds: recomendaron
+preterito-imperfecto:
+  yo: recomendaba
+  tu: recomendabas
+  vos: recomendabas
+  ud: recomendaba
+  nosotros: recomendábamos
+  vosotros: recomendabais
+  uds: recomendaban
+futuro-simple:
+  yo: recomendaré
+  tu: recomendarás
+  vos: recomendarás
+  ud: recomendará
+  nosotros: recomendaremos
+  vosotros: recomendaréis
+  uds: recomendarán
+condicional-simple:
+  yo: recomendaría
+  tu: recomendarías
+  vos: recomendarías
+  ud: recomendaría
+  nosotros: recomendaríamos
+  vosotros: recomendaríais
+  uds: recomendarían
+presente-perfecto:
+  yo: he recomendado
+  tu: has recomendado
+  vos: has recomendado
+  ud: ha recomendado
+  nosotros: hemos recomendado
+  vosotros: habéis recomendado
+  uds: han recomendado
+preterito-pluscuamperfecto:
+  yo: había recomendado
+  tu: habías recomendado
+  vos: habías recomendado
+  ud: había recomendado
+  nosotros: habíamos recomendado
+  vosotros: habíais recomendado
+  uds: habían recomendado
+futuro-perfecto:
+  yo: habré recomendado
+  tu: habrás recomendado
+  vos: habrás recomendado
+  ud: habrá recomendado
+  nosotros: habremos recomendado
+  vosotros: habréis recomendado
+  uds: habrán recomendado
+condicional-perfecto:
+  yo: habría recomendado
+  tu: habrías recomendado
+  vos: habrías recomendado
+  ud: habría recomendado
+  nosotros: habríamos recomendado
+  vosotros: habríais recomendado
+  uds: habrían recomendado
+presente-subjuntivo:
+  yo: recomiende
+  tu: recomiendes
+  vos: recomiendes
+  ud: recomiende
+  nosotros: recomendemos
+  vosotros: recomendéis
+  uds: recomienden
+preterito-perfecto-subjuntivo:
+  yo: haya recomendado
+  tu: hayas recomendado
+  vos: hayas recomendado
+  ud: haya recomendado
+  nosotros: hayamos recomendado
+  vosotros: hayáis recomendado
+  uds: hayan recomendado
+imperfecto-subjuntivo:
+  yo:
+    - recomendara
+    - recomendase
+  tu:
+    - recomendaras
+    - recomendaras
+  vos:
+    - recomendaras
+    - recomendaras
+  ud:
+    - recomendara
+    - recomendase
+  nosotros:
+    - recomendáramos
+    - recomendásemos
+  vosotros:
+    - recomendarais
+    - recomendarais
+  uds:
+    - recomendaran
+    - recomendasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recomendado
+    - hubiese recomendado
+  tu:
+    - hubieras recomendado
+    - hubieses recomendado
+  vos:
+    - hubieras recomendado
+    - hubieses recomendado
+  ud:
+    - hubiera recomendado
+    - hubiese recomendado
+  nosotros:
+    - hubiéramos recomendado
+    - hubiésemos recomendado
+  vosotros:
+    - hubierais recomendado
+    - hubieseis recomendado
+  uds:
+    - hubieran recomendado
+    - hubiesen recomendado
+imperativo:
+  tu: recomienda
+  vos: recomendá
+  ud: recomiende
+  nosotros: recomendemos
+  vosotros: recomendad
+  uds: recomienden

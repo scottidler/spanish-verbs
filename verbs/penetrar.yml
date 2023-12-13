@@ -1,0 +1,142 @@
+infinitivo: penetrar
+gerundio: penetrando
+participio-pasado: penetrado
+presente-indicativo:
+  yo: penetro
+  tu: penetras
+  vos: penetras
+  ud: penetra
+  nosotros: penetramos
+  vosotros: penetráis
+  uds: penetran
+preterito-perfecto-simple:
+  yo: penetré
+  tu: penetraste
+  vos: penetraste
+  ud: penetró
+  nosotros: penetramos
+  vosotros: penetrasteis
+  uds: penetraron
+preterito-imperfecto:
+  yo: penetraba
+  tu: penetrabas
+  vos: penetrabas
+  ud: penetraba
+  nosotros: penetrábamos
+  vosotros: penetrabais
+  uds: penetraban
+futuro-simple:
+  yo: penetraré
+  tu: penetrarás
+  vos: penetrarás
+  ud: penetrará
+  nosotros: penetraremos
+  vosotros: penetraréis
+  uds: penetrarán
+condicional-simple:
+  yo: penetraría
+  tu: penetrarías
+  vos: penetrarías
+  ud: penetraría
+  nosotros: penetraríamos
+  vosotros: penetraríais
+  uds: penetrarían
+presente-perfecto:
+  yo: he penetrado
+  tu: has penetrado
+  vos: has penetrado
+  ud: ha penetrado
+  nosotros: hemos penetrado
+  vosotros: habéis penetrado
+  uds: han penetrado
+preterito-pluscuamperfecto:
+  yo: había penetrado
+  tu: habías penetrado
+  vos: habías penetrado
+  ud: había penetrado
+  nosotros: habíamos penetrado
+  vosotros: habíais penetrado
+  uds: habían penetrado
+futuro-perfecto:
+  yo: habré penetrado
+  tu: habrás penetrado
+  vos: habrás penetrado
+  ud: habrá penetrado
+  nosotros: habremos penetrado
+  vosotros: habréis penetrado
+  uds: habrán penetrado
+condicional-perfecto:
+  yo: habría penetrado
+  tu: habrías penetrado
+  vos: habrías penetrado
+  ud: habría penetrado
+  nosotros: habríamos penetrado
+  vosotros: habríais penetrado
+  uds: habrían penetrado
+presente-subjuntivo:
+  yo: penetre
+  tu: penetres
+  vos: penetres
+  ud: penetre
+  nosotros: penetremos
+  vosotros: penetréis
+  uds: penetren
+preterito-perfecto-subjuntivo:
+  yo: haya penetrado
+  tu: hayas penetrado
+  vos: hayas penetrado
+  ud: haya penetrado
+  nosotros: hayamos penetrado
+  vosotros: hayáis penetrado
+  uds: hayan penetrado
+imperfecto-subjuntivo:
+  yo:
+    - penetrara
+    - penetrase
+  tu:
+    - penetraras
+    - penetrases
+  vos:
+    - penetraras
+    - penetrases
+  ud:
+    - penetrara
+    - penetrase
+  nosotros:
+    - penetráramos
+    - penetrásemos
+  vosotros:
+    - penetrarais
+    - penetraseis
+  uds:
+    - penetraran
+    - penetrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera penetrado
+    - hubiese penetrado
+  tu:
+    - hubieras penetrado
+    - hubieses penetrado
+  vos:
+    - hubieras penetrado
+    - hubieses penetrado
+  ud:
+    - hubiera penetrado
+    - hubiese penetrado
+  nosotros:
+    - hubiéramos penetrado
+    - hubiésemos penetrado
+  vosotros:
+    - hubierais penetrado
+    - hubieseis penetrado
+  uds:
+    - hubieran penetrado
+    - hubiesen penetrado
+imperativo:
+  tu: penetra
+  vos: penetrá
+  ud: penetre
+  nosotros: penetremos
+  vosotros: penetrad
+  uds: penetren

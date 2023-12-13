@@ -1,0 +1,142 @@
+infinitivo: sacar
+gerundio: sacando
+participio-pasado: sacado
+presente-indicativo:
+  yo: saco
+  tu: sacas
+  vos: sacas
+  ud: saca
+  nosotros: sacamos
+  vosotros: sacáis
+  uds: sacan
+preterito-perfecto-simple:
+  yo: saqué
+  tu: sacaste
+  vos: sacaste
+  ud: sacó
+  nosotros: sacamos
+  vosotros: sacasteis
+  uds: sacaron
+preterito-imperfecto:
+  yo: sacaba
+  tu: sacabas
+  vos: sacabas
+  ud: sacaba
+  nosotros: sacábamos
+  vosotros: sacabais
+  uds: sacaban
+futuro-simple:
+  yo: sacaré
+  tu: sacarás
+  vos: sacarás
+  ud: sacará
+  nosotros: sacaremos
+  vosotros: sacaréis
+  uds: sacarán
+condicional-simple:
+  yo: sacaría
+  tu: sacarías
+  vos: sacarías
+  ud: sacaría
+  nosotros: sacaríamos
+  vosotros: sacaríais
+  uds: sacarían
+presente-perfecto:
+  yo: he sacado
+  tu: has sacado
+  vos: has sacado
+  ud: ha sacado
+  nosotros: hemos sacado
+  vosotros: habéis sacado
+  uds: han sacado
+preterito-pluscuamperfecto:
+  yo: había sacado
+  tu: habías sacado
+  vos: habías sacado
+  ud: había sacado
+  nosotros: habíamos sacado
+  vosotros: habíais sacado
+  uds: habían sacado
+futuro-perfecto:
+  yo: habré sacado
+  tu: habrás sacado
+  vos: habrás sacado
+  ud: habrá sacado
+  nosotros: habremos sacado
+  vosotros: habréis sacado
+  uds: habrán sacado
+condicional-perfecto:
+  yo: habría sacado
+  tu: habrías sacado
+  vos: habrías sacado
+  ud: habría sacado
+  nosotros: habríamos sacado
+  vosotros: habríais sacado
+  uds: habrían sacado
+presente-subjuntivo:
+  yo: saque
+  tu: saques
+  vos: saques
+  ud: saque
+  nosotros: saquemos
+  vosotros: saquéis
+  uds: saquen
+preterito-perfecto-subjuntivo:
+  yo: haya sacado
+  tu: hayas sacado
+  vos: hayas sacado
+  ud: haya sacado
+  nosotros: hayamos sacado
+  vosotros: hayáis sacado
+  uds: hayan sacado
+imperfecto-subjuntivo:
+  yo:
+    - sacara
+    - sacase
+  tu:
+    - sacaras
+    - sacases
+  vos:
+    - sacaras
+    - sacases
+  ud:
+    - sacara
+    - sacase
+  nosotros:
+    - sacáramos
+    - sacásemos
+  vosotros:
+    - sacarais
+    - sacaseis
+  uds:
+    - sacaran
+    - sacasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sacado
+    - hubiese sacado
+  tu:
+    - hubieras sacado
+    - hubieses sacado
+  vos:
+    - hubieras sacado
+    - hubieses sacado
+  ud:
+    - hubiera sacado
+    - hubiese sacado
+  nosotros:
+    - hubiéramos sacado
+    - hubiésemos sacado
+  vosotros:
+    - hubierais sacado
+    - hubieseis sacado
+  uds:
+    - hubieran sacado
+    - hubiesen sacado
+imperativo:
+  tu: saca
+  vos: sacá
+  ud: saque
+  nosotros: saquemos
+  vosotros: sacad
+  uds: saquen

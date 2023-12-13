@@ -1,0 +1,142 @@
+infinitivo: doler
+gerundio: doliendo
+participio-pasado: dolido
+presente-indicativo:
+  yo: me duelo
+  tu: te dueles
+  vos: te dolés
+  ud: se duele
+  nosotros: nos dolimos
+  vosotros: os doléis
+  uds: se duelen
+preterito-perfecto-simple:
+  yo: me dolió
+  tu: te dolió
+  vos: te dolió
+  ud: se dolió
+  nosotros: nos dolió
+  vosotros: os dolió
+  uds: se dolieron
+preterito-imperfecto:
+  yo: me dolía
+  tu: te dolías
+  vos: te dolías
+  ud: se dolía
+  nosotros: nos dolíamos
+  vosotros: os dolíais
+  uds: se dolían
+futuro-simple:
+  yo: me doleré
+  tu: te dolerás
+  vos: te dolerás
+  ud: se dolerá
+  nosotros: nos doleremos
+  vosotros: os doleréis
+  uds: se dolerán
+condicional-simple:
+  yo: me dolería
+  tu: te dolerías
+  vos: te dolerías
+  ud: se dolería
+  nosotros: nos doleríamos
+  vosotros: os doleríais
+  uds: se dolerían
+presente-perfecto:
+  yo: me he dolido
+  tu: te has dolido
+  vos: te has dolido
+  ud: se ha dolido
+  nosotros: nos hemos dolido
+  vosotros: os habéis dolido
+  uds: se han dolido
+preterito-pluscuamperfecto:
+  yo: me había dolido
+  tu: te habías dolido
+  vos: te habías dolido
+  ud: se había dolido
+  nosotros: nos habíamos dolido
+  vosotros: os habíais dolido
+  uds: se habían dolido
+futuro-perfecto:
+  yo: me habré dolido
+  tu: te habrás dolido
+  vos: te habrás dolido
+  ud: se habrá dolido
+  nosotros: nos habremos dolido
+  vosotros: os habréis dolido
+  uds: se habrán dolido
+condicional-perfecto:
+  yo: me habría dolido
+  tu: te habrías dolido
+  vos: te habrías dolido
+  ud: se habría dolido
+  nosotros: nos habríamos dolido
+  vosotros: os habríais dolido
+  uds: se habrían dolido
+presente-subjuntivo:
+  yo: me duela
+  tu: te duelas
+  vos: te duelas
+  ud: se duela
+  nosotros: nos duele
+  vosotros: os duleis
+  uds: se duelan
+preterito-perfecto-subjuntivo:
+  yo: me haya dolido
+  tu: te hayas dolido
+  vos: te hayas dolido
+  ud: se haya dolido
+  nosotros: nos hayamos dolido
+  vosotros: os hayáis dolido
+  uds: se hayan dolido
+imperfecto-subjuntivo:
+  yo: 
+    - me doliera
+    - me doliese
+  tu: 
+    - te dolieras
+    - te dolieses
+  vos: 
+    - te dolieras
+    - te dolieses
+  ud: 
+    - se doliera
+    - se doliese
+  nosotros: 
+    - nos doliéramos
+    - nos diésemos
+  vosotros: 
+    - os dolierais
+    - os dolieseis
+  uds: 
+    - se dolieran
+    - se doliesen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - me hubiera dolido
+    - me hubiese dolido
+  tu: 
+    - te hubieras dolido
+    - te hubieses dolido
+  vos: 
+    - te hubieras dolido
+    - te hubieses dolido
+  ud: 
+    - se hubiera dolido
+    - se hubiese dolido
+  nosotros: 
+    - nos hubiéramos dolido
+    - nos hubiésemos dolido
+  vosotros: 
+    - os hubierais dolido
+    - os hubieseis dolido
+  uds: 
+    - se hubieran dolido
+    - se hubiesen dolido
+imperativo:
+  tu: duele
+  vos: dolé
+  ud: duela
+  nosotros: dolamos
+  vosotros: doleros
+  uds: duelan

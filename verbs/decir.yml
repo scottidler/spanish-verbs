@@ -1,0 +1,142 @@
+infinitivo: decir
+gerundio: diciendo
+participio-pasado: dicho
+presente-indicativo:
+  yo: digo
+  tu: dices
+  vos: decís
+  ud: dice
+  nosotros: decimos
+  vosotros: decís
+  uds: dicen
+preterito-perfecto-simple:
+  yo: dije
+  tu: dijiste
+  vos: dijiste
+  ud: dijo
+  nosotros: dijimos
+  vosotros: dijisteis
+  uds: dijeron
+preterito-imperfecto:
+  yo: decía
+  tu: decías
+  vos: decías
+  ud: decía
+  nosotros: decíamos
+  vosotros: decíais
+  uds: decían
+futuro-simple:
+  yo: diré
+  tu: dirás
+  vos: dirás
+  ud: dirá
+  nosotros: diremos
+  vosotros: diréis
+  uds: dirán
+condicional-simple:
+  yo: diría
+  tu: dirías
+  vos: dirías
+  ud: diría
+  nosotros: diríamos
+  vosotros: diríais
+  uds: dirían
+presente-perfecto:
+  yo: he dicho
+  tu: has dicho
+  vos: has dicho
+  ud: ha dicho
+  nosotros: hemos dicho
+  vosotros: habéis dicho
+  uds: han dicho
+preterito-pluscuamperfecto:
+  yo: había dicho
+  tu: habías dicho
+  vos: habías dicho
+  ud: había dicho
+  nosotros: habíamos dicho
+  vosotros: habíais dicho
+  uds: habían dicho
+futuro-perfecto:
+  yo: habré dicho
+  tu: habrás dicho
+  vos: habrás dicho
+  ud: habrá dicho
+  nosotros: habremos dicho
+  vosotros: habréis dicho
+  uds: habrán dicho
+condicional-perfecto:
+  yo: habría dicho
+  tu: habrías dicho
+  vos: habrías dicho
+  ud: habría dicho
+  nosotros: habríamos dicho
+  vosotros: habríais dicho
+  uds: habrían dicho
+presente-subjuntivo:
+  yo: diga
+  tu: digas
+  vos: digas
+  ud: diga
+  nosotros: digamos
+  vosotros: digáis
+  uds: digan
+preterito-perfecto-subjuntivo:
+  yo: haya dicho
+  tu: hayas dicho
+  vos: hayas dicho
+  ud: haya dicho
+  nosotros: hayamos dicho
+  vosotros: hayáis dicho
+  uds: hayan dicho
+imperfecto-subjuntivo:
+  yo:
+    - dijera
+    - dijese
+  tu:
+    - dijeras
+    - dijeses
+  vos:
+    - dijeras
+    - dijeses
+  ud:
+    - dijera
+    - dijese
+  nosotros:
+    - dijéramos
+    - dijésemos
+  vosotros:
+    - dijerais
+    - dijeseis
+  uds:
+    - dijeran
+    - dijesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dicho
+    - hubiese dicho
+  tu:
+    - hubieras dicho
+    - hubieses dicho
+  vos:
+    - hubieras dicho
+    - hubieses dicho
+  ud:
+    - hubiera dicho
+    - hubiese dicho
+  nosotros:
+    - hubiéramos dicho
+    - hubiésemos dicho
+  vosotros:
+    - hubierais dicho
+    - hubieseis dicho
+  uds:
+    - hubieran dicho
+    - hubiesen dicho
+imperativo:
+  tu: di
+  vos: decí
+  ud: diga
+  nosotros: digamos
+  vosotros: decid
+  uds: digan

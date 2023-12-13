@@ -1,0 +1,142 @@
+infinitivo: aceptar
+gerundio: aceptando
+participio-pasado: aceptado
+presente-indicativo:
+  yo: acepto
+  tu: aceptas
+  vos: aceptás
+  ud: acepta
+  nosotros: aceptamos
+  vosotros: aceptáis
+  uds: aceptan
+preterito-perfecto-simple:
+  yo: acepté
+  tu: aceptaste
+  vos: aceptaste
+  ud: aceptó
+  nosotros: aceptamos
+  vosotros: aceptasteis
+  uds: aceptaron
+preterito-imperfecto:
+  yo: aceptaba
+  tu: aceptabas
+  vos: aceptabas
+  ud: aceptaba
+  nosotros: aceptábamos
+  vosotros: aceptabais
+  uds: aceptaban
+futuro-simple:
+  yo: aceptaré
+  tu: aceptarás
+  vos: aceptarás
+  ud: aceptará
+  nosotros: aceptaremos
+  vosotros: aceptaréis
+  uds: aceptarán
+condicional-simple:
+  yo: aceptaría
+  tu: aceptarías
+  vos: aceptarías
+  ud: aceptaría
+  nosotros: aceptaríamos
+  vosotros: aceptaríais
+  uds: aceptarían
+presente-perfecto:
+  yo: he aceptado
+  tu: has aceptado
+  vos: has aceptado
+  ud: ha aceptado
+  nosotros: hemos aceptado
+  vosotros: habéis aceptado
+  uds: han aceptado
+preterito-pluscuamperfecto:
+  yo: había aceptado
+  tu: habías aceptado
+  vos: habías aceptado
+  ud: había aceptado
+  nosotros: habíamos aceptado
+  vosotros: habíais aceptado
+  uds: habían aceptado
+futuro-perfecto:
+  yo: habré aceptado
+  tu: habrás aceptado
+  vos: habrás aceptado
+  ud: habrá aceptado
+  nosotros: habremos aceptado
+  vosotros: habréis aceptado
+  uds: habrán aceptado
+condicional-perfecto:
+  yo: habría aceptado
+  tu: habrías aceptado
+  vos: habrías aceptado
+  ud: habría aceptado
+  nosotros: habríamos aceptado
+  vosotros: habríais aceptado
+  uds: habrían aceptado
+presente-subjuntivo:
+  yo: acepte
+  tu: aceptes
+  vos: aceptes
+  ud: acepte
+  nosotros: aceptemos
+  vosotros: aceptéis
+  uds: acepten
+preterito-perfecto-subjuntivo:
+  yo: haya aceptado
+  tu: hayas aceptado
+  vos: hayas aceptado
+  ud: haya aceptado
+  nosotros: hayamos aceptado
+  vosotros: hayáis aceptado
+  uds: hayan aceptado
+imperfecto-subjuntivo:
+  yo:
+    - aceptara
+    - aceptase
+  tu:
+    - aceptaras
+    - aceptases
+  vos:
+    - aceptaras
+    - aceptases
+  ud:
+    - aceptara
+    - aceptase
+  nosotros:
+    - aceptáramos
+    - aceptásemos
+  vosotros:
+    - aceptarais
+    - aceptaseis
+  uds:
+    - aceptaran
+    - aceptasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aceptado
+    - hubiese aceptado
+  tu:
+    - hubieras aceptado
+    - hubieses aceptado
+  vos:
+    - hubieras aceptado
+    - hubieses aceptado
+  ud:
+    - hubiera aceptado
+    - hubiese aceptado
+  nosotros:
+    - hubiéramos aceptado
+    - hubiésemos aceptado
+  vosotros:
+    - hubierais aceptado
+    - hubieseis aceptado
+  uds:
+    - hubieran aceptado
+    - hubiesen aceptado
+imperativo:
+  tu: acepta
+  vos: aceptá
+  ud: acepte
+  nosotros: aceptemos
+  vosotros: aceptad
+  uds: acepten

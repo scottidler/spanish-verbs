@@ -1,0 +1,142 @@
+infinitivo: flotar
+gerundio: flotando
+participio-pasado: flotado
+presente-indicativo:
+  yo: floto
+  tu: flotas
+  vos: flotás
+  ud: flota
+  nosotros: flotamos
+  vosotros: flotáis
+  uds: flotan
+preterito-perfecto-simple:
+  yo: floté
+  tu: flotaste
+  vos: flotaste
+  ud: flotó
+  nosotros: flotamos
+  vosotros: flotasteis
+  uds: flotaron
+preterito-imperfecto:
+  yo: flotaba
+  tu: flotabas
+  vos: flotabas
+  ud: flotaba
+  nosotros: flotábamos
+  vosotros: flotabais
+  uds: flotaban
+futuro-simple:
+  yo: flotaré
+  tu: flotarás
+  vos: flotarás
+  ud: flotará
+  nosotros: flotaremos
+  vosotros: flotaréis
+  uds: flotarán
+condicional-simple:
+  yo: flotaría
+  tu: flotarías
+  vos: flotarías
+  ud: flotaría
+  nosotros: flotaríamos
+  vosotros: flotaríais
+  uds: flotarían
+presente-perfecto:
+  yo: he flotado
+  tu: has flotado
+  vos: has flotado
+  ud: ha flotado
+  nosotros: hemos flotado
+  vosotros: habéis flotado
+  uds: han flotado
+preterito-pluscuamperfecto:
+  yo: había flotado
+  tu: habías flotado
+  vos: habías flotado
+  ud: había flotado
+  nosotros: habíamos flotado
+  vosotros: habíais flotado
+  uds: habían flotado
+futuro-perfecto:
+  yo: habré flotado
+  tu: habrás flotado
+  vos: habrás flotado
+  ud: habrá flotado
+  nosotros: habremos flotado
+  vosotros: habréis flotado
+  uds: habrán flotado
+condicional-perfecto:
+  yo: habría flotado
+  tu: habrías flotado
+  vos: habrías flotado
+  ud: habría flotado
+  nosotros: habríamos flotado
+  vosotros: habríais flotado
+  uds: habrían flotado
+presente-subjuntivo:
+  yo: flote
+  tu: flotes
+  vos: flotes
+  ud: flote
+  nosotros: flotemos
+  vosotros: flotéis
+  uds: floten
+preterito-perfecto-subjuntivo:
+  yo: haya flotado
+  tu: hayas flotado
+  vos: hayas flotado
+  ud: haya flotado
+  nosotros: hayamos flotado
+  vosotros: hayáis flotado
+  uds: hayan flotado
+imperfecto-subjuntivo:
+  yo:
+    - flotara
+    - flotase
+  tu:
+    - flotaras
+    - flotases
+  vos:
+    - flotaras
+    - flotases
+  ud:
+    - flotara
+    - flotase
+  nosotros:
+    - flotáramos
+    - flotásemos
+  vosotros:
+    - flotarais
+    - flotaseis
+  uds:
+    - flotaran
+    - flotasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera flotado
+    - hubiese flotado
+  tu:
+    - hubieras flotado
+    - hubieses flotado
+  vos:
+    - hubieras flotado
+    - hubieses flotado
+  ud:
+    - hubiera flotado
+    - hubiese flotado
+  nosotros:
+    - hubiéramos flotado
+    - hubiésemos flotado
+  vosotros:
+    - hubierais flotado
+    - hubieseis flotado
+  uds:
+    - hubieran flotado
+    - hubiesen flotado
+imperativo:
+  tu: flota
+  vos: flotá
+  ud: flote
+  nosotros: flotemos
+  vosotros: flotad
+  uds: floten

@@ -1,0 +1,142 @@
+infinitivo: indicar
+gerundio: indicando
+participio-pasado: indicado
+presente-indicativo:
+  yo: indico
+  tu: indicas
+  vos: indicas
+  ud: indica
+  nosotros: indicamos
+  vosotros: indicáis
+  uds: indican
+preterito-perfecto-simple:
+  yo: indiqué
+  tu: indicaste
+  vos: indicaste
+  ud: indicó
+  nosotros: indicamos
+  vosotros: indicasteis
+  uds: indicaron
+preterito-imperfecto:
+  yo: indicaba
+  tu: indicabas
+  vos: indicabas
+  ud: indicaba
+  nosotros: indicábamos
+  vosotros: indicabais
+  uds: indicaban
+futuro-simple:
+  yo: indicaré
+  tu: indicarás
+  vos: indicarás
+  ud: indicará
+  nosotros: indicaremos
+  vosotros: indicaréis
+  uds: indicarán
+condicional-simple:
+  yo: indicaría
+  tu: indicarías
+  vos: indicarías
+  ud: indicaría
+  nosotros: indicaríamos
+  vosotros: indicaríais
+  uds: indicarían
+presente-perfecto:
+  yo: he indicado
+  tu: has indicado
+  vos: has indicado
+  ud: ha indicado
+  nosotros: hemos indicado
+  vosotros: habéis indicado
+  uds: han indicado
+preterito-pluscuamperfecto:
+  yo: había indicado
+  tu: habías indicado
+  vos: habías indicado
+  ud: había indicado
+  nosotros: habíamos indicado
+  vosotros: habíais indicado
+  uds: habían indicado
+futuro-perfecto:
+  yo: habré indicado
+  tu: habrás indicado
+  vos: habrás indicado
+  ud: habrá indicado
+  nosotros: habremos indicado
+  vosotros: habréis indicado
+  uds: habrán indicado
+condicional-perfecto:
+  yo: habría indicado
+  tu: habrías indicado
+  vos: habrías indicado
+  ud: habría indicado
+  nosotros: habríamos indicado
+  vosotros: habríais indicado
+  uds: habrían indicado
+presente-subjuntivo:
+  yo: indique
+  tu: indiques
+  vos: indiques
+  ud: indique
+  nosotros: indiquemos
+  vosotros: indiquéis
+  uds: indiquen
+preterito-perfecto-subjuntivo:
+  yo: haya indicado
+  tu: hayas indicado
+  vos: hayas indicado
+  ud: haya indicado
+  nosotros: hayamos indicado
+  vosotros: hayáis indicado
+  uds: hayan indicado
+imperfecto-subjuntivo:
+  yo:
+    - indicara
+    - indicase
+  tu:
+    - indicaras
+    - indicases
+  vos:
+    - indicaras
+    - indicases
+  ud:
+    - indicara
+    - indicase
+  nosotros:
+    - indicáramos
+    - indicásemos
+  vosotros:
+    - indicarais
+    - indicaseis
+  uds:
+    - indicaran
+    - indicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera indicado
+    - hubiese indicado
+  tu:
+    - hubieras indicado
+    - hubieses indicado
+  vos:
+    - hubieras indicado
+    - hubieses indicado
+  ud:
+    - hubiera indicado
+    - hubiese indicado
+  nosotros:
+    - hubiéramos indicado
+    - hubiésemos indicado
+  vosotros:
+    - hubierais indicado
+    - hubieseis indicado
+  uds:
+    - hubieran indicado
+    - hubiesen indicado
+imperativo:
+  tu: indica
+  vos: indicá
+  ud: indique
+  nosotros: indiquemos
+  vosotros: indicad
+  uds: indiquen

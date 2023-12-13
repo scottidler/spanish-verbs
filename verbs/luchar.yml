@@ -1,0 +1,142 @@
+infinitivo: luchar
+gerundio: luchando
+participio-pasado: luchado
+presente-indicativo:
+  yo: lucho
+  tu: luchas
+  vos: luchas
+  ud: lucha
+  nosotros: luchamos
+  vosotros: lucháis
+  uds: luchan
+preterito-perfecto-simple:
+  yo: luché
+  tu: luchaste
+  vos: luchaste
+  ud: luchó
+  nosotros: luchamos
+  vosotros: luchasteis
+  uds: lucharon
+preterito-imperfecto:
+  yo: luchaba
+  tu: luchabas
+  vos: luchabas
+  ud: luchaba
+  nosotros: luchábamos
+  vosotros: luchabais
+  uds: luchaban
+futuro-simple:
+  yo: lucharé
+  tu: lucharás
+  vos: lucharás
+  ud: luchará
+  nosotros: lucharemos
+  vosotros: lucharéis
+  uds: lucharán
+condicional-simple:
+  yo: lucharía
+  tu: lucharías
+  vos: lucharías
+  ud: lucharía
+  nosotros: lucharíamos
+  vosotros: lucharíais
+  uds: lucharían
+presente-perfecto:
+  yo: he luchado
+  tu: has luchado
+  vos: has luchado
+  ud: ha luchado
+  nosotros: hemos luchado
+  vosotros: habéis luchado
+  uds: han luchado
+preterito-pluscuamperfecto:
+  yo: había luchado
+  tu: habías luchado
+  vos: habías luchado
+  ud: había luchado
+  nosotros: habíamos luchado
+  vosotros: habíais luchado
+  uds: habían luchado
+futuro-perfecto:
+  yo: habré luchado
+  tu: habrás luchado
+  vos: habrás luchado
+  ud: habrá luchado
+  nosotros: habremos luchado
+  vosotros: habréis luchado
+  uds: habrán luchado
+condicional-perfecto:
+  yo: habría luchado
+  tu: habrías luchado
+  vos: habrías luchado
+  ud: habría luchado
+  nosotros: habríamos luchado
+  vosotros: habríais luchado
+  uds: habrían luchado
+presente-subjuntivo:
+  yo: luche
+  tu: luches
+  vos: luches
+  ud: luche
+  nosotros: luchemos
+  vosotros: luchéis
+  uds: luchen
+preterito-perfecto-subjuntivo:
+  yo: haya luchado
+  tu: hayas luchado
+  vos: hayas luchado
+  ud: haya luchado
+  nosotros: hayamos luchado
+  vosotros: hayáis luchado
+  uds: hayan luchado
+imperfecto-subjuntivo:
+  yo:
+    - luchara
+    - luchase
+  tu:
+    - lucharas
+    - luchases
+  vos:
+    - lucharas
+    - luchases
+  ud:
+    - luchara
+    - luchase
+  nosotros:
+    - lucháramos
+    - luchásemos
+  vosotros:
+    - lucharais
+    - luchaseis
+  uds:
+    - lucharan
+    - luchasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera luchado
+    - hubiese luchado
+  tu:
+    - hubieras luchado
+    - hubieses luchado
+  vos:
+    - hubieras luchado
+    - hubieses luchado
+  ud:
+    - hubiera luchado
+    - hubiese luchado
+  nosotros:
+    - hubiéramos luchado
+    - hubiésemos luchado
+  vosotros:
+    - hubierais luchado
+    - hubieseis luchado
+  uds:
+    - hubieran luchado
+    - hubiesen luchado
+imperativo:
+  tu: lucha
+  vos: luchá
+  ud: luche
+  nosotros: luchemos
+  vosotros: luchad
+  uds: luchen

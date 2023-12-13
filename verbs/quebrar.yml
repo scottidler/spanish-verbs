@@ -1,0 +1,142 @@
+infinitivo: quebrar
+gerundio: quebrando
+participio-pasado: quebrado
+presente-indicativo:
+  yo: quebro
+  tu: quebras
+  vos: quebrás
+  ud: quebra
+  nosotros: quebramos
+  vosotros: quebráis
+  uds: quiebran
+preterito-perfecto-simple:
+  yo: quebré
+  tu: quebraste
+  vos: quebraste
+  ud: quebró
+  nosotros: quebramos
+  vosotros: quebrasteis
+  uds: quebraron
+preterito-imperfecto:
+  yo: quebraba
+  tu: quebrabas
+  vos: quebrabas
+  ud: quebraba
+  nosotros: quebrábamos
+  vosotros: quebrabais
+  uds: quebraban
+futuro-simple:
+  yo: quebraré
+  tu: quebrarás
+  vos: quebrarás
+  ud: quebrará
+  nosotros: quebraremos
+  vosotros: quebraréis
+  uds: quebrarán
+condicional-simple:
+  yo: quebraría
+  tu: quebrarías
+  vos: quebrarías
+  ud: quebraría
+  nosotros: quebraríamos
+  vosotros: quebraríais
+  uds: quebrarían
+presente-perfecto:
+  yo: he quebrado
+  tu: has quebrado
+  vos: has quebrado
+  ud: ha quebrado
+  nosotros: hemos quebrado
+  vosotros: habéis quebrado
+  uds: han quebrado
+preterito-pluscuamperfecto:
+  yo: había quebrado
+  tu: habías quebrado
+  vos: habías quebrado
+  ud: había quebrado
+  nosotros: habíamos quebrado
+  vosotros: habíais quebrado
+  uds: habían quebrado
+futuro-perfecto:
+  yo: habré quebrado
+  tu: habrás quebrado
+  vos: habrás quebrado
+  ud: habrá quebrado
+  nosotros: habremos quebrado
+  vosotros: habréis quebrado
+  uds: habrán quebrado
+condicional-perfecto:
+  yo: habría quebrado
+  tu: habrías quebrado
+  vos: habrías quebrado
+  ud: habría quebrado
+  nosotros: habríamos quebrado
+  vosotros: habríais quebrado
+  uds: habrían quebrado
+presente-subjuntivo:
+  yo: quiebre
+  tu: quiebres
+  vos: quiebres
+  ud: quiebre
+  nosotros: quiebremos
+  vosotros: quebréis
+  uds: quiebren
+preterito-perfecto-subjuntivo:
+  yo: haya quebrado
+  tu: hayas quebrado
+  vos: hayas quebrado
+  ud: haya quebrado
+  nosotros: hayamos quebrado
+  vosotros: hayáis quebrado
+  uds: hayan quebrado
+imperfecto-subjuntivo:
+  yo:
+    - quebrara
+    - quebrase
+  tu:
+    - quebraras
+    - quebrases
+  vos:
+    - quebraras
+    - quebrases
+  ud:
+    - quebrara
+    - quebrase
+  nosotros:
+    - quebráramos
+    - quebrásemos
+  vosotros:
+    - quebrarais
+    - quebraseis
+  uds:
+    - quebraran
+    - quebrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera quebrado
+    - hubiese quebrado
+  tu:
+    - hubieras quebrado
+    - hubieses quebrado
+  vos:
+    - hubieras quebrado
+    - hubieses quebrado
+  ud:
+    - hubiera quebrado
+    - hubiese quebrado
+  nosotros:
+    - hubiéramos quebrado
+    - hubiésemos quebrado
+  vosotros:
+    - hubierais quebrado
+    - hubieseis quebrado
+  uds:
+    - hubieran quebrado
+    - hubiesen quebrado
+imperativo:
+  tu: quiebra
+  vos: quiebrá
+  ud: quiebre
+  nosotros: quiebremos
+  vosotros: quebrad
+  uds: quiebren

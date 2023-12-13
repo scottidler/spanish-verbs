@@ -1,0 +1,142 @@
+infinitivo: fregar
+gerundio: fregando
+participio-pasado: fregado
+presente-indicativo:
+  yo: friego
+  tu: fregas
+  vos: fregás
+  ud: friega
+  nosotros: fregamos
+  vosotros: fregáis
+  uds: friegan
+preterito-perfecto-simple:
+  yo: fregué
+  tu: fregaste
+  vos: fregaste
+  ud: fregó
+  nosotros: fregamos
+  vosotros: fregasteis
+  uds: fregaron
+preterito-imperfecto:
+  yo: fregaba
+  tu: fregabas
+  vos: fregabas
+  ud: fregaba
+  nosotros: fregábamos
+  vosotros: fregabais
+  uds: fregaban
+futuro-simple:
+  yo: fregaré
+  tu: fregarás
+  vos: fregarás
+  ud: fregará
+  nosotros: fregaremos
+  vosotros: fregaréis
+  uds: fregarán
+condicional-simple:
+  yo: fregaría
+  tu: fregarías
+  vos: fregarías
+  ud: fregaría
+  nosotros: fregaríamos
+  vosotros: fregaríais
+  uds: fregarían
+presente-perfecto:
+  yo: he fregado
+  tu: has fregado
+  vos: has fregado
+  ud: ha fregado
+  nosotros: hemos fregado
+  vosotros: habéis fregado
+  uds: han fregado
+preterito-pluscuamperfecto:
+  yo: había fregado
+  tu: habías fregado
+  vos: habías fregado
+  ud: había fregado
+  nosotros: habíamos fregado
+  vosotros: habíais fregado
+  uds: habían fregado
+futuro-perfecto:
+  yo: habré fregado
+  tu: habrás fregado
+  vos: habrás fregado
+  ud: habrá fregado
+  nosotros: habremos fregado
+  vosotros: habréis fregado
+  uds: habrán fregado
+condicional-perfecto:
+  yo: habría fregado
+  tu: habrías fregado
+  vos: habrías fregado
+  ud: habría fregado
+  nosotros: habríamos fregado
+  vosotros: habríais fregado
+  uds: habrían fregado
+presente-subjuntivo:
+  yo: friegue
+  tu: friegues
+  vos: friegues
+  ud: friegue
+  nosotros: frieguemos
+  vosotros: freguéis
+  uds: frieguen
+preterito-perfecto-subjuntivo:
+  yo: haya fregado
+  tu: hayas fregado
+  vos: hayas fregado
+  ud: haya fregado
+  nosotros: hayamos fregado
+  vosotros: hayáis fregado
+  uds: hayan fregado
+imperfecto-subjuntivo:
+  yo:
+    - fregara
+    - fregase
+  tu:
+    - fregaras
+    - fregases
+  vos:
+    - fregaras
+    - fregases
+  ud:
+    - fregara
+    - fregase
+  nosotros:
+    - fregáramos
+    - fregásemos
+  vosotros:
+    - fregarais
+    - fregaseis
+  uds:
+    - fregaran
+    - fregasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fregado
+    - hubiese fregado
+  tu:
+    - hubieras fregado
+    - hubieses fregado
+  vos:
+    - hubieras fregado
+    - hubieses fregado
+  ud:
+    - hubiera fregado
+    - hubiese fregado
+  nosotros:
+    - hubiéramos fregado
+    - hubiésemos fregado
+  vosotros:
+    - hubierais fregado
+    - hubieseis fregado
+  uds:
+    - hubieran fregado
+    - hubiesen fregado
+imperativo:
+  tu: friega
+  vos: fregá
+  ud: friegue
+  nosotros: frieguemos
+  vosotros: fregad
+  uds: frieguen

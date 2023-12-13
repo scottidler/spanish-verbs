@@ -1,0 +1,142 @@
+infinitivo: destrozar
+gerundio: destrozando
+participio-pasado: destrozado
+presente-indicativo:
+  yo: destrozo
+  tu: destrozas
+  vos: destrozas
+  ud: destroza
+  nosotros: destrozamos
+  vosotros: destrozáis
+  uds: destrozan
+preterito-perfecto-simple:
+  yo: destrocé
+  tu: destrozaste
+  vos: destrozaste
+  ud: destrozó
+  nosotros: destrozamos
+  vosotros: destrozasteis
+  uds: destrozaron
+preterito-imperfecto:
+  yo: destrozaba
+  tu: destrozabas
+  vos: destrozabas
+  ud: destrozaba
+  nosotros: destrozábamos
+  vosotros: destrozabais
+  uds: destrozaban
+futuro-simple:
+  yo: destrozaré
+  tu: destrozarás
+  vos: destrozarás
+  ud: destrozará
+  nosotros: destrozaremos
+  vosotros: destrozaréis
+  uds: destrozarán
+condicional-simple:
+  yo: destrozaría
+  tu: destrozarías
+  vos: destrozarías
+  ud: destrozaría
+  nosotros: destrozaríamos
+  vosotros: destrozaríais
+  uds: destrozarían
+presente-perfecto:
+  yo: he destrozado
+  tu: has destrozado
+  vos: has destrozado
+  ud: ha destrozado
+  nosotros: hemos destrozado
+  vosotros: habéis destrozado
+  uds: han destrozado
+preterito-pluscuamperfecto:
+  yo: había destrozado
+  tu: habías destrozado
+  vos: habías destrozado
+  ud: había destrozado
+  nosotros: habíamos destrozado
+  vosotros: habíais destrozado
+  uds: habían destrozado
+futuro-perfecto:
+  yo: habré destrozado
+  tu: habrás destrozado
+  vos: habrás destrozado
+  ud: habrá destrozado
+  nosotros: habremos destrozado
+  vosotros: habréis destrozado
+  uds: habrán destrozado
+condicional-perfecto:
+  yo: habría destrozado
+  tu: habrías destrozado
+  vos: habrías destrozado
+  ud: habría destrozado
+  nosotros: habríamos destrozado
+  vosotros: habríais destrozado
+  uds: habrían destrozado
+presente-subjuntivo:
+  yo: destroce
+  tu: destroces
+  vos: destroces
+  ud: destroce
+  nosotros: destrocemos
+  vosotros: destrocéis
+  uds: destrocen
+preterito-perfecto-subjuntivo:
+  yo: haya destrozado
+  tu: hayas destrozado
+  vos: hayas destrozado
+  ud: haya destrozado
+  nosotros: hayamos destrozado
+  vosotros: hayáis destrozado
+  uds: hayan destrozado
+imperfecto-subjuntivo:
+  yo:
+    - destrozara
+    - destrozase
+  tu:
+    - destrozaras
+    - destrozases
+  vos:
+    - destrozaras
+    - destrozases
+  ud:
+    - destrozara
+    - destrozase
+  nosotros:
+    - destrozáramos
+    - destrozásemos
+  vosotros:
+    - destrozarais
+    - destrozaseis
+  uds:
+    - destrozaran
+    - destrozasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera destrozado
+    - hubiese destrozado
+  tu:
+    - hubieras destrozado
+    - hubieses destrozado
+  vos:
+    - hubieras destrozado
+    - hubieses destrozado
+  ud:
+    - hubiera destrozado
+    - hubiese destrozado
+  nosotros:
+    - hubiéramos destrozado
+    - hubiésemos destrozado
+  vosotros:
+    - hubierais destrozado
+    - hubieseis destrozado
+  uds:
+    - hubieran destrozado
+    - hubiesen destrozado
+imperativo:
+  tu: destroza
+  vos: destrozá
+  ud: destroce
+  nosotros: destrocemos
+  vosotros: destrozad
+  uds: destrocen

@@ -1,0 +1,142 @@
+infinitivo: moverse
+gerundio: moviéndose
+participio-pasado: movido
+presente-indicativo:
+  yo: me muevo
+  tu: te mueves
+  vos: te movés
+  ud: se mueve
+  nosotros: nos movemos
+  vosotros: os movéis
+  uds: se mueven
+preterito-perfecto-simple:
+  yo: me moví
+  tu: te moviste
+  vos: te moviste
+  ud: se movió
+  nosotros: nos movimos
+  vosotros: os movisteis
+  uds: se movieron
+preterito-imperfecto:
+  yo: me movía
+  tu: te movías
+  vos: te movías
+  ud: se movía
+  nosotros: nos movíamos
+  vosotros: os movíais
+  uds: se movían
+futuro-simple:
+  yo: me moveré
+  tu: te moverás
+  vos: te moverás
+  ud: se moverá
+  nosotros: nos moveremos
+  vosotros: os moveréis
+  uds: se moverán
+condicional-simple:
+  yo: me movería
+  tu: te moverías
+  vos: te moverías
+  ud: se movería
+  nosotros: nos moveríamos
+  vosotros: os moveríais
+  uds: se moverían
+presente-perfecto:
+  yo: me he movido
+  tu: te has movido
+  vos: te has movido
+  ud: se ha movido
+  nosotros: nos hemos movido
+  vosotros: os habéis movido
+  uds: se han movido
+preterito-pluscuamperfecto:
+  yo: me había movido
+  tu: te habías movido
+  vos: te habías movido
+  ud: se había movido
+  nosotros: nos habíamos movido
+  vosotros: os habíais movido
+  uds: se habían movido
+futuro-perfecto:
+  yo: me habré movido
+  tu: te habrás movido
+  vos: te habrás movido
+  ud: se habrá movido
+  nosotros: nos habremos movido
+  vosotros: os habréis movido
+  uds: se habrán movido
+condicional-perfecto:
+  yo: me habría movido
+  tu: te habrías movido
+  vos: te habrías movido
+  ud: se habría movido
+  nosotros: nos habríamos movido
+  vosotros: os habríais movido
+  uds: se habrían movido
+presente-subjuntivo:
+  yo: me mueva
+  tu: te muevas
+  vos: te muevas
+  ud: se mueva
+  nosotros: nos movamos
+  vosotros: os mováis
+  uds: se muevan
+preterito-perfecto-subjuntivo:
+  yo: me haya movido
+  tu: te hayas movido
+  vos: te hayas movido
+  ud: se haya movido
+  nosotros: nos hayamos movido
+  vosotros: os hayáis movido
+  uds: se hayan movido
+imperfecto-subjuntivo:
+  yo:
+    - me moviera
+    - me moviese
+  tu:
+    - te movieras
+    - te movieses
+  vos:
+    - te movieras
+    - te movieses
+  ud:
+    - se moviera
+    - se moviese
+  nosotros:
+    - nos moviéramos
+    - nos moviésemos
+  vosotros:
+    - os movieseis
+    - os movierais
+  uds:
+    - se movieran
+    - se moviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera movido
+    - me hubiese movido
+  tu:
+    - te hubieras movido
+    - te hubieses movido
+  vos:
+    - te hubieras movido
+    - te hubieses movido
+  ud:
+    - se hubiera movido
+    - se hubiese movido
+  nosotros:
+    - nos hubiéramos movido
+    - nos hubiésemos movido
+  vosotros:
+    - os hubierais movido
+    - os hubieseis movido
+  uds:
+    - se hubieran movido
+    - se hubiesen movido
+imperativo:
+  tu: muévete
+  vos: movete
+  ud: muévase
+  nosotros: movámonos
+  vosotros: moved
+  uds: muévanse

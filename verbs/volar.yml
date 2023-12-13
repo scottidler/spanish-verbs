@@ -1,0 +1,142 @@
+infinitivo: volar
+gerundio: volando
+participio-pasado: volado
+presente-indicativo:
+  yo: vuelo
+  tu: vuelas
+  vos: volás
+  ud: vuela
+  nosotros: volamos
+  vosotros: voláis
+  uds: vuelan
+preterito-perfecto-simple:
+  yo: volé
+  tu: volaste
+  vos: volaste
+  ud: voló
+  nosotros: volamos
+  vosotros: volasteis
+  uds: volaron
+preterito-imperfecto:
+  yo: volaba
+  tu: volabas
+  vos: volabas
+  ud: volaba
+  nosotros: volábamos
+  vosotros: volabais
+  uds: volaban
+futuro-simple:
+  yo: volaré
+  tu: volarás
+  vos: volarás
+  ud: volará
+  nosotros: volaremos
+  vosotros: volaréis
+  uds: volarán
+condicional-simple:
+  yo: volaría
+  tu: volarías
+  vos: volarías
+  ud: volaría
+  nosotros: volaríamos
+  vosotros: volaríais
+  uds: volarían
+presente-perfecto:
+  yo: he volado
+  tu: has volado
+  vos: has volado
+  ud: ha volado
+  nosotros: hemos volado
+  vosotros: habéis volado
+  uds: han volado
+preterito-pluscuamperfecto:
+  yo: había volado
+  tu: habías volado
+  vos: habías volado
+  ud: había volado
+  nosotros: habíamos volado
+  vosotros: habíais volado
+  uds: habían volado
+futuro-perfecto:
+  yo: habré volado
+  tu: habrás volado
+  vos: habrás volado
+  ud: habrá volado
+  nosotros: habremos volado
+  vosotros: habréis volado
+  uds: habrán volado
+condicional-perfecto:
+  yo: habría volado
+  tu: habrías volado
+  vos: habrías volado
+  ud: habría volado
+  nosotros: habríamos volado
+  vosotros: habríais volado
+  uds: habrían volado
+presente-subjuntivo:
+  yo: vuele
+  tu: vueles
+  vos: vueles
+  ud: vuele
+  nosotros: volemos
+  vosotros: voléis
+  uds: vuelen
+preterito-perfecto-subjuntivo:
+  yo: haya volado
+  tu: hayas volado
+  vos: hayas volado
+  ud: haya volado
+  nosotros: hayamos volado
+  vosotros: hayáis volado
+  uds: hayan volado
+imperfecto-subjuntivo:
+  yo:
+    - volara
+    - volase
+  tu:
+    - volaras
+    - volases
+  vos:
+    - volaras
+    - volases
+  ud:
+    - volara
+    - volase
+  nosotros:
+    - voláramos
+    - volásemos
+  vosotros:
+    - volarais
+    - volaseis
+  uds:
+    - volaran
+    - volasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera volado
+    - hubiese volado
+  tu:
+    - hubieras volado
+    - hubieses volado
+  vos:
+    - hubieras volado
+    - hubieses volado
+  ud:
+    - hubiera volado
+    - hubiese volado
+  nosotros:
+    - hubiéramos volado
+    - hubiésemos volado
+  vosotros:
+    - hubierais volado
+    - hubieseis volado
+  uds:
+    - hubieran volado
+    - hubiesen volado
+imperativo:
+  tu: vuela
+  vos: volá
+  ud: vuele
+  nosotros: volamos
+  vosotros: volad
+  uds: vuelen

@@ -1,0 +1,142 @@
+infinitivo: enfrentarse
+gerundio: enfrentándose
+participio-pasado: enfrentado
+presente-indicativo:
+  yo: me enfrento
+  tu: te enfrentas
+  vos: te enfrentas
+  ud: se enfrenta
+  nosotros: nos enfrentamos
+  vosotros: os enfrentáis
+  uds: se enfrentan
+preterito-perfecto-simple:
+  yo: me enfrenté
+  tu: te enfrentaste
+  vos: te enfrentaste
+  ud: se enfrentó
+  nosotros: nos enfrentamos
+  vosotros: os enfrentasteis
+  uds: se enfrentaron
+preterito-imperfecto:
+  yo: me enfrentaba
+  tu: te enfrentabas
+  vos: te enfrentabas
+  ud: se enfrentaba
+  nosotros: nos enfrentábamos
+  vosotros: os enfrentabais
+  uds: se enfrentaban
+futuro-simple:
+  yo: me enfrentaré
+  tu: te enfrentarás
+  vos: te enfrentarás
+  ud: se enfrentará
+  nosotros: nos enfrentaremos
+  vosotros: os enfrentaréis
+  uds: se enfrentarán
+condicional-simple:
+  yo: me enfrentaría
+  tu: te enfrentarías
+  vos: te enfrentarías
+  ud: se enfrentaría
+  nosotros: nos enfrentaríamos
+  vosotros: os enfrentaríais
+  uds: se enfrentarían
+presente-perfecto:
+  yo: me he enfrentado
+  tu: te has enfrentado
+  vos: te has enfrentado
+  ud: se ha enfrentado
+  nosotros: nos hemos enfrentado
+  vosotros: os habéis enfrentado
+  uds: se han enfrentado
+preterito-pluscuamperfecto:
+  yo: me había enfrentado
+  tu: te habías enfrentado
+  vos: te habías enfrentado
+  ud: se había enfrentado
+  nosotros: nos habíamos enfrentado
+  vosotros: os habíais enfrentado
+  uds: se habían enfrentado
+futuro-perfecto:
+  yo: me habré enfrentado
+  tu: te habrás enfrentado
+  vos: te habrás enfrentado
+  ud: se habrá enfrentado
+  nosotros: nos habremos enfrentado
+  vosotros: os habréis enfrentado
+  uds: se habrán enfrentado
+condicional-perfecto:
+  yo: me habría enfrentado
+  tu: te habrías enfrentado
+  vos: te habrías enfrentado
+  ud: se habría enfrentado
+  nosotros: nos habríamos enfrentado
+  vosotros: os habríais enfrentado
+  uds: se habrían enfrentado
+presente-subjuntivo:
+  yo: me enfrente
+  tu: te enfrentes
+  vos: te enfrentes
+  ud: se enfrente
+  nosotros: nos enfrentemos
+  vosotros: os enfrentéis
+  uds: se enfrenten
+preterito-perfecto-subjuntivo:
+  yo: me haya enfrentado
+  tu: te hayas enfrentado
+  vos: te hayas enfrentado
+  ud: se haya enfrentado
+  nosotros: nos hayamos enfrentado
+  vosotros: os hayáis enfrentado
+  uds: se hayan enfrentado
+imperfecto-subjuntivo:
+  yo:
+    - me enfrentara
+    - me enfrentase
+  tu:
+    - te enfrentaras
+    - te enfrentases
+  vos:
+    - te enfrentaras
+    - te enfrentases
+  ud:
+    - se enfrentara
+    - se enfrentase
+  nosotros:
+    - nos enfrentáramos
+    - nos enfrentásemos
+  vosotros:
+    - os enfrentarais
+    - os enfrentaseis
+  uds:
+    - se enfrentaran
+    - se enfrentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera enfrentado
+    - me hubiese enfrentado
+  tu:
+    - te hubieras enfrentado
+    - te hubieses enfrentado
+  vos:
+    - te hubieras enfrentado
+    - te hubieses enfrentado
+  ud:
+    - se hubiera enfrentado
+    - se hubiese enfrentado
+  nosotros:
+    - nos hubiéramos enfrentado
+    - nos hubiésemos enfrentado
+  vosotros:
+    - os hubierais enfrentado
+    - os hubieseis enfrentado
+  uds:
+    - se hubieran enfrentado
+    - se hubiesen enfrentado
+imperativo:
+  tu: enfréntate
+  vos: enfréntate
+  ud: enfrente
+  nosotros: enfrentémonos
+  vosotros: enfrentaos
+  uds: enfrenten

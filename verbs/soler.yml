@@ -1,0 +1,142 @@
+infinitivo: soler
+gerundio: soliendo
+participio-pasado: soledo
+presente-indicativo:
+  yo: suelo
+  tu: sueles
+  vos: solés
+  ud: suele
+  nosotros: solemos
+  vosotros: soléis
+  uds: suelen
+preterito-perfecto-simple:
+  yo: solí
+  tu: soliste
+  vos: soliste
+  ud: solió
+  nosotros: solimos
+  vosotros: solisteis
+  uds: solieron
+preterito-imperfecto:
+  yo: solía
+  tu: solías
+  vos: solías
+  ud: solía
+  nosotros: solíamos
+  vosotros: solíais
+  uds: solían
+futuro-simple:
+  yo: soeré
+  tu: soerás
+  vos: soerás
+  ud: soerá
+  nosotros: soeremos
+  vosotros: soeréis
+  uds: soerán
+condicional-simple:
+  yo: soería
+  tu: soerías
+  vos: soerías
+  ud: soería
+  nosotros: soeríamos
+  vosotros: soeríais
+  uds: soerían
+presente-perfecto:
+  yo: he soledo
+  tu: has soledo
+  vos: has soledo
+  ud: ha soledo
+  nosotros: hemos soledo
+  vosotros: habéis soledo
+  uds: han soledo
+preterito-pluscuamperfecto:
+  yo: había soledo
+  tu: habías soledo
+  vos: habías soledo
+  ud: había soledo
+  nosotros: habíamos soledo
+  vosotros: habíais soledo
+  uds: habían soledo
+futuro-perfecto:
+  yo: habré soledo
+  tu: habrás soledo
+  vos: habrás soledo
+  ud: habrá soledo
+  nosotros: habremos soledo
+  vosotros: habréis soledo
+  uds: habrán soledo
+condicional-perfecto:
+  yo: habría soledo
+  tu: habrías soledo
+  vos: habrías soledo
+  ud: habría soledo
+  nosotros: habríamos soledo
+  vosotros: habríais soledo
+  uds: habrían soledo
+presente-subjuntivo:
+  yo: suela
+  tu: sueles
+  vos: solés
+  ud: suele
+  nosotros: solemos
+  vosotros: soléis
+  uds: suelen
+preterito-perfecto-subjuntivo:
+  yo: haya soledo
+  tu: hayas soledo
+  vos: hayas soledo
+  ud: haya soledo
+  nosotros: hayamos soledo
+  vosotros: hayáis soledo
+  uds: hayan soledo
+imperfecto-subjuntivo:
+  yo:
+    - solera
+    - soliese
+  tu:
+    - soleras
+    - solieses
+  vos:
+    - soleras
+    - solieses
+  ud:
+    - solera
+    - soliese
+  nosotros:
+    - soléramos
+    - soliésemos
+  vosotros:
+    - solerais
+    - solieseis
+  uds:
+    - soleran
+    - soliesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera soledo
+    - hubiese soledo
+  tu:
+    - hubieras soledo
+    - hubieses soledo
+  vos:
+    - hubieras soledo
+    - hubieses soledo
+  ud:
+    - hubiera soledo
+    - hubiese soledo
+  nosotros:
+    - hubiéramos soledo
+    - hubiésemos soledo
+  vosotros:
+    - hubierais soledo
+    - hubieseis soledo
+  uds:
+    - hubieran soledo
+    - hubiesen soledo
+imperativo:
+  tu: soñe
+  vos: solé
+  ud: suela
+  nosotros: solemos
+  vosotros: solsed
+  uds: suelan

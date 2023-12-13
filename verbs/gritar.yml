@@ -1,0 +1,142 @@
+infinitivo: gritar
+gerundio: gritando
+participio-pasado: gritado
+presente-indicativo:
+  yo: grito
+  tu: gritas
+  vos: gritás
+  ud: grita
+  nosotros: gritamos
+  vosotros: gritáis
+  uds: gritan
+preterito-perfecto-simple:
+  yo: grité
+  tu: gritaste
+  vos: gritaste
+  ud: gritó
+  nosotros: gritamos
+  vosotros: gritasteis
+  uds: gritaron
+preterito-imperfecto:
+  yo: gritaba
+  tu: gritabas
+  vos: gritabas
+  ud: gritaba
+  nosotros: gritábamos
+  vosotros: gritabais
+  uds: gritaban
+futuro-simple:
+  yo: gritaré
+  tu: gritarás
+  vos: gritarás
+  ud: gritará
+  nosotros: gritaremos
+  vosotros: gritaréis
+  uds: gritarán
+condicional-simple:
+  yo: gritaría
+  tu: gritarías
+  vos: gritarías
+  ud: gritaría
+  nosotros: gritaríamos
+  vosotros: gritaríais
+  uds: gritarían
+presente-perfecto:
+  yo: he gritado
+  tu: has gritado
+  vos: has gritado
+  ud: ha gritado
+  nosotros: hemos gritado
+  vosotros: habéis gritado
+  uds: han gritado
+preterito-pluscuamperfecto:
+  yo: había gritado
+  tu: habías gritado
+  vos: habías gritado
+  ud: había gritado
+  nosotros: habíamos gritado
+  vosotros: habíais gritado
+  uds: habían gritado
+futuro-perfecto:
+  yo: habré gritado
+  tu: habrás gritado
+  vos: habrás gritado
+  ud: habrá gritado
+  nosotros: habremos gritado
+  vosotros: habréis gritado
+  uds: habrán gritado
+condicional-perfecto:
+  yo: habría gritado
+  tu: habrías gritado
+  vos: habrías gritado
+  ud: habría gritado
+  nosotros: habríamos gritado
+  vosotros: habríais gritado
+  uds: habrían gritado
+presente-subjuntivo:
+  yo: grite
+  tu: grites
+  vos: grites
+  ud: grite
+  nosotros: gritemos
+  vosotros: gritéis
+  uds: griten
+preterito-perfecto-subjuntivo:
+  yo: haya gritado
+  tu: hayas gritado
+  vos: hayas gritado
+  ud: haya gritado
+  nosotros: hayamos gritado
+  vosotros: hayáis gritado
+  uds: hayan gritado
+imperfecto-subjuntivo:
+  yo:
+    - gritara
+    - gritase
+  tu:
+    - gritaras
+    - gritases
+  vos:
+    - gritaras
+    - gritases
+  ud:
+    - gritara
+    - gritase
+  nosotros:
+    - gritáramos
+    - gritásemos
+  vosotros:
+    - gritarais
+    - gritaseis
+  uds:
+    - gritaran
+    - gritasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gritado
+    - hubiese gritado
+  tu:
+    - hubieras gritado
+    - hubieses gritado
+  vos:
+    - hubieras gritado
+    - hubieses gritado
+  ud:
+    - hubiera gritado
+    - hubiese gritado
+  nosotros:
+    - hubiéramos gritado
+    - hubiésemos gritado
+  vosotros:
+    - hubierais gritado
+    - hubieseis gritado
+  uds:
+    - hubieran gritado
+    - hubiesen gritado
+imperativo:
+  tu: grita
+  vos: gritá
+  ud: grite
+  nosotros: gritemos
+  vosotros: gritad
+  uds: griten

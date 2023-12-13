@@ -1,0 +1,142 @@
+infinitivo: recordar
+gerundio: recordando
+participio-pasado: recordado
+presente-indicativo:
+  yo: recuerdo
+  tu: recuerdas
+  vos: recuerdas
+  ud: recuerda
+  nosotros: recordamos
+  vosotros: recordáis
+  uds: recuerdan
+preterito-perfecto-simple:
+  yo: recordé
+  tu: recordaste
+  vos: recordaste
+  ud: recordó
+  nosotros: recordamos
+  vosotros: recordasteis
+  uds: recordaron
+preterito-imperfecto:
+  yo: recordaba
+  tu: recordabas
+  vos: recordabas
+  ud: recordaba
+  nosotros: recordábamos
+  vosotros: recordabais
+  uds: recordaban
+futuro-simple:
+  yo: recordaré
+  tu: recordarás
+  vos: recordarás
+  ud: recordará
+  nosotros: recordaremos
+  vosotros: recordaréis
+  uds: recordarán
+condicional-simple:
+  yo: recordaría
+  tu: recordarías
+  vos: recordarías
+  ud: recordaría
+  nosotros: recordaríamos
+  vosotros: recordaríais
+  uds: recordarían
+presente-perfecto:
+  yo: he recordado
+  tu: has recordado
+  vos: has recordado
+  ud: ha recordado
+  nosotros: hemos recordado
+  vosotros: habéis recordado
+  uds: han recordado
+preterito-pluscuamperfecto:
+  yo: había recordado
+  tu: habías recordado
+  vos: habías recordado
+  ud: había recordado
+  nosotros: habíamos recordado
+  vosotros: habíais recordado
+  uds: habían recordado
+futuro-perfecto:
+  yo: habré recordado
+  tu: habrás recordado
+  vos: habrás recordado
+  ud: habrá recordado
+  nosotros: habremos recordado
+  vosotros: habréis recordado
+  uds: habrán recordado
+condicional-perfecto:
+  yo: habría recordado
+  tu: habrías recordado
+  vos: habrías recordado
+  ud: habría recordado
+  nosotros: habríamos recordado
+  vosotros: habríais recordado
+  uds: habrían recordado
+presente-subjuntivo:
+  yo: recuerde
+  tu: recuerdes
+  vos: recuerdes
+  ud: recuerde
+  nosotros: recordemos
+  vosotros: recordéis
+  uds: recuerden
+preterito-perfecto-subjuntivo:
+  yo: haya recordado
+  tu: hayas recordado
+  vos: hayas recordado
+  ud: haya recordado
+  nosotros: hayamos recordado
+  vosotros: hayáis recordado
+  uds: hayan recordado
+imperfecto-subjuntivo:
+  yo:
+    - recordara
+    - recordase
+  tu:
+    - recordaras
+    - recordases
+  vos:
+    - recordaras
+    - recordases
+  ud:
+    - recordara
+    - recordase
+  nosotros:
+    - recordáramos
+    - recordásemos
+  vosotros:
+    - recordarais
+    - recordaseis
+  uds:
+    - recordaran
+    - recordasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recordado
+    - hubiese recordado
+  tu:
+    - hubieras recordado
+    - hubieses recordado
+  vos:
+    - hubieras recordado
+    - hubieses recordado
+  ud:
+    - hubiera recordado
+    - hubiese recordado
+  nosotros:
+    - hubiéramos recordado
+    - hubiésemos recordado
+  vosotros:
+    - hubierais recordado
+    - hubieseis recordado
+  uds:
+    - hubieran recordado
+    - hubiesen recordado
+imperativo:
+  tu: recuerda
+  vos: recordá
+  ud: recuerde
+  nosotros: recordemos
+  vosotros: recordad
+  uds: recuerden

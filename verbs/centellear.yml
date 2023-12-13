@@ -1,0 +1,142 @@
+infinitivo: centellear
+gerundio: centelleando
+participio-pasado: centelleado
+presente-indicativo:
+  yo: centelleo
+  tu: centelleas
+  vos: centelleás
+  ud: centellea
+  nosotros: centelleamos
+  vosotros: centelleáis
+  uds: centellean
+preterito-perfecto-simple:
+  yo: centelleé
+  tu: centelleaste
+  vos: centelleaste
+  ud: centelleó
+  nosotros: centelleamos
+  vosotros: centelleasteis
+  uds: centellearon
+preterito-imperfecto:
+  yo: centelleaba
+  tu: centelleabas
+  vos: centelleabas
+  ud: centelleaba
+  nosotros: centelleábamos
+  vosotros: centelleabais
+  uds: centelleaban
+futuro-simple:
+  yo: centellearé
+  tu: centellearás
+  vos: centellearás
+  ud: centelleará
+  nosotros: centellearemos
+  vosotros: centellearéis
+  uds: centellearán
+condicional-simple:
+  yo: centellearía
+  tu: centellearías
+  vos: centellearías
+  ud: centellearía
+  nosotros: centellearíamos
+  vosotros: centellearíais
+  uds: centellearían
+presente-perfecto:
+  yo: he centelleado
+  tu: has centelleado
+  vos: has centelleado
+  ud: ha centelleado
+  nosotros: hemos centelleado
+  vosotros: habéis centelleado
+  uds: han centelleado
+preterito-pluscuamperfecto:
+  yo: había centelleado
+  tu: habías centelleado
+  vos: habías centelleado
+  ud: había centelleado
+  nosotros: habíamos centelleado
+  vosotros: habíais centelleado
+  uds: habían centelleado
+futuro-perfecto:
+  yo: habré centelleado
+  tu: habrás centelleado
+  vos: habrás centelleado
+  ud: habrá centelleado
+  nosotros: habremos centelleado
+  vosotros: habréis centelleado
+  uds: habrán centelleado
+condicional-perfecto:
+  yo: habría centelleado
+  tu: habrías centelleado
+  vos: habrías centelleado
+  ud: habría centelleado
+  nosotros: habríamos centelleado
+  vosotros: habríais centelleado
+  uds: habrían centelleado
+presente-subjuntivo:
+  yo: centellee
+  tu: centellees
+  vos: centellees
+  ud: centellee
+  nosotros: centelleemos
+  vosotros: centeleeis
+  uds: centelleen
+preterito-perfecto-subjuntivo:
+  yo: haya centelleado
+  tu: hayas centelleado
+  vos: hayas centelleado
+  ud: haya centelleado
+  nosotros: hayamos centelleado
+  vosotros: hayáis centelleado
+  uds: hayan centelleado
+imperfecto-subjuntivo:
+  yo:
+    - centelleara
+    - centelease
+  tu:
+    - centellearas
+    - centeleses
+  vos:
+    - centellearas
+    - centeleses
+  ud:
+    - centelleara
+    - centelease
+  nosotros:
+    - centellemos
+    - centelemos
+  vosotros:
+    - centellearais
+    - centeleaseis
+  uds:
+    - centellearan
+    - centelesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera centelleado
+    - hubiese centelleado
+  tu:
+    - hubieras centelleado
+    - hubieses centelleado
+  vos:
+    - hubieras centelleado
+    - hubieses centelleado
+  ud:
+    - hubiera centelleado
+    - hubiese centelleado
+  nosotros:
+    - hubiéramos centelleado
+    - hubiésemos centelleado
+  vosotros:
+    - hubierais centelleado
+    - hubieseis centelleado
+  uds:
+    - hubieran centelleado
+    - hubiesen centelleado
+imperativo:
+  tu: centellea
+  vos: centelleá
+  ud: centellee
+  nosotros: centelleemos
+  vosotros: centellead
+  uds: centelleen

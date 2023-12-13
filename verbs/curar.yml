@@ -1,0 +1,142 @@
+infinitivo: curar
+gerundio: curando
+participio-pasado: curado
+presente-indicativo:
+  yo: curo
+  tu: curas
+  vos: curás
+  ud: cura
+  nosotros: curamos
+  vosotros: curáis
+  uds: curan
+preterito-perfecto-simple:
+  yo: curé
+  tu: curaste
+  vos: curaste
+  ud: curó
+  nosotros: curamos
+  vosotros: curasteis
+  uds: curaron
+preterito-imperfecto:
+  yo: curaba
+  tu: curabas
+  vos: curabas
+  ud: curaba
+  nosotros: curábamos
+  vosotros: curabais
+  uds: curaban
+futuro-simple:
+  yo: curaré
+  tu: curarás
+  vos: curarás
+  ud: curará
+  nosotros: curaremos
+  vosotros: curaréis
+  uds: curarán
+condicional-simple:
+  yo: curaría
+  tu: curarías
+  vos: curarías
+  ud: curaría
+  nosotros: curaríamos
+  vosotros: curaríais
+  uds: curarían
+presente-perfecto:
+  yo: he curado
+  tu: has curado
+  vos: has curado
+  ud: ha curado
+  nosotros: hemos curado
+  vosotros: habéis curado
+  uds: han curado
+preterito-pluscuamperfecto:
+  yo: había curado
+  tu: habías curado
+  vos: habías curado
+  ud: había curado
+  nosotros: habíamos curado
+  vosotros: habíais curado
+  uds: habían curado
+futuro-perfecto:
+  yo: habré curado
+  tu: habrás curado
+  vos: habrás curado
+  ud: habrá curado
+  nosotros: habremos curado
+  vosotros: habréis curado
+  uds: habrán curado
+condicional-perfecto:
+  yo: habría curado
+  tu: habrías curado
+  vos: habrías curado
+  ud: habría curado
+  nosotros: habríamos curado
+  vosotros: habríais curado
+  uds: habrían curado
+presente-subjuntivo:
+  yo: cure
+  tu: cures
+  vos: cures
+  ud: cure
+  nosotros: curemos
+  vosotros: curéis
+  uds: curen
+preterito-perfecto-subjuntivo:
+  yo: haya curado
+  tu: hayas curado
+  vos: hayas curado
+  ud: haya curado
+  nosotros: hayamos curado
+  vosotros: hayáis curado
+  uds: hayan curado
+imperfecto-subjuntivo:
+  yo:
+    - curara
+    - curase
+  tu:
+    - curaras
+    - curases
+  vos:
+    - curaras
+    - curases
+  ud:
+    - curara
+    - curase
+  nosotros:
+    - curáramos
+    - curásemos
+  vosotros:
+    - curarais
+    - curaseis
+  uds:
+    - curaran
+    - curasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera curado
+    - hubiese curado
+  tu:
+    - hubieras curado
+    - hubieses curado
+  vos:
+    - hubieras curado
+    - hubieses curado
+  ud:
+    - hubiera curado
+    - hubiese curado
+  nosotros:
+    - hubiéramos curado
+    - hubiésemos curado
+  vosotros:
+    - hubierais curado
+    - hubieseis curado
+  uds:
+    - hubieran curado
+    - hubiesen curado
+imperativo:
+  tu: cura
+  vos: curá
+  ud: cure
+  nosotros: curemos
+  vosotros: curad
+  uds: curen

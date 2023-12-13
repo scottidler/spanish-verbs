@@ -1,0 +1,142 @@
+infinitivo: meter
+gerundio: metiendo
+participio-pasado: metido
+presente-indicativo:
+  yo: meto
+  tu: metes
+  vos: metes
+  ud: mete
+  nosotros: metemos
+  vosotros: metéis
+  uds: meten
+preterito-perfecto-simple:
+  yo: metí
+  tu: metiste
+  vos: metiste
+  ud: metió
+  nosotros: metimos
+  vosotros: metisteis
+  uds: metieron
+preterito-imperfecto:
+  yo: metía
+  tu: metías
+  vos: metías
+  ud: metía
+  nosotros: metíamos
+  vosotros: metíais
+  uds: metían
+futuro-simple:
+  yo: meteré
+  tu: meterás
+  vos: meterás
+  ud: meterá
+  nosotros: meteremos
+  vosotros: meteréis
+  uds: meterán
+condicional-simple:
+  yo: metería
+  tu: meterías
+  vos: meterías
+  ud: metería
+  nosotros: meteríamos
+  vosotros: meteríais
+  uds: meterían
+presente-perfecto:
+  yo: he metido
+  tu: has metido
+  vos: has metido
+  ud: ha metido
+  nosotros: hemos metido
+  vosotros: habéis metido
+  uds: han metido
+preterito-pluscuamperfecto:
+  yo: había metido
+  tu: habías metido
+  vos: habías metido
+  ud: había metido
+  nosotros: habíamos metido
+  vosotros: habíais metido
+  uds: habían metido
+futuro-perfecto:
+  yo: habré metido
+  tu: habrás metido
+  vos: habrás metido
+  ud: habrá metido
+  nosotros: habremos metido
+  vosotros: habréis metido
+  uds: habrán metido
+condicional-perfecto:
+  yo: habría metido
+  tu: habrías metido
+  vos: habrías metido
+  ud: habría metido
+  nosotros: habríamos metido
+  vosotros: habríais metido
+  uds: habrían metido
+presente-subjuntivo:
+  yo: meta
+  tu: metas
+  vos: metas
+  ud: meta
+  nosotros: metamos
+  vosotros: metáis
+  uds: metan
+preterito-perfecto-subjuntivo:
+  yo: haya metido
+  tu: hayas metido
+  vos: hayas metido
+  ud: haya metido
+  nosotros: hayamos metido
+  vosotros: hayáis metido
+  uds: hayan metido
+imperfecto-subjuntivo:
+  yo:
+    - metiera
+    - metiese
+  tu:
+    - metieras
+    - metieses
+  vos:
+    - metieras
+    - metieses
+  ud:
+    - metiera
+    - metiese
+  nosotros:
+    - metiéramos
+    - metiésemos
+  vosotros:
+    - metierais
+    - metieseis
+  uds:
+    - metieran
+    - metiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera metido
+    - hubiese metido
+  tu:
+    - hubieras metido
+    - hubieses metido
+  vos:
+    - hubieras metido
+    - hubieses metido
+  ud:
+    - hubiera metido
+    - hubiese metido
+  nosotros:
+    - hubiéramos metido
+    - hubiésemos metido
+  vosotros:
+    - hubierais metido
+    - hubieseis metido
+  uds:
+    - hubieran metido
+    - hubiesen metido
+imperativo:
+  tu: mete
+  vos: mete
+  ud: meta
+  nosotros: metamos
+  vosotros: meted
+  uds: metan

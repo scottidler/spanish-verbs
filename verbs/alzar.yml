@@ -1,0 +1,142 @@
+infinitivo: alzar
+gerundio: alzando
+participio-pasado: alzado
+presente-indicativo:
+  yo: alzo
+  tu: alzas
+  vos: alzas
+  ud: alza
+  nosotros: alzamos
+  vosotros: alzáis
+  uds: alzan
+preterito-perfecto-simple:
+  yo: alcé
+  tu: alzaste
+  vos: alzaste
+  ud: alzó
+  nosotros: alzamos
+  vosotros: alzasteis
+  uds: alzaron
+preterito-imperfecto:
+  yo: alzaba
+  tu: alzabas
+  vos: alzabas
+  ud: alzaba
+  nosotros: alzábamos
+  vosotros: alzabais
+  uds: alzaban
+futuro-simple:
+  yo: alzaré
+  tu: alzarás
+  vos: alzarás
+  ud: alzará
+  nosotros: alzaremos
+  vosotros: alzaréis
+  uds: alzarán
+condicional-simple:
+  yo: alzaría
+  tu: alzarías
+  vos: alzarías
+  ud: alzaría
+  nosotros: alzaríamos
+  vosotros: alzaríais
+  uds: alzarían
+presente-perfecto:
+  yo: he alzado
+  tu: has alzado
+  vos: has alzado
+  ud: ha alzado
+  nosotros: hemos alzado
+  vosotros: habéis alzado
+  uds: han alzado
+preterito-pluscuamperfecto:
+  yo: había alzado
+  tu: habías alzado
+  vos: habías alzado
+  ud: había alzado
+  nosotros: habíamos alzado
+  vosotros: habíais alzado
+  uds: habían alzado
+futuro-perfecto:
+  yo: habré alzado
+  tu: habrás alzado
+  vos: habrás alzado
+  ud: habrá alzado
+  nosotros: habremos alzado
+  vosotros: habréis alzado
+  uds: habrán alzado
+condicional-perfecto:
+  yo: habría alzado
+  tu: habrías alzado
+  vos: habrías alzado
+  ud: habría alzado
+  nosotros: habríamos alzado
+  vosotros: habríais alzado
+  uds: habrían alzado
+presente-subjuntivo:
+  yo: alce
+  tu: alces
+  vos: alces
+  ud: alce
+  nosotros: alcemos
+  vosotros: alcéis
+  uds: alcen
+preterito-perfecto-subjuntivo:
+  yo: haya alzado
+  tu: hayas alzado
+  vos: hayas alzado
+  ud: haya alzado
+  nosotros: hayamos alzado
+  vosotros: hayáis alzado
+  uds: hayan alzado
+imperfecto-subjuntivo:
+  yo:
+    - alzara
+    - alzase
+  tu:
+    - alzaras
+    - alzases
+  vos:
+    - alzaras
+    - alzases
+  ud:
+    - alzara
+    - alzase
+  nosotros:
+    - alzáramos
+    - alzásemos
+  vosotros:
+    - alzarais
+    - alzaseis
+  uds:
+    - alzaran
+    - alzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alzado
+    - hubiese alzado
+  tu:
+    - hubieras alzado
+    - hubieses alzado
+  vos:
+    - hubieras alzado
+    - hubieses alzado
+  ud:
+    - hubiera alzado
+    - hubiese alzado
+  nosotros:
+    - hubiéramos alzado
+    - hubiésemos alzado
+  vosotros:
+    - hubierais alzado
+    - hubieseis alzado
+  uds:
+    - hubieran alzado
+    - hubiesen alzado
+imperativo:
+  tu: alza
+  vos: alzá
+  ud: alce
+  nosotros: alcemos
+  vosotros: alzad
+  uds: alcen

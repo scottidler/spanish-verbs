@@ -1,0 +1,142 @@
+infinitivo: confiar
+gerundio: confiando
+participio-pasado: confiado
+presente-indicativo:
+  yo: confío
+  tu: confías
+  vos: confiás
+  ud: confía
+  nosotros: confiamos
+  vosotros: confiáis
+  uds: confían
+preterito-perfecto-simple:
+  yo: confié
+  tu: confiaste
+  vos: confiaste
+  ud: confió
+  nosotros: confiamos
+  vosotros: confiasteis
+  uds: confiaron
+preterito-imperfecto:
+  yo: confiaba
+  tu: confiabas
+  vos: confiabas
+  ud: confiaba
+  nosotros: confiábamos
+  vosotros: confiabais
+  uds: confiaban
+futuro-simple:
+  yo: confiaré
+  tu: confiarás
+  vos: confiarás
+  ud: confiará
+  nosotros: confiaremos
+  vosotros: confiaréis
+  uds: confiarán
+condicional-simple:
+  yo: confiaría
+  tu: confiarías
+  vos: confiarías
+  ud: confiaría
+  nosotros: confiaríamos
+  vosotros: confiaríais
+  uds: confiarían
+presente-perfecto:
+  yo: he confiado
+  tu: has confiado
+  vos: has confiado
+  ud: ha confiado
+  nosotros: hemos confiado
+  vosotros: habéis confiado
+  uds: han confiado
+preterito-pluscuamperfecto:
+  yo: había confiado
+  tu: habías confiado
+  vos: habías confiado
+  ud: había confiado
+  nosotros: habíamos confiado
+  vosotros: habíais confiado
+  uds: habían confiado
+futuro-perfecto:
+  yo: habré confiado
+  tu: habrás confiado
+  vos: habrás confiado
+  ud: habrá confiado
+  nosotros: habremos confiado
+  vosotros: habréis confiado
+  uds: habrán confiado
+condicional-perfecto:
+  yo: habría confiado
+  tu: habrías confiado
+  vos: habrías confiado
+  ud: habría confiado
+  nosotros: habríamos confiado
+  vosotros: habríais confiado
+  uds: habrían confiado
+presente-subjuntivo:
+  yo: confíe
+  tu: confíes
+  vos: confíes
+  ud: confíe
+  nosotros: confiemos
+  vosotros: confiéis
+  uds: confíen
+preterito-perfecto-subjuntivo:
+  yo: haya confiado
+  tu: hayas confiado
+  vos: hayas confiado
+  ud: haya confiado
+  nosotros: hayamos confiado
+  vosotros: hayáis confiado
+  uds: hayan confiado
+imperfecto-subjuntivo:
+  yo:
+    - confiara
+    - confiase
+  tu:
+    - confiaras
+    - confiases
+  vos:
+    - confiaras
+    - confiases
+  ud:
+    - confiara
+    - confiase
+  nosotros:
+    - confiáramos
+    - confiésemos
+  vosotros:
+    - confiarais
+    - confiaseis
+  uds:
+    - confiaran
+    - confiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera confiado
+    - hubiese confiado
+  tu:
+    - hubieras confiado
+    - hubieses confiado
+  vos:
+    - hubieras confiado
+    - hubieses confiado
+  ud:
+    - hubiera confiado
+    - hubiese confiado
+  nosotros:
+    - hubiéramos confiado
+    - hubiésemos confiado
+  vosotros:
+    - hubierais confiado
+    - hubieseis confiado
+  uds:
+    - hubieran confiado
+    - hubiesen confiado
+imperativo:
+  tu: confía
+  vos: confiá
+  ud: confíe
+  nosotros: confiemos
+  vosotros: confiad
+  uds: confíen
