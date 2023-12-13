@@ -1,14 +1,14 @@
 infinitivo: aguardar
 gerundio: aguardando
-participio-pasado: aguardado
+participio-pasado: guardado
 presente-indicativo:
   yo: aguardo
   tu: aguardas
   vos: aguardás
   ud: aguarda
-  nosotros: aguardamos
-  vosotros: aguardáis
-  uds: aguardan
+  nosotros: guardamos
+  vosotros: guardáis
+  uds: guardan
 preterito-perfecto-simple:
   yo: aguardé
   tu: aguardaste

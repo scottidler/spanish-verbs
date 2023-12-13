@@ -1,144 +1,142 @@
-comer:
-  infinitivo: comer
-  gerundio: comiendo
-  participio-pasado: comido
-  presente-indicativo:
-    yo: como
-    tu: comes
-    vos: comés
-    ud: come
-    nosotros: comemos
-    vosotros: coméis
-    uds: comen
-  preterito-perfecto-simple:
-    yo: comí
-    tu: comiste
-    vos: comiste
-    ud: comió
-    nosotros: comimos
-    vosotros: comisteis
-    uds: comieron
-  preterito-imperfecto:
-    yo: comía
-    tu: comías
-    vos: comías
-    ud: comía
-    nosotros: comíamos
-    vosotros: comíais
-    uds: comían
-  futuro-simple:
-    yo: comeré
-    tu: comerás
-    vos: comerás
-    ud: comerá
-    nosotros: comeremos
-    vosotros: comeréis
-    uds: comerán
-  condicional-simple:
-    yo: comería
-    tu: comerías
-    vos: comerías
-    ud: comería
-    nosotros: comeríamos
-    vosotros: comeríais
-    uds: comerían
-  presente-perfecto:
-    yo: he comido
-    tu: has comido
-    vos: has comido
-    ud: ha comido
-    nosotros: hemos comido
-    vosotros: habéis comido
-    uds: han comido
-  preterito-pluscuamperfecto:
-    yo: había comido
-    tu: habías comido
-    vos: habías comido
-    ud: había comido
-    nosotros: habíamos comido
-    vosotros: habíais comido
-    uds: habían comido
-  futuro-perfecto:
-    yo: habré comido
-    tu: habrás comido
-    vos: habrás comido
-    ud: habrá comido
-    nosotros: habremos comido
-    vosotros: habréis comido
-    uds: habrán comido
-  condicional-perfecto:
-    yo: habría comido
-    tu: habrías comido
-    vos: habrías comido
-    ud: habría comido
-    nosotros: habríamos comido
-    vosotros: habríais comido
-    uds: habrían comido
-  presente-subjuntivo:
-    yo: coma
-    tu: comas
-    vos: comas
-    ud: coma
-    nosotros: comamos
-    vosotros: comáis
-    uds: coman
-  preterito-perfecto-subjuntivo:
-    yo: haya comido
-    tu: hayas comido
-    vos: hayas comido
-    ud: haya comido
-    nosotros: hayamos comido
-    vosotros: hayáis comido
-    uds: hayan comido
-  imperfecto-subjuntivo:
-    yo:
-      - comiera
-      - comiese
-    tu:
-      - comieras
-      - comieses
-    vos:
-      - comieras
-      - comieses
-    ud:
-      - comiera
-      - comiese
-    nosotros:
-      - comiéramos
-      - comiésemos
-    vosotros:
-      - comierais
-      - comieseis
-    uds:
-      - comieran
-      - comiesen
-  pluscuamperfecto-subjuntivo:
-    yo:
-      - hubiera comido
-      - hubiese comido
-    tu:
-      - hubieras comido
-      - hubieses comido
-    vos:
-      - hubieras comido
-      - hubieses comido
-    ud:
-      - hubiera comido
-      - hubiese comido
-    nosotros:
-      - hubiéramos comido
-      - hubiésemos comido
-    vosotros:
-      - hubierais comido
-      - hubieseis comido
-    uds:
-      - hubieran comido
-      - hubiesen comido
-  imperativo:
-    tu: come
-    vos: comé
-    ud: coma
-    nosotros: comamos
-    vosotros: comed
-    uds: coman
-
+infinitivo: comer
+gerundio: comiendo
+participio-pasado: comido
+presente-indicativo:
+  yo: como
+  tu: comes
+  vos: comes
+  ud: come
+  nosotros: comemos
+  vosotros: coméis
+  uds: comen
+preterito-perfecto-simple:
+  yo: comí
+  tu: comiste
+  vos: comiste
+  ud: comió
+  nosotros: comimos
+  vosotros: comisteis
+  uds: comieron
+preterito-imperfecto:
+  yo: comía
+  tu: comías
+  vos: comías
+  ud: comía
+  nosotros: comíamos
+  vosotros: comíais
+  uds: comían
+futuro-simple:
+  yo: comeré
+  tu: comerás
+  vos: comerás
+  ud: comerá
+  nosotros: comeremos
+  vosotros: comeréis
+  uds: comerán
+condicional-simple:
+  yo: comería
+  tu: comerías
+  vos: comerías
+  ud: comería
+  nosotros: comeríamos
+  vosotros: comeríais
+  uds: comerían
+presente-perfecto:
+  yo: he comido
+  tu: has comido
+  vos: has comido
+  ud: ha comido
+  nosotros: hemos comido
+  vosotros: habéis comido
+  uds: han comido
+preterito-pluscuamperfecto:
+  yo: había comido
+  tu: habías comido
+  vos: habías comido
+  ud: había comido
+  nosotros: habíamos comido
+  vosotros: habíais comido
+  uds: habían comido
+futuro-perfecto:
+  yo: habré comido
+  tu: habrás comido
+  vos: habrás comido
+  ud: habrá comido
+  nosotros: habremos comido
+  vosotros: habréis comido
+  uds: habrán comido
+condicional-perfecto:
+  yo: habría comido
+  tu: habrías comido
+  vos: habrías comido
+  ud: habría comido
+  nosotros: habríamos comido
+  vosotros: habríais comido
+  uds: habrían comido
+presente-subjuntivo:
+  yo: coma
+  tu: comas
+  vos: comas
+  ud: coma
+  nosotros: comamos
+  vosotros: comáis
+  uds: coman
+preterito-perfecto-subjuntivo:
+  yo: haya comido
+  tu: hayas comido
+  vos: hayas comido
+  ud: haya comido
+  nosotros: hayamos comido
+  vosotros: hayáis comido
+  uds: hayan comido
+imperfecto-subjuntivo:
+  yo:
+    - comiera
+    - comiese
+  tu:
+    - comieras
+    - comieses
+  vos:
+    - comieras
+    - comieses
+  ud:
+    - comiera
+    - comiese
+  nosotros:
+    - comiéramos
+    - comiésemos
+  vosotros:
+    - comierais
+    - comieseis
+  uds:
+    - comieran
+    - comiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera comido
+    - hubiese comido
+  tu:
+    - hubieras comido
+    - hubieses comido
+  vos:
+    - hubieras comido
+    - hubieses comido
+  ud:
+    - hubiera comido
+    - hubiese comido
+  nosotros:
+    - hubiéramos comido
+    - hubiésemos comido
+  vosotros:
+    - hubierais comido
+    - hubieseis comido
+  uds:
+    - hubieran comido
+    - hubiesen comido
+imperativo:
+  tu: come
+  vos: comé
+  ud: coma
+  nosotros: comamos
+  vosotros: comed
+  uds: coman
