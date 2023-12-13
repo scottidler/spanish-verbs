@@ -1,0 +1,142 @@
+infinitivo: anhelar
+gerundio: anhelando
+participio-pasado: anhelado
+presente-indicativo:
+  yo: anhelo
+  tu: anhelas
+  vos: anhelás
+  ud: anhela
+  nosotros: anhelamos
+  vosotros: anheláis
+  uds: anhelan
+preterito-perfecto-simple:
+  yo: anhelé
+  tu: anhelaste
+  vos: anhelaste
+  ud: anheló
+  nosotros: anhelamos
+  vosotros: anhelasteis
+  uds: anhelaron
+preterito-imperfecto:
+  yo: anhelaba
+  tu: anhelabas
+  vos: anhelabas
+  ud: anhelaba
+  nosotros: anhelábamos
+  vosotros: anhelabais
+  uds: anhelaban
+futuro-simple:
+  yo: anhelaré
+  tu: anhelarás
+  vos: anhelarás
+  ud: anhelará
+  nosotros: anhelaremos
+  vosotros: anhelaréis
+  uds: anhelarán
+condicional-simple:
+  yo: anhelaría
+  tu: anhelarías
+  vos: anhelarías
+  ud: anhelaría
+  nosotros: anhelaríamos
+  vosotros: anhelaríais
+  uds: anhelarían
+presente-perfecto:
+  yo: he anhelado
+  tu: has anhelado
+  vos: has anhelado
+  ud: ha anhelado
+  nosotros: hemos anhelado
+  vosotros: habéis anhelado
+  uds: han anhelado
+preterito-pluscuamperfecto:
+  yo: había anhelado
+  tu: habías anhelado
+  vos: habías anhelado
+  ud: había anhelado
+  nosotros: habíamos anhelado
+  vosotros: habíais anhelado
+  uds: habían anhelado
+futuro-perfecto:
+  yo: habré anhelado
+  tu: habrás anhelado
+  vos: habrás anhelado
+  ud: habrá anhelado
+  nosotros: habremos anhelado
+  vosotros: habréis anhelado
+  uds: habrán anhelado
+condicional-perfecto:
+  yo: habría anhelado
+  tu: habrías anhelado
+  vos: habrías anhelado
+  ud: habría anhelado
+  nosotros: habríamos anhelado
+  vosotros: habríais anhelado
+  uds: habrían anhelado
+presente-subjuntivo:
+  yo: anhele
+  tu: anheles
+  vos: anheles
+  ud: anhele
+  nosotros: anhelemos
+  vosotros: anheléis
+  uds: anhelen
+preterito-perfecto-subjuntivo:
+  yo: haya anhelado
+  tu: hayas anhelado
+  vos: hayas anhelado
+  ud: haya anhelado
+  nosotros: hayamos anhelado
+  vosotros: hayáis anhelado
+  uds: hayan anhelado
+imperfecto-subjuntivo:
+  yo: 
+    - anhelara
+    - anhelase
+  tu:
+    - anhelaras
+    - anhelases
+  vos:
+    - anhelaras
+    - anhelases
+  ud:
+    - anhelara
+    - anhelase
+  nosotros:
+    - anheláramos
+    - anhelásemos
+  vosotros:
+    - anhelarais
+    - anhelaseis
+  uds:
+    - anhelaran
+    - anhelasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera anhelado
+    - hubiese anhelado
+  tu:
+    - hubieras anhelado
+    - hubieses anhelado
+  vos:
+    - hubieras anhelado
+    - hubieses anhelado
+  ud:
+    - hubiera anhelado
+    - hubiese anhelado
+  nosotros:
+    - hubiéramos anhelado
+    - hubiésemos anhelado
+  vosotros:
+    - hubierais anhelado
+    - hubieseis anhelado
+  uds:
+    - hubieran anhelado
+    - hubiesen anhelado
+imperativo:
+  tu: anhela
+  vos: anhelá
+  ud: anhele
+  nosotros: anhelemos
+  vosotros: anhelad
+  uds: anhelen

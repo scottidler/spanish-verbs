@@ -1,0 +1,142 @@
+infinitivo: aguardar
+gerundio: aguardando
+participio-pasado: aguardado
+presente-indicativo:
+  yo: aguardo
+  tu: aguardas
+  vos: aguardás
+  ud: aguarda
+  nosotros: aguardamos
+  vosotros: aguardáis
+  uds: aguardan
+preterito-perfecto-simple:
+  yo: aguardé
+  tu: aguardaste
+  vos: aguardaste
+  ud: aguardó
+  nosotros: aguardamos
+  vosotros: aguardasteis
+  uds: aguardaron
+preterito-imperfecto:
+  yo: aguardaba
+  tu: aguardabas
+  vos: aguardabas
+  ud: aguardaba
+  nosotros: aguardábamos
+  vosotros: aguardabais
+  uds: aguardaban
+futuro-simple:
+  yo: aguardaré
+  tu: aguardarás
+  vos: aguardarás
+  ud: aguardará
+  nosotros: aguardaremos
+  vosotros: aguardaréis
+  uds: aguardarán
+condicional-simple:
+  yo: aguardaría
+  tu: aguardarías
+  vos: aguardarías
+  ud: aguardaría
+  nosotros: aguardaríamos
+  vosotros: aguardaríais
+  uds: aguardarían
+presente-perfecto:
+  yo: he aguardado
+  tu: has aguardado
+  vos: has aguardado
+  ud: ha aguardado
+  nosotros: hemos aguardado
+  vosotros: habéis aguardado
+  uds: han aguardado
+preterito-pluscuamperfecto:
+  yo: había aguardado
+  tu: habías aguardado
+  vos: habías aguardado
+  ud: había aguardado
+  nosotros: habíamos aguardado
+  vosotros: habíais aguardado
+  uds: habían aguardado
+futuro-perfecto:
+  yo: habré aguardado
+  tu: habrás aguardado
+  vos: habrás aguardado
+  ud: habrá aguardado
+  nosotros: habremos aguardado
+  vosotros: habréis aguardado
+  uds: habrán aguardado
+condicional-perfecto:
+  yo: habría aguardado
+  tu: habrías aguardado
+  vos: habrías aguardado
+  ud: habría aguardado
+  nosotros: habríamos aguardado
+  vosotros: habríais aguardado
+  uds: habrían aguardado
+presente-subjuntivo:
+  yo: aguarde
+  tu: aguardes
+  vos: aguardes
+  ud: aguarde
+  nosotros: aguardemos
+  vosotros: aguardéis
+  uds: aguarden
+preterito-perfecto-subjuntivo:
+  yo: haya aguardado
+  tu: hayas aguardado
+  vos: hayas aguardado
+  ud: haya aguardado
+  nosotros: hayamos aguardado
+  vosotros: hayáis aguardado
+  uds: hayan aguardado
+imperfecto-subjuntivo:
+  yo:
+    - aguardara
+    - aguardase
+  tu:
+    - aguardaras
+    - aguardases
+  vos:
+    - aguardaras
+    - aguardases
+  ud:
+    - aguardara
+    - aguardase
+  nosotros:
+    - aguardáramos
+    - aguardásemos
+  vosotros:
+    - aguardarais
+    - aguardaseis
+  uds:
+    - aguardaran
+    - aguardasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aguardado
+    - hubiese aguardado
+  tu:
+    - hubieras aguardado
+    - hubieses aguardado
+  vos:
+    - hubieras aguardado
+    - hubieses aguardado
+  ud:
+    - hubiera aguardado
+    - hubiese aguardado
+  nosotros:
+    - hubiéramos aguardado
+    - hubiésemos aguardado
+  vosotros:
+    - hubierais aguardado
+    - hubieseis aguardado
+  uds:
+    - hubieran aguardado
+    - hubiesen aguardado
+imperativo:
+  tu: aguarda
+  vos: aguardá
+  ud: aguarde
+  nosotros: aguardemos
+  vosotros: aguardad
+  uds: aguarden

@@ -1,0 +1,142 @@
+infinitivo: amilanar
+gerundio: amilanando
+participio-pasado: amilanado
+presente-indicativo:
+  yo: amilano
+  tu: amilanas
+  vos: amilanas
+  ud: amilana
+  nosotros: amilanamos
+  vosotros: amilanáis
+  uds: amilanan
+preterito-perfecto-simple:
+  yo: amilané
+  tu: amilanaste
+  vos: amilanaste
+  ud: amilanó
+  nosotros: amilanamos
+  vosotros: amilanasteis
+  uds: amilanaron
+preterito-imperfecto:
+  yo: amilanaba
+  tu: amilanabas
+  vos: amilanabas
+  ud: amilanaba
+  nosotros: amilanábamos
+  vosotros: amilanabais
+  uds: amilanaban
+futuro-simple:
+  yo: amilanaré
+  tu: amilanarás
+  vos: amilanarás
+  ud: amilanará
+  nosotros: amilanaremos
+  vosotros: amilanaréis
+  uds: amilanarán
+condicional-simple:
+  yo: amilanaría
+  tu: amilanarías
+  vos: amilanarías
+  ud: amilanaría
+  nosotros: amilanaríamos
+  vosotros: amilanaríais
+  uds: amilanarían
+presente-perfecto:
+  yo: he amilanado
+  tu: has amilanado
+  vos: has amilanado
+  ud: ha amilanado
+  nosotros: hemos amilanado
+  vosotros: habéis amilanado
+  uds: han amilanado
+preterito-pluscuamperfecto:
+  yo: había amilanado
+  tu: habías amilanado
+  vos: habías amilanado
+  ud: había amilanado
+  nosotros: habíamos amilanado
+  vosotros: habíais amilanado
+  uds: habían amilanado
+futuro-perfecto:
+  yo: habré amilanado
+  tu: habrás amilanado
+  vos: habrás amilanado
+  ud: habrá amilanado
+  nosotros: habremos amilanado
+  vosotros: habréis amilanado
+  uds: habrán amilanado
+condicional-perfecto:
+  yo: habría amilanado
+  tu: habrías amilanado
+  vos: habrías amilanado
+  ud: habría amilanado
+  nosotros: habríamos amilanado
+  vosotros: habríais amilanado
+  uds: habrían amilanado
+presente-subjuntivo:
+  yo: amilane
+  tu: amilanes
+  vos: amilanes
+  ud: amilane
+  nosotros: amilanemos
+  vosotros: amilanéis
+  uds: amilanen
+preterito-perfecto-subjuntivo:
+  yo: haya amilanado
+  tu: hayas amilanado
+  vos: hayas amilanado
+  ud: haya amilanado
+  nosotros: hayamos amilanado
+  vosotros: hayáis amilanado
+  uds: hayan amilanado
+imperfecto-subjuntivo:
+  yo:
+    - amilanara
+    - amilanase
+  tu:
+    - amilanaras
+    - amilanases
+  vos:
+    - amilanaras
+    - amilanases
+  ud:
+    - amilanara
+    - amilanase
+  nosotros:
+    - amilanáramos
+    - amilanásemos
+  vosotros:
+    - amilanarais
+    - amilanaseis
+  uds:
+    - amilanaran
+    - amilanasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera amilanado
+    - hubiese amilanado
+  tu:
+    - hubieras amilanado
+    - hubieses amilanado
+  vos:
+    - hubieras amilanado
+    - hubieses amilanado
+  ud:
+    - hubiera amilanado
+    - hubiese amilanado
+  nosotros:
+    - hubiéramos amilanado
+    - hubiésemos amilanado
+  vosotros:
+    - hubierais amilanado
+    - hubieseis amilanado
+  uds:
+    - hubieran amilanado
+    - hubiesen amilanado
+imperativo:
+  tu: amilana
+  vos: amilaná
+  ud: amilane
+  nosotros: amilanemos
+  vosotros: amilanad
+  uds: amilanen

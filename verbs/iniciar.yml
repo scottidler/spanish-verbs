@@ -1,0 +1,142 @@
+infinitivo: iniciar
+gerundio: iniciando
+participio-pasado: iniciado
+presente-indicativo:
+  yo: inicio
+  tu: inicias
+  vos: iniciás
+  ud: inicia
+  nosotros: iniciamos
+  vosotros: iniciáis
+  uds: inician
+preterito-perfecto-simple:
+  yo: inicié
+  tu: iniciaste
+  vos: iniciaste
+  ud: inició
+  nosotros: iniciamos
+  vosotros: iniciasteis
+  uds: iniciaron
+preterito-imperfecto:
+  yo: iniciaba
+  tu: iniciabas
+  vos: iniciabas
+  ud: iniciaba
+  nosotros: iniciábamos
+  vosotros: iniciabais
+  uds: iniciaban
+futuro-simple:
+  yo: iniciaré
+  tu: iniciarás
+  vos: iniciarás
+  ud: iniciará
+  nosotros: iniciaremos
+  vosotros: iniciaréis
+  uds: iniciarán
+condicional-simple:
+  yo: iniciaría
+  tu: iniciarías
+  vos: iniciarías
+  ud: iniciaría
+  nosotros: iniciaríamos
+  vosotros: iniciaríais
+  uds: iniciarían
+presente-perfecto:
+  yo: he iniciado
+  tu: has iniciado
+  vos: has iniciado
+  ud: ha iniciado
+  nosotros: hemos iniciado
+  vosotros: habéis iniciado
+  uds: han iniciado
+preterito-pluscuamperfecto:
+  yo: había iniciado
+  tu: habías iniciado
+  vos: habías iniciado
+  ud: había iniciado
+  nosotros: habíamos iniciado
+  vosotros: habíais iniciado
+  uds: habían iniciado
+futuro-perfecto:
+  yo: habré iniciado
+  tu: habrás iniciado
+  vos: habrás iniciado
+  ud: habrá iniciado
+  nosotros: habremos iniciado
+  vosotros: habréis iniciado
+  uds: habrán iniciado
+condicional-perfecto:
+  yo: habría iniciado
+  tu: habrías iniciado
+  vos: habrías iniciado
+  ud: habría iniciado
+  nosotros: habríamos iniciado
+  vosotros: habríais iniciado
+  uds: habrían iniciado
+presente-subjuntivo:
+  yo: inicie
+  tu: inicies
+  vos: inicies
+  ud: inicie
+  nosotros: iniciemos
+  vosotros: iniciéis
+  uds: inicien
+preterito-perfecto-subjuntivo:
+  yo: haya iniciado
+  tu: hayas iniciado
+  vos: hayas iniciado
+  ud: haya iniciado
+  nosotros: hayamos iniciado
+  vosotros: hayáis iniciado
+  uds: hayan iniciado
+imperfecto-subjuntivo:
+  yo:
+    - iniciara
+    - iniciase
+  tu:
+    - iniciaras
+    - iniciases
+  vos:
+    - iniciaras
+    - iniciases
+  ud:
+    - iniciara
+    - iniciase
+  nosotros:
+    - iniciáramos
+    - iniciásemos
+  vosotros:
+    - iniciarais
+    - iniciaseis
+  uds:
+    - iniciaran
+    - iniciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera iniciado
+    - hubiese iniciado
+  tu:
+    - hubieras iniciado
+    - hubieses iniciado
+  vos:
+    - hubieras iniciado
+    - hubieses iniciado
+  ud:
+    - hubiera iniciado
+    - hubiese iniciado
+  nosotros:
+    - hubiéramos iniciado
+    - hubiésemos iniciado
+  vosotros:
+    - hubierais iniciado
+    - hubieseis iniciado
+  uds:
+    - hubieran iniciado
+    - hubiesen iniciado
+imperativo:
+  tu: inicia
+  vos: iniciá
+  ud: inicie
+  nosotros: iniciemos
+  vosotros: iniciad
+  uds: inicien

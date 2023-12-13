@@ -1,142 +1,142 @@
-condicional-perfecto:
-  nosotros: habríamos delatado
-  tu: habrías delatado
-  ud: habría delatado
-  uds: habrían delatado
-  vos: habrías delatado
-  vosotros: habríais delatado
-  yo: habría delatado
-condicional-simple:
-  nosotros: delataríamos
-  tu: delatarías
-  ud: delataría
-  uds: delatarían
-  vos: delatarías
-  vosotros: delataríais
-  yo: delataría
-futuro-perfecto:
-  nosotros: habremos delatado
-  tu: habrás delatado
-  ud: habrá delatado
-  uds: habrán delatado
-  vos: habrás delatado
-  vosotros: habréis delatado
-  yo: habré delatado
-futuro-simple:
-  nosotros: delataremos
-  tu: delatarás
-  ud: delatará
-  uds: delatarán
-  vos: delatarás
-  vosotros: delataréis
-  yo: delataré
-gerundio: delatando
-imperativo:
-  nosotros: delatemos
-  tu: delata
-  ud: delate
-  uds: delaten
-  vos: delatá
-  vosotros: delatad
-imperfecto-subjuntivo:
-  nosotros:
-  - delatáramos
-  - delatásemos
-  tu:
-  - delataras
-  - delatases
-  ud:
-  - delatara
-  - delatase
-  uds:
-  - delataran
-  - delatasen
-  vos:
-  - delataras
-  - delatases
-  vosotros:
-  - delatarais
-  - delataseis
-  yo:
-  - delatara
-  - delatase
 infinitivo: delatar
+gerundio: delatando
 participio-pasado: delatado
-pluscuamperfecto-subjuntivo:
-  nosotros:
-  - hubiéramos delatado
-  - hubiésemos delatado
-  tu:
-  - hubieras delatado
-  - hubieses delatado
-  ud:
-  - hubiera delatado
-  - hubiese delatado
-  uds:
-  - hubieran delatado
-  - hubiesen delatado
-  vos:
-  - hubieras delatado
-  - hubieses delatado
-  vosotros:
-  - hubierais delatado
-  - hubieseis delatado
-  yo:
-  - hubiera delatado
-  - hubiese delatado
 presente-indicativo:
-  nosotros: delatamos
-  tu: delatas
-  ud: delata
-  uds: delatan
-  vos: delatás
-  vosotros: delatáis
   yo: delato
-presente-perfecto:
-  nosotros: hemos delatado
-  tu: has delatado
-  ud: ha delatado
-  uds: han delatado
-  vos: has delatado
-  vosotros: habéis delatado
-  yo: he delatado
-presente-subjuntivo:
-  nosotros: delatemos
-  tu: delates
-  ud: delate
-  uds: delaten
-  vos: delates
-  vosotros: delatéis
-  yo: delate
-preterito-imperfecto:
-  nosotros: delatábamos
-  tu: delatabas
-  ud: delataba
-  uds: delataban
-  vos: delatabas
-  vosotros: delatabais
-  yo: delataba
-preterito-perfecto-simple:
+  tu: delatas
+  vos: delatás
+  ud: delata
   nosotros: delatamos
-  tu: delataste
-  ud: delató
-  uds: delataron
-  vos: delataste
-  vosotros: delatasteis
+  vosotros: delatáis
+  uds: delatan
+preterito-perfecto-simple:
   yo: delaté
-preterito-perfecto-subjuntivo:
-  nosotros: hayamos delatado
-  tu: hayas delatado
-  ud: haya delatado
-  uds: hayan delatado
-  vos: hayas delatado
-  vosotros: hayáis delatado
-  yo: haya delatado
+  tu: delataste
+  vos: delataste
+  ud: delató
+  nosotros: delatamos
+  vosotros: delatasteis
+  uds: delataron
+preterito-imperfecto:
+  yo: delataba
+  tu: delatabas
+  vos: delatabas
+  ud: delataba
+  nosotros: delatábamos
+  vosotros: delatabais
+  uds: delataban
+futuro-simple:
+  yo: delataré
+  tu: delatarás
+  vos: delatarás
+  ud: delatará
+  nosotros: delataremos
+  vosotros: delataréis
+  uds: delatarán
+condicional-simple:
+  yo: delataría
+  tu: delatarías
+  vos: delatarías
+  ud: delataría
+  nosotros: delataríamos
+  vosotros: delataríais
+  uds: delatarían
+presente-perfecto:
+  yo: he delatado
+  tu: has delatado
+  vos: has delatado
+  ud: ha delatado
+  nosotros: hemos delatado
+  vosotros: habéis delatado
+  uds: han delatado
 preterito-pluscuamperfecto:
-  nosotros: habíamos delatado
-  tu: habías delatado
-  ud: había delatado
-  uds: habían delatado
-  vos: habías delatado
-  vosotros: habíais delatado
   yo: había delatado
+  tu: habías delatado
+  vos: habías delatado
+  ud: había delatado
+  nosotros: habíamos delatado
+  vosotros: habíais delatado
+  uds: habían delatado
+futuro-perfecto:
+  yo: habré delatado
+  tu: habrás delatado
+  vos: habrás delatado
+  ud: habrá delatado
+  nosotros: habremos delatado
+  vosotros: habréis delatado
+  uds: habrán delatado
+condicional-perfecto:
+  yo: habría delatado
+  tu: habrías delatado
+  vos: habrías delatado
+  ud: habría delatado
+  nosotros: habríamos delatado
+  vosotros: habríais delatado
+  uds: habrían delatado
+presente-subjuntivo:
+  yo: delate
+  tu: delates
+  vos: delates
+  ud: delate
+  nosotros: delatemos
+  vosotros: delatéis
+  uds: delaten
+preterito-perfecto-subjuntivo:
+  yo: haya delatado
+  tu: hayas delatado
+  vos: hayas delatado
+  ud: haya delatado
+  nosotros: hayamos delatado
+  vosotros: hayáis delatado
+  uds: hayan delatado
+imperfecto-subjuntivo:
+  yo:
+      - delatara
+      - delatase
+  tu:
+      - delataras
+      - delatases
+  vos:
+      - delataras
+      - delatases
+  ud:
+      - delatara
+      - delatase
+  nosotros:
+      - delatáramos
+      - delatásemos
+  vosotros:
+      - delatarais
+      - delataseis
+  uds:
+      - delataran
+      - delatasen
+pluscuamperfecto-subjuntivo:
+  yo:
+      - hubiera delatado
+      - hubiese delatado
+  tu:
+      - hubieras delatado
+      - hubieses delatado
+  vos:
+      - hubieras delatado
+      - hubieses delatado
+  ud:
+      - hubiera delatado
+      - hubiese delatado
+  nosotros:
+      - hubiéramos delatado
+      - hubiésemos delatado
+  vosotros:
+      - hubierais delatado
+      - hubieseis delatado
+  uds:
+      - hubieran delatado
+      - hubiesen delatado
+imperativo:
+  tu: delata
+  vos: delatá
+  ud: delate
+  nosotros: delatemos
+  vosotros: delatad
+  uds: delaten

@@ -1,142 +1,142 @@
-condicional-perfecto:
-  nosotros: habríamos rechinado
-  tu: habrías rechinado
-  ud: habría rechinado
-  uds: habrían rechinado
-  vos: habrías rechinado
-  vosotros: habríais rechinado
-  yo: habría rechinado
-condicional-simple:
-  nosotros: rechinaríamos
-  tu: rechinarías
-  ud: rechinaría
-  uds: rechinarían
-  vos: rechinarías
-  vosotros: rechinaríais
-  yo: rechinaría
-futuro-perfecto:
-  nosotros: habremos rechinado
-  tu: habrás rechinado
-  ud: habrá rechinado
-  uds: habrán rechinado
-  vos: habrás rechinado
-  vosotros: habréis rechinado
-  yo: habré rechinado
-futuro-simple:
-  nosotros: rechinaremos
-  tu: rechinarás
-  ud: rechinará
-  uds: rechinarán
-  vos: rechinarás
-  vosotros: rechinaréis
-  yo: rechinaré
-gerundio: rechinando
-imperativo:
-  nosotros: rechinemos
-  tu: rechina
-  ud: rechine
-  uds: rechinen
-  vos: rechiná
-  vosotros: rechinad
-imperfecto-subjuntivo:
-  nosotros:
-  - rechináramos
-  - rechinásemos
-  tu:
-  - rechinaras
-  - rechinases
-  ud:
-  - rechinara
-  - rechinase
-  uds:
-  - rechinaran
-  - rechinasen
-  vos:
-  - rechinaras
-  - rechinases
-  vosotros:
-  - rechinarais
-  - rechinaseis
-  yo:
-  - rechinara
-  - rechinase
 infinitivo: rechinar
+gerundio: rechinando
 participio-pasado: rechinado
-pluscuamperfecto-subjuntivo:
-  nosotros:
-  - hubiéramos rechinado
-  - hubiésemos rechinado
-  tu:
-  - hubieras rechinado
-  - hubieses rechinado
-  ud:
-  - hubiera rechinado
-  - hubiese rechinado
-  uds:
-  - hubieran rechinado
-  - hubiesen rechinado
-  vos:
-  - hubieras rechinado
-  - hubieses rechinado
-  vosotros:
-  - hubierais rechinado
-  - hubieseis rechinado
-  yo:
-  - hubiera rechinado
-  - hubiese rechinado
 presente-indicativo:
-  nosotros: rechinamos
-  tu: rechinas
-  ud: rechina
-  uds: rechinan
-  vos: rechinás
-  vosotros: rechináis
   yo: rechino
-presente-perfecto:
-  nosotros: hemos rechinado
-  tu: has rechinado
-  ud: ha rechinado
-  uds: han rechinado
-  vos: has rechinado
-  vosotros: habéis rechinado
-  yo: he rechinado
-presente-subjuntivo:
-  nosotros: rechinemos
-  tu: rechines
-  ud: rechine
-  uds: rechinen
-  vos: rechines
-  vosotros: rechinéis
-  yo: rechine
-preterito-imperfecto:
-  nosotros: rechinábamos
-  tu: rechinabas
-  ud: rechinaba
-  uds: rechinaban
-  vos: rechinabas
-  vosotros: rechinabais
-  yo: rechinaba
-preterito-perfecto-simple:
+  tu: rechinas
+  vos: rechinás
+  ud: rechina
   nosotros: rechinamos
-  tu: rechinaste
-  ud: rechinó
-  uds: rechinaron
-  vos: rechinaste
-  vosotros: rechinasteis
+  vosotros: rechináis
+  uds: rechinan
+preterito-perfecto-simple:
   yo: rechiné
-preterito-perfecto-subjuntivo:
-  nosotros: hayamos rechinado
-  tu: hayas rechinado
-  ud: haya rechinado
-  uds: hayan rechinado
-  vos: hayas rechinado
-  vosotros: hayáis rechinado
-  yo: haya rechinado
+  tu: rechinaste
+  vos: rechinaste
+  ud: rechinó
+  nosotros: rechinamos
+  vosotros: rechinasteis
+  uds: rechinaron
+preterito-imperfecto:
+  yo: rechinaba
+  tu: rechinabas
+  vos: rechinabas
+  ud: rechinaba
+  nosotros: rechinábamos
+  vosotros: rechinabais
+  uds: rechinaban
+futuro-simple:
+  yo: rechinaré
+  tu: rechinarás
+  vos: rechinarás
+  ud: rechinará
+  nosotros: rechinaremos
+  vosotros: rechinaréis
+  uds: rechinarán
+condicional-simple:
+  yo: rechinaría
+  tu: rechinarías
+  vos: rechinarías
+  ud: rechinaría
+  nosotros: rechinaríamos
+  vosotros: rechinaríais
+  uds: rechinarían
+presente-perfecto:
+  yo: he rechinado
+  tu: has rechinado
+  vos: has rechinado
+  ud: ha rechinado
+  nosotros: hemos rechinado
+  vosotros: habéis rechinado
+  uds: han rechinado
 preterito-pluscuamperfecto:
-  nosotros: habíamos rechinado
-  tu: habías rechinado
-  ud: había rechinado
-  uds: habían rechinado
-  vos: habías rechinado
-  vosotros: habíais rechinado
   yo: había rechinado
+  tu: habías rechinado
+  vos: habías rechinado
+  ud: había rechinado
+  nosotros: habíamos rechinado
+  vosotros: habíais rechinado
+  uds: habían rechinado
+futuro-perfecto:
+  yo: habré rechinado
+  tu: habrás rechinado
+  vos: habrás rechinado
+  ud: habrá rechinado
+  nosotros: habremos rechinado
+  vosotros: habréis rechinado
+  uds: habrán rechinado
+condicional-perfecto:
+  yo: habría rechinado
+  tu: habrías rechinado
+  vos: habrías rechinado
+  ud: habría rechinado
+  nosotros: habríamos rechinado
+  vosotros: habríais rechinado
+  uds: habrían rechinado
+presente-subjuntivo:
+  yo: rechine
+  tu: rechines
+  vos: rechines
+  ud: rechine
+  nosotros: rechinemos
+  vosotros: rechinéis
+  uds: rechinen
+preterito-perfecto-subjuntivo:
+  yo: haya rechinado
+  tu: hayas rechinado
+  vos: hayas rechinado
+  ud: haya rechinado
+  nosotros: hayamos rechinado
+  vosotros: hayáis rechinado
+  uds: hayan rechinado
+imperfecto-subjuntivo:
+  yo:
+    - rechinara
+    - rechinase
+  tu:
+    - rechinaras
+    - rechinases
+  vos:
+    - rechinaras
+    - rechinases
+  ud:
+    - rechinara
+    - rechinase
+  nosotros:
+    - rechináramos
+    - rechinásemos
+  vosotros:
+    - rechinarais
+    - rechinaseis
+  uds:
+    - rechinaran
+    - rechasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rechinado
+    - hubiese rechinado
+  tu:
+    - hubieras rechinado
+    - hubieses rechinado
+  vos:
+    - hubieras rechinado
+    - hubieses rechinado
+  ud:
+    - hubiera rechinado
+    - hubiese rechinado
+  nosotros:
+    - hubiéremos rechinado
+    - hubiésemos rechinado
+  vosotros:
+    - hubierais rechinado
+    - hubieseis rechinado
+  uds:
+    - hubieran rechinado
+    - hubiesen rechinado
+imperativo:
+  tu: rechina
+  vos: rechiná
+  ud: rechine
+  nosotros: rechinemos
+  vosotros: rechinad
+  uds: rechinen

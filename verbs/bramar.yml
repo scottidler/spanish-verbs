@@ -1,142 +1,144 @@
-condicional-perfecto:
-  nosotros: habríamos bramado
-  tu: habrías bramado
-  ud: habría bramado
-  uds: habrían bramado
-  vos: habrías bramado
-  vosotros: habríais bramado
-  yo: habría bramado
-condicional-simple:
-  nosotros: bramaríamos
-  tu: bramarías
-  ud: bramaría
-  uds: bramarían
-  vos: bramarías
-  vosotros: bramaríais
-  yo: bramaría
-futuro-perfecto:
-  nosotros: habremos bramado
-  tu: habrás bramado
-  ud: habrá bramado
-  uds: habrán bramado
-  vos: habrás bramado
-  vosotros: habréis bramado
-  yo: habré bramado
-futuro-simple:
-  nosotros: bramaremos
-  tu: bramarás
-  ud: bramará
-  uds: bramarán
-  vos: bramarás
-  vosotros: bramaréis
-  yo: bramaré
-gerundio: bramando
-imperativo:
-  nosotros: bramemos
-  tu: brama
-  ud: brame
-  uds: bramen
-  vos: bramá
-  vosotros: bramad
-imperfecto-subjuntivo:
-  nosotros:
-  - bramáramos
-  - bramásemos
-  tu:
-  - bramaras
-  - bramases
-  ud:
-  - bramara
-  - bramase
-  uds:
-  - bramaran
-  - bramasen
-  vos:
-  - bramaras
-  - bramases
-  vosotros:
-  - bramarais
-  - bramaseis
-  yo:
-  - bramara
-  - bramase
+Here is the conjugation of the Spanish verb "bramar":
+
 infinitivo: bramar
+gerundio: bramando
 participio-pasado: bramado
-pluscuamperfecto-subjuntivo:
-  nosotros:
-  - hubiéramos bramado
-  - hubiésemos bramado
-  tu:
-  - hubieras bramado
-  - hubieses bramado
-  ud:
-  - hubiera bramado
-  - hubiese bramado
-  uds:
-  - hubieran bramado
-  - hubiesen bramado
-  vos:
-  - hubieras bramado
-  - hubieses bramado
-  vosotros:
-  - hubierais bramado
-  - hubieseis bramado
-  yo:
-  - hubiera bramado
-  - hubiese bramado
 presente-indicativo:
-  nosotros: Bramamos
-  tu: bramas
-  ud: brama
-  uds: braman
-  vos: bramás
-  vosotros: bramáis
   yo: bramo
-presente-perfecto:
-  nosotros: hemos bramado
-  tu: has bramado
-  ud: ha bramado
-  uds: han bramado
-  vos: has bramado
-  vosotros: habéis bramado
-  yo: he bramado
-presente-subjuntivo:
-  nosotros: bramemos
-  tu: brames
-  ud: brame
-  uds: bramen
-  vos: brames
-  vosotros: braméis
-  yo: brame
-preterito-imperfecto:
-  nosotros: bramábamos
-  tu: bramabas
-  ud: bramaba
-  uds: bramaban
-  vos: bramabas
-  vosotros: bramabais
-  yo: bramaba
+  tu: bramas
+  vos: bramás
+  ud: brama
+  nosotros: bramamos
+  vosotros: bramáis
+  uds: braman
 preterito-perfecto-simple:
-  nosotros: Bramamos
-  tu: Bramaste
-  ud: Bramó
-  uds: Bramaron
-  vos: Bramaste
-  vosotros: Bramasteis
-  yo: Bramé
-preterito-perfecto-subjuntivo:
-  nosotros: hayamos bramado
-  tu: hayas bramado
-  ud: haya bramado
-  uds: hayan bramado
-  vos: hayas bramado
-  vosotros: hayáis bramado
-  yo: haya bramado
+  yo: bramé
+  tu: bramaste
+  vos: bramaste
+  ud: bramó
+  nosotros: bramamos
+  vosotros: bramasteis
+  uds: bramaron
+preterito-imperfecto:
+  yo: bramaba
+  tu: bramabas
+  vos: bramabas
+  ud: bramaba
+  nosotros: bramábamos
+  vosotros: bramabais
+  uds: bramaban
+futuro-simple:
+  yo: bramaré
+  tu: bramarás
+  vos: bramarás
+  ud: bramará
+  nosotros: bramaremos
+  vosotros: bramaréis
+  uds: bramarán
+condicional-simple:
+  yo: bramaría
+  tu: bramarías
+  vos: bramarías
+  ud: bramaría
+  nosotros: bramaríamos
+  vosotros: bramaríais
+  uds: bramarían
+presente-perfecto:
+  yo: he bramado
+  tu: has bramado
+  vos: has bramado
+  ud: ha bramado
+  nosotros: hemos bramado
+  vosotros: habéis bramado
+  uds: han bramado
 preterito-pluscuamperfecto:
-  nosotros: habíamos bramado
-  tu: habías bramado
-  ud: había bramado
-  uds: habían bramado
-  vos: habías bramado
-  vosotros: habíais bramado
   yo: había bramado
+  tu: habías bramado
+  vos: habías bramado
+  ud: había bramado
+  nosotros: habíamos bramado
+  vosotros: habíais bramado
+  uds: habían bramado
+futuro-perfecto:
+  yo: habré bramado
+  tu: habrás bramado
+  vos: habrás bramado
+  ud: habrá bramado
+  nosotros: habremos bramado
+  vosotros: habréis bramado
+  uds: habrán bramado
+condicional-perfecto:
+  yo: habría bramado
+  tu: habrías bramado
+  vos: habrías bramado
+  ud: habría bramado
+  nosotros: habríamos bramado
+  vosotros: habríais bramado
+  uds: habrían bramado
+presente-subjuntivo:
+  yo: brame
+  tu: brames
+  vos: brames
+  ud: brame
+  nosotros: bramemos
+  vosotros: braméis
+  uds: bramen
+preterito-perfecto-subjuntivo:
+  yo: haya bramado
+  tu: hayas bramado
+  vos: hayas bramado
+  ud: haya bramado
+  nosotros: hayamos bramado
+  vosotros: hayáis bramado
+  uds: hayan bramado
+imperfecto-subjuntivo:
+  yo:
+    - bramara
+    - bramase
+  tu:
+    - bramaras
+    - bramases
+  vos:
+    - bramaras
+    - bramases
+  ud:
+    - bramara
+    - bramase
+  nosotros:
+    - bramáramos
+    - bramásemos
+  vosotros:
+    - bramarais
+    - bramaseis
+  uds:
+    - bramaran
+    - bramasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bramado
+    - hubiese bramado
+  tu:
+    - hubieras bramado
+    - hubieses bramado
+  vos:
+    - hubieras bramado
+    - hubieses bramado
+  ud:
+    - hubiera bramado
+    - hubiese bramado
+  nosotros:
+    - hubiéramos bramado
+    - hubiésemos bramado
+  vosotros:
+    - hubierais bramado
+    - hubieseis bramado
+  uds:
+    - hubieran bramado
+    - hubiesen bramado
+imperativo:
+  tu: brama
+  vos: bramá
+  ud: brame
+  nosotros: bramemos
+  vosotros: bramad
+  uds: bramen
