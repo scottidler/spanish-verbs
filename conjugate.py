@@ -25,8 +25,7 @@ def validate_conjugation(conjugation_yaml, schema):
         print(f"Validation error: {e}", file=sys.stderr)
         return False
 
-def get_conjugation(verb, api_key, prompt):
-    openai.api_key = api_key
+def get_conjugation(verb, prompt):
 
     try:
         response = openai.ChatCompletion.create(
@@ -51,7 +50,9 @@ def main(args):
 
     schema_yaml = load_schema('verb-schema.yml')
 
-    if not OPENAI_API_KEY:
+    if OPENAI_API_KEY:
+        openai.api_key = OPENAI_API_KEY
+    else:
         sys.stderr.write('Error: OPENAI_API_KEY environment variable not set.\n')
         sys.exit(1)
 
@@ -82,7 +83,7 @@ def main(args):
             print(prompt)
             print()
         else:
-            conjugation_yaml = get_conjugation(verb, api_key, prompt)
+            conjugation_yaml = get_conjugation(verb, prompt)
             if conjugation_yaml and validate_conjugation(conjugation_yaml, schema_yaml):
                 file_path = os.path.join(output_dir, f'{verb}.yml')
                 with open(file_path, 'w') as file:
