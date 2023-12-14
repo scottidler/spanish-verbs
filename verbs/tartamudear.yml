@@ -1,0 +1,142 @@
+infinitivo: tartamudear
+gerundio: tartamudeando
+participio-pasado: tartamudeado
+presente-indicativo:
+  yo: tartamudeo
+  tu: tartamudeas
+  vos: tartamudeas
+  ud: tartamudea
+  nosotros: tartamudeamos
+  vosotros: tartamudeáis
+  uds: tartamudean
+preterito-perfecto-simple:
+  yo: tartamudeé
+  tu: tartamudeaste
+  vos: tartamudeaste
+  ud: tartamudeó
+  nosotros: tartamudeamos
+  vosotros: tartamudeasteis
+  uds: tartamudearon
+preterito-imperfecto:
+  yo: tartamudeaba
+  tu: tartamudeabas
+  vos: tartamudeabas
+  ud: tartamudeaba
+  nosotros: tartamudeábamos
+  vosotros: tartamudeabais
+  uds: tartamudeaban
+futuro-simple:
+  yo: tartamudearé
+  tu: tartamudearás
+  vos: tartamudearás
+  ud: tartamudeará
+  nosotros: tartamudearemos
+  vosotros: tartamudearéis
+  uds: tartamudearán
+condicional-simple:
+  yo: tartamudearía
+  tu: tartamudearías
+  vos: tartamudearías
+  ud: tartamudearía
+  nosotros: tartamudearíamos
+  vosotros: tartamudearíais
+  uds: tartamudearían
+presente-perfecto:
+  yo: he tartamudeado
+  tu: has tartamudeado
+  vos: has tartamudeado
+  ud: ha tartamudeado
+  nosotros: hemos tartamudeado
+  vosotros: habéis tartamudeado
+  uds: han tartamudeado
+preterito-pluscuamperfecto:
+  yo: había tartamudeado
+  tu: habías tartamudeado
+  vos: habías tartamudeado
+  ud: había tartamudeado
+  nosotros: habíamos tartamudeado
+  vosotros: habíais tartamudeado
+  uds: habían tartamudeado
+futuro-perfecto:
+  yo: habré tartamudeado
+  tu: habrás tartamudeado
+  vos: habrás tartamudeado
+  ud: habrá tartamudeado
+  nosotros: habremos tartamudeado
+  vosotros: habréis tartamudeado
+  uds: habrán tartamudeado
+condicional-perfecto:
+  yo: habría tartamudeado
+  tu: habrías tartamudeado
+  vos: habrías tartamudeado
+  ud: habría tartamudeado
+  nosotros: habríamos tartamudeado
+  vosotros: habríais tartamudeado
+  uds: habrían tartamudeado
+presente-subjuntivo:
+  yo: tartamudee
+  tu: tartamudees
+  vos: tartamudees
+  ud: tartamudee
+  nosotros: tartamudeemos
+  vosotros: tartamudeéis
+  uds: tartamudeen
+preterito-perfecto-subjuntivo:
+  yo: haya tartamudeado
+  tu: hayas tartamudeado
+  vos: hayas tartamudeado
+  ud: haya tartamudeado
+  nosotros: hayamos tartamudeado
+  vosotros: hayáis tartamudeado
+  uds: hayan tartamudeado
+imperfecto-subjuntivo:
+  yo:
+    - tartamudeara
+    - tartamudease
+  tu:
+    - tartamudearas
+    - tartamudeases
+  vos:
+    - tartamudearas
+    - tartamudeases
+  ud:
+    - tartamudeara
+    - tartamudease
+  nosotros:
+    - tartamudeáramos
+    - tartamudeásemos
+  vosotros:
+    - tartamudearais
+    - tartamudeaseis
+  uds:
+    - tartamudearan
+    - tartamudeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tartamudeado
+    - hubiese tartamudeado
+  tu:
+    - hubieras tartamudeado
+    - hubieses tartamudeado
+  vos:
+    - hubieras tartamudeado
+    - hubieses tartamudeado
+  ud:
+    - hubiera tartamudeado
+    - hubiese tartamudeado
+  nosotros:
+    - hubiéramos tartamudeado
+    - hubiésemos tartamudeado
+  vosotros:
+    - hubierais tartamudeado
+    - hubieseis tartamudeado
+  uds:
+    - hubieran tartamudeado
+    - hubiesen tartamudeado
+imperativo:
+  tu: tartamudea
+  vos: tartamudeá
+  ud: tartamudee
+  nosotros: tartamudeemos
+  vosotros: tartamudead
+  uds: tartamudeen

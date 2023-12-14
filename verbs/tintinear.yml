@@ -1,0 +1,142 @@
+infinitivo: tintinear
+gerundio: tintineando
+participio-pasado: tintineado
+presente-indicativo:
+  yo: tinnitus
+  tu: tintineas
+  vos: tintineas
+  ud: tintinea
+  nosotros: tintineamos
+  vosotros: tintineáis
+  uds: tintinean
+preterito-perfecto-simple:
+  yo: tintineé
+  tu: tintineaste
+  vos: tintineaste
+  ud: tintineó
+  nosotros: tintineamos
+  vosotros: tintineasteis
+  uds: tintinearon
+preterito-imperfecto:
+  yo: tintineaba
+  tu: tintineabas
+  vos: tintineabas
+  ud: tintineaba
+  nosotros: tintineábamos
+  vosotros: tintineabais
+  uds: tintineaban
+futuro-simple:
+  yo: tintinearé
+  tu: tintinearás
+  vos: tintinearás
+  ud: tintineará
+  nosotros: tintinearemos
+  vosotros: tintinearéis
+  uds: tintinearán
+condicional-simple:
+  yo: tintinearía
+  tu: tintinearías
+  vos: tintinearías
+  ud: tintinearía
+  nosotros: tintinearíamos
+  vosotros: tintinearíais
+  uds: tintinearían
+presente-perfecto:
+  yo: he tintineado
+  tu: has tintineado
+  vos: has tintineado
+  ud: ha tintineado
+  nosotros: hemos tintineado
+  vosotros: habéis tintineado
+  uds: han tintineado
+preterito-pluscuamperfecto:
+  yo: había tintineado
+  tu: habías tintineado
+  vos: habías tintineado
+  ud: había tintineado
+  nosotros: habíamos tintineado
+  vosotros: habíais tintineado
+  uds: habían tintineado
+futuro-perfecto:
+  yo: habré tintineado
+  tu: habrás tintineado
+  vos: habrás tintineado
+  ud: habrá tintineado
+  nosotros: habremos tintineado
+  vosotros: habréis tintineado
+  uds: habrán tintineado
+condicional-perfecto:
+  yo: habría tintineado
+  tu: habrías tintineado
+  vos: habrías tintineado
+  ud: habría tintineado
+  nosotros: habríamos tintineado
+  vosotros: habríais tintineado
+  uds: habrían tintineado
+presente-subjuntivo:
+  yo: tinte
+  tu: tintes
+  vos: tintes
+  ud: tinte
+  nosotros: tintemos
+  vosotros: tintéis
+  uds: tinten
+preterito-perfecto-subjuntivo:
+  yo: haya tintineado
+  tu: hayas tintineado
+  vos: hayas tintineado
+  ud: haya tintineado
+  nosotros: hayamos tintineado
+  vosotros: hayáis tintineado
+  uds: hayan tintineado
+imperfecto-subjuntivo:
+  yo:
+    - tintineara
+    - tintinease
+  tu:
+    - tintinearas
+    - tintineases
+  vos:
+    - tintinearas
+    - tintineases
+  ud:
+    - tintineara
+    - tintinease
+  nosotros:
+    - tintineáramos
+    - tintineásemos
+  vosotros:
+    - tintinearais
+    - tintineaseis
+  uds:
+    - tintinearan
+    - tintineasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tintineado
+    - hubiese tintineado
+  tu:
+    - hubieras tintineado
+    - hubieses tintineado
+  vos:
+    - hubieras tintineado
+    - hubieses tintineado
+  ud:
+    - hubiera tintineado
+    - hubiese tintineado
+  nosotros:
+    - hubiéramos tintineado
+    - hubiésemos tintineado
+  vosotros:
+    - hubierais tintineado
+    - hubieseis tintineado
+  uds:
+    - hubieran tintineado
+    - hubiesen tintineado
+imperativo:
+  tu: tintinea
+  vos: tintineá
+  ud: tintinee
+  nosotros: tintineemos
+  vosotros: tintinead
+  uds: tintineen

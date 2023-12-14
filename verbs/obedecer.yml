@@ -1,0 +1,142 @@
+infinitivo: obedecer
+gerundio: obedeciendo
+participio-pasado: obedecido
+presente-indicativo:
+  yo: obedezco
+  tu: obedeces
+  vos: obedeces
+  ud: obedece
+  nosotros: obedecemos
+  vosotros: obedecéis
+  uds: obedecen
+preterito-perfecto-simple:
+  yo: obedecí
+  tu: obedeciste
+  vos: obedeciste
+  ud: obedeció
+  nosotros: obedecimos
+  vosotros: obedecisteis
+  uds: obedecieron
+preterito-imperfecto:
+  yo: obedecía
+  tu: obedecías
+  vos: obedecías
+  ud: obedecía
+  nosotros: obedecíamos
+  vosotros: obedecíais
+  uds: obedecían
+futuro-simple:
+  yo: obedeceré
+  tu: obedecerás
+  vos: obedecerás
+  ud: obedecerá
+  nosotros: obedeceremos
+  vosotros: obedeceréis
+  uds: obedecerán
+condicional-simple:
+  yo: obedecería
+  tu: obedecerías
+  vos: obedecerías
+  ud: obedecería
+  nosotros: obedeceríamos
+  vosotros: obedeceríais
+  uds: obedecerían
+presente-perfecto:
+  yo: he obedecido
+  tu: has obedecido
+  vos: has obedecido
+  ud: ha obedecido
+  nosotros: hemos obedecido
+  vosotros: habéis obedecido
+  uds: han obedecido
+preterito-pluscuamperfecto:
+  yo: había obedecido
+  tu: habías obedecido
+  vos: habías obedecido
+  ud: había obedecido
+  nosotros: habíamos obedecido
+  vosotros: habíais obedecido
+  uds: habían obedecido
+futuro-perfecto:
+  yo: habré obedecido
+  tu: habrás obedecido
+  vos: habrás obedecido
+  ud: habrá obedecido
+  nosotros: habremos obedecido
+  vosotros: habréis obedecido
+  uds: habrán obedecido
+condicional-perfecto:
+  yo: habría obedecido
+  tu: habrías obedecido
+  vos: habrías obedecido
+  ud: habría obedecido
+  nosotros: habríamos obedecido
+  vosotros: habríais obedecido
+  uds: habrían obedecido
+presente-subjuntivo:
+  yo: obedezca
+  tu: obedezcas
+  vos: obedezcas
+  ud: obedezca
+  nosotros: obedezcamos
+  vosotros: obedezcáis
+  uds: obedezcan
+preterito-perfecto-subjuntivo:
+  yo: haya obedecido
+  tu: hayas obedecido
+  vos: hayas obedecido
+  ud: haya obedecido
+  nosotros: hayamos obedecido
+  vosotros: hayáis obedecido
+  uds: hayan obedecido
+imperfecto-subjuntivo:
+  yo:
+    - obedeciera
+    - obedeciese
+  tu:
+    - obedecieras
+    - obedecieses
+  vos:
+    - obedecieras
+    - obedecieses
+  ud:
+    - obedeciera
+    - obedeciese
+  nosotros:
+    - obedeciéramos
+    - obedeciésemos
+  vosotros:
+    - obedecierais
+    - obedecieseis
+  uds:
+    - obedecieran
+    - obedeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera obedecido
+    - hubiese obedecido
+  tu:
+    - hubieras obedecido
+    - hubieses obedecido
+  vos:
+    - hubieras obedecido
+    - hubieses obedecido
+  ud:
+    - hubiera obedecido
+    - hubiese obedecido
+  nosotros:
+    - hubiéramos obedecido
+    - hubiésemos obedecido
+  vosotros:
+    - hubierais obedecido
+    - hubieseis obedecido
+  uds:
+    - hubieran obedecido
+    - hubiesen obedecido
+imperativo:
+  tu: obedece
+  vos: obedece
+  ud: obedezca
+  nosotros: obedezcamos
+  vosotros: obedeced
+  uds: obedezcan

@@ -1,0 +1,142 @@
+infinitivo: restablecer
+gerundio: restableciendo
+participio-pasado: restablecido
+presente-indicativo:
+  yo: restablezco
+  tu: restableces
+  vos: restableces
+  ud: restablece
+  nosotros: restablecemos
+  vosotros: restablecéis
+  uds: restablecen
+preterito-perfecto-simple:
+  yo: restablecí
+  tu: restableciste
+  vos: restableciste
+  ud: restableció
+  nosotros: restablecimos
+  vosotros: restablecisteis
+  uds: restablecieron
+preterito-imperfecto:
+  yo: restablecía
+  tu: restablecías
+  vos: restablecías
+  ud: restablecía
+  nosotros: restablecíamos
+  vosotros: restablecíais
+  uds: restablecían
+futuro-simple:
+  yo: restableceré
+  tu: restablecerás
+  vos: restablecerás
+  ud: restablecerá
+  nosotros: restableceremos
+  vosotros: restableceréis
+  uds: restablecerán
+condicional-simple:
+  yo: restablecería
+  tu: restablecerías
+  vos: restablecerías
+  ud: restablecería
+  nosotros: restableceríamos
+  vosotros: restableceríais
+  uds: restablecerían
+presente-perfecto:
+  yo: he restablecido
+  tu: has restablecido
+  vos: has restablecido
+  ud: ha restablecido
+  nosotros: hemos restablecido
+  vosotros: habéis restablecido
+  uds: han restablecido
+preterito-pluscuamperfecto:
+  yo: había restablecido
+  tu: habías restablecido
+  vos: habías restablecido
+  ud: había restablecido
+  nosotros: habíamos restablecido
+  vosotros: habíais restablecido
+  uds: habían restablecido
+futuro-perfecto:
+  yo: habré restablecido
+  tu: habrás restablecido
+  vos: habrás restablecido
+  ud: habrá restablecido
+  nosotros: habremos restablecido
+  vosotros: habréis restablecido
+  uds: habrán restablecido
+condicional-perfecto:
+  yo: habría restablecido
+  tu: habrías restablecido
+  vos: habrías restablecido
+  ud: habría restablecido
+  nosotros: habríamos restablecido
+  vosotros: habríais restablecido
+  uds: habrían restablecido
+presente-subjuntivo:
+  yo: restablezca
+  tu: restablezcas
+  vos: restablezcas
+  ud: restablezca
+  nosotros: restablezcamos
+  vosotros: restablezcáis
+  uds: restablezcan
+preterito-perfecto-subjuntivo:
+  yo: haya restablecido
+  tu: hayas restablecido
+  vos: hayas restablecido
+  ud: haya restablecido
+  nosotros: hayamos restablecido
+  vosotros: hayáis restablecido
+  uds: hayan restablecido
+imperfecto-subjuntivo:
+  yo:
+    - restableciera
+    - restableciese
+  tu:
+    - restablecieras
+    - restablecieses
+  vos:
+    - restablecieras
+    - restablecieses
+  ud:
+    - restableciera
+    - restableciese
+  nosotros:
+    - restableciéramos
+    - restableciésemos
+  vosotros:
+    - restablecierais
+    - restablecieseis
+  uds:
+    - restablecieran
+    - restableciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera restablecido
+    - hubiese restablecido
+  tu:
+    - hubieras restablecido
+    - hubieses restablecido
+  vos:
+    - hubieras restablecido
+    - hubieses restablecido
+  ud:
+    - hubiera restablecido
+    - hubiese restablecido
+  nosotros:
+    - hubiéramos restablecido
+    - hubiésemos restablecido
+  vosotros:
+    - hubierais restablecido
+    - hubieseis restablecido
+  uds:
+    - hubieran restablecido
+    - hubiesen restablecido
+imperativo:
+  tu: restablece
+  vos: restablecé
+  ud: restablezca
+  nosotros: restablezcamos
+  vosotros: restableced
+  uds: restablezcan

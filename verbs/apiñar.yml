@@ -1,0 +1,142 @@
+infinitivo: apiñar
+gerundio: apiñando
+participio-pasado: apiñado
+presente-indicativo:
+  yo: apiño
+  tu: apiñas
+  vos: apiñas
+  ud: apiña
+  nosotros: apiñamos
+  vosotros: apiñáis
+  uds: apiñan
+preterito-perfecto-simple:
+  yo: apiñé
+  tu: apiñaste
+  vos: apiñaste
+  ud: apiñó
+  nosotros: apiñamos
+  vosotros: apiñasteis
+  uds: apiñaron
+preterito-imperfecto:
+  yo: apiñaba
+  tu: apiñabas
+  vos: apiñabas
+  ud: apiñaba
+  nosotros: apiñábamos
+  vosotros: apiñabais
+  uds: apiñaban
+futuro-simple:
+  yo: apiñaré
+  tu: apiñarás
+  vos: apiñarás
+  ud: apiñará
+  nosotros: apiñaremos
+  vosotros: apiñaréis
+  uds: apiñarán
+condicional-simple:
+  yo: apiñaría
+  tu: apiñarías
+  vos: apiñarías
+  ud: apiñaría
+  nosotros: apiñaríamos
+  vosotros: apiñaríais
+  uds: apiñarían
+presente-perfecto:
+  yo: he apiñado
+  tu: has apiñado
+  vos: has apiñado
+  ud: ha apiñado
+  nosotros: hemos apiñado
+  vosotros: habéis apiñado
+  uds: han apiñado
+preterito-pluscuamperfecto:
+  yo: había apiñado
+  tu: habías apiñado
+  vos: habías apiñado
+  ud: había apiñado
+  nosotros: habíamos apiñado
+  vosotros: habíais apiñado
+  uds: habían apiñado
+futuro-perfecto:
+  yo: habré apiñado
+  tu: habrás apiñado
+  vos: habrás apiñado
+  ud: habrá apiñado
+  nosotros: habremos apiñado
+  vosotros: habréis apiñado
+  uds: habrán apiñado
+condicional-perfecto:
+  yo: habría apiñado
+  tu: habrías apiñado
+  vos: habrías apiñado
+  ud: habría apiñado
+  nosotros: habríamos apiñado
+  vosotros: habríais apiñado
+  uds: habrían apiñado
+presente-subjuntivo:
+  yo: apiñe
+  tu: apiñes
+  vos: apiñes
+  ud: apiñe
+  nosotros: apiñemos
+  vosotros: apiñéis
+  uds: apiñen
+preterito-perfecto-subjuntivo:
+  yo: haya apiñado
+  tu: hayas apiñado
+  vos: hayas apiñado
+  ud: haya apiñado
+  nosotros: hayamos apiñado
+  vosotros: hayáis apiñado
+  uds: hayan apiñado
+imperfecto-subjuntivo:
+  yo:
+    - apiñara
+    - apiñase
+  tu:
+    - apiñaras
+    - apiñases
+  vos:
+    - apiñaras
+    - apiñases
+  ud:
+    - apiñara
+    - apiñase
+  nosotros:
+    - apiñáramos
+    - apiñásemos
+  vosotros:
+    - apiñarais
+    - apiñaseis
+  uds:
+    - apiñaran
+    - apiñasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apiñado
+    - hubiese apiñado
+  tu:
+    - hubieras apiñado
+    - hubieses apiñado
+  vos:
+    - hubieras apiñado
+    - hubieses apiñado
+  ud:
+    - hubiera apiñado
+    - hubiese apiñado
+  nosotros:
+    - hubiéramos apiñado
+    - hubiésemos apiñado
+  vosotros:
+    - hubierais apiñado
+    - hubieseis apiñado
+  uds:
+    - hubieran apiñado
+    - hubiesen apiñado
+imperativo:
+  tu: apiña
+  vos: apiñá
+  ud: apiñe
+  nosotros: apiñemos
+  vosotros: apiñad
+  uds: apiñen

@@ -1,0 +1,142 @@
+infinitivo: ajustar
+gerundio: ajustando
+participio-pasado: ajustado
+presente-indicativo:
+  yo: ajusto
+  tu: ajustas
+  vos: ajustas
+  ud: ajusta
+  nosotros: ajustamos
+  vosotros: ajustáis
+  uds: ajustan
+preterito-perfecto-simple:
+  yo: ajusté
+  tu: ajustaste
+  vos: ajustaste
+  ud: ajustó
+  nosotros: ajustamos
+  vosotros: ajustasteis
+  uds: ajustaron
+preterito-imperfecto:
+  yo: ajustaba
+  tu: ajustabas
+  vos: ajustabas
+  ud: ajustaba
+  nosotros: ajustábamos
+  vosotros: ajustabais
+  uds: ajustaban
+futuro-simple:
+  yo: ajustaré
+  tu: ajustarás
+  vos: ajustarás
+  ud: ajustará
+  nosotros: ajustaremos
+  vosotros: ajustaréis
+  uds: ajustarán
+condicional-simple:
+  yo: ajustaría
+  tu: ajustarías
+  vos: ajustarías
+  ud: ajustaría
+  nosotros: ajustaríamos
+  vosotros: ajustaríais
+  uds: ajustarían
+presente-perfecto:
+  yo: he ajustado
+  tu: has ajustado
+  vos: has ajustado
+  ud: ha ajustado
+  nosotros: hemos ajustado
+  vosotros: habéis ajustado
+  uds: han ajustado
+preterito-pluscuamperfecto:
+  yo: había ajustado
+  tu: habías ajustado
+  vos: habías ajustado
+  ud: había ajustado
+  nosotros: habíamos ajustado
+  vosotros: habíais ajustado
+  uds: habían ajustado
+futuro-perfecto:
+  yo: habré ajustado
+  tu: habrás ajustado
+  vos: habrás ajustado
+  ud: habrá ajustado
+  nosotros: habremos ajustado
+  vosotros: habréis ajustado
+  uds: habrán ajustado
+condicional-perfecto:
+  yo: habría ajustado
+  tu: habrías ajustado
+  vos: habrías ajustado
+  ud: habría ajustado
+  nosotros: habríamos ajustado
+  vosotros: habríais ajustado
+  uds: habrían ajustado
+presente-subjuntivo:
+  yo: ajuste
+  tu: ajustes
+  vos: ajustes
+  ud: ajuste
+  nosotros: ajustemos
+  vosotros: ajustéis
+  uds: ajusten
+preterito-perfecto-subjuntivo:
+  yo: haya ajustado
+  tu: hayas ajustado
+  vos: hayas ajustado
+  ud: haya ajustado
+  nosotros: hayamos ajustado
+  vosotros: hayáis ajustado
+  uds: hayan ajustado
+imperfecto-subjuntivo:
+  yo:
+    - ajustara
+    - ajustase
+  tu:
+    - ajustaras
+    - ajustases
+  vos:
+    - ajustaras
+    - ajustases
+  ud:
+    - ajustara
+    - ajustase
+  nosotros:
+    - ajustáramos
+    - ajustásemos
+  vosotros:
+    - ajustarais
+    - ajustaseis
+  uds:
+    - ajustaran
+    - ajustasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ajustado
+    - hubiese ajustado
+  tu:
+    - hubieras ajustado
+    - hubieses ajustado
+  vos:
+    - hubieras ajustado
+    - hubieses ajustado
+  ud:
+    - hubiera ajustado
+    - hubiese ajustado
+  nosotros:
+    - hubiéramos ajustado
+    - hubiésemos ajustado
+  vosotros:
+    - hubierais ajustado
+    - hubieseis ajustado
+  uds:
+    - hubieran ajustado
+    - hubiesen ajustado
+imperativo:
+  tu: ajusta
+  vos: ajustá
+  ud: ajuste
+  nosotros: ajustemos
+  vosotros: ajustad
+  uds: ajusten

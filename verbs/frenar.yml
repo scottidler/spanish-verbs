@@ -1,0 +1,142 @@
+infinitivo: frenar
+gerundio: frenando
+participio-pasado: frenado
+presente-indicativo:
+  yo: freno
+  tu: frenas
+  vos: frenas
+  ud: frena
+  nosotros: frenamos
+  vosotros: frenáis
+  uds: frenan
+preterito-perfecto-simple:
+  yo: frené
+  tu: frenaste
+  vos: frenaste
+  ud: frenó
+  nosotros: frenamos
+  vosotros: frenasteis
+  uds: frenaron
+preterito-imperfecto:
+  yo: frenaba
+  tu: frenabas
+  vos: frenabas
+  ud: frenaba
+  nosotros: frenábamos
+  vosotros: frenabais
+  uds: frenaban
+futuro-simple:
+  yo: frenaré
+  tu: frenarás
+  vos: frenarás
+  ud: frenará
+  nosotros: frenaremos
+  vosotros: frenaréis
+  uds: frenarán
+condicional-simple:
+  yo: frenaría
+  tu: frenarías
+  vos: frenarías
+  ud: frenaría
+  nosotros: frenaríamos
+  vosotros: frenaríais
+  uds: frenarían
+presente-perfecto:
+  yo: he frenado
+  tu: has frenado
+  vos: has frenado
+  ud: ha frenado
+  nosotros: hemos frenado
+  vosotros: habéis frenado
+  uds: han frenado
+preterito-pluscuamperfecto:
+  yo: había frenado
+  tu: habías frenado
+  vos: habías frenado
+  ud: había frenado
+  nosotros: habíamos frenado
+  vosotros: habíais frenado
+  uds: habían frenado
+futuro-perfecto:
+  yo: habré frenado
+  tu: habrás frenado
+  vos: habrás frenado
+  ud: habrá frenado
+  nosotros: habremos frenado
+  vosotros: habréis frenado
+  uds: habrán frenado
+condicional-perfecto:
+  yo: habría frenado
+  tu: habrías frenado
+  vos: habrías frenado
+  ud: habría frenado
+  nosotros: habríamos frenado
+  vosotros: habríais frenado
+  uds: habrían frenado
+presente-subjuntivo:
+  yo: frene
+  tu: frenes
+  vos: frenes
+  ud: frene
+  nosotros: frenemos
+  vosotros: frenéis
+  uds: frenen
+preterito-perfecto-subjuntivo:
+  yo: haya frenado
+  tu: hayas frenado
+  vos: hayas frenado
+  ud: haya frenado
+  nosotros: hayamos frenado
+  vosotros: hayáis frenado
+  uds: hayan frenado
+imperfecto-subjuntivo:
+  yo:
+    - frenara
+    - frenase
+  tu:
+    - frenaras
+    - frenases
+  vos:
+    - frenaras
+    - frenases
+  ud:
+    - frenara
+    - frenase
+  nosotros:
+    - frenáramos
+    - frenásemos
+  vosotros:
+    - frenarais
+    - frenaseis
+  uds:
+    - frenaran
+    - frenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera frenado
+    - hubiese frenado
+  tu:
+    - hubieras frenado
+    - hubieses frenado
+  vos:
+    - hubieras frenado
+    - hubieses frenado
+  ud:
+    - hubiera frenado
+    - hubiese frenado
+  nosotros:
+    - hubiéramos frenado
+    - hubiésemos frenado
+  vosotros:
+    - hubierais frenado
+    - hubieseis frenado
+  uds:
+    - hubieran frenado
+    - hubiesen frenado
+imperativo:
+  tu: frena
+  vos: frená
+  ud: frene
+  nosotros: frenemos
+  vosotros: frenad
+  uds: frenen

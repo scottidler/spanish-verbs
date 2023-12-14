@@ -1,0 +1,142 @@
+infinitivo: motivar
+gerundio: motivando
+participio-pasado: motivado
+presente-indicativo:
+  yo: motivo
+  tu: motivas
+  vos: motivas
+  ud: motiva
+  nosotros: motivamos
+  vosotros: motiváis
+  uds: motivan
+preterito-perfecto-simple:
+  yo: motivé
+  tu: motivaste
+  vos: motivaste
+  ud: motivó
+  nosotros: motivamos
+  vosotros: motivasteis
+  uds: motivaron
+preterito-imperfecto:
+  yo: motivaba
+  tu: motivabas
+  vos: motivabas
+  ud: motivaba
+  nosotros: motivábamos
+  vosotros: motivabais
+  uds: motivaban
+futuro-simple:
+  yo: motivaré
+  tu: motivarás
+  vos: motivarás
+  ud: motivará
+  nosotros: motivaremos
+  vosotros: motivaréis
+  uds: motivarán
+condicional-simple:
+  yo: motivaría
+  tu: motivarías
+  vos: motivarías
+  ud: motivaría
+  nosotros: motivaríamos
+  vosotros: motivaríais
+  uds: motivarían
+presente-perfecto:
+  yo: he motivado
+  tu: has motivado
+  vos: has motivado
+  ud: ha motivado
+  nosotros: hemos motivado
+  vosotros: habéis motivado
+  uds: han motivado
+preterito-pluscuamperfecto:
+  yo: había motivado
+  tu: habías motivado
+  vos: habías motivado
+  ud: había motivado
+  nosotros: habíamos motivado
+  vosotros: habíais motivado
+  uds: habían motivado
+futuro-perfecto:
+  yo: habré motivado
+  tu: habrás motivado
+  vos: habrás motivado
+  ud: habrá motivado
+  nosotros: habremos motivado
+  vosotros: habréis motivado
+  uds: habrán motivado
+condicional-perfecto:
+  yo: habría motivado
+  tu: habrías motivado
+  vos: habrías motivado
+  ud: habría motivado
+  nosotros: habríamos motivado
+  vosotros: habríais motivado
+  uds: habrían motivado
+presente-subjuntivo:
+  yo: motive
+  tu: motives
+  vos: motives
+  ud: motive
+  nosotros: motivemos
+  vosotros: motivéis
+  uds: motiven
+preterito-perfecto-subjuntivo:
+  yo: haya motivado
+  tu: hayas motivado
+  vos: hayas motivado
+  ud: haya motivado
+  nosotros: hayamos motivado
+  vosotros: hayáis motivado
+  uds: hayan motivado
+imperfecto-subjuntivo:
+  yo:
+    - motivara
+    - motivase
+  tu:
+    - motivaras
+    - motivases
+  vos:
+    - motivaras
+    - motivases
+  ud:
+    - motivara
+    - motivase
+  nosotros:
+    - motiváramos
+    - motivásemos
+  vosotros:
+    - motivarais
+    - motivaseis
+  uds:
+    - motivaran
+    - motivasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera motivado
+    - hubiese motivado
+  tu:
+    - hubieras motivado
+    - hubieses motivado
+  vos:
+    - hubieras motivado
+    - hubieses motivado
+  ud:
+    - hubiera motivado
+    - hubiese motivado
+  nosotros:
+    - hubiéramos motivado
+    - hubiésemos motivado
+  vosotros:
+    - hubierais motivado
+    - hubieseis motivado
+  uds:
+    - hubieran motivado
+    - hubiesen motivado
+imperativo:
+  tu: motiva
+  vos: motivá
+  ud: motive
+  nosotros: motivemos
+  vosotros: motivad
+  uds: motiven

@@ -1,0 +1,142 @@
+infinitivo: equivocar
+gerundio: equivocando
+participio-pasado: equivocado
+presente-indicativo:
+  yo: equivoco
+  tu: equivocas
+  vos: equivocas
+  ud: equivoca
+  nosotros: equivocamos
+  vosotros: equivocáis
+  uds: equivocan
+preterito-perfecto-simple:
+  yo: equivoqué
+  tu: equivocaste
+  vos: equivocaste
+  ud: equivocó
+  nosotros: equivocamos
+  vosotros: equivocasteis
+  uds: equivocaron
+preterito-imperfecto:
+  yo: equivocaba
+  tu: equivocabas
+  vos: equivocabas
+  ud: equivocaba
+  nosotros: equivocábamos
+  vosotros: equivocabais
+  uds: equivocaban
+futuro-simple:
+  yo: equivocaré
+  tu: equivocarás
+  vos: equivocarás
+  ud: equivocará
+  nosotros: equivocaremos
+  vosotros: equivocaréis
+  uds: equivocarán
+condicional-simple:
+  yo: equivocaría
+  tu: equivocarías
+  vos: equivocarías
+  ud: equivocaría
+  nosotros: equivocaríamos
+  vosotros: equivocaríais
+  uds: equivocarían
+presente-perfecto:
+  yo: he equivocado
+  tu: has equivocado
+  vos: has equivocado
+  ud: ha equivocado
+  nosotros: hemos equivocado
+  vosotros: habéis equivocado
+  uds: han equivocado
+preterito-pluscuamperfecto:
+  yo: había equivocado
+  tu: habías equivocado
+  vos: habías equivocado
+  ud: había equivocado
+  nosotros: habíamos equivocado
+  vosotros: habíais equivocado
+  uds: habían equivocado
+futuro-perfecto:
+  yo: habré equivocado
+  tu: habrás equivocado
+  vos: habrás equivocado
+  ud: habrá equivocado
+  nosotros: habremos equivocado
+  vosotros: habréis equivocado
+  uds: habrán equivocado
+condicional-perfecto:
+  yo: habría equivocado
+  tu: habrías equivocado
+  vos: habrías equivocado
+  ud: habría equivocado
+  nosotros: habríamos equivocado
+  vosotros: habríais equivocado
+  uds: habrían equivocado
+presente-subjuntivo:
+  yo: equivoque
+  tu: equivoques
+  vos: equivoques
+  ud: equivoque
+  nosotros: equivoquemos
+  vosotros: equivoquéis
+  uds: equivoquen
+preterito-perfecto-subjuntivo:
+  yo: haya equivocado
+  tu: hayas equivocado
+  vos: hayas equivocado
+  ud: haya equivocado
+  nosotros: hayamos equivocado
+  vosotros: hayáis equivocado
+  uds: hayan equivocado
+imperfecto-subjuntivo:
+  yo:
+    - equivocara
+    - equivocase
+  tu:
+    - equivocaras
+    - equivocases
+  vos:
+    - equivocaras
+    - equivocases
+  ud:
+    - equivocara
+    - equivocase
+  nosotros:
+    - equivocáramos
+    - equivocásemos
+  vosotros:
+    - equivocarais
+    - equivocaseis
+  uds:
+    - equivocaran
+    - equivocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera equivocado
+    - hubiese equivocado
+  tu:
+    - hubieras equivocado
+    - hubieses equivocado
+  vos:
+    - hubieras equivocado
+    - hubieses equivocado
+  ud:
+    - hubiera equivocado
+    - hubiese equivocado
+  nosotros:
+    - hubiéramos equivocado
+    - hubiésemos equivocado
+  vosotros:
+    - hubierais equivocado
+    - hubieseis equivocado
+  uds:
+    - hubieran equivocado
+    - hubiesen equivocado
+imperativo:
+  tu: equivoca
+  vos: equívoca
+  ud: equivoque
+  nosotros: equivoquemos
+  vosotros: equivocad
+  uds: equivoquen

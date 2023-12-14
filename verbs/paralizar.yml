@@ -1,0 +1,156 @@
+infinitivo: paralizar
+gerundio: paralizando
+participio-pasado: paralizado
+
+presente-indicativo:
+  yo: paralizo
+  tu: paralizas
+  vos: paralizas
+  ud: paraliza
+  nosotros: paralizamos
+  vosotros: paralizáis
+  uds: paralizan
+
+preterito-perfecto-simple:
+  yo: paralicé
+  tu: paralizaste
+  vos: paralizaste
+  ud: paralizó
+  nosotros: paralizamos
+  vosotros: paralizasteis
+  uds: paralizaron
+
+preterito-imperfecto:
+  yo: paralizaba
+  tu: paralizabas
+  vos: paralizabas
+  ud: paralizaba
+  nosotros: paralizábamos
+  vosotros: paralizabais
+  uds: paralizaban
+
+futuro-simple:
+  yo: paralizaré
+  tu: paralizarás
+  vos: paralizarás
+  ud: paralizará
+  nosotros: paralizaremos
+  vosotros: paralizaréis
+  uds: paralizarán
+
+condicional-simple:
+  yo: paralizaría
+  tu: paralizarías
+  vos: paralizarías
+  ud: paralizaría
+  nosotros: paralizaríamos
+  vosotros: paralizaríais
+  uds: paralizarían
+
+presente-perfecto:
+  yo: he paralizado
+  tu: has paralizado
+  vos: has paralizado
+  ud: ha paralizado
+  nosotros: hemos paralizado
+  vosotros: habéis paralizado
+  uds: han paralizado
+
+preterito-pluscuamperfecto:
+  yo: había paralizado
+  tu: habías paralizado
+  vos: habías paralizado
+  ud: había paralizado
+  nosotros: habíamos paralizado
+  vosotros: habíais paralizado
+  uds: habían paralizado
+
+futuro-perfecto:
+  yo: habré paralizado
+  tu: habrás paralizado
+  vos: habrás paralizado
+  ud: habrá paralizado
+  nosotros: habremos paralizado
+  vosotros: habréis paralizado
+  uds: habrán paralizado
+
+condicional-perfecto:
+  yo: habría paralizado
+  tu: habrías paralizado
+  vos: habrías paralizado
+  ud: habría paralizado
+  nosotros: habríamos paralizado
+  vosotros: habríais paralizado
+  uds: habrían paralizado
+
+presente-subjuntivo:
+  yo: paralice
+  tu: paralices
+  vos: paralices
+  ud: paralice
+  nosotros: paralicemos
+  vosotros: paralicéis
+  uds: paralicen
+
+preterito-perfecto-subjuntivo:
+  yo: haya paralizado
+  tu: hayas paralizado
+  vos: hayas paralizado
+  ud: haya paralizado
+  nosotros: hayamos paralizado
+  vosotros: hayáis paralizado
+  uds: hayan paralizado
+
+imperfecto-subjuntivo:
+  yo:
+    - paralizara
+    - paralizase
+  tu:
+    - paralizaras
+    - paralizases
+  vos:
+    - paralizaras
+    - paralizases
+  ud:
+    - paralizara
+    - paralizase
+  nosotros:
+    - paralizáramos
+    - paralizásemos
+  vosotros:
+    - paralizarais
+    - paralizaseis
+  uds:
+    - paralizaran
+    - paralizasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera paralizado
+    - hubiese paralizado
+  tu:
+    - hubieras paralizado
+    - hubieses paralizado
+  vos:
+    - hubieras paralizado
+    - hubieses paralizado
+  ud:
+    - hubiera paralizado
+    - hubiese paralizado
+  nosotros:
+    - hubiéramos paralizado
+    - hubiésemos paralizado
+  vosotros:
+    - hubierais paralizado
+    - hubieseis paralizado
+  uds:
+    - hubieran paralizado
+    - hubiesen paralizado
+
+imperativo:
+  tu: paraliza
+  vos: paralizá
+  ud: paralice
+  nosotros: paralicemos
+  vosotros: paralizad
+  uds: paralicen

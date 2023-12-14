@@ -1,0 +1,142 @@
+infinitivo: decinar
+gerundio: decinando
+participio-pasado: decinado
+presente-indicativo:
+  yo: decino
+  tu: decinas
+  vos: decinás
+  ud: decina
+  nosotros: decinamos
+  vosotros: decináis
+  uds: decinan
+preterito-perfecto-simple:
+  yo: deciné
+  tu: decinaste
+  vos: decinaste
+  ud: decinó
+  nosotros: decinamos
+  vosotros: decinasteis
+  uds: decinaron
+preterito-imperfecto:
+  yo: decinaba
+  tu: decinabas
+  vos: decinabas
+  ud: decinaba
+  nosotros: decinábamos
+  vosotros: decinabais
+  uds: decinaban
+futuro-simple:
+  yo: decinaré
+  tu: decinarás
+  vos: decinarás
+  ud: decinará
+  nosotros: decinaremos
+  vosotros: decinaréis
+  uds: decinarán
+condicional-simple:
+  yo: decinaría
+  tu: decinarías
+  vos: decinarías
+  ud: decinaría
+  nosotros: decinaríamos
+  vosotros: decinaríais
+  uds: decinarían
+presente-perfecto:
+  yo: he decinado
+  tu: has decinado
+  vos: has decinado
+  ud: ha decinado
+  nosotros: hemos decinado
+  vosotros: habéis decinado
+  uds: han decinado
+preterito-pluscuamperfecto:
+  yo: había decinado
+  tu: habías decinado
+  vos: habías decinado
+  ud: había decinado
+  nosotros: habíamos decinado
+  vosotros: habíais decinado
+  uds: habían decinado
+futuro-perfecto:
+  yo: habré decinado
+  tu: habrás decinado
+  vos: habrás decinado
+  ud: habrá decinado
+  nosotros: habremos decinado
+  vosotros: habréis decinado
+  uds: habrán decinado
+condicional-perfecto:
+  yo: habría decinado
+  tu: habrías decinado
+  vos: habrías decinado
+  ud: habría decinado
+  nosotros: habríamos decinado
+  vosotros: habríais decinado
+  uds: habrían decinado
+presente-subjuntivo:
+  yo: decine
+  tu: decines
+  vos: decines
+  ud: decine
+  nosotros: decinemos
+  vosotros: decinéis
+  uds: decinen
+preterito-perfecto-subjuntivo:
+  yo: haya decinado
+  tu: hayas decinado
+  vos: hayas decinado
+  ud: haya decinado
+  nosotros: hayamos decinado
+  vosotros: hayáis decinado
+  uds: hayan decinado
+imperfecto-subjuntivo:
+  yo:
+    - decinara
+    - decinase
+  tu:
+    - decinaras
+    - decinases
+  vos:
+    - decinaras
+    - decinases
+  ud:
+    - decinara
+    - decinase
+  nosotros:
+    - decináramos
+    - decinásemos
+  vosotros:
+    - decinarais
+    - decinaseis
+  uds:
+    - decinaran
+    - decinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera decinado
+    - hubiese decinado
+  tu:
+    - hubieras decinado
+    - hubieses decinado
+  vos:
+    - hubieras decinado
+    - hubieses decinado
+  ud:
+    - hubiera decinado
+    - hubiese decinado
+  nosotros:
+    - hubiéramos decinado
+    - hubiésemos decinado
+  vosotros:
+    - hubierais decinado
+    - hubieseis decinado
+  uds:
+    - hubieran decinado
+    - hubiesen decinado
+imperativo:
+  tu: decina
+  vos: deciná
+  ud: decine
+  nosotros: decinemos
+  vosotros: decinad
+  uds: decinen

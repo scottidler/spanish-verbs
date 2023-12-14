@@ -1,0 +1,156 @@
+infinitivo: parecerse
+gerundio: pareciéndose
+participio-pasado: parecido
+
+presente-indicativo:
+  yo: me parezco
+  tu: te pareces
+  vos: te pareces
+  ud: se parece
+  nosotros: nos parecemos
+  vosotros: os parecéis
+  uds: se parecen
+
+preterito-perfecto-simple:
+  yo: me parecí
+  tu: te pareciste
+  vos: te pareciste
+  ud: se pareció
+  nosotros: nos parecimos
+  vosotros: os parecisteis
+  uds: se parecieron
+
+preterito-imperfecto:
+  yo: me parecía
+  tu: te parecías
+  vos: te parecías
+  ud: se parecía
+  nosotros: nos parecíamos
+  vosotros: os parecíais
+  uds: se parecían
+
+futuro-simple:
+  yo: me pareceré
+  tu: te parecerás
+  vos: te parecerás
+  ud: se parecerá
+  nosotros: nos pareceremos
+  vosotros: os pareceréis
+  uds: se parecerán
+
+condicional-simple:
+  yo: me parecería
+  tu: te parecerías
+  vos: te parecerías
+  ud: se parecería
+  nosotros: nos pareceríamos
+  vosotros: os pareceríais
+  uds: se parecerían
+
+presente-perfecto:
+  yo: me he parecido
+  tu: te has parecido
+  vos: te has parecido
+  ud: se ha parecido
+  nosotros: nos hemos parecido
+  vosotros: os habéis parecido
+  uds: se han parecido
+
+preterito-pluscuamperfecto:
+  yo: me había parecido
+  tu: te habías parecido
+  vos: te habías parecido
+  ud: se había parecido
+  nosotros: nos habíamos parecido
+  vosotros: os habíais parecido
+  uds: se habían parecido
+
+futuro-perfecto:
+  yo: me habré parecido
+  tu: te habrás parecido
+  vos: te habrás parecido
+  ud: se habrá parecido
+  nosotros: nos habremos parecido
+  vosotros: os habréis parecido
+  uds: se habrán parecido
+
+condicional-perfecto:
+  yo: me habría parecido
+  tu: te habrías parecido
+  vos: te habrías parecido
+  ud: se habría parecido
+  nosotros: nos habríamos parecido
+  vosotros: os habríais parecido
+  uds: se habrían parecido
+
+presente-subjuntivo:
+  yo: me parezca
+  tu: te parezcas
+  vos: te parezcas
+  ud: se parezca
+  nosotros: nos parezcamos
+  vosotros: os parezcáis
+  uds: se parezcan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya parecido
+  tu: te hayas parecido
+  vos: te hayas parecido
+  ud: se haya parecido
+  nosotros: nos hayamos parecido
+  vosotros: os hayáis parecido
+  uds: se hayan parecido
+
+imperfecto-subjuntivo:
+  yo:
+    - me pareciera
+    - me pareciese
+  tu:
+    - te parecieras
+    - te parecieses
+  vos:
+    - te parecieras
+    - te parecieses
+  ud:
+    - se pareciera
+    - se pareciese
+  nosotros:
+    - nos pareciéramos
+    - nos pareciésemos
+  vosotros:
+    - os parecierais
+    - os parecieseis
+  uds:
+    - se parecieran
+    - se pareciesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera parecido
+    - me hubiese parecido
+  tu:
+    - te hubieras parecido
+    - te hubieses parecido
+  vos:
+    - te hubieras parecido
+    - te hubieses parecido
+  ud:
+    - se hubiera parecido
+    - se hubiese parecido
+  nosotros:
+    - nos hubiéramos parecido
+    - nos hubiésemos parecido
+  vosotros:
+    - os hubierais parecido
+    - os hubieseis parecido
+  uds:
+    - se hubieran parecido
+    - se hubiesen parecido
+
+imperativo:
+  tu: párate
+  vos: parate
+  ud: párese
+  nosotros: parezcámonos
+  vosotros: paraos
+  uds: párense

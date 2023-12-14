@@ -1,0 +1,142 @@
+infinitivo: consolar
+gerundio: consolando
+participio-pasado: consolado
+presente-indicativo:
+  yo: consuelo
+  tu: consuelas
+  vos: consuelas
+  ud: consuela
+  nosotros: consolamos
+  vosotros: consoláis
+  uds: consuelan
+preterito-perfecto-simple:
+  yo: consolé
+  tu: consolaste
+  vos: consolaste
+  ud: consoló
+  nosotros: consolamos
+  vosotros: consolasteis
+  uds: consolaron
+preterito-imperfecto:
+  yo: consolaba
+  tu: consolabas
+  vos: consolabas
+  ud: consolaba
+  nosotros: consolábamos
+  vosotros: consolabais
+  uds: consolaban
+futuro-simple:
+  yo: consolaré
+  tu: consolarás
+  vos: consolarás
+  ud: consolará
+  nosotros: consolaremos
+  vosotros: consolaréis
+  uds: consolarán
+condicional-simple:
+  yo: consolaría
+  tu: consolarías
+  vos: consolarías
+  ud: consolaría
+  nosotros: consolaríamos
+  vosotros: consolaríais
+  uds: consolarían
+presente-perfecto:
+  yo: he consolado
+  tu: has consolado
+  vos: has consolado
+  ud: ha consolado
+  nosotros: hemos consolado
+  vosotros: habéis consolado
+  uds: han consolado
+preterito-pluscuamperfecto:
+  yo: había consolado
+  tu: habías consolado
+  vos: habías consolado
+  ud: había consolado
+  nosotros: habíamos consolado
+  vosotros: habíais consolado
+  uds: habían consolado
+futuro-perfecto:
+  yo: habré consolado
+  tu: habrás consolado
+  vos: habrás consolado
+  ud: habrá consolado
+  nosotros: habremos consolado
+  vosotros: habréis consolado
+  uds: habrán consolado
+condicional-perfecto:
+  yo: habría consolado
+  tu: habrías consolado
+  vos: habrías consolado
+  ud: habría consolado
+  nosotros: habríamos consolado
+  vosotros: habríais consolado
+  uds: habrían consolado
+presente-subjuntivo:
+  yo: consuele
+  tu: consueles
+  vos: consueles
+  ud: consuele
+  nosotros: consolemos
+  vosotros: consoléis
+  uds: consuelen
+preterito-perfecto-subjuntivo:
+  yo: haya consolado
+  tu: hayas consolado
+  vos: hayas consolado
+  ud: haya consolado
+  nosotros: hayamos consolado
+  vosotros: hayáis consolado
+  uds: hayan consolado
+imperfecto-subjuntivo:
+  yo:
+    - consolara
+    - consolase
+  tu:
+    - consolaras
+    - consolases
+  vos:
+    - consolaras
+    - consolases
+  ud:
+    - consolara
+    - consolase
+  nosotros:
+    - consoláramos
+    - consolásemos
+  vosotros:
+    - consolarais
+    - consolaseis
+  uds:
+    - consolaran
+    - consolasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera consolado
+    - hubiese consolado
+  tu:
+    - hubieras consolado
+    - hubieses consolado
+  vos:
+    - hubieras consolado
+    - hubieses consolado
+  ud:
+    - hubiera consolado
+    - hubiese consolado
+  nosotros:
+    - hubiéramos consolado
+    - hubiésemos consolado
+  vosotros:
+    - hubierais consolado
+    - hubieseis consolado
+  uds:
+    - hubieran consolado
+    - hubiesen consolado
+imperativo:
+  tu: consuela
+  vos: consolá
+  ud: consuele
+  nosotros: consolemos
+  vosotros: consolad
+  uds: consuelen

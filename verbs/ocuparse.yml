@@ -1,0 +1,156 @@
+infinitivo: ocuparse
+gerundio: ocupándose
+participio-pasado: ocupado
+
+presente-indicativo:
+  yo: me ocupo
+  tu: te ocupas
+  vos: te ocupas
+  ud: se ocupa
+  nosotros: nos ocupamos
+  vosotros: os ocupáis
+  uds: se ocupan
+
+preterito-perfecto-simple:
+  yo: me ocupé
+  tu: te ocupaste
+  vos: te ocupaste
+  ud: se ocupó
+  nosotros: nos ocupamos
+  vosotros: os ocupasteis
+  uds: se ocuparon
+
+preterito-imperfecto:
+  yo: me ocupaba
+  tu: te ocupabas
+  vos: te ocupabas
+  ud: se ocupaba
+  nosotros: nos ocupábamos
+  vosotros: os ocupabais
+  uds: se ocupaban
+
+futuro-simple:
+  yo: me ocuparé
+  tu: te ocuparás
+  vos: te ocuparás
+  ud: se ocupará
+  nosotros: nos ocuparemos
+  vosotros: os ocuparéis
+  uds: se ocuparán
+
+condicional-simple:
+  yo: me ocuparía
+  tu: te ocuparías
+  vos: te ocuparías
+  ud: se ocuparía
+  nosotros: nos ocuparíamos
+  vosotros: os ocuparíais
+  uds: se ocuparían
+
+presente-perfecto:
+  yo: me he ocupado
+  tu: te has ocupado
+  vos: te has ocupado
+  ud: se ha ocupado
+  nosotros: nos hemos ocupado
+  vosotros: os habéis ocupado
+  uds: se han ocupado
+
+preterito-pluscuamperfecto:
+  yo: me había ocupado
+  tu: te habías ocupado
+  vos: te habías ocupado
+  ud: se había ocupado
+  nosotros: nos habíamos ocupado
+  vosotros: os habíais ocupado
+  uds: se habían ocupado
+
+futuro-perfecto:
+  yo: me habré ocupado
+  tu: te habrás ocupado
+  vos: te habrás ocupado
+  ud: se habrá ocupado
+  nosotros: nos habremos ocupado
+  vosotros: os habréis ocupado
+  uds: se habrán ocupado
+
+condicional-perfecto:
+  yo: me habría ocupado
+  tu: te habrías ocupado
+  vos: te habrías ocupado
+  ud: se habría ocupado
+  nosotros: nos habríamos ocupado
+  vosotros: os habríais ocupado
+  uds: se habrían ocupado
+
+presente-subjuntivo:
+  yo: me ocupe
+  tu: te ocupes
+  vos: te ocupes
+  ud: se ocupe
+  nosotros: nos ocupemos
+  vosotros: os ocupéis
+  uds: se ocupen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya ocupado
+  tu: te hayas ocupado
+  vos: te hayas ocupado
+  ud: se haya ocupado
+  nosotros: nos hayamos ocupado
+  vosotros: os hayáis ocupado
+  uds: se hayan ocupado
+
+imperfecto-subjuntivo:
+  yo:
+    - me ocupara
+    - me ocupase
+  tu:
+    - te ocuparas
+    - te ocupases
+  vos:
+    - te ocuparas
+    - te ocupases
+  ud:
+    - se ocupara
+    - se ocupase
+  nosotros:
+    - nos ocupáramos
+    - nos ocupásemos
+  vosotros:
+    - os ocuparais
+    - os ocupaseis
+  uds:
+    - se ocuparan
+    - se ocupasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera ocupado
+    - me hubiese ocupado
+  tu:
+    - te hubieras ocupado
+    - te hubieses ocupado
+  vos:
+    - te hubieras ocupado
+    - te hubieses ocupado
+  ud:
+    - se hubiera ocupado
+    - se hubiese ocupado
+  nosotros:
+    - nos hubiéramos ocupado
+    - nos hubiésemos ocupado
+  vosotros:
+    - os hubierais ocupado
+    - os hubieseis ocupado
+  uds:
+    - se hubieran ocupado
+    - se hubiesen ocupado
+
+imperativo:
+  tu: ocúpate
+  vos: ocúpate
+  ud: ocúpese
+  nosotros: ocupémonos
+  vosotros: ocupaos
+  uds: ocúpense

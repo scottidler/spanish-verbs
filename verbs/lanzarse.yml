@@ -1,0 +1,142 @@
+infinitivo: lanzarse
+gerundio: lanzándose
+participio-pasado: lanzado
+presente-indicativo:
+  yo: me lanzo
+  tu: te lanzas
+  vos: te lanzas
+  ud: se lanza
+  nosotros: nos lanzamos
+  vosotros: os lanzáis
+  uds: se lanzan
+preterito-perfecto-simple:
+  yo: me lancé
+  tu: te lanzaste
+  vos: te lanzaste
+  ud: se lanzó
+  nosotros: nos lanzamos
+  vosotros: os lanzasteis
+  uds: se lanzaron
+preterito-imperfecto:
+  yo: me lanzaba
+  tu: te lanzabas
+  vos: te lanzabas
+  ud: se lanzaba
+  nosotros: nos lanzábamos
+  vosotros: os lanzabais
+  uds: se lanzaban
+futuro-simple:
+  yo: me lanzaré
+  tu: te lanzarás
+  vos: te lanzarás
+  ud: se lanzará
+  nosotros: nos lanzaremos
+  vosotros: os lanzaréis
+  uds: se lanzarán
+condicional-simple:
+  yo: me lanzaría
+  tu: te lanzarías
+  vos: te lanzarías
+  ud: se lanzaría
+  nosotros: nos lanzaríamos
+  vosotros: os lanzaríais
+  uds: se lanzarían
+presente-perfecto:
+  yo: me he lanzado
+  tu: te has lanzado
+  vos: te has lanzado
+  ud: se ha lanzado
+  nosotros: nos hemos lanzado
+  vosotros: os habéis lanzado
+  uds: se han lanzado
+preterito-pluscuamperfecto:
+  yo: me había lanzado
+  tu: te habías lanzado
+  vos: te habías lanzado
+  ud: se había lanzado
+  nosotros: nos habíamos lanzado
+  vosotros: os habíais lanzado
+  uds: se habían lanzado
+futuro-perfecto:
+  yo: me habré lanzado
+  tu: te habrás lanzado
+  vos: te habrás lanzado
+  ud: se habrá lanzado
+  nosotros: nos habremos lanzado
+  vosotros: os habréis lanzado
+  uds: se habrán lanzado
+condicional-perfecto:
+  yo: me habría lanzado
+  tu: te habrías lanzado
+  vos: te habrías lanzado
+  ud: se habría lanzado
+  nosotros: nos habríamos lanzado
+  vosotros: os habríais lanzado
+  uds: se habrían lanzado
+presente-subjuntivo:
+  yo: me lance
+  tu: te lances
+  vos: te lances
+  ud: se lance
+  nosotros: nos lancemos
+  vosotros: os lancéis
+  uds: se lancen
+preterito-perfecto-subjuntivo:
+  yo: me haya lanzado
+  tu: te hayas lanzado
+  vos: te hayas lanzado
+  ud: se haya lanzado
+  nosotros: nos hayamos lanzado
+  vosotros: os hayáis lanzado
+  uds: se hayan lanzado
+imperfecto-subjuntivo:
+  yo:
+    - me lanzara
+    - me lanzase
+  tu:
+    - te lanzaras
+    - te lanzases
+  vos:
+    - te lanzaras
+    - te lanzases
+  ud:
+    - se lanzara
+    - se lanzase
+  nosotros:
+    - nos lanzáramos
+    - nos lanzásemos
+  vosotros:
+    - os lanzarais
+    - os lanzaseis
+  uds:
+    - se lanzaran
+    - se lanzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera lanzado
+    - me hubiese lanzado
+  tu:
+    - te hubieras lanzado
+    - te hubieses lanzado
+  vos:
+    - te hubieras lanzado
+    - te hubieses lanzado
+  ud:
+    - se hubiera lanzado
+    - se hubiese lanzado
+  nosotros:
+    - nos hubiéramos lanzado
+    - nos hubiésemos lanzado
+  vosotros:
+    - os hubierais lanzado
+    - os hubieseis lanzado
+  uds:
+    - se hubieran lanzado
+    - se hubiesen lanzado
+imperativo:
+  tu: lánzate
+  vos: lanzáte
+  ud: lance
+  nosotros: lancémonos
+  vosotros: lanzáos
+  uds: lancen

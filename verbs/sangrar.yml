@@ -1,0 +1,142 @@
+infinitivo: sangrar
+gerundio: sangrando
+participio-pasado: sangrado
+presente-indicativo:
+  yo: sangro
+  tu: sangras
+  vos: sangras
+  ud: sangra
+  nosotros: sangramos
+  vosotros: sangráis
+  uds: sangran
+preterito-perfecto-simple:
+  yo: sangré
+  tu: sangraste
+  vos: sangraste
+  ud: sangró
+  nosotros: sangramos
+  vosotros: sangrasteis
+  uds: sangraron
+preterito-imperfecto:
+  yo: sangraba
+  tu: sangrabas
+  vos: sangrabas
+  ud: sangraba
+  nosotros: sangrábamos
+  vosotros: sangrabais
+  uds: sangraban
+futuro-simple:
+  yo: sangraré
+  tu: sangrarás
+  vos: sangrarás
+  ud: sangrará
+  nosotros: sangraremos
+  vosotros: sangraréis
+  uds: sangrarán
+condicional-simple:
+  yo: sangraría
+  tu: sangrarías
+  vos: sangrarías
+  ud: sangraría
+  nosotros: sangraríamos
+  vosotros: sangraríais
+  uds: sangrarían
+presente-perfecto:
+  yo: he sangrado
+  tu: has sangrado
+  vos: has sangrado
+  ud: ha sangrado
+  nosotros: hemos sangrado
+  vosotros: habéis sangrado
+  uds: han sangrado
+preterito-pluscuamperfecto:
+  yo: había sangrado
+  tu: habías sangrado
+  vos: habías sangrado
+  ud: había sangrado
+  nosotros: habíamos sangrado
+  vosotros: habíais sangrado
+  uds: habían sangrado
+futuro-perfecto:
+  yo: habré sangrado
+  tu: habrás sangrado
+  vos: habrás sangrado
+  ud: habrá sangrado
+  nosotros: habremos sangrado
+  vosotros: habréis sangrado
+  uds: habrán sangrado
+condicional-perfecto:
+  yo: habría sangrado
+  tu: habrías sangrado
+  vos: habrías sangrado
+  ud: habría sangrado
+  nosotros: habríamos sangrado
+  vosotros: habríais sangrado
+  uds: habrían sangrado
+presente-subjuntivo:
+  yo: sangre
+  tu: sangres
+  vos: sangres
+  ud: sangre
+  nosotros: sangremos
+  vosotros: sangréis
+  uds: sangren
+preterito-perfecto-subjuntivo:
+  yo: haya sangrado
+  tu: hayas sangrado
+  vos: hayas sangrado
+  ud: haya sangrado
+  nosotros: hayamos sangrado
+  vosotros: hayáis sangrado
+  uds: hayan sangrado
+imperfecto-subjuntivo:
+  yo:
+    - sangrara
+    - sangrase
+  tu:
+    - sangraras
+    - sangrases
+  vos:
+    - sangraras
+    - sangrases
+  ud:
+    - sangrara
+    - sangrase
+  nosotros:
+    - sangráramos
+    - sangrásemos
+  vosotros:
+    - sangrarais
+    - sangraseis
+  uds:
+    - sangraran
+    - sangrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sangrado
+    - hubiese sangrado
+  tu:
+    - hubieras sangrado
+    - hubieses sangrado
+  vos:
+    - hubieras sangrado
+    - hubieses sangrado
+  ud:
+    - hubiera sangrado
+    - hubiese sangrado
+  nosotros:
+    - hubiéramos sangrado
+    - hubiésemos sangrado
+  vosotros:
+    - hubierais sangrado
+    - hubieseis sangrado
+  uds:
+    - hubieran sangrado
+    - hubiesen sangrado
+imperativo:
+  tu: sangra
+  vos: sangrá
+  ud: sangre
+  nosotros: sangremos
+  vosotros: sangrad
+  uds: sangren

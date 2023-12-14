@@ -1,0 +1,142 @@
+infinitivo: emprender
+gerundio: emprendiendo
+participio-pasado: emprendido
+presente-indicativo:
+  yo: emprendo
+  tu: emprendes
+  vos: emprendes
+  ud: emprende
+  nosotros: emprendemos
+  vosotros: emprendéis
+  uds: emprenden
+preterito-perfecto-simple:
+  yo: emprendí
+  tu: emprendiste
+  vos: emprendiste
+  ud: emprendió
+  nosotros: emprendimos
+  vosotros: emprendisteis
+  uds: emprendieron
+preterito-imperfecto:
+  yo: emprendía
+  tu: emprendías
+  vos: emprendías
+  ud: emprendía
+  nosotros: emprendíamos
+  vosotros: emprendíais
+  uds: emprendían
+futuro-simple:
+  yo: emprenderé
+  tu: emprenderás
+  vos: emprenderás
+  ud: emprenderá
+  nosotros: emprenderemos
+  vosotros: emprenderéis
+  uds: emprenderán
+condicional-simple:
+  yo: emprendería
+  tu: emprenderías
+  vos: emprenderías
+  ud: emprendería
+  nosotros: emprenderíamos
+  vosotros: emprenderíais
+  uds: emprenderían
+presente-perfecto:
+  yo: he emprendido
+  tu: has emprendido
+  vos: has emprendido
+  ud: ha emprendido
+  nosotros: hemos emprendido
+  vosotros: habéis emprendido
+  uds: han emprendido
+preterito-pluscuamperfecto:
+  yo: había emprendido
+  tu: habías emprendido
+  vos: habías emprendido
+  ud: había emprendido
+  nosotros: habíamos emprendido
+  vosotros: habíais emprendido
+  uds: habían emprendido
+futuro-perfecto:
+  yo: habré emprendido
+  tu: habrás emprendido
+  vos: habrás emprendido
+  ud: habrá emprendido
+  nosotros: habremos emprendido
+  vosotros: habréis emprendido
+  uds: habrán emprendido
+condicional-perfecto:
+  yo: habría emprendido
+  tu: habrías emprendido
+  vos: habrías emprendido
+  ud: habría emprendido
+  nosotros: habríamos emprendido
+  vosotros: habríais emprendido
+  uds: habrían emprendido
+presente-subjuntivo:
+  yo: emprenda
+  tu: emprendas
+  vos: emprendas
+  ud: emprenda
+  nosotros: emprendamos
+  vosotros: emprendáis
+  uds: emprendan
+preterito-perfecto-subjuntivo:
+  yo: haya emprendido
+  tu: hayas emprendido
+  vos: hayas emprendido
+  ud: haya emprendido
+  nosotros: hayamos emprendido
+  vosotros: hayáis emprendido
+  uds: hayan emprendido
+imperfecto-subjuntivo:
+  yo:
+    - emprendiera
+    - emprendiese
+  tu:
+    - emprendieras
+    - emprendieses
+  vos:
+    - emprendieras
+    - emprendieses
+  ud:
+    - emprendiera
+    - emprendiese
+  nosotros:
+    - emprendiéramos
+    - emprendiésemos
+  vosotros:
+    - emprendierais
+    - emprendieseis
+  uds:
+    - emprendieran
+    - emprendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera emprendido
+    - hubiese emprendido
+  tu:
+    - hubieras emprendido
+    - hubieses emprendido
+  vos:
+    - hubieras emprendido
+    - hubieses emprendido
+  ud:
+    - hubiera emprendido
+    - hubiese emprendido
+  nosotros:
+    - hubiéramos emprendido
+    - hubiésemos emprendido
+  vosotros:
+    - hubierais emprendido
+    - hubieseis emprendido
+  uds:
+    - hubieran emprendido
+    - hubiesen emprendido
+imperativo:
+  tu: emprende
+  vos: emprendé
+  ud: emprenda
+  nosotros: emprendamos
+  vosotros: emprended
+  uds: emprendan

@@ -1,0 +1,142 @@
+infinitivo: ondear
+gerundio: ondeando
+participio-pasado: ondeado
+presente-indicativo:
+  yo: ondeo
+  tu: ondeas
+  vos: ondeas
+  ud: ondea
+  nosotros: ondeamos
+  vosotros: ondeáis
+  uds: ondean
+preterito-perfecto-simple:
+  yo: ondeé
+  tu: ondeaste
+  vos: ondeaste
+  ud: ondeó
+  nosotros: ondeamos
+  vosotros: ondeasteis
+  uds: ondearon
+preterito-imperfecto:
+  yo: ondeaba
+  tu: ondeabas
+  vos: ondeabas
+  ud: ondeaba
+  nosotros: ondeábamos
+  vosotros: ondeabais
+  uds: ondeaban
+futuro-simple:
+  yo: ondearé
+  tu: ondearás
+  vos: ondearás
+  ud: ondeará
+  nosotros: ondearemos
+  vosotros: ondearéis
+  uds: ondearán
+condicional-simple:
+  yo: ondearía
+  tu: ondearías
+  vos: ondearías
+  ud: ondearía
+  nosotros: ondearíamos
+  vosotros: ondearíais
+  uds: ondearían
+presente-perfecto:
+  yo: he ondeado
+  tu: has ondeado
+  vos: has ondeado
+  ud: ha ondeado
+  nosotros: hemos ondeado
+  vosotros: habéis ondeado
+  uds: han ondeado
+preterito-pluscuamperfecto:
+  yo: había ondeado
+  tu: habías ondeado
+  vos: habías ondeado
+  ud: había ondeado
+  nosotros: habíamos ondeado
+  vosotros: habíais ondeado
+  uds: habían ondeado
+futuro-perfecto:
+  yo: habré ondeado
+  tu: habrás ondeado
+  vos: habrás ondeado
+  ud: habrá ondeado
+  nosotros: habremos ondeado
+  vosotros: habréis ondeado
+  uds: habrán ondeado
+condicional-perfecto:
+  yo: habría ondeado
+  tu: habrías ondeado
+  vos: habrías ondeado
+  ud: habría ondeado
+  nosotros: habríamos ondeado
+  vosotros: habríais ondeado
+  uds: habrían ondeado
+presente-subjuntivo:
+  yo: ondee
+  tu: ondees
+  vos: ondees
+  ud: ondee
+  nosotros: ondeemos
+  vosotros: ondeéis
+  uds: ondeen
+preterito-perfecto-subjuntivo:
+  yo: haya ondeado
+  tu: hayas ondeado
+  vos: hayas ondeado
+  ud: haya ondeado
+  nosotros: hayamos ondeado
+  vosotros: hayáis ondeado
+  uds: hayan ondeado
+imperfecto-subjuntivo:
+  yo:
+    - ondeara
+    - ondease
+  tu:
+    - ondearas
+    - ondeases
+  vos:
+    - ondearas
+    - ondeases
+  ud:
+    - ondeara
+    - ondease
+  nosotros:
+    - ondeáramos
+    - ondeásemos
+  vosotros:
+    - ondearais
+    - ondeaseis
+  uds:
+    - ondearan
+    - ondeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ondeado
+    - hubiese ondeado
+  tu:
+    - hubieras ondeado
+    - hubieses ondeado
+  vos:
+    - hubieras ondeado
+    - hubieses ondeado
+  ud:
+    - hubiera ondeado
+    - hubiese ondeado
+  nosotros:
+    - hubiéramos ondeado
+    - hubiésemos ondeado
+  vosotros:
+    - hubierais ondeado
+    - hubieseis ondeado
+  uds:
+    - hubieran ondeado
+    - hubiesen ondeado
+imperativo:
+  tu: ondea
+  vos: ondeá
+  ud: ondee
+  nosotros: ondeemos
+  vosotros: ondead
+  uds: ondeen

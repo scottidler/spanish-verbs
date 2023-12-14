@@ -1,0 +1,142 @@
+infinitivo: crucir
+gerundio: cruciendo
+participio-pasado: crucido
+presente-indicativo:
+  yo: cruzco
+  tu: cruzces
+  vos: cruzces
+  ud: cruzce
+  nosotros: cruzcimos
+  vosotros: cruzcís
+  uds: crucen
+preterito-perfecto-simple:
+  yo: crucí
+  tu: cruciste
+  vos: cruciste
+  ud: crució
+  nosotros: crucimos
+  vosotros: crucisteis
+  uds: crucieron
+preterito-imperfecto:
+  yo: crucía
+  tu: crucías
+  vos: crucías
+  ud: crucía
+  nosotros: crucíamos
+  vosotros: crucíais
+  uds: crucían
+futuro-simple:
+  yo: cruciré
+  tu: crucirás
+  vos: crucirás
+  ud: crucirá
+  nosotros: cruciremos
+  vosotros: cruciréis
+  uds: crucirán
+condicional-simple:
+  yo: cruciría
+  tu: crucirías
+  vos: crucirías
+  ud: cruciría
+  nosotros: cruciríamos
+  vosotros: cruciríais
+  uds: crucirían
+presente-perfecto:
+  yo: he crucido
+  tu: has crucido
+  vos: has crucido
+  ud: ha crucido
+  nosotros: hemos crucido
+  vosotros: habéis crucido
+  uds: han crucido
+preterito-pluscuamperfecto:
+  yo: había crucido
+  tu: habías crucido
+  vos: habías crucido
+  ud: había crucido
+  nosotros: habíamos crucido
+  vosotros: habíais crucido
+  uds: habían crucido
+futuro-perfecto:
+  yo: habré crucido
+  tu: habrás crucido
+  vos: habrás crucido
+  ud: habrá crucido
+  nosotros: habremos crucido
+  vosotros: habréis crucido
+  uds: habrán crucido
+condicional-perfecto:
+  yo: habría crucido
+  tu: habrías crucido
+  vos: habrías crucido
+  ud: habría crucido
+  nosotros: habríamos crucido
+  vosotros: habríais crucido
+  uds: habrían crucido
+presente-subjuntivo:
+  yo: cruce
+  tu: cruces
+  vos: cruces
+  ud: cruce
+  nosotros: crucemos
+  vosotros: crucéis
+  uds: crucen
+preterito-perfecto-subjuntivo:
+  yo: haya crucido
+  tu: hayas crucido
+  vos: hayas crucido
+  ud: haya crucido
+  nosotros: hayamos crucido
+  vosotros: hayáis crucido
+  uds: hayan crucido
+imperfecto-subjuntivo:
+  yo:
+    - cruciera
+    - cruciese
+  tu:
+    - crucieras
+    - crucieses
+  vos:
+    - crucieras
+    - crucieses
+  ud:
+    - cruciera
+    - cruciese
+  nosotros:
+    - cruciéramos
+    - cruciésemos
+  vosotros:
+    - crucierais
+    - crucieseis
+  uds:
+    - crucieran
+    - cruciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera crucido
+    - hubiese crucido
+  tu:
+    - hubieras crucido
+    - hubieses crucido
+  vos:
+    - hubieras crucido
+    - hubieses crucido
+  ud:
+    - hubiera crucido
+    - hubiese crucido
+  nosotros:
+    - hubiéramos crucido
+    - hubiésemos crucido
+  vosotros:
+    - hubierais crucido
+    - hubieseis crucido
+  uds:
+    - hubieran crucido
+    - hubiesen crucido
+imperativo:
+  tu: cruz
+  vos: cruz
+  ud: cruce
+  nosotros: crucemos
+  vosotros: cruzad
+  uds: crucen

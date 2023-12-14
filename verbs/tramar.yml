@@ -1,0 +1,142 @@
+infinitivo: tramar
+gerundio: tramando
+participio-pasado: tramado
+presente-indicativo:
+  yo: tramo
+  tu: tramas
+  vos: tramas
+  ud: trama
+  nosotros: tramamos
+  vosotros: tramáis
+  uds: traman
+preterito-perfecto-simple:
+  yo: tramé
+  tu: tramaste
+  vos: tramaste
+  ud: tramó
+  nosotros: tramamos
+  vosotros: tramasteis
+  uds: tramaron
+preterito-imperfecto:
+  yo: tramaba
+  tu: tramabas
+  vos: tramabas
+  ud: tramaba
+  nosotros: tramábamos
+  vosotros: tramabais
+  uds: tramaban
+futuro-simple:
+  yo: tramaré
+  tu: tramarás
+  vos: tramarás
+  ud: tramara
+  nosotros: tramaremos
+  vosotros: tramaréis
+  uds: tramarán
+condicional-simple:
+  yo: tramaría
+  tu: tramarías
+  vos: tramarías
+  ud: tramaría
+  nosotros: tramaríamos
+  vosotros: tramaríais
+  uds: tramarían
+presente-perfecto:
+  yo: he tramado
+  tu: has tramado
+  vos: has tramado
+  ud: ha tramado
+  nosotros: hemos tramado
+  vosotros: habéis tramado
+  uds: han tramado
+preterito-pluscuamperfecto:
+  yo: había tramado
+  tu: habías tramado
+  vos: habías tramado
+  ud: había tramado
+  nosotros: habíamos tramado
+  vosotros: habíais tramado
+  uds: habían tramado
+futuro-perfecto:
+  yo: habré tramado
+  tu: habrás tramado
+  vos: habrás tramado
+  ud: habrá tramado
+  nosotros: habremos tramado
+  vosotros: habréis tramado
+  uds: habrán tramado
+condicional-perfecto:
+  yo: habría tramado
+  tu: habrías tramado
+  vos: habrías tramado
+  ud: habría tramado
+  nosotros: habríamos tramado
+  vosotros: habríais tramado
+  uds: habrían tramado
+presente-subjuntivo:
+  yo: trame
+  tu: trames
+  vos: trames
+  ud: trame
+  nosotros: tramemos
+  vosotros: traméis
+  uds: tramenn
+preterito-perfecto-subjuntivo:
+  yo: haya tramado
+  tu: hayas tramado
+  vos: hayas tramado
+  ud: haya tramado
+  nosotros: hayamos tramado
+  vosotros: hayáis tramado
+  uds: hayan tramado
+imperfecto-subjuntivo:
+  yo:
+    - tramara
+    - tramase
+  tu:
+    - tramaras
+    - tramasen
+  vos:
+    - tramaras
+    - tramasen
+  ud:
+    - tramara
+    - tramase
+  nosotros:
+    - tramáramos
+    - tramásemos
+  vosotros:
+    - tramarais
+    - tramaseis
+  uds:
+    - tramaran
+    - tramason
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tramado
+    - hubiese tramado
+  tu:
+    - hubieras tramado
+    - hubieses tramado
+  vos:
+    - hubieras tramado
+    - hubieses tramado
+  ud:
+    - hubiera tramado
+    - hubiese tramado
+  nosotros:
+    - hubiéramos tramado
+    - hubiésemos tramado
+  vosotros:
+    - hubierais tramado
+    - hubieseis tramado
+  uds:
+    - hubieran tramado
+    - hubiesen tramado
+imperativo:
+  tu: trama
+  vos: tramaté
+  ud: trame
+  nosotros: tramemos
+  vosotros: tramad
+  uds: tramenn

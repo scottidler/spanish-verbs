@@ -1,0 +1,142 @@
+infinitivo: proferir
+gerundio: proferiendo
+participio-pasado: proferido
+presente-indicativo:
+  yo: profiero
+  tu: profieres
+  vos: profieres
+  ud: profiere
+  nosotros: proferimos
+  vosotros: profieréis
+  uds: profieren
+preterito-perfecto-simple:
+  yo: profirí
+  tu: profiriste
+  vos: profiriste
+  ud: profirió
+  nosotros: profirimos
+  vosotros: profiristeis
+  uds: profirieron
+preterito-imperfecto:
+  yo: profiría
+  tu: profirías
+  vos: profirías
+  ud: profiría
+  nosotros: profiríamos
+  vosotros: profiríais
+  uds: profirían
+futuro-simple:
+  yo: profiriré
+  tu: profirirás
+  vos: profirirás
+  ud: profirirá
+  nosotros: proferiremos
+  vosotros: profiriréis
+  uds: profirirán
+condicional-simple:
+  yo: profiriría
+  tu: profirirías
+  vos: profirirías
+  ud: profiriría
+  nosotros: profiriríamos
+  vosotros: profiriríais
+  uds: profirirían
+presente-perfecto:
+  yo: he proferido
+  tu: has proferido
+  vos: has proferido
+  ud: ha proferido
+  nosotros: hemos proferido
+  vosotros: habéis proferido
+  uds: han proferido
+preterito-pluscuamperfecto:
+  yo: había proferido
+  tu: habías proferido
+  vos: habías proferido
+  ud: había proferido
+  nosotros: habíamos proferido
+  vosotros: habíais proferido
+  uds: habían proferido
+futuro-perfecto:
+  yo: habré proferido
+  tu: habrás proferido
+  vos: habrás proferido
+  ud: habrá proferido
+  nosotros: habremos proferido
+  vosotros: habréis proferido
+  uds: habrán proferido
+condicional-perfecto:
+  yo: habría proferido
+  tu: habrías proferido
+  vos: habrías proferido
+  ud: habría proferido
+  nosotros: habríamos proferido
+  vosotros: habríais proferido
+  uds: habrían proferido
+presente-subjuntivo:
+  yo: profiera
+  tu: profieras
+  vos: profieras
+  ud: profiera
+  nosotros: profiramos
+  vosotros: profiráis
+  uds: profieran
+preterito-perfecto-subjuntivo:
+  yo: haya proferido
+  tu: hayas proferido
+  vos: hayas proferido
+  ud: haya proferido
+  nosotros: hayamos proferido
+  vosotros: hayáis proferido
+  uds: hayan proferido
+imperfecto-subjuntivo:
+  yo:
+    - profiriera
+    - profiriese
+  tu:
+    - profirieras
+    - profirieses
+  vos:
+    - profirieras
+    - profirieses
+  ud:
+    - profiriera
+    - profiriese
+  nosotros:
+    - profiriéramos
+    - profiriésemos
+  vosotros:
+    - profirierais
+    - profirieseis
+  uds:
+    - profirieran
+    - profiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera proferido
+    - hubiese proferido
+  tu:
+    - hubieras proferido
+    - hubieses proferido
+  vos:
+    - hubieras proferido
+    - hubieses proferido
+  ud:
+    - hubiera proferido
+    - hubiese proferido
+  nosotros:
+    - hubiéramos proferido
+    - hubiésemos proferido
+  vosotros:
+    - hubierais proferido
+    - hubieseis proferido
+  uds:
+    - hubieran proferido
+    - hubiesen proferido
+imperativo:
+  tu: profiere
+  vos: profí
+  ud: profiera
+  nosotros: profiramos
+  vosotros: profirid
+  uds: profieran

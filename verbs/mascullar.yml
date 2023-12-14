@@ -1,0 +1,142 @@
+infinitivo: mascullar
+gerundio: mascullando
+participio-pasado: mascullado
+presente-indicativo:
+  yo: mascullo
+  tu: mascullas
+  vos: mascullas
+  ud: masculla
+  nosotros: mascullamos
+  vosotros: masculláis
+  uds: mascullan
+preterito-perfecto-simple:
+  yo: mascullé
+  tu: mascullaste
+  vos: mascullaste
+  ud: masculló
+  nosotros: mascullamos
+  vosotros: mascullasteis
+  uds: mascullaron
+preterito-imperfecto:
+  yo: mascullaba
+  tu: mascullabas
+  vos: mascullabas
+  ud: mascullaba
+  nosotros: mascullábamos
+  vosotros: mascullabais
+  uds: mascullaban
+futuro-simple:
+  yo: mascullaré
+  tu: mascullarás
+  vos: mascullarás
+  ud: mascullará
+  nosotros: mascullaremos
+  vosotros: mascullaréis
+  uds: mascullarán
+condicional-simple:
+  yo: mascullaría
+  tu: mascullarías
+  vos: mascullarías
+  ud: mascullaría
+  nosotros: mascullaríamos
+  vosotros: mascullaríais
+  uds: mascullarían
+presente-perfecto:
+  yo: he mascullado
+  tu: has mascullado
+  vos: has mascullado
+  ud: ha mascullado
+  nosotros: hemos mascullado
+  vosotros: habéis mascullado
+  uds: han mascullado
+preterito-pluscuamperfecto:
+  yo: había mascullado
+  tu: habías mascullado
+  vos: habías mascullado
+  ud: había mascullado
+  nosotros: habíamos mascullado
+  vosotros: habíais mascullado
+  uds: habían mascullado
+futuro-perfecto:
+  yo: habré mascullado
+  tu: habrás mascullado
+  vos: habrás mascullado
+  ud: habrá mascullado
+  nosotros: habremos mascullado
+  vosotros: habréis mascullado
+  uds: habrán mascullado
+condicional-perfecto:
+  yo: habría mascullado
+  tu: habrías mascullado
+  vos: habrías mascullado
+  ud: habría mascullado
+  nosotros: habríamos mascullado
+  vosotros: habríais mascullado
+  uds: habrían mascullado
+presente-subjuntivo:
+  yo: masculle
+  tu: masculles
+  vos: masculles
+  ud: masculle
+  nosotros: mascullemos
+  vosotros: masculléis
+  uds: mascullen
+preterito-perfecto-subjuntivo:
+  yo: haya mascullado
+  tu: hayas mascullado
+  vos: hayas mascullado
+  ud: haya mascullado
+  nosotros: hayamos mascullado
+  vosotros: hayáis mascullado
+  uds: hayan mascullado
+imperfecto-subjuntivo:
+  yo:
+    - mascullara
+    - mascullase
+  tu:
+    - mascullaras
+    - mascullases
+  vos:
+    - mascullaras
+    - mascullases
+  ud:
+    - mascullara
+    - mascullase
+  nosotros:
+    - masculláramos
+    - mascullásemos
+  vosotros:
+    - mascullarais
+    - mascullaseis
+  uds:
+    - mascullaran
+    - mascullasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mascullado
+    - hubiese mascullado
+  tu:
+    - hubieras mascullado
+    - hubieses mascullado
+  vos:
+    - hubieras mascullado
+    - hubieses mascullado
+  ud:
+    - hubiera mascullado
+    - hubiese mascullado
+  nosotros:
+    - hubiéramos mascullado
+    - hubiésemos mascullado
+  vosotros:
+    - hubierais mascullado
+    - hubieseis mascullado
+  uds:
+    - hubieran mascullado
+    - hubiesen mascullado
+imperativo:
+  tu: masculla
+  vos: mascullá
+  ud: masculle
+  nosotros: mascullemos
+  vosotros: mascullad
+  uds: mascullen

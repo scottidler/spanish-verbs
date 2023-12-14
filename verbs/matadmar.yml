@@ -1,0 +1,142 @@
+infinitivo: matadmar
+gerundio: matadmando
+participio-pasado: matadmdado
+presente-indicativo:
+  yo: matadmo
+  tu: matadmas
+  vos: matadmas
+  ud: matadm
+  nosotros: matadmos
+  vosotros: matadmais
+  uds: matadman
+preterito-perfecto-simple:
+  yo: matadmé
+  tu: matadmaste
+  vos: matadmaste
+  ud: matadmo
+  nosotros: matadmos
+  vosotros: matadmaisteis
+  uds: matadmaron
+preterito-imperfecto:
+  yo: matadmaba
+  tu: matadmas
+  vos: matadmas
+  ud: matadmaba
+  nosotros: matadmábamos
+  vosotros: matadmais
+  uds: matadman
+futuro-simple:
+  yo: matadmaré
+  tu: matadmars
+  vos: matadmars
+  ud: matadmará
+  nosotros: matadmaremos
+  vosotros: matadmaraís
+  uds: matadmarán
+condicional-simple:
+  yo: matadmaría
+  tu: matadmarías
+  vos: matadmarías
+  ud: matadmaría
+  nosotros: matadmaríamos
+  vosotros: matadmaríais
+  uds: matadmarían
+presente-perfecto:
+  yo: he matadmdado
+  tu: has matadmdado
+  vos: has matadmdado
+  ud: ha matadmdado
+  nosotros: hemos matadmdado
+  vosotros: habéis matadmdado
+  uds: han matadmdado
+preterito-pluscuamperfecto:
+  yo: había matadmdado
+  tu: habías matadmdado
+  vos: habías matadmdado
+  ud: había matadmdado
+  nosotros: habíamos matadmdado
+  vosotros: habíais matadmdado
+  uds: habían matadmdado
+futuro-perfecto:
+  yo: habré matadmdado
+  tu: habrás matadmdado
+  vos: habrás matadmdado
+  ud: habrá matadmdado
+  nosotros: habremos matadmdado
+  vosotros: habréis matadmdado
+  uds: habrán matadmdado
+condicional-perfecto:
+  yo: habría matadmdado
+  tu: habrías matadmdado
+  vos: habrías matadmdado
+  ud: habría matadmdado
+  nosotros: habríamos matadmdado
+  vosotros: habríais matadmdado
+  uds: habrían matadmdado
+presente-subjuntivo:
+  yo: matadmde
+  tu: matadmdes
+  vos: matadmdes
+  ud: matadme
+  nosotros: matadmdemos
+  vosotros: matadmdéis
+  uds: matadmden
+preterito-perfecto-subjuntivo:
+  yo: haya matadmdado
+  tu: hayas matadmdado
+  vos: hayas matadmdado
+  ud: haya matadmdado
+  nosotros: hayamos matadmdado
+  vosotros: hayáis matadmdado
+  uds: hayan matadmdado
+imperfecto-subjuntivo:
+  yo:
+    - matadmar
+    - matadmase
+  tu:
+    - matadmaras
+    - matadmasen
+  vos:
+    - matadmaras
+    - matadmasen
+  ud:
+    - matadmara
+    - matadmase
+  nosotros:
+    - matadmarmos
+    - matadmasemos
+  vosotros:
+    - matadmarais
+    - matadmaséis
+  uds:
+    - matadmaran
+    - matadmasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera matadmdado
+    - hubiese matadmdado
+  tu:
+    - hubieras matadmdado
+    - hubieses matadmdado
+  vos:
+    - hubieras matadmdado
+    - hubieses matadmdado
+  ud:
+    - hubiera matadmdado
+    - hubiese matadmdado
+  nosotros:
+    - hubiéramos matadmdado
+    - hubiésemos matadmdado
+  vosotros:
+    - hubierais matadmdado
+    - hubieseis matadmdado
+  uds:
+    - hubieran matadmdado
+    - hubiesen matadmdado
+imperativo:
+  tu: matadme
+  vos: matadme
+  ud: matadme
+  nosotros: matadmdemos
+  vosotros: matadmdad
+  uds: matadmden

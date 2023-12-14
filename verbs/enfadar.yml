@@ -1,0 +1,142 @@
+infinitivo: enfadar
+gerundio: enfadando
+participio-pasado: enfadado
+presente-indicativo:
+  yo: enfado
+  tu: enfadas
+  vos: enfadas
+  ud: enfada
+  nosotros: enfadamos
+  vosotros: enfadáis
+  uds: enfadan
+preterito-perfecto-simple:
+  yo: enfadé
+  tu: enfadaste
+  vos: enfadaste
+  ud: enfadó
+  nosotros: enfadamos
+  vosotros: enfadasteis
+  uds: enfadaron
+preterito-imperfecto:
+  yo: enfadaba
+  tu: enfadabas
+  vos: enfadabas
+  ud: enfadaba
+  nosotros: enfadábamos
+  vosotros: enfadabais
+  uds: enfadaban
+futuro-simple:
+  yo: enfadaré
+  tu: enfadarás
+  vos: enfadarás
+  ud: enfadará
+  nosotros: enfadaremos
+  vosotros: enfadaréis
+  uds: enfadarán
+condicional-simple:
+  yo: enfadaría
+  tu: enfadarías
+  vos: enfadarías
+  ud: enfadaría
+  nosotros: enfadaríamos
+  vosotros: enfadaríais
+  uds: enfadarían
+presente-perfecto:
+  yo: he enfadado
+  tu: has enfadado
+  vos: has enfadado
+  ud: ha enfadado
+  nosotros: hemos enfadado
+  vosotros: habéis enfadado
+  uds: han enfadado
+preterito-pluscuamperfecto:
+  yo: había enfadado
+  tu: habías enfadado
+  vos: habías enfadado
+  ud: había enfadado
+  nosotros: habíamos enfadado
+  vosotros: habíais enfadado
+  uds: habían enfadado
+futuro-perfecto:
+  yo: habré enfadado
+  tu: habrás enfadado
+  vos: habrás enfadado
+  ud: habrá enfadado
+  nosotros: habremos enfadado
+  vosotros: habréis enfadado
+  uds: habrán enfadado
+condicional-perfecto:
+  yo: habría enfadado
+  tu: habrías enfadado
+  vos: habrías enfadado
+  ud: habría enfadado
+  nosotros: habríamos enfadado
+  vosotros: habríais enfadado
+  uds: habrían enfadado
+presente-subjuntivo:
+  yo: enfade
+  tu: enfades
+  vos: enfades
+  ud: enfade
+  nosotros: enfademos
+  vosotros: enfadéis
+  uds: enfade
+preterito-perfecto-subjuntivo:
+  yo: haya enfadado
+  tu: hayas enfadado
+  vos: hayas enfadado
+  ud: haya enfadado
+  nosotros: hayamos enfadado
+  vosotros: hayáis enfadado
+  uds: hayan enfadado
+imperfecto-subjuntivo:
+  yo:
+    - enfadara
+    - enfadase
+  tu:
+    - enfadaras
+    - enfadases
+  vos:
+    - enfadaras
+    - enfadases
+  ud:
+    - enfadara
+    - enfadase
+  nosotros:
+    - enfadáramos
+    - enfadásemos
+  vosotros:
+    - enfadarais
+    - enfadaseis
+  uds:
+    - enfadaran
+    - enfadasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enfadado
+    - hubiese enfadado
+  tu:
+    - hubieras enfadado
+    - hubieses enfadado
+  vos:
+    - hubieras enfadado
+    - hubieses enfadado
+  ud:
+    - hubiera enfadado
+    - hubiese enfadado
+  nosotros:
+    - hubiéramos enfadado
+    - hubiésemos enfadado
+  vosotros:
+    - hubierais enfadado
+    - hubieseis enfadado
+  uds:
+    - hubieran enfadado
+    - hubiesen enfadado
+imperativo:
+  tu: enfada
+  vos: enfadá
+  ud: enfade
+  nosotros: enfademos
+  vosotros: enfadad
+  uds: enfade

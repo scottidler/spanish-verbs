@@ -1,0 +1,142 @@
+infinitivo: ponedlar
+gerundio: ponedlando
+participio-pasado: ponedlado
+presente-indicativo:
+  yo: ponedlo
+  tu: ponedlas
+  vos: ponedlas
+  ud: ponedla
+  nosotros: ponedlamos
+  vosotros: ponedláis
+  uds: ponedlan
+preterito-perfecto-simple:
+  yo: ponedlé
+  tu: ponedlaste
+  vos: ponedlaste
+  ud: ponedló
+  nosotros: ponedlamos
+  vosotros: ponedlasteis
+  uds: ponedlaron
+preterito-imperfecto:
+  yo: ponedlaba
+  tu: ponedlabas
+  vos: ponedlabas
+  ud: ponedlaba
+  nosotros: ponedlábamos
+  vosotros: ponedlabais
+  uds: ponedlaban
+futuro-simple:
+  yo: ponedlaré
+  tu: ponedlarás
+  vos: ponedlarás
+  ud: ponedlará
+  nosotros: ponedlaremos
+  vosotros: ponedlaréis
+  uds: ponedlarán
+condicional-simple:
+  yo: ponedlaría
+  tu: ponedlarías
+  vos: ponedlarías
+  ud: ponedlaría
+  nosotros: ponedlaríamos
+  vosotros: ponedlaríais
+  uds: ponedlarían
+presente-perfecto:
+  yo: he ponedlado
+  tu: has ponedlado
+  vos: has ponedlado
+  ud: ha ponedlado
+  nosotros: hemos ponedlado
+  vosotros: habéis ponedlado
+  uds: han ponedlado
+preterito-pluscuamperfecto:
+  yo: había ponedlado
+  tu: habías ponedlado
+  vos: habías ponedlado
+  ud: había ponedlado
+  nosotros: habíamos ponedlado
+  vosotros: habíais ponedlado
+  uds: habían ponedlado
+futuro-perfecto:
+  yo: habré ponedlado
+  tu: habrás ponedlado
+  vos: habrás ponedlado
+  ud: habrá ponedlado
+  nosotros: habremos ponedlado
+  vosotros: habréis ponedlado
+  uds: habrán ponedlado
+condicional-perfecto:
+  yo: habría ponedlado
+  tu: habrías ponedlado
+  vos: habrías ponedlado
+  ud: habría ponedlado
+  nosotros: habríamos ponedlado
+  vosotros: habríais ponedlado
+  uds: habrían ponedlado
+presente-subjuntivo:
+  yo: ponga
+  tu: pongas
+  vos: pongas
+  ud: ponga
+  nosotros: pongamos
+  vosotros: pongáis
+  uds: pongan
+preterito-perfecto-subjuntivo:
+  yo: haya ponedlado
+  tu: hayas ponedlado
+  vos: hayas ponedlado
+  ud: haya ponedlado
+  nosotros: hayamos ponedlado
+  vosotros: hayáis ponedlado
+  uds: hayan ponedlado
+imperfecto-subjuntivo:
+  yo:
+    - ponedlara
+    - ponedlase
+  tu:
+    - ponedlaras
+    - ponedlases
+  vos:
+    - ponedlaras
+    - ponedlases
+  ud:
+    - ponedlara
+    - ponedlase
+  nosotros:
+    - ponedláramos
+    - ponedlásemos
+  vosotros:
+    - ponedlarais
+    - ponedlaseis
+  uds:
+    - ponedlaran
+    - ponedlasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ponedlado
+    - hubiese ponedlado
+  tu:
+    - hubieras ponedlado
+    - hubieses ponedlado
+  vos:
+    - hubieras ponedlado
+    - hubieses ponedlado
+  ud:
+    - hubiera ponedlado
+    - hubiese ponedlado
+  nosotros:
+    - hubiéramos ponedlado
+    - hubiésemos ponedlado
+  vosotros:
+    - hubierais ponedlado
+    - hubieseis ponedlado
+  uds:
+    - hubieran ponedlado
+    - hubiesen ponedlado
+imperativo:
+  tu: pon
+  vos: ponedla
+  ud: ponga
+  nosotros: pongamos
+  vosotros: ponedlad
+  uds: pongan

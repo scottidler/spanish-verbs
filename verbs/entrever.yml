@@ -1,0 +1,142 @@
+infinitivo: entrever
+gerundio: entreviendo
+participio-pasado: entrevido
+presente-indicativo:
+  yo: entreveo
+  tu: entreves
+  vos: entreves
+  ud: entreve
+  nosotros: entreveemos
+  vosotros: entrevéis
+  uds: entreven
+preterito-perfecto-simple:
+  yo: entreveí
+  tu: entreviste
+  vos: entreviste
+  ud: entrevió
+  nosotros: entreveímos
+  vosotros: entrevisteis
+  uds: entrevieron
+preterito-imperfecto:
+  yo: entreveía
+  tu: entreveías
+  vos: entreveías
+  ud: entreveía
+  nosotros: entreveíamos
+  vosotros: entreveíais
+  uds: entreveían
+futuro-simple:
+  yo: entreveré
+  tu: entreverás
+  vos: entreverás
+  ud: entreverá
+  nosotros: entreveremos
+  vosotros: entreveréis
+  uds: entreverán
+condicional-simple:
+  yo: entrevería
+  tu: entreverías
+  vos: entreverías
+  ud: entrevería
+  nosotros: entreveríamos
+  vosotros: entreveríais
+  uds: entreverían
+presente-perfecto:
+  yo: he entrevido
+  tu: has entrevido
+  vos: has entrevido
+  ud: ha entrevido
+  nosotros: hemos entrevido
+  vosotros: habéis entrevido
+  uds: han entrevido
+preterito-pluscuamperfecto:
+  yo: había entrevido
+  tu: habías entrevido
+  vos: habías entrevido
+  ud: había entrevido
+  nosotros: habíamos entrevido
+  vosotros: habíais entrevido
+  uds: habían entrevido
+futuro-perfecto:
+  yo: habré entrevido
+  tu: habrás entrevido
+  vos: habrás entrevido
+  ud: habrá entrevido
+  nosotros: habremos entrevido
+  vosotros: habréis entrevido
+  uds: habrán entrevido
+condicional-perfecto:
+  yo: habría entrevido
+  tu: habrías entrevido
+  vos: habrías entrevido
+  ud: habría entrevido
+  nosotros: habríamos entrevido
+  vosotros: habríais entrevido
+  uds: habrían entrevido
+presente-subjuntivo:
+  yo: entreva
+  tu: entrevas
+  vos: entrevas
+  ud: entreva
+  nosotros: entrevamos
+  vosotros: entreváis
+  uds: entrevan
+preterito-perfecto-subjuntivo:
+  yo: haya entrevido
+  tu: hayas entrevido
+  vos: hayas entrevido
+  ud: haya entrevido
+  nosotros: hayamos entrevido
+  vosotros: hayáis entrevido
+  uds: hayan entrevido
+imperfecto-subjuntivo:
+  yo:
+    - entreviera
+    - entreviese
+  tu:
+    - entrevieras
+    - entrevieses
+  vos:
+    - entrevieras
+    - entrevieses
+  ud:
+    - entreviera
+    - entreviese
+  nosotros:
+    - entreviéramos
+    - entreviésemos
+  vosotros:
+    - entrevierais
+    - entrevieseis
+  uds:
+    - entrevieran
+    - entreviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera entrevido
+    - hubiese entrevido
+  tu:
+    - hubieras entrevido
+    - hubieses entrevido
+  vos:
+    - hubieras entrevido
+    - hubieses entrevido
+  ud:
+    - hubiera entrevido
+    - hubiese entrevido
+  nosotros:
+    - hubiéramos entrevido
+    - hubiésemos entrevido
+  vosotros:
+    - hubierais entrevido
+    - hubieseis entrevido
+  uds:
+    - hubieran entrevido
+    - hubiesen entrevido
+imperativo:
+  tu: entreve
+  vos: entrevé
+  ud: entreva
+  nosotros: entrevamos
+  vosotros: entreved
+  uds: entrevan

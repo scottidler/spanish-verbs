@@ -1,0 +1,156 @@
+infinitivo: resignarse
+gerundio: resignándose
+participio-pasado: resignado
+
+presente-indicativo:
+  yo: me resigno
+  tu: te resignas
+  vos: te resignás
+  ud: se resigna
+  nosotros: nos resignamos
+  vosotros: os resignáis
+  uds: se resignan
+
+preterito-perfecto-simple:
+  yo: me resigné
+  tu: te resignaste
+  vos: te resignaste
+  ud: se resignó
+  nosotros: nos resignamos
+  vosotros: os resignasteis
+  uds: se resignaron
+
+preterito-imperfecto:
+  yo: me resignaba
+  tu: te resignabas
+  vos: te resignabas
+  ud: se resignaba
+  nosotros: nos resignábamos
+  vosotros: os resignabais
+  uds: se resignaban
+
+futuro-simple:
+  yo: me resignaré
+  tu: te resignarás
+  vos: te resignarás
+  ud: se resignará
+  nosotros: nos resignaremos
+  vosotros: os resignaréis
+  uds: se resignarán
+
+condicional-simple:
+  yo: me resignaría
+  tu: te resignarías
+  vos: te resignarías
+  ud: se resignaría
+  nosotros: nos resignaríamos
+  vosotros: os resignaríais
+  uds: se resignarían
+
+presente-perfecto:
+  yo: me he resignado
+  tu: te has resignado
+  vos: te has resignado
+  ud: se ha resignado
+  nosotros: nos hemos resignado
+  vosotros: os habéis resignado
+  uds: se han resignado
+
+preterito-pluscuamperfecto:
+  yo: me había resignado
+  tu: te habías resignado
+  vos: te habías resignado
+  ud: se había resignado
+  nosotros: nos habíamos resignado
+  vosotros: os habíais resignado
+  uds: se habían resignado
+
+futuro-perfecto:
+  yo: me habré resignado
+  tu: te habrás resignado
+  vos: te habrás resignado
+  ud: se habrá resignado
+  nosotros: nos habremos resignado
+  vosotros: os habréis resignado
+  uds: se habrán resignado
+
+condicional-perfecto:
+  yo: me habría resignado
+  tu: te habrías resignado
+  vos: te habrías resignado
+  ud: se habría resignado
+  nosotros: nos habríamos resignado
+  vosotros: os habríais resignado
+  uds: se habrían resignado
+
+presente-subjuntivo:
+  yo: me resigne
+  tu: te resignes
+  vos: te resignes
+  ud: se resigne
+  nosotros: nos resignemos
+  vosotros: os resignéis
+  uds: se resignen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya resignado
+  tu: te hayas resignado
+  vos: te hayas resignado
+  ud: se haya resignado
+  nosotros: nos hayamos resignado
+  vosotros: os hayáis resignado
+  uds: se hayan resignado
+
+imperfecto-subjuntivo:
+  yo:
+    - me resignara
+    - me resignase
+  tu:
+    - te resignaras
+    - te resignases
+  vos:
+    - te resignaras
+    - te resignases
+  ud:
+    - se resignara
+    - se resignase
+  nosotros:
+    - nos resignáramos
+    - nos resignásemos
+  vosotros:
+    - os resignarais
+    - os resignaseis
+  uds:
+    - se resignaran
+    - se resignasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera resignado
+    - me hubiese resignado
+  tu:
+    - te hubieras resignado
+    - te hubieses resignado
+  vos:
+    - te hubieras resignado
+    - te hubieses resignado
+  ud:
+    - se hubiera resignado
+    - se hubiese resignado
+  nosotros:
+    - nos hubiéramos resignado
+    - nos hubiésemos resignado
+  vosotros:
+    - os hubierais resignado
+    - os hubieseis resignado
+  uds:
+    - se hubieran resignado
+    - se hubiesen resignado
+
+imperativo:
+  tu: resígnate
+  vos: resígnate
+  ud: resígnese
+  nosotros: resignémonos
+  vosotros: resignaos
+  uds: resignense

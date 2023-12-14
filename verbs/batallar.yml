@@ -1,0 +1,142 @@
+infinitivo: batallar
+gerundio: batallando
+participio-pasado: batallado
+presente-indicativo:
+  yo: batallo
+  tu: batallas
+  vos: batallas
+  ud: batalla
+  nosotros: batallamos
+  vosotros: batalláis
+  uds: batallan
+preterito-perfecto-simple:
+  yo: batallé
+  tu: batallaste
+  vos: batallaste
+  ud: batalló
+  nosotros: batallamos
+  vosotros: batallasteis
+  uds: batallaron
+preterito-imperfecto:
+  yo: batallaba
+  tu: batallabas
+  vos: batallabas
+  ud: batallaba
+  nosotros: batallábamos
+  vosotros: batallabais
+  uds: batallaban
+futuro-simple:
+  yo: batallaré
+  tu: batallarás
+  vos: batallarás
+  ud: batallará
+  nosotros: batallaremos
+  vosotros: batallaréis
+  uds: batallarán
+condicional-simple:
+  yo: batallaría
+  tu: batallarías
+  vos: batallarías
+  ud: batallaría
+  nosotros: batallaríamos
+  vosotros: batallaríais
+  uds: batallarían
+presente-perfecto:
+  yo: he batallado
+  tu: has batallado
+  vos: has batallado
+  ud: ha batallado
+  nosotros: hemos batallado
+  vosotros: habéis batallado
+  uds: han batallado
+preterito-pluscuamperfecto:
+  yo: había batallado
+  tu: habías batallado
+  vos: habías batallado
+  ud: había batallado
+  nosotros: habíamos batallado
+  vosotros: habíais batallado
+  uds: habían batallado
+futuro-perfecto:
+  yo: habré batallado
+  tu: habrás batallado
+  vos: habrás batallado
+  ud: habrá batallado
+  nosotros: habremos batallado
+  vosotros: habréis batallado
+  uds: habrán batallado
+condicional-perfecto:
+  yo: habría batallado
+  tu: habrías batallado
+  vos: habrías batallado
+  ud: habría batallado
+  nosotros: habríamos batallado
+  vosotros: habríais batallado
+  uds: habrían batallado
+presente-subjuntivo:
+  yo: batalle
+  tu: batalles
+  vos: batalles
+  ud: batalle
+  nosotros: batallemos
+  vosotros: batalléis
+  uds: batallen
+preterito-perfecto-subjuntivo:
+  yo: haya batallado
+  tu: hayas batallado
+  vos: hayas batallado
+  ud: haya batallado
+  nosotros: hayamos batallado
+  vosotros: hayáis batallado
+  uds: hayan batallado
+imperfecto-subjuntivo:
+  yo:
+    - batallara
+    - batallase
+  tu:
+    - batallaras
+    - batallases
+  vos:
+    - batallaras
+    - batallases
+  ud:
+    - batallara
+    - batallase
+  nosotros:
+    - batalláramos
+    - batallásemos
+  vosotros:
+    - batallarais
+    - batallaseis
+  uds:
+    - batallaran
+    - batallasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera batallado
+    - hubiese batallado
+  tu:
+    - hubieras batallado
+    - hubieses batallado
+  vos:
+    - hubieras batallado
+    - hubieses batallado
+  ud:
+    - hubiera batallado
+    - hubiese batallado
+  nosotros:
+    - hubiéramos batallado
+    - hubiésemos batallado
+  vosotros:
+    - hubierais batallado
+    - hubieseis batallado
+  uds:
+    - hubieran batallado
+    - hubiesen batallado
+imperativo:
+  tu: batalla
+  vos: batallá
+  ud: batalle
+  nosotros: batallemos
+  vosotros: batallad
+  uds: batalle

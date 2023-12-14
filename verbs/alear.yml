@@ -1,0 +1,142 @@
+infinitivo: alear
+gerundio: aleando
+participio-pasado: aleado
+presente-indicativo:
+  yo: aleo
+  tu: aleas
+  vos: aleas
+  ud: alea
+  nosotros: aleamos
+  vosotros: aleáis
+  uds: alean
+preterito-perfecto-simple:
+  yo: aleé
+  tu: aleaste
+  vos: aleaste
+  ud: aleó
+  nosotros: aleamos
+  vosotros: aleasteis
+  uds: alearon
+preterito-imperfecto:
+  yo: aleaba
+  tu: aleabas
+  vos: aleabas
+  ud: aleaba
+  nosotros: aleábamos
+  vosotros: aleabais
+  uds: aleaban
+futuro-simple:
+  yo: alearé
+  tu: alearás
+  vos: alearás
+  ud: aleará
+  nosotros: alearemos
+  vosotros: alearéis
+  uds: alearán
+condicional-simple:
+  yo: alearía
+  tu: alearías
+  vos: alearías
+  ud: alearía
+  nosotros: alearíamos
+  vosotros: alearíais
+  uds: alearían
+presente-perfecto:
+  yo: he aleado
+  tu: has aleado
+  vos: has aleado
+  ud: ha aleado
+  nosotros: hemos aleado
+  vosotros: habéis aleado
+  uds: han aleado
+preterito-pluscuamperfecto:
+  yo: había aleado
+  tu: habías aleado
+  vos: habías aleado
+  ud: había aleado
+  nosotros: habíamos aleado
+  vosotros: habíais aleado
+  uds: habían aleado
+futuro-perfecto:
+  yo: habré aleado
+  tu: habrás aleado
+  vos: habrás aleado
+  ud: habrá aleado
+  nosotros: habremos aleado
+  vosotros: habréis aleado
+  uds: habrán aleado
+condicional-perfecto:
+  yo: habría aleado
+  tu: habrías aleado
+  vos: habrías aleado
+  ud: habría aleado
+  nosotros: habríamos aleado
+  vosotros: habríais aleado
+  uds: habrían aleado
+presente-subjuntivo:
+  yo: alee
+  tu: alees
+  vos: alees
+  ud: alee
+  nosotros: aleemos
+  vosotros: aleéis
+  uds: aleen
+preterito-perfecto-subjuntivo:
+  yo: haya aleado
+  tu: hayas aleado
+  vos: hayas aleado
+  ud: haya aleado
+  nosotros: hayamos aleado
+  vosotros: hayáis aleado
+  uds: hayan aleado
+imperfecto-subjuntivo:
+  yo:
+    - aleara
+    - alease
+  tu:
+    - alearas
+    - aleases
+  vos:
+    - alearas
+    - aleases
+  ud:
+    - aleara
+    - alease
+  nosotros:
+    - aleáramos
+    - aleásemos
+  vosotros:
+    - alearais
+    - aleaseis
+  uds:
+    - alearan
+    - aleasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aleado
+    - hubiese aleado
+  tu:
+    - hubieras aleado
+    - hubieses aleado
+  vos:
+    - hubieras aleado
+    - hubieses aleado
+  ud:
+    - hubiera aleado
+    - hubiese aleado
+  nosotros:
+    - hubiéramos aleado
+    - hubiésemos aleado
+  vosotros:
+    - hubierais aleado
+    - hubieseis aleado
+  uds:
+    - hubieran aleado
+    - hubiesen aleado
+imperativo:
+  tu: alea
+  vos: aleá
+  ud: alee
+  nosotros: aleemos
+  vosotros: alead
+  uds: aleen

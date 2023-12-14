@@ -1,0 +1,142 @@
+infinitivo: consumir
+gerundio: consumiendo
+participio-pasado: consumido
+presente-indicativo:
+  yo: consumo
+  tu: consumes
+  vos: consumes
+  ud: consume
+  nosotros: consumimos
+  vosotros: consumís
+  uds: consumen
+preterito-perfecto-simple:
+  yo: consumí
+  tu: consumiste
+  vos: consumiste
+  ud: consumió
+  nosotros: consumimos
+  vosotros: consumisteis
+  uds: consumieron
+preterito-imperfecto:
+  yo: consumía
+  tu: consumías
+  vos: consumías
+  ud: consumía
+  nosotros: consumíamos
+  vosotros: consumíais
+  uds: consumían
+futuro-simple:
+  yo: consumiré
+  tu: consumirás
+  vos: consumirás
+  ud: consumirá
+  nosotros: consumiremos
+  vosotros: consumiréis
+  uds: consumirán
+condicional-simple:
+  yo: consumiría
+  tu: consumirías
+  vos: consumirías
+  ud: consumiría
+  nosotros: consumiríamos
+  vosotros: consumiríais
+  uds: consumirían
+presente-perfecto:
+  yo: he consumido
+  tu: has consumido
+  vos: has consumido
+  ud: ha consumido
+  nosotros: hemos consumido
+  vosotros: habéis consumido
+  uds: han consumido
+preterito-pluscuamperfecto:
+  yo: había consumido
+  tu: habías consumido
+  vos: habías consumido
+  ud: había consumido
+  nosotros: habíamos consumido
+  vosotros: habíais consumido
+  uds: habían consumido
+futuro-perfecto:
+  yo: habré consumido
+  tu: habrás consumido
+  vos: habrás consumido
+  ud: habrá consumido
+  nosotros: habremos consumido
+  vosotros: habréis consumido
+  uds: habrán consumido
+condicional-perfecto:
+  yo: habría consumido
+  tu: habrías consumido
+  vos: habrías consumido
+  ud: habría consumido
+  nosotros: habríamos consumido
+  vosotros: habríais consumido
+  uds: habrían consumido
+presente-subjuntivo:
+  yo: consuma
+  tu: consumas
+  vos: consumas
+  ud: consuma
+  nosotros: consumamos
+  vosotros: consumáis
+  uds: consuman
+preterito-perfecto-subjuntivo:
+  yo: haya consumido
+  tu: hayas consumido
+  vos: hayas consumido
+  ud: haya consumido
+  nosotros: hayamos consumido
+  vosotros: hayáis consumido
+  uds: hayan consumido
+imperfecto-subjuntivo:
+  yo:
+    - consumiera
+    - consumiese
+  tu:
+    - consumieras
+    - consumieses
+  vos:
+    - consumieras
+    - consumieses
+  ud:
+    - consumiera
+    - consumiese
+  nosotros:
+    - consumiéramos
+    - consumiésemos
+  vosotros:
+    - consumierais
+    - consumieseis
+  uds:
+    - consumieran
+    - consumiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera consumido
+    - hubiese consumido
+  tu:
+    - hubieras consumido
+    - hubieses consumido
+  vos:
+    - hubieras consumido
+    - hubieses consumido
+  ud:
+    - hubiera consumido
+    - hubiese consumido
+  nosotros:
+    - hubiéramos consumido
+    - hubiésemos consumido
+  vosotros:
+    - hubierais consumido
+    - hubieseis consumido
+  uds:
+    - hubieran consumido
+    - hubiesen consumido
+imperativo:
+  tu: consume
+  vos: consumí
+  ud: consuma
+  nosotros: consumamos
+  vosotros: consumid
+  uds: consuman

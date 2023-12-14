@@ -1,0 +1,142 @@
+infinitivo: titubear
+gerundio: titubeando
+participio-pasado: titubeado
+presente-indicativo:
+  yo: titubeo
+  tu: titubeas
+  vos: titubeas
+  ud: titubea
+  nosotros: titubeamos
+  vosotros: titubeáis
+  uds: titubean
+preterito-perfecto-simple:
+  yo: titubeé
+  tu: titubeaste
+  vos: titubeaste
+  ud: titubeó
+  nosotros: titubeamos
+  vosotros: titubeasteis
+  uds: titubearon
+preterito-imperfecto:
+  yo: titubeaba
+  tu: titubeabas
+  vos: titubeabas
+  ud: titubeaba
+  nosotros: titubeábamos
+  vosotros: titubeabais
+  uds: titubeaban
+futuro-simple:
+  yo: titubearé
+  tu: titubearás
+  vos: titubearás
+  ud: titubeará
+  nosotros: titubearemos
+  vosotros: titubearéis
+  uds: titubearán
+condicional-simple:
+  yo: titubearía
+  tu: titubearías
+  vos: titubearías
+  ud: titubearía
+  nosotros: titubearíamos
+  vosotros: titubearíais
+  uds: titubearían
+presente-perfecto:
+  yo: he titubeado
+  tu: has titubeado
+  vos: has titubeado
+  ud: ha titubeado
+  nosotros: hemos titubeado
+  vosotros: habéis titubeado
+  uds: han titubeado
+preterito-pluscuamperfecto:
+  yo: había titubeado
+  tu: habías titubeado
+  vos: habías titubeado
+  ud: había titubeado
+  nosotros: habíamos titubeado
+  vosotros: habíais titubeado
+  uds: habían titubeado
+futuro-perfecto:
+  yo: habré titubeado
+  tu: habrás titubeado
+  vos: habrás titubeado
+  ud: habrá titubeado
+  nosotros: habremos titubeado
+  vosotros: habréis titubeado
+  uds: habrán titubeado
+condicional-perfecto:
+  yo: habría titubeado
+  tu: habrías titubeado
+  vos: habrías titubeado
+  ud: habría titubeado
+  nosotros: habríamos titubeado
+  vosotros: habríais titubeado
+  uds: habrían titubeado
+presente-subjuntivo:
+  yo: titubee
+  tu: titubees
+  vos: titubees
+  ud: titubee
+  nosotros: titubeemos
+  vosotros: titubeéis
+  uds: titubeen
+preterito-perfecto-subjuntivo:
+  yo: haya titubeado
+  tu: hayas titubeado
+  vos: hayas titubeado
+  ud: haya titubeado
+  nosotros: hayamos titubeado
+  vosotros: hayáis titubeado
+  uds: hayan titubeado
+imperfecto-subjuntivo:
+  yo: 
+    - titubeara
+    - titubease
+  tu: 
+    - titubearas
+    - titubeases
+  vos: 
+    - titubearas
+    - titubeases
+  ud: 
+    - titubeara
+    - titubease
+  nosotros: 
+    - titubeáramos
+    - titubeásemos
+  vosotros: 
+    - titubearais
+    - titubeaseis
+  uds: 
+    - titubearan
+    - titubeasen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - hubiera titubeado
+    - hubiese titubeado
+  tu: 
+    - hubieras titubeado
+    - hubieses titubeado
+  vos: 
+    - hubieras titubeado
+    - hubieses titubeado
+  ud: 
+    - hubiera titubeado
+    - hubiese titubeado
+  nosotros: 
+    - hubiéramos titubeado
+    - hubiésemos titubeado
+  vosotros: 
+    - hubierais titubeado
+    - hubieseis titubeado
+  uds: 
+    - hubieran titubeado
+    - hubiesen titubeado
+imperativo:
+  tu: titubea
+  vos: titubeá
+  ud: titubee
+  nosotros: titubeemos
+  vosotros: titubead
+  uds: titubeen

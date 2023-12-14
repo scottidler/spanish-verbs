@@ -1,0 +1,142 @@
+infinitivo: empuñar
+gerundio: empuñando
+participio-pasado: empuñado
+presente-indicativo:
+  yo: empuño
+  tu: empuñas
+  vos: empuñás
+  ud: empuña
+  nosotros: empuñamos
+  vosotros: empuñáis
+  uds: empuñan
+preterito-perfecto-simple:
+  yo: empuñé
+  tu: empuñaste
+  vos: empuñaste
+  ud: empuñó
+  nosotros: empuñamos
+  vosotros: empuñasteis
+  uds: empuñaron
+preterito-imperfecto:
+  yo: empuñaba
+  tu: empuñabas
+  vos: empuñabas
+  ud: empuñaba
+  nosotros: empuñábamos
+  vosotros: empuñabais
+  uds: empuñaban
+futuro-simple:
+  yo: empuñaré
+  tu: empuñarás
+  vos: empuñarás
+  ud: empuñará
+  nosotros: empuñaremos
+  vosotros: empuñaréis
+  uds: empuñarán
+condicional-simple:
+  yo: empuñaría
+  tu: empuñarías
+  vos: empuñarías
+  ud: empuñaría
+  nosotros: empuñaríamos
+  vosotros: empuñaríais
+  uds: empuñarían
+presente-perfecto:
+  yo: he empuñado
+  tu: has empuñado
+  vos: has empuñado
+  ud: ha empuñado
+  nosotros: hemos empuñado
+  vosotros: habéis empuñado
+  uds: han empuñado
+preterito-pluscuamperfecto:
+  yo: había empuñado
+  tu: habías empuñado
+  vos: habías empuñado
+  ud: había empuñado
+  nosotros: habíamos empuñado
+  vosotros: habíais empuñado
+  uds: habían empuñado
+futuro-perfecto:
+  yo: habré empuñado
+  tu: habrás empuñado
+  vos: habrás empuñado
+  ud: habrá empuñado
+  nosotros: habremos empuñado
+  vosotros: habréis empuñado
+  uds: habrán empuñado
+condicional-perfecto:
+  yo: habría empuñado
+  tu: habrías empuñado
+  vos: habrías empuñado
+  ud: habría empuñado
+  nosotros: habríamos empuñado
+  vosotros: habríais empuñado
+  uds: habrían empuñado
+presente-subjuntivo:
+  yo: empuñe
+  tu: empuñes
+  vos: empuñes
+  ud: empuñe
+  nosotros: empuñemos
+  vosotros: empuñéis
+  uds: empuñen
+preterito-perfecto-subjuntivo:
+  yo: haya empuñado
+  tu: hayas empuñado
+  vos: hayas empuñado
+  ud: haya empuñado
+  nosotros: hayamos empuñado
+  vosotros: hayáis empuñado
+  uds: hayan empuñado
+imperfecto-subjuntivo:
+  yo:
+    - empuñara
+    - empuñase
+  tu:
+    - empuñaras
+    - empuñases
+  vos:
+    - empuñaras
+    - empuñases
+  ud:
+    - empuñara
+    - empuñase
+  nosotros:
+    - empuñáramos
+    - empuñásemos
+  vosotros:
+    - empuñarais
+    - empuñaseis
+  uds:
+    - empuñaran
+    - empuñasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera empuñado
+    - hubiese empuñado
+  tu:
+    - hubieras empuñado
+    - hubieses empuñado
+  vos:
+    - hubieras empuñado
+    - hubieses empuñado
+  ud:
+    - hubiera empuñado
+    - hubiese empuñado
+  nosotros:
+    - hubiéramos empuñado
+    - hubiésemos empuñado
+  vosotros:
+    - hubierais empuñado
+    - hubieseis empuñado
+  uds:
+    - hubieran empuñado
+    - hubiesen empuñado
+imperativo:
+  tu: empuña
+  vos: empuñá
+  ud: empuñe
+  nosotros: empuñemos
+  vosotros: empuñad
+  uds: empuñen

@@ -1,0 +1,156 @@
+infinitivo: calmarse
+gerundio: calmándose
+participio-pasado: calmado
+
+presente-indicativo:
+  yo: me calmo
+  tu: te calmas
+  vos: te calmas
+  ud: se calma
+  nosotros: nos calmamos
+  vosotros: os calmáis
+  uds: se calman
+
+preterito-perfecto-simple:
+  yo: me calmé
+  tu: te calmaste
+  vos: te calmaste
+  ud: se calmó
+  nosotros: nos calmamos
+  vosotros: os calmasteis
+  uds: se calmaron
+
+preterito-imperfecto:
+  yo: me calmaba
+  tu: te calmabas
+  vos: te calmabas
+  ud: se calmaba
+  nosotros: nos calmábamos
+  vosotros: os calmabais
+  uds: se calmaban
+
+futuro-simple:
+  yo: me calmaré
+  tu: te calmarás
+  vos: te calmarás
+  ud: se calmará
+  nosotros: nos calmaremos
+  vosotros: os calmaréis
+  uds: se calmarán
+
+condicional-simple:
+  yo: me calmaría
+  tu: te calmarías
+  vos: te calmarías
+  ud: se calmaría
+  nosotros: nos calmaríamos
+  vosotros: os calmaríais
+  uds: se calmarían
+
+presente-perfecto:
+  yo: me he calmado
+  tu: te has calmado
+  vos: te has calmado
+  ud: se ha calmado
+  nosotros: nos hemos calmado
+  vosotros: os habéis calmado
+  uds: se han calmado
+
+preterito-pluscuamperfecto:
+  yo: me había calmado
+  tu: te habías calmado
+  vos: te habías calmado
+  ud: se había calmado
+  nosotros: nos habíamos calmado
+  vosotros: os habíais calmado
+  uds: se habían calmado
+
+futuro-perfecto:
+  yo: me habré calmado
+  tu: te habrás calmado
+  vos: te habrás calmado
+  ud: se habrá calmado
+  nosotros: nos habremos calmado
+  vosotros: os habréis calmado
+  uds: se habrán calmado
+
+condicional-perfecto:
+  yo: me habría calmado
+  tu: te habrías calmado
+  vos: te habrías calmado
+  ud: se habría calmado
+  nosotros: nos habríamos calmado
+  vosotros: os habríais calmado
+  uds: se habrían calmado
+
+presente-subjuntivo:
+  yo: me calme
+  tu: te calmes
+  vos: te calmes
+  ud: se calme
+  nosotros: nos calmemos
+  vosotros: os calméis
+  uds: se calmen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya calmado
+  tu: te hayas calmado
+  vos: te hayas calmado
+  ud: se haya calmado
+  nosotros: nos hayamos calmado
+  vosotros: os hayáis calmado
+  uds: se hayan calmado
+
+imperfecto-subjuntivo:
+  yo:
+    - me calmara
+    - me calmase
+  tu:
+    - te calmaras
+    - te calmses
+  vos:
+    - te calmaras
+    - te calmses
+  ud:
+    - se calmara
+    - se calmase
+  nosotros:
+    - nos calmáramos
+    - nos calmásemos
+  vosotros:
+    - os calmarais
+    - os calmaseis
+  uds:
+    - se calmaran
+    - se calmasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera calmado
+    - me hubiese calmado
+  tu:
+    - te hubieras calmado
+    - te hubieses calmado
+  vos:
+    - te hubieras calmado
+    - te hubieses calmado
+  ud:
+    - se hubiera calmado
+    - se hubiese calmado
+  nosotros:
+    - nos hubiéramos calmado
+    - nos hubiésemos calmado
+  vosotros:
+    - os hubierais calmado
+    - os hubieseis calmado
+  uds:
+    - se hubieran calmado
+    - se hubiesen calmado
+
+imperativo:
+  tu: cálmate
+  vos: cálmate
+  ud: cálmese
+  nosotros: calmémonos
+  vosotros: calmaos
+  uds: cálmense

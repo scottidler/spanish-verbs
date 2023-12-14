@@ -1,0 +1,142 @@
+infinitivo: refugiar
+gerundio: refugiando
+participio-pasado: refugiado
+presente-indicativo:
+  yo: refugio
+  tu: refugias
+  vos: refugias
+  ud: refugia
+  nosotros: refugiamos
+  vosotros: refugiáis
+  uds: refugian
+preterito-perfecto-simple:
+  yo: refugié
+  tu: refugiaste
+  vos: refugiaste
+  ud: refugió
+  nosotros: refugiamos
+  vosotros: refugiasteis
+  uds: refugiaron
+preterito-imperfecto:
+  yo: refugiaba
+  tu: refugiabas
+  vos: refugiabas
+  ud: refugiaba
+  nosotros: refugiábamos
+  vosotros: refugiabais
+  uds: refugiaban
+futuro-simple:
+  yo: refugiaré
+  tu: refugiarás
+  vos: refugiarás
+  ud: refugiará
+  nosotros: refugiaremos
+  vosotros: refugiaréis
+  uds: refugiarán
+condicional-simple:
+  yo: refugiaría
+  tu: refugiarías
+  vos: refugiarías
+  ud: refugiaría
+  nosotros: refugiaríamos
+  vosotros: refugiaríais
+  uds: refugiarían
+presente-perfecto:
+  yo: he refugiado
+  tu: has refugiado
+  vos: has refugiado
+  ud: ha refugiado
+  nosotros: hemos refugiado
+  vosotros: habéis refugiado
+  uds: han refugiado
+preterito-pluscuamperfecto:
+  yo: había refugiado
+  tu: habías refugiado
+  vos: habías refugiado
+  ud: había refugiado
+  nosotros: habíamos refugiado
+  vosotros: habíais refugiado
+  uds: habían refugiado
+futuro-perfecto:
+  yo: habré refugiado
+  tu: habrás refugiado
+  vos: habrás refugiado
+  ud: habrá refugiado
+  nosotros: habremos refugiado
+  vosotros: habréis refugiado
+  uds: habrán refugiado
+condicional-perfecto:
+  yo: habría refugiado
+  tu: habrías refugiado
+  vos: habrías refugiado
+  ud: habría refugiado
+  nosotros: habríamos refugiado
+  vosotros: habríais refugiado
+  uds: habrían refugiado
+presente-subjuntivo:
+  yo: refugie
+  tu: refugies
+  vos: refugies
+  ud: refugie
+  nosotros: refugiemos
+  vosotros: refugiéis
+  uds: refugien
+preterito-perfecto-subjuntivo:
+  yo: haya refugiado
+  tu: hayas refugiado
+  vos: hayas refugiado
+  ud: haya refugiado
+  nosotros: hayamos refugiado
+  vosotros: hayáis refugiado
+  uds: hayan refugiado
+imperfecto-subjuntivo:
+  yo:
+    - refugiara
+    - refugiase
+  tu:
+    - refugiaras
+    - refugiases
+  vos:
+    - refugiaras
+    - refugiases
+  ud:
+    - refugiara
+    - refugiase
+  nosotros:
+    - refugiáramos
+    - refugiásemos
+  vosotros:
+    - refugiarais
+    - refugiaseis
+  uds:
+    - refugiaran
+    - refugiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera refugiado
+    - hubiese refugiado
+  tu:
+    - hubieras refugiado
+    - hubieses refugiado
+  vos:
+    - hubieras refugiado
+    - hubieses refugiado
+  ud:
+    - hubiera refugiado
+    - hubiese refugiado
+  nosotros:
+    - hubiéramos refugiado
+    - hubiésemos refugiado
+  vosotros:
+    - hubierais refugiado
+    - hubieseis refugiado
+  uds:
+    - hubieran refugiado
+    - hubiesen refugiado
+imperativo:
+  tu: refugia
+  vos: refugí
+  ud: refugie
+  nosotros: refugiemos
+  vosotros: refugiad
+  uds: refugien

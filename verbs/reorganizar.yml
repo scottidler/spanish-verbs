@@ -1,0 +1,142 @@
+infinitivo: reorganizar
+gerundio: reorganizando
+participio-pasado: reorganizado
+presente-indicativo:
+  yo: reorganizo
+  tu: reorganizas
+  vos: reorganizas
+  ud: reorganiza
+  nosotros: reorganizamos
+  vosotros: reorganizáis
+  uds: reorganizan
+preterito-perfecto-simple:
+  yo: reorganicé
+  tu: reorganizaste
+  vos: reorganizaste
+  ud: reorganizó
+  nosotros: reorganizamos
+  vosotros: reorganizasteis
+  uds: reorganizaron
+preterito-imperfecto:
+  yo: reorganizaba
+  tu: reorganizabas
+  vos: reorganizabas
+  ud: reorganizaba
+  nosotros: reorganizábamos
+  vosotros: reorganizabais
+  uds: reorganizaban
+futuro-simple:
+  yo: reorganizaré
+  tu: reorganizarás
+  vos: reorganizarás
+  ud: reorganizará
+  nosotros: reorganizaremos
+  vosotros: reorganizaréis
+  uds: reorganizarán
+condicional-simple:
+  yo: reorganizaría
+  tu: reorganizarías
+  vos: reorganizarías
+  ud: reorganizaría
+  nosotros: reorganizaríamos
+  vosotros: reorganizaríais
+  uds: reorganizarían
+presente-perfecto:
+  yo: he reorganizado
+  tu: has reorganizado
+  vos: has reorganizado
+  ud: ha reorganizado
+  nosotros: hemos reorganizado
+  vosotros: habéis reorganizado
+  uds: han reorganizado
+preterito-pluscuamperfecto:
+  yo: había reorganizado
+  tu: habías reorganizado
+  vos: habías reorganizado
+  ud: había reorganizado
+  nosotros: habíamos reorganizado
+  vosotros: habíais reorganizado
+  uds: habían reorganizado
+futuro-perfecto:
+  yo: habré reorganizado
+  tu: habrás reorganizado
+  vos: habrás reorganizado
+  ud: habrá reorganizado
+  nosotros: habremos reorganizado
+  vosotros: habréis reorganizado
+  uds: habrán reorganizado
+condicional-perfecto:
+  yo: habría reorganizado
+  tu: habrías reorganizado
+  vos: habrías reorganizado
+  ud: habría reorganizado
+  nosotros: habríamos reorganizado
+  vosotros: habríais reorganizado
+  uds: habrían reorganizado
+presente-subjuntivo:
+  yo: reorganice
+  tu: reorganicen
+  vos: reorganicen
+  ud: reorganice
+  nosotros: reorganicemos
+  vosotros: reorganicéis
+  uds: reorganicen
+preterito-perfecto-subjuntivo:
+  yo: haya reorganizado
+  tu: hayas reorganizado
+  vos: hayas reorganizado
+  ud: haya reorganizado
+  nosotros: hayamos reorganizado
+  vosotros: hayáis reorganizado
+  uds: hayan reorganizado
+imperfecto-subjuntivo:
+  yo:
+    - reorganizara
+    - reorganizase
+  tu:
+    - reorganizaras
+    - reorganizases
+  vos:
+    - reorganizaras
+    - reorganizases
+  ud:
+    - reorganizara
+    - reorganizase
+  nosotros:
+    - reorganizáramos
+    - reorganizásemos
+  vosotros:
+    - reorganizarais
+    - reorganizaseis
+  uds:
+    - reorganizaran
+    - reorganizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reorganizado
+    - hubiese reorganizado
+  tu:
+    - hubieras reorganizado
+    - hubieses reorganizado
+  vos:
+    - hubieras reorganizado
+    - hubieses reorganizado
+  ud:
+    - hubiera reorganizado
+    - hubiese reorganizado
+  nosotros:
+    - hubiéramos reorganizado
+    - hubiésemos reorganizado
+  vosotros:
+    - hubierais reorganizado
+    - hubieseis reorganizado
+  uds:
+    - hubieran reorganizado
+    - hubiesen reorganizado
+imperativo:
+  tu: reorganiza
+  vos: reorganizad
+  ud: reorganice
+  nosotros: reorganicemos
+  vosotros: reorganizad
+  uds: reorganicen

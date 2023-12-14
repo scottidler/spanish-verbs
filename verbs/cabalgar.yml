@@ -1,0 +1,142 @@
+infinitivo: cabalgar
+gerundio: cabalgando
+participio-pasado: cabalgado
+presente-indicativo:
+  yo: cabalgo
+  tu: cabalgas
+  vos: cabalgás
+  ud: cabalga
+  nosotros: cabalgamos
+  vosotros: cabalgáis
+  uds: cabalgan
+preterito-perfecto-simple:
+  yo: cabalgué
+  tu: cabalgaste
+  vos: cabalgaste
+  ud: cabalgó
+  nosotros: cabalgamos
+  vosotros: cabalgasteis
+  uds: cabalgaron
+preterito-imperfecto:
+  yo: cabalgaba
+  tu: cabalgabas
+  vos: cabalgabas
+  ud: cabalgaba
+  nosotros: cabalgábamos
+  vosotros: cabalgabais
+  uds: cabalgaban
+futuro-simple:
+  yo: cabalgaré
+  tu: cabalgarás
+  vos: cabalgarás
+  ud: cabalgará
+  nosotros: cabalgaremos
+  vosotros: cabalgaréis
+  uds: cabalgarán
+condicional-simple:
+  yo: cabalgaría
+  tu: cabalgarías
+  vos: cabalgarías
+  ud: cabalgaría
+  nosotros: cabalgaríamos
+  vosotros: cabalgaríais
+  uds: cabalgarían
+presente-perfecto:
+  yo: he cabalgado
+  tu: has cabalgado
+  vos: has cabalgado
+  ud: ha cabalgado
+  nosotros: hemos cabalgado
+  vosotros: habéis cabalgado
+  uds: han cabalgado
+preterito-pluscuamperfecto:
+  yo: había cabalgado
+  tu: habías cabalgado
+  vos: habías cabalgado
+  ud: había cabalgado
+  nosotros: habíamos cabalgado
+  vosotros: habíais cabalgado
+  uds: habían cabalgado
+futuro-perfecto:
+  yo: habré cabalgado
+  tu: habrás cabalgado
+  vos: habrás cabalgado
+  ud: habrá cabalgado
+  nosotros: habremos cabalgado
+  vosotros: habréis cabalgado
+  uds: habrán cabalgado
+condicional-perfecto:
+  yo: habría cabalgado
+  tu: habrías cabalgado
+  vos: habrías cabalgado
+  ud: habría cabalgado
+  nosotros: habríamos cabalgado
+  vosotros: habríais cabalgado
+  uds: habrían cabalgado
+presente-subjuntivo:
+  yo: cabalgue
+  tu: cabalgues
+  vos: cabalgues
+  ud: cabalgue
+  nosotros: cabalguemos
+  vosotros: cabalguéis
+  uds: cabalguen
+preterito-perfecto-subjuntivo:
+  yo: haya cabalgado
+  tu: hayas cabalgado
+  vos: hayas cabalgado
+  ud: haya cabalgado
+  nosotros: hayamos cabalgado
+  vosotros: hayáis cabalgado
+  uds: hayan cabalgado
+imperfecto-subjuntivo:
+  yo:
+    - cabalgara
+    - cabalgase
+  tu:
+    - cabalgaras
+    - cabalsases
+  vos:
+    - cabalgaras
+    - cabalsases
+  ud:
+    - cabalgara
+    - cabalgase
+  nosotros:
+    - cabalgáramos
+    - cabalgásemos
+  vosotros:
+    - cabalgarais
+    - cabalsaseis
+  uds:
+    - cabalgaran
+    - cabalsasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cabalgado
+    - hubiese cabalgado
+  tu:
+    - hubieras cabalgado
+    - hubieses cabalgado
+  vos:
+    - hubieras cabalgado
+    - hubieses cabalgado
+  ud:
+    - hubiera cabalgado
+    - hubiese cabalgado
+  nosotros:
+    - hubiéramos cabalgado
+    - hubiésemos cabalgado
+  vosotros:
+    - hubierais cabalgado
+    - hubieseis cabalgado
+  uds:
+    - hubieran cabalgado
+    - hubiesen cabalgado
+imperativo:
+  tu: cabalga
+  vos: cabalgá
+  ud: cabalga
+  nosotros: cabalguemos
+  vosotros: cabalgad
+  uds: cabalguen

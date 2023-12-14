@@ -1,0 +1,142 @@
+infinitivo: colaborar
+gerundio: colaborando
+participio-pasado: colaborado
+presente-indicativo: 
+  yo: colaboro
+  tu: colaboras
+  vos: colaboras
+  ud: colabora
+  nosotros: colaboramos
+  vosotros: colaboráis
+  uds: colaboran
+preterito-perfecto-simple: 
+  yo: colaboré
+  tu: colaboraste
+  vos: colaboraste
+  ud: colaboró
+  nosotros: colaboramos
+  vosotros: colaborasteis
+  uds: colaboraron
+preterito-imperfecto:
+  yo: colaboraba
+  tu: colaborabas
+  vos: colaborabas
+  ud: colaboraba
+  nosotros: colaborábamos
+  vosotros: colaborabais
+  uds: colaboraban
+futuro-simple:
+  yo: colaboraré
+  tu: colaborarás
+  vos: colaborarás
+  ud: colaborará
+  nosotros: colaboraremos
+  vosotros: colaboraréis
+  uds: colaborarán
+condicional-simple:
+  yo: colaboraría
+  tu: colaborarías
+  vos: colaborarías
+  ud: colaboraría
+  nosotros: colaboraríamos
+  vosotros: colaboraríais
+  uds: colaborarían
+presente-perfecto:
+  yo: he colaborado
+  tu: has colaborado
+  vos: has colaborado
+  ud: ha colaborado
+  nosotros: hemos colaborado
+  vosotros: habéis colaborado
+  uds: han colaborado
+preterito-pluscuamperfecto:
+  yo: había colaborado
+  tu: habías colaborado
+  vos: habías colaborado
+  ud: había colaborado
+  nosotros: habíamos colaborado
+  vosotros: habíais colaborado
+  uds: habían colaborado
+futuro-perfecto:
+  yo: habré colaborado
+  tu: habrás colaborado
+  vos: habrás colaborado
+  ud: habrá colaborado
+  nosotros: habremos colaborado
+  vosotros: habréis colaborado
+  uds: habrán colaborado
+condicional-perfecto:
+  yo: habría colaborado
+  tu: habrías colaborado
+  vos: habrías colaborado
+  ud: habría colaborado
+  nosotros: habríamos colaborado
+  vosotros: habríais colaborado
+  uds: habrían colaborado
+presente-subjuntivo:
+  yo: colabore
+  tu: colabores
+  vos: colabores
+  ud: colabore
+  nosotros: colaboremos
+  vosotros: colaboréis
+  uds: colaboren
+preterito-perfecto-subjuntivo:
+  yo: haya colaborado
+  tu: hayas colaborado
+  vos: hayas colaborado
+  ud: haya colaborado
+  nosotros: hayamos colaborado
+  vosotros: hayáis colaborado
+  uds: hayan colaborado
+imperfecto-subjuntivo:
+  yo:
+    - colaborara
+    - colaborase
+  tu:
+    - colaboraras
+    - colaborases
+  vos:
+    - colaboraras
+    - colaborases
+  ud:
+    - colaborara
+    - colaborase
+  nosotros:
+    - colaboráramos
+    - colaborásemos
+  vosotros:
+    - colaborarais
+    - colaboraseis
+  uds:
+    - colaboraran
+    - colaborasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera colaborado
+    - hubiese colaborado
+  tu:
+    - hubieras colaborado
+    - hubieses colaborado
+  vos:
+    - hubieras colaborado
+    - hubieses colaborado
+  ud:
+    - hubiera colaborado
+    - hubiese colaborado
+  nosotros:
+    - hubiéramos colaborado
+    - hubiésemos colaborado
+  vosotros:
+    - hubierais colaborado
+    - hubieseis colaborado
+  uds:
+    - hubieran colaborado
+    - hubiesen colaborado
+imperativo:
+  tu: colabora
+  vos: colaborá
+  ud: colabore
+  nosotros: colaboremos
+  vosotros: colaborad
+  uds: colaboren

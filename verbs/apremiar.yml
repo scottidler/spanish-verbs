@@ -1,0 +1,142 @@
+infinitivo: apremiar
+gerundio: apremiando
+participio-pasado: apremiado
+presente-indicativo:
+  yo: apremio
+  tu: apremias
+  vos: apremias
+  ud: apremia
+  nosotros: apremiamos
+  vosotros: apremiáis
+  uds: apremian
+preterito-perfecto-simple:
+  yo: apremié
+  tu: apremiaste
+  vos: apremiaste
+  ud: apremió
+  nosotros: apremiamos
+  vosotros: apremiasteis
+  uds: apremiaron
+preterito-imperfecto:
+  yo: apremiaba
+  tu: apremiabas
+  vos: apremiabas
+  ud: apremiaba
+  nosotros: apremiábamos
+  vosotros: apremiabais
+  uds: apremiaban
+futuro-simple:
+  yo: apremiaré
+  tu: apremiarás
+  vos: apremiarás
+  ud: apremiará
+  nosotros: apremiaremos
+  vosotros: apremiaréis
+  uds: apremiarán
+condicional-simple:
+  yo: apremiaría
+  tu: apremiarías
+  vos: apremiarías
+  ud: apremiaría
+  nosotros: apremiaríamos
+  vosotros: apremiaríais
+  uds: apremiarían
+presente-perfecto:
+  yo: he apremiado
+  tu: has apremiado
+  vos: has apremiado
+  ud: ha apremiado
+  nosotros: hemos apremiado
+  vosotros: habéis apremiado
+  uds: han apremiado
+preterito-pluscuamperfecto:
+  yo: había apremiado
+  tu: habías apremiado
+  vos: habías apremiado
+  ud: había apremiado
+  nosotros: habíamos apremiado
+  vosotros: habíais apremiado
+  uds: habían apremiado
+futuro-perfecto:
+  yo: habré apremiado
+  tu: habrás apremiado
+  vos: habrás apremiado
+  ud: habrá apremiado
+  nosotros: habremos apremiado
+  vosotros: habréis apremiado
+  uds: habrán apremiado
+condicional-perfecto:
+  yo: habría apremiado
+  tu: habrías apremiado
+  vos: habrías apremiado
+  ud: habría apremiado
+  nosotros: habríamos apremiado
+  vosotros: habríais apremiado
+  uds: habrían apremiado
+presente-subjuntivo:
+  yo: apremie
+  tu: apremies
+  vos: apremies
+  ud: apremie
+  nosotros: apremiemos
+  vosotros: apremiéis
+  uds: apremien
+preterito-perfecto-subjuntivo:
+  yo: haya apremiado
+  tu: hayas apremiado
+  vos: hayas apremiado
+  ud: haya apremiado
+  nosotros: hayamos apremiado
+  vosotros: hayáis apremiado
+  uds: hayan apremiado
+imperfecto-subjuntivo:
+  yo:
+    - apremiara
+    - apremiase
+  tu:
+    - apremiaras
+    - apremiases
+  vos:
+    - apremiaras
+    - apremiases
+  ud:
+    - apremiara
+    - apremiase
+  nosotros:
+    - apremiáramos
+    - apremiásemos
+  vosotros:
+    - apremiarais
+    - apremiaseis
+  uds:
+    - apremiaran
+    - apremiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apremiado
+    - hubiese apremiado
+  tu:
+    - hubieras apremiado
+    - hubieses apremiado
+  vos:
+    - hubieras apremiado
+    - hubieses apremiado
+  ud:
+    - hubiera apremiado
+    - hubiese apremiado
+  nosotros:
+    - hubiéramos apremiado
+    - hubiésemos apremiado
+  vosotros:
+    - hubierais apremiado
+    - hubieseis apremiado
+  uds:
+    - hubieran apremiado
+    - hubiesen apremiado
+imperativo:
+  tu: apremia
+  vos: apremiá
+  ud: apremie
+  nosotros: apremiemos
+  vosotros: apremiad
+  uds: apremien

@@ -1,0 +1,142 @@
+infinitivo: dominar
+gerundio: dominando
+participio-pasado: dominado
+presente-indicativo:
+  yo: domino
+  tu: dominas
+  vos: dominas
+  ud: domina
+  nosotros: dominamos
+  vosotros: domináis
+  uds: dominan
+preterito-perfecto-simple:
+  yo: dominé
+  tu: dominaste
+  vos: dominaste
+  ud: dominó
+  nosotros: dominamos
+  vosotros: dominasteis
+  uds: dominaron
+preterito-imperfecto:
+  yo: dominaba
+  tu: dominabas
+  vos: dominabas
+  ud: dominaba
+  nosotros: dominábamos
+  vosotros: dominabais
+  uds: dominaban
+futuro-simple:
+  yo: dominaré
+  tu: dominarás
+  vos: dominarás
+  ud: dominará
+  nosotros: dominaremos
+  vosotros: dominaréis
+  uds: dominarán
+condicional-simple:
+  yo: dominaría
+  tu: dominarías
+  vos: dominarías
+  ud: dominaría
+  nosotros: dominaríamos
+  vosotros: dominaríais
+  uds: dominarían
+presente-perfecto:
+  yo: he dominado
+  tu: has dominado
+  vos: has dominado
+  ud: ha dominado
+  nosotros: hemos dominado
+  vosotros: habéis dominado
+  uds: han dominado
+preterito-pluscuamperfecto:
+  yo: había dominado
+  tu: habías dominado
+  vos: habías dominado
+  ud: había dominado
+  nosotros: habíamos dominado
+  vosotros: habíais dominado
+  uds: habían dominado
+futuro-perfecto:
+  yo: habré dominado
+  tu: habrás dominado
+  vos: habrás dominado
+  ud: habrá dominado
+  nosotros: habremos dominado
+  vosotros: habréis dominado
+  uds: habrán dominado
+condicional-perfecto:
+  yo: habría dominado
+  tu: habrías dominado
+  vos: habrías dominado
+  ud: habría dominado
+  nosotros: habríamos dominado
+  vosotros: habríais dominado
+  uds: habrían dominado
+presente-subjuntivo:
+  yo: domine
+  tu: domines
+  vos: domines
+  ud: domine
+  nosotros: dominemos
+  vosotros: dominéis
+  uds: dominen
+preterito-perfecto-subjuntivo:
+  yo: haya dominado
+  tu: hayas dominado
+  vos: hayas dominado
+  ud: haya dominado
+  nosotros: hayamos dominado
+  vosotros: hayáis dominado
+  uds: hayan dominado
+imperfecto-subjuntivo:
+  yo:
+    - dominara
+    - dominase
+  tu:
+    - dominaras
+    - dominases
+  vos:
+    - dominaras
+    - dominases
+  ud:
+    - dominara
+    - dominase
+  nosotros:
+    - domináramos
+    - dominásemos
+  vosotros:
+    - dominarais
+    - dominaseis
+  uds:
+    - dominaran
+    - dominasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dominado
+    - hubiese dominado
+  tu:
+    - hubieras dominado
+    - hubieses dominado
+  vos:
+    - hubieras dominado
+    - hubieses dominado
+  ud:
+    - hubiera dominado
+    - hubiese dominado
+  nosotros:
+    - hubiéramos dominado
+    - hubiésemos dominado
+  vosotros:
+    - hubierais dominado
+    - hubieseis dominado
+  uds:
+    - hubieran dominado
+    - hubiesen dominado
+imperativo:
+  tu: domina
+  vos: dominá
+  ud: domine
+  nosotros: dominemos
+  vosotros: dominad
+  uds: dominen

@@ -1,0 +1,142 @@
+infinitivo: enloquecer
+gerundio: enloqueciendo
+participio-pasado: enloquecido
+presente-indicativo:
+  yo: enloquezco
+  tu: enloqueces
+  vos: enloquecés
+  ud: enloquece
+  nosotros: enloquecemos
+  vosotros: enloquecéis
+  uds: enloquecen
+preterito-perfecto-simple:
+  yo: enloquecí
+  tu: enloqueciste
+  vos: enloqueciste
+  ud: enloqueció
+  nosotros: enloquecimos
+  vosotros: enloquecisteis
+  uds: enloquecieron
+preterito-imperfecto:
+  yo: enloquecía
+  tu: enloquecías
+  vos: enloquecías
+  ud: enloquecía
+  nosotros: enloquecíamos
+  vosotros: enloquecíais
+  uds: enloquecían
+futuro-simple:
+  yo: enloqueceré
+  tu: enloquecerás
+  vos: enloquecerás
+  ud: enloquecerá
+  nosotros: enloqueceremos
+  vosotros: enloqueceréis
+  uds: enloquecerán
+condicional-simple:
+  yo: enloquecería
+  tu: enloquecerías
+  vos: enloquecerías
+  ud: enloquecería
+  nosotros: enloqueceríamos
+  vosotros: enloqueceríais
+  uds: enloquecerían
+presente-perfecto:
+  yo: he enloquecido
+  tu: has enloquecido
+  vos: has enloquecido
+  ud: ha enloquecido
+  nosotros: hemos enloquecido
+  vosotros: habéis enloquecido
+  uds: han enloquecido
+preterito-pluscuamperfecto:
+  yo: había enloquecido
+  tu: habías enloquecido
+  vos: habías enloquecido
+  ud: había enloquecido
+  nosotros: habíamos enloquecido
+  vosotros: habíais enloquecido
+  uds: habían enloquecido
+futuro-perfecto:
+  yo: habré enloquecido
+  tu: habrás enloquecido
+  vos: habrás enloquecido
+  ud: habrá enloquecido
+  nosotros: habremos enloquecido
+  vosotros: habréis enloquecido
+  uds: habrán enloquecido
+condicional-perfecto:
+  yo: habría enloquecido
+  tu: habrías enloquecido
+  vos: habrías enloquecido
+  ud: habría enloquecido
+  nosotros: habríamos enloquecido
+  vosotros: habríais enloquecido
+  uds: habrían enloquecido
+presente-subjuntivo:
+  yo: enloquezca
+  tu: enloquezcas
+  vos: enloquezcas
+  ud: enloquezca
+  nosotros: enloquezcamos
+  vosotros: enloquezcáis
+  uds: enloquezcan
+preterito-perfecto-subjuntivo:
+  yo: haya enloquecido
+  tu: hayas enloquecido
+  vos: hayas enloquecido
+  ud: haya enloquecido
+  nosotros: hayamos enloquecido
+  vosotros: hayáis enloquecido
+  uds: hayan enloquecido
+imperfecto-subjuntivo:
+  yo:
+    - enloqueciera
+    - enloqueciese
+  tu:
+    - enloquecieras
+    - enloquecieses
+  vos:
+    - enloquecieras
+    - enloquecieses
+  ud:
+    - enloqueciera
+    - enloqueciese
+  nosotros:
+    - enloqueciéramos
+    - enloqueciésemos
+  vosotros:
+    - enloquecierais
+    - enloquecieseis
+  uds:
+    - enloquecieran
+    - enloqueciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enloquecido
+    - hubiese enloquecido
+  tu:
+    - hubieras enloquecido
+    - hubieses enloquecido
+  vos:
+    - hubieras enloquecido
+    - hubieses enloquecido
+  ud:
+    - hubiera enloquecido
+    - hubiese enloquecido
+  nosotros:
+    - hubiéramos enloquecido
+    - hubiésemos enloquecido
+  vosotros:
+    - hubierais enloquecido
+    - hubieseis enloquecido
+  uds:
+    - hubieran enloquecido
+    - hubiesen enloquecido
+imperativo:
+  tu: enloquece
+  vos: enloquecé
+  ud: enloquezca
+  nosotros: enloquezcamos
+  vosotros: enloqueced
+  uds: enloquezcan

@@ -1,0 +1,142 @@
+infinitivo: defenderse
+gerundio: defendiéndose
+participio-pasado: defendido
+presente-indicativo:
+  yo: me defiendo
+  tu: te defiendes
+  vos: te defendés
+  ud: se defiende
+  nosotros: nos defendemos
+  vosotros: os defendéis
+  uds: se defienden
+preterito-perfecto-simple:
+  yo: me defendí
+  tu: te defendiste
+  vos: te defendiste
+  ud: se defendió
+  nosotros: nos defendimos
+  vosotros: os defendisteis
+  uds: se defendieron
+preterito-imperfecto:
+  yo: me defendía
+  tu: te defendías
+  vos: te defendías
+  ud: se defendía
+  nosotros: nos defendíamos
+  vosotros: os defendíais
+  uds: se defendían
+futuro-simple:
+  yo: me defenderé
+  tu: te defenderás
+  vos: te defenderás
+  ud: se defenderá
+  nosotros: nos defenderemos
+  vosotros: os defenderéis
+  uds: se defenderán
+condicional-simple:
+  yo: me defendería
+  tu: te defenderías
+  vos: te defenderías
+  ud: se defendería
+  nosotros: nos defenderíamos
+  vosotros: os defenderíais
+  uds: se defenderían
+presente-perfecto:
+  yo: me he defendido
+  tu: te has defendido
+  vos: te has defendido
+  ud: se ha defendido
+  nosotros: nos hemos defendido
+  vosotros: os habéis defendido
+  uds: se han defendido
+preterito-pluscuamperfecto:
+  yo: me había defendido
+  tu: te habías defendido
+  vos: te habías defendido
+  ud: se había defendido
+  nosotros: nos habíamos defendido
+  vosotros: os habíais defendido
+  uds: se habían defendido
+futuro-perfecto:
+  yo: me habré defendido
+  tu: te habrás defendido
+  vos: te habrás defendido
+  ud: se habrá defendido
+  nosotros: nos habremos defendido
+  vosotros: os habréis defendido
+  uds: se habrán defendido
+condicional-perfecto:
+  yo: me habría defendido
+  tu: te habrías defendido
+  vos: te habrías defendido
+  ud: se habría defendido
+  nosotros: nos habríamos defendido
+  vosotros: os habríais defendido
+  uds: se habrían defendido
+presente-subjuntivo:
+  yo: me defienda
+  tu: te defiendas
+  vos: te defiendas
+  ud: se defienda
+  nosotros: nos defendamos
+  vosotros: os defendáis
+  uds: se defiendan
+preterito-perfecto-subjuntivo:
+  yo: me haya defendido
+  tu: te hayas defendido
+  vos: te hayas defendido
+  ud: se haya defendido
+  nosotros: nos hayamos defendido
+  vosotros: os hayáis defendido
+  uds: se hayan defendido
+imperfecto-subjuntivo:
+  yo:
+    - me defendiera
+    - me defendiese
+  tu:
+    - te defendieras
+    - te defendieses
+  vos:
+    - te defendieras
+    - te defendieses
+  ud:
+    - se defendiera
+    - se defendiese
+  nosotros:
+    - nos defendiéramos
+    - nos defendiésemos
+  vosotros:
+    - os defendierais
+    - os defendieseis
+  uds:
+    - se defendieran
+    - se defendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera defendido
+    - me hubiese defendido
+  tu:
+    - te hubieras defendido
+    - te hubieses defendido
+  vos:
+    - te hubieras defendido
+    - te hubieses defendido
+  ud:
+    - se hubiera defendido
+    - se hubiese defendido
+  nosotros:
+    - nos hubiéramos defendido
+    - nos hubiésemos defendido
+  vosotros:
+    - os hubierais defendido
+    - os hubieseis defendido
+  uds:
+    - se hubieran defendido
+    - se hubiesen defendido
+imperativo:
+  tu: defiéndete
+  vos: deféndete
+  ud: defiéndase
+  nosotros: defendámonos
+  vosotros: defendeos
+  uds: defiéndanse

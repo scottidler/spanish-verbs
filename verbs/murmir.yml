@@ -1,0 +1,142 @@
+infinitivo: murmurar
+gerundio: murmurando
+participio-pasado: murmurado
+presente-indicativo:
+  yo: murmuro
+  tu: murmuras
+  vos: murmuras
+  ud: murmura
+  nosotros: murmuramos
+  vosotros: murmuráis
+  uds: murmuran
+preterito-perfecto-simple:
+  yo: murmuré
+  tu: murmuraste
+  vos: murmuraste
+  ud: murmuró
+  nosotros: murmuramos
+  vosotros: murmurasteis
+  uds: murmuraron
+preterito-imperfecto:
+  yo: murmuraba
+  tu: murmurabas
+  vos: murmurabas
+  ud: murmuraba
+  nosotros: murmurábamos
+  vosotros: murmurabais
+  uds: murmuraban
+futuro-simple:
+  yo: murmuraré
+  tu: murmurarás
+  vos: murmurarás
+  ud: murmurará
+  nosotros: murmuraremos
+  vosotros: murmuraréis
+  uds: murmurarán
+condicional-simple:
+  yo: murmuraría
+  tu: murmurarías
+  vos: murmurarías
+  ud: murmuraría
+  nosotros: murmuraríamos
+  vosotros: murmuraríais
+  uds: murmurarían
+presente-perfecto:
+  yo: he murmurado
+  tu: has murmurado
+  vos: has murmurado
+  ud: ha murmurado
+  nosotros: hemos murmurado
+  vosotros: habéis murmurado
+  uds: han murmurado
+preterito-pluscuamperfecto:
+  yo: había murmurado
+  tu: habías murmurado
+  vos: habías murmurado
+  ud: había murmurado
+  nosotros: habíamos murmurado
+  vosotros: habíais murmurado
+  uds: habían murmurado
+futuro-perfecto:
+  yo: habré murmurado
+  tu: habrás murmurado
+  vos: habrás murmurado
+  ud: habrá murmurado
+  nosotros: habremos murmurado
+  vosotros: habréis murmurado
+  uds: habrán murmurado
+condicional-perfecto:
+  yo: habría murmurado
+  tu: habrías murmurado
+  vos: habrías murmurado
+  ud: habría murmurado
+  nosotros: habríamos murmurado
+  vosotros: habríais murmurado
+  uds: habrían murmurado
+presente-subjuntivo:
+  yo: murmure
+  tu: murmures
+  vos: murmures
+  ud: murmure
+  nosotros: murmuramos
+  vosotros: murmuréis
+  uds: murmuren
+preterito-perfecto-subjuntivo:
+  yo: haya murmurado
+  tu: hayas murmurado
+  vos: hayas murmurado
+  ud: haya murmurado
+  nosotros: hayamos murmurado
+  vosotros: hayáis murmurado
+  uds: hayan murmurado
+imperfecto-subjuntivo:
+  yo:
+    - murmurara
+    - murmurase
+  tu:
+    - murmuraras
+    - murmurases
+  vos:
+    - murmuraras
+    - murmurases
+  ud:
+    - murmurara
+    - murmurase
+  nosotros:
+    - murmuráramos
+    - murmurásemos
+  vosotros:
+    - murmurarais
+    - murmuraseis
+  uds:
+    - murmuraran
+    - murmurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera murmurado
+    - hubiese murmurado
+  tu:
+    - hubieras murmurado
+    - hubieses murmurado
+  vos:
+    - hubieras murmurado
+    - hubieses murmurado
+  ud:
+    - hubiera murmurado
+    - hubiese murmurado
+  nosotros:
+    - hubiéramos murmurado
+    - hubiésemos murmurado
+  vosotros:
+    - hubierais murmurado
+    - hubieseis murmurado
+  uds:
+    - hubieran murmurado
+    - hubiesen murmurado
+imperativo:
+  tu: murmura
+  vos: murmurá
+  ud: murmure
+  nosotros: murmuramos
+  vosotros: murmurad
+  uds: murmuren

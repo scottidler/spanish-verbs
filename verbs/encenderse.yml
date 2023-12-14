@@ -1,0 +1,156 @@
+infinitivo: encenderse
+gerundio: encendiéndose
+participio-pasado: encendido
+
+presente-indicativo:
+  yo: me enciendo
+  tu: te enciendes
+  vos: te encendés
+  ud: se enciende
+  nosotros: nos encendemos
+  vosotros: os encendéis
+  uds: se encienden
+
+preterito-perfecto-simple:
+  yo: me encendí
+  tu: te encendiste
+  vos: te encendiste
+  ud: se encendió
+  nosotros: nos encendimos
+  vosotros: os encendisteis
+  uds: se encendieron
+
+preterito-imperfecto:
+  yo: me encendía
+  tu: te encendías
+  vos: te encendías
+  ud: se encendía
+  nosotros: nos encendíamos
+  vosotros: os encendíais
+  uds: se encendían
+
+futuro-simple:
+  yo: me encenderé
+  tu: te encenderás
+  vos: te encenderás
+  ud: se encenderá
+  nosotros: nos encenderemos
+  vosotros: os encenderéis
+  uds: se encenderán
+
+condicional-simple:
+  yo: me encendería
+  tu: te encenderías
+  vos: te encenderías
+  ud: se encendería
+  nosotros: nos encenderíamos
+  vosotros: os encenderíais
+  uds: se encenderían
+
+presente-perfecto:
+  yo: me he encendido
+  tu: te has encendido
+  vos: te has encendido
+  ud: se ha encendido
+  nosotros: nos hemos encendido
+  vosotros: os habéis encendido
+  uds: se han encendido
+
+preterito-pluscuamperfecto:
+  yo: me había encendido
+  tu: te habías encendido
+  vos: te habías encendido
+  ud: se había encendido
+  nosotros: nos habíamos encendido
+  vosotros: os habíais encendido
+  uds: se habían encendido
+
+futuro-perfecto:
+  yo: me habré encendido
+  tu: te habrás encendido
+  vos: te habrás encendido
+  ud: se habrá encendido
+  nosotros: nos habremos encendido
+  vosotros: os habréis encendido
+  uds: se habrán encendido
+
+condicional-perfecto:
+  yo: me habría encendido
+  tu: te habrías encendido
+  vos: te habrías encendido
+  ud: se habría encendido
+  nosotros: nos habríamos encendido
+  vosotros: os habríais encendido
+  uds: se habrían encendido
+
+presente-subjuntivo:
+  yo: me encienda
+  tu: te enciendas
+  vos: te enciendas
+  ud: se encienda
+  nosotros: nos encendamos
+  vosotros: os encendáis
+  uds: se enciendan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya encendido
+  tu: te hayas encendido
+  vos: te hayas encendido
+  ud: se haya encendido
+  nosotros: nos hayamos encendido
+  vosotros: os hayáis encendido
+  uds: se hayan encendido
+
+imperfecto-subjuntivo:
+  yo:
+    - me encendiera
+    - me encendiese
+  tu:
+    - te encendieras
+    - te encendieses
+  vos:
+    - te encendieras
+    - te encendieses
+  ud:
+    - se encendiera
+    - se encendiese
+  nosotros:
+    - nos encendiéramos
+    - nos encendiésemos
+  vosotros:
+    - os encendierais
+    - os encendieseis
+  uds:
+    - se encendieran
+    - se encendiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera encendido
+    - me hubiese encendido
+  tu:
+    - te hubieras encendido
+    - te hubieses encendido
+  vos:
+    - te hubieras encendido
+    - te hubieses encendido
+  ud:
+    - se hubiera encendido
+    - se hubiese encendido
+  nosotros:
+    - nos hubiéramos encendido
+    - nos hubiésemos encendido
+  vosotros:
+    - os hubierais encendido
+    - os hubieseis encendido
+  uds:
+    - se hubieran encendido
+    - se hubiesen encendido
+
+imperativo:
+  tu: enciéndete
+  vos: encendete
+  ud: enciéndase
+  nosotros: encendámonos
+  vosotros: encended
+  uds: enciéndanse

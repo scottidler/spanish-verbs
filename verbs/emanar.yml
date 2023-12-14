@@ -1,0 +1,142 @@
+infinitivo: emanar
+gerundio: emanando
+participio-pasado: emanado
+presente-indicativo:
+  yo: emano
+  tu: emanas
+  vos: emanas
+  ud: emana
+  nosotros: emanamos
+  vosotros: emanáis
+  uds: emanan
+preterito-perfecto-simple:
+  yo: emané
+  tu: emanaste
+  vos: emanaste
+  ud: emanó
+  nosotros: emanamos
+  vosotros: emanasteis
+  uds: emanaron
+preterito-imperfecto:
+  yo: emanaba
+  tu: emanabas
+  vos: emanabas
+  ud: emanaba
+  nosotros: emanábamos
+  vosotros: emanabais
+  uds: emanaban
+futuro-simple:
+  yo: emanaré
+  tu: emanarás
+  vos: emanarás
+  ud: emanará
+  nosotros: emanaremos
+  vosotros: emanaréis
+  uds: emanarán
+condicional-simple:
+  yo: emanaría
+  tu: emanarías
+  vos: emanarías
+  ud: emanaría
+  nosotros: emanaríamos
+  vosotros: emanaríais
+  uds: emanarían
+presente-perfecto:
+  yo: he emanado
+  tu: has emanado
+  vos: has emanado
+  ud: ha emanado
+  nosotros: hemos emanado
+  vosotros: habéis emanado
+  uds: han emanado
+preterito-pluscuamperfecto:
+  yo: había emanado
+  tu: habías emanado
+  vos: habías emanado
+  ud: había emanado
+  nosotros: habíamos emanado
+  vosotros: habíais emanado
+  uds: habían emanado
+futuro-perfecto:
+  yo: habré emanado
+  tu: habrás emanado
+  vos: habrás emanado
+  ud: habrá emanado
+  nosotros: habremos emanado
+  vosotros: habréis emanado
+  uds: habrán emanado
+condicional-perfecto:
+  yo: habría emanado
+  tu: habrías emanado
+  vos: habrías emanado
+  ud: habría emanado
+  nosotros: habríamos emanado
+  vosotros: habríais emanado
+  uds: habrían emanado
+presente-subjuntivo:
+  yo: emane
+  tu: emanes
+  vos: emanes
+  ud: emane
+  nosotros: emanemos
+  vosotros: emanéis
+  uds: emanen
+preterito-perfecto-subjuntivo:
+  yo: haya emanado
+  tu: hayas emanado
+  vos: hayas emanado
+  ud: haya emanado
+  nosotros: hayamos emanado
+  vosotros: hayáis emanado
+  uds: hayan emanado
+imperfecto-subjuntivo:
+  yo:
+    - emanara
+    - emanase
+  tu:
+    - emanaras
+    - emanases
+  vos:
+    - emanaras
+    - emanases
+  ud:
+    - emanara
+    - emanase
+  nosotros:
+    - emanáramos
+    - emanásemos
+  vosotros:
+    - emanarais
+    - emanaseis
+  uds:
+    - emanaran
+    - emanasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera emanado
+    - hubiese emanado
+  tu:
+    - hubieras emanado
+    - hubieses emanado
+  vos:
+    - hubieras emanado
+    - hubieses emanado
+  ud:
+    - hubiera emanado
+    - hubiese emanado
+  nosotros:
+    - hubiéramos emanado
+    - hubiésemos emanado
+  vosotros:
+    - hubierais emanado
+    - hubieseis emanado
+  uds:
+    - hubieran emanado
+    - hubiesen emanado
+imperativo:
+  tu: emana
+  vos: emaná
+  ud: emane
+  nosotros: emanemos
+  vosotros: emanad
+  uds: emanen

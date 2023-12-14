@@ -1,0 +1,142 @@
+infinitivo: reprimir
+gerundio: reprimiendo
+participio-pasado: reprimido
+presente-indicativo:
+  yo: reprimo
+  tu: reprimes
+  vos: reprimís
+  ud: reprime
+  nosotros: reprimimos
+  vosotros: reprimís
+  uds: reprimen
+preterito-perfecto-simple:
+  yo: reprimí
+  tu: reprimiste
+  vos: reprimiste
+  ud: reprimió
+  nosotros: reprimimos
+  vosotros: reprimisteis
+  uds: reprimieron
+preterito-imperfecto:
+  yo: reprimía
+  tu: reprimías
+  vos: reprimías
+  ud: reprimía
+  nosotros: reprimíamos
+  vosotros: reprimíais
+  uds: reprimían
+futuro-simple:
+  yo: reprimiré
+  tu: reprimirás
+  vos: reprimirás
+  ud: reprimirá
+  nosotros: reprimiremos
+  vosotros: reprimiréis
+  uds: reprimirán
+condicional-simple:
+  yo: reprimiría
+  tu: reprimirías
+  vos: reprimirías
+  ud: reprimiría
+  nosotros: reprimiríamos
+  vosotros: reprimiríais
+  uds: reprimirían
+presente-perfecto:
+  yo: he reprimido
+  tu: has reprimido
+  vos: has reprimido
+  ud: ha reprimido
+  nosotros: hemos reprimido
+  vosotros: habéis reprimido
+  uds: han reprimido
+preterito-pluscuamperfecto:
+  yo: había reprimido
+  tu: habías reprimido
+  vos: habías reprimido
+  ud: había reprimido
+  nosotros: habíamos reprimido
+  vosotros: habíais reprimido
+  uds: habían reprimido
+futuro-perfecto:
+  yo: habré reprimido
+  tu: habrás reprimido
+  vos: habrás reprimido
+  ud: habrá reprimido
+  nosotros: habremos reprimido
+  vosotros: habréis reprimido
+  uds: habrán reprimido
+condicional-perfecto:
+  yo: habría reprimido
+  tu: habrías reprimido
+  vos: habrías reprimido
+  ud: habría reprimido
+  nosotros: habríamos reprimido
+  vosotros: habríais reprimido
+  uds: habrían reprimido
+presente-subjuntivo:
+  yo: reprima
+  tu: reprimas
+  vos: reprimas
+  ud: reprima
+  nosotros: reprimamos
+  vosotros: reprimáis
+  uds: repriman
+preterito-perfecto-subjuntivo:
+  yo: haya reprimido
+  tu: hayas reprimido
+  vos: hayas reprimido
+  ud: haya reprimido
+  nosotros: hayamos reprimido
+  vosotros: hayáis reprimido
+  uds: hayan reprimido
+imperfecto-subjuntivo:
+  yo:
+    - reprimiera
+    - reprimiese
+  tu:
+    - reprimieras
+    - reprimieses
+  vos:
+    - reprimieras
+    - reprimieses
+  ud:
+    - reprimiera
+    - reprimiese
+  nosotros:
+    - reprimiéramos
+    - reprimiésemos
+  vosotros:
+    - reprimierais
+    - reprimieseis
+  uds:
+    - reprimieran
+    - reprimiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reprimido
+    - hubiese reprimido
+  tu:
+    - hubieras reprimido
+    - hubieses reprimido
+  vos:
+    - hubieras reprimido
+    - hubieses reprimido
+  ud:
+    - hubiera reprimido
+    - hubiese reprimido
+  nosotros:
+    - hubiéramos reprimido
+    - hubiésemos reprimido
+  vosotros:
+    - hubierais reprimido
+    - hubieseis reprimido
+  uds:
+    - hubieran reprimido
+    - hubiesen reprimido
+imperativo:
+  tu: reprime
+  vos: reprimí
+  ud: reprima
+  nosotros: reprimamos
+  vosotros: reprimid
+  uds: repriman

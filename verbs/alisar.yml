@@ -1,0 +1,142 @@
+infinitivo: alisar
+gerundio: alisando
+participio-pasado: alisado
+presente-indicativo:
+  yo: aliso
+  tu: alisas
+  vos: alisas
+  ud: alisa
+  nosotros: alisamos
+  vosotros: alisáis
+  uds: alisan
+preterito-perfecto-simple:
+  yo: alisé
+  tu: alisaste
+  vos: alisaste
+  ud: alisó
+  nosotros: alisamos
+  vosotros: alisasteis
+  uds: alisaron
+preterito-imperfecto:
+  yo: alisaba
+  tu: alisabas
+  vos: alisabas
+  ud: alisaba
+  nosotros: alisábamos
+  vosotros: alisabais
+  uds: alisaban
+futuro-simple:
+  yo: alisaré
+  tu: alisarás
+  vos: alisarás
+  ud: alisará
+  nosotros: alisaremos
+  vosotros: alisaréis
+  uds: alisarán
+condicional-simple:
+  yo: alisaría
+  tu: alisarías
+  vos: alisarías
+  ud: alisaría
+  nosotros: alisaríamos
+  vosotros: alisaríais
+  uds: alisarían
+presente-perfecto:
+  yo: he alisado
+  tu: has alisado
+  vos: has alisado
+  ud: ha alisado
+  nosotros: hemos alisado
+  vosotros: habéis alisado
+  uds: han alisado
+preterito-pluscuamperfecto:
+  yo: había alisado
+  tu: habías alisado
+  vos: habías alisado
+  ud: había alisado
+  nosotros: habíamos alisado
+  vosotros: habíais alisado
+  uds: habían alisado
+futuro-perfecto:
+  yo: habré alisado
+  tu: habrás alisado
+  vos: habrás alisado
+  ud: habrá alisado
+  nosotros: habremos alisado
+  vosotros: habréis alisado
+  uds: habrán alisado
+condicional-perfecto:
+  yo: habría alisado
+  tu: habrías alisado
+  vos: habrías alisado
+  ud: habría alisado
+  nosotros: habríamos alisado
+  vosotros: habríais alisado
+  uds: habrían alisado
+presente-subjuntivo:
+  yo: alise
+  tu: alises
+  vos: alises
+  ud: alise
+  nosotros: alisemos
+  vosotros: aliséis
+  uds: alisen
+preterito-perfecto-subjuntivo:
+  yo: haya alisado
+  tu: hayas alisado
+  vos: hayas alisado
+  ud: haya alisado
+  nosotros: hayamos alisado
+  vosotros: hayáis alisado
+  uds: hayan alisado
+imperfecto-subjuntivo:
+  yo:
+    - alisara
+    - alisase
+  tu:
+    - alisaras
+    - alisases
+  vos:
+    - alisaras
+    - alisases
+  ud:
+    - alisara
+    - alisase
+  nosotros:
+    - alisáramos
+    - alisásemos
+  vosotros:
+    - alisarais
+    - alisaseis
+  uds:
+    - alisaran
+    - alisasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alisado
+    - hubiese alisado
+  tu:
+    - hubieras alisado
+    - hubieses alisado
+  vos:
+    - hubieras alisado
+    - hubieses alisado
+  ud:
+    - hubiera alisado
+    - hubiese alisado
+  nosotros:
+    - hubiéramos alisado
+    - hubiésemos alisado
+  vosotros:
+    - hubierais alisado
+    - hubieseis alisado
+  uds:
+    - hubieran alisado
+    - hubiesen alisado
+imperativo:
+  tu: alisa
+  vos: alisá
+  ud: alise
+  nosotros: alisemos
+  vosotros: alisad
+  uds: alisen

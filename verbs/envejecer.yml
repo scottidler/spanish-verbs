@@ -1,0 +1,142 @@
+infinitivo: envejecer
+gerundio: envejeciendo
+participio-pasado: envejecido
+presente-indicativo:
+  yo: envejezco
+  tu: envejeces
+  vos: envejeces
+  ud: envejece
+  nosotros: envejecemos
+  vosotros: envejecéis
+  uds: envejecen
+preterito-perfecto-simple:
+  yo: envejecí
+  tu: envejeciste
+  vos: envejeciste
+  ud: envejeció
+  nosotros: envejecimos
+  vosotros: envejecisteis
+  uds: envejecieron
+preterito-imperfecto:
+  yo: envejecía
+  tu: envejecías
+  vos: envejecías
+  ud: envejecía
+  nosotros: envejecíamos
+  vosotros: envejecíais
+  uds: envejecían
+futuro-simple:
+  yo: envejeceré
+  tu: envejecerás
+  vos: envejecerás
+  ud: envejecerá
+  nosotros: envejeceremos
+  vosotros: envejeceréis
+  uds: envejecerán
+condicional-simple:
+  yo: envejecería
+  tu: envejecerías
+  vos: envejecerías
+  ud: envejecería
+  nosotros: envejeceríamos
+  vosotros: envejeceríais
+  uds: envejecerían
+presente-perfecto:
+  yo: he envejecido
+  tu: has envejecido
+  vos: has envejecido
+  ud: ha envejecido
+  nosotros: hemos envejecido
+  vosotros: habéis envejecido
+  uds: han envejecido
+preterito-pluscuamperfecto:
+  yo: había envejecido
+  tu: habías envejecido
+  vos: habías envejecido
+  ud: había envejecido
+  nosotros: habíamos envejecido
+  vosotros: habíais envejecido
+  uds: habían envejecido
+futuro-perfecto:
+  yo: habré envejecido
+  tu: habrás envejecido
+  vos: habrás envejecido
+  ud: habrá envejecido
+  nosotros: habremos envejecido
+  vosotros: habréis envejecido
+  uds: habrán envejecido
+condicional-perfecto:
+  yo: habría envejecido
+  tu: habrías envejecido
+  vos: habrías envejecido
+  ud: habría envejecido
+  nosotros: habríamos envejecido
+  vosotros: habríais envejecido
+  uds: habrían envejecido
+presente-subjuntivo:
+  yo: envejezca
+  tu: envejezcas
+  vos: envejezcas
+  ud: envejezca
+  nosotros: envejezcamos
+  vosotros: envejezcáis
+  uds: envejezcan
+preterito-perfecto-subjuntivo:
+  yo: haya envejecido
+  tu: hayas envejecido
+  vos: hayas envejecido
+  ud: haya envejecido
+  nosotros: hayamos envejecido
+  vosotros: hayáis envejecido
+  uds: hayan envejecido
+imperfecto-subjuntivo:
+  yo:
+    - envejeciera
+    - envejeciese
+  tu:
+    - envejecieras
+    - envejecieses
+  vos:
+    - envejecieras
+    - envejecieses
+  ud:
+    - envejeciera
+    - envejeciese
+  nosotros:
+    - envejeciéramos
+    - envejeciésemos
+  vosotros:
+    - envejecierais
+    - envejecieseis
+  uds:
+    - envejecieran
+    - envejeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera envejecido
+    - hubiese envejecido
+  tu:
+    - hubieras envejecido
+    - hubieses envejecido
+  vos:
+    - hubieras envejecido
+    - hubieses envejecido
+  ud:
+    - hubiera envejecido
+    - hubiese envejecido
+  nosotros:
+    - hubiéramos envejecido
+    - hubiésemos envejecido
+  vosotros:
+    - hubierais envejecido
+    - hubieseis envejecido
+  uds:
+    - hubieran envejecido
+    - hubiesen envejecido
+imperativo:
+  tu: envejece
+  vos: envejece
+  ud: envejezca
+  nosotros: envejezcamos
+  vosotros: envejezcad
+  uds: envejezcan

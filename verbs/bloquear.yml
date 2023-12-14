@@ -1,0 +1,142 @@
+infinitivo: bloquear
+gerundio: bloqueando
+participio-pasado: bloqueado
+presente-indicativo:
+  yo: bloqueo
+  tu: bloqueas
+  vos: bloqueás
+  ud: bloquea
+  nosotros: bloqueamos
+  vosotros: bloqueáis
+  uds: bloquean
+preterito-perfecto-simple:
+  yo: bloqueé
+  tu: bloqueaste
+  vos: bloqueaste
+  ud: bloqueó
+  nosotros: bloqueamos
+  vosotros: bloqueasteis
+  uds: bloquearon
+preterito-imperfecto:
+  yo: bloqueaba
+  tu: bloqueabas
+  vos: bloqueabas
+  ud: bloqueaba
+  nosotros: bloqueábamos
+  vosotros: bloqueabais
+  uds: bloqueaban
+futuro-simple:
+  yo: bloquearé
+  tu: bloquearás
+  vos: bloquearás
+  ud: bloqueará
+  nosotros: bloquearemos
+  vosotros: bloquearéis
+  uds: bloquearán
+condicional-simple:
+  yo: bloquearía
+  tu: bloquearías
+  vos: bloquearías
+  ud: bloquearía
+  nosotros: bloquearíamos
+  vosotros: bloquearíais
+  uds: bloquearían
+presente-perfecto:
+  yo: he bloqueado
+  tu: has bloqueado
+  vos: has bloqueado
+  ud: ha bloqueado
+  nosotros: hemos bloqueado
+  vosotros: habéis bloqueado
+  uds: han bloqueado
+preterito-pluscuamperfecto:
+  yo: había bloqueado
+  tu: habías bloqueado
+  vos: habías bloqueado
+  ud: había bloqueado
+  nosotros: habíamos bloqueado
+  vosotros: habíais bloqueado
+  uds: habían bloqueado
+futuro-perfecto:
+  yo: habré bloqueado
+  tu: habrás bloqueado
+  vos: habrás bloqueado
+  ud: habrá bloqueado
+  nosotros: habremos bloqueado
+  vosotros: habréis bloqueado
+  uds: habrán bloqueado
+condicional-perfecto:
+  yo: habría bloqueado
+  tu: habrías bloqueado
+  vos: habrías bloqueado
+  ud: habría bloqueado
+  nosotros: habríamos bloqueado
+  vosotros: habríais bloqueado
+  uds: habrían bloqueado
+presente-subjuntivo:
+  yo: bloquee
+  tu: bloquees
+  vos: bloqueés
+  ud: bloquee
+  nosotros: bloqueemos
+  vosotros: bloqueéis
+  uds: bloqueen
+preterito-perfecto-subjuntivo:
+  yo: haya bloqueado
+  tu: hayas bloqueado
+  vos: hayas bloqueado
+  ud: haya bloqueado
+  nosotros: hayamos bloqueado
+  vosotros: hayáis bloqueado
+  uds: hayan bloqueado
+imperfecto-subjuntivo:
+  yo:
+    - bloqueara
+    - bloquease
+  tu:
+    - bloquearas
+    - bloqueases
+  vos:
+    - bloquearas
+    - bloqueases
+  ud:
+    - bloqueara
+    - bloquease
+  nosotros:
+    - bloqueáramos
+    - bloqueásemos
+  vosotros:
+    - bloquearais
+    - bloqueaseis
+  uds:
+    - bloquearan
+    - bloqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bloqueado
+    - hubiese bloqueado
+  tu:
+    - hubieras bloqueado
+    - hubieses bloqueado
+  vos:
+    - hubieras bloqueado
+    - hubieses bloqueado
+  ud:
+    - hubiera bloqueado
+    - hubiese bloqueado
+  nosotros:
+    - hubiéramos bloqueado
+    - hubiésemos bloqueado
+  vosotros:
+    - hubierais bloqueado
+    - hubieseis bloqueado
+  uds:
+    - hubieran bloqueado
+    - hubiesen bloqueado
+imperativo:
+  tu: bloquea
+  vos: bloqueá
+  ud: bloquee
+  nosotros: bloqueemos
+  vosotros: bloquead
+  uds: bloqueen

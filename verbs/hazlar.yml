@@ -1,0 +1,142 @@
+infinitivo: hazlar
+gerundio: hazlando
+participio-pasado: hazlado
+presente-indicativo:
+  yo: haglo
+  tu: haglas
+  vos: haglas
+  ud: hagla
+  nosotros: haglamos
+  vosotros: hagláis
+  uds: haglan
+preterito-perfecto-simple:
+  yo: haglé
+  tu: haglaste
+  vos: haglaste
+  ud: hagló
+  nosotros: haglamos
+  vosotros: haglasteis
+  uds: haglaron
+preterito-imperfecto:
+  yo: haglaba
+  tu: haglabas
+  vos: haglabas
+  ud: haglaba
+  nosotros: haglábamos
+  vosotros: haglabais
+  uds: haglaban
+futuro-simple:
+  yo: haglaré
+  tu: haglarás
+  vos: haglarás
+  ud: haglará
+  nosotros: haglaremos
+  vosotros: haglaréis
+  uds: haglarán
+condicional-simple:
+  yo: haglaría
+  tu: haglarías
+  vos: haglarías
+  ud: haglaría
+  nosotros: haglaríamos
+  vosotros: haglaríais
+  uds: haglarían
+presente-perfecto:
+  yo: he hazlado
+  tu: has hazlado
+  vos: has hazlado
+  ud: ha hazlado
+  nosotros: hemos hazlado
+  vosotros: habéis hazlado
+  uds: han hazlado
+preterito-pluscuamperfecto:
+  yo: había hazlado
+  tu: habías hazlado
+  vos: habías hazlado
+  ud: había hazlado
+  nosotros: habíamos hazlado
+  vosotros: habíais hazlado
+  uds: habían hazlado
+futuro-perfecto:
+  yo: habré hazlado
+  tu: habrás hazlado
+  vos: habrás hazlado
+  ud: habrá hazlado
+  nosotros: habremos hazlado
+  vosotros: habréis hazlado
+  uds: habrán hazlado
+condicional-perfecto:
+  yo: habría hazlado
+  tu: habrías hazlado
+  vos: habrías hazlado
+  ud: habría hazlado
+  nosotros: habríamos hazlado
+  vosotros: habríais hazlado
+  uds: habrían hazlado
+presente-subjuntivo:
+  yo: hable
+  tu: hables
+  vos: hables
+  ud: hable
+  nosotros: hablemos
+  vosotros: habléis
+  uds: hablen
+preterito-perfecto-subjuntivo:
+  yo: haya hazlado
+  tu: hayas hazlado
+  vos: hayas hazlado
+  ud: haya hazlado
+  nosotros: hayamos hazlado
+  vosotros: hayáis hazlado
+  uds: hayan hazlado
+imperfecto-subjuntivo:
+  yo:
+    - haglara
+    - haglase
+  tu:
+    - haglaras
+    - haglases
+  vos:
+    - haglaras
+    - haglases
+  ud:
+    - haglara
+    - haglase
+  nosotros:
+    - hagláramos
+    - haglásemos
+  vosotros:
+    - haglarais
+    - haglaseis
+  uds:
+    - haglaran
+    - haglasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera hazlado
+    - hubiese hazlado
+  tu:
+    - hubieras hazlado
+    - hubieses hazlado
+  vos:
+    - hubieras hazlado
+    - hubieses hazlado
+  ud:
+    - hubiera hazlado
+    - hubiese hazlado
+  nosotros:
+    - hubiéramos hazlado
+    - hubiésemos hazlado
+  vosotros:
+    - hubierais hazlado
+    - hubieseis hazlado
+  uds:
+    - hubieran hazlado
+    - hubiesen hazlado
+imperativo:
+  tu: hazla
+  vos: hazlá
+  ud: hable
+  nosotros: hablemos
+  vosotros: hazlad
+  uds: hablen

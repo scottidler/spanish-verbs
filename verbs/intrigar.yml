@@ -1,0 +1,142 @@
+infinitivo: intrigar
+gerundio: intrigando
+participio-pasado: intrigado
+presente-indicativo:
+  yo: intrigo
+  tu: intrigas
+  vos: intrigas
+  ud: intriga
+  nosotros: intrigamos
+  vosotros: intrigáis
+  uds: intrigan
+preterito-perfecto-simple:
+  yo: intrigué
+  tu: intrigaste
+  vos: intrigaste
+  ud: intrigó
+  nosotros: intrigamos
+  vosotros: intrigasteis
+  uds: intrigaron
+preterito-imperfecto:
+  yo: intrigaba
+  tu: intrigabas
+  vos: intrigabas
+  ud: intrigaba
+  nosotros: intrigábamos
+  vosotros: intrigabais
+  uds: intrigaban
+futuro-simple:
+  yo: intrigaré
+  tu: intrigarás
+  vos: intrigarás
+  ud: intrigará
+  nosotros: intrigaremos
+  vosotros: intrigaréis
+  uds: intrigarán
+condicional-simple:
+  yo: intrigaría
+  tu: intrigarías
+  vos: intrigarías
+  ud: intrigaría
+  nosotros: intrigaríamos
+  vosotros: intrigaríais
+  uds: intrigarían
+presente-perfecto:
+  yo: he intrigado
+  tu: has intrigado
+  vos: has intrigado
+  ud: ha intrigado
+  nosotros: hemos intrigado
+  vosotros: habéis intrigado
+  uds: han intrigado
+preterito-pluscuamperfecto:
+  yo: había intrigado
+  tu: habías intrigado
+  vos: habías intrigado
+  ud: había intrigado
+  nosotros: habíamos intrigado
+  vosotros: habíais intrigado
+  uds: habían intrigado
+futuro-perfecto:
+  yo: habré intrigado
+  tu: habrás intrigado
+  vos: habrás intrigado
+  ud: habrá intrigado
+  nosotros: habremos intrigado
+  vosotros: habréis intrigado
+  uds: habrán intrigado
+condicional-perfecto:
+  yo: habría intrigado
+  tu: habrías intrigado
+  vos: habrías intrigado
+  ud: habría intrigado
+  nosotros: habríamos intrigado
+  vosotros: habríais intrigado
+  uds: habrían intrigado
+presente-subjuntivo:
+  yo: intrigue
+  tu: intriges
+  vos: intriges
+  ud: intrigue
+  nosotros: intriguemos
+  vosotros: intrigéis
+  uds: intriguen
+preterito-perfecto-subjuntivo:
+  yo: haya intrigado
+  tu: hayas intrigado
+  vos: hayas intrigado
+  ud: haya intrigado
+  nosotros: hayamos intrigado
+  vosotros: hayáis intrigado
+  uds: hayan intrigado
+imperfecto-subjuntivo:
+  yo: 
+    - intrigara
+    - intrigase
+  tu:
+    - intrigaras
+    - intrigases
+  vos:
+    - intrigaras
+    - intrigases
+  ud:
+    - intrigara
+    - intrigase
+  nosotros:
+    - intrigáramos
+    - intrigásemos
+  vosotros:
+    - intrigarais
+    - intrigaseis
+  uds:
+    - intrigaran
+    - intrigasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera intrigado
+    - hubiese intrigado
+  tu:
+    - hubieras intrigado
+    - hubieses intrigado
+  vos:
+    - hubieras intrigado
+    - hubieses intrigado
+  ud:
+    - hubiera intrigado
+    - hubiese intrigado
+  nosotros:
+    - hubiéramos intrigado
+    - hubiésemos intrigado
+  vosotros:
+    - hubierais intrigado
+    - hubieseis intrigado
+  uds:
+    - hubieran intrigado
+    - hubiesen intrigado
+imperativo:
+  tu: intriga
+  vos: intriga
+  ud: intrigue
+  nosotros: intriguemos
+  vosotros: intrigad
+  uds: intriguen

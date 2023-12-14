@@ -1,0 +1,142 @@
+infinitivo: repugnar
+gerundio: repugnando
+participio-pasado: repugnado
+presente-indicativo:
+  yo: repugno
+  tu: repugnas
+  vos: repugnas
+  ud: repugna
+  nosotros: repugnamos
+  vosotros: repugnáis
+  uds: repugnan
+preterito-perfecto-simple:
+  yo: repugné
+  tu: repugnaste
+  vos: repugnaste
+  ud: repugnó
+  nosotros: repugnamos
+  vosotros: repugnasteis
+  uds: repugnaron
+preterito-imperfecto:
+  yo: repugnaba
+  tu: repugnabas
+  vos: repugnabas
+  ud: repugnaba
+  nosotros: repugnábamos
+  vosotros: repugnabais
+  uds: repugnaban
+futuro-simple:
+  yo: repugnaré
+  tu: repugnarás
+  vos: repugnarás
+  ud: repugnará
+  nosotros: repugnaremos
+  vosotros: repugnaréis
+  uds: repugnarán
+condicional-simple:
+  yo: repugnaría
+  tu: repugnarías
+  vos: repugnarías
+  ud: repugnaría
+  nosotros: repugnaríamos
+  vosotros: repugnaríais
+  uds: repugnarían
+presente-perfecto:
+  yo: he repugnado
+  tu: has repugnado
+  vos: has repugnado
+  ud: ha repugnado
+  nosotros: hemos repugnado
+  vosotros: habéis repugnado
+  uds: han repugnado
+preterito-pluscuamperfecto:
+  yo: había repugnado
+  tu: habías repugnado
+  vos: habías repugnado
+  ud: había repugnado
+  nosotros: habíamos repugnado
+  vosotros: habíais repugnado
+  uds: habían repugnado
+futuro-perfecto:
+  yo: habré repugnado
+  tu: habrás repugnado
+  vos: habrás repugnado
+  ud: habrá repugnado
+  nosotros: habremos repugnado
+  vosotros: habréis repugnado
+  uds: habrán repugnado
+condicional-perfecto:
+  yo: habría repugnado
+  tu: habrías repugnado
+  vos: habrías repugnado
+  ud: habría repugnado
+  nosotros: habríamos repugnado
+  vosotros: habríais repugnado
+  uds: habrían repugnado
+presente-subjuntivo:
+  yo: repugne
+  tu: repugnes
+  vos: repugnes
+  ud: repugne
+  nosotros: repugnemos
+  vosotros: repugnéis
+  uds: repugnen
+preterito-perfecto-subjuntivo:
+  yo: haya repugnado
+  tu: hayas repugnado
+  vos: hayas repugnado
+  ud: haya repugnado
+  nosotros: hayamos repugnado
+  vosotros: hayáis repugnado
+  uds: hayan repugnado
+imperfecto-subjuntivo:
+  yo:
+    - repugnara
+    - repugnase
+  tu:
+    - repugnaras
+    - repugnases
+  vos:
+    - repugnaras
+    - repugnases
+  ud:
+    - repugnara
+    - repugnase
+  nosotros:
+    - repugnáramos
+    - repugnásemos
+  vosotros:
+    - repugnarais
+    - repugnaseis
+  uds:
+    - repugnaran
+    - repugnasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera repugnado
+    - hubiese repugnado
+  tu:
+    - hubieras repugnado
+    - hubieses repugnado
+  vos:
+    - hubieras repugnado
+    - hubieses repugnado
+  ud:
+    - hubiera repugnado
+    - hubiese repugnado
+  nosotros:
+    - hubiéramos repugnado
+    - hubiésemos repugnado
+  vosotros:
+    - hubierais repugnado
+    - hubieseis repugnado
+  uds:
+    - hubieran repugnado
+    - hubiesen repugnado
+imperativo:
+  tu: repugna
+  vos: repugná
+  ud: repugne
+  nosotros: repugnemos
+  vosotros: repugnad
+  uds: repugnen

@@ -1,0 +1,142 @@
+infinitivo: nublar
+gerundio: nublando
+participio-pasado: nublado
+presente-indicativo:
+  yo: nublo
+  tu: nublas
+  vos: nublas
+  ud: nubla
+  nosotros: nublamos
+  vosotros: nubláis
+  uds: nublan
+preterito-perfecto-simple:
+  yo: nublé
+  tu: nublaste
+  vos: nublaste
+  ud: nubló
+  nosotros: nublamos
+  vosotros: nublasteis
+  uds: nublaron
+preterito-imperfecto:
+  yo: nublaba
+  tu: nublabas
+  vos: nublabas
+  ud: nublaba
+  nosotros: nublábamos
+  vosotros: nublabais
+  uds: nublaban
+futuro-simple:
+  yo: nublaré
+  tu: nublarás
+  vos: nublarás
+  ud: nublará
+  nosotros: nublaremos
+  vosotros: nublaréis
+  uds: nublarán
+condicional-simple:
+  yo: nublaría
+  tu: nublarías
+  vos: nublarías
+  ud: nublaría
+  nosotros: nublaríamos
+  vosotros: nublaríais
+  uds: nublarían
+presente-perfecto:
+  yo: he nublado
+  tu: has nublado
+  vos: has nublado
+  ud: ha nublado
+  nosotros: hemos nublado
+  vosotros: habéis nublado
+  uds: han nublado
+preterito-pluscuamperfecto:
+  yo: había nublado
+  tu: habías nublado
+  vos: habías nublado
+  ud: había nublado
+  nosotros: habíamos nublado
+  vosotros: habíais nublado
+  uds: habían nublado
+futuro-perfecto:
+  yo: habré nublado
+  tu: habrás nublado
+  vos: habrás nublado
+  ud: habrá nublado
+  nosotros: habremos nublado
+  vosotros: habréis nublado
+  uds: habrán nublado
+condicional-perfecto:
+  yo: habría nublado
+  tu: habrías nublado
+  vos: habrías nublado
+  ud: habría nublado
+  nosotros: habríamos nublado
+  vosotros: habríais nublado
+  uds: habrían nublado
+presente-subjuntivo:
+  yo: nuble
+  tu: nubles
+  vos: nubles
+  ud: nuble
+  nosotros: nublemos
+  vosotros: nubléis
+  uds: nublen
+preterito-perfecto-subjuntivo:
+  yo: haya nublado
+  tu: hayas nublado
+  vos: hayas nublado
+  ud: haya nublado
+  nosotros: hayamos nublado
+  vosotros: hayáis nublado
+  uds: hayan nublado
+imperfecto-subjuntivo:
+  yo:
+    - nublara
+    - nublase
+  tu:
+    - nublaras
+    - nublases
+  vos:
+    - nublaras
+    - nublases
+  ud:
+    - nublara
+    - nublase
+  nosotros:
+    - nubláramos
+    - nublásemos
+  vosotros:
+    - nublarais
+    - nublaseis
+  uds:
+    - nublaran
+    - nublasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera nublado
+    - hubiese nublado
+  tu:
+    - hubieras nublado
+    - hubieses nublado
+  vos:
+    - hubieras nublado
+    - hubieses nublado
+  ud:
+    - hubiera nublado
+    - hubiese nublado
+  nosotros:
+    - hubiéramos nublado
+    - hubiésemos nublado
+  vosotros:
+    - hubierais nublado
+    - hubieseis nublado
+  uds:
+    - hubieran nublado
+    - hubiesen nublado
+imperativo:
+  tu: nubla
+  vos: nublá
+  ud: nuble
+  nosotros: nublemos
+  vosotros: nublad
+  uds: nublen

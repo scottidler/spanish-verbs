@@ -1,0 +1,142 @@
+infinitivo: exhalar
+gerundio: exhalando
+participio-pasado: exhalado
+presente-indicativo:
+  yo: exhale
+  tu: exhalas
+  vos: exhalas
+  ud: exhala
+  nosotros: exhalamos
+  vosotros: exhaláis
+  uds: exhalan
+preterito-perfecto-simple:
+  yo: exhalé
+  tu: exhalaste
+  vos: exhalaste
+  ud: exhaló
+  nosotros: exhalamos
+  vosotros: exhalasteis
+  uds: exhalaron
+preterito-imperfecto:
+  yo: exhalaba
+  tu: exhalabas
+  vos: exhalabas
+  ud: exhalaba
+  nosotros: exhalábamos
+  vosotros: exhalabais
+  uds: exhalaban
+futuro-simple:
+  yo: exhalaré
+  tu: exhalarás
+  vos: exhalarás
+  ud: exhalará
+  nosotros: exhalaremos
+  vosotros: exhalaréis
+  uds: exhalarán
+condicional-simple:
+  yo: exhalaría
+  tu: exhalarías
+  vos: exhalarías
+  ud: exhalaría
+  nosotros: exhalaríamos
+  vosotros: exhalaríais
+  uds: exhalarían
+presente-perfecto:
+  yo: he exhalado
+  tu: has exhalado
+  vos: has exhalado
+  ud: ha exhalado
+  nosotros: hemos exhalado
+  vosotros: habéis exhalado
+  uds: han exhalado
+preterito-pluscuamperfecto:
+  yo: había exhalado
+  tu: habías exhalado
+  vos: habías exhalado
+  ud: había exhalado
+  nosotros: habíamos exhalado
+  vosotros: habíais exhalado
+  uds: habían exhalado
+futuro-perfecto:
+  yo: habré exhalado
+  tu: habrás exhalado
+  vos: habrás exhalado
+  ud: habrá exhalado
+  nosotros: habremos exhalado
+  vosotros: habréis exhalado
+  uds: habrán exhalado
+condicional-perfecto:
+  yo: habría exhalado
+  tu: habrías exhalado
+  vos: habrías exhalado
+  ud: habría exhalado
+  nosotros: habríamos exhalado
+  vosotros: habríais exhalado
+  uds: habrían exhalado
+presente-subjuntivo:
+  yo: exhale
+  tu: exhales
+  vos: exhales
+  ud: exhale
+  nosotros: exhalemos
+  vosotros: exhaleis
+  uds: exhalen
+preterito-perfecto-subjuntivo:
+  yo: haya exhalado
+  tu: hayas exhalado
+  vos: hayas exhalado
+  ud: haya exhalado
+  nosotros: hayamos exhalado
+  vosotros: hayáis exhalado
+  uds: hayan exhalado
+imperfecto-subjuntivo:
+  yo:
+    - exhalara
+    - exhalase
+  tu:
+    - exhalaras
+    - exhalses
+  vos:
+    - exhalaras
+    - exhalses
+  ud:
+    - exhalara
+    - expalase
+  nosotros:
+    - exhaláramos
+    - exhalásemos
+  vosotros:
+    - exhalarais
+    - exhalaseis
+  uds:
+    - exhalara
+    - exhalsen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera exhalado
+    - hubiese exhalado
+  tu:
+    - hubieras exhalado
+    - hubieses exhalado
+  vos:
+    - hubieras exhalado
+    - hubieses exhalado
+  ud:
+    - hubiera exhalado
+    - hubiese exhalado
+  nosotros:
+    - hubiéramos exhalado
+    - hubiésemos exhalado
+  vosotros:
+    - hubierais exhalado
+    - hubieseis exhalado
+  uds:
+    - hubieran exhalado
+    - hubiesen exhalado
+imperativo:
+  tu: exhala
+  vos: exhalá
+  ud: exhale
+  nosotros: exhalemos
+  vosotros: exhalad
+  uds: exhalen

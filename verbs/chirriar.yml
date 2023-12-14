@@ -1,0 +1,142 @@
+infinitivo: chirriar
+gerundio: chirriando
+participio-pasado: chirriado
+presente-indicativo:
+  yo: chirrio
+  tu: chirrias
+  vos: chirrias
+  ud: chirria
+  nosotros: chirriamos
+  vosotros: chirriáis
+  uds: chirrian
+preterito-perfecto-simple:
+  yo: chirrié
+  tu: chirriaste
+  vos: chirriaste
+  ud: chirrió
+  nosotros: chirriamos
+  vosotros: chirriasteis
+  uds: chirriaron
+preterito-imperfecto:
+  yo: chirriaba
+  tu: chirriabas
+  vos: chirriabas
+  ud: chirriaba
+  nosotros: chirriábamos
+  vosotros: chirriabais
+  uds: chirriaban
+futuro-simple:
+  yo: chirriaré
+  tu: chirriarás
+  vos: chirriarás
+  ud: chirriará
+  nosotros: chirriaremos
+  vosotros: chirriaréis
+  uds: chirriarán
+condicional-simple:
+  yo: chirriaría
+  tu: chirriarías
+  vos: chirriarías
+  ud: chirriaría
+  nosotros: chirriaríamos
+  vosotros: chirriaríais
+  uds: chirriarían
+presente-perfecto:
+  yo: he chirriado
+  tu: has chirriado
+  vos: has chirriado
+  ud: ha chirriado
+  nosotros: hemos chirriado
+  vosotros: habéis chirriado
+  uds: han chirriado
+preterito-pluscuamperfecto:
+  yo: había chirriado
+  tu: habías chirriado
+  vos: habías chirriado
+  ud: había chirriado
+  nosotros: habíamos chirriado
+  vosotros: habíais chirriado
+  uds: habían chirriado
+futuro-perfecto:
+  yo: habré chirriado
+  tu: habrás chirriado
+  vos: habrás chirriado
+  ud: habrá chirriado
+  nosotros: habremos chirriado
+  vosotros: habréis chirriado
+  uds: habrán chirriado
+condicional-perfecto:
+  yo: habría chirriado
+  tu: habrías chirriado
+  vos: habrías chirriado
+  ud: habría chirriado
+  nosotros: habríamos chirriado
+  vosotros: habríais chirriado
+  uds: habrían chirriado
+presente-subjuntivo:
+  yo: chirrie
+  tu: chirries
+  vos: chirries
+  ud: chirrie
+  nosotros: chirriemos
+  vosotros: chirriéis
+  uds: chirrien
+preterito-perfecto-subjuntivo:
+  yo: haya chirriado
+  tu: hayas chirriado
+  vos: hayas chirriado
+  ud: haya chirriado
+  nosotros: hayamos chirriado
+  vosotros: hayáis chirriado
+  uds: hayan chirriado
+imperfecto-subjuntivo:
+  yo:
+    - chirriara
+    - chirriase
+  tu:
+    - chirriaras
+    - chirriases
+  vos:
+    - chirriaras
+    - chirriases
+  ud:
+    - chirriara
+    - chirriase
+  nosotros:
+    - chirriáramos
+    - chirriásemos
+  vosotros:
+    - chirriarais
+    - chirriaseis
+  uds:
+    - chirriaran
+    - chirriasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera chirriado
+    - hubiese chirriado
+  tu:
+    - hubieras chirriado
+    - hubieses chirriado
+  vos:
+    - hubieras chirriado
+    - hubieses chirriado
+  ud:
+    - hubiera chirriado
+    - hubiese chirriado
+  nosotros:
+    - hubiéramos chirriado
+    - hubiésemos chirriado
+  vosotros:
+    - hubierais chirriado
+    - hubieseis chirriado
+  uds:
+    - hubieran chirriado
+    - hubiesen chirriado
+imperativo:
+  tu: chirria
+  vos: chirriá
+  ud: chirrie
+  nosotros: chirriemos
+  vosotros: chirriad
+  uds: chirrien

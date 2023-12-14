@@ -1,0 +1,142 @@
+infinitivo: introducirse
+gerundio: introduciéndose
+participio-pasado: introducido
+presente-indicativo:
+  yo: me introduzco
+  tu: te introduces
+  vos: te introduces
+  ud: se introduce
+  nosotros: nos introducimos
+  vosotros: os introducís
+  uds: se introducen
+preterito-perfecto-simple:
+  yo: me introduje
+  tu: te introdujiste
+  vos: te introdujiste
+  ud: se introdujo
+  nosotros: nos introdujimos
+  vosotros: os introdujisteis
+  uds: se introdujeron
+preterito-imperfecto:
+  yo: me introducía
+  tu: te introducías
+  vos: te introducías
+  ud: se introducía
+  nosotros: nos introducíamos
+  vosotros: os introducíais
+  uds: se introducían
+futuro-simple:
+  yo: me introduciré
+  tu: te introducirás
+  vos: te introducirás
+  ud: se introducirá
+  nosotros: nos introduciremos
+  vosotros: os introduciréis
+  uds: se introducirán
+condicional-simple:
+  yo: me introduciría
+  tu: te introducirías
+  vos: te introducirías
+  ud: se introduciría
+  nosotros: nos introduciríamos
+  vosotros: os introduciríais
+  uds: se introducirían
+presente-perfecto:
+  yo: me he introducido
+  tu: te has introducido
+  vos: te has introducido
+  ud: se ha introducido
+  nosotros: nos hemos introducido
+  vosotros: os habéis introducido
+  uds: se han introducido
+preterito-pluscuamperfecto:
+  yo: me había introducido
+  tu: te habías introducido
+  vos: te habías introducido
+  ud: se había introducido
+  nosotros: nos habíamos introducido
+  vosotros: os habíais introducido
+  uds: se habían introducido
+futuro-perfecto:
+  yo: me habré introducido
+  tu: te habrás introducido
+  vos: te habrás introducido
+  ud: se habrá introducido
+  nosotros: nos habremos introducido
+  vosotros: os habréis introducido
+  uds: se habrán introducido
+condicional-perfecto:
+  yo: me habría introducido
+  tu: te habrías introducido
+  vos: te habrías introducido
+  ud: se habría introducido
+  nosotros: nos habríamos introducido
+  vosotros: os habríais introducido
+  uds: se habrían introducido
+presente-subjuntivo:
+  yo: me introduzca
+  tu: te introduzcas
+  vos: te introduzcas
+  ud: se introduzca
+  nosotros: nos introduzcamos
+  vosotros: os introduzcáis
+  uds: se introduzcan
+preterito-perfecto-subjuntivo:
+  yo: me haya introducido
+  tu: te hayas introducido
+  vos: te hayas introducido
+  ud: se haya introducido
+  nosotros: nos hayamos introducido
+  vosotros: os hayáis introducido
+  uds: se hayan introducido
+imperfecto-subjuntivo:
+  yo:
+    - me introdujera
+    - me introdujese
+  tu:
+    - te introdujeras
+    - te introdujeses
+  vos:
+    - te introdujeras
+    - te introdujeses
+  ud:
+    - se introdujera
+    - se introdujese
+  nosotros:
+    - nos introdujéramos
+    - nos introdujésemos
+  vosotros:
+    - os introdujerais
+    - os introdujeseis
+  uds:
+    - se introdujeran
+    - se introdujesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera introducido
+    - me hubiese introducido
+  tu:
+    - te hubieras introducido
+    - te hubieses introducido
+  vos:
+    - te hubieras introducido
+    - te hubieses introducido
+  ud:
+    - se hubiera introducido
+    - se hubiese introducido
+  nosotros:
+    - nos hubiéramos introducido
+    - nos hubiésemos introducido
+  vosotros:
+    - os hubierais introducido
+    - os hubieseis introducido
+  uds:
+    - se hubieran introducido
+    - se hubiesen introducido
+imperativo:
+  tu: introdúcete
+  vos: introdúcete
+  ud: introdúzcase
+  nosotros: introduzcámonos
+  vosotros: introduciros
+  uds: introdúzcanse

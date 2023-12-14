@@ -1,0 +1,142 @@
+infinitivo: perturbar
+gerundio: perturbando
+participio-pasado: perturbado
+presente-indicativo:
+  yo: perturbo
+  tu: perturbas
+  vos: perturbas
+  ud: perturba
+  nosotros: perturbamos
+  vosotros: perturbáis
+  uds: perturban
+preterito-perfecto-simple:
+  yo: perturbé
+  tu: perturbaste
+  vos: perturbaste
+  ud: perturbó
+  nosotros: perturbamos
+  vosotros: perturbasteis
+  uds: perturbaron
+preterito-imperfecto:
+  yo: perturbaba
+  tu: perturbabas
+  vos: perturbabas
+  ud: perturbaba
+  nosotros: perturbábamos
+  vosotros: perturbabais
+  uds: perturbaban
+futuro-simple:
+  yo: perturbaré
+  tu: perturbarás
+  vos: perturbarás
+  ud: perturbará
+  nosotros: perturbaremos
+  vosotros: perturbaréis
+  uds: perturbarán
+condicional-simple:
+  yo: perturbaría
+  tu: perturbarías
+  vos: perturbarías
+  ud: perturbaría
+  nosotros: perturbaríamos
+  vosotros: perturbaríais
+  uds: perturbarían
+presente-perfecto:
+  yo: he perturbado
+  tu: has perturbado
+  vos: has perturbado
+  ud: ha perturbado
+  nosotros: hemos perturbado
+  vosotros: habéis perturbado
+  uds: han perturbado
+preterito-pluscuamperfecto:
+  yo: había perturbado
+  tu: habías perturbado
+  vos: habías perturbado
+  ud: había perturbado
+  nosotros: habíamos perturbado
+  vosotros: habíais perturbado
+  uds: habían perturbado
+futuro-perfecto:
+  yo: habré perturbado
+  tu: habrás perturbado
+  vos: habrás perturbado
+  ud: habrá perturbado
+  nosotros: habremos perturbado
+  vosotros: habréis perturbado
+  uds: habrán perturbado
+condicional-perfecto:
+  yo: habría perturbado
+  tu: habrías perturbado
+  vos: habrías perturbado
+  ud: habría perturbado
+  nosotros: habríamos perturbado
+  vosotros: habríais perturbado
+  uds: habrían perturbado
+presente-subjuntivo:
+  yo: perturbe
+  tu: perturbes
+  vos: perturbes
+  ud: perturbe
+  nosotros: perurbemos
+  vosotros: perturbéis
+  uds: perturben
+preterito-perfecto-subjuntivo:
+  yo: haya perturbado
+  tu: hayas perturbado
+  vos: hayas perturbado
+  ud: haya perturbado
+  nosotros: hayamos perturbado
+  vosotros: hayáis perturbado
+  uds: hayan perturbado
+imperfecto-subjuntivo:
+  yo:
+    - perturbara
+    - perturbase
+  tu:
+    - perturbaras
+    - perturbases
+  vos:
+    - perturbaras
+    - perturbases
+  ud:
+    - perturbara
+    - perturbase
+  nosotros:
+    - perturbáramos
+    - perturbásemos
+  vosotros:
+    - perturbarais
+    - perturbaseis
+  uds:
+    - perturbaran
+    - perturbasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera perturbado
+    - hubiese perturbado
+  tu:
+    - hubieras perturbado
+    - hubieses perturbado
+  vos:
+    - hubieras perturbado
+    - hubieses perturbado
+  ud:
+    - hubiera perturbado
+    - hubiese perturbado
+  nosotros:
+    - hubiéramos perturbado
+    - hubiésemos perturbado
+  vosotros:
+    - hubierais perturbado
+    - hubieseis perturbado
+  uds:
+    - hubieran perturbado
+    - hubiesen perturbado
+imperativo:
+  tu: perturba
+  vos: perturbá
+  ud: perturbe
+  nosotros: perturbemos
+  vosotros: perturbad
+  uds: perturben

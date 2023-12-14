@@ -1,0 +1,142 @@
+infinitivo: repartir
+gerundio: repartiendo
+participio-pasado: repartido
+presente-indicativo:
+  yo: reparto
+  tu: repartes
+  vos: repartes
+  ud: reparte
+  nosotros: repartimos
+  vosotros: repartís
+  uds: reparten
+preterito-perfecto-simple:
+  yo: repartí
+  tu: repartiste
+  vos: repartiste
+  ud: repartió
+  nosotros: repartimos
+  vosotros: repartisteis
+  uds: repartieron
+preterito-imperfecto:
+  yo: repartía
+  tu: repartías
+  vos: repartías
+  ud: repartía
+  nosotros: repartíamos
+  vosotros: repartíais
+  uds: repartían
+futuro-simple:
+  yo: repartiré
+  tu: repartirás
+  vos: repartirás
+  ud: repartirá
+  nosotros: repartiremos
+  vosotros: repartiréis
+  uds: repartirán
+condicional-simple:
+  yo: repartiría
+  tu: repartirías
+  vos: repartirías
+  ud: repartiría
+  nosotros: repartiríamos
+  vosotros: repartiríais
+  uds: repartirían
+presente-perfecto:
+  yo: he repartido
+  tu: has repartido
+  vos: has repartido
+  ud: ha repartido
+  nosotros: hemos repartido
+  vosotros: habéis repartido
+  uds: han repartido
+preterito-pluscuamperfecto:
+  yo: había repartido
+  tu: habías repartido
+  vos: habías repartido
+  ud: había repartido
+  nosotros: habíamos repartido
+  vosotros: habíais repartido
+  uds: habían repartido
+futuro-perfecto:
+  yo: habré repartido
+  tu: habrás repartido
+  vos: habrás repartido
+  ud: habrá repartido
+  nosotros: habremos repartido
+  vosotros: habréis repartido
+  uds: habrán repartido
+condicional-perfecto:
+  yo: habría repartido
+  tu: habrías repartido
+  vos: habrías repartido
+  ud: habría repartido
+  nosotros: habríamos repartido
+  vosotros: habríais repartido
+  uds: habrían repartido
+presente-subjuntivo:
+  yo: reparta
+  tu: repartas
+  vos: repartas
+  ud: reparta
+  nosotros: repartamos
+  vosotros: repartáis
+  uds: repartan
+preterito-perfecto-subjuntivo:
+  yo: haya repartido
+  tu: hayas repartido
+  vos: hayas repartido
+  ud: haya repartido
+  nosotros: hayamos repartido
+  vosotros: hayáis repartido
+  uds: hayan repartido
+imperfecto-subjuntivo:
+  yo:
+    - repartiera
+    - repartiese
+  tu:
+    - repartieras
+    - repartieses
+  vos:
+    - repartieras
+    - repartieses
+  ud:
+    - repartiera
+    - repartiese
+  nosotros:
+    - repartiéramos
+    - repartiésemos
+  vosotros:
+    - repartierais
+    - repartieseis
+  uds:
+    - repartieran
+    - repartiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera repartido
+    - hubiese repartido
+  tu:
+    - hubieras repartido
+    - hubieses repartido
+  vos:
+    - hubieras repartido
+    - hubieses repartido
+  ud:
+    - hubiera repartido
+    - hubiese repartido
+  nosotros:
+    - hubiéramos repartido
+    - hubiésemos repartido
+  vosotros:
+    - hubierais repartido
+    - hubieseis repartido
+  uds:
+    - hubieran repartido
+    - hubiesen repartido
+imperativo:
+  tu: reparte
+  vos: repartí
+  ud: reparta
+  nosotros: repartamos
+  vosotros: repartid
+  uds: repartan

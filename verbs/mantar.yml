@@ -1,0 +1,142 @@
+infinitivo: manta
+gerundio: mantando
+participio-pasado: mantado
+presente-indicativo:
+  yo: manto
+  tu: mantas
+  vos: mantas
+  ud: manta
+  nosotros: mantamos
+  vosotros: mantáis
+  uds: mantan
+preterito-perfecto-simple:
+  yo: manté
+  tu: mantaste
+  vos: mantaste
+  ud: mantó
+  nosotros: mantamos
+  vosotros: mantasteis
+  uds: mantaron
+preterito-imperfecto:
+  yo: mantaba
+  tu: mantabas
+  vos: mantabas
+  ud: mantaba
+  nosotros: mantábamos
+  vosotros: mantabais
+  uds: mantaban
+futuro-simple:
+  yo: mantaré
+  tu: mantarás
+  vos: mantarás
+  ud: mantará
+  nosotros: mantaremos
+  vosotros: mantaréis
+  uds: mantarán
+condicional-simple:
+  yo: mantaría
+  tu: mantarías
+  vos: mantarías
+  ud: mantaría
+  nosotros: mantaríamos
+  vosotros: mantaríais
+  uds: mantarían
+presente-perfecto:
+  yo: he mantado
+  tu: has mantado
+  vos: has mantado
+  ud: ha mantado
+  nosotros: hemos mantado
+  vosotros: habéis mantado
+  uds: han mantado
+preterito-pluscuamperfecto:
+  yo: había mantado
+  tu: habías mantado
+  vos: habías mantado
+  ud: había mantado
+  nosotros: habíamos mantado
+  vosotros: habíais mantado
+  uds: habían mantado
+futuro-perfecto:
+  yo: habré mantado
+  tu: habrás mantado
+  vos: habrás mantado
+  ud: habrá mantado
+  nosotros: habremos mantado
+  vosotros: habréis mantado
+  uds: habrán mantado
+condicional-perfecto:
+  yo: habría mantado
+  tu: habrías mantado
+  vos: habrías mantado
+  ud: habría mantado
+  nosotros: habríamos mantado
+  vosotros: habríais mantado
+  uds: habrían mantado
+presente-subjuntivo:
+  yo: mante
+  tu: mantes
+  vos: mantes
+  ud: mante
+  nosotros: mantemos
+  vosotros: mantéis
+  uds: manten
+preterito-perfecto-subjuntivo:
+  yo: haya mantado
+  tu: hayas mantado
+  vos: hayas mantado
+  ud: haya mantado
+  nosotros: hayamos mantado
+  vosotros: hayáis mantado
+  uds: hayan mantado
+imperfecto-subjuntivo:
+  yo:
+    - mantara
+    - mantase
+  tu:
+    - mantaras
+    - mantases
+  vos:
+    - mantaras
+    - mantases
+  ud:
+    - mantara
+    - mantase
+  nosotros:
+    - mantáramos
+    - mantásemos
+  vosotros:
+    - mantarais
+    - mantaseis
+  uds:
+    - mantaran
+    - mantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mantado
+    - hubiese mantado
+  tu:
+    - hubieras mantado
+    - hubieses mantado
+  vos:
+    - hubieras mantado
+    - hubieses mantado
+  ud:
+    - hubiera mantado
+    - hubiese mantado
+  nosotros:
+    - hubiéramos mantado
+    - hubiésemos mantado
+  vosotros:
+    - hubierais mantado
+    - hubieseis mantado
+  uds:
+    - hubieran mantado
+    - hubiesen mantado
+imperativo:
+  tu: manta
+  vos: mantá
+  ud: mante
+  nosotros: mantemos
+  vosotros: mantad
+  uds: manten

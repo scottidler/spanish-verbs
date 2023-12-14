@@ -1,0 +1,142 @@
+infinitivo: sonrojar
+gerundio: sonrojando
+participio-pasado: sonrojado
+presente-indicativo:
+  yo: sonrojo
+  tu: sonrojas
+  vos: sonrojás
+  ud: sonroja
+  nosotros: sonrojamos
+  vosotros: sonrojáis
+  uds: sonrojan
+preterito-perfecto-simple:
+  yo: sonrojé
+  tu: sonrojaste
+  vos: sonrojaste
+  ud: sonrojó
+  nosotros: sonrojamos
+  vosotros: sonrojasteis
+  uds: sonrojaron
+preterito-imperfecto:
+  yo: sonrojaba
+  tu: sonrojabas
+  vos: sonrojabas
+  ud: sonrojaba
+  nosotros: sonrojábamos
+  vosotros: sonrojabais
+  uds: sonrojaban
+futuro-simple:
+  yo: sonrojaré
+  tu: sonrojarás
+  vos: sonrojarás
+  ud: sonrojará
+  nosotros: sonrojaremos
+  vosotros: sonrojaréis
+  uds: sonrojarán
+condicional-simple:
+  yo: sonrojaría
+  tu: sonrojarías
+  vos: sonrojarías
+  ud: sonrojaría
+  nosotros: sonrojaríamos
+  vosotros: sonrojaríais
+  uds: sonrojarían
+presente-perfecto:
+  yo: he sonrojado
+  tu: has sonrojado
+  vos: has sonrojado
+  ud: ha sonrojado
+  nosotros: hemos sonrojado
+  vosotros: habéis sonrojado
+  uds: han sonrojado
+preterito-pluscuamperfecto:
+  yo: había sonrojado
+  tu: habías sonrojado
+  vos: habías sonrojado
+  ud: había sonrojado
+  nosotros: habíamos sonrojado
+  vosotros: habíais sonrojado
+  uds: habían sonrojado
+futuro-perfecto:
+  yo: habré sonrojado
+  tu: habrás sonrojado
+  vos: habrás sonrojado
+  ud: habrá sonrojado
+  nosotros: habremos sonrojado
+  vosotros: habréis sonrojado
+  uds: habrán sonrojado
+condicional-perfecto:
+  yo: habría sonrojado
+  tu: habrías sonrojado
+  vos: habrías sonrojado
+  ud: habría sonrojado
+  nosotros: habríamos sonrojado
+  vosotros: habríais sonrojado
+  uds: habrían sonrojado
+presente-subjuntivo:
+  yo: sonroje
+  tu: sonrojes
+  vos: sonrojes
+  ud: sonroje
+  nosotros: sonrojemos
+  vosotros: sonrojéis
+  uds: sonrojen
+preterito-perfecto-subjuntivo:
+  yo: haya sonrojado
+  tu: hayas sonrojado
+  vos: hayas sonrojado
+  ud: haya sonrojado
+  nosotros: hayamos sonrojado
+  vosotros: hayáis sonrojado
+  uds: hayan sonrojado
+imperfecto-subjuntivo:
+  yo:
+    - sonrojara
+    - sonrojase
+  tu:
+    - sonrojaras
+    - sonrojases
+  vos:
+    - sonrojaras
+    - sonrojases
+  ud:
+    - sonrojara
+    - sonrojase
+  nosotros:
+    - sonrojáramos
+    - sonrojásemos
+  vosotros:
+    - sonrojarais
+    - sonrojaseis
+  uds:
+    - sonrojaran
+    - sonrojasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sonrojado
+    - hubiese sonrojado
+  tu:
+    - hubieras sonrojado
+    - hubieses sonrojado
+  vos:
+    - hubieras sonrojado
+    - hubieses sonrojado
+  ud:
+    - hubiera sonrojado
+    - hubiese sonrojado
+  nosotros:
+    - hubiéramos sonrojado
+    - hubiésemos sonrojado
+  vosotros:
+    - hubierais sonrojado
+    - hubieseis sonrojado
+  uds:
+    - hubieran sonrojado
+    - hubiesen sonrojado
+imperativo:
+  tu: sonroja
+  vos: sonrojá
+  ud: sonroje
+  nosotros: sonrojemos
+  vosotros: sonrojad
+  uds: sonrojen

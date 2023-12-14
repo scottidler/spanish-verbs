@@ -1,0 +1,142 @@
+infinitivo: nombrar
+gerundio: nombrando
+participio-pasado: nombrado
+presente-indicativo:
+  yo: nombro
+  tu: nombras
+  vos: nombras
+  ud: nombra
+  nosotros: nombramos
+  vosotros: nombráis
+  uds: nombran
+preterito-perfecto-simple:
+  yo: nombré
+  tu: nombraste
+  vos: nombraste
+  ud: nombró
+  nosotros: nombramos
+  vosotros: nombrasteis
+  uds: nombraron
+preterito-imperfecto:
+  yo: nombraba
+  tu: nombrabas
+  vos: nombrabas
+  ud: nombraba
+  nosotros: nombrábamos
+  vosotros: nombrabais
+  uds: nombraban
+futuro-simple:
+  yo: nombraré
+  tu: nombrarás
+  vos: nombrarás
+  ud: nombrará
+  nosotros: nombraremos
+  vosotros: nombraréis
+  uds: nombrarán
+condicional-simple:
+  yo: nombraría
+  tu: nombrarías
+  vos: nombrarías
+  ud: nombraría
+  nosotros: nombraríamos
+  vosotros: nombraríais
+  uds: nombrarían
+presente-perfecto:
+  yo: he nombrado
+  tu: has nombrado
+  vos: has nombrado
+  ud: ha nombrado
+  nosotros: hemos nombrado
+  vosotros: habéis nombrado
+  uds: han nombrado
+preterito-pluscuamperfecto:
+  yo: había nombrado
+  tu: habías nombrado
+  vos: habías nombrado
+  ud: había nombrado
+  nosotros: habíamos nombrado
+  vosotros: habíais nombrado
+  uds: habían nombrado
+futuro-perfecto:
+  yo: habré nombrado
+  tu: habrás nombrado
+  vos: habrás nombrado
+  ud: habrá nombrado
+  nosotros: habremos nombrado
+  vosotros: habréis nombrado
+  uds: habrán nombrado
+condicional-perfecto:
+  yo: habría nombrado
+  tu: habrías nombrado
+  vos: habrías nombrado
+  ud: habría nombrado
+  nosotros: habríamos nombrado
+  vosotros: habríais nombrado
+  uds: habrían nombrado
+presente-subjuntivo:
+  yo: nombre
+  tu: nombres
+  vos: nombres
+  ud: nombre
+  nosotros: nombremos
+  vosotros: nombréis
+  uds: nombren
+preterito-perfecto-subjuntivo:
+  yo: haya nombrado
+  tu: hayas nombrado
+  vos: hayas nombrado
+  ud: haya nombrado
+  nosotros: hayamos nombrado
+  vosotros: hayáis nombrado
+  uds: hayan nombrado
+imperfecto-subjuntivo:
+  yo:
+    - nombrara
+    - nombrase
+  tu:
+    - nombraras
+    - nombrases
+  vos:
+    - nombraras
+    - nombrases
+  ud:
+    - nombrara
+    - nombrase
+  nosotros:
+    - nombráramos
+    - nombrásemos
+  vosotros:
+    - nombrarais
+    - nombraseis
+  uds:
+    - nombraran
+    - nombrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera nombrado
+    - hubiese nombrado
+  tu:
+    - hubieras nombrado
+    - hubieses nombrado
+  vos:
+    - hubieras nombrado
+    - hubieses nombrado
+  ud:
+    - hubiera nombrado
+    - hubiese nombrado
+  nosotros:
+    - hubiéramos nombrado
+    - hubiésemos nombrado
+  vosotros:
+    - hubierais nombrado
+    - hubieseis nombrado
+  uds:
+    - hubieran nombrado
+    - hubiesen nombrado
+imperativo:
+  tu: nombra
+  vos: nombrá
+  ud: nombre
+  nosotros: nombremos
+  vosotros: nombrad
+  uds: nombren

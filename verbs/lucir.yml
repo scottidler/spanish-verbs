@@ -1,0 +1,142 @@
+infinitivo: lucir
+gerundio: luciendo
+participio-pasado: lucido
+presente-indicativo:
+  yo: luzco
+  tu: luces
+  vos: luces
+  ud: luce
+  nosotros: lucimos
+  vosotros: lucís
+  uds: lucen
+preterito-perfecto-simple:
+  yo: lucí
+  tu: luciste
+  vos: luciste
+  ud: lució
+  nosotros: lucimos
+  vosotros: lucisteis
+  uds: lucieron
+preterito-imperfecto:
+  yo: lucía
+  tu: lucías
+  vos: lucías
+  ud: lucía
+  nosotros: lucíamos
+  vosotros: lucíais
+  uds: lucían
+futuro-simple:
+  yo: luciré
+  tu: lucirás
+  vos: lucirás
+  ud: lucirá
+  nosotros: luciremos
+  vosotros: luciréis
+  uds: lucirán
+condicional-simple:
+  yo: luciría
+  tu: lucirías
+  vos: lucirías
+  ud: luciría
+  nosotros: luciríamos
+  vosotros: luciríais
+  uds: lucirían
+presente-perfecto:
+  yo: he lucido
+  tu: has lucido
+  vos: has lucido
+  ud: ha lucido
+  nosotros: hemos lucido
+  vosotros: habéis lucido
+  uds: han lucido
+preterito-pluscuamperfecto:
+  yo: había lucido
+  tu: habías lucido
+  vos: habías lucido
+  ud: había lucido
+  nosotros: habíamos lucido
+  vosotros: habíais lucido
+  uds: habían lucido
+futuro-perfecto:
+  yo: habré lucido
+  tu: habrás lucido
+  vos: habrás lucido
+  ud: habrá lucido
+  nosotros: habremos lucido
+  vosotros: habréis lucido
+  uds: habrán lucido
+condicional-perfecto:
+  yo: habría lucido
+  tu: habrías lucido
+  vos: habrías lucido
+  ud: habría lucido
+  nosotros: habríamos lucido
+  vosotros: habríais lucido
+  uds: habrían lucido
+presente-subjuntivo:
+  yo: luzca
+  tu: luzcas
+  vos: luzcas
+  ud: luzca
+  nosotros: luzcamos
+  vosotros: lucáis
+  uds: luzcan
+preterito-perfecto-subjuntivo:
+  yo: haya lucido
+  tu: hayas lucido
+  vos: hayas lucido
+  ud: haya lucido
+  nosotros: hayamos lucido
+  vosotros: hayáis lucido
+  uds: hayan lucido
+imperfecto-subjuntivo:
+  yo:
+    - luciera
+    - luciese
+  tu:
+    - lucieras
+    - lucieses
+  vos:
+    - lucieras
+    - lucieses
+  ud:
+    - luciera
+    - luciese
+  nosotros:
+    - luciéramos
+    - luciésemos
+  vosotros:
+    - lucierais
+    - lucieseis
+  uds:
+    - lucieran
+    - luciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera lucido
+    - hubiese lucido
+  tu:
+    - hubieras lucido
+    - hubieses lucido
+  vos:
+    - hubieras lucido
+    - hubieses lucido
+  ud:
+    - hubiera lucido
+    - hubiese lucido
+  nosotros:
+    - hubiéramos lucido
+    - hubiésemos lucido
+  vosotros:
+    - hubierais lucido
+    - hubieseis lucido
+  uds:
+    - hubieran lucido
+    - hubiesen lucido
+imperativo:
+  tu: luce
+  vos: lucí
+  ud: luzca
+  nosotros: luzcamos
+  vosotros: lucid
+  uds: luzcan

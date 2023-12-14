@@ -1,0 +1,142 @@
+infinitivo: invocar
+gerundio: invocando
+participio-pasado: invocado
+presente-indicativo:
+  yo: invoco
+  tu: invocas
+  vos: invocas
+  ud: invoca
+  nosotros: invocamos
+  vosotros: invocáis
+  uds: invocan
+preterito-perfecto-simple:
+  yo: invoqué
+  tu: invocaste
+  vos: invocaste
+  ud: invocó
+  nosotros: invocamos
+  vosotros: invocasteis
+  uds: invocaron
+preterito-imperfecto:
+  yo: invocaba
+  tu: invocabas
+  vos: invocabas
+  ud: invocaba
+  nosotros: invocábamos
+  vosotros: invocabais
+  uds: invocaban
+futuro-simple:
+  yo: invocaré
+  tu: invocarás
+  vos: invocarás
+  ud: invocará
+  nosotros: invocaremos
+  vosotros: invocaréis
+  uds: invocarán
+condicional-simple:
+  yo: invocaría
+  tu: invocarías
+  vos: invocarías
+  ud: invocaría
+  nosotros: invocaríamos
+  vosotros: invocaríais
+  uds: invocarían
+presente-perfecto:
+  yo: he invocado
+  tu: has invocado
+  vos: has invocado
+  ud: ha invocado
+  nosotros: hemos invocado
+  vosotros: habéis invocado
+  uds: han invocado
+preterito-pluscuamperfecto:
+  yo: había invocado
+  tu: habías invocado
+  vos: habías invocado
+  ud: había invocado
+  nosotros: habíamos invocado
+  vosotros: habíais invocado
+  uds: habían invocado
+futuro-perfecto:
+  yo: habré invocado
+  tu: habrás invocado
+  vos: habrás invocado
+  ud: habrá invocado
+  nosotros: habremos invocado
+  vosotros: habréis invocado
+  uds: habrán invocado
+condicional-perfecto:
+  yo: habría invocado
+  tu: habrías invocado
+  vos: habrías invocado
+  ud: habría invocado
+  nosotros: habríamos invocado
+  vosotros: habríais invocado
+  uds: habrían invocado
+presente-subjuntivo:
+  yo: invoque
+  tu: invoques
+  vos: invoques
+  ud: invoque
+  nosotros: invoquemos
+  vosotros: invocáis
+  uds: invoquen
+preterito-perfecto-subjuntivo:
+  yo: haya invocado
+  tu: hayas invocado
+  vos: hayas invocado
+  ud: haya invocado
+  nosotros: hayamos invocado
+  vosotros: hayáis invocado
+  uds: hayan invocado
+imperfecto-subjuntivo:
+  yo:
+    - invocara
+    - invocase
+  tu:
+    - invocaras
+    - invocases
+  vos:
+    - invocaras
+    - invocases
+  ud:
+    - invocara
+    - invocase
+  nosotros:
+    - invocáramos
+    - invocásemos
+  vosotros:
+    - invocarais
+    - invocaseis
+  uds:
+    - invocaran
+    - invocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera invocado
+    - hubiese invocado
+  tu:
+    - hubieras invocado
+    - hubieses invocado
+  vos:
+    - hubieras invocado
+    - hubieses invocado
+  ud:
+    - hubiera invocado
+    - hubiese invocado
+  nosotros:
+    - hubiéramos invocado
+    - hubiésemos invocado
+  vosotros:
+    - hubierais invocado
+    - hubieseis invocado
+  uds:
+    - hubieran invocado
+    - hubiesen invocado
+imperativo:
+  tu: invoca
+  vos: invocá
+  ud: invoque
+  nosotros: invoquemos
+  vosotros: invocad
+  uds: invoquen

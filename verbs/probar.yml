@@ -1,0 +1,142 @@
+infinitivo: probar
+gerundio: probando
+participio-pasado: probado
+presente-indicativo:
+  yo: pruebo
+  tu: pruebas
+  vos: probas
+  ud: prueba
+  nosotros: probamos
+  vosotros: probáis
+  uds: prueban
+preterito-perfecto-simple:
+  yo: probé
+  tu: probaste
+  vos: probaste
+  ud: probó
+  nosotros: probamos
+  vosotros: probasteis
+  uds: probaron
+preterito-imperfecto:
+  yo: probaba
+  tu: probabas
+  vos: probabas
+  ud: probaba
+  nosotros: probábamos
+  vosotros: probabais
+  uds: probaban
+futuro-simple:
+  yo: probaré
+  tu: probarás
+  vos: probarás
+  ud: probará
+  nosotros: probaremos
+  vosotros: probaréis
+  uds: probarán
+condicional-simple:
+  yo: probaría
+  tu: probarías
+  vos: probarías
+  ud: probaría
+  nosotros: probaríamos
+  vosotros: probaríais
+  uds: probarían
+presente-perfecto:
+  yo: he probado
+  tu: has probado
+  vos: has probado
+  ud: ha probado
+  nosotros: hemos probado
+  vosotros: habéis probado
+  uds: han probado
+preterito-pluscuamperfecto:
+  yo: había probado
+  tu: habías probado
+  vos: habías probado
+  ud: había probado
+  nosotros: habíamos probado
+  vosotros: habíais probado
+  uds: habían probado
+futuro-perfecto:
+  yo: habré probado
+  tu: habrás probado
+  vos: habrás probado
+  ud: habrá probado
+  nosotros: habremos probado
+  vosotros: habréis probado
+  uds: habrán probado
+condicional-perfecto:
+  yo: habría probado
+  tu: habrías probado
+  vos: habrías probado
+  ud: habría probado
+  nosotros: habríamos probado
+  vosotros: habríais probado
+  uds: habrían probado
+presente-subjuntivo:
+  yo: pruebe
+  tu: pruebes
+  vos: pruebes
+  ud: pruebe
+  nosotros: probemos
+  vosotros: probéis
+  uds: prueben
+preterito-perfecto-subjuntivo:
+  yo: haya probado
+  tu: hayas probado
+  vos: hayas probado
+  ud: haya probado
+  nosotros: hayamos probado
+  vosotros: hayáis probado
+  uds: hayan probado
+imperfecto-subjuntivo:
+  yo:
+    - probara
+    - probase
+  tu:
+    - probaras
+    - probase
+  vos:
+    - probaras
+    - probase
+  ud:
+    - probara
+    - probase
+  nosotros:
+    - probáramos
+    - probásemos
+  vosotros:
+    - probarais
+    - probaseis
+  uds:
+    - probaran
+    - probasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera probado
+    - hubiese probado
+  tu:
+    - hubieras probado
+    - hubieses probado
+  vos:
+    - hubieras probado
+    - hubieses probado
+  ud:
+    - hubiera probado
+    - hubiese probado
+  nosotros:
+    - hubiéramos probado
+    - hubiésemos probado
+  vosotros:
+    - hubierais probado
+    - hubieseis probado
+  uds:
+    - hubieran probado
+    - hubiesen probado
+imperativo:
+  tu: prueba
+  vos: probá
+  ud: pruebe
+  nosotros: probemos
+  vosotros: probad
+  uds: prueben

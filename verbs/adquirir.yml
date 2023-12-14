@@ -1,0 +1,142 @@
+infinitivo: adquirir
+gerundio: adquiriendo
+participio-pasado: adquirido
+presente-indicativo:
+  yo: adquiero
+  tu: adquieres
+  vos: adquirís
+  ud: adquiere
+  nosotros: adquirimos
+  vosotros: adquirís
+  uds: adquieren
+preterito-perfecto-simple:
+  yo: adquirí
+  tu: adquiriste
+  vos: adquiriste
+  ud: adquirió
+  nosotros: adquirimos
+  vosotros: adquiristeis
+  uds: adquirieron
+preterito-imperfecto:
+  yo: adquiría
+  tu: adquirías
+  vos: adquirías
+  ud: adquiría
+  nosotros: adquiríamos
+  vosotros: adquiríais
+  uds: adquirían
+futuro-simple:
+  yo: adquiriré
+  tu: adquirirás
+  vos: adquirirás
+  ud: adquirirá
+  nosotros: adquiriremos
+  vosotros: adquiriréis
+  uds: adquirirán
+condicional-simple:
+  yo: adquiriría
+  tu: adquirirías
+  vos: adquirirías
+  ud: adquiriría
+  nosotros: adquiriríamos
+  vosotros: adquiriríais
+  uds: adquirirían
+presente-perfecto:
+  yo: he adquirido
+  tu: has adquirido
+  vos: has adquirido
+  ud: ha adquirido
+  nosotros: hemos adquirido
+  vosotros: habéis adquirido
+  uds: han adquirido
+preterito-pluscuamperfecto:
+  yo: había adquirido
+  tu: habías adquirido
+  vos: habías adquirido
+  ud: había adquirido
+  nosotros: habíamos adquirido
+  vosotros: habíais adquirido
+  uds: habían adquirido
+futuro-perfecto:
+  yo: habré adquirido
+  tu: habrás adquirido
+  vos: habrás adquirido
+  ud: habrá adquirido
+  nosotros: habremos adquirido
+  vosotros: habréis adquirido
+  uds: habrán adquirido
+condicional-perfecto:
+  yo: habría adquirido
+  tu: habrías adquirido
+  vos: habrías adquirido
+  ud: habría adquirido
+  nosotros: habríamos adquirido
+  vosotros: habríais adquirido
+  uds: habrían adquirido
+presente-subjuntivo:
+  yo: adquiera
+  tu: adquieras
+  vos: adquieras
+  ud: adquiera
+  nosotros: adquiramos
+  vosotros: adquiráis
+  uds: adquieran
+preterito-perfecto-subjuntivo:
+  yo: haya adquirido
+  tu: hayas adquirido
+  vos: hayas adquirido
+  ud: haya adquirido
+  nosotros: hayamos adquirido
+  vosotros: hayáis adquirido
+  uds: hayan adquirido
+imperfecto-subjuntivo:
+  yo:
+    - adquiriera
+    - adquiriese
+  tu:
+    - adquirieras
+    - adquirieses
+  vos:
+    - adquirieras
+    - adquirieses
+  ud:
+    - adquiriera
+    - adquiriese
+  nosotros:
+    - adquiriéramos
+    - adquiriésemos
+  vosotros:
+    - adquirierais
+    - adquirieseis
+  uds:
+    - adquirieran
+    - adquiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera adquirido
+    - hubiese adquirido
+  tu:
+    - hubieras adquirido
+    - hubieses adquirido
+  vos:
+    - hubieras adquirido
+    - hubieses adquirido
+  ud:
+    - hubiera adquirido
+    - hubiese adquirido
+  nosotros:
+    - hubiéramos adquirido
+    - hubiésemos adquirido
+  vosotros:
+    - hubierais adquirido
+    - hubieseis adquirido
+  uds:
+    - hubieran adquirido
+    - hubiesen adquirido
+imperativo:
+  tu: adquiere
+  vos: adquirí
+  ud: adquiera
+  nosotros: adquiramos
+  vosotros: adquirid
+  uds: adquieran

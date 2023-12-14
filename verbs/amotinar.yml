@@ -1,0 +1,142 @@
+infinitivo: amotinar
+gerundio: amotinando
+participio-pasado: amotinado
+presente-indicativo:
+  yo: amotino
+  tu: amotinas
+  vos: amotinas
+  ud: amotina
+  nosotros: amotinamos
+  vosotros: amotináis
+  uds: amotinan
+preterito-perfecto-simple:
+  yo: amotiné
+  tu: amotinaste
+  vos: amotinaste
+  ud: amotinó
+  nosotros: amotinamos
+  vosotros: amotinasteis
+  uds: amotinaron
+preterito-imperfecto:
+  yo: amotinaba
+  tu: amotinabas
+  vos: amotinabas
+  ud: amotinaba
+  nosotros: amotinábamos
+  vosotros: amotinabais
+  uds: amotinaban
+futuro-simple:
+  yo: amotinaré
+  tu: amotinarás
+  vos: amotinarás
+  ud: amotinará
+  nosotros: amotinaremos
+  vosotros: amotinaréis
+  uds: amotinarán
+condicional-simple:
+  yo: amotinaría
+  tu: amotinarías
+  vos: amotinarías
+  ud: amotinaría
+  nosotros: amotinaríamos
+  vosotros: amotinaríais
+  uds: amotinarían
+presente-perfecto:
+  yo: he amotinado
+  tu: has amotinado
+  vos: has amotinado
+  ud: ha amotinado
+  nosotros: hemos amotinado
+  vosotros: habéis amotinado
+  uds: han amotinado
+preterito-pluscuamperfecto:
+  yo: había amotinado
+  tu: habías amotinado
+  vos: habías amotinado
+  ud: había amotinado
+  nosotros: habíamos amotinado
+  vosotros: habíais amotinado
+  uds: habían amotinado
+futuro-perfecto:
+  yo: habré amotinado
+  tu: habrás amotinado
+  vos: habrás amotinado
+  ud: habrá amotinado
+  nosotros: habremos amotinado
+  vosotros: habréis amotinado
+  uds: habrán amotinado
+condicional-perfecto:
+  yo: habría amotinado
+  tu: habrías amotinado
+  vos: habrías amotinado
+  ud: habría amotinado
+  nosotros: habríamos amotinado
+  vosotros: habríais amotinado
+  uds: habrían amotinado
+presente-subjuntivo:
+  yo: amotine
+  tu: amotines
+  vos: amotines
+  ud: amotine
+  nosotros: amotinemos
+  vosotros: amotinéis
+  uds: amotinen
+preterito-perfecto-subjuntivo:
+  yo: haya amotinado
+  tu: hayas amotinado
+  vos: hayas amotinado
+  ud: haya amotinado
+  nosotros: hayamos amotinado
+  vosotros: hayáis amotinado
+  uds: hayan amotinado
+imperfecto-subjuntivo:
+  yo:
+    - amotinara
+    - amotinase
+  tu:
+    - amotinaras
+    - amotinases
+  vos:
+    - amotinaras
+    - amotinases
+  ud:
+    - amotinara
+    - amotinase
+  nosotros:
+    - amotináramos
+    - amotinásemos
+  vosotros:
+    - amotinarais
+    - amotinaseis
+  uds:
+    - amotinaran
+    - amotinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera amotinado
+    - hubiese amotinado
+  tu:
+    - hubieras amotinado
+    - hubieses amotinado
+  vos:
+    - hubieras amotinado
+    - hubieses amotinado
+  ud:
+    - hubiera amotinado
+    - hubiese amotinado
+  nosotros:
+    - hubiéramos amotinado
+    - hubiésemos amotinado
+  vosotros:
+    - hubierais amotinado
+    - hubieseis amotinado
+  uds:
+    - hubieran amotinado
+    - hubiesen amotinado
+imperativo:
+  tu: amotina
+  vos: amotiná
+  ud: amotine
+  nosotros: amotinemos
+  vosotros: amotinad
+  uds: amotinen

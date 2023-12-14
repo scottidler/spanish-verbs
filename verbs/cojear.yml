@@ -1,0 +1,142 @@
+infinitivo: cojear
+gerundio: cojeando
+participio-pasado: cojeado
+presente-indicativo:
+  yo: cojeo
+  tu: cojeas
+  vos: cojeas
+  ud: cojea
+  nosotros: cojeamos
+  vosotros: cojeáis
+  uds: cojean
+preterito-perfecto-simple:
+  yo: cojeé
+  tu: cojeaste
+  vos: cojeaste
+  ud: cojeó
+  nosotros: cojeamos
+  vosotros: cojeasteis
+  uds: cojearon
+preterito-imperfecto:
+  yo: cojeaba
+  tu: cojeabas
+  vos: cojeabas
+  ud: cojeaba
+  nosotros: cojeábamos
+  vosotros: cojeabais
+  uds: cojeaban
+futuro-simple:
+  yo: cojearé
+  tu: cojearás
+  vos: cojearás
+  ud: cojeará
+  nosotros: cojearemos
+  vosotros: cojearéis
+  uds: cojearán
+condicional-simple:
+  yo: cojearía
+  tu: cojearías
+  vos: cojearías
+  ud: cojearía
+  nosotros: cojearíamos
+  vosotros: cojearíais
+  uds: cojearían
+presente-perfecto:
+  yo: he cojeado
+  tu: has cojeado
+  vos: has cojeado
+  ud: ha cojeado
+  nosotros: hemos cojeado
+  vosotros: habéis cojeado
+  uds: han cojeado
+preterito-pluscuamperfecto:
+  yo: había cojeado
+  tu: habías cojeado
+  vos: habías cojeado
+  ud: había cojeado
+  nosotros: habíamos cojeado
+  vosotros: habíais cojeado
+  uds: habían cojeado
+futuro-perfecto:
+  yo: habré cojeado
+  tu: habrás cojeado
+  vos: habrás cojeado
+  ud: habrá cojeado
+  nosotros: habremos cojeado
+  vosotros: habréis cojeado
+  uds: habrán cojeado
+condicional-perfecto:
+  yo: habría cojeado
+  tu: habrías cojeado
+  vos: habrías cojeado
+  ud: habría cojeado
+  nosotros: habríamos cojeado
+  vosotros: habríais cojeado
+  uds: habrían cojeado
+presente-subjuntivo:
+  yo: cojee
+  tu: cojees
+  vos: cojees
+  ud: cojee
+  nosotros: cojeemos
+  vosotros: cojeéis
+  uds: cojeen
+preterito-perfecto-subjuntivo:
+  yo: haya cojeado
+  tu: hayas cojeado
+  vos: hayas cojeado
+  ud: haya cojeado
+  nosotros: hayamos cojeado
+  vosotros: hayáis cojeado
+  uds: hayan cojeado
+imperfecto-subjuntivo:
+  yo:
+    - cojeara
+    - cojease
+  tu:
+    - cojearas
+    - cojeases
+  vos:
+    - cojearas
+    - cojeases
+  ud:
+    - cojeara
+    - cojease
+  nosotros:
+    - cojeáramos
+    - cojeásemos
+  vosotros:
+    - cojearais
+    - cojeaseis
+  uds:
+    - cojearan
+    - cojeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cojeado
+    - hubiese cojeado
+  tu:
+    - hubieras cojeado
+    - hubieses cojeado
+  vos:
+    - hubieras cojeado
+    - hubieses cojeado
+  ud:
+    - hubiera cojeado
+    - hubiese cojeado
+  nosotros:
+    - hubiéramos cojeado
+    - hubiésemos cojeado
+  vosotros:
+    - hubierais cojeado
+    - hubieseis cojeado
+  uds:
+    - hubieran cojeado
+    - hubiesen cojeado
+imperativo:
+  tu: cojea
+  vos: cojeá
+  ud: cojee
+  nosotros: cojeamos
+  vosotros: cojeád
+  uds: cojeen

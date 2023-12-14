@@ -1,0 +1,142 @@
+infinitivo: estrujar
+gerundio: estrujando
+participio-pasado: estrujado
+presente-indicativo:
+  yo: estrujo
+  tu: estrujas
+  vos: estrujas
+  ud: estruja
+  nosotros: estrujamos
+  vosotros: estrujáis
+  uds: estrujan
+preterito-perfecto-simple:
+  yo: estrujé
+  tu: estrujaste
+  vos: estrujaste
+  ud: estrujó
+  nosotros: estrujamos
+  vosotros: estrujasteis
+  uds: estrujaron
+preterito-imperfecto:
+  yo: estrujaba
+  tu: estrujabas
+  vos: estrujabas
+  ud: estrujaba
+  nosotros: estrujábamos
+  vosotros: estrujabais
+  uds: estrujaban
+futuro-simple:
+  yo: estrujaré
+  tu: estrujarás
+  vos: estrujarás
+  ud: estrujará
+  nosotros: estrujaremos
+  vosotros: estrujaréis
+  uds: estrujarán
+condicional-simple:
+  yo: estrujaría
+  tu: estrujarías
+  vos: estrujarías
+  ud: estrujaría
+  nosotros: estrujaríamos
+  vosotros: estrujaríais
+  uds: estrujarían
+presente-perfecto:
+  yo: he estrujado
+  tu: has estrujado
+  vos: has estrujado
+  ud: ha estrujado
+  nosotros: hemos estrujado
+  vosotros: habéis estrujado
+  uds: han estrujado
+preterito-pluscuamperfecto:
+  yo: había estrujado
+  tu: habías estrujado
+  vos: habías estrujado
+  ud: había estrujado
+  nosotros: habíamos estrujado
+  vosotros: habíais estrujado
+  uds: habían estrujado
+futuro-perfecto:
+  yo: habré estrujado
+  tu: habrás estrujado
+  vos: habrás estrujado
+  ud: habrá estrujado
+  nosotros: habremos estrujado
+  vosotros: habréis estrujado
+  uds: habrán estrujado
+condicional-perfecto:
+  yo: habría estrujado
+  tu: habrías estrujado
+  vos: habrías estrujado
+  ud: habría estrujado
+  nosotros: habríamos estrujado
+  vosotros: habríais estrujado
+  uds: habrían estrujado
+presente-subjuntivo:
+  yo: estruje
+  tu: estrujes
+  vos: estrujes
+  ud: estruje
+  nosotros: estrujemos
+  vosotros: estrujéis
+  uds: estrujen
+preterito-perfecto-subjuntivo:
+  yo: haya estrujado
+  tu: hayas estrujado
+  vos: hayas estrujado
+  ud: haya estrujado
+  nosotros: hayamos estrujado
+  vosotros: hayáis estrujado
+  uds: hayan estrujado
+imperfecto-subjuntivo:
+  yo:
+    - estrujara
+    - estrujase
+  tu:
+    - estrujaras
+    - estrujases
+  vos:
+    - estrujaras
+    - estrujases
+  ud:
+    - estrujara
+    - estrujase
+  nosotros:
+    - estrujáramos
+    - estrujásemos
+  vosotros:
+    - estrujarais
+    - estrujaseis
+  uds:
+    - estrujaran
+    - estrujasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estrujado
+    - hubiese estrujado
+  tu:
+    - hubieras estrujado
+    - hubieses estrujado
+  vos:
+    - hubieras estrujado
+    - hubieses estrujado
+  ud:
+    - hubiera estrujado
+    - hubiese estrujado
+  nosotros:
+    - hubiéramos estrujado
+    - hubiésemos estrujado
+  vosotros:
+    - hubierais estrujado
+    - hubieseis estrujado
+  uds:
+    - hubieran estrujado
+    - hubiesen estrujado
+imperativo:
+  tu: estruja
+  vos: estrujá
+  ud: estruje
+  nosotros: estrujemos
+  vosotros: estrujad
+  uds: estrujen

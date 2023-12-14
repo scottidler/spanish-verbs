@@ -1,0 +1,142 @@
+infinitivo: decretar
+gerundio: decretando
+participio-pasado: decretado
+presente-indicativo:
+  yo: decreto
+  tu: decretas
+  vos: decretas
+  ud: decreta
+  nosotros: decretamos
+  vosotros: decretáis
+  uds: decretan
+preterito-perfecto-simple:
+  yo: decreté
+  tu: decretaste
+  vos: decretaste
+  ud: decretó
+  nosotros: decretamos
+  vosotros: decretasteis
+  uds: decretaron
+preterito-imperfecto:
+  yo: decretaba
+  tu: decretabas
+  vos: decretabas
+  ud: decretaba
+  nosotros: decretábamos
+  vosotros: decretabais
+  uds: decretaban
+futuro-simple:
+  yo: decretaré
+  tu: decretarás
+  vos: decretarás
+  ud: decretará
+  nosotros: decretaremos
+  vosotros: decretaréis
+  uds: decretarán
+condicional-simple:
+  yo: decretaría
+  tu: decretarías
+  vos: decretarías
+  ud: decretaría
+  nosotros: decretaríamos
+  vosotros: decretaríais
+  uds: decretarían
+presente-perfecto:
+  yo: he decretado
+  tu: has decretado
+  vos: has decretado
+  ud: ha decretado
+  nosotros: hemos decretado
+  vosotros: habéis decretado
+  uds: han decretado
+preterito-pluscuamperfecto:
+  yo: había decretado
+  tu: habías decretado
+  vos: habías decretado
+  ud: había decretado
+  nosotros: habíamos decretado
+  vosotros: habíais decretado
+  uds: habían decretado
+futuro-perfecto:
+  yo: habré decretado
+  tu: habrás decretado
+  vos: habrás decretado
+  ud: habrá decretado
+  nosotros: habremos decretado
+  vosotros: habréis decretado
+  uds: habrán decretado
+condicional-perfecto:
+  yo: habría decretado
+  tu: habrías decretado
+  vos: habrías decretado
+  ud: habría decretado
+  nosotros: habríamos decretado
+  vosotros: habríais decretado
+  uds: habrían decretado
+presente-subjuntivo:
+  yo: decrete
+  tu: decretes
+  vos: decretes
+  ud: decrete
+  nosotros: decretemos
+  vosotros: decreteis
+  uds: decreten
+preterito-perfecto-subjuntivo:
+  yo: haya decretado
+  tu: hayas decretado
+  vos: hayas decretado
+  ud: haya decretado
+  nosotros: hayamos decretado
+  vosotros: hayáis decretado
+  uds: hayan decretado
+imperfecto-subjuntivo:
+  yo:
+    - decretara
+    - decretase
+  tu:
+    - decretaras
+    - decretases
+  vos:
+    - decretaras
+    - decretases
+  ud:
+    - decretara
+    - decretase
+  nosotros:
+    - decretáramos
+    - decretásemos
+  vosotros:
+    - decretarais
+    - decretaseis
+  uds:
+    - decretaran
+    - decretasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera decretado
+    - hubiese decretado
+  tu:
+    - hubieras decretado
+    - hubieses decretado
+  vos:
+    - hubieras decretado
+    - hubieses decretado
+  ud:
+    - hubiera decretado
+    - hubiese decretado
+  nosotros:
+    - hubiéramos decretado
+    - hubiésemos decretado
+  vosotros:
+    - hubierais decretado
+    - hubieseis decretado
+  uds:
+    - hubieran decretado
+    - hubiesen decretado
+imperativo:
+  tu: decreta
+  vos: decretá
+  ud: decrete
+  nosotros: decretemos
+  vosotros: decretad
+  uds: decreten

@@ -1,0 +1,142 @@
+infinitivo: proclamar
+gerundio: proclamando
+participio-pasado: proclamado
+presente-indicativo:
+  yo: proclamo
+  tu: proclamas
+  vos: proclamás
+  ud: proclama
+  nosotros: proclamamos
+  vosotros: proclamáis
+  uds: proclaman
+preterito-perfecto-simple:
+  yo: proclamé
+  tu: proclamaste
+  vos: proclamaste
+  ud: proclamó
+  nosotros: proclamamos
+  vosotros: proclamasteis
+  uds: proclamaron
+preterito-imperfecto:
+  yo: proclamaba
+  tu: proclamabas
+  vos: proclamabas
+  ud: proclamaba
+  nosotros: proclamábamos
+  vosotros: proclamabais
+  uds: proclamaban
+futuro-simple:
+  yo: proclamaré
+  tu: proclamarás
+  vos: proclamarás
+  ud: proclamará
+  nosotros: proclamaremos
+  vosotros: proclamaréis
+  uds: proclamarán
+condicional-simple:
+  yo: proclamaría
+  tu: proclamarías
+  vos: proclamarías
+  ud: proclamaría
+  nosotros: proclamaríamos
+  vosotros: proclamaríais
+  uds: proclamarían
+presente-perfecto:
+  yo: he proclamado
+  tu: has proclamado
+  vos: has proclamado
+  ud: ha proclamado
+  nosotros: hemos proclamado
+  vosotros: habéis proclamado
+  uds: han proclamado
+preterito-pluscuamperfecto:
+  yo: había proclamado
+  tu: habías proclamado
+  vos: habías proclamado
+  ud: había proclamado
+  nosotros: habíamos proclamado
+  vosotros: habíais proclamado
+  uds: habían proclamado
+futuro-perfecto:
+  yo: habré proclamado
+  tu: habrás proclamado
+  vos: habrás proclamado
+  ud: habrá proclamado
+  nosotros: habremos proclamado
+  vosotros: habréis proclamado
+  uds: habrán proclamado
+condicional-perfecto:
+  yo: habría proclamado
+  tu: habrías proclamado
+  vos: habrías proclamado
+  ud: habría proclamado
+  nosotros: habríamos proclamado
+  vosotros: habríais proclamado
+  uds: habrían proclamado
+presente-subjuntivo:
+  yo: proclame
+  tu: proclames
+  vos: proclamés
+  ud: proclame
+  nosotros: proclamemos
+  vosotros: proclaméis
+  uds: proclamen
+preterito-perfecto-subjuntivo:
+  yo: haya proclamado
+  tu: hayas proclamado
+  vos: hayas proclamado
+  ud: haya proclamado
+  nosotros: hayamos proclamado
+  vosotros: hayáis proclamado
+  uds: hayan proclamado
+imperfecto-subjuntivo:
+  yo:
+    - proclamara
+    - proclamase
+  tu:
+    - proclamaras
+    - proclamases
+  vos:
+    - proclamaras
+    - proclamases
+  ud:
+    - proclamara
+    - proclamase
+  nosotros:
+    - proclamáramos
+    - proclamásemos
+  vosotros:
+    - proclamarais
+    - proclamaseis
+  uds:
+    - proclamaran
+    - proclamasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera proclamado
+    - hubiese proclamado
+  tu:
+    - hubieras proclamado
+    - hubieses proclamado
+  vos:
+    - hubieras proclamado
+    - hubieses proclamado
+  ud:
+    - hubiera proclamado
+    - hubiese proclamado
+  nosotros:
+    - hubiéramos proclamado
+    - hubiésemos proclamado
+  vosotros:
+    - hubierais proclamado
+    - hubieseis proclamado
+  uds:
+    - hubieran proclamado
+    - hubiesen proclamado
+imperativo:
+  tu: proclama
+  vos: proclamá
+  ud: proclame
+  nosotros: proclamemos
+  vosotros: proclamad
+  uds: proclamen

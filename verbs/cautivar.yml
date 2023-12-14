@@ -1,0 +1,142 @@
+infinitivo: cautivar
+gerundio: cautivando
+participio-pasado: cautivado
+presente-indicativo:
+  yo: cautivo
+  tu: cautivas
+  vos: cautivas
+  ud: cautiva
+  nosotros: cautivamos
+  vosotros: cautiváis
+  uds: cautivan
+preterito-perfecto-simple:
+  yo: cautivé
+  tu: cautivaste
+  vos: cautivaste
+  ud: cautivó
+  nosotros: cautivamos
+  vosotros: cautivasteis
+  uds: cautivaron
+preterito-imperfecto:
+  yo: cautivaba
+  tu: cautivabas
+  vos: cautivabas
+  ud: cautivaba
+  nosotros: cautivábamos
+  vosotros: cautivabais
+  uds: cautivaban
+futuro-simple:
+  yo: cautivaré
+  tu: cautivarás
+  vos: cautivarás
+  ud: cautivará
+  nosotros: cautivaremos
+  vosotros: cautivaréis
+  uds: cautivarán
+condicional-simple:
+  yo: cautivaría
+  tu: cautivarías
+  vos: cautivarías
+  ud: cautivaría
+  nosotros: cautivaríamos
+  vosotros: cautivaríais
+  uds: cautivarían
+presente-perfecto:
+  yo: he cautivado
+  tu: has cautivado
+  vos: has cautivado
+  ud: ha cautivado
+  nosotros: hemos cautivado
+  vosotros: habéis cautivado
+  uds: han cautivado
+preterito-pluscuamperfecto:
+  yo: había cautivado
+  tu: habías cautivado
+  vos: habías cautivado
+  ud: había cautivado
+  nosotros: habíamos cautivado
+  vosotros: habíais cautivado
+  uds: habían cautivado
+futuro-perfecto:
+  yo: habré cautivado
+  tu: habrás cautivado
+  vos: habrás cautivado
+  ud: habrá cautivado
+  nosotros: habremos cautivado
+  vosotros: habréis cautivado
+  uds: habrán cautivado
+condicional-perfecto:
+  yo: habría cautivado
+  tu: habrías cautivado
+  vos: habrías cautivado
+  ud: habría cautivado
+  nosotros: habríamos cautivado
+  vosotros: habríais cautivado
+  uds: habrían cautivado
+presente-subjuntivo:
+  yo: cautive
+  tu: cautives
+  vos: cautives
+  ud: cautive
+  nosotros: cautivemos
+  vosotros: cautivéis
+  uds: cautiven
+preterito-perfecto-subjuntivo:
+  yo: haya cautivado
+  tu: hayas cautivado
+  vos: hayas cautivado
+  ud: haya cautivado
+  nosotros: hayamos cautivado
+  vosotros: hayáis cautivado
+  uds: hayan cautivado
+imperfecto-subjuntivo:
+  yo:
+    - cautivara
+    - cautivase
+  tu:
+    - cautivaras
+    - cautivases
+  vos:
+    - cautivaras
+    - cautivases
+  ud:
+    - cautivara
+    - cautivase
+  nosotros:
+    - cautiváramos
+    - cautivásemos
+  vosotros:
+    - cautivarais
+    - cautivaseis
+  uds:
+    - cautivaran
+    - cautivasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cautivado
+    - hubiese cautivado
+  tu:
+    - hubieras cautivado
+    - hubieses cautivado
+  vos:
+    - hubieras cautivado
+    - hubieses cautivado
+  ud:
+    - hubiera cautivado
+    - hubiese cautivado
+  nosotros:
+    - hubiéramos cautivado
+    - hubiésemos cautivado
+  vosotros:
+    - hubierais cautivado
+    - hubieseis cautivado
+  uds:
+    - hubieran cautivado
+    - hubiesen cautivado
+imperativo:
+  tu: cautiva
+  vos: cautivá
+  ud: cautive
+  nosotros: cautivemos
+  vosotros: cautivad
+  uds: cautiven

@@ -1,0 +1,142 @@
+infinitivo: convocar
+gerundio: convocando
+participio-pasado: convocado
+presente-indicativo:
+  yo: convoco
+  tu: convocas
+  vos: convocás
+  ud: convoca
+  nosotros: convocamos
+  vosotros: convocáis
+  uds: convocan
+preterito-perfecto-simple:
+  yo: convoqué
+  tu: convocaste
+  vos: convocaste
+  ud: convocó
+  nosotros: convocamos
+  vosotros: convocasteis
+  uds: convocaron
+preterito-imperfecto:
+  yo: convocaba
+  tu: convocabas
+  vos: convocabas
+  ud: convocaba
+  nosotros: convocábamos
+  vosotros: convocabais
+  uds: convocaban
+futuro-simple:
+  yo: convocaré
+  tu: convocarás
+  vos: convocarás
+  ud: convocará
+  nosotros: convocaremos
+  vosotros: convocaréis
+  uds: convocarán
+condicional-simple:
+  yo: convocaría
+  tu: convocarías
+  vos: convocarías
+  ud: convocaría
+  nosotros: convocaríamos
+  vosotros: convocaríais
+  uds: convocarían
+presente-perfecto:
+  yo: he convocado
+  tu: has convocado
+  vos: has convocado
+  ud: ha convocado
+  nosotros: hemos convocado
+  vosotros: habéis convocado
+  uds: han convocado
+preterito-pluscuamperfecto:
+  yo: había convocado
+  tu: habías convocado
+  vos: habías convocado
+  ud: había convocado
+  nosotros: habíamos convocado
+  vosotros: habíais convocado
+  uds: habían convocado
+futuro-perfecto:
+  yo: habré convocado
+  tu: habrás convocado
+  vos: habrás convocado
+  ud: habrá convocado
+  nosotros: habremos convocado
+  vosotros: habréis convocado
+  uds: habrán convocado
+condicional-perfecto:
+  yo: habría convocado
+  tu: habrías convocado
+  vos: habrías convocado
+  ud: habría convocado
+  nosotros: habríamos convocado
+  vosotros: habríais convocado
+  uds: habrían convocado
+presente-subjuntivo:
+  yo: convoque
+  tu: convoques
+  vos: convoques
+  ud: convoque
+  nosotros: convoquemos
+  vosotros: convoquéis
+  uds: convoquen
+preterito-perfecto-subjuntivo:
+  yo: haya convocado
+  tu: hayas convocado
+  vos: hayas convocado
+  ud: haya convocado
+  nosotros: hayamos convocado
+  vosotros: hayáis convocado
+  uds: hayan convocado
+imperfecto-subjuntivo:
+  yo:
+    - convocara
+    - convocase
+  tu:
+    - convocaras
+    - convocases
+  vos:
+    - convocaras
+    - convocases
+  ud:
+    - convocara
+    - convocase
+  nosotros:
+    - convocáramos
+    - convocásemos
+  vosotros:
+    - convocarais
+    - convocaseis
+  uds:
+    - convocaran
+    - convocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera convocado
+    - hubiese convocado
+  tu:
+    - hubieras convocado
+    - hubieses convocado
+  vos:
+    - hubieras convocado
+    - hubieses convocado
+  ud:
+    - hubiera convocado
+    - hubiese convocado
+  nosotros:
+    - hubiéramos convocado
+    - hubiésemos convocado
+  vosotros:
+    - hubierais convocado
+    - hubieseis convocado
+  uds:
+    - hubieran convocado
+    - hubiesen convocado
+imperativo:
+  tu: convoca
+  vos: convocá
+  ud: convoque
+  nosotros: convoquemos
+  vosotros: convocad
+  uds: convoquen

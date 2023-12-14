@@ -1,0 +1,142 @@
+infinitivo: esbozar
+gerundio: esbozando
+participio-pasado: esbozado
+presente-indicativo:
+  yo: esbozo
+  tu: esbozas
+  vos: esbozas
+  ud: esboza
+  nosotros: esbozamos
+  vosotros: esbozáis
+  uds: esbozan
+preterito-perfecto-simple:
+  yo: esbocé
+  tu: esbozaste
+  vos: esbozaste
+  ud: esbozó
+  nosotros: esbozamos
+  vosotros: esbozasteis
+  uds: esbozaron
+preterito-imperfecto:
+  yo: esbozaba
+  tu: esbozabas
+  vos: esbozabas
+  ud: esbozaba
+  nosotros: esbozábamos
+  vosotros: esbozabais
+  uds: esbozaban
+futuro-simple:
+  yo: esbozaré
+  tu: esbozarás
+  vos: esbozarás
+  ud: esbozará
+  nosotros: esbozaremos
+  vosotros: esbozaréis
+  uds: esbozarán
+condicional-simple:
+  yo: esbozaría
+  tu: esbozarías
+  vos: esbozarías
+  ud: esbozaría
+  nosotros: esbozaríamos
+  vosotros: esbozaríais
+  uds: esbozarían
+presente-perfecto:
+  yo: he esbozado
+  tu: has esbozado
+  vos: has esbozado
+  ud: ha esbozado
+  nosotros: hemos esbozado
+  vosotros: habéis esbozado
+  uds: han esbozado
+preterito-pluscuamperfecto:
+  yo: había esbozado
+  tu: habías esbozado
+  vos: habías esbozado
+  ud: había esbozado
+  nosotros: habíamos esbozado
+  vosotros: habíais esbozado
+  uds: habían esbozado
+futuro-perfecto:
+  yo: habré esbozado
+  tu: habrás esbozado
+  vos: habrás esbozado
+  ud: habrá esbozado
+  nosotros: habremos esbozado
+  vosotros: habréis esbozado
+  uds: habrán esbozado
+condicional-perfecto:
+  yo: habría esbozado
+  tu: habrías esbozado
+  vos: habrías esbozado
+  ud: habría esbozado
+  nosotros: habríamos esbozado
+  vosotros: habríais esbozado
+  uds: habrían esbozado
+presente-subjuntivo:
+  yo: esboce
+  tu: esboces
+  vos: esboces
+  ud: esboce
+  nosotros: esbocemos
+  vosotros: esbocéis
+  uds: esbocen
+preterito-perfecto-subjuntivo:
+  yo: haya esbozado
+  tu: hayas esbozado
+  vos: hayas esbozado
+  ud: haya esbozado
+  nosotros: hayamos esbozado
+  vosotros: hayáis esbozado
+  uds: hayan esbozado
+imperfecto-subjuntivo:
+  yo:
+    - esbozara
+    - esbozase
+  tu:
+    - esbozaras
+    - esbozases
+  vos:
+    - esbozaras
+    - esbozases
+  ud:
+    - esbozara
+    - esbozase
+  nosotros:
+    - esbozáramos
+    - esbozásemos
+  vosotros:
+    - esbozarais
+    - esbozaseis
+  uds:
+    - esbozaran
+    - esbozasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera esbozado
+    - hubiese esbozado
+  tu:
+    - hubieras esbozado
+    - hubieses esbozado
+  vos:
+    - hubieras esbozado
+    - hubieses esbozado
+  ud:
+    - hubiera esbozado
+    - hubiese esbozado
+  nosotros:
+    - hubiéramos esbozado
+    - hubiésemos esbozado
+  vosotros:
+    - hubierais esbozado
+    - hubieseis esbozado
+  uds:
+    - hubieran esbozado
+    - hubiesen esbozado
+imperativo:
+  tu: esboza
+  vos: esbozá
+  ud: esboce
+  nosotros: esbozcemos
+  vosotros: esbozad
+  uds: esbocen

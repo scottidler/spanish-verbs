@@ -1,0 +1,142 @@
+infinitivo: abuchear
+gerundio: abucheando
+participio-pasado: abucheado
+presente-indicativo:
+  yo: abucheo
+  tu: abucheas
+  vos: abucheas
+  ud: abuchea
+  nosotros: abucheamos
+  vosotros: abucheáis
+  uds: abuchean
+preterito-perfecto-simple:
+  yo: abuché
+  tu: abucheaste
+  vos: abuchaste
+  ud: abucheó
+  nosotros: abucheamos
+  vosotros: abucheasteis
+  uds: abuchearon
+preterito-imperfecto:
+  yo: abucheaba
+  tu: abucheabas
+  vos: abucheabas
+  ud: abucheaba
+  nosotros: abucheábamos
+  vosotros: abucheabais
+  uds: abucheaban
+futuro-simple:
+  yo: abuchearé
+  tu: abuchearás
+  vos: abuchearás
+  ud: abucheará
+  nosotros: abuchearemos
+  vosotros: abuchearéis
+  uds: abuchearán
+condicional-simple:
+  yo: abuchearía
+  tu: abuchearías
+  vos: abuchearías
+  ud: abuchearía
+  nosotros: abuchearíamos
+  vosotros: abuchearíais
+  uds: abuchearían
+presente-perfecto:
+  yo: he abucheado
+  tu: has abucheado
+  vos: has abucheado
+  ud: ha abucheado
+  nosotros: hemos abucheado
+  vosotros: habéis abucheado
+  uds: han abucheado
+preterito-pluscuamperfecto:
+  yo: había abucheado
+  tu: habías abucheado
+  vos: habías abucheado
+  ud: había abucheado
+  nosotros: habíamos abucheado
+  vosotros: habíais abucheado
+  uds: habían abucheado
+futuro-perfecto:
+  yo: habré abucheado
+  tu: habrás abucheado
+  vos: habrás abucheado
+  ud: habrá abucheado
+  nosotros: habremos abucheado
+  vosotros: habréis abucheado
+  uds: habrán abucheado
+condicional-perfecto:
+  yo: habría abucheado
+  tu: habrías abucheado
+  vos: habrías abucheado
+  ud: habría abucheado
+  nosotros: habríamos abucheado
+  vosotros: habríais abucheado
+  uds: habrían abucheado
+presente-subjuntivo:
+  yo: abuchee
+  tu: abuchees
+  vos: abuchees
+  ud: abuchee
+  nosotros: abuchemos
+  vosotros: abuchéis
+  uds: abucheen
+preterito-perfecto-subjuntivo:
+  yo: haya abucheado
+  tu: hayas abucheado
+  vos: hayas abucheado
+  ud: haya abucheado
+  nosotros: hayamos abucheado
+  vosotros: hayáis abucheado
+  uds: hayan abucheado
+imperfecto-subjuntivo:
+  yo:
+    - abucheara
+    - abuchease
+  tu:
+    - abuchearas
+    - abuchearses
+  vos:
+    - abuchearas
+    - abuchearses
+  ud:
+    - abucheara
+    - abuchease
+  nosotros:
+    - abucheáramos
+    - abucheásemos
+  vosotros:
+    - abucharais
+    - abuchearais
+  uds:
+    - abuchearan
+    - abuchearan
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera abucheado
+    - hubiese abucheado
+  tu:
+    - hubieras abucheado
+    - hubieses abucheado
+  vos:
+    - hubieras abucheado
+    - hubieses abucheado
+  ud:
+    - hubiera abucheado
+    - hubiese abucheado
+  nosotros:
+    - hubiéramos abucheado
+    - hubiésemos abucheado
+  vosotros:
+    - hubierais abucheado
+    - hubieseis abucheado
+  uds:
+    - hubieran abucheado
+    - hubiesen abucheado
+imperativo:
+  tu: abuchea
+  vos: abuchá
+  ud: abuchee
+  nosotros: abuchemos
+  vosotros: abuchead
+  uds: abucheen

@@ -1,0 +1,142 @@
+infinitivo: silenciar
+gerundio: silenciando
+participio-pasado: silenciado
+presente-indicativo:
+  yo: silencio
+  tu: silencias
+  vos: silenciás
+  ud: silencia
+  nosotros: silenciamos
+  vosotros: silenciáis
+  uds: silencian
+preterito-perfecto-simple:
+  yo: silencié
+  tu: silenciaste
+  vos: silenciaste
+  ud: silenció
+  nosotros: silenciamos
+  vosotros: silenciasteis
+  uds: silenciaron
+preterito-imperfecto:
+  yo: silenciaba
+  tu: silenciabas
+  vos: silenciabas
+  ud: silenciaba
+  nosotros: silenciábamos
+  vosotros: silenciabais
+  uds: silenciaban
+futuro-simple:
+  yo: silenciaré
+  tu: silenciarás
+  vos: silenciarás
+  ud: silenciará
+  nosotros: silenciaremos
+  vosotros: silenciaréis
+  uds: silenciarán
+condicional-simple:
+  yo: silenciaría
+  tu: silenciarías
+  vos: silenciarías
+  ud: silenciaría
+  nosotros: silenciaríamos
+  vosotros: silenciaríais
+  uds: silenciarían
+presente-perfecto:
+  yo: he silenciado
+  tu: has silenciado
+  vos: has silenciado
+  ud: ha silenciado
+  nosotros: hemos silenciado
+  vosotros: habéis silenciado
+  uds: han silenciado
+preterito-pluscuamperfecto:
+  yo: había silenciado
+  tu: habías silenciado
+  vos: habías silenciado
+  ud: había silenciado
+  nosotros: habíamos silenciado
+  vosotros: habíais silenciado
+  uds: habían silenciado
+futuro-perfecto:
+  yo: habré silenciado
+  tu: habrás silenciado
+  vos: habrás silenciado
+  ud: habrá silenciado
+  nosotros: habremos silenciado
+  vosotros: habréis silenciado
+  uds: habrán silenciado
+condicional-perfecto:
+  yo: habría silenciado
+  tu: habrías silenciado
+  vos: habrías silenciado
+  ud: habría silenciado
+  nosotros: habríamos silenciado
+  vosotros: habríais silenciado
+  uds: habrían silenciado
+presente-subjuntivo:
+  yo: silence
+  tu: silences
+  vos: silencies
+  ud: silence
+  nosotros: silenciemos
+  vosotros: silenciéis
+  uds: silencien
+preterito-perfecto-subjuntivo:
+  yo: haya silenciado
+  tu: hayas silenciado
+  vos: hayas silenciado
+  ud: haya silenciado
+  nosotros: hayamos silenciado
+  vosotros: hayáis silenciado
+  uds: hayan silenciado
+imperfecto-subjuntivo:
+  yo:
+    - silenciara
+    - silenciase
+  tu:
+    - silenciaras
+    - silenciases
+  vos:
+    - silenciaras
+    - silenciases
+  ud:
+    - silenciara
+    - silenciase
+  nosotros:
+    - silenciáramos
+    - silenciásemos
+  vosotros:
+    - silenciarais
+    - silenciaseis
+  uds:
+    - silenciaran
+    - silenciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera silenciado
+    - hubiese silenciado
+  tu:
+    - hubieras silenciado
+    - hubieses silenciado
+  vos:
+    - hubieras silenciado
+    - hubieses silenciado
+  ud:
+    - hubiera silenciado
+    - hubiese silenciado
+  nosotros:
+    - hubiéramos silenciado
+    - hubiésemos silenciado
+  vosotros:
+    - hubierais silenciado
+    - hubieseis silenciado
+  uds:
+    - hubieran silenciado
+    - hubiesen silenciado
+imperativo:
+  tu: silencia
+  vos: silenciá
+  ud: silencie
+  nosotros: silenciemos
+  vosotros: silenciad
+  uds: silencien

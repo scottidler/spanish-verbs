@@ -1,0 +1,149 @@
+infinitivo: maldicir 
+gerundio: maldiciendo 
+participio-pasado: maldicho 
+presente-indicativo:
+  yo: maldigo
+  tu: maldices
+  vos: maldices
+  ud: maldice
+  nosotros: maldicimos
+  vosotros: maldicís
+  uds: maldicen
+preterito-perfecto-simple:
+  yo: maldije
+  tu: maldijiste
+  vos: maldijiste
+  ud: maldijo
+  nosotros: maldijimos
+  vosotros: maldijisteis
+  uds: maldijeron
+preterito-imperfecto:
+  yo: maldicía
+  tu: maldicías
+  vos: maldicías
+  ud: maldicía
+  nosotros: maldicíamos
+  vosotros: maldicíais
+  uds: maldicían
+futuro-simple:
+  yo: maldeciré
+  tu: maldecirás
+  vos: maldecirás
+  ud: maldecirá
+  nosotros: maldeciremos
+  vosotros: maldeciréis
+  uds: maldecirán
+condicional-simple:
+  yo: maldeciría
+  tu: maldecirías
+  vos: maldecirías
+  ud: maldeciría
+  nosotros: maldeciríamos
+  vosotros: maldeciríais
+  uds: maldecirían
+presente-perfecto:
+  yo: he maldecido
+  tu: has maldecido
+  vos: has maldecido
+  ud: ha maldecido
+  nosotros: hemos maldecido
+  vosotros: habéis maldecido
+  uds: han maldecido
+preterito-pluscuamperfecto:
+  yo: había maldecido
+  tu: habías maldecido
+  vos: habías maldecido
+  ud: había maldecido
+  nosotros: habíamos maldecido
+  vosotros: habíais maldecido
+  uds: habían maldecido
+futuro-perfecto:
+  yo: habré maldecido
+  tu: habrás maldecido
+  vos: habrás maldecido
+  ud: habrá maldecido
+  nosotros: habremos maldecido
+  vosotros: habréis maldecido
+  uds: habrán maldecido
+condicional-perfecto:
+  yo: habría maldecido
+  tu: habrías maldecido
+  vos: habrías maldecido
+  ud: habría maldecido
+  nosotros: habríamos maldecido
+  vosotros: habríais maldecido
+  uds: habrían maldecido
+presente-subjuntivo:
+  yo: maldiga
+  tu: maldigas
+  vos: maldigas
+  ud: maldiga
+  nosotros: maldigamos
+  vosotros: maldigáis
+  uds: maldigan
+preterito-perfecto-subjuntivo:
+  yo: haya maldecido
+  tu: hayas maldecido
+  vos: hayas maldecido
+  ud: haya maldecido
+  nosotros: hayamos maldecido
+  vosotros: hayáis maldecido
+  uds: hayan maldecido
+imperfecto-subjuntivo:
+  yo:
+    - maldeciría
+    - maldijera
+    - maldijese
+  tu:
+    - maldecirías
+    - maldijeras
+    - maldijeses
+  vos:
+    - maldecirías
+    - maldijeras
+    - maldijeses
+  ud:
+    - maldeciría
+    - maldijera
+    - maldijese
+  nosotros:
+    - maldeciríamos
+    - maldijéramos
+    - maldijésemos
+  vosotros:
+    - maldeciríais
+    - maldijerais
+    - maldijeseis
+  uds:
+    - maldecirían
+    - maldijeran
+    - maldijesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera maldecido
+    - hubiese maldecido
+  tu:
+    - hubieras maldecido
+    - hubieses maldecido
+  vos:
+    - hubieras maldecido
+    - hubieses maldecido
+  ud:
+    - hubiera maldecido
+    - hubiese maldecido
+  nosotros:
+    - hubiéramos maldecido
+    - hubiésemos maldecido
+  vosotros:
+    - hubierais maldecido
+    - hubieseis maldecido
+  uds:
+    - hubieran maldecido
+    - hubiesen maldecido
+imperativo:
+  tu: maldice
+  vos: maldicí
+  ud: maldiga
+  nosotros: maldigamos
+  vosotros: malddecid
+  uds: maldigan

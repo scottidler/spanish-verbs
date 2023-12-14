@@ -1,0 +1,142 @@
+infinitivo: sofocar
+gerundio: sofocando
+participio-pasado: sofocado
+presente-indicativo:
+  yo: sofoco
+  tu: sofocas
+  vos: sofocas
+  ud: sofoca
+  nosotros: sofocamos
+  vosotros: sofocáis
+  uds: sofocan
+preterito-perfecto-simple:
+  yo: sofocé
+  tu: sofocaste
+  vos: sofocaste
+  ud: sofocó
+  nosotros: sofocamos
+  vosotros: sofocasteis
+  uds: sofocaron
+preterito-imperfecto:
+  yo: sofocaba
+  tu: sofocabas
+  vos: sofocabas
+  ud: sofocaba
+  nosotros: sofocábamos
+  vosotros: sofocabais
+  uds: sofocaban
+futuro-simple:
+  yo: sofocaré
+  tu: sofocarás
+  vos: sofocarás
+  ud: sofocará
+  nosotros: sofocaremos
+  vosotros: sofocaréis
+  uds: sofocarán
+condicional-simple:
+  yo: sofocaría
+  tu: sofocarías
+  vos: sofocarías
+  ud: sofocaría
+  nosotros: sofocaríamos
+  vosotros: sofocaríais
+  uds: sofocarían
+presente-perfecto:
+  yo: he sofocado
+  tu: has sofocado
+  vos: has sofocado
+  ud: ha sofocado
+  nosotros: hemos sofocado
+  vosotros: habéis sofocado
+  uds: han sofocado
+preterito-pluscuamperfecto:
+  yo: había sofocado
+  tu: habías sofocado
+  vos: habías sofocado
+  ud: había sofocado
+  nosotros: habíamos sofocado
+  vosotros: habíais sofocado
+  uds: habían sofocado
+futuro-perfecto:
+  yo: habré sofocado
+  tu: habrás sofocado
+  vos: habrás sofocado
+  ud: habrá sofocado
+  nosotros: habremos sofocado
+  vosotros: habréis sofocado
+  uds: habrán sofocado
+condicional-perfecto:
+  yo: habría sofocado
+  tu: habrías sofocado
+  vos: habrías sofocado
+  ud: habría sofocado
+  nosotros: habríamos sofocado
+  vosotros: habríais sofocado
+  uds: habrían sofocado
+presente-subjuntivo:
+  yo: sofoque
+  tu: sofoces
+  vos: sofoces
+  ud: sofoque
+  nosotros: sofocemos
+  vosotros: sofocéis
+  uds: sofocen
+preterito-perfecto-subjuntivo:
+  yo: haya sofocado
+  tu: hayas sofocado
+  vos: hayas sofocado
+  ud: haya sofocado
+  nosotros: hayamos sofocado
+  vosotros: hayáis sofocado
+  uds: hayan sofocado
+imperfecto-subjuntivo:
+  yo:
+    - sofocara
+    - sofocase
+  tu:
+    - sofocaras
+    - sofocases
+  vos:
+    - sofocaras
+    - sofocases
+  ud:
+    - sofocara
+    - sofocase
+  nosotros:
+    - sofocáramos
+    - sofocásemos
+  vosotros:
+    - sofocarais
+    - sofocaseis
+  uds:
+    - sofocaran
+    - sofocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sofocado
+    - hubiese sofocado
+  tu:
+    - hubieras sofocado
+    - hubieses sofocado
+  vos:
+    - hubieras sofocado
+    - hubieses sofocado
+  ud:
+    - hubiera sofocado
+    - hubiese sofocado
+  nosotros:
+    - hubiéramos sofocado
+    - hubiésemos sofocado
+  vosotros:
+    - hubierais sofocado
+    - hubieseis sofocado
+  uds:
+    - hubieran sofocado
+    - hubiesen sofocado
+imperativo:
+  tu: sofoca
+  vos: sofocá
+  ud: sofoque
+  nosotros: sofocamos
+  vosotros: sofocad
+  uds: sofocen

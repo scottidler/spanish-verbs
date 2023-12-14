@@ -1,0 +1,142 @@
+infinitivo: identificar
+gerundio: identificando
+participio-pasado: identificado
+presente-indicativo:
+  yo: identifico
+  tu: identificas
+  vos: identificas
+  ud: identifica
+  nosotros: identificamos
+  vosotros: identificáis
+  uds: identifican
+preterito-perfecto-simple:
+  yo: identifiqué
+  tu: identificaste
+  vos: identificaste
+  ud: identificó
+  nosotros: identificamos
+  vosotros: identificasteis
+  uds: identificaron
+preterito-imperfecto:
+  yo: identificaba
+  tu: identificabas
+  vos: identificabas
+  ud: identificaba
+  nosotros: identificábamos
+  vosotros: identificabais
+  uds: identificaban
+futuro-simple:
+  yo: identificaré
+  tu: identificarás
+  vos: identificarás
+  ud: identificará
+  nosotros: identificaremos
+  vosotros: identificaréis
+  uds: identificarán
+condicional-simple:
+  yo: identificaría
+  tu: identificarías
+  vos: identificarías
+  ud: identificaría
+  nosotros: identificaríamos
+  vosotros: identificaríais
+  uds: identificarían
+presente-perfecto:
+  yo: he identificado
+  tu: has identificado
+  vos: has identificado
+  ud: ha identificado
+  nosotros: hemos identificado
+  vosotros: habéis identificado
+  uds: han identificado
+preterito-pluscuamperfecto:
+  yo: había identificado
+  tu: habías identificado
+  vos: habías identificado
+  ud: había identificado
+  nosotros: habíamos identificado
+  vosotros: habíais identificado
+  uds: habían identificado
+futuro-perfecto:
+  yo: habré identificado
+  tu: habrás identificado
+  vos: habrás identificado
+  ud: habrá identificado
+  nosotros: habremos identificado
+  vosotros: habréis identificado
+  uds: habrán identificado
+condicional-perfecto:
+  yo: habría identificado
+  tu: habrías identificado
+  vos: habrías identificado
+  ud: habría identificado
+  nosotros: habríamos identificado
+  vosotros: habríais identificado
+  uds: habrían identificado
+presente-subjuntivo:
+  yo: identifique
+  tu: identifiques
+  vos: identifiques
+  ud: identifique
+  nosotros: identifiquemos
+  vosotros: identifiquéis
+  uds: identifiquen
+preterito-perfecto-subjuntivo:
+  yo: haya identificado
+  tu: hayas identificado
+  vos: hayas identificado
+  ud: haya identificado
+  nosotros: hayamos identificado
+  vosotros: hayáis identificado
+  uds: hayan identificado
+imperfecto-subjuntivo:
+  yo:
+    - identificara
+    - identificase
+  tu:
+    - identificaras
+    - identificases
+  vos:
+    - identificaras
+    - identificases
+  ud:
+    - identificara
+    - identificase
+  nosotros:
+    - identificáramos
+    - identificásemos
+  vosotros:
+    - identificarais
+    - identificaseis
+  uds:
+    - identificaran
+    - identificasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera identificado
+    - hubiese identificado
+  tu:
+    - hubieras identificado
+    - hubieses identificado
+  vos:
+    - hubieras identificado
+    - hubieses identificado
+  ud:
+    - hubiera identificado
+    - hubiese identificado
+  nosotros:
+    - hubiéramos identificado
+    - hubiésemos identificado
+  vosotros:
+    - hubierais identificado
+    - hubieseis identificado
+  uds:
+    - hubieran identificado
+    - hubiesen identificado
+imperativo:
+  tu: identifica
+  vos: identificá
+  ud: identifique
+  nosotros: identifiquemos
+  vosotros: identificad
+  uds: identifiquen

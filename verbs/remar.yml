@@ -1,0 +1,142 @@
+infinitivo: remar
+gerundio: remando
+participio-pasado: remado
+presente-indicativo:
+  yo: remo
+  tu: remas
+  vos: remas
+  ud: rema
+  nosotros: remamos
+  vosotros: remáis
+  uds: reman
+preterito-perfecto-simple:
+  yo: remé
+  tu: remaste
+  vos: remaste
+  ud: remó
+  nosotros: remamos
+  vosotros: remasteis
+  uds: remaron
+preterito-imperfecto:
+  yo: remaba
+  tu: remabas
+  vos: remabas
+  ud: remaba
+  nosotros: remábamos
+  vosotros: remabais
+  uds: remaban
+futuro-simple:
+  yo: remaré
+  tu: remarás
+  vos: remarás
+  ud: remará
+  nosotros: remaremos
+  vosotros: remaréis
+  uds: remarán
+condicional-simple:
+  yo: remaría
+  tu: remarías
+  vos: remarías
+  ud: remaría
+  nosotros: remaríamos
+  vosotros: remaríais
+  uds: remarían
+presente-perfecto:
+  yo: he remado
+  tu: has remado
+  vos: has remado
+  ud: ha remado
+  nosotros: hemos remado
+  vosotros: habéis remado
+  uds: han remado
+preterito-pluscuamperfecto:
+  yo: había remado
+  tu: habías remado
+  vos: habías remado
+  ud: había remado
+  nosotros: habíamos remado
+  vosotros: habíais remado
+  uds: habían remado
+futuro-perfecto:
+  yo: habré remado
+  tu: habrás remado
+  vos: habrás remado
+  ud: habrá remado
+  nosotros: habremos remado
+  vosotros: habréis remado
+  uds: habrán remado
+condicional-perfecto:
+  yo: habría remado
+  tu: habrías remado
+  vos: habrías remado
+  ud: habría remado
+  nosotros: habríamos remado
+  vosotros: habríais remado
+  uds: habrían remado
+presente-subjuntivo:
+  yo: reme
+  tu: remes
+  vos: remes
+  ud: reme
+  nosotros: rememos
+  vosotros: reméis
+  uds: remen
+preterito-perfecto-subjuntivo:
+  yo: haya remado
+  tu: hayas remado
+  vos: hayas remado
+  ud: haya remado
+  nosotros: hayamos remado
+  vosotros: hayáis remado
+  uds: hayan remado
+imperfecto-subjuntivo:
+  yo:
+    - remara
+    - remase
+  tu:
+    - remaras
+    - remases
+  vos:
+    - remaras
+    - remases
+  ud:
+    - remara
+    - remase
+  nosotros:
+    - remáramos
+    - remásemos
+  vosotros:
+    - remarais
+    - remaseis
+  uds:
+    - remaran
+    - remasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera remado
+    - hubiese remado
+  tu:
+    - hubieras remado
+    - hubieses remado
+  vos:
+    - hubieras remado
+    - hubieses remado
+  ud:
+    - hubiera remado
+    - hubiese remado
+  nosotros:
+    - hubiéramos remado
+    - hubiésemos remado
+  vosotros:
+    - hubierais remado
+    - hubieseis remado
+  uds:
+    - hubieran remado
+    - hubiesen remado
+imperativo:
+  tu: rema
+  vos: remá
+  ud: rema
+  nosotros: rememos
+  vosotros: remad
+  uds: remen

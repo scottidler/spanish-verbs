@@ -1,0 +1,142 @@
+infinitivo: rebelar
+gerundio: rebelando
+participio-pasado: rebelado
+presente-indicativo:
+  yo: rebelo
+  tu: rebelas
+  vos: rebelas
+  ud: rebela
+  nosotros: rebelamos
+  vosotros: rebeláis
+  uds: rebelan
+preterito-perfecto-simple:
+  yo: rebelé
+  tu: rebelaste
+  vos: rebelaste
+  ud: rebeló
+  nosotros: rebelamos
+  vosotros: rebelasteis
+  uds: rebelaron
+preterito-imperfecto:
+  yo: rebelaba
+  tu: rebelabas
+  vos: rebelabas
+  ud: rebelaba
+  nosotros: rebelábamos
+  vosotros: rebelabais
+  uds: rebelaban
+futuro-simple:
+  yo: rebelaré
+  tu: rebelarás
+  vos: rebelarás
+  ud: rebelará
+  nosotros: rebelaremos
+  vosotros: rebelaréis
+  uds: rebelarán
+condicional-simple:
+  yo: rebelaría
+  tu: rebelarías
+  vos: rebelarías
+  ud: rebelaría
+  nosotros: rebelaríamos
+  vosotros: rebelaríais
+  uds: rebelarían
+presente-perfecto:
+  yo: he rebelado
+  tu: has rebelado
+  vos: has rebelado
+  ud: ha rebelado
+  nosotros: hemos rebelado
+  vosotros: habéis rebelado
+  uds: han rebelado
+preterito-pluscuamperfecto:
+  yo: había rebelado
+  tu: habías rebelado
+  vos: habías rebelado
+  ud: había rebelado
+  nosotros: habíamos rebelado
+  vosotros: habíais rebelado
+  uds: habían rebelado
+futuro-perfecto:
+  yo: habré rebelado
+  tu: habrás rebelado
+  vos: habrás rebelado
+  ud: habrá rebelado
+  nosotros: habremos rebelado
+  vosotros: habréis rebelado
+  uds: habrán rebelado
+condicional-perfecto:
+  yo: habría rebelado
+  tu: habrías rebelado
+  vos: habrías rebelado
+  ud: habría rebelado
+  nosotros: habríamos rebelado
+  vosotros: habríais rebelado
+  uds: habrían rebelado
+presente-subjuntivo:
+  yo: rebele
+  tu: rebeles
+  vos: rebeles
+  ud: rebele
+  nosotros: revelemos
+  vosotros: rebeléis
+  uds: rebelen
+preterito-perfecto-subjuntivo:
+  yo: haya rebelado
+  tu: hayas rebelado
+  vos: hayas rebelado
+  ud: haya rebelado
+  nosotros: hayamos rebelado
+  vosotros: hayáis rebelado
+  uds: hayan rebelado
+imperfecto-subjuntivo:
+  yo:
+    - rebelara
+    - rebelase
+  tu:
+    - rebelaras
+    - rebelases
+  vos:
+    - rebelaras
+    - rebelases
+  ud:
+    - rebelara
+    - rebelase
+  nosotros:
+    - rebeláramos
+    - rebelásemos
+  vosotros:
+    - rebelarais
+    - rebelaseis
+  uds:
+    - rebelaran
+    - rebelasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rebelado
+    - hubiese rebelado
+  tu:
+    - hubieras rebelado
+    - hubieses rebelado
+  vos:
+    - hubieras rebelado
+    - hubieses rebelado
+  ud:
+    - hubiera rebelado
+    - hubiese rebelado
+  nosotros:
+    - hubiéramos rebelado
+    - hubiésemos rebelado
+  vosotros:
+    - hubierais rebelado
+    - hubieseis rebelado
+  uds:
+    - hubieran rebelado
+    - hubiesen rebelado
+imperativo:
+  tu: rebela
+  vos: rebela
+  ud: rebele
+  nosotros: revelemos
+  vosotros: rebelad
+  uds: rebelen

@@ -1,0 +1,142 @@
+infinitivo: convergir
+gerundio: convergiendo
+participio-pasado: convergido
+presente-indicativo:
+  yo: converjo
+  tu: convegues
+  vos: convegues
+  ud: convege
+  nosotros: convergimos
+  vosotros: convergeís
+  uds: convergen
+preterito-perfecto-simple:
+  yo: convergí
+  tu: convergiste
+  vos: convergiste
+  ud: convergió
+  nosotros: convergimos
+  vosotros: convergisteis
+  uds: convergieron
+preterito-imperfecto:
+  yo: convergía
+  tu: convergías
+  vos: convergías
+  ud: convergía
+  nosotros: convergíamos
+  vosotros: convergíais
+  uds: convergían
+futuro-simple:
+  yo: convergeré
+  tu: convergerás
+  vos: convergerás
+  ud: convergerá
+  nosotros: convergeremos
+  vosotros: convergeréis
+  uds: convergerán
+condicional-simple:
+  yo: convergería
+  tu: convergerías
+  vos: convergerías
+  ud: convergería
+  nosotros: convergeríamos
+  vosotros: convergeríais
+  uds: convergerían
+presente-perfecto:
+  yo: he convergido
+  tu: has convergido
+  vos: has convergido
+  ud: ha convergido
+  nosotros: hemos convergido
+  vosotros: habéis convergido
+  uds: han convergido
+preterito-pluscuamperfecto:
+  yo: había convergido
+  tu: habías convergido
+  vos: habías convergido
+  ud: había convergido
+  nosotros: habíamos convergido
+  vosotros: habíais convergido
+  uds: habían convergido
+futuro-perfecto:
+  yo: habré convergido
+  tu: habrás convergido
+  vos: habrás convergido
+  ud: habrá convergido
+  nosotros: habremos convergido
+  vosotros: habréis convergido
+  uds: habrán convergido
+condicional-perfecto:
+  yo: habría convergido
+  tu: habrías convergido
+  vos: habrías convergido
+  ud: habría convergido
+  nosotros: habríamos convergido
+  vosotros: habríais convergido
+  uds: habrían convergido
+presente-subjuntivo:
+  yo: conveja
+  tu: convejas
+  vos: convejas
+  ud: conveja
+  nosotros: convejamos
+  vosotros: convejáis
+  uds: convejan
+preterito-perfecto-subjuntivo:
+  yo: haya convergido
+  tu: hayas convergido
+  vos: hayas convergido
+  ud: haya convergido
+  nosotros: hayamos convergido
+  vosotros: hayáis convergido
+  uds: hayan convergido
+imperfecto-subjuntivo:
+  yo:
+    - convergiera
+    - convergiese
+  tu:
+    - convergieras
+    - convergieses
+  vos:
+    - convergieras
+    - convergieses
+  ud:
+    - convergiera
+    - convergiese
+  nosotros:
+    - convergiéramos
+    - convergiésemos
+  vosotros:
+    - convergierais
+    - convergieseis
+  uds:
+    - convergieran
+    - convergiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera convergido
+    - hubiese convergido
+  tu:
+    - hubieras convergido
+    - hubieses convergido
+  vos:
+    - hubieras convergido
+    - hubieses convergido
+  ud:
+    - hubiera convergido
+    - hubiese convergido
+  nosotros:
+    - hubiéramos convergido
+    - hubiésemos convergido
+  vosotros:
+    - hubierais convergido
+    - hubieseis convergido
+  uds:
+    - hubieran convergido
+    - hubiesen convergido
+imperativo:
+  tu: convege
+  vos: convegẽ
+  ud: convega
+  nosotros: convejamos
+  vosotros: convergid
+  uds: convegan

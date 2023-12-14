@@ -1,0 +1,142 @@
+infinitivo: aligerar
+gerundio: aligerando
+participio-pasado: aligerado
+presente-indicativo:
+  yo: aligero
+  tu: aligeras
+  vos: aligeras
+  ud: aligera
+  nosotros: aligeramos
+  vosotros: aligeráis
+  uds: aligeran
+preterito-perfecto-simple:
+  yo: aligeré
+  tu: aligeraste
+  vos: aligeraste
+  ud: aligeró
+  nosotros: aligeramos
+  vosotros: aligerasteis
+  uds: aligeraron
+preterito-imperfecto:
+  yo: aligeraba
+  tu: aligerabas
+  vos: aligerabas
+  ud: aligeraba
+  nosotros: aligerábamos
+  vosotros: aligerabais
+  uds: aligeraban
+futuro-simple:
+  yo: aligeraré
+  tu: aligerarás
+  vos: aligerarás
+  ud: aligerará
+  nosotros: aligeraremos
+  vosotros: aligeraréis
+  uds: aligerarán
+condicional-simple:
+  yo: aligeraría
+  tu: aligerarías
+  vos: aligerarías
+  ud: aligeraría
+  nosotros: aligeraríamos
+  vosotros: aligeraríais
+  uds: aligerarían
+presente-perfecto:
+  yo: he aligerado
+  tu: has aligerado
+  vos: has aligerado
+  ud: ha aligerado
+  nosotros: hemos aligerado
+  vosotros: habéis aligerado
+  uds: han aligerado
+preterito-pluscuamperfecto:
+  yo: había aligerado
+  tu: habías aligerado
+  vos: habías aligerado
+  ud: había aligerado
+  nosotros: habíamos aligerado
+  vosotros: habíais aligerado
+  uds: habían aligerado
+futuro-perfecto:
+  yo: habré aligerado
+  tu: habrás aligerado
+  vos: habrás aligerado
+  ud: habrá aligerado
+  nosotros: habremos aligerado
+  vosotros: habréis aligerado
+  uds: habrán aligerado
+condicional-perfecto:
+  yo: habría aligerado
+  tu: habrías aligerado
+  vos: habrías aligerado
+  ud: habría aligerado
+  nosotros: habríamos aligerado
+  vosotros: habríais aligerado
+  uds: habrían aligerado
+presente-subjuntivo:
+  yo: aligere
+  tu: aligeres
+  vos: aligeres
+  ud: aligere
+  nosotros: aligeremos
+  vosotros: aligeréis
+  uds: aligeren
+preterito-perfecto-subjuntivo:
+  yo: haya aligerado
+  tu: hayas aligerado
+  vos: hayas aligerado
+  ud: haya aligerado
+  nosotros: hayamos aligerado
+  vosotros: hayáis aligerado
+  uds: hayan aligerado
+imperfecto-subjuntivo:
+  yo:
+    - aligerara
+    - aligerase
+  tu:
+    - aligeraras
+    - aligerases
+  vos:
+    - aligeraras
+    - aligerases
+  ud:
+    - aligerara
+    - aligerase
+  nosotros:
+    - aligeráramos
+    - aligerásemos
+  vosotros:
+    - aligerarais
+    - aligeraseis
+  uds:
+    - aligeraran
+    - aligerasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aligerado
+    - hubiese aligerado
+  tu:
+    - hubieras aligerado
+    - hubieses aligerado
+  vos:
+    - hubieras aligerado
+    - hubieses aligerado
+  ud:
+    - hubiera aligerado
+    - hubiese aligerado
+  nosotros:
+    - hubiéramos aligerado
+    - hubiésemos aligerado
+  vosotros:
+    - hubierais aligerado
+    - hubieseis aligerado
+  uds:
+    - hubieran aligerado
+    - hubiesen aligerado
+imperativo:
+  tu: aligera
+  vos: aligera
+  ud: aligere
+  nosotros: aligeremos
+  vosotros: aligerad
+  uds: aligeren

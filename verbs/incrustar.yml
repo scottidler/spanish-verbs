@@ -1,0 +1,142 @@
+infinitivo: incrustar
+gerundio: incrustando
+participio-pasado: incrustado
+presente-indicativo:
+  yo: incrusto
+  tu: incrustas
+  vos: incrustas
+  ud: incrusta
+  nosotros: incrustamos
+  vosotros: incrustáis
+  uds: incrustan
+preterito-perfecto-simple:
+  yo: incrusté
+  tu: incrustaste
+  vos: incrustaste
+  ud: incrustó
+  nosotros: incrustamos
+  vosotros: incrustasteis
+  uds: incrustaron
+preterito-imperfecto:
+  yo: incrustaba
+  tu: incrustabas
+  vos: incrustabas
+  ud: incrustaba
+  nosotros: incrustábamos
+  vosotros: incrustabais
+  uds: incrustaban
+futuro-simple:
+  yo: incrustaré
+  tu: incrustarás
+  vos: incrustarás
+  ud: incrustará
+  nosotros: incrustaremos
+  vosotros: incrustaréis
+  uds: incrustarán
+condicional-simple:
+  yo: incrustaría
+  tu: incrustarías
+  vos: incrustarías
+  ud: incrustaría
+  nosotros: incrustaríamos
+  vosotros: incrustaríais
+  uds: incrustarían
+presente-perfecto:
+  yo: he incrustado
+  tu: has incrustado
+  vos: has incrustado
+  ud: ha incrustado
+  nosotros: hemos incrustado
+  vosotros: habéis incrustado
+  uds: han incrustado
+preterito-pluscuamperfecto:
+  yo: había incrustado
+  tu: habías incrustado
+  vos: habías incrustado
+  ud: había incrustado
+  nosotros: habíamos incrustado
+  vosotros: habíais incrustado
+  uds: habían incrustado
+futuro-perfecto:
+  yo: habré incrustado
+  tu: habrás incrustado
+  vos: habrás incrustado
+  ud: habrá incrustado
+  nosotros: habremos incrustado
+  vosotros: habréis incrustado
+  uds: habrán incrustado
+condicional-perfecto:
+  yo: habría incrustado
+  tu: habrías incrustado
+  vos: habrías incrustado
+  ud: habría incrustado
+  nosotros: habríamos incrustado
+  vosotros: habríais incrustado
+  uds: habrían incrustado
+presente-subjuntivo:
+  yo: incruste
+  tu: incrustes
+  vos: incrustes
+  ud: incruste
+  nosotros: incrustemos
+  vosotros: incrustéis
+  uds: incrusten
+preterito-perfecto-subjuntivo:
+  yo: haya incrustado
+  tu: hayas incrustado
+  vos: hayas incrustado
+  ud: haya incrustado
+  nosotros: hayamos incrustado
+  vosotros: hayáis incrustado
+  uds: hayan incrustado
+imperfecto-subjuntivo:
+  yo:
+    - incrustara
+    - incrustase
+  tu:
+    - incrustaras
+    - incrustases
+  vos:
+    - incrustaras
+    - incrustases
+  ud:
+    - incrustara
+    - incrustase
+  nosotros:
+    - incrustáramos
+    - incrustásemos
+  vosotros:
+    - incrustarais
+    - incrustaseis
+  uds:
+    - incrustaran
+    - incrustasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera incrustado
+    - hubiese incrustado
+  tu:
+    - hubieras incrustado
+    - hubieses incrustado
+  vos:
+    - hubieras incrustado
+    - hubieses incrustado
+  ud:
+    - hubiera incrustado
+    - hubiese incrustado
+  nosotros:
+    - hubiéramos incrustado
+    - hubiésemos incrustado
+  vosotros:
+    - hubierais incrustado
+    - hubieseis incrustado
+  uds:
+    - hubieran incrustado
+    - hubiesen incrustado
+imperativo:
+  tu: incrusta
+  vos: incrustá
+  ud: incruste
+  nosotros: incrustemos
+  vosotros: incrustad
+  uds: incrusten

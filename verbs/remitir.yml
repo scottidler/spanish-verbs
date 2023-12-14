@@ -1,0 +1,142 @@
+infinitivo: remitir
+gerundio: remitiendo
+participio-pasado: remitido
+presente-indicativo:
+  yo: remito
+  tu: remites
+  vos: remites
+  ud: remite
+  nosotros: remitimos
+  vosotros: remitís
+  uds: remiten
+preterito-perfecto-simple:
+  yo: remití
+  tu: remitiste
+  vos: remitiste
+  ud: remitió
+  nosotros: remitimos
+  vosotros: remitisteis
+  uds: remitieron
+preterito-imperfecto:
+  yo: remitía
+  tu: remitías
+  vos: remitías
+  ud: remitía
+  nosotros: remitíamos
+  vosotros: remitíais
+  uds: remitían
+futuro-simple:
+  yo: remitiré
+  tu: remitirás
+  vos: remitirás
+  ud: remitirá
+  nosotros: remitiremos
+  vosotros: remitiréis
+  uds: remitirán
+condicional-simple:
+  yo: remitiría
+  tu: remitirías
+  vos: remitirías
+  ud: remitiría
+  nosotros: remitiríamos
+  vosotros: remitiríais
+  uds: remitirían
+presente-perfecto:
+  yo: he remitido
+  tu: has remitido
+  vos: has remitido
+  ud: ha remitido
+  nosotros: hemos remitido
+  vosotros: habéis remitido
+  uds: han remitido
+preterito-pluscuamperfecto:
+  yo: había remitido
+  tu: habías remitido
+  vos: habías remitido
+  ud: había remitido
+  nosotros: habíamos remitido
+  vosotros: habíais remitido
+  uds: habían remitido
+futuro-perfecto:
+  yo: habré remitido
+  tu: habrás remitido
+  vos: habrás remitido
+  ud: habrá remitido
+  nosotros: habremos remitido
+  vosotros: habréis remitido
+  uds: habrán remitido
+condicional-perfecto:
+  yo: habría remitido
+  tu: habrías remitido
+  vos: habrías remitido
+  ud: habría remitido
+  nosotros: habríamos remitido
+  vosotros: habríais remitido
+  uds: habrían remitido
+presente-subjuntivo:
+  yo: remita
+  tu: remitas
+  vos: remitas
+  ud: remita
+  nosotros: remitamos
+  vosotros: remitáis
+  uds: remitan
+preterito-perfecto-subjuntivo:
+  yo: haya remitido
+  tu: hayas remitido
+  vos: hayas remitido
+  ud: haya remitido
+  nosotros: hayamos remitido
+  vosotros: hayáis remitido
+  uds: hayan remitido
+imperfecto-subjuntivo:
+  yo:
+    - remitiera
+    - remitiese
+  tu:
+    - remitieras
+    - remitieses
+  vos:
+    - remitieras
+    - remitieses
+  ud:
+    - remitiera
+    - remitiese
+  nosotros:
+    - remitiéramos
+    - remitiésemos
+  vosotros:
+    - remitierais
+    - remitieseis
+  uds:
+    - remitieran
+    - remitiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera remitido
+    - hubiese remitido
+  tu:
+    - hubieras remitido
+    - hubieses remitido
+  vos:
+    - hubieras remitido
+    - hubieses remitido
+  ud:
+    - hubiera remitido
+    - hubiese remitido
+  nosotros:
+    - hubiéramos remitido
+    - hubiésemos remitido
+  vosotros:
+    - hubierais remitido
+    - hubieseis remitido
+  uds:
+    - hubieran remitido
+    - hubiesen remitido
+imperativo:
+  tu: remite
+  vos: remití
+  ud: remita
+  nosotros: remitamos
+  vosotros: remitid
+  uds: remitan

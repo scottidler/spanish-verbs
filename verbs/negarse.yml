@@ -1,0 +1,142 @@
+infinitivo: negarse
+gerundio: negándose
+participio-pasado: negado
+presente-indicativo:
+  yo: me niego
+  tu: te niegas
+  vos: te niegas
+  ud: se niega
+  nosotros: nos negamos
+  vosotros: os negáis
+  uds: se niegan
+preterito-perfecto-simple:
+  yo: me negué
+  tu: te negaste
+  vos: te negaste
+  ud: se negó
+  nosotros: nos negamos
+  vosotros: os negasteis
+  uds: se negaron
+preterito-imperfecto:
+  yo: me negaba
+  tu: te negabas
+  vos: te negabas
+  ud: se negaba
+  nosotros: nos negábamos
+  vosotros: os negabais
+  uds: se negaban
+futuro-simple:
+  yo: me negaré
+  tu: te negarás
+  vos: te negarás
+  ud: se negará
+  nosotros: nos negaremos
+  vosotros: os negaréis
+  uds: se negarán
+condicional-simple:
+  yo: me negaría
+  tu: te negarías
+  vos: te negarías
+  ud: se negaría
+  nosotros: nos negaríamos
+  vosotros: os negaríais
+  uds: se negarían
+presente-perfecto:
+  yo: me he negado
+  tu: te has negado
+  vos: te has negado
+  ud: se ha negado
+  nosotros: nos hemos negado
+  vosotros: os habéis negado
+  uds: se han negado
+preterito-pluscuamperfecto:
+  yo: me había negado
+  tu: te habías negado
+  vos: te habías negado
+  ud: se había negado
+  nosotros: nos habíamos negado
+  vosotros: os habíais negado
+  uds: se habían negado
+futuro-perfecto:
+  yo: me habré negado
+  tu: te habrás negado
+  vos: te habrás negado
+  ud: se habrá negado
+  nosotros: nos habremos negado
+  vosotros: os habréis negado
+  uds: se habrán negado
+condicional-perfecto:
+  yo: me habría negado
+  tu: te habrías negado
+  vos: te habrías negado
+  ud: se habría negado
+  nosotros: nos habríamos negado
+  vosotros: os habríais negado
+  uds: se habrían negado
+presente-subjuntivo:
+  yo: me niegue
+  tu: te niegues
+  vos: te niegues
+  ud: se niegue
+  nosotros: nos neguemos
+  vosotros: os neguéis
+  uds: se nieguen
+preterito-perfecto-subjuntivo:
+  yo: me haya negado
+  tu: te hayas negado
+  vos: te hayas negado
+  ud: se haya negado
+  nosotros: nos hayamos negado
+  vosotros: os hayáis negado
+  uds: se hayan negado
+imperfecto-subjuntivo:
+  yo:
+    - me negara
+    - me negase
+  tu:
+    - te negaras
+    - te negases
+  vos:
+    - te negaras
+    - te negases
+  ud:
+    - se negara
+    - se negase
+  nosotros:
+    - nos negáramos
+    - nos negásemos
+  vosotros:
+    - os negarais
+    - os negaseis
+  uds:
+    - se negaran
+    - se negasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera negado
+    - me hubiese negado
+  tu:
+    - te hubieras negado
+    - te hubieses negado
+  vos:
+    - te hubieras negado
+    - te hubieses negado
+  ud:
+    - se hubiera negado
+    - se hubiese negado
+  nosotros:
+    - nos hubiéramos negado
+    - nos hubiésemos negado
+  vosotros:
+    - os hubierais negado
+    - os hubieseis negado
+  uds:
+    - se hubieran negado
+    - se hubiesen negado
+imperativo:
+  tu: no te niegues
+  vos: no te niegues
+  ud: no se niegue
+  nosotros: no nos neguemos
+  vosotros: no os neguéis
+  uds: no se nieguen

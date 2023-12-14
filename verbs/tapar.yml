@@ -1,0 +1,142 @@
+infinitivo: tapar
+gerundio: tapando
+participio-pasado: tapado
+presente-indicativo:
+  yo: tapo
+  tu: tapas
+  vos: tapas
+  ud: tapa
+  nosotros: tapamos
+  vosotros: tapáis
+  uds: tapan
+preterito-perfecto-simple:
+  yo: tapé
+  tu: tapaste
+  vos: tapaste
+  ud: tapó
+  nosotros: tapamos
+  vosotros: tapasteis
+  uds: taparon
+preterito-imperfecto:
+  yo: tapaba
+  tu: tapabas
+  vos: tapabas
+  ud: tapaba
+  nosotros: tapábamos
+  vosotros: tapabais
+  uds: tapaban
+futuro-simple:
+  yo: taparé
+  tu: taparás
+  vos: taparás
+  ud: tapará
+  nosotros: taparemos
+  vosotros: taparéis
+  uds: taparán
+condicional-simple:
+  yo: taparía
+  tu: taparías
+  vos: taparías
+  ud: taparía
+  nosotros: taparíamos
+  vosotros: taparíais
+  uds: taparían
+presente-perfecto:
+  yo: he tapado
+  tu: has tapado
+  vos: has tapado
+  ud: ha tapado
+  nosotros: hemos tapado
+  vosotros: habéis tapado
+  uds: han tapado
+preterito-pluscuamperfecto:
+  yo: había tapado
+  tu: habías tapado
+  vos: habías tapado
+  ud: había tapado
+  nosotros: habíamos tapado
+  vosotros: habíais tapado
+  uds: habían tapado
+futuro-perfecto:
+  yo: habré tapado
+  tu: habrás tapado
+  vos: habrás tapado
+  ud: habrá tapado
+  nosotros: habremos tapado
+  vosotros: habréis tapado
+  uds: habrán tapado
+condicional-perfecto:
+  yo: habría tapado
+  tu: habrías tapado
+  vos: habrías tapado
+  ud: habría tapado
+  nosotros: habríamos tapado
+  vosotros: habríais tapado
+  uds: habrían tapado
+presente-subjuntivo:
+  yo: tape
+  tu: tapes
+  vos: tapes
+  ud: tape
+  nosotros: tapemos
+  vosotros: tapéis
+  uds: tapen
+preterito-perfecto-subjuntivo:
+  yo: haya tapado
+  tu: hayas tapado
+  vos: hayas tapado
+  ud: haya tapado
+  nosotros: hayamos tapado
+  vosotros: hayáis tapado
+  uds: hayan tapado
+imperfecto-subjuntivo:
+  yo:
+    - tapara
+    - tapase
+  tu:
+    - taparas
+    - tapases
+  vos:
+    - taparas
+    - tapases
+  ud:
+    - tapara
+    - tapase
+  nosotros:
+    - tapáramos
+    - tapásemos
+  vosotros:
+    - taparais
+    - tapaseis
+  uds:
+    - taparan
+    - tapasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tapado
+    - hubiese tapado
+  tu:
+    - hubieras tapado
+    - hubieses tapado
+  vos:
+    - hubieras tapado
+    - hubieses tapado
+  ud:
+    - hubiera tapado
+    - hubiese tapado
+  nosotros:
+    - hubiéramos tapado
+    - hubiésemos tapado
+  vosotros:
+    - hubierais tapado
+    - hubieseis tapado
+  uds:
+    - hubieran tapado
+    - hubiesen tapado
+imperativo:
+  tu: tapa
+  vos: tapá
+  ud: tape
+  nosotros: tapemos
+  vosotros: tapad
+  uds: tapen

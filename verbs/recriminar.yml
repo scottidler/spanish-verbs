@@ -1,0 +1,142 @@
+infinitivo: recriminar
+gerundio: recriminando
+participio-pasado: recriminado
+presente-indicativo:
+  yo: recrimino
+  tu: recriminas
+  vos: recriminas
+  ud: recrimina
+  nosotros: recriminamos
+  vosotros: recrimináis
+  uds: recriminan
+preterito-perfecto-simple:
+  yo: recriminé
+  tu: recriminaste
+  vos: recriminaste
+  ud: recriminó
+  nosotros: recriminamos
+  vosotros: recriminasteis
+  uds: recriminaron
+preterito-imperfecto:
+  yo: recriminaba
+  tu: recriminabas
+  vos: recriminabas
+  ud: recriminaba
+  nosotros: recriminábamos
+  vosotros: recriminabais
+  uds: recriminaban
+futuro-simple:
+  yo: recriminaré
+  tu: recriminarás
+  vos: recriminarás
+  ud: recriminará
+  nosotros: recriminaremos
+  vosotros: recriminaréis
+  uds: recriminarán
+condicional-simple:
+  yo: recriminaría
+  tu: recriminarías
+  vos: recriminarías
+  ud: recriminaría
+  nosotros: recriminaríamos
+  vosotros: recriminaríais
+  uds: recriminarían
+presente-perfecto:
+  yo: he recriminado
+  tu: has recriminado
+  vos: has recriminado
+  ud: ha recriminado
+  nosotros: hemos recriminado
+  vosotros: habéis recriminado
+  uds: han recriminado
+preterito-pluscuamperfecto:
+  yo: había recriminado
+  tu: habías recriminado
+  vos: habías recriminado
+  ud: había recriminado
+  nosotros: habíamos recriminado
+  vosotros: habíais recriminado
+  uds: habían recriminado
+futuro-perfecto:
+  yo: habré recriminado
+  tu: habrás recriminado
+  vos: habrás recriminado
+  ud: habrá recriminado
+  nosotros: habremos recriminado
+  vosotros: habréis recriminado
+  uds: habrán recriminado
+condicional-perfecto:
+  yo: habría recriminado
+  tu: habrías recriminado
+  vos: habrías recriminado
+  ud: habría recriminado
+  nosotros: habríamos recriminado
+  vosotros: habríais recriminado
+  uds: habrían recriminado
+presente-subjuntivo:
+  yo: recrimine
+  tu: recrimines
+  vos: recrimines
+  ud: recrimine
+  nosotros: recriminemos
+  vosotros: recriminéis
+  uds: recriminen
+preterito-perfecto-subjuntivo:
+  yo: haya recriminado
+  tu: hayas recriminado
+  vos: hayas recriminado
+  ud: haya recriminado
+  nosotros: hayamos recriminado
+  vosotros: hayáis recriminado
+  uds: hayan recriminado
+imperfecto-subjuntivo:
+  yo:
+    - recriminara
+    - recriminase
+  tu:
+    - recriminaras
+    - recriminases
+  vos:
+    - recriminaras
+    - recriminases
+  ud:
+    - recriminara
+    - recriminase
+  nosotros:
+    - recrimináramos
+    - recriminásemos
+  vosotros:
+    - recriminarais
+    - recriminaseis
+  uds:
+    - recriminaran
+    - recriminasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recriminado
+    - hubiese recriminado
+  tu:
+    - hubieras recriminado
+    - hubieses recriminado
+  vos:
+    - hubieras recriminado
+    - hubieses recriminado
+  ud:
+    - hubiera recriminado
+    - hubiese recriminado
+  nosotros:
+    - hubiéramos recriminado
+    - hubiésemos recriminado
+  vosotros:
+    - hubierais recriminado
+    - hubieseis recriminado
+  uds:
+    - hubieran recriminado
+    - hubiesen recriminado
+imperativo:
+  tu: recrimina
+  vos: recriminá
+  ud: recrimine
+  nosotros: recriminemos
+  vosotros: recriminad
+  uds: recriminen

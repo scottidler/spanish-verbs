@@ -1,0 +1,142 @@
+infinitivo: enfurecer
+gerundio: enfureciendo
+participio-pasado: enfurecido
+presente-indicativo:
+  yo: enfurezco
+  tu: enfureces
+  vos: enfurecés
+  ud: enfurece
+  nosotros: enfurecemos
+  vosotros: enfurecéis
+  uds: enfurecen
+preterito-perfecto-simple:
+  yo: enfurecí
+  tu: enfureciste
+  vos: enfureciste
+  ud: enfureció
+  nosotros: enfurecimos
+  vosotros: enfurecisteis
+  uds: enfurecieron
+preterito-imperfecto:
+  yo: enfurecía
+  tu: enfurecías
+  vos: enfurecías
+  ud: enfurecía
+  nosotros: enfurecíamos
+  vosotros: enfurecíais
+  uds: enfurecían
+futuro-simple:
+  yo: enfureceré
+  tu: enfurecerás
+  vos: enfurecerás
+  ud: enfurecerá
+  nosotros: enfureceremos
+  vosotros: enfureceréis
+  uds: enfurecerán
+condicional-simple:
+  yo: enfurecería
+  tu: enfurecerías
+  vos: enfurecerías
+  ud: enfurecería
+  nosotros: enfureceríamos
+  vosotros: enfureceríais
+  uds: enfurecerían
+presente-perfecto:
+  yo: he enfurecido
+  tu: has enfurecido
+  vos: has enfurecido
+  ud: ha enfurecido
+  nosotros: hemos enfurecido
+  vosotros: habéis enfurecido
+  uds: han enfurecido
+preterito-pluscuamperfecto:
+  yo: había enfurecido
+  tu: habías enfurecido
+  vos: habías enfurecido
+  ud: había enfurecido
+  nosotros: habíamos enfurecido
+  vosotros: habíais enfurecido
+  uds: habían enfurecido
+futuro-perfecto:
+  yo: habré enfurecido
+  tu: habrás enfurecido
+  vos: habrás enfurecido
+  ud: habrá enfurecido
+  nosotros: habremos enfurecido
+  vosotros: habréis enfurecido
+  uds: habrán enfurecido
+condicional-perfecto:
+  yo: habría enfurecido
+  tu: habrías enfurecido
+  vos: habrías enfurecido
+  ud: habría enfurecido
+  nosotros: habríamos enfurecido
+  vosotros: habríais enfurecido
+  uds: habrían enfurecido
+presente-subjuntivo:
+  yo: enfurezca
+  tu: enfurezcas
+  vos: enfurezcas
+  ud: enfurezca
+  nosotros: enfurezcamos
+  vosotros: enfurezcáis
+  uds: enfurezcan
+preterito-perfecto-subjuntivo:
+  yo: haya enfurecido
+  tu: hayas enfurecido
+  vos: hayas enfurecido
+  ud: haya enfurecido
+  nosotros: hayamos enfurecido
+  vosotros: hayáis enfurecido
+  uds: hayan enfurecido
+imperfecto-subjuntivo:
+  yo:
+    - enfureciera
+    - enfureciese
+  tu:
+    - enfurecieras
+    - enfurecieses
+  vos:
+    - enfurecieras
+    - enfurecieses
+  ud:
+    - enfureciera
+    - enfureciese
+  nosotros:
+    - enfureciéramos
+    - enfureciésemos
+  vosotros:
+    - enfurecierais
+    - enfurecieseis
+  uds:
+    - enfurecieran
+    - enfureciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enfurecido
+    - hubiese enfurecido
+  tu:
+    - hubieras enfurecido
+    - hubieses enfurecido
+  vos:
+    - hubieras enfurecido
+    - hubieses enfurecido
+  ud:
+    - hubiera enfurecido
+    - hubiese enfurecido
+  nosotros:
+    - hubiéramos enfurecido
+    - hubiésemos enfurecido
+  vosotros:
+    - hubierais enfurecido
+    - hubieseis enfurecido
+  uds:
+    - hubieran enfurecido
+    - hubiesen enfurecido
+imperativo:
+  tu: enfurece
+  vos: enfurecé
+  ud: enfurezca
+  nosotros: enfurezcamos
+  vosotros: enfureced
+  uds: enfurezcan

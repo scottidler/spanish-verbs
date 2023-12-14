@@ -1,0 +1,142 @@
+infinitivo: curiosear
+gerundio: curioseando
+participio-pasado: curioseado
+presente-indicativo:
+  yo: curioseo
+  tu: curioseas
+  vos: curioseas
+  ud: curiosea
+  nosotros: curioseamos
+  vosotros: curioseáis
+  uds: curiosean
+preterito-perfecto-simple:
+  yo: curioseé
+  tu: curioseaste
+  vos: curioseaste
+  ud: curioseó
+  nosotros: curioseamos
+  vosotros: curioseasteis
+  uds: curiosearon
+preterito-imperfecto:
+  yo: curioseaba
+  tu: curioseabas
+  vos: curioseabas
+  ud: curioseaba
+  nosotros: curioseábamos
+  vosotros: curioseabais
+  uds: curioseaban
+futuro-simple:
+  yo: curiosearé
+  tu: curiosearás
+  vos: curiosearás
+  ud: curioseará
+  nosotros: curiosearemos
+  vosotros: curiosearéis
+  uds: curiosearán
+condicional-simple:
+  yo: curiosearía
+  tu: curiosearías
+  vos: curiosearías
+  ud: curiosearía
+  nosotros: curiosearíamos
+  vosotros: curiosearíais
+  uds: curiosearían
+presente-perfecto:
+  yo: he curioseado
+  tu: has curioseado
+  vos: has curioseado
+  ud: ha curioseado
+  nosotros: hemos curioseado
+  vosotros: habéis curioseado
+  uds: han curioseado
+preterito-pluscuamperfecto:
+  yo: había curioseado
+  tu: habías curioseado
+  vos: habías curioseado
+  ud: había curioseado
+  nosotros: habíamos curioseado
+  vosotros: habíais curioseado
+  uds: habían curioseado
+futuro-perfecto:
+  yo: habré curioseado
+  tu: habrás curioseado
+  vos: habrás curioseado
+  ud: habrá curioseado
+  nosotros: habremos curioseado
+  vosotros: habréis curioseado
+  uds: habrán curioseado
+condicional-perfecto:
+  yo: habría curioseado
+  tu: habrías curioseado
+  vos: habrías curioseado
+  ud: habría curioseado
+  nosotros: habríamos curioseado
+  vosotros: habríais curioseado
+  uds: habrían curioseado
+presente-subjuntivo:
+  yo: curiosee
+  tu: curiosees
+  vos: curiosees
+  ud: curiosee
+  nosotros: curioseemos
+  vosotros: curioseéis
+  uds: curioseen
+preterito-perfecto-subjuntivo:
+  yo: haya curioseado
+  tu: hayas curioseado
+  vos: hayas curioseado
+  ud: haya curioseado
+  nosotros: hayamos curioseado
+  vosotros: hayáis curioseado
+  uds: hayan curioseado
+imperfecto-subjuntivo:
+  yo:
+    - curioseara
+    - curiosease
+  tu:
+    - curiosearas
+    - curioseases
+  vos:
+    - curiosearas
+    - curioseases
+  ud:
+    - curioseara
+    - curiosease
+  nosotros:
+    - curioseáramos
+    - curioseásemos
+  vosotros:
+    - curiosearais
+    - curioseaseis
+  uds:
+    - curiosearan
+    - curioseasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera curioseado
+    - hubiese curioseado
+  tu:
+    - hubieras curioseado
+    - hubieses curioseado
+  vos:
+    - hubieras curioseado
+    - hubieses curioseado
+  ud:
+    - hubiera curioseado
+    - hubiese curioseado
+  nosotros:
+    - hubiéramos curioseado
+    - hubiésemos curioseado
+  vosotros:
+    - hubierais curioseado
+    - hubieseis curioseado
+  uds:
+    - hubieran curioseado
+    - hubiesen curioseado
+imperativo:
+  tu: curiosea
+  vos: curioseá
+  ud: curiosee
+  nosotros: curioseemos
+  vosotros: curiosead
+  uds: curioseen

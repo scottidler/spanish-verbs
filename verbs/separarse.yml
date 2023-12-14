@@ -1,0 +1,142 @@
+infinitivo: separarse
+gerundio: separándose
+participio-pasado: separado
+presente-indicativo:
+  yo: me separo
+  tu: te separas
+  vos: te separas
+  ud: se separa
+  nosotros: nos separamos
+  vosotros: os separáis
+  uds: se separan
+preterito-perfecto-simple:
+  yo: me separé
+  tu: te separaste
+  vos: te separaste
+  ud: se separó
+  nosotros: nos separamos
+  vosotros: os separasteis
+  uds: se separaron
+preterito-imperfecto:
+  yo: me separaba
+  tu: te separabas
+  vos: te separabas
+  ud: se separaba
+  nosotros: nos separábamos
+  vosotros: os separabais
+  uds: se separaban
+futuro-simple:
+  yo: me separaré
+  tu: te separarás
+  vos: te separarás
+  ud: se separará
+  nosotros: nos separaremos
+  vosotros: os separaréis
+  uds: se separarán
+condicional-simple:
+  yo: me separaría
+  tu: te separarías
+  vos: te separarías
+  ud: se separaría
+  nosotros: nos separaríamos
+  vosotros: os separaríais
+  uds: se separarían
+presente-perfecto:
+  yo: me he separado
+  tu: te has separado
+  vos: te has separado
+  ud: se ha separado
+  nosotros: nos hemos separado
+  vosotros: os habéis separado
+  uds: se han separado
+preterito-pluscuamperfecto:
+  yo: me había separado
+  tu: te habías separado
+  vos: te habías separado
+  ud: se había separado
+  nosotros: nos habíamos separado
+  vosotros: os habíais separado
+  uds: se habían separado
+futuro-perfecto:
+  yo: me habré separado
+  tu: te habrás separado
+  vos: te habrás separado
+  ud: se habrá separado
+  nosotros: nos habremos separado
+  vosotros: os habréis separado
+  uds: se habrán separado
+condicional-perfecto:
+  yo: me habría separado
+  tu: te habrías separado
+  vos: te habrías separado
+  ud: se habría separado
+  nosotros: nos habríamos separado
+  vosotros: os habríais separado
+  uds: se habrían separado
+presente-subjuntivo:
+  yo: me separe
+  tu: te separes
+  vos: te separes
+  ud: se separe
+  nosotros: nos separemos
+  vosotros: os separéis
+  uds: se separen
+preterito-perfecto-subjuntivo:
+  yo: me haya separado
+  tu: te hayas separado
+  vos: te hayas separado
+  ud: se haya separado
+  nosotros: nos hayamos separado
+  vosotros: os hayáis separado
+  uds: se hayan separado
+imperfecto-subjuntivo:
+  yo:
+    - me separara
+    - me separase
+  tu:
+    - separaras
+    - separases
+  vos:
+    - separaras
+    - separases
+  ud:
+    - separara
+    - separase
+  nosotros:
+    - separáramos
+    - separásemos
+  vosotros:
+    - separarais
+    - separaseis
+  uds:
+    - separaran
+    - separasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera separado
+    - me hubiese separado
+  tu:
+    - hubieras separado
+    - hubieses separado
+  vos:
+    - hubieras separado
+    - hubieses separado
+  ud:
+    - hubiera separado
+    - hubiese separado
+  nosotros:
+    - hubiéramos separado
+    - hubiésemos separado
+  vosotros:
+    - hubierais separado
+    - hubieseis separado
+  uds:
+    - hubieran separado
+    - hubiesen separado
+imperativo:
+  tu: sepárate
+  vos: sepárate
+  ud: sepárese
+  nosotros: sepárenos
+  vosotros: separaos
+  uds: sepárense

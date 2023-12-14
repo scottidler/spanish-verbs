@@ -1,0 +1,142 @@
+infinitivo: hechizar
+gerundio: hechizando
+participio-pasado: hechizado
+presente-indicativo:
+  yo: hechizo
+  tu: hechizas
+  vos: hechizas
+  ud: hechiza
+  nosotros: hechizamos
+  vosotros: hechizáis
+  uds: hechizan
+preterito-perfecto-simple:
+  yo: hechicé
+  tu: hechizaste
+  vos: hechizaste
+  ud: hechizó
+  nosotros: hechizamos
+  vosotros: hechizasteis
+  uds: hechizaron
+preterito-imperfecto:
+  yo: hechizaba
+  tu: hechizabas
+  vos: hechizabas
+  ud: hechizaba
+  nosotros: hechizábamos
+  vosotros: hechizabais
+  uds: hechizaban
+futuro-simple:
+  yo: hechizaré
+  tu: hechizarás
+  vos: hechizarás
+  ud: hechizará
+  nosotros: hechizaremos
+  vosotros: hechizaréis
+  uds: hechizarán
+condicional-simple:
+  yo: hechizaría
+  tu: hechizarías
+  vos: hechizarías
+  ud: hechizaría
+  nosotros: hechizaríamos
+  vosotros: hechizaríais
+  uds: hechizarían
+presente-perfecto:
+  yo: he hechizado
+  tu: has hechizado
+  vos: has hechizado
+  ud: ha hechizado
+  nosotros: hemos hechizado
+  vosotros: habéis hechizado
+  uds: han hechizado
+preterito-pluscuamperfecto:
+  yo: había hechizado
+  tu: habías hechizado
+  vos: habías hechizado
+  ud: había hechizado
+  nosotros: habíamos hechizado
+  vosotros: habíais hechizado
+  uds: habían hechizado
+futuro-perfecto:
+  yo: habré hechizado
+  tu: habrás hechizado
+  vos: habrás hechizado
+  ud: habrá hechizado
+  nosotros: habremos hechizado
+  vosotros: habréis hechizado
+  uds: habrán hechizado
+condicional-perfecto:
+  yo: habría hechizado
+  tu: habrías hechizado
+  vos: habrías hechizado
+  ud: habría hechizado
+  nosotros: habríamos hechizado
+  vosotros: habríais hechizado
+  uds: habrían hechizado
+presente-subjuntivo:
+  yo: hechice
+  tu: hechices
+  vos: hechices
+  ud: hechice
+  nosotros: hechicemos
+  vosotros: hechicéis
+  uds: hechicen
+preterito-perfecto-subjuntivo:
+  yo: haya hechizado
+  tu: hayas hechizado
+  vos: hayas hechizado
+  ud: haya hechizado
+  nosotros: hayamos hechizado
+  vosotros: hayáis hechizado
+  uds: hayan hechizado
+imperfecto-subjuntivo:
+  yo:
+    - hechizara
+    - hechizase
+  tu:
+    - hechizaras
+    - hechizases
+  vos:
+    - hechizaras
+    - hechizases
+  ud:
+    - hechizara
+    - hechizase
+  nosotros:
+    - hechizáramos
+    - hechizásemos
+  vosotros:
+    - hechizarais
+    - hechizaseis
+  uds:
+    - hechizaran
+    - hechizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera hechizado
+    - hubiese hechizado
+  tu:
+    - hubieras hechizado
+    - hubieses hechizado
+  vos:
+    - hubieras hechizado
+    - hubieses hechizado
+  ud:
+    - hubiera hechizado
+    - hubiese hechizado
+  nosotros:
+    - hubiéramos hechizado
+    - hubiésemos hechizado
+  vosotros:
+    - hubierais hechizado
+    - hubieseis hechizado
+  uds:
+    - hubieran hechizado
+    - hubiesen hechizado
+imperativo:
+  tu: hechiza
+  vos: hechizá
+  ud: hechice
+  nosotros: hechicemos
+  vosotros: hechizad
+  uds: hechicen

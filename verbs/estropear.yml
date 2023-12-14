@@ -1,0 +1,142 @@
+infinitivo: estropear
+gerundio: estropeando
+participio-pasado: estropeado
+presente-indicativo:
+  yo: estropeo
+  tu: estropeas
+  vos: estropeás
+  ud: estropea
+  nosotros: estropeamos
+  vosotros: estropeáis
+  uds: estropean
+preterito-perfecto-simple:
+  yo: estropeé
+  tu: estropeaste
+  vos: estropeaste
+  ud: estropeó
+  nosotros: estropeamos
+  vosotros: estropeasteis
+  uds: estropearon
+preterito-imperfecto:
+  yo: estropeaba
+  tu: estropeabas
+  vos: estropeabas
+  ud: estropeaba
+  nosotros: estropeábamos
+  vosotros: estropeabais
+  uds: estropeaban
+futuro-simple:
+  yo: estropearé
+  tu: estropearás
+  vos: estropearás
+  ud: estropeará
+  nosotros: estropearemos
+  vosotros: estropearéis
+  uds: estropearán
+condicional-simple:
+  yo: estropearía
+  tu: estropearías
+  vos: estropearías
+  ud: estropearía
+  nosotros: estropearíamos
+  vosotros: estropearíais
+  uds: estropearían
+presente-perfecto:
+  yo: he estropeado
+  tu: has estropeado
+  vos: has estropeado
+  ud: ha estropeado
+  nosotros: hemos estropeado
+  vosotros: habéis estropeado
+  uds: han estropeado
+preterito-pluscuamperfecto:
+  yo: había estropeado
+  tu: habías estropeado
+  vos: habías estropeado
+  ud: había estropeado
+  nosotros: habíamos estropeado
+  vosotros: habíais estropeado
+  uds: habían estropeado
+futuro-perfecto:
+  yo: habré estropeado
+  tu: habrás estropeado
+  vos: habrás estropeado
+  ud: habrá estropeado
+  nosotros: habremos estropeado
+  vosotros: habréis estropeado
+  uds: habrán estropeado
+condicional-perfecto:
+  yo: habría estropeado
+  tu: habrías estropeado
+  vos: habrías estropeado
+  ud: habría estropeado
+  nosotros: habríamos estropeado
+  vosotros: habríais estropeado
+  uds: habrían estropeado
+presente-subjuntivo:
+  yo: estropee
+  tu: estropees
+  vos: estropeés
+  ud: estropee
+  nosotros: estropeemos
+  vosotros: estropeéis
+  uds: estropeen
+preterito-perfecto-subjuntivo:
+  yo: haya estropeado
+  tu: hayas estropeado
+  vos: hayas estropeado
+  ud: haya estropeado
+  nosotros: hayamos estropeado
+  vosotros: hayáis estropeado
+  uds: hayan estropeado
+imperfecto-subjuntivo:
+  yo:
+    - estropeara
+    - estropease
+  tu:
+    - estropearas
+    - estropeases
+  vos:
+    - estropearas
+    - estropeases
+  ud:
+    - estropeara
+    - estropease
+  nosotros:
+    - estropeáramos
+    - estropeásemos
+  vosotros:
+    - estropeabais
+    - estropeaseis
+  uds:
+    - estropearan
+    - estropeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estropeado
+    - hubiese estropeado
+  tu:
+    - hubieras estropeado
+    - hubieses estropeado
+  vos:
+    - hubieras estropeado
+    - hubieses estropeado
+  ud:
+    - hubiera estropeado
+    - hubiese estropeado
+  nosotros:
+    - hubiéramos estropeado
+    - hubiésemos estropeado
+  vosotros:
+    - hubierais estropeado
+    - hubieseis estropeado
+  uds:
+    - hubieran estropeado
+    - hubiesen estropeado
+imperativo:
+  tu: estropea
+  vos: estropeá
+  ud: estropee
+  nosotros: estropeemos
+  vosotros: estropead
+  uds: estropeen

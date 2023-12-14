@@ -1,0 +1,142 @@
+infinitivo: reestructurar
+gerundio: reestructurando
+participio-pasado: reestructurado
+presente-indicativo:
+  yo: reestructuro
+  tu: reestructuras
+  vos: reestructuras
+  ud: reestructura
+  nosotros: reestructuramos
+  vosotros: reestructuráis
+  uds: reestructuran
+preterito-perfecto-simple:
+  yo: reestructuré
+  tu: reestructuraste
+  vos: reestructuraste
+  ud: reestructuró
+  nosotros: reestructuramos
+  vosotros: reestructurasteis
+  uds: reestructuraron
+preterito-imperfecto:
+  yo: reestructuraba
+  tu: reestructurabas
+  vos: reestructurabas
+  ud: reestructuraba
+  nosotros: reestructurábamos
+  vosotros: reestructurabais
+  uds: reestructuraban
+futuro-simple:
+  yo: reestructuraré
+  tu: reestructurarás
+  vos: reestructurarás
+  ud: reestructurará
+  nosotros: reestructuraremos
+  vosotros: reestructuraréis
+  uds: reestructurarán
+condicional-simple:
+  yo: reestructuraría
+  tu: reestructurarías
+  vos: reestructurarías
+  ud: reestructuraría
+  nosotros: reestructuraríamos
+  vosotros: reestructuraríais
+  uds: reestructurarían
+presente-perfecto:
+  yo: he reestructurado
+  tu: has reestructurado
+  vos: has reestructurado
+  ud: ha reestructurado
+  nosotros: hemos reestructurado
+  vosotros: habéis reestructurado
+  uds: han reestructurado
+preterito-pluscuamperfecto:
+  yo: había reestructurado
+  tu: habías reestructurado
+  vos: habías reestructurado
+  ud: había reestructurado
+  nosotros: habíamos reestructurado
+  vosotros: habíais reestructurado
+  uds: habían reestructurado
+futuro-perfecto:
+  yo: habré reestructurado
+  tu: habrás reestructurado
+  vos: habrás reestructurado
+  ud: habrá reestructurado
+  nosotros: habremos reestructurado
+  vosotros: habréis reestructurado
+  uds: habrán reestructurado
+condicional-perfecto:
+  yo: habría reestructurado
+  tu: habrías reestructurado
+  vos: habrías reestructurado
+  ud: habría reestructurado
+  nosotros: habríamos reestructurado
+  vosotros: habríais reestructurado
+  uds: habrían reestructurado
+presente-subjuntivo:
+  yo: reestructure
+  tu: reestructures
+  vos: reestructures
+  ud: reestructure
+  nosotros: reestructuremos
+  vosotros: reestructuréis
+  uds: reestructuren
+preterito-perfecto-subjuntivo:
+  yo: haya reestructurado
+  tu: hayas reestructurado
+  vos: hayas reestructurado
+  ud: haya reestructurado
+  nosotros: hayamos reestructurado
+  vosotros: hayáis reestructurado
+  uds: hayan reestructurado
+imperfecto-subjuntivo:
+  yo:
+    - reestructurara
+    - reestructurase
+  tu:
+    - reestructuraras
+    - reestructurases
+  vos:
+    - reestructuraras
+    - reestructurases
+  ud:
+    - reestructurara
+    - reestructurase
+  nosotros:
+    - reestructuráramos
+    - reestructurásemos
+  vosotros:
+    - reestructurarais
+    - reestructuraseis
+  uds:
+    - reestructuraran
+    - reestructurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reestructurado
+    - hubiese reestructurado
+  tu:
+    - hubieras reestructurado
+    - hubieses reestructurado
+  vos:
+    - hubieras reestructurado
+    - hubieses reestructurado
+  ud:
+    - hubiera reestructurado
+    - hubiese reestructurado
+  nosotros:
+    - hubiéramos reestructurado
+    - hubiésemos reestructurado
+  vosotros:
+    - hubierais reestructurado
+    - hubieseis reestructurado
+  uds:
+    - hubieran reestructurado
+    - hubiesen reestructurado
+imperativo:
+  tu: reestructura
+  vos: reestructurá
+  ud: reestructure
+  nosotros: reestructuremos
+  vosotros: reestructurad
+  uds: reestructuren

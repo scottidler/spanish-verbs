@@ -1,0 +1,142 @@
+infinitivo: tiznar
+gerundio: tiznando
+participio-pasado: tiznado
+presente-indicativo:
+  yo: tizno
+  tu: tiznas
+  vos: tiznas
+  ud: tizna
+  nosotros: tiznamos
+  vosotros: tiznáis
+  uds: tiznan
+preterito-perfecto-simple:
+  yo: tizné
+  tu: tiznaste
+  vos: tiznaste
+  ud: tiznó
+  nosotros: tiznamos
+  vosotros: tiznasteis
+  uds: tiznaron
+preterito-imperfecto:
+  yo: tiznaba
+  tu: tiznabas
+  vos: tiznabas
+  ud: tiznaba
+  nosotros: tiznábamos
+  vosotros: tiznabais
+  uds: tiznaban
+futuro-simple:
+  yo: tiznaré
+  tu: tiznarás
+  vos: tiznarás
+  ud: tiznará
+  nosotros: tiznaremos
+  vosotros: tiznaréis
+  uds: tiznarán
+condicional-simple:
+  yo: tiznaría
+  tu: tiznarías
+  vos: tiznarías
+  ud: tiznaría
+  nosotros: tiznaríamos
+  vosotros: tiznaríais
+  uds: tiznarían
+presente-perfecto:
+  yo: he tiznado
+  tu: has tiznado
+  vos: has tiznado
+  ud: ha tiznado
+  nosotros: hemos tiznado
+  vosotros: habéis tiznado
+  uds: han tiznado
+preterito-pluscuamperfecto:
+  yo: había tiznado
+  tu: habías tiznado
+  vos: habías tiznado
+  ud: había tiznado
+  nosotros: habíamos tiznado
+  vosotros: habíais tiznado
+  uds: habían tiznado
+futuro-perfecto:
+  yo: habré tiznado
+  tu: habrás tiznado
+  vos: habrás tiznado
+  ud: habrá tiznado
+  nosotros: habremos tiznado
+  vosotros: habréis tiznado
+  uds: habrán tiznado
+condicional-perfecto:
+  yo: habría tiznado
+  tu: habrías tiznado
+  vos: habrías tiznado
+  ud: habría tiznado
+  nosotros: habríamos tiznado
+  vosotros: habríais tiznado
+  uds: habrían tiznado
+presente-subjuntivo:
+  yo: tizne
+  tu: tiznes
+  vos: tiznes
+  ud: tizne
+  nosotros: tiznemos
+  vosotros: tiznéis
+  uds: tiznen
+preterito-perfecto-subjuntivo:
+  yo: haya tiznado
+  tu: hayas tiznado
+  vos: hayas tiznado
+  ud: haya tiznado
+  nosotros: hayamos tiznado
+  vosotros: hayáis tiznado
+  uds: hayan tiznado
+imperfecto-subjuntivo:
+  yo:
+    - tiznara
+    - tiznase
+  tu:
+    - tiznaras
+    - tiznases
+  vos:
+    - tiznaras
+    - tiznases
+  ud:
+    - tiznara
+    - tiznase
+  nosotros:
+    - tiznáramos
+    - tiznásemos
+  vosotros:
+    - tiznarais
+    - tiznaseis
+  uds:
+    - tiznaran
+    - tiznasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tiznado
+    - hubiese tiznado
+  tu:
+    - hubieras tiznado
+    - hubieses tiznado
+  vos:
+    - hubieras tiznado
+    - hubieses tiznado
+  ud:
+    - hubiera tiznado
+    - hubiese tiznado
+  nosotros:
+    - hubiéramos tiznado
+    - hubiésemos tiznado
+  vosotros:
+    - hubierais tiznado
+    - hubieseis tiznado
+  uds:
+    - hubieran tiznado
+    - hubiesen tiznado
+imperativo:
+  tu: tizna
+  vos: tizná
+  ud: tizne
+  nosotros: tiznemos
+  vosotros: tiznad
+  uds: tiznen

@@ -1,0 +1,142 @@
+infinitivo: enseñar
+gerundio: enseñando
+participio-pasado: enseñado
+presente-indicativo:
+  yo: enseño
+  tu: enseñas
+  vos: enseñás
+  ud: enseña
+  nosotros: enseñamos
+  vosotros: enseñáis
+  uds: enseñan
+preterito-perfecto-simple:
+  yo: enseñé
+  tu: enseñaste
+  vos: enseñaste
+  ud: enseñó
+  nosotros: enseñamos
+  vosotros: enseñasteis
+  uds: enseñaron
+preterito-imperfecto:
+  yo: enseñaba
+  tu: enseñabas
+  vos: enseñabas
+  ud: enseñaba
+  nosotros: enseñábamos
+  vosotros: enseñabais
+  uds: enseñaban
+futuro-simple:
+  yo: enseñaré
+  tu: enseñarás
+  vos: enseñarás
+  ud: enseñará
+  nosotros: enseñaremos
+  vosotros: enseñaréis
+  uds: enseñarán
+condicional-simple:
+  yo: enseñaría
+  tu: enseñarías
+  vos: enseñarías
+  ud: enseñaría
+  nosotros: enseñaríamos
+  vosotros: enseñaríais
+  uds: enseñarían
+presente-perfecto:
+  yo: he enseñado
+  tu: has enseñado
+  vos: has enseñado
+  ud: ha enseñado
+  nosotros: hemos enseñado
+  vosotros: habéis enseñado
+  uds: han enseñado
+preterito-pluscuamperfecto:
+  yo: había enseñado
+  tu: habías enseñado
+  vos: habías enseñado
+  ud: había enseñado
+  nosotros: habíamos enseñado
+  vosotros: habíais enseñado
+  uds: habían enseñado
+futuro-perfecto:
+  yo: habré enseñado
+  tu: habrás enseñado
+  vos: habrás enseñado
+  ud: habrá enseñado
+  nosotros: habremos enseñado
+  vosotros: habréis enseñado
+  uds: habrán enseñado
+condicional-perfecto:
+  yo: habría enseñado
+  tu: habrías enseñado
+  vos: habrías enseñado
+  ud: habría enseñado
+  nosotros: habríamos enseñado
+  vosotros: habríais enseñado
+  uds: habrían enseñado
+presente-subjuntivo:
+  yo: enseñe
+  tu: enseñes
+  vos: enseñes
+  ud: enseñe
+  nosotros: enseñemos
+  vosotros: enseñéis
+  uds: enseñen
+preterito-perfecto-subjuntivo:
+  yo: haya enseñado
+  tu: hayas enseñado
+  vos: hayas enseñado
+  ud: haya enseñado
+  nosotros: hayamos enseñado
+  vosotros: hayáis enseñado
+  uds: hayan enseñado
+imperfecto-subjuntivo:
+  yo:
+    - enseñara
+    - enseñase
+  tu:
+    - enseñaras
+    - enseñases
+  vos:
+    - enseñaras
+    - enseñases
+  ud:
+    - enseñara
+    - enseñase
+  nosotros:
+    - enseñáramos
+    - enseñásemos
+  vosotros:
+    - enseñarais
+    - enseñaseis
+  uds:
+    - enseñaran
+    - enseñasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enseñado
+    - hubiese enseñado
+  tu:
+    - hubieras enseñado
+    - hubieses enseñado
+  vos:
+    - hubieras enseñado
+    - hubieses enseñado
+  ud:
+    - hubiera enseñado
+    - hubiese enseñado
+  nosotros:
+    - hubiéramos enseñado
+    - hubiésemos enseñado
+  vosotros:
+    - hubierais enseñado
+    - hubieseis enseñado
+  uds:
+    - hubieran enseñado
+    - hubiesen enseñado
+imperativo:
+  tu: enseña
+  vos: enseñá
+  ud: enseñe
+  nosotros: enseñemos
+  vosotros: enseñad
+  uds: enseñen

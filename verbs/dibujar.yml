@@ -1,0 +1,142 @@
+infinitivo: dibujar
+gerundio: dibujando
+participio-pasado: dibujado
+presente-indicativo:
+  yo: dibujo
+  tu: dibujas
+  vos: dibujas
+  ud: dibuja
+  nosotros: dibujamos
+  vosotros: dibujáis
+  uds: dibujan
+preterito-perfecto-simple:
+  yo: dibujé
+  tu: dibujaste
+  vos: dibujaste
+  ud: dibujó
+  nosotros: dibujamos
+  vosotros: dibujasteis
+  uds: dibujaron
+preterito-imperfecto:
+  yo: dibujaba
+  tu: dibujabas
+  vos: dibujabas
+  ud: dibujaba
+  nosotros: dibujábamos
+  vosotros: dibujabais
+  uds: dibujaban
+futuro-simple:
+  yo: dibujaré
+  tu: dibujarás
+  vos: dibujarás
+  ud: dibujará
+  nosotros: dibujaremos
+  vosotros: dibujaréis
+  uds: dibujarán
+condicional-simple:
+  yo: dibujaría
+  tu: dibujarías
+  vos: dibujarías
+  ud: dibujaría
+  nosotros: dibujaríamos
+  vosotros: dibujaríais
+  uds: dibujarían
+presente-perfecto:
+  yo: he dibujado
+  tu: has dibujado
+  vos: has dibujado
+  ud: ha dibujado
+  nosotros: hemos dibujado
+  vosotros: habéis dibujado
+  uds: han dibujado
+preterito-pluscuamperfecto:
+  yo: había dibujado
+  tu: habías dibujado
+  vos: habías dibujado
+  ud: había dibujado
+  nosotros: habíamos dibujado
+  vosotros: habíais dibujado
+  uds: habían dibujado
+futuro-perfecto:
+  yo: habré dibujado
+  tu: habrás dibujado
+  vos: habrás dibujado
+  ud: habrá dibujado
+  nosotros: habremos dibujado
+  vosotros: habréis dibujado
+  uds: habrán dibujado
+condicional-perfecto:
+  yo: habría dibujado
+  tu: habrías dibujado
+  vos: habrías dibujado
+  ud: habría dibujado
+  nosotros: habríamos dibujado
+  vosotros: habríais dibujado
+  uds: habrían dibujado
+presente-subjuntivo:
+  yo: dibuje
+  tu: dibujes
+  vos: dibujes
+  ud: dibuje
+  nosotros: dibujemos
+  vosotros: dibujéis
+  uds: dibujen
+preterito-perfecto-subjuntivo:
+  yo: haya dibujado
+  tu: hayas dibujado
+  vos: hayas dibujado
+  ud: haya dibujado
+  nosotros: hayamos dibujado
+  vosotros: hayáis dibujado
+  uds: hayan dibujado
+imperfecto-subjuntivo:
+  yo:
+    - dibujara
+    - dibujase
+  tu:
+    - dibujaras
+    - dibujases
+  vos:
+    - dibujaras
+    - dibujases
+  ud:
+    - dibujara
+    - dibujase
+  nosotros:
+    - dibujáramos
+    - dibujásemos
+  vosotros:
+    - dibujarais
+    - dibujaseis
+  uds:
+    - dibujaran
+    - dibujasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dibujado
+    - hubiese dibujado
+  tu:
+    - hubieras dibujado
+    - hubieses dibujado
+  vos:
+    - hubieras dibujado
+    - hubieses dibujado
+  ud:
+    - hubiera dibujado
+    - hubiese dibujado
+  nosotros:
+    - hubiéramos dibujado
+    - hubiésemos dibujado
+  vosotros:
+    - hubierais dibujado
+    - hubieseis dibujado
+  uds:
+    - hubieran dibujado
+    - hubiesen dibujado
+imperativo:
+  tu: dibuja
+  vos: dibujá
+  ud: dibuje
+  nosotros: dibujemos
+  vosotros: dibujad
+  uds: dibujen

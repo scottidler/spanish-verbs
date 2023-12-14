@@ -1,0 +1,142 @@
+infinitivo: durar
+gerundio: durando
+participio-pasado: durado
+presente-indicativo:
+  yo: duro
+  tu: duras
+  vos: duras
+  ud: dura
+  nosotros: duramos
+  vosotros: duráis
+  uds: duran
+preterito-perfecto-simple:
+  yo: duré
+  tu: duraste
+  vos: duraste
+  ud: duró
+  nosotros: duramos
+  vosotros: durasteis
+  uds: duraron
+preterito-imperfecto:
+  yo: duraba
+  tu: durabas
+  vos: durabas
+  ud: duraba
+  nosotros: durábamos
+  vosotros: durabais
+  uds: duraban
+futuro-simple:
+  yo: duraré
+  tu: durarás
+  vos: durarás
+  ud: durará
+  nosotros: duraremos
+  vosotros: duraréis
+  uds: durarán
+condicional-simple:
+  yo: duraría
+  tu: durarías
+  vos: durarías
+  ud: duraría
+  nosotros: duraríamos
+  vosotros: duraríais
+  uds: durarían
+presente-perfecto:
+  yo: he durado
+  tu: has durado
+  vos: has durado
+  ud: ha durado
+  nosotros: hemos durado
+  vosotros: habéis durado
+  uds: han durado
+preterito-pluscuamperfecto:
+  yo: había durado
+  tu: habías durado
+  vos: habías durado
+  ud: había durado
+  nosotros: habíamos durado
+  vosotros: habíais durado
+  uds: habían durado
+futuro-perfecto:
+  yo: habré durado
+  tu: habrás durado
+  vos: habrás durado
+  ud: habrá durado
+  nosotros: habremos durado
+  vosotros: habréis durado
+  uds: habrán durado
+condicional-perfecto:
+  yo: habría durado
+  tu: habrías durado
+  vos: habrías durado
+  ud: habría durado
+  nosotros: habríamos durado
+  vosotros: habríais durado
+  uds: habrían durado
+presente-subjuntivo:
+  yo: dure
+  tu: dures
+  vos: dures
+  ud: dure
+  nosotros: duremos
+  vosotros: duréis
+  uds: duren
+preterito-perfecto-subjuntivo:
+  yo: haya durado
+  tu: hayas durado
+  vos: hayas durado
+  ud: haya durado
+  nosotros: hayamos durado
+  vosotros: hayáis durado
+  uds: hayan durado
+imperfecto-subjuntivo:
+  yo:
+    - durara
+    - durase
+  tu:
+    - duraras
+    - durases
+  vos:
+    - duraras
+    - durases
+  ud:
+    - durara
+    - durase
+  nosotros:
+    - duráramos
+    - durásemos
+  vosotros:
+    - durarais
+    - duraseis
+  uds:
+    - duraran
+    - durasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera durado
+    - hubiese durado
+  tu:
+    - hubieras durado
+    - hubieses durado
+  vos:
+    - hubieras durado
+    - hubieses durado
+  ud:
+    - hubiera durado
+    - hubiese durado
+  nosotros:
+    - hubiéramos durado
+    - hubiésemos durado
+  vosotros:
+    - hubierais durado
+    - hubieseis durado
+  uds:
+    - hubieran durado
+    - hubiesen durado
+imperativo:
+  tu: dura
+  vos: durá
+  ud: dure
+  nosotros: duremos
+  vosotros: durad
+  uds: duren

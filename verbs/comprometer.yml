@@ -1,0 +1,142 @@
+infinitivo: comprometer
+gerundio: comprometiendo
+participio-pasado: comprometido
+presente-indicativo:
+  yo: comprometo
+  tu: comprometes
+  vos: comprometes
+  ud: compromete
+  nosotros: comprometemos
+  vosotros: comprometéis
+  uds: comprometen
+preterito-perfecto-simple:
+  yo: comprometí
+  tu: comprometiste
+  vos: comprometiste
+  ud: comprometió
+  nosotros: comprometimos
+  vosotros: comprometisteis
+  uds: comprometieron
+preterito-imperfecto:
+  yo: comprometía
+  tu: comprometías
+  vos: comprometías
+  ud: comprometía
+  nosotros: comprometíamos
+  vosotros: comprometíais
+  uds: comprometían
+futuro-simple:
+  yo: comprometeré
+  tu: comprometerás
+  vos: comprometerás
+  ud: comprometerá
+  nosotros: comprometeremos
+  vosotros: comprometeréis
+  uds: comprometerán
+condicional-simple:
+  yo: comprometería
+  tu: comprometerías
+  vos: comprometerías
+  ud: comprometería
+  nosotros: comprometeríamos
+  vosotros: comprometeríais
+  uds: comprometerían
+presente-perfecto:
+  yo: he comprometido
+  tu: has comprometido
+  vos: has comprometido
+  ud: ha comprometido
+  nosotros: hemos comprometido
+  vosotros: habéis comprometido
+  uds: han comprometido
+preterito-pluscuamperfecto:
+  yo: había comprometido
+  tu: habías comprometido
+  vos: habías comprometido
+  ud: había comprometido
+  nosotros: habíamos comprometido
+  vosotros: habíais comprometido
+  uds: habían comprometido
+futuro-perfecto:
+  yo: habré comprometido
+  tu: habrás comprometido
+  vos: habrás comprometido
+  ud: habrá comprometido
+  nosotros: habremos comprometido
+  vosotros: habréis comprometido
+  uds: habrán comprometido
+condicional-perfecto:
+  yo: habría comprometido
+  tu: habrías comprometido
+  vos: habrías comprometido
+  ud: habría comprometido
+  nosotros: habríamos comprometido
+  vosotros: habríais comprometido
+  uds: habrían comprometido
+presente-subjuntivo:
+  yo: comprometa
+  tu: comprometas
+  vos: comprometas
+  ud: comprometa
+  nosotros: comprometamos
+  vosotros: comprometáis
+  uds: comprometan
+preterito-perfecto-subjuntivo:
+  yo: haya comprometido
+  tu: hayas comprometido
+  vos: hayas comprometido
+  ud: haya comprometido
+  nosotros: hayamos comprometido
+  vosotros: hayáis comprometido
+  uds: hayan comprometido
+imperfecto-subjuntivo:
+  yo:
+    - comprometiera
+    - comprometiese
+  tu:
+    - comprometieras
+    - comprometieses
+  vos:
+    - comprometieras
+    - comprometieses
+  ud:
+    - comprometiera
+    - comprometiese
+  nosotros:
+    - comprometiéramos
+    - comprometiésemos
+  vosotros:
+    - comprometierais
+    - comprometieseis
+  uds:
+    - comprometieran
+    - comprometiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera comprometido
+    - hubiese comprometido
+  tu:
+    - hubieras comprometido
+    - hubieses comprometido
+  vos:
+    - hubieras comprometido
+    - hubieses comprometido
+  ud:
+    - hubiera comprometido
+    - hubiese comprometido
+  nosotros:
+    - hubiéramos comprometido
+    - hubiésemos comprometido
+  vosotros:
+    - hubierais comprometido
+    - hubieseis comprometido
+  uds:
+    - hubieran comprometido
+    - hubiesen comprometido
+imperativo:
+  tu: compromete
+  vos: comprometé
+  ud: comprometa
+  nosotros: comprometamos
+  vosotros: comprometed
+  uds: comprometan

@@ -1,0 +1,156 @@
+infinitivo: filtrarse
+gerundio: filtrándose
+participio-pasado: filtrado
+
+presente-indicativo:
+  yo: me filtro
+  tu: te filtras
+  vos: te filtras
+  ud: se filtra
+  nosotros: nos filtramos
+  vosotros: os filtráis
+  uds: se filtran
+
+preterito-perfecto-simple:
+  yo: me filtré
+  tu: te filtraste
+  vos: te filtraste
+  ud: se filtró
+  nosotros: nos filtramos
+  vosotros: os filtrasteis
+  uds: se filtraron
+
+preterito-imperfecto:
+  yo: me filtraba
+  tu: te filtrabas
+  vos: te filtrabas
+  ud: se filtraba
+  nosotros: nos filtrábamos
+  vosotros: os filtrabais
+  uds: se filtraban
+
+futuro-simple:
+  yo: me filtraré
+  tu: te filtrarás
+  vos: te filtrarás
+  ud: se filtrará
+  nosotros: nos filtraremos
+  vosotros: os filtraréis
+  uds: se filtrarán
+
+condicional-simple:
+  yo: me filtraría
+  tu: te filtrarías
+  vos: te filtrarías
+  ud: se filtraría
+  nosotros: nos filtraríamos
+  vosotros: os filtraríais
+  uds: se filtrarían
+
+presente-perfecto:
+  yo: me he filtrado
+  tu: te has filtrado
+  vos: te has filtrado
+  ud: se ha filtrado
+  nosotros: nos hemos filtrado
+  vosotros: os habéis filtrado
+  uds: se han filtrado
+
+preterito-pluscuamperfecto:
+  yo: me había filtrado
+  tu: te habías filtrado
+  vos: te habías filtrado
+  ud: se había filtrado
+  nosotros: nos habíamos filtrado
+  vosotros: os habíais filtrado
+  uds: se habían filtrado
+
+futuro-perfecto:
+  yo: me habré filtrado
+  tu: te habrás filtrado
+  vos: te habrás filtrado
+  ud: se habrá filtrado
+  nosotros: nos habremos filtrado
+  vosotros: os habréis filtrado
+  uds: se habrán filtrado
+
+condicional-perfecto:
+  yo: me habría filtrado
+  tu: te habrías filtrado
+  vos: te habrías filtrado
+  ud: se habría filtrado
+  nosotros: nos habríamos filtrado
+  vosotros: os habríais filtrado
+  uds: se habrían filtrado
+
+presente-subjuntivo:
+  yo: me filtre
+  tu: te filtres
+  vos: te filtres
+  ud: se filtre
+  nosotros: nos filtremos
+  vosotros: os filtréis
+  uds: se filtren
+
+preterito-perfecto-subjuntivo:
+  yo: me haya filtrado
+  tu: te hayas filtrado
+  vos: te hayas filtrado
+  ud: se haya filtrado
+  nosotros: nos hayamos filtrado
+  vosotros: os hayáis filtrado
+  uds: se hayan filtrado
+
+imperfecto-subjuntivo:
+  yo:
+    - me filtrara
+    - me filtrase
+  tu:
+    - te filtraras
+    - te filtrases
+  vos:
+    - te filtraras
+    - te filtrases
+  ud:
+    - se filtrara
+    - se filtrase
+  nosotros:
+    - nos filtráramos
+    - nos filtrásemos
+  vosotros:
+    - os filtrarais
+    - os filtraseis
+  uds:
+    - se filtraran
+    - se filtrasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera filtrado
+    - me hubiese filtrado
+  tu:
+    - te hubieras filtrado
+    - te hubieses filtrado
+  vos:
+    - te hubieras filtrado
+    - te hubieses filtrado
+  ud:
+    - se hubiera filtrado
+    - se hubiese filtrado
+  nosotros:
+    - nos hubiéramos filtrado
+    - nos hubiésemos filtrado
+  vosotros:
+    - os hubierais filtrado
+    - os hubieseis filtrado
+  uds:
+    - se hubieran filtrado
+    - se hubiesen filtrado
+
+imperativo:
+  tu: filtra(te)
+  vos: filtrá(te)
+  ud: filtre(se)
+  nosotros: filtremos(nos)
+  vosotros: filtrad(os)
+  uds: filtren(se)

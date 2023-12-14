@@ -1,0 +1,142 @@
+infinitivo: enrollarse
+gerundio: enrollándose
+participio-pasado: enrollado
+presente-indicativo:
+  yo: me enroll
+  tu: te enrollas
+  vos: te enrollas
+  ud: se enrolla
+  nosotros: nos enrollamos
+  vosotros: os enrolláis
+  uds: se enrollan
+preterito-perfecto-simple:
+  yo: me enrollé
+  tu: te enrollaste
+  vos: te enrollaste
+  ud: se enrolló
+  nosotros: nos enrollamos
+  vosotros: os enrollasteis
+  uds: se enrollaron
+preterito-imperfecto:
+  yo: me enrollaba
+  tu: te enrollabas
+  vos: te enrollabas
+  ud: se enrollaba
+  nosotros: nos enrollábamos
+  vosotros: os enrollabais
+  uds: se enrollaban
+futuro-simple:
+  yo: me enrollaré
+  tu: te enrollarás
+  vos: te enrollarás
+  ud: se enrollará
+  nosotros: nos enrollaremos
+  vosotros: os enrollaréis
+  uds: se enrollarán
+condicional-simple:
+  yo: me enrollaría
+  tu: te enrollarías
+  vos: te enrollarías
+  ud: se enrollaría
+  nosotros: nos enrollaríamos
+  vosotros: os enrollaríais
+  uds: se enrollarían
+presente-perfecto:
+  yo: me he enrollado
+  tu: te has enrollado
+  vos: te has enrollado
+  ud: se ha enrollado
+  nosotros: nos hemos enrollado
+  vosotros: os habéis enrollado
+  uds: se han enrollado
+preterito-pluscuamperfecto:
+  yo: me había enrollado
+  tu: te habías enrollado
+  vos: te habías enrollado
+  ud: se había enrollado
+  nosotros: nos habíamos enrollado
+  vosotros: os habíais enrollado
+  uds: se habían enrollado
+futuro-perfecto:
+  yo: me habré enrollado
+  tu: te habrás enrollado
+  vos: te habrás enrollado
+  ud: se habrá enrollado
+  nosotros: nos habremos enrollado
+  vosotros: os habréis enrollado
+  uds: se habrán enrollado
+condicional-perfecto:
+  yo: me habría enrollado
+  tu: te habrías enrollado
+  vos: te habrías enrollado
+  ud: se habría enrollado
+  nosotros: nos habríamos enrollado
+  vosotros: os habríais enrollado
+  uds: se habrían enrollado
+presente-subjuntivo:
+  yo: me enrolle
+  tu: te enrolles
+  vos: te enrolles
+  ud: se enrolle
+  nosotros: nos enrollemos
+  vosotros: os enrolleis
+  uds: se enrolle
+preterito-perfecto-subjuntivo:
+  yo: me haya enrollado
+  tu: te hayas enrollado
+  vos: te hayas enrollado
+  ud: se haya enrollado
+  nosotros: nos hayamos enrollado
+  vosotros: os hayáis enrollado
+  uds: se hayan enrollado
+imperfecto-subjuntivo:
+  yo: 
+    - me enrollara
+    - me enrollase
+  tu: 
+    - te enrollaras
+    - te enrollases
+  vos: 
+    - te enrollaras
+    - te enrollases
+  ud: 
+    - se enrollara
+    - se enrollase
+  nosotros: 
+    - nos enrolláramos
+    - nos enrollásemos
+  vosotros: 
+    - os enrollarais
+    - os enrollaseis
+  uds: 
+    - se enrollaran
+    - se enrollassen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - me hubiera enrollado
+    - me hubiese enrollado
+  tu: 
+    - te hubieras enrollado
+    - te hubieses enrollado
+  vos: 
+    - te hubieras enrollado
+    - te hubieses enrollado
+  ud: 
+    - se hubiera enrollado
+    - se hubiese enrollado
+  nosotros: 
+    - nos hubiéramos enrollado
+    - nos hubiésemos enrollado
+  vosotros:
+    - os hubierais enrollado
+    - os hubieseis enrollado
+  uds: 
+    - se hubieran enrollado
+    - se hubiesen enrollado
+imperativo:
+  tu: enrollate
+  vos: enrollate
+  ud: enrollese
+  nosotros: enrollemosnos
+  vosotros: enrollaos
+  uds: enrollese

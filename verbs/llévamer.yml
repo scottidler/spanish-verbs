@@ -1,0 +1,142 @@
+infinitivo: llévamer
+gerundio: llévamando
+participio-pasado: llévamado
+presente-indicativo:
+  yo: llévamo
+  tu: llévamas
+  vos: llévamas
+  ud: llevama
+  nosotros: llevamamos
+  vosotros: llevamáis
+  uds: llevaman
+preterito-perfecto-simple:
+  yo: llévamé
+  tu: llévamaste
+  vos: llévamaste
+  ud: llevamó
+  nosotros: llevamamos
+  vosotros: llévamasteis
+  uds: llévamaron
+preterito-imperfecto:
+  yo: llévamaba
+  tu: llévamabas
+  vos: llévamabas
+  ud: llévamaba
+  nosotros: llévamábamos
+  vosotros: llévamabais
+  uds: llévamaban
+futuro-simple:
+  yo: llévamaré
+  tu: llévamarás
+  vos: llévamarás
+  ud: llévamará
+  nosotros: llévamaremos
+  vosotros: llévamaréis
+  uds: llévamarán
+condicional-simple:
+  yo: llévamaría
+  tu: llévamarías
+  vos: llévamarías
+  ud: llévamaría
+  nosotros: llévamaríamos
+  vosotros: llévamaríais
+  uds: llévamarían
+presente-perfecto:
+  yo: he llévamado
+  tu: has llévamado
+  vos: has llévamado
+  ud: ha llévamado
+  nosotros: hemos llévamado
+  vosotros: habéis llévamado
+  uds: han llévamado
+preterito-pluscuamperfecto:
+  yo: había llévamado
+  tu: habías llévamado
+  vos: habías llévamado
+  ud: había llévamado
+  nosotros: habíamos llévamado
+  vosotros: habíais llévamado
+  uds: habían llévamado
+futuro-perfecto:
+  yo: habré llévamado
+  tu: habrás llévamado
+  vos: habrás llévamado
+  ud: habrá llévamado
+  nosotros: habremos llévamado
+  vosotros: habréis llévamado
+  uds: habrán llévamado
+condicional-perfecto:
+  yo: habría llévamado
+  tu: habrías llévamado
+  vos: habrías llévamado
+  ud: habría llévamado
+  nosotros: habríamos llévamado
+  vosotros: habríais llévamado
+  uds: habrían llévamado
+presente-subjuntivo:
+  yo: llévame
+  tu: llévames
+  vos: llévames
+  ud: llévame
+  nosotros: llévamemos
+  vosotros: llévameis
+  uds: llévamen
+preterito-perfecto-subjuntivo:
+  yo: haya llévamado
+  tu: hayas llévamado
+  vos: hayas llévamado
+  ud: haya llévamado
+  nosotros: hayamos llévamado
+  vosotros: hayáis llévamado
+  uds: hayan llévamado
+imperfecto-subjuntivo:
+  yo:
+    - llévamara
+    - llévamase
+  tu:
+    - llévamaras
+    - llévamases
+  vos:
+    - llévamaras
+    - llévamases
+  ud:
+    - llévamara
+    - llévamase
+  nosotros:
+    - llévamáramos
+    - llévamásemos
+  vosotros:
+    - llévamarais
+    - llévamaseis
+  uds:
+    - llévamaran
+    - llévamasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llévamado
+    - hubiese llévamado
+  tu:
+    - hubieras llévamado
+    - hubieses llévamado
+  vos:
+    - hubieras llévamado
+    - hubieses llévamado
+  ud:
+    - hubiera llévamado
+    - hubiese llévamado
+  nosotros:
+    - hubiéramos llévamado
+    - hubiésemos llévamado
+  vosotros:
+    - hubierais llévamado
+    - hubieseis llévamado
+  uds:
+    - hubieran llévamado
+    - hubiesen llévamado
+imperativo:
+  tu: llévama
+  vos: llévamá
+  ud: llévame
+  nosotros: llévamemos
+  vosotros: llévamad
+  uds: llévamen

@@ -1,0 +1,142 @@
+infinitivo: molestar
+gerundio: molestando
+participio-pasado: molestado
+presente-indicativo:
+  yo: molesto
+  tu: molestas
+  vos: molestas
+  ud: molesta
+  nosotros: molestamos
+  vosotros: molestáis
+  uds: molestan
+preterito-perfecto-simple:
+  yo: molesté
+  tu: molestaste
+  vos: molestaste
+  ud: molestó
+  nosotros: molestamos
+  vosotros: molestasteis
+  uds: molestaron
+preterito-imperfecto:
+  yo: molestaba
+  tu: molestabas
+  vos: molestabas
+  ud: molestaba
+  nosotros: molestábamos
+  vosotros: molestabais
+  uds: molestaban
+futuro-simple:
+  yo: molestaré
+  tu: molestarás
+  vos: molestarás
+  ud: molestará
+  nosotros: molestaremos
+  vosotros: molestaréis
+  uds: molestarán
+condicional-simple:
+  yo: molestaría
+  tu: molestarías
+  vos: molestarías
+  ud: molestaría
+  nosotros: molestaríamos
+  vosotros: molestaríais
+  uds: molestarían
+presente-perfecto:
+  yo: he molestado
+  tu: has molestado
+  vos: has molestado
+  ud: ha molestado
+  nosotros: hemos molestado
+  vosotros: habéis molestado
+  uds: han molestado
+preterito-pluscuamperfecto:
+  yo: había molestado
+  tu: habías molestado
+  vos: habías molestado
+  ud: había molestado
+  nosotros: habíamos molestado
+  vosotros: habíais molestado
+  uds: habían molestado
+futuro-perfecto:
+  yo: habré molestado
+  tu: habrás molestado
+  vos: habrás molestado
+  ud: habrá molestado
+  nosotros: habremos molestado
+  vosotros: habréis molestado
+  uds: habrán molestado
+condicional-perfecto:
+  yo: habría molestado
+  tu: habrías molestado
+  vos: habrías molestado
+  ud: habría molestado
+  nosotros: habríamos molestado
+  vosotros: habríais molestado
+  uds: habrían molestado
+presente-subjuntivo:
+  yo: moleste
+  tu: molestes
+  vos: molestes
+  ud: moleste
+  nosotros: molestemos
+  vosotros: molestéis
+  uds: molesten
+preterito-perfecto-subjuntivo:
+  yo: haya molestado
+  tu: hayas molestado
+  vos: hayas molestado
+  ud: haya molestado
+  nosotros: hayamos molestado
+  vosotros: hayáis molestado
+  uds: hayan molestado
+imperfecto-subjuntivo:
+  yo:
+    - molestara
+    - molestase
+  tu:
+    - molestaras
+    - molestases
+  vos:
+    - molestaras
+    - molestases
+  ud:
+    - molestara
+    - molestase
+  nosotros:
+    - molestáramos
+    - molestásemos
+  vosotros:
+    - molestarais
+    - molestaseis
+  uds:
+    - molestaran
+    - molestasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera molestado
+    - hubiese molestado
+  tu:
+    - hubieras molestado
+    - hubieses molestado
+  vos:
+    - hubieras molestado
+    - hubieses molestado
+  ud:
+    - hubiera molestado
+    - hubiese molestado
+  nosotros:
+    - hubiéramos molestado
+    - hubiésemos molestado
+  vosotros:
+    - hubierais molestado
+    - hubieseis molestado
+  uds:
+    - hubieran molestado
+    - hubiesen molestado
+imperativo:
+  tu: molesta
+  vos: molestá
+  ud: moleste
+  nosotros: molestemos
+  vosotros: molestad
+  uds: molesten

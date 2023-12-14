@@ -1,0 +1,142 @@
+infinitivo: seleccionar
+gerundio: seleccionando
+participio-pasado: seleccionado
+presente-indicativo:
+  yo: selecciono
+  tu: seleccionas
+  vos: seleccionas
+  ud: selecciona
+  nosotros: seleccionamos
+  vosotros: seleccionáis
+  uds: seleccionan
+preterito-perfecto-simple:
+  yo: seleccioné
+  tu: seleccionaste
+  vos: seleccionaste
+  ud: seleccionó
+  nosotros: seleccionamos
+  vosotros: seleccionasteis
+  uds: seleccionaron
+preterito-imperfecto:
+  yo: seleccionaba
+  tu: seleccionabas
+  vos: seleccionabas
+  ud: seleccionaba
+  nosotros: seleccionábamos
+  vosotros: seleccionabais
+  uds: seleccionaban
+futuro-simple:
+  yo: seleccionaré
+  tu: seleccionarás
+  vos: seleccionarás
+  ud: seleccionará
+  nosotros: seleccionaremos
+  vosotros: seleccionaréis
+  uds: seleccionarán
+condicional-simple:
+  yo: seleccionaría
+  tu: seleccionarías
+  vos: seleccionarías
+  ud: seleccionaría
+  nosotros: seleccionaríamos
+  vosotros: seleccionaríais
+  uds: seleccionarían
+presente-perfecto:
+  yo: he seleccionado
+  tu: has seleccionado
+  vos: has seleccionado
+  ud: ha seleccionado
+  nosotros: hemos seleccionado
+  vosotros: habéis seleccionado
+  uds: han seleccionado
+preterito-pluscuamperfecto:
+  yo: había seleccionado
+  tu: habías seleccionado
+  vos: habías seleccionado
+  ud: había seleccionado
+  nosotros: habíamos seleccionado
+  vosotros: habíais seleccionado
+  uds: habían seleccionado
+futuro-perfecto:
+  yo: habré seleccionado
+  tu: habrás seleccionado
+  vos: habrás seleccionado
+  ud: habrá seleccionado
+  nosotros: habremos seleccionado
+  vosotros: habréis seleccionado
+  uds: habrán seleccionado
+condicional-perfecto:
+  yo: habría seleccionado
+  tu: habrías seleccionado
+  vos: habrías seleccionado
+  ud: habría seleccionado
+  nosotros: habríamos seleccionado
+  vosotros: habríais seleccionado
+  uds: habrían seleccionado
+presente-subjuntivo:
+  yo: seleccione
+  tu: selecciones
+  vos: selecciones
+  ud: seleccione
+  nosotros: seleccionemos
+  vosotros: seleccionéis
+  uds: seleccionen
+preterito-perfecto-subjuntivo:
+  yo: haya seleccionado
+  tu: hayas seleccionado
+  vos: hayas seleccionado
+  ud: haya seleccionado
+  nosotros: hayamos seleccionado
+  vosotros: hayáis seleccionado
+  uds: hayan seleccionado
+imperfecto-subjuntivo:
+  yo:
+    - seleccionara
+    - seleccionase
+  tu:
+    - seleccionaras
+    - seleccionases
+  vos:
+    - seleccionaras
+    - seleccionases
+  ud:
+    - seleccionara
+    - seleccionase
+  nosotros:
+    - seleccionáramos
+    - seleccionásemos
+  vosotros:
+    - seleccionarais
+    - seleccionaseis
+  uds:
+    - seleccionaran
+    - seleccionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera seleccionado
+    - hubiese seleccionado
+  tu:
+    - hubieras seleccionado
+    - hubieses seleccionado
+  vos:
+    - hubieras seleccionado
+    - hubieses seleccionado
+  ud:
+    - hubiera seleccionado
+    - hubiese seleccionado
+  nosotros:
+    - hubiéramos seleccionado
+    - hubiésemos seleccionado
+  vosotros:
+    - hubierais seleccionado
+    - hubieseis seleccionado
+  uds:
+    - hubieran seleccionado
+    - hubiesen seleccionado
+imperativo:
+  tu: selecciona
+  vos: seleccioná
+  ud: seleccione
+  nosotros: seleccionemos
+  vosotros: seleccionad
+  uds: seleccionen

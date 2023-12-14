@@ -1,0 +1,142 @@
+infinitivo: impacientarse
+gerundio: impacientándose
+participio-pasado: impacientado
+presente-indicativo:
+  yo: me impaciento
+  tu: te impacientas
+  vos: te impacientas
+  ud: se impacienta
+  nosotros: nos impacientamos
+  vosotros: os impacientáis
+  uds: se impacientan
+preterito-perfecto-simple:
+  yo: me impacienté
+  tu: te impacientaste
+  vos: te impacientaste
+  ud: se impacientó
+  nosotros: nos impacientamos
+  vosotros: os impacientasteis
+  uds: se impacientaron
+preterito-imperfecto:
+  yo: me impacientaba
+  tu: te impacientabas
+  vos: te impacientabas
+  ud: se impacientaba
+  nosotros: nos impacientábamos
+  vosotros: os impacientabais
+  uds: se impacientaban
+futuro-simple:
+  yo: me impacientaré
+  tu: te impacientarás
+  vos: te impacientarás
+  ud: se impacientará
+  nosotros: nos impacientaremos
+  vosotros: os impacientaréis
+  uds: se impacientarán
+condicional-simple:
+  yo: me impacientaría
+  tu: te impacientarías
+  vos: te impacientarías
+  ud: se impacientaría
+  nosotros: nos impacientaríamos
+  vosotros: os impacientaríais
+  uds: se impacientarían
+presente-perfecto:
+  yo: me he impacientado
+  tu: te has impacientado
+  vos: te has impacientado
+  ud: se ha impacientado
+  nosotros: nos hemos impacientado
+  vosotros: os habéis impacientado
+  uds: se han impacientado
+preterito-pluscuamperfecto:
+  yo: me había impacientado
+  tu: te habías impacientado
+  vos: te habías impacientado
+  ud: se había impacientado
+  nosotros: nos habíamos impacientado
+  vosotros: os habíais impacientado
+  uds: se habían impacientado
+futuro-perfecto:
+  yo: me habré impacientado
+  tu: te habrás impacientado
+  vos: te habrás impacientado
+  ud: se habrá impacientado
+  nosotros: nos habremos impacientado
+  vosotros: os habréis impacientado
+  uds: se habrán impacientado
+condicional-perfecto:
+  yo: me habría impacientado
+  tu: te habrías impacientado
+  vos: te habrías impacientado
+  ud: se habría impacientado
+  nosotros: nos habríamos impacientado
+  vosotros: os habríais impacientado
+  uds: se habrían impacientado
+presente-subjuntivo:
+  yo: me impaciente
+  tu: te impacientes
+  vos: te impacientes
+  ud: se impaciente
+  nosotros: nos impacientemos
+  vosotros: os impacientéis
+  uds: se impacienten
+preterito-perfecto-subjuntivo:
+  yo: me haya impacientado
+  tu: te hayas impacientado
+  vos: te hayas impacientado
+  ud: se haya impacientado
+  nosotros: nos hayamos impacientado
+  vosotros: os hayáis impacientado
+  uds: se hayan impacientado
+imperfecto-subjuntivo:
+  yo:
+    - me impacientara
+    - me impacientase
+  tu:
+    - te impacientaras
+    - te impacientases
+  vos:
+    - te impacientaras
+    - te impacientases
+  ud:
+    - se impacientara
+    - se impacientase
+  nosotros:
+    - nos impacientáramos
+    - nos impacientásemos
+  vosotros:
+    - os impacientarais
+    - os impacientaseis
+  uds:
+    - se impacientaran
+    - se impacientasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera impacientado
+    - me hubiese impacientado
+  tu:
+    - te hubieras impacientado
+    - te hubieses impacientado
+  vos:
+    - te hubieras impacientado
+    - te hubieses impacientado
+  ud:
+    - se hubiera impacientado
+    - se hubiese impacientado
+  nosotros:
+    - nos hubiéramos impacientado
+    - nos hubiésemos impacientado
+  vosotros:
+    - os hubierais impacientado
+    - os hubieseis impacientado
+  uds:
+    - se hubieran impacientado
+    - se hubiesen impacientado
+imperativo:
+  tu: impacientate
+  vos: impacientate
+  ud: impaciéntese
+  nosotros: impacientémonos
+  vosotros: impacientaos
+  uds: impacientense

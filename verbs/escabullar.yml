@@ -1,0 +1,142 @@
+infinitivo: escabullir
+gerundio: escabullendo
+participio-pasado: escabullido
+presente-indicativo:
+  yo: escabullo
+  tu: escabulles
+  vos: escabulles
+  ud: escabulle
+  nosotros: escabullimos
+  vosotros: escabullís
+  uds: escabullen
+preterito-perfecto-simple:
+  yo: escabullí
+  tu: escabulliste
+  vos: escabulliste
+  ud: escabulló
+  nosotros: escabullimos
+  vosotros: escabullisteis
+  uds: escabulleron
+preterito-imperfecto:
+  yo: escabullía
+  tu: escabullías
+  vos: escabullías
+  ud: escabullía
+  nosotros: escabullíamos
+  vosotros: escabullíais
+  uds: escabullían
+futuro-simple:
+  yo: escabulliré
+  tu: escabullirás
+  vos: escabullirás
+  ud: escabullirá
+  nosotros: escabulliremos
+  vosotros: escabulliréis
+  uds: escabullirán
+condicional-simple:
+  yo: escabulliría
+  tu: escabullirías
+  vos: escabullirías
+  ud: escabulliría
+  nosotros: escabulliríamos
+  vosotros: escabulliríais
+  uds: escabullirían
+presente-perfecto:
+  yo: he escabullido
+  tu: has escabullido
+  vos: has escabullido
+  ud: ha escabullido
+  nosotros: hemos escabullido
+  vosotros: habéis escabullido
+  uds: han escabullido
+preterito-pluscuamperfecto:
+  yo: había escabullido
+  tu: habías escabullido
+  vos: habías escabullido
+  ud: había escabullido
+  nosotros: habíamos escabullido
+  vosotros: habíais escabullido
+  uds: habían escabullido
+futuro-perfecto:
+  yo: habré escabullido
+  tu: habrás escabullido
+  vos: habrás escabullido
+  ud: habrá escabullido
+  nosotros: habremos escabullido
+  vosotros: habréis escabullido
+  uds: habrán escabullido
+condicional-perfecto:
+  yo: habría escabullido
+  tu: habrías escabullido
+  vos: habrías escabullido
+  ud: habría escabullido
+  nosotros: habríamos escabullido
+  vosotros: habríais escabullido
+  uds: habrían escabullido
+presente-subjuntivo:
+  yo: escabulla
+  tu: escabullas
+  vos: escabullas
+  ud: escabulla
+  nosotros: escabullamos
+  vosotros: escabulláis
+  uds: escabullan
+preterito-perfecto-subjuntivo:
+  yo: haya escabullido
+  tu: hayas escabullido
+  vos: hayas escabullido
+  ud: haya escabullido
+  nosotros: hayamos escabullido
+  vosotros: hayáis escabullido
+  uds: hayan escabullido
+imperfecto-subjuntivo:
+  yo:
+    - escabullera
+    - escabullese
+  tu:
+    - escabulleras
+    - escabulleses
+  vos:
+    - escabulleras
+    - escabulleses
+  ud:
+    - escabullera
+    - escabullese
+  nosotros:
+    - escabulléramos
+    - escabullésemos
+  vosotros:
+    - escabullerais
+    - escabulleseis
+  uds:
+    - escabulleran
+    - escabullesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera escabullido
+    - hubiese escabullido
+  tu:
+    - hubieras escabullido
+    - hubieses escabullido
+  vos:
+    - hubieras escabullido
+    - hubieses escabullido
+  ud:
+    - hubiera escabullido
+    - hubiese escabullido
+  nosotros:
+    - hubiéramos escabullido
+    - hubiésemos escabullido
+  vosotros:
+    - hubierais escabullido
+    - hubieseis escabullido
+  uds:
+    - hubieran escabullido
+    - hubiesen escabullido
+imperativo:
+  tu: escabulle
+  vos: escabullí
+  ud: escabulla
+  nosotros: escabullamos
+  vosotros: escabullid
+  uds: escabullan

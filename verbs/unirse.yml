@@ -1,0 +1,156 @@
+infinitivo: unirse
+gerundio: uniéndose
+participio-pasado: unido/unida
+
+presente-indicativo:
+  yo: me uno
+  tu: te unes
+  vos: te unes
+  ud: se une
+  nosotros: nos unimos
+  vosotros: os unís
+  uds: se unen
+
+preterito-perfecto-simple:
+  yo: me uní
+  tu: te uniste
+  vos: te uniste
+  ud: se unió
+  nosotros: nos unimos
+  vosotros: os unisteis
+  uds: se unieron
+
+preterito-imperfecto:
+  yo: me unía
+  tu: te unías
+  vos: te unías
+  ud: se unía
+  nosotros: nos uníamos
+  vosotros: os uníais
+  uds: se unían
+
+futuro-simple:
+  yo: me uniré
+  tu: te unirás
+  vos: te unirás
+  ud: se unirá
+  nosotros: nos uniremos
+  vosotros: os uniréis
+  uds: se unirán
+
+condicional-simple:
+  yo: me uniría
+  tu: te unirías
+  vos: te unirías
+  ud: se uniría
+  nosotros: nos uniríamos
+  vosotros: os uniríais
+  uds: se unirían
+
+presente-perfecto:
+  yo: me he unido
+  tu: te has unido
+  vos: te has unido
+  ud: se ha unido
+  nosotros: nos hemos unido
+  vosotros: os habéis unido
+  uds: se han unido
+
+preterito-pluscuamperfecto:
+  yo: me había unido
+  tu: te habías unido
+  vos: te habías unido
+  ud: se había unido
+  nosotros: nos habíamos unido
+  vosotros: os habíais unido
+  uds: se habían unido
+
+futuro-perfecto:
+  yo: me habré unido
+  tu: te habrás unido
+  vos: te habrás unido
+  ud: se habrá unido
+  nosotros: nos habremos unido
+  vosotros: os habréis unido
+  uds: se habrán unido
+
+condicional-perfecto:
+  yo: me habría unido
+  tu: te habrías unido
+  vos: te habrías unido
+  ud: se habría unido
+  nosotros: nos habríamos unido
+  vosotros: os habríais unido
+  uds: se habrían unido
+
+presente-subjuntivo:
+  yo: me una
+  tu: te unas
+  vos: te unas
+  ud: se una
+  nosotros: nos unamos
+  vosotros: os unáis
+  uds: se unan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya unido
+  tu: te hayas unido
+  vos: te hayas unido
+  ud: se haya unido
+  nosotros: nos hayamos unido
+  vosotros: os hayáis unido
+  uds: se hayan unido
+
+imperfecto-subjuntivo:
+  yo:
+    - me uniera
+    - me uniese
+  tu:
+    - te unieras
+    - te unieses
+  vos:
+    - te unieras
+    - te unieses
+  ud:
+    - se uniera
+    - se uniese
+  nosotros:
+    - nos uniéramos
+    - nos uniésemos
+  vosotros:
+    - os unierais
+    - os unieseis
+  uds:
+    - se unieran
+    - se uniesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera unido
+    - me hubiese unido
+  tu:
+    - te hubieras unido
+    - te hubieses unido
+  vos:
+    - te hubieras unido
+    - te hubieses unido
+  ud:
+    - se hubiera unido
+    - se hubiese unido
+  nosotros:
+    - nos hubiéramos unido
+    - nos hubiésemos unido
+  vosotros:
+    - os hubierais unido
+    - os hubieseis unido
+  uds:
+    - se hubieran unido
+    - se hubiesen unido
+
+imperativo:
+  tu: únete
+  vos: uníos
+  ud: únase
+  nosotros: unámonos
+  vosotros: uníos
+  uds: únanse

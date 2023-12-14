@@ -1,0 +1,142 @@
+infinitivo: susurrar
+gerundio: susurrando
+participio-pasado: susurrado
+presente-indicativo:
+  yo: susurro
+  tu: susurras
+  vos: susurras
+  ud: susurra
+  nosotros: susurramos
+  vosotros: susurráis
+  uds: susurran
+preterito-perfecto-simple:
+  yo: susurré
+  tu: susurraste
+  vos: susurraste
+  ud: susurró
+  nosotros: susurramos
+  vosotros: susurrasteis
+  uds: susurraron
+preterito-imperfecto:
+  yo: susurraba
+  tu: susurrabas
+  vos: susurrabas
+  ud: susurraba
+  nosotros: susurrábamos
+  vosotros: susurrabais
+  uds: susurraban
+futuro-simple:
+  yo: susurraré
+  tu: susurrarás
+  vos: susurrarás
+  ud: susurrará
+  nosotros: susurraremos
+  vosotros: susurraréis
+  uds: susurrarán
+condicional-simple:
+  yo: susurraría
+  tu: susurrarías
+  vos: susurrarías
+  ud: susurraría
+  nosotros: susurraríamos
+  vosotros: susurraríais
+  uds: susurrarían
+presente-perfecto:
+  yo: he susurrado
+  tu: has susurrado
+  vos: has susurrado
+  ud: ha susurrado
+  nosotros: hemos susurrado
+  vosotros: habéis susurrado
+  uds: han susurrado
+preterito-pluscuamperfecto:
+  yo: había susurrado
+  tu: habías susurrado
+  vos: habías susurrado
+  ud: había susurrado
+  nosotros: habíamos susurrado
+  vosotros: habíais susurrado
+  uds: habían susurrado
+futuro-perfecto:
+  yo: habré susurrado
+  tu: habrás susurrado
+  vos: habrás susurrado
+  ud: habrá susurrado
+  nosotros: habremos susurrado
+  vosotros: habréis susurrado
+  uds: habrán susurrado
+condicional-perfecto:
+  yo: habría susurrado
+  tu: habrías susurrado
+  vos: habrías susurrado
+  ud: habría susurrado
+  nosotros: habríamos susurrado
+  vosotros: habríais susurrado
+  uds: habrían susurrado
+presente-subjuntivo:
+  yo: susurre
+  tu: susurres
+  vos: susurres
+  ud: susurre
+  nosotros: susurremos
+  vosotros: susurréis
+  uds: susurren
+preterito-perfecto-subjuntivo:
+  yo: haya susurrado
+  tu: hayas susurrado
+  vos: hayas susurrado
+  ud: haya susurrado
+  nosotros: hayamos susurrado
+  vosotros: hayáis susurrado
+  uds: hayan susurrado
+imperfecto-subjuntivo:
+  yo:
+    - susurrara
+    - susurrase
+  tu:
+    - susurraras
+    - susurrases
+  vos:
+    - susurraras
+    - susurrases
+  ud:
+    - susurrara
+    - susurrase
+  nosotros:
+    - susurráramos
+    - susurrásemos
+  vosotros:
+    - susurrarais
+    - susurraseis
+  uds:
+    - susurraran
+    - susurrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera susurrado
+    - hubiese susurrado
+  tu:
+    - hubieras susurrado
+    - hubieses susurrado
+  vos:
+    - hubieras susurrado
+    - hubieses susurrado
+  ud:
+    - hubiera susurrado
+    - hubiese susurrado
+  nosotros:
+    - hubiéramos susurrado
+    - hubiésemos susurrado
+  vosotros:
+    - hubierais susurrado
+    - hubieseis susurrado
+  uds:
+    - hubieran susurrado
+    - hubiesen susurrado
+imperativo:
+  tu: susurra
+  vos: susurrá
+  ud: susurre
+  nosotros: susurremos
+  vosotros: susurrad
+  uds: susurren

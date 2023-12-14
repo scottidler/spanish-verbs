@@ -1,0 +1,156 @@
+infinitivo: extraer
+gerundio: extrayendo
+participio-pasado: extraído
+
+presente-indicativo:
+  yo: extraigo
+  tu: extraes
+  vos: extraes
+  ud: extrae
+  nosotros: extraemos
+  vosotros: extraéis
+  uds: extraen
+
+preterito-perfecto-simple:
+  yo: extraje
+  tu: extrajiste
+  vos: extrajiste
+  ud: extrajo
+  nosotros: extrajimos
+  vosotros: extrajisteis
+  uds: extrajeron
+
+preterito-imperfecto:
+  yo: extraía
+  tu: extraías
+  vos: extraías
+  ud: extraía
+  nosotros: extraíamos
+  vosotros: extraíais
+  uds: extraían
+
+futuro-simple:
+  yo: extraeré
+  tu: extraerás
+  vos: extraerás
+  ud: extraerá
+  nosotros: extraeremos
+  vosotros: extraeréis
+  uds: extraerán
+
+condicional-simple:
+  yo: extraería
+  tu: extraerías
+  vos: extraerías
+  ud: extraería
+  nosotros: extraeríamos
+  vosotros: extraeríais
+  uds: extraerían
+
+presente-perfecto:
+  yo: he extraído
+  tu: has extraído
+  vos: has extraído
+  ud: ha extraído
+  nosotros: hemos extraído
+  vosotros: habéis extraído
+  uds: han extraído
+
+preterito-pluscuamperfecto:
+  yo: había extraído
+  tu: habías extraído
+  vos: habías extraído
+  ud: había extraído
+  nosotros: habíamos extraído
+  vosotros: habíais extraído
+  uds: habían extraído
+
+futuro-perfecto:
+  yo: habré extraído
+  tu: habrás extraído
+  vos: habrás extraído
+  ud: habrá extraído
+  nosotros: habremos extraído
+  vosotros: habréis extraído
+  uds: habrán extraído
+
+condicional-perfecto:
+  yo: habría extraído
+  tu: habrías extraído
+  vos: habrías extraído
+  ud: habría extraído
+  nosotros: habríamos extraído
+  vosotros: habríais extraído
+  uds: habrían extraído
+
+presente-subjuntivo:
+  yo: extraiga
+  tu: extraigas
+  vos: extraigas
+  ud: extraiga
+  nosotros: extraigamos
+  vosotros: extraigáis
+  uds: extraigan
+
+preterito-perfecto-subjuntivo:
+  yo: haya extraído
+  tu: hayas extraído
+  vos: hayas extraído
+  ud: haya extraído
+  nosotros: hayamos extraído
+  vosotros: hayáis extraído
+  uds: hayan extraído
+
+imperfecto-subjuntivo:
+  yo:
+    - extrajera
+    - extrajese
+  tu:
+    - extrajeras
+    - extrajeses
+  vos:
+    - extrajeras
+    - extrajeses
+  ud:
+    - extrajera
+    - extrajese
+  nosotros:
+    - extrajéramos
+    - extrajésemos
+  vosotros:
+    - extrajerais
+    - extrajeseis
+  uds:
+    - extrajeran
+    - extrajesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera extraído
+    - hubiese extraído
+  tu:
+    - hubieras extraído
+    - hubieses extraído
+  vos:
+    - hubieras extraído
+    - hubieses extraído
+  ud:
+    - hubiera extraído
+    - hubiese extraído
+  nosotros:
+    - hubiéramos extraído
+    - hubiésemos extraído
+  vosotros:
+    - hubierais extraído
+    - hubieseis extraído
+  uds:
+    - hubieran extraído
+    - hubiesen extraído
+
+imperativo:
+  tu: extrae
+  vos: extraé
+  ud: extraiga
+  nosotros: extrayamos
+  vosotros: extraed
+  uds: extraigan

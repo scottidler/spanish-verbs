@@ -1,0 +1,142 @@
+infinitivo: arrojarse
+gerundio: arrojándose
+participio-pasado: arrojado
+presente-indicativo:
+  yo: me arrojo
+  tu: te arrojas
+  vos: te arrojás
+  ud: se arroja
+  nosotros: nos arrojamos
+  vosotros: os arrojáis
+  uds: se arrojan
+preterito-perfecto-simple:
+  yo: me arrojé
+  tu: te arrojaste
+  vos: te arrojaste
+  ud: se arrojó
+  nosotros: nos arrojamos
+  vosotros: os arrojasteis
+  uds: se arrojaron
+preterito-imperfecto:
+  yo: me arrojaba
+  tu: te arrojabas
+  vos: te arrojabas
+  ud: se arrojaba
+  nosotros: nos arrojábamos
+  vosotros: os arrojabais
+  uds: se arrojaban
+futuro-simple:
+  yo: me arrojaré
+  tu: te arrojarás
+  vos: te arrojarás
+  ud: se arrojará
+  nosotros: nos arrojaremos
+  vosotros: os arrojaréis
+  uds: se arrojarán
+condicional-simple:
+  yo: me arrojaría
+  tu: te arrojarías
+  vos: te arrojarías
+  ud: se arrojaría
+  nosotros: nos arrojaríamos
+  vosotros: os arrojaríais
+  uds: se arrojarían
+presente-perfecto:
+  yo: me he arrojado
+  tu: te has arrojado
+  vos: te has arrojado
+  ud: se ha arrojado
+  nosotros: nos hemos arrojado
+  vosotros: os habéis arrojado
+  uds: se han arrojado
+preterito-pluscuamperfecto:
+  yo: me había arrojado
+  tu: te habías arrojado
+  vos: te habías arrojado
+  ud: se había arrojado
+  nosotros: nos habíamos arrojado
+  vosotros: os habíais arrojado
+  uds: se habían arrojado
+futuro-perfecto:
+  yo: me habré arrojado
+  tu: te habrás arrojado
+  vos: te habrás arrojado
+  ud: se habrá arrojado
+  nosotros: nos habremos arrojado
+  vosotros: os habréis arrojado
+  uds: se habrán arrojado
+condicional-perfecto:
+  yo: me habría arrojado
+  tu: te habrías arrojado
+  vos: te habrías arrojado
+  ud: se habría arrojado
+  nosotros: nos habríamos arrojado
+  vosotros: os habríais arrojado
+  uds: se habrían arrojado
+presente-subjuntivo:
+  yo: me arroje
+  tu: te arrojes
+  vos: te arrojes
+  ud: se arroje
+  nosotros: nos arrojemos
+  vosotros: os arrojéis
+  uds: se arrojen
+preterito-perfecto-subjuntivo:
+  yo: me haya arrojado
+  tu: te hayas arrojado
+  vos: te hayas arrojado
+  ud: se haya arrojado
+  nosotros: nos hayamos arrojado
+  vosotros: os hayáis arrojado
+  uds: se hayan arrojado
+imperfecto-subjuntivo:
+  yo:
+    - me arrojara
+    - me arrojase
+  tu:
+    - te arrojaras
+    - te arrojases
+  vos:
+    - te arrojaras
+    - te arrojases
+  ud:
+    - se arrojara
+    - se arrojase
+  nosotros:
+    - nos arrojáramos
+    - nos arrojásemos
+  vosotros:
+    - os arrojarais
+    - os arrojaseis
+  uds:
+    - se arrojaran
+    - se arrojasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera arrojado
+    - me hubiese arrojado
+  tu:
+    - te hubieras arrojado
+    - te hubieses arrojado
+  vos:
+    - te hubieras arrojado
+    - te hubieses arrojado
+  ud:
+    - se hubiera arrojado
+    - se hubiese arrojado
+  nosotros:
+    - nos hubiéramos arrojado
+    - nos hubiésemos arrojado
+  vosotros:
+    - os hubierais arrojado
+    - os hubieseis arrojado
+  uds:
+    - se hubieran arrojado
+    - se hubiesen arrojado
+imperativo:
+  tu: arrójate
+  vos: arrójate
+  ud: arrójese
+  nosotros: arrojémonos
+  vosotros: arrojaos
+  uds: arrojense

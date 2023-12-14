@@ -1,0 +1,142 @@
+infinitivo: aullar
+gerundio: aullando
+participio-pasado: aullado
+presente-indicativo:
+  yo: aullo
+  tu: aullas
+  vos: aullas
+  ud: aulla
+  nosotros: aullamos
+  vosotros: aulláis
+  uds: aullan
+preterito-perfecto-simple:
+  yo: aullé
+  tu: aullaste
+  vos: aullaste
+  ud: aulló
+  nosotros: aullamos
+  vosotros: aullasteis
+  uds: aullaron
+preterito-imperfecto:
+  yo: aullaba
+  tu: aullabas
+  vos: aullabas
+  ud: aullaba
+  nosotros: aullábamos
+  vosotros: aullabais
+  uds: aullaban
+futuro-simple:
+  yo: aullaré
+  tu: aullarás
+  vos: aullarás
+  ud: aullará
+  nosotros: aullaremos
+  vosotros: aullaréis
+  uds: aullarán
+condicional-simple:
+  yo: aullaría
+  tu: aullarías
+  vos: aullarías
+  ud: aullaría
+  nosotros: aullaríamos
+  vosotros: aullaríais
+  uds: aullarían
+presente-perfecto:
+  yo: he aullado
+  tu: has aullado
+  vos: has aullado
+  ud: ha aullado
+  nosotros: hemos aullado
+  vosotros: habéis aullado
+  uds: han aullado
+preterito-pluscuamperfecto:
+  yo: había aullado
+  tu: habías aullado
+  vos: habías aullado
+  ud: había aullado
+  nosotros: habíamos aullado
+  vosotros: habíais aullado
+  uds: habían aullado
+futuro-perfecto:
+  yo: habré aullado
+  tu: habrás aullado
+  vos: habrás aullado
+  ud: habrá aullado
+  nosotros: habremos aullado
+  vosotros: habréis aullado
+  uds: habrán aullado
+condicional-perfecto:
+  yo: habría aullado
+  tu: habrías aullado
+  vos: habrías aullado
+  ud: habría aullado
+  nosotros: habríamos aullado
+  vosotros: habríais aullado
+  uds: habrían aullado
+presente-subjuntivo:
+  yo: aulle
+  tu: aulles
+  vos: aulles
+  ud: aulle
+  nosotros: aullemos
+  vosotros: aulléis
+  uds: aullen
+preterito-perfecto-subjuntivo:
+  yo: haya aullado
+  tu: hayas aullado
+  vos: hayas aullado
+  ud: haya aullado
+  nosotros: hayamos aullado
+  vosotros: hayáis aullado
+  uds: hayan aullado
+imperfecto-subjuntivo:
+  yo:
+    - aullara
+    - aullase
+  tu:
+    - aullaras
+    - aullases
+  vos:
+    - aullaras
+    - aullases
+  ud:
+    - aullara
+    - aullase
+  nosotros:
+    - aulláramos
+    - aullásemos
+  vosotros:
+    - aullarais
+    - aullaseis
+  uds:
+    - aullaran
+    - aullasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aullado
+    - hubiese aullado
+  tu:
+    - hubieras aullado
+    - hubieses aullado
+  vos:
+    - hubieras aullado
+    - hubieses aullado
+  ud:
+    - hubiera aullado
+    - hubiese aullado
+  nosotros:
+    - hubiéramos aullado
+    - hubiésemos aullado
+  vosotros:
+    - hubierais aullado
+    - hubieseis aullado
+  uds:
+    - hubieran aullado
+    - hubiesen aullado
+imperativo:
+  tu: aulla
+  vos: aullá
+  ud: aulle
+  nosotros: aullemos
+  vosotros: aullad
+  uds: aullen

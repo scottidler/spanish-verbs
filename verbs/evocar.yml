@@ -1,0 +1,142 @@
+infinitivo: evocar
+gerundio: evocando
+participio-pasado: evocado
+presente-indicativo:
+  yo: evoco
+  tu: evocas
+  vos: evocas
+  ud: evoca
+  nosotros: evocamos
+  vosotros: evocáis
+  uds: evocan
+preterito-perfecto-simple:
+  yo: evoqué
+  tu: evocaste
+  vos: evocaste
+  ud: evocó
+  nosotros: evocamos
+  vosotros: evocasteis
+  uds: evocaron
+preterito-imperfecto:
+  yo: evocaba
+  tu: evocabas
+  vos: evocabas
+  ud: evocaba
+  nosotros: evocábamos
+  vosotros: evocabais
+  uds: evocaban
+futuro-simple:
+  yo: evocaré
+  tu: evocarás
+  vos: evocarás
+  ud: evocará
+  nosotros: evocaremos
+  vosotros: evocaréis
+  uds: evocarán
+condicional-simple:
+  yo: evocaría
+  tu: evocarías
+  vos: evocarías
+  ud: evocaría
+  nosotros: evocaríamos
+  vosotros: evocaríais
+  uds: evocarían
+presente-perfecto:
+  yo: he evocado
+  tu: has evocado
+  vos: has evocado
+  ud: ha evocado
+  nosotros: hemos evocado
+  vosotros: habéis evocado
+  uds: han evocado
+preterito-pluscuamperfecto:
+  yo: había evocado
+  tu: habías evocado
+  vos: habías evocado
+  ud: había evocado
+  nosotros: habíamos evocado
+  vosotros: habíais evocado
+  uds: habían evocado
+futuro-perfecto:
+  yo: habré evocado
+  tu: habrás evocado
+  vos: habrás evocado
+  ud: habrá evocado
+  nosotros: habremos evocado
+  vosotros: habréis evocado
+  uds: habrán evocado
+condicional-perfecto:
+  yo: habría evocado
+  tu: habrías evocado
+  vos: habrías evocado
+  ud: habría evocado
+  nosotros: habríamos evocado
+  vosotros: habríais evocado
+  uds: habrían evocado
+presente-subjuntivo:
+  yo: evoque
+  tu: evokes
+  vos: evokes
+  ud: evoque
+  nosotros: evoquemos
+  vosotros: evocéis
+  uds: evoken
+preterito-perfecto-subjuntivo:
+  yo: haya evocado
+  tu: hayas evocado
+  vos: hayas evocado
+  ud: haya evocado
+  nosotros: hayamos evocado
+  vosotros: hayáis evocado
+  uds: hayan evocado
+imperfecto-subjuntivo:
+  yo:
+    - evocara
+    - evocase
+  tu:
+    - evocaras
+    - evocases
+  vos:
+    - evocaras
+    - evocases
+  ud:
+    - evocara
+    - evocase
+  nosotros:
+    - evocáramos
+    - evocásemos
+  vosotros:
+    - evocarais
+    - evocaseis
+  uds:
+    - evocaran
+    - evocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera evocado
+    - hubiese evocado
+  tu:
+    - hubieras evocado
+    - hubieses evocado
+  vos:
+    - hubieras evocado
+    - hubieses evocado
+  ud:
+    - hubiera evocado
+    - hubiese evocado
+  nosotros:
+    - hubiéramos evocado
+    - hubiésemos evocado
+  vosotros:
+    - hubierais evocado
+    - hubieseis evocado
+  uds:
+    - hubieran evocado
+    - hubiesen evocado
+imperativo:
+  tu: evoca
+  vos: evocá
+  ud: evoque
+  nosotros: evoquemos
+  vosotros: evocad
+  uds: evoken

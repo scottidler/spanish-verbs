@@ -1,0 +1,142 @@
+infinitivo: relacionar
+gerundio: relacionando
+participio-pasado: relacionado
+presente-indicativo:
+  yo: relaciono
+  tu: relaciones
+  vos: relaciones
+  ud: relaciona
+  nosotros: relacionamos
+  vosotros: relacionáis
+  uds: relacionan
+preterito-perfecto-simple:
+  yo: relacioné
+  tu: relacionaste
+  vos: relacionaste
+  ud: relacionó
+  nosotros: relacionamos
+  vosotros: relacionasteis
+  uds: relacionaron
+preterito-imperfecto:
+  yo: relacionaba
+  tu: relacionabas
+  vos: relacionabas
+  ud: relacionaba
+  nosotros: relacionábamos
+  vosotros: relacionabais
+  uds: relacionaban
+futuro-simple:
+  yo: relacionaré
+  tu: relacionarás
+  vos: relacionarás
+  ud: relacionará
+  nosotros: relacionaremos
+  vosotros: relacionaréis
+  uds: relacionarán
+condicional-simple:
+  yo: relacionaría
+  tu: relacionarías
+  vos: relacionarías
+  ud: relacionaría
+  nosotros: relacionaríamos
+  vosotros: relacionaríais
+  uds: relacionarían
+presente-perfecto:
+  yo: he relacionado
+  tu: has relacionado
+  vos: has relacionado
+  ud: ha relacionado
+  nosotros: hemos relacionado
+  vosotros: habéis relacionado
+  uds: han relacionado
+preterito-pluscuamperfecto:
+  yo: había relacionado
+  tu: habías relacionado
+  vos: habías relacionado
+  ud: había relacionado
+  nosotros: habíamos relacionado
+  vosotros: habíais relacionado
+  uds: habían relacionado
+futuro-perfecto:
+  yo: habré relacionado
+  tu: habrás relacionado
+  vos: habrás relacionado
+  ud: habrá relacionado
+  nosotros: habremos relacionado
+  vosotros: habréis relacionado
+  uds: habrán relacionado
+condicional-perfecto:
+  yo: habría relacionado
+  tu: habrías relacionado
+  vos: habrías relacionado
+  ud: habría relacionado
+  nosotros: habríamos relacionado
+  vosotros: habríais relacionado
+  uds: habrían relacionado
+presente-subjuntivo:
+  yo: relacione
+  tu: relaciones
+  vos: relaciones
+  ud: relacione
+  nosotros: relacionemos
+  vosotros: relacionéis
+  uds: relacionen
+preterito-perfecto-subjuntivo:
+  yo: haya relacionado
+  tu: hayas relacionado
+  vos: hayas relacionado
+  ud: haya relacionado
+  nosotros: hayamos relacionado
+  vosotros: hayáis relacionado
+  uds: hayan relacionado
+imperfecto-subjuntivo:
+  yo:
+    - relacionara
+    - relacionase
+  tu:
+    - relacionaras
+    - relacionases
+  vos:
+    - relacionaras
+    - relacionases
+  ud:
+    - relacionara
+    - relacionase
+  nosotros:
+    - relacionáramos
+    - relacionásemos
+  vosotros:
+    - relacionarais
+    - relacionaseis
+  uds:
+    - relacionaran
+    - relacionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera relacionado
+    - hubiese relacionado
+  tu:
+    - hubieras relacionado
+    - hubieses relacionado
+  vos:
+    - hubieras relacionado
+    - hubieses relacionado
+  ud:
+    - hubiera relacionado
+    - hubiese relacionado
+  nosotros:
+    - hubiéramos relacionado
+    - hubiésemos relacionado
+  vosotros:
+    - hubierais relacionado
+    - hubieseis relacionado
+  uds:
+    - hubieran relacionado
+    - hubiesen relacionado
+imperativo:
+  tu: relaciona
+  vos: relacioná
+  ud: relacione
+  nosotros: relacionemos
+  vosotros: relacionad
+  uds: relacionen

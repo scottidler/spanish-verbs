@@ -1,0 +1,142 @@
+infinitivo: aclarar
+gerundio: aclarando
+participio-pasado: aclarado
+presente-indicativo:
+  yo: aclaro
+  tu: aclaras
+  vos: aclaras
+  ud: aclara
+  nosotros: aclaramos
+  vosotros: aclaráis
+  uds: aclaran
+preterito-perfecto-simple:
+  yo: aclaré
+  tu: aclarest
+  vos: aclarest
+  ud: aclaró
+  nosotros: aclaramos
+  vosotros: aclarestis
+  uds: aclararon
+preterito-imperfecto:
+  yo: aclaraba
+  tu: aclarabas
+  vos: aclarabas
+  ud: aclaraba
+  nosotros: aclarábamos
+  vosotros: aclarabais
+  uds: aclaraban
+futuro-simple:
+  yo: aclararé
+  tu: aclararás
+  vos: aclararás
+  ud: aclarará
+  nosotros: aclaremos
+  vosotros: aclararéis
+  uds: aclararán
+condicional-simple:
+  yo: aclararía
+  tu: aclararías
+  vos: aclararías
+  ud: aclararía
+  nosotros: aclararíamos
+  vosotros: aclararíais
+  uds: aclararían
+presente-perfecto:
+  yo: he aclarado
+  tu: has aclarado
+  vos: has aclarado
+  ud: ha aclarado
+  nosotros: hemos aclarado
+  vosotros: habéis aclarado
+  uds: han aclarado
+preterito-pluscuamperfecto:
+  yo: había aclarado
+  tu: habías aclarado
+  vos: habías aclarado
+  ud: había aclarado
+  nosotros: habíamos aclarado
+  vosotros: habíais aclarado
+  uds: habían aclarado
+futuro-perfecto:
+  yo: habré aclarado
+  tu: habrás aclarado
+  vos: habrás aclarado
+  ud: habrá aclarado
+  nosotros: habremos aclarado
+  vosotros: habréis aclarado
+  uds: habrán aclarado
+condicional-perfecto:
+  yo: habría aclarado
+  tu: habrías aclarado
+  vos: habrías aclarado
+  ud: habría aclarado
+  nosotros: habríamos aclarado
+  vosotros: habríais aclarado
+  uds: habrían aclarado
+presente-subjuntivo:
+  yo: aclare
+  tu: aclares
+  vos: aclares
+  ud: aclare
+  nosotros: aclaremos
+  vosotros: aclaréis
+  uds: aclaren
+preterito-perfecto-subjuntivo:
+  yo: haya aclarado
+  tu: hayas aclarado
+  vos: hayas aclarado
+  ud: haya aclarado
+  nosotros: hayamos aclarado
+  vosotros: hayáis aclarado
+  uds: hayan aclarado
+imperfecto-subjuntivo:
+  yo:
+    - aclara
+    - aclarase
+  tu:
+    - aclararas
+    - aclarases
+  vos:
+    - aclararas
+    - aclarases
+  ud:
+    - aclarara
+    - aclarase
+  nosotros:
+    - aclaráramos
+    - aclarásemos
+  vosotros:
+    - aclararais
+    - aclaraseis
+  uds:
+    - aclararan
+    - aclarasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aclarado
+    - hubiese aclarado
+  tu:
+    - hubieras aclarado
+    - hubieses aclarado
+  vos:
+    - hubieras aclarado
+    - hubieses aclarado
+  ud:
+    - hubiera aclarado
+    - hubiese aclarado
+  nosotros:
+    - hubiéramos aclarado
+    - hubiésemos aclarado
+  vosotros:
+    - hubierais aclarado
+    - hubieseis aclarado
+  uds:
+    - hubieran aclarado
+    - hubiesen aclarado
+imperativo:
+  tu: aclara
+  vos: aclara
+  ud: aclare
+  nosotros: aclaremos
+  vosotros: aclarad
+  uds: aclaren

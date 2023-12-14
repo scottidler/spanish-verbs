@@ -1,0 +1,156 @@
+infinitivo: aterrizar
+gerundio: aterrizando
+participio-pasado: aterrizado
+
+presente-indicativo:
+  yo: aterrizo
+  tu: aterrizas
+  vos: aterrizas
+  ud: aterriza
+  nosotros: aterrizamos
+  vosotros: aterrizáis
+  uds: aterrizan
+
+preterito-perfecto-simple:
+  yo: aterricé
+  tu: aterrizaste
+  vos: aterrizaste
+  ud: aterrizó
+  nosotros: aterrizamos
+  vosotros: aterrizasteis
+  uds: aterrizaron
+
+preterito-imperfecto:
+  yo: aterrizaba
+  tu: aterrizabas
+  vos: aterrizabas
+  ud: aterrizaba
+  nosotros: aterrizábamos
+  vosotros: aterrizabais
+  uds: aterrizaban
+
+futuro-simple:
+  yo: aterrizaré
+  tu: aterrizará
+  vos: aterrizará
+  ud: aterrizará
+  nosotros: aterrizaremos
+  vosotros: aterrizaréis
+  uds: aterrizarán
+
+condicional-simple:
+  yo: aterrizaría
+  tu: aterrizarías
+  vos: aterrizarías
+  ud: aterrizaría
+  nosotros: aterrizaríamos
+  vosotros: aterrizaríais
+  uds: aterrizarían
+
+presente-perfecto:
+  yo: he aterrizado
+  tu: has aterrizado
+  vos: has aterrizado
+  ud: ha aterrizado
+  nosotros: hemos aterrizado
+  vosotros: habéis aterrizado
+  uds: han aterrizado
+
+preterito-pluscuamperfecto:
+  yo: había aterrizado
+  tu: habías aterrizado
+  vos: habías aterrizado
+  ud: había aterrizado
+  nosotros: habíamos aterrizado
+  vosotros: habíais aterrizado
+  uds: habían aterrizado
+
+futuro-perfecto:
+  yo: habré aterrizado
+  tu: habrás aterrizado
+  vos: habrás aterrizado
+  ud: habrá aterrizado
+  nosotros: habremos aterrizado
+  vosotros: habréis aterrizado
+  uds: habrán aterrizado
+
+condicional-perfecto:
+  yo: habría aterrizado
+  tu: habrías aterrizado
+  vos: habrías aterrizado
+  ud: habría aterrizado
+  nosotros: habríamos aterrizado
+  vosotros: habríais aterrizado
+  uds: habrían aterrizado
+
+presente-subjuntivo:
+  yo: aterrice
+  tu: aterrices
+  vos: aterrices
+  ud: aterrice
+  nosotros: aterricemos
+  vosotros: aterricéis
+  uds: aterricen
+
+preterito-perfecto-subjuntivo:
+  yo: haya aterrizado
+  tu: hayas aterrizado
+  vos: hayas aterrizado
+  ud: haya aterrizado
+  nosotros: hayamos aterrizado
+  vosotros: hayáis aterrizado
+  uds: hayan aterrizado
+
+imperfecto-subjuntivo:
+  yo:
+    - aterrizar
+    - aterrizase
+  tu:
+    - aterrizases
+    - aterrizases
+  vos:
+    - aterrizases
+    - aterrizases
+  ud:
+    - aterrizar
+    - aterrizase
+  nosotros:
+    - aterrizáramos
+    - aterrizásemos
+  vosotros:
+    - aterrizaseis
+    - aterrizaseis
+  uds:
+    - aterrizaran
+    - aterrizasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aterrizado
+    - hubiese aterrizado
+  tu:
+    - hubieras aterrizado
+    - hubieses aterrizado
+  vos:
+    - hubieras aterrizado
+    - hubieses aterrizado
+  ud:
+    - hubiera aterrizado
+    - hubiese aterrizado
+  nosotros:
+    - hubiéramos aterrizado
+    - hubiésemos aterrizado
+  vosotros:
+    - hubierais aterrizado
+    - hubieseis aterrizado
+  uds:
+    - hubieran aterrizado
+    - hubiesen aterrizado
+
+imperativo:
+  tu: aterriza
+  vos: aterrizá
+  ud: aterrice
+  nosotros: aterricemos
+  vosotros: aterrizad
+  uds: aterricen

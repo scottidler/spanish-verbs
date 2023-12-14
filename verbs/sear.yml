@@ -1,0 +1,142 @@
+infinitivo: sear
+gerundio: seando
+participio-pasado: seado
+presente-indicativo:
+  yo: seao
+  tu: seas
+  vos: seas
+  ud: sea
+  nosotros: seamos
+  vosotros: seáis
+  uds: sean
+preterito-perfecto-simple:
+  yo: seasé
+  tu: seasiste
+  vos: seasiste
+  ud: seó
+  nosotros: seamos
+  vosotros: seasisteis
+  uds: searon
+preterito-imperfecto:
+  yo: seaba
+  tu: seabas
+  vos: seabas
+  ud: seaba
+  nosotros: seábamos
+  vosotros: seabais
+  uds: seaban
+futuro-simple:
+  yo: searé
+  tu: searás
+  vos: searás
+  ud: seará
+  nosotros: searemos
+  vosotros: searéis
+  uds: searán
+condicional-simple:
+  yo: searía
+  tu: searías
+  vos: searías
+  ud: searía
+  nosotros: searíamos
+  vosotros: searíais
+  uds: searían
+presente-perfecto:
+  yo: he seado
+  tu: has seado
+  vos: has seado
+  ud: ha seado
+  nosotros: hemos seado
+  vosotros: habéis seado
+  uds: han seado
+preterito-pluscuamperfecto:
+  yo: había seado
+  tu: habías seado
+  vos: habías seado
+  ud: había seado
+  nosotros: habíamos seado
+  vosotros: habíais seado
+  uds: habían seado
+futuro-perfecto:
+  yo: habré seado
+  tu: habrás seado
+  vos: habrás seado
+  ud: habrá seado
+  nosotros: habremos seado
+  vosotros: habréis seado
+  uds: habrán seado
+condicional-perfecto:
+  yo: habría seado
+  tu: habrías seado
+  vos: habrías seado
+  ud: habría seado
+  nosotros: habríamos seado
+  vosotros: habríais seado
+  uds: habrían seado
+presente-subjuntivo:
+  yo: sea
+  tu: seas
+  vos: seas
+  ud: sea
+  nosotros: seamos
+  vosotros: seáis
+  uds: sean
+preterito-perfecto-subjuntivo:
+  yo: haya seado
+  tu: hayas seado
+  vos: hayas seado
+  ud: haya seado
+  nosotros: hayamos seado
+  vosotros: hayáis seado
+  uds: hayan seado
+imperfecto-subjuntivo:
+  yo:
+    - seara
+    - sease
+  tu:
+    - searas
+    - seases
+  vos:
+    - searas
+    - seases
+  ud:
+    - seara
+    - sease
+  nosotros:
+    - seáramos
+    - seásemos
+  vosotros:
+    - searais
+    - seaseis
+  uds:
+    - searan
+    - seasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera seado
+    - hubiese seado
+  tu:
+    - hubieras seado
+    - hubieses seado
+  vos:
+    - hubieras seado
+    - hubieses seado
+  ud:
+    - hubiera seado
+    - hubiese seado
+  nosotros:
+    - hubiéramos seado
+    - hubiésemos seado
+  vosotros:
+    - hubierais seado
+    - hubieseis seado
+  uds:
+    - hubieran seado
+    - hubiesen seado
+imperativo:
+  tu: sea
+  vos: sé
+  ud: sea
+  nosotros: seamos
+  vosotros: sed
+  uds: sean

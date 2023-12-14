@@ -1,0 +1,142 @@
+infinitivo: ahuyentar
+gerundio: ahuyentando
+participio-pasado: ahuyentado
+presente-indicativo:
+  yo: ahuyento
+  tu: ahuyentas
+  vos: ahuyentas
+  ud: ahuyenta
+  nosotros: ahuyentamos
+  vosotros: ahuyentáis
+  uds: ahuyentan
+preterito-perfecto-simple:
+  yo: ahuyenté
+  tu: ahuyentaste
+  vos: ahuyentaste
+  ud: ahuyentó
+  nosotros: ahuyentamos
+  vosotros: ahuyentasteis
+  uds: ahuyentaron
+preterito-imperfecto:
+  yo: ahuyentaba
+  tu: ahuyentabas
+  vos: ahuyentabas
+  ud: ahuyentaba
+  nosotros: ahuyentábamos
+  vosotros: ahuyentabais
+  uds: ahuyentaban
+futuro-simple:
+  yo: ahuyentaré
+  tu: ahuyentarás
+  vos: ahuyentarás
+  ud: ahuyentará
+  nosotros: ahuyentaremos
+  vosotros: ahuyentaréis
+  uds: ahuyentarán
+condicional-simple:
+  yo: ahuyentaría
+  tu: ahuyentarías
+  vos: ahuyentarías
+  ud: ahuyentaría
+  nosotros: ahuyentaríamos
+  vosotros: ahuyentaríais
+  uds: ahuyentarían
+presente-perfecto:
+  yo: he ahuyentado
+  tu: has ahuyentado
+  vos: has ahuyentado
+  ud: ha ahuyentado
+  nosotros: hemos ahuyentado
+  vosotros: habéis ahuyentado
+  uds: han ahuyentado
+preterito-pluscuamperfecto:
+  yo: había ahuyentado
+  tu: habías ahuyentado
+  vos: habías ahuyentado
+  ud: había ahuyentado
+  nosotros: habíamos ahuyentado
+  vosotros: habíais ahuyentado
+  uds: habían ahuyentado
+futuro-perfecto:
+  yo: habré ahuyentado
+  tu: habrás ahuyentado
+  vos: habrás ahuyentado
+  ud: habrá ahuyentado
+  nosotros: habremos ahuyentado
+  vosotros: habréis ahuyentado
+  uds: habrán ahuyentado
+condicional-perfecto:
+  yo: habría ahuyentado
+  tu: habrías ahuyentado
+  vos: habrías ahuyentado
+  ud: habría ahuyentado
+  nosotros: habríamos ahuyentado
+  vosotros: habríais ahuyentado
+  uds: habrían ahuyentado
+presente-subjuntivo:
+  yo: ahuyente
+  tu: ahuyentes
+  vos: ahuyentes
+  ud: ahuyente
+  nosotros: ahuyentemos
+  vosotros: ahuyentéis
+  uds: ahuyenten
+preterito-perfecto-subjuntivo:
+  yo: haya ahuyentado
+  tu: hayas ahuyentado
+  vos: hayas ahuyentado
+  ud: haya ahuyentado
+  nosotros: hayamos ahuyentado
+  vosotros: hayáis ahuyentado
+  uds: hayan ahuyentado
+imperfecto-subjuntivo:
+  yo:
+      - ahuyentara
+      - ahuyentase
+  tu:
+      - ahuyentaras
+      - ahuyentases
+  vos:
+      - ahuyentaras
+      - ahuyentases
+  ud:
+      - ahuyentara
+      - ahuyentase
+  nosotros:
+      - ahuyentáramos
+      - ahuyentásemos
+  vosotros:
+      - ahuyentarais
+      - ahuyentaseis
+  uds:
+      - ahuyentaran
+      - ahuyentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+      - hubiera ahuyentado
+      - hubiese ahuyentado
+  tu:
+      - hubieras ahuyentado
+      - hubieses ahuyentado
+  vos:
+      - hubieras ahuyentado
+      - hubieses ahuyentado
+  ud:
+      - hubiera ahuyentado
+      - hubiese ahuyentado
+  nosotros:
+      - hubiéramos ahuyentado
+      - hubiésemos ahuyentado
+  vosotros:
+      - hubierais ahuyentado
+      - hubieseis ahuyentado
+  uds:
+      - hubieran ahuyentado
+      - hubiesen ahuyentado
+imperativo:
+  tu: ahuyenta
+  vos: ahuyentá
+  ud: ahuyente
+  nosotros: ahuyentemos
+  vosotros: ahuyentad
+  uds: ahuyenten

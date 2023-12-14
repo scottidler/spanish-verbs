@@ -1,0 +1,142 @@
+infinitivo: embaucar
+gerundio: embaucando
+participio-pasado: embaucado
+presente-indicativo:
+  yo: embaúco
+  tu: embaucas
+  vos: embaucas
+  ud: embaúca
+  nosotros: embaucamos
+  vosotros: embaucáis
+  uds: embaucan
+preterito-perfecto-simple:
+  yo: embaucé
+  tu: embaucaste
+  vos: embaucaste
+  ud: embaucó
+  nosotros: embaucamos
+  vosotros: embaucasteis
+  uds: embaucaron
+preterito-imperfecto:
+  yo: embaucaba
+  tu: embaucabas
+  vos: embaucabas
+  ud: embaucaba
+  nosotros: embaucábamos
+  vosotros: embaucabais
+  uds: embaucaban
+futuro-simple:
+  yo: embaucaré
+  tu: embaucarás
+  vos: embaucarás
+  ud: embaucará
+  nosotros: embaucaremos
+  vosotros: embaucaréis
+  uds: embaucarán
+condicional-simple:
+  yo: embaucaría
+  tu: embaucarías
+  vos: embaucarías
+  ud: embaucaría
+  nosotros: embaucaríamos
+  vosotros: embaucaríais
+  uds: embaucarían
+presente-perfecto:
+  yo: he embaucado
+  tu: has embaucado
+  vos: has embaucado
+  ud: ha embaucado
+  nosotros: hemos embaucado
+  vosotros: habéis embaucado
+  uds: han embaucado
+preterito-pluscuamperfecto:
+  yo: había embaucado
+  tu: habías embaucado
+  vos: habías embaucado
+  ud: había embaucado
+  nosotros: habíamos embaucado
+  vosotros: habíais embaucado
+  uds: habían embaucado
+futuro-perfecto:
+  yo: habré embaucado
+  tu: habrás embaucado
+  vos: habrás embaucado
+  ud: habrá embaucado
+  nosotros: habremos embaucado
+  vosotros: habréis embaucado
+  uds: habrán embaucado
+condicional-perfecto:
+  yo: habría embaucado
+  tu: habrías embaucado
+  vos: habrías embaucado
+  ud: habría embaucado
+  nosotros: habríamos embaucado
+  vosotros: habríais embaucado
+  uds: habrían embaucado
+presente-subjuntivo:
+  yo: embauce
+  tu: embauces
+  vos: embauces
+  ud: embauce
+  nosotros: embaucemos
+  vosotros: embaucéis
+  uds: embaucen
+preterito-perfecto-subjuntivo:
+  yo: haya embaucado
+  tu: hayas embaucado
+  vos: hayas embaucado
+  ud: haya embaucado
+  nosotros: hayamos embaucado
+  vosotros: hayáis embaucado
+  uds: hayan embaucado
+imperfecto-subjuntivo:
+  yo:
+    - embaucara
+    - embaucase
+  tu:
+    - embaucaras
+    - embaucases
+  vos:
+    - embaucaras
+    - embaucases
+  ud:
+    - embaucara
+    - embaucase
+  nosotros:
+    - embaucáramos
+    - embaucásemos
+  vosotros:
+    - embaucarais
+    - embaucaseis
+  uds:
+    - embaucaran
+    - embaucasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera embaucado
+    - hubiese embaucado
+  tu:
+    - hubieras embaucado
+    - hubieses embaucado
+  vos:
+    - hubieras embaucado
+    - hubieses embaucado
+  ud:
+    - hubiera embaucado
+    - hubiese embaucado
+  nosotros:
+    - hubiéramos embaucado
+    - hubiésemos embaucado
+  vosotros:
+    - hubierais embaucado
+    - hubieseis embaucado
+  uds:
+    - hubieran embaucado
+    - hubiesen embaucado
+imperativo:
+  tu: embaúca
+  vos: embaucá
+  ud: embauce
+  nosotros: embaucemos
+  vosotros: embaucad
+  uds: embaucen

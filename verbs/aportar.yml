@@ -1,0 +1,142 @@
+infinitivo: aportar
+gerundio: aportando
+participio-pasado: aportado
+presente-indicativo:
+  yo: aporto
+  tu: aportas
+  vos: aportas
+  ud: aporta
+  nosotros: aportamos
+  vosotros: aportáis
+  uds: aportan
+preterito-perfecto-simple:
+  yo: aporté
+  tu: aportaste
+  vos: aportaste
+  ud: aportó
+  nosotros: aportamos
+  vosotros: aportasteis
+  uds: aportaron
+preterito-imperfecto:
+  yo: aportaba
+  tu: aportabas
+  vos: aportabas
+  ud: aportaba
+  nosotros: aportábamos
+  vosotros: aportabais
+  uds: aportaban
+futuro-simple:
+  yo: aportaré
+  tu: aportarás
+  vos: aportarás
+  ud: aportará
+  nosotros: aportaremos
+  vosotros: aportaréis
+  uds: aportarán
+condicional-simple:
+  yo: aportaría
+  tu: aportarías
+  vos: aportarías
+  ud: aportaría
+  nosotros: aportaríamos
+  vosotros: aportaríais
+  uds: aportarían
+presente-perfecto:
+  yo: he aportado
+  tu: has aportado
+  vos: has aportado
+  ud: ha aportado
+  nosotros: hemos aportado
+  vosotros: habéis aportado
+  uds: han aportado
+preterito-pluscuamperfecto:
+  yo: había aportado
+  tu: habías aportado
+  vos: habías aportado
+  ud: había aportado
+  nosotros: habíamos aportado
+  vosotros: habíais aportado
+  uds: habían aportado
+futuro-perfecto:
+  yo: habré aportado
+  tu: habrás aportado
+  vos: habrás aportado
+  ud: habrá aportado
+  nosotros: habremos aportado
+  vosotros: habréis aportado
+  uds: habrán aportado
+condicional-perfecto:
+  yo: habría aportado
+  tu: habrías aportado
+  vos: habrías aportado
+  ud: habría aportado
+  nosotros: habríamos aportado
+  vosotros: habríais aportado
+  uds: habrían aportado
+presente-subjuntivo:
+  yo: aporte
+  tu: aportes
+  vos: aportes
+  ud: aporte
+  nosotros: aportemos
+  vosotros: aportéis
+  uds: aporten
+preterito-perfecto-subjuntivo:
+  yo: haya aportado
+  tu: hayas aportado
+  vos: hayas aportado
+  ud: haya aportado
+  nosotros: hayamos aportado
+  vosotros: hayáis aportado
+  uds: hayan aportado
+imperfecto-subjuntivo:
+  yo:
+    - aportara
+    - aportase
+  tu:
+    - aportaras
+    - aportases
+  vos:
+    - aportaras
+    - aportases
+  ud:
+    - aportara
+    - aportase
+  nosotros:
+    - aportáramos
+    - aportásemos
+  vosotros:
+    - aportarais
+    - aportaseis
+  uds:
+    - aportaran
+    - aportasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aportado
+    - hubiese aportado
+  tu:
+    - hubieras aportado
+    - hubieses aportado
+  vos:
+    - hubieras aportado
+    - hubieses aportado
+  ud:
+    - hubiera aportado
+    - hubiese aportado
+  nosotros:
+    - hubiéramos aportado
+    - hubiésemos aportado
+  vosotros:
+    - hubierais aportado
+    - hubieseis aportado
+  uds:
+    - hubieran aportado
+    - hubiesen aportado
+imperativo:
+  tu: aporta
+  vos: aportá
+  ud: aporte
+  nosotros: aportemos
+  vosotros: aportad
+  uds: aporten

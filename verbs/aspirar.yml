@@ -1,0 +1,142 @@
+infinitivo: aspirar
+gerundio: aspirando
+participio-pasado: aspirado
+presente-indicativo:
+  yo: aspiro
+  tu: aspiras
+  vos: aspiras
+  ud: aspira
+  nosotros: aspiramos
+  vosotros: aspiráis
+  uds: aspiran
+preterito-perfecto-simple:
+  yo: aspiré
+  tu: aspiraste
+  vos: aspiraste
+  ud: aspiró
+  nosotros: aspiramos
+  vosotros: aspirasteis
+  uds: aspiraron
+preterito-imperfecto:
+  yo: aspiraba
+  tu: aspirabas
+  vos: aspirabas
+  ud: aspiraba
+  nosotros: aspirábamos
+  vosotros: aspirabais
+  uds: aspiraban
+futuro-simple:
+  yo: aspiraré
+  tu: aspirarás
+  vos: aspirarás
+  ud: aspirará
+  nosotros: aspiraremos
+  vosotros: aspiraréis
+  uds: aspirarán
+condicional-simple:
+  yo: aspiraría
+  tu: aspirarías
+  vos: aspirarías
+  ud: aspiraría
+  nosotros: aspiraríamos
+  vosotros: aspiraríais
+  uds: aspirarían
+presente-perfecto:
+  yo: he aspirado
+  tu: has aspirado
+  vos: has aspirado
+  ud: ha aspirado
+  nosotros: hemos aspirado
+  vosotros: habéis aspirado
+  uds: han aspirado
+preterito-pluscuamperfecto:
+  yo: había aspirado
+  tu: habías aspirado
+  vos: habías aspirado
+  ud: había aspirado
+  nosotros: habíamos aspirado
+  vosotros: habíais aspirado
+  uds: habían aspirado
+futuro-perfecto:
+  yo: habré aspirado
+  tu: habrás aspirado
+  vos: habrás aspirado
+  ud: habrá aspirado
+  nosotros: habremos aspirado
+  vosotros: habréis aspirado
+  uds: habrán aspirado
+condicional-perfecto:
+  yo: habría aspirado
+  tu: habrías aspirado
+  vos: habrías aspirado
+  ud: habría aspirado
+  nosotros: habríamos aspirado
+  vosotros: habríais aspirado
+  uds: habrían aspirado
+presente-subjuntivo:
+  yo: aspire
+  tu: aspires
+  vos: aspires
+  ud: aspire
+  nosotros: aspiremos
+  vosotros: aspiréis
+  uds: aspiren
+preterito-perfecto-subjuntivo:
+  yo: haya aspirado
+  tu: hayas aspirado
+  vos: hayas aspirado
+  ud: haya aspirado
+  nosotros: hayamos aspirado
+  vosotros: hayáis aspirado
+  uds: hayan aspirado
+imperfecto-subjuntivo:
+  yo:
+    - aspirara
+    - aspirase
+  tu:
+    - aspiraras
+    - aspirases
+  vos:
+    - aspiraras
+    - aspirases
+  ud:
+    - aspirara
+    - aspirase
+  nosotros:
+    - aspiráramos
+    - aspirásemos
+  vosotros:
+    - aspirarais
+    - aspiraseis
+  uds:
+    - aspiraran
+    - aspirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aspirado
+    - hubiese aspirado
+  tu:
+    - hubieras aspirado
+    - hubieses aspirado
+  vos:
+    - hubieras aspirado
+    - hubieses aspirado
+  ud:
+    - hubiera aspirado
+    - hubiese aspirado
+  nosotros:
+    - hubiéramos aspirado
+    - hubiésemos aspirado
+  vosotros:
+    - hubierais aspirado
+    - hubieseis aspirado
+  uds:
+    - hubieran aspirado
+    - hubiesen aspirado
+imperativo:
+  tu: aspira
+  vos: aspirá
+  ud: aspire
+  nosotros: aspiremos
+  vosotros: aspirad
+  uds: aspiren

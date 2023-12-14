@@ -1,0 +1,142 @@
+infinitivo: limitar
+gerundio: limitando
+participio-pasado: limitado
+presente-indicativo:
+  yo: limito
+  tu: limitas
+  vos: limitas
+  ud: limita
+  nosotros: limitamos
+  vosotros: limitáis
+  uds: limitan
+preterito-perfecto-simple:
+  yo: limité
+  tu: limitaste
+  vos: limitaste
+  ud: limitó
+  nosotros: limitamos
+  vosotros: limitasteis
+  uds: limitaron
+preterito-imperfecto:
+  yo: limitaba
+  tu: limitabas
+  vos: limitabas
+  ud: limitaba
+  nosotros: limitábamos
+  vosotros: limitabais
+  uds: limitaban
+futuro-simple:
+  yo: limitaré
+  tu: limitarás
+  vos: limitarás
+  ud: limitará
+  nosotros: limitaremos
+  vosotros: limitaréis
+  uds: limitarán
+condicional-simple:
+  yo: limitaría
+  tu: limitarías
+  vos: limitarías
+  ud: limitaría
+  nosotros: limitaríamos
+  vosotros: limitaríais
+  uds: limitarían
+presente-perfecto:
+  yo: he limitado
+  tu: has limitado
+  vos: has limitado
+  ud: ha limitado
+  nosotros: hemos limitado
+  vosotros: habéis limitado
+  uds: han limitado
+preterito-pluscuamperfecto:
+  yo: había limitado
+  tu: habías limitado
+  vos: habías limitado
+  ud: había limitado
+  nosotros: habíamos limitado
+  vosotros: habíais limitado
+  uds: habían limitado
+futuro-perfecto:
+  yo: habré limitado
+  tu: habrás limitado
+  vos: habrás limitado
+  ud: habrá limitado
+  nosotros: habremos limitado
+  vosotros: habréis limitado
+  uds: habrán limitado
+condicional-perfecto:
+  yo: habría limitado
+  tu: habrías limitado
+  vos: habrías limitado
+  ud: habría limitado
+  nosotros: habríamos limitado
+  vosotros: habríais limitado
+  uds: habrían limitado
+presente-subjuntivo:
+  yo: limite
+  tu: limites
+  vos: limites
+  ud: limite
+  nosotros: limitemos
+  vosotros: limitéis
+  uds: limiten
+preterito-perfecto-subjuntivo:
+  yo: haya limitado
+  tu: hayas limitado
+  vos: hayas limitado
+  ud: haya limitado
+  nosotros: hayamos limitado
+  vosotros: hayáis limitado
+  uds: hayan limitado
+imperfecto-subjuntivo:
+  yo:
+    - limitara
+    - limitase
+  tu:
+    - limitaras
+    - limitases
+  vos:
+    - limitaras
+    - limitases
+  ud:
+    - limitara
+    - limitase
+  nosotros:
+    - limitáramos
+    - limitásemos
+  vosotros:
+    - limitarais
+    - limitaseis
+  uds:
+    - limitaran
+    - limitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera limitado
+    - hubiese limitado
+  tu:
+    - hubieras limitado
+    - hubieses limitado
+  vos:
+    - hubieras limitado
+    - hubieses limitado
+  ud:
+    - hubiera limitado
+    - hubiese limitado
+  nosotros:
+    - hubiéramos limitado
+    - hubiésemos limitado
+  vosotros:
+    - hubierais limitado
+    - hubieseis limitado
+  uds:
+    - hubieran limitado
+    - hubiesen limitado
+imperativo:
+  tu: limita
+  vos: limitá
+  ud: limite
+  nosotros: limitemos
+  vosotros: limitad
+  uds: limiten

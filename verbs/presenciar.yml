@@ -1,0 +1,142 @@
+infinitivo: presenciar
+gerundio: presenciando
+participio-pasado: presenciado
+presente-indicativo:
+  yo: presencio
+  tu: presencias
+  vos: presencias
+  ud: presencia
+  nosotros: presenciamos
+  vosotros: presenciáis
+  uds: presencian
+preterito-perfecto-simple:
+  yo: presencié
+  tu: presenciaste
+  vos: presenciaste
+  ud: presenció
+  nosotros: presenciamos
+  vosotros: presenciasteis
+  uds: presenciaron
+preterito-imperfecto:
+  yo: presenciaba
+  tu: presenciabas
+  vos: presenciabas
+  ud: presenciaba
+  nosotros: presenciábamos
+  vosotros: presenciabais
+  uds: presenciaban
+futuro-simple:
+  yo: presenciaré
+  tu: presenciarás
+  vos: presenciarás
+  ud: presenciará
+  nosotros: presenciaremos
+  vosotros: presenciaréis
+  uds: presenciarán
+condicional-simple:
+  yo: presenciaría
+  tu: presenciarías
+  vos: presenciarías
+  ud: presenciaría
+  nosotros: presenciaríamos
+  vosotros: presenciaríais
+  uds: presenciarían
+presente-perfecto:
+  yo: he presenciado
+  tu: has presenciado
+  vos: has presenciado
+  ud: ha presenciado
+  nosotros: hemos presenciado
+  vosotros: habéis presenciado
+  uds: han presenciado
+preterito-pluscuamperfecto:
+  yo: había presenciado
+  tu: habías presenciado
+  vos: habías presenciado
+  ud: había presenciado
+  nosotros: habíamos presenciado
+  vosotros: habíais presenciado
+  uds: habían presenciado
+futuro-perfecto:
+  yo: habré presenciado
+  tu: habrás presenciado
+  vos: habrás presenciado
+  ud: habrá presenciado
+  nosotros: habremos presenciado
+  vosotros: habréis presenciado
+  uds: habrán presenciado
+condicional-perfecto:
+  yo: habría presenciado
+  tu: habrías presenciado
+  vos: habrías presenciado
+  ud: habría presenciado
+  nosotros: habríamos presenciado
+  vosotros: habríais presenciado
+  uds: habrían presenciado
+presente-subjuntivo:
+  yo: presencie
+  tu: presencies
+  vos: presencies
+  ud: presencie
+  nosotros: presenciemos
+  vosotros: presenciéis
+  uds: presencien
+preterito-perfecto-subjuntivo:
+  yo: haya presenciado
+  tu: hayas presenciado
+  vos: hayas presenciado
+  ud: haya presenciado
+  nosotros: hayamos presenciado
+  vosotros: hayáis presenciado
+  uds: hayan presenciado
+imperfecto-subjuntivo:
+  yo:
+    - presenciara
+    - presenciase
+  tu:
+    - presenciaras
+    - presenciases
+  vos:
+    - presenciaras
+    - presenciases
+  ud:
+    - presenciara
+    - presenciase
+  nosotros:
+    - presenciáramos
+    - presenciásemos
+  vosotros:
+    - presenciarais
+    - presenciaseis
+  uds:
+    - presenciaran
+    - presenciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera presenciado
+    - hubiese presenciado
+  tu:
+    - hubieras presenciado
+    - hubieses presenciado
+  vos:
+    - hubieras presenciado
+    - hubieses presenciado
+  ud:
+    - hubiera presenciado
+    - hubiese presenciado
+  nosotros:
+    - hubiéramos presenciado
+    - hubiésemos presenciado
+  vosotros:
+    - hubierais presenciado
+    - hubieseis presenciado
+  uds:
+    - hubieran presenciado
+    - hubiesen presenciado
+imperativo:
+  tu: presencia
+  vos: presenciá
+  ud: presencie
+  nosotros: presenciemos
+  vosotros: presenciad
+  uds: presencien

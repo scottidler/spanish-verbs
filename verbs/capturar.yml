@@ -1,0 +1,142 @@
+infinitivo: capturar
+gerundio: capturando
+participio-pasado: capturado
+presente-indicativo:
+  yo: capto
+  tu: capturas
+  vos: capturás
+  ud: captura
+  nosotros: capturamos
+  vosotros: capturáis
+  uds: capturan
+preterito-perfecto-simple:
+  yo: capturé
+  tu: capturaste
+  vos: capturaste
+  ud: capturó
+  nosotros: capturamos
+  vosotros: capturasteis
+  uds: capturaron
+preterito-imperfecto:
+  yo: capturaba
+  tu: capturabas
+  vos: capturabas
+  ud: capturaba
+  nosotros: capturábamos
+  vosotros: capturabais
+  uds: capturaban
+futuro-simple:
+  yo: capturaré
+  tu: capturarás
+  vos: capturarás
+  ud: capturará
+  nosotros: capturaremos
+  vosotros: capturaréis
+  uds: capturarán
+condicional-simple:
+  yo: capturaría
+  tu: capturarías
+  vos: capturarías
+  ud: capturaría
+  nosotros: capturaríamos
+  vosotros: capturaríais
+  uds: capturarían
+presente-perfecto:
+  yo: he capturado
+  tu: has capturado
+  vos: has capturado
+  ud: ha capturado
+  nosotros: hemos capturado
+  vosotros: habéis capturado
+  uds: han capturado
+preterito-pluscuamperfecto:
+  yo: había capturado
+  tu: habías capturado
+  vos: habías capturado
+  ud: había capturado
+  nosotros: habíamos capturado
+  vosotros: habíais capturado
+  uds: habían capturado
+futuro-perfecto:
+  yo: habré capturado
+  tu: habrás capturado
+  vos: habrás capturado
+  ud: habrá capturado
+  nosotros: habremos capturado
+  vosotros: habréis capturado
+  uds: habrán capturado
+condicional-perfecto:
+  yo: habría capturado
+  tu: habrías capturado
+  vos: habrías capturado
+  ud: habría capturado
+  nosotros: habríamos capturado
+  vosotros: habríais capturado
+  uds: habrían capturado
+presente-subjuntivo:
+  yo: capture
+  tu: captures
+  vos: captures
+  ud: capture
+  nosotros: capturemos
+  vosotros: capturéis
+  uds: capturen
+preterito-perfecto-subjuntivo:
+  yo: haya capturado
+  tu: hayas capturado
+  vos: hayas capturado
+  ud: haya capturado
+  nosotros: hayamos capturado
+  vosotros: hayáis capturado
+  uds: hayan capturado
+imperfecto-subjuntivo:
+  yo:
+    - capturara
+    - capturase
+  tu:
+    - capturaras
+    - capturases
+  vos:
+    - capturaras
+    - capturases
+  ud:
+    - capturara
+    - capturase
+  nosotros:
+    - capturáramos
+    - capturásemos
+  vosotros:
+    - capturarais
+    - capturaseis
+  uds:
+    - capturaran
+    - capturasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera capturado
+    - hubiese capturado
+  tu:
+    - hubieras capturado
+    - hubieses capturado
+  vos:
+    - hubieras capturado
+    - hubieses capturado
+  ud:
+    - hubiera capturado
+    - hubiese capturado
+  nosotros:
+    - hubiéramos capturado
+    - hubiésemos capturado
+  vosotros:
+    - hubierais capturado
+    - hubieseis capturado
+  uds:
+    - hubieran capturado
+    - hubiesen capturado
+imperativo:
+  tu: captura
+  vos: capturá
+  ud: capture
+  nosotros: capturemos
+  vosotros: capturad
+  uds: capturen

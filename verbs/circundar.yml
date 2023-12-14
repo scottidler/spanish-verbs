@@ -1,0 +1,142 @@
+infinitivo: circundar
+gerundio: circundando
+participio-pasado: circundado
+presente-indicativo:
+  yo: circundo
+  tu: circundas
+  vos: circundas
+  ud: circunda
+  nosotros: circundamos
+  vosotros: circundáis
+  uds: circundan
+preterito-perfecto-simple:
+  yo: circundé
+  tu: circundaste
+  vos: circundaste
+  ud: circundó
+  nosotros: circundamos
+  vosotros: circundasteis
+  uds: circundaron
+preterito-imperfecto:
+  yo: circundaba
+  tu: circundabas
+  vos: circundabas
+  ud: circundaba
+  nosotros: circundábamos
+  vosotros: circundabais
+  uds: circundaban
+futuro-simple:
+  yo: circundaré
+  tu: circundarás
+  vos: circundarás
+  ud: circundará
+  nosotros: circundaremos
+  vosotros: circundaréis
+  uds: circundarán
+condicional-simple:
+  yo: circundaría
+  tu: circundarías
+  vos: circundarías
+  ud: circundaría
+  nosotros: circundaríamos
+  vosotros: circundaríais
+  uds: circundarían
+presente-perfecto:
+  yo: he circundado
+  tu: has circundado
+  vos: has circundado
+  ud: ha circundado
+  nosotros: hemos circundado
+  vosotros: habéis circundado
+  uds: han circundado
+preterito-pluscuamperfecto:
+  yo: había circundado
+  tu: habías circundado
+  vos: habías circundado
+  ud: había circundado
+  nosotros: habíamos circundado
+  vosotros: habíais circundado
+  uds: habían circundado
+futuro-perfecto:
+  yo: habré circundado
+  tu: habrás circundado
+  vos: habrás circundado
+  ud: habrá circundado
+  nosotros: habremos circundado
+  vosotros: habréis circundado
+  uds: habrán circundado
+condicional-perfecto:
+  yo: habría circundado
+  tu: habrías circundado
+  vos: habrías circundado
+  ud: habría circundado
+  nosotros: habríamos circundado
+  vosotros: habríais circundado
+  uds: habrían circundado
+presente-subjuntivo:
+  yo: circunde
+  tu: circundes
+  vos: circundes
+  ud: circunde
+  nosotros: circundemos
+  vosotros: circundéis
+  uds: circunden
+preterito-perfecto-subjuntivo:
+  yo: haya circundado
+  tu: hayas circundado
+  vos: hayas circundado
+  ud: haya circundado
+  nosotros: hayamos circundado
+  vosotros: hayáis circundado
+  uds: hayan circundado
+imperfecto-subjuntivo:
+  yo:
+    - circundara
+    - circundase
+  tu:
+    - circundaras
+    - circundases
+  vos:
+    - circundaras
+    - circundases
+  ud:
+    - circundara
+    - circundase
+  nosotros:
+    - circundáramos
+    - circundásemos
+  vosotros:
+    - circundarais
+    - circundaseis
+  uds:
+    - circundaran
+    - circundasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera circundado
+    - hubiese circundado
+  tu:
+    - hubieras circundado
+    - hubieses circundado
+  vos:
+    - hubieras circundado
+    - hubieses circundado
+  ud:
+    - hubiera circundado
+    - hubiese circundado
+  nosotros:
+    - hubiéramos circundado
+    - hubiésemos circundado
+  vosotros:
+    - hubierais circundado
+    - hubieseis circundado
+  uds:
+    - hubieran circundado
+    - hubiesen circundado
+imperativo:
+  tu: circunda
+  vos: circundá
+  ud: circunda
+  nosotros: circundemos
+  vosotros: circundad
+  uds: circunden

@@ -1,0 +1,142 @@
+infinitivo: apetecer
+gerundio: apeteciendo
+participio-pasado: apetecido
+presente-indicativo:
+  yo: apetezco
+  tu: apeteces
+  vos: apetece
+  ud: apetece
+  nosotros: apetecemos
+  vosotros: apetecéis
+  uds: apetecen
+preterito-perfecto-simple:
+  yo: apetecí
+  tu: apeteciste
+  vos: apeteciste
+  ud: apeteció
+  nosotros: apetecimos
+  vosotros: apetecisteis
+  uds: apetecieron
+preterito-imperfecto:
+  yo: apetecía
+  tu: apetecías
+  vos: apetecías
+  ud: apetecía
+  nosotros: apetecíamos
+  vosotros: apetecíais
+  uds: apetecían
+futuro-simple:
+  yo: apeteceré
+  tu: apetecerás
+  vos: apetecerás
+  ud: apetecerá
+  nosotros: apeteceremos
+  vosotros: apeteceréis
+  uds: apetecerán
+condicional-simple:
+  yo: apetecería
+  tu: apetecerías
+  vos: apetecerías
+  ud: apetecería
+  nosotros: apeteceríamos
+  vosotros: apeteceríais
+  uds: apetecerían
+presente-perfecto:
+  yo: he apetecido
+  tu: has apetecido
+  vos: has apetecido
+  ud: ha apetecido
+  nosotros: hemos apetecido
+  vosotros: habéis apetecido
+  uds: han apetecido
+preterito-pluscuamperfecto:
+  yo: había apetecido
+  tu: habías apetecido
+  vos: habías apetecido
+  ud: había apetecido
+  nosotros: habíamos apetecido
+  vosotros: habíais apetecido
+  uds: habían apetecido
+futuro-perfecto:
+  yo: habré apetecido
+  tu: habrás apetecido
+  vos: habrás apetecido
+  ud: habrá apetecido
+  nosotros: habremos apetecido
+  vosotros: habréis apetecido
+  uds: habrán apetecido
+condicional-perfecto:
+  yo: habría apetecido
+  tu: habrías apetecido
+  vos: habrías apetecido
+  ud: habría apetecido
+  nosotros: habríamos apetecido
+  vosotros: habríais apetecido
+  uds: habrían apetecido
+presente-subjuntivo:
+  yo: apetezca
+  tu: apetezcas
+  vos: apetezcas
+  ud: apetezca
+  nosotros: apetezcamos
+  vosotros: apetezcáis
+  uds: apetezcan
+preterito-perfecto-subjuntivo:
+  yo: haya apetecido
+  tu: hayas apetecido
+  vos: hayas apetecido
+  ud: haya apetecido
+  nosotros: hayamos apetecido
+  vosotros: hayáis apetecido
+  uds: hayan apetecido
+imperfecto-subjuntivo:
+  yo:
+    - apeteciera
+    - apeteciese
+  tu:
+    - apetecieras
+    - apetecieses
+  vos:
+    - apetecieras
+    - apetecieses
+  ud:
+    - apeteciera
+    - apeteciese
+  nosotros:
+    - apeteciéramos
+    - apeteciésemos
+  vosotros:
+    - apetecierais
+    - apetecieseis
+  uds:
+    - apetecieran
+    - apeteciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apetecido
+    - hubiese apetecido
+  tu:
+    - hubieras apetecido
+    - hubieses apetecido
+  vos:
+    - hubieras apetecido
+    - hubieses apetecido
+  ud:
+    - hubiera apetecido
+    - hubiese apetecido
+  nosotros:
+    - hubiéramos apetecido
+    - hubiésemos apetecido
+  vosotros:
+    - hubierais apetecido
+    - hubieseis apetecido
+  uds:
+    - hubieran apetecido
+    - hubiesen apetecido
+imperativo:
+  tu: apetece
+  vos: apetecé
+  ud: apetezca
+  nosotros: apetezcamos
+  vosotros: apeteced
+  uds: apetezcan

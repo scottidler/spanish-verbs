@@ -1,0 +1,142 @@
+infinitivo: prevenir
+gerundio: previniendo
+participio-pasado: prevenido
+presente-indicativo:
+  yo: prevengo
+  tu: previenes
+  vos: previenes
+  ud: previene
+  nosotros: prevenimos
+  vosotros: prevenís
+  uds: previenen
+preterito-perfecto-simple:
+  yo: prevení
+  tu: preveniste
+  vos: preveniste
+  ud: previno
+  nosotros: prevenimos
+  vosotros: prevenisteis
+  uds: previnieron
+preterito-imperfecto:
+  yo: prevenía
+  tu: prevenías
+  vos: prevenías
+  ud: prevenía
+  nosotros: preveníamos
+  vosotros: preveníais
+  uds: prevenían
+futuro-simple:
+  yo: preveniré
+  tu: prevenirás
+  vos: prevenirás
+  ud: preverá
+  nosotros: preveniremos
+  vosotros: preveniréis
+  uds: preverán
+condicional-simple:
+  yo: prevería
+  tu: preverías
+  vos: preverías
+  ud: prevería
+  nosotros: preveríamos
+  vosotros: preveríais
+  uds: preverían
+presente-perfecto:
+  yo: he prevenido
+  tu: has prevenido
+  vos: has prevenido
+  ud: ha prevenido
+  nosotros: hemos prevenido
+  vosotros: habéis prevenido
+  uds: han prevenido
+preterito-pluscuamperfecto:
+  yo: había prevenido
+  tu: habías prevenido
+  vos: habías prevenido
+  ud: había prevenido
+  nosotros: habíamos prevenido
+  vosotros: habíais prevenido
+  uds: habían prevenido
+futuro-perfecto:
+  yo: habré prevenido
+  tu: habrás prevenido
+  vos: habrás prevenido
+  ud: habrá prevenido
+  nosotros: habremos prevenido
+  vosotros: habréis prevenido
+  uds: habrán prevenido
+condicional-perfecto:
+  yo: habría prevenido
+  tu: habrías prevenido
+  vos: habrías prevenido
+  ud: habría prevenido
+  nosotros: habríamos prevenido
+  vosotros: habríais prevenido
+  uds: habrían prevenido
+presente-subjuntivo:
+  yo: prevenga
+  tu: prevengas
+  vos: prevengas
+  ud: prevenga
+  nosotros: prevengamos
+  vosotros: prevengáis
+  uds: prevengan
+preterito-perfecto-subjuntivo:
+  yo: haya prevenido
+  tu: hayas prevenido
+  vos: hayas prevenido
+  ud: haya prevenido
+  nosotros: hayamos prevenido
+  vosotros: hayáis prevenido
+  uds: hayan prevenido
+imperfecto-subjuntivo:
+  yo:
+    - previniera
+    - previniese
+  tu:
+    - previnieras
+    - previnieses
+  vos:
+    - previnieras
+    - previnieses
+  ud:
+    - previniera
+    - previniese
+  nosotros:
+    - previniéramos
+    - previniésemos
+  vosotros:
+    - previnierais
+    - previnieseis
+  uds:
+    - previnieran
+    - previniesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera prevenido
+    - hubiese prevenido
+  tu:
+    - hubieras prevenido
+    - hubieses prevenido
+  vos:
+    - hubieras prevenido
+    - hubieses prevenido
+  ud:
+    - hubiera prevenido
+    - hubiese prevenido
+  nosotros:
+    - hubiéramos prevenido
+    - hubiésemos prevenido
+  vosotros:
+    - hubierais prevenido
+    - hubieseis prevenido
+  uds:
+    - hubieran prevenido
+    - hubiesen prevenido
+imperativo:
+  tu: prevén
+  vos: prevé
+  ud: prevenga
+  nosotros: prevengamos
+  vosotros: prevenid
+  uds: prevengan

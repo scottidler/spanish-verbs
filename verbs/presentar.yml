@@ -1,0 +1,142 @@
+infinitivo: presentar
+gerundio: presentando
+participio-pasado: presentado
+presente-indicativo:
+  yo: presento
+  tu: presentas
+  vos: presentas
+  ud: presenta
+  nosotros: presentamos
+  vosotros: presentáis
+  uds: presentan
+preterito-perfecto-simple:
+  yo: presenté
+  tu: presentaste
+  vos: presentaste
+  ud: presentó
+  nosotros: presentamos
+  vosotros: presentasteis
+  uds: presentaron
+preterito-imperfecto:
+  yo: presentaba
+  tu: presentabas
+  vos: presentabas
+  ud: presentaba
+  nosotros: presentábamos
+  vosotros: presentabais
+  uds: presentaban
+futuro-simple:
+  yo: presentaré
+  tu: presentarás
+  vos: presentarás
+  ud: presentará
+  nosotros: presentaremos
+  vosotros: presentaréis
+  uds: presentarán
+condicional-simple:
+  yo: presentaría
+  tu: presentarías
+  vos: presentarías
+  ud: presentaría
+  nosotros: presentaríamos
+  vosotros: presentaríais
+  uds: presentarían
+presente-perfecto:
+  yo: he presentado
+  tu: has presentado
+  vos: has presentado
+  ud: ha presentado
+  nosotros: hemos presentado
+  vosotros: habéis presentado
+  uds: han presentado
+preterito-pluscuamperfecto:
+  yo: había presentado
+  tu: habías presentado
+  vos: habías presentado
+  ud: había presentado
+  nosotros: habíamos presentado
+  vosotros: habíais presentado
+  uds: habían presentado
+futuro-perfecto:
+  yo: habré presentado
+  tu: habrás presentado
+  vos: habrás presentado
+  ud: habrá presentado
+  nosotros: habremos presentado
+  vosotros: habréis presentado
+  uds: habrán presentado
+condicional-perfecto:
+  yo: habría presentado
+  tu: habrías presentado
+  vos: habrías presentado
+  ud: habría presentado
+  nosotros: habríamos presentado
+  vosotros: habríais presentado
+  uds: habrían presentado
+presente-subjuntivo:
+  yo: presente
+  tu: presentes
+  vos: presentes
+  ud: presente
+  nosotros: presentemos
+  vosotros: presentéis
+  uds: presenten
+preterito-perfecto-subjuntivo:
+  yo: haya presentado
+  tu: hayas presentado
+  vos: hayas presentado
+  ud: haya presentado
+  nosotros: hayamos presentado
+  vosotros: hayáis presentado
+  uds: hayan presentado
+imperfecto-subjuntivo:
+  yo:
+    - presentara
+    - presentase
+  tu:
+    - presentaras
+    - presentases
+  vos:
+    - presentaras
+    - presentases
+  ud:
+    - presentara
+    - presentase
+  nosotros:
+    - presentáramos
+    - presentásemos
+  vosotros:
+    - presentarais
+    - presentaseis
+  uds:
+    - presentaran
+    - presentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera presentado
+    - hubiese presentado
+  tu:
+    - hubieras presentado
+    - hubieses presentado
+  vos:
+    - hubieras presentado
+    - hubieses presentado
+  ud:
+    - hubiera presentado
+    - hubiese presentado
+  nosotros:
+    - hubiéramos presentado
+    - hubiésemos presentado
+  vosotros:
+    - hubierais presentado
+    - hubieseis presentado
+  uds:
+    - hubieran presentado
+    - hubiesen presentado
+imperativo:
+  tu: presenta
+  vos: presentá
+  ud: presente
+  nosotros: presentemos
+  vosotros: presentad
+  uds: presenten

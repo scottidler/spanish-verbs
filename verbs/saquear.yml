@@ -1,0 +1,142 @@
+infinitivo: saquear
+gerundio: saqueando
+participio-pasado: saqueado
+presente-indicativo:
+  yo: saqueo
+  tu: saqueas
+  vos: saqueas
+  ud: saquea
+  nosotros: saqueamos
+  vosotros: saqueáis
+  uds: saquean
+preterito-perfecto-simple:
+  yo: saqueé
+  tu: saqueaste
+  vos: saqueaste
+  ud: saqueó
+  nosotros: saqueamos
+  vosotros: saqueasteis
+  uds: saquearon
+preterito-imperfecto:
+  yo: saqueaba
+  tu: saqueabas
+  vos: saqueabas
+  ud: saqueaba
+  nosotros: saqueábamos
+  vosotros: saqueabais
+  uds: saqueaban
+futuro-simple:
+  yo: saquearé
+  tu: saquearás
+  vos: saquearás
+  ud: saqueará
+  nosotros: saquearemos
+  vosotros: saquearéis
+  uds: saquearán
+condicional-simple:
+  yo: saquearía
+  tu: saquearías
+  vos: saquearías
+  ud: saquearía
+  nosotros: saquearíamos
+  vosotros: saquearíais
+  uds: saquearían
+presente-perfecto:
+  yo: he saqueado
+  tu: has saqueado
+  vos: has saqueado
+  ud: ha saqueado
+  nosotros: hemos saqueado
+  vosotros: habéis saqueado
+  uds: han saqueado
+preterito-pluscuamperfecto:
+  yo: había saqueado
+  tu: habías saqueado
+  vos: habías saqueado
+  ud: había saqueado
+  nosotros: habíamos saqueado
+  vosotros: habíais saqueado
+  uds: habían saqueado
+futuro-perfecto:
+  yo: habré saqueado
+  tu: habrás saqueado
+  vos: habrás saqueado
+  ud: habrá saqueado
+  nosotros: habremos saqueado
+  vosotros: habréis saqueado
+  uds: habrán saqueado
+condicional-perfecto:
+  yo: habría saqueado
+  tu: habrías saqueado
+  vos: habrías saqueado
+  ud: habría saqueado
+  nosotros: habríamos saqueado
+  vosotros: habríais saqueado
+  uds: habrían saqueado
+presente-subjuntivo:
+  yo: saquee
+  tu: saquees
+  vos: saquees
+  ud: saquee
+  nosotros: saqueemos
+  vosotros: saqueéis
+  uds: saqueen
+preterito-perfecto-subjuntivo:
+  yo: haya saqueado
+  tu: hayas saqueado
+  vos: hayas saqueado
+  ud: haya saqueado
+  nosotros: hayamos saqueado
+  vosotros: hayáis saqueado
+  uds: hayan saqueado
+imperfecto-subjuntivo:
+  yo:
+    - saqueara
+    - saquease
+  tu:
+    - saquearas
+    - saqueases
+  vos:
+    - saquearas
+    - saqueases
+  ud:
+    - saqueara
+    - saquease
+  nosotros:
+    - saqueáramos
+    - saqueásemos
+  vosotros:
+    - saquearais
+    - saqueaseis
+  uds:
+    - saquearan
+    - saqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera saqueado
+    - hubiese saqueado
+  tu:
+    - hubieras saqueado
+    - hubieses saqueado
+  vos:
+    - hubieras saqueado
+    - hubieses saqueado
+  ud:
+    - hubiera saqueado
+    - hubiese saqueado
+  nosotros:
+    - hubiéramos saqueado
+    - hubiésemos saqueado
+  vosotros:
+    - hubierais saqueado
+    - hubieseis saqueado
+  uds:
+    - hubieran saqueado
+    - hubiesen saqueado
+imperativo:
+  tu: saquea
+  vos: saqueá
+  ud: saquee
+  nosotros: saqueemos
+  vosotros: saquead
+  uds: saqueen

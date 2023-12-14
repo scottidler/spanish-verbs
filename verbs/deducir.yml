@@ -1,0 +1,142 @@
+infinitivo: deducir
+gerundio: deduciendo
+participio-pasado: deducido
+presente-indicativo:
+  yo: deduzco
+  tu: deduces
+  vos: deduces
+  ud: deduce
+  nosotros: deducimos
+  vosotros: deducís
+  uds: deducen
+preterito-perfecto-simple:
+  yo: deduje
+  tu: dedujiste
+  vos: dedujiste
+  ud: dedujo
+  nosotros: dedujimos
+  vosotros: dedujisteis
+  uds: dedujeron
+preterito-imperfecto:
+  yo: deducía
+  tu: deducías
+  vos: deducías
+  ud: deducía
+  nosotros: deducíamos
+  vosotros: deducíais
+  uds: deducían
+futuro-simple:
+  yo: deduciré
+  tu: deducirás
+  vos: deducirás
+  ud: deducirá
+  nosotros: deduciremos
+  vosotros: deduciréis
+  uds: deducirán
+condicional-simple:
+  yo: deduciría
+  tu: deducirías
+  vos: deducirías
+  ud: deduciría
+  nosotros: deduciríamos
+  vosotros: deduciríais
+  uds: deducirían
+presente-perfecto:
+  yo: he deducido
+  tu: has deducido
+  vos: has deducido
+  ud: ha deducido
+  nosotros: hemos deducido
+  vosotros: habéis deducido
+  uds: han deducido
+preterito-pluscuamperfecto:
+  yo: había deducido
+  tu: habías deducido
+  vos: habías deducido
+  ud: había deducido
+  nosotros: habíamos deducido
+  vosotros: habíais deducido
+  uds: habían deducido
+futuro-perfecto:
+  yo: habré deducido
+  tu: habrás deducido
+  vos: habrás deducido
+  ud: habrá deducido
+  nosotros: habremos deducido
+  vosotros: habréis deducido
+  uds: habrán deducido
+condicional-perfecto:
+  yo: habría deducido
+  tu: habrías deducido
+  vos: habrías deducido
+  ud: habría deducido
+  nosotros: habríamos deducido
+  vosotros: habríais deducido
+  uds: habrían deducido
+presente-subjuntivo:
+  yo: deduzca
+  tu: deduzcas
+  vos: deduzcas
+  ud: deduzca
+  nosotros: deduzcamos
+  vosotros: deduzcáis
+  uds: deduzcan
+preterito-perfecto-subjuntivo:
+  yo: haya deducido
+  tu: hayas deducido
+  vos: hayas deducido
+  ud: haya deducido
+  nosotros: hayamos deducido
+  vosotros: hayáis deducido
+  uds: hayan deducido
+imperfecto-subjuntivo:
+  yo:
+    - dedujera
+    - dedujese
+  tu:
+    - dedujeras
+    - dedujeses
+  vos:
+    - dedujeras
+    - dedujeses
+  ud:
+    - dedujera
+    - dedujese
+  nosotros:
+    - dedujéramos
+    - dedujésemos
+  vosotros:
+    - dedujerais
+    - dedujeseis
+  uds:
+    - dedujeran
+    - dedujesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera deducido
+    - hubiese deducido
+  tu:
+    - hubieras deducido
+    - hubieses deducido
+  vos:
+    - hubieras deducido
+    - hubieses deducido
+  ud:
+    - hubiera deducido
+    - hubiese deducido
+  nosotros:
+    - hubiéramos deducido
+    - hubiésemos deducido
+  vosotros:
+    - hubierais deducido
+    - hubieseis deducido
+  uds:
+    - hubieran deducido
+    - hubiesen deducido
+imperativo:
+  tu: deduce
+  vos: deducí
+  ud: deduzca
+  nosotros: deduzcamos
+  vosotros: deducid
+  uds: deduzcan

@@ -1,0 +1,142 @@
+infinitivo: talar
+gerundio: talando
+participio-pasado: talado
+presente-indicativo:
+  yo: talo
+  tu: talas
+  vos: talás
+  ud: tala
+  nosotros: talamos
+  vosotros: taláis
+  uds: talan
+preterito-perfecto-simple:
+  yo: talé
+  tu: talaste
+  vos: talaste
+  ud: taló
+  nosotros: talamos
+  vosotros: talasteis
+  uds: talaron
+preterito-imperfecto:
+  yo: talaba
+  tu: talabas
+  vos: talabas
+  ud: talaba
+  nosotros: talábamos
+  vosotros: talabais
+  uds: talaban
+futuro-simple:
+  yo: talaré
+  tu: talarás
+  vos: talarás
+  ud: talará
+  nosotros: talaremos
+  vosotros: talaréis
+  uds: talarán
+condicional-simple:
+  yo: talaría
+  tu: talarías
+  vos: talarías
+  ud: talaría
+  nosotros: talaríamos
+  vosotros: talaríais
+  uds: talarían
+presente-perfecto:
+  yo: he talado
+  tu: has talado
+  vos: has talado
+  ud: ha talado
+  nosotros: hemos talado
+  vosotros: habéis talado
+  uds: han talado
+preterito-pluscuamperfecto:
+  yo: había talado
+  tu: habías talado
+  vos: habías talado
+  ud: había talado
+  nosotros: habíamos talado
+  vosotros: habíais talado
+  uds: habían talado
+futuro-perfecto:
+  yo: habré talado
+  tu: habrás talado
+  vos: habrás talado
+  ud: habrá talado
+  nosotros: habremos talado
+  vosotros: habréis talado
+  uds: habrán talado
+condicional-perfecto:
+  yo: habría talado
+  tu: habrías talado
+  vos: habrías talado
+  ud: habría talado
+  nosotros: habríamos talado
+  vosotros: habríais talado
+  uds: habrían talado
+presente-subjuntivo:
+  yo: tale
+  tu: tales
+  vos: tales
+  ud: tale
+  nosotros: talemos
+  vosotros: taléis
+  uds: talen
+preterito-perfecto-subjuntivo:
+  yo: haya talado
+  tu: hayas talado
+  vos: hayas talado
+  ud: haya talado
+  nosotros: hayamos talado
+  vosotros: hayáis talado
+  uds: hayan talado
+imperfecto-subjuntivo:
+  yo:
+    - talara
+    - talase
+  tu:
+    - talaras
+    - talases
+  vos:
+    - talaras
+    - talases
+  ud:
+    - talara
+    - talase
+  nosotros:
+    - taláramos
+    - talásemos
+  vosotros:
+    - talarais
+    - talaseis
+  uds:
+    - talaran
+    - talasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera talado
+    - hubiese talado
+  tu:
+    - hubieras talado
+    - hubieses talado
+  vos:
+    - hubieras talado
+    - hubieses talado
+  ud:
+    - hubiera talado
+    - hubiese talado
+  nosotros:
+    - hubiéramos talado
+    - hubiésemos talado
+  vosotros:
+    - hubierais talado
+    - hubieseis talado
+  uds:
+    - hubieran talado
+    - hubiesen talado
+imperativo:
+  tu: tala
+  vos: talá
+  ud: tale
+  nosotros: talemos
+  vosotros: talad
+  uds: talen

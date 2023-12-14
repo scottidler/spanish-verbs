@@ -1,0 +1,142 @@
+infinitivo: enroscarse
+gerundio: enroscándose
+participio-pasado: enroscado
+presente-indicativo:
+  yo: me enrosco
+  tu: te enroscas
+  vos: te enroscás
+  ud: se enrosca
+  nosotros: nos enroscamos
+  vosotros: os enroscáis
+  uds: se enroscan
+preterito-perfecto-simple:
+  yo: me enrosqué
+  tu: te enroscaste
+  vos: te enroscaste
+  ud: se enroscó
+  nosotros: nos enroscamos
+  vosotros: os enroscasteis
+  uds: se enroscaron
+preterito-imperfecto:
+  yo: me enroscaba
+  tu: te enroscabas
+  vos: te enroscabas
+  ud: se enroscaba
+  nosotros: nos enroscábamos
+  vosotros: os enroscabais
+  uds: se enroscaban
+futuro-simple:
+  yo: me enroscaré
+  tu: te enroscarás
+  vos: te enroscarás
+  ud: se enrocará
+  nosotros: nos enroscaremos
+  vosotros: os enroscaréis
+  uds: se enroscarán
+condicional-simple:
+  yo: me enroscaría
+  tu: te enroscarías
+  vos: te enroscarías
+  ud: se enroscaría
+  nosotros: nos enroscaríamos
+  vosotros: os enroscaríais
+  uds: se enroscarían
+presente-perfecto:
+  yo: me he enroscado
+  tu: te has enroscado
+  vos: te has enroscado
+  ud: se ha enroscado
+  nosotros: nos hemos enroscado
+  vosotros: os habéis enroscado
+  uds: se han enroscado
+preterito-pluscuamperfecto:
+  yo: me había enroscado
+  tu: te habías enroscado
+  vos: te habías enroscado
+  ud: se había enroscado
+  nosotros: nos habíamos enroscado
+  vosotros: os habíais enroscado
+  uds: se habían enroscado
+futuro-perfecto:
+  yo: me habré enroscado
+  tu: te habrás enroscado
+  vos: te habrás enroscado
+  ud: se habrá enroscado
+  nosotros: nos habremos enroscado
+  vosotros: os habréis enroscado
+  uds: se habrán enroscado
+condicional-perfecto:
+  yo: me habría enroscado
+  tu: te habrías enroscado
+  vos: te habrías enroscado
+  ud: se habría enroscado
+  nosotros: nos habríamos enroscado
+  vosotros: os habríais enroscado
+  uds: se habrían enroscado
+presente-subjuntivo:
+  yo: me enrosque
+  tu: te enrosques
+  vos: te enrosques
+  ud: se enrosque
+  nosotros: nos enrosquemos
+  vosotros: os enrosquéis
+  uds: se enrosquen
+preterito-perfecto-subjuntivo:
+  yo: me haya enroscado
+  tu: te hayas enroscado
+  vos: te hayas enroscado
+  ud: se haya enroscado
+  nosotros: nos hayamos enroscado
+  vosotros: os hayáis enroscado
+  uds: se hayan enroscado
+imperfecto-subjuntivo:
+  yo:
+    - me enroscara
+    - me enroscase
+  tu:
+    - te enroscaras
+    - te enroscases
+  vos:
+    - te enroscaras
+    - te enroscases
+  ud:
+    - se enroscara
+    - se enroscase
+  nosotros:
+    - nos enroscáramos
+    - nos enroscásemos
+  vosotros:
+    - os enroscarais
+    - os enrosca
+  uds:
+    - se enroscaran
+    - se enroscasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera enroscado
+    - me hubiese enroscado
+  tu:
+    - te hubieras enroscado
+    - te hubieses enroscado
+  vos:
+    - te hubieras enroscado
+    - te hubieses enroscado
+  ud:
+    - se hubiera enroscado
+    - se hubiese enroscado
+  nosotros:
+    - nos hubiéramos enroscado
+    - nos hubiésemos enroscado
+  vosotros:
+    - os hubierais enroscado
+    - os hubieseis enroscado
+  uds:
+    - se hubieran enroscado
+    - se hubiesen enroscado
+imperativo:
+  tu: enróscate
+  vos: enroscate
+  ud: enróquese
+  nosotros: enrosquémonos
+  vosotros: enroscaros
+  uds: enrosquen

@@ -1,0 +1,142 @@
+infinitivo: terminar
+gerundio: terminando
+participio-pasado: terminado
+presente-indicativo:
+  yo: termino
+  tu: terminas
+  vos: terminas
+  ud: termina
+  nosotros: terminamos
+  vosotros: termináis
+  uds: terminan
+preterito-perfecto-simple:
+  yo: terminé
+  tu: terminaste
+  vos: terminaste
+  ud: terminó
+  nosotros: terminamos
+  vosotros: terminasteis
+  uds: terminaron
+preterito-imperfecto:
+  yo: terminaba
+  tu: terminabas
+  vos: terminabas
+  ud: terminaba
+  nosotros: terminábamos
+  vosotros: terminabais
+  uds: terminaban
+futuro-simple:
+  yo: terminaré
+  tu: terminarás
+  vos: terminarás
+  ud: terminará
+  nosotros: terminaremos
+  vosotros: terminaréis
+  uds: terminarán
+condicional-simple:
+  yo: terminaría
+  tu: terminarías
+  vos: terminarías
+  ud: terminaría
+  nosotros: terminaríamos
+  vosotros: terminaríais
+  uds: terminarían
+presente-perfecto:
+  yo: he terminado
+  tu: has terminado
+  vos: has terminado
+  ud: ha terminado
+  nosotros: hemos terminado
+  vosotros: habéis terminado
+  uds: han terminado
+preterito-pluscuamperfecto:
+  yo: había terminado
+  tu: habías terminado
+  vos: habías terminado
+  ud: había terminado
+  nosotros: habíamos terminado
+  vosotros: habíais terminado
+  uds: habían terminado
+futuro-perfecto:
+  yo: habré terminado
+  tu: habrás terminado
+  vos: habrás terminado
+  ud: habrá terminado
+  nosotros: habremos terminado
+  vosotros: habréis terminado
+  uds: habrán terminado
+condicional-perfecto:
+  yo: habría terminado
+  tu: habrías terminado
+  vos: habrías terminado
+  ud: habría terminado
+  nosotros: habríamos terminado
+  vosotros: habríais terminado
+  uds: habrían terminado
+presente-subjuntivo:
+  yo: termine
+  tu: termines
+  vos: termines
+  ud: termine
+  nosotros: terminemos
+  vosotros: terminéis
+  uds: terminen
+preterito-perfecto-subjuntivo:
+  yo: haya terminado
+  tu: hayas terminado
+  vos: hayas terminado
+  ud: haya terminado
+  nosotros: hayamos terminado
+  vosotros: hayáis terminado
+  uds: hayan terminado
+imperfecto-subjuntivo:
+  yo:
+    - terminara
+    - terminase
+  tu:
+    - terminaras
+    - terminases
+  vos:
+    - terminaras
+    - terminases
+  ud:
+    - terminara
+    - terminase
+  nosotros:
+    - termináramos
+    - terminásemos
+  vosotros:
+    - terminarais
+    - terminaseis
+  uds:
+    - terminaran
+    - terminasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera terminado
+    - hubiese terminado
+  tu:
+    - hubieras terminado
+    - hubieses terminado
+  vos:
+    - hubieras terminado
+    - hubieses terminado
+  ud:
+    - hubiera terminado
+    - hubiese terminado
+  nosotros:
+    - hubiéramos terminado
+    - hubiésemos terminado
+  vosotros:
+    - hubierais terminado
+    - hubieseis terminado
+  uds:
+    - hubieran terminado
+    - hubiesen terminado
+imperativo:
+  tu: termina
+  vos: terminá
+  ud: termine
+  nosotros: terminemos
+  vosotros: terminad
+  uds: terminen

@@ -1,0 +1,156 @@
+infinitivo: encaramarse
+gerundio: encaramándose
+participio-pasado: encaramado
+
+presente-indicativo:
+  yo: me encaramo
+  tu: te encaramas
+  vos: te encaramas
+  ud: se encarama
+  nosotros: nos encaramamos
+  vosotros: os encaramáis
+  uds: se encaraman
+
+preterito-perfecto-simple:
+  yo: me encaramé
+  tu: te encaramaste
+  vos: te encaramaste
+  ud: se encaramó
+  nosotros: nos encaramamos
+  vosotros: os encaramasteis
+  uds: se encaramaron
+
+preterito-imperfecto:
+  yo: me encaramaba
+  tu: te encaramabas
+  vos: te encaramabas
+  ud: se encaramaba
+  nosotros: nos encaramábamos
+  vosotros: os encaramabais
+  uds: se encaramaban
+
+futuro-simple:
+  yo: me encaramaré
+  tu: te encaramarás
+  vos: te encaramarás
+  ud: se encaramará
+  nosotros: nos encaramaremos
+  vosotros: os encaramaréis
+  uds: se encaramarán
+
+condicional-simple:
+  yo: me encaramaría
+  tu: te encaramarías
+  vos: te encaramarías
+  ud: se encaramaría
+  nosotros: nos encaramaríamos
+  vosotros: os encaramaríais
+  uds: se encaramarían
+
+presente-perfecto:
+  yo: me he encaramado
+  tu: te has encaramado
+  vos: te has encaramado
+  ud: se ha encaramado
+  nosotros: nos hemos encaramado
+  vosotros: os habéis encaramado
+  uds: se han encaramado
+
+preterito-pluscuamperfecto:
+  yo: me había encaramado
+  tu: te habías encaramado
+  vos: te habías encaramado
+  ud: se había encaramado
+  nosotros: nos habíamos encaramado
+  vosotros: os habíais encaramado
+  uds: se habían encaramado
+
+futuro-perfecto:
+  yo: me habré encaramado
+  tu: te habrás encaramado
+  vos: te habrás encaramado
+  ud: se habrá encaramado
+  nosotros: nos habremos encaramado
+  vosotros: os habréis encaramado
+  uds: se habrán encaramado
+
+condicional-perfecto:
+  yo: me habría encaramado
+  tu: te habrías encaramado
+  vos: te habrías encaramado
+  ud: se habría encaramado
+  nosotros: nos habríamos encaramado
+  vosotros: os habríais encaramado
+  uds: se habrían encaramado
+
+presente-subjuntivo:
+  yo: me encaramase
+  tu: te encaramases
+  vos: te encaramases
+  ud: se encaramase
+  nosotros: nos encaramásemos
+  vosotros: os encaramaseis
+  uds: se encaramasen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya encaramado
+  tu: te hayas encaramado
+  vos: te hayas encaramado
+  ud: se haya encaramado
+  nosotros: nos hayamos encaramado
+  vosotros: os hayáis encaramado
+  uds: se hayan encaramado
+
+imperfecto-subjuntivo:
+  yo:
+    - me encaramara
+    - me encaramase
+  tu:
+    - te encaramaras
+    - te encaramases
+  vos:
+    - te encaramaras
+    - te encaramases
+  ud:
+    - se encaramara
+    - se encaramase
+  nosotros:
+    - nos encaráramos
+    - nos encarásemos
+  vosotros:
+    - os encaramarais
+    - os encaramaseis
+  uds:
+    - se encaramaran
+    - se encaramasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera encaramado
+    - me hubiese encaramado
+  tu:
+    - te hubieras encaramado
+    - te hubieses encaramado
+  vos:
+    - te hubieras encaramado
+    - te hubieses encaramado
+  ud:
+    - se hubiera encaramado
+    - se hubiese encaramado
+  nosotros:
+    - nos hubiéramos encaramado
+    - nos hubiésemos encaramado
+  vosotros:
+    - os hubierais encaramado
+    - os hubieseis encaramado
+  uds:
+    - se hubieran encaramado
+    - se hubiesen encaramado
+
+imperativo:
+  tu: encárate
+  vos: encarámate
+  ud: encárese
+  nosotros: encarámonos
+  vosotros: encaramaos
+  uds: encárense

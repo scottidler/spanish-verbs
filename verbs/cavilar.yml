@@ -1,0 +1,142 @@
+infinitivo: cavilar
+gerundio: cavilando
+participio-pasado: cavilado
+presente-indicativo:
+  yo: cavilo
+  tu: cavilas
+  vos: cavilas
+  ud: cavila
+  nosotros: cavilamos
+  vosotros: caviláis
+  uds: cavilan
+preterito-perfecto-simple:
+  yo: cavilé
+  tu: cavilaste
+  vos: cavilaste
+  ud: caviló
+  nosotros: cavilamos
+  vosotros: cavilasteis
+  uds: cavilaron
+preterito-imperfecto:
+  yo: cavilaba
+  tu: cavilabas
+  vos: cavilabas
+  ud: cavilaba
+  nosotros: cavilábamos
+  vosotros: cavilabais
+  uds: cavilaban
+futuro-simple:
+  yo: cavilaré
+  tu: cavilarás
+  vos: cavilarás
+  ud: cavilará
+  nosotros: cavilaremos
+  vosotros: cavilaréis
+  uds: cavilarán
+condicional-simple:
+  yo: cavilaría
+  tu: cavilarías
+  vos: cavilarías
+  ud: cavilaría
+  nosotros: cavilaríamos
+  vosotros: cavilaríais
+  uds: cavilarían
+presente-perfecto:
+  yo: he cavilado
+  tu: has cavilado
+  vos: has cavilado
+  ud: ha cavilado
+  nosotros: hemos cavilado
+  vosotros: habéis cavilado
+  uds: han cavilado
+preterito-pluscuamperfecto:
+  yo: había cavilado
+  tu: habías cavilado
+  vos: habías cavilado
+  ud: había cavilado
+  nosotros: habíamos cavilado
+  vosotros: habíais cavilado
+  uds: habían cavilado
+futuro-perfecto:
+  yo: habré cavilado
+  tu: habrás cavilado
+  vos: habrás cavilado
+  ud: habrá cavilado
+  nosotros: habremos cavilado
+  vosotros: habréis cavilado
+  uds: habrán cavilado
+condicional-perfecto:
+  yo: habría cavilado
+  tu: habrías cavilado
+  vos: habrías cavilado
+  ud: habría cavilado
+  nosotros: habríamos cavilado
+  vosotros: habríais cavilado
+  uds: habrían cavilado
+presente-subjuntivo:
+  yo: cavile
+  tu: caviles
+  vos: caviles
+  ud: cavile
+  nosotros: cavilemos
+  vosotros: caviléis
+  uds: cavilen
+preterito-perfecto-subjuntivo:
+  yo: haya cavilado
+  tu: hayas cavilado
+  vos: hayas cavilado
+  ud: haya cavilado
+  nosotros: hayamos cavilado
+  vosotros: hayáis cavilado
+  uds: hayan cavilado
+imperfecto-subjuntivo:
+  yo:
+    - cavilara
+    - cavilase
+  tu:
+    - cavilaras
+    - cavilases
+  vos:
+    - cavilaras
+    - cavilases
+  ud:
+    - cavilara
+    - cavilase
+  nosotros:
+    - caviláramos
+    - cavilásemos
+  vosotros:
+    - cavilarais
+    - cavilaseis
+  uds:
+    - cavilaran
+    - cavilasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cavilado
+    - hubiese cavilado
+  tu:
+    - hubieras cavilado
+    - hubieses cavilado
+  vos:
+    - hubieras cavilado
+    - hubieses cavilado
+  ud:
+    - hubiera cavilado
+    - hubiese cavilado
+  nosotros:
+    - hubiéramos cavilado
+    - hubiésemos cavilado
+  vosotros:
+    - hubierais cavilado
+    - hubieseis cavilado
+  uds:
+    - hubieran cavilado
+    - hubiesen cavilado
+imperativo:
+  tu: cavila
+  vos: cavilá
+  ud: cavile
+  nosotros: cavilemos
+  vosotros: cavilad
+  uds: cavilen

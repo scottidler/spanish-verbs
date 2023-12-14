@@ -1,0 +1,156 @@
+infinitivo: olisquear
+gerundio: olisqueando
+participio-pasado: olisqueado
+
+presente-indicativo:
+  yo: olisqueo
+  tu: olisqueas
+  vos: olisqueas
+  ud: olisquea
+  nosotros: olisqueamos
+  vosotros: olisqueáis
+  uds: olisquean
+
+preterito-perfecto-simple:
+  yo: olisquee
+  tu: olisqueaste
+  vos: olisqueaste
+  ud: olisqueó
+  nosotros: olisqueamos
+  vosotros: olisqueasteis
+  uds: olisquearon
+
+preterito-imperfecto:
+  yo: olisqueaba
+  tu: olisqueabas
+  vos: olisqueabas
+  ud: olisqueaba
+  nosotros: olisqueábamos
+  vosotros: olisqueabais
+  uds: olisqueaban
+
+futuro-simple:
+  yo: olisquearé
+  tu: olisquearás
+  vos: olisquearás
+  ud: olisqueará
+  nosotros: olisquearemos
+  vosotros: olisquearéis
+  uds: olisquearán
+
+condicional-simple:
+  yo: olisquearía
+  tu: olisquearías
+  vos: olisquearías
+  ud: olisquearía
+  nosotros: olisquearíamos
+  vosotros: olisquearíais
+  uds: olisquearían
+
+presente-perfecto:
+  yo: he olisqueado
+  tu: has olisqueado
+  vos: has olisqueado
+  ud: ha olisqueado
+  nosotros: hemos olisqueado
+  vosotros: habéis olisqueado
+  uds: han olisqueado
+
+preterito-pluscuamperfecto:
+  yo: había olisqueado
+  tu: habías olisqueado
+  vos: habías olisqueado
+  ud: había olisqueado
+  nosotros: habíamos olisqueado
+  vosotros: habíais olisqueado
+  uds: habían olisqueado
+
+futuro-perfecto:
+  yo: habré olisqueado
+  tu: habrás olisqueado
+  vos: habrás olisqueado
+  ud: habrá olisqueado
+  nosotros: habremos olisqueado
+  vosotros: habréis olisqueado
+  uds: habrán olisqueado
+
+condicional-perfecto:
+  yo: habría olisqueado
+  tu: habrías olisqueado
+  vos: habrías olisqueado
+  ud: habría olisqueado
+  nosotros: habríamos olisqueado
+  vosotros: habríais olisqueado
+  uds: habrían olisqueado
+
+presente-subjuntivo:
+  yo: olisquee
+  tu: olisquees
+  vos: olisquees
+  ud: olisquee
+  nosotros: olisqueemos
+  vosotros: olisqueéis
+  uds: olisqueen
+
+preterito-perfecto-subjuntivo:
+  yo: haya olisqueado
+  tu: hayas olisqueado
+  vos: hayas olisqueado
+  ud: haya olisqueado
+  nosotros: hayamos olisqueado
+  vosotros: hayáis olisqueado
+  uds: hayan olisqueado
+
+imperfecto-subjuntivo:
+  yo:
+    - olisqueara
+    - olisquease
+  tu:
+    - olisquearas
+    - olisqueases
+  vos:
+    - olisquearas
+    - olisqueases
+  ud:
+    - olisqueara
+    - olisquease
+  nosotros:
+    - olisqueáramos
+    - olisqueásemos
+  vosotros:
+    - olisquearais
+    - olisqueaseis
+  uds:
+    - olisquearan
+    - olisqueasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera olisqueado
+    - hubiese olisqueado
+  tu:
+    - hubieras olisqueado
+    - hubieses olisqueado
+  vos:
+    - hubieras olisqueado
+    - hubieses olisqueado
+  ud:
+    - hubiera olisqueado
+    - hubiese olisqueado
+  nosotros:
+    - hubiéramos olisqueado
+    - hubiésemos olisqueado
+  vosotros:
+    - hubierais olisqueado
+    - hubieseis olisqueado
+  uds:
+    - hubieran olisqueado
+    - hubiesen olisqueado
+
+imperativo:
+  tu: olisquea
+  vos: olisqueá
+  ud: olisquee
+  nosotros: olisqueemos
+  vosotros: olisqequen
+  uds: olisqueen

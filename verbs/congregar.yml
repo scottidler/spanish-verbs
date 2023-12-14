@@ -1,0 +1,142 @@
+infinitivo: congregar
+gerundio: congregando
+participio-pasado: congregado
+presente-indicativo:
+  yo: congrego
+  tu: congregas
+  vos: congregás
+  ud: congrega
+  nosotros: congregamos
+  vosotros: congregáis
+  uds: congregan
+preterito-perfecto-simple:
+  yo: congregué
+  tu: congregaste
+  vos: congregaste
+  ud: congregó
+  nosotros: congregamos
+  vosotros: congregasteis
+  uds: congregaron
+preterito-imperfecto:
+  yo: congregaba
+  tu: congregabas
+  vos: congregabas
+  ud: congregaba
+  nosotros: congregábamos
+  vosotros: congregabais
+  uds: congregaban
+futuro-simple:
+  yo: congregaré
+  tu: congregarás
+  vos: congregarás
+  ud: congregará
+  nosotros: congregaremos
+  vosotros: congregaréis
+  uds: congregarán
+condicional-simple:
+  yo: congregaría
+  tu: congregarías
+  vos: congregarías
+  ud: congregaría
+  nosotros: congregaríamos
+  vosotros: congregaríais
+  uds: congregarían
+presente-perfecto:
+  yo: he congregado
+  tu: has congregado
+  vos: has congregado
+  ud: ha congregado
+  nosotros: hemos congregado
+  vosotros: habéis congregado
+  uds: han congregado
+preterito-pluscuamperfecto:
+  yo: había congregado
+  tu: habías congregado
+  vos: habías congregado
+  ud: había congregado
+  nosotros: habíamos congregado
+  vosotros: habíais congregado
+  uds: habían congregado
+futuro-perfecto:
+  yo: habré congregado
+  tu: habrás congregado
+  vos: habrás congregado
+  ud: habrá congregado
+  nosotros: habremos congregado
+  vosotros: habréis congregado
+  uds: habrán congregado
+condicional-perfecto:
+  yo: habría congregado
+  tu: habrías congregado
+  vos: habrías congregado
+  ud: habría congregado
+  nosotros: habríamos congregado
+  vosotros: habríais congregado
+  uds: habrían congregado
+presente-subjuntivo:
+  yo: congregue
+  tu: congregues
+  vos: congregues
+  ud: congregue
+  nosotros: congreguemos
+  vosotros: congreguéis
+  uds: congreguen
+preterito-perfecto-subjuntivo:
+  yo: haya congregado
+  tu: hayas congregado
+  vos: hayas congregado
+  ud: haya congregado
+  nosotros: hayamos congregado
+  vosotros: hayáis congregado
+  uds: hayan congregado
+imperfecto-subjuntivo:
+  yo:
+    - congregara
+    - congregase
+  tu:
+    - congregaras
+    - congregases
+  vos:
+    - congregaras
+    - congregases
+  ud:
+    - congregara
+    - congregase
+  nosotros:
+    - congregáramos
+    - congregásemos
+  vosotros:
+    - congregarais
+    - congregaseis
+  uds:
+    - congregaran
+    - congregasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera congregado
+    - hubiese congregado
+  tu:
+    - hubieras congregado
+    - hubieses congregado
+  vos:
+    - hubieras congregado
+    - hubieses congregado
+  ud:
+    - hubiera congregado
+    - hubiese congregado
+  nosotros:
+    - hubiéramos congregado
+    - hubiésemos congregado
+  vosotros:
+    - hubierais congregado
+    - hubieseis congregado
+  uds:
+    - hubieran congregado
+    - hubiesen congregado
+imperativo:
+  tu: congrega
+  vos: congregá
+  ud: congregue
+  nosotros: congreguemos
+  vosotros: congregad
+  uds: congreguen

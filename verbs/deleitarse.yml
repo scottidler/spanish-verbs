@@ -1,0 +1,142 @@
+infinitivo: deleitarse
+gerundio: deleitándose
+participio-pasado: deleitado
+presente-indicativo:
+  yo: me deleito
+  tu: te deleitas
+  vos: te deleitas
+  ud: se deleita
+  nosotros: nos deleitamos
+  vosotros: os deleitáis
+  uds: se deleitan
+preterito-perfecto-simple:
+  yo: me deleité
+  tu: te deleitaste
+  vos: te deleitaste
+  ud: se deleitó
+  nosotros: nos deleitamos
+  vosotros: os deleitasteis
+  uds: se deleitaron
+preterito-imperfecto:
+  yo: me deleitaba
+  tu: te deleitabas
+  vos: te deleitabas
+  ud: se deleitaba
+  nosotros: nos deleitábamos
+  vosotros: os deleitabais
+  uds: se deleitaban
+futuro-simple:
+  yo: me deleitaré
+  tu: te deleitarás
+  vos: te deleitarás
+  ud: se deleitará
+  nosotros: nos deleitaremos
+  vosotros: os deleitaréis
+  uds: se deleitarán
+condicional-simple:
+  yo: me deleitaría
+  tu: te deleitarías
+  vos: te deleitarías
+  ud: se deleitaría
+  nosotros: nos deleitaríamos
+  vosotros: os deleitaríais
+  uds: se deleitarían
+presente-perfecto:
+  yo: me he deleitado
+  tu: te has deleitado
+  vos: te has deleitado
+  ud: se ha deleitado
+  nosotros: nos hemos deleitado
+  vosotros: os habéis deleitado
+  uds: se han deleitado
+preterito-pluscuamperfecto:
+  yo: me había deleitado
+  tu: te habías deleitado
+  vos: te habías deleitado
+  ud: se había deleitado
+  nosotros: nos habíamos deleitado
+  vosotros: os habíais deleitado
+  uds: se habían deleitado
+futuro-perfecto:
+  yo: me habré deleitado
+  tu: te habrás deleitado
+  vos: te habrás deleitado
+  ud: se habrá deleitado
+  nosotros: nos habremos deleitado
+  vosotros: os habréis deleitado
+  uds: se habrán deleitado
+condicional-perfecto:
+  yo: me habría deleitado
+  tu: te habrías deleitado
+  vos: te habrías deleitado
+  ud: se habría deleitado
+  nosotros: nos habríamos deleitado
+  vosotros: os habríais deleitado
+  uds: se habrían deleitado
+presente-subjuntivo:
+  yo: me deleite
+  tu: te deleites
+  vos: te deleites
+  ud: se deleite
+  nosotros: nos deleitemos
+  vosotros: os deleitéis
+  uds: se deleiten
+preterito-perfecto-subjuntivo:
+  yo: me haya deleitado
+  tu: te hayas deleitado
+  vos: te hayas deleitado
+  ud: se haya deleitado
+  nosotros: nos hayamos deleitado
+  vosotros: os hayáis deleitado
+  uds: se hayan deleitado
+imperfecto-subjuntivo:
+  yo:
+    - me deleitara
+    - me deleitase
+  tu:
+    - te deleitaras
+    - te deleitases
+  vos:
+    - te deleitaras
+    - te deleitases
+  ud:
+    - se deleitara
+    - se deleitase
+  nosotros:
+    - nos deleitáramos
+    - nos deleitásemos
+  vosotros:
+    - os deleitarais
+    - os deleitaseis
+  uds:
+    - se deleitaran
+    - se deleitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera deleitado
+    - me hubiese deleitado
+  tu:
+    - te hubieras deleitado
+    - te hubieses deleitado
+  vos:
+    - te hubieras deleitado
+    - te hubieses deleitado
+  ud:
+    - se hubiera deleitado
+    - se hubiese deleitado
+  nosotros:
+    - nos hubiéramos deleitado
+    - nos hubiésemos deleitado
+  vosotros:
+    - os hubierais deleitado
+    - os hubieseis deleitado
+  uds:
+    - se hubieran deleitado
+    - se hubiesen deleitado
+imperativo:
+  tu: deléitate
+  vos: deléitate
+  ud: deleítese
+  nosotros: deleitémonos
+  vosotros: deleitaos
+  uds: deleítense

@@ -1,0 +1,142 @@
+infinitivo: replicar
+gerundio: replicando
+participio-pasado: replicado
+presente-indicativo:
+  yo: replico
+  tu: replicas
+  vos: replicas
+  ud: replica
+  nosotros: replicamos
+  vosotros: replicáis
+  uds: replican
+preterito-perfecto-simple:
+  yo: repliqué
+  tu: replicaste
+  vos: replicaste
+  ud: replicó
+  nosotros: replicamos
+  vosotros: replicasteis
+  uds: replicaron
+preterito-imperfecto:
+  yo: replicaba
+  tu: replicabas
+  vos: replicabas
+  ud: replicaba
+  nosotros: replicábamos
+  vosotros: replicabais
+  uds: replicaban
+futuro-simple:
+  yo: replicaré
+  tu: replicarás
+  vos: replicarás
+  ud: replicará
+  nosotros: replicaremos
+  vosotros: replicaréis
+  uds: replicarán
+condicional-simple:
+  yo: replicaría
+  tu: replicarías
+  vos: replicarías
+  ud: replicaría
+  nosotros: replicaríamos
+  vosotros: replicaríais
+  uds: replicarían
+presente-perfecto:
+  yo: he replicado
+  tu: has replicado
+  vos: has replicado
+  ud: ha replicado
+  nosotros: hemos replicado
+  vosotros: habéis replicado
+  uds: han replicado
+preterito-pluscuamperfecto:
+  yo: había replicado
+  tu: habías replicado
+  vos: habías replicado
+  ud: había replicado
+  nosotros: habíamos replicado
+  vosotros: habíais replicado
+  uds: habían replicado
+futuro-perfecto:
+  yo: habré replicado
+  tu: habrás replicado
+  vos: habrás replicado
+  ud: habrá replicado
+  nosotros: habremos replicado
+  vosotros: habréis replicado
+  uds: habrán replicado
+condicional-perfecto:
+  yo: habría replicado
+  tu: habrías replicado
+  vos: habrías replicado
+  ud: habría replicado
+  nosotros: habríamos replicado
+  vosotros: habríais replicado
+  uds: habrían replicado
+presente-subjuntivo:
+  yo: replique
+  tu: repliques
+  vos: repliques
+  ud: replique
+  nosotros: repliquemos
+  vosotros: repliquéis
+  uds: repliquen
+preterito-perfecto-subjuntivo:
+  yo: haya replicado
+  tu: hayas replicado
+  vos: hayas replicado
+  ud: haya replicado
+  nosotros: hayamos replicado
+  vosotros: hayáis replicado
+  uds: hayan replicado
+imperfecto-subjuntivo:
+  yo:
+    - replicara
+    - replicase
+  tu:
+    - replicaras
+    - replicases
+  vos:
+    - replicaras
+    - replicases
+  ud:
+    - replicara
+    - replicase
+  nosotros:
+    - replicáramos
+    - replicásemos
+  vosotros:
+    - replicarais
+    - replicaseis
+  uds:
+    - replicaran
+    - replicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera replicado
+    - hubiese replicado
+  tu:
+    - hubieras replicado
+    - hubieses replicado
+  vos:
+    - hubieras replicado
+    - hubieses replicado
+  ud:
+    - hubiera replicado
+    - hubiese replicado
+  nosotros:
+    - hubiéramos replicado
+    - hubiésemos replicado
+  vosotros:
+    - hubierais replicado
+    - hubieseis replicado
+  uds:
+    - hubieran replicado
+    - hubiesen replicado
+imperativo:
+  tu: replica
+  vos: replicá
+  ud: replique
+  nosotros: repliquemos
+  vosotros: replicad
+  uds: repliquen

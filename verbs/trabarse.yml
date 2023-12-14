@@ -1,0 +1,156 @@
+infinitivo: trabarse
+gerundio: trabándose
+participio-pasado: trabado
+
+presente-indicativo:
+  yo: me trabo
+  tu: te trabas
+  vos: te trabas
+  ud: se traba
+  nosotros: nos trabamos
+  vosotros: os trabáis
+  uds: se traban
+
+preterito-perfecto-simple:
+  yo: me trabé
+  tu: te trabaste
+  vos: te trabaste
+  ud: se trabó
+  nosotros: nos trabamos
+  vosotros: os trabasteis
+  uds: se trabaron
+
+preterito-imperfecto:
+  yo: me trababa
+  tu: te trababas
+  vos: te trababas
+  ud: se trababa
+  nosotros: nos trabábamos
+  vosotros: os trababais
+  uds: se trababan
+
+futuro-simple:
+  yo: me trabaré
+  tu: te trabarás
+  vos: te trabarás
+  ud: se trabará
+  nosotros: nos trabaremos
+  vosotros: os trabaréis
+  uds: se trabarán
+
+condicional-simple:
+  yo: me trabaría
+  tu: te trabarías
+  vos: te trabarías
+  ud: se trabaría
+  nosotros: nos trabaríamos
+  vosotros: os trabaríais
+  uds: se trabarían
+
+presente-perfecto:
+  yo: me he trabado
+  tu: te has trabado
+  vos: te has trabado
+  ud: se ha trabado
+  nosotros: nos hemos trabado
+  vosotros: os habéis trabado
+  uds: se han trabado
+
+preterito-pluscuamperfecto:
+  yo: me había trabado
+  tu: te habías trabado
+  vos: te habías trabado
+  ud: se había trabado
+  nosotros: nos habíamos trabado
+  vosotros: os habíais trabado
+  uds: se habían trabado
+
+futuro-perfecto:
+  yo: me habré trabado
+  tu: te habrás trabado
+  vos: te habrás trabado
+  ud: se habrá trabado
+  nosotros: nos habremos trabado
+  vosotros: os habréis trabado
+  uds: se habrán trabado
+
+condicional-perfecto:
+  yo: me habría trabado
+  tu: te habrías trabado
+  vos: te habrías trabado
+  ud: se habría trabado
+  nosotros: nos habríamos trabado
+  vosotros: os habríais trabado
+  uds: se habrían trabado
+
+presente-subjuntivo:
+  yo: me trabe
+  tu: te trabes
+  vos: te trabes
+  ud: se trabe
+  nosotros: nos trabemos
+  vosotros: os trabéis
+  uds: se traben
+
+preterito-perfecto-subjuntivo:
+  yo: me haya trabado
+  tu: te hayas trabado
+  vos: te hayas trabado
+  ud: se haya trabado
+  nosotros: nos hayamos trabado
+  vosotros: os hayáis trabado
+  uds: se hayan trabado
+
+imperfecto-subjuntivo:
+  yo:
+    - me trabara
+    - me trabase
+  tu:
+    - te trabaras
+    - te trabases
+  vos:
+    - te trabaras
+    - te trabases
+  ud:
+    - se trabara
+    - se trabase
+  nosotros:
+    - nos trabáramos
+    - nos trabásemos
+  vosotros:
+    - os trabarais
+    - os trabaseis
+  uds:
+    - se trabaran
+    - se trabasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera trabado
+    - me hubiese trabado
+  tu:
+    - te hubieras trabado
+    - te hubieses trabado
+  vos:
+    - te hubieras trabado
+    - te hubieses trabado
+  ud:
+    - se hubiera trabado
+    - se hubiese trabado
+  nosotros:
+    - nos hubiéramos trabado
+    - nos hubiésemos trabado
+  vosotros:
+    - os hubierais trabado
+    - os hubieseis trabado
+  uds:
+    - se hubieran trabado
+    - se hubiesen trabado
+
+imperativo:
+  tu: traba
+  vos: trabá
+  ud: trabe
+  nosotros: trabémonos
+  vosotros: trabaos
+  uds: traben

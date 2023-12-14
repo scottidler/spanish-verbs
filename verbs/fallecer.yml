@@ -1,0 +1,142 @@
+infinitivo: fallecer
+gerundio: falleciendo
+participio-pasado: fallecido
+presente-indicativo:
+  yo: fallezco
+  tu: falleces
+  vos: falleces
+  ud: fallece
+  nosotros: fallecemos
+  vosotros: fallecéis
+  uds: fallecen
+preterito-perfecto-simple:
+  yo: fallecí
+  tu: falleciste
+  vos: falleciste
+  ud: falleció
+  nosotros: fallecimos
+  vosotros: fallecisteis
+  uds: fallecieron
+preterito-imperfecto:
+  yo: fallecía
+  tu: fallecías
+  vos: fallecías
+  ud: fallecía
+  nosotros: fallecíamos
+  vosotros: fallecíais
+  uds: fallecían
+futuro-simple:
+  yo: falleceré
+  tu: fallecerás
+  vos: fallecerás
+  ud: fallecerá
+  nosotros: falleceremos
+  vosotros: falleceréis
+  uds: fallecerán
+condicional-simple:
+  yo: fallecería
+  tu: fallecerías
+  vos: fallecerías
+  ud: fallecería
+  nosotros: falleceríamos
+  vosotros: falleceríais
+  uds: fallecerían
+presente-perfecto:
+  yo: he fallecido
+  tu: has fallecido
+  vos: has fallecido
+  ud: ha fallecido
+  nosotros: hemos fallecido
+  vosotros: habéis fallecido
+  uds: han fallecido
+preterito-pluscuamperfecto:
+  yo: había fallecido
+  tu: habías fallecido
+  vos: habías fallecido
+  ud: había fallecido
+  nosotros: habíamos fallecido
+  vosotros: habíais fallecido
+  uds: habían fallecido
+futuro-perfecto:
+  yo: habré fallecido
+  tu: habrás fallecido
+  vos: habrás fallecido
+  ud: habrá fallecido
+  nosotros: habremos fallecido
+  vosotros: habréis fallecido
+  uds: habrán fallecido
+condicional-perfecto:
+  yo: habría fallecido
+  tu: habrías fallecido
+  vos: habrías fallecido
+  ud: habría fallecido
+  nosotros: habríamos fallecido
+  vosotros: habríais fallecido
+  uds: habrían fallecido
+presente-subjuntivo:
+  yo: fallezca
+  tu: fallezcas
+  vos: fallezcas
+  ud: fallezca
+  nosotros: fallezcamos
+  vosotros: fallezcáis
+  uds: fallezcan
+preterito-perfecto-subjuntivo:
+  yo: haya fallecido
+  tu: hayas fallecido
+  vos: hayas fallecido
+  ud: haya fallecido
+  nosotros: hayamos fallecido
+  vosotros: hayáis fallecido
+  uds: hayan fallecido
+imperfecto-subjuntivo:
+  yo:
+    - falleciera
+    - falleciese
+  tu:
+    - fallecieras
+    - fallecieses
+  vos:
+    - fallecieras
+    - fallecieses
+  ud:
+    - falleciera
+    - falleciese
+  nosotros:
+    - falleciéramos
+    - falleciésemos
+  vosotros:
+    - fallecierais
+    - fallecieseis
+  uds:
+    - fallecieran
+    - falleciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fallecido
+    - hubiese fallecido
+  tu:
+    - hubieras fallecido
+    - hubieses fallecido
+  vos:
+    - hubieras fallecido
+    - hubieses fallecido
+  ud:
+    - hubiera fallecido
+    - hubiese fallecido
+  nosotros:
+    - hubiéramos fallecido
+    - hubiésemos fallecido
+  vosotros:
+    - hubierais fallecido
+    - hubieseis fallecido
+  uds:
+    - hubieran fallecido
+    - hubiesen fallecido
+imperativo:
+  tu: fallece
+  vos: fallecé
+  ud: fallezca
+  nosotros: fallezcamos
+  vosotros: falleced
+  uds: fallezcan

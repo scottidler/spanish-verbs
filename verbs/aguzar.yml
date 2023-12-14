@@ -1,0 +1,142 @@
+infinitivo: aguzar
+gerundio: aguzando
+participio-pasado: aguzado
+presente-indicativo:
+  yo: aguzo
+  tu: aguzas
+  vos: aguzas
+  ud: aguza
+  nosotros: aguzamos
+  vosotros: aguzáis
+  uds: aguzan
+preterito-perfecto-simple:
+  yo: agucé
+  tu: aguzaste
+  vos: aguzaste
+  ud: aguzó
+  nosotros: aguzamos
+  vosotros: aguzasteis
+  uds: aguzaron
+preterito-imperfecto:
+  yo: aguzaba
+  tu: aguzabas
+  vos: aguzabas
+  ud: aguzaba
+  nosotros: aguzábamos
+  vosotros: aguzabais
+  uds: aguzaban
+futuro-simple:
+  yo: aguzaré
+  tu: aguzarás
+  vos: aguzarás
+  ud: aguzará
+  nosotros: aguzaremos
+  vosotros: aguzaréis
+  uds: aguzarán
+condicional-simple:
+  yo: aguzaría
+  tu: aguzarías
+  vos: aguzarías
+  ud: aguzaría
+  nosotros: aguzaríamos
+  vosotros: aguzaríais
+  uds: aguzarían
+presente-perfecto:
+  yo: he aguzado
+  tu: has aguzado
+  vos: has aguzado
+  ud: ha aguzado
+  nosotros: hemos aguzado
+  vosotros: habéis aguzado
+  uds: han aguzado
+preterito-pluscuamperfecto:
+  yo: había aguzado
+  tu: habías aguzado
+  vos: habías aguzado
+  ud: había aguzado
+  nosotros: habíamos aguzado
+  vosotros: habíais aguzado
+  uds: habían aguzado
+futuro-perfecto:
+  yo: habré aguzado
+  tu: habrás aguzado
+  vos: habrás aguzado
+  ud: habrá aguzado
+  nosotros: habremos aguzado
+  vosotros: habréis aguzado
+  uds: habrán aguzado
+condicional-perfecto:
+  yo: habría aguzado
+  tu: habrías aguzado
+  vos: habrías aguzado
+  ud: habría aguzado
+  nosotros: habríamos aguzado
+  vosotros: habríais aguzado
+  uds: habrían aguzado
+presente-subjuntivo:
+  yo: aguce
+  tu: aguces
+  vos: aguces
+  ud: aguce
+  nosotros: agucemos
+  vosotros: agucéis
+  uds: agucen
+preterito-perfecto-subjuntivo:
+  yo: haya aguzado
+  tu: hayas aguzado
+  vos: hayas aguzado
+  ud: haya aguzado
+  nosotros: hayamos aguzado
+  vosotros: hayáis aguzado
+  uds: hayan aguzado
+imperfecto-subjuntivo:
+  yo:
+    - aguzara
+    - aguzase
+  tu:
+    - aguzaras
+    - aguzases
+  vos:
+    - aguzaras
+    - aguzases
+  ud:
+    - aguzara
+    - aguzase
+  nosotros:
+    - aguzáramos
+    - aguzásemos
+  vosotros:
+    - aguzarais
+    - aguzaseis
+  uds:
+    - aguzaran
+    - aguzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aguzado
+    - hubiese aguzado
+  tu:
+    - hubieras aguzado
+    - hubieses aguzado
+  vos:
+    - hubieras aguzado
+    - hubieses aguzado
+  ud:
+    - hubiera aguzado
+    - hubiese aguzado
+  nosotros:
+    - hubiéramos aguzado
+    - hubiésemos aguzado
+  vosotros:
+    - hubierais aguzado
+    - hubieseis aguzado
+  uds:
+    - hubieran aguzado
+    - hubiesen aguzado
+imperativo:
+  tu: aguza
+  vos: aguzá
+  ud: aguce
+  nosotros: agucemos
+  vosotros: aguzad
+  uds: agucen

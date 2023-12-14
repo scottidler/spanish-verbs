@@ -1,0 +1,142 @@
+infinitivo: quenquir
+gerundio: quenquiriendo
+participio-pasado: quenquido
+presente-indicativo:
+  yo: quenquío
+  tu: quenquires
+  vos: quenquirís
+  ud: quenquiríe
+  nosotros: quenquimos
+  vosotros: quenquirís
+  uds: quenquiríen
+preterito-perfecto-simple:
+  yo: quenquirí
+  tu: quenquiriste
+  vos: quenquiriste
+  ud: quenquirió
+  nosotros: quenquirimos
+  vosotros: quenquiristeis
+  uds: quenquirieron
+preterito-imperfecto:
+  yo: quenquiría
+  tu: quenquirías
+  vos: quenquirías
+  ud: quenquiría
+  nosotros: quenquiríamos
+  vosotros: quenquiríais
+  uds: quenquirían
+futuro-simple:
+  yo: quenquiriré
+  tu: quenquirirás
+  vos: quenquirirás
+  ud: quenquirirá
+  nosotros: quenquiriremos
+  vosotros: quenquiriréis
+  uds: quenquirirán
+condicional-simple:
+  yo: quenquiriría
+  tu: quenquirirías
+  vos: quenquirirías
+  ud: quenquiriría
+  nosotros: quenquiriríamos
+  vosotros: quenquiriríais
+  uds: quenquirirían
+presente-perfecto:
+  yo: he quenquido
+  tu: has quenquido
+  vos: has quenquido
+  ud: ha quenquido
+  nosotros: hemos quenquido
+  vosotros: habéis quenquido
+  uds: han quenquido
+preterito-pluscuamperfecto:
+  yo: había quenquido
+  tu: habías quenquido
+  vos: habías quenquido
+  ud: había quenquido
+  nosotros: habíamos quenquido
+  vosotros: habíais quenquido
+  uds: habían quenquido
+futuro-perfecto:
+  yo: habré quenquido
+  tu: habrás quenquido
+  vos: habrás quenquido
+  ud: habrá quenquido
+  nosotros: habremos quenquido
+  vosotros: habréis quenquido
+  uds: habrán quenquido
+condicional-perfecto:
+  yo: habría quenquido
+  tu: habrías quenquido
+  vos: habrías quenquido
+  ud: habría quenquido
+  nosotros: habríamos quenquido
+  vosotros: habríais quenquido
+  uds: habrían quenquido
+presente-subjuntivo:
+  yo: quenquío
+  tu: quenquiries
+  vos: quenquiries
+  ud: quenquirie
+  nosotros: quenquiriemos
+  vosotros: quenquiriéis
+  uds: quenquirien
+preterito-perfecto-subjuntivo:
+  yo: haya quenquido
+  tu: hayas quenquido
+  vos: hayas quenquido
+  ud: haya quenquido
+  nosotros: hayamos quenquido
+  vosotros: hayáis quenquido
+  uds: hayan quenquido
+imperfecto-subjuntivo:
+  yo:
+    - quenquiriera
+    - quenquiriese
+  tu:
+    - quenquirieras
+    - quenquirieses
+  vos:
+    - quenquirieras
+    - quenquirieses
+  ud:
+    - quenquiriera
+    - quenquiriese
+  nosotros:
+    - quenquiriéramos
+    - quenquiriésemos
+  vosotros:
+    - quenquirierais
+    - quenquirieseis
+  uds:
+    - quenquirieran
+    - quenquiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera quenquido
+    - hubiese quenquido
+  tu:
+    - hubieras quenquido
+    - hubieses quenquido
+  vos:
+    - hubieras quenquido
+    - hubieses quenquido
+  ud:
+    - hubiera quenquido
+    - hubiese quenquido
+  nosotros:
+    - hubiéramos quenquido
+    - hubiésemos quenquido
+  vosotros:
+    - hubierais quenquido
+    - hubieseis quenquido
+  uds:
+    - hubieran quenquido
+    - hubiesen quenquido
+imperativo:
+  tu: quenquí
+  vos: quenquí
+  ud: quenquíe
+  nosotros: quenquímos
+  vosotros: quenquid
+  uds: quenquíen

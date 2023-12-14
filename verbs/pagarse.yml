@@ -1,0 +1,142 @@
+infinitivo: pagarse
+gerundio: pagándose
+participio-pasado: pagado
+presente-indicativo:
+  yo: me pago
+  tu: te pagas
+  vos: te pagas
+  ud: se paga
+  nosotros: nos pagamos
+  vosotros: os pagáis
+  uds: se pagan
+preterito-perfecto-simple:
+  yo: me pagué
+  tu: te pagaste
+  vos: te pagaste
+  ud: se pagó
+  nosotros: nos pagamos
+  vosotros: os pagasteis
+  uds: se pagaron
+preterito-imperfecto:
+  yo: me pagaba
+  tu: te pagabas
+  vos: te pagabas
+  ud: se pagaba
+  nosotros: nos pagábamos
+  vosotros: os pagabais
+  uds: se pagaban
+futuro-simple:
+  yo: me pagaré
+  tu: te pagarás
+  vos: te pagarás
+  ud: se pagará
+  nosotros: nos pagaremos
+  vosotros: os pagaréis
+  uds: se pagarán
+condicional-simple:
+  yo: me pagaría
+  tu: te pagarías
+  vos: te pagarías
+  ud: se pagaría
+  nosotros: nos pagaríamos
+  vosotros: os pagaríais
+  uds: se pagarían
+presente-perfecto:
+  yo: me he pagado
+  tu: te has pagado
+  vos: te has pagado
+  ud: se ha pagado
+  nosotros: nos hemos pagado
+  vosotros: os habéis pagado
+  uds: se han pagado
+preterito-pluscuamperfecto:
+  yo: me había pagado
+  tu: te habías pagado
+  vos: te habías pagado
+  ud: se había pagado
+  nosotros: nos habíamos pagado
+  vosotros: os habíais pagado
+  uds: se habían pagado
+futuro-perfecto:
+  yo: me habré pagado
+  tu: te habrás pagado
+  vos: te habrás pagado
+  ud: se habrá pagado
+  nosotros: nos habremos pagado
+  vosotros: os habréis pagado
+  uds: se habrán pagado
+condicional-perfecto:
+  yo: me habría pagado
+  tu: te habrías pagado
+  vos: te habrías pagado
+  ud: se habría pagado
+  nosotros: nos habríamos pagado
+  vosotros: os habríais pagado
+  uds: se habrían pagado
+presente-subjuntivo:
+  yo: me pague
+  tu: te pagues
+  vos: te pagues
+  ud: se pague
+  nosotros: nos paguemos
+  vosotros: os paguéis
+  uds: se paguen
+preterito-perfecto-subjuntivo:
+  yo: me haya pagado
+  tu: te hayas pagado
+  vos: te hayas pagado
+  ud: se haya pagado
+  nosotros: nos hayamos pagado
+  vosotros: os hayáis pagado
+  uds: se hayan pagado
+imperfecto-subjuntivo:
+  yo:
+    - me pagara
+    - me pagase
+  tu:
+    - te pagaras
+    - te pagases
+  vos:
+    - te pagaras
+    - te pagases
+  ud:
+    - se pagara
+    - se pagase
+  nosotros:
+    - nos pagáramos
+    - nos pagásemos
+  vosotros:
+    - os pagarais
+    - os pagaseis
+  uds:
+    - se pagaran
+    - se pagasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera pagado
+    - me hubiese pagado
+  tu:
+    - te hubieras pagado
+    - te hubieses pagado
+  vos:
+    - te hubieras pagado
+    - te hubieses pagado
+  ud:
+    - se hubiera pagado
+    - se hubiese pagado
+  nosotros:
+    - nos hubiéramos pagado
+    - nos hubiésemos pagado
+  vosotros:
+    - os hubierais pagado
+    - os hubieseis pagado
+  uds:
+    - se hubieran pagado
+    - se hubiesen pagado
+imperativo:
+  tu: págatelo
+  vos: pagáte
+  ud: páguese
+  nosotros: paguémosnos
+  vosotros: pagáoslo
+  uds: páguense

@@ -1,0 +1,142 @@
+infinitivo: alertar
+gerundio: alertando
+participio-pasado: alertado
+presente-indicativo:
+  yo: alerto
+  tu: alertas
+  vos: alertas
+  ud: alerta
+  nosotros: alertamos
+  vosotros: alertáis
+  uds: alertan
+preterito-perfecto-simple:
+  yo: alerté
+  tu: alertaste
+  vos: alertaste
+  ud: alertó
+  nosotros: alertamos
+  vosotros: alertasteis
+  uds: alertaron
+preterito-imperfecto:
+  yo: alertaba
+  tu: alertabas
+  vos: alertabas
+  ud: alertaba
+  nosotros: alertábamos
+  vosotros: alertabais
+  uds: alertaban
+futuro-simple:
+  yo: alertaré
+  tu: alertarás
+  vos: alertarás
+  ud: alertará
+  nosotros: alertaremos
+  vosotros: alertaréis
+  uds: alertarán
+condicional-simple:
+  yo: alertaría
+  tu: alertarías
+  vos: alertarías
+  ud: alertaría
+  nosotros: alertaríamos
+  vosotros: alertaríais
+  uds: alertarían
+presente-perfecto:
+  yo: he alertado
+  tu: has alertado
+  vos: has alertado
+  ud: ha alertado
+  nosotros: hemos alertado
+  vosotros: habéis alertado
+  uds: han alertado
+preterito-pluscuamperfecto:
+  yo: había alertado
+  tu: habías alertado
+  vos: habías alertado
+  ud: había alertado
+  nosotros: habíamos alertado
+  vosotros: habíais alertado
+  uds: habían alertado
+futuro-perfecto:
+  yo: habré alertado
+  tu: habrás alertado
+  vos: habrás alertado
+  ud: habrá alertado
+  nosotros: habremos alertado
+  vosotros: habréis alertado
+  uds: habrán alertado
+condicional-perfecto:
+  yo: habría alertado
+  tu: habrías alertado
+  vos: habrías alertado
+  ud: habría alertado
+  nosotros: habríamos alertado
+  vosotros: habríais alertado
+  uds: habrían alertado
+presente-subjuntivo:
+  yo: alerte
+  tu: alertes
+  vos: alertes
+  ud: alerte
+  nosotros: alertemos
+  vosotros: alertéis
+  uds: alerten
+preterito-perfecto-subjuntivo:
+  yo: haya alertado
+  tu: hayas alertado
+  vos: hayas alertado
+  ud: haya alertado
+  nosotros: hayamos alertado
+  vosotros: hayáis alertado
+  uds: hayan alertado
+imperfecto-subjuntivo:
+  yo:
+    - alertara
+    - alertase
+  tu:
+    - alertaras
+    - alertases
+  vos:
+    - alertaras
+    - alertases
+  ud:
+    - alertara
+    - alertase
+  nosotros:
+    - alertáramos
+    - alertásemos
+  vosotros:
+    - alertarais
+    - alertaseis
+  uds:
+    - alertaran
+    - alertasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alertado
+    - hubiese alertado
+  tu:
+    - hubieras alertado
+    - hubieses alertado
+  vos:
+    - hubieras alertado
+    - hubieses alertado
+  ud:
+    - hubiera alertado
+    - hubiese alertado
+  nosotros:
+    - hubiéramos alertado
+    - hubiésemos alertado
+  vosotros:
+    - hubierais alertado
+    - hubieseis alertado
+  uds:
+    - hubieran alertado
+    - hubiesen alertado
+imperativo:
+  tu: alerta
+  vos: alertá
+  ud: alerte
+  nosotros: alertemos
+  vosotros: alertad
+  uds: alerten

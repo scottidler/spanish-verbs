@@ -1,0 +1,142 @@
+infinitivo: calentar
+gerundio: calentando
+participio-pasado: calentado
+presente-indicativo:
+  yo: caliento
+  tu: calientas
+  vos: calentás
+  ud: calienta
+  nosotros: calentamos
+  vosotros: calentáis
+  uds: calientan
+preterito-perfecto-simple:
+  yo: calenté
+  tu: calentaste
+  vos: calentaste
+  ud: calentó
+  nosotros: calentamos
+  vosotros: calentasteis
+  uds: calentaron
+preterito-imperfecto:
+  yo: calentaba
+  tu: calentabas
+  vos: calentabas
+  ud: calentaba
+  nosotros: calentábamos
+  vosotros: calentabais
+  uds: calentaban
+futuro-simple:
+  yo: calentaré
+  tu: calentarás
+  vos: calentarás
+  ud: calentará
+  nosotros: calentaremos
+  vosotros: calentaréis
+  uds: calentarán
+condicional-simple:
+  yo: calentaría
+  tu: calentarías
+  vos: calentarías
+  ud: calentaría
+  nosotros: calentaríamos
+  vosotros: calentaríais
+  uds: calentarían
+presente-perfecto:
+  yo: he calentado
+  tu: has calentado
+  vos: has calentado
+  ud: ha calentado
+  nosotros: hemos calentado
+  vosotros: habéis calentado
+  uds: han calentado
+preterito-pluscuamperfecto:
+  yo: había calentado
+  tu: habías calentado
+  vos: habías calentado
+  ud: había calentado
+  nosotros: habíamos calentado
+  vosotros: habíais calentado
+  uds: habían calentado
+futuro-perfecto:
+  yo: habré calentado
+  tu: habrás calentado
+  vos: habrás calentado
+  ud: habrá calentado
+  nosotros: habremos calentado
+  vosotros: habréis calentado
+  uds: habrán calentado
+condicional-perfecto:
+  yo: habría calentado
+  tu: habrías calentado
+  vos: habrías calentado
+  ud: habría calentado
+  nosotros: habríamos calentado
+  vosotros: habríais calentado
+  uds: habrían calentado
+presente-subjuntivo:
+  yo: caliente
+  tu: calientes
+  vos: calientes
+  ud: caliente
+  nosotros: calentemos
+  vosotros: calentéis
+  uds: calienten
+preterito-perfecto-subjuntivo:
+  yo: haya calentado
+  tu: hayas calentado
+  vos: hayas calentado
+  ud: haya calentado
+  nosotros: hayamos calentado
+  vosotros: hayáis calentado
+  uds: hayan calentado
+imperfecto-subjuntivo:
+  yo:
+    - calentara
+    - calentase
+  tu:
+    - calentaras
+    - calentases
+  vos:
+    - calentaras
+    - calentases
+  ud:
+    - calentara
+    - calentase
+  nosotros:
+    - calentáramos
+    - calentásemos
+  vosotros:
+    - calentarais
+    - calentaseis
+  uds:
+    - calentaran
+    - calentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera calentado
+    - hubiese calentado
+  tu:
+    - hubieras calentado
+    - hubieses calentado
+  vos:
+    - hubieras calentado
+    - hubieses calentado
+  ud:
+    - hubiera calentado
+    - hubiese calentado
+  nosotros:
+    - hubiéramos calentado
+    - hubiésemos calentado
+  vosotros:
+    - hubierais calentado
+    - hubieseis calentado
+  uds:
+    - hubieran calentado
+    - hubiesen calentado
+imperativo:
+  tu: calienta
+  vos: calentá
+  ud: caliente
+  nosotros: calentemos
+  vosotros: calentad
+  uds: calienten

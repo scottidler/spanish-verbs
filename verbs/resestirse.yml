@@ -1,0 +1,142 @@
+infinitivo: resestirse
+gerundio: resestiéndose
+participio-pasado: resestido
+presente-indicativo:
+  yo: me resestoy
+  tu: te resestes
+  vos: te resestís
+  ud: se reseste
+  nosotros: nos resestimos
+  vosotros: os resestís
+  uds: se resesten
+preterito-perfecto-simple:
+  yo: me resestí
+  tu: te resestiste
+  vos: te resestiste
+  ud: se resestió
+  nosotros: nos resestimos
+  vosotros: os resestisteis
+  uds: se resestieron
+preterito-imperfecto:
+  yo: me resestía
+  tu: te resestías
+  vos: te resestías
+  ud: se resestía
+  nosotros: nos resestíamos
+  vosotros: os resestíais
+  uds: se resestían
+futuro-simple:
+  yo: me resestiré
+  tu: te resestirás
+  vos: te resestirás
+  ud: se resestirá
+  nosotros: nos resestiremos
+  vosotros: os resestiréis
+  uds: se resestirán
+condicional-simple:
+  yo: me resestiría
+  tu: te resestirías
+  vos: te resestirías
+  ud: se resestiría
+  nosotros: nos resestiríamos
+  vosotros: os resestiríais
+  uds: se resestirían
+presente-perfecto:
+  yo: me he resestido
+  tu: te has resestido
+  vos: te has resestido
+  ud: se ha resestido
+  nosotros: nos hemos resestido
+  vosotros: os habéis resestido
+  uds: se han resestido
+preterito-pluscuamperfecto:
+  yo: me había resestido
+  tu: te habías resestido
+  vos: te habías resestido
+  ud: se había resestido
+  nosotros: nos habíamos resestido
+  vosotros: os habíais resestido
+  uds: se habían resestido
+futuro-perfecto:
+  yo: me habré resestido
+  tu: te habrás resestido
+  vos: te habrás resestido
+  ud: se habrá resestido
+  nosotros: nos habremos resestido
+  vosotros: os habréis resestido
+  uds: se habrán resestido
+condicional-perfecto:
+  yo: me habría resestido
+  tu: te habrías resestido
+  vos: te habrías resestido
+  ud: se habría resestido
+  nosotros: nos habríamos resestido
+  vosotros: os habríais resestido
+  uds: se habrían resestido
+presente-subjuntivo:
+  yo: me resesta
+  tu: te resestas
+  vos: te resestas
+  ud: se resesta
+  nosotros: nos resestamos
+  vosotros: os resestáis
+  uds: se resestan
+preterito-perfecto-subjuntivo:
+  yo: me haya resestido
+  tu: te hayas resestido
+  vos: te hayas resestido
+  ud: se haya resestido
+  nosotros: nos hayamos resestido
+  vosotros: os hayáis resestido
+  uds: se hayan resestido
+imperfecto-subjuntivo:
+  yo:
+    - me resestara
+    - me resestase
+  tu:
+    - te resestaras
+    - te resestases
+  vos:
+    - te resestaras
+    - te resestases
+  ud:
+    - se resestara
+    - se resestase
+  nosotros:
+    - nos resestáramos
+    - nos resestásemos
+  vosotros:
+    - os resestarais
+    - os resestaseis
+  uds:
+    - se resestaran
+    - se resestasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera resestido
+    - me hubiese resestido
+  tu:
+    - te hubieras resestido
+    - te hubieses resestido
+  vos:
+    - te hubieras resestido
+    - te hubieses resestido
+  ud:
+    - se hubiera resestido
+    - se hubiese resestido
+  nosotros:
+    - nos hubiéramos resestido
+    - nos hubiésemos resestido
+  vosotros:
+    - os hubierais resestido
+    - os hubieseis resestido
+  uds:
+    - se hubieran resestido
+    - se hubiesen resestido
+imperativo:
+  tu: resestate
+  vos: resestate
+  ud: reseste
+  nosotros: resestámonos
+  vosotros: resestáos
+  uds: resesten

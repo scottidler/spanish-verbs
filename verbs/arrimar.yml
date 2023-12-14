@@ -1,0 +1,142 @@
+infinitivo: arrimar
+gerundio: arrimando
+participio-pasado: arrimado
+presente-indicativo:
+  yo: arrimo
+  tu: arrimas
+  vos: arrimas
+  ud: arrima
+  nosotros: arrimamos
+  vosotros: arrimáis
+  uds: arriman
+preterito-perfecto-simple:
+  yo: arrimé
+  tu: arrimaste
+  vos: arrimaste
+  ud: arrimó
+  nosotros: arrimamos
+  vosotros: arrimasteis
+  uds: arrimaron
+preterito-imperfecto:
+  yo: arrimaba
+  tu: arrimabas
+  vos: arrimabas
+  ud: arrimaba
+  nosotros: arrimábamos
+  vosotros: arrimabais
+  uds: arrimaban
+futuro-simple:
+  yo: arrimaré
+  tu: arrimarás
+  vos: arrimarás
+  ud: arrimará
+  nosotros: arrimaremos
+  vosotros: arrimaréis
+  uds: arrimarán
+condicional-simple:
+  yo: arrimaría
+  tu: arrimarías
+  vos: arrimarías
+  ud: arrimaría
+  nosotros: arrimaríamos
+  vosotros: arrimaríais
+  uds: arrimarían
+presente-perfecto:
+  yo: he arrimado
+  tu: has arrimado
+  vos: has arrimado
+  ud: ha arrimado
+  nosotros: hemos arrimado
+  vosotros: habéis arrimado
+  uds: han arrimado
+preterito-pluscuamperfecto:
+  yo: había arrimado
+  tu: habías arrimado
+  vos: habías arrimado
+  ud: había arrimado
+  nosotros: habíamos arrimado
+  vosotros: habíais arrimado
+  uds: habían arrimado
+futuro-perfecto:
+  yo: habré arrimado
+  tu: habrás arrimado
+  vos: habrás arrimado
+  ud: habrá arrimado
+  nosotros: habremos arrimado
+  vosotros: habréis arrimado
+  uds: habrán arrimado
+condicional-perfecto:
+  yo: habría arrimado
+  tu: habrías arrimado
+  vos: habrías arrimado
+  ud: habría arrimado
+  nosotros: habríamos arrimado
+  vosotros: habríais arrimado
+  uds: habrían arrimado
+presente-subjuntivo:
+  yo: arrime
+  tu: arrimes
+  vos: arrimes
+  ud: arrime
+  nosotros: arrimemos
+  vosotros: arriméis
+  uds: arrimen
+preterito-perfecto-subjuntivo:
+  yo: haya arrimado
+  tu: hayas arrimado
+  vos: hayas arrimado
+  ud: haya arrimado
+  nosotros: hayamos arrimado
+  vosotros: hayáis arrimado
+  uds: hayan arrimado
+imperfecto-subjuntivo:
+  yo:
+    - arrimara
+    - arrimase
+  tu:
+    - arrimaras
+    - arrimases
+  vos:
+    - arrimaras
+    - arrimases
+  ud:
+    - arrimara
+    - arrimase
+  nosotros:
+    - arrimáramos
+    - arrimásemos
+  vosotros:
+    - arrimarais
+    - arrimaseis
+  uds:
+    - arrimaran
+    - arrimasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arrimado
+    - hubiese arrimado
+  tu:
+    - hubieras arrimado
+    - hubieses arrimado
+  vos:
+    - hubieras arrimado
+    - hubieses arrimado
+  ud:
+    - hubiera arrimado
+    - hubiese arrimado
+  nosotros:
+    - hubiéramos arrimado
+    - hubiésemos arrimado
+  vosotros:
+    - hubierais arrimado
+    - hubieseis arrimado
+  uds:
+    - hubieran arrimado
+    - hubiesen arrimado
+imperativo:
+  tu: arrima
+  vos: arrimá
+  ud: arrime
+  nosotros: arrimemos
+  vosotros: arrimad
+  uds: arrimen

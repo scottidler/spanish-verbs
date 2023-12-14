@@ -1,0 +1,142 @@
+infinitivo: ablandarse
+gerundio: ablandándose
+participio-pasado: ablandado
+presente-indicativo:
+  yo: me ablando
+  tu: te ablandas
+  vos: te ablandás
+  ud: se ablanda
+  nosotros: nos ablandamos
+  vosotros: os ablandáis
+  uds: se ablandan
+preterito-perfecto-simple:
+  yo: me ablandé
+  tu: te ablandaste
+  vos: te ablandaste
+  ud: se ablandó
+  nosotros: nos ablandamos
+  vosotros: os ablandasteis
+  uds: se ablandaron
+preterito-imperfecto:
+  yo: me ablandaba
+  tu: te ablandabas
+  vos: te ablandabas
+  ud: se ablandaba
+  nosotros: nos ablandábamos
+  vosotros: os ablandabais
+  uds: se ablandaban
+futuro-simple:
+  yo: me ablandaré
+  tu: te ablandarás
+  vos: te ablandarás
+  ud: se ablandará
+  nosotros: nos ablandaremos
+  vosotros: os ablandaréis
+  uds: se ablandarán
+condicional-simple:
+  yo: me ablandaría
+  tu: te ablandarías
+  vos: te ablandarías
+  ud: se ablandaría
+  nosotros: nos ablandaríamos
+  vosotros: os ablandaríais
+  uds: se ablandarían
+presente-perfecto:
+  yo: me he ablandado
+  tu: te has ablandado
+  vos: te has ablandado
+  ud: se ha ablandado
+  nosotros: nos hemos ablandado
+  vosotros: os habéis ablandado
+  uds: se han ablandado
+preterito-pluscuamperfecto:
+  yo: me había ablandado
+  tu: te habías ablandado
+  vos: te habías ablandado
+  ud: se había ablandado
+  nosotros: nos habíamos ablandado
+  vosotros: os habíais ablandado
+  uds: se habían ablandado
+futuro-perfecto:
+  yo: me habré ablandado
+  tu: te habrás ablandado
+  vos: te habrás ablandado
+  ud: se habrá ablandado
+  nosotros: nos habremos ablandado
+  vosotros: os habréis ablandado
+  uds: se habrán ablandado
+condicional-perfecto:
+  yo: me habría ablandado
+  tu: te habrías ablandado
+  vos: te habrías ablandado
+  ud: se habría ablandado
+  nosotros: nos habríamos ablandado
+  vosotros: os habríais ablandado
+  uds: se habrían ablandado
+presente-subjuntivo:
+  yo: me ablande
+  tu: te ablandes
+  vos: te ablandes
+  ud: se ablande
+  nosotros: nos ablandemos
+  vosotros: os ablandéis
+  uds: se ablanden
+preterito-perfecto-subjuntivo:
+  yo: me haya ablandado
+  tu: te hayas ablandado
+  vos: te hayas ablandado
+  ud: se haya ablandado
+  nosotros: nos hayamos ablandado
+  vosotros: os hayáis ablandado
+  uds: se hayan ablandado
+imperfecto-subjuntivo:
+  yo:
+    - me ablandara
+    - me ablandase
+  tu:
+    - te ablandaras
+    - te ablandases
+  vos:
+    - te ablandaras
+    - te ablandases
+  ud:
+    - se ablandara
+    - se ablandase
+  nosotros:
+    - nos ablandáramos
+    - nos ablandásemos
+  vosotros:
+    - os ablandarais
+    - os ablandaseis
+  uds:
+    - se ablandaran
+    - se ablandasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera ablandado
+    - me hubiese ablandado
+  tu:
+    - te hubieras ablandado
+    - te hubieses ablandado
+  vos:
+    - te hubieras ablandado
+    - te hubieses ablandado
+  ud:
+    - se hubiera ablandado
+    - se hubiese ablandado
+  nosotros:
+    - nos hubiéramos ablandado
+    - nos hubiésemos ablandado
+  vosotros:
+    - os hubierais ablandado
+    - os hubieseis ablandado
+  uds:
+    - se hubieran ablandado
+    - se hubiesen ablandado
+imperativo:
+  tu: ablandate
+  vos: ablandáte
+  ud: ablandese
+  nosotros: ablandémonos
+  vosotros: ablandaos
+  uds: ablandense

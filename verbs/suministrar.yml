@@ -1,0 +1,142 @@
+infinitivo: suministrar
+gerundio: suministrando
+participio-pasado: suministrado
+presente-indicativo:
+  yo: suministro
+  tu: suministras
+  vos: suministras
+  ud: suministra
+  nosotros: suministramos
+  vosotros: suministráis
+  uds: suministran
+preterito-perfecto-simple:
+  yo: suministré
+  tu: suministraste
+  vos: suministraste
+  ud: suministró
+  nosotros: suministramos
+  vosotros: suministrasteis
+  uds: suministraron
+preterito-imperfecto:
+  yo: suministraba
+  tu: suministrabas
+  vos: suministrabas
+  ud: suministraba
+  nosotros: suministrábamos
+  vosotros: suministrabais
+  uds: suministraban
+futuro-simple:
+  yo: suministraré
+  tu: suministrarás
+  vos: suministrarás
+  ud: suministrará
+  nosotros: suministraremos
+  vosotros: suministraréis
+  uds: suministrarán
+condicional-simple:
+  yo: suministraría
+  tu: suministrarías
+  vos: suministrarías
+  ud: suministraría
+  nosotros: suministraríamos
+  vosotros: suministraríais
+  uds: suministrarían
+presente-perfecto:
+  yo: he suministrado
+  tu: has suministrado
+  vos: has suministrado
+  ud: ha suministrado
+  nosotros: hemos suministrado
+  vosotros: habéis suministrado
+  uds: han suministrado
+preterito-pluscuamperfecto:
+  yo: había suministrado
+  tu: habías suministrado
+  vos: habías suministrado
+  ud: había suministrado
+  nosotros: habíamos suministrado
+  vosotros: habíais suministrado
+  uds: habían suministrado
+futuro-perfecto:
+  yo: habré suministrado
+  tu: habrás suministrado
+  vos: habrás suministrado
+  ud: habrá suministrado
+  nosotros: habremos suministrado
+  vosotros: habréis suministrado
+  uds: habrán suministrado
+condicional-perfecto:
+  yo: habría suministrado
+  tu: habrías suministrado
+  vos: habrías suministrado
+  ud: habría suministrado
+  nosotros: habríamos suministrado
+  vosotros: habríais suministrado
+  uds: habrían suministrado
+presente-subjuntivo:
+  yo: suministre
+  tu: suministres
+  vos: suministres
+  ud: suministre
+  nosotros: suministremos
+  vosotros: suministréis
+  uds: suministren
+preterito-perfecto-subjuntivo:
+  yo: haya suministrado
+  tu: hayas suministrado
+  vos: hayas suministrado
+  ud: haya suministrado
+  nosotros: hayamos suministrado
+  vosotros: hayáis suministrado
+  uds: hayan suministrado
+imperfecto-subjuntivo:
+  yo:
+    - suministrara
+    - suministrase
+  tu:
+    - suministraras
+    - suministrases
+  vos:
+    - suministraras
+    - suministrases
+  ud:
+    - suministrara
+    - suministrase
+  nosotros:
+    - suministráramos
+    - suministrásemos
+  vosotros:
+    - suministrarais
+    - suministraseis
+  uds:
+    - suministraran
+    - suministrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera suministrado
+    - hubiese suministrado
+  tu:
+    - hubieras suministrado
+    - hubieses suministrado
+  vos:
+    - hubieras suministrado
+    - hubieses suministrado
+  ud:
+    - hubiera suministrado
+    - hubiese suministrado
+  nosotros:
+    - hubiéramos suministrado
+    - hubiésemos suministrado
+  vosotros:
+    - hubierais suministrado
+    - hubieseis suministrado
+  uds:
+    - hubieran suministrado
+    - hubiesen suministrado
+imperativo:
+  tu: suministra
+  vos: suministrá
+  ud: suministre
+  nosotros: suministremos
+  vosotros: suministrad
+  uds: suministren

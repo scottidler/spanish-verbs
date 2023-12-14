@@ -1,0 +1,156 @@
+infinitivo: disculpadmar
+gerundio: disculpadmando
+participio-pasado: disculpadmar
+
+presente-indicativo:
+  yo: disculpadmo
+  tu: disculpadmas
+  vos: disculpadmas
+  ud: disculpadma
+  nosotros: disculpadmamos
+  vosotros: disculpadmais
+  uds: disculpadman
+
+preterito-perfecto-simple:
+  yo: disculpadme
+  tu: disculpadmate
+  vos: disculpadmate
+  ud: disculpadma
+  nosotros: disculpadmamos
+  vosotros: disculpadmateis
+  uds: disculpadmaron
+
+preterito-imperfecto:
+  yo: disculpadmaba
+  tu: disculpadmabas
+  vos: disculpadmabas
+  ud: disculpadmaba
+  nosotros: disculpadmábamos
+  vosotros: disculpadmabais
+  uds: disculpadmaban
+
+futuro-simple:
+  yo: disculpadmaré
+  tu: disculpadmarás
+  vos: disculpadmarás
+  ud: disculpadmará
+  nosotros: disculpadmaremos
+  vosotros: disculpadmaréis
+  uds: disculpadmarán
+
+condicional-simple:
+  yo: disculpadmaría
+  tu: disculpadmarías
+  vos: disculpadmarías
+  ud: disculpadmaría
+  nosotros: disculpadmaríamos
+  vosotros: disculpadmaríais
+  uds: disculpadmarían
+
+presente-perfecto:
+  yo: he disculpadmad
+  tu: has disculpadmad
+  vos: has disculpadmad
+  ud: ha disculpadmad
+  nosotros: hemos disculpadmad
+  vosotros: habéis disculpadmad
+  uds: han disculpadmad
+
+preterito-pluscuamperfecto:
+  yo: había disculpadmad
+  tu: habías disculpadmad
+  vos: habías disculpadmad
+  ud: había disculpadmad
+  nosotros: habíamos disculpadmad
+  vosotros: habíais disculpadmad
+  uds: habían disculpadmad
+
+futuro-perfecto:
+  yo: habré disculpadmad
+  tu: habrás disculpadmad
+  vos: habrás disculpadmad
+  ud: habrá disculpadmad
+  nosotros: habremos disculpadmad
+  vosotros: habréis disculpadmad
+  uds: habrán disculpadmad
+
+condicional-perfecto:
+  yo: habría disculpadmad
+  tu: habrías disculpadmad
+  vos: habrías disculpadmad
+  ud: habría disculpadmad
+  nosotros: habríamos disculpadmad
+  vosotros: habríais disculpadmad
+  uds: habrían disculpadmad
+
+presente-subjuntivo:
+  yo: disculpadme
+  tu: disculpadmés
+  vos: disculpadmés
+  ud: disculpadme
+  nosotros: disculpadmemos
+  vosotros: disculpadméis
+  uds: disculpadmen
+
+preterito-perfecto-subjuntivo:
+  yo: haya disculpadmad
+  tu: hayas disculpadmad
+  vos: hayas disculpadmad
+  ud: haya disculpadmad
+  nosotros: hayamos disculpadmad
+  vosotros: hayáis disculpadmad
+  uds: hayan disculpadmad
+
+imperfecto-subjuntivo:
+  yo:
+    - disculpadnara
+    - disculpadnase
+  tu:
+    - disculpadnaras
+    - disculpadnases
+  vos:
+    - disculpadnaras
+    - disculpadnases
+  ud:
+    - disculpadnara
+    - disculpadnase
+  nosotros:
+    - disculpadnáramos
+    - disculpadnásemos
+  vosotros:
+    - disculpadnarais
+    - disculpadnaseis
+  uds:
+    - disculpadnaran
+    - disculpadsen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera disculpadmad
+    - hubiese disculpadmad
+  tu:
+    - hubieras disculpadmad
+    - hubieses disculpadmad
+  vos:
+    - hubieras disculpadmad
+    - hubieses disculpadmad
+  ud:
+    - hubiera disculpadmad
+    - hubiese disculpadmad
+  nosotros:
+    - hubiéramos disculpadmad
+    - hubiésemos disculpadmad
+  vosotros:
+    - hubierais disculpadmad
+    - hubieseis disculpadmad
+  uds:
+    - hubieran disculpadmad
+    - hubiesen disculpadmad
+
+imperativo:
+  tu: disculpadma
+  vos: disculpadmá
+  ud: disculpadme
+  nosotros: disculpadmemos
+  vosotros: disculpadmad
+  uds: disculpadmen

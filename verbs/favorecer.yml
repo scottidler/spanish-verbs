@@ -1,0 +1,142 @@
+infinitivo: favorecer
+gerundio: favoreciendo
+participio-pasado: favorecido
+presente-indicativo:
+  yo: favorezco
+  tu: favoreces
+  vos: favoreces
+  ud: favorece
+  nosotros: favorecemos
+  vosotros: favorecéis
+  uds: favorecen
+preterito-perfecto-simple:
+  yo: favorecí
+  tu: favoreciste
+  vos: favoreciste
+  ud: favoreció
+  nosotros: favorecimos
+  vosotros: favorecisteis
+  uds: favorecieron
+preterito-imperfecto:
+  yo: favorecía
+  tu: favorecías
+  vos: favorecías
+  ud: favorecía
+  nosotros: favorecíamos
+  vosotros: favorecíais
+  uds: favorecían
+futuro-simple:
+  yo: favoreceré
+  tu: favorecerás
+  vos: favorecerás
+  ud: favorecerá
+  nosotros: favoreceremos
+  vosotros: favoreceréis
+  uds: favorecerán
+condicional-simple:
+  yo: favorecería
+  tu: favorecerías
+  vos: favorecerías
+  ud: favorecería
+  nosotros: favoreceríamos
+  vosotros: favoreceríais
+  uds: favorecerían
+presente-perfecto:
+  yo: he favorecido
+  tu: has favorecido
+  vos: has favorecido
+  ud: ha favorecido
+  nosotros: hemos favorecido
+  vosotros: habéis favorecido
+  uds: han favorecido
+preterito-pluscuamperfecto:
+  yo: había favorecido
+  tu: habías favorecido
+  vos: habías favorecido
+  ud: había favorecido
+  nosotros: habíamos favorecido
+  vosotros: habíais favorecido
+  uds: habían favorecido
+futuro-perfecto:
+  yo: habré favorecido
+  tu: habrás favorecido
+  vos: habrás favorecido
+  ud: habrá favorecido
+  nosotros: habremos favorecido
+  vosotros: habréis favorecido
+  uds: habrán favorecido
+condicional-perfecto:
+  yo: habría favorecido
+  tu: habrías favorecido
+  vos: habrías favorecido
+  ud: habría favorecido
+  nosotros: habríamos favorecido
+  vosotros: habríais favorecido
+  uds: habrían favorecido
+presente-subjuntivo:
+  yo: favorezca
+  tu: favorezcas
+  vos: favorezcas
+  ud: favorezca
+  nosotros: favorezcamos
+  vosotros: favorezcáis
+  uds: favorezcan
+preterito-perfecto-subjuntivo:
+  yo: haya favorecido
+  tu: hayas favorecido
+  vos: hayas favorecido
+  ud: haya favorecido
+  nosotros: hayamos favorecido
+  vosotros: hayáis favorecido
+  uds: hayan favorecido
+imperfecto-subjuntivo:
+  yo:
+    - favoreciera
+    - favoreciese
+  tu:
+    - favorecieras
+    - favorecieses
+  vos:
+    - favorecieras
+    - favorecieses
+  ud:
+    - favoreciera
+    - favoreciese
+  nosotros:
+    - favoreciéramos
+    - favoreciésemos
+  vosotros:
+    - favorecierais
+    - favorecieseis
+  uds:
+    - favorecieran
+    - favoreciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera favorecido
+    - hubiese favorecido
+  tu:
+    - hubieras favorecido
+    - hubieses favorecido
+  vos:
+    - hubieras favorecido
+    - hubieses favorecido
+  ud:
+    - hubiera favorecido
+    - hubiese favorecido
+  nosotros:
+    - hubiéramos favorecido
+    - hubiésemos favorecido
+  vosotros:
+    - hubierais favorecido
+    - hubieseis favorecido
+  uds:
+    - hubieran favorecido
+    - hubiesen favorecido
+imperativo:
+  tu: favorece
+  vos: favorecé
+  ud: favorezca
+  nosotros: favorezcamos
+  vosotros: favoreced
+  uds: favorezcan

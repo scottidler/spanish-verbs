@@ -1,0 +1,142 @@
+infinitivo: masticar
+gerundio: masticando
+participio-pasado: masticado
+presente-indicativo:
+  yo: mastico
+  tu: masticas
+  vos: masticas
+  ud: mastica
+  nosotros: masticamos
+  vosotros: masticáis
+  uds: mastican
+preterito-perfecto-simple:
+  yo: mastiqué
+  tu: masticaste
+  vos: masticaste
+  ud: masticó
+  nosotros: masticamos
+  vosotros: masticasteis
+  uds: masticaron
+preterito-imperfecto:
+  yo: masticaba
+  tu: masticabas
+  vos: masticabas
+  ud: masticaba
+  nosotros: masticábamos
+  vosotros: masticabais
+  uds: masticaban
+futuro-simple:
+  yo: mascaré
+  tu: mascarás
+  vos: mascarás
+  ud: mascará
+  nosotros: mascaremos
+  vosotros: mascaréis
+  uds: mascarán
+condicional-simple:
+  yo: mascaría
+  tu: mascarías
+  vos: mascarías
+  ud: mascaría
+  nosotros: mascaríamos
+  vosotros: mascaríais
+  uds: mascarían
+presente-perfecto:
+  yo: he masticado
+  tu: has masticado
+  vos: has masticado
+  ud: ha masticado
+  nosotros: hemos masticado
+  vosotros: habéis masticado
+  uds: han masticado
+preterito-pluscuamperfecto:
+  yo: había masticado
+  tu: habías masticado
+  vos: habías masticado
+  ud: había masticado
+  nosotros: habíamos masticado
+  vosotros: habíais masticado
+  uds: habían masticado
+futuro-perfecto:
+  yo: habré masticado
+  tu: habrás masticado
+  vos: habrás masticado
+  ud: habrá masticado
+  nosotros: habremos masticado
+  vosotros: habréis masticado
+  uds: habrán masticado
+condicional-perfecto:
+  yo: habría masticado
+  tu: habrías masticado
+  vos: habrías masticado
+  ud: habría masticado
+  nosotros: habríamos masticado
+  vosotros: habríais masticado
+  uds: habrían masticado
+presente-subjuntivo:
+  yo: mastique
+  tu: mastiques
+  vos: mastiques
+  ud: mastique
+  nosotros: mastiquemos
+  vosotros: mastiquéis
+  uds: mastiquen
+preterito-perfecto-subjuntivo:
+  yo: haya masticado
+  tu: hayas masticado
+  vos: hayas masticado
+  ud: haya masticado
+  nosotros: hayamos masticado
+  vosotros: hayáis masticado
+  uds: hayan masticado
+imperfecto-subjuntivo:
+  yo:
+    - masticara
+    - masticase
+  tu:
+    - masticaras
+    - masticases
+  vos:
+    - masticaras
+    - masticases
+  ud:
+    - masticara
+    - masticase
+  nosotros:
+    - masticáramos
+    - masticásemos
+  vosotros:
+    - masticarais
+    - masticaseis
+  uds:
+    - masticaran
+    - masticasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera masticado
+    - hubiese masticado
+  tu:
+    - hubieras masticado
+    - hubieses masticado
+  vos:
+    - hubieras masticado
+    - hubieses masticado
+  ud:
+    - hubiera masticado
+    - hubiese masticado
+  nosotros:
+    - hubiéramos masticado
+    - hubiésemos masticado
+  vosotros:
+    - hubierais masticado
+    - hubieseis masticado
+  uds:
+    - hubieran masticado
+    - hubiesen masticado
+imperativo:
+  tu: mastica
+  vos: mastica
+  ud: mastique
+  nosotros: mastiquemos
+  vosotros: masticad
+  uds: mastiquen

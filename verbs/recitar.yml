@@ -1,0 +1,142 @@
+infinitivo: recitar
+gerundio: recitando
+participio-pasado: recitado
+presente-indicativo:
+  yo: recito
+  tu: recitas
+  vos: recitás
+  ud: recita
+  nosotros: recitamos
+  vosotros: recitáis
+  uds: recitan
+preterito-perfecto-simple:
+  yo: recité
+  tu: recitaste
+  vos: recitaste
+  ud: recitó
+  nosotros: recitamos
+  vosotros: recitasteis
+  uds: recitaron
+preterito-imperfecto:
+  yo: recitaba
+  tu: recitabas
+  vos: recitabas
+  ud: recitaba
+  nosotros: recitábamos
+  vosotros: recitabais
+  uds: recitaban
+futuro-simple:
+  yo: recitaré
+  tu: recitarás
+  vos: recitarás
+  ud: recitará
+  nosotros: recitaremos
+  vosotros: recitaréis
+  uds: recitarán
+condicional-simple:
+  yo: recitaría
+  tu: recitarías
+  vos: recitarías
+  ud: recitaría
+  nosotros: recitaríamos
+  vosotros: recitaríais
+  uds: recitarían
+presente-perfecto:
+  yo: he recitado
+  tu: has recitado
+  vos: has recitado
+  ud: ha recitado
+  nosotros: hemos recitado
+  vosotros: habéis recitado
+  uds: han recitado
+preterito-pluscuamperfecto:
+  yo: había recitado
+  tu: habías recitado
+  vos: habías recitado
+  ud: había recitado
+  nosotros: habíamos recitado
+  vosotros: habíais recitado
+  uds: habían recitado
+futuro-perfecto:
+  yo: habré recitado
+  tu: habrás recitado
+  vos: habrás recitado
+  ud: habrá recitado
+  nosotros: habremos recitado
+  vosotros: habréis recitado
+  uds: habrán recitado
+condicional-perfecto:
+  yo: habría recitado
+  tu: habrías recitado
+  vos: habrías recitado
+  ud: habría recitado
+  nosotros: habríamos recitado
+  vosotros: habríais recitado
+  uds: habrían recitado
+presente-subjuntivo:
+  yo: recite
+  tu: recites
+  vos: recites
+  ud: recite
+  nosotros: recitemos
+  vosotros: recitéis
+  uds: reciten
+preterito-perfecto-subjuntivo:
+  yo: haya recitado
+  tu: hayas recitado
+  vos: hayas recitado
+  ud: haya recitado
+  nosotros: hayamos recitado
+  vosotros: hayáis recitado
+  uds: hayan recitado
+imperfecto-subjuntivo:
+  yo:
+    - recitara
+    - recitase
+  tu:
+    - recitaras
+    - recitases
+  vos:
+    - recitaras
+    - recitases
+  ud:
+    - recitara
+    - recitase
+  nosotros:
+    - recitáramos
+    - recitásemos
+  vosotros:
+    - recitarais
+    - recitaseis
+  uds:
+    - recitaran
+    - recitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recitado
+    - hubiese recitado
+  tu:
+    - hubieras recitado
+    - hubieses recitado
+  vos:
+    - hubieras recitado
+    - hubieses recitado
+  ud:
+    - hubiera recitado
+    - hubiese recitado
+  nosotros:
+    - hubiéramos recitado
+    - hubiésemos recitado
+  vosotros:
+    - hubierais recitado
+    - hubieseis recitado
+  uds:
+    - hubieran recitado
+    - hubiesen recitado
+imperativo:
+  tu: recita
+  vos: recitá
+  ud: recite
+  nosotros: recitemos
+  vosotros: recitad
+  uds: reciten

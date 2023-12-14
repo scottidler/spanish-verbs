@@ -1,0 +1,142 @@
+infinitivo: renquear
+gerundio: renqueando
+participio-pasado: renqueado
+presente-indicativo:
+  yo: renqueo
+  tu: renqueas
+  vos: renqueas
+  ud: renquea
+  nosotros: renqueamos
+  vosotros: renqueáis
+  uds: renquean
+preterito-perfecto-simple:
+  yo: renqueé
+  tu: renqueaste
+  vos: renqueaste
+  ud: renqueó
+  nosotros: renqueamos
+  vosotros: renqueasteis
+  uds: renquearon
+preterito-imperfecto:
+  yo: renqueaba
+  tu: renqueabas
+  vos: renqueabas
+  ud: renqueaba
+  nosotros: renqueábamos
+  vosotros: renqueabais
+  uds: renqueaban
+futuro-simple:
+  yo: renquearé
+  tu: renquearás
+  vos: renquearás
+  ud: renqueará
+  nosotros: renquearemos
+  vosotros: renquearéis
+  uds: renquearán
+condicional-simple:
+  yo: renquearía
+  tu: renquearías
+  vos: renquearías
+  ud: renquearía
+  nosotros: renquearíamos
+  vosotros: renquearíais
+  uds: renquearían
+presente-perfecto:
+  yo: he renqueado
+  tu: has renqueado
+  vos: has renqueado
+  ud: ha renqueado
+  nosotros: hemos renqueado
+  vosotros: habéis renqueado
+  uds: han renqueado
+preterito-pluscuamperfecto:
+  yo: había renqueado
+  tu: habías renqueado
+  vos: habías renqueado
+  ud: había renqueado
+  nosotros: habíamos renqueado
+  vosotros: habíais renqueado
+  uds: habían renqueado
+futuro-perfecto:
+  yo: habré renqueado
+  tu: habrás renqueado
+  vos: habrás renqueado
+  ud: habrá renqueado
+  nosotros: habremos renqueado
+  vosotros: habréis renqueado
+  uds: habrán renqueado
+condicional-perfecto:
+  yo: habría renqueado
+  tu: habrías renqueado
+  vos: habrías renqueado
+  ud: habría renqueado
+  nosotros: habríamos renqueado
+  vosotros: habríais renqueado
+  uds: habrían renqueado
+presente-subjuntivo:
+  yo: renquee
+  tu: renquees
+  vos: renquees
+  ud: renquee
+  nosotros: renqueemos
+  vosotros: renqueéis
+  uds: renqueen
+preterito-perfecto-subjuntivo:
+  yo: haya renqueado
+  tu: hayas renqueado
+  vos: hayas renqueado
+  ud: haya renqueado
+  nosotros: hayamos renqueado
+  vosotros: hayáis renqueado
+  uds: hayan renqueado
+imperfecto-subjuntivo:
+  yo:
+    - renqueara
+    - renquease
+  tu:
+    - renquearas
+    - renqueases
+  vos:
+    - renquearas
+    - renqueases
+  ud:
+    - renqueara
+    - renquease
+  nosotros:
+    - renqueáramos
+    - renqueásemos
+  vosotros:
+    - renquearais
+    - renqueaseis
+  uds:
+    - renquearan
+    - renqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera renqueado
+    - hubiese renqueado
+  tu:
+    - hubieras renqueado
+    - hubieses renqueado
+  vos:
+    - hubieras renqueado
+    - hubieses renqueado
+  ud:
+    - hubiera renqueado
+    - hubiese renqueado
+  nosotros:
+    - hubiéramos renqueado
+    - hubiésemos renqueado
+  vosotros:
+    - hubierais renqueado
+    - hubieseis renqueado
+  uds:
+    - hubieran renqueado
+    - hubiesen renqueado
+imperativo:
+  tu: renquea
+  vos: renqueá
+  ud: renquee
+  nosotros: renqueemos
+  vosotros: renquead
+  uds: renqueen

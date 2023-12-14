@@ -1,0 +1,142 @@
+infinitivo: abrasar
+gerundio: abrasando
+participio-pasado: abrasado
+presente-indicativo:
+  yo: abrazo
+  tu: abrazas
+  vos: abrazas
+  ud: abraza
+  nosotros: abrazamos
+  vosotros: abrazáis
+  uds: abrazan
+preterito-perfecto-simple:
+  yo: abracé
+  tu: abrazaste
+  vos: abrazaste
+  ud: abrazó
+  nosotros: abrazamos
+  vosotros: abrazasteis
+  uds: abrazaron
+preterito-imperfecto:
+  yo: abrazaba
+  tu: abrazabas
+  vos: abrazabas
+  ud: abrazaba
+  nosotros: abrazábamos
+  vosotros: abrazabais
+  uds: abrazaban
+futuro-simple:
+  yo: abrazaré
+  tu: abrazarás
+  vos: abrazarás
+  ud: abrazará
+  nosotros: abrazaremos
+  vosotros: abrazaréis
+  uds: abrazarán
+condicional-simple:
+  yo: abrazaría
+  tu: abrazarías
+  vos: abrazarías
+  ud: abrazaría
+  nosotros: abrazaríamos
+  vosotros: abrazaríais
+  uds: abrazarían
+presente-perfecto:
+  yo: he abrazado
+  tu: has abrazado
+  vos: has abrazado
+  ud: ha abrazado
+  nosotros: hemos abrazado
+  vosotros: habéis abrazado
+  uds: han abrazado
+preterito-pluscuamperfecto:
+  yo: había abrazado
+  tu: habías abrazado
+  vos: habías abrazado
+  ud: había abrazado
+  nosotros: habíamos abrazado
+  vosotros: habíais abrazado
+  uds: habían abrazado
+futuro-perfecto:
+  yo: habré abrazado
+  tu: habrás abrazado
+  vos: habrás abrazado
+  ud: habrá abrazado
+  nosotros: habremos abrazado
+  vosotros: habréis abrazado
+  uds: habrán abrazado
+condicional-perfecto:
+  yo: habría abrazado
+  tu: habrías abrazado
+  vos: habrías abrazado
+  ud: habría abrazado
+  nosotros: habríamos abrazado
+  vosotros: habríais abrazado
+  uds: habrían abrazado
+presente-subjuntivo:
+  yo: abrace
+  tu: abraces
+  vos: abraces
+  ud: abrace
+  nosotros: abracemos
+  vosotros: abracéis
+  uds: abracen
+preterito-perfecto-subjuntivo:
+  yo: haya abrazado
+  tu: hayas abrazado
+  vos: hayas abrazado
+  ud: haya abrazado
+  nosotros: hayamos abrazado
+  vosotros: hayáis abrazado
+  uds: hayan abrazado
+imperfecto-subjuntivo:
+  yo:
+    - abrazara
+    - abrazase
+  tu:
+    - abrazaras
+    - abrazases
+  vos:
+    - abrazaras
+    - abrazases
+  ud:
+    - abrazara
+    - abrazase
+  nosotros:
+    - abrazáramos
+    - abrazásemos
+  vosotros:
+    - abrazarais
+    - abrazaseis
+  uds:
+    - abrazaran
+    - abrazasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera abrazado
+    - hubiese abrazado
+  tu:
+    - hubieras abrazado
+    - hubieses abrazado
+  vos:
+    - hubieras abrazado
+    - hubieses abrazado
+  ud:
+    - hubiera abrazado
+    - hubiese abrazado
+  nosotros:
+    - hubiéramos abrazado
+    - hubiésemos abrazado
+  vosotros:
+    - hubierais abrazado
+    - hubieseis abrazado
+  uds:
+    - hubieran abrazado
+    - hubiesen abrazado
+imperativo:
+  tu: abraza
+  vos: abrazá
+  ud: abrace
+  nosotros: abracemos
+  vosotros: abrazad
+  uds: abracen

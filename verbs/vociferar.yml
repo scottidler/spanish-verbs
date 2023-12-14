@@ -1,0 +1,142 @@
+infinitivo: vociferar
+gerundio: vociferando
+participio-pasado: vociferado
+presente-indicativo:
+  yo: vocifero
+  tu: vociferas
+  vos: vociferas
+  ud: vocifera
+  nosotros: vociferamos
+  vosotros: vociferáis
+  uds: vociferan
+preterito-perfecto-simple:
+  yo: vociferé
+  tu: vociferaste
+  vos: vociferaste
+  ud: vociferó
+  nosotros: vociferamos
+  vosotros: vociferasteis
+  uds: vociferaron
+preterito-imperfecto:
+  yo: vociferaba
+  tu: vociferabas
+  vos: vociferabas
+  ud: vociferaba
+  nosotros: vociferábamos
+  vosotros: vociferabais
+  uds: vociferaban
+futuro-simple:
+  yo: vociferaré
+  tu: vociferarás
+  vos: vociferarás
+  ud: vociferará
+  nosotros: vociferaremos
+  vosotros: vociferaréis
+  uds: vociferarán
+condicional-simple:
+  yo: vociferaría
+  tu: vociferarías
+  vos: vociferarías
+  ud: vociferaría
+  nosotros: vociferaríamos
+  vosotros: vociferaríais
+  uds: vociferarían
+presente-perfecto:
+  yo: he vociferado
+  tu: has vociferado
+  vos: has vociferado
+  ud: ha vociferado
+  nosotros: hemos vociferado
+  vosotros: habéis vociferado
+  uds: han vociferado
+preterito-pluscuamperfecto:
+  yo: había vociferado
+  tu: habías vociferado
+  vos: habías vociferado
+  ud: había vociferado
+  nosotros: habíamos vociferado
+  vosotros: habíais vociferado
+  uds: habían vociferado
+futuro-perfecto:
+  yo: habré vociferado
+  tu: habrás vociferado
+  vos: habrás vociferado
+  ud: habrá vociferado
+  nosotros: habremos vociferado
+  vosotros: habréis vociferado
+  uds: habrán vociferado
+condicional-perfecto:
+  yo: habría vociferado
+  tu: habrías vociferado
+  vos: habrías vociferado
+  ud: habría vociferado
+  nosotros: habríamos vociferado
+  vosotros: habríais vociferado
+  uds: habrían vociferado
+presente-subjuntivo:
+  yo: vocifere
+  tu: vociferes
+  vos: vociferes
+  ud: vocifere
+  nosotros: vociferemos
+  vosotros: vociferéis
+  uds: vociferen
+preterito-perfecto-subjuntivo:
+  yo: haya vociferado
+  tu: hayas vociferado
+  vos: hayas vociferado
+  ud: haya vociferado
+  nosotros: hayamos vociferado
+  vosotros: hayáis vociferado
+  uds: hayan vociferado
+imperfecto-subjuntivo:
+  yo:
+    - vociferara
+    - vociferase
+  tu:
+    - vociferaras
+    - vociferases
+  vos:
+    - vociferaras
+    - vociferases
+  ud:
+    - vociferara
+    - vociferase
+  nosotros:
+    - vociferáramos
+    - vociferásemos
+  vosotros:
+    - vociferarais
+    - vociferaseis
+  uds:
+    - vociferaran
+    - vociferasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vociferado
+    - hubiese vociferado
+  tu:
+    - hubieras vociferado
+    - hubieses vociferado
+  vos:
+    - hubieras vociferado
+    - hubieses vociferado
+  ud:
+    - hubiera vociferado
+    - hubiese vociferado
+  nosotros:
+    - hubiéramos vociferado
+    - hubiésemos vociferado
+  vosotros:
+    - hubierais vociferado
+    - hubieseis vociferado
+  uds:
+    - hubieran vociferado
+    - hubiesen vociferado
+imperativo:
+  tu: vocifera
+  vos: vociferá
+  ud: vocifere
+  nosotros: vociferemos
+  vosotros: vociferad
+  uds: vociferen

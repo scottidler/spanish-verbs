@@ -1,0 +1,142 @@
+infinitivo: desperezar
+gerundio: desperezando
+participio-pasado: desperezado
+presente-indicativo:
+  yo: desperezo
+  tu: desperezas
+  vos: desperezas
+  ud: despereza
+  nosotros: desperezamos
+  vosotros: desperezáis
+  uds: despiertan
+preterito-perfecto-simple:
+  yo: desperté
+  tu: despertaste
+  vos: despertaste
+  ud: despertó
+  nosotros: despertamos
+  vosotros: despertasteis
+  uds: despertaron
+preterito-imperfecto:
+  yo: despertaba
+  tu: despertabas
+  vos: despertabas
+  ud: despertaba
+  nosotros: despertábamos
+  vosotros: despertabais
+  uds: despertaban
+futuro-simple:
+  yo: despertaré
+  tu: despertarás
+  vos: despertarás
+  ud: despertará
+  nosotros: despertaremos
+  vosotros: despertaréis
+  uds: despertarán
+condicional-simple:
+  yo: despertaría
+  tu: despertarías
+  vos: despertarías
+  ud: despertaría
+  nosotros: despertaríamos
+  vosotros: despertaríais
+  uds: despertarían
+presente-perfecto:
+  yo: he desperezado
+  tu: has desperezado
+  vos: has desperezado
+  ud: ha desperezado
+  nosotros: hemos desperezado
+  vosotros: habéis desperezado
+  uds: han desperezado
+preterito-pluscuamperfecto:
+  yo: había desperezado
+  tu: habías desperezado
+  vos: habías desperezado
+  ud: había desperezado
+  nosotros: habíamos desperezado
+  vosotros: habíais desperezado
+  uds: habían desperezado
+futuro-perfecto:
+  yo: habré desperezado
+  tu: habrás desperezado
+  vos: habrás desperezado
+  ud: habrá desperezado
+  nosotros: habremos desperezado
+  vosotros: habréis desperezado
+  uds: habrán desperezado
+condicional-perfecto:
+  yo: habría desperezado
+  tu: habrías desperezado
+  vos: habrías desperezado
+  ud: habría desperezado
+  nosotros: habríamos desperezado
+  vosotros: habríais desperezado
+  uds: habrían desperezado
+presente-subjuntivo:
+  yo: despierte
+  tu: despiertes
+  vos: despiertes
+  ud: despierte
+  nosotros: despertemos
+  vosotros: despertéis
+  uds: despierten
+preterito-perfecto-subjuntivo:
+  yo: haya desperezado
+  tu: hayas desperezado
+  vos: hayas desperezado
+  ud: haya desperezado
+  nosotros: hayamos desperezado
+  vosotros: hayáis desperezado
+  uds: hayan desperezado
+imperfecto-subjuntivo:
+  yo:
+    - despertara
+    - despertase
+  tu:
+    - despertaras
+    - despertases
+  vos:
+    - despertaras
+    - despertases
+  ud:
+    - despertara
+    - despertase
+  nosotros:
+    - despertáramos
+    - despertásemos
+  vosotros:
+    - despertarais
+    - despertaseis
+  uds:
+    - despertaran
+    - despertasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desperezado
+    - hubiese desperezado
+  tu:
+    - hubieras desperezado
+    - hubieses desperezado
+  vos:
+    - hubieras desperezado
+    - hubieses desperezado
+  ud:
+    - hubiera desperezado
+    - hubiese desperezado
+  nosotros:
+    - hubiéramos desperezado
+    - hubiésemos desperezado
+  vosotros:
+    - hubierais desperezado
+    - hubieseis desperezado
+  uds:
+    - hubieran desperezado
+    - hubiesen desperezado
+imperativo:
+  tu: despereza
+  vos: desperezá
+  ud: despierte
+  nosotros: despertemos
+  vosotros: despertad
+  uds: despierten

@@ -1,0 +1,142 @@
+infinitivo: cloquear
+gerundio: cloqueando
+participio-pasado: cloqueado
+presente-indicativo:
+  yo: cloqueo
+  tu: cloqueas
+  vos: cloqueás
+  ud: cloquea
+  nosotros: cloqueamos
+  vosotros: cloqueáis
+  uds: cloquean
+preterito-perfecto-simple:
+  yo: cloqueé
+  tu: cloqueaste
+  vos: cloqueaste
+  ud: cloqueó
+  nosotros: cloqueamos
+  vosotros: cloqueasteis
+  uds: cloquearon
+preterito-imperfecto:
+  yo: cloqueaba
+  tu: cloqueabas
+  vos: cloqueabas
+  ud: cloqueaba
+  nosotros: cloqueábamos
+  vosotros: cloqueabais
+  uds: cloqueaban
+futuro-simple:
+  yo: cloquearé
+  tu: cloquearás
+  vos: cloquearás
+  ud: cloqueará
+  nosotros: cloquearemos
+  vosotros: cloquearéis
+  uds: cloquearán
+condicional-simple:
+  yo: cloquearía
+  tu: cloquearías
+  vos: cloquearías
+  ud: cloquearía
+  nosotros: cloquearíamos
+  vosotros: cloquearíais
+  uds: cloquearían
+presente-perfecto:
+  yo: he cloqueado
+  tu: has cloqueado
+  vos: has cloqueado
+  ud: ha cloqueado
+  nosotros: hemos cloqueado
+  vosotros: habéis cloqueado
+  uds: han cloqueado
+preterito-pluscuamperfecto:
+  yo: había cloqueado
+  tu: habías cloqueado
+  vos: habías cloqueado
+  ud: había cloqueado
+  nosotros: habíamos cloqueado
+  vosotros: habíais cloqueado
+  uds: habían cloqueado
+futuro-perfecto:
+  yo: habré cloqueado
+  tu: habrás cloqueado
+  vos: habrás cloqueado
+  ud: habrá cloqueado
+  nosotros: habremos cloqueado
+  vosotros: habréis cloqueado
+  uds: habrán cloqueado
+condicional-perfecto:
+  yo: habría cloqueado
+  tu: habrías cloqueado
+  vos: habrías cloqueado
+  ud: habría cloqueado
+  nosotros: habríamos cloqueado
+  vosotros: habríais cloqueado
+  uds: habrían cloqueado
+presente-subjuntivo:
+  yo: cloquee
+  tu: cloquees
+  vos: cloquees
+  ud: cloquee
+  nosotros: cloqueemos
+  vosotros: cloqueéis
+  uds: cloqueen
+preterito-perfecto-subjuntivo:
+  yo: haya cloqueado
+  tu: hayas cloqueado
+  vos: hayas cloqueado
+  ud: haya cloqueado
+  nosotros: hayamos cloqueado
+  vosotros: hayáis cloqueado
+  uds: hayan cloqueado
+imperfecto-subjuntivo:
+  yo:
+    - cloqueara
+    - cloquease
+  tu:
+    - cloquearas
+    - cloqueases
+  vos:
+    - cloquearas
+    - cloqueases
+  ud:
+    - cloqueara
+    - cloquease
+  nosotros:
+    - cloqueáramos
+    - cloqueásemos
+  vosotros:
+    - cloquearais
+    - cloqueaseis
+  uds:
+    - cloquearan
+    - cloqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cloqueado
+    - hubiese cloqueado
+  tu:
+    - hubieras cloqueado
+    - hubieses cloqueado
+  vos:
+    - hubieras cloqueado
+    - hubieses cloqueado
+  ud:
+    - hubiera cloqueado
+    - hubiese cloqueado
+  nosotros:
+    - hubiéramos cloqueado
+    - hubiésemos cloqueado
+  vosotros:
+    - hubierais cloqueado
+    - hubieseis cloqueado
+  uds:
+    - hubieran cloqueado
+    - hubiesen cloqueado
+imperativo:
+  tu: cloquea
+  vos: cloqueá
+  ud: cloquee
+  nosotros: cloqueemos
+  vosotros: cloquead
+  uds: cloqueen

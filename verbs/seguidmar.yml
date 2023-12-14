@@ -1,0 +1,142 @@
+infinitivo: seguidmar
+gerundio: seguidmando
+participio-pasado: seguidmado
+presente-indicativo:
+  yo: seguidmo
+  tu: seguidmes
+  vos: seguidmes
+  ud: seguidme
+  nosotros: seguidmamos
+  vosotros: seguidmáis
+  uds: seguidman
+preterito-perfecto-simple:
+  yo: seguidmé
+  tu: seguidmiste
+  vos: seguidmiste
+  ud: seguidmió
+  nosotros: seguidmimos
+  vosotros: seguidmisteis
+  uds: seguidmieron
+preterito-imperfecto:
+  yo: seguidmaba
+  tu: seguidmabas
+  vos: seguidmabas
+  ud: seguidmaba
+  nosotros: seguidmábamos
+  vosotros: seguidmabais
+  uds: seguidmaban
+futuro-simple:
+  yo: seguidmaré
+  tu: seguidmarás
+  vos: seguidmarás
+  ud: seguidmará
+  nosotros: seguidmaremos
+  vosotros: seguidmaréis
+  uds: seguidmarán
+condicional-simple:
+  yo: seguidmaría
+  tu: seguidmarías
+  vos: seguidmarías
+  ud: seguidmaría
+  nosotros: seguidmaríamos
+  vosotros: seguidmaríais
+  uds: seguidmarían
+presente-perfecto:
+  yo: he seguidmado
+  tu: has seguidmado
+  vos: has seguidmado
+  ud: ha seguidmado
+  nosotros: hemos seguidmado
+  vosotros: habéis seguidmado
+  uds: han seguidmado
+preterito-pluscuamperfecto:
+  yo: había seguidmado
+  tu: habías seguidmado
+  vos: habías seguidmado
+  ud: había seguidmado
+  nosotros: habíamos seguidmado
+  vosotros: habíais seguidmado
+  uds: habían seguidmado
+futuro-perfecto:
+  yo: habré seguidmado
+  tu: habrás seguidmado
+  vos: habrás seguidmado
+  ud: habrá seguidmado
+  nosotros: habremos seguidmado
+  vosotros: habréis seguidmado
+  uds: habrán seguidmado
+condicional-perfecto:
+  yo: habría seguidmado
+  tu: habrías seguidmado
+  vos: habrías seguidmado
+  ud: habría seguidmado
+  nosotros: habríamos seguidmado
+  vosotros: habríais seguidmado
+  uds: habrían seguidmado
+presente-subjuntivo:
+  yo: seguidme
+  tu: seguidmes
+  vos: seguidmes
+  ud: seguidme
+  nosotros: seguidmemos
+  vosotros: seguidméis
+  uds: seguidmen
+preterito-perfecto-subjuntivo:
+  yo: haya seguidmado
+  tu: hayas seguidmado
+  vos: hayas seguidmado
+  ud: haya seguidmado
+  nosotros: hayamos seguidmado
+  vosotros: hayáis seguidmado
+  uds: hayan seguidmado
+imperfecto-subjuntivo:
+  yo:
+    - seguidmara
+    - seguidmase
+  tu:
+    - seguidmaras
+    - seguidmases
+  vos:
+    - seguidmaras
+    - seguidmases
+  ud:
+    - seguidmara
+    - seguidmase
+  nosotros:
+    - seguidmáramos
+    - seguidmásemos
+  vosotros:
+    - seguidmarais
+    - seguidmaseis
+  uds:
+    - seguidmaran
+    - seguidmasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera seguidmado
+    - hubiese seguidmado
+  tu:
+    - hubieras seguidmado
+    - hubieses seguidmado
+  vos:
+    - hubieras seguidmado
+    - hubieses seguidmado
+  ud:
+    - hubiera seguidmado
+    - hubiese seguidmado
+  nosotros:
+    - hubiéramos seguidmado
+    - hubiésemos seguidmado
+  vosotros:
+    - hubierais seguidmado
+    - hubieseis seguidmado
+  uds:
+    - hubieran seguidmado
+    - hubiesen seguidmado
+imperativo:
+  tu: seguidma
+  vos: seguidmá
+  ud: seguidme
+  nosotros: seguidmemos
+  vosotros: seguidmad
+  uds: seguidmen

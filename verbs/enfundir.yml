@@ -1,0 +1,142 @@
+infinitivo: enfundir
+gerundio: enfundiendo
+participio-pasado: enfundido
+presente-indicativo:
+  yo: enfundo
+  tu: enfundes
+  vos: enfundes
+  ud: enfunde
+  nosotros: enfundimos
+  vosotros: enfundís
+  uds: enfunden
+preterito-perfecto-simple:
+  yo: enfundí
+  tu: enfundiste
+  vos: enfundiste
+  ud: enfundió
+  nosotros: enfundimos
+  vosotros: enfundisteis
+  uds: enfundieron
+preterito-imperfecto:
+  yo: enfundía
+  tu: enfundías
+  vos: enfundías
+  ud: enfundía
+  nosotros: enfundíamos
+  vosotros: enfundíais
+  uds: enfundían
+futuro-simple:
+  yo: enfundiré
+  tu: enfundirás
+  vos: enfundirás
+  ud: enfundirá
+  nosotros: enfundiremos
+  vosotros: enfundiréis
+  uds: enfundirán
+condicional-simple:
+  yo: enfundiría
+  tu: enfundirías
+  vos: enfundirías
+  ud: enfundiría
+  nosotros: enfundiríamos
+  vosotros: enfundiríais
+  uds: enfundirían
+presente-perfecto:
+  yo: he enfundido
+  tu: has enfundido
+  vos: has enfundido
+  ud: ha enfundido
+  nosotros: hemos enfundido
+  vosotros: habéis enfundido
+  uds: han enfundido
+preterito-pluscuamperfecto:
+  yo: había enfundido
+  tu: habías enfundido
+  vos: habías enfundido
+  ud: había enfundido
+  nosotros: habíamos enfundido
+  vosotros: habíais enfundido
+  uds: habían enfundido
+futuro-perfecto:
+  yo: habré enfundido
+  tu: habrás enfundido
+  vos: habrás enfundido
+  ud: habrá enfundido
+  nosotros: habremos enfundido
+  vosotros: habréis enfundido
+  uds: habrán enfundido
+condicional-perfecto:
+  yo: habría enfundido
+  tu: habrías enfundido
+  vos: habrías enfundido
+  ud: habría enfundido
+  nosotros: habríamos enfundido
+  vosotros: habríais enfundido
+  uds: habrían enfundido
+presente-subjuntivo:
+  yo: enfunda
+  tu: enfundas
+  vos: enfundas
+  ud: enfunda
+  nosotros: enfundamos
+  vosotros: enfundáis
+  uds: enfundan
+preterito-perfecto-subjuntivo:
+  yo: haya enfundido
+  tu: hayas enfundido
+  vos: hayas enfundido
+  ud: haya enfundido
+  nosotros: hayamos enfundido
+  vosotros: hayáis enfundido
+  uds: hayan enfundido
+imperfecto-subjuntivo:
+  yo:
+    - enfundiera
+    - enfundiese
+  tu:
+    - enfundieras
+    - enfundieses
+  vos:
+    - enfundieras
+    - enfundieses
+  ud:
+    - enfundiera
+    - enfundiese
+  nosotros:
+    - enfundiéramos
+    - enfundiésemos
+  vosotros:
+    - enfundierais
+    - enfundieseis
+  uds:
+    - enfundieran
+    - enfundiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enfundido
+    - hubiese enfundido
+  tu:
+    - hubieras enfundido
+    - hubieses enfundido
+  vos:
+    - hubieras enfundido
+    - hubieses enfundido
+  ud:
+    - hubiera enfundido
+    - hubiese enfundido
+  nosotros:
+    - hubiéramos enfundido
+    - hubiésemos enfundido
+  vosotros:
+    - hubierais enfundido
+    - hubieseis enfundido
+  uds:
+    - hubieran enfundido
+    - hubiesen enfundido
+imperativo:
+  tu: enfunda
+  vos: enfundá
+  ud: enfunda
+  nosotros: enfundamos
+  vosotros: enfundid
+  uds: enfunden

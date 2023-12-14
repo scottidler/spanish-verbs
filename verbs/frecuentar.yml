@@ -1,0 +1,142 @@
+infinitivo: frecuentar
+gerundio: frecuentando
+participio-pasado: frecuentado
+presente-indicativo:
+  yo: frecuento
+  tu: frecuentas
+  vos: frecuentas
+  ud: frecuenta
+  nosotros: frecuentamos
+  vosotros: frecuentáis
+  uds: frecuentan
+preterito-perfecto-simple:
+  yo: frecuenté
+  tu: frecuentaste
+  vos: frecuentaste
+  ud: frecuentó
+  nosotros: frecuentamos
+  vosotros: frecuentasteis
+  uds: frecuentaron
+preterito-imperfecto:
+  yo: frecuentaba
+  tu: frecuentabas
+  vos: frecuentabas
+  ud: frecuentaba
+  nosotros: frecuentábamos
+  vosotros: frecuentabais
+  uds: frecuentaban
+futuro-simple:
+  yo: frecuentaré
+  tu: frecuentarás
+  vos: frecuentarás
+  ud: frecuentará
+  nosotros: frecuentaremos
+  vosotros: frecuentaréis
+  uds: frecuentarán
+condicional-simple:
+  yo: frecuentaría
+  tu: frecuentarías
+  vos: frecuentarías
+  ud: frecuentaría
+  nosotros: frecuentaríamos
+  vosotros: frecuentaríais
+  uds: frecuentarían
+presente-perfecto:
+  yo: he frecuentado
+  tu: has frecuentado
+  vos: has frecuentado
+  ud: ha frecuentado
+  nosotros: hemos frecuentado
+  vosotros: habéis frecuentado
+  uds: han frecuentado
+preterito-pluscuamperfecto:
+  yo: había frecuentado
+  tu: habías frecuentado
+  vos: habías frecuentado
+  ud: había frecuentado
+  nosotros: habíamos frecuentado
+  vosotros: habíais frecuentado
+  uds: habían frecuentado
+futuro-perfecto:
+  yo: habré frecuentado
+  tu: habrás frecuentado
+  vos: habrás frecuentado
+  ud: habrá frecuentado
+  nosotros: habremos frecuentado
+  vosotros: habréis frecuentado
+  uds: habrán frecuentado
+condicional-perfecto:
+  yo: habría frecuentado
+  tu: habrías frecuentado
+  vos: habrías frecuentado
+  ud: habría frecuentado
+  nosotros: habríamos frecuentado
+  vosotros: habríais frecuentado
+  uds: habrían frecuentado
+presente-subjuntivo:
+  yo: frecuente
+  tu: frecuentes
+  vos: frecuentes
+  ud: frecuente
+  nosotros: frecuentemos
+  vosotros: frecuentéis
+  uds: frecuenten
+preterito-perfecto-subjuntivo:
+  yo: haya frecuentado
+  tu: hayas frecuentado
+  vos: hayas frecuentado
+  ud: haya frecuentado
+  nosotros: hayamos frecuentado
+  vosotros: hayáis frecuentado
+  uds: hayan frecuentado
+imperfecto-subjuntivo:
+  yo:
+    - frecuentara
+    - frecuentase
+  tu:
+    - frecuentaras
+    - frecuentases
+  vos:
+    - frecuentaras
+    - frecuentases
+  ud:
+    - frecuentara
+    - frecuentase
+  nosotros:
+    - frecuentáramos
+    - frecuentásemos
+  vosotros:
+    - frecuentarais
+    - frecuentaseis
+  uds:
+    - frecuentaran
+    - frecuentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera frecuentado
+    - hubiese frecuentado
+  tu:
+    - hubieras frecuentado
+    - hubieses frecuentado
+  vos:
+    - hubieras frecuentado
+    - hubieses frecuentado
+  ud:
+    - hubiera frecuentado
+    - hubiese frecuentado
+  nosotros:
+    - hubiéramos frecuentado
+    - hubiésemos frecuentado
+  vosotros:
+    - hubierais frecuentado
+    - hubieseis frecuentado
+  uds:
+    - hubieran frecuentado
+    - hubiesen frecuentado
+imperativo:
+  tu: frecuenta
+  vos: frecuentá
+  ud: frecuente
+  nosotros: frecuentemos
+  vosotros: frecuentad
+  uds: frecuenten

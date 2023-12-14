@@ -1,0 +1,142 @@
+infinitivo: quebrarse
+gerundio: quebrándose
+participio-pasado: quebrado
+presente-indicativo:
+  yo: me quiebro
+  tu: te quiebras
+  vos: te quiebras
+  ud: se quiebra
+  nosotros: nos quebramos
+  vosotros: os quebráis
+  uds: se quiebran
+preterito-perfecto-simple:
+  yo: me quebré
+  tu: te quebraste
+  vos: te quebraste
+  ud: se quebró
+  nosotros: nos quebramos
+  vosotros: os quebrasteis
+  uds: se quebraron
+preterito-imperfecto:
+  yo: me quebraba
+  tu: te quebrabas
+  vos: te quebrabas
+  ud: se quebraba
+  nosotros: nos quebrábamos
+  vosotros: os quebrabais
+  uds: se quebraban
+futuro-simple:
+  yo: me quebraré
+  tu: te quebrarás
+  vos: te quebrarás
+  ud: se quebrará
+  nosotros: nos quebraremos
+  vosotros: os quebraréis
+  uds: se quebrarán
+condicional-simple:
+  yo: me quebraría
+  tu: te quebrarías
+  vos: te quebrarías
+  ud: se quebraría
+  nosotros: nos quebraríamos
+  vosotros: os quebraríais
+  uds: se quebrarían
+presente-perfecto:
+  yo: me he quebrado
+  tu: te has quebrado
+  vos: te has quebrado
+  ud: se ha quebrado
+  nosotros: nos hemos quebrado
+  vosotros: os habéis quebrado
+  uds: se han quebrado
+preterito-pluscuamperfecto:
+  yo: me había quebrado
+  tu: te habías quebrado
+  vos: te habías quebrado
+  ud: se había quebrado
+  nosotros: nos habíamos quebrado
+  vosotros: os habíais quebrado
+  uds: se habían quebrado
+futuro-perfecto:
+  yo: me habré quebrado
+  tu: te habrás quebrado
+  vos: te habrás quebrado
+  ud: se habrá quebrado
+  nosotros: nos habremos quebrado
+  vosotros: os habréis quebrado
+  uds: se habrán quebrado
+condicional-perfecto:
+  yo: me habría quebrado
+  tu: te habrías quebrado
+  vos: te habrías quebrado
+  ud: se habría quebrado
+  nosotros: nos habríamos quebrado
+  vosotros: os habríais quebrado
+  uds: se habrían quebrado
+presente-subjuntivo:
+  yo: me quiebre
+  tu: te quiebres
+  vos: te quiebres
+  ud: se quiebre
+  nosotros: nos quebremos
+  vosotros: os quiebren
+  uds: se quiebren
+preterito-perfecto-subjuntivo:
+  yo: me haya quebrado
+  tu: te hayas quebrado
+  vos: te hayas quebrado
+  ud: se haya quebrado
+  nosotros: nos hayamos quebrado
+  vosotros: os hayáis quebrado
+  uds: se hayan quebrado
+imperfecto-subjuntivo:
+  yo:
+    - me quebrara
+    - me quebrase
+  tu:
+    - te quebraras
+    - te quebrases
+  vos:
+    - te quebraras
+    - te quebrases
+  ud:
+    - se quebrara
+    - se quebrase
+  nosotros:
+    - nos quebráramos
+    - nos quebrásemos
+  vosotros:
+    - os quebrarais
+    - os quebraseis
+  uds:
+    - se quebraran
+    - se quebrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera quebrado
+    - me hubiese quebrado
+  tu:
+    - te hubieras quebrado
+    - te hubieses quebrado
+  vos:
+    - te hubieras quebrado
+    - te hubieses quebrado
+  ud:
+    - se hubiera quebrado
+    - se hubiese quebrado
+  nosotros:
+    - nos hubiéramos quebrado
+    - nos hubiésemos quebrado
+  vosotros:
+    - os hubierais quebrado
+    - os hubieseis quebrado
+  uds:
+    - se hubieran quebrado
+    - se hubiesen quebrado
+imperativo:
+  tu: quebrátate
+  vos: quebráte
+  ud: quiebrese
+  nosotros: quebrémonos
+  vosotros: quebraos
+  uds: quiebrense

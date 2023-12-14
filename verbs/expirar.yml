@@ -1,0 +1,142 @@
+infinitivo: expirar
+gerundio: expirando
+participio-pasado: expirado
+presente-indicativo:
+  yo: expiro
+  tu: expiras
+  vos: expiras
+  ud: expira
+  nosotros: expiramos
+  vosotros: expiráis
+  uds: expiran
+preterito-perfecto-simple:
+  yo: expiré
+  tu: expiraste
+  vos: expiraste
+  ud: expiró
+  nosotros: expiramos
+  vosotros: expirasteis
+  uds: expiraron
+preterito-imperfecto:
+  yo: expiraba
+  tu: expirabas
+  vos: expirabas
+  ud: expiraba
+  nosotros: expirábamos
+  vosotros: expirabais
+  uds: expiraban
+futuro-simple:
+  yo: expiraré
+  tu: expirarás
+  vos: expirarás
+  ud: expirará
+  nosotros: expiraremos
+  vosotros: expiraréis
+  uds: expirarán
+condicional-simple:
+  yo: expiraría
+  tu: expirarías
+  vos: expirarías
+  ud: expiraría
+  nosotros: expiraríamos
+  vosotros: expiraríais
+  uds: expirarían
+presente-perfecto:
+  yo: he expirado
+  tu: has expirado
+  vos: has expirado
+  ud: ha expirado
+  nosotros: hemos expirado
+  vosotros: habéis expirado
+  uds: han expirado
+preterito-pluscuamperfecto:
+  yo: había expirado
+  tu: habías expirado
+  vos: habías expirado
+  ud: había expirado
+  nosotros: habíamos expirado
+  vosotros: habíais expirado
+  uds: habían expirado
+futuro-perfecto:
+  yo: habré expirado
+  tu: habrás expirado
+  vos: habrás expirado
+  ud: habrá expirado
+  nosotros: habremos expirado
+  vosotros: habréis expirado
+  uds: habrán expirado
+condicional-perfecto:
+  yo: habría expirado
+  tu: habrías expirado
+  vos: habrías expirado
+  ud: habría expirado
+  nosotros: habríamos expirado
+  vosotros: habríais expirado
+  uds: habrían expirado
+presente-subjuntivo:
+  yo: expire
+  tu: expires
+  vos: expires
+  ud: expire
+  nosotros: expiremos
+  vosotros: expiréis
+  uds: expiren
+preterito-perfecto-subjuntivo:
+  yo: haya expirado
+  tu: hayas expirado
+  vos: hayas expirado
+  ud: haya expirado
+  nosotros: hayamos expirado
+  vosotros: hayáis expirado
+  uds: hayan expirado
+imperfecto-subjuntivo:
+  yo:
+    - expirara
+    - expirase
+  tu:
+    - expiraras
+    - expirases
+  vos:
+    - expiraras
+    - expirases
+  ud:
+    - expirara
+    - expirase
+  nosotros:
+    - expiráramos
+    - expirásemos
+  vosotros:
+    - expirarais
+    - expiraseis
+  uds:
+    - expiraran
+    - expirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera expirado
+    - hubiese expirado
+  tu:
+    - hubieras expirado
+    - hubieses expirado
+  vos:
+    - hubieras expirado
+    - hubieses expirado
+  ud:
+    - hubiera expirado
+    - hubiese expirado
+  nosotros:
+    - hubiéramos expirado
+    - hubiésemos expirado
+  vosotros:
+    - hubierais expirado
+    - hubieseis expirado
+  uds:
+    - hubieran expirado
+    - hubiesen expirado
+imperativo:
+  tu: expira
+  vos: expirá
+  ud: expire
+  nosotros: expiremos
+  vosotros: expirad
+  uds: expiren

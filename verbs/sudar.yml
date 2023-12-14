@@ -1,0 +1,142 @@
+infinitivo: sudar
+gerundio: sudando
+participio-pasado: sudado
+presente-indicativo:
+  yo: sudo
+  tu: sudas
+  vos: sudas
+  ud: suda
+  nosotros: sudamos
+  vosotros: sudáis
+  uds: sudan
+preterito-perfecto-simple:
+  yo: sudé
+  tu: sudaste
+  vos: sudaste
+  ud: sudó
+  nosotros: sudamos
+  vosotros: sudasteis
+  uds: sudaron
+preterito-imperfecto:
+  yo: sudaba
+  tu: sudabas
+  vos: sudabas
+  ud: sudaba
+  nosotros: sudábamos
+  vosotros: sudabais
+  uds: sudaban
+futuro-simple:
+  yo: sudaré
+  tu: sudarás
+  vos: sudarás
+  ud: sudará
+  nosotros: sudaremos
+  vosotros: sudaréis
+  uds: sudarán
+condicional-simple:
+  yo: sudaría
+  tu: sudarías
+  vos: sudarías
+  ud: sudaría
+  nosotros: sudaríamos
+  vosotros: sudaríais
+  uds: sudarían
+presente-perfecto:
+  yo: he sudado
+  tu: has sudado
+  vos: has sudado
+  ud: ha sudado
+  nosotros: hemos sudado
+  vosotros: habéis sudado
+  uds: han sudado
+preterito-pluscuamperfecto:
+  yo: había sudado
+  tu: habías sudado
+  vos: habías sudado
+  ud: había sudado
+  nosotros: habíamos sudado
+  vosotros: habíais sudado
+  uds: habían sudado
+futuro-perfecto:
+  yo: habré sudado
+  tu: habrás sudado
+  vos: habrás sudado
+  ud: habrá sudado
+  nosotros: habremos sudado
+  vosotros: habréis sudado
+  uds: habrán sudado
+condicional-perfecto:
+  yo: habría sudado
+  tu: habrías sudado
+  vos: habrías sudado
+  ud: habría sudado
+  nosotros: habríamos sudado
+  vosotros: habríais sudado
+  uds: habrían sudado
+presente-subjuntivo:
+  yo: sude
+  tu: sudes
+  vos: sudes
+  ud: sude
+  nosotros: sudemos
+  vosotros: sudéis
+  uds: suden
+preterito-perfecto-subjuntivo:
+  yo: haya sudado
+  tu: hayas sudado
+  vos: hayas sudado
+  ud: haya sudado
+  nosotros: hayamos sudado
+  vosotros: hayáis sudado
+  uds: hayan sudado
+imperfecto-subjuntivo:
+  yo:
+    - sudara
+    - sudase
+  tu:
+    - sudaras
+    - sudases
+  vos:
+    - sudaras
+    - sudases
+  ud:
+    - sudara
+    - sudase
+  nosotros:
+    - sudáramos
+    - sudásemos
+  vosotros:
+    - sudarais
+    - sudaseis
+  uds:
+    - sudaran
+    - sudasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sudado
+    - hubiese sudado
+  tu:
+    - hubieras sudado
+    - hubieses sudado
+  vos:
+    - hubieras sudado
+    - hubieses sudado
+  ud:
+    - hubiera sudado
+    - hubiese sudado
+  nosotros:
+    - hubiéramos sudado
+    - hubiésemos sudado
+  vosotros:
+    - hubierais sudado
+    - hubieseis sudado
+  uds:
+    - hubieran sudado
+    - hubiesen sudado
+imperativo:
+  tu: suda
+  vos: sudá
+  ud: sude
+  nosotros: sudemos
+  vosotros: sudad
+  uds: suden

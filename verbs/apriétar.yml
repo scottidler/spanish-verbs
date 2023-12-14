@@ -1,0 +1,142 @@
+infinitivo: apriétar
+gerundio: apretando
+participio-pasado: apretado
+presente-indicativo:
+  yo: aprieto
+  tu: aprietas
+  vos: aprietas
+  ud: aprieta
+  nosotros: apretamos
+  vosotros: apretáis
+  uds: aprietan
+preterito-perfecto-simple:
+  yo: apreté
+  tu: apretaste
+  vos: apretaste
+  ud: apretó
+  nosotros: apretamos
+  vosotros: apretasteis
+  uds: apretaron
+preterito-imperfecto:
+  yo: apretaba
+  tu: apretabas
+  vos: apretabas
+  ud: apretaba
+  nosotros: apretábamos
+  vosotros: apretabais
+  uds: apretaban
+futuro-simple:
+  yo: apretaré
+  tu: apretarás
+  vos: apretarás
+  ud: apretará
+  nosotros: apretaremos
+  vosotros: apretaréis
+  uds: apretarán
+condicional-simple:
+  yo: apretaría
+  tu: apretarías
+  vos: apretarías
+  ud: apretaría
+  nosotros: apretaríamos
+  vosotros: apretaríais
+  uds: apretarían
+presente-perfecto:
+  yo: he apretado
+  tu: has apretado
+  vos: has apretado
+  ud: ha apretado
+  nosotros: hemos apretado
+  vosotros: habéis apretado
+  uds: han apretado
+preterito-pluscuamperfecto:
+  yo: había apretado
+  tu: habías apretado
+  vos: habías apretado
+  ud: había apretado
+  nosotros: habíamos apretado
+  vosotros: habíais apretado
+  uds: habían apretado
+futuro-perfecto:
+  yo: habré apretado
+  tu: habrás apretado
+  vos: habrás apretado
+  ud: habrá apretado
+  nosotros: habremos apretado
+  vosotros: habréis apretado
+  uds: habrán apretado
+condicional-perfecto:
+  yo: habría apretado
+  tu: habrías apretado
+  vos: habrías apretado
+  ud: habría apretado
+  nosotros: habríamos apretado
+  vosotros: habríais apretado
+  uds: habrían apretado
+presente-subjuntivo:
+  yo: apriete
+  tu: aprietes
+  vos: aprietes
+  ud: apriete
+  nosotros: apretemos
+  vosotros: apretéis
+  uds: aprieten
+preterito-perfecto-subjuntivo:
+  yo: haya apretado
+  tu: hayas apretado
+  vos: hayas apretado
+  ud: haya apretado
+  nosotros: hayamos apretado
+  vosotros: hayáis apretado
+  uds: hayan apretado
+imperfecto-subjuntivo:
+  yo:
+    - apretara
+    - apretase
+  tu:
+    - apretaras
+    - apretases
+  vos:
+    - apretaras
+    - apretases
+  ud:
+    - apretara
+    - apretase
+  nosotros:
+    - apretáramos
+    - apretásemos
+  vosotros:
+    - apretarais
+    - apretaseis
+  uds:
+    - apretaran
+    - apretasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apretado
+    - hubiese apretado
+  tu:
+    - hubieras apretado
+    - hubieses apretado
+  vos:
+    - hubieras apretado
+    - hubieses apretado
+  ud:
+    - hubiera apretado
+    - hubiese apretado
+  nosotros:
+    - hubiéramos apretado
+    - hubiésemos apretado
+  vosotros:
+    - hubierais apretado
+    - hubieseis apretado
+  uds:
+    - hubieran apretado
+    - hubiesen apretado
+imperativo:
+  tu: aprieta
+  vos: apretá
+  ud: apriete
+  nosotros: apretemos
+  vosotros: apretad
+  uds: aprieten

@@ -1,0 +1,142 @@
+infinitivo: disparar
+gerundio: disparando
+participio-pasado: disparado
+presente-indicativo:
+  yo: disparo
+  tu: disparas
+  vos: disparas
+  ud: dispara
+  nosotros: disparámos
+  vosotros: disparáis
+  uds: disparan
+preterito-perfecto-simple:
+  yo: disparé
+  tu: disparaste
+  vos: disparaste
+  ud: disparó
+  nosotros: disparámos
+  vosotros: disparasteis
+  uds: dispararon
+preterito-imperfecto:
+  yo: disparaba
+  tu: disparabas
+  vos: disparabas
+  ud: disparaba
+  nosotros: disparábamos
+  vosotros: disparabais
+  uds: disparaban
+futuro-simple:
+  yo: dispararé
+  tu: dispararás
+  vos: dispararás
+  ud: disparará
+  nosotros: dispararemos
+  vosotros: dispararéis
+  uds: dispararán
+condicional-simple:
+  yo: dispararía
+  tu: dispararías
+  vos: dispararías
+  ud: dispararía
+  nosotros: dispararíamos
+  vosotros: dispararíais
+  uds: dispararían
+presente-perfecto:
+  yo: he disparado
+  tu: has disparado
+  vos: has disparado
+  ud: ha disparado
+  nosotros: hemos disparado
+  vosotros: habéis disparado
+  uds: han disparado
+preterito-pluscuamperfecto:
+  yo: había disparado
+  tu: habías disparado
+  vos: habías disparado
+  ud: había disparado
+  nosotros: habíamos disparado
+  vosotros: habíais disparado
+  uds: habían disparado
+futuro-perfecto:
+  yo: habré disparado
+  tu: habrás disparado
+  vos: habrás disparado
+  ud: habrá disparado
+  nosotros: habremos disparado
+  vosotros: habréis disparado
+  uds: habrán disparado
+condicional-perfecto:
+  yo: habría disparado
+  tu: habrías disparado
+  vos: habrías disparado
+  ud: habría disparado
+  nosotros: habríamos disparado
+  vosotros: habríais disparado
+  uds: habrían disparado
+presente-subjuntivo:
+  yo: dispare
+  tu: dispares
+  vos: dispares
+  ud: dispare
+  nosotros: disparémos
+  vosotros: disparéis
+  uds: disparen
+preterito-perfecto-subjuntivo:
+  yo: haya disparado
+  tu: hayas disparado
+  vos: hayas disparado
+  ud: haya disparado
+  nosotros: hayamos disparado
+  vosotros: hayáis disparado
+  uds: hayan disparado
+imperfecto-subjuntivo:
+  yo:
+    - disparara
+    - disparase
+  tu:
+    - dispararas
+    - disparases
+  vos:
+    - dispararas
+    - disparases
+  ud:
+    - disparara
+    - disparase
+  nosotros:
+    - disparáramos
+    - disparásemos
+  vosotros:
+    - dispararais
+    - disparaseis
+  uds:
+    - dispararan
+    - disparasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera disparado
+    - hubiese disparado
+  tu:
+    - hubieras disparado
+    - hubieses disparado
+  vos:
+    - hubieras disparado
+    - hubieses disparado
+  ud:
+    - hubiera disparado
+    - hubiese disparado
+  nosotros:
+    - hubiéramos disparado
+    - hubiésemos disparado
+  vosotros:
+    - hubierais disparado
+    - hubieseis disparado
+  uds:
+    - hubieran disparado
+    - hubiesen disparado
+imperativo:
+  tu: dispara
+  vos: dispará
+  ud: dispare
+  nosotros: disparemos
+  vosotros: disparad
+  uds: disparen

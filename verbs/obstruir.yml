@@ -1,0 +1,142 @@
+infinitivo: obstruir
+gerundio: obstruyendo
+participio-pasado: obstruido
+presente-indicativo:
+  yo: obstruyo
+  tu: obstruyes
+  vos: obstruís
+  ud: obstruye
+  nosotros: obstruimos
+  vosotros: obstruís
+  uds: obstruyen
+preterito-perfecto-simple:
+  yo: obstruí
+  tu: obstruiste
+  vos: obstruiste
+  ud: obstruyó
+  nosotros: obstruimos
+  vosotros: obstruisteis
+  uds: obstruyeron
+preterito-imperfecto:
+  yo: obstruía
+  tu: obstruías
+  vos: obstruías
+  ud: obstruía
+  nosotros: obstruíamos
+  vosotros: obstruíais
+  uds: obstruían
+futuro-simple:
+  yo: obstruiré
+  tu: obstruirás
+  vos: obstruirás
+  ud: obstruirá
+  nosotros: obstruiremos
+  vosotros: obstruiréis
+  uds: obstruirán
+condicional-simple:
+  yo: obstruiría
+  tu: obstruirías
+  vos: obstruirías
+  ud: obstruiría
+  nosotros: obstruiríamos
+  vosotros: obstruiríais
+  uds: obstruirían
+presente-perfecto:
+  yo: he obstruido
+  tu: has obstruido
+  vos: has obstruido
+  ud: ha obstruido
+  nosotros: hemos obstruido
+  vosotros: habéis obstruido
+  uds: han obstruido
+preterito-pluscuamperfecto:
+  yo: había obstruido
+  tu: habías obstruido
+  vos: habías obstruido
+  ud: había obstruido
+  nosotros: habíamos obstruido
+  vosotros: habíais obstruido
+  uds: habían obstruido
+futuro-perfecto:
+  yo: habré obstruido
+  tu: habrás obstruido
+  vos: habrás obstruido
+  ud: habrá obstruido
+  nosotros: habremos obstruido
+  vosotros: habréis obstruido
+  uds: habrán obstruido
+condicional-perfecto:
+  yo: habría obstruido
+  tu: habrías obstruido
+  vos: habrías obstruido
+  ud: habría obstruido
+  nosotros: habríamos obstruido
+  vosotros: habríais obstruido
+  uds: habrían obstruido
+presente-subjuntivo:
+  yo: obstruya
+  tu: obstruyas
+  vos: obstruyas
+  ud: obstruya
+  nosotros: obstruyamos
+  vosotros: obstruyáis
+  uds: obstruyan
+preterito-perfecto-subjuntivo:
+  yo: haya obstruido
+  tu: hayas obstruido
+  vos: hayas obstruido
+  ud: haya obstruido
+  nosotros: hayamos obstruido
+  vosotros: hayáis obstruido
+  uds: hayan obstruido
+imperfecto-subjuntivo:
+  yo:
+    - obstruyera
+    - obstruyese
+  tu:
+    - obstruyeras
+    - obstruyeses
+  vos:
+    - obstruyeras
+    - obstruyeses
+  ud:
+    - obstruyera
+    - obstruyese
+  nosotros:
+    - obstruyéramos
+    - obstruyésemos
+  vosotros:
+    - obstruyerais
+    - obstruyeseis
+  uds:
+    - obstruyeran
+    - obstruyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera obstruido
+    - hubiese obstruido
+  tu:
+    - hubieras obstruido
+    - hubieses obstruido
+  vos:
+    - hubieras obstruido
+    - hubieses obstruido
+  ud:
+    - hubiera obstruido
+    - hubiese obstruido
+  nosotros:
+    - hubiéramos obstruido
+    - hubiésemos obstruido
+  vosotros:
+    - hubierais obstruido
+    - hubieseis obstruido
+  uds:
+    - hubieran obstruido
+    - hubiesen obstruido
+imperativo:
+  tu: obstriye
+  vos: obstruí
+  ud: obstruya
+  nosotros: obstruyamos
+  vosotros: obstruid
+  uds: obstruyan

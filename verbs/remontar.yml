@@ -1,0 +1,142 @@
+infinitivo: remontar
+gerundio: remontando
+participio-pasado: remontado
+presente-indicativo:
+  yo: remonto
+  tu: remontas
+  vos: remontás
+  ud: remonta
+  nosotros: remontamos
+  vosotros: remontáis
+  uds: remontan
+preterito-perfecto-simple:
+  yo: remonté
+  tu: remontaste
+  vos: remontaste
+  ud: remontó
+  nosotros: remontamos
+  vosotros: remontasteis
+  uds: remontaron
+preterito-imperfecto:
+  yo: remontaba
+  tu: remontabas
+  vos: remontabas
+  ud: remontaba
+  nosotros: remontábamos
+  vosotros: remontabais
+  uds: remontaban
+futuro-simple:
+  yo: remontaré
+  tu: remontarás
+  vos: remontarás
+  ud: remontará
+  nosotros: remontaremos
+  vosotros: remontaréis
+  uds: remontarán
+condicional-simple:
+  yo: remontaría
+  tu: remontarías
+  vos: remontarías
+  ud: remontaría
+  nosotros: remontaríamos
+  vosotros: remontaríais
+  uds: remontarían
+presente-perfecto:
+  yo: he remontado
+  tu: has remontado
+  vos: has remontado
+  ud: ha remontado
+  nosotros: hemos remontado
+  vosotros: habéis remontado
+  uds: han remontado
+preterito-pluscuamperfecto:
+  yo: había remontado
+  tu: habías remontado
+  vos: habías remontado
+  ud: había remontado
+  nosotros: habíamos remontado
+  vosotros: habíais remontado
+  uds: habían remontado
+futuro-perfecto:
+  yo: habré remontado
+  tu: habrás remontado
+  vos: habrás remontado
+  ud: habrá remontado
+  nosotros: habremos remontado
+  vosotros: habréis remontado
+  uds: habrán remontado
+condicional-perfecto:
+  yo: habría remontado
+  tu: habrías remontado
+  vos: habrías remontado
+  ud: habría remontado
+  nosotros: habríamos remontado
+  vosotros: habríais remontado
+  uds: habrían remontado
+presente-subjuntivo:
+  yo: remonte
+  tu: remontes
+  vos: remontes
+  ud: remonte
+  nosotros: remontemos
+  vosotros: remontéis
+  uds: remonten
+preterito-perfecto-subjuntivo:
+  yo: haya remontado
+  tu: hayas remontado
+  vos: hayas remontado
+  ud: haya remontado
+  nosotros: hayamos remontado
+  vosotros: hayáis remontado
+  uds: hayan remontado
+imperfecto-subjuntivo:
+  yo:
+    - remontara
+    - remontase
+  tu:
+    - remontaras
+    - remontases
+  vos:
+    - remontaras
+    - remontases
+  ud:
+    - remontara
+    - remontase
+  nosotros:
+    - remontáramos
+    - remontásemos
+  vosotros:
+    - remontarais
+    - remontaseis
+  uds:
+    - remontaran
+    - remontasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera remontado
+    - hubiese remontado
+  tu:
+    - hubieras remontado
+    - hubieses remontado
+  vos:
+    - hubieras remontado
+    - hubieses remontado
+  ud:
+    - hubiera remontado
+    - hubiese remontado
+  nosotros:
+    - hubiéramos remontado
+    - hubiésemos remontado
+  vosotros:
+    - hubierais remontado
+    - hubieseis remontado
+  uds:
+    - hubieran remontado
+    - hubiesen remontado
+imperativo:
+  tu: remonta
+  vos: remontá
+  ud: remonte
+  nosotros: remontemos
+  vosotros: remontad
+  uds: remonten

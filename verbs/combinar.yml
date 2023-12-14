@@ -1,0 +1,142 @@
+infinitivo: combinar
+gerundio: combinando
+participio-pasado: combinado
+presente-indicativo:
+  yo: combino
+  tu: combinas
+  vos: combinas
+  ud: combina
+  nosotros: combinamos
+  vosotros: combináis
+  uds: combinan
+preterito-perfecto-simple:
+  yo: combiné
+  tu: combinaste
+  vos: combinaste
+  ud: combinó
+  nosotros: combinamos
+  vosotros: combinasteis
+  uds: combinaron
+preterito-imperfecto:
+  yo: combinaba
+  tu: combinabas
+  vos: combinabas
+  ud: combinaba
+  nosotros: combinábamos
+  vosotros: combinabais
+  uds: combinaban
+futuro-simple:
+  yo: combinaré
+  tu: combinarás
+  vos: combinarás
+  ud: combinará
+  nosotros: combinaremos
+  vosotros: combinaréis
+  uds: combinarán
+condicional-simple:
+  yo: combinaría
+  tu: combinarías
+  vos: combinarías
+  ud: combinaría
+  nosotros: combinaríamos
+  vosotros: combinaríais
+  uds: combinarían
+presente-perfecto:
+  yo: he combinado
+  tu: has combinado
+  vos: has combinado
+  ud: ha combinado
+  nosotros: hemos combinado
+  vosotros: habéis combinado
+  uds: han combinado
+preterito-pluscuamperfecto:
+  yo: había combinado
+  tu: habías combinado
+  vos: habías combinado
+  ud: había combinado
+  nosotros: habíamos combinado
+  vosotros: habíais combinado
+  uds: habían combinado
+futuro-perfecto:
+  yo: habré combinado
+  tu: habrás combinado
+  vos: habrás combinado
+  ud: habrá combinado
+  nosotros: habremos combinado
+  vosotros: habréis combinado
+  uds: habrán combinado
+condicional-perfecto:
+  yo: habría combinado
+  tu: habrías combinado
+  vos: habrías combinado
+  ud: habría combinado
+  nosotros: habríamos combinado
+  vosotros: habríais combinado
+  uds: habrían combinado
+presente-subjuntivo:
+  yo: combine
+  tu: combines
+  vos: combines
+  ud: combine
+  nosotros: combinemos
+  vosotros: combinéis
+  uds: combinen
+preterito-perfecto-subjuntivo:
+  yo: haya combinado
+  tu: hayas combinado
+  vos: hayas combinado
+  ud: haya combinado
+  nosotros: hayamos combinado
+  vosotros: hayáis combinado
+  uds: hayan combinado
+imperfecto-subjuntivo:
+  yo:
+    - combinara
+    - combinase
+  tu:
+    - combinaras
+    - combinases
+  vos:
+    - combinaras
+    - combinases
+  ud:
+    - combinara
+    - combinase
+  nosotros:
+    - combináramos
+    - combinásemos
+  vosotros:
+    - combinarais
+    - combinaseis
+  uds:
+    - combinaran
+    - combinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera combinado
+    - hubiese combinado
+  tu:
+    - hubieras combinado
+    - hubieses combinado
+  vos:
+    - hubieras combinado
+    - hubieses combinado
+  ud:
+    - hubiera combinado
+    - hubiese combinado
+  nosotros:
+    - hubiéramos combinado
+    - hubiésemos combinado
+  vosotros:
+    - hubierais combinado
+    - hubieseis combinado
+  uds:
+    - hubieran combinado
+    - hubiesen combinado
+imperativo:
+  tu: combina
+  vos: combiná
+  ud: combine
+  nosotros: combinemos
+  vosotros: combinad
+  uds: combinen

@@ -1,0 +1,142 @@
+infinitivo: citar
+gerundio: citando
+participio-pasado: citado
+presente-indicativo:
+  yo: cito
+  tu: citas
+  vos: citas
+  ud: cita
+  nosotros: citamos
+  vosotros: citáis
+  uds: citan
+preterito-perfecto-simple:
+  yo: cité
+  tu: citaste
+  vos: citaste
+  ud: citó
+  nosotros: citamos
+  vosotros: citasteis
+  uds: citaron
+preterito-imperfecto:
+  yo: citaba
+  tu: citabas
+  vos: citabas
+  ud: citaba
+  nosotros: citábamos
+  vosotros: citabais
+  uds: citaban
+futuro-simple:
+  yo: citaré
+  tu: citarás
+  vos: citarás
+  ud: citará
+  nosotros: citaremos
+  vosotros: citaréis
+  uds: citarán
+condicional-simple:
+  yo: citaría
+  tu: citarías
+  vos: citarías
+  ud: citaría
+  nosotros: citaríamos
+  vosotros: citaríais
+  uds: citarían
+presente-perfecto:
+  yo: he citado
+  tu: has citado
+  vos: has citado
+  ud: ha citado
+  nosotros: hemos citado
+  vosotros: habéis citado
+  uds: han citado
+preterito-pluscuamperfecto:
+  yo: había citado
+  tu: habías citado
+  vos: habías citado
+  ud: había citado
+  nosotros: habíamos citado
+  vosotros: habíais citado
+  uds: habían citado
+futuro-perfecto:
+  yo: habré citado
+  tu: habrás citado
+  vos: habrás citado
+  ud: habrá citado
+  nosotros: habremos citado
+  vosotros: habréis citado
+  uds: habrán citado
+condicional-perfecto:
+  yo: habría citado
+  tu: habrías citado
+  vos: habrías citado
+  ud: habría citado
+  nosotros: habríamos citado
+  vosotros: habríais citado
+  uds: habrían citado
+presente-subjuntivo:
+  yo: cite
+  tu: cites
+  vos: cites
+  ud: cite
+  nosotros: citemos
+  vosotros: citéis
+  uds: citen
+preterito-perfecto-subjuntivo:
+  yo: haya citado
+  tu: hayas citado
+  vos: hayas citado
+  ud: haya citado
+  nosotros: hayamos citado
+  vosotros: hayáis citado
+  uds: hayan citado
+imperfecto-subjuntivo:
+  yo:
+    - citara
+    - citase
+  tu:
+    - citaras
+    - citases
+  vos:
+    - citaras
+    - citases
+  ud:
+    - citara
+    - citase
+  nosotros:
+    - citáramos
+    - citásemos
+  vosotros:
+    - citarais
+    - citaseis
+  uds:
+    - citaran
+    - citasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera citado
+    - hubiese citado
+  tu:
+    - hubieras citado
+    - hubieses citado
+  vos:
+    - hubieras citado
+    - hubieses citado
+  ud:
+    - hubiera citado
+    - hubiese citado
+  nosotros:
+    - hubiéramos citado
+    - hubiésemos citado
+  vosotros:
+    - hubierais citado
+    - hubieseis citado
+  uds:
+    - hubieran citado
+    - hubiesen citado
+imperativo:
+  tu: cita
+  vos: citá
+  ud: cite
+  nosotros: citemos
+  vosotros: citad
+  uds: citen

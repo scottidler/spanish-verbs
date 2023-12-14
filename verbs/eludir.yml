@@ -1,0 +1,142 @@
+infinitivo: eludir
+gerundio: eludiendo
+participio-pasado: eludido
+presente-indicativo:
+  yo: eludo
+  tu: eludes
+  vos: eludís
+  ud: elude
+  nosotros: eludimos
+  vosotros: eludís
+  uds: eluden
+preterito-perfecto-simple:
+  yo: eludí
+  tu: eludiste
+  vos: eludiste
+  ud: eludió
+  nosotros: eludimos
+  vosotros: eludisteis
+  uds: eludieron
+preterito-imperfecto:
+  yo: eludía
+  tu: eludías
+  vos: eludías
+  ud: eludía
+  nosotros: eludíamos
+  vosotros: eludíais
+  uds: eludían
+futuro-simple:
+  yo: eludiré
+  tu: eludirás
+  vos: eludirás
+  ud: eludirá
+  nosotros: eludiremos
+  vosotros: eludiréis
+  uds: eludirán
+condicional-simple:
+  yo: eludiría
+  tu: eludirías
+  vos: eludirías
+  ud: eludiría
+  nosotros: eludiríamos
+  vosotros: eludiríais
+  uds: eludirían
+presente-perfecto:
+  yo: he eludido
+  tu: has eludido
+  vos: has eludido
+  ud: ha eludido
+  nosotros: hemos eludido
+  vosotros: habéis eludido
+  uds: han eludido
+preterito-pluscuamperfecto:
+  yo: había eludido
+  tu: habías eludido
+  vos: habías eludido
+  ud: había eludido
+  nosotros: habíamos eludido
+  vosotros: habíais eludido
+  uds: habían eludido
+futuro-perfecto:
+  yo: habré eludido
+  tu: habrás eludido
+  vos: habrás eludido
+  ud: habrá eludido
+  nosotros: habremos eludido
+  vosotros: habréis eludido
+  uds: habrán eludido
+condicional-perfecto:
+  yo: habría eludido
+  tu: habrías eludido
+  vos: habrías eludido
+  ud: habría eludido
+  nosotros: habríamos eludido
+  vosotros: habríais eludido
+  uds: habrían eludido
+presente-subjuntivo:
+  yo: eluda
+  tu: eludas
+  vos: eludáis
+  ud: eluda
+  nosotros: eludamos
+  vosotros: eludáis
+  uds: eludan
+preterito-perfecto-subjuntivo:
+  yo: haya eludido
+  tu: hayas eludido
+  vos: hayas eludido
+  ud: haya eludido
+  nosotros: hayamos eludido
+  vosotros: hayáis eludido
+  uds: hayan eludido
+imperfecto-subjuntivo:
+  yo:
+    - eludiera
+    - eludiese
+  tu:
+    - eludieras
+    - eludieses
+  vos:
+    - eludieras
+    - eludieses
+  ud:
+    - eludiera
+    - eludiese
+  nosotros:
+    - eludiéramos
+    - eludiésemos
+  vosotros:
+    - eludierais
+    - eludieseis
+  uds:
+    - eludieran
+    - eludiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera eludido
+    - hubiese eludido
+  tu:
+    - hubieras eludido
+    - hubieses eludido
+  vos:
+    - hubieras eludido
+    - hubieses eludido
+  ud:
+    - hubiera eludido
+    - hubiese eludido
+  nosotros:
+    - hubiéramos eludido
+    - hubiésemos eludido
+  vosotros:
+    - hubierais eludido
+    - hubieseis eludido
+  uds:
+    - hubieran eludido
+    - hubiesen eludido
+imperativo:
+  tu: elude
+  vos: eludí
+  ud: eluda
+  nosotros: eludamos
+  vosotros: eludid
+  uds: eludan

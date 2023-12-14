@@ -1,0 +1,142 @@
+infinitivo: enfatizar
+gerundio: enfatizando
+participio-pasado: enfatizado
+presente-indicativo:
+  yo: enfatizo
+  tu: enfatizas
+  vos: enfatizas
+  ud: enfatiza
+  nosotros: enfatizamos
+  vosotros: enfatizáis
+  uds: enfatizan
+preterito-perfecto-simple:
+  yo: enfaticé
+  tu: enfatizaste
+  vos: enfatizaste
+  ud: enfatizó
+  nosotros: enfatizamos
+  vosotros: enfatizasteis
+  uds: enfatizaron
+preterito-imperfecto:
+  yo: enfatizaba
+  tu: enfatizabas
+  vos: enfatizabas
+  ud: enfatizaba
+  nosotros: enfatizábamos
+  vosotros: enfatizabais
+  uds: enfatizaban
+futuro-simple:
+  yo: enfatizaré
+  tu: enfatizarás
+  vos: enfatizarás
+  ud: enfatizará
+  nosotros: enfatizaremos
+  vosotros: enfatizaréis
+  uds: enfatizarán
+condicional-simple:
+  yo: enfatizaría
+  tu: enfatizarías
+  vos: enfatizarías
+  ud: enfatizaría
+  nosotros: enfatizaríamos
+  vosotros: enfatizaríais
+  uds: enfatizarían
+presente-perfecto:
+  yo: he enfatizado
+  tu: has enfatizado
+  vos: has enfatizado
+  ud: ha enfatizado
+  nosotros: hemos enfatizado
+  vosotros: habéis enfatizado
+  uds: han enfatizado
+preterito-pluscuamperfecto:
+  yo: había enfatizado
+  tu: habías enfatizado
+  vos: habías enfatizado
+  ud: había enfatizado
+  nosotros: habíamos enfatizado
+  vosotros: habíais enfatizado
+  uds: habían enfatizado
+futuro-perfecto:
+  yo: habré enfatizado
+  tu: habrás enfatizado
+  vos: habrás enfatizado
+  ud: habrá enfatizado
+  nosotros: habremos enfatizado
+  vosotros: habréis enfatizado
+  uds: habrán enfatizado
+condicional-perfecto:
+  yo: habría enfatizado
+  tu: habrías enfatizado
+  vos: habrías enfatizado
+  ud: habría enfatizado
+  nosotros: habríamos enfatizado
+  vosotros: habríais enfatizado
+  uds: habrían enfatizado
+presente-subjuntivo:
+  yo: enfatice
+  tu: enfatices
+  vos: enfatices
+  ud: enfatice
+  nosotros: enfaticemos
+  vosotros: enfaticéis
+  uds: enfaticen
+preterito-perfecto-subjuntivo:
+  yo: haya enfatizado
+  tu: hayas enfatizado
+  vos: hayas enfatizado
+  ud: haya enfatizado
+  nosotros: hayamos enfatizado
+  vosotros: hayáis enfatizado
+  uds: hayan enfatizado
+imperfecto-subjuntivo:
+  yo:
+    - enfatizara
+    - enfatizase
+  tu:
+    - enfatizaras
+    - enfatizases
+  vos:
+    - enfatizaras
+    - enfatizases
+  ud:
+    - enfatizara
+    - enfatizase
+  nosotros:
+    - enfatizáramos
+    - enfatizásemos
+  vosotros:
+    - enfatizarais
+    - enfatizaseis
+  uds:
+    - enfatizaran
+    - enfatizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enfatizado
+    - hubiese enfatizado
+  tu:
+    - hubieras enfatizado
+    - hubieses enfatizado
+  vos:
+    - hubieras enfatizado
+    - hubieses enfatizado
+  ud:
+    - hubiera enfatizado
+    - hubiese enfatizado
+  nosotros:
+    - hubiéramos enfatizado
+    - hubiésemos enfatizado
+  vosotros:
+    - hubierais enfatizado
+    - hubieseis enfatizado
+  uds:
+    - hubieran enfatizado
+    - hubiesen enfatizado
+imperativo:
+  tu: enfatiza
+  vos: enfatizá
+  ud: enfatice
+  nosotros: enfaticemos
+  vosotros: enfatizad
+  uds: enfaticen

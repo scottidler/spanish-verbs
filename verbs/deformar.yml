@@ -1,0 +1,142 @@
+infinitivo: deformar
+gerundio: deformando
+participio-pasado: deformado
+presente-indicativo:
+  yo: deformo
+  tu: deformas
+  vos: deformas
+  ud: deforma
+  nosotros: deformamos
+  vosotros: deformáis
+  uds: deforman
+preterito-perfecto-simple:
+  yo: deformé
+  tu: deformaste
+  vos: deformaste
+  ud: deformó
+  nosotros: deformamos
+  vosotros: deformasteis
+  uds: deformaron
+preterito-imperfecto:
+  yo: deformaba
+  tu: deformabas
+  vos: deformabas
+  ud: deformaba
+  nosotros: deformábamos
+  vosotros: deformabais
+  uds: deformaban
+futuro-simple:
+  yo: deformaré
+  tu: deformarás
+  vos: deformarás
+  ud: deformará
+  nosotros: deformaremos
+  vosotros: deformaréis
+  uds: deformarán
+condicional-simple:
+  yo: deformaría
+  tu: deformarías
+  vos: deformarías
+  ud: deformaría
+  nosotros: deformaríamos
+  vosotros: deformaríais
+  uds: deformarían
+presente-perfecto:
+  yo: he deformado
+  tu: has deformado
+  vos: has deformado
+  ud: ha deformado
+  nosotros: hemos deformado
+  vosotros: habéis deformado
+  uds: han deformado
+preterito-pluscuamperfecto:
+  yo: había deformado
+  tu: habías deformado
+  vos: habías deformado
+  ud: había deformado
+  nosotros: habíamos deformado
+  vosotros: habíais deformado
+  uds: habían deformado
+futuro-perfecto:
+  yo: habré deformado
+  tu: habrás deformado
+  vos: habrás deformado
+  ud: habrá deformado
+  nosotros: habremos deformado
+  vosotros: habréis deformado
+  uds: habrán deformado
+condicional-perfecto:
+  yo: habría deformado
+  tu: habrías deformado
+  vos: habrías deformado
+  ud: habría deformado
+  nosotros: habríamos deformado
+  vosotros: habríais deformado
+  uds: habrían deformado
+presente-subjuntivo:
+  yo: deforme
+  tu: deformes
+  vos: deformes
+  ud: deforme
+  nosotros: deformemos
+  vosotros: deforméis
+  uds: deformen
+preterito-perfecto-subjuntivo:
+  yo: haya deformado
+  tu: hayas deformado
+  vos: hayas deformado
+  ud: haya deformado
+  nosotros: hayamos deformado
+  vosotros: hayáis deformado
+  uds: hayan deformado
+imperfecto-subjuntivo:
+  yo:
+    - deformara
+    - deformase
+  tu:
+    - deformaras
+    - deformases
+  vos:
+    - deformaras
+    - deformases
+  ud:
+    - deformara
+    - deformase
+  nosotros:
+    - deformáramos
+    - deformásemos
+  vosotros:
+    - deformarais
+    - deformaseis
+  uds:
+    - deformaran
+    - deformasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera deformado
+    - hubiese deformado
+  tu:
+    - hubieras deformado
+    - hubieses deformado
+  vos:
+    - hubieras deformado
+    - hubieses deformado
+  ud:
+    - hubiera deformado
+    - hubiese deformado
+  nosotros:
+    - hubiéramos deformado
+    - hubiésemos deformado
+  vosotros:
+    - hubierais deformado
+    - hubieseis deformado
+  uds:
+    - hubieran deformado
+    - hubiesen deformado
+imperativo:
+  tu: deforma
+  vos: deformá
+  ud: deforme
+  nosotros: deformemos
+  vosotros: deformad
+  uds: deformen

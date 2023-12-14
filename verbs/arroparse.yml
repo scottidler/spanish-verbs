@@ -1,0 +1,156 @@
+infinitivo: arroparse
+gerundio: arropándose
+participio-pasado: arropado
+
+presente-indicativo:
+  yo: me arropo
+  tu: te arropas
+  vos: te arropás
+  ud: se arropa
+  nosotros: nos arropamos
+  vosotros: os arropáis
+  uds: se arropan
+
+preterito-perfecto-simple:
+  yo: me arropé
+  tu: te arropaste
+  vos: te arropaste
+  ud: se arropó
+  nosotros: nos arropamos
+  vosotros: os arropasteis
+  uds: se arroparon
+
+preterito-imperfecto:
+  yo: me arropaba
+  tu: te arropabas
+  vos: te arropabas
+  ud: se arropaba
+  nosotros: nos arropábamos
+  vosotros: os arropabais
+  uds: se arropaban
+
+futuro-simple:
+  yo: me arroparé
+  tu: te arroparás
+  vos: te arroparás
+  ud: se arropará
+  nosotros: nos arroparemos
+  vosotros: os arroparéis
+  uds: se arroparán
+
+condicional-simple:
+  yo: me arroparía
+  tu: te arroparías
+  vos: te arroparías
+  ud: se arroparía
+  nosotros: nos arroparíamos
+  vosotros: os arroparíais
+  uds: se arroparían
+
+presente-perfecto:
+  yo: me he arropado
+  tu: te has arropado
+  vos: te has arropado
+  ud: se ha arropado
+  nosotros: nos hemos arropado
+  vosotros: os habéis arropado
+  uds: se han arropado
+
+preterito-pluscuamperfecto:
+  yo: me había arropado
+  tu: te habías arropado
+  vos: te habías arropado
+  ud: se había arropado
+  nosotros: nos habíamos arropado
+  vosotros: os habíais arropado
+  uds: se habían arropado
+
+futuro-perfecto:
+  yo: me habré arropado
+  tu: te habrás arropado
+  vos: te habrás arropado
+  ud: se habrá arropado
+  nosotros: nos habremos arropado
+  vosotros: os habréis arropado
+  uds: se habrán arropado
+
+condicional-perfecto:
+  yo: me habría arropado
+  tu: te habrías arropado
+  vos: te habrías arropado
+  ud: se habría arropado
+  nosotros: nos habríamos arropado
+  vosotros: os habríais arropado
+  uds: se habrían arropado
+
+presente-subjuntivo:
+  yo: me arrope
+  tu: te arropes
+  vos: te arropes
+  ud: se arrope
+  nosotros: nos arropemos
+  vosotros: os arropéis
+  uds: se arropen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya arropado
+  tu: te hayas arropado
+  vos: te hayas arropado
+  ud: se haya arropado
+  nosotros: nos hayamos arropado
+  vosotros: os hayáis arropado
+  uds: se hayan arropado
+
+imperfecto-subjuntivo:
+  yo:
+    - me arropara
+    - me arropase
+  tu:
+    - te arroparas
+    - te arropases
+  vos:
+    - te arroparas
+    - te arropases
+  ud:
+    - se arropara
+    - se arropase
+  nosotros:
+    - nos arropáramos
+    - nos arropásemos
+  vosotros:
+    - os arroparais
+    - os arropaseis
+  uds:
+    - se arroparan
+    - se arropasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera arropado
+    - me hubiese arropado
+  tu:
+    - te hubieras arropado
+    - te hubieses arropado
+  vos:
+    - te hubieras arropado
+    - te hubieses arropado
+  ud:
+    - se hubiera arropado
+    - se hubiese arropado
+  nosotros:
+    - nos hubiéramos arropado
+    - nos hubiésemos arropado
+  vosotros:
+    - os hubierais arropado
+    - os hubieseis arropado
+  uds:
+    - se hubieran arropado
+    - se hubiesen arropado
+
+imperativo:
+  tu: árropate
+  vos: árropate
+  ud: árropese
+  nosotros: arropémonos
+  vosotros: arropaos
+  uds: árropense

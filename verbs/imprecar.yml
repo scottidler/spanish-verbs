@@ -1,0 +1,142 @@
+infinitivo: imprecar
+gerundio: imprecando
+participio-pasado: imprecado
+presente-indicativo:
+  yo: impreco
+  tu: imprecas
+  vos: imprecas
+  ud: impreca
+  nosotros: imprecamos
+  vosotros: imprecáis
+  uds: imprecantan
+preterito-perfecto-simple:
+  yo: imprecé
+  tu: imprecaste
+  vos: imprecaste
+  ud: imprecó
+  nosotros: imprecamos
+  vosotros: imprecasteis
+  uds: imprecarn
+preterito-imperfecto:
+  yo: imprecaba
+  tu: imprecabas
+  vos: imprecabas
+  ud: imprecaba
+  nosotros: imprecábamos
+  vosotros: imprecabais
+  uds: imprecaban
+futuro-simple:
+  yo: imprecaré
+  tu: imprecarás
+  vos: imprecarás
+  ud: imprecará
+  nosotros: imprecaremos
+  vosotros: imprecaréis
+  uds: imprecarán
+condicional-simple:
+  yo: imprecaría
+  tu: imprecarías
+  vos: imprecarías
+  ud: imprecaría
+  nosotros: imprecaríamos
+  vosotros: imprecaríais
+  uds: imprecarían
+presente-perfecto:
+  yo: he imprecado
+  tu: has imprecado
+  vos: has imprecado
+  ud: ha imprecado
+  nosotros: hemos imprecado
+  vosotros: habéis imprecado
+  uds: han imprecado
+preterito-pluscuamperfecto:
+  yo: había imprecado
+  tu: habías imprecado
+  vos: habías imprecado
+  ud: había imprecado
+  nosotros: habíamos imprecado
+  vosotros: habíais imprecado
+  uds: habían imprecado
+futuro-perfecto:
+  yo: habré imprecado
+  tu: habrás imprecado
+  vos: habrás imprecado
+  ud: habrá imprecado
+  nosotros: habremos imprecado
+  vosotros: habréis imprecado
+  uds: habrán imprecado
+condicional-perfecto:
+  yo: habría imprecado
+  tu: habrías imprecado
+  vos: habrías imprecado
+  ud: habría imprecado
+  nosotros: habríamos imprecado
+  vosotros: habríais imprecado
+  uds: habrían imprecado
+presente-subjuntivo:
+  yo: impreque
+  tu: impreques
+  vos: impreques
+  ud: impreque
+  nosotros: imprequemos
+  vosotros: imprequéis
+  uds: imprequen
+preterito-perfecto-subjuntivo:
+  yo: haya imprecado
+  tu: hayas imprecado
+  vos: hayas imprecado
+  ud: haya imprecado
+  nosotros: hayamos imprecado
+  vosotros: hayáis imprecado
+  uds: hayan imprecado
+imperfecto-subjuntivo:
+  yo:
+    - imprecara
+    - imprecase
+  tu:
+    - imprecaras
+    - imprecases
+  vos:
+    - imprecaras
+    - imprecases
+  ud:
+    - imprecara
+    - imprecase
+  nosotros:
+    - imprecáramos
+    - imprecásemos
+  vosotros:
+    - imprecarais
+    - imprecaseis
+  uds:
+    - imprecaran
+    - imprecasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera imprecado
+    - hubiese imprecado
+  tu:
+    - hubieras imprecado
+    - hubieses imprecado
+  vos:
+    - hubieras imprecado
+    - hubieses imprecado
+  ud:
+    - hubiera imprecado
+    - hubiese imprecado
+  nosotros:
+    - hubiéramos imprecado
+    - hubiésemos imprecado
+  vosotros:
+    - hubierais imprecado
+    - hubieseis imprecado
+  uds:
+    - hubieran imprecado
+    - hubiesen imprecado
+imperativo:
+  tu: impreca
+  vos: imprecá
+  ud: impreque
+  nosotros: imprequemos
+  vosotros: imprecad
+  uds: imprequen

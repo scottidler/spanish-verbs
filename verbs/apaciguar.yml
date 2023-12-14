@@ -1,0 +1,142 @@
+infinitivo: apaciguar
+gerundio: apaciguando
+participio-pasado: apaciguado
+presente-indicativo:
+  yo: apaciguo
+  tu: apaciguas
+  vos: apaciguas
+  ud: apacigua
+  nosotros: apaciguamos
+  vosotros: apaciguáis
+  uds: apaciguan
+preterito-perfecto-simple:
+  yo: apacigüé
+  tu: apaciguaste
+  vos: apaciguaste
+  ud: apaciguó
+  nosotros: apaciguamos
+  vosotros: apaciguasteis
+  uds: apaciguaron
+preterito-imperfecto:
+  yo: apaciguaba
+  tu: apaciguabas
+  vos: apaciguabas
+  ud: apaciguaba
+  nosotros: apaciguábamos
+  vosotros: apaciguabais
+  uds: apaciguaban
+futuro-simple:
+  yo: apaciguaré
+  tu: apaciguarás
+  vos: apaciguarás
+  ud: apaciguará
+  nosotros: apaciguaremos
+  vosotros: apaciguaréis
+  uds: apaciguarán
+condicional-simple:
+  yo: apaciguaría
+  tu: apaciguarías
+  vos: apaciguarías
+  ud: apaciguaría
+  nosotros: apaciguaríamos
+  vosotros: apaciguaríais
+  uds: apaciguarían
+presente-perfecto:
+  yo: he apaciguado
+  tu: has apaciguado
+  vos: has apaciguado
+  ud: ha apaciguado
+  nosotros: hemos apaciguado
+  vosotros: habéis apaciguado
+  uds: han apaciguado
+preterito-pluscuamperfecto:
+  yo: había apaciguado
+  tu: habías apaciguado
+  vos: habías apaciguado
+  ud: había apaciguado
+  nosotros: habíamos apaciguado
+  vosotros: habíais apaciguado
+  uds: habían apaciguado
+futuro-perfecto:
+  yo: habré apaciguado
+  tu: habrás apaciguado
+  vos: habrás apaciguado
+  ud: habrá apaciguado
+  nosotros: habremos apaciguado
+  vosotros: habréis apaciguado
+  uds: habrán apaciguado
+condicional-perfecto:
+  yo: habría apaciguado
+  tu: habrías apaciguado
+  vos: habrías apaciguado
+  ud: habría apaciguado
+  nosotros: habríamos apaciguado
+  vosotros: habríais apaciguado
+  uds: habrían apaciguado
+presente-subjuntivo:
+  yo: apacigüe
+  tu: apacigües
+  vos: apacigües
+  ud: apacigüe
+  nosotros: apacigüemos
+  vosotros: apaciguéis
+  uds: apacigüen
+preterito-perfecto-subjuntivo:
+  yo: haya apaciguado
+  tu: hayas apaciguado
+  vos: hayas apaciguado
+  ud: haya apaciguado
+  nosotros: hayamos apaciguado
+  vosotros: hayáis apaciguado
+  uds: hayan apaciguado
+imperfecto-subjuntivo:
+  yo:
+    - apaciguara
+    - apaciguase
+  tu:
+    - apaciguaras
+    - apaciguases
+  vos:
+    - apaciguaras
+    - apaciguases
+  ud:
+    - apaciguara
+    - apaciguase
+  nosotros:
+    - apaciguáramos
+    - apaciguásemos
+  vosotros:
+    - apaciguarais
+    - apaciguaseis
+  uds:
+    - apaciguaran
+    - apaciguasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apaciguado
+    - hubiese apaciguado
+  tu:
+    - hubieras apaciguado
+    - hubieses apaciguado
+  vos:
+    - hubieras apaciguado
+    - hubieses apaciguado
+  ud:
+    - hubiera apaciguado
+    - hubiese apaciguado
+  nosotros:
+    - hubiéramos apaciguado
+    - hubiésemos apaciguado
+  vosotros:
+    - hubierais apaciguado
+    - hubieseis apaciguado
+  uds:
+    - hubieran apaciguado
+    - hubiesen apaciguado
+imperativo:
+  tu: apacigua
+  vos: apaciguá
+  ud: apacigüe
+  nosotros: apacigüemos
+  vosotros: apaciguad
+  uds: apacigüen

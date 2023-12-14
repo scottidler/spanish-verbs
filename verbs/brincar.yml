@@ -1,0 +1,142 @@
+infinitivo: brincar
+gerundio: brincando
+participio-pasado: brincado
+presente-indicativo:
+  yo: brinco
+  tu: brincas
+  vos: brincás
+  ud: brinca
+  nosotros: brincamos
+  vosotros: brincáis
+  uds: brincan
+preterito-perfecto-simple:
+  yo: brinqué
+  tu: brincaste
+  vos: brincaste
+  ud: brincó
+  nosotros: brincamos
+  vosotros: brincasteis
+  uds: brincaron
+preterito-imperfecto:
+  yo: brincaba
+  tu: brincabas
+  vos: brincabas
+  ud: brincaba
+  nosotros: brincábamos
+  vosotros: brincabais
+  uds: brincaban
+futuro-simple:
+  yo: brincaré
+  tu: brincarás
+  vos: brincarás
+  ud: brincará
+  nosotros: brincaremos
+  vosotros: brincaréis
+  uds: brincarán
+condicional-simple:
+  yo: brincaría
+  tu: brincarías
+  vos: brincarías
+  ud: brincaría
+  nosotros: brincaríamos
+  vosotros: brincaríais
+  uds: brincarían
+presente-perfecto:
+  yo: he brincado
+  tu: has brincado
+  vos: has brincado
+  ud: ha brincado
+  nosotros: hemos brincado
+  vosotros: habéis brincado
+  uds: han brincado
+preterito-pluscuamperfecto:
+  yo: había brincado
+  tu: habías brincado
+  vos: habías brincado
+  ud: había brincado
+  nosotros: habíamos brincado
+  vosotros: habíais brincado
+  uds: habían brincado
+futuro-perfecto:
+  yo: habré brincado
+  tu: habrás brincado
+  vos: habrás brincado
+  ud: habrá brincado
+  nosotros: habremos brincado
+  vosotros: habréis brincado
+  uds: habrán brincado
+condicional-perfecto:
+  yo: habría brincado
+  tu: habrías brincado
+  vos: habrías brincado
+  ud: habría brincado
+  nosotros: habríamos brincado
+  vosotros: habríais brincado
+  uds: habrían brincado
+presente-subjuntivo:
+  yo: brinque
+  tu: brinques
+  vos: brinques
+  ud: brinque
+  nosotros: brinquemos
+  vosotros: brinquéis
+  uds: brinquen
+preterito-perfecto-subjuntivo:
+  yo: haya brincado
+  tu: hayas brincado
+  vos: hayas brincado
+  ud: haya brincado
+  nosotros: hayamos brincado
+  vosotros: hayáis brincado
+  uds: hayan brincado
+imperfecto-subjuntivo:
+  yo:
+    - brincara
+    - brincase
+  tu:
+    - brincaras
+    - brincases
+  vos:
+    - brincaras
+    - brincases
+  ud:
+    - brincara
+    - brincase
+  nosotros:
+    - brincáramos
+    - brincásemos
+  vosotros:
+    - brincarais
+    - brincaseis
+  uds:
+    - brincaran
+    - brincasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera brincado
+    - hubiese brincado
+  tu:
+    - hubieras brincado
+    - hubieses brincado
+  vos:
+    - hubieras brincado
+    - hubieses brincado
+  ud:
+    - hubiera brincado
+    - hubiese brincado
+  nosotros:
+    - hubiéramos brincado
+    - hubiésemos brincado
+  vosotros:
+    - hubierais brincado
+    - hubieseis brincado
+  uds:
+    - hubieran brincado
+    - hubiesen brincado
+imperativo:
+  tu: brinca
+  vos: brincá
+  ud: brinque
+  nosotros: brinquemos
+  vosotros: brincad
+  uds: brinquen

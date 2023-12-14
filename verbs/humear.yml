@@ -1,0 +1,142 @@
+infinitivo: humear
+gerundio: humeando
+participio-pasado: humeado
+presente-indicativo:
+  yo: humeo
+  tu: humeas
+  vos: humeas
+  ud: humea
+  nosotros: humeamos
+  vosotros: humeáis
+  uds: humean
+preterito-perfecto-simple:
+  yo: humé
+  tu: humeaste
+  vos: humeaste
+  ud: humeó
+  nosotros: humeamos
+  vosotros: humeasteis
+  uds: humearon
+preterito-imperfecto:
+  yo: humeaba
+  tu: humeabas
+  vos: humeabas
+  ud: humeaba
+  nosotros: humeábamos
+  vosotros: humeabais
+  uds: humeaban
+futuro-simple:
+  yo: humearé
+  tu: humearás
+  vos: humearás
+  ud: humeará
+  nosotros: humearemos
+  vosotros: humearéis
+  uds: humearán
+condicional-simple:
+  yo: humearía
+  tu: humearías
+  vos: humearías
+  ud: humearía
+  nosotros: humearíamos
+  vosotros: humearíais
+  uds: humearían
+presente-perfecto:
+  yo: he humeado
+  tu: has humeado
+  vos: has humeado
+  ud: ha humeado
+  nosotros: hemos humeado
+  vosotros: habéis humeado
+  uds: han humeado
+preterito-pluscuamperfecto:
+  yo: había humeado
+  tu: habías humeado
+  vos: habías humeado
+  ud: había humeado
+  nosotros: habíamos humeado
+  vosotros: habíais humeado
+  uds: habían humeado
+futuro-perfecto:
+  yo: habré humeado
+  tu: habrás humeado
+  vos: habrás humeado
+  ud: habrá humeado
+  nosotros: habremos humeado
+  vosotros: habréis humeado
+  uds: habrán humeado
+condicional-perfecto:
+  yo: habría humeado
+  tu: habrías humeado
+  vos: habrías humeado
+  ud: habría humeado
+  nosotros: habríamos humeado
+  vosotros: habríais humeado
+  uds: habrían humeado
+presente-subjuntivo:
+  yo: humee
+  tu: humees
+  vos: humees
+  ud: humee
+  nosotros: humeemos
+  vosotros: humeéis
+  uds: humeen
+preterito-perfecto-subjuntivo:
+  yo: haya humeado
+  tu: hayas humeado
+  vos: hayas humeado
+  ud: haya humeado
+  nosotros: hayamos humeado
+  vosotros: hayáis humeado
+  uds: hayan humeado
+imperfecto-subjuntivo:
+  yo:
+    - humeara
+    - humease
+  tu:
+    - humearas
+    - humeases
+  vos:
+    - humearas
+    - humeases
+  ud:
+    - humeara
+    - humease
+  nosotros:
+    - humeáramos
+    - humeásemos
+  vosotros:
+    - humearais
+    - humeaseis
+  uds:
+    - humearan
+    - humeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera humeado
+    - hubiese humeado
+  tu:
+    - hubieras humeado
+    - hubieses humeado
+  vos:
+    - hubieras humeado
+    - hubieses humeado
+  ud:
+    - hubiera humeado
+    - hubiese humeado
+  nosotros:
+    - hubiéramos humeado
+    - hubiésemos humeado
+  vosotros:
+    - hubierais humeado
+    - hubieseis humeado
+  uds:
+    - hubieran humeado
+    - hubiesen humeado
+imperativo:
+  tu: humea
+  vos: humeá
+  ud: humee
+  nosotros: humeemos
+  vosotros: humead
+  uds: humeen

@@ -1,0 +1,142 @@
+infinitivo: mordisquear
+gerundio: mordisqueando
+participio-pasado: mordisqueado
+presente-indicativo:
+  yo: mordisqueo
+  tu: mordisqueas
+  vos: mordisqueás
+  ud: mordisquea
+  nosotros: mordisqueamos
+  vosotros: mordisqueáis
+  uds: mordisquean
+preterito-perfecto-simple:
+  yo: mordisquee
+  tu: mordisqueaste
+  vos: mordisqueaste
+  ud: mordisqueó
+  nosotros: mordisqueamos
+  vosotros: mordisqueasteis
+  uds: mordisquearon
+preterito-imperfecto:
+  yo: mordisqueaba
+  tu: mordisqueabas
+  vos: mordisqueabas
+  ud: mordisqueaba
+  nosotros: mordisqueábamos
+  vosotros: mordisqueabais
+  uds: mordisqueaban
+futuro-simple:
+  yo: mordisquearé
+  tu: mordisquearás
+  vos: mordisquearás
+  ud: mordisqueará
+  nosotros: mordisquearemos
+  vosotros: mordisquearéis
+  uds: mordisquearán
+condicional-simple:
+  yo: mordisquearía
+  tu: mordisquearías
+  vos: mordisquearías
+  ud: mordisquearía
+  nosotros: mordisquearíamos
+  vosotros: mordisquearíais
+  uds: mordisquearían
+presente-perfecto:
+  yo: he mordisqueado
+  tu: has mordisqueado
+  vos: has mordisqueado
+  ud: ha mordisqueado
+  nosotros: hemos mordisqueado
+  vosotros: habéis mordisqueado
+  uds: han mordisqueado
+preterito-pluscuamperfecto:
+  yo: había mordisqueado
+  tu: habías mordisqueado
+  vos: habías mordisqueado
+  ud: había mordisqueado
+  nosotros: habíamos mordisqueado
+  vosotros: habíais mordisqueado
+  uds: habían mordisqueado
+futuro-perfecto:
+  yo: habré mordisqueado
+  tu: habrás mordisqueado
+  vos: habrás mordisqueado
+  ud: habrá mordisqueado
+  nosotros: habremos mordisqueado
+  vosotros: habréis mordisqueado
+  uds: habrán mordisqueado
+condicional-perfecto:
+  yo: habría mordisqueado
+  tu: habrías mordisqueado
+  vos: habrías mordisqueado
+  ud: habría mordisqueado
+  nosotros: habríamos mordisqueado
+  vosotros: habríais mordisqueado
+  uds: habrían mordisqueado
+presente-subjuntivo:
+  yo: mordisquee
+  tu: mordisquees
+  vos: mordisquees
+  ud: mordisquee
+  nosotros: mordisqueemos
+  vosotros: mordisquéis
+  uds: mordisqueen
+preterito-perfecto-subjuntivo:
+  yo: haya mordisqueado
+  tu: hayas mordisqueado
+  vos: hayas mordisqueado
+  ud: haya mordisqueado
+  nosotros: hayamos mordisqueado
+  vosotros: hayáis mordisqueado
+  uds: hayan mordisqueado
+imperfecto-subjuntivo:
+  yo:
+    - mordisqueara
+    - mordisquease
+  tu:
+    - mordisquearas
+    - mordisqueases
+  vos:
+    - mordisquearas
+    - mordisqueases
+  ud:
+    - mordisqueara
+    - mordisquease
+  nosotros:
+    - mordisqueáramos
+    - mordisqueásemos
+  vosotros:
+    - mordisquearais
+    - mordisqueaseis
+  uds:
+    - mordisquearan
+    - mordisqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mordisqueado
+    - hubiese mordisqueado
+  tu:
+    - hubieras mordisqueado
+    - hubieses mordisqueado
+  vos:
+    - hubieras mordisqueado
+    - hubieses mordisqueado
+  ud:
+    - hubiera mordisqueado
+    - hubiese mordisqueado
+  nosotros:
+    - hubiéramos mordisqueado
+    - hubiésemos mordisqueado
+  vosotros:
+    - hubierais mordisqueado
+    - hubieseis mordisqueado
+  uds:
+    - hubieran mordisqueado
+    - hubiesen mordisqueado
+imperativo:
+  tu: mordisquea
+  vos: mordisqueá
+  ud: mordisquee
+  nosotros: mordisquemos
+  vosotros: mordisquad
+  uds: mordisqueen

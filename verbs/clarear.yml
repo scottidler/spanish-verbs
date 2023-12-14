@@ -1,0 +1,142 @@
+infinitivo: clarear
+gerundio: clareando
+participio-pasado: clareado
+presente-indicativo:
+  yo: clareo
+  tu: clareas
+  vos: clareas
+  ud: clarea
+  nosotros: clareamos
+  vosotros: clareáis
+  uds: clarean
+preterito-perfecto-simple:
+  yo: clareé
+  tu: clareaste
+  vos: clareaste
+  ud: clareó
+  nosotros: clareamos
+  vosotros: clareasteis
+  uds: clarearon
+preterito-imperfecto:
+  yo: clareaba
+  tu: clareabas
+  vos: clareabas
+  ud: clareaba
+  nosotros: clareábamos
+  vosotros: clareabais
+  uds: clareaban
+futuro-simple:
+  yo: clarearé
+  tu: clarearás
+  vos: clarearás
+  ud: clareará
+  nosotros: clarearemos
+  vosotros: clarearéis
+  uds: clarearán
+condicional-simple:
+  yo: clarearía
+  tu: clarearías
+  vos: clarearías
+  ud: clarearía
+  nosotros: clarearíamos
+  vosotros: clarearíais
+  uds: clarearían
+presente-perfecto:
+  yo: he clareado
+  tu: has clareado
+  vos: has clareado
+  ud: ha clareado
+  nosotros: hemos clareado
+  vosotros: habéis clareado
+  uds: han clareado
+preterito-pluscuamperfecto:
+  yo: había clareado
+  tu: habías clareado
+  vos: habías clareado
+  ud: había clareado
+  nosotros: habíamos clareado
+  vosotros: habíais clareado
+  uds: habían clareado
+futuro-perfecto:
+  yo: habré clareado
+  tu: habrás clareado
+  vos: habrás clareado
+  ud: habrá clareado
+  nosotros: habremos clareado
+  vosotros: habréis clareado
+  uds: habrán clareado
+condicional-perfecto:
+  yo: habría clareado
+  tu: habrías clareado
+  vos: habrías clareado
+  ud: habría clareado
+  nosotros: habríamos clareado
+  vosotros: habríais clareado
+  uds: habrían clareado
+presente-subjuntivo:
+  yo: claree
+  tu: clarees
+  vos: clarees
+  ud: claree
+  nosotros: clareemos
+  vosotros: clareéis
+  uds: clareen
+preterito-perfecto-subjuntivo:
+  yo: haya clareado
+  tu: hayas clareado
+  vos: hayas clareado
+  ud: haya clareado
+  nosotros: hayamos clareado
+  vosotros: hayáis clareado
+  uds: hayan clareado
+imperfecto-subjuntivo:
+  yo:
+    - clareara
+    - clarease
+  tu:
+    - clarearas
+    - clareases
+  vos:
+    - clarearas
+    - clareases
+  ud:
+    - clareara
+    - clarease
+  nosotros:
+    - clareáramos
+    - clareásemos
+  vosotros:
+    - clarearais
+    - clareaseis
+  uds:
+    - clarearan
+    - clareasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera clareado
+    - hubiese clareado
+  tu:
+    - hubieras clareado
+    - hubieses clareado
+  vos:
+    - hubieras clareado
+    - hubieses clareado
+  ud:
+    - hubiera clareado
+    - hubiese clareado
+  nosotros:
+    - hubiéramos clareado
+    - hubiésemos clareado
+  vosotros:
+    - hubierais clareado
+    - hubieseis clareado
+  uds:
+    - hubieran clareado
+    - hubiesen clareado
+imperativo:
+  tu: clarea
+  vos: clareá
+  ud: claree
+  nosotros: clareemos
+  vosotros: claread
+  uds: clareen

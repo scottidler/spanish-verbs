@@ -1,0 +1,142 @@
+infinitivo: fracasar
+gerundio: fracasando
+participio-pasado: fracasado
+presente-indicativo:
+  yo: fracaso
+  tu: fracasas
+  vos: fracasas
+  ud: fracasa
+  nosotros: fracasamos
+  vosotros: fracasáis
+  uds: fracasan
+preterito-perfecto-simple:
+  yo: fracasé
+  tu: fracasaste
+  vos: fracasaste
+  ud: fracasó
+  nosotros: fracasamos
+  vosotros: fracasasteis
+  uds: fracasaron
+preterito-imperfecto:
+  yo: fracasaba
+  tu: fracasabas
+  vos: fracasabas
+  ud: fracasaba
+  nosotros: fracasábamos
+  vosotros: fracasabais
+  uds: fracasaban
+futuro-simple:
+  yo: fracasaré
+  tu: fracasarás
+  vos: fracasarás
+  ud: fracasará
+  nosotros: fracasaremos
+  vosotros: fracasaréis
+  uds: fracasarán
+condicional-simple:
+  yo: fracasaría
+  tu: fracasarías
+  vos: fracasarías
+  ud: fracasaría
+  nosotros: fracasaríamos
+  vosotros: fracasaríais
+  uds: fracasarían
+presente-perfecto:
+  yo: he fracasado
+  tu: has fracasado
+  vos: has fracasado
+  ud: ha fracasado
+  nosotros: hemos fracasado
+  vosotros: habéis fracasado
+  uds: han fracasado
+preterito-pluscuamperfecto:
+  yo: había fracasado
+  tu: habías fracasado
+  vos: habías fracasado
+  ud: había fracasado
+  nosotros: habíamos fracasado
+  vosotros: habíais fracasado
+  uds: habían fracasado
+futuro-perfecto:
+  yo: habré fracasado
+  tu: habrás fracasado
+  vos: habrás fracasado
+  ud: habrá fracasado
+  nosotros: habremos fracasado
+  vosotros: habréis fracasado
+  uds: habrán fracasado
+condicional-perfecto:
+  yo: habría fracasado
+  tu: habrías fracasado
+  vos: habrías fracasado
+  ud: habría fracasado
+  nosotros: habríamos fracasado
+  vosotros: habríais fracasado
+  uds: habrían fracasado
+presente-subjuntivo:
+  yo: fracase
+  tu: fracases
+  vos: fracases
+  ud: fracase
+  nosotros: fracasemos
+  vosotros: fracaséis
+  uds: fracasen
+preterito-perfecto-subjuntivo:
+  yo: haya fracasado
+  tu: hayas fracasado
+  vos: hayas fracasado
+  ud: haya fracasado
+  nosotros: hayamos fracasado
+  vosotros: hayáis fracasado
+  uds: hayan fracasado
+imperfecto-subjuntivo:
+  yo:
+    - fracasara
+    - fracasase
+  tu:
+    - fracasaras
+    - fracasases
+  vos:
+    - fracasaras
+    - fracasases
+  ud:
+    - fracasara
+    - fracasase
+  nosotros:
+    - fracasáramos
+    - fracasásemos
+  vosotros:
+    - fracasarais
+    - fracasaseis
+  uds:
+    - fracasaran
+    - fracasasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fracasado
+    - hubiese fracasado
+  tu:
+    - hubieras fracasado
+    - hubieses fracasado
+  vos:
+    - hubieras fracasado
+    - hubieses fracasado
+  ud:
+    - hubiera fracasado
+    - hubiese fracasado
+  nosotros:
+    - hubiéramos fracasado
+    - hubiésemos fracasado
+  vosotros:
+    - hubierais fracasado
+    - hubieseis fracasado
+  uds:
+    - hubieran fracasado
+    - hubiesen fracasado
+imperativo:
+  tu: fracasa
+  vos: fracasá
+  ud: fracase
+  nosotros: fracasemos
+  vosotros: fracasad
+  uds: fracasen

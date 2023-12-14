@@ -1,0 +1,142 @@
+infinitivo: deber
+gerundio: debiendo
+participio-pasado: debido
+presente-indicativo:
+  yo: debo
+  tu: debes
+  vos: debes
+  ud: debe
+  nosotros: debemos
+  vosotros: debéis
+  uds: deben
+preterito-perfecto-simple:
+  yo: debí
+  tu: debiste
+  vos: debiste
+  ud: debió
+  nosotros: debimos
+  vosotros: debisteis
+  uds: debieron
+preterito-imperfecto:
+  yo: debía
+  tu: debías
+  vos: debías
+  ud: debía
+  nosotros: debíamos
+  vosotros: debíais
+  uds: debían
+futuro-simple:
+  yo: deberé
+  tu: deberás
+  vos: deberás
+  ud: deberá
+  nosotros: deberemos
+  vosotros: deberéis
+  uds: deberán
+condicional-simple:
+  yo: debería
+  tu: deberías
+  vos: deberías
+  ud: debería
+  nosotros: deberíamos
+  vosotros: deberíais
+  uds: deberían
+presente-perfecto:
+  yo: he debido
+  tu: has debido
+  vos: has debido
+  ud: ha debido
+  nosotros: hemos debido
+  vosotros: habéis debido
+  uds: han debido
+preterito-pluscuamperfecto:
+  yo: había debido
+  tu: habías debido
+  vos: habías debido
+  ud: había debido
+  nosotros: habíamos debido
+  vosotros: habíais debido
+  uds: habían debido
+futuro-perfecto:
+  yo: habré debido
+  tu: habrás debido
+  vos: habrás debido
+  ud: habrá debido
+  nosotros: habremos debido
+  vosotros: habréis debido
+  uds: habrán debido
+condicional-perfecto:
+  yo: habría debido
+  tu: habrías debido
+  vos: habrías debido
+  ud: habría debido
+  nosotros: habríamos debido
+  vosotros: habríais debido
+  uds: habrían debido
+presente-subjuntivo:
+  yo: deba
+  tu: debas
+  vos: debas
+  ud: deba
+  nosotros: debamos
+  vosotros: debáis
+  uds: deban
+preterito-perfecto-subjuntivo:
+  yo: haya debido
+  tu: hayas debido
+  vos: hayas debido
+  ud: haya debido
+  nosotros: hayamos debido
+  vosotros: hayáis debido
+  uds: hayan debido
+imperfecto-subjuntivo:
+  yo:
+    - debiera
+    - diese
+  tu:
+    - debieras
+    - dieses
+  vos:
+    - debieras
+    - dieses
+  ud:
+    - debiera
+    - diese
+  nosotros:
+    - debiéramos
+    - diésemos
+  vosotros:
+    - debierais
+    - dieseis
+  uds:
+    - debieran
+    - diesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera debido
+    - hubiese debido
+  tu:
+    - hubieras debido
+    - hubieses debido
+  vos:
+    - hubieras debido
+    - hubieses debido
+  ud:
+    - hubiera debido
+    - hubiese debido
+  nosotros:
+    - hubiéramos debido
+    - hubiésemos debido
+  vosotros:
+    - hubierais debido
+    - hubieseis debido
+  uds:
+    - hubieran debido
+    - hubiesen debido
+imperativo:
+  tu: debe
+  vos: debé
+  ud: deba
+  nosotros: debamos
+  vosotros: debid
+  uds: deban

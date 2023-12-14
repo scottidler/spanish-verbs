@@ -1,0 +1,142 @@
+infinitivo: proseguir
+gerundio: prosiguiendo
+participio-pasado: proseguido
+presente-indicativo:
+  yo: prosigo
+  tu: prosigues
+  vos: prosigues
+  ud: prosigue
+  nosotros: proseguimos
+  vosotros: proseguís
+  uds: prosiguen
+preterito-perfecto-simple:
+  yo: proseguí
+  tu: proseguiste
+  vos: proseguiste
+  ud: prosiguió
+  nosotros: proseguimos
+  vosotros: proseguisteis
+  uds: prosiguieron
+preterito-imperfecto:
+  yo: proseguía
+  tu: proseguías
+  vos: proseguías
+  ud: proseguía
+  nosotros: proseguíamos
+  vosotros: proseguíais
+  uds: proseguían
+futuro-simple:
+  yo: proseguiré
+  tu: proseguirás
+  vos: proseguirás
+  ud: proseguirá
+  nosotros: proseguiremos
+  vosotros: proseguiréis
+  uds: proseguirán
+condicional-simple:
+  yo: proseguiría
+  tu: proseguirías
+  vos: proseguirías
+  ud: proseguiría
+  nosotros: proseguiríamos
+  vosotros: proseguiríais
+  uds: proseguirían
+presente-perfecto:
+  yo: he proseguido
+  tu: has proseguido
+  vos: has proseguido
+  ud: ha proseguido
+  nosotros: hemos proseguido
+  vosotros: habéis proseguido
+  uds: han proseguido
+preterito-pluscuamperfecto:
+  yo: había proseguido
+  tu: habías proseguido
+  vos: habías proseguido
+  ud: había proseguido
+  nosotros: habíamos proseguido
+  vosotros: habíais proseguido
+  uds: habían proseguido
+futuro-perfecto:
+  yo: habré proseguido
+  tu: habrás proseguido
+  vos: habrás proseguido
+  ud: habrá proseguido
+  nosotros: habremos proseguido
+  vosotros: habréis proseguido
+  uds: habrán proseguido
+condicional-perfecto:
+  yo: habría proseguido
+  tu: habrías proseguido
+  vos: habrías proseguido
+  ud: habría proseguido
+  nosotros: habríamos proseguido
+  vosotros: habríais proseguido
+  uds: habrían proseguido
+presente-subjuntivo:
+  yo: prosiga
+  tu: prosigas
+  vos: prosigas
+  ud: prosiga
+  nosotros: prosigamos
+  vosotros: prosigáis
+  uds: prosigan
+preterito-perfecto-subjuntivo:
+  yo: haya proseguido
+  tu: hayas proseguido
+  vos: hayas proseguido
+  ud: haya proseguido
+  nosotros: hayamos proseguido
+  vosotros: hayáis proseguido
+  uds: hayan proseguido
+imperfecto-subjuntivo:
+  yo:
+    - prosiguiera
+    - prosiguiese
+  tu:
+    - prosiguieras
+    - prosiguieses
+  vos:
+    - prosiguieras
+    - prosiguieses
+  ud:
+    - prosiguiera
+    - prosiguiese
+  nosotros:
+    - prosiguiéramos
+    - prosiguiésemos
+  vosotros:
+    - prosiguierais
+    - prosiguieseis
+  uds:
+    - prosiguieran
+    - prosiguiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera proseguido
+    - hubiese proseguido
+  tu:
+    - hubieras proseguido
+    - hubieses proseguido
+  vos:
+    - hubieras proseguido
+    - hubieses proseguido
+  ud:
+    - hubiera proseguido
+    - hubiese proseguido
+  nosotros:
+    - hubiéramos proseguido
+    - hubiésemos proseguido
+  vosotros:
+    - hubierais proseguido
+    - hubieseis proseguido
+  uds:
+    - hubieran proseguido
+    - hubiesen proseguido
+imperativo:
+  tu: prosigue
+  vos: prosigüe
+  ud: prosegue
+  nosotros: prosigamos
+  vosotros: proseguir
+  uds: prosigan

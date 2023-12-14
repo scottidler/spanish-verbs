@@ -1,0 +1,142 @@
+infinitivo: violar
+gerundio: violando
+participio-pasado: violado
+presente-indicativo:
+  yo: violo
+  tu: violas
+  vos: violas
+  ud: viola
+  nosotros: violamos
+  vosotros: violáis
+  uds: violan
+preterito-perfecto-simple:
+  yo: violé
+  tu: violaste
+  vos: violaste
+  ud: violó
+  nosotros: violamos
+  vosotros: violasteis
+  uds: violaron
+preterito-imperfecto:
+  yo: violaba
+  tu: violabas
+  vos: violabas
+  ud: violaba
+  nosotros: violábamos
+  vosotros: violabais
+  uds: violaban
+futuro-simple:
+  yo: violaré
+  tu: violarás
+  vos: violarás
+  ud: violará
+  nosotros: violaremos
+  vosotros: violaréis
+  uds: violarán
+condicional-simple:
+  yo: violaría
+  tu: violarías
+  vos: violarías
+  ud: violaría
+  nosotros: violaríamos
+  vosotros: violaríais
+  uds: violarían
+presente-perfecto:
+  yo: he violado
+  tu: has violado
+  vos: has violado
+  ud: ha violado
+  nosotros: hemos violado
+  vosotros: habéis violado
+  uds: han violado
+preterito-pluscuamperfecto:
+  yo: había violado
+  tu: habías violado
+  vos: habías violado
+  ud: había violado
+  nosotros: habíamos violado
+  vosotros: habíais violado
+  uds: habían violado
+futuro-perfecto:
+  yo: habré violado
+  tu: habrás violado
+  vos: habrás violado
+  ud: habrá violado
+  nosotros: habremos violado
+  vosotros: habréis violado
+  uds: habrán violado
+condicional-perfecto:
+  yo: habría violado
+  tu: habrías violado
+  vos: habrías violado
+  ud: habría violado
+  nosotros: habríamos violado
+  vosotros: habríais violado
+  uds: habrían violado
+presente-subjuntivo:
+  yo: viole
+  tu: violes
+  vos: violes
+  ud: viole
+  nosotros: violemos
+  vosotros: violéis
+  uds: violen
+preterito-perfecto-subjuntivo:
+  yo: haya violado
+  tu: hayas violado
+  vos: hayas violado
+  ud: haya violado
+  nosotros: hayamos violado
+  vosotros: hayáis violado
+  uds: hayan violado
+imperfecto-subjuntivo:
+  yo:
+    - violara
+    - violase
+  tu:
+    - violaras
+    - violases
+  vos:
+    - violaras
+    - violases
+  ud:
+    - violara
+    - violase
+  nosotros:
+    - violáramos
+    - violásemos
+  vosotros:
+    - violarais
+    - violaseis
+  uds:
+    - violaran
+    - violasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera violado
+    - hubiese violado
+  tu:
+    - hubieras violado
+    - hubieses violado
+  vos:
+    - hubieras violado
+    - hubieses violado
+  ud:
+    - hubiera violado
+    - hubiese violado
+  nosotros:
+    - hubiéramos violado
+    - hubiésemos violado
+  vosotros:
+    - hubierais violado
+    - hubieseis violado
+  uds:
+    - hubieran violado
+    - hubiesen violado
+imperativo:
+  tu: viola
+  vos: violá
+  ud: viole
+  nosotros: violemos
+  vosotros: violad
+  uds: violen

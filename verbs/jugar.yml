@@ -1,0 +1,142 @@
+infinitivo: jugar
+gerundio: jugando
+participio-pasado: jugado
+presente-indicativo:
+  yo: juego
+  tu: juegas
+  vos: juegas
+  ud: juega
+  nosotros: jugamos
+  vosotros: jugáis
+  uds: juegan
+preterito-perfecto-simple:
+  yo: jugué
+  tu: jugaste
+  vos: jugaste
+  ud: jugó
+  nosotros: jugamos
+  vosotros: jugasteis
+  uds: jugaron
+preterito-imperfecto:
+  yo: jugaba
+  tu: jugabas
+  vos: jugabas
+  ud: jugaba
+  nosotros: jugábamos
+  vosotros: jugabais
+  uds: jugaban
+futuro-simple:
+  yo: jugaré
+  tu: jugarás
+  vos: jugarás
+  ud: jugará
+  nosotros: jugaremos
+  vosotros: jugaréis
+  uds: jugarán
+condicional-simple:
+  yo: jugaría
+  tu: jugarías
+  vos: jugarías
+  ud: jugaría
+  nosotros: jugaríamos
+  vosotros: jugaríais
+  uds: jugarían
+presente-perfecto:
+  yo: he jugado
+  tu: has jugado
+  vos: has jugado
+  ud: ha jugado
+  nosotros: hemos jugado
+  vosotros: habéis jugado
+  uds: han jugado
+preterito-pluscuamperfecto:
+  yo: había jugado
+  tu: habías jugado
+  vos: habías jugado
+  ud: había jugado
+  nosotros: habíamos jugado
+  vosotros: habíais jugado
+  uds: habían jugado
+futuro-perfecto:
+  yo: habré jugado
+  tu: habrás jugado
+  vos: habrás jugado
+  ud: habrá jugado
+  nosotros: habremos jugado
+  vosotros: habréis jugado
+  uds: habrán jugado
+condicional-perfecto:
+  yo: habría jugado
+  tu: habrías jugado
+  vos: habrías jugado
+  ud: habría jugado
+  nosotros: habríamos jugado
+  vosotros: habríais jugado
+  uds: habrían jugado
+presente-subjuntivo:
+  yo: juegue
+  tu: juegues
+  vos: juegues
+  ud: juegue
+  nosotros: juguemos
+  vosotros: juguéis
+  uds: jueguen
+preterito-perfecto-subjuntivo:
+  yo: haya jugado
+  tu: hayas jugado
+  vos: hayas jugado
+  ud: haya jugado
+  nosotros: hayamos jugado
+  vosotros: hayáis jugado
+  uds: hayan jugado
+imperfecto-subjuntivo:
+  yo:
+    - jugara
+    - jugase
+  tu:
+    - jugaras
+    - jugases
+  vos:
+    - jugaras
+    - jugases
+  ud:
+    - jugara
+    - jugase
+  nosotros:
+    - jugáramos
+    - jugásemos
+  vosotros:
+    - jugarais
+    - jugaseis
+  uds:
+    - jugaran
+    - jugasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera jugado
+    - hubiese jugado
+  tu:
+    - hubieras jugado
+    - hubieses jugado
+  vos:
+    - hubieras jugado
+    - hubieses jugado
+  ud:
+    - hubiera jugado
+    - hubiese jugado
+  nosotros:
+    - hubiéramos jugado
+    - hubiésemos jugado
+  vosotros:
+    - hubierais jugado
+    - hubieseis jugado
+  uds:
+    - hubieran jugado
+    - hubiesen jugado
+imperativo:
+  tu: juega
+  vos: jugá
+  ud: juegue
+  nosotros: juguemos
+  vosotros: jugad
+  uds: jueguen

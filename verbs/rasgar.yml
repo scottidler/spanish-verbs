@@ -1,0 +1,142 @@
+infinitivo: rasgar
+gerundio: rasgando
+participio-pasado: rasgado
+presente-indicativo:
+  yo: rasgo
+  tu: rasgas
+  vos: rasgás
+  ud: rasga
+  nosotros: rasgamos
+  vosotros: rasgáis
+  uds: rasgan
+preterito-perfecto-simple:
+  yo: rasgué
+  tu: rasgaste
+  vos: rasgaste
+  ud: rasgó
+  nosotros: rasgamos
+  vosotros: rasgasteis
+  uds: rasgaron
+preterito-imperfecto:
+  yo: rasgaba
+  tu: rasgabas
+  vos: rasgabas
+  ud: rasgaba
+  nosotros: rasgábamos
+  vosotros: rasgabais
+  uds: rasgaban
+futuro-simple:
+  yo: rasgaré
+  tu: rasgarás
+  vos: rasgarás
+  ud: rasgará
+  nosotros: rasgaremos
+  vosotros: rasgaréis
+  uds: rasgarán
+condicional-simple:
+  yo: rasgaría
+  tu: rasgarías
+  vos: rasgarías
+  ud: rasgaría
+  nosotros: rasgaríamos
+  vosotros: rasgaríais
+  uds: rasgarían
+presente-perfecto:
+  yo: he rasgado
+  tu: has rasgado
+  vos: has rasgado
+  ud: ha rasgado
+  nosotros: hemos rasgado
+  vosotros: habéis rasgado
+  uds: han rasgado
+preterito-pluscuamperfecto:
+  yo: había rasgado
+  tu: habías rasgado
+  vos: habías rasgado
+  ud: había rasgado
+  nosotros: habíamos rasgado
+  vosotros: habíais rasgado
+  uds: habían rasgado
+futuro-perfecto:
+  yo: habré rasgado
+  tu: habrás rasgado
+  vos: habrás rasgado
+  ud: habrá rasgado
+  nosotros: habremos rasgado
+  vosotros: habréis rasgado
+  uds: habrán rasgado
+condicional-perfecto:
+  yo: habría rasgado
+  tu: habrías rasgado
+  vos: habrías rasgado
+  ud: habría rasgado
+  nosotros: habríamos rasgado
+  vosotros: habríais rasgado
+  uds: habrían rasgado
+presente-subjuntivo:
+  yo: rasgue
+  tu: rasgues
+  vos: rasgues
+  ud: rasgue
+  nosotros: rasguemos
+  vosotros: rasguéis
+  uds: rasguen
+preterito-perfecto-subjuntivo:
+  yo: haya rasgado
+  tu: hayas rasgado
+  vos: hayas rasgado
+  ud: haya rasgado
+  nosotros: hayamos rasgado
+  vosotros: hayáis rasgado
+  uds: hayan rasgado
+imperfecto-subjuntivo:
+  yo:
+    - rasgara
+    - rasgase
+  tu:
+    - rasgaras
+    - rasgases
+  vos:
+    - rasgaras
+    - rasgases
+  ud:
+    - rasgara
+    - rasgase
+  nosotros:
+    - rasgáramos
+    - rasgásemos
+  vosotros:
+    - rasgarais
+    - rasgaseis
+  uds:
+    - rasgaran
+    - rasgasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rasgado
+    - hubiese rasgado
+  tu:
+    - hubieras rasgado
+    - hubieses rasgado
+  vos:
+    - hubieras rasgado
+    - hubieses rasgado
+  ud:
+    - hubiera rasgado
+    - hubiese rasgado
+  nosotros:
+    - hubiéramos rasgado
+    - hubiésemos rasgado
+  vosotros:
+    - hubierais rasgado
+    - hubieseis rasgado
+  uds:
+    - hubieran rasgado
+    - hubiesen rasgado
+imperativo:
+  tu: rasga
+  vos: rasgá
+  ud: rasgue
+  nosotros: rasguemos
+  vosotros: rasgad
+  uds: rasguen

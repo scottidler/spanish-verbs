@@ -1,0 +1,142 @@
+infinitivo: estrangular
+gerundio: estrangulando
+participio-pasado: estrangulado
+presente-indicativo:
+  yo: estrangulo
+  tu: estrangulas
+  vos: estrangulas
+  ud: estrangula
+  nosotros: estrangulamos
+  vosotros: estranguláis
+  uds: estrangulan
+preterito-perfecto-simple:
+  yo: estrangulé
+  tu: estrangulaste
+  vos: estrangulaste
+  ud: estranguló
+  nosotros: estrangulamos
+  vosotros: estrangulasteis
+  uds: estrangularon
+preterito-imperfecto:
+  yo: estrangulaba
+  tu: estrangulabas
+  vos: estrangulabas
+  ud: estrangulaba
+  nosotros: estrangulábamos
+  vosotros: estrangulabais
+  uds: estrangulaban
+futuro-simple:
+  yo: estrangularé
+  tu: estrangularás
+  vos: estrangularás
+  ud: estrangulará
+  nosotros: estrangularemos
+  vosotros: estrangularéis
+  uds: estrangularán
+condicional-simple:
+  yo: estrangularía
+  tu: estrangularías
+  vos: estrangularías
+  ud: estrangularía
+  nosotros: estrangularíamos
+  vosotros: estrangularíais
+  uds: estrangularían
+presente-perfecto:
+  yo: he estrangulado
+  tu: has estrangulado
+  vos: has estrangulado
+  ud: ha estrangulado
+  nosotros: hemos estrangulado
+  vosotros: habéis estrangulado
+  uds: han estrangulado
+preterito-pluscuamperfecto:
+  yo: había estrangulado
+  tu: habías estrangulado
+  vos: habías estrangulado
+  ud: había estrangulado
+  nosotros: habíamos estrangulado
+  vosotros: habíais estrangulado
+  uds: habían estrangulado
+futuro-perfecto:
+  yo: habré estrangulado
+  tu: habrás estrangulado
+  vos: habrás estrangulado
+  ud: habrá estrangulado
+  nosotros: habremos estrangulado
+  vosotros: habréis estrangulado
+  uds: habrán estrangulado
+condicional-perfecto:
+  yo: habría estrangulado
+  tu: habrías estrangulado
+  vos: habrías estrangulado
+  ud: habría estrangulado
+  nosotros: habríamos estrangulado
+  vosotros: habríais estrangulado
+  uds: habrían estrangulado
+presente-subjuntivo:
+  yo: estrangule
+  tu: estrangules
+  vos: estrangules
+  ud: estrangule
+  nosotros: estrangulemos
+  vosotros: estranguléis
+  uds: estrangulen
+preterito-perfecto-subjuntivo:
+  yo: haya estrangulado
+  tu: hayas estrangulado
+  vos: hayas estrangulado
+  ud: haya estrangulado
+  nosotros: hayamos estrangulado
+  vosotros: hayáis estrangulado
+  uds: hayan estrangulado
+imperfecto-subjuntivo:
+  yo:
+    - estrangulara
+    - estrangulase
+  tu:
+    - estrangularas
+    - estrangulases
+  vos:
+    - estrangularas
+    - estrangulases
+  ud:
+    - estrangulara
+    - estrangulase
+  nosotros:
+    - estranguláramos
+    - estrangulásemos
+  vosotros:
+    - estrangulaseis
+    - estrangulaseis
+  uds:
+    - estrangularan
+    - estrangulasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estrangulado
+    - hubiese estrangulado
+  tu:
+    - hubieras estrangulado
+    - hubieses estrangulado
+  vos:
+    - hubieras estrangulado
+    - hubieses estrangulado
+  ud:
+    - hubiera estrangulado
+    - hubiese estrangulado
+  nosotros:
+    - hubiéramos estrangulado
+    - hubiésemos estrangulado
+  vosotros:
+    - hubierais estrangulado
+    - hubieseis estrangulado
+  uds:
+    - hubieran estrangulado
+    - hubiesen estrangulado
+imperativo:
+  tu: estrangula
+  vos: estrangulá
+  ud: estrangule
+  nosotros: estrangulemos
+  vosotros: estrangulad
+  uds: estrangulen

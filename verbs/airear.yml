@@ -1,0 +1,142 @@
+infinitivo: airear
+gerundio: aireando
+participio-pasado: aireado
+presente-indicativo:
+  yo: aireo
+  tu: aireas
+  vos: aireas
+  ud: airea
+  nosotros: aireamos
+  vosotros: aireáis
+  uds: airean
+preterito-perfecto-simple:
+  yo: aireé
+  tu: aireaste
+  vos: aireaste
+  ud: aireó
+  nosotros: aireamos
+  vosotros: aireasteis
+  uds: airearon
+preterito-imperfecto:
+  yo: aireaba
+  tu: aireabas
+  vos: aireabas
+  ud: aireaba
+  nosotros: aireábamos
+  vosotros: aireabais
+  uds: aireaban
+futuro-simple:
+  yo: airearé
+  tu: airearás
+  vos: airearás
+  ud: aireará
+  nosotros: airearemos
+  vosotros: airearéis
+  uds: airearán
+condicional-simple:
+  yo: airearía
+  tu: airearías
+  vos: airearías
+  ud: airearía
+  nosotros: airearíamos
+  vosotros: airearíais
+  uds: airearían
+presente-perfecto:
+  yo: he aireado
+  tu: has aireado
+  vos: has aireado
+  ud: ha aireado
+  nosotros: hemos aireado
+  vosotros: habéis aireado
+  uds: han aireado
+preterito-pluscuamperfecto:
+  yo: había aireado
+  tu: habías aireado
+  vos: habías aireado
+  ud: había aireado
+  nosotros: habíamos aireado
+  vosotros: habíais aireado
+  uds: habían aireado
+futuro-perfecto:
+  yo: habré aireado
+  tu: habrás aireado
+  vos: habrás aireado
+  ud: habrá aireado
+  nosotros: habremos aireado
+  vosotros: habréis aireado
+  uds: habrán aireado
+condicional-perfecto:
+  yo: habría aireado
+  tu: habrías aireado
+  vos: habrías aireado
+  ud: habría aireado
+  nosotros: habríamos aireado
+  vosotros: habríais aireado
+  uds: habrían aireado
+presente-subjuntivo:
+  yo: airee
+  tu: airees
+  vos: airees
+  ud: airee
+  nosotros: aireemos
+  vosotros: aireéis
+  uds: aireen
+preterito-perfecto-subjuntivo:
+  yo: haya aireado
+  tu: hayas aireado
+  vos: hayas aireado
+  ud: haya aireado
+  nosotros: hayamos aireado
+  vosotros: hayáis aireado
+  uds: hayan aireado
+imperfecto-subjuntivo:
+  yo:
+    - aireara
+    - airease
+  tu:
+    - airearas
+    - aireases
+  vos:
+    - airearas
+    - aireases
+  ud:
+    - aireara
+    - airease
+  nosotros:
+    - aireáramos
+    - aireásemos
+  vosotros:
+    - airearais
+    - aireaseis
+  uds:
+    - airearan
+    - aireasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aireado
+    - hubiese aireado
+  tu:
+    - hubieras aireado
+    - hubieses aireado
+  vos:
+    - hubieras aireado
+    - hubieses aireado
+  ud:
+    - hubiera aireado
+    - hubiese aireado
+  nosotros:
+    - hubiéramos aireado
+    - hubiésemos aireado
+  vosotros:
+    - hubierais aireado
+    - hubieseis aireado
+  uds:
+    - hubieran aireado
+    - hubiesen aireado
+imperativo:
+  tu: airea
+  vos: aireá
+  ud: airee
+  nosotros: aireemos
+  vosotros: airead
+  uds: aireen

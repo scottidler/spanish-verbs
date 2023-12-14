@@ -1,0 +1,156 @@
+infinitivo: entrometerse
+gerundio: entrometiéndose
+participio-pasado: entrometido
+
+presente-indicativo:
+  yo: me entrometo
+  tu: te entrometes
+  vos: te entrometés
+  ud: se entromete
+  nosotros: nos entrometemos
+  vosotros: os entrometéis
+  uds: se entrometen
+
+preterito-perfecto-simple:
+  yo: me entrometí
+  tu: te entrometiste
+  vos: te entrometiste
+  ud: se entrometió
+  nosotros: nos entrometimos
+  vosotros: os entrometisteis
+  uds: se entrometieron
+
+preterito-imperfecto:
+  yo: me entrometía
+  tu: te entrometías
+  vos: te entrometías
+  ud: se entrometía
+  nosotros: nos entrometíamos
+  vosotros: os entrometíais
+  uds: se entrometían
+
+futuro-simple:
+  yo: me entrometeré
+  tu: te entrometerás
+  vos: te entrometerás
+  ud: se entrometerá
+  nosotros: nos entrometeremos
+  vosotros: os entrometeréis
+  uds: se entrometerán
+
+condicional-simple:
+  yo: me entrometería
+  tu: te entrometerías
+  vos: te entrometerías
+  ud: se entrometería
+  nosotros: nos entrometeríamos
+  vosotros: os entrometeríais
+  uds: se entrometerían
+
+presente-perfecto:
+  yo: me he entrometido
+  tu: te has entrometido
+  vos: te has entrometido
+  ud: se ha entrometido
+  nosotros: nos hemos entrometido
+  vosotros: os habéis entrometido
+  uds: se han entrometido
+
+preterito-pluscuamperfecto:
+  yo: me había entrometido
+  tu: te habías entrometido
+  vos: te habías entrometido
+  ud: se había entrometido
+  nosotros: nos habíamos entrometido
+  vosotros: os habíais entrometido
+  uds: se habían entrometido
+
+futuro-perfecto:
+  yo: me habré entrometido
+  tu: te habrás entrometido
+  vos: te habrás entrometido
+  ud: se habrá entrometido
+  nosotros: nos habremos entrometido
+  vosotros: os habréis entrometido
+  uds: se habrán entrometido
+
+condicional-perfecto:
+  yo: me habría entrometido
+  tu: te habrías entrometido
+  vos: te habrías entrometido
+  ud: se habría entrometido
+  nosotros: nos habríamos entrometido
+  vosotros: os habríais entrometido
+  uds: se habrían entrometido
+
+presente-subjuntivo:
+  yo: me entrometa
+  tu: te entrometas
+  vos: te entrometás
+  ud: se entrometa
+  nosotros: nos entrometamos
+  vosotros: os entrometáis
+  uds: se entrometan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya entrometido
+  tu: te hayas entrometido
+  vos: te hayas entrometido
+  ud: se haya entrometido
+  nosotros: nos hayamos entrometido
+  vosotros: os hayáis entrometido
+  uds: se hayan entrometido
+
+imperfecto-subjuntivo:
+  yo:
+    - me entrometiera
+    - me entrometiese
+  tu:
+    - te entrometieras
+    - te entrometieses
+  vos:
+    - te entrometieras
+    - te entrometieses
+  ud:
+    - se entrometiera
+    - se entrometiese
+  nosotros:
+    - nos entrometiéramos
+    - nos entrometiésemos
+  vosotros:
+    - os entrometierais
+    - os entrometieseis
+  uds:
+    - se entrometieran
+    - se entrometiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera entrometido
+    - me hubiese entrometido
+  tu:
+    - te hubieras entrometido
+    - te hubieses entrometido
+  vos:
+    - te hubieras entrometido
+    - te hubieses entrometido
+  ud:
+    - se hubiera entrometido
+    - se hubiese entrometido
+  nosotros:
+    - nos hubiéramos entrometido
+    - nos hubiésemos entrometido
+  vosotros:
+    - os hubierais entrometido
+    - os hubieseis entrometido
+  uds:
+    - se hubieran entrometido
+    - se hubiesen entrometido
+
+imperativo:
+  tu: entrométete
+  vos: entrometete
+  ud: entrométase
+  nosotros: entrometámonos
+  vosotros: entrometeos
+  uds: entrométanse

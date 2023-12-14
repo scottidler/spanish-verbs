@@ -1,0 +1,142 @@
+infinitivo: ellahizar
+gerundio: ellahizando
+participio-pasado: ellahizado
+presente-indicativo:
+  yo: ellahizo
+  tu: ellahizas
+  vos: ellahizas
+  ud: ellahiza
+  nosotros: ellahizamos
+  vosotros: ellahizáis
+  uds: ellahizan
+preterito-perfecto-simple:
+  yo: ellahicé
+  tu: ellahizaste
+  vos: ellahizaste
+  ud: ellahizó
+  nosotros: ellahizamos
+  vosotros: ellahizasteis
+  uds: ellahizaron
+preterito-imperfecto:
+  yo: ellahizaba
+  tu: ellahizabas
+  vos: ellahizabas
+  ud: ellahizaba
+  nosotros: ellahizábamos
+  vosotros: ellahizabais
+  uds: ellahizaban
+futuro-simple:
+  yo: ellahizaré
+  tu: ellahizarás
+  vos: ellahizarás
+  ud: ellahizará
+  nosotros: ellahizaremos
+  vosotros: ellahizaréis
+  uds: ellahizarán
+condicional-simple:
+  yo: ellahizaría
+  tu: ellahizarías
+  vos: ellahizarías
+  ud: ellahizaría
+  nosotros: ellahizaríamos
+  vosotros: ellahizaríais
+  uds: ellahizarían
+presente-perfecto:
+  yo: he ellahizado
+  tu: has ellahizado
+  vos: has ellahizado
+  ud: ha ellahizado
+  nosotros: hemos ellahizado
+  vosotros: habéis ellahizado
+  uds: han ellahizado
+preterito-pluscuamperfecto:
+  yo: había ellahizado
+  tu: habías ellahizado
+  vos: habías ellahizado
+  ud: había ellahizado
+  nosotros: habíamos ellahizado
+  vosotros: habíais ellahizado
+  uds: habían ellahizado
+futuro-perfecto:
+  yo: habré ellahizado
+  tu: habrás ellahizado
+  vos: habrás ellahizado
+  ud: habrá ellahizado
+  nosotros: habremos ellahizado
+  vosotros: habréis ellahizado
+  uds: habrán ellahizado
+condicional-perfecto:
+  yo: habría ellahizado
+  tu: habrías ellahizado
+  vos: habrías ellahizado
+  ud: habría ellahizado
+  nosotros: habríamos ellahizado
+  vosotros: habríais ellahizado
+  uds: habrían ellahizado
+presente-subjuntivo:
+  yo: ellahice
+  tu: ellahices
+  vos: ellahices
+  ud: ellahice
+  nosotros: ellahicemos
+  vosotros: ellahicéis
+  uds: ellahicen
+preterito-perfecto-subjuntivo:
+  yo: haya ellahizado
+  tu: hayas ellahizado
+  vos: hayas ellahizado
+  ud: haya ellahizado
+  nosotros: hayamos ellahizado
+  vosotros: hayáis ellahizado
+  uds: hayan ellahizado
+imperfecto-subjuntivo:
+  yo:
+    - ellahizara
+    - ellahizase
+  tu:
+    - ellahizaras
+    - ellahizases
+  vos:
+    - ellahizaras
+    - ellahizases
+  ud:
+    - ellahizara
+    - ellahizase
+  nosotros:
+    - ellahizáramos
+    - ellahizásemos
+  vosotros:
+    - ellahizarais
+    - ellahizaseis
+  uds:
+    - ellahizaran
+    - ellahizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ellahizado
+    - hubiese ellahizado
+  tu:
+    - hubieras ellahizado
+    - hubieses ellahizado
+  vos:
+    - hubieras ellahizado
+    - hubieses ellahizado
+  ud:
+    - hubiera ellahizado
+    - hubiese ellahizado
+  nosotros:
+    - hubiéramos ellahizado
+    - hubiésemos ellahizado
+  vosotros:
+    - hubierais ellahizado
+    - hubieseis ellahizado
+  uds:
+    - hubieran ellahizado
+    - hubiesen ellahizado
+imperativo:
+  tu: ellahiza
+  vos: ellahizá
+  ud: ellahice
+  nosotros: ellahicemos
+  vosotros: ellahizad
+  uds: ellahicen

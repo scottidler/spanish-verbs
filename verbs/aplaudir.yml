@@ -1,0 +1,142 @@
+infinitivo: aplaudir
+gerundio: aplaudiendo
+participio-pasado: aplaudido
+presente-indicativo:
+  yo: aplaudo
+  tu: aplaudes
+  vos: aplaudes
+  ud: aplaude
+  nosotros: aplaudimos
+  vosotros: aplaudís
+  uds: aplauden
+preterito-perfecto-simple:
+  yo: aplaudí
+  tu: aplaudiste
+  vos: aplaudiste
+  ud: aplaudió
+  nosotros: aplaudimos
+  vosotros: aplaudisteis
+  uds: aplaudieron
+preterito-imperfecto:
+  yo: aplaudía
+  tu: aplaudías
+  vos: aplaudías
+  ud: aplaudía
+  nosotros: aplaudíamos
+  vosotros: aplaudíais
+  uds: aplaudían
+futuro-simple:
+  yo: aplaudiré
+  tu: aplaudirás
+  vos: aplaudirás
+  ud: aplaudirá
+  nosotros: aplaudiremos
+  vosotros: aplaudiréis
+  uds: aplaudirán
+condicional-simple:
+  yo: aplaudiría
+  tu: aplaudirías
+  vos: aplaudirías
+  ud: aplaudiría
+  nosotros: aplaudiríamos
+  vosotros: aplaudiríais
+  uds: aplaudirían
+presente-perfecto:
+  yo: he aplaudido
+  tu: has aplaudido
+  vos: has aplaudido
+  ud: ha aplaudido
+  nosotros: hemos aplaudido
+  vosotros: habéis aplaudido
+  uds: han aplaudido
+preterito-pluscuamperfecto:
+  yo: había aplaudido
+  tu: habías aplaudido
+  vos: habías aplaudido
+  ud: había aplaudido
+  nosotros: habíamos aplaudido
+  vosotros: habíais aplaudido
+  uds: habían aplaudido
+futuro-perfecto:
+  yo: habré aplaudido
+  tu: habrás aplaudido
+  vos: habrás aplaudido
+  ud: habrá aplaudido
+  nosotros: habremos aplaudido
+  vosotros: habréis aplaudido
+  uds: habrán aplaudido
+condicional-perfecto:
+  yo: habría aplaudido
+  tu: habrías aplaudido
+  vos: habrías aplaudido
+  ud: habría aplaudido
+  nosotros: habríamos aplaudido
+  vosotros: habríais aplaudido
+  uds: habrían aplaudido
+presente-subjuntivo:
+  yo: aplauda
+  tu: aplaudas
+  vos: aplaudas
+  ud: aplauda
+  nosotros: aplaudamos
+  vosotros: aplaudáis
+  uds: aplaudan
+preterito-perfecto-subjuntivo:
+  yo: haya aplaudido
+  tu: hayas aplaudido
+  vos: hayas aplaudido
+  ud: haya aplaudido
+  nosotros: hayamos aplaudido
+  vosotros: hayáis aplaudido
+  uds: hayan aplaudido
+imperfecto-subjuntivo:
+  yo:
+    - aplaudiera
+    - aplaudiese
+  tu:
+    - aplaudieras
+    - aplaudieses
+  vos:
+    - aplaudieras
+    - aplaudieses
+  ud:
+    - aplaudiera
+    - aplaudiese
+  nosotros:
+    - aplaudiéramos
+    - aplaudiésemos
+  vosotros:
+    - aplaudierais
+    - aplaudieseis
+  uds:
+    - aplaudieran
+    - aplaudiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aplaudido
+    - hubiese aplaudido
+  tu:
+    - hubieras aplaudido
+    - hubieses aplaudido
+  vos:
+    - hubieras aplaudido
+    - hubieses aplaudido
+  ud:
+    - hubiera aplaudido
+    - hubiese aplaudido
+  nosotros:
+    - hubiéramos aplaudido
+    - hubiésemos aplaudido
+  vosotros:
+    - hubierais aplaudido
+    - hubieseis aplaudido
+  uds:
+    - hubieran aplaudido
+    - hubiesen aplaudido
+imperativo:
+  tu: aplaude
+  vos: aplaudí
+  ud: aplauda
+  nosotros: aplaudamos
+  vosotros: aplaudid
+  uds: aplaudan

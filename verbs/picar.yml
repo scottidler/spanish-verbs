@@ -1,0 +1,142 @@
+infinitivo: picar
+gerundio: picando
+participio-pasado: picado
+presente-indicativo:
+  yo: pico
+  tu: picas
+  vos: picas
+  ud: pica
+  nosotros: picamos
+  vosotros: picáis
+  uds: pican
+preterito-perfecto-simple:
+  yo: piqué
+  tu: picaste
+  vos: picaste
+  ud: picó
+  nosotros: picamos
+  vosotros: picasteis
+  uds: picaron
+preterito-imperfecto:
+  yo: picaba
+  tu: picabas
+  vos: picabas
+  ud: picaba
+  nosotros: picábamos
+  vosotros: picabais
+  uds: picaban
+futuro-simple:
+  yo: picaré
+  tu: picarás
+  vos: picarás
+  ud: picará
+  nosotros: picaremos
+  vosotros: picaréis
+  uds: picarán
+condicional-simple:
+  yo: picaría
+  tu: picarías
+  vos: picarías
+  ud: picaría
+  nosotros: picaríamos
+  vosotros: picaríais
+  uds: picarían
+presente-perfecto:
+  yo: he picado
+  tu: has picado
+  vos: has picado
+  ud: ha picado
+  nosotros: hemos picado
+  vosotros: habéis picado
+  uds: han picado
+preterito-pluscuamperfecto:
+  yo: había picado
+  tu: habías picado
+  vos: habías picado
+  ud: había picado
+  nosotros: habíamos picado
+  vosotros: habíais picado
+  uds: habían picado
+futuro-perfecto:
+  yo: habré picado
+  tu: habrás picado
+  vos: habrás picado
+  ud: habrá picado
+  nosotros: habremos picado
+  vosotros: habréis picado
+  uds: habrán picado
+condicional-perfecto:
+  yo: habría picado
+  tu: habrías picado
+  vos: habrías picado
+  ud: habría picado
+  nosotros: habríamos picado
+  vosotros: habríais picado
+  uds: habrían picado
+presente-subjuntivo:
+  yo: pique
+  tu: piques
+  vos: piques
+  ud: pique
+  nosotros: piquemos
+  vosotros: picéis
+  uds: piquen
+preterito-perfecto-subjuntivo:
+  yo: haya picado
+  tu: hayas picado
+  vos: hayas picado
+  ud: haya picado
+  nosotros: hayamos picado
+  vosotros: hayáis picado
+  uds: hayan picado
+imperfecto-subjuntivo:
+  yo:
+    - picara
+    - picase
+  tu:
+    - picaras
+    - picases
+  vos:
+    - picaras
+    - picases
+  ud:
+    - picara
+    - picase
+  nosotros:
+    - picáramos
+    - picásemos
+  vosotros:
+    - picarais
+    - picaseis
+  uds:
+    - picaran
+    - picasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera picado
+    - hubiese picado
+  tu:
+    - hubieras picado
+    - hubieses picado
+  vos:
+    - hubieras picado
+    - hubieses picado
+  ud:
+    - hubiera picado
+    - hubiese picado
+  nosotros:
+    - hubiéramos picado
+    - hubiésemos picado
+  vosotros:
+    - hubierais picado
+    - hubieseis picado
+  uds:
+    - hubieran picado
+    - hubiesen picado
+imperativo:
+  tu: pica
+  vos: picá
+  ud: pique
+  nosotros: piquemos
+  vosotros: picad
+  uds: piquen

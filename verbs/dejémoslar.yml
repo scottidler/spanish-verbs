@@ -1,0 +1,142 @@
+infinitivo: dejémoslar
+gerundio: dejémoslando
+participio-pasado: dejémoslado
+presente-indicativo:
+  yo: dejémoslo
+  tu: dejémoslo
+  vos: dejémoslo
+  ud: dejémoslo
+  nosotros: dejémoslamos
+  vosotros: dejémosláis
+  uds: dejémoslan
+preterito-perfecto-simple:
+  yo: dejémoslé
+  tu: dejémoslé
+  vos: dejémoslé
+  ud: dejémoslé
+  nosotros: dejémoslamos
+  vosotros: dejémosléis
+  uds: dejémoslaron
+preterito-imperfecto:
+  yo: dejémoslaba
+  tu: dejémoslabas
+  vos: dejémoslabas
+  ud: dejémoslaba
+  nosotros: dejémoslábamos
+  vosotros: dejémoslabais
+  uds: dejémoslaban
+futuro-simple:
+  yo: dejémoslaré
+  tu: dejémoslarás
+  vos: dejémoslarás
+  ud: dejémoslará
+  nosotros: dejémoslaremos
+  vosotros: dejémoslaréis
+  uds: dejémoslarán
+condicional-simple:
+  yo: dejémoslaría
+  tu: dejémoslarías
+  vos: dejémoslarías
+  ud: dejémoslaría
+  nosotros: dejémoslaríamos
+  vosotros: dejémoslaríais
+  uds: dejémoslarían
+presente-perfecto:
+  yo: he dejémoslado
+  tu: has dejémoslado
+  vos: has dejémoslado
+  ud: ha dejémoslado
+  nosotros: hemos dejémoslado
+  vosotros: habéis dejémoslado
+  uds: han dejémoslado
+preterito-pluscuamperfecto:
+  yo: había dejémoslado
+  tu: habías dejémoslado
+  vos: habías dejémoslado
+  ud: había dejémoslado
+  nosotros: habíamos dejémoslado
+  vosotros: habíais dejémoslado
+  uds: habían dejémoslado
+futuro-perfecto:
+  yo: habré dejémoslado
+  tu: habrás dejémoslado
+  vos: habrás dejémoslado
+  ud: habrá dejémoslado
+  nosotros: habremos dejémoslado
+  vosotros: habréis dejémoslado
+  uds: habrán dejémoslado
+condicional-perfecto:
+  yo: habría dejémoslado
+  tu: habrías dejémoslado
+  vos: habrías dejémoslado
+  ud: habría dejémoslado
+  nosotros: habríamos dejémoslado
+  vosotros: habríais dejémoslado
+  uds: habrían dejémoslado
+presente-subjuntivo:
+  yo: dejémosle
+  tu: dejémosles
+  vos: dejémosles
+  ud: dejémosle
+  nosotros: dejémoslemos
+  vosotros: dejémosléis
+  uds: dejémoslen
+preterito-perfecto-subjuntivo:
+  yo: haya dejémoslado
+  tu: hayas dejémoslado
+  vos: hayas dejémoslado
+  ud: haya dejémoslado
+  nosotros: hayamos dejémoslado
+  vosotros: hayáis dejémoslado
+  uds: hayan dejémoslado
+imperfecto-subjuntivo:
+  yo:
+    - dejémoslara
+    - dejémoslase
+  tu:
+    - dejémoslaras
+    - dejémoslases
+  vos:
+    - dejémoslaras
+    - dejémoslases
+  ud:
+    - dejémoslara
+    - dejémoslase
+  nosotros:
+    - dejémosláramos
+    - dejémoslásemos
+  vosotros:
+    - dejémoslarais
+    - dejémoslaseis
+  uds:
+    - dejémoslaran
+    - dejémoslasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dejémoslado
+    - hubiese dejémoslado
+  tu:
+    - hubieras dejémoslado
+    - hubieses dejémoslado
+  vos:
+    - hubieras dejémoslado
+    - hubieses dejémoslado
+  ud:
+    - hubiera dejémoslado
+    - hubiese dejémoslado
+  nosotros:
+    - hubiéramos dejémoslado
+    - hubiésemos dejémoslado
+  vosotros:
+    - hubierais dejémoslado
+    - hubieseis dejémoslado
+  uds:
+    - hubieran dejémoslado
+    - hubiesen dejémoslado
+imperativo:
+  tu: dejémosla
+  vos: dejémosla
+  ud: dejémosla
+  nosotros: dejémoslamos
+  vosotros: dejémoslad
+  uds: dejémoslan

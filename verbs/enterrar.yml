@@ -1,0 +1,142 @@
+infinitivo: enterrar
+gerundio: enterrando
+participio-pasado: enterrado
+presente-indicativo:
+  yo: entierro
+  tu: entierras
+  vos: entierras
+  ud: entierra
+  nosotros: enterramos
+  vosotros: enterráis
+  uds: entierran
+preterito-perfecto-simple:
+  yo: enterré
+  tu: enterraste
+  vos: enterraste
+  ud: enterró
+  nosotros: enterramos
+  vosotros: enterrasteis
+  uds: enterraron
+preterito-imperfecto:
+  yo: enterraba
+  tu: enterrabas
+  vos: enterrabas
+  ud: enterraba
+  nosotros: enterrábamos
+  vosotros: enterrabais
+  uds: enterraban
+futuro-simple:
+  yo: enterraré
+  tu: enterrarás
+  vos: enterrarás
+  ud: enterrará
+  nosotros: enterraremos
+  vosotros: enterraréis
+  uds: enterrarán
+condicional-simple:
+  yo: enterraría
+  tu: enterrarías
+  vos: enterrarías
+  ud: enterraría
+  nosotros: enterraríamos
+  vosotros: enterraríais
+  uds: enterrarían
+presente-perfecto:
+  yo: he enterrado
+  tu: has enterrado
+  vos: has enterrado
+  ud: ha enterrado
+  nosotros: hemos enterrado
+  vosotros: habéis enterrado
+  uds: han enterrado
+preterito-pluscuamperfecto:
+  yo: había enterrado
+  tu: habías enterrado
+  vos: habías enterrado
+  ud: había enterrado
+  nosotros: habíamos enterrado
+  vosotros: habíais enterrado
+  uds: habían enterrado
+futuro-perfecto:
+  yo: habré enterrado
+  tu: habrás enterrado
+  vos: habrás enterrado
+  ud: habrá enterrado
+  nosotros: habremos enterrado
+  vosotros: habréis enterrado
+  uds: habrán enterrado
+condicional-perfecto:
+  yo: habría enterrado
+  tu: habrías enterrado
+  vos: habrías enterrado
+  ud: habría enterrado
+  nosotros: habríamos enterrado
+  vosotros: habríais enterrado
+  uds: habrían enterrado
+presente-subjuntivo:
+  yo: entierre
+  tu: enterres
+  vos: enterres
+  ud: entierre
+  nosotros: enterremos
+  vosotros: enterréis
+  uds: enterren
+preterito-perfecto-subjuntivo:
+  yo: haya enterrado
+  tu: hayas enterrado
+  vos: hayas enterrado
+  ud: haya enterrado
+  nosotros: hayamos enterrado
+  vosotros: hayáis enterrado
+  uds: hayan enterrado
+imperfecto-subjuntivo:
+  yo:
+    - enterrara
+    - enterrase
+  tu:
+    - enterraras
+    - enterrases
+  vos:
+    - enterraras
+    - enterrases
+  ud:
+    - enterrara
+    - enterrase
+  nosotros:
+    - enterráramos
+    - enterrásemos
+  vosotros:
+    - enterrarais
+    - enterraseis
+  uds:
+    - enterraran
+    - enterrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enterrado
+    - hubiese enterrado
+  tu:
+    - hubieras enterrado
+    - hubieses enterrado
+  vos:
+    - hubieras enterrado
+    - hubieses enterrado
+  ud:
+    - hubiera enterrado
+    - hubiese enterrado
+  nosotros:
+    - hubiéramos enterrado
+    - hubiésemos enterrado
+  vosotros:
+    - hubierais enterrado
+    - hubieseis enterrado
+  uds:
+    - hubieran enterrado
+    - hubiesen enterrado
+imperativo:
+  tu: entierra
+  vos: enterrá
+  ud: entierre
+  nosotros: enterremos
+  vosotros: enterrad
+  uds: enterren

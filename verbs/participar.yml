@@ -1,0 +1,142 @@
+infinitivo: participar
+gerundio: participando
+participio-pasado: participado
+presente-indicativo:
+  yo: participo
+  tu: participas
+  vos: participas
+  ud: participa
+  nosotros: participamos
+  vosotros: participáis
+  uds: participan
+preterito-perfecto-simple:
+  yo: participé
+  tu: participaste
+  vos: participaste
+  ud: participó
+  nosotros: participamos
+  vosotros: participasteis
+  uds: participaron
+preterito-imperfecto:
+  yo: participaba
+  tu: participabas
+  vos: participabas
+  ud: participaba
+  nosotros: participábamos
+  vosotros: participabais
+  uds: participaban
+futuro-simple:
+  yo: participaré
+  tu: participarás
+  vos: participarás
+  ud: participará
+  nosotros: participaremos
+  vosotros: participaréis
+  uds: participarán
+condicional-simple:
+  yo: participaría
+  tu: participarías
+  vos: participarías
+  ud: participaría
+  nosotros: participaríamos
+  vosotros: participaríais
+  uds: participarían
+presente-perfecto:
+  yo: he participado
+  tu: has participado
+  vos: has participado
+  ud: ha participado
+  nosotros: hemos participado
+  vosotros: habéis participado
+  uds: han participado
+preterito-pluscuamperfecto:
+  yo: había participado
+  tu: habías participado
+  vos: habías participado
+  ud: había participado
+  nosotros: habíamos participado
+  vosotros: habíais participado
+  uds: habían participado
+futuro-perfecto:
+  yo: habré participado
+  tu: habrás participado
+  vos: habrás participado
+  ud: habrá participado
+  nosotros: habremos participado
+  vosotros: habréis participado
+  uds: habrán participado
+condicional-perfecto:
+  yo: habría participado
+  tu: habrías participado
+  vos: habrías participado
+  ud: habría participado
+  nosotros: habríamos participado
+  vosotros: habríais participado
+  uds: habrían participado
+presente-subjuntivo:
+  yo: participe
+  tu: participes
+  vos: participes
+  ud: participe
+  nosotros: participemos
+  vosotros: participéis
+  uds: participen
+preterito-perfecto-subjuntivo:
+  yo: haya participado
+  tu: hayas participado
+  vos: hayas participado
+  ud: haya participado
+  nosotros: hayamos participado
+  vosotros: hayáis participado
+  uds: hayan participado
+imperfecto-subjuntivo:
+  yo:
+    - participara
+    - participase
+  tu:
+    - participaras
+    - participases
+  vos:
+    - participaras
+    - participases
+  ud:
+    - participara
+    - participase
+  nosotros:
+    - participáramos
+    - participásemos
+  vosotros:
+    - participarais
+    - participaseis
+  uds:
+    - participaran
+    - participasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera participado
+    - hubiese participado
+  tu:
+    - hubieras participado
+    - hubieses participado
+  vos:
+    - hubieras participado
+    - hubieses participado
+  ud:
+    - hubiera participado
+    - hubiese participado
+  nosotros:
+    - hubiéramos participado
+    - hubiésemos participado
+  vosotros:
+    - hubierais participado
+    - hubieseis participado
+  uds:
+    - hubieran participado
+    - hubiesen participado
+imperativo:
+  tu: participa
+  vos: participá
+  ud: participe
+  nosotros: participemos
+  vosotros: participad
+  uds: participen

@@ -1,0 +1,156 @@
+infinitivo: vestirse
+gerundio: vistiéndose
+participio-pasado: vestido
+
+presente-indicativo:
+  yo: me visto
+  tu: te vistes
+  vos: te vistes
+  ud: se viste
+  nosotros: nos vestimos
+  vosotros: os vestís
+  uds: se visten
+
+preterito-perfecto-simple:
+  yo: me vestí
+  tu: te vestiste
+  vos: te vestiste
+  ud: se vistió
+  nosotros: nos vestimos
+  vosotros: os vestisteis
+  uds: se vistieron
+
+preterito-imperfecto:
+  yo: me vestía
+  tu: te vestías
+  vos: te vestías
+  ud: se vestía
+  nosotros: nos vestíamos
+  vosotros: os vestíais
+  uds: se vestían
+
+futuro-simple:
+  yo: me vestiré
+  tu: te vestirás
+  vos: te vestirás
+  ud: se vestirá
+  nosotros: nos vestiremos
+  vosotros: os vestiréis
+  uds: se vestirán
+
+condicional-simple:
+  yo: me vestiría
+  tu: te vestirías
+  vos: te vestirías
+  ud: se vestiría
+  nosotros: nos vestiríamos
+  vosotros: os vestiríais
+  uds: se vestirían
+
+presente-perfecto:
+  yo: me he vestido
+  tu: te has vestido
+  vos: te has vestido
+  ud: se ha vestido
+  nosotros: nos hemos vestido
+  vosotros: os habéis vestido
+  uds: se han vestido
+
+preterito-pluscuamperfecto:
+  yo: me había vestido
+  tu: te habías vestido
+  vos: te habías vestido
+  ud: se había vestido
+  nosotros: nos habíamos vestido
+  vosotros: os habíais vestido
+  uds: se habían vestido
+
+futuro-perfecto:
+  yo: me habré vestido
+  tu: te habrás vestido
+  vos: te habrás vestido
+  ud: se habrá vestido
+  nosotros: nos habremos vestido
+  vosotros: os habréis vestido
+  uds: se habrán vestido
+
+condicional-perfecto:
+  yo: me habría vestido
+  tu: te habrías vestido
+  vos: te habrías vestido
+  ud: se habría vestido
+  nosotros: nos habríamos vestido
+  vosotros: os habríais vestido
+  uds: se habrían vestido
+
+presente-subjuntivo:
+  yo: me vista
+  tu: te vistas
+  vos: te vistas
+  ud: se vista
+  nosotros: nos vistamos
+  vosotros: os vistáis
+  uds: se vistan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya vestido
+  tu: te hayas vestido
+  vos: te hayas vestido
+  ud: se haya vestido
+  nosotros: nos hayamos vestido
+  vosotros: os hayáis vestido
+  uds: se hayan vestido
+
+imperfecto-subjuntivo:
+  yo:
+    - me vistiera
+    - me vistiese
+  tu:
+    - te vistieras
+    - te vistieses
+  vos:
+    - te vistieras
+    - te vistieses
+  ud:
+    - se vistiera
+    - se vistiese
+  nosotros:
+    - nos vistiéramos
+    - nos vistiésemos
+  vosotros:
+    - os vistierais
+    - os vistieseis
+  uds:
+    - se vistieran
+    - se vistiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera vestido
+    - me hubiese vestido
+  tu:
+    - te hubieras vestido
+    - te hubieses vestido
+  vos:
+    - te hubieras vestido
+    - te hubieses vestido
+  ud:
+    - se hubiera vestido
+    - se hubiese vestido
+  nosotros:
+    - nos hubiéramos vestido
+    - nos hubiésemos vestido
+  vosotros:
+    - os hubierais vestido
+    - os hubieseis vestido
+  uds:
+    - se hubieran vestido
+    - se hubiesen vestido
+
+imperativo:
+  tu: vístete
+  vos: vestíte
+  ud: vístase
+  nosotros: vistámonos
+  vosotros: vestíos
+  uds: vístanse

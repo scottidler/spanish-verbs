@@ -1,0 +1,142 @@
+infinitivo: agáchatar
+gerundio: agachatando
+participio-pasado: agachatado
+presente-indicativo:
+  yo: agáchato
+  tu: agachatas
+  vos: agachatas
+  ud: agáchata
+  nosotros: agachatamos
+  vosotros: agachatáis
+  uds: agachatan
+preterito-perfecto-simple:
+  yo: agachaté
+  tu: agachataste
+  vos: agachataste
+  ud: agacható
+  nosotros: agachatamos
+  vosotros: agachatasteis
+  uds: agachataron
+preterito-imperfecto:
+  yo: agachataba
+  tu: agachatabas
+  vos: agachatabas
+  ud: agachataba
+  nosotros: agachatábamos
+  vosotros: agachatabais
+  uds: agachataban
+futuro-simple:
+  yo: agachataré
+  tu: agachatarás
+  vos: agachatarás
+  ud: agachatará
+  nosotros: agachataremos
+  vosotros: agachataréis
+  uds: agachatarán
+condicional-simple:
+  yo: agachataría
+  tu: agachatarías
+  vos: agachatarías
+  ud: agachataría
+  nosotros: agachataríamos
+  vosotros: agachataríais
+  uds: agachatarían
+presente-perfecto:
+  yo: he agachatado
+  tu: has agachatado
+  vos: has agachatado
+  ud: ha agachatado
+  nosotros: hemos agachatado
+  vosotros: habéis agachatado
+  uds: han agachatado
+preterito-pluscuamperfecto:
+  yo: había agachatado
+  tu: habías agachatado
+  vos: habías agachatado
+  ud: había agachatado
+  nosotros: habíamos agachatado
+  vosotros: habíais agachatado
+  uds: habían agachatado
+futuro-perfecto:
+  yo: habré agachatado
+  tu: habrás agachatado
+  vos: habrás agachatado
+  ud: habrá agachatado
+  nosotros: habremos agachatado
+  vosotros: habréis agachatado
+  uds: habrán agachatado
+condicional-perfecto:
+  yo: habría agachatado
+  tu: habrías agachatado
+  vos: habrías agachatado
+  ud: habría agachatado
+  nosotros: habríamos agachatado
+  vosotros: habríais agachatado
+  uds: habrían agachatado
+presente-subjuntivo:
+  yo: agáchate
+  tu: agáchates
+  vos: agáchates
+  ud: agáchate
+  nosotros: agachatemos
+  vosotros: agachatéis
+  uds: agáchaten
+preterito-perfecto-subjuntivo:
+  yo: haya agachatado
+  tu: hayas agachatado
+  vos: hayas agachatado
+  ud: haya agachatado
+  nosotros: hayamos agachatado
+  vosotros: hayáis agachatado
+  uds: hayan agachatado
+imperfecto-subjuntivo:
+  yo:
+    - agachatara
+    - agachatase
+  tu:
+    - agachataras
+    - agachatases
+  vos:
+    - agachataras
+    - agachatases
+  ud:
+    - agachatara
+    - agachatase
+  nosotros:
+    - agachatáramos
+    - agachatásemos
+  vosotros:
+    - agachatarais
+    - agachataseis
+  uds:
+    - agachataran
+    - agachatasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agachatado
+    - hubiese agachatado
+  tu:
+    - hubieras agachatado
+    - hubieses agachatado
+  vos:
+    - hubieras agachatado
+    - hubieses agachatado
+  ud:
+    - hubiera agachatado
+    - hubiese agachatado
+  nosotros:
+    - hubiéramos agachatado
+    - hubiésemos agachatado
+  vosotros:
+    - hubierais agachatado
+    - hubieseis agachatado
+  uds:
+    - hubieran agachatado
+    - hubiesen agachatado
+imperativo:
+  tu: agáchata
+  vos: agáchatá
+  ud: agáchate
+  nosotros: agachatemos
+  vosotros: agachatad
+  uds: agáchaten

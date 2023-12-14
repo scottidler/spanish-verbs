@@ -1,0 +1,142 @@
+infinitivo: postrar
+gerundio: postrando
+participio-pasado: postrado
+presente-indicativo:
+  yo: postro
+  tu: postas
+  vos: postas
+  ud: posta
+  nosotros: postamos
+  vosotros: postráis
+  uds: postan
+preterito-perfecto-simple:
+  yo: posté
+  tu: postaste
+  vos: postaste
+  ud: postó
+  nosotros: postamos
+  vosotros: postasteis
+  uds: postaron
+preterito-imperfecto:
+  yo: postaba
+  tu: postabas
+  vos: postabas
+  ud: postaba
+  nosotros: postábamos
+  vosotros: postabais
+  uds: postaban
+futuro-simple:
+  yo: postraré
+  tu: postrarás
+  vos: postrarás
+  ud: postrará
+  nosotros: postraremos
+  vosotros: postraréis
+  uds: postrarán
+condicional-simple:
+  yo: postraría
+  tu: postrarías
+  vos: postrarías
+  ud: postraría
+  nosotros: postraríamos
+  vosotros: postraríais
+  uds: postrarían
+presente-perfecto:
+  yo: he postrado
+  tu: has postrado
+  vos: has postrado
+  ud: ha postrado
+  nosotros: hemos postrado
+  vosotros: habéis postrado
+  uds: han postrado
+preterito-pluscuamperfecto:
+  yo: había postrado
+  tu: habías postrado
+  vos: habías postrado
+  ud: había postrado
+  nosotros: habíamos postrado
+  vosotros: habíais postrado
+  uds: habían postrado
+futuro-perfecto:
+  yo: habré postrado
+  tu: habrás postrado
+  vos: habrás postrado
+  ud: habrá postrado
+  nosotros: habremos postrado
+  vosotros: habréis postrado
+  uds: habrán postrado
+condicional-perfecto:
+  yo: habría postrado
+  tu: habrías postrado
+  vos: habrías postrado
+  ud: habría postrado
+  nosotros: habríamos postrado
+  vosotros: habríais postrado
+  uds: habrían postrado
+presente-subjuntivo:
+  yo: postre
+  tu: postres
+  vos: postres
+  ud: postre
+  nosotros: postremos
+  vosotros: postréis
+  uds: postren
+preterito-perfecto-subjuntivo:
+  yo: haya postrado
+  tu: hayas postrado
+  vos: hayas postrado
+  ud: haya postrado
+  nosotros: hayamos postrado
+  vosotros: hayáis postrado
+  uds: hayan postrado
+imperfecto-subjuntivo:
+  yo: 
+    - postrara
+    - postrase
+  tu: 
+    - postraras
+    - postrases
+  vos: 
+    - postraras
+    - postrases
+  ud: 
+    - postrara
+    - postrase
+  nosotros: 
+    - postráramos
+    - postrásemos
+  vosotros: 
+    - postrarais
+    - postraseis
+  uds: 
+    - postraran
+    - postrasen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - hubiera postrado
+    - hubiese postrado
+  tu: 
+    - hubieras postrado
+    - hubieses postrado
+  vos: 
+    - hubieras postrado
+    - hubieses postrado
+  ud: 
+    - hubiera postrado
+    - hubiese postrado
+  nosotros: 
+    - hubiéramos postrado
+    - hubiésemos postrado
+  vosotros: 
+    - hubierais postrado
+    - hubieseis postrado
+  uds: 
+    - hubieran postrado
+    - hubiesen postrado
+imperativo:
+  tu: posta
+  vos: postá
+  ud: postre
+  nosotros: postremos
+  vosotros: postrad
+  uds: postren

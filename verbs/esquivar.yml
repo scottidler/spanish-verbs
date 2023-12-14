@@ -1,0 +1,156 @@
+infinitivo: esquivar
+gerundio: esquivando
+participio-pasado: esquivado
+
+presente-indicativo:
+  yo: esquivo
+  tu: esquivas
+  vos: esquivas
+  ud: esquiva
+  nosotros: esquivamos
+  vosotros: esquiváis
+  uds: esquivan
+
+preterito-perfecto-simple:
+  yo: esquivé
+  tu: esquivaste
+  vos: esquivaste
+  ud: esquivó
+  nosotros: esquivamos
+  vosotros: esquivasteis
+  uds: esquivaron
+
+preterito-imperfecto:
+  yo: esquivaba
+  tu: esquivabas
+  vos: esquivabas
+  ud: esquivaba
+  nosotros: esquivábamos
+  vosotros: esquivabais
+  uds: esquivaban
+
+futuro-simple:
+  yo: esquivaré
+  tu: esquivarás
+  vos: esquivarás
+  ud: esquivará
+  nosotros: esquivaremos
+  vosotros: esquivaréis
+  uds: esquivarán
+
+condicional-simple:
+  yo: esquivaría
+  tu: esquivarías
+  vos: esquivarías
+  ud: esquivaría
+  nosotros: esquivaríamos
+  vosotros: esquivaríais
+  uds: esquivarían
+
+presente-perfecto:
+  yo: he esquivado
+  tu: has esquivado
+  vos: has esquivado
+  ud: ha esquivado
+  nosotros: hemos esquivado
+  vosotros: habéis esquivado
+  uds: han esquivado
+
+preterito-pluscuamperfecto:
+  yo: había esquivado
+  tu: habías esquivado
+  vos: habías esquivado
+  ud: había esquivado
+  nosotros: habíamos esquivado
+  vosotros: habíais esquivado
+  uds: habían esquivado
+
+futuro-perfecto:
+  yo: habré esquivado
+  tu: habrás esquivado
+  vos: habrás esquivado
+  ud: habrá esquivado
+  nosotros: habremos esquivado
+  vosotros: habréis esquivado
+  uds: habrán esquivado
+
+condicional-perfecto:
+  yo: habría esquivado
+  tu: habrías esquivado
+  vos: habrías esquivado
+  ud: habría esquivado
+  nosotros: habríamos esquivado
+  vosotros: habríais esquivado
+  uds: habrían esquivado
+
+presente-subjuntivo:
+  yo: esquive
+  tu: esquives
+  vos: esquives
+  ud: esquive
+  nosotros: esquivemos
+  vosotros: esquivéis
+  uds: esquiven
+
+preterito-perfecto-subjuntivo:
+  yo: haya esquivado
+  tu: hayas esquivado
+  vos: hayas esquivado
+  ud: haya esquivado
+  nosotros: hayamos esquivado
+  vosotros: hayáis esquivado
+  uds: hayan esquivado
+
+imperfecto-subjuntivo:
+  yo:
+    - esquivara
+    - esquivase
+  tu:
+    - esquivaras
+    - esquivases
+  vos:
+    - esquivaras
+    - esquivases
+  ud:
+    - esquivara
+    - esquivase
+  nosotros:
+    - esquiváramos
+    - esquivásemos
+  vosotros:
+    - esquivarais
+    - esquivaseis
+  uds:
+    - esquivaran
+    - esquivasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera esquivado
+    - hubiese esquivado
+  tu:
+    - hubieras esquivado
+    - hubieses esquivado
+  vos:
+    - hubieras esquivado
+    - hubieses esquivado
+  ud:
+    - hubiera esquivado
+    - hubiese esquivado
+  nosotros:
+    - hubiéramos esquivado
+    - hubiésemos esquivado
+  vosotros:
+    - hubierais esquivado
+    - hubieseis esquivado
+  uds:
+    - hubieran esquivado
+    - hubiesen esquivado
+
+imperativo:
+  tu: esquiva
+  vos: esquivá
+  ud: esquiva
+  nosotros: esquivemos
+  vosotros: esquivad
+  uds: esquiven

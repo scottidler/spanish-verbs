@@ -1,0 +1,142 @@
+infinitivo: adherir
+gerundio: adhiriendo
+participio-pasado: adherido
+presente-indicativo:
+  yo: adhiero
+  tu: adhieres
+  vos: adhieres
+  ud: adhiere
+  nosotros: adherimos
+  vosotros: adheris
+  uds: adhieren
+preterito-perfecto-simple:
+  yo: adherí
+  tu: adheriste
+  vos: adheriste
+  ud: adhirió
+  nosotros: adherimos
+  vosotros: adheristeis
+  uds: adhirieron
+preterito-imperfecto:
+  yo: adhería
+  tu: adherías
+  vos: adherías
+  ud: adhería
+  nosotros: adheríamos
+  vosotros: adheríais
+  uds: adherían
+futuro-simple:
+  yo: adheriré
+  tu: adherirás
+  vos: adherirás
+  ud: adherirá
+  nosotros: adheriremos
+  vosotros: adheriréis
+  uds: adherirán
+condicional-simple:
+  yo: adheriría
+  tu: adherirías
+  vos: adherirías
+  ud: adheriría
+  nosotros: adheriríamos
+  vosotros: adheriríais
+  uds: adherirían
+presente-perfecto:
+  yo: he adherido
+  tu: has adherido
+  vos: has adherido
+  ud: ha adherido
+  nosotros: hemos adherido
+  vosotros: habéis adherido
+  uds: han adherido
+preterito-pluscuamperfecto:
+  yo: había adherido
+  tu: habías adherido
+  vos: habías adherido
+  ud: había adherido
+  nosotros: habíamos adherido
+  vosotros: habíais adherido
+  uds: habían adherido
+futuro-perfecto:
+  yo: habré adherido
+  tu: habrás adherido
+  vos: habrás adherido
+  ud: habrá adherido
+  nosotros: habremos adherido
+  vosotros: habréis adherido
+  uds: habrán adherido
+condicional-perfecto:
+  yo: habría adherido
+  tu: habrías adherido
+  vos: habrías adherido
+  ud: habría adherido
+  nosotros: habríamos adherido
+  vosotros: habríais adherido
+  uds: habrían adherido
+presente-subjuntivo:
+  yo: adhiera
+  tu: adhieras
+  vos: adhieras
+  ud: adhiera
+  nosotros: adhiramos
+  vosotros: adhieráis
+  uds: adhieran
+preterito-perfecto-subjuntivo:
+  yo: haya adherido
+  tu: hayas adherido
+  vos: hayas adherido
+  ud: haya adherido
+  nosotros: hayamos adherido
+  vosotros: hayáis adherido
+  uds: hayan adherido
+imperfecto-subjuntivo:
+  yo:
+    - adhiriera
+    - adhiriese
+  tu:
+    - adhirieras
+    - adhirieses
+  vos:
+    - adhirieras
+    - adhirieses
+  ud:
+    - adhiriera
+    - adhiriese
+  nosotros:
+    - adhiriéramos
+    - adhiriésemos
+  vosotros:
+    - adhirierais
+    - adhirieseis
+  uds:
+    - adhirieran
+    - adhiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera adherido
+    - hubiese adherido
+  tu:
+    - hubieras adherido
+    - hubieses adherido
+  vos:
+    - hubieras adherido
+    - hubieses adherido
+  ud:
+    - hubiera adherido
+    - hubiese adherido
+  nosotros:
+    - hubiéramos adherido
+    - hubiésemos adherido
+  vosotros:
+    - hubierais adherido
+    - hubieseis adherido
+  uds:
+    - hubieran adherido
+    - hubiesen adherido
+imperativo:
+  tu: adhiere
+  vos: adhierí
+  ud: adhiera
+  nosotros: adhiramos
+  vosotros: adherid
+  uds: adhieran

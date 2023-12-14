@@ -1,0 +1,142 @@
+infinitivo: rehusar
+gerundio: rehusando
+participio-pasado: rehusado
+presente-indicativo:
+  yo: rehúso
+  tu: rehúsas
+  vos: rehúses
+  ud: rehúsa
+  nosotros: rehusamos
+  vosotros: rehusáis
+  uds: rehúsan
+preterito-perfecto-simple:
+  yo: rehusé
+  tu: rehusaste
+  vos: rehusaste
+  ud: rehusó
+  nosotros: rehusamos
+  vosotros: rehusasteis
+  uds: rehusaron
+preterito-imperfecto:
+  yo: rehusaba
+  tu: rehusabas
+  vos: rehusabas
+  ud: rehusaba
+  nosotros: rehusábamos
+  vosotros: rehusabais
+  uds: rehusaban
+futuro-simple:
+  yo: rehusaré
+  tu: rehusarás
+  vos: rehusarás
+  ud: rehusará
+  nosotros: rehusaremos
+  vosotros: rehusaréis
+  uds: rehusarán
+condicional-simple:
+  yo: rehusaría
+  tu: rehusarías
+  vos: rehusarías
+  ud: rehusaría
+  nosotros: rehusaríamos
+  vosotros: rehusaríais
+  uds: rehusarían
+presente-perfecto:
+  yo: he rehusado
+  tu: has rehusado
+  vos: has rehusado
+  ud: ha rehusado
+  nosotros: hemos rehusado
+  vosotros: habéis rehusado
+  uds: han rehusado
+preterito-pluscuamperfecto:
+  yo: había rehusado
+  tu: habías rehusado
+  vos: habías rehusado
+  ud: había rehusado
+  nosotros: habíamos rehusado
+  vosotros: habíais rehusado
+  uds: habían rehusado
+futuro-perfecto:
+  yo: habré rehusado
+  tu: habrás rehusado
+  vos: habrás rehusado
+  ud: habrá rehusado
+  nosotros: habremos rehusado
+  vosotros: habréis rehusado
+  uds: habrán rehusado
+condicional-perfecto:
+  yo: habría rehusado
+  tu: habrías rehusado
+  vos: habrías rehusado
+  ud: habría rehusado
+  nosotros: habríamos rehusado
+  vosotros: habríais rehusado
+  uds: habrían rehusado
+presente-subjuntivo:
+  yo: rehúse
+  tu: rehúses
+  vos: rehúses
+  ud: rehúse
+  nosotros: rehusamos
+  vosotros: rehúséis
+  uds: rehúsen
+preterito-perfecto-subjuntivo:
+  yo: haya rehusado
+  tu: hayas rehusado
+  vos: hayas rehusado
+  ud: haya rehusado
+  nosotros: hayamos rehusado
+  vosotros: hayáis rehusado
+  uds: hayan rehusado
+imperfecto-subjuntivo:
+  yo:
+    - rehusara
+    - rehusase
+  tu:
+    - rehusaras
+    - rehusases
+  vos:
+    - rehusaras
+    - rehusases
+  ud:
+    - rehusara
+    - rehusase
+  nosotros:
+    - rehusáramos
+    - rehusásemos
+  vosotros:
+    - rehusarais
+    - rehusaseis
+  uds:
+    - rehusaran
+    - rehusasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rehusado
+    - hubiese rehusado
+  tu:
+    - hubieras rehusado
+    - hubieses rehusado
+  vos:
+    - hubieras rehusado
+    - hubieses rehusado
+  ud:
+    - hubiera rehusado
+    - hubiese rehusado
+  nosotros:
+    - hubiéramos rehusado
+    - hubiésemos rehusado
+  vosotros:
+    - hubierais rehusado
+    - hubieseis rehusado
+  uds:
+    - hubieran rehusado
+    - hubiesen rehusado
+imperativo:
+  tu: rehúsa
+  vos: rehúsa
+  ud: rehúse
+  nosotros: rehusamos
+  vosotros: rehusad
+  uds: rehúsan

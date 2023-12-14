@@ -1,0 +1,142 @@
+infinitivo: rezagar
+gerundio: rezagando
+participio-pasado: rezagado
+presente-indicativo:
+  yo: rezago
+  tu: rezagas
+  vos: rezagas
+  ud: rezaga
+  nosotros: rezagamos
+  vosotros: rezagáis
+  uds: rezagan
+preterito-perfecto-simple:
+  yo: rezagué
+  tu: rezagaste
+  vos: rezagaste
+  ud: rezagó
+  nosotros: rezagamos
+  vosotros: rezagasteis
+  uds: rezagaron
+preterito-imperfecto:
+  yo: rezagaba
+  tu: rezagabas
+  vos: rezagabas
+  ud: rezagaba
+  nosotros: rezagábamos
+  vosotros: rezagabais
+  uds: rezagaban
+futuro-simple:
+  yo: rezagaré
+  tu: rezagarás
+  vos: rezagarás
+  ud: rezagará
+  nosotros: rezagaremos
+  vosotros: rezagaréis
+  uds: rezagarán
+condicional-simple:
+  yo: rezagaría
+  tu: rezagarías
+  vos: rezagarías
+  ud: rezagaría
+  nosotros: rezagaríamos
+  vosotros: rezagaríais
+  uds: rezagarían
+presente-perfecto:
+  yo: he rezagado
+  tu: has rezagado
+  vos: has rezagado
+  ud: ha rezagado
+  nosotros: hemos rezagado
+  vosotros: habéis rezagado
+  uds: han rezagado
+preterito-pluscuamperfecto:
+  yo: había rezagado
+  tu: habías rezagado
+  vos: habías rezagado
+  ud: había rezagado
+  nosotros: habíamos rezagado
+  vosotros: habíais rezagado
+  uds: habían rezagado
+futuro-perfecto:
+  yo: habré rezagado
+  tu: habrás rezagado
+  vos: habrás rezagado
+  ud: habrá rezagado
+  nosotros: habremos rezagado
+  vosotros: habréis rezagado
+  uds: habrán rezagado
+condicional-perfecto:
+  yo: habría rezagado
+  tu: habrías rezagado
+  vos: habrías rezagado
+  ud: habría rezagado
+  nosotros: habríamos rezagado
+  vosotros: habríais rezagado
+  uds: habrían rezagado
+presente-subjuntivo:
+  yo: rezague
+  tu: rezagues
+  vos: rezagues
+  ud: rezague
+  nosotros: rezaguemos
+  vosotros: rezaguéis
+  uds: rezaguen
+preterito-perfecto-subjuntivo:
+  yo: haya rezagado
+  tu: hayas rezagado
+  vos: hayas rezagado
+  ud: haya rezagado
+  nosotros: hayamos rezagado
+  vosotros: hayáis rezagado
+  uds: hayan rezagado
+imperfecto-subjuntivo:
+  yo:
+    - rezagara
+    - rezagase
+  tu:
+    - rezagaras
+    - rezagases
+  vos:
+    - rezagaras
+    - rezagases
+  ud:
+    - rezagara
+    - rezagase
+  nosotros:
+    - rezagáramos
+    - rezagásemos
+  vosotros:
+    - rezagarais
+    - rezagaseis
+  uds:
+    - rezagaran
+    - rezagasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rezagado
+    - hubiese rezagado
+  tu:
+    - hubieras rezagado
+    - hubieses rezagado
+  vos:
+    - hubieras rezagado
+    - hubieses rezagado
+  ud:
+    - hubiera rezagado
+    - hubiese rezagado
+  nosotros:
+    - hubiéramos rezagado
+    - hubiésemos rezagado
+  vosotros:
+    - hubierais rezagado
+    - hubieseis rezagado
+  uds:
+    - hubieran rezagado
+    - hubiesen rezagado
+imperativo:
+  tu: rezaga
+  vos: rezagá
+  ud: rezague
+  nosotros: rezaguemos
+  vosotros: rezagad
+  uds: rezaguen

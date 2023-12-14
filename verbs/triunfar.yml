@@ -1,0 +1,142 @@
+infinitivo: triunfar
+gerundio: triunfando
+participio-pasado: triunfado
+presente-indicativo:
+  yo: triunfo
+  tu: triunfas
+  vos: triunfas
+  ud: triunfa
+  nosotros: triunfamos
+  vosotros: triunfáis
+  uds: triunfan
+preterito-perfecto-simple:
+  yo: triunfé
+  tu: triunfaste
+  vos: triunfaste
+  ud: triunfó
+  nosotros: triunfamos
+  vosotros: triunfasteis
+  uds: triunfaron
+preterito-imperfecto:
+  yo: triunfaba
+  tu: triunfabas
+  vos: triunfabas
+  ud: triunfaba
+  nosotros: triunfábamos
+  vosotros: triunfabais
+  uds: triunfaban
+futuro-simple:
+  yo: triunfaré
+  tu: triunfarás
+  vos: triunfarás
+  ud: triunfará
+  nosotros: triunfaremos
+  vosotros: triunfaréis
+  uds: triunfarán
+condicional-simple:
+  yo: triunfaría
+  tu: triunfarías
+  vos: triunfarías
+  ud: triunfaría
+  nosotros: triunfaríamos
+  vosotros: triunfaríais
+  uds: triunfarían
+presente-perfecto:
+  yo: he triunfado
+  tu: has triunfado
+  vos: has triunfado
+  ud: ha triunfado
+  nosotros: hemos triunfado
+  vosotros: habéis triunfado
+  uds: han triunfado
+preterito-pluscuamperfecto:
+  yo: había triunfado
+  tu: habías triunfado
+  vos: habías triunfado
+  ud: había triunfado
+  nosotros: habíamos triunfado
+  vosotros: habíais triunfado
+  uds: habían triunfado
+futuro-perfecto:
+  yo: habré triunfado
+  tu: habrás triunfado
+  vos: habrás triunfado
+  ud: habrá triunfado
+  nosotros: habremos triunfado
+  vosotros: habréis triunfado
+  uds: habrán triunfado
+condicional-perfecto:
+  yo: habría triunfado
+  tu: habrías triunfado
+  vos: habrías triunfado
+  ud: habría triunfado
+  nosotros: habríamos triunfado
+  vosotros: habríais triunfado
+  uds: habrían triunfado
+presente-subjuntivo:
+  yo: triunfe
+  tu: triunfes
+  vos: triunfes
+  ud: triunfe
+  nosotros: triunfemos
+  vosotros: triunféis
+  uds: triunfen
+preterito-perfecto-subjuntivo:
+  yo: haya triunfado
+  tu: hayas triunfado
+  vos: hayas triunfado
+  ud: haya triunfado
+  nosotros: hayamos triunfado
+  vosotros: hayáis triunfado
+  uds: hayan triunfado
+imperfecto-subjuntivo:
+  yo:
+    - triunfara
+    - triunfase
+  tu:
+    - triunfaras
+    - triunfases
+  vos:
+    - triunfaras
+    - triunfases
+  ud:
+    - triunfara
+    - triunfase
+  nosotros:
+    - triunfáramos
+    - triunfásemos
+  vosotros:
+    - triunfarais
+    - triunfaseis
+  uds:
+    - triunfaran
+    - triunfasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera triunfado
+    - hubiese triunfado
+  tu:
+    - hubieras triunfado
+    - hubieses triunfado
+  vos:
+    - hubieras triunfado
+    - hubieses triunfado
+  ud:
+    - hubiera triunfado
+    - hubiese triunfado
+  nosotros:
+    - hubiéramos triunfado
+    - hubiésemos triunfado
+  vosotros:
+    - hubierais triunfado
+    - hubieseis triunfado
+  uds:
+    - hubieran triunfado
+    - hubiesen triunfado
+imperativo:
+  tu: triunfa
+  vos: triunfá
+  ud: triunfe
+  nosotros: triunfemos
+  vosotros: triunfad
+  uds: triunfen

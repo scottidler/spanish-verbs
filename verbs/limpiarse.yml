@@ -1,0 +1,142 @@
+infinitivo: limpiarse
+gerundio: limpiándose
+participio-pasado: limpiado
+presente-indicativo:
+  yo: me limpio
+  tu: te limpias
+  vos: te limpias
+  ud: se limpia
+  nosotros: nos limpiamos
+  vosotros: os limpiáis
+  uds: se limpian
+preterito-perfecto-simple:
+  yo: me limpié
+  tu: te limpiaste
+  vos: te limpiaste
+  ud: se limpió
+  nosotros: nos limpiamos
+  vosotros: os limpiasteis
+  uds: se limpiaron
+preterito-imperfecto:
+  yo: me limpiaba
+  tu: te limpiabas
+  vos: te limpiabas
+  ud: se limpiaba
+  nosotros: nos limpiábamos
+  vosotros: os limpiabais
+  uds: se limpiaban
+futuro-simple:
+  yo: me limpiaré
+  tu: te limpiarás
+  vos: te limpiarás
+  ud: se limpiará
+  nosotros: nos limpiaremos
+  vosotros: os limpiaréis
+  uds: se limpiarán
+condicional-simple:
+  yo: me limpiaría
+  tu: te limpiarías
+  vos: te limpiarías
+  ud: se limpiaría
+  nosotros: nos limpiaríamos
+  vosotros: os limpiaríais
+  uds: se limpiarían
+presente-perfecto:
+  yo: me he limpiado
+  tu: te has limpiado
+  vos: te has limpiado
+  ud: se ha limpiado
+  nosotros: nos hemos limpiado
+  vosotros: os habéis limpiado
+  uds: se han limpiado
+preterito-pluscuamperfecto:
+  yo: me había limpiado
+  tu: te habías limpiado
+  vos: te habías limpiado
+  ud: se había limpiado
+  nosotros: nos habíamos limpiado
+  vosotros: os habíais limpiado
+  uds: se habían limpiado
+futuro-perfecto:
+  yo: me habré limpiado
+  tu: te habrás limpiado
+  vos: te habrás limpiado
+  ud: se habrá limpiado
+  nosotros: nos habremos limpiado
+  vosotros: os habréis limpiado
+  uds: se habrán limpiado
+condicional-perfecto:
+  yo: me habría limpiado
+  tu: te habrías limpiado
+  vos: te habrías limpiado
+  ud: se habría limpiado
+  nosotros: nos habríamos limpiado
+  vosotros: os habríais limpiado
+  uds: se habrían limpiado
+presente-subjuntivo:
+  yo: me limpie
+  tu: te limpies
+  vos: te limpies
+  ud: se limpie
+  nosotros: nos limpiemos
+  vosotros: os limpiéis
+  uds: se limpien
+preterito-perfecto-subjuntivo:
+  yo: me haya limpiado
+  tu: te hayas limpiado
+  vos: te hayas limpiado
+  ud: se haya limpiado
+  nosotros: nos hayamos limpiado
+  vosotros: os hayáis limpiado
+  uds: se hayan limpiado
+imperfecto-subjuntivo:
+  yo:
+    - me limpiara
+    - me limpiase
+  tu:
+    - te limpiaras
+    - te limpiases
+  vos:
+    - te limpiaras
+    - te limpiases
+  ud:
+    - se limpiara
+    - se limpiase
+  nosotros:
+    - nos limpiáramos
+    - nos limpiásemos
+  vosotros:
+    - os limpiarais
+    - os limpiaseis
+  uds:
+    - se limpiaran
+    - se limpiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera limpiado
+    - me hubiese limpiado
+  tu:
+    - te hubieras limpiado
+    - te hubieses limpiado
+  vos:
+    - te hubieras limpiado
+    - te hubieses limpiado
+  ud:
+    - se hubiera limpiado
+    - se hubiese limpiado
+  nosotros:
+    - nos hubiéramos limpiado
+    - nos hubiésemos limpiado
+  vosotros:
+    - os hubierais limpiado
+    - os hubieseis limpiado
+  uds:
+    - se hubieran limpiado
+    - se hubiesen limpiado
+imperativo:
+  tu: límpiate
+  vos: límpiate
+  ud: límpiese
+  nosotros: limpiémonos
+  vosotros: limpiaos
+  uds: límpiense

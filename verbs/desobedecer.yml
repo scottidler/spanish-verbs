@@ -1,0 +1,142 @@
+infinitivo: desobedecer
+gerundio: desobedeciendo
+participio-pasado: desobedecido
+presente-indicativo:
+  yo: desobedezco
+  tu: desobedeces
+  vos: desobedeces
+  ud: desobedece
+  nosotros: desobedecemos
+  vosotros: desobedecéis
+  uds: desobedecen
+preterito-perfecto-simple:
+  yo: desobedecí
+  tu: desobedeciste
+  vos: desobedeciste
+  ud: desobedeció
+  nosotros: desobedecimos
+  vosotros: desobedecisteis
+  uds: desobedecieron
+preterito-imperfecto:
+  yo: desobedecía
+  tu: desobedecías
+  vos: desobedecías
+  ud: desobedecía
+  nosotros: desobedecíamos
+  vosotros: desobedecíais
+  uds: desobedecían
+futuro-simple:
+  yo: desobedeceré
+  tu: desobedecerás
+  vos: desobedecerás
+  ud: desobedecerá
+  nosotros: desobedeceremos
+  vosotros: desobedeceréis
+  uds: desobedecerán
+condicional-simple:
+  yo: desobedecería
+  tu: desobedecerías
+  vos: desobedecerías
+  ud: desobedecería
+  nosotros: desobedeceríamos
+  vosotros: desobedeceríais
+  uds: desobedecerían
+presente-perfecto:
+  yo: he desobedecido
+  tu: has desobedecido
+  vos: has desobedecido
+  ud: ha desobedecido
+  nosotros: hemos desobedecido
+  vosotros: habéis desobedecido
+  uds: han desobedecido
+preterito-pluscuamperfecto:
+  yo: había desobedecido
+  tu: habías desobedecido
+  vos: habías desobedecido
+  ud: había desobedecido
+  nosotros: habíamos desobedecido
+  vosotros: habíais desobedecido
+  uds: habían desobedecido
+futuro-perfecto:
+  yo: habré desobedecido
+  tu: habrás desobedecido
+  vos: habrás desobedecido
+  ud: habrá desobedecido
+  nosotros: habremos desobedecido
+  vosotros: habréis desobedecido
+  uds: habrán desobedecido
+condicional-perfecto:
+  yo: habría desobedecido
+  tu: habrías desobedecido
+  vos: habrías desobedecido
+  ud: habría desobedecido
+  nosotros: habríamos desobedecido
+  vosotros: habríais desobedecido
+  uds: habrían desobedecido
+presente-subjuntivo:
+  yo: desobedezca
+  tu: desobedezcas
+  vos: desobedezcas
+  ud: desobedezca
+  nosotros: desobedezcamos
+  vosotros: desobedezcáis
+  uds: desobedezcan
+preterito-perfecto-subjuntivo:
+  yo: haya desobedecido
+  tu: hayas desobedecido
+  vos: hayas desobedecido
+  ud: haya desobedecido
+  nosotros: hayamos desobedecido
+  vosotros: hayáis desobedecido
+  uds: hayan desobedecido
+imperfecto-subjuntivo:
+  yo:
+    - desobedeciera
+    - desobedeciese
+  tu:
+    - desobedecieras
+    - desobedecieses
+  vos:
+    - desobedecieras
+    - desobedecieses
+  ud:
+    - desobedeciera
+    - desobedeciese
+  nosotros:
+    - desobedeciéramos
+    - desobedeciésemos
+  vosotros:
+    - desobedecierais
+    - desobedecieseis
+  uds:
+    - desobedecieran
+    - desobedeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desobedecido
+    - hubiese desobedecido
+  tu:
+    - hubieras desobedecido
+    - hubieses desobedecido
+  vos:
+    - hubieras desobedecido
+    - hubieses desobedecido
+  ud:
+    - hubiera desobedecido
+    - hubiese desobedecido
+  nosotros:
+    - hubiéramos desobedecido
+    - hubiésemos desobedecido
+  vosotros:
+    - hubierais desobedecido
+    - hubieseis desobedecido
+  uds:
+    - hubieran desobedecido
+    - hubiesen desobedecido
+imperativo:
+  tu: desobedece
+  vos: desobedecé
+  ud: desobedezca
+  nosotros: desobedezcamos
+  vosotros: desobedeced
+  uds: desobedezcan

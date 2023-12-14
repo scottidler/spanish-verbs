@@ -1,0 +1,142 @@
+infinitivo: desconcertar
+gerundio: desconcertando
+participio-pasado: desconcertado
+presente-indicativo:
+  yo: desconcierto
+  tu: desconciertas
+  vos: desconcertás
+  ud: desconcierta
+  nosotros: desconcertamos
+  vosotros: desconcertáis
+  uds: desconciertan
+preterito-perfecto-simple:
+  yo: desconcerté
+  tu: desconcertaste
+  vos: desconcertaste
+  ud: desconcertó
+  nosotros: desconcertamos
+  vosotros: desconcertasteis
+  uds: desconcertaron
+preterito-imperfecto:
+  yo: desconcertaba
+  tu: desconcertabas
+  vos: desconcertabas
+  ud: desconcertaba
+  nosotros: desconcertábamos
+  vosotros: desconcertabais
+  uds: desconcertaban
+futuro-simple:
+  yo: desconcertaré
+  tu: desconcertarás
+  vos: desconcertarás
+  ud: desconcertará
+  nosotros: desconcertaremos
+  vosotros: desconcertaréis
+  uds: desconcertarán
+condicional-simple:
+  yo: desconcertaría
+  tu: desconcertarías
+  vos: desconcertarías
+  ud: desconcertaría
+  nosotros: desconcertaríamos
+  vosotros: desconcertaríais
+  uds: desconcertarían
+presente-perfecto:
+  yo: he desconcertado
+  tu: has desconcertado
+  vos: has desconcertado
+  ud: ha desconcertado
+  nosotros: hemos desconcertado
+  vosotros: habéis desconcertado
+  uds: han desconcertado
+preterito-pluscuamperfecto:
+  yo: había desconcertado
+  tu: habías desconcertado
+  vos: habías desconcertado
+  ud: había desconcertado
+  nosotros: habíamos desconcertado
+  vosotros: habíais desconcertado
+  uds: habían desconcertado
+futuro-perfecto:
+  yo: habré desconcertado
+  tu: habrás desconcertado
+  vos: habrás desconcertado
+  ud: habrá desconcertado
+  nosotros: habremos desconcertado
+  vosotros: habréis desconcertado
+  uds: habrán desconcertado
+condicional-perfecto:
+  yo: habría desconcertado
+  tu: habrías desconcertado
+  vos: habrías desconcertado
+  ud: habría desconcertado
+  nosotros: habríamos desconcertado
+  vosotros: habríais desconcertado
+  uds: habrían desconcertado
+presente-subjuntivo:
+  yo: desconcierte
+  tu: desconciertes
+  vos: desconciertes
+  ud: desconcierte
+  nosotros: desconcertemos
+  vosotros: desconcertéis
+  uds: desconcierten
+preterito-perfecto-subjuntivo:
+  yo: haya desconcertado
+  tu: hayas desconcertado
+  vos: hayas desconcertado
+  ud: haya desconcertado
+  nosotros: hayamos desconcertado
+  vosotros: hayáis desconcertado
+  uds: hayan desconcertado
+imperfecto-subjuntivo:
+  yo:
+    - desconcertara
+    - desconcertase
+  tu:
+    - desconcertaras
+    - desconcertases
+  vos:
+    - desconcertaras
+    - desconcertases
+  ud:
+    - desconcertara
+    - desconcertase
+  nosotros:
+    - desconcertáramos
+    - desconcertásemos
+  vosotros:
+    - desconcertarais
+    - desconcertaseis
+  uds:
+    - desconcertaran
+    - desconcertasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desconcertado
+    - hubiese desconcertado
+  tu:
+    - hubieras desconcertado
+    - hubieses desconcertado
+  vos:
+    - hubieras desconcertado
+    - hubieses desconcertado
+  ud:
+    - hubiera desconcertado
+    - hubiese desconcertado
+  nosotros:
+    - hubiéramos desconcertado
+    - hubiésemos desconcertado
+  vosotros:
+    - hubierais desconcertado
+    - hubieseis desconcertado
+  uds:
+    - hubieran desconcertado
+    - hubiesen desconcertado
+imperativo:
+  tu: desconcierta
+  vos: desconcertá
+  ud: desconcierte
+  nosotros: desconcertemos
+  vosotros: desconcertad
+  uds: desconcierten

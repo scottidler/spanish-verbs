@@ -1,0 +1,142 @@
+infinitivo: oírmir
+gerundio: oírmiendo
+participio-pasado: oírmido
+presente-indicativo:
+  yo: oírmo
+  tu: oírmes
+  vos: oírmes
+  ud: oírme
+  nosotros: oírmos
+  vosotros: oírmís
+  uds: oírmes
+preterito-perfecto-simple:
+  yo: oírmí
+  tu: oírmiste
+  vos: oírmiste
+  ud: oírmió
+  nosotros: oírmimos
+  vosotros: oírmisteis
+  uds: oírmiaron
+preterito-imperfecto:
+  yo: oírmía
+  tu: oírmías
+  vos: oírmías
+  ud: oírmía
+  nosotros: oírmíamos
+  vosotros: oírmíais
+  uds: oírmían
+futuro-simple:
+  yo: oírmiré
+  tu: oírmirás
+  vos: oírmirás
+  ud: oírmirá
+  nosotros: oírmiremos
+  vosotros: oírmiréis
+  uds: oírmirán
+condicional-simple:
+  yo: oírmiría
+  tu: oírmirías
+  vos: oírmirías
+  ud: oírmiría
+  nosotros: oírmiríamos
+  vosotros: oírmiríais
+  uds: oírmirían
+presente-perfecto:
+  yo: he oírmido
+  tu: has oírmido
+  vos: has oírmido
+  ud: ha oírmido
+  nosotros: hemos oírmido
+  vosotros: habéis oírmido
+  uds: han oírmido
+preterito-pluscuamperfecto:
+  yo: había oírmido
+  tu: habías oírmido
+  vos: habías oírmido
+  ud: había oírmido
+  nosotros: habíamos oírmido
+  vosotros: habíais oírmido
+  uds: habían oírmido
+futuro-perfecto:
+  yo: habré oírmido
+  tu: habrás oírmido
+  vos: habrás oírmido
+  ud: habrá oírmido
+  nosotros: habremos oírmido
+  vosotros: habréis oírmido
+  uds: habrán oírmido
+condicional-perfecto:
+  yo: habría oírmido
+  tu: habrías oírmido
+  vos: habrías oírmido
+  ud: habría oírmido
+  nosotros: habríamos oírmido
+  vosotros: habríais oírmido
+  uds: habrían oírmido
+presente-subjuntivo:
+  yo: oírma
+  tu: oírmas
+  vos: oírmas
+  ud: oírma
+  nosotros: oírmamos
+  vosotros: oírmáis
+  uds: oírman
+preterito-perfecto-subjuntivo:
+  yo: haya oírmido
+  tu: hayas oírmido
+  vos: hayas oírmido
+  ud: haya oírmido
+  nosotros: hayamos oírmido
+  vosotros: hayáis oírmido
+  uds: hayan oírmido
+imperfecto-subjuntivo:
+  yo:
+    - oírmiera
+    - oírmiese
+  tu:
+    - oírmieras
+    - oírmieses
+  vos:
+    - oírmieras
+    - oírmieses
+  ud:
+    - oírmiera
+    - oírmiese
+  nosotros:
+    - oírmiéramos
+    - oírmiésemos
+  vosotros:
+    - oírmierais
+    - oírmieseis
+  uds:
+    - oírmieran
+    - oírmiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera oírmido
+    - hubiese oírmido
+  tu:
+    - hubieras oírmido
+    - hubieses oírmido
+  vos:
+    - hubieras oírmido
+    - hubieses oírmido
+  ud:
+    - hubiera oírmido
+    - hubiese oírmido
+  nosotros:
+    - hubiéramos oírmido
+    - hubiésemos oírmido
+  vosotros:
+    - hubierais oírmido
+    - hubieseis oírmido
+  uds:
+    - hubieran oírmido
+    - hubiesen oírmido
+imperativo:
+  tu: oírme
+  vos: oírme
+  ud: oírma
+  nosotros: oírmamos
+  vosotros: oírmiros
+  uds: oírman

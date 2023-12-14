@@ -1,0 +1,142 @@
+infinitivo: vislumbrar
+gerundio: vislumbrando
+participio-pasado: vislumbrado
+presente-indicativo:
+  yo: vislumbro
+  tu: vislumbras
+  vos: vislumbras
+  ud: vislumbra
+  nosotros: vislumbramos
+  vosotros: vislumbráis
+  uds: vislumbran
+preterito-perfecto-simple:
+  yo: vislumbré
+  tu: vislumbraste
+  vos: vislumbraste
+  ud: vislumbró
+  nosotros: vislumbramos
+  vosotros: vislumbrasteis
+  uds: vislumbraron
+preterito-imperfecto:
+  yo: vislumbraba
+  tu: vislumbrabas
+  vos: vislumbrabas
+  ud: vislumbraba
+  nosotros: vislumbrábamos
+  vosotros: vislumbrabais
+  uds: vislumbraban
+futuro-simple:
+  yo: vislumbraré
+  tu: vislumbrarás
+  vos: vislumbrarás
+  ud: vislumbrará
+  nosotros: vislumbraremos
+  vosotros: vislumbraréis
+  uds: vislumbrarán
+condicional-simple:
+  yo: vislumbraría
+  tu: vislumbrarías
+  vos: vislumbrarías
+  ud: vislumbraría
+  nosotros: vislumbraríamos
+  vosotros: vislumbraríais
+  uds: vislumbrarían
+presente-perfecto:
+  yo: he vislumbrado
+  tu: has vislumbrado
+  vos: has vislumbrado
+  ud: ha vislumbrado
+  nosotros: hemos vislumbrado
+  vosotros: habéis vislumbrado
+  uds: han vislumbrado
+preterito-pluscuamperfecto:
+  yo: había vislumbrado
+  tu: habías vislumbrado
+  vos: habías vislumbrado
+  ud: había vislumbrado
+  nosotros: habíamos vislumbrado
+  vosotros: habíais vislumbrado
+  uds: habían vislumbrado
+futuro-perfecto:
+  yo: habré vislumbrado
+  tu: habrás vislumbrado
+  vos: habrás vislumbrado
+  ud: habrá vislumbrado
+  nosotros: habremos vislumbrado
+  vosotros: habréis vislumbrado
+  uds: habrán vislumbrado
+condicional-perfecto:
+  yo: habría vislumbrado
+  tu: habrías vislumbrado
+  vos: habrías vislumbrado
+  ud: habría vislumbrado
+  nosotros: habríamos vislumbrado
+  vosotros: habríais vislumbrado
+  uds: habrían vislumbrado
+presente-subjuntivo:
+  yo: vislumbre
+  tu: vislumbres
+  vos: vislumbres
+  ud: vislumbre
+  nosotros: vislumbremos
+  vosotros: vislumbréis
+  uds: vislumbren
+preterito-perfecto-subjuntivo:
+  yo: haya vislumbrado
+  tu: hayas vislumbrado
+  vos: hayas vislumbrado
+  ud: haya vislumbrado
+  nosotros: hayamos vislumbrado
+  vosotros: hayáis vislumbrado
+  uds: hayan vislumbrado
+imperfecto-subjuntivo:
+  yo:
+    - vislumbrara
+    - vislumbrase
+  tu:
+    - vislumbraras
+    - vislumbrases
+  vos:
+    - vislumbraras
+    - vislumbrases
+  ud:
+    - vislumbrara
+    - vislumbrase
+  nosotros:
+    - vislumbráramos
+    - vislumbrásemos
+  vosotros:
+    - vislumbrarais
+    - vislumbraseis
+  uds:
+    - vislumbraran
+    - vislumbrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vislumbrado
+    - hubiese vislumbrado
+  tu:
+    - hubieras vislumbrado
+    - hubieses vislumbrado
+  vos:
+    - hubieras vislumbrado
+    - hubieses vislumbrado
+  ud:
+    - hubiera vislumbrado
+    - hubiese vislumbrado
+  nosotros:
+    - hubiéramos vislumbrado
+    - hubiésemos vislumbrado
+  vosotros:
+    - hubierais vislumbrado
+    - hubieseis vislumbrado
+  uds:
+    - hubieran vislumbrado
+    - hubiesen vislumbrado
+imperativo:
+  tu: vislumbra
+  vos: vislumbrá
+  ud: vislumbre
+  nosotros: vislumbremos
+  vosotros: vislumbrad
+  uds: vislumbren

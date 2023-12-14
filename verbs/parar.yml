@@ -1,0 +1,142 @@
+infinitivo: parar
+gerundio: parando
+participio-pasado: parado
+presente-indicativo:
+  yo: paro
+  tu: paras
+  vos: paras
+  ud: para
+  nosotros: paramos
+  vosotros: paráis
+  uds: paran
+preterito-perfecto-simple:
+  yo: paré
+  tu: paraste
+  vos: paraste
+  ud: paró
+  nosotros: paramos
+  vosotros: parasteis
+  uds: pararon
+preterito-imperfecto:
+  yo: paraba
+  tu: parabas
+  vos: parabas
+  ud: paraba
+  nosotros: parábamos
+  vosotros: arabais
+  uds: paraban
+futuro-simple:
+  yo: pararé
+  tu: pararás
+  vos: pararás
+  ud: parará
+  nosotros: pararemos
+  vosotros: pararéis
+  uds: pararán
+condicional-simple:
+  yo: pararía
+  tu: pararías
+  vos: pararías
+  ud: pararía
+  nosotros: pararíamos
+  vosotros: pararíais
+  uds: pararían
+presente-perfecto:
+  yo: he parado
+  tu: has parado
+  vos: has parado
+  ud: ha parado
+  nosotros: hemos parado
+  vosotros: habéis parado
+  uds: han parado
+preterito-pluscuamperfecto:
+  yo: había parado
+  tu: habías parado
+  vos: habías parado
+  ud: había parado
+  nosotros: habíamos parado
+  vosotros: habíais parado
+  uds: habían parado
+futuro-perfecto:
+  yo: habré parado
+  tu: habrás parado
+  vos: habrás parado
+  ud: habrá parado
+  nosotros: habremos parado
+  vosotros: habréis parado
+  uds: habrán parado
+condicional-perfecto:
+  yo: habría parado
+  tu: habrías parado
+  vos: habrías parado
+  ud: habría parado
+  nosotros: habríamos parado
+  vosotros: habríais parado
+  uds: habrían parado
+presente-subjuntivo:
+  yo: pare
+  tu: pares
+  vos: pares
+  ud: pare
+  nosotros: paremos
+  vosotros: paréis
+  uds: paren
+preterito-perfecto-subjuntivo:
+  yo: haya parado
+  tu: hayas parado
+  vos: hayas parado
+  ud: haya parado
+  nosotros: hayamos parado
+  vosotros: hayáis parado
+  uds: hayan parado
+imperfecto-subjuntivo:
+  yo:
+    - parara
+    - parase
+  tu:
+    - pararas
+    - parases
+  vos:
+    - pararas
+    - parases
+  ud:
+    - parara
+    - parase
+  nosotros:
+    - paráramos
+    - parásemos
+  vosotros:
+    - pararais
+    - paraseis
+  uds:
+    - pararan
+    - parasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera parado
+    - hubiese parado
+  tu:
+    - hubieras parado
+    - hubieses parado
+  vos:
+    - hubieras parado
+    - hubieses parado
+  ud:
+    - hubiera parado
+    - hubiese parado
+  nosotros:
+    - hubiéramos parado
+    - hubiésemos parado
+  vosotros:
+    - hubierais parado
+    - hubieseis parado
+  uds:
+    - hubieran parado
+    - hubiesen parado
+imperativo:
+  tu: para
+  vos: pará
+  ud: pare
+  nosotros: paremos
+  vosotros: parad
+  uds: paren

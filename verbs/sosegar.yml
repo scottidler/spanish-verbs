@@ -1,0 +1,142 @@
+infinitivo: sosegar
+gerundio: sosegando
+participio-pasado: sosegado
+presente-indicativo:
+  yo: sosiego
+  tu: sosiegas
+  vos: sosiegas
+  ud: sosiega
+  nosotros: sosegamos
+  vosotros: sosegáis
+  uds: sosiegan
+preterito-perfecto-simple:
+  yo: sosegué
+  tu: sosegaste
+  vos: sosegaste
+  ud: sosegó
+  nosotros: sosegamos
+  vosotros: sosegasteis
+  uds: sosegaron
+preterito-imperfecto:
+  yo: sosegaba
+  tu: sosegabas
+  vos: sosegabas
+  ud: sosegaba
+  nosotros: sosegábamos
+  vosotros: sosegabais
+  uds: sosegaban
+futuro-simple:
+  yo: sosegaré
+  tu: sosegarás
+  vos: sosegarás
+  ud: sosegará
+  nosotros: sosegaremos
+  vosotros: sosegaréis
+  uds: sosegarán
+condicional-simple:
+  yo: sosegaría
+  tu: sosegarías
+  vos: sosegarías
+  ud: sosegaría
+  nosotros: sosegaríamos
+  vosotros: sosegaríais
+  uds: sosegarían
+presente-perfecto:
+  yo: he sosegado
+  tu: has sosegado
+  vos: has sosegado
+  ud: ha sosegado
+  nosotros: hemos sosegado
+  vosotros: habéis sosegado
+  uds: han sosegado
+preterito-pluscuamperfecto:
+  yo: había sosegado
+  tu: habías sosegado
+  vos: habías sosegado
+  ud: había sosegado
+  nosotros: habíamos sosegado
+  vosotros: habíais sosegado
+  uds: habían sosegado
+futuro-perfecto:
+  yo: habré sosegado
+  tu: habrás sosegado
+  vos: habrás sosegado
+  ud: habrá sosegado
+  nosotros: habremos sosegado
+  vosotros: habréis sosegado
+  uds: habrán sosegado
+condicional-perfecto:
+  yo: habría sosegado
+  tu: habrías sosegado
+  vos: habrías sosegado
+  ud: habría sosegado
+  nosotros: habríamos sosegado
+  vosotros: habríais sosegado
+  uds: habrían sosegado
+presente-subjuntivo:
+  yo: sosiegue
+  tu: sosiegues
+  vos: sosiegues
+  ud: sosiegue
+  nosotros: soseguemos
+  vosotros: soseguéis
+  uds: sosieguen
+preterito-perfecto-subjuntivo:
+  yo: haya sosegado
+  tu: hayas sosegado
+  vos: hayas sosegado
+  ud: haya sosegado
+  nosotros: hayamos sosegado
+  vosotros: hayáis sosegado
+  uds: hayan sosegado
+imperfecto-subjuntivo:
+  yo:
+    - sosegara
+    - sosegarase
+  tu:
+    - sosegaras
+    - sosegarses
+  vos:
+    - sosegaras
+    - sosegarses
+  ud:
+    - sosegara
+    - sosegarase
+  nosotros:
+    - sosegáramos
+    - sosegásemos
+  vosotros:
+    - sosegarais
+    - sosegaraseis
+  uds:
+    - sosegaran
+    - sosegasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sosegado
+    - hubiese sosegado
+  tu:
+    - hubieras sosegado
+    - hubieses sosegado
+  vos:
+    - hubieras sosegado
+    - hubieses sosegado
+  ud:
+    - hubiera sosegado
+    - hubiese sosegado
+  nosotros:
+    - hubiéramos sosegado
+    - hubiésemos sosegado
+  vosotros:
+    - hubierais sosegado
+    - hubieseis sosegado
+  uds:
+    - hubieran sosegado
+    - hubiesen sosegado
+imperativo:
+  tu: sosiega
+  vos: sosiegá
+  ud: sosiegue
+  nosotros: soseguemos
+  vosotros: sososegad
+  uds: sosieguen

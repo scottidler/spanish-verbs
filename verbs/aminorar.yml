@@ -1,0 +1,142 @@
+infinitivo: aminorar
+gerundio: aminorando
+participio-pasado: aminorado
+presente-indicativo:
+  yo: aminoro
+  tu: aminoras
+  vos: aminoras
+  ud: aminora
+  nosotros: aminoramos
+  vosotros: aminoráis
+  uds: aminoran
+preterito-perfecto-simple:
+  yo: aminoré
+  tu: aminoraste
+  vos: aminoraste
+  ud: aminoró
+  nosotros: aminoramos
+  vosotros: aminorasteis
+  uds: aminoraron
+preterito-imperfecto:
+  yo: aminoraba
+  tu: aminorabas
+  vos: aminorabas
+  ud: aminoraba
+  nosotros: aminorábamos
+  vosotros: aminorabais
+  uds: aminoraban
+futuro-simple:
+  yo: aminoraré
+  tu: aminorarás
+  vos: aminorarás
+  ud: aminorará
+  nosotros: aminoraremos
+  vosotros: aminoraréis
+  uds: aminorarán
+condicional-simple:
+  yo: aminoraría
+  tu: aminorarías
+  vos: aminorarías
+  ud: aminoraría
+  nosotros: aminoraríamos
+  vosotros: aminoraríais
+  uds: aminorarían
+presente-perfecto:
+  yo: he aminorado
+  tu: has aminorado
+  vos: has aminorado
+  ud: ha aminorado
+  nosotros: hemos aminorado
+  vosotros: habéis aminorado
+  uds: han aminorado
+preterito-pluscuamperfecto:
+  yo: había aminorado
+  tu: habías aminorado
+  vos: habías aminorado
+  ud: había aminorado
+  nosotros: habíamos aminorado
+  vosotros: habíais aminorado
+  uds: habían aminorado
+futuro-perfecto:
+  yo: habré aminorado
+  tu: habrás aminorado
+  vos: habrás aminorado
+  ud: habrá aminorado
+  nosotros: habremos aminorado
+  vosotros: habréis aminorado
+  uds: habrán aminorado
+condicional-perfecto:
+  yo: habría aminorado
+  tu: habrías aminorado
+  vos: habrías aminorado
+  ud: habría aminorado
+  nosotros: habríamos aminorado
+  vosotros: habríais aminorado
+  uds: habrían aminorado
+presente-subjuntivo:
+  yo: aminore
+  tu: aminores
+  vos: aminores
+  ud: aminore
+  nosotros: aminoremos
+  vosotros: aminoréis
+  uds: aminoren
+preterito-perfecto-subjuntivo:
+  yo: haya aminorado
+  tu: hayas aminorado
+  vos: hayas aminorado
+  ud: haya aminorado
+  nosotros: hayamos aminorado
+  vosotros: hayáis aminorado
+  uds: hayan aminorado
+imperfecto-subjuntivo:
+  yo:
+    - aminorara
+    - aminorase
+  tu:
+    - aminoraras
+    - aminorases
+  vos:
+    - aminoraras
+    - aminorases
+  ud:
+    - aminorara
+    - aminorase
+  nosotros:
+    - aminoráramos
+    - aminorásemos
+  vosotros:
+    - aminorarais
+    - aminoraseis
+  uds:
+    - aminoraran
+    - aminorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aminorado
+    - hubiese aminorado
+  tu:
+    - hubieras aminorado
+    - hubieses aminorado
+  vos:
+    - hubieras aminorado
+    - hubieses aminorado
+  ud:
+    - hubiera aminorado
+    - hubiese aminorado
+  nosotros:
+    - hubiéramos aminorado
+    - hubiésemos aminorado
+  vosotros:
+    - hubierais aminorado
+    - hubieseis aminorado
+  uds:
+    - hubieran aminorado
+    - hubiesen aminorado
+imperativo:
+  tu: aminora
+  vos: aminorá
+  ud: aminore
+  nosotros: aminoremos
+  vosotros: aminorad
+  uds: aminoren

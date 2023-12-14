@@ -1,0 +1,142 @@
+infinitivo: confesar
+gerundio: confesando
+participio-pasado: confesado
+presente-indicativo:
+  yo: confieso
+  tu: confiesas
+  vos: confesás
+  ud: confiesa
+  nosotros: confesamos
+  vosotros: confesáis
+  uds: confiesan
+preterito-perfecto-simple:
+  yo: confesé
+  tu: confesaste
+  vos: confesaste
+  ud: confesó
+  nosotros: confesamos
+  vosotros: confesasteis
+  uds: confesaron
+preterito-imperfecto:
+  yo: confesaba
+  tu: confesabas
+  vos: confesabas
+  ud: confesaba
+  nosotros: confesábamos
+  vosotros: confesabais
+  uds: confesaban
+futuro-simple:
+  yo: confesaré
+  tu: confesarás
+  vos: confesarás
+  ud: confesará
+  nosotros: confesaremos
+  vosotros: confesaréis
+  uds: confesarán
+condicional-simple:
+  yo: confesaría
+  tu: confesarías
+  vos: confesarías
+  ud: confesaría
+  nosotros: confesaríamos
+  vosotros: confesaríais
+  uds: confesarían
+presente-perfecto:
+  yo: he confesado
+  tu: has confesado
+  vos: has confesado
+  ud: ha confesado
+  nosotros: hemos confesado
+  vosotros: habéis confesado
+  uds: han confesado
+preterito-pluscuamperfecto:
+  yo: había confesado
+  tu: habías confesado
+  vos: habías confesado
+  ud: había confesado
+  nosotros: habíamos confesado
+  vosotros: habíais confesado
+  uds: habían confesado
+futuro-perfecto:
+  yo: habré confesado
+  tu: habrás confesado
+  vos: habrás confesado
+  ud: habrá confesado
+  nosotros: habremos confesado
+  vosotros: habréis confesado
+  uds: habrán confesado
+condicional-perfecto:
+  yo: habría confesado
+  tu: habrías confesado
+  vos: habrías confesado
+  ud: habría confesado
+  nosotros: habríamos confesado
+  vosotros: habríais confesado
+  uds: habrían confesado
+presente-subjuntivo:
+  yo: confiese
+  tu: confieses
+  vos: confesés
+  ud: confiese
+  nosotros: confesemos
+  vosotros: confeséis
+  uds: confiesen
+preterito-perfecto-subjuntivo:
+  yo: haya confesado
+  tu: hayas confesado
+  vos: hayas confesado
+  ud: haya confesado
+  nosotros: hayamos confesado
+  vosotros: hayáis confesado
+  uds: hayan confesado
+imperfecto-subjuntivo:
+  yo:
+    - confesara
+    - confesase
+  tu:
+    - confesaras
+    - confesases
+  vos:
+    - confesaras
+    - confesases
+  ud:
+    - confesara
+    - confesase
+  nosotros:
+    - confesáramos
+    - confesásemos
+  vosotros:
+    - confesarais
+    - confesaseis
+  uds:
+    - confesaran
+    - confesasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera confesado
+    - hubiese confesado
+  tu:
+    - hubieras confesado
+    - hubieses confesado
+  vos:
+    - hubieras confesado
+    - hubieses confesado
+  ud:
+    - hubiera confesado
+    - hubiese confesado
+  nosotros:
+    - hubiéramos confesado
+    - hubiésemos confesado
+  vosotros:
+    - hubierais confesado
+    - hubieseis confesado
+  uds:
+    - hubieran confesado
+    - hubiesen confesado
+imperativo:
+  tu: confiesa
+  vos: confesá
+  ud: confiese
+  nosotros: confesemos
+  vosotros: confesad
+  uds: confiesen

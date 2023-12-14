@@ -1,0 +1,142 @@
+infinitivo: recompensar
+gerundio: recompensando
+participio-pasado: recompensado
+presente-indicativo:
+  yo: recompenso
+  tu: recompensas
+  vos: recompensas
+  ud: recompensa
+  nosotros: recompensamos
+  vosotros: recompensáis
+  uds: recompensan
+preterito-perfecto-simple:
+  yo: recompensé
+  tu: recompensaste
+  vos: recompensaste
+  ud: recompensó
+  nosotros: recompensamos
+  vosotros: recompensasteis
+  uds: recompensaron
+preterito-imperfecto:
+  yo: recompensaba
+  tu: recompensabas
+  vos: recompensabas
+  ud: recompensaba
+  nosotros: recompensábamos
+  vosotros: recompensabais
+  uds: recompensaban
+futuro-simple:
+  yo: recompensaré
+  tu: recompensarás
+  vos: recompensarás
+  ud: recompensará
+  nosotros: recompensaremos
+  vosotros: recompensaréis
+  uds: recompensarán
+condicional-simple:
+  yo: recompensaría
+  tu: recompensarías
+  vos: recompensarías
+  ud: recompensaría
+  nosotros: recompensaríamos
+  vosotros: recompensaríais
+  uds: recompensarían
+presente-perfecto:
+  yo: he recompensado
+  tu: has recompensado
+  vos: has recompensado
+  ud: ha recompensado
+  nosotros: hemos recompensado
+  vosotros: habéis recompensado
+  uds: han recompensado
+preterito-pluscuamperfecto:
+  yo: había recompensado
+  tu: habías recompensado
+  vos: habías recompensado
+  ud: había recompensado
+  nosotros: habíamos recompensado
+  vosotros: habíais recompensado
+  uds: habían recompensado
+futuro-perfecto:
+  yo: habré recompensado
+  tu: habrás recompensado
+  vos: habrás recompensado
+  ud: habrá recompensado
+  nosotros: habremos recompensado
+  vosotros: habréis recompensado
+  uds: habrán recompensado
+condicional-perfecto:
+  yo: habría recompensado
+  tu: habrías recompensado
+  vos: habrías recompensado
+  ud: habría recompensado
+  nosotros: habríamos recompensado
+  vosotros: habríais recompensado
+  uds: habrían recompensado
+presente-subjuntivo:
+  yo: recompenso
+  tu: recompenso
+  vos: recompenso
+  ud: recompenso
+  nosotros: recompensemos
+  vosotros: recompenséis
+  uds: recompensen
+preterito-perfecto-subjuntivo:
+  yo: haya recompensado
+  tu: hayas recompensado
+  vos: hayas recompensado
+  ud: haya recompensado
+  nosotros: hayamos recompensado
+  vosotros: hayáis recompensado
+  uds: hayan recompensado
+imperfecto-subjuntivo:
+  yo:
+    - recompensara
+    - recompensase
+  tu:
+    - recompensaras
+    - recompensases
+  vos:
+    - recompensaras
+    - recompensases
+  ud:
+    - recompensara
+    - recompensase
+  nosotros:
+    - recompensáramos
+    - recompensásemos
+  vosotros:
+    - recompensarais
+    - recompensaseis
+  uds:
+    - recompensaran
+    - recompensasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recompensado
+    - hubiese recompensado
+  tu:
+    - hubieras recompensado
+    - hubieses recompensado
+  vos:
+    - hubieras recompensado
+    - hubieses recompensado
+  ud:
+    - hubiera recompensado
+    - hubiese recompensado
+  nosotros:
+    - hubiéramos recompensado
+    - hubiésemos recompensado
+  vosotros:
+    - hubierais recompensado
+    - hubieseis recompensado
+  uds:
+    - hubieran recompensado
+    - hubiesen recompensado
+imperativo:
+  tu: recompensa
+  vos: recompensá
+  ud: recompense
+  nosotros: recompensemos
+  vosotros: recompensad
+  uds: recompensen

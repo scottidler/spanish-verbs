@@ -1,0 +1,142 @@
+infinitivo: solucionar
+gerundio: solucionando
+participio-pasado: solucionado
+presente-indicativo:
+  yo: soluciono
+  tu: solucionas
+  vos: solucionas
+  ud: soluciona
+  nosotros: solucionamos
+  vosotros: solucionáis
+  uds: solucionan
+preterito-perfecto-simple:
+  yo: solucioné
+  tu: solucionaste
+  vos: solucionaste
+  ud: solucionó
+  nosotros: solucionamos
+  vosotros: solucionasteis
+  uds: solucionaron
+preterito-imperfecto:
+  yo: solucionaba
+  tu: solucionabas
+  vos: solucionabas
+  ud: solucionaba
+  nosotros: solucionábamos
+  vosotros: solucionabais
+  uds: solucionaban
+futuro-simple:
+  yo: solucionaré
+  tu: solucionarás
+  vos: solucionarás
+  ud: solucionará
+  nosotros: solucionaremos
+  vosotros: solucionaréis
+  uds: solucionarán
+condicional-simple:
+  yo: solucionaría
+  tu: solucionarías
+  vos: solucionarías
+  ud: solucionaría
+  nosotros: solucionaríamos
+  vosotros: solucionaríais
+  uds: solucionarían
+presente-perfecto:
+  yo: he solucionado
+  tu: has solucionado
+  vos: has solucionado
+  ud: ha solucionado
+  nosotros: hemos solucionado
+  vosotros: habéis solucionado
+  uds: han solucionado
+preterito-pluscuamperfecto:
+  yo: había solucionado
+  tu: habías solucionado
+  vos: habías solucionado
+  ud: había solucionado
+  nosotros: habíamos solucionado
+  vosotros: habíais solucionado
+  uds: habían solucionado
+futuro-perfecto:
+  yo: habré solucionado
+  tu: habrás solucionado
+  vos: habrás solucionado
+  ud: habrá solucionado
+  nosotros: habremos solucionado
+  vosotros: habréis solucionado
+  uds: habrán solucionado
+condicional-perfecto:
+  yo: habría solucionado
+  tu: habrías solucionado
+  vos: habrías solucionado
+  ud: habría solucionado
+  nosotros: habríamos solucionado
+  vosotros: habríais solucionado
+  uds: habrían solucionado
+presente-subjuntivo:
+  yo: solucione
+  tu: soluciones
+  vos: soluciones
+  ud: solucione
+  nosotros: solucionemos
+  vosotros: solucionéis
+  uds: solucionen
+preterito-perfecto-subjuntivo:
+  yo: haya solucionado
+  tu: hayas solucionado
+  vos: hayas solucionado
+  ud: haya solucionado
+  nosotros: hayamos solucionado
+  vosotros: hayáis solucionado
+  uds: hayan solucionado
+imperfecto-subjuntivo:
+  yo:
+    - solucionara
+    - solucionase
+  tu:
+    - solucionaras
+    - solucionases
+  vos:
+    - solucionaras
+    - solucionases
+  ud:
+    - solucionara
+    - solucionase
+  nosotros:
+    - solucionáramos
+    - solucionásemos
+  vosotros:
+    - solucionarais
+    - solucionaseis
+  uds:
+    - solucionaran
+    - solucionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera solucionado
+    - hubiese solucionado
+  tu:
+    - hubieras solucionado
+    - hubieses solucionado
+  vos:
+    - hubieras solucionado
+    - hubieses solucionado
+  ud:
+    - hubiera solucionado
+    - hubiese solucionado
+  nosotros:
+    - hubiéramos solucionado
+    - hubiésemos solucionado
+  vosotros:
+    - hubierais solucionado
+    - hubieseis solucionado
+  uds:
+    - hubieran solucionado
+    - hubiesen solucionado
+imperativo:
+  tu: soluciona
+  vos: solucioná
+  ud: solucione
+  nosotros: solucionemos
+  vosotros: solucionad
+  uds: solucionen

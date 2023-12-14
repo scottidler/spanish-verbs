@@ -1,0 +1,142 @@
+infinitivo: desprender
+gerundio: desprendiendo
+participio-pasado: desprendido
+presente-indicativo:
+  yo: desprendo
+  tu: desprendes
+  vos: desprendes
+  ud: desprende
+  nosotros: desprendemos
+  vosotros: desprendéis
+  uds: desprenden
+preterito-perfecto-simple:
+  yo: desprendí
+  tu: desprendiste
+  vos: desprendiste
+  ud: desprendió
+  nosotros: desprendimos
+  vosotros: desprendisteis
+  uds: desprendieron
+preterito-imperfecto:
+  yo: desprendía
+  tu: desprendías
+  vos: desprendías
+  ud: desprendía
+  nosotros: desprendíamos
+  vosotros: desprendíais
+  uds: desprendían
+futuro-simple:
+  yo: desprenderé
+  tu: desprenderás
+  vos: desprenderás
+  ud: desprenderá
+  nosotros: desprenderemos
+  vosotros: desprenderéis
+  uds: desprenderán
+condicional-simple:
+  yo: desprendería
+  tu: desprenderías
+  vos: desprenderías
+  ud: desprendería
+  nosotros: desprenderíamos
+  vosotros: desprenderíais
+  uds: desprenderían
+presente-perfecto:
+  yo: he desprendido
+  tu: has desprendido
+  vos: has desprendido
+  ud: ha desprendido
+  nosotros: hemos desprendido
+  vosotros: habéis desprendido
+  uds: han desprendido
+preterito-pluscuamperfecto:
+  yo: había desprendido
+  tu: habías desprendido
+  vos: habías desprendido
+  ud: había desprendido
+  nosotros: habíamos desprendido
+  vosotros: habíais desprendido
+  uds: habían desprendido
+futuro-perfecto:
+  yo: habré desprendido
+  tu: habrás desprendido
+  vos: habrás desprendido
+  ud: habrá desprendido
+  nosotros: habremos desprendido
+  vosotros: habréis desprendido
+  uds: habrán desprendido
+condicional-perfecto:
+  yo: habría desprendido
+  tu: habrías desprendido
+  vos: habrías desprendido
+  ud: habría desprendido
+  nosotros: habríamos desprendido
+  vosotros: habríais desprendido
+  uds: habrían desprendido
+presente-subjuntivo:
+  yo: desprenda
+  tu: desprendas
+  vos: desprendas
+  ud: desprenda
+  nosotros: desprendamos
+  vosotros: desprendáis
+  uds: desprendan
+preterito-perfecto-subjuntivo:
+  yo: haya desprendido
+  tu: hayas desprendido
+  vos: hayas desprendido
+  ud: haya desprendido
+  nosotros: hayamos desprendido
+  vosotros: hayáis desprendido
+  uds: hayan desprendido
+imperfecto-subjuntivo:
+  yo:
+    - desprendiera
+    - desprendiese
+  tu:
+    - desprendieras
+    - desprendieses
+  vos:
+    - desprendieras
+    - desprendieses
+  ud:
+    - desprendiera
+    - desprendiese
+  nosotros:
+    - desprendiéramos
+    - desprendiésemos
+  vosotros:
+    - desprendierais
+    - desprendieseis
+  uds:
+    - desprendieran
+    - desprendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desprendido
+    - hubiese desprendido
+  tu:
+    - hubieras desprendido
+    - hubieses desprendido
+  vos:
+    - hubieras desprendido
+    - hubieses desprendido
+  ud:
+    - hubiera desprendido
+    - hubiese desprendido
+  nosotros:
+    - hubiéramos desprendido
+    - hubiésemos desprendido
+  vosotros:
+    - hubierais desprendido
+    - hubieseis desprendido
+  uds:
+    - hubieran desprendido
+    - hubiesen desprendido
+imperativo:
+  tu: desprende
+  vos: desprendé
+  ud: desprenda
+  nosotros: desprendamos
+  vosotros: desprended
+  uds: desprendan

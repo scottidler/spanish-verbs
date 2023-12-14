@@ -1,0 +1,142 @@
+infinitivo: aprovechar
+gerundio: aprovechando
+participio-pasado: aprovechado
+presente-indicativo: 
+  yo: aprovecho
+  tu: aprovechas
+  vos: aprovechás
+  ud: aprovecha
+  nosotros: aprovechamos
+  vosotros: aprovecháis
+  uds: aprovechan
+preterito-perfecto-simple: 
+  yo: aproveché
+  tu: aprovechaste
+  vos: aprovechaste
+  ud: aprovechó
+  nosotros: aprovechamos
+  vosotros: aprovechasteis
+  uds: aprovecharon
+preterito-imperfecto: 
+  yo: aprovechaba
+  tu: aprovechabas
+  vos: aprovechabas
+  ud: aprovechaba
+  nosotros: aprovechábamos
+  vosotros: aprovechabais
+  uds: aprovechaban
+futuro-simple: 
+  yo: aprovecharé
+  tu: aprovecharás
+  vos: aprovecharás
+  ud: aprovechará
+  nosotros: aprovecharemos
+  vosotros: aprovecharéis
+  uds: aprovecharán
+condicional-simple: 
+  yo: aprovecharía
+  tu: aprovecharías
+  vos: aprovecharías
+  ud: aprovecharía
+  nosotros: aprovecharíamos
+  vosotros: aprovecharíais
+  uds: aprovecharían
+presente-perfecto: 
+  yo: he aprovechado
+  tu: has aprovechado
+  vos: has aprovechado
+  ud: ha aprovechado
+  nosotros: hemos aprovechado
+  vosotros: habéis aprovechado
+  uds: han aprovechado
+preterito-pluscuamperfecto: 
+  yo: había aprovechado
+  tu: habías aprovechado
+  vos: habías aprovechado
+  ud: había aprovechado
+  nosotros: habíamos aprovechado
+  vosotros: habíais aprovechado
+  uds: habían aprovechado
+futuro-perfecto: 
+  yo: habré aprovechado
+  tu: habrás aprovechado
+  vos: habrás aprovechado
+  ud: habrá aprovechado
+  nosotros: habremos aprovechado
+  vosotros: habréis aprovechado
+  uds: habrán aprovechado
+condicional-perfecto: 
+  yo: habría aprovechado
+  tu: habrías aprovechado
+  vos: habrías aprovechado
+  ud: habría aprovechado
+  nosotros: habríamos aprovechado
+  vosotros: habríais aprovechado
+  uds: habrían aprovechado
+presente-subjuntivo: 
+  yo: aproveche
+  tu: aproveches
+  vos: aproveches
+  ud: aproveche
+  nosotros: aprovechemos
+  vosotros: aprovechéis
+  uds: aprovechen
+preterito-perfecto-subjuntivo: 
+  yo: haya aprovechado
+  tu: hayas aprovechado
+  vos: hayas aprovechado
+  ud: haya aprovechado
+  nosotros: hayamos aprovechado
+  vosotros: hayáis aprovechado
+  uds: hayan aprovechado
+imperfecto-subjuntivo: 
+  yo:
+    - aprovechara
+    - aprovechase
+  tu:
+    - aprovecharas
+    - aprovechases
+  vos:
+    - aprovecharas
+    - aprovechases
+  ud:
+    - aprovechara
+    - aprovechase
+  nosotros:
+    - aprovecháramos
+    - aprovechásemos
+  vosotros:
+    - aprovecharais
+    - aprovechaseis
+  uds:
+    - aprovecharan
+    - aprovechasen
+pluscuamperfecto-subjuntivo: 
+  yo:
+    - hubiera aprovechado
+    - hubiese aprovechado
+  tu:
+    - hubieras aprovechado
+    - hubieses aprovechado
+  vos:
+    - hubieras aprovechado
+    - hubieses aprovechado
+  ud:
+    - hubiera aprovechado
+    - hubiese aprovechado
+  nosotros:
+    - hubiéramos aprovechado
+    - hubiésemos aprovechado
+  vosotros:
+    - hubierais aprovechado
+    - hubieseis aprovechado
+  uds:
+    - hubieran aprovechado
+    - hubiesen aprovechado
+imperativo: 
+  tu: aprovecha
+  vos: aprovechá
+  ud: aproveche
+  nosotros: aprovechemos
+  vosotros: aprovechad
+  uds: aprovechen

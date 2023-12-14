@@ -1,0 +1,142 @@
+infinitivo: desmayar
+gerundio: desmayando
+participio-pasado: desmayado
+presente-indicativo:
+  yo: desmayo
+  tu: desmayas
+  vos: desmayas
+  ud: desmaya
+  nosotros: desmayamos
+  vosotros: desmayáis
+  uds: desmayan
+preterito-perfecto-simple:
+  yo: desmayé
+  tu: desmayaste
+  vos: desmayaste
+  ud: desmayó
+  nosotros: desmayamos
+  vosotros: desmayasteis
+  uds: desmayaron
+preterito-imperfecto:
+  yo: desmayaba
+  tu: desmayabas
+  vos: desmayabas
+  ud: desmayaba
+  nosotros: desmayábamos
+  vosotros: desmayabais
+  uds: desmayaban
+futuro-simple:
+  yo: desmayaré
+  tu: desmayarás
+  vos: desmayarás
+  ud: desmayará
+  nosotros: desmayaremos
+  vosotros: desmayaréis
+  uds: desmayarán
+condicional-simple:
+  yo: desmayaría
+  tu: desmayarías
+  vos: desmayarías
+  ud: desmayaría
+  nosotros: desmayaríamos
+  vosotros: desmayaríais
+  uds: desmayarían
+presente-perfecto:
+  yo: he desmayado
+  tu: has desmayado
+  vos: has desmayado
+  ud: ha desmayado
+  nosotros: hemos desmayado
+  vosotros: habéis desmayado
+  uds: han desmayado
+preterito-pluscuamperfecto:
+  yo: había desmayado
+  tu: habías desmayado
+  vos: habías desmayado
+  ud: había desmayado
+  nosotros: habíamos desmayado
+  vosotros: habíais desmayado
+  uds: habían desmayado
+futuro-perfecto:
+  yo: habré desmayado
+  tu: habrás desmayado
+  vos: habrás desmayado
+  ud: habrá desmayado
+  nosotros: habremos desmayado
+  vosotros: habréis desmayado
+  uds: habrán desmayado
+condicional-perfecto:
+  yo: habría desmayado
+  tu: habrías desmayado
+  vos: habrías desmayado
+  ud: habría desmayado
+  nosotros: habríamos desmayado
+  vosotros: habríais desmayado
+  uds: habrían desmayado
+presente-subjuntivo:
+  yo: desmaye
+  tu: desmayes
+  vos: desmayes
+  ud: desmaye
+  nosotros: desmayemos
+  vosotros: desmayéis
+  uds: desmayen
+preterito-perfecto-subjuntivo:
+  yo: haya desmayado
+  tu: hayas desmayado
+  vos: hayas desmayado
+  ud: haya desmayado
+  nosotros: hayamos desmayado
+  vosotros: hayáis desmayado
+  uds: hayan desmayado
+imperfecto-subjuntivo:
+  yo:
+    - desmayara
+    - desmayase
+  tu:
+    - desmayaras
+    - desmayases
+  vos:
+    - desmayaras
+    - desmayases
+  ud:
+    - desmayara
+    - desmayase
+  nosotros:
+    - desmayáramos
+    - desmayásemos
+  vosotros:
+    - desmayarais
+    - desmayaseis
+  uds:
+    - desmayaran
+    - desmayasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desmayado
+    - hubiese desmayado
+  tu:
+    - hubieras desmayado
+    - hubieses desmayado
+  vos:
+    - hubieras desmayado
+    - hubieses desmayado
+  ud:
+    - hubiera desmayado
+    - hubiese desmayado
+  nosotros:
+    - hubiéramos desmayado
+    - hubiésemos desmayado
+  vosotros:
+    - hubierais desmayado
+    - hubieseis desmayado
+  uds:
+    - hubieran desmayado
+    - hubiesen desmayado
+imperativo:
+  tu: desmaya
+  vos: desmayá
+  ud: desmaya
+  nosotros: desmayemos
+  vosotros: desmayad
+  uds: desmayen

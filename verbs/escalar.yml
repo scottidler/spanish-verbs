@@ -1,0 +1,142 @@
+infinitivo: escalar
+gerundio: escalando
+participio-pasado: escalado
+presente-indicativo: 
+  yo: escalo
+  tu: escalas
+  vos: escalas
+  ud: escala
+  nosotros: escalamos
+  vosotros: escaláis
+  uds: escalan
+preterito-perfecto-simple: 
+  yo: escalé
+  tu: escalaste
+  vos: escalaste
+  ud: escaló
+  nosotros: escalamos
+  vosotros: escalasteis
+  uds: escalaron
+preterito-imperfecto: 
+  yo: escalaba
+  tu: escalabas
+  vos: escalabas
+  ud: escalaba
+  nosotros: escalábamos
+  vosotros: escalabais
+  uds: escalaban
+futuro-simple: 
+  yo: escalaré
+  tu: escalarás
+  vos: escalarás
+  ud: escalara
+  nosotros: escalaremos
+  vosotros: escalaréis
+  uds: escalarán
+condicional-simple: 
+  yo: escalaría
+  tu: escalarías
+  vos: escalarías
+  ud: escalaría
+  nosotros: escalaríamos
+  vosotros: escalaríais
+  uds: escalarían
+presente-perfecto: 
+  yo: he escalado
+  tu: has escalado
+  vos: has escalado
+  ud: ha escalado
+  nosotros: hemos escalado
+  vosotros: habéis escalado
+  uds: han escalado
+preterito-pluscuamperfecto: 
+  yo: había escalado
+  tu: habías escalado
+  vos: habías escalado
+  ud: había escalado
+  nosotros: habíamos escalado
+  vosotros: habíais escalado
+  uds: habían escalado
+futuro-perfecto: 
+  yo: habré escalado
+  tu: habrás escalado
+  vos: habrás escalado
+  ud: habrá escalado
+  nosotros: habremos escalado
+  vosotros: habréis escalado
+  uds: habrán escalado
+condicional-perfecto: 
+  yo: habría escalado
+  tu: habrías escalado
+  vos: habrías escalado
+  ud: habría escalado
+  nosotros: habríamos escalado
+  vosotros: habríais escalado
+  uds: habrían escalado
+presente-subjuntivo: 
+  yo: escale
+  tu: escales
+  vos: escales
+  ud: escale
+  nosotros: escalemos
+  vosotros: escaléis
+  uds: escalen
+preterito-perfecto-subjuntivo: 
+  yo: haya escalado
+  tu: hayas escalado
+  vos: hayas escalado
+  ud: haya escalado
+  nosotros: hayamos escalado
+  vosotros: hayáis escalado
+  uds: hayan escalado
+imperfecto-subjuntivo: 
+  yo:
+    - escalara
+    - escalase
+  tu:
+    - escalaras
+    - escalases
+  vos:
+    - escalaras
+    - escalases
+  ud:
+    - escalara
+    - escalase
+  nosotros:
+    - escaláramos
+    - escalásemos
+  vosotros:
+    - escalarais
+    - escalaseis
+  uds:
+    - escalaran
+    - escalasen
+pluscuamperfecto-subjuntivo: 
+  yo:
+    - hubiera escalado
+    - hubiese escalado
+  tu:
+    - hubieras escalado
+    - hubieses escalado
+  vos:
+    - hubieras escalado
+    - hubieses escalado
+  ud:
+    - hubiera escalado
+    - hubiese escalado
+  nosotros:
+    - hubiéramos escalado
+    - hubiésemos escalado
+  vosotros:
+    - hubierais escalado
+    - hubieseis escalado
+  uds:
+    - hubieran escalado
+    - hubiesen escalado
+imperativo: 
+  tu: escala
+  vos: escalá
+  ud: escale
+  nosotros: escalemos
+  vosotros: escalad
+  uds: escalen

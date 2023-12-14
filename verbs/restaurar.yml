@@ -1,0 +1,142 @@
+infinitivo: restaurar
+gerundio: restaurando
+participio-pasado: restaurado
+presente-indicativo:
+  yo: restauro
+  tu: restauras
+  vos: restauras
+  ud: restaura
+  nosotros: restauramos
+  vosotros: restauráis
+  uds: restauran
+preterito-perfecto-simple:
+  yo: restauré
+  tu: restauraste
+  vos: restauraste
+  ud: restauró
+  nosotros: restauramos
+  vosotros: restaurasteis
+  uds: restauraron
+preterito-imperfecto:
+  yo: restauraba
+  tu: restaurabas
+  vos: restaurabas
+  ud: restauraba
+  nosotros: restaurábamos
+  vosotros: restaurabais
+  uds: restauraban
+futuro-simple:
+  yo: restauraré
+  tu: restaurarás
+  vos: restaurarás
+  ud: restaurará
+  nosotros: restauraremos
+  vosotros: restauraréis
+  uds: restaurarán
+condicional-simple:
+  yo: restauraría
+  tu: restaurarías
+  vos: restaurarías
+  ud: restauraría
+  nosotros: restauraríamos
+  vosotros: restauraríais
+  uds: restaurarían
+presente-perfecto:
+  yo: he restaurado
+  tu: has restaurado
+  vos: has restaurado
+  ud: ha restaurado
+  nosotros: hemos restaurado
+  vosotros: habéis restaurado
+  uds: han restaurado
+preterito-pluscuamperfecto:
+  yo: había restaurado
+  tu: habías restaurado
+  vos: habías restaurado
+  ud: había restaurado
+  nosotros: habíamos restaurado
+  vosotros: habíais restaurado
+  uds: habían restaurado
+futuro-perfecto:
+  yo: habré restaurado
+  tu: habrás restaurado
+  vos: habrás restaurado
+  ud: habrá restaurado
+  nosotros: habremos restaurado
+  vosotros: habréis restaurado
+  uds: habrán restaurado
+condicional-perfecto:
+  yo: habría restaurado
+  tu: habrías restaurado
+  vos: habrías restaurado
+  ud: habría restaurado
+  nosotros: habríamos restaurado
+  vosotros: habríais restaurado
+  uds: habrían restaurado
+presente-subjuntivo:
+  yo: restaure
+  tu: restaures
+  vos: restaures
+  ud: restaure
+  nosotros: restauremos
+  vosotros: restauréis
+  uds: restauren
+preterito-perfecto-subjuntivo:
+  yo: haya restaurado
+  tu: hayas restaurado
+  vos: hayas restaurado
+  ud: haya restaurado
+  nosotros: hayamos restaurado
+  vosotros: hayáis restaurado
+  uds: hayan restaurado
+imperfecto-subjuntivo:
+  yo:
+    - restaurara
+    - restaurase
+  tu:
+    - restauraras
+    - restaurases
+  vos:
+    - restauraras
+    - restaurases
+  ud:
+    - restaurara
+    - restaurase
+  nosotros:
+    - restauráramos
+    - restaurásemos
+  vosotros:
+    - restaurarais
+    - restauraseis
+  uds:
+    - restauraran
+    - restaurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera restaurado
+    - hubiese restaurado
+  tu:
+    - hubieras restaurado
+    - hubieses restaurado
+  vos:
+    - hubieras restaurado
+    - hubieses restaurado
+  ud:
+    - hubiera restaurado
+    - hubiese restaurado
+  nosotros:
+    - hubiéramos restaurado
+    - hubiésemos restaurado
+  vosotros:
+    - hubierais restaurado
+    - hubieseis restaurado
+  uds:
+    - hubieran restaurado
+    - hubiesen restaurado
+imperativo:
+  tu: restaura
+  vos: restaurá
+  ud: restaure
+  nosotros: restauremos
+  vosotros: restaurad
+  uds: restauren

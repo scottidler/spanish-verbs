@@ -1,0 +1,142 @@
+infinitivo: arreglar
+gerundio: arreglando
+participio-pasado: arreglado
+presente-indicativo:
+  yo: arreglo
+  tu: arreglas
+  vos: arreglas
+  ud: arregla
+  nosotros: arreglamos
+  vosotros: arregláis
+  uds: arreglan
+preterito-perfecto-simple:
+  yo: arreglé
+  tu: arreglaste
+  vos: arreglaste
+  ud: arregló
+  nosotros: arreglamos
+  vosotros: arreglasteis
+  uds: arreglaron
+preterito-imperfecto:
+  yo: arreglaba
+  tu: arreglabas
+  vos: arreglabas
+  ud: arreglaba
+  nosotros: arreglábamos
+  vosotros: arreglabais
+  uds: arreglaban
+futuro-simple:
+  yo: arreglaré
+  tu: arreglarás
+  vos: arreglarás
+  ud: arreglará
+  nosotros: arreglaremos
+  vosotros: arreglaréis
+  uds: arreglarán
+condicional-simple:
+  yo: arreglaría
+  tu: arreglarías
+  vos: arreglarías
+  ud: arreglaría
+  nosotros: arreglaríamos
+  vosotros: arreglaríais
+  uds: arreglarían
+presente-perfecto:
+  yo: he arreglado
+  tu: has arreglado
+  vos: has arreglado
+  ud: ha arreglado
+  nosotros: hemos arreglado
+  vosotros: habéis arreglado
+  uds: han arreglado
+preterito-pluscuamperfecto:
+  yo: había arreglado
+  tu: habías arreglado
+  vos: habías arreglado
+  ud: había arreglado
+  nosotros: habíamos arreglado
+  vosotros: habíais arreglado
+  uds: habían arreglado
+futuro-perfecto:
+  yo: habré arreglado
+  tu: habrás arreglado
+  vos: habrás arreglado
+  ud: habrá arreglado
+  nosotros: habremos arreglado
+  vosotros: habréis arreglado
+  uds: habrán arreglado
+condicional-perfecto:
+  yo: habría arreglado
+  tu: habrías arreglado
+  vos: habrías arreglado
+  ud: habría arreglado
+  nosotros: habríamos arreglado
+  vosotros: habríais arreglado
+  uds: habrían arreglado
+presente-subjuntivo:
+  yo: arregle
+  tu: arregles
+  vos: arregles
+  ud: arregle
+  nosotros: arreglemos
+  vosotros: arregléis
+  uds: arreglen
+preterito-perfecto-subjuntivo:
+  yo: haya arreglado
+  tu: hayas arreglado
+  vos: hayas arreglado
+  ud: haya arreglado
+  nosotros: hayamos arreglado
+  vosotros: hayáis arreglado
+  uds: hayan arreglado
+imperfecto-subjuntivo:
+  yo:
+    - arreglara
+    - arreglase
+  tu:
+    - arreglaras
+    - arreglases
+  vos:
+    - arreglaras
+    - arreglases
+  ud:
+    - arreglara
+    - arreglase
+  nosotros:
+    - arregláramos
+    - arreglásemos
+  vosotros:
+    - arreglarais
+    - arreglaseis
+  uds:
+    - arreglaran
+    - arreglasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arreglado
+    - hubiese arreglado
+  tu:
+    - hubieras arreglado
+    - hubieses arreglado
+  vos:
+    - hubieras arreglado
+    - hubieses arreglado
+  ud:
+    - hubiera arreglado
+    - hubiese arreglado
+  nosotros:
+    - hubiéramos arreglado
+    - hubiésemos arreglado
+  vosotros:
+    - hubierais arreglado
+    - hubieseis arreglado
+  uds:
+    - hubieran arreglado
+    - hubiesen arreglado
+imperativo:
+  tu: arregla
+  vos: arreglá
+  ud: arregle
+  nosotros: arreglemos
+  vosotros: arreglad
+  uds: arreglen

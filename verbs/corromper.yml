@@ -1,0 +1,142 @@
+infinitivo: corromper
+gerundio: corrompiendo
+participio-pasado: corrompido
+presente-indicativo:
+  yo: corrompo
+  tu: corrompes
+  vos: corrompes
+  ud: corrompe
+  nosotros: corrompemos
+  vosotros: corrompéis
+  uds: corrompen
+preterito-perfecto-simple:
+  yo: corrompí
+  tu: corrompiste
+  vos: corrompiste
+  ud: corrompió
+  nosotros: corrompimos
+  vosotros: corrompisteis
+  uds: corrompieron
+preterito-imperfecto:
+  yo: corrompía
+  tu: corrompías
+  vos: corrompías
+  ud: corrompía
+  nosotros: corrompíamos
+  vosotros: corrompíais
+  uds: corrompían
+futuro-simple:
+  yo: corromperé
+  tu: corromperás
+  vos: corromperás
+  ud: corromperá
+  nosotros: corromperemos
+  vosotros: corromperéis
+  uds: corromperán
+condicional-simple:
+  yo: corrompería
+  tu: corromperías
+  vos: corromperías
+  ud: corrompería
+  nosotros: corromperíamos
+  vosotros: corromperíais
+  uds: corromperían
+presente-perfecto:
+  yo: he corrompido
+  tu: has corrompido
+  vos: has corrompido
+  ud: ha corrompido
+  nosotros: hemos corrompido
+  vosotros: habéis corrompido
+  uds: han corrompido
+preterito-pluscuamperfecto:
+  yo: había corrompido
+  tu: habías corrompido
+  vos: habías corrompido
+  ud: había corrompido
+  nosotros: habíamos corrompido
+  vosotros: habíais corrompido
+  uds: habían corrompido
+futuro-perfecto:
+  yo: habré corrompido
+  tu: habrás corrompido
+  vos: habrás corrompido
+  ud: habrá corrompido
+  nosotros: habremos corrompido
+  vosotros: habréis corrompido
+  uds: habrán corrompido
+condicional-perfecto:
+  yo: habría corrompido
+  tu: habrías corrompido
+  vos: habrías corrompido
+  ud: habría corrompido
+  nosotros: habríamos corrompido
+  vosotros: habríais corrompido
+  uds: habrían corrompido
+presente-subjuntivo:
+  yo: corrompa
+  tu: corrompas
+  vos: corrompas
+  ud: corrompa
+  nosotros: corrompamos
+  vosotros: corrompáis
+  uds: corrompan
+preterito-perfecto-subjuntivo:
+  yo: haya corrompido
+  tu: hayas corrompido
+  vos: hayas corrompido
+  ud: haya corrompido
+  nosotros: hayamos corrompido
+  vosotros: hayáis corrompido
+  uds: hayan corrompido
+imperfecto-subjuntivo:
+  yo:
+    - corrompiera
+    - corrompiese
+  tu:
+    - corrompieras
+    - corrompieses
+  vos:
+    - corrompieras
+    - corrompieses
+  ud:
+    - corrompiera
+    - corrompiese
+  nosotros:
+    - corrompiéramos
+    - corrompiésemos
+  vosotros:
+    - corrompierais
+    - corrompieseis
+  uds:
+    - corrompieran
+    - corrompiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera corrompido
+    - hubiese corrompido
+  tu:
+    - hubieras corrompido
+    - hubieses corrompido
+  vos:
+    - hubieras corrompido
+    - hubieses corrompido
+  ud:
+    - hubiera corrompido
+    - hubiese corrompido
+  nosotros:
+    - hubiéramos corrompido
+    - hubiésemos corrompido
+  vosotros:
+    - hubierais corrompido
+    - hubieseis corrompido
+  uds:
+    - hubieran corrompido
+    - hubiesen corrompido
+imperativo:
+  tu: corrompe
+  vos: corrompé
+  ud: corrompa
+  nosotros: corrompamos
+  vosotros: corromped
+  uds: corrompan

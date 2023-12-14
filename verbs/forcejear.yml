@@ -1,0 +1,142 @@
+infinitivo: forcejear
+gerundio: forcejeando
+participio-pasado: forcejeado
+presente-indicativo:
+  yo: forcejeo
+  tu: forcejeas
+  vos: forcejeas
+  ud: forcejea
+  nosotros: forcejeamos
+  vosotros: forcejeáis
+  uds: forcejean
+preterito-perfecto-simple:
+  yo: forcejeé
+  tu: forcejeaste
+  vos: forcejeaste
+  ud: forcejeó
+  nosotros: forcejeamos
+  vosotros: forcejeasteis
+  uds: forcejearon
+preterito-imperfecto:
+  yo: forcejeaba
+  tu: forcejeabas
+  vos: forcejeabas
+  ud: forcejeaba
+  nosotros: forcejeábamos
+  vosotros: forcejeabais
+  uds: forcejeaban
+futuro-simple:
+  yo: forcejearé
+  tu: forcejearás
+  vos: forcejearás
+  ud: forcejeará
+  nosotros: forcejearemos
+  vosotros: forcejearéis
+  uds: forcejearán
+condicional-simple:
+  yo: forcejearía
+  tu: forcejearías
+  vos: forcejearías
+  ud: forcejearía
+  nosotros: forcejearíamos
+  vosotros: forcejearíais
+  uds: forcejearían
+presente-perfecto:
+  yo: he forcejeado
+  tu: has forcejeado
+  vos: has forcejeado
+  ud: ha forcejeado
+  nosotros: hemos forcejeado
+  vosotros: habéis forcejeado
+  uds: han forcejeado
+preterito-pluscuamperfecto:
+  yo: había forcejeado
+  tu: habías forcejeado
+  vos: habías forcejeado
+  ud: había forcejeado
+  nosotros: habíamos forcejeado
+  vosotros: habíais forcejeado
+  uds: habían forcejeado
+futuro-perfecto:
+  yo: habré forcejeado
+  tu: habrás forcejeado
+  vos: habrás forcejeado
+  ud: habrá forcejeado
+  nosotros: habremos forcejeado
+  vosotros: habréis forcejeado
+  uds: habrán forcejeado
+condicional-perfecto:
+  yo: habría forcejeado
+  tu: habrías forcejeado
+  vos: habrías forcejeado
+  ud: habría forcejeado
+  nosotros: habríamos forcejeado
+  vosotros: habríais forcejeado
+  uds: habrían forcejeado
+presente-subjuntivo:
+  yo: forcejee
+  tu: forcejees
+  vos: forcejees
+  ud: forcejee
+  nosotros: forcejeemos
+  vosotros: forcejeéis
+  uds: forcejeen
+preterito-perfecto-subjuntivo:
+  yo: haya forcejeado
+  tu: hayas forcejeado
+  vos: hayas forcejeado
+  ud: haya forcejeado
+  nosotros: hayamos forcejeado
+  vosotros: hayáis forcejeado
+  uds: hayan forcejeado
+imperfecto-subjuntivo:
+  yo:
+    - forcejeara
+    - forcejearase
+  tu:
+    - forcejearas
+    - forcejearases
+  vos:
+    - forcejearas
+    - forcejearases
+  ud:
+    - forcejeara
+    - forcejearase
+  nosotros:
+    - forcejeáramos
+    - forcejeásemos
+  vosotros:
+    - forcejearais
+    - forcejearaseis
+  uds:
+    - forcejearan
+    - forcejearasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera forcejeado
+    - hubiese forcejeado
+  tu:
+    - hubieras forcejeado
+    - hubieses forcejeado
+  vos:
+    - hubieras forcejeado
+    - hubieses forcejeado
+  ud:
+    - hubiera forcejeado
+    - hubiese forcejeado
+  nosotros:
+    - hubiéramos forcejeado
+    - hubiésemos forcejeado
+  vosotros:
+    - hubierais forcejeado
+    - hubieseis forcejeado
+  uds:
+    - hubieran forcejeado
+    - hubiesen forcejeado
+imperativo:
+  tu: forcejea
+  vos: forcejeá
+  ud: forcejee
+  nosotros: forcejeemos
+  vosotros: forcejaed
+  uds: forcejeen

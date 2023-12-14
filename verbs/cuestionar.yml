@@ -1,0 +1,142 @@
+infinitivo: cuestionar
+gerundio: cuestionando
+participio-pasado: cuestionado
+presente-indicativo:
+  yo: cuestiono
+  tu: cuestionas
+  vos: cuestionas
+  ud: cuestiona
+  nosotros: cuestionamos
+  vosotros: cuestionáis
+  uds: cuestionan
+preterito-perfecto-simple:
+  yo: cuestioné
+  tu: cuestionaste
+  vos: cuestionaste
+  ud: cuestionó
+  nosotros: cuestionamos
+  vosotros: cuestionasteis
+  uds: cuestionaron
+preterito-imperfecto:
+  yo: cuestionaba
+  tu: cuestionabas
+  vos: cuestionabas
+  ud: cuestionaba
+  nosotros: cuestionábamos
+  vosotros: cuestionabais
+  uds: cuestionaban
+futuro-simple:
+  yo: cuestionaré
+  tu: cuestionarás
+  vos: cuestionarás
+  ud: cuestionará
+  nosotros: cuestionaremos
+  vosotros: cuestionaréis
+  uds: cuestionarán
+condicional-simple:
+  yo: cuestionaría
+  tu: cuestionarías
+  vos: cuestionarías
+  ud: cuestionaría
+  nosotros: cuestionaríamos
+  vosotros: cuestionaríais
+  uds: cuestionarían
+presente-perfecto:
+  yo: he cuestionado
+  tu: has cuestionado
+  vos: has cuestionado
+  ud: ha cuestionado
+  nosotros: hemos cuestionado
+  vosotros: habéis cuestionado
+  uds: han cuestionado
+preterito-pluscuamperfecto:
+  yo: había cuestionado
+  tu: habías cuestionado
+  vos: habías cuestionado
+  ud: había cuestionado
+  nosotros: habíamos cuestionado
+  vosotros: habíais cuestionado
+  uds: habían cuestionado
+futuro-perfecto:
+  yo: habré cuestionado
+  tu: habrás cuestionado
+  vos: habrás cuestionado
+  ud: habrá cuestionado
+  nosotros: habremos cuestionado
+  vosotros: habréis cuestionado
+  uds: habrán cuestionado
+condicional-perfecto:
+  yo: habría cuestionado
+  tu: habrías cuestionado
+  vos: habrías cuestionado
+  ud: habría cuestionado
+  nosotros: habríamos cuestionado
+  vosotros: habríais cuestionado
+  uds: habrían cuestionado
+presente-subjuntivo:
+  yo: cuestione
+  tu: cuestiones
+  vos: cuestiones
+  ud: cuestione
+  nosotros: cuestionemos
+  vosotros: cuestionéis
+  uds: cuestionen
+preterito-perfecto-subjuntivo:
+  yo: haya cuestionado
+  tu: hayas cuestionado
+  vos: hayas cuestionado
+  ud: haya cuestionado
+  nosotros: hayamos cuestionado
+  vosotros: hayáis cuestionado
+  uds: hayan cuestionado
+imperfecto-subjuntivo:
+  yo:
+    - cuestionara
+    - cuestionase
+  tu:
+    - cuestionaras
+    - cuestionases
+  vos:
+    - cuestionaras
+    - cuestionases
+  ud:
+    - cuestionara
+    - cuestionase
+  nosotros:
+    - cuestionáramos
+    - cuestionásemos
+  vosotros:
+    - cuestionarais
+    - cuestionaseis
+  uds:
+    - cuestionaran
+    - cuestionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cuestionado
+    - hubiese cuestionado
+  tu:
+    - hubieras cuestionado
+    - hubieses cuestionado
+  vos:
+    - hubieras cuestionado
+    - hubieses cuestionado
+  ud:
+    - hubiera cuestionado
+    - hubiese cuestionado
+  nosotros:
+    - hubiéramos cuestionado
+    - hubiésemos cuestionado
+  vosotros:
+    - hubierais cuestionado
+    - hubieseis cuestionado
+  uds:
+    - hubieran cuestionado
+    - hubiesen cuestionado
+imperativo:
+  tu: cuestiona
+  vos: cuestiona
+  ud: cuestione
+  nosotros: cuestionemos
+  vosotros: cuestionad
+  uds: cuestionen

@@ -1,0 +1,142 @@
+infinitivo: restallar
+gerundio: restallando
+participio-pasado: restallado
+presente-indicativo:
+  yo: restallo
+  tu: restallas
+  vos: restallas
+  ud: restalla
+  nosotros: restallamos
+  vosotros: restalláis
+  uds: restallan
+preterito-perfecto-simple:
+  yo: restallé
+  tu: restallaste
+  vos: restallaste
+  ud: restalló
+  nosotros: restallamos
+  vosotros: restallasteis
+  uds: restallaron
+preterito-imperfecto:
+  yo: restallaba
+  tu: restallabas
+  vos: restallabas
+  ud: restallaba
+  nosotros: restallábamos
+  vosotros: restallabais
+  uds: restallaban
+futuro-simple:
+  yo: restallaré
+  tu: restallarás
+  vos: restallarás
+  ud: restallará
+  nosotros: restallaremos
+  vosotros: restallaréis
+  uds: restallarán
+condicional-simple:
+  yo: restallaría
+  tu: restallarías
+  vos: restallarías
+  ud: restallaría
+  nosotros: restallaríamos
+  vosotros: restallaríais
+  uds: restallarían
+presente-perfecto:
+  yo: he restallado
+  tu: has restallado
+  vos: has restallado
+  ud: ha restallado
+  nosotros: hemos restallado
+  vosotros: habéis restallado
+  uds: han restallado
+preterito-pluscuamperfecto:
+  yo: había restallado
+  tu: habías restallado
+  vos: habías restallado
+  ud: había restallado
+  nosotros: habíamos restallado
+  vosotros: habíais restallado
+  uds: habían restallado
+futuro-perfecto:
+  yo: habré restallado
+  tu: habrás restallado
+  vos: habrás restallado
+  ud: habrá restallado
+  nosotros: habremos restallado
+  vosotros: habréis restallado
+  uds: habrán restallado
+condicional-perfecto:
+  yo: habría restallado
+  tu: habrías restallado
+  vos: habrías restallado
+  ud: habría restallado
+  nosotros: habríamos restallado
+  vosotros: habríais restallado
+  uds: habrían restallado
+presente-subjuntivo:
+  yo: reste
+  tu: restes
+  vos: restes
+  ud: reste
+  nosotros: restemos
+  vosotros: restéis
+  uds: resten
+preterito-perfecto-subjuntivo:
+  yo: haya restallado
+  tu: hayas restallado
+  vos: hayas restallado
+  ud: haya restallado
+  nosotros: hayamos restallado
+  vosotros: hayáis restallado
+  uds: hayan restallado
+imperfecto-subjuntivo:
+  yo:
+    - restallara
+    - restallase
+  tu:
+    - restallaras
+    - restallases
+  vos:
+    - restallaras
+    - restallases
+  ud:
+    - restallara
+    - restallase
+  nosotros:
+    - restalláramos
+    - restallásemos
+  vosotros:
+    - restallarais
+    - restallaseis
+  uds:
+    - restallaran
+    - restallasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera restallado
+    - hubiese restallado
+  tu:
+    - hubieras restallado
+    - hubieses restallado
+  vos:
+    - hubieras restallado
+    - hubieses restallado
+  ud:
+    - hubiera restallado
+    - hubiese restallado
+  nosotros:
+    - hubiéramos restallado
+    - hubiésemos restallado
+  vosotros:
+    - hubierais restallado
+    - hubieseis restallado
+  uds:
+    - hubieran restallado
+    - hubiesen restallado
+imperativo:
+  tu: restalla
+  vos: restallá
+  ud: resta
+  nosotros: restemos
+  vosotros: restallad
+  uds: resten

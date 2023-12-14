@@ -1,0 +1,142 @@
+infinitivo: realzar
+gerundio: realzando
+participio-pasado: realzado
+presente-indicativo:
+  yo: realzo
+  tu: realzas
+  vos: realzás
+  ud: realza
+  nosotros: realzamos
+  vosotros: realzáis
+  uds: realzan
+preterito-perfecto-simple:
+  yo: realcé
+  tu: realzaste
+  vos: realzaste
+  ud: realzó
+  nosotros: realzamos
+  vosotros: realzasteis
+  uds: realzaron
+preterito-imperfecto:
+  yo: realzaba
+  tu: realzabas
+  vos: realzabas
+  ud: realzaba
+  nosotros: realzábamos
+  vosotros: realzabais
+  uds: realzaban
+futuro-simple:
+  yo: realzaré
+  tu: realzarás
+  vos: realzarás
+  ud: realzará
+  nosotros: realzaremos
+  vosotros: realzaréis
+  uds: realzarán
+condicional-simple:
+  yo: realzaría
+  tu: realzarías
+  vos: realzarías
+  ud: realzaría
+  nosotros: realzaríamos
+  vosotros: realzaríais
+  uds: realzarían
+presente-perfecto:
+  yo: he realzado
+  tu: has realzado
+  vos: has realzado
+  ud: ha realzado
+  nosotros: hemos realzado
+  vosotros: habéis realzado
+  uds: han realzado
+preterito-pluscuamperfecto:
+  yo: había realzado
+  tu: habías realzado
+  vos: habías realzado
+  ud: había realzado
+  nosotros: habíamos realzado
+  vosotros: habíais realzado
+  uds: habían realzado
+futuro-perfecto:
+  yo: habré realzado
+  tu: habrás realzado
+  vos: habrás realzado
+  ud: habrá realzado
+  nosotros: habremos realzado
+  vosotros: habréis realzado
+  uds: habrán realzado
+condicional-perfecto:
+  yo: habría realzado
+  tu: habrías realzado
+  vos: habrías realzado
+  ud: habría realzado
+  nosotros: habríamos realzado
+  vosotros: habríais realzado
+  uds: habrían realzado
+presente-subjuntivo:
+  yo: realce
+  tu: realces
+  vos: realces
+  ud: realce
+  nosotros: realcemos
+  vosotros: realcéis
+  uds: realcen
+preterito-perfecto-subjuntivo:
+  yo: haya realzado
+  tu: hayas realzado
+  vos: hayas realzado
+  ud: haya realzado
+  nosotros: hayamos realzado
+  vosotros: hayáis realzado
+  uds: hayan realzado
+imperfecto-subjuntivo:
+  yo:
+    - realzara
+    - realzase
+  tu:
+    - realzaras
+    - realzases
+  vos:
+    - realzaras
+    - realzases
+  ud:
+    - realzara
+    - realzase
+  nosotros:
+    - realzáramos
+    - realzásemos
+  vosotros:
+    - realzarais
+    - realzaseis
+  uds:
+    - realzaran
+    - realzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera realzado
+    - hubiese realzado
+  tu:
+    - hubieras realzado
+    - hubieses realzado
+  vos:
+    - hubieras realzado
+    - hubieses realzado
+  ud:
+    - hubiera realzado
+    - hubiese realzado
+  nosotros:
+    - hubiéramos realzado
+    - hubiésemos realzado
+  vosotros:
+    - hubierais realzado
+    - hubieseis realzado
+  uds:
+    - hubieran realzado
+    - hubiesen realzado
+imperativo:
+  tu: realza
+  vos: realzá
+  ud: realce
+  nosotros: realcemos
+  vosotros: realzad
+  uds: realcen

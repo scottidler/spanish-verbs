@@ -1,0 +1,142 @@
+infinitivo: afilar
+gerundio: afilando
+participio-pasado: afilado
+presente-indicativo:
+  yo: afilo
+  tu: afilas
+  vos: afilás
+  ud: afila
+  nosotros: afilamos
+  vosotros: afiláis
+  uds: afilan
+preterito-perfecto-simple:
+  yo: afilé
+  tu: afilaste
+  vos: afilaste
+  ud: afiló
+  nosotros: afilamos
+  vosotros: afilasteis
+  uds: afilaron
+preterito-imperfecto:
+  yo: afilaba
+  tu: afilabas
+  vos: afilabas
+  ud: afilaba
+  nosotros: afilábamos
+  vosotros: afilabais
+  uds: afilaban
+futuro-simple:
+  yo: afilaré
+  tu: afilarás
+  vos: afilarás
+  ud: afilará
+  nosotros: afilaremos
+  vosotros: afilaréis
+  uds: afilarán
+condicional-simple:
+  yo: afilaría
+  tu: afilarías
+  vos: afilarías
+  ud: afilaría
+  nosotros: afilaríamos
+  vosotros: afilaríais
+  uds: afilarían
+presente-perfecto:
+  yo: he afilado
+  tu: has afilado
+  vos: has afilado
+  ud: ha afilado
+  nosotros: hemos afilado
+  vosotros: habéis afilado
+  uds: han afilado
+preterito-pluscuamperfecto:
+  yo: había afilado
+  tu: habías afilado
+  vos: habías afilado
+  ud: había afilado
+  nosotros: habíamos afilado
+  vosotros: habíais afilado
+  uds: habían afilado
+futuro-perfecto:
+  yo: habré afilado
+  tu: habrás afilado
+  vos: habrás afilado
+  ud: habrá afilado
+  nosotros: habremos afilado
+  vosotros: habréis afilado
+  uds: habrán afilado
+condicional-perfecto:
+  yo: habría afilado
+  tu: habrías afilado
+  vos: habrías afilado
+  ud: habría afilado
+  nosotros: habríamos afilado
+  vosotros: habríais afilado
+  uds: habrían afilado
+presente-subjuntivo:
+  yo: afile
+  tu: afiles
+  vos: afiles
+  ud: afile
+  nosotros: afilemos
+  vosotros: afiléis
+  uds: afilen
+preterito-perfecto-subjuntivo:
+  yo: haya afilado
+  tu: hayas afilado
+  vos: hayas afilado
+  ud: haya afilado
+  nosotros: hayamos afilado
+  vosotros: hayáis afilado
+  uds: hayan afilado
+imperfecto-subjuntivo:
+  yo:
+    - afilara
+    - afilase
+  tu:
+    - afilaras
+    - afilases
+  vos:
+    - afilaras
+    - afilases
+  ud:
+    - afilara
+    - afilase
+  nosotros:
+    - afiláramos
+    - afilásemos
+  vosotros:
+    - afilarais
+    - afilaseis
+  uds:
+    - afilaran
+    - afilasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera afilado
+    - hubiese afilado
+  tu:
+    - hubieras afilado
+    - hubieses afilado
+  vos:
+    - hubieras afilado
+    - hubieses afilado
+  ud:
+    - hubiera afilado
+    - hubiese afilado
+  nosotros:
+    - hubiéramos afilado
+    - hubiésemos afilado
+  vosotros:
+    - hubierais afilado
+    - hubieseis afilado
+  uds:
+    - hubieran afilado
+    - hubiesen afilado
+imperativo:
+  tu: afila
+  vos: afilá
+  ud: afile
+  nosotros: afilemos
+  vosotros: afilad
+  uds: afilen

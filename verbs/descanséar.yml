@@ -1,0 +1,142 @@
+infinitivo: descanséar
+gerundio: descanséando
+participio-pasado: descanséado
+presente-indicativo:
+  yo: descanséo
+  tu: descanséas
+  vos: descanséas
+  ud: descanséa
+  nosotros: descanséamos
+  vosotros: descanséáis
+  uds: descanséan
+preterito-perfecto-simple:
+  yo: descanséé
+  tu: descanséaste
+  vos: descanséaste
+  ud: descanséó
+  nosotros: descanséamos
+  vosotros: descanséasteis
+  uds: descanséaron
+preterito-imperfecto:
+  yo: descanséaba
+  tu: descanséabas
+  vos: descanséabas
+  ud: descanséaba
+  nosotros: descanséábamos
+  vosotros: descanséabais
+  uds: descanséaban
+futuro-simple:
+  yo: descanséaré
+  tu: descanséarás
+  vos: descanséarás
+  ud: descanséará
+  nosotros: descanséaremos
+  vosotros: descanséaréis
+  uds: descanséarán
+condicional-simple:
+  yo: descanséaría
+  tu: descanséarías
+  vos: descanséarías
+  ud: descanséaría
+  nosotros: descanséaríamos
+  vosotros: descanséaríais
+  uds: descanséarían
+presente-perfecto:
+  yo: he descanséado
+  tu: has descanséado
+  vos: has descanséado
+  ud: ha descanséado
+  nosotros: hemos descanséado
+  vosotros: habéis descanséado
+  uds: han descanséado
+preterito-pluscuamperfecto:
+  yo: había descanséado
+  tu: habías descanséado
+  vos: habías descanséado
+  ud: había descanséado
+  nosotros: habíamos descanséado
+  vosotros: habíais descanséado
+  uds: habían descanséado
+futuro-perfecto:
+  yo: habré descanséado
+  tu: habrás descanséado
+  vos: habrás descanséado
+  ud: habrá descanséado
+  nosotros: habremos descanséado
+  vosotros: habréis descanséado
+  uds: habrán descanséado
+condicional-perfecto:
+  yo: habría descanséado
+  tu: habrías descanséado
+  vos: habrías descanséado
+  ud: habría descanséado
+  nosotros: habríamos descanséado
+  vosotros: habríais descanséado
+  uds: habrían descanséado
+presente-subjuntivo:
+  yo: descansée
+  tu: descansées
+  vos: descansées
+  ud: descansée
+  nosotros: descanséemos
+  vosotros: descansééis
+  uds: descanséen
+preterito-perfecto-subjuntivo:
+  yo: haya descanséado
+  tu: hayas descanséado
+  vos: hayas descanséado
+  ud: haya descanséado
+  nosotros: hayamos descanséado
+  vosotros: hayáis descanséado
+  uds: hayan descanséado
+imperfecto-subjuntivo:
+  yo:
+    - descanséara
+    - descanseara
+  tu:
+    - descanséaras
+    - descansearas
+  vos:
+    - descanséaras
+    - descansearas
+  ud:
+    - descanséara
+    - descanseara
+  nosotros:
+    - descanséáramos
+    - descanséásemos
+  vosotros:
+    - descanséarais
+    - descanseaseis
+  uds:
+    - descanséaran
+    - descansearan
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera descanséado
+    - hubiese descanséado
+  tu:
+    - hubieras descanséado
+    - hubieses descanséado
+  vos:
+    - hubieras descanséado
+    - hubieses descanséado
+  ud:
+    - hubiera descanséado
+    - hubiese descanséado
+  nosotros:
+    - hubiéramos descanséado
+    - hubiésemos descanséado
+  vosotros:
+    - hubierais descanséado
+    - hubieseis descanséado
+  uds:
+    - hubieran descanséado
+    - hubiesen descanséado
+imperativo:
+  tu: descanséo
+  vos: descanséa
+  ud: descansée
+  nosotros: descanséemos
+  vosotros: descanséad
+  uds: descanséen

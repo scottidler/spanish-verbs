@@ -1,0 +1,142 @@
+infinitivo: entorpecer
+gerundio: entorpeciendo
+participio-pasado: entorpecido
+presente-indicativo:
+  yo: entorpezco
+  tu: entorpeces
+  vos: entorpeces
+  ud: entorpece
+  nosotros: entorpecemos
+  vosotros: entorpecéis
+  uds: entorpecen
+preterito-perfecto-simple:
+  yo: entorpecí
+  tu: entorpeciste
+  vos: entorpeciste
+  ud: entorpeció
+  nosotros: entorpecimos
+  vosotros: entorpecisteis
+  uds: entorpecieron
+preterito-imperfecto:
+  yo: entorpecía
+  tu: entorpecías
+  vos: entorpecías
+  ud: entorpecía
+  nosotros: entorpecíamos
+  vosotros: entorpecíais
+  uds: entorpecían
+futuro-simple:
+  yo: entorpeceré
+  tu: entorpecerás
+  vos: entorpecerás
+  ud: entorpecerá
+  nosotros: entorpeceremos
+  vosotros: entorpeceréis
+  uds: entorpecerán
+condicional-simple:
+  yo: entorpecería
+  tu: entorpecerías
+  vos: entorpecerías
+  ud: entorpecería
+  nosotros: entorpeceríamos
+  vosotros: entorpeceríais
+  uds: entorpecerían
+presente-perfecto:
+  yo: he entorpecido
+  tu: has entorpecido
+  vos: has entorpecido
+  ud: ha entorpecido
+  nosotros: hemos entorpecido
+  vosotros: habéis entorpecido
+  uds: han entorpecido
+preterito-pluscuamperfecto:
+  yo: había entorpecido
+  tu: habías entorpecido
+  vos: habías entorpecido
+  ud: había entorpecido
+  nosotros: habíamos entorpecido
+  vosotros: habíais entorpecido
+  uds: habían entorpecido
+futuro-perfecto:
+  yo: habré entorpecido
+  tu: habrás entorpecido
+  vos: habrás entorpecido
+  ud: habrá entorpecido
+  nosotros: habremos entorpecido
+  vosotros: habréis entorpecido
+  uds: habrán entorpecido
+condicional-perfecto:
+  yo: habría entorpecido
+  tu: habrías entorpecido
+  vos: habrías entorpecido
+  ud: habría entorpecido
+  nosotros: habríamos entorpecido
+  vosotros: habríais entorpecido
+  uds: habrían entorpecido
+presente-subjuntivo:
+  yo: entorpezca
+  tu: entorpezcas
+  vos: entorpezcas
+  ud: entorpezca
+  nosotros: entorpezcamos
+  vosotros: entorpezcáis
+  uds: entorpezcan
+preterito-perfecto-subjuntivo:
+  yo: haya entorpecido
+  tu: hayas entorpecido
+  vos: hayas entorpecido
+  ud: haya entorpecido
+  nosotros: hayamos entorpecido
+  vosotros: hayáis entorpecido
+  uds: hayan entorpecido
+imperfecto-subjuntivo:
+  yo:
+    - entorpeciera
+    - entorpeciese
+  tu:
+    - entorpecieras
+    - entorpecieses
+  vos:
+    - entorpecieras
+    - entorpecieses
+  ud:
+    - entorpeciera
+    - entorpeciese
+  nosotros:
+    - entorpeciéramos
+    - entorpeciésemos
+  vosotros:
+    - entorpecierais
+    - entorpecieseis
+  uds:
+    - entorpecieran
+    - entorpeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera entorpecido
+    - hubiese entorpecido
+  tu:
+    - hubieras entorpecido
+    - hubieses entorpecido
+  vos:
+    - hubieras entorpecido
+    - hubieses entorpecido
+  ud:
+    - hubiera entorpecido
+    - hubiese entorpecido
+  nosotros:
+    - hubiéramos entorpecido
+    - hubiésemos entorpecido
+  vosotros:
+    - hubierais entorpecido
+    - hubieseis entorpecido
+  uds:
+    - hubieran entorpecido
+    - hubiesen entorpecido
+imperativo:
+  tu: entorpece
+  vos: entorpecé
+  ud: entorpezca
+  nosotros: entorpezcamos
+  vosotros: entorpeced
+  uds: entorpezcan

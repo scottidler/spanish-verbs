@@ -1,0 +1,142 @@
+infinitivo: escurrir
+gerundio: escurriendo
+participio-pasado: escurrido
+presente-indicativo:
+  yo: escurro
+  tu: escurres
+  vos: escurre
+  ud: escurre
+  nosotros: escurrimos
+  vosotros: escurrís
+  uds: escurren
+preterito-perfecto-simple:
+  yo: escurrí
+  tu: escurriste
+  vos: escurriste
+  ud: escrutó
+  nosotros: escurrimos
+  vosotros: escurristeis
+  uds: escurrieron
+preterito-imperfecto:
+  yo: escurría
+  tu: escurrías
+  vos: escurrías
+  ud: escurría
+  nosotros: escurríamos
+  vosotros: escurríais
+  uds: escurrían
+futuro-simple:
+  yo: escurriré
+  tu: escurrirás
+  vos: escurrirás
+  ud: escurrirá
+  nosotros: escurriremos
+  vosotros: escurriréis
+  uds: escurrirán
+condicional-simple:
+  yo: escurriría
+  tu: escurrirías
+  vos: escurrirías
+  ud: escurriría
+  nosotros: escurriríamos
+  vosotros: escurriríais
+  uds: escurrirían
+presente-perfecto:
+  yo: he escurrido
+  tu: has escurrido
+  vos: has escurrido
+  ud: ha escurrido
+  nosotros: hemos escurrido
+  vosotros: habéis escurrido
+  uds: han escurrido
+preterito-pluscuamperfecto:
+  yo: había escurrido
+  tu: habías escurrido
+  vos: habías escurrido
+  ud: había escurrido
+  nosotros: habíamos escurrido
+  vosotros: habíais escurrido
+  uds: habían escurrido
+futuro-perfecto:
+  yo: habré escurrido
+  tu: habrás escurrido
+  vos: habrás escurrido
+  ud: habrá escurrido
+  nosotros: habremos escurrido
+  vosotros: habréis escurrido
+  uds: habrán escurrido
+condicional-perfecto:
+  yo: habría escurrido
+  tu: habrías escurrido
+  vos: habrías escurrido
+  ud: habría escurrido
+  nosotros: habríamos escurrido
+  vosotros: habríais escurrido
+  uds: habrían escurrido
+presente-subjuntivo:
+  yo: escurre
+  tu: escurres
+  vos: escurres
+  ud: escurre
+  nosotros: escurramos
+  vosotros: escurráis
+  uds: escurren
+preterito-perfecto-subjuntivo:
+  yo: haya escurrido
+  tu: hayas escurrido
+  vos: hayas escurrido
+  ud: haya escurrido
+  nosotros: hayamos escurrido
+  vosotros: hayáis escurrido
+  uds: hayan escurrido
+imperfecto-subjuntivo:
+  yo:
+    - escurriera
+    - escurriese
+  tu:
+    - escurrieras
+    - escurrieses
+  vos:
+    - escurrieras
+    - escurrieses
+  ud:
+    - escurriera
+    - escurriese
+  nosotros:
+    - escurriéramos
+    - escurriésemos
+  vosotros:
+    - escurrierais
+    - escurriesérais
+  uds:
+    - escurrieran
+    - escurriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera escurrido
+    - hubiese escurrido
+  tu:
+    - hubieras escurrido
+    - hubieses escurrido
+  vos:
+    - hubieras escurrido
+    - hubieses escurrido
+  ud:
+    - hubiera escurrido
+    - hubiese escurrido
+  nosotros:
+    - hubiéramos escurrido
+    - hubiésemos escurrido
+  vosotros:
+    - hubierais escurrido
+    - hubieseis escurrido
+  uds:
+    - hubieran escurrido
+    - hubiesen escurrido
+imperativo:
+  tu: escurre
+  vos: escurrí
+  ud: escurre
+  nosotros: escurramos
+  vosotros: escurrid
+  uds: escurren

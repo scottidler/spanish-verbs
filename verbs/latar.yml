@@ -1,0 +1,142 @@
+infinitivo: latar
+gerundio: latando
+participio-pasado: latado
+presente-indicativo:
+  yo: lato
+  tu: latas
+  vos: latas
+  ud: lata
+  nosotros: latamos
+  vosotros: latáis
+  uds: latan
+preterito-perfecto-simple:
+  yo: laté
+  tu: lataste
+  vos: lataste
+  ud: lató
+  nosotros: latamos
+  vosotros: latasteis
+  uds: lataron
+preterito-imperfecto:
+  yo: lataba
+  tu: latabas
+  vos: latabas
+  ud: lataba
+  nosotros: latábamos
+  vosotros: latabais
+  uds: lataban
+futuro-simple:
+  yo: lataré
+  tu: latarás
+  vos: latarás
+  ud: latará
+  nosotros: lataremos
+  vosotros: lataréis
+  uds: lataran
+condicional-simple:
+  yo: lataría
+  tu: latarías
+  vos: latarías
+  ud: lataría
+  nosotros: lataríamos
+  vosotros: lataríais
+  uds: latarían
+presente-perfecto:
+  yo: he latado
+  tu: has latado
+  vos: has latado
+  ud: ha latado
+  nosotros: hemos latado
+  vosotros: habéis latado
+  uds: han latado
+preterito-pluscuamperfecto:
+  yo: había latado
+  tu: habías latado
+  vos: habías latado
+  ud: había latado
+  nosotros: habíamos latado
+  vosotros: habíais latado
+  uds: habían latado
+futuro-perfecto:
+  yo: habré latado
+  tu: habrás latado
+  vos: habrás latado
+  ud: habrá latado
+  nosotros: habremos latado
+  vosotros: habréis latado
+  uds: habrán latado
+condicional-perfecto:
+  yo: habría latado
+  tu: habrías latado
+  vos: habrías latado
+  ud: habría latado
+  nosotros: habríamos latado
+  vosotros: habríais latado
+  uds: habrían latado
+presente-subjuntivo:
+  yo: late
+  tu: lates
+  vos: lates
+  ud: late
+  nosotros: latemos
+  vosotros: latéis
+  uds: laten
+preterito-perfecto-subjuntivo:
+  yo: haya latado
+  tu: hayas latado
+  vos: hayas latado
+  ud: haya latado
+  nosotros: hayamos latado
+  vosotros: hayáis latado
+  uds: hayan latado
+imperfecto-subjuntivo:
+  yo:
+    - latara
+    - latase
+  tu:
+    - lataras
+    - latases
+  vos:
+    - lataras
+    - latases
+  ud:
+    - latara
+    - latase
+  nosotros:
+    - latáramos
+    - latásemos
+  vosotros:
+    - latarais
+    - lataseis
+  uds:
+    - lataran
+    - latasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera latado
+    - hubiese latado
+  tu:
+    - hubieras latado
+    - hubieses latado
+  vos:
+    - hubieras latado
+    - hubieses latado
+  ud:
+    - hubiera latado
+    - hubiese latado
+  nosotros:
+    - hubiéramos latado
+    - hubiésemos latado
+  vosotros:
+    - hubierais latado
+    - hubieseis latado
+  uds:
+    - hubieran latado
+    - hubiesen latado
+imperativo:
+  tu: late
+  vos: laté
+  ud: lata
+  nosotros: latamos
+  vosotros: lated
+  uds: latan

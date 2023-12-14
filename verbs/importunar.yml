@@ -1,0 +1,142 @@
+infinitivo: importunar
+gerundio: importunando
+participio-pasado: importunado
+presente-indicativo:
+  yo: importuno
+  tu: importunas
+  vos: importunás
+  ud: importuna
+  nosotros: importunamos
+  vosotros: importunáis
+  uds: importunan
+preterito-perfecto-simple:
+  yo: importuné
+  tu: importunaste
+  vos: importunaste
+  ud: importunó
+  nosotros: importunamos
+  vosotros: importunasteis
+  uds: importunaron
+preterito-imperfecto:
+  yo: importunaba
+  tu: importunabas
+  vos: importunabas
+  ud: importunaba
+  nosotros: importunábamos
+  vosotros: importunabais
+  uds: importunaban
+futuro-simple:
+  yo: importunaré
+  tu: importunarás
+  vos: importunarás
+  ud: importunará
+  nosotros: importunaremos
+  vosotros: importunaréis
+  uds: importunarán
+condicional-simple:
+  yo: importunaría
+  tu: importunarías
+  vos: importunarías
+  ud: importunaría
+  nosotros: importunaríamos
+  vosotros: importunaríais
+  uds: importunarían
+presente-perfecto:
+  yo: he importunado
+  tu: has importunado
+  vos: has importunado
+  ud: ha importunado
+  nosotros: hemos importunado
+  vosotros: habéis importunado
+  uds: han importunado
+preterito-pluscuamperfecto:
+  yo: había importunado
+  tu: habías importunado
+  vos: habías importunado
+  ud: había importunado
+  nosotros: habíamos importunado
+  vosotros: habíais importunado
+  uds: habían importunado
+futuro-perfecto:
+  yo: habré importunado
+  tu: habrás importunado
+  vos: habrás importunado
+  ud: habrá importunado
+  nosotros: habremos importunado
+  vosotros: habréis importunado
+  uds: habrán importunado
+condicional-perfecto:
+  yo: habría importunado
+  tu: habrías importunado
+  vos: habrías importunado
+  ud: habría importunado
+  nosotros: habríamos importunado
+  vosotros: habríais importunado
+  uds: habrían importunado
+presente-subjuntivo:
+  yo: importune
+  tu: importunes
+  vos: importunes
+  ud: importune
+  nosotros: importunemos
+  vosotros: importunéis
+  uds: importunen
+preterito-perfecto-subjuntivo:
+  yo: haya importunado
+  tu: hayas importunado
+  vos: hayas importunado
+  ud: haya importunado
+  nosotros: hayamos importunado
+  vosotros: hayáis importunado
+  uds: hayan importunado
+imperfecto-subjuntivo:
+  yo:
+    - importunara
+    - importunase
+  tu:
+    - importunaras
+    - importunases
+  vos:
+    - importunaras
+    - importunases
+  ud:
+    - importunara
+    - importunase
+  nosotros:
+    - importunáramos
+    - importunásemos
+  vosotros:
+    - importunarais
+    - importunaseis
+  uds:
+    - importunaran
+    - importunasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera importunado
+    - hubiese importunado
+  tu:
+    - hubieras importunado
+    - hubieses importunado
+  vos:
+    - hubieras importunado
+    - hubieses importunado
+  ud:
+    - hubiera importunado
+    - hubiese importunado
+  nosotros:
+    - hubiéramos importunado
+    - hubiésemos importunado
+  vosotros:
+    - hubierais importunado
+    - hubieseis importunado
+  uds:
+    - hubieran importunado
+    - hubiesen importunado
+imperativo:
+  tu: importuna
+  vos: importuná
+  ud: importune
+  nosotros: importunemos
+  vosotros: importunad
+  uds: importunen

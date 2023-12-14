@@ -1,0 +1,142 @@
+infinitivo: tiritar
+gerundio: tiritando
+participio-pasado: tiritado
+presente-indicativo:
+  yo: tiro
+  tu: tiras
+  vos: tiras
+  ud: tira
+  nosotros: tiramos
+  vosotros: tiráis
+  uds: tiran
+preterito-perfecto-simple:
+  yo: tirité
+  tu: tiritaste
+  vos: tiritaste
+  ud: tiritó
+  nosotros: tiritamos
+  vosotros: tiritasteis
+  uds: tiritaron
+preterito-imperfecto:
+  yo: tiritaba
+  tu: tiritabas
+  vos: tiritabas
+  ud: tiritaba
+  nosotros: tiritábamos
+  vosotros: tiritabais
+  uds: tiritaban
+futuro-simple:
+  yo: tiritaré
+  tu: tiritarás
+  vos: tiritarás
+  ud: tiritará
+  nosotros: tiritaremos
+  vosotros: tiritaréis
+  uds: tiritarán
+condicional-simple:
+  yo: tiritaría
+  tu: tiritarías
+  vos: tiritarías
+  ud: tiritaría
+  nosotros: tiritaríamos
+  vosotros: tiritaríais
+  uds: tiritarían
+presente-perfecto:
+  yo: he tiritado
+  tu: has tiritado
+  vos: has tiritado
+  ud: ha tiritado
+  nosotros: hemos tiritado
+  vosotros: habéis tiritado
+  uds: han tiritado
+preterito-pluscuamperfecto:
+  yo: había tiritado
+  tu: habías tiritado
+  vos: habías tiritado
+  ud: había tiritado
+  nosotros: habíamos tiritado
+  vosotros: habíais tiritado
+  uds: habían tiritado
+futuro-perfecto:
+  yo: habré tiritado
+  tu: habrás tiritado
+  vos: habrás tiritado
+  ud: habrá tiritado
+  nosotros: habremos tiritado
+  vosotros: habréis tiritado
+  uds: habrán tiritado
+condicional-perfecto:
+  yo: habría tiritado
+  tu: habrías tiritado
+  vos: habrías tiritado
+  ud: habría tiritado
+  nosotros: habríamos tiritado
+  vosotros: habríais tiritado
+  uds: habrían tiritado
+presente-subjuntivo:
+  yo: tite
+  tu: tites
+  vos: tites
+  ud: tite
+  nosotros: titemos
+  vosotros: titéis
+  uds: titen
+preterito-perfecto-subjuntivo:
+  yo: haya tiritado
+  tu: hayas tiritado
+  vos: hayas tiritado
+  ud: haya tiritado
+  nosotros: hayamos tiritado
+  vosotros: hayáis tiritado
+  uds: hayan tiritado
+imperfecto-subjuntivo:
+  yo:
+    - tiritara
+    - tiritase
+  tu:
+    - tiritaras
+    - tiritases
+  vos:
+    - tiritaras
+    - tiritases
+  ud:
+    - tiritara
+    - tiritase
+  nosotros:
+    - titiráramos
+    - titirásemos
+  vosotros:
+    - tiritarais
+    - tiritaseis
+  uds:
+    - tiritaran
+    - tiritasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tiritado
+    - hubiese tiritado
+  tu:
+    - hubieras tiritado
+    - hubieses tiritado
+  vos:
+    - hubieras tiritado
+    - hubieses tiritado
+  ud:
+    - hubiera tiritado
+    - hubiese tiritado
+  nosotros:
+    - hubiéramos tiritado
+    - hubiésemos tiritado
+  vosotros:
+    - hubierais tiritado
+    - hubieseis tiritado
+  uds:
+    - hubieran tiritado
+    - hubiesen tiritado
+imperativo:
+  tu: tira
+  vos: titá
+  ud: tite
+  nosotros: titemos
+  vosotros: tiritad
+  uds: titen

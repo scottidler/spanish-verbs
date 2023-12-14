@@ -1,0 +1,142 @@
+infinitivo: errar
+gerundio: errando
+participio-pasado: errado
+presente-indicativo:
+  yo: erro
+  tu: erras
+  vos: errás
+  ud: erra
+  nosotros: erramos
+  vosotros: erráis
+  uds: erran
+preterito-perfecto-simple:
+  yo: erré
+  tu: erraste
+  vos: erraste
+  ud: erró
+  nosotros: erramos
+  vosotros: errasteis
+  uds: erraron
+preterito-imperfecto:
+  yo: erraba
+  tu: errabas
+  vos: errabas
+  ud: erraba
+  nosotros: errábamos
+  vosotros: errabais
+  uds: erraban
+futuro-simple:
+  yo: erraré
+  tu: errarás
+  vos: errarás
+  ud: errará
+  nosotros: erraremos
+  vosotros: erraréis
+  uds: errarán
+condicional-simple:
+  yo: erraría
+  tu: errarías
+  vos: errarías
+  ud: erraría
+  nosotros: erraríamos
+  vosotros: erraríais
+  uds: errarían
+presente-perfecto:
+  yo: he errado
+  tu: has errado
+  vos: has errado
+  ud: ha errado
+  nosotros: hemos errado
+  vosotros: habéis errado
+  uds: han errado
+preterito-pluscuamperfecto:
+  yo: había errado
+  tu: habías errado
+  vos: habías errado
+  ud: había errado
+  nosotros: habíamos errado
+  vosotros: habíais errado
+  uds: habían errado
+futuro-perfecto:
+  yo: habré errado
+  tu: habrás errado
+  vos: habrás errado
+  ud: habrá errado
+  nosotros: habremos errado
+  vosotros: habréis errado
+  uds: habrán errado
+condicional-perfecto:
+  yo: habría errado
+  tu: habrías errado
+  vos: habrías errado
+  ud: habría errado
+  nosotros: habríamos errado
+  vosotros: habríais errado
+  uds: habrían errado
+presente-subjuntivo:
+  yo: erre
+  tu: erres
+  vos: erres
+  ud: erre
+  nosotros: erremos
+  vosotros: erréis
+  uds: erren
+preterito-perfecto-subjuntivo:
+  yo: haya errado
+  tu: hayas errado
+  vos: hayas errado
+  ud: haya errado
+  nosotros: hayamos errado
+  vosotros: hayáis errado
+  uds: hayan errado
+imperfecto-subjuntivo:
+  yo:
+    - errara
+    - errase
+  tu:
+    - erraras
+    - errases
+  vos:
+    - erraras
+    - errases
+  ud:
+    - errara
+    - errase
+  nosotros:
+    - erráramos
+    - errásemos
+  vosotros:
+    - errarais
+    - erraseis
+  uds:
+    - erraran
+    - errasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera errado
+    - hubiese errado
+  tu:
+    - hubieras errado
+    - hubieses errado
+  vos:
+    - hubieras errado
+    - hubieses errado
+  ud:
+    - hubiera errado
+    - hubiese errado
+  nosotros:
+    - hubiéramos errado
+    - hubiésemos errado
+  vosotros:
+    - hubierais errado
+    - hubieseis errado
+  uds:
+    - hubieran errado
+    - hubiesen errado
+imperativo:
+  tu: erra
+  vos: errá
+  ud: erre
+  nosotros: erremos
+  vosotros: errad
+  uds: erren

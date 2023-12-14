@@ -1,0 +1,142 @@
+infinitivo: ignorar
+gerundio: ignorando
+participio-pasado: ignorado
+presente-indicativo:
+  yo: ignoro
+  tu: ignoras
+  vos: ignoras
+  ud: ignora
+  nosotros: ignoramos
+  vosotros: ignoráis
+  uds: ignoran
+preterito-perfecto-simple:
+  yo: ignoré
+  tu: ignoraste
+  vos: ignoraste
+  ud: ignoró
+  nosotros: ignoramos
+  vosotros: ignorasteis
+  uds: ignoraron
+preterito-imperfecto:
+  yo: ignoraba
+  tu: ignorabas
+  vos: ignorabas
+  ud: ignoraba
+  nosotros: ignorábamos
+  vosotros: ignorabais
+  uds: ignoraban
+futuro-simple:
+  yo: ignoraré
+  tu: ignorarás
+  vos: ignorarás
+  ud: ignorará
+  nosotros: ignoraremos
+  vosotros: ignoraréis
+  uds: ignorarán
+condicional-simple:
+  yo: ignoraría
+  tu: ignorarías
+  vos: ignorarías
+  ud: ignoraría
+  nosotros: ignoraríamos
+  vosotros: ignoraríais
+  uds: ignorarían
+presente-perfecto:
+  yo: he ignorado
+  tu: has ignorado
+  vos: has ignorado
+  ud: ha ignorado
+  nosotros: hemos ignorado
+  vosotros: habéis ignorado
+  uds: han ignorado
+preterito-pluscuamperfecto:
+  yo: había ignorado
+  tu: habías ignorado
+  vos: habías ignorado
+  ud: había ignorado
+  nosotros: habíamos ignorado
+  vosotros: habíais ignorado
+  uds: habían ignorado
+futuro-perfecto:
+  yo: habré ignorado
+  tu: habrás ignorado
+  vos: habrás ignorado
+  ud: habrá ignorado
+  nosotros: habremos ignorado
+  vosotros: habréis ignorado
+  uds: habrán ignorado
+condicional-perfecto:
+  yo: habría ignorado
+  tu: habrías ignorado
+  vos: habrías ignorado
+  ud: habría ignorado
+  nosotros: habríamos ignorado
+  vosotros: habríais ignorado
+  uds: habrían ignorado
+presente-subjuntivo:
+  yo: ignore
+  tu: ignores
+  vos: ignores
+  ud: ignore
+  nosotros: ignoremos
+  vosotros: ignoréis
+  uds: ignoren
+preterito-perfecto-subjuntivo:
+  yo: haya ignorado
+  tu: hayas ignorado
+  vos: hayas ignorado
+  ud: haya ignorado
+  nosotros: hayamos ignorado
+  vosotros: hayáis ignorado
+  uds: hayan ignorado
+imperfecto-subjuntivo:
+  yo:
+    - ignorara
+    - ignorase
+  tu:
+    - ignoraras
+    - ignorases
+  vos:
+    - ignoraras
+    - ignorases
+  ud:
+    - ignorara
+    - ignorase
+  nosotros:
+    - ignoráramos
+    - ignorásemos
+  vosotros:
+    - ignorarais
+    - ignoraseis
+  uds:
+    - ignoraran
+    - ignorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ignorado
+    - hubiese ignorado
+  tu:
+    - hubieras ignorado
+    - hubieses ignorado
+  vos:
+    - hubieras ignorado
+    - hubieses ignorado
+  ud:
+    - hubiera ignorado
+    - hubiese ignorado
+  nosotros:
+    - hubiéramos ignorado
+    - hubiésemos ignorado
+  vosotros:
+    - hubierais ignorado
+    - hubieseis ignorado
+  uds:
+    - hubieran ignorado
+    - hubiesen ignorado
+imperativo:
+  tu: ignora
+  vos: ignorá
+  ud: ignore
+  nosotros: ignoremos
+  vosotros: ignorad
+  uds: ignoren

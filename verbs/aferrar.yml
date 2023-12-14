@@ -1,0 +1,142 @@
+infinitivo: aferrar
+gerundio: aferrando
+participio-pasado: aferrado
+presente-indicativo:
+  yo: afierro
+  tu: afierras
+  vos: afierras
+  ud: afierra
+  nosotros: aferramos
+  vosotros: aferráis
+  uds: afierran
+preterito-perfecto-simple:
+  yo: aferré
+  tu: aferraste
+  vos: aferraste
+  ud: aferró
+  nosotros: aferramos
+  vosotros: aferrasteis
+  uds: aferraron
+preterito-imperfecto:
+  yo: aferraba
+  tu: aferrabas
+  vos: aferrabas
+  ud: aferraba
+  nosotros: aferrábamos
+  vosotros: aferrabais
+  uds: aferraban
+futuro-simple:
+  yo: aferraré
+  tu: aferrarás
+  vos: aferrarás
+  ud: aferrará
+  nosotros: aferraremos
+  vosotros: aferraréis
+  uds: aferrarán
+condicional-simple:
+  yo: aferraría
+  tu: aferrarías
+  vos: aferrarías
+  ud: aferraría
+  nosotros: aferraríamos
+  vosotros: aferraríais
+  uds: aferrarían
+presente-perfecto:
+  yo: he aferrado
+  tu: has aferrado
+  vos: has aferrado
+  ud: ha aferrado
+  nosotros: hemos aferrado
+  vosotros: habéis aferrado
+  uds: han aferrado
+preterito-pluscuamperfecto:
+  yo: había aferrado
+  tu: habías aferrado
+  vos: habías aferrado
+  ud: había aferrado
+  nosotros: habíamos aferrado
+  vosotros: habíais aferrado
+  uds: habían aferrado
+futuro-perfecto:
+  yo: habré aferrado
+  tu: habrás aferrado
+  vos: habrás aferrado
+  ud: habrá aferrado
+  nosotros: habremos aferrado
+  vosotros: habréis aferrado
+  uds: habrán aferrado
+condicional-perfecto:
+  yo: habría aferrado
+  tu: habrías aferrado
+  vos: habrías aferrado
+  ud: habría aferrado
+  nosotros: habríamos aferrado
+  vosotros: habríais aferrado
+  uds: habrían aferrado
+presente-subjuntivo:
+  yo: afierre
+  tu: afierres
+  vos: afierres
+  ud: afierre
+  nosotros: afirramos
+  vosotros: aferráis
+  uds: afierren
+preterito-perfecto-subjuntivo:
+  yo: haya aferrado
+  tu: hayas aferrado
+  vos: hayas aferrado
+  ud: haya aferrado
+  nosotros: hayamos aferrado
+  vosotros: hayáis aferrado
+  uds: hayan aferrado
+imperfecto-subjuntivo:
+  yo:
+    - afirrara
+    - afirrase
+  tu:
+    - aferraras
+    - afirrases
+  vos:
+    - aferraras
+    - afirrases
+  ud:
+    - afirrara
+    - afirrase
+  nosotros:
+    - aferráramos
+    - aferrásemos
+  vosotros:
+    - aferrarais
+    - afirraseis
+  uds:
+    - aferraran
+    - afirrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aferrado
+    - hubiese aferrado
+  tu:
+    - hubieras aferrado
+    - hubieses aferrado
+  vos:
+    - hubieras aferrado
+    - hubieses aferrado
+  ud:
+    - hubiera aferrado
+    - hubiese aferrado
+  nosotros:
+    - hubiéramos aferrado
+    - hubiésemos aferrado
+  vosotros:
+    - hubierais aferrado
+    - hubieseis aferrado
+  uds:
+    - hubieran aferrado
+    - hubiesen aferrado
+imperativo:
+  tu: afierra
+  vos: aferrá
+  ud: afierre
+  nosotros: afirramos
+  vosotros: aferrad
+  uds: afierren

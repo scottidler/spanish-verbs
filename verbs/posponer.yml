@@ -1,0 +1,142 @@
+infinitivo: posponer
+gerundio: posponiendo
+participio-pasado: pospuesto
+presente-indicativo:
+  yo: pospongo
+  tu: pospones
+  vos: pospones
+  ud: pospone
+  nosotros: posponemos
+  vosotros: posponéis
+  uds: posponen
+preterito-perfecto-simple:
+  yo: pospuse
+  tu: pospusiste
+  vos: pospusiste
+  ud: pospuso
+  nosotros: pospusimos
+  vosotros: pospusisteis
+  uds: pospusieron
+preterito-imperfecto:
+  yo: posponía
+  tu: posponías
+  vos: posponías
+  ud: posponía
+  nosotros: posponíamos
+  vosotros: posponíais
+  uds: posponían
+futuro-simple:
+  yo: pospondré
+  tu: pospondrás
+  vos: pospondrás
+  ud: pospondrá
+  nosotros: pospondremos
+  vosotros: pospondréis
+  uds: pospondrán
+condicional-simple:
+  yo: pospondría
+  tu: pospondrías
+  vos: pospondrías
+  ud: pospondría
+  nosotros: pospondríamos
+  vosotros: pospondríais
+  uds: pospondrían
+presente-perfecto:
+  yo: he pospuesto
+  tu: has pospuesto
+  vos: has pospuesto
+  ud: ha pospuesto
+  nosotros: hemos pospuesto
+  vosotros: habéis pospuesto
+  uds: han pospuesto
+preterito-pluscuamperfecto:
+  yo: había pospuesto
+  tu: habías pospuesto
+  vos: habías pospuesto
+  ud: había pospuesto
+  nosotros: habíamos pospuesto
+  vosotros: habíais pospuesto
+  uds: habían pospuesto
+futuro-perfecto:
+  yo: habré pospuesto
+  tu: habrás pospuesto
+  vos: habrás pospuesto
+  ud: habrá pospuesto
+  nosotros: habremos pospuesto
+  vosotros: habréis pospuesto
+  uds: habrán pospuesto
+condicional-perfecto:
+  yo: habría pospuesto
+  tu: habrías pospuesto
+  vos: habrías pospuesto
+  ud: habría pospuesto
+  nosotros: habríamos pospuesto
+  vosotros: habríais pospuesto
+  uds: habrían pospuesto
+presente-subjuntivo:
+  yo: posponga
+  tu: pospongas
+  vos: pospongas
+  ud: posponga
+  nosotros: pospongamos
+  vosotros: pospongáis
+  uds: pospongan
+preterito-perfecto-subjuntivo:
+  yo: haya pospuesto
+  tu: hayas pospuesto
+  vos: hayas pospuesto
+  ud: haya pospuesto
+  nosotros: hayamos pospuesto
+  vosotros: hayáis pospuesto
+  uds: hayan pospuesto
+imperfecto-subjuntivo:
+  yo:
+    - pospusiera
+    - pospusiese
+  tu:
+    - pospusieras
+    - pospusieses
+  vos:
+    - pospusieras
+    - pospusieses
+  ud:
+    - pospusiera
+    - pospusiese
+  nosotros:
+    - pospusiéramos
+    - pospusiésemos
+  vosotros:
+    - pospusierais
+    - pospusieseis
+  uds:
+    - pospusieran
+    - pospusiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pospuesto
+    - hubiese pospuesto
+  tu:
+    - hubieras pospuesto
+    - hubieses pospuesto
+  vos:
+    - hubieras pospuesto
+    - hubieses pospuesto
+  ud:
+    - hubiera pospuesto
+    - hubiese pospuesto
+  nosotros:
+    - hubiéramos pospuesto
+    - hubiésemos pospuesto
+  vosotros:
+    - hubierais pospuesto
+    - hubieseis pospuesto
+  uds:
+    - hubieran pospuesto
+    - hubiesen pospuesto
+imperativo:
+  tu: pospón
+  vos: posponé
+  ud: posponga
+  nosotros: pospongamos
+  vosotros: posponed
+  uds: pospongan

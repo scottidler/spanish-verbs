@@ -1,0 +1,156 @@
+infinitivo: disponerse
+gerundio: disponiéndose
+participio-pasado: dispuesto
+
+presente-indicativo:
+  yo: me dispongo
+  tu: te dispones
+  vos: te dispones
+  ud: se dispone
+  nosotros: nos disponemos
+  vosotros: os disponéis
+  uds: se disponen
+
+preterito-perfecto-simple:
+  yo: me dispuse
+  tu: te dispusiste
+  vos: te dispusiste
+  ud: se dispuso
+  nosotros: nos dispusimos
+  vosotros: os dispusisteis
+  uds: se dispusieron
+
+preterito-imperfecto:
+  yo: me disponía
+  tu: te disponías
+  vos: te disponías
+  ud: se disponía
+  nosotros: nos disponíamos
+  vosotros: os disponíais
+  uds: se disponían
+
+futuro-simple:
+  yo: me dispondré
+  tu: te dispondrás
+  vos: te dispondrás
+  ud: se dispondrá
+  nosotros: nos dispondremos
+  vosotros: os dispondréis
+  uds: se dispondrán
+
+condicional-simple:
+  yo: me dispondría
+  tu: te dispondrías
+  vos: te dispondrías
+  ud: se dispondría
+  nosotros: nos dispondríamos
+  vosotros: os dispondríais
+  uds: se dispondrían
+
+presente-perfecto:
+  yo: me he dispuesto
+  tu: te has dispuesto
+  vos: te has dispuesto
+  ud: se ha dispuesto
+  nosotros: nos hemos dispuesto
+  vosotros: os habéis dispuesto
+  uds: se han dispuesto
+
+preterito-pluscuamperfecto:
+  yo: me había dispuesto
+  tu: te habías dispuesto
+  vos: te habías dispuesto
+  ud: se había dispuesto
+  nosotros: nos habíamos dispuesto
+  vosotros: os habíais dispuesto
+  uds: se habían dispuesto
+
+futuro-perfecto:
+  yo: me habré dispuesto
+  tu: te habrás dispuesto
+  vos: te habrás dispuesto
+  ud: se habrá dispuesto
+  nosotros: nos habremos dispuesto
+  vosotros: os habréis dispuesto
+  uds: se habrán dispuesto
+
+condicional-perfecto:
+  yo: me habría dispuesto
+  tu: te habrías dispuesto
+  vos: te habrías dispuesto
+  ud: se habría dispuesto
+  nosotros: nos habríamos dispuesto
+  vosotros: os habríais dispuesto
+  uds: se habrían dispuesto
+
+presente-subjuntivo:
+  yo: me disponga
+  tu: te dispongas
+  vos: te dispongas
+  ud: se disponga
+  nosotros: nos dispongamos
+  vosotros: os dispongáis
+  uds: se dispongan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya dispuesto
+  tu: te hayas dispuesto
+  vos: te hayas dispuesto
+  ud: se haya dispuesto
+  nosotros: nos hayamos dispuesto
+  vosotros: os hayáis dispuesto
+  uds: se hayan dispuesto
+
+imperfecto-subjuntivo:
+  yo:
+    - me dispusiera
+    - me dispusiese
+  tu:
+    - te dispusieras
+    - te dispusieses
+  vos:
+    - te dispusieras
+    - te dispusieses
+  ud:
+    - se dispusiera
+    - se dispusiese
+  nosotros:
+    - nos dispusiéramos
+    - nos dispusiésemos
+  vosotros:
+    - os dispusierais
+    - os dispusieseis
+  uds:
+    - se dispusieran
+    - se dispusiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera dispuesto
+    - me hubiese dispuesto
+  tu:
+    - te hubieras dispuesto
+    - te hubieses dispuesto
+  vos:
+    - te hubieras dispuesto
+    - te hubieses dispuesto
+  ud:
+    - se hubiera dispuesto
+    - se hubiese dispuesto
+  nosotros:
+    - nos hubiéramos dispuesto
+    - nos hubiésemos dispuesto
+  vosotros:
+    - os hubierais dispuesto
+    - os hubieseis dispuesto
+  uds:
+    - se hubieran dispuesto
+    - se hubiesen dispuesto
+
+imperativo:
+  tu: disponte
+  vos: disponete
+  ud: dispóngase
+  nosotros: dispongámonos
+  vosotros: disponed
+  uds: dispongan

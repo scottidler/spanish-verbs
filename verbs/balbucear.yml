@@ -1,0 +1,142 @@
+infinitivo: balbucear
+gerundio: balbuceando
+participio-pasado: balbuceado
+presente-indicativo:
+  yo: balbuceo
+  tu: balbuceas
+  vos: balbuceas
+  ud: balbucea
+  nosotros: balbuceamos
+  vosotros: balbuceáis
+  uds: balbucean
+preterito-perfecto-simple:
+  yo: balbuceé
+  tu: balbuceaste
+  vos: balbuceaste
+  ud: balbuceó
+  nosotros: balbuceamos
+  vosotros: balbuceasteis
+  uds: balbucearon
+preterito-imperfecto:
+  yo: balbuceaba
+  tu: balbuceabas
+  vos: balbuceabas
+  ud: balbuceaba
+  nosotros: balbuceábamos
+  vosotros: balbuceabais
+  uds: balbuceaban
+futuro-simple:
+  yo: balbucearé
+  tu: balbucearás
+  vos: balbucearás
+  ud: balbuceará
+  nosotros: balbucearemos
+  vosotros: balbucearéis
+  uds: balbucearán
+condicional-simple:
+  yo: balbucearía
+  tu: balbucearías
+  vos: balbucearías
+  ud: balbucearía
+  nosotros: balbucearíamos
+  vosotros: balbucearíais
+  uds: balbucearían
+presente-perfecto:
+  yo: he balbuceado
+  tu: has balbuceado
+  vos: has balbuceado
+  ud: ha balbuceado
+  nosotros: hemos balbuceado
+  vosotros: habéis balbuceado
+  uds: han balbuceado
+preterito-pluscuamperfecto:
+  yo: había balbuceado
+  tu: habías balbuceado
+  vos: habías balbuceado
+  ud: había balbuceado
+  nosotros: habíamos balbuceado
+  vosotros: habíais balbuceado
+  uds: habían balbuceado
+futuro-perfecto:
+  yo: habré balbuceado
+  tu: habrás balbuceado
+  vos: habrás balbuceado
+  ud: habrá balbuceado
+  nosotros: habremos balbuceado
+  vosotros: habréis balbuceado
+  uds: habrán balbuceado
+condicional-perfecto:
+  yo: habría balbuceado
+  tu: habrías balbuceado
+  vos: habrías balbuceado
+  ud: habría balbuceado
+  nosotros: habríamos balbuceado
+  vosotros: habríais balbuceado
+  uds: habrían balbuceado
+presente-subjuntivo:
+  yo: balbucee
+  tu: balbucees
+  vos: balbucees
+  ud: balbucee
+  nosotros: balbuceemos
+  vosotros: balbuceéis
+  uds: balbuceen
+preterito-perfecto-subjuntivo:
+  yo: haya balbuceado
+  tu: hayas balbuceado
+  vos: hayas balbuceado
+  ud: haya balbuceado
+  nosotros: hayamos balbuceado
+  vosotros: hayáis balbuceado
+  uds: hayan balbuceado
+imperfecto-subjuntivo:
+  yo:
+    - balbuceara
+    - balbucease
+  tu:
+    - balbucearas
+    - balbuceases
+  vos:
+    - balbucearas
+    - balbuceases
+  ud:
+    - balbuceara
+    - balbucease
+  nosotros:
+    - balbuceáramos
+    - balbuceásemos
+  vosotros:
+    - balbucearais
+    - balbuceaseis
+  uds:
+    - balbucearan
+    - balbuceasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera balbuceado
+    - hubiese balbuceado
+  tu:
+    - hubieras balbuceado
+    - hubieses balbuceado
+  vos:
+    - hubieras balbuceado
+    - hubieses balbuceado
+  ud:
+    - hubiera balbuceado
+    - hubiese balbuceado
+  nosotros:
+    - hubiéramos balbuceado
+    - hubiésemos balbuceado
+  vosotros:
+    - hubierais balbuceado
+    - hubieseis balbuceado
+  uds:
+    - hubieran balbuceado
+    - hubiesen balbuceado
+imperativo:
+  tu: balbucea
+  vos: balbuceá
+  ud: balbucee
+  nosotros: balbuceemos
+  vosotros: balbucead
+  uds: balbuceen

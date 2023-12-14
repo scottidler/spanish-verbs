@@ -1,0 +1,142 @@
+infinitivo: concluir
+gerundio: concluyendo
+participio-pasado: concluido
+presente-indicativo:
+  yo: concluyo
+  tu: concluyes
+  vos: concluís
+  ud: concluye
+  nosotros: concluimos
+  vosotros: concluís
+  uds: concluyen
+preterito-perfecto-simple:
+  yo: concluí
+  tu: concluiste
+  vos: concluiste
+  ud: concluyó
+  nosotros: concluimos
+  vosotros: concluisteis
+  uds: concluyeron
+preterito-imperfecto:
+  yo: concluía
+  tu: concluías
+  vos: concluías
+  ud: concluía
+  nosotros: concluíamos
+  vosotros: concluíais
+  uds: concluían
+futuro-simple:
+  yo: concluiré
+  tu: concluirás
+  vos: concluirás
+  ud: concluirá
+  nosotros: concluiremos
+  vosotros: concluiréis
+  uds: concluirán
+condicional-simple:
+  yo: concluiría
+  tu: concluirías
+  vos: concluirías
+  ud: concluiría
+  nosotros: concluiríamos
+  vosotros: concluiríais
+  uds: concluirían
+presente-perfecto:
+  yo: he concluido
+  tu: has concluido
+  vos: has concluido
+  ud: ha concluido
+  nosotros: hemos concluido
+  vosotros: habéis concluido
+  uds: han concluido
+preterito-pluscuamperfecto:
+  yo: había concluido
+  tu: habías concluido
+  vos: habías concluido
+  ud: había concluido
+  nosotros: habíamos concluido
+  vosotros: habíais concluido
+  uds: habían concluido
+futuro-perfecto:
+  yo: habré concluido
+  tu: habrás concluido
+  vos: habrás concluido
+  ud: habrá concluido
+  nosotros: habremos concluido
+  vosotros: habréis concluido
+  uds: habrán concluido
+condicional-perfecto:
+  yo: habría concluido
+  tu: habrías concluido
+  vos: habrías concluido
+  ud: habría concluido
+  nosotros: habríamos concluido
+  vosotros: habríais concluido
+  uds: habrían concluido
+presente-subjuntivo:
+  yo: concluya
+  tu: concluyas
+  vos: concluyas
+  ud: concluya
+  nosotros: concluyamos
+  vosotros: concluyáis
+  uds: concluyan
+preterito-perfecto-subjuntivo:
+  yo: haya concluido
+  tu: hayas concluido
+  vos: hayas concluido
+  ud: haya concluido
+  nosotros: hayamos concluido
+  vosotros: hayáis concluido
+  uds: hayan concluido
+imperfecto-subjuntivo:
+  yo:
+    - concluyera
+    - concluyese
+  tu:
+    - concluyeras
+    - concluyeses
+  vos:
+    - concluyeras
+    - concluyeses
+  ud:
+    - concluyera
+    - concluyese
+  nosotros:
+    - concluyéramos
+    - concluyésemos
+  vosotros:
+    - concluyerais
+    - concluyeseis
+  uds:
+    - concluyeran
+    - concluyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera concluido
+    - hubiese concluido
+  tu:
+    - hubieras concluido
+    - hubieses concluido
+  vos:
+    - hubieras concluido
+    - hubieses concluido
+  ud:
+    - hubiera concluido
+    - hubiese concluido
+  nosotros:
+    - hubiéramos concluido
+    - hubiésemos concluido
+  vosotros:
+    - hubierais concluido
+    - hubieseis concluido
+  uds:
+    - hubieran concluido
+    - hubiesen concluido
+imperativo:
+  tu: concluye
+  vos: concluí
+  ud: concluya
+  nosotros: concluyamos
+  vosotros: concluid
+  uds: concluyan

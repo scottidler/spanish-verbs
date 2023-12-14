@@ -1,0 +1,142 @@
+infinitivo: escudriñar
+gerundio: escudriñando
+participio-pasado: escudriñado
+presente-indicativo:
+  yo: escudriño
+  tu: escudriñas
+  vos: escudriñás
+  ud: escudriña
+  nosotros: escudriñamos
+  vosotros: escudriñáis
+  uds: escudriñan
+preterito-perfecto-simple:
+  yo: escudriñé
+  tu: escudriñaste
+  vos: escudriñaste
+  ud: escudriñó
+  nosotros: escudriñamos
+  vosotros: escudriñasteis
+  uds: escudriñaron
+preterito-imperfecto:
+  yo: escudriñaba
+  tu: escudriñabas
+  vos: escudriñabas
+  ud: escudriñaba
+  nosotros: escudriñábamos
+  vosotros: escudriñabais
+  uds: escudriñaban
+futuro-simple:
+  yo: escudriñaré
+  tu: escudriñarás
+  vos: escudriñarás
+  ud: escudriñará
+  nosotros: escudriñaremos
+  vosotros: escudriñaréis
+  uds: escudriñarán
+condicional-simple:
+  yo: escudriñaría
+  tu: escudriñarías
+  vos: escudriñarías
+  ud: escudriñaría
+  nosotros: escudriñaríamos
+  vosotros: escudriñaríais
+  uds: escudriñarían
+presente-perfecto:
+  yo: he escudriñado
+  tu: has escudriñado
+  vos: has escudriñado
+  ud: ha escudriñado
+  nosotros: hemos escudriñado
+  vosotros: habéis escudriñado
+  uds: han escudriñado
+preterito-pluscuamperfecto:
+  yo: había escudriñado
+  tu: habías escudriñado
+  vos: habías escudriñado
+  ud: había escudriñado
+  nosotros: habíamos escudriñado
+  vosotros: habíais escudriñado
+  uds: habían escudriñado
+futuro-perfecto:
+  yo: habré escudriñado
+  tu: habrás escudriñado
+  vos: habrás escudriñado
+  ud: habrá escudriñado
+  nosotros: habremos escudriñado
+  vosotros: habréis escudriñado
+  uds: habrán escudriñado
+condicional-perfecto:
+  yo: habría escudriñado
+  tu: habrías escudriñado
+  vos: habrías escudriñado
+  ud: habría escudriñado
+  nosotros: habríamos escudriñado
+  vosotros: habríais escudriñado
+  uds: habrían escudriñado
+presente-subjuntivo:
+  yo: escudriñe
+  tu: escudriñes
+  vos: escudriñes
+  ud: escudriñe
+  nosotros: escudriñemos
+  vosotros: escudriñéis
+  uds: escudriñen
+preterito-perfecto-subjuntivo:
+  yo: haya escudriñado
+  tu: hayas escudriñado
+  vos: hayas escudriñado
+  ud: haya escudriñado
+  nosotros: hayamos escudriñado
+  vosotros: hayáis escudriñado
+  uds: hayan escudriñado
+imperfecto-subjuntivo:
+  yo:
+    - escudriñara
+    - escudriñase
+  tu:
+    - escudriñaras
+    - escudriñases
+  vos:
+    - escudriñaras
+    - escudriñases
+  ud:
+    - escudriñara
+    - escudriñase
+  nosotros:
+    - escudriñáramos
+    - escudriñásemos
+  vosotros:
+    - escudriñarais
+    - escudriñaseis
+  uds:
+    - escudriñaran
+    - escudriñasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera escudriñado
+    - hubiese escudriñado
+  tu:
+    - hubieras escudriñado
+    - hubieses escudriñado
+  vos:
+    - hubieras escudriñado
+    - hubieses escudriñado
+  ud:
+    - hubiera escudriñado
+    - hubiese escudriñado
+  nosotros:
+    - hubiéramos escudriñado
+    - hubiésemos escudriñado
+  vosotros:
+    - hubierais escudriñado
+    - hubieseis escudriñado
+  uds:
+    - hubieran escudriñado
+    - hubiesen escudriñado
+imperativo:
+  tu: escudriña
+  vos: escudriñá
+  ud: escudriñe
+  nosotros: escudriñemos
+  vosotros: escudriñad
+  uds: escudriñen

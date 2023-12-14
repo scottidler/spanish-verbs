@@ -1,0 +1,142 @@
+infinitivo: turbar
+gerundio: turbando
+participio-pasado: turbado
+presente-indicativo:
+  yo: turbo
+  tu: turbas
+  vos: turbas
+  ud: turba
+  nosotros: turbamos
+  vosotros: turbáis
+  uds: turban
+preterito-perfecto-simple:
+  yo: turbé
+  tu: turbaste
+  vos: turbaste
+  ud: turbó
+  nosotros: turbamos
+  vosotros: turbasteis
+  uds: turbieron
+preterito-imperfecto:
+  yo: turbaba
+  tu: turbabas
+  vos: turbabas
+  ud: turbaba
+  nosotros: turbábamos
+  vosotros: turbabais
+  uds: turbaban
+futuro-simple:
+  yo: turbaré
+  tu: turbarás
+  vos: turbarás
+  ud: turbará
+  nosotros: turbaremos
+  vosotros: turbaréis
+  uds: turbarán
+condicional-simple:
+  yo: turbaría
+  tu: turbarías
+  vos: turbarías
+  ud: turbaría
+  nosotros: turbaríamos
+  vosotros: turbaríais
+  uds: turbarían
+presente-perfecto:
+  yo: he turbado
+  tu: has turbado
+  vos: has turbado
+  ud: ha turbado
+  nosotros: hemos turbado
+  vosotros: habéis turbado
+  uds: han turbado
+preterito-pluscuamperfecto:
+  yo: había turbado
+  tu: habías turbado
+  vos: habías turbado
+  ud: había turbado
+  nosotros: habíamos turbado
+  vosotros: habíais turbado
+  uds: habían turbado
+futuro-perfecto:
+  yo: habré turbado
+  tu: habrás turbado
+  vos: habrás turbado
+  ud: habrá turbado
+  nosotros: habremos turbado
+  vosotros: habréis turbado
+  uds: habrán turbado
+condicional-perfecto:
+  yo: habría turbado
+  tu: habrías turbado
+  vos: habrías turbado
+  ud: habría turbado
+  nosotros: habríamos turbado
+  vosotros: habríais turbado
+  uds: habrían turbado
+presente-subjuntivo:
+  yo: turbe
+  tu: turbes
+  vos: turbes
+  ud: turbe
+  nosotros: turbe
+  vosotros: turbéis
+  uds: turben
+preterito-perfecto-subjuntivo:
+  yo: haya turbado
+  tu: hayas turbado
+  vos: hayas turbado
+  ud: haya turbado
+  nosotros: hayamos turbado
+  vosotros: hayáis turbado
+  uds: hayan turbado
+imperfecto-subjuntivo:
+  yo:
+    - turbara
+    - turbase
+  tu:
+    - turbaras
+    - turbases
+  vos:
+    - turbaras
+    - turbases
+  ud:
+    - turbara
+    - turbase
+  nosotros:
+    - turbáramos
+    - turbásemos
+  vosotros:
+    - turbarais
+    - turbaseis
+  uds:
+    - turbaran
+    - turbasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera turbado
+    - hubiese turbado
+  tu:
+    - hubieras turbado
+    - hubieses turbado
+  vos:
+    - hubieras turbado
+    - hubieses turbado
+  ud:
+    - hubiera turbado
+    - hubiese turbado
+  nosotros:
+    - hubiéramos turbado
+    - hubiésemos turbado
+  vosotros:
+    - hubierais turbado
+    - hubieseis turbado
+  uds:
+    - hubieran turbado
+    - hubiesen turbado
+imperativo:
+  tu: turba
+  vos: turba
+  ud: turbe
+  nosotros: turbemos
+  vosotros: turbad
+  uds: turben

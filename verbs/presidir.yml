@@ -1,0 +1,142 @@
+infinitivo: presidir
+gerundio: presidiendo
+participio-pasado: presidido
+presente-indicativo:
+  yo: presido
+  tu: presides
+  vos: presidís
+  ud: preside
+  nosotros: presidimos
+  vosotros: presidís
+  uds: presiden
+preterito-perfecto-simple:
+  yo: presidí
+  tu: presidiste
+  vos: presidiste
+  ud: presidió
+  nosotros: presidimos
+  vosotros: presidisteis
+  uds: presidieron
+preterito-imperfecto:
+  yo: presidía
+  tu: presidías
+  vos: presidías
+  ud: presidía
+  nosotros: presidíamos
+  vosotros: presidíais
+  uds: presidían
+futuro-simple:
+  yo: presidiré
+  tu: presidirás
+  vos: presidirás
+  ud: presidirá
+  nosotros: presidiremos
+  vosotros: presidiréis
+  uds: presidirán
+condicional-simple:
+  yo: presidiría
+  tu: presidirías
+  vos: presidirías
+  ud: presidiría
+  nosotros: presidiríamos
+  vosotros: presidiríais
+  uds: presidirían
+presente-perfecto:
+  yo: he presidido
+  tu: has presidido
+  vos: has presidido
+  ud: ha presidido
+  nosotros: hemos presidido
+  vosotros: habéis presidido
+  uds: han presidido
+preterito-pluscuamperfecto:
+  yo: había presidido
+  tu: habías presidido
+  vos: habías presidido
+  ud: había presidido
+  nosotros: habíamos presidido
+  vosotros: habíais presidido
+  uds: habían presidido
+futuro-perfecto:
+  yo: habré presidido
+  tu: habrás presidido
+  vos: habrás presidido
+  ud: habrá presidido
+  nosotros: habremos presidido
+  vosotros: habréis presidido
+  uds: habrán presidido
+condicional-perfecto:
+  yo: habría presidido
+  tu: habrías presidido
+  vos: habrías presidido
+  ud: habría presidido
+  nosotros: habríamos presidido
+  vosotros: habríais presidido
+  uds: habrían presidido
+presente-subjuntivo:
+  yo: presida
+  tu: presidas
+  vos: presidas
+  ud: presida
+  nosotros: presidamos
+  vosotros: presidáis
+  uds: presidan
+preterito-perfecto-subjuntivo:
+  yo: haya presidido
+  tu: hayas presidido
+  vos: hayas presidido
+  ud: haya presidido
+  nosotros: hayamos presidido
+  vosotros: hayáis presidido
+  uds: hayan presidido
+imperfecto-subjuntivo:
+  yo:
+    - presidiera
+    - presidiese
+  tu:
+    - presidieras
+    - presidieses
+  vos:
+    - presidieras
+    - presidieses
+  ud:
+    - presidiera
+    - presidiese
+  nosotros:
+    - presidiéramos
+    - presidiésemos
+  vosotros:
+    - presidierais
+    - presidieseis
+  uds:
+    - presidieran
+    - presidiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera presidido
+    - hubiese presidido
+  tu:
+    - hubieras presidido
+    - hubieses presidido
+  vos:
+    - hubieras presidido
+    - hubieses presidido
+  ud:
+    - hubiera presidido
+    - hubiese presidido
+  nosotros:
+    - hubiéramos presidido
+    - hubiésemos presidido
+  vosotros:
+    - hubierais presidido
+    - hubieseis presidido
+  uds:
+    - hubieran presidido
+    - hubiesen presidido
+imperativo:
+  tu: preside
+  vos: presidí
+  ud: presida
+  nosotros: presidamos
+  vosotros: presidid
+  uds: presidan

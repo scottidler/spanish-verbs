@@ -1,0 +1,142 @@
+infinitivo: orar
+gerundio: orando
+participio-pasado: orado
+presente-indicativo:
+  yo: oro
+  tu: oras
+  vos: oras
+  ud: ora
+  nosotros: oramos
+  vosotros: oráis
+  uds: oran
+preterito-perfecto-simple:
+  yo: oré
+  tu: oraste
+  vos: oraste
+  ud: oró
+  nosotros: oramos
+  vosotros: orasteis
+  uds: oraron
+preterito-imperfecto:
+  yo: oraba
+  tu: orabas
+  vos: orabas
+  ud: oraba
+  nosotros: orábamos
+  vosotros: orabais
+  uds: oraban
+futuro-simple:
+  yo: oraré
+  tu: orarás
+  vos: orarás
+  ud: orará
+  nosotros: oraremos
+  vosotros: oraréis
+  uds: orarán
+condicional-simple:
+  yo: oraría
+  tu: orarías
+  vos: orarías
+  ud: oraría
+  nosotros: oraríamos
+  vosotros: oraríais
+  uds: orarían
+presente-perfecto:
+  yo: he orado
+  tu: has orado
+  vos: has orado
+  ud: ha orado
+  nosotros: hemos orado
+  vosotros: habéis orado
+  uds: han orado
+preterito-pluscuamperfecto:
+  yo: había orado
+  tu: habías orado
+  vos: habías orado
+  ud: había orado
+  nosotros: habíamos orado
+  vosotros: habíais orado
+  uds: habían orado
+futuro-perfecto:
+  yo: habré orado
+  tu: habrás orado
+  vos: habrás orado
+  ud: habrá orado
+  nosotros: habremos orado
+  vosotros: habréis orado
+  uds: habrán orado
+condicional-perfecto:
+  yo: habría orado
+  tu: habrías orado
+  vos: habrías orado
+  ud: habría orado
+  nosotros: habríamos orado
+  vosotros: habríais orado
+  uds: habrían orado
+presente-subjuntivo:
+  yo: ore
+  tu: ores
+  vos: ores
+  ud: ore
+  nosotros: oremos
+  vosotros: oréis
+  uds: oren
+preterito-perfecto-subjuntivo:
+  yo: haya orado
+  tu: hayas orado
+  vos: hayas orado
+  ud: haya orado
+  nosotros: hayamos orado
+  vosotros: hayáis orado
+  uds: hayan orado
+imperfecto-subjuntivo:
+  yo:
+    - orara
+    - orase
+  tu:
+    - oraras
+    - orases
+  vos:
+    - oraras
+    - orases
+  ud:
+    - orara
+    - orase
+  nosotros:
+    - oráramos
+    - orásemos
+  vosotros:
+    - orarais
+    - oraseis
+  uds:
+    - oraran
+    - orasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera orado
+    - hubiese orado
+  tu:
+    - hubieras orado
+    - hubieses orado
+  vos:
+    - hubieras orado
+    - hubieses orado
+  ud:
+    - hubiera orado
+    - hubiese orado
+  nosotros:
+    - hubiéramos orado
+    - hubiésemos orado
+  vosotros:
+    - hubierais orado
+    - hubieseis orado
+  uds:
+    - hubieran orado
+    - hubiesen orado
+imperativo:
+  tu: ora
+  vos: orá
+  ud: ore
+  nosotros: oremos
+  vosotros: orad
+  uds: oren

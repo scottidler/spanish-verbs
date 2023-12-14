@@ -1,0 +1,156 @@
+infinitivo: encontrarse
+gerundio: encontrándose
+participio-pasado: encontrado
+
+presente-indicativo:
+  yo: me encuentro
+  tu: te encuentras
+  vos: te encontrás
+  ud: se encuentra
+  nosotros: nos encontramos
+  vosotros: os encontráis
+  uds: se encuentran
+
+preterito-perfecto-simple:
+  yo: me encontré
+  tu: te encontraste
+  vos: te encontraste
+  ud: se encontró
+  nosotros: nos encontramos
+  vosotros: os encontrasteis
+  uds: se encontraron
+
+preterito-imperfecto:
+  yo: me encontraba
+  tu: te encontrabas
+  vos: te encontrabas
+  ud: se encontraba
+  nosotros: nos encontrábamos
+  vosotros: os encontrabais
+  uds: se encontraban
+
+futuro-simple:
+  yo: me encontraré
+  tu: te encontrarás
+  vos: te encontrarás
+  ud: se encontrará
+  nosotros: nos encontraremos
+  vosotros: os encontraréis
+  uds: se encontrarán
+
+condicional-simple:
+  yo: me encontraría
+  tu: te encontrarías
+  vos: te encontrarías
+  ud: se encontraría
+  nosotros: nos encontraríamos
+  vosotros: os encontraríais
+  uds: se encontrarían
+
+presente-perfecto:
+  yo: me he encontrado
+  tu: te has encontrado
+  vos: te has encontrado
+  ud: se ha encontrado
+  nosotros: nos hemos encontrado
+  vosotros: os habéis encontrado
+  uds: se han encontrado
+
+preterito-pluscuamperfecto:
+  yo: me había encontrado
+  tu: te habías encontrado
+  vos: te habías encontrado
+  ud: se había encontrado
+  nosotros: nos habíamos encontrado
+  vosotros: os habíais encontrado
+  uds: se habían encontrado
+
+futuro-perfecto:
+  yo: me habré encontrado
+  tu: te habrás encontrado
+  vos: te habrás encontrado
+  ud: se habrá encontrado
+  nosotros: nos habremos encontrado
+  vosotros: os habréis encontrado
+  uds: se habrán encontrado
+
+condicional-perfecto:
+  yo: me habría encontrado
+  tu: te habrías encontrado
+  vos: te habrías encontrado
+  ud: se habría encontrado
+  nosotros: nos habríamos encontrado
+  vosotros: os habríais encontrado
+  uds: se habrían encontrado
+
+presente-subjuntivo:
+  yo: me encuentre
+  tu: te encuentres
+  vos: te encuentres
+  ud: se encuentre
+  nosotros: nos encontremos
+  vosotros: os encontréis
+  uds: se encuentren
+
+preterito-perfecto-subjuntivo:
+  yo: me haya encontrado
+  tu: te hayas encontrado
+  vos: te hayas encontrado
+  ud: se haya encontrado
+  nosotros: nos hayamos encontrado
+  vosotros: os hayáis encontrado
+  uds: se hayan encontrado
+
+imperfecto-subjuntivo:
+  yo:
+    - me encontrara
+    - me encontrase
+  tu:
+    - te encontraras
+    - te encontrases
+  vos:
+    - te encontraras
+    - te encontrases
+  ud:
+    - se encontrara
+    - se encontrase
+  nosotros:
+    - nos encontráramos
+    - nos encontrásemos
+  vosotros:
+    - os encontrarais
+    - os encontraseis
+  uds:
+    - se encontraran
+    - se encontrasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera encontrado
+    - me hubiese encontrado
+  tu:
+    - te hubieras encontrado
+    - te hubieses encontrado
+  vos:
+    - te hubieras encontrado
+    - te hubieses encontrado
+  ud:
+    - se hubiera encontrado
+    - se hubiese encontrado
+  nosotros:
+    - nos hubiéramos encontrado
+    - nos hubiésemos encontrado
+  vosotros:
+    - os hubierais encontrado
+    - os hubieseis encontrado
+  uds:
+    - se hubieran encontrado
+    - se hubiesen encontrado
+
+imperativo:
+  tu: encuéntrate
+  vos: encontrate
+  ud: encuéntrese
+  nosotros: encontremosnos
+  vosotros: encuentraos
+  uds: encuéntrense

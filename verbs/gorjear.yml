@@ -1,0 +1,156 @@
+infinitivo: gorjear
+gerundio: gorjeando
+participio-pasado: gorjeado
+
+presente-indicativo:
+  yo: gorjeo
+  tu: gorjeas
+  vos: gorjeas
+  ud: gorjea
+  nosotros: gorjeamos
+  vosotros: gorjeáis
+  uds: gorjean
+
+preterito-perfecto-simple:
+  yo: gorjeé
+  tu: gorjeaste
+  vos: gorjeaste
+  ud: gorjeó
+  nosotros: gorjeamos
+  vosotros: gorjeasteis
+  uds: gorjearon
+
+preterito-imperfecto:
+  yo: gorjeaba
+  tu: gorjeabas
+  vos: gorjeabas
+  ud: gorjeaba
+  nosotros: gorjeábamos
+  vosotros: gorjeabais
+  uds: gorjeaban
+
+futuro-simple:
+  yo: gorjearé
+  tu: gorjearás
+  vos: gorjearás
+  ud: gorjeará
+  nosotros: gorjearemos
+  vosotros: gorjearéis
+  uds: gorjearán
+
+condicional-simple:
+  yo: gorjearía
+  tu: gorjearías
+  vos: gorjearías
+  ud: gorjearía
+  nosotros: gorjearíamos
+  vosotros: gorjearíais
+  uds: gorjearían
+
+presente-perfecto:
+  yo: he gorjeado
+  tu: has gorjeado
+  vos: has gorjeado
+  ud: ha gorjeado
+  nosotros: hemos gorjeado
+  vosotros: habéis gorjeado
+  uds: han gorjeado
+
+preterito-pluscuamperfecto:
+  yo: había gorjeado
+  tu: habías gorjeado
+  vos: habías gorjeado
+  ud: había gorjeado
+  nosotros: habíamos gorjeado
+  vosotros: habíais gorjeado
+  uds: habían gorjeado
+
+futuro-perfecto:
+  yo: habré gorjeado
+  tu: habrás gorjeado
+  vos: habrás gorjeado
+  ud: habrá gorjeado
+  nosotros: habremos gorjeado
+  vosotros: habréis gorjeado
+  uds: habrán gorjeado
+
+condicional-perfecto:
+  yo: habría gorjeado
+  tu: habrías gorjeado
+  vos: habrías gorjeado
+  ud: habría gorjeado
+  nosotros: habríamos gorjeado
+  vosotros: habríais gorjeado
+  uds: habrían gorjeado
+
+presente-subjuntivo:
+  yo: gorjee
+  tu: gorjees
+  vos: gorjees
+  ud: gorjee
+  nosotros: gorjeemos
+  vosotros: gorjeéis
+  uds: gorjeen
+
+preterito-perfecto-subjuntivo:
+  yo: haya gorjeado
+  tu: hayas gorjeado
+  vos: hayas gorjeado
+  ud: haya gorjeado
+  nosotros: hayamos gorjeado
+  vosotros: hayáis gorjeado
+  uds: hayan gorjeado
+
+imperfecto-subjuntivo:
+  yo:
+    - gorjeara
+    - gorjease
+  tu:
+    - gorjearas
+    - gorjeases
+  vos:
+    - gorjearas
+    - gorjeases
+  ud:
+    - gorjeara
+    - gorjease
+  nosotros:
+    - gorjeáramos
+    - gorjeásemos
+  vosotros:
+    - gorjearais
+    - gorjeaseis
+  uds:
+    - gorjearan
+    - gorjeasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gorjeado
+    - hubiese gorjeado
+  tu:
+    - hubieras gorjeado
+    - hubieses gorjeado
+  vos:
+    - hubieras gorjeado
+    - hubieses gorjeado
+  ud:
+    - hubiera gorjeado
+    - hubiese gorjeado
+  nosotros:
+    - hubiéramos gorjeado
+    - hubiésemos gorjeado
+  vosotros:
+    - hubierais gorjeado
+    - hubieseis gorjeado
+  uds:
+    - hubieran gorjeado
+    - hubiesen gorjeado
+
+imperativo:
+  tu: gorjea
+  vos: gorjeá
+  ud: gorjee
+  nosotros: gorjeemos
+  vosotros: gorjead
+  uds: gorjeen

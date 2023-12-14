@@ -1,0 +1,142 @@
+infinitivo: velar
+gerundio: velando
+participio-pasado: velado
+presente-indicativo:
+  yo: velo
+  tu: velas
+  vos: velas
+  ud: vela
+  nosotros: velamos
+  vosotros: veláis
+  uds: velan
+preterito-perfecto-simple:
+  yo: velé
+  tu: velaste
+  vos: velaste
+  ud: veló
+  nosotros: velamos
+  vosotros: velasteis
+  uds: velaron
+preterito-imperfecto:
+  yo: velaba
+  tu: velabas
+  vos: velabas
+  ud: velaba
+  nosotros: velábamos
+  vosotros: velabais
+  uds: velaban
+futuro-simple:
+  yo: velaré
+  tu: velarás
+  vos: velarás
+  ud: velará
+  nosotros: velaremos
+  vosotros: velaréis
+  uds: velarán
+condicional-simple:
+  yo: velaría
+  tu: velarías
+  vos: velarías
+  ud: velaría
+  nosotros: velaríamos
+  vosotros: velaríais
+  uds: velarían
+presente-perfecto:
+  yo: he velado
+  tu: has velado
+  vos: has velado
+  ud: ha velado
+  nosotros: hemos velado
+  vosotros: habéis velado
+  uds: han velado
+preterito-pluscuamperfecto:
+  yo: había velado
+  tu: habías velado
+  vos: habías velado
+  ud: había velado
+  nosotros: habíamos velado
+  vosotros: habíais velado
+  uds: habían velado
+futuro-perfecto:
+  yo: habré velado
+  tu: habrás velado
+  vos: habrás velado
+  ud: habrá velado
+  nosotros: habremos velado
+  vosotros: habréis velado
+  uds: habrán velado
+condicional-perfecto:
+  yo: habría velado
+  tu: habrías velado
+  vos: habrías velado
+  ud: habría velado
+  nosotros: habríamos velado
+  vosotros: habríais velado
+  uds: habrían velado
+presente-subjuntivo:
+  yo: vele
+  tu: veles
+  vos: veles
+  ud: vele
+  nosotros: velemos
+  vosotros: veléis
+  uds: veles
+preterito-perfecto-subjuntivo:
+  yo: haya velado
+  tu: hayas velado
+  vos: hayas velado
+  ud: haya velado
+  nosotros: hayamos velado
+  vosotros: hayáis velado
+  uds: hayan velado
+imperfecto-subjuntivo:
+  yo:
+    - velara
+    - velase
+  tu:
+    - velaras
+    - velases
+  vos:
+    - velaras
+    - velases
+  ud:
+    - velara
+    - velase
+  nosotros:
+    - veláramos
+    - velásemos
+  vosotros:
+    - velarais
+    - velaseis
+  uds:
+    - velaran
+    - velasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera velado
+    - hubiese velado
+  tu:
+    - hubieras velado
+    - hubieses velado
+  vos:
+    - hubieras velado
+    - hubieses velado
+  ud:
+    - hubiera velado
+    - hubiese velado
+  nosotros:
+    - hubiéramos velado
+    - hubiésemos velado
+  vosotros:
+    - hubierais velado
+    - hubieseis velado
+  uds:
+    - hubieran velado
+    - hubiesen velado
+imperativo:
+  tu: velaa
+  vos: velá
+  ud: vela
+  nosotros: velemos
+  vosotros: velad
+  uds: velen

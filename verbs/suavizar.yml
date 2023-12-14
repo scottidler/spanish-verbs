@@ -1,0 +1,142 @@
+infinitivo: suavizar
+gerundio: suavizando
+participio-pasado: suavizado
+presente-indicativo:
+  yo: suavizo
+  tu: suavizas
+  vos: suavizas
+  ud: suaviza
+  nosotros: suavizamos
+  vosotros: suavizáis
+  uds: suavizan
+preterito-perfecto-simple:
+  yo: suavicé
+  tu: suavizaste
+  vos: suavizaste
+  ud: suavizó
+  nosotros: suavizamos
+  vosotros: suavizasteis
+  uds: suavizaron
+preterito-imperfecto:
+  yo: suavizaba
+  tu: suavizabas
+  vos: suavizabas
+  ud: suavizaba
+  nosotros: suavizábamos
+  vosotros: suavizabais
+  uds: suavizaban
+futuro-simple:
+  yo: suavizaré
+  tu: suavizarás
+  vos: suavizarás
+  ud: suavizará
+  nosotros: suavizaremos
+  vosotros: suavizaréis
+  uds: suavizarán
+condicional-simple:
+  yo: suavizaría
+  tu: suavizarías
+  vos: suavizarías
+  ud: suavizaría
+  nosotros: suavizaríamos
+  vosotros: suavizaríais
+  uds: suavizarían
+presente-perfecto:
+  yo: he suavizado
+  tu: has suavizado
+  vos: has suavizado
+  ud: ha suavizado
+  nosotros: hemos suavizado
+  vosotros: habéis suavizado
+  uds: han suavizado
+preterito-pluscuamperfecto:
+  yo: había suavizado
+  tu: habías suavizado
+  vos: habías suavizado
+  ud: había suavizado
+  nosotros: habíamos suavizado
+  vosotros: habíais suavizado
+  uds: habían suavizado
+futuro-perfecto:
+  yo: habré suavizado
+  tu: habrás suavizado
+  vos: habrás suavizado
+  ud: habrá suavizado
+  nosotros: habremos suavizado
+  vosotros: habréis suavizado
+  uds: habrán suavizado
+condicional-perfecto:
+  yo: habría suavizado
+  tu: habrías suavizado
+  vos: habrías suavizado
+  ud: habría suavizado
+  nosotros: habríamos suavizado
+  vosotros: habríais suavizado
+  uds: habrían suavizado
+presente-subjuntivo:
+  yo: suavice
+  tu: suavices
+  vos: suavices
+  ud: suavice
+  nosotros: suavicemos
+  vosotros: suavicéis
+  uds: suavicen
+preterito-perfecto-subjuntivo:
+  yo: haya suavizado
+  tu: hayas suavizado
+  vos: hayas suavizado
+  ud: haya suavizado
+  nosotros: hayamos suavizado
+  vosotros: hayáis suavizado
+  uds: hayan suavizado
+imperfecto-subjuntivo:
+  yo:
+    - suavizara
+    - suavizase
+  tu:
+    - suavizaras
+    - suavizases
+  vos:
+    - suavizaras
+    - suavizases
+  ud:
+    - suavizara
+    - suavizase
+  nosotros:
+    - suavizáramos
+    - suavizásemos
+  vosotros:
+    - suavizarais
+    - suavizaseis
+  uds:
+    - suavizaran
+    - suavizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera suavizado
+    - hubiese suavizado
+  tu:
+    - hubieras suavizado
+    - hubieses suavizado
+  vos:
+    - hubieras suavizado
+    - hubieses suavizado
+  ud:
+    - hubiera suavizado
+    - hubiese suavizado
+  nosotros:
+    - hubiéramos suavizado
+    - hubiésemos suavizado
+  vosotros:
+    - hubierais suavizado
+    - hubieseis suavizado
+  uds:
+    - hubieran suavizado
+    - hubiesen suavizado
+imperativo:
+  tu: suaviza
+  vos: suavizá
+  ud: suavice
+  nosotros: suavicemos
+  vosotros: suavizad
+  uds: suavicen

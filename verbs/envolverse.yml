@@ -1,0 +1,156 @@
+infinitivo: envolverse
+gerundio: envolviéndose
+participio-pasado: envuelto
+
+presente-indicativo:
+  yo: me envuelvo
+  tu: te envuelves
+  vos: te envuelves
+  ud: se envuelve
+  nosotros: nos envolvemos
+  vosotros: os envolvéis
+  uds: se envuelven
+
+preterito-perfecto-simple:
+  yo: me envolví
+  tu: te envolviste
+  vos: te envolviste
+  ud: se envolvió
+  nosotros: nos envolvimos
+  vosotros: os envolvisteis
+  uds: se envolvieron
+
+preterito-imperfecto:
+  yo: me envolvía
+  tu: te envolvías
+  vos: te envolvías
+  ud: se envolvía
+  nosotros: nos envolvíamos
+  vosotros: os envolvíais
+  uds: se envolvían
+
+futuro-simple:
+  yo: me envolveré
+  tu: te envolverás
+  vos: te envolverás
+  ud: se envolverá
+  nosotros: nos envolveremos
+  vosotros: os envolveréis
+  uds: se envolverán
+
+condicional-simple:
+  yo: me envolvería
+  tu: te envolverías
+  vos: te envolverías
+  ud: se envolvería
+  nosotros: nos envolveríamos
+  vosotros: os envolveríais
+  uds: se envolverían
+
+presente-perfecto:
+  yo: me he envuelto
+  tu: te has envuelto
+  vos: te has envuelto
+  ud: se ha envuelto
+  nosotros: nos hemos envuelto
+  vosotros: os habéis envuelto
+  uds: se han envuelto
+
+preterito-pluscuamperfecto:
+  yo: me había envuelto
+  tu: te habías envuelto
+  vos: te habías envuelto
+  ud: se había envuelto
+  nosotros: nos habíamos envuelto
+  vosotros: os habíais envuelto
+  uds: se habían envuelto
+
+futuro-perfecto:
+  yo: me habré envuelto
+  tu: te habrás envuelto
+  vos: te habrás envuelto
+  ud: se habrá envuelto
+  nosotros: nos habremos envuelto
+  vosotros: os habréis envuelto
+  uds: se habrán envuelto
+
+condicional-perfecto:
+  yo: me habría envuelto
+  tu: te habrías envuelto
+  vos: te habrías envuelto
+  ud: se habría envuelto
+  nosotros: nos habríamos envuelto
+  vosotros: os habríais envuelto
+  uds: se habrían envuelto
+
+presente-subjuntivo:
+  yo: me envuelva
+  tu: te envuelvas
+  vos: te envuelvas
+  ud: se envuelva
+  nosotros: nos envolvamos
+  vosotros: os envolváis
+  uds: se envuelvan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya envuelto
+  tu: te hayas envuelto
+  vos: te hayas envuelto
+  ud: se haya envuelto
+  nosotros: nos hayamos envuelto
+  vosotros: os hayáis envuelto
+  uds: se hayan envuelto
+
+imperfecto-subjuntivo:
+  yo:
+    - me envolviera
+    - me envolviese
+  tu:
+    - te envolvieras
+    - te envolvieses
+  vos:
+    - te envolvieras
+    - te envolvieses
+  ud:
+    - se envolviera
+    - se envolviese
+  nosotros:
+    - nos envolviéramos
+    - nos envolviésemos
+  vosotros:
+    - os envolvierais
+    - os envolvieseis
+  uds:
+    - se envolvieran
+    - se envolviesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera envuelto
+    - me hubiese envuelto
+  tu:
+    - te hubieras envuelto
+    - te hubieses envuelto
+  vos:
+    - te hubieras envuelto
+    - te hubieses envuelto
+  ud:
+    - se hubiera envuelto
+    - se hubiese envuelto
+  nosotros:
+    - nos hubiéramos envuelto
+    - nos hubiésemos envuelto
+  vosotros:
+    - os hubierais envuelto
+    - os hubieseis envuelto
+  uds:
+    - se hubieran envuelto
+    - se hubiesen envuelto
+
+imperativo:
+  tu: envuélvete
+  vos: envolvéte
+  ud: envuélvase
+  nosotros: envolvámonos
+  vosotros: envolved
+  uds: envuélvanse

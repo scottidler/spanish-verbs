@@ -1,0 +1,142 @@
+infinitivo: oponer
+gerundio: oponiendo
+participio-pasado: opuesto
+presente-indicativo:
+  yo: opongo
+  tu: opones
+  vos: opones
+  ud: opone
+  nosotros: oponemos
+  vosotros: oponéis
+  uds: oponen
+preterito-perfecto-simple:
+  yo: opuse
+  tu: opusiste
+  vos: opusiste
+  ud: opuso
+  nosotros: opusimos
+  vosotros: opusisteis
+  uds: opusieron
+preterito-imperfecto:
+  yo: oponía
+  tu: oponías
+  vos: oponías
+  ud: oponía
+  nosotros: oponíamos
+  vosotros: oponíais
+  uds: oponían
+futuro-simple:
+  yo: opondré
+  tu: opondrás
+  vos: opondrás
+  ud: opondrá
+  nosotros: opondremos
+  vosotros: opondréis
+  uds: opondrán
+condicional-simple:
+  yo: opondría
+  tu: opondrías
+  vos: opondrías
+  ud: opondría
+  nosotros: opondríamos
+  vosotros: opondríais
+  uds: opondrían
+presente-perfecto:
+  yo: he opuesto
+  tu: has opuesto
+  vos: has opuesto
+  ud: ha opuesto
+  nosotros: hemos opuesto
+  vosotros: habéis opuesto
+  uds: han opuesto
+preterito-pluscuamperfecto:
+  yo: había opuesto
+  tu: habías opuesto
+  vos: habías opuesto
+  ud: había opuesto
+  nosotros: habíamos opuesto
+  vosotros: habíais opuesto
+  uds: habían opuesto
+futuro-perfecto:
+  yo: habré opuesto
+  tu: habrás opuesto
+  vos: habrás opuesto
+  ud: habrá opuesto
+  nosotros: habremos opuesto
+  vosotros: habréis opuesto
+  uds: habrán opuesto
+condicional-perfecto:
+  yo: habría opuesto
+  tu: habrías opuesto
+  vos: habrías opuesto
+  ud: habría opuesto
+  nosotros: habríamos opuesto
+  vosotros: habríais opuesto
+  uds: habrían opuesto
+presente-subjuntivo:
+  yo: oponga
+  tu: opongas
+  vos: opongas
+  ud: oponga
+  nosotros: opongamos
+  vosotros: opongáis
+  uds: opongan
+preterito-perfecto-subjuntivo:
+  yo: haya opuesto
+  tu: hayas opuesto
+  vos: hayas opuesto
+  ud: haya opuesto
+  nosotros: hayamos opuesto
+  vosotros: hayáis opuesto
+  uds: hayan opuesto
+imperfecto-subjuntivo:
+  yo:
+    - opusiera
+    - opusiese
+  tu:
+    - opusieras
+    - opusieses
+  vos:
+    - opusieras
+    - opusieses
+  ud:
+    - opusiera
+    - opusiese
+  nosotros:
+    - opusiéramos
+    - opusiésemos
+  vosotros:
+    - opusierais
+    - opusieseis
+  uds:
+    - opusieran
+    - opusiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera opuesto
+    - hubiese opuesto
+  tu:
+    - hubieras opuesto
+    - hubieses opuesto
+  vos:
+    - hubieras opuesto
+    - hubieses opuesto
+  ud:
+    - hubiera opuesto
+    - hubiese opuesto
+  nosotros:
+    - hubiéramos opuesto
+    - hubiésemos opuesto
+  vosotros:
+    - hubierais opuesto
+    - hubieseis opuesto
+  uds:
+    - hubieran opuesto
+    - hubiesen opuesto
+imperativo:
+  tu: opon
+  vos: opone
+  ud: oponga
+  nosotros: opongamos
+  vosotros: oponed
+  uds: opongan

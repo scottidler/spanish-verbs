@@ -1,0 +1,142 @@
+infinitivo: rozar
+gerundio: rozando
+participio-pasado: rozado
+presente-indicativo:
+  yo: rozo
+  tu: rozas
+  vos: rozas
+  ud: roza
+  nosotros: rozamos
+  vosotros: rozáis
+  uds: rozan
+preterito-perfecto-simple:
+  yo: rocé
+  tu: rozaste
+  vos: rozaste
+  ud: rozó
+  nosotros: rozamos
+  vosotros: rozasteis
+  uds: rozaron
+preterito-imperfecto:
+  yo: rozaba
+  tu: rozabas
+  vos: rozabas
+  ud: rozaba
+  nosotros: rozábamos
+  vosotros: rozabais
+  uds: rozaban
+futuro-simple:
+  yo: rozaré
+  tu: rozarás
+  vos: rozarás
+  ud: rozará
+  nosotros: rozaremos
+  vosotros: rozaréis
+  uds: rozarán
+condicional-simple:
+  yo: rozaría
+  tu: rozarías
+  vos: rozarías
+  ud: rozaría
+  nosotros: rozaríamos
+  vosotros: rozaríais
+  uds: rozarían
+presente-perfecto:
+  yo: he rozado
+  tu: has rozado
+  vos: has rozado
+  ud: ha rozado
+  nosotros: hemos rozado
+  vosotros: habéis rozado
+  uds: han rozado
+preterito-pluscuamperfecto:
+  yo: había rozado
+  tu: habías rozado
+  vos: habías rozado
+  ud: había rozado
+  nosotros: habíamos rozado
+  vosotros: habíais rozado
+  uds: habían rozado
+futuro-perfecto:
+  yo: habré rozado
+  tu: habrás rozado
+  vos: habrás rozado
+  ud: habrá rozado
+  nosotros: habremos rozado
+  vosotros: habréis rozado
+  uds: habrán rozado
+condicional-perfecto:
+  yo: habría rozado
+  tu: habrías rozado
+  vos: habrías rozado
+  ud: habría rozado
+  nosotros: habríamos rozado
+  vosotros: habríais rozado
+  uds: habrían rozado
+presente-subjuntivo:
+  yo: roce
+  tu: roces
+  vos: roces
+  ud: roce
+  nosotros: rocemos
+  vosotros: rozáis
+  uds: rocen
+preterito-perfecto-subjuntivo:
+  yo: haya rozado
+  tu: hayas rozado
+  vos: hayas rozado
+  ud: haya rozado
+  nosotros: hayamos rozado
+  vosotros: hayáis rozado
+  uds: hayan rozado
+imperfecto-subjuntivo:
+  yo:
+    - rozara
+    - rozase
+  tu:
+    - rozaras
+    - rozases
+  vos:
+    - rozaras
+    - rozases
+  ud:
+    - rozara
+    - rozase
+  nosotros:
+    - rozáramos
+    - rozásemos
+  vosotros:
+    - rozarais
+    - rozaseis
+  uds:
+    - rozaran
+    - rozasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rozado
+    - hubiese rozado
+  tu:
+    - hubieras rozado
+    - hubieses rozado
+  vos:
+    - hubieras rozado
+    - hubieses rozado
+  ud:
+    - hubiera rozado
+    - hubiese rozado
+  nosotros:
+    - hubiéramos rozado
+    - hubiésemos rozado
+  vosotros:
+    - hubierais rozado
+    - hubieseis rozado
+  uds:
+    - hubieran rozado
+    - hubiesen rozado
+imperativo:
+  tu: roza
+  vos: rozá
+  ud: roce
+  nosotros: rocemos
+  vosotros: rozad
+  uds: rocen

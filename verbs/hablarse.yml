@@ -1,0 +1,156 @@
+infinitivo: hablarse
+gerundio: hablándose
+participio-pasado: hablado
+
+presente-indicativo:
+  yo: me hablo
+  tu: te hablas
+  vos: te hablas
+  ud: se habla
+  nosotros: nos hablamos
+  vosotros: os habláis
+  uds: se hablan
+
+preterito-perfecto-simple:
+  yo: me hablé
+  tu: te hablaste
+  vos: te hablaste
+  ud: se habló
+  nosotros: nos hablamos
+  vosotros: os hablasteis
+  uds: se hablaron
+
+preterito-imperfecto:
+  yo: me hablaba
+  tu: te hablabas
+  vos: te hablabas
+  ud: se hablaba
+  nosotros: nos hablábamos
+  vosotros: os hablabais
+  uds: se hablaban
+
+futuro-simple:
+  yo: me hablaré
+  tu: te hablarás
+  vos: te hablarás
+  ud: se hablará
+  nosotros: nos hablaremos
+  vosotros: os hablaréis
+  uds: se hablarán
+
+condicional-simple:
+  yo: me hablaría
+  tu: te hablarías
+  vos: te hablarías
+  ud: se hablaría
+  nosotros: nos hablaríamos
+  vosotros: os hablaríais
+  uds: se hablarían
+
+presente-perfecto:
+  yo: me he hablado
+  tu: te has hablado
+  vos: te has hablado
+  ud: se ha hablado
+  nosotros: nos hemos hablado
+  vosotros: os habéis hablado
+  uds: se han hablado
+
+preterito-pluscuamperfecto:
+  yo: me había hablado
+  tu: te habías hablado
+  vos: te habías hablado
+  ud: se había hablado
+  nosotros: nos habíamos hablado
+  vosotros: os habíais hablado
+  uds: se habían hablado
+
+futuro-perfecto:
+  yo: me habré hablado
+  tu: te habrás hablado
+  vos: te habrás hablado
+  ud: se habrá hablado
+  nosotros: nos habremos hablado
+  vosotros: os habréis hablado
+  uds: se habrán hablado
+
+condicional-perfecto:
+  yo: me habría hablado
+  tu: te habrías hablado
+  vos: te habrías hablado
+  ud: se habría hablado
+  nosotros: nos habríamos hablado
+  vosotros: os habríais hablado
+  uds: se habrían hablado
+
+presente-subjuntivo:
+  yo: me hable
+  tu: te hables
+  vos: te hables
+  ud: se hable
+  nosotros: nos hablemos
+  vosotros: os habléis
+  uds: se hablen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya hablado
+  tu: te hayas hablado
+  vos: te hayas hablado
+  ud: se haya hablado
+  nosotros: nos hayamos hablado
+  vosotros: os hayáis hablado
+  uds: se hayan hablado
+
+imperfecto-subjuntivo:
+  yo:
+    - me hablara
+    - me hablase
+  tu:
+    - te hablaras
+    - te hablases
+  vos:
+    - te hablaras
+    - te hablases
+  ud:
+    - se hablara
+    - se hablase
+  nosotros:
+    - nos habláramos
+    - nos hablásemos
+  vosotros:
+    - os hablarais
+    - os hablaseis
+  uds:
+    - se hablaran
+    - se hablasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera hablado
+    - me hubiese hablado
+  tu:
+    - te hubieras hablado
+    - te hubieses hablado
+  vos:
+    - te hubieras hablado
+    - te hubieses hablado
+  ud:
+    - se hubiera hablado
+    - se hubiese hablado
+  nosotros:
+    - nos hubiéramos hablado
+    - nos hubiésemos hablado
+  vosotros:
+    - os hubierais hablado
+    - os hubieseis hablado
+  uds:
+    - se hubieran hablado
+    - se hubiesen hablado
+
+imperativo:
+  tu: háblate
+  vos: hablate
+  ud: hablese
+  nosotros: hablemosnos
+  vosotros: hablaos
+  uds: hablense

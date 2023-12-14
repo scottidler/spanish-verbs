@@ -1,0 +1,142 @@
+infinitivo: acuchillar
+gerundio: acuchillando
+participio-pasado: acuchillado
+presente-indicativo:
+  yo: acuchillo
+  tu: acuchillas
+  vos: acuchillás
+  ud: acuchilla
+  nosotros: acuchillamos
+  vosotros: acuchilláis
+  uds: acuchillan
+preterito-perfecto-simple:
+  yo: acuchillé
+  tu: acuchillaste
+  vos: acuchillaste
+  ud: acuchilló
+  nosotros: acuchillamos
+  vosotros: acuchillasteis
+  uds: acuchillaron
+preterito-imperfecto:
+  yo: acuchillaba
+  tu: acuchillabas
+  vos: acuchillabas
+  ud: acuchillaba
+  nosotros: acuchillábamos
+  vosotros: acuchillabais
+  uds: acuchillaban
+futuro-simple:
+  yo: acuchillaré
+  tu: acuchillarás
+  vos: acuchillarás
+  ud: acuchillará
+  nosotros: acuchillaremos
+  vosotros: acuchillaréis
+  uds: acuchillarán
+condicional-simple:
+  yo: acuchillaría
+  tu: acuchillarías
+  vos: acuchillarías
+  ud: acuchillaría
+  nosotros: acuchillaríamos
+  vosotros: acuchillaríais
+  uds: acuchillarían
+presente-perfecto:
+  yo: he acuchillado
+  tu: has acuchillado
+  vos: has acuchillado
+  ud: ha acuchillado
+  nosotros: hemos acuchillado
+  vosotros: habéis acuchillado
+  uds: han acuchillado
+preterito-pluscuamperfecto:
+  yo: había acuchillado
+  tu: habías acuchillado
+  vos: habías acuchillado
+  ud: había acuchillado
+  nosotros: habíamos acuchillado
+  vosotros: habíais acuchillado
+  uds: habían acuchillado
+futuro-perfecto:
+  yo: habré acuchillado
+  tu: habrás acuchillado
+  vos: habrás acuchillado
+  ud: habrá acuchillado
+  nosotros: habremos acuchillado
+  vosotros: habréis acuchillado
+  uds: habrán acuchillado
+condicional-perfecto:
+  yo: habría acuchillado
+  tu: habrías acuchillado
+  vos: habrías acuchillado
+  ud: habría acuchillado
+  nosotros: habríamos acuchillado
+  vosotros: habríais acuchillado
+  uds: habrían acuchillado
+presente-subjuntivo:
+  yo: acuchille
+  tu: acuchilles
+  vos: acuchilles
+  ud: acuchille
+  nosotros: acuchillemos
+  vosotros: acuchilléis
+  uds: acuchillen
+preterito-perfecto-subjuntivo:
+  yo: haya acuchillado
+  tu: hayas acuchillado
+  vos: hayas acuchillado
+  ud: haya acuchillado
+  nosotros: hayamos acuchillado
+  vosotros: hayáis acuchillado
+  uds: hayan acuchillado
+imperfecto-subjuntivo:
+  yo:
+    - acuchillara
+    - acuchillase
+  tu:
+    - acuchillaras
+    - acuchillases
+  vos:
+    - acuchillaras
+    - acuchillases
+  ud:
+    - acuchillara
+    - acuchillase
+  nosotros:
+    - acuchilláramos
+    - acuchillásemos
+  vosotros:
+    - acuchillarais
+    - acuchillaseis
+  uds:
+    - acuchillaran
+    - acuchillasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acuchillado
+    - hubiese acuchillado
+  tu:
+    - hubieras acuchillado
+    - hubieses acuchillado
+  vos:
+    - hubieras acuchillado
+    - hubieses acuchillado
+  ud:
+    - hubiera acuchillado
+    - hubiese acuchillado
+  nosotros:
+    - hubiéramos acuchillado
+    - hubiésemos acuchillado
+  vosotros:
+    - hubierais acuchillado
+    - hubieseis acuchillado
+  uds:
+    - hubieran acuchillado
+    - hubiesen acuchillado
+imperativo:
+  tu: acuchilla
+  vos: acuchillá
+  ud: acuchille
+  nosotros: acuchillemos
+  vosotros: acuchillad
+  uds: acuchillen

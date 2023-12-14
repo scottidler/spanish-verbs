@@ -1,0 +1,142 @@
+infinitivo: odiar
+gerundio: odiando
+participio-pasado: odiado
+presente-indicativo:
+  yo: odio
+  tu: odias
+  vos: odias
+  ud: odia
+  nosotros: odiamos
+  vosotros: odiáis
+  uds: odian
+preterito-perfecto-simple:
+  yo: odié
+  tu: odiaste
+  vos: odiaste
+  ud: odió
+  nosotros: odiamos
+  vosotros: odiasteis
+  uds: odiaron
+preterito-imperfecto:
+  yo: odiaba
+  tu: odiabas
+  vos: odiabas
+  ud: odiaba
+  nosotros: odiábamos
+  vosotros: odiabais
+  uds: odiaban
+futuro-simple:
+  yo: odiaré
+  tu: odiarás
+  vos: odiarás
+  ud: odiará
+  nosotros: odiaremos
+  vosotros: odiaréis
+  uds: odiarán
+condicional-simple:
+  yo: odiaría
+  tu: odiarías
+  vos: odiarías
+  ud: odiaría
+  nosotros: odiaríamos
+  vosotros: odiaríais
+  uds: odiarían
+presente-perfecto:
+  yo: he odiado
+  tu: has odiado
+  vos: has odiado
+  ud: ha odiado
+  nosotros: hemos odiado
+  vosotros: habéis odiado
+  uds: han odiado
+preterito-pluscuamperfecto:
+  yo: había odiado
+  tu: habías odiado
+  vos: habías odiado
+  ud: había odiado
+  nosotros: habíamos odiado
+  vosotros: habíais odiado
+  uds: habían odiado
+futuro-perfecto:
+  yo: habré odiado
+  tu: habrás odiado
+  vos: habrás odiado
+  ud: habrá odiado
+  nosotros: habremos odiado
+  vosotros: habréis odiado
+  uds: habrán odiado
+condicional-perfecto:
+  yo: habría odiado
+  tu: habrías odiado
+  vos: habrías odiado
+  ud: habría odiado
+  nosotros: habríamos odiado
+  vosotros: habríais odiado
+  uds: habrían odiado
+presente-subjuntivo:
+  yo: odie
+  tu: odies
+  vos: odies
+  ud: odie
+  nosotros: odiemos
+  vosotros: odiéis
+  uds: odien
+preterito-perfecto-subjuntivo:
+  yo: haya odiado
+  tu: hayas odiado
+  vos: hayas odiado
+  ud: haya odiado
+  nosotros: hayamos odiado
+  vosotros: hayáis odiado
+  uds: hayan odiado
+imperfecto-subjuntivo:
+  yo:
+    - odiara
+    - odiase
+  tu:
+    - odiaras
+    - odieses
+  vos:
+    - odiaras
+    - odieses
+  ud:
+    - odiara
+    - odiase
+  nosotros:
+    - odiáramos
+    - odiésemos
+  vosotros:
+    - odiarais
+    - odieseis
+  uds:
+    - odiaran
+    - odiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera odiado
+    - hubiese odiado
+  tu:
+    - hubieras odiado
+    - hubieses odiado
+  vos:
+    - hubieras odiado
+    - hubieses odiado
+  ud:
+    - hubiera odiado
+    - hubiese odiado
+  nosotros:
+    - hubiéramos odiado
+    - hubiésemos odiado
+  vosotros:
+    - hubierais odiado
+    - hubieseis odiado
+  uds:
+    - hubieran odiado
+    - hubiesen odiado
+imperativo:
+  tu: odia
+  vos: odiá
+  ud: odie
+  nosotros: odiemos
+  vosotros: odiad
+  uds: odien

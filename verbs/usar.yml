@@ -1,0 +1,142 @@
+infinitivo: usar
+gerundio: usando
+participio-pasado: usado
+presente-indicativo:
+  yo: uso
+  tu: usas
+  vos: usas
+  ud: usa
+  nosotros: usamos
+  vosotros: usáis
+  uds: usan
+preterito-perfecto-simple:
+  yo: usé
+  tu: usaste
+  vos: usaste
+  ud: usó
+  nosotros: usamos
+  vosotros: usasteis
+  uds: usaron
+preterito-imperfecto:
+  yo: usaba
+  tu: usabas
+  vos: usabas
+  ud: usaba
+  nosotros: usábamos
+  vosotros: usabais
+  uds: usaban
+futuro-simple:
+  yo: usaré
+  tu: usarás
+  vos: usarás
+  ud: usará
+  nosotros: usaremos
+  vosotros: usaréis
+  uds: usarán
+condicional-simple:
+  yo: usaría
+  tu: usarías
+  vos: usarías
+  ud: usaría
+  nosotros: usaríamos
+  vosotros: usaríais
+  uds: usarían
+presente-perfecto:
+  yo: he usado
+  tu: has usado
+  vos: has usado
+  ud: ha usado
+  nosotros: hemos usado
+  vosotros: habéis usado
+  uds: han usado
+preterito-pluscuamperfecto:
+  yo: había usado
+  tu: habías usado
+  vos: habías usado
+  ud: había usado
+  nosotros: habíamos usado
+  vosotros: habíais usado
+  uds: habían usado
+futuro-perfecto:
+  yo: habré usado
+  tu: habrás usado
+  vos: habrás usado
+  ud: habrá usado
+  nosotros: habremos usado
+  vosotros: habréis usado
+  uds: habrán usado
+condicional-perfecto:
+  yo: habría usado
+  tu: habrías usado
+  vos: habrías usado
+  ud: habría usado
+  nosotros: habríamos usado
+  vosotros: habríais usado
+  uds: habrían usado
+presente-subjuntivo:
+  yo: use
+  tu: uses
+  vos: uses
+  ud: use
+  nosotros: usemos
+  vosotros: uséis
+  uds: usen
+preterito-perfecto-subjuntivo:
+  yo: haya usado
+  tu: hayas usado
+  vos: hayas usado
+  ud: haya usado
+  nosotros: hayamos usado
+  vosotros: hayáis usado
+  uds: hayan usado
+imperfecto-subjuntivo:
+  yo:
+    - usara
+    - usase
+  tu:
+    - usaras
+    - usases
+  vos:
+    - usaras
+    - usases
+  ud:
+    - usara
+    - usase
+  nosotros:
+    - usáramos
+    - usásemos
+  vosotros:
+    - usarais
+    - usaseis
+  uds:
+    - usaran
+    - usasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera usado
+    - hubiese usado
+  tu:
+    - hubieras usado
+    - hubieses usado
+  vos:
+    - hubieras usado
+    - hubieses usado
+  ud:
+    - hubiera usado
+    - hubiese usado
+  nosotros:
+    - hubiéramos usado
+    - hubiésemos usado
+  vosotros:
+    - hubierais usado
+    - hubieseis usado
+  uds:
+    - hubieran usado
+    - hubiesen usado
+imperativo:
+  tu: usa
+  vos: usá
+  ud: use
+  nosotros: usemos
+  vosotros: usad
+  uds: usen

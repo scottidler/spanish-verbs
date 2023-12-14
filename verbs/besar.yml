@@ -1,0 +1,142 @@
+infinitivo: besar
+gerundio: besando
+participio-pasado: besado
+presente-indicativo:
+  yo: beso
+  tu: besas
+  vos: besas
+  ud: besa
+  nosotros: besamos
+  vosotros: besáis
+  uds: besan
+preterito-perfecto-simple:
+  yo: besé
+  tu: besaste
+  vos: besaste
+  ud: besó
+  nosotros: besamos
+  vosotros: besasteis
+  uds: besaron
+preterito-imperfecto:
+  yo: besaba
+  tu: besabas
+  vos: besabas
+  ud: besaba
+  nosotros: besábamos
+  vosotros: besabais
+  uds: besaban
+futuro-simple:
+  yo: besaré
+  tu: besarás
+  vos: besarás
+  ud: besará
+  nosotros: besaremos
+  vosotros: besaréis
+  uds: besarán
+condicional-simple:
+  yo: besaría
+  tu: besarías
+  vos: besarías
+  ud: besaría
+  nosotros: besaríamos
+  vosotros: besaríais
+  uds: besarían
+presente-perfecto:
+  yo: he besado
+  tu: has besado
+  vos: has besado
+  ud: ha besado
+  nosotros: hemos besado
+  vosotros: habéis besado
+  uds: han besado
+preterito-pluscuamperfecto:
+  yo: había besado
+  tu: habías besado
+  vos: habías besado
+  ud: había besado
+  nosotros: habíamos besado
+  vosotros: habíais besado
+  uds: habían besado
+futuro-perfecto:
+  yo: habré besado
+  tu: habrás besado
+  vos: habrás besado
+  ud: habrá besado
+  nosotros: habremos besado
+  vosotros: habréis besado
+  uds: habrán besado
+condicional-perfecto:
+  yo: habría besado
+  tu: habrías besado
+  vos: habrías besado
+  ud: habría besado
+  nosotros: habríamos besado
+  vosotros: habríais besado
+  uds: habrían besado
+presente-subjuntivo:
+  yo: bese
+  tu: beses
+  vos: beses
+  ud: bese
+  nosotros: besemos
+  vosotros: beséis
+  uds: besen
+preterito-perfecto-subjuntivo:
+  yo: haya besado
+  tu: hayas besado
+  vos: hayas besado
+  ud: haya besado
+  nosotros: hayamos besado
+  vosotros: hayáis besado
+  uds: hayan besado
+imperfecto-subjuntivo:
+  yo:
+    - besara
+    - besase
+  tu:
+    - besaras
+    - besases
+  vos:
+    - besaras
+    - besases
+  ud:
+    - besara
+    - besase
+  nosotros:
+    - besáramos
+    - besásemos
+  vosotros:
+    - besarais
+    - besaseis
+  uds:
+    - besaran
+    - besasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera besado
+    - hubiese besado
+  tu:
+    - hubieras besado
+    - hubieses besado
+  vos:
+    - hubieras besado
+    - hubieses besado
+  ud:
+    - hubiera besado
+    - hubiese besado
+  nosotros:
+    - hubiéramos besado
+    - hubiésemos besado
+  vosotros:
+    - hubierais besado
+    - hubieseis besado
+  uds:
+    - hubieran besado
+    - hubiesen besado
+imperativo:
+  tu: besa
+  vos: besá
+  ud: bese
+  nosotros: besemos
+  vosotros: besad
+  uds: besen

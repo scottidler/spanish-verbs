@@ -1,0 +1,142 @@
+infinitivo: fundirse
+gerundio: fundiéndose
+participio-pasado: fundido
+presente-indicativo:
+  yo: me fundo
+  tu: te fundes
+  vos: te fundís
+  ud: se funde
+  nosotros: nos fundimos
+  vosotros: os fundís
+  uds: se funden
+preterito-perfecto-simple:
+  yo: me fundí
+  tu: te fundiste
+  vos: te fundiste
+  ud: se fundió
+  nosotros: nos fundimos
+  vosotros: os fundisteis
+  uds: se fundieron
+preterito-imperfecto:
+  yo: me fundía
+  tu: te fundías
+  vos: te fundías
+  ud: se fundía
+  nosotros: nos fundíamos
+  vosotros: os fundíais
+  uds: se fundían
+futuro-simple:
+  yo: me fundiré
+  tu: te fundirás
+  vos: te fundirás
+  ud: se fundirá
+  nosotros: nos fundiremos
+  vosotros: os fundiréis
+  uds: se fundirán
+condicional-simple:
+  yo: me fundiría
+  tu: te fundirías
+  vos: te fundirías
+  ud: se fundiría
+  nosotros: nos fundiríamos
+  vosotros: os fundiríais
+  uds: se fundirían
+presente-perfecto:
+  yo: me he fundido
+  tu: te has fundido
+  vos: te has fundido
+  ud: se ha fundido
+  nosotros: nos hemos fundido
+  vosotros: os habéis fundido
+  uds: se han fundido
+preterito-pluscuamperfecto:
+  yo: me había fundido
+  tu: te habías fundido
+  vos: te habías fundido
+  ud: se había fundido
+  nosotros: nos habíamos fundido
+  vosotros: os habíais fundido
+  uds: se habían fundido
+futuro-perfecto:
+  yo: me habré fundido
+  tu: te habrás fundido
+  vos: te habrás fundido
+  ud: se habrá fundido
+  nosotros: nos habremos fundido
+  vosotros: os habréis fundido
+  uds: se habrán fundido
+condicional-perfecto:
+  yo: me habría fundido
+  tu: te habrías fundido
+  vos: te habrías fundido
+  ud: se habría fundido
+  nosotros: nos habríamos fundido
+  vosotros: os habríais fundido
+  uds: se habrían fundido
+presente-subjuntivo:
+  yo: me funda
+  tu: te fundas
+  vos: te fundas
+  ud: se funda
+  nosotros: nos fundamos
+  vosotros: os fundáis
+  uds: se fundan
+preterito-perfecto-subjuntivo:
+  yo: me haya fundido
+  tu: te hayas fundido
+  vos: te hayas fundido
+  ud: se haya fundido
+  nosotros: nos hayamos fundido
+  vosotros: os hayáis fundido
+  uds: se hayan fundido
+imperfecto-subjuntivo:
+  yo:
+    - me fundiera
+    - me fundiese
+  tu:
+    - te fundieras
+    - te fundieses
+  vos:
+    - te fundieras
+    - te fundieses
+  ud:
+    - se fundiera
+    - se fundiese
+  nosotros:
+    - nos fundiéramos
+    - nos fundiésemos
+  vosotros:
+    - os fundierais
+    - os fundieseis
+  uds:
+    - se fundieran
+    - se fundiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera fundido
+    - me hubiese fundido
+  tu:
+    - te hubieras fundido
+    - te hubieses fundido
+  vos:
+    - te hubieras fundido
+    - te hubieses fundido
+  ud:
+    - se hubiera fundido
+    - se hubiese fundido
+  nosotros:
+    - nos hubiéramos fundido
+    - nos hubiésemos fundido
+  vosotros:
+    - os hubierais fundido
+    - os hubieseis fundido
+  uds:
+    - se hubieran fundido
+    - se hubiesen fundido
+imperativo:
+  tu: fundete
+  vos: fundíos
+  ud: fúndase
+  nosotros: fundámonos
+  vosotros: fundíos
+  uds: fúndanse

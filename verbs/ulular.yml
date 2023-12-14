@@ -1,0 +1,142 @@
+infinitivo: ulular
+gerundio: ululando
+participio-pasado: ululado
+presente-indicativo:
+  yo: ululo
+  tu: ululas
+  vos: ululas
+  ud: ulula
+  nosotros: ululamos
+  vosotros: ululáis
+  uds: ululan
+preterito-perfecto-simple:
+  yo: ululé
+  tu: ululaste
+  vos: ululaste
+  ud: ululó
+  nosotros: ululamos
+  vosotros: ululasteis
+  uds: ulularon
+preterito-imperfecto:
+  yo: ululaba
+  tu: ululabas
+  vos: ululabas
+  ud: ululaba
+  nosotros: ululábamos
+  vosotros: ululabais
+  uds: ululaban
+futuro-simple:
+  yo: ulularé
+  tu: ulularás
+  vos: ulularás
+  ud: ululará
+  nosotros: ulularemos
+  vosotros: ulularéis
+  uds: ulularán
+condicional-simple:
+  yo: ulularía
+  tu: ulularías
+  vos: ulularías
+  ud: ulularía
+  nosotros: ulularíamos
+  vosotros: ulularíais
+  uds: ulularían
+presente-perfecto:
+  yo: he ululado
+  tu: has ululado
+  vos: has ululado
+  ud: ha ululado
+  nosotros: hemos ululado
+  vosotros: habéis ululado
+  uds: han ululado
+preterito-pluscuamperfecto:
+  yo: había ululado
+  tu: habías ululado
+  vos: habías ululado
+  ud: había ululado
+  nosotros: habíamos ululado
+  vosotros: habíais ululado
+  uds: habían ululado
+futuro-perfecto:
+  yo: habré ululado
+  tu: habrás ululado
+  vos: habrás ululado
+  ud: habrá ululado
+  nosotros: habremos ululado
+  vosotros: habréis ululado
+  uds: habrán ululado
+condicional-perfecto:
+  yo: habría ululado
+  tu: habrías ululado
+  vos: habrías ululado
+  ud: habría ululado
+  nosotros: habríamos ululado
+  vosotros: habríais ululado
+  uds: habrían ululado
+presente-subjuntivo:
+  yo: ulule
+  tu: ulules
+  vos: ulules
+  ud: ulule
+  nosotros: ululemos
+  vosotros: ululéis
+  uds: ululen
+preterito-perfecto-subjuntivo:
+  yo: haya ululado
+  tu: hayas ululado
+  vos: hayas ululado
+  ud: haya ululado
+  nosotros: hayamos ululado
+  vosotros: hayáis ululado
+  uds: hayan ululado
+imperfecto-subjuntivo:
+  yo:
+    - ululara
+    - ululase
+  tu:
+    - ulularas
+    - ululases
+  vos:
+    - ulularas
+    - ululases
+  ud:
+    - ululara
+    - ululase
+  nosotros:
+    - ululáramos
+    - ululásemos
+  vosotros:
+    - ulularais
+    - ululaseis
+  uds:
+    - ulularan
+    - ululasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ululado
+    - hubiese ululado
+  tu:
+    - hubieras ululado
+    - hubieses ululado
+  vos:
+    - hubieras ululado
+    - hubieses ululado
+  ud:
+    - hubiera ululado
+    - hubiese ululado
+  nosotros:
+    - hubiéramos ululado
+    - hubiésemos ululado
+  vosotros:
+    - hubierais ululado
+    - hubieseis ululado
+  uds:
+    - hubieran ululado
+    - hubiesen ululado
+imperativo:
+  tu: ulula
+  vos: ululá
+  ud: ulule
+  nosotros: ululemos
+  vosotros: ululad
+  uds: ululen

@@ -1,0 +1,142 @@
+infinitivo: cobrar
+gerundio: cobrando
+participio-pasado: cobrado
+presente-indicativo:
+  yo: cobro
+  tu: cobras
+  vos: cobras
+  ud: cobra
+  nosotros: cobramos
+  vosotros: cobráis
+  uds: cobran
+preterito-perfecto-simple:
+  yo: cobré
+  tu: cobraste
+  vos: cobraste
+  ud: cobró
+  nosotros: cobramos
+  vosotros: cobrasteis
+  uds: cobraron
+preterito-imperfecto:
+  yo: cobraba
+  tu: cobrabas
+  vos: cobrabas
+  ud: cobraba
+  nosotros: cobrábamos
+  vosotros: cobrabais
+  uds: cobraban
+futuro-simple:
+  yo: cobraré
+  tu: cobrarás
+  vos: cobrarás
+  ud: cobrará
+  nosotros: cobraremos
+  vosotros: cobraréis
+  uds: cobrarán
+condicional-simple:
+  yo: cobraría
+  tu: cobrarías
+  vos: cobrarías
+  ud: cobraría
+  nosotros: cobraríamos
+  vosotros: cobraríais
+  uds: cobrarían
+presente-perfecto:
+  yo: he cobrado
+  tu: has cobrado
+  vos: has cobrado
+  ud: ha cobrado
+  nosotros: hemos cobrado
+  vosotros: habéis cobrado
+  uds: han cobrado
+preterito-pluscuamperfecto:
+  yo: había cobrado
+  tu: habías cobrado
+  vos: habías cobrado
+  ud: había cobrado
+  nosotros: habíamos cobrado
+  vosotros: habíais cobrado
+  uds: habían cobrado
+futuro-perfecto:
+  yo: habré cobrado
+  tu: habrás cobrado
+  vos: habrás cobrado
+  ud: habrá cobrado
+  nosotros: habremos cobrado
+  vosotros: habréis cobrado
+  uds: habrán cobrado
+condicional-perfecto:
+  yo: habría cobrado
+  tu: habrías cobrado
+  vos: habrías cobrado
+  ud: habría cobrado
+  nosotros: habríamos cobrado
+  vosotros: habríais cobrado
+  uds: habrían cobrado
+presente-subjuntivo:
+  yo: cobre
+  tu: cobres
+  vos: cobres
+  ud: cobre
+  nosotros: cobremos
+  vosotros: cobréis
+  uds: cobren
+preterito-perfecto-subjuntivo:
+  yo: haya cobrado
+  tu: hayas cobrado
+  vos: hayas cobrado
+  ud: haya cobrado
+  nosotros: hayamos cobrado
+  vosotros: hayáis cobrado
+  uds: hayan cobrado
+imperfecto-subjuntivo:
+  yo:
+    - cobrara
+    - cobrase
+  tu:
+    - cobraras
+    - cobrases
+  vos:
+    - cobraras
+    - cobrases
+  ud:
+    - cobrara
+    - cobrase
+  nosotros:
+    - cobráramos
+    - cobrásemos
+  vosotros:
+    - cobrarais
+    - cobraseis
+  uds:
+    - cobraran
+    - cobrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cobrado
+    - hubiese cobrado
+  tu:
+    - hubieras cobrado
+    - hubieses cobrado
+  vos:
+    - hubieras cobrado
+    - hubieses cobrado
+  ud:
+    - hubiera cobrado
+    - hubiese cobrado
+  nosotros:
+    - hubiéramos cobrado
+    - hubiésemos cobrado
+  vosotros:
+    - hubierais cobrado
+    - hubieseis cobrado
+  uds:
+    - hubieran cobrado
+    - hubiesen cobrado
+imperativo:
+  tu: cobra
+  vos: cobrá
+  ud: cobre
+  nosotros: cobremos
+  vosotros: cobrad
+  uds: cobren

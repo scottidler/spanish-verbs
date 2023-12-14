@@ -1,0 +1,156 @@
+infinitivo: colocarse
+gerundio: colocándose
+participio-pasado: colocado
+
+presente-indicativo:
+  yo: me coloco
+  tu: te colocas
+  vos: te colocás
+  ud: se coloca
+  nosotros: nos colocamos
+  vosotros: os colocáis
+  uds: se colocan
+
+preterito-perfecto-simple:
+  yo: me coloqué
+  tu: te colocaste
+  vos: te colocaste
+  ud: se colocó
+  nosotros: nos colocamos
+  vosotros: os colocasteis
+  uds: se colocaron
+
+preterito-imperfecto:
+  yo: me colocaba
+  tu: te colocabas
+  vos: te colocabas
+  ud: se colocaba
+  nosotros: nos colocábamos
+  vosotros: os colocabais
+  uds: se colocaban
+
+futuro-simple:
+  yo: me colocaré
+  tu: te colocarás
+  vos: te colocarás
+  ud: se colocará
+  nosotros: nos colocaremos
+  vosotros: os colocaréis
+  uds: se colocarán
+
+condicional-simple:
+  yo: me colocaría
+  tu: te colocarías
+  vos: te colocarías
+  ud: se colocaría
+  nosotros: nos colocaríamos
+  vosotros: os colocaríais
+  uds: se colocarían
+
+presente-perfecto:
+  yo: me he colocado
+  tu: te has colocado
+  vos: te has colocado
+  ud: se ha colocado
+  nosotros: nos hemos colocado
+  vosotros: os habéis colocado
+  uds: se han colocado
+
+preterito-pluscuamperfecto:
+  yo: me había colocado
+  tu: te habías colocado
+  vos: te habías colocado
+  ud: se había colocado
+  nosotros: nos habíamos colocado
+  vosotros: os habíais colocado
+  uds: se habían colocado
+
+futuro-perfecto:
+  yo: me habré colocado
+  tu: te habrás colocado
+  vos: te habrás colocado
+  ud: se habrá colocado
+  nosotros: nos habremos colocado
+  vosotros: os habréis colocado
+  uds: se habrán colocado
+
+condicional-perfecto:
+  yo: me habría colocado
+  tu: te habrías colocado
+  vos: te habrías colocado
+  ud: se habría colocado
+  nosotros: nos habríamos colocado
+  vosotros: os habríais colocado
+  uds: se habrían colocado
+
+presente-subjuntivo:
+  yo: me coloque
+  tu: te coloques
+  vos: te coloques
+  ud: se coloque
+  nosotros: nos coloquemos
+  vosotros: os coloquéis
+  uds: se coloquen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya colocado
+  tu: te hayas colocado
+  vos: te hayas colocado
+  ud: se haya colocado
+  nosotros: nos hayamos colocado
+  vosotros: os hayáis colocado
+  uds: se hayan colocado
+
+imperfecto-subjuntivo:
+  yo:
+    - me colocara
+    - me colocase
+  tu:
+    - te colocaras
+    - te colocases
+  vos:
+    - te colocaras
+    - te colocases
+  ud:
+    - se colocara
+    - se colocase
+  nosotros:
+    - nos colocáramos
+    - nos colocásemos
+  vosotros:
+    - os colocarais
+    - os colocaseis
+  uds:
+    - se colocaran
+    - se colocasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera colocado
+    - me hubiese colocado
+  tu:
+    - te hubieras colocado
+    - te hubieses colocado
+  vos:
+    - te hubieras colocado
+    - te hubieses colocado
+  ud:
+    - se hubiera colocado
+    - se hubiese colocado
+  nosotros:
+    - nos hubiéramos colocado
+    - nos hubiésemos colocado
+  vosotros:
+    - os hubierais colocado
+    - os hubieseis colocado
+  uds:
+    - se hubieran colocado
+    - se hubiesen colocado
+
+imperativo:
+  tu: colócate
+  vos: colocate
+  ud: colóquese
+  nosotros: coloquémonos
+  vosotros: colocaros
+  uds: colóquense

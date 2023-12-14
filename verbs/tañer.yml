@@ -1,0 +1,142 @@
+infinitivo: tañer
+gerundio: tañendo
+participio-pasado: tañido
+presente-indicativo:
+  yo: taño
+  tu: tañes
+  vos: tañes
+  ud: tañe
+  nosotros: tañemos
+  vosotros: tañéis
+  uds: tañen
+preterito-perfecto-simple:
+  yo: tañí
+  tu: tañiste
+  vos: tañiste
+  ud: tañó
+  nosotros: tañimos
+  vosotros: tañisteis
+  uds: tañeron
+preterito-imperfecto:
+  yo: tañía
+  tu: tañías
+  vos: tañías
+  ud: tañía
+  nosotros: tañíamos
+  vosotros: tañíais
+  uds: tañían
+futuro-simple:
+  yo: tañeré
+  tu: tañerás
+  vos: tañerás
+  ud: tañerá
+  nosotros: tañeremos
+  vosotros: tañeréis
+  uds: tañerán
+condicional-simple:
+  yo: tañería
+  tu: tañerías
+  vos: tañerías
+  ud: tañería
+  nosotros: tañeríamos
+  vosotros: tañeríais
+  uds: tañerían
+presente-perfecto:
+  yo: he tañido
+  tu: has tañido
+  vos: has tañido
+  ud: ha tañido
+  nosotros: hemos tañido
+  vosotros: habéis tañido
+  uds: han tañido
+preterito-pluscuamperfecto:
+  yo: había tañido
+  tu: habías tañido
+  vos: habías tañido
+  ud: había tañido
+  nosotros: habíamos tañido
+  vosotros: habíais tañido
+  uds: habían tañido
+futuro-perfecto:
+  yo: habré tañido
+  tu: habrás tañido
+  vos: habrás tañido
+  ud: habrá tañido
+  nosotros: habremos tañido
+  vosotros: habréis tañido
+  uds: habrán tañido
+condicional-perfecto:
+  yo: habría tañido
+  tu: habrías tañido
+  vos: habrías tañido
+  ud: habría tañido
+  nosotros: habríamos tañido
+  vosotros: habríais tañido
+  uds: habrían tañido
+presente-subjuntivo:
+  yo: taña
+  tu: tañas
+  vos: tañas
+  ud: taña
+  nosotros: tañamos
+  vosotros: tañáis
+  uds: tañan
+preterito-perfecto-subjuntivo:
+  yo: haya tañido
+  tu: hayas tañido
+  vos: hayas tañido
+  ud: haya tañido
+  nosotros: hayamos tañido
+  vosotros: hayáis tañido
+  uds: hayan tañido
+imperfecto-subjuntivo:
+  yo:
+    - tañera
+    - tañese
+  tu:
+    - tañeras
+    - tañeses
+  vos:
+    - tañeras
+    - tañeses
+  ud:
+    - tañera
+    - tañese
+  nosotros:
+    - tañéramos
+    - tañésemos
+  vosotros:
+    - tañerais
+    - tañeseis
+  uds:
+    - tañeran
+    - tañesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tañido
+    - hubiese tañido
+  tu:
+    - hubieras tañido
+    - hubieses tañido
+  vos:
+    - hubieras tañido
+    - hubieses tañido
+  ud:
+    - hubiera tañido
+    - hubiese tañido
+  nosotros:
+    - hubiéramos tañido
+    - hubiésemos tañido
+  vosotros:
+    - hubierais tañido
+    - hubieseis tañido
+  uds:
+    - hubieran tañido
+    - hubiesen tañido
+imperativo:
+  tu: tañe
+  vos: tañé
+  ud: taña
+  nosotros: tañamos
+  vosotros: tañed
+  uds: tañan

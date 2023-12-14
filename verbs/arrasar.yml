@@ -1,0 +1,142 @@
+infinitivo: arrasar
+gerundio: arrasando
+participio-pasado: arrasado
+presente-indicativo:
+  yo: arraso
+  tu: arrasas
+  vos: arrasás
+  ud: arrasa
+  nosotros: arrasamos
+  vosotros: arrasáis
+  uds: arrasan
+preterito-perfecto-simple:
+  yo: arrasé
+  tu: arrasaste
+  vos: arrasaste
+  ud: arrasó
+  nosotros: arrasamos
+  vosotros: arrastéis
+  uds: arrasaron
+preterito-imperfecto:
+  yo: arrasaba
+  tu: arrasabas
+  vos: arrasabas
+  ud: arrasaba
+  nosotros: arrasábamos
+  vosotros: arrasabais
+  uds: arrasaban
+futuro-simple:
+  yo: arrasaré
+  tu: arrasarás
+  vos: arrasarás
+  ud: arrasará
+  nosotros: arrasaremos
+  vosotros: arrasaréis
+  uds: arrasarán
+condicional-simple:
+  yo: arrasaría
+  tu: arrasarías
+  vos: arrasarías
+  ud: arrasaría
+  nosotros: arrasaríamos
+  vosotros: arrasaríais
+  uds: arrasarían
+presente-perfecto:
+  yo: he arrasado
+  tu: has arrasado
+  vos: has arrasado
+  ud: ha arrasado
+  nosotros: hemos arrasado
+  vosotros: habéis arrasado
+  uds: han arrasado
+preterito-pluscuamperfecto:
+  yo: había arrasado
+  tu: habías arrasado
+  vos: habías arrasado
+  ud: había arrasado
+  nosotros: habíamos arrasado
+  vosotros: habíais arrasado
+  uds: habían arrasado
+futuro-perfecto:
+  yo: habré arrasado
+  tu: habrás arrasado
+  vos: habrás arrasado
+  ud: habrá arrasado
+  nosotros: habremos arrasado
+  vosotros: habréis arrasado
+  uds: habrán arrasado
+condicional-perfecto:
+  yo: habría arrasado
+  tu: habrías arrasado
+  vos: habrías arrasado
+  ud: habría arrasado
+  nosotros: habríamos arrasado
+  vosotros: habríais arrasado
+  uds: habrían arrasado
+presente-subjuntivo:
+  yo: arrase
+  tu: arrases
+  vos: arrases
+  ud: arrase
+  nosotros: arrasemos
+  vosotros: arraséis
+  uds: arrasen
+preterito-perfecto-subjuntivo:
+  yo: haya arrasado
+  tu: hayas arrasado
+  vos: hayas arrasado
+  ud: haya arrasado
+  nosotros: hayamos arrasado
+  vosotros: hayáis arrasado
+  uds: hayan arrasado
+imperfecto-subjuntivo:
+  yo:
+    - arrasara
+    - arrasase
+  tu:
+    - arrasaras
+    - arrasases
+  vos:
+    - arrasaras
+    - arrasases
+  ud:
+    - arrasara
+    - arrasase
+  nosotros:
+    - arrasáramos
+    - arrasásemos
+  vosotros:
+    - arrasarais
+    - arrasaseis
+  uds:
+    - arrasaran
+    - arrasasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arrasado
+    - hubiese arrasado
+  tu:
+    - hubieras arrasado
+    - hubieses arrasado
+  vos:
+    - hubieras arrasado
+    - hubieses arrasado
+  ud:
+    - hubiera arrasado
+    - hubiese arrasado
+  nosotros:
+    - hubiéramos arrasado
+    - hubiésemos arrasado
+  vosotros:
+    - hubierais arrasado
+    - hubieseis arrasado
+  uds:
+    - hubieran arrasado
+    - hubiesen arrasado
+imperativo:
+  tu: arrasa
+  vos: arrasá
+  ud: arrase
+  nosotros: arrasemos
+  vosotros: arrasad
+  uds: arrasen

@@ -1,0 +1,156 @@
+infinitivo: confundirse
+gerundio: confundiéndose
+participio-pasado: confundido/confundida
+
+presente-indicativo:
+  yo: me confundo
+  tu: te confundes
+  vos: te confundes
+  ud: se confunde
+  nosotros: nos confundimos
+  vosotros: os confundís
+  uds: se confunden
+
+preterito-perfecto-simple:
+  yo: me confundí
+  tu: te confundiste
+  vos: te confundiste
+  ud: se confundió
+  nosotros: nos confundimos
+  vosotros: os confundisteis
+  uds: se confundieron
+
+preterito-imperfecto:
+  yo: me confundía
+  tu: te confundías
+  vos: te confundías
+  ud: se confundía
+  nosotros: nos confundíamos
+  vosotros: os confundíais
+  uds: se confundían
+
+futuro-simple:
+  yo: me confundiré
+  tu: te confundirás
+  vos: te confundirás
+  ud: se confundirá
+  nosotros: nos confundiremos
+  vosotros: os confundiréis
+  uds: se confundirán
+
+condicional-simple:
+  yo: me confundiría
+  tu: te confundirías
+  vos: te confundirías
+  ud: se confundiría
+  nosotros: nos confundiríamos
+  vosotros: os confundiríais
+  uds: se confundirían
+
+presente-perfecto:
+  yo: me he confundido
+  tu: te has confundido
+  vos: te has confundido
+  ud: se ha confundido
+  nosotros: nos hemos confundido
+  vosotros: os habéis confundido
+  uds: se han confundido
+
+preterito-pluscuamperfecto:
+  yo: me había confundido
+  tu: te habías confundido
+  vos: te habías confundido
+  ud: se había confundido
+  nosotros: nos habíamos confundido
+  vosotros: os habíais confundido
+  uds: se habían confundido
+
+futuro-perfecto:
+  yo: me habré confundido
+  tu: te habrás confundido
+  vos: te habrás confundido
+  ud: se habrá confundido
+  nosotros: nos habremos confundido
+  vosotros: os habréis confundido
+  uds: se habrán confundido
+
+condicional-perfecto:
+  yo: me habría confundido
+  tu: te habrías confundido
+  vos: te habrías confundido
+  ud: se habría confundido
+  nosotros: nos habríamos confundido
+  vosotros: os habríais confundido
+  uds: se habrían confundido
+
+presente-subjuntivo:
+  yo: me confunda
+  tu: te confundas
+  vos: te confundas
+  ud: se confunda
+  nosotros: nos confundamos
+  vosotros: os confundáis
+  uds: se confundan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya confundido
+  tu: te hayas confundido
+  vos: te hayas confundido
+  ud: se haya confundido
+  nosotros: nos hayamos confundido
+  vosotros: os hayáis confundido
+  uds: se hayan confundido
+
+imperfecto-subjuntivo:
+  yo:
+    - me confundiera
+    - me confundiese
+  tu:
+    - te confundieras
+    - te confundieses
+  vos:
+    - te confundieras
+    - te confundieses
+  ud:
+    - se confundiera
+    - se confundiese
+  nosotros:
+    - nos confundiéramos
+    - nos confundiésemos
+  vosotros:
+    - os confundierais
+    - os confundieseis
+  uds:
+    - se confundieran
+    - se confundiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera confundido
+    - me hubiese confundido
+  tu:
+    - te hubieras confundido
+    - te hubieses confundido
+  vos:
+    - te hubieras confundido
+    - te hubieses confundido
+  ud:
+    - se hubiera confundido
+    - se hubiese confundido
+  nosotros:
+    - nos hubiéramos confundido
+    - nos hubiésemos confundido
+  vosotros:
+    - os hubierais confundido
+    - os hubieseis confundido
+  uds:
+    - se hubieran confundido
+    - se hubiesen confundido
+
+imperativo:
+  tu: confúndete
+  vos: confúndete
+  ud: confúndase
+  nosotros: confundámonos
+  vosotros: confundíos
+  uds: confúndanse

@@ -1,0 +1,142 @@
+infinitivo: romperse
+gerundio: rompiéndose
+participio-pasado: roto
+presente-indicativo:
+  yo: me rompo
+  tu: te rompes
+  vos: te rompes
+  ud: se rompe
+  nosotros: nos rompemos
+  vosotros: os rompéis
+  uds: se rompen
+preterito-perfecto-simple:
+  yo: me rompí
+  tu: te rompiste
+  vos: te rompiste
+  ud: se rompió
+  nosotros: nos rompimos
+  vosotros: os rompisteis
+  uds: se rompieron
+preterito-imperfecto:
+  yo: me rompía
+  tu: te rompías
+  vos: te rompías
+  ud: se rompía
+  nosotros: nos rompíamos
+  vosotros: os rompíais
+  uds: se rompían
+futuro-simple:
+  yo: me romperé
+  tu: te romperás
+  vos: te romperás
+  ud: se romperá
+  nosotros: nos romperemos
+  vosotros: os romperéis
+  uds: se romperán
+condicional-simple:
+  yo: me rompería
+  tu: te romperías
+  vos: te romperías
+  ud: se rompería
+  nosotros: nos romperíamos
+  vosotros: os romperíais
+  uds: se romperían
+presente-perfecto:
+  yo: me he roto
+  tu: te has roto
+  vos: te has roto
+  ud: se ha roto
+  nosotros: nos hemos roto
+  vosotros: os habéis roto
+  uds: se han roto
+preterito-pluscuamperfecto:
+  yo: me había roto
+  tu: te habías roto
+  vos: te habías roto
+  ud: se había roto
+  nosotros: nos habíamos roto
+  vosotros: os habíais roto
+  uds: se habían roto
+futuro-perfecto:
+  yo: me habré roto
+  tu: te habrás roto
+  vos: te habrás roto
+  ud: se habrá roto
+  nosotros: nos habremos roto
+  vosotros: os habréis roto
+  uds: se habrán roto
+condicional-perfecto:
+  yo: me habría roto
+  tu: te habrías roto
+  vos: te habrías roto
+  ud: se habría roto
+  nosotros: nos habríamos roto
+  vosotros: os habríais roto
+  uds: se habrían roto
+presente-subjuntivo:
+  yo: me rompa
+  tu: te rompas
+  vos: te rompas
+  ud: se rompa
+  nosotros: nos rompamos
+  vosotros: os rompáis
+  uds: se rompan
+preterito-perfecto-subjuntivo:
+  yo: me haya roto
+  tu: te hayas roto
+  vos: te hayas roto
+  ud: se haya roto
+  nosotros: nos hayamos roto
+  vosotros: os hayáis roto
+  uds: se hayan roto
+imperfecto-subjuntivo:
+  yo:
+    - me rompiera
+    - me rompiese
+  tu:
+    - te rompieras
+    - te rompieses
+  vos:
+    - te rompieras
+    - te rompieses
+  ud:
+    - se rompiera
+    - se rompiese
+  nosotros:
+    - nos rompiéramos
+    - nos rompiésemos
+  vosotros:
+    - os rompierais
+    - os rompieseis
+  uds:
+    - se rompieran
+    - se rompiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera roto
+    - me hubiese roto
+  tu:
+    - te hubieras roto
+    - te hubieses roto
+  vos:
+    - te hubieras roto
+    - te hubieses roto
+  ud:
+    - se hubiera roto
+    - se hubiese roto
+  nosotros:
+    - nos hubiéramos roto
+    - nos hubiésemos roto
+  vosotros:
+    - os hubierais roto
+    - os hubieseis roto
+  uds:
+    - se hubieran roto
+    - se hubiesen roto
+imperativo:
+  tu: ábrete
+  vos: ábrete
+  ud: ábrase
+  nosotros: abrámonos
+  vosotros: abríos
+  uds: ábranse

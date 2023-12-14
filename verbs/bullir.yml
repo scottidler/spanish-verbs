@@ -1,0 +1,142 @@
+infinitivo: bullir
+gerundio: bullendo
+participio-pasado: bullido
+presente-indicativo:
+  yo: bulla
+  tu: bulles
+  vos: bulles
+  ud: bulle
+  nosotros: bullimos
+  vosotros: bullís
+  uds: bullen
+preterito-perfecto-simple:
+  yo: bullí
+  tu: bulliste
+  vos: bulliste
+  ud: bulló
+  nosotros: bullimos
+  vosotros: bullisteis
+  uds: bulleron
+preterito-imperfecto:
+  yo: bullía
+  tu: bullías
+  vos: bullías
+  ud: bullía
+  nosotros: bullíamos
+  vosotros: bullíais
+  uds: bullían
+futuro-simple:
+  yo: bulliré
+  tu: bullirás
+  vos: bullirás
+  ud: bullirá
+  nosotros: bulliremos
+  vosotros: bulliréis
+  uds: bullirán
+condicional-simple:
+  yo: bulliría
+  tu: bullirías
+  vos: bullirías
+  ud: bulliría
+  nosotros: bulliríamos
+  vosotros: bulliríais
+  uds: bullirían
+presente-perfecto:
+  yo: he bullido
+  tu: has bullido
+  vos: has bullido
+  ud: ha bullido
+  nosotros: hemos bullido
+  vosotros: habéis bullido
+  uds: han bullido
+preterito-pluscuamperfecto:
+  yo: había bullido
+  tu: habías bullido
+  vos: habías bullido
+  ud: había bullido
+  nosotros: habíamos bullido
+  vosotros: habíais bullido
+  uds: habían bullido
+futuro-perfecto:
+  yo: habré bullido
+  tu: habrás bullido
+  vos: habrás bullido
+  ud: habrá bullido
+  nosotros: habremos bullido
+  vosotros: habréis bullido
+  uds: habrán bullido
+condicional-perfecto:
+  yo: habría bullido
+  tu: habrías bullido
+  vos: habrías bullido
+  ud: habría bullido
+  nosotros: habríamos bullido
+  vosotros: habríais bullido
+  uds: habrían bullido
+presente-subjuntivo:
+  yo: bulla
+  tu: bullas
+  vos: bullas
+  ud: bulla
+  nosotros: bullamos
+  vosotros: bulláis
+  uds: bullan
+preterito-perfecto-subjuntivo:
+  yo: haya bullido
+  tu: hayas bullido
+  vos: hayas bullido
+  ud: haya bullido
+  nosotros: hayamos bullido
+  vosotros: hayáis bullido
+  uds: hayan bullido
+imperfecto-subjuntivo:
+  yo:
+    - bullera
+    - bullese
+  tu:
+    - bulleras
+    - bulleses
+  vos:
+    - bulleras
+    - bulleses
+  ud:
+    - bullera
+    - bullese
+  nosotros:
+    - bulléramos
+    - bullésemos
+  vosotros:
+    - bullerais
+    - bulleaseis
+  uds:
+    - bulleran
+    - bullesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bullido
+    - hubiese bullido
+  tu:
+    - hubieras bullido
+    - hubieses bullido
+  vos:
+    - hubieras bullido
+    - hubieses bullido
+  ud:
+    - hubiera bullido
+    - hubiese bullido
+  nosotros:
+    - hubiéramos bullido
+    - hubiésemos bullido
+  vosotros:
+    - hubierais bullido
+    - hubieseis bullido
+  uds:
+    - hubieran bullido
+    - hubiesen bullido
+imperativo:
+  tu: bulle
+  vos: bullí
+  ud: bulla
+  nosotros: bullamos
+  vosotros: bullid
+  uds: bullan

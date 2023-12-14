@@ -1,0 +1,142 @@
+infinitivo: declinar
+gerundio: declinando
+participio-pasado: declinado
+presente-indicativo:
+  yo: declino
+  tu: declinas
+  vos: declinás
+  ud: declina
+  nosotros: declinamos
+  vosotros: declináis
+  uds: declinan
+preterito-perfecto-simple:
+  yo: decliné
+  tu: declinaste
+  vos: declinaste
+  ud: declinó
+  nosotros: declinamos
+  vosotros: declinasteis
+  uds: declinaron
+preterito-imperfecto:
+  yo: declinaba
+  tu: declinabas
+  vos: declinabas
+  ud: declinaba
+  nosotros: declinábamos
+  vosotros: declinabais
+  uds: declinaban
+futuro-simple:
+  yo: declinaré
+  tu: declinarás
+  vos: declinarás
+  ud: declinará
+  nosotros: declinaremos
+  vosotros: declinaréis
+  uds: declinarán
+condicional-simple:
+  yo: declinaría
+  tu: declinarías
+  vos: declinarías
+  ud: declinaría
+  nosotros: declinaríamos
+  vosotros: declinaríais
+  uds: declinarían
+presente-perfecto:
+  yo: he declinado
+  tu: has declinado
+  vos: has declinado
+  ud: ha declinado
+  nosotros: hemos declinado
+  vosotros: habéis declinado
+  uds: han declinado
+preterito-pluscuamperfecto:
+  yo: había declinado
+  tu: habías declinado
+  vos: habías declinado
+  ud: había declinado
+  nosotros: habíamos declinado
+  vosotros: habíais declinado
+  uds: habían declinado
+futuro-perfecto:
+  yo: habré declinado
+  tu: habrás declinado
+  vos: habrás declinado
+  ud: habrá declinado
+  nosotros: habremos declinado
+  vosotros: habréis declinado
+  uds: habrán declinado
+condicional-perfecto:
+  yo: habría declinado
+  tu: habrías declinado
+  vos: habrías declinado
+  ud: habría declinado
+  nosotros: habríamos declinado
+  vosotros: habríais declinado
+  uds: habrían declinado
+presente-subjuntivo:
+  yo: decline
+  tu: declines
+  vos: declines
+  ud: decline
+  nosotros: declinemos
+  vosotros: declinéis
+  uds: declinen
+preterito-perfecto-subjuntivo:
+  yo: haya declinado
+  tu: hayas declinado
+  vos: hayas declinado
+  ud: haya declinado
+  nosotros: hayamos declinado
+  vosotros: hayáis declinado
+  uds: hayan declinado
+imperfecto-subjuntivo:
+  yo:
+    - declinara
+    - declinase
+  tu:
+    - declinaras
+    - declinases
+  vos:
+    - declinaras
+    - declinases
+  ud:
+    - declinara
+    - declinase
+  nosotros:
+    - declináramos
+    - declinásemos
+  vosotros:
+    - declinarais
+    - declinaseis
+  uds:
+    - declinaran
+    - declinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera declinado
+    - hubiese declinado
+  tu:
+    - hubieras declinado
+    - hubieses declinado
+  vos:
+    - hubieras declinado
+    - hubieses declinado
+  ud:
+    - hubiera declinado
+    - hubiese declinado
+  nosotros:
+    - hubiéramos declinado
+    - hubiésemos declinado
+  vosotros:
+    - hubierais declinado
+    - hubieseis declinado
+  uds:
+    - hubieran declinado
+    - hubiesen declinado
+imperativo:
+  tu: declina
+  vos: decliná
+  ud: decline
+  nosotros: declinemos
+  vosotros: declinad
+  uds: declinen

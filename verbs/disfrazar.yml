@@ -1,0 +1,142 @@
+infinitivo: disfrazar
+gerundio: disfrazando
+participio-pasado: disfrazado
+presente-indicativo:
+  yo: disfrazo
+  tu: disfrazas
+  vos: disfrazas
+  ud: disfraza
+  nosotros: disfrazamos
+  vosotros: disfrazáis
+  uds: disfrazan
+preterito-perfecto-simple:
+  yo: disfracé
+  tu: disfrazaste
+  vos: disfrazaste
+  ud: disfrazó
+  nosotros: disfrazamos
+  vosotros: disfrazasteis
+  uds: disfrazaron
+preterito-imperfecto:
+  yo: disfrazaba
+  tu: disfrazabas
+  vos: disfrazabas
+  ud: disfrazaba
+  nosotros: disfrazábamos
+  vosotros: disfrazabais
+  uds: disfrazaban
+futuro-simple:
+  yo: disfrazaré
+  tu: disfrazarás
+  vos: disfrazarás
+  ud: disfrazará
+  nosotros: disfrazaremos
+  vosotros: disfrazaréis
+  uds: disfrazarán
+condicional-simple:
+  yo: disfrazaría
+  tu: disfrazarías
+  vos: disfrazarías
+  ud: disfrazaría
+  nosotros: disfrazaríamos
+  vosotros: disfrazaríais
+  uds: disfrazarían
+presente-perfecto:
+  yo: he disfrazado
+  tu: has disfrazado
+  vos: has disfrazado
+  ud: ha disfrazado
+  nosotros: hemos disfrazado
+  vosotros: habéis disfrazado
+  uds: han disfrazado
+preterito-pluscuamperfecto:
+  yo: había disfrazado
+  tu: habías disfrazado
+  vos: habías disfrazado
+  ud: había disfrazado
+  nosotros: habíamos disfrazado
+  vosotros: habíais disfrazado
+  uds: habían disfrazado
+futuro-perfecto:
+  yo: habré disfrazado
+  tu: habrás disfrazado
+  vos: habrás disfrazado
+  ud: habrá disfrazado
+  nosotros: habremos disfrazado
+  vosotros: habréis disfrazado
+  uds: habrán disfrazado
+condicional-perfecto:
+  yo: habría disfrazado
+  tu: habrías disfrazado
+  vos: habrías disfrazado
+  ud: habría disfrazado
+  nosotros: habríamos disfrazado
+  vosotros: habríais disfrazado
+  uds: habrían disfrazado
+presente-subjuntivo:
+  yo: disfrace
+  tu: disfraces
+  vos: disfraces
+  ud: disfrace
+  nosotros: disfracemos
+  vosotros: disfracéis
+  uds: disfracen
+preterito-perfecto-subjuntivo:
+  yo: haya disfrazado
+  tu: hayas disfrazado
+  vos: hayas disfrazado
+  ud: haya disfrazado
+  nosotros: hayamos disfrazado
+  vosotros: hayáis disfrazado
+  uds: hayan disfrazado
+imperfecto-subjuntivo:
+  yo:
+    - disfrazara
+    - disfrazase
+  tu:
+    - disfrazaras
+    - disfrazases
+  vos:
+    - disfrazaras
+    - disfrazases
+  ud:
+    - disfrazara
+    - disfrazase
+  nosotros:
+    - disfrazáramos
+    - disfrazásemos
+  vosotros:
+    - disfrazarais
+    - disfrazaseis
+  uds:
+    - disfrazaran
+    - disfrazasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera disfrazado
+    - hubiese disfrazado
+  tu:
+    - hubieras disfrazado
+    - hubieses disfrazado
+  vos:
+    - hubieras disfrazado
+    - hubieses disfrazado
+  ud:
+    - hubiera disfrazado
+    - hubiese disfrazado
+  nosotros:
+    - hubiéramos disfrazado
+    - hubiésemos disfrazado
+  vosotros:
+    - hubierais disfrazado
+    - hubieseis disfrazado
+  uds:
+    - hubieran disfrazado
+    - hubiesen disfrazado
+imperativo:
+  tu: disfraza
+  vos: disfrazá
+  ud: disfrace
+  nosotros: disfracemos
+  vosotros: disfrazad
+  uds: disfracen

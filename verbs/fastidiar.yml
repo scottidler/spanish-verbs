@@ -1,0 +1,142 @@
+infinitivo: fastidiar
+gerundio: fastidiando
+participio-pasado: fastidiado
+presente-indicativo:
+  yo: fastidio
+  tu: fastidias
+  vos: fastidias
+  ud: fastidia
+  nosotros: fastidiamos
+  vosotros: fastidiáis
+  uds: fastidian
+preterito-perfecto-simple:
+  yo: fastidié
+  tu: fastidiaste
+  vos: fastidiaste
+  ud: fastidió
+  nosotros: fastidiamos
+  vosotros: fastidiasteis
+  uds: fastidiaron
+preterito-imperfecto:
+  yo: fastidiaba
+  tu: fastidiabas
+  vos: fastidiabas
+  ud: fastidiaba
+  nosotros: fastidiábamos
+  vosotros: fastidiabais
+  uds: fastidiaban
+futuro-simple:
+  yo: fastidiaré
+  tu: fastidiarás
+  vos: fastidiarás
+  ud: fastidiará
+  nosotros: fastidiaremos
+  vosotros: fastidiaréis
+  uds: fastidiarán
+condicional-simple:
+  yo: fastidiaría
+  tu: fastidiarías
+  vos: fastidiarías
+  ud: fastidiaría
+  nosotros: fastidiaríamos
+  vosotros: fastidiaríais
+  uds: fastidiarían
+presente-perfecto:
+  yo: he fastidiado
+  tu: has fastidiado
+  vos: has fastidiado
+  ud: ha fastidiado
+  nosotros: hemos fastidiado
+  vosotros: habéis fastidiado
+  uds: han fastidiado
+preterito-pluscuamperfecto:
+  yo: había fastidiado
+  tu: habías fastidiado
+  vos: habías fastidiado
+  ud: había fastidiado
+  nosotros: habíamos fastidiado
+  vosotros: habíais fastidiado
+  uds: habían fastidiado
+futuro-perfecto:
+  yo: habré fastidiado
+  tu: habrás fastidiado
+  vos: habrás fastidiado
+  ud: habrá fastidiado
+  nosotros: habremos fastidiado
+  vosotros: habréis fastidiado
+  uds: habrán fastidiado
+condicional-perfecto:
+  yo: habría fastidiado
+  tu: habrías fastidiado
+  vos: habrías fastidiado
+  ud: habría fastidiado
+  nosotros: habríamos fastidiado
+  vosotros: habríais fastidiado
+  uds: habrían fastidiado
+presente-subjuntivo:
+  yo: fastidie
+  tu: fastidies
+  vos: fastidies
+  ud: fastidie
+  nosotros: fastidiemos
+  vosotros: fastidiéis
+  uds: fastidien
+preterito-perfecto-subjuntivo:
+  yo: haya fastidiado
+  tu: hayas fastidiado
+  vos: hayas fastidiado
+  ud: haya fastidiado
+  nosotros: hayamos fastidiado
+  vosotros: hayáis fastidiado
+  uds: hayan fastidiado
+imperfecto-subjuntivo:
+  yo:
+    - fastidiara
+    - fastidiase
+  tu:
+    - fastidiaras
+    - fastidiases
+  vos:
+    - fastidiaras
+    - fastidiases
+  ud:
+    - fastidiara
+    - fastidiase
+  nosotros:
+    - fastidiáramos
+    - fastidiásemos
+  vosotros:
+    - fastidiarais
+    - fastidiaseis
+  uds:
+    - fastidiaran
+    - fastidiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fastidiado
+    - hubiese fastidiado
+  tu:
+    - hubieras fastidiado
+    - hubieses fastidiado
+  vos:
+    - hubieras fastidiado
+    - hubieses fastidiado
+  ud:
+    - hubiera fastidiado
+    - hubiese fastidiado
+  nosotros:
+    - hubiéramos fastidiado
+    - hubiésemos fastidiado
+  vosotros:
+    - hubierais fastidiado
+    - hubieseis fastidiado
+  uds:
+    - hubieran fastidiado
+    - hubiesen fastidiado
+imperativo:
+  tu: fastidia
+  vos: fastidiá
+  ud: fastidie
+  nosotros: fastidiemos
+  vosotros: fastidiad
+  uds: fastidien

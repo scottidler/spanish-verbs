@@ -1,0 +1,142 @@
+infinitivo: holer
+gerundio: holando
+participio-pasado: holado
+presente-indicativo:
+  yo: huelo
+  tu: hueles
+  vos: hueles
+  ud: huele
+  nosotros: olemos
+  vosotros: oléis
+  uds: huelen
+preterito-perfecto-simple:
+  yo: holí
+  tu: holiste
+  vos: holiste
+  ud: holió
+  nosotros: holimos
+  vosotros: holisteis
+  uds: holieron
+preterito-imperfecto:
+  yo: holía
+  tu: holías
+  vos: holías
+  ud: holía
+  nosotros: holíamos
+  vosotros: holíais
+  uds: holían
+futuro-simple:
+  yo: holeré
+  tu: holerás
+  vos: holerás
+  ud: holerá
+  nosotros: holeremos
+  vosotros: holeréis
+  uds: holerán
+condicional-simple:
+  yo: holería
+  tu: holerías
+  vos: holerías
+  ud: holería
+  nosotros: holeríamos
+  vosotros: holeríais
+  uds: holerían
+presente-perfecto:
+  yo: he holado
+  tu: has holado
+  vos: has holado
+  ud: ha holado
+  nosotros: hemos holado
+  vosotros: habéis holado
+  uds: han holado
+preterito-pluscuamperfecto:
+  yo: había holado
+  tu: habías holado
+  vos: habías holado
+  ud: había holado
+  nosotros: habíamos holado
+  vosotros: habíais holado
+  uds: habían holado
+futuro-perfecto:
+  yo: habré holado
+  tu: habrás holado
+  vos: habrás holado
+  ud: habrá holado
+  nosotros: habremos holado
+  vosotros: habréis holado
+  uds: habrán holado
+condicional-perfecto:
+  yo: habría holado
+  tu: habrías holado
+  vos: habrías holado
+  ud: habría holado
+  nosotros: habríamos holado
+  vosotros: habríais holado
+  uds: habrían holado
+presente-subjuntivo:
+  yo: huela
+  tu: huelas
+  vos: huelas
+  ud: huela
+  nosotros: huelamos
+  vosotros: holéis
+  uds: huelan
+preterito-perfecto-subjuntivo:
+  yo: haya holado
+  tu: hayas holado
+  vos: hayas holado
+  ud: haya holado
+  nosotros: hayamos holado
+  vosotros: hayáis holado
+  uds: hayan holado
+imperfecto-subjuntivo:
+  yo:
+    - holera
+    - holiese
+  tu:
+    - holeras
+    - holieses
+  vos:
+    - holeras
+    - holieses
+  ud:
+    - holera
+    - holiese
+  nosotros:
+    - holéramos
+    - holésemos
+  vosotros:
+    - holerias
+    - holieseis
+  uds:
+    - holieran
+    - holiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera holado
+    - hubiese holado
+  tu:
+    - hubieras holado
+    - hubieses holado
+  vos:
+    - hubieras holado
+    - hubieses holado
+  ud:
+    - hubiera holado
+    - hubiese holado
+  nosotros:
+    - hubiéramos holado
+    - hubiésemos holado
+  vosotros:
+    - hubierais holado
+    - hubieseis holado
+  uds:
+    - hubieran holado
+    - hubiesen holado
+imperativo:
+  tu: huele
+  vos: huelá
+  ud: huela
+  nosotros: huelamos
+  vosotros: holad
+  uds: huelan

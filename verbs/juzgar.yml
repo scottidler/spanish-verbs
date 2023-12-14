@@ -1,0 +1,142 @@
+infinitivo: juzgar
+gerundio: juzgando
+participio-pasado: juzgado
+presente-indicativo:
+  yo: juzgo
+  tu: juzgas
+  vos: juzgas
+  ud: juzga
+  nosotros: juzgamos
+  vosotros: juzgáis
+  uds: juzgan
+preterito-perfecto-simple:
+  yo: juzgué
+  tu: juzgaste
+  vos: juzgaste
+  ud: juzgó
+  nosotros: juzgamos
+  vosotros: juzgasteis
+  uds: juzgaron
+preterito-imperfecto:
+  yo: juzgaba
+  tu: juzgabas
+  vos: juzgabas
+  ud: juzgaba
+  nosotros: juzgábamos
+  vosotros: juzgabais
+  uds: juzgaban
+futuro-simple:
+  yo: juzgaré
+  tu: juzgarás
+  vos: juzgarás
+  ud: juzgará
+  nosotros: juzgaremos
+  vosotros: juzgaréis
+  uds: juzgarán
+condicional-simple:
+  yo: juzgaría
+  tu: juzgarías
+  vos: juzgarías
+  ud: juzgaría
+  nosotros: juzgaríamos
+  vosotros: juzgaríais
+  uds: juzgarían
+presente-perfecto:
+  yo: he juzgado
+  tu: has juzgado
+  vos: has juzgado
+  ud: ha juzgado
+  nosotros: hemos juzgado
+  vosotros: habéis juzgado
+  uds: han juzgado
+preterito-pluscuamperfecto:
+  yo: había juzgado
+  tu: habías juzgado
+  vos: habías juzgado
+  ud: había juzgado
+  nosotros: habíamos juzgado
+  vosotros: habíais juzgado
+  uds: habían juzgado
+futuro-perfecto:
+  yo: habré juzgado
+  tu: habrás juzgado
+  vos: habrás juzgado
+  ud: habrá juzgado
+  nosotros: habremos juzgado
+  vosotros: habréis juzgado
+  uds: habrán juzgado
+condicional-perfecto:
+  yo: habría juzgado
+  tu: habrías juzgado
+  vos: habrías juzgado
+  ud: habría juzgado
+  nosotros: habríamos juzgado
+  vosotros: habríais juzgado
+  uds: habrían juzgado
+presente-subjuntivo:
+  yo: juzgue
+  tu: juzgues
+  vos: juzgues
+  ud: juzgue
+  nosotros: juzguemos
+  vosotros: juzguéis
+  uds: juzguen
+preterito-perfecto-subjuntivo:
+  yo: haya juzgado
+  tu: hayas juzgado
+  vos: hayas juzgado
+  ud: haya juzgado
+  nosotros: hayamos juzgado
+  vosotros: hayáis juzgado
+  uds: hayan juzgado
+imperfecto-subjuntivo:
+  yo:
+    - juzgara
+    - juzgase
+  tu:
+    - juzgaras
+    - juzgases
+  vos:
+    - juzgaras
+    - juzgases
+  ud:
+    - juzgara
+    - juzgase
+  nosotros:
+    - juzgáramos
+    - juzgásemos
+  vosotros:
+    - juzgarais
+    - juzgaseis
+  uds:
+    - juzgaran
+    - juzgasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera juzgado
+    - hubiese juzgado
+  tu:
+    - hubieras juzgado
+    - hubieses juzgado
+  vos:
+    - hubieras juzgado
+    - hubieses juzgado
+  ud:
+    - hubiera juzgado
+    - hubiese juzgado
+  nosotros:
+    - hubiéramos juzgado
+    - hubiésemos juzgado
+  vosotros:
+    - hubierais juzgado
+    - hubieseis juzgado
+  uds:
+    - hubieran juzgado
+    - hubiesen juzgado
+imperativo:
+  tu: juzga
+  vos: juzgá
+  ud: juzgue
+  nosotros: juzguemos
+  vosotros: juzgad
+  uds: juzguen

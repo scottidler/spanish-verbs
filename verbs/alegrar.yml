@@ -1,0 +1,142 @@
+infinitivo: alegrar
+gerundio: alegrando
+participio-pasado: alegrado
+presente-indicativo:
+  yo: alegro
+  tu: alegras
+  vos: alegras
+  ud: alegra
+  nosotros: alegramos
+  vosotros: alegráis
+  uds: alegran
+preterito-perfecto-simple:
+  yo: alegré
+  tu: alegraste
+  vos: alegraste
+  ud: alegró
+  nosotros: alegramos
+  vosotros: alegrasteis
+  uds: alegraron
+preterito-imperfecto:
+  yo: alegraba
+  tu: alegrabas
+  vos: alegrabas
+  ud: alegraba
+  nosotros: alegrábamos
+  vosotros: alegrabais
+  uds: alegraban
+futuro-simple:
+  yo: alegraré
+  tu: alegrarás
+  vos: alegrarás
+  ud: alegrará
+  nosotros: alegraremos
+  vosotros: alegraréis
+  uds: alegrarán
+condicional-simple:
+  yo: alegraría
+  tu: alegrarías
+  vos: alegrarías
+  ud: alegraría
+  nosotros: alegraríamos
+  vosotros: alegraríais
+  uds: alegrarían
+presente-perfecto:
+  yo: he alegrado
+  tu: has alegrado
+  vos: has alegrado
+  ud: ha alegrado
+  nosotros: hemos alegrado
+  vosotros: habéis alegrado
+  uds: han alegrado
+preterito-pluscuamperfecto:
+  yo: había alegrado
+  tu: habías alegrado
+  vos: habías alegrado
+  ud: había alegrado
+  nosotros: habíamos alegrado
+  vosotros: habíais alegrado
+  uds: habían alegrado
+futuro-perfecto:
+  yo: habré alegrado
+  tu: habrás alegrado
+  vos: habrás alegrado
+  ud: habrá alegrado
+  nosotros: habremos alegrado
+  vosotros: habréis alegrado
+  uds: habrán alegrado
+condicional-perfecto:
+  yo: habría alegrado
+  tu: habrías alegrado
+  vos: habrías alegrado
+  ud: habría alegrado
+  nosotros: habríamos alegrado
+  vosotros: habríais alegrado
+  uds: habrían alegrado
+presente-subjuntivo:
+  yo: alegre
+  tu: alegres
+  vos: alegres
+  ud: alegre
+  nosotros: alegremos
+  vosotros: alegréis
+  uds: alegren
+preterito-perfecto-subjuntivo:
+  yo: haya alegrado
+  tu: hayas alegrado
+  vos: hayas alegrado
+  ud: haya alegrado
+  nosotros: hayamos alegrado
+  vosotros: hayáis alegrado
+  uds: hayan alegrado
+imperfecto-subjuntivo:
+  yo:
+    - alegrara
+    - alegrase
+  tu:
+    - alegraras
+    - alegrases
+  vos:
+    - alegraras
+    - alegrases
+  ud:
+    - alegrara
+    - alegrase
+  nosotros:
+    - alegráramos
+    - alegrásemos
+  vosotros:
+    - alegrarais
+    - alegraseis
+  uds:
+    - alegraran
+    - alegrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alegrado
+    - hubiese alegrado
+  tu:
+    - hubieras alegrado
+    - hubieses alegrado
+  vos:
+    - hubieras alegrado
+    - hubieses alegrado
+  ud:
+    - hubiera alegrado
+    - hubiese alegrado
+  nosotros:
+    - hubiéramos alegrado
+    - hubiésemos alegrado
+  vosotros:
+    - hubierais alegrado
+    - hubieseis alegrado
+  uds:
+    - hubieran alegrado
+    - hubiesen alegrado
+imperativo:
+  tu: alegra
+  vos: alegrá
+  ud: alegre
+  nosotros: alegremos
+  vosotros: alegrad
+  uds: alegren

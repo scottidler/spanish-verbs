@@ -1,0 +1,142 @@
+infinitivo: refrescar
+gerundio: refrescando
+participio-pasado: refrescado
+presente-indicativo:
+  yo: refresco
+  tu: refrescas
+  vos: refrescas
+  ud: refresca
+  nosotros: refrescamos
+  vosotros: refrescáis
+  uds: refrescan
+preterito-perfecto-simple:
+  yo: refresqué
+  tu: refrescaste
+  vos: refrescaste
+  ud: refrescó
+  nosotros: refrescamos
+  vosotros: refrescasteis
+  uds: refrescaron
+preterito-imperfecto:
+  yo: refrescaba
+  tu: refrescabas
+  vos: refrescabas
+  ud: refrescaba
+  nosotros: refrescábamos
+  vosotros: refrescabais
+  uds: refrescaban
+futuro-simple:
+  yo: refrescaré
+  tu: refrescarás
+  vos: refrescarás
+  ud: refrescará
+  nosotros: refrescaremos
+  vosotros: refrescaréis
+  uds: refrescarán
+condicional-simple:
+  yo: refrescaría
+  tu: refrescarías
+  vos: refrescarías
+  ud: refrescaría
+  nosotros: refrescaríamos
+  vosotros: refrescaríais
+  uds: refrescarían
+presente-perfecto:
+  yo: he refrescado
+  tu: has refrescado
+  vos: has refrescado
+  ud: ha refrescado
+  nosotros: hemos refrescado
+  vosotros: habéis refrescado
+  uds: han refrescado
+preterito-pluscuamperfecto:
+  yo: había refrescado
+  tu: habías refrescado
+  vos: habías refrescado
+  ud: había refrescado
+  nosotros: habíamos refrescado
+  vosotros: habíais refrescado
+  uds: habían refrescado
+futuro-perfecto:
+  yo: habré refrescado
+  tu: habrás refrescado
+  vos: habrás refrescado
+  ud: habrá refrescado
+  nosotros: habremos refrescado
+  vosotros: habréis refrescado
+  uds: habrán refrescado
+condicional-perfecto:
+  yo: habría refrescado
+  tu: habrías refrescado
+  vos: habrías refrescado
+  ud: habría refrescado
+  nosotros: habríamos refrescado
+  vosotros: habríais refrescado
+  uds: habrían refrescado
+presente-subjuntivo:
+  yo: refresque
+  tu: refresques
+  vos: refresques
+  ud: refresque
+  nosotros: refresquemos
+  vosotros: refresquéis
+  uds: refresquen
+preterito-perfecto-subjuntivo:
+  yo: haya refrescado
+  tu: hayas refrescado
+  vos: hayas refrescado
+  ud: haya refrescado
+  nosotros: hayamos refrescado
+  vosotros: hayáis refrescado
+  uds: hayan refrescado
+imperfecto-subjuntivo:
+  yo:
+    - refrescara
+    - refrescase
+  tu:
+    - refrescaras
+    - refrescases
+  vos:
+    - refrescaras
+    - refrescases
+  ud:
+    - refrescara
+    - refrescase
+  nosotros:
+    - refrescáramos
+    - refrescásemos
+  vosotros:
+    - refrescarais
+    - refrescaseis
+  uds:
+    - refrescaran
+    - refrescasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera refrescado
+    - hubiese refrescado
+  tu:
+    - hubieras refrescado
+    - hubieses refrescado
+  vos:
+    - hubieras refrescado
+    - hubieses refrescado
+  ud:
+    - hubiera refrescado
+    - hubiese refrescado
+  nosotros:
+    - hubiéramos refrescado
+    - hubiésemos refrescado
+  vosotros:
+    - hubierais refrescado
+    - hubieseis refrescado
+  uds:
+    - hubieran refrescado
+    - hubiesen refrescado
+imperativo:
+  tu: refresca
+  vos: refrescá
+  ud: refresque
+  nosotros: refresquemos
+  vosotros: refrescad
+  uds: refresquen

@@ -1,0 +1,142 @@
+infinitivo: crispar
+gerundio: crispar
+participio-pasado: crispado
+presente-indicativo:
+  yo: crispo
+  tu: crispas
+  vos: crispas
+  ud: crispa
+  nosotros: crisparamos
+  vosotros: crispáis
+  uds: crispan
+preterito-perfecto-simple:
+  yo: crespé
+  tu: crespaste
+  vos: crespaste
+  ud: crespó
+  nosotros: crisparamos
+  vosotros: crepasteis
+  uds: crisparon
+preterito-imperfecto:
+  yo: crispaba
+  tu: crispabas
+  vos: crispabas
+  ud: crispaba
+  nosotros: crispábamos
+  vosotros: crispabais
+  uds: crispaban
+futuro-simple:
+  yo: crisparé
+  tu: crisparás
+  vos: crisparás
+  ud: crispará
+  nosotros: crisparemos
+  vosotros: crisparéis
+  uds: crisparán
+condicional-simple:
+  yo: crisparía
+  tu: crisparías
+  vos: crisparías
+  ud: crisparía
+  nosotros: crisparíamos
+  vosotros: crisparíais
+  uds: crisparían
+presente-perfecto:
+  yo: he crispado
+  tu: has crispado
+  vos: has crispado
+  ud: ha crispado
+  nosotros: hemos crispado
+  vosotros: habéis crispado
+  uds: han crispado
+preterito-pluscuamperfecto:
+  yo: había crispado
+  tu: habías crispado
+  vos: habías crispado
+  ud: había crispado
+  nosotros: habíamos crispado
+  vosotros: habíais crispado
+  uds: habían crispado
+futuro-perfecto:
+  yo: habré crispado
+  tu: habrás crispado
+  vos: habrás crispado
+  ud: habrá crispado
+  nosotros: habremos crispado
+  vosotros: habréis crispado
+  uds: habrán crispado
+condicional-perfecto:
+  yo: habría crispado
+  tu: habrías crispado
+  vos: habrías crispado
+  ud: habría crispado
+  nosotros: habríamos crispado
+  vosotros: habríais crispado
+  uds: habrían crispado
+presente-subjuntivo:
+  yo: crispe
+  tu: crispes
+  vos: crispes
+  ud: crispe
+  nosotros: crispemos
+  vosotros: crispéis
+  uds: crispen
+preterito-perfecto-subjuntivo:
+  yo: haya crispado
+  tu: hayas crispado
+  vos: hayas crispado
+  ud: haya crispado
+  nosotros: hayamos crispado
+  vosotros: hayáis crispado
+  uds: hayan crispado
+imperfecto-subjuntivo:
+  yo:
+    - crispara
+    - crisbase
+  tu:
+    - crisparas
+    - crisbases
+  vos:
+    - crisparas
+    - crisbases
+  ud:
+    - crispara
+    - crisbase
+  nosotros:
+    - crispáramos
+    - crispásemos
+  vosotros:
+    - crisparais
+    - crisbaseis
+  uds:
+    - crisparan
+    - crisbasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera crispado
+    - hubiese crispado
+  tu:
+    - hubieras crispado
+    - hubieses crispado
+  vos:
+    - hubieras crispado
+    - hubieses crispado
+  ud:
+    - hubiera crispado
+    - hubiese crispado
+  nosotros:
+    - hubiéramos crispado
+    - hubiésemos crispado
+  vosotros:
+    - hubierais crispado
+    - hubieseis crispado
+  uds:
+    - hubieran crispado
+    - hubiesen crispado
+imperativo:
+  tu: crispa
+  vos: crispá
+  ud: crispe
+  nosotros: crispemos
+  vosotros: crispad
+  uds: crispen

@@ -1,0 +1,142 @@
+infinitivo: sumar
+gerundio: sumando
+participio-pasado: sumado
+presente-indicativo:
+  yo: sumo
+  tu: sumas
+  vos: sumas
+  ud: suma
+  nosotros: sumamos
+  vosotros: sumáis
+  uds: suman
+preterito-perfecto-simple:
+  yo: sumé
+  tu: sumaste
+  vos: sumaste
+  ud: sumó
+  nosotros: sumamos
+  vosotros: sumasteis
+  uds: sumaron
+preterito-imperfecto:
+  yo: sumaba
+  tu: sumabas
+  vos: sumabas
+  ud: sumaba
+  nosotros: sumábamos
+  vosotros: sumabais
+  uds: sumaban
+futuro-simple:
+  yo: sumaré
+  tu: sumarás
+  vos: sumarás
+  ud: sumará
+  nosotros: sumaremos
+  vosotros: sumaréis
+  uds: sumarán
+condicional-simple:
+  yo: sumaría
+  tu: sumarías
+  vos: sumarías
+  ud: sumaría
+  nosotros: sumaríamos
+  vosotros: sumaríais
+  uds: sumarían
+presente-perfecto:
+  yo: he sumado
+  tu: has sumado
+  vos: has sumado
+  ud: ha sumado
+  nosotros: hemos sumado
+  vosotros: habéis sumado
+  uds: han sumado
+preterito-pluscuamperfecto:
+  yo: había sumado
+  tu: habías sumado
+  vos: habías sumado
+  ud: había sumado
+  nosotros: habíamos sumado
+  vosotros: habíais sumado
+  uds: habían sumado
+futuro-perfecto:
+  yo: habré sumado
+  tu: habrás sumado
+  vos: habrás sumado
+  ud: habrá sumado
+  nosotros: habremos sumado
+  vosotros: habréis sumado
+  uds: habrán sumado
+condicional-perfecto:
+  yo: habría sumado
+  tu: habrías sumado
+  vos: habrías sumado
+  ud: habría sumado
+  nosotros: habríamos sumado
+  vosotros: habríais sumado
+  uds: habrían sumado
+presente-subjuntivo:
+  yo: sume
+  tu: sumes
+  vos: sumes
+  ud: sume
+  nosotros: sumemos
+  vosotros: suméis
+  uds: sumen
+preterito-perfecto-subjuntivo:
+  yo: haya sumado
+  tu: hayas sumado
+  vos: hayas sumado
+  ud: haya sumado
+  nosotros: hayamos sumado
+  vosotros: hayáis sumado
+  uds: hayan sumado
+imperfecto-subjuntivo:
+  yo:
+    - sumara
+    - sumase
+  tu:
+    - sumaras
+    - sumases
+  vos:
+    - sumaras
+    - sumases
+  ud:
+    - sumara
+    - sumase
+  nosotros:
+    - sumáramos
+    - sumásemos
+  vosotros:
+    - sumarais
+    - sumaseis
+  uds:
+    - sumaran
+    - sumasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sumado
+    - hubiese sumado
+  tu:
+    - hubieras sumado
+    - hubieses sumado
+  vos:
+    - hubieras sumado
+    - hubieses sumado
+  ud:
+    - hubiera sumado
+    - hubiese sumado
+  nosotros:
+    - hubiéramos sumado
+    - hubiésemos sumado
+  vosotros:
+    - hubierais sumado
+    - hubieseis sumado
+  uds:
+    - hubieran sumado
+    - hubiesen sumado
+imperativo:
+  tu: suma
+  vos: sumá
+  ud: sume
+  nosotros: sumemos
+  vosotros: sumad
+  uds: sumen

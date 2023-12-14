@@ -1,0 +1,147 @@
+infinitivo: librar
+gerundio: librando
+participio-pasado: librado
+presente-indicativo:
+  yo: libro
+  tu: libras
+  vos: libras
+  ud: libra
+  nosotros: libramos
+  vosotros: libráis
+  uds: libran
+preterito-perfecto-simple:
+  yo: libré
+  tu: libraste
+  vos: libraste
+  ud: libró
+  nosotros: libramos
+  vosotros: librasteis
+  uds: libraron
+preterito-imperfecto:
+  yo: libraba
+  tu: librabas
+  vos: librabas
+  ud: libraba
+  nosotros: librábamos
+  vosotros: librabais
+  uds: libraban
+futuro-simple:
+  yo: libraré
+  tu: librarás
+  vos: librarás
+  ud: librará
+  nosotros: libraremos
+  vosotros: libraréis
+  uds: librarán
+condicional-simple:
+  yo: libraría
+  tu: librarías
+  vos: librarías
+  ud: libraría
+  nosotros: libraríamos
+  vosotros: libraríais
+  uds: librarían
+presente-perfecto:
+  yo: he librado
+  tu: has librado
+  vos: has librado
+  ud: ha librado
+  nosotros: hemos librado
+  vosotros: habéis librado
+  uds: han librado
+preterito-pluscuamperfecto:
+  yo: había librado
+  tu: habías librado
+  vos: habías librado
+  ud: había librado
+  nosotros: habíamos librado
+  vosotros: habíais librado
+  uds: habían librado
+futuro-perfecto:
+  yo: habré librado
+  tu: habrás librado
+  vos: habrás librado
+  ud: habrá librado
+  nosotros: habremos librado
+  vosotros: habréis librado
+  uds: habrán librado
+condicional-perfecto:
+  yo: habría librado
+  tu: habrías librado
+  vos: habrías librado
+  ud: habría librado
+  nosotros: habríamos librado
+  vosotros: habríais librado
+  uds: habrían librado
+presente-subjuntivo:
+  yo: libre
+  tu: libres
+  vos: libres
+  ud: libre
+  nosotros: liberamos
+  vosotros: libréis
+  uds: libren
+preterito-perfecto-subjuntivo:
+  yo: haya librado
+  tu: hayas librado
+  vos: hayas librado
+  ud: haya librado
+  nosotros: hayamos librado
+  vosotros: hayáis librado
+  uds: hayan librado
+imperfecto-subjuntivo:
+  yo:
+    - librara
+    - librase
+  tu:
+    - libraras
+    - librases
+  vos:
+    - libraras
+    - librases
+  ud:
+    - librara
+    - librase
+  nosotros:
+    - libraramos
+    - liberáramos
+    - librásemos
+  vosotros:
+    - librarais
+    - libraseis
+    - liberarais
+    - libraseis
+  uds:
+    - libraran
+    - librasen
+    - liberaran
+    - librasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera librado
+    - hubiese librado
+  tu:
+    - hubieras librado
+    - hubieses librado
+  vos:
+    - hubieras librado
+    - hubieses librado
+  ud:
+    - hubiera librado
+    - hubiese librado
+  nosotros:
+    - hubiéramos librado
+    - hubiésemos librado
+  vosotros:
+    - hubierais librado
+    - hubieseis librado
+  uds:
+    - hubieran librado
+    - hubiesen librado
+imperativo:
+  tu: libra
+  vos: librá
+  ud: libre
+  nosotros: liberamos
+  vosotros: librad
+  uds: libren

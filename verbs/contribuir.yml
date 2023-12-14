@@ -1,0 +1,142 @@
+infinitivo: contribuir
+gerundio: contribuyendo
+participio-pasado: contribuido
+presente-indicativo:
+  yo: contribuyo
+  tu: contribuyes
+  vos: contribuís
+  ud: contribuye
+  nosotros: contribuimos
+  vosotros: contribuís
+  uds: contribuyen
+preterito-perfecto-simple:
+  yo: contribuí
+  tu: contribuiste
+  vos: contribuiste
+  ud: contribuyó
+  nosotros: contribuimos
+  vosotros: contribuisteis
+  uds: contribuyeron
+preterito-imperfecto:
+  yo: contribuía
+  tu: contribuías
+  vos: contribuías
+  ud: contribuía
+  nosotros: contribuíamos
+  vosotros: contribuíais
+  uds: contribuían
+futuro-simple:
+  yo: contribuiré
+  tu: contribuirás
+  vos: contribuirás
+  ud: contribuirá
+  nosotros: contribuiremos
+  vosotros: contribuiréis
+  uds: contribuirán
+condicional-simple:
+  yo: contribuiría
+  tu: contribuirías
+  vos: contribuirías
+  ud: contribuiría
+  nosotros: contribuiríamos
+  vosotros: contribuiríais
+  uds: contribuirían
+presente-perfecto:
+  yo: he contribuido
+  tu: has contribuido
+  vos: has contribuido
+  ud: ha contribuido
+  nosotros: hemos contribuido
+  vosotros: habéis contribuido
+  uds: han contribuido
+preterito-pluscuamperfecto:
+  yo: había contribuido
+  tu: habías contribuido
+  vos: habías contribuido
+  ud: había contribuido
+  nosotros: habíamos contribuido
+  vosotros: habíais contribuido
+  uds: habían contribuido
+futuro-perfecto:
+  yo: habré contribuido
+  tu: habrás contribuido
+  vos: habrás contribuido
+  ud: habrá contribuido
+  nosotros: habremos contribuido
+  vosotros: habréis contribuido
+  uds: habrán contribuido
+condicional-perfecto:
+  yo: habría contribuido
+  tu: habrías contribuido
+  vos: habrías contribuido
+  ud: habría contribuido
+  nosotros: habríamos contribuido
+  vosotros: habríais contribuido
+  uds: habrían contribuido
+presente-subjuntivo:
+  yo: contribuya
+  tu: contribuyas
+  vos: contribuyas
+  ud: contribuya
+  nosotros: contribuyamos
+  vosotros: contribuyáis
+  uds: contribuyan
+preterito-perfecto-subjuntivo:
+  yo: haya contribuido
+  tu: hayas contribuido
+  vos: hayas contribuido
+  ud: haya contribuido
+  nosotros: hayamos contribuido
+  vosotros: hayáis contribuido
+  uds: hayan contribuido
+imperfecto-subjuntivo:
+  yo:
+    - contribuyera
+    - contribuyese
+  tu:
+    - contribuyeras
+    - contribuyeses
+  vos:
+    - contribuyeras
+    - contribuyeses
+  ud:
+    - contribuyera
+    - contribuyese
+  nosotros:
+    - contribuyéramos
+    - contribuyésemos
+  vosotros:
+    - contribuyerais
+    - contribuyeseis
+  uds:
+    - contribuyeran
+    - contribuyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera contribuido
+    - hubiese contribuido
+  tu:
+    - hubieras contribuido
+    - hubieses contribuido
+  vos:
+    - hubieras contribuido
+    - hubieses contribuido
+  ud:
+    - hubiera contribuido
+    - hubiese contribuido
+  nosotros:
+    - hubiéramos contribuido
+    - hubiésemos contribuido
+  vosotros:
+    - hubierais contribuido
+    - hubieseis contribuido
+  uds:
+    - hubieran contribuido
+    - hubiesen contribuido
+imperativo:
+  tu: contribuye
+  vos: contribuí
+  ud: contribuya
+  nosotros: contribuyamos
+  vosotros: contribuid
+  uds: contribuyan

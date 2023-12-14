@@ -1,0 +1,142 @@
+infinitivo: oscurecer
+gerundio: oscureciendo
+participio-pasado: oscurecido
+presente-indicativo:
+  yo: oscurezco
+  tu: oscureces
+  vos: oscurecés
+  ud: oscurece
+  nosotros: oscurecemos
+  vosotros: oscurecéis
+  uds: oscurecen
+preterito-perfecto-simple:
+  yo: oscurecí
+  tu: oscureciste
+  vos: oscureciste
+  ud: oscureció
+  nosotros: oscurecimos
+  vosotros: oscurecisteis
+  uds: oscurecieron
+preterito-imperfecto:
+  yo: oscurecía
+  tu: oscurecías
+  vos: oscurecías
+  ud: oscurecía
+  nosotros: oscurecíamos
+  vosotros: oscurecíais
+  uds: oscurecían
+futuro-simple:
+  yo: oscureceré
+  tu: oscurecerás
+  vos: oscurecerás
+  ud: oscurecerá
+  nosotros: oscureceremos
+  vosotros: oscureceréis
+  uds: oscurecerán
+condicional-simple:
+  yo: oscurecería
+  tu: oscurecerías
+  vos: oscurecerías
+  ud: oscurecería
+  nosotros: oscureceríamos
+  vosotros: oscureceríais
+  uds: oscurecerían
+presente-perfecto:
+  yo: he oscurecido
+  tu: has oscurecido
+  vos: has oscurecido
+  ud: ha oscurecido
+  nosotros: hemos oscurecido
+  vosotros: habéis oscurecido
+  uds: han oscurecido
+preterito-pluscuamperfecto:
+  yo: había oscurecido
+  tu: habías oscurecido
+  vos: habías oscurecido
+  ud: había oscurecido
+  nosotros: habíamos oscurecido
+  vosotros: habíais oscurecido
+  uds: habían oscurecido
+futuro-perfecto:
+  yo: habré oscurecido
+  tu: habrás oscurecido
+  vos: habrás oscurecido
+  ud: habrá oscurecido
+  nosotros: habremos oscurecido
+  vosotros: habréis oscurecido
+  uds: habrán oscurecido
+condicional-perfecto:
+  yo: habría oscurecido
+  tu: habrías oscurecido
+  vos: habrías oscurecido
+  ud: habría oscurecido
+  nosotros: habríamos oscurecido
+  vosotros: habríais oscurecido
+  uds: habrían oscurecido
+presente-subjuntivo:
+  yo: oscurezca
+  tu: oscurezcas
+  vos: oscurezcas
+  ud: oscurezca
+  nosotros: oscurezcamos
+  vosotros: oscurezcáis
+  uds: oscurezcan
+preterito-perfecto-subjuntivo:
+  yo: haya oscurecido
+  tu: hayas oscurecido
+  vos: hayas oscurecido
+  ud: haya oscurecido
+  nosotros: hayamos oscurecido
+  vosotros: hayáis oscurecido
+  uds: hayan oscurecido
+imperfecto-subjuntivo:
+  yo:
+    - oscureciera
+    - oscureciese
+  tu:
+    - oscurecieras
+    - oscurecieses
+  vos:
+    - oscurecieras
+    - oscurecieses
+  ud:
+    - oscureciera
+    - oscureciese
+  nosotros:
+    - oscureciéramos
+    - oscureciésemos
+  vosotros:
+    - oscurecierais
+    - oscurecieseis
+  uds:
+    - oscurecieran
+    - oscureciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera oscurecido
+    - hubiese oscurecido
+  tu:
+    - hubieras oscurecido
+    - hubieses oscurecido
+  vos:
+    - hubieras oscurecido
+    - hubieses oscurecido
+  ud:
+    - hubiera oscurecido
+    - hubiese oscurecido
+  nosotros:
+    - hubiéramos oscurecido
+    - hubiésemos oscurecido
+  vosotros:
+    - hubierais oscurecido
+    - hubieseis oscurecido
+  uds:
+    - hubieran oscurecido
+    - hubiesen oscurecido
+imperativo:
+  tu: oscurece
+  vos: oscurecé
+  ud: oscurezca
+  nosotros: oscurezcamos
+  vosotros: oscureced
+  uds: oscurezcan

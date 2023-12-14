@@ -1,0 +1,142 @@
+infinitivo: posarse
+gerundio: posándose
+participio-pasado: posado
+presente-indicativo:
+  yo: me poso
+  tu: te posas
+  vos: te posas
+  ud: se posa
+  nosotros: nos posamos
+  vosotros: os posáis
+  uds: se posan
+preterito-perfecto-simple:
+  yo: me posé
+  tu: te posaste
+  vos: te posaste
+  ud: se posó
+  nosotros: nos posamos
+  vosotros: os posasteis
+  uds: se posaron
+preterito-imperfecto:
+  yo: me posaba
+  tu: te posabas
+  vos: te posabas
+  ud: se posaba
+  nosotros: nos posábamos
+  vosotros: os posabais
+  uds: se posaban
+futuro-simple:
+  yo: me posaré
+  tu: te posarás
+  vos: te posarás
+  ud: se posará
+  nosotros: nos posaremos
+  vosotros: os posaréis
+  uds: se posarán
+condicional-simple:
+  yo: me posaría
+  tu: te posarías
+  vos: te posarías
+  ud: se posaría
+  nosotros: nos posaríamos
+  vosotros: os posaríais
+  uds: se posarían
+presente-perfecto:
+  yo: me he posado
+  tu: te has posado
+  vos: te has posado
+  ud: se ha posado
+  nosotros: nos hemos posado
+  vosotros: os habéis posado
+  uds: se han posado
+preterito-pluscuamperfecto:
+  yo: me había posado
+  tu: te habías posado
+  vos: te habías posado
+  ud: se había posado
+  nosotros: nos habíamos posado
+  vosotros: os habíais posado
+  uds: se habían posado
+futuro-perfecto:
+  yo: me habré posado
+  tu: te habrás posado
+  vos: te habrás posado
+  ud: se habrá posado
+  nosotros: nos habremos posado
+  vosotros: os habréis posado
+  uds: se habrán posado
+condicional-perfecto:
+  yo: me habría posado
+  tu: te habrías posado
+  vos: te habrías posado
+  ud: se habría posado
+  nosotros: nos habríamos posado
+  vosotros: os habríais posado
+  uds: se habrían posado
+presente-subjuntivo:
+  yo: me pose
+  tu: te poses
+  vos: te poses
+  ud: se pose
+  nosotros: nos posemos
+  vosotros: os poseáis
+  uds: se posen
+preterito-perfecto-subjuntivo:
+  yo: me haya posado
+  tu: te hayas posado
+  vos: te hayas posado
+  ud: se haya posado
+  nosotros: nos hayamos posado
+  vosotros: os hayáis posado
+  uds: se hayan posado
+imperfecto-subjuntivo:
+  yo:
+    - me posara
+    - me posase
+  tu:
+    - posaras
+    - posases
+  vos:
+    - posaras
+    - posases
+  ud:
+    - posara
+    - posase
+  nosotros:
+    - posáramos
+    - posásemos
+  vosotros:
+    - posarais
+    - posaseis
+  uds:
+    - posaran
+    - posasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera posado
+    - me hubiese posado
+  tu:
+    - te hubieras posado
+    - te hubieses posado
+  vos:
+    - te hubieras posado
+    - te hubieses posado
+  ud:
+    - se hubiera posado
+    - se hubiese posado
+  nosotros:
+    - nos hubiéramos posado
+    - nos hubiésemos posado
+  vosotros:
+    - os hubierais posado
+    - os hubieseis posado
+  uds:
+    - se hubieran posado
+    - se hubiesen posado
+imperativo:
+  tu: posate
+  vos: posáte
+  ud: pose
+  nosotros: posemos
+  vosotros: posaos
+  uds: posen

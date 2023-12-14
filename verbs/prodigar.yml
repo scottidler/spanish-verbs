@@ -1,0 +1,142 @@
+infinitivo: prodigar
+gerundio: prodigando
+participio-pasado: prodigado
+presente-indicativo:
+  yo: prodigo
+  tu: prodigas
+  vos: prodigas
+  ud: prodiga
+  nosotros: prodigamos
+  vosotros: prodigáis
+  uds: prodigan
+preterito-perfecto-simple:
+  yo: prodigué
+  tu: prodigaste
+  vos: prodigaste
+  ud: prodigó
+  nosotros: prodigamos
+  vosotros: prodigasteis
+  uds: prodigaron
+preterito-imperfecto:
+  yo: prodigaba
+  tu: prodigabas
+  vos: prodigabas
+  ud: prodigaba
+  nosotros: prodigábamos
+  vosotros: prodigabais
+  uds: prodigaban
+futuro-simple:
+  yo: prodigaré
+  tu: prodigarás
+  vos: prodigarás
+  ud: prodigará
+  nosotros: prodigaremos
+  vosotros: prodigaréis
+  uds: prodigarán
+condicional-simple:
+  yo: prodigaría
+  tu: prodigarías
+  vos: prodigarías
+  ud: prodigaría
+  nosotros: prodigaríamos
+  vosotros: prodigaríais
+  uds: prodigarían
+presente-perfecto:
+  yo: he prodigado
+  tu: has prodigado
+  vos: has prodigado
+  ud: ha prodigado
+  nosotros: hemos prodigado
+  vosotros: habéis prodigado
+  uds: han prodigado
+preterito-pluscuamperfecto:
+  yo: había prodigado
+  tu: habías prodigado
+  vos: habías prodigado
+  ud: había prodigado
+  nosotros: habíamos prodigado
+  vosotros: habíais prodigado
+  uds: habían prodigado
+futuro-perfecto:
+  yo: habré prodigado
+  tu: habrás prodigado
+  vos: habrás prodigado
+  ud: habrá prodigado
+  nosotros: habremos prodigado
+  vosotros: habréis prodigado
+  uds: habrán prodigado
+condicional-perfecto:
+  yo: habría prodigado
+  tu: habrías prodigado
+  vos: habrías prodigado
+  ud: habría prodigado
+  nosotros: habríamos prodigado
+  vosotros: habríais prodigado
+  uds: habrían prodigado
+presente-subjuntivo:
+  yo: prodigue
+  tu: prodigues
+  vos: prodigues
+  ud: prodigue
+  nosotros: prodiguemos
+  vosotros: prodiguéis
+  uds: prodiguen
+preterito-perfecto-subjuntivo:
+  yo: haya prodigado
+  tu: hayas prodigado
+  vos: hayas prodigado
+  ud: haya prodigado
+  nosotros: hayamos prodigado
+  vosotros: hayáis prodigado
+  uds: hayan prodigado
+imperfecto-subjuntivo:
+  yo:
+    - prodigara
+    - prodigase
+  tu:
+    - prodigaras
+    - prodigases
+  vos:
+    - prodigaras
+    - prodigases
+  ud:
+    - prodigara
+    - prodigase
+  nosotros:
+    - prodigáramos
+    - prodigásemos
+  vosotros:
+    - prodigarais
+    - prodigaseis
+  uds:
+    - prodigaran
+    - prodigasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera prodigado
+    - hubiese prodigado
+  tu:
+    - hubieras prodigado
+    - hubieses prodigado
+  vos:
+    - hubieras prodigado
+    - hubieses prodigado
+  ud:
+    - hubiera prodigado
+    - hubiese prodigado
+  nosotros:
+    - hubiéramos prodigado
+    - hubiésemos prodigado
+  vosotros:
+    - hubierais prodigado
+    - hubieseis prodigado
+  uds:
+    - hubieran prodigado
+    - hubiesen prodigado
+imperativo:
+  tu: prodiga
+  vos: prodigá
+  ud: prodigue
+  nosotros: prodiguemos
+  vosotros: prodigad
+  uds: prodiguen

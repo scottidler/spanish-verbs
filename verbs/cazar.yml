@@ -1,0 +1,142 @@
+infinitivo: cazar
+gerundio: cazando
+participio-pasado: cazado
+presente-indicativo:
+  yo: cazo
+  tu: cazas
+  vos: cazas
+  ud: caza
+  nosotros: cazamos
+  vosotros: cazáis
+  uds: cazan
+preterito-perfecto-simple:
+  yo: cacé
+  tu: cazaste
+  vos: cazaste
+  ud: cazó
+  nosotros: cazamos
+  vosotros: cazasteis
+  uds: cazaron
+preterito-imperfecto:
+  yo: cazaba
+  tu: cazabas
+  vos: cazabas
+  ud: cazaba
+  nosotros: cazábamos
+  vosotros: cazabais
+  uds: cazaban
+futuro-simple:
+  yo: cazaré
+  tu: cazarás
+  vos: cazarás
+  ud: cazará
+  nosotros: cazaremos
+  vosotros: cazaréis
+  uds: cazarán
+condicional-simple:
+  yo: cazaría
+  tu: cazarías
+  vos: cazarías
+  ud: cazaría
+  nosotros: cazaríamos
+  vosotros: cazaríais
+  uds: cazarían
+presente-perfecto:
+  yo: he cazado
+  tu: has cazado
+  vos: has cazado
+  ud: ha cazado
+  nosotros: hemos cazado
+  vosotros: habéis cazado
+  uds: han cazado
+preterito-pluscuamperfecto:
+  yo: había cazado
+  tu: habías cazado
+  vos: habías cazado
+  ud: había cazado
+  nosotros: habíamos cazado
+  vosotros: habíais cazado
+  uds: habían cazado
+futuro-perfecto:
+  yo: habré cazado
+  tu: habrás cazado
+  vos: habrás cazado
+  ud: habrá cazado
+  nosotros: habremos cazado
+  vosotros: habréis cazado
+  uds: habrán cazado
+condicional-perfecto:
+  yo: habría cazado
+  tu: habrías cazado
+  vos: habrías cazado
+  ud: habría cazado
+  nosotros: habríamos cazado
+  vosotros: habríais cazado
+  uds: habrían cazado
+presente-subjuntivo:
+  yo: cace
+  tu: caces
+  vos: caces
+  ud: cace
+  nosotros: cacemos
+  vosotros: cacéis
+  uds: cacen
+preterito-perfecto-subjuntivo:
+  yo: haya cazado
+  tu: hayas cazado
+  vos: hayas cazado
+  ud: haya cazado
+  nosotros: hayamos cazado
+  vosotros: hayáis cazado
+  uds: hayan cazado
+imperfecto-subjuntivo:
+  yo:
+    - cazara
+    - cazase
+  tu:
+    - cazaras
+    - cazases
+  vos:
+    - cazaras
+    - cazases
+  ud:
+    - cazara
+    - cazase
+  nosotros:
+    - cazáramos
+    - cazásemos
+  vosotros:
+    - cazarais
+    - cazaseis
+  uds:
+    - cazaran
+    - cazasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cazado
+    - hubiese cazado
+  tu:
+    - hubieras cazado
+    - hubieses cazado
+  vos:
+    - hubieras cazado
+    - hubieses cazado
+  ud:
+    - hubiera cazado
+    - hubiese cazado
+  nosotros:
+    - hubiéramos cazado
+    - hubiésemos cazado
+  vosotros:
+    - hubierais cazado
+    - hubieseis cazado
+  uds:
+    - hubieran cazado
+    - hubiesen cazado
+imperativo:
+  tu: caza
+  vos: cazá
+  ud: caze
+  nosotros: cacemos
+  vosotros: cazad
+  uds: cacen

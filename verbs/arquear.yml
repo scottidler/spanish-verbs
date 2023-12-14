@@ -1,0 +1,142 @@
+infinitivo: arquear
+gerundio: arqueando
+participio-pasado: arqueado
+presente-indicativo:
+  yo: arqueo
+  tu: arqueas
+  vos: arqueas
+  ud: arquea
+  nosotros: arqueamos
+  vosotros: arqueáis
+  uds: arquean
+preterito-perfecto-simple:
+  yo: arqueé
+  tu: arqueaste
+  vos: arqueaste
+  ud: arqueó
+  nosotros: arqueamos
+  vosotros: arqueasteis
+  uds: arquearon
+preterito-imperfecto:
+  yo: arqueaba
+  tu: arqueabas
+  vos: arqueabas
+  ud: arqueaba
+  nosotros: arqueábamos
+  vosotros: arqueabais
+  uds: arqueaban
+futuro-simple:
+  yo: arquearé
+  tu: arquearás
+  vos: arquearás
+  ud: arqueará
+  nosotros: arquearemos
+  vosotros: arquearéis
+  uds: arquearán
+condicional-simple:
+  yo: arquearía
+  tu: arquearías
+  vos: arquearías
+  ud: arquearía
+  nosotros: arquearíamos
+  vosotros: arquearíais
+  uds: arquearían
+presente-perfecto:
+  yo: he arqueado
+  tu: has arqueado
+  vos: has arqueado
+  ud: ha arqueado
+  nosotros: hemos arqueado
+  vosotros: habéis arqueado
+  uds: han arqueado
+preterito-pluscuamperfecto:
+  yo: había arqueado
+  tu: habías arqueado
+  vos: habías arqueado
+  ud: había arqueado
+  nosotros: habíamos arqueado
+  vosotros: habíais arqueado
+  uds: habían arqueado
+futuro-perfecto:
+  yo: habré arqueado
+  tu: habrás arqueado
+  vos: habrás arqueado
+  ud: habrá arqueado
+  nosotros: habremos arqueado
+  vosotros: habréis arqueado
+  uds: habrán arqueado
+condicional-perfecto:
+  yo: habría arqueado
+  tu: habrías arqueado
+  vos: habrías arqueado
+  ud: habría arqueado
+  nosotros: habríamos arqueado
+  vosotros: habríais arqueado
+  uds: habrían arqueado
+presente-subjuntivo:
+  yo: arquee
+  tu: arquees
+  vos: arquees
+  ud: arquee
+  nosotros: arqueemos
+  vosotros: arqueéis
+  uds: arqueen
+preterito-perfecto-subjuntivo:
+  yo: haya arqueado
+  tu: hayas arqueado
+  vos: hayas arqueado
+  ud: haya arqueado
+  nosotros: hayamos arqueado
+  vosotros: hayáis arqueado
+  uds: hayan arqueado
+imperfecto-subjuntivo:
+  yo:
+    - arqueara
+    - arquease
+  tu:
+    - arquearas
+    - arqueases
+  vos:
+    - arquearas
+    - arqueases
+  ud:
+    - arqueara
+    - arquease
+  nosotros:
+    - arqueáramos
+    - arqueásemos
+  vosotros:
+    - arquearais
+    - arqueaseis
+  uds:
+    - arquearan
+    - arqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arqueado
+    - hubiese arqueado
+  tu:
+    - hubieras arqueado
+    - hubieses arqueado
+  vos:
+    - hubieras arqueado
+    - hubieses arqueado
+  ud:
+    - hubiera arqueado
+    - hubiese arqueado
+  nosotros:
+    - hubiéramos arqueado
+    - hubiésemos arqueado
+  vosotros:
+    - hubierais arqueado
+    - hubieseis arqueado
+  uds:
+    - hubieran arqueado
+    - hubiesen arqueado
+imperativo:
+  tu: arquea
+  vos: arqueá
+  ud: arquee
+  nosotros: arqueemos
+  vosotros: arquead
+  uds: arqueen

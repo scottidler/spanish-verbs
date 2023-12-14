@@ -1,0 +1,142 @@
+infinitivo: resplandecer
+gerundio: resplandeciendo
+participio-pasado: resplandecido
+presente-indicativo:
+  yo: resplandezco
+  tu: resplandeces
+  vos: resplandeces
+  ud: resplandece
+  nosotros: resplandecemos
+  vosotros: resplandecéis
+  uds: resplandecen
+preterito-perfecto-simple:
+  yo: resplandecí
+  tu: resplandeciste
+  vos: resplandeciste
+  ud: resplandeció
+  nosotros: resplandecimos
+  vosotros: resplandecisteis
+  uds: resplandecieron
+preterito-imperfecto:
+  yo: resplandecía
+  tu: resplandecías
+  vos: resplandecías
+  ud: resplandecía
+  nosotros: resplandecíamos
+  vosotros: resplandecíais
+  uds: resplandecían
+futuro-simple:
+  yo: resplandeceré
+  tu: resplandecerás
+  vos: resplandecerás
+  ud: resplandecerá
+  nosotros: resplandeceremos
+  vosotros: resplandeceréis
+  uds: resplandecerán
+condicional-simple:
+  yo: resplandecería
+  tu: resplandecerías
+  vos: resplandecerías
+  ud: resplandecería
+  nosotros: resplandeceríamos
+  vosotros: resplandeceríais
+  uds: resplandecerían
+presente-perfecto:
+  yo: he resplandecido
+  tu: has resplandecido
+  vos: has resplandecido
+  ud: ha resplandecido
+  nosotros: hemos resplandecido
+  vosotros: habéis resplandecido
+  uds: han resplandecido
+preterito-pluscuamperfecto:
+  yo: había resplandecido
+  tu: habías resplandecido
+  vos: habías resplandecido
+  ud: había resplandecido
+  nosotros: habíamos resplandecido
+  vosotros: habíais resplandecido
+  uds: habían resplandecido
+futuro-perfecto:
+  yo: habré resplandecido
+  tu: habrás resplandecido
+  vos: habrás resplandecido
+  ud: habrá resplandecido
+  nosotros: habremos resplandecido
+  vosotros: habréis resplandecido
+  uds: habrán resplandecido
+condicional-perfecto:
+  yo: habría resplandecido
+  tu: habrías resplandecido
+  vos: habrías resplandecido
+  ud: habría resplandecido
+  nosotros: habríamos resplandecido
+  vosotros: habríais resplandecido
+  uds: habrían resplandecido
+presente-subjuntivo:
+  yo: resplandezca
+  tu: resplandezcas
+  vos: resplandezcas
+  ud: resplandezca
+  nosotros: resplandezcamos
+  vosotros: resplandezcáis
+  uds: resplandezcan
+preterito-perfecto-subjuntivo:
+  yo: haya resplandecido
+  tu: hayas resplandecido
+  vos: hayas resplandecido
+  ud: haya resplandecido
+  nosotros: hayamos resplandecido
+  vosotros: hayáis resplandecido
+  uds: hayan resplandecido
+imperfecto-subjuntivo:
+  yo:
+    - resplandeciera
+    - resplandeciese
+  tu:
+    - resplandecieras
+    - resplandecieses
+  vos:
+    - resplandecieras
+    - resplandecieses
+  ud:
+    - resplandeciera
+    - resplandeciese
+  nosotros:
+    - resplandeceíramos
+    - resplandeceísemos
+  vosotros:
+    - resplandecierais
+    - resplandecieseis
+  uds:
+    - resplandecieran
+    - resplandeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera resplandecido
+    - hubiese resplandecido
+  tu:
+    - hubieras resplandecido
+    - hubieses resplandecido
+  vos:
+    - hubieras resplandecido
+    - hubieses resplandecido
+  ud:
+    - hubiera resplandecido
+    - hubiese resplandecido
+  nosotros:
+    - hubiéramos resplandecido
+    - hubiésemos resplandecido
+  vosotros:
+    - hubierais resplandecido
+    - hubieseis resplandecido
+  uds:
+    - hubieran resplandecido
+    - hubiesen resplandecido
+imperativo:
+  tu: resplandece
+  vos: resplandecé
+  ud: resplandezca
+  nosotros: resplandezcamos
+  vosotros: resplandeced
+  uds: resplandezcan

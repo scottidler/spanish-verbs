@@ -1,0 +1,142 @@
+infinitivo: plantearse
+gerundio: planteándose
+participio-pasado: planteado
+presente-indicativo:
+  yo: me planteo
+  tu: te planteas
+  vos: te planteas
+  ud: se plantea
+  nosotros: nos planteamos
+  vosotros: os planteáis
+  uds: se plantean
+preterito-perfecto-simple:
+  yo: me planteé
+  tu: te planteaste
+  vos: te planteaste
+  ud: se planteó
+  nosotros: nos planteamos
+  vosotros: os planteasteis
+  uds: se plantearon
+preterito-imperfecto:
+  yo: me planteaba
+  tu: te planteabas
+  vos: te planteabas
+  ud: se planteaba
+  nosotros: nos planteábamos
+  vosotros: os planteabais
+  uds: se planteaban
+futuro-simple:
+  yo: me plantearé
+  tu: te plantearás
+  vos: te plantearás
+  ud: se planteará
+  nosotros: nos plantearemos
+  vosotros: os plantearéis
+  uds: se plantearán
+condicional-simple:
+  yo: me plantearía
+  tu: te plantearías
+  vos: te plantearías
+  ud: se plantearía
+  nosotros: nos plantearíamos
+  vosotros: os plantearíais
+  uds: se plantearían
+presente-perfecto:
+  yo: me he planteado
+  tu: te has planteado
+  vos: te has planteado
+  ud: se ha planteado
+  nosotros: nos hemos planteado
+  vosotros: os habéis planteado
+  uds: se han planteado
+preterito-pluscuamperfecto:
+  yo: me había planteado
+  tu: te habías planteado
+  vos: te habías planteado
+  ud: se había planteado
+  nosotros: nos habíamos planteado
+  vosotros: os habíais planteado
+  uds: se habían planteado
+futuro-perfecto:
+  yo: me habré planteado
+  tu: te habrás planteado
+  vos: te habrás planteado
+  ud: se habrá planteado
+  nosotros: nos habremos planteado
+  vosotros: os habréis planteado
+  uds: se habrán planteado
+condicional-perfecto:
+  yo: me habría planteado
+  tu: te habrías planteado
+  vos: te habrías planteado
+  ud: se habría planteado
+  nosotros: nos habríamos planteado
+  vosotros: os habríais planteado
+  uds: se habrían planteado
+presente-subjuntivo:
+  yo: me plantee
+  tu: te plantees
+  vos: te plantees
+  ud: se planteé
+  nosotros: nos planteemos
+  vosotros: os planteéis
+  uds: se planteen
+preterito-perfecto-subjuntivo:
+  yo: me haya planteado
+  tu: te hayas planteado
+  vos: te hayas planteado
+  ud: se haya planteado
+  nosotros: nos hayamos planteado
+  vosotros: os hayáis planteado
+  uds: se hayan planteado
+imperfecto-subjuntivo:
+  yo:
+    - me planteara
+    - me plantearse
+  tu:
+    - te plantearas
+    - te plantearses
+  vos:
+    - te plantearas
+    - te plantearses
+  ud:
+    - se planteara
+    - se plantearse
+  nosotros:
+    - nos planteáramos
+    - nos planteásemos
+  vosotros:
+    - os plantearais
+    - os plantearais
+  uds:
+    - se plantearan
+    - se plantearan
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera planteado
+    - me hubiese planteado
+  tu:
+    - te hubieras planteado
+    - te hubieses planteado
+  vos:
+    - te hubieras planteado
+    - te hubieses planteado
+  ud:
+    - se hubiera planteado
+    - se hubiese planteado
+  nosotros:
+    - nos hubiéramos planteado
+    - nos hubiésemos planteado
+  vosotros:
+    - os hubierais planteado
+    - os hubieseis planteado
+  uds:
+    - se hubieran planteado
+    - se hubiesen planteado
+imperativo:
+  tu: plántate
+  vos: platéate
+  ud: plántese
+  nosotros: planteémonos
+  vosotros: plantearos
+  uds: plántense

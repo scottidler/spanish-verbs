@@ -1,0 +1,142 @@
+infinitivo: celebrarse
+gerundio: celebrándose
+participio-pasado: celebrado
+presente-indicativo:
+  yo: me celebro
+  tu: te celebras
+  vos: te celebras
+  ud: se celebra
+  nosotros: nos celebramos
+  vosotros: os celebráis
+  uds: se celebran
+preterito-perfecto-simple:
+  yo: me celebré
+  tu: te celebraste
+  vos: te celebraste
+  ud: se celebró
+  nosotros: nos celebramos
+  vosotros: os celebrasteis
+  uds: se celebraron
+preterito-imperfecto:
+  yo: me celebraba
+  tu: te celebrabas
+  vos: te celebrabas
+  ud: se celebraba
+  nosotros: nos celebrábamos
+  vosotros: os celebrabais
+  uds: se celebraban
+futuro-simple:
+  yo: me celebraré
+  tu: te celebrarás
+  vos: te celebrarás
+  ud: se celebrará
+  nosotros: nos celebraremos
+  vosotros: os celebraréis
+  uds: se celebrarán
+condicional-simple:
+  yo: me celebraría
+  tu: te celebrarías
+  vos: te celebrarías
+  ud: se celebraría
+  nosotros: nos celebraríamos
+  vosotros: os celebraríais
+  uds: se celebrarían
+presente-perfecto:
+  yo: me he celebrado
+  tu: te has celebrado
+  vos: te has celebrado
+  ud: se ha celebrado
+  nosotros: nos hemos celebrado
+  vosotros: os habéis celebrado
+  uds: se han celebrado
+preterito-pluscuamperfecto:
+  yo: me había celebrado
+  tu: te habías celebrado
+  vos: te habías celebrado
+  ud: se había celebrado
+  nosotros: nos habíamos celebrado
+  vosotros: os habíais celebrado
+  uds: se habían celebrado
+futuro-perfecto:
+  yo: me habré celebrado
+  tu: te habrás celebrado
+  vos: te habrás celebrado
+  ud: se habrá celebrado
+  nosotros: nos habremos celebrado
+  vosotros: os habréis celebrado
+  uds: se habrán celebrado
+condicional-perfecto:
+  yo: me habría celebrado
+  tu: te habrías celebrado
+  vos: te habrías celebrado
+  ud: se habría celebrado
+  nosotros: nos habríamos celebrado
+  vosotros: os habríais celebrado
+  uds: se habrían celebrado
+presente-subjuntivo:
+  yo: me celebre
+  tu: te celebres
+  vos: te celebres
+  ud: se celebre
+  nosotros: nos celebremos
+  vosotros: os celebréis
+  uds: se celebren
+preterito-perfecto-subjuntivo:
+  yo: me haya celebrado
+  tu: te hayas celebrado
+  vos: te hayas celebrado
+  ud: se haya celebrado
+  nosotros: nos hayamos celebrado
+  vosotros: os hayáis celebrado
+  uds: se hayan celebrado
+imperfecto-subjuntivo:
+  yo:
+    - me celebrara
+    - me celebrase
+  tu:
+    - te celebraras
+    - te celebrases
+  vos:
+    - te celebraras
+    - te celebrases
+  ud:
+    - se celebrara
+    - se celebrase
+  nosotros:
+    - nos celebráramos
+    - nos celebrásemos
+  vosotros:
+    - os celebrarais
+    - os celebraseis
+  uds:
+    - se celebraran
+    - se celebrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera celebrado
+    - me hubiese celebrado
+  tu:
+    - te hubieras celebrado
+    - te hubieses celebrado
+  vos:
+    - te hubieras celebrado
+    - te hubieses celebrado
+  ud:
+    - se hubiera celebrado
+    - se hubiese celebrado
+  nosotros:
+    - nos hubiéramos celebrado
+    - nos hubiésemos celebrado
+  vosotros:
+    - os hubierais celebrado
+    - os hubieseis celebrado
+  uds:
+    - se hubieran celebrado
+    - se hubiesen celebrado
+imperativo:
+  tu: célébrate
+  vos: célébrate
+  ud: célebrese
+  nosotros: célebremosnos
+  vosotros: célebrense
+  uds: célebrense

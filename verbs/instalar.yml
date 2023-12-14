@@ -1,0 +1,142 @@
+infinitivo: instalar
+gerundio: instalando
+participio-pasado: instalado
+presente-indicativo:
+  yo: instalo
+  tu: instalas
+  vos: instalas
+  ud: instala
+  nosotros: instalamos
+  vosotros: instaláis
+  uds: instalan
+preterito-perfecto-simple:
+  yo: instalé
+  tu: instalaste
+  vos: instalaste
+  ud: instaló
+  nosotros: instalamos
+  vosotros: instalasteis
+  uds: instalaron
+preterito-imperfecto:
+  yo: instalaba
+  tu: instalabas
+  vos: instalabas
+  ud: instalaba
+  nosotros: instalábamos
+  vosotros: instalabais
+  uds: instalaban
+futuro-simple:
+  yo: instalaré
+  tu: instalarás
+  vos: instalarás
+  ud: instalará
+  nosotros: instalaremos
+  vosotros: instalaréis
+  uds: instalarán
+condicional-simple:
+  yo: instalaría
+  tu: instalarías
+  vos: instalarías
+  ud: instalaría
+  nosotros: instalaríamos
+  vosotros: instalaríais
+  uds: instalarían
+presente-perfecto:
+  yo: he instalado
+  tu: has instalado
+  vos: has instalado
+  ud: ha instalado
+  nosotros: hemos instalado
+  vosotros: habéis instalado
+  uds: han instalado
+preterito-pluscuamperfecto:
+  yo: había instalado
+  tu: habías instalado
+  vos: habías instalado
+  ud: había instalado
+  nosotros: habíamos instalado
+  vosotros: habíais instalado
+  uds: habían instalado
+futuro-perfecto:
+  yo: habré instalado
+  tu: habrás instalado
+  vos: habrás instalado
+  ud: habrá instalado
+  nosotros: habremos instalado
+  vosotros: habréis instalado
+  uds: habrán instalado
+condicional-perfecto:
+  yo: habría instalado
+  tu: habrías instalado
+  vos: habrías instalado
+  ud: habría instalado
+  nosotros: habríamos instalado
+  vosotros: habríais instalado
+  uds: habrían instalado
+presente-subjuntivo:
+  yo: instale
+  tu: instales
+  vos: instales
+  ud: instale
+  nosotros: instalemos
+  vosotros: instaléis
+  uds: instalen
+preterito-perfecto-subjuntivo:
+  yo: haya instalado
+  tu: hayas instalado
+  vos: hayas instalado
+  ud: haya instalado
+  nosotros: hayamos instalado
+  vosotros: hayáis instalado
+  uds: hayan instalado
+imperfecto-subjuntivo:
+  yo:
+    - instalara
+    - instalase
+  tu:
+    - instalaras
+    - instalases
+  vos:
+    - instalaras
+    - instalases
+  ud:
+    - instalara
+    - instalase
+  nosotros:
+    - instaláramos
+    - instalásemos
+  vosotros:
+    - instalarais
+    - instalaseis
+  uds:
+    - instalaran
+    - instalasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera instalado
+    - hubiese instalado
+  tu:
+    - hubieras instalado
+    - hubieses instalado
+  vos:
+    - hubieras instalado
+    - hubieses instalado
+  ud:
+    - hubiera instalado
+    - hubiese instalado
+  nosotros:
+    - hubiéramos instalado
+    - hubiésemos instalado
+  vosotros:
+    - hubierais instalado
+    - hubieseis instalado
+  uds:
+    - hubieran instalado
+    - hubiesen instalado
+imperativo:
+  tu: instala
+  vos: instalá
+  ud: instale
+  nosotros: instalemos
+  vosotros: instalad
+  uds: instalen

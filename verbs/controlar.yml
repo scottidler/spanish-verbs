@@ -1,0 +1,142 @@
+infinitivo: controlar
+gerundio: controlando
+participio-pasado: controlado
+presente-indicativo:
+  yo: controlo
+  tu: controlas
+  vos: controlas
+  ud: controla
+  nosotros: controlamos
+  vosotros: controláis
+  uds: controlan
+preterito-perfecto-simple:
+  yo: controlé
+  tu: controlaste
+  vos: controlaste
+  ud: controló
+  nosotros: controlamos
+  vosotros: controlasteis
+  uds: controlaron
+preterito-imperfecto:
+  yo: controlaba
+  tu: controlabas
+  vos: controlabas
+  ud: controlaba
+  nosotros: controlábamos
+  vosotros: controlabais
+  uds: controlaban
+futuro-simple:
+  yo: controlaré
+  tu: controlarás
+  vos: controlarás
+  ud: controlará
+  nosotros: controlaremos
+  vosotros: controlaréis
+  uds: controlarán
+condicional-simple:
+  yo: controlaría
+  tu: controlarías
+  vos: controlarías
+  ud: controlaría
+  nosotros: controlaríamos
+  vosotros: controlaríais
+  uds: controlarían
+presente-perfecto:
+  yo: he controlado
+  tu: has controlado
+  vos: has controlado
+  ud: ha controlado
+  nosotros: hemos controlado
+  vosotros: habéis controlado
+  uds: han controlado
+preterito-pluscuamperfecto:
+  yo: había controlado
+  tu: habías controlado
+  vos: habías controlado
+  ud: había controlado
+  nosotros: habíamos controlado
+  vosotros: habíais controlado
+  uds: habían controlado
+futuro-perfecto:
+  yo: habré controlado
+  tu: habrás controlado
+  vos: habrás controlado
+  ud: habrá controlado
+  nosotros: habremos controlado
+  vosotros: habréis controlado
+  uds: habrán controlado
+condicional-perfecto:
+  yo: habría controlado
+  tu: habrías controlado
+  vos: habrías controlado
+  ud: habría controlado
+  nosotros: habríamos controlado
+  vosotros: habríais controlado
+  uds: habrían controlado
+presente-subjuntivo:
+  yo: controle
+  tu: controles
+  vos: controles
+  ud: controle
+  nosotros: controlemos
+  vosotros: controléis
+  uds: controlen
+preterito-perfecto-subjuntivo:
+  yo: haya controlado
+  tu: hayas controlado
+  vos: hayas controlado
+  ud: haya controlado
+  nosotros: hayamos controlado
+  vosotros: hayáis controlado
+  uds: hayan controlado
+imperfecto-subjuntivo:
+  yo:
+    - controlara
+    - controlase
+  tu:
+    - controlaras
+    - controlases
+  vos:
+    - controlaras
+    - controlases
+  ud:
+    - controlara
+    - controlase
+  nosotros:
+    - controláramos
+    - controlásemos
+  vosotros:
+    - controlarais
+    - controlaseis
+  uds:
+    - controlaran
+    - controlasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera controlado
+    - hubiese controlado
+  tu:
+    - hubieras controlado
+    - hubieses controlado
+  vos:
+    - hubieras controlado
+    - hubieses controlado
+  ud:
+    - hubiera controlado
+    - hubiese controlado
+  nosotros:
+    - hubiéramos controlado
+    - hubiésemos controlado
+  vosotros:
+    - hubierais controlado
+    - hubieseis controlado
+  uds:
+    - hubieran controlado
+    - hubiesen controlado
+imperativo:
+  tu: controla
+  vos: controlá
+  ud: controle
+  nosotros: controlemos
+  vosotros: controlad
+  uds: controlen

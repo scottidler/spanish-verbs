@@ -1,0 +1,142 @@
+infinitivo: emitir
+gerundio: emitiendo
+participio-pasado: emitido
+presente-indicativo:
+  yo: emito
+  tu: emites
+  vos: emitís
+  ud: emite
+  nosotros: emitimos
+  vosotros: emitís
+  uds: emiten
+preterito-perfecto-simple:
+  yo: emití
+  tu: emitiste
+  vos: emitiste
+  ud: emitió
+  nosotros: emitimos
+  vosotros: emitisteis
+  uds: emitieron
+preterito-imperfecto:
+  yo: emitía
+  tu: emitías
+  vos: emitías
+  ud: emitía
+  nosotros: emitíamos
+  vosotros: emitíais
+  uds: emitían
+futuro-simple:
+  yo: emitiré
+  tu: emitirás
+  vos: emitirás
+  ud: emitirá
+  nosotros: emitiremos
+  vosotros: emitiréis
+  uds: emitirán
+condicional-simple:
+  yo: emitiría
+  tu: emitirías
+  vos: emitirías
+  ud: emitiría
+  nosotros: emitiríamos
+  vosotros: emitiríais
+  uds: emitirían
+presente-perfecto:
+  yo: he emitido
+  tu: has emitido
+  vos: has emitido
+  ud: ha emitido
+  nosotros: hemos emitido
+  vosotros: habéis emitido
+  uds: han emitido
+preterito-pluscuamperfecto:
+  yo: había emitido
+  tu: habías emitido
+  vos: habías emitido
+  ud: había emitido
+  nosotros: habíamos emitido
+  vosotros: habíais emitido
+  uds: habían emitido
+futuro-perfecto:
+  yo: habré emitido
+  tu: habrás emitido
+  vos: habrás emitido
+  ud: habrá emitido
+  nosotros: habremos emitido
+  vosotros: habréis emitido
+  uds: habrán emitido
+condicional-perfecto:
+  yo: habría emitido
+  tu: habrías emitido
+  vos: habrías emitido
+  ud: habría emitido
+  nosotros: habríamos emitido
+  vosotros: habríais emitido
+  uds: habrían emitido
+presente-subjuntivo:
+  yo: emita
+  tu: emitas
+  vos: emitas
+  ud: emita
+  nosotros: emitamos
+  vosotros: emitáis
+  uds: emitan
+preterito-perfecto-subjuntivo:
+  yo: haya emitido
+  tu: hayas emitido
+  vos: hayas emitido
+  ud: haya emitido
+  nosotros: hayamos emitido
+  vosotros: hayáis emitido
+  uds: hayan emitido
+imperfecto-subjuntivo:
+  yo:
+    - emitiera
+    - emitiese
+  tu:
+    - emitieras
+    - emitieses
+  vos:
+    - emitieras
+    - emitieses
+  ud:
+    - emitiera
+    - emitiese
+  nosotros:
+    - emitiéramos
+    - emitiésemos
+  vosotros:
+    - emitierais
+    - emitieseis
+  uds:
+    - emitieran
+    - emitiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera emitido
+    - hubiese emitido
+  tu:
+    - hubieras emitido
+    - hubieses emitido
+  vos:
+    - hubieras emitido
+    - hubieses emitido
+  ud:
+    - hubiera emitido
+    - hubiese emitido
+  nosotros:
+    - hubiéramos emitido
+    - hubiésemos emitido
+  vosotros:
+    - hubierais emitido
+    - hubieseis emitido
+  uds:
+    - hubieran emitido
+    - hubiesen emitido
+imperativo:
+  tu: emite
+  vos: emití
+  ud: emita
+  nosotros: emitamos
+  vosotros: emitid
+  uds: emitan

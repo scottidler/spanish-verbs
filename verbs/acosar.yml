@@ -1,0 +1,142 @@
+infinitivo: acosar
+gerundio: acosando
+participio-pasado: acosado
+presente-indicativo:
+  yo: acoso
+  tu: acosas
+  vos: acosas
+  ud: acosa
+  nosotros: acosamos
+  vosotros: acosáis
+  uds: acosan
+preterito-perfecto-simple:
+  yo: acosé
+  tu: acosaste
+  vos: acosaste
+  ud: acosó
+  nosotros: acosamos
+  vosotros: acosasteis
+  uds: acosaron
+preterito-imperfecto:
+  yo: acosaba
+  tu: acosabas
+  vos: acosabas
+  ud: acosaba
+  nosotros: acosábamos
+  vosotros: acosabais
+  uds: acosaban
+futuro-simple:
+  yo: acosaré
+  tu: acosarás
+  vos: acosarás
+  ud: acosará
+  nosotros: acosaremos
+  vosotros: acosaréis
+  uds: acosarán
+condicional-simple:
+  yo: acosaría
+  tu: acosarías
+  vos: acosarías
+  ud: acosaría
+  nosotros: acosaríamos
+  vosotros: acosaríais
+  uds: acosarían
+presente-perfecto:
+  yo: he acosado
+  tu: has acosado
+  vos: has acosado
+  ud: ha acosado
+  nosotros: hemos acosado
+  vosotros: habéis acosado
+  uds: han acosado
+preterito-pluscuamperfecto:
+  yo: había acosado
+  tu: habías acosado
+  vos: habías acosado
+  ud: había acosado
+  nosotros: habíamos acosado
+  vosotros: habíais acosado
+  uds: habían acosado
+futuro-perfecto:
+  yo: habré acosado
+  tu: habrás acosado
+  vos: habrás acosado
+  ud: habrá acosado
+  nosotros: habremos acosado
+  vosotros: habréis acosado
+  uds: habrán acosado
+condicional-perfecto:
+  yo: habría acosado
+  tu: habrías acosado
+  vos: habrías acosado
+  ud: habría acosado
+  nosotros: habríamos acosado
+  vosotros: habríais acosado
+  uds: habrían acosado
+presente-subjuntivo:
+  yo: acose
+  tu: acoses
+  vos: acoses
+  ud: acose
+  nosotros: acosemos
+  vosotros: acoséis
+  uds: acosen
+preterito-perfecto-subjuntivo:
+  yo: haya acosado
+  tu: hayas acosado
+  vos: hayas acosado
+  ud: haya acosado
+  nosotros: hayamos acosado
+  vosotros: hayáis acosado
+  uds: hayan acosado
+imperfecto-subjuntivo:
+  yo:
+    - acosara
+    - acosase
+  tu:
+    - acosaras
+    - acosases
+  vos:
+    - acosaras
+    - acosases
+  ud:
+    - acosara
+    - acosase
+  nosotros:
+    - acosáramos
+    - acosásemos
+  vosotros:
+    - acosarais
+    - acosaseis
+  uds:
+    - acosaran
+    - acosasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acosado
+    - hubiese acosado
+  tu:
+    - hubieras acosado
+    - hubieses acosado
+  vos:
+    - hubieras acosado
+    - hubieses acosado
+  ud:
+    - hubiera acosado
+    - hubiese acosado
+  nosotros:
+    - hubiéramos acosado
+    - hubiésemos acosado
+  vosotros:
+    - hubierais acosado
+    - hubieseis acosado
+  uds:
+    - hubieran acosado
+    - hubiesen acosado
+imperativo:
+  tu: acosa
+  vos: acosá
+  ud: acose
+  nosotros: acosemos
+  vosotros: acosad
+  uds: acosen

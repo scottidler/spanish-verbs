@@ -1,0 +1,142 @@
+infinitivo: ventear
+gerundio: venteando
+participio-pasado: venteado
+presente-indicativo: 
+  yo: venteo
+  tu: venteas
+  vos: venteás
+  ud: ventea
+  nosotros: venteamos
+  vosotros: ventean
+  uds: ventean
+preterito-perfecto-simple: 
+  yo: ventée
+  tu: venteaste
+  vos: venteaste
+  ud: venteó
+  nosotros: venteamos
+  vosotros: venteasteis
+  uds: ventearon
+preterito-imperfecto: 
+  yo: venteaba
+  tu: venteabas
+  vos: venteabas
+  ud: venteaba
+  nosotros: venteábamos
+  vosotros: venteabais
+  uds: venteaban
+futuro-simple: 
+  yo: ventearé
+  tu: ventearás
+  vos: ventearás
+  ud: venteará
+  nosotros: ventearemos
+  vosotros: ventearéis
+  uds: ventearán
+condicional-simple: 
+  yo: ventearía
+  tu: ventearías
+  vos: ventearías
+  ud: ventearía
+  nosotros: ventearíamos
+  vosotros: ventearíais
+  uds: ventearían
+presente-perfecto: 
+  yo: he venteado
+  tu: has venteado
+  vos: has venteado
+  ud: ha venteado
+  nosotros: hemos venteado
+  vosotros: habéis venteado
+  uds: han venteado
+preterito-pluscuamperfecto: 
+  yo: había venteado
+  tu: habías venteado
+  vos: habías venteado
+  ud: había venteado
+  nosotros: habíamos venteado
+  vosotros: habíais venteado
+  uds: habían venteado
+futuro-perfecto: 
+  yo: habré venteado
+  tu: habrás venteado
+  vos: habrás venteado
+  ud: habrá venteado
+  nosotros: habremos venteado
+  vosotros: habréis venteado
+  uds: habrán venteado
+condicional-perfecto: 
+  yo: habría venteado
+  tu: habrías venteado
+  vos: habrías venteado
+  ud: habría venteado
+  nosotros: habríamos venteado
+  vosotros: habríais venteado
+  uds: habrían venteado
+presente-subjuntivo: 
+  yo: venteé
+  tu: venteés
+  vos: venteés
+  ud: venteé
+  nosotros: venteemos
+  vosotros: venteéis
+  uds: venteén
+preterito-perfecto-subjuntivo: 
+  yo: haya venteado
+  tu: hayas venteado
+  vos: hayas venteado
+  ud: haya venteado
+  nosotros: hayamos venteado
+  vosotros: hayáis venteado
+  uds: hayan venteado
+imperfecto-subjuntivo: 
+  yo:
+    - venteara
+    - ventease
+  tu:
+    - ventearas
+    - venteases
+  vos:
+    - ventearas
+    - venteases
+  ud:
+    - venteara
+    - ventease
+  nosotros:
+    - venteáramos
+    - venteásemos
+  vosotros:
+    - ventearais
+    - venteaseis
+  uds:
+    - ventearan
+    - venteasen
+pluscuamperfecto-subjuntivo: 
+  yo:
+    - hubiera venteado
+    - hubiese venteado
+  tu:
+    - hubieras venteado
+    - hubieses venteado
+  vos:
+    - hubieras venteado
+    - hubieses venteado
+  ud:
+    - hubiera venteado
+    - hubiese venteado
+  nosotros:
+    - hubiéramos venteado
+    - hubiésemos venteado
+  vosotros:
+    - hubierais venteado
+    - hubieseis venteado
+  uds:
+    - hubieran venteado
+    - hubiesen venteado
+imperativo: 
+  tu: ventea
+  vos: venteá
+  ud: ventee
+  nosotros: venteemos
+  vosotros: ventead
+  uds: venteen

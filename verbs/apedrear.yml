@@ -1,0 +1,142 @@
+infinitivo: apedrear
+gerundio: apedreando
+participio-pasado: apedreado
+presente-indicativo:
+  yo: apedreo
+  tu: apedreas
+  vos: apedreas
+  ud: apedrea
+  nosotros: apedreamos
+  vosotros: apedreáis
+  uds: apedrean
+preterito-perfecto-simple:
+  yo: apedreé
+  tu: apedreaste
+  vos: apedreaste
+  ud: apedreó
+  nosotros: apedreamos
+  vosotros: apedreasteis
+  uds: apedrearon
+preterito-imperfecto:
+  yo: apedreaba
+  tu: apedreabas
+  vos: apedreabas
+  ud: apedreaba
+  nosotros: apedreábamos
+  vosotros: apedreabais
+  uds: apedreaban
+futuro-simple:
+  yo: apedrearé
+  tu: apedrearás
+  vos: apedrearás
+  ud: apedreará
+  nosotros: apedrearemos
+  vosotros: apedrearéis
+  uds: apedrearán
+condicional-simple:
+  yo: apedrearía
+  tu: apedrearías
+  vos: apedrearías
+  ud: apedrearía
+  nosotros: apedrearíamos
+  vosotros: apedrearíais
+  uds: apedrearían
+presente-perfecto:
+  yo: he apedreado
+  tu: has apedreado
+  vos: has apedreado
+  ud: ha apedreado
+  nosotros: hemos apedreado
+  vosotros: habéis apedreado
+  uds: han apedreado
+preterito-pluscuamperfecto:
+  yo: había apedreado
+  tu: habías apedreado
+  vos: habías apedreado
+  ud: había apedreado
+  nosotros: habíamos apedreado
+  vosotros: habíais apedreado
+  uds: habían apedreado
+futuro-perfecto:
+  yo: habré apedreado
+  tu: habrás apedreado
+  vos: habrás apedreado
+  ud: habrá apedreado
+  nosotros: habremos apedreado
+  vosotros: habréis apedreado
+  uds: habrán apedreado
+condicional-perfecto:
+  yo: habría apedreado
+  tu: habrías apedreado
+  vos: habrías apedreado
+  ud: habría apedreado
+  nosotros: habríamos apedreado
+  vosotros: habríais apedreado
+  uds: habrían apedreado
+presente-subjuntivo:
+  yo: apedree
+  tu: apedrees
+  vos: apedrees
+  ud: apedree
+  nosotros: apedreemos
+  vosotros: apedreéis
+  uds: apedreen
+preterito-perfecto-subjuntivo:
+  yo: haya apedreado
+  tu: hayas apedreado
+  vos: hayas apedreado
+  ud: haya apedreado
+  nosotros: hayamos apedreado
+  vosotros: hayáis apedreado
+  uds: hayan apedreado
+imperfecto-subjuntivo:
+  yo:
+    - apedreara
+    - apedrease
+  tu:
+    - apedrearas
+    - apedreases
+  vos:
+    - apedrearas
+    - apedreases
+  ud:
+    - apedreara
+    - apedrease
+  nosotros:
+    - apedreáramos
+    - apedreásemos
+  vosotros:
+    - apedrearais
+    - apedreaseis
+  uds:
+    - apedrearan
+    - apedreasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apedreado
+    - hubiese apedreado
+  tu:
+    - hubieras apedreado
+    - hubieses apedreado
+  vos:
+    - hubieras apedreado
+    - hubieses apedreado
+  ud:
+    - hubiera apedreado
+    - hubiese apedreado
+  nosotros:
+    - hubiéramos apedreado
+    - hubiésemos apedreado
+  vosotros:
+    - hubierais apedreado
+    - hubieseis apedreado
+  uds:
+    - hubieran apedreado
+    - hubiesen apedreado
+imperativo:
+  tu: apedrea
+  vos: apedreá
+  ud: apedree
+  nosotros: apedreemos
+  vosotros: apedread
+  uds: apedreen

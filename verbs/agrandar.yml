@@ -1,0 +1,142 @@
+infinitivo: agrandar
+gerundio: agrandando
+participio-pasado: agrandado
+presente-indicativo:
+  yo: agrando
+  tu: agrandas
+  vos: agrandas
+  ud: agranda
+  nosotros: agrandamos
+  vosotros: agrandáis
+  uds: agrandan
+preterito-perfecto-simple:
+  yo: agrandé
+  tu: agrandaste
+  vos: agrandaste
+  ud: agrandó
+  nosotros: agrandamos
+  vosotros: agrandasteis
+  uds: agrandaron
+preterito-imperfecto:
+  yo: agrandaba
+  tu: agrandabas
+  vos: agrandabas
+  ud: agrandaba
+  nosotros: agrandábamos
+  vosotros: agrandabais
+  uds: agrandaban
+futuro-simple:
+  yo: agrandaré
+  tu: agrandarás
+  vos: agrandarás
+  ud: agrandará
+  nosotros: agrandaremos
+  vosotros: agrandaréis
+  uds: agrandarán
+condicional-simple:
+  yo: agrandaría
+  tu: agrandarías
+  vos: agrandarías
+  ud: agrandaría
+  nosotros: agrandaríamos
+  vosotros: agrandaríais
+  uds: agrandarían
+presente-perfecto:
+  yo: he agrandado
+  tu: has agrandado
+  vos: has agrandado
+  ud: ha agrandado
+  nosotros: hemos agrandado
+  vosotros: habéis agrandado
+  uds: han agrandado
+preterito-pluscuamperfecto:
+  yo: había agrandado
+  tu: habías agrandado
+  vos: habías agrandado
+  ud: había agrandado
+  nosotros: habíamos agrandado
+  vosotros: habíais agrandado
+  uds: habían agrandado
+futuro-perfecto:
+  yo: habré agrandado
+  tu: habrás agrandado
+  vos: habrás agrandado
+  ud: habrá agrandado
+  nosotros: habremos agrandado
+  vosotros: habréis agrandado
+  uds: habrán agrandado
+condicional-perfecto:
+  yo: habría agrandado
+  tu: habrías agrandado
+  vos: habrías agrandado
+  ud: habría agrandado
+  nosotros: habríamos agrandado
+  vosotros: habríais agrandado
+  uds: habrían agrandado
+presente-subjuntivo:
+  yo: agrande
+  tu: agrandes
+  vos: agrandes
+  ud: agrande
+  nosotros: agrandemos
+  vosotros: agrandéis
+  uds: agranden
+preterito-perfecto-subjuntivo:
+  yo: haya agrandado
+  tu: hayas agrandado
+  vos: hayas agrandado
+  ud: haya agrandado
+  nosotros: hayamos agrandado
+  vosotros: hayáis agrandado
+  uds: hayan agrandado
+imperfecto-subjuntivo:
+  yo:
+    - agrandara
+    - agrandase
+  tu:
+    - agrandaras
+    - agrandases
+  vos:
+    - agrandaras
+    - agrandases
+  ud:
+    - agrandara
+    - agrandase
+  nosotros:
+    - agrandáramos
+    - agrandásemos
+  vosotros:
+    - agrandarais
+    - agrandaseis
+  uds:
+    - agrandaran
+    - agrandasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agrandado
+    - hubiese agrandado
+  tu:
+    - hubieras agrandado
+    - hubieses agrandado
+  vos:
+    - hubieras agrandado
+    - hubieses agrandado
+  ud:
+    - hubiera agrandado
+    - hubiese agrandado
+  nosotros:
+    - hubiéramos agrandado
+    - hubiésemos agrandado
+  vosotros:
+    - hubierais agrandado
+    - hubieseis agrandado
+  uds:
+    - hubieran agrandado
+    - hubiesen agrandado
+imperativo:
+  tu: agranda
+  vos: agrandá
+  ud: agrande
+  nosotros: agrandemos
+  vosotros: agrandad
+  uds: agranden

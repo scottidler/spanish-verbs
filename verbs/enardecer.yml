@@ -1,0 +1,142 @@
+infinitivo: enardecer
+gerundio: enardeciendo
+participio-pasado: enardecido
+presente-indicativo:
+  yo: enardezco
+  tu: enardecés
+  vos: enardecés
+  ud: enardece
+  nosotros: enardecemos
+  vosotros: enardecéis
+  uds: enardecen
+preterito-perfecto-simple:
+  yo: enardecí
+  tu: enardeció
+  vos: enardeció
+  ud: enardecio
+  nosotros: enardecimos
+  vosotros: enardeciís
+  uds: enardecieron
+preterito-imperfecto:
+  yo: enardecía
+  tu: enardecías
+  vos: enardecías
+  ud: enardecía
+  nosotros: enardecíamos
+  vosotros: enardecíais
+  uds: enardecían
+futuro-simple:
+  yo: enardeceré
+  tu: enardecerás
+  vos: enardecerás
+  ud: enardecerá
+  nosotros: enardeceremos
+  vosotros: enardeceréis
+  uds: enardecerán
+condicional-simple:
+  yo: enardecería
+  tu: enardecerías
+  vos: enardecerías
+  ud: enardecería
+  nosotros: enardeceríamos
+  vosotros: enardeceríais
+  uds: enardecerían
+presente-perfecto:
+  yo: he enardecido
+  tu: has enardecido
+  vos: has enardecido
+  ud: ha enardecido
+  nosotros: hemos enardecido
+  vosotros: habéis enardecido
+  uds: han enardecido
+preterito-pluscuamperfecto:
+  yo: había enardecido
+  tu: habías enardecido
+  vos: habías enardecido
+  ud: había enardecido
+  nosotros: habíamos enardecido
+  vosotros: habíais enardecido
+  uds: habían enardecido
+futuro-perfecto:
+  yo: habré enardecido
+  tu: habrás enardecido
+  vos: habrás enardecido
+  ud: habrá enardecido
+  nosotros: habremos enardecido
+  vosotros: habréis enardecido
+  uds: habrán enardecido
+condicional-perfecto:
+  yo: habría enardecido
+  tu: habrías enardecido
+  vos: habrías enardecido
+  ud: habría enardecido
+  nosotros: habríamos enardecido
+  vosotros: habríais enardecido
+  uds: habrían enardecido
+presente-subjuntivo:
+  yo: enardezca
+  tu: enardezcas
+  vos: enardezcas
+  ud: enardezca
+  nosotros: enardezcamos
+  vosotros: enardecáis
+  uds: enardezcan
+preterito-perfecto-subjuntivo:
+  yo: haya enardecido
+  tu: hayas enardecido
+  vos: hayas enardecido
+  ud: haya enardecido
+  nosotros: hayamos enardecido
+  vosotros: hayáis enardecido
+  uds: hayan enardecido
+imperfecto-subjuntivo:
+  yo:
+    - enardeciera
+    - enardeciese
+  tu:
+    - enardecieras
+    - enardecieses
+  vos:
+    - enardecieras
+    - enardecieses
+  ud:
+    - enardeciera
+    - enardeciese
+  nosotros:
+    - enardecieramos
+    - enardecíesemos
+  vosotros:
+    - enardecierais
+    - enardecieseis
+  uds:
+    - enardecieran
+    - enardeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enardecido
+    - hubiese enardecido
+  tu:
+    - hubieras enardecido
+    - hubieses enardecido
+  vos:
+    - hubieras enardecido
+    - hubieses enardecido
+  ud:
+    - hubiera enardecido
+    - hubiese enardecido
+  nosotros:
+    - hubiéramos enardecido
+    - hubiésemos enardecido
+  vosotros:
+    - hubierais enardecido
+    - hubieseis enardecido
+  uds:
+    - hubieran enardecido
+    - hubiesen enardecido
+imperativo:
+  tu: enardece
+  vos: enardecé
+  ud: enardezca
+  nosotros: enardezcamos
+  vosotros: enardecé
+  uds: enardezcan

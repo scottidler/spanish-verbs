@@ -1,0 +1,142 @@
+infinitivo: asentir
+gerundio: asintiendo
+participio-pasado: asentido
+presente-indicativo:
+  yo: asiento
+  tu: asientes
+  vos: asientes
+  ud: asiente
+  nosotros: asentimos
+  vosotros: asentís
+  uds: asienten
+preterito-perfecto-simple:
+  yo: asentí
+  tu: asentiste
+  vos: asentiste
+  ud: asintió
+  nosotros: asentimos
+  vosotros: asentisteis
+  uds: asintieron
+preterito-imperfecto:
+  yo: asentía
+  tu: asentías
+  vos: asentías
+  ud: asentía
+  nosotros: asentíamos
+  vosotros: asentíais
+  uds: asentían
+futuro-simple:
+  yo: asentiré
+  tu: asentirás
+  vos: asentirás
+  ud: asentirá
+  nosotros: asentiremos
+  vosotros: asentiréis
+  uds: asentirán
+condicional-simple:
+  yo: asentiría
+  tu: asentirías
+  vos: asentirías
+  ud: asentiría
+  nosotros: asentiríamos
+  vosotros: asentiríais
+  uds: asentirían
+presente-perfecto:
+  yo: he asentido
+  tu: has asentido
+  vos: has asentido
+  ud: ha asentido
+  nosotros: hemos asentido
+  vosotros: habéis asentido
+  uds: han asentido
+preterito-pluscuamperfecto:
+  yo: había asentido
+  tu: habías asentido
+  vos: habías asentido
+  ud: había asentido
+  nosotros: habíamos asentido
+  vosotros: habíais asentido
+  uds: habían asentido
+futuro-perfecto:
+  yo: habré asentido
+  tu: habrás asentido
+  vos: habrás asentido
+  ud: habrá asentido
+  nosotros: habremos asentido
+  vosotros: habréis asentido
+  uds: habrán asentido
+condicional-perfecto:
+  yo: habría asentido
+  tu: habrías asentido
+  vos: habrías asentido
+  ud: habría asentido
+  nosotros: habríamos asentido
+  vosotros: habríais asentido
+  uds: habrían asentido
+presente-subjuntivo:
+  yo: asienta
+  tu: asientas
+  vos: asientas
+  ud: asienta
+  nosotros: asintamos
+  vosotros: asintáis
+  uds: asientan
+preterito-perfecto-subjuntivo:
+  yo: haya asentido
+  tu: hayas asentido
+  vos: hayas asentido
+  ud: haya asentido
+  nosotros: hayamos asentido
+  vosotros: hayáis asentido
+  uds: hayan asentido
+imperfecto-subjuntivo:
+  yo:
+    - asintiera
+    - asintiese
+  tu:
+    - asintieras
+    - asintieses
+  vos:
+    - asintieras
+    - asintieses
+  ud:
+    - asintiera
+    - asintiese
+  nosotros:
+    - asintiéramos
+    - asintiésemos
+  vosotros:
+    - asintierais
+    - asintieseis
+  uds:
+    - asintieran
+    - asintiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asentido
+    - hubiese asentido
+  tu:
+    - hubieras asentido
+    - hubieses asentido
+  vos:
+    - hubieras asentido
+    - hubieses asentido
+  ud:
+    - hubiera asentido
+    - hubiese asentido
+  nosotros:
+    - hubiéramos asentido
+    - hubiésemos asentido
+  vosotros:
+    - hubierais asentido
+    - hubieseis asentido
+  uds:
+    - hubieran asentido
+    - hubiesen asentido
+imperativo:
+  tu: asiente
+  vos: asentí
+  ud: asienta
+  nosotros: asintamos
+  vosotros: asentid
+  uds: asientan

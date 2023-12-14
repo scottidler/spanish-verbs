@@ -1,0 +1,142 @@
+infinitivo: apresar
+gerundio: apresando
+participio-pasado: apresado
+presente-indicativo:
+  yo: apreso
+  tu: apresas
+  vos: apresas
+  ud: apresa
+  nosotros: apresamos
+  vosotros: apresáis
+  uds: apresan
+preterito-perfecto-simple:
+  yo: apresé
+  tu: apresaste
+  vos: apresaste
+  ud: apresó
+  nosotros: apresamos
+  vosotros: apresasteis
+  uds: apresaron
+preterito-imperfecto:
+  yo: apresaba
+  tu: apresabas
+  vos: apresabas
+  ud: apresaba
+  nosotros: apresábamos
+  vosotros: apresabais
+  uds: apresaban
+futuro-simple:
+  yo: apresaré
+  tu: apresarás
+  vos: apresarás
+  ud: apresará
+  nosotros: apresaremos
+  vosotros: apresaréis
+  uds: apresarán
+condicional-simple:
+  yo: apresaría
+  tu: apresarías
+  vos: apresarías
+  ud: apresaría
+  nosotros: apresaríamos
+  vosotros: apresaríais
+  uds: apresarían
+presente-perfecto:
+  yo: he apresado
+  tu: has apresado
+  vos: has apresado
+  ud: ha apresado
+  nosotros: hemos apresado
+  vosotros: habéis apresado
+  uds: han apresado
+preterito-pluscuamperfecto:
+  yo: había apresado
+  tu: habías apresado
+  vos: habías apresado
+  ud: había apresado
+  nosotros: habíamos apresado
+  vosotros: habíais apresado
+  uds: habían apresado
+futuro-perfecto:
+  yo: habré apresado
+  tu: habrás apresado
+  vos: habrás apresado
+  ud: habrá apresado
+  nosotros: habremos apresado
+  vosotros: habréis apresado
+  uds: habrán apresado
+condicional-perfecto:
+  yo: habría apresado
+  tu: habrías apresado
+  vos: habrías apresado
+  ud: habría apresado
+  nosotros: habríamos apresado
+  vosotros: habríais apresado
+  uds: habrían apresado
+presente-subjuntivo:
+  yo: aprese
+  tu: apreses
+  vos: apreses
+  ud: aprese
+  nosotros: apresemos
+  vosotros: apreséis
+  uds: apresen
+preterito-perfecto-subjuntivo:
+  yo: haya apresado
+  tu: hayas apresado
+  vos: hayas apresado
+  ud: haya apresado
+  nosotros: hayamos apresado
+  vosotros: hayáis apresado
+  uds: hayan apresado
+imperfecto-subjuntivo:
+  yo:
+    - apresara
+    - apresase
+  tu:
+    - apresaras
+    - apresases
+  vos:
+    - apresaras
+    - apresases
+  ud:
+    - apresara
+    - apresase
+  nosotros:
+    - apresáramos
+    - apresásemos
+  vosotros:
+    - apresarais
+    - apresaseis
+  uds:
+    - apresaran
+    - apresasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apresado
+    - hubiese apresado
+  tu:
+    - hubieras apresado
+    - hubieses apresado
+  vos:
+    - hubieras apresado
+    - hubieses apresado
+  ud:
+    - hubiera apresado
+    - hubiese apresado
+  nosotros:
+    - hubiéramos apresado
+    - hubiésemos apresado
+  vosotros:
+    - hubierais apresado
+    - hubieseis apresado
+  uds:
+    - hubieran apresado
+    - hubiesen apresado
+imperativo:
+  tu: apresa
+  vos: apresá
+  ud: aprese
+  nosotros: apresemos
+  vosotros: apresad
+  uds: apresen

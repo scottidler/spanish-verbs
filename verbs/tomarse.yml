@@ -1,0 +1,142 @@
+infinitivo: tomarse
+gerundio: tomándose
+participio-pasado: tomado
+presente-indicativo:
+  yo: me tomo
+  tu: te tomas
+  vos: te tomas
+  ud: se toma
+  nosotros: nos tomamos
+  vosotros: os tomáis
+  uds: se toman
+preterito-perfecto-simple:
+  yo: me tomé
+  tu: te tomaste
+  vos: te tomaste
+  ud: se tomó
+  nosotros: nos tomamos
+  vosotros: os tomasteis
+  uds: se tomaron
+preterito-imperfecto:
+  yo: me tomaba
+  tu: te tomabas
+  vos: te tomabas
+  ud: se tomaba
+  nosotros: nos tomábamos
+  vosotros: os tomabais
+  uds: se tomaban
+futuro-simple:
+  yo: me tomaré
+  tu: te tomarás
+  vos: te tomarás
+  ud: se tomará
+  nosotros: nos tomaremos
+  vosotros: os tomaréis
+  uds: se tomarán
+condicional-simple:
+  yo: me tomaría
+  tu: te tomarías
+  vos: te tomarías
+  ud: se tomaría
+  nosotros: nos tomaríamos
+  vosotros: os tomaríais
+  uds: se tomarían
+presente-perfecto:
+  yo: me he tomado
+  tu: te has tomado
+  vos: te has tomado
+  ud: se ha tomado
+  nosotros: nos hemos tomado
+  vosotros: os habéis tomado
+  uds: se han tomado
+preterito-pluscuamperfecto:
+  yo: me había tomado
+  tu: te habías tomado
+  vos: te habías tomado
+  ud: se había tomado
+  nosotros: nos habíamos tomado
+  vosotros: os habíais tomado
+  uds: se habían tomado
+futuro-perfecto:
+  yo: me habré tomado
+  tu: te habrás tomado
+  vos: te habrás tomado
+  ud: se habrá tomado
+  nosotros: nos habremos tomado
+  vosotros: os habréis tomado
+  uds: se habrán tomado
+condicional-perfecto:
+  yo: me habría tomado
+  tu: te habrías tomado
+  vos: te habrías tomado
+  ud: se habría tomado
+  nosotros: nos habríamos tomado
+  vosotros: os habríais tomado
+  uds: se habrían tomado
+presente-subjuntivo:
+  yo: me tome
+  tu: te tomes
+  vos: te tomes
+  ud: se tome
+  nosotros: nos tomemos
+  vosotros: os toméis
+  uds: se tomen
+preterito-perfecto-subjuntivo:
+  yo: me haya tomado
+  tu: te hayas tomado
+  vos: te hayas tomado
+  ud: se haya tomado
+  nosotros: nos hayamos tomado
+  vosotros: os hayáis tomado
+  uds: se hayan tomado
+imperfecto-subjuntivo:
+  yo:
+    - me tomara
+    - me tomase
+  tu:
+    - te tomaras
+    - te tomases
+  vos:
+    - te tomaras
+    - te tomases
+  ud:
+    - se tomara
+    - se tomase
+  nosotros:
+    - nos tomáramos
+    - nos tomásemos
+  vosotros:
+    - os tomarais
+    - os tomaseis
+  uds:
+    - se tomaran
+    - se tomasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera tomado
+    - me hubiese tomado
+  tu:
+    - te hubieras tomado
+    - te hubieses tomado
+  vos:
+    - te hubieras tomado
+    - te hubieses tomado
+  ud:
+    - se hubiera tomado
+    - se hubiese tomado
+  nosotros:
+    - nos hubiéramos tomado
+    - nos hubiésemos tomado
+  vosotros:
+    - os hubierais tomado
+    - os hubieseis tomado
+  uds:
+    - se hubieran tomado
+    - se hubiesen tomado
+imperativo:
+  tu: tómate
+  vos: tomate
+  ud: tómese
+  nosotros: tomémonos
+  vosotros: tomaos
+  uds: tómense

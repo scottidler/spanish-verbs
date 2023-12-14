@@ -1,0 +1,142 @@
+infinitivo: desenmascarar
+gerundio: desenmascarando
+participio-pasado: desenmascarado
+presente-indicativo:
+  yo: desenmascaro
+  tu: desenmascaras
+  vos: desenmascaras
+  ud: desenmascara
+  nosotros: desenmascaramos
+  vosotros: desenmascarais
+  uds: desenmascaran
+preterito-perfecto-simple:
+  yo: desenmascaré
+  tu: desenmascaraste
+  vos: desenmascaraste
+  ud: desenmascaró
+  nosotros: desenmascaramos
+  vosotros: desenmascarasteis
+  uds: desenmascararon
+preterito-imperfecto:
+  yo: desenmascaraba
+  tu: desenmascarabas
+  vos: desenmascarabas
+  ud: desenmascaraba
+  nosotros: desenmascarábamos
+  vosotros: desenmascarabais
+  uds: desenmascaraban
+futuro-simple:
+  yo: desenmascararé
+  tu: desenmascararás
+  vos: desenmascararás
+  ud: desenmascará
+  nosotros: desenmascararemos
+  vosotros: desenmascararéis
+  uds: desenmascararán
+condicional-simple:
+  yo: desenmascararía
+  tu: desenmascararías
+  vos: desenmascararías
+  ud: desenmascararía
+  nosotros: desenmascararíamos
+  vosotros: desenmascararíais
+  uds: desenmascararían
+presente-perfecto:
+  yo: he desenmascarado
+  tu: has desenmascarado
+  vos: has desenmascarado
+  ud: ha desenmascarado
+  nosotros: hemos desenmascarado
+  vosotros: habéis desenmascarado
+  uds: han desenmascarado
+preterito-pluscuamperfecto:
+  yo: había desenmascarado
+  tu: habías desenmascarado
+  vos: habías desenmascarado
+  ud: había desenmascarado
+  nosotros: habíamos desenmascarado
+  vosotros: habíais desenmascarado
+  uds: habían desenmascarado
+futuro-perfecto:
+  yo: habré desenmascarado
+  tu: habrás desenmascarado
+  vos: habrás desenmascarado
+  ud: habrá desenmascarado
+  nosotros: habremos desenmascarado
+  vosotros: habréis desenmascarado
+  uds: habrán desenmascarado
+condicional-perfecto:
+  yo: habría desenmascarado
+  tu: habrías desenmascarado
+  vos: habrías desenmascarado
+  ud: habría desenmascarado
+  nosotros: habríamos desenmascarado
+  vosotros: habríais desenmascarado
+  uds: habrían desenmascarado
+presente-subjuntivo:
+  yo: desenmascare
+  tu: desenmascares
+  vos: desenmascares
+  ud: desenmascare
+  nosotros: desenmascaremos
+  vosotros: desenmascareis
+  uds: desenmascaren
+preterito-perfecto-subjuntivo:
+  yo: haya desenmascarado
+  tu: hayas desenmascarado
+  vos: hayas desenmascarado
+  ud: haya desenmascarado
+  nosotros: hayamos desenmascarado
+  vosotros: hayáis desenmascarado
+  uds: hayan desenmascarado
+imperfecto-subjuntivo:
+  yo:
+    - desenmascarara
+    - desenmascarase
+  tu:
+    - desenmascararas
+    - desenmascarases
+  vos:
+    - desenmascararas
+    - desenmascarases
+  ud:
+    - desenmascarara
+    - desenmascarase
+  nosotros:
+    - desenmascaráramos
+    - desenmascarásemos
+  vosotros:
+    - desenmascararais
+    - desenmascaraseis
+  uds:
+    - desenmascararan
+    - desenmascarasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desenmascarado
+    - hubiese desenmascarado
+  tu:
+    - hubieras desenmascarado
+    - hubieses desenmascarado
+  vos:
+    - hubieras desenmascarado
+    - hubieses desenmascarado
+  ud:
+    - hubiera desenmascarado
+    - hubiese desenmascarado
+  nosotros:
+    - hubiéramos desenmascarado
+    - hubiésemos desenmascarado
+  vosotros:
+    - hubierais desenmascarado
+    - hubieseis desenmascarado
+  uds:
+    - hubieran desenmascarado
+    - hubiesen desenmascarado
+imperativo:
+  tu: desenmascara
+  vos: desenmáscara
+  ud: desenmascare
+  nosotros: desenmascaremos
+  vosotros: desenmascarad
+  uds: desenmascaren

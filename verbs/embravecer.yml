@@ -1,0 +1,142 @@
+infinitivo: embravecer
+gerundio: embraveciendo
+participio-pasado: embravecido
+presente-indicativo:
+  yo: embravezco
+  tu: embraveces
+  vos: embravecés
+  ud: embravece
+  nosotros: embravecemos
+  vosotros: embravecéis
+  uds: embravecen
+preterito-perfecto-simple:
+  yo: embravecí
+  tu: embraveciste
+  vos: embraveciste
+  ud: embraveció
+  nosotros: embravecimos
+  vosotros: embravecisteis
+  uds: embravecieron
+preterito-imperfecto:
+  yo: embravecía
+  tu: embravecías
+  vos: embravecías
+  ud: embravecía
+  nosotros: embravecíamos
+  vosotros: embravecíais
+  uds: embravecían
+futuro-simple:
+  yo: embraveceré
+  tu: embravecerás
+  vos: embravecerás
+  ud: embravecerá
+  nosotros: embraveceremos
+  vosotros: embraveceréis
+  uds: embravecerán
+condicional-simple:
+  yo: embravecería
+  tu: embravecerías
+  vos: embravecerías
+  ud: embravecería
+  nosotros: embraveceríamos
+  vosotros: embraveceríais
+  uds: embravecerían
+presente-perfecto:
+  yo: he embravecido
+  tu: has embravecido
+  vos: has embravecido
+  ud: ha embravecido
+  nosotros: hemos embravecido
+  vosotros: habéis embravecido
+  uds: han embravecido
+preterito-pluscuamperfecto:
+  yo: había embravecido
+  tu: habías embravecido
+  vos: habías embravecido
+  ud: había embravecido
+  nosotros: habíamos embravecido
+  vosotros: habíais embravecido
+  uds: habían embravecido
+futuro-perfecto:
+  yo: habré embravecido
+  tu: habrás embravecido
+  vos: habrás embravecido
+  ud: habrá embravecido
+  nosotros: habremos embravecido
+  vosotros: habréis embravecido
+  uds: habrán embravecido
+condicional-perfecto:
+  yo: habría embravecido
+  tu: habrías embravecido
+  vos: habrías embravecido
+  ud: habría embravecido
+  nosotros: habríamos embravecido
+  vosotros: habríais embravecido
+  uds: habrían embravecido
+presente-subjuntivo:
+  yo: embravezca
+  tu: embravezcás
+  vos: embravezcás
+  ud: embravezca
+  nosotros: embravezcamos
+  vosotros: embravezcáis
+  uds: embravezcan
+preterito-perfecto-subjuntivo:
+  yo: haya embravecido
+  tu: hayas embravecido
+  vos: hayas embravecido
+  ud: haya embravecido
+  nosotros: hayamos embravecido
+  vosotros: hayáis embravecido
+  uds: hayan embravecido
+imperfecto-subjuntivo:
+  yo:
+    - embraveciera
+    - embraveciese
+  tu:
+    - embravecieras
+    - embravecieses
+  vos:
+    - embravecieras
+    - embravecieses
+  ud:
+    - embraveciera
+    - embraveciese
+  nosotros:
+    - embravecieramos
+    - embravecíesemos
+  vosotros:
+    - embravecierais
+    - embravecieseis
+  uds:
+    - embravecieran
+    - embraveciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera embravecido
+    - hubiese embravecido
+  tu:
+    - hubieras embravecido
+    - hubieses embravecido
+  vos:
+    - hubieras embravecido
+    - hubieses embravecido
+  ud:
+    - hubiera embravecido
+    - hubiese embravecido
+  nosotros:
+    - hubiéramos embravecido
+    - hubiésemos embravecido
+  vosotros:
+    - hubierais embravecido
+    - hubieseis embravecido
+  uds:
+    - hubieran embravecido
+    - hubiesen embravecido
+imperativo:
+  tu: embravece
+  vos: embravecé
+  ud: embravezca
+  nosotros: embravezcamos
+  vosotros: embraveced
+  uds: embravezcan

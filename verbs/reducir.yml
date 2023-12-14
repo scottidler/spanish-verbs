@@ -1,0 +1,142 @@
+infinitivo: reducir
+gerundio: reduciendo
+participio-pasado: reducido
+presente-indicativo:
+  yo: reduzco
+  tu: reduces
+  vos: reducís
+  ud: reduce
+  nosotros: reducimos
+  vosotros: reducís
+  uds: reducen
+preterito-perfecto-simple:
+  yo: reduje
+  tu: redujiste
+  vos: redujiste
+  ud: redujo
+  nosotros: redujimos
+  vosotros: redujisteis
+  uds: redujeron
+preterito-imperfecto:
+  yo: reducía
+  tu: reducías
+  vos: reducías
+  ud: reducía
+  nosotros: reducíamos
+  vosotros: reducíais
+  uds: reducían
+futuro-simple:
+  yo: reduciré
+  tu: reducirás
+  vos: reducirás
+  ud: reducirá
+  nosotros: reduciremos
+  vosotros: reduciréis
+  uds: reducirán
+condicional-simple:
+  yo: reduciría
+  tu: reducirías
+  vos: reducirías
+  ud: reduciría
+  nosotros: reduciríamos
+  vosotros: reduciríais
+  uds: reducirían
+presente-perfecto:
+  yo: he reducido
+  tu: has reducido
+  vos: has reducido
+  ud: ha reducido
+  nosotros: hemos reducido
+  vosotros: habéis reducido
+  uds: han reducido
+preterito-pluscuamperfecto:
+  yo: había reducido
+  tu: habías reducido
+  vos: habías reducido
+  ud: había reducido
+  nosotros: habíamos reducido
+  vosotros: habíais reducido
+  uds: habían reducido
+futuro-perfecto:
+  yo: habré reducido
+  tu: habrás reducido
+  vos: habrás reducido
+  ud: habrá reducido
+  nosotros: habremos reducido
+  vosotros: habréis reducido
+  uds: habrán reducido
+condicional-perfecto:
+  yo: habría reducido
+  tu: habrías reducido
+  vos: habrías reducido
+  ud: habría reducido
+  nosotros: habríamos reducido
+  vosotros: habríais reducido
+  uds: habrían reducido
+presente-subjuntivo:
+  yo: reduzca
+  tu: reduzcas
+  vos: reduzcas
+  ud: reduzca
+  nosotros: reduzcamos
+  vosotros: reduzcáis
+  uds: reduzcan
+preterito-perfecto-subjuntivo:
+  yo: haya reducido
+  tu: hayas reducido
+  vos: hayas reducido
+  ud: haya reducido
+  nosotros: hayamos reducido
+  vosotros: hayáis reducido
+  uds: hayan reducido
+imperfecto-subjuntivo:
+  yo:
+    - redujera
+    - redujese
+  tu:
+    - redujeras
+    - redujeses
+  vos:
+    - redujeras
+    - redujeses
+  ud:
+    - redujera
+    - redujese
+  nosotros:
+    - redujéramos
+    - redujésemos
+  vosotros:
+    - redujerais
+    - redujeseis
+  uds:
+    - redujeran
+    - redujesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reducido
+    - hubiese reducido
+  tu:
+    - hubieras reducido
+    - hubieses reducido
+  vos:
+    - hubieras reducido
+    - hubieses reducido
+  ud:
+    - hubiera reducido
+    - hubiese reducido
+  nosotros:
+    - hubiéramos reducido
+    - hubiésemos reducido
+  vosotros:
+    - hubierais reducido
+    - hubieseis reducido
+  uds:
+    - hubieran reducido
+    - hubiesen reducido
+imperativo:
+  tu: reduce
+  vos: reducí
+  ud: reduzca
+  nosotros: reduzcamos
+  vosotros: reducid
+  uds: reduzcan

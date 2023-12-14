@@ -1,0 +1,142 @@
+infinitivo: dialogar
+gerundio: dialogando
+participio-pasado: dialogado
+presente-indicativo:
+  yo: dialogo
+  tu: dialogas
+  vos: dialogas
+  ud: dialoga
+  nosotros: dialogamos
+  vosotros: dialogáis
+  uds: dialogan
+preterito-perfecto-simple:
+  yo: dialogué
+  tu: dialogaste
+  vos: dialogaste
+  ud: dialogó
+  nosotros: dialogamos
+  vosotros: dialogasteis
+  uds: dialogaron
+preterito-imperfecto:
+  yo: dialogaba
+  tu: dialogabas
+  vos: dialogabas
+  ud: dialogaba
+  nosotros: dialogábamos
+  vosotros: dialogabais
+  uds: dialogaban
+futuro-simple:
+  yo: dialogaré
+  tu: dialogarás
+  vos: dialogarás
+  ud: dialogará
+  nosotros: dialogaremos
+  vosotros: dialogaréis
+  uds: dialogarán
+condicional-simple:
+  yo: dialogaría
+  tu: dialogarías
+  vos: dialogarías
+  ud: dialogaría
+  nosotros: dialogaríamos
+  vosotros: dialogaríais
+  uds: dialogarían
+presente-perfecto:
+  yo: he dialogado
+  tu: has dialogado
+  vos: has dialogado
+  ud: ha dialogado
+  nosotros: hemos dialogado
+  vosotros: habéis dialogado
+  uds: han dialogado
+preterito-pluscuamperfecto:
+  yo: había dialogado
+  tu: habías dialogado
+  vos: habías dialogado
+  ud: había dialogado
+  nosotros: habíamos dialogado
+  vosotros: habíais dialogado
+  uds: habían dialogado
+futuro-perfecto:
+  yo: habré dialogado
+  tu: habrás dialogado
+  vos: habrás dialogado
+  ud: habrá dialogado
+  nosotros: habremos dialogado
+  vosotros: habréis dialogado
+  uds: habrán dialogado
+condicional-perfecto:
+  yo: habría dialogado
+  tu: habrías dialogado
+  vos: habrías dialogado
+  ud: habría dialogado
+  nosotros: habríamos dialogado
+  vosotros: habríais dialogado
+  uds: habrían dialogado
+presente-subjuntivo:
+  yo: dialogue
+  tu: dialogues
+  vos: dialogues
+  ud: dialogue
+  nosotros: dialoguemos
+  vosotros: dialoguéis
+  uds: dialoguen
+preterito-perfecto-subjuntivo:
+  yo: haya dialogado
+  tu: hayas dialogado
+  vos: hayas dialogado
+  ud: haya dialogado
+  nosotros: hayamos dialogado
+  vosotros: hayáis dialogado
+  uds: hayan dialogado
+imperfecto-subjuntivo:
+  yo:
+    - dialogara
+    - dialogase
+  tu:
+    - dialogaras
+    - dialogases
+  vos:
+    - dialogaras
+    - dialogases
+  ud:
+    - dialogara
+    - dialogase
+  nosotros:
+    - dialogáramos
+    - dialogásemos
+  vosotros:
+    - dialogarais
+    - dialogaseis
+  uds:
+    - dialogaran
+    - dialogasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dialogado
+    - hubiese dialogado
+  tu:
+    - hubieras dialogado
+    - hubieses dialogado
+  vos:
+    - hubieras dialogado
+    - hubieses dialogado
+  ud:
+    - hubiera dialogado
+    - hubiese dialogado
+  nosotros:
+    - hubiéramos dialogado
+    - hubiésemos dialogado
+  vosotros:
+    - hubierais dialogado
+    - hubieseis dialogado
+  uds:
+    - hubieran dialogado
+    - hubiesen dialogado
+imperativo:
+  tu: dialoga
+  vos: dialogá
+  ud: dialogue
+  nosotros: dialoguemos
+  vosotros: dialogad
+  uds: dialoguen

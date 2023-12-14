@@ -1,0 +1,142 @@
+infinitivo: balancearse
+gerundio: balanceándose
+participio-pasado: balanceado
+presente-indicativo:
+  yo: me balanceo
+  tu: te balanceas
+  vos: te balanceas
+  ud: se balancea
+  nosotros: nos balanceamos
+  vosotros: os balanceáis
+  uds: se balancean
+preterito-perfecto-simple:
+  yo: me balanceé
+  tu: te balanceaste
+  vos: te balanceaste
+  ud: se balanceó
+  nosotros: nos balanceamos
+  vosotros: os balanceasteis
+  uds: se balancearon
+preterito-imperfecto:
+  yo: me balanceaba
+  tu: te balanceabas
+  vos: te balanceabas
+  ud: se balanceaba
+  nosotros: nos balanceábamos
+  vosotros: os balanceabais
+  uds: se balanceaban
+futuro-simple:
+  yo: me balancearé
+  tu: te balancearás
+  vos: te balancearás
+  ud: se balanceará
+  nosotros: nos balancearemos
+  vosotros: os balancearéis
+  uds: se balancearán
+condicional-simple:
+  yo: me balancearía
+  tu: te balancearías
+  vos: te balancearías
+  ud: se balancearía
+  nosotros: nos balancearíamos
+  vosotros: os balancearíais
+  uds: se balancearían
+presente-perfecto:
+  yo: me he balanceado
+  tu: te has balanceado
+  vos: te has balanceado
+  ud: se ha balanceado
+  nosotros: nos hemos balanceado
+  vosotros: os habéis balanceado
+  uds: se han balanceado
+preterito-pluscuamperfecto:
+  yo: me había balanceado
+  tu: te habías balanceado
+  vos: te habías balanceado
+  ud: se había balanceado
+  nosotros: nos habíamos balanceado
+  vosotros: os habíais balanceado
+  uds: se habían balanceado
+futuro-perfecto:
+  yo: me habré balanceado
+  tu: te habrás balanceado
+  vos: te habrás balanceado
+  ud: se habrá balanceado
+  nosotros: nos habremos balanceado
+  vosotros: os habréis balanceado
+  uds: se habrán balanceado
+condicional-perfecto:
+  yo: me habría balanceado
+  tu: te habrías balanceado
+  vos: te habrías balanceado
+  ud: se habría balanceado
+  nosotros: nos habríamos balanceado
+  vosotros: os habríais balanceado
+  uds: se habrían balanceado
+presente-subjuntivo:
+  yo: me balancee
+  tu: te balancees
+  vos: te balancees
+  ud: se balancee
+  nosotros: nos balanceemos
+  vosotros: os balanceéis
+  uds: se balanceen
+preterito-perfecto-subjuntivo:
+  yo: me haya balanceado
+  tu: te hayas balanceado
+  vos: te hayas balanceado
+  ud: se haya balanceado
+  nosotros: nos hayamos balanceado
+  vosotros: os hayáis balanceado
+  uds: se hayan balanceado
+imperfecto-subjuntivo:
+  yo:
+    - me balanceara
+    - me balancease
+  tu:
+    - te balancearas
+    - te balanceases
+  vos:
+    - te balancearas
+    - te balanceases
+  ud:
+    - se balanceara
+    - se balancease
+  nosotros:
+    - nos balanceáramos
+    - nos balanceásemos
+  vosotros:
+    - os balancearais
+    - os balanceaseis
+  uds:
+    - se balancearan
+    - se balanceasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera balanceado
+    - me hubiese balanceado
+  tu:
+    - te hubieras balanceado
+    - te hubieses balanceado
+  vos:
+    - te hubieras balanceado
+    - te hubieses balanceado
+  ud:
+    - se hubiera balanceado
+    - se hubiese balanceado
+  nosotros:
+    - nos hubiéramos balanceado
+    - nos hubiésemos balanceado
+  vosotros:
+    - os hubierais balanceado
+    - os hubieseis balanceado
+  uds:
+    - se hubieran balanceado
+    - se hubiesen balanceado
+imperativo:
+  tu: balanceate
+  vos: balanceáte
+  ud: balanceese
+  nosotros: balanceémonos
+  vosotros: balanceaos
+  uds: balanceense

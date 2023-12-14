@@ -1,0 +1,142 @@
+infinitivo: allámpujar
+gerundio: allámpujando
+participio-pasado: allámpujado
+presente-indicativo:
+  yo: allámpujo
+  tu: allámpujas
+  vos: allámpujas
+  ud: allámpuja
+  nosotros: allámpujamos
+  vosotros: allámpujáis
+  uds: allámpujan
+preterito-perfecto-simple:
+  yo: allámpujé
+  tu: allámpujaste
+  vos: allámpujaste
+  ud: allámpujó
+  nosotros: allámpujamos
+  vosotros: allámpujasteis
+  uds: allámpujaron
+preterito-imperfecto:
+  yo: allámpujaba
+  tu: allámpujabas
+  vos: allámpujabas
+  ud: allámpujaba
+  nosotros: allámpujábamos
+  vosotros: allámpujabais
+  uds: allámpujaban
+futuro-simple:
+  yo: allámpujaré
+  tu: allámpujarás
+  vos: allámpujarás
+  ud: allámpujará
+  nosotros: allámpujaremos
+  vosotros: allámpujaréis
+  uds: allámpujarán
+condicional-simple:
+  yo: allámpujaría
+  tu: allámpujarías
+  vos: allámpujarías
+  ud: allámpujaría
+  nosotros: allámpujaríamos
+  vosotros: allámpujaríais
+  uds: allámpujarían
+presente-perfecto:
+  yo: he allámpujado
+  tu: has allámpujado
+  vos: has allámpujado
+  ud: ha allámpujado
+  nosotros: hemos allámpujado
+  vosotros: habéis allámpujado
+  uds: han allámpujado
+preterito-pluscuamperfecto:
+  yo: había allámpujado
+  tu: habías allámpujado
+  vos: habías allámpujado
+  ud: había allámpujado
+  nosotros: habíamos allámpujado
+  vosotros: habíais allámpujado
+  uds: habían allámpujado
+futuro-perfecto:
+  yo: habré allámpujado
+  tu: habrás allámpujado
+  vos: habrás allámpujado
+  ud: habrá allámpujado
+  nosotros: habremos allámpujado
+  vosotros: habréis allámpujado
+  uds: habrán allámpujado
+condicional-perfecto:
+  yo: habría allámpujado
+  tu: habrías allámpujado
+  vos: habrías allámpujado
+  ud: habría allámpujado
+  nosotros: habríamos allámpujado
+  vosotros: habríais allámpujado
+  uds: habrían allámpujado
+presente-subjuntivo:
+  yo: allámpuje
+  tu: allámpujes
+  vos: allámpujes
+  ud: allámpuje
+  nosotros: allámpujemos
+  vosotros: allámpujéis
+  uds: allámpujen
+preterito-perfecto-subjuntivo:
+  yo: haya allámpujado
+  tu: hayas allámpujado
+  vos: hayas allámpujado
+  ud: haya allámpujado
+  nosotros: hayamos allámpujado
+  vosotros: hayáis allámpujado
+  uds: hayan allámpujado
+imperfecto-subjuntivo:
+  yo:
+    - allámpujara
+    - allámpujase
+  tu:
+    - allámpujaras
+    - allámpujases
+  vos:
+    - allámpujaras
+    - allámpujases
+  ud:
+    - allámpujara
+    - allámpujase
+  nosotros:
+    - allámpujáramos
+    - allámpujásemos
+  vosotros:
+    - allámpujarais
+    - allámpujaseis
+  uds:
+    - allámpujaran
+    - allámpujasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera allámpujado
+    - hubiese allámpujado
+  tu:
+    - hubieras allámpujado
+    - hubieses allámpujado
+  vos:
+    - hubieras allámpujado
+    - hubieses allámpujado
+  ud:
+    - hubiera allámpujado
+    - hubiese allámpujado
+  nosotros:
+    - hubiéramos allámpujado
+    - hubiésemos allámpujado
+  vosotros:
+    - hubierais allámpujado
+    - hubieseis allámpujado
+  uds:
+    - hubieran allámpujado
+    - hubiesen allámpujado
+imperativo:
+  tu: allámpuja
+  vos: allámpujá
+  ud: allámpuje
+  nosotros: allámpujemos
+  vosotros: allámpujad
+  uds: allámpujen

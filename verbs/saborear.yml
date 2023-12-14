@@ -1,0 +1,142 @@
+infinitivo: saborear
+gerundio: saboreando
+participio-pasado: saboreado
+presente-indicativo:
+  yo: saboreo
+  tu: saboreas
+  vos: saboreas
+  ud: saborea
+  nosotros: saboreamos
+  vosotros: saboreáis
+  uds: saborean
+preterito-perfecto-simple:
+  yo: saboreé
+  tu: saboreaste
+  vos: saboreaste
+  ud: saboreó
+  nosotros: saboreamos
+  vosotros: saboreasteis
+  uds: saborearon
+preterito-imperfecto:
+  yo: saboreaba
+  tu: saboreabas
+  vos: saboreabas
+  ud: saboreaba
+  nosotros: saboreábamos
+  vosotros: saboreabais
+  uds: saboreaban
+futuro-simple:
+  yo: saborearé
+  tu: saborearás
+  vos: saborearás
+  ud: saboreará
+  nosotros: saborearemos
+  vosotros: saborearéis
+  uds: saborearán
+condicional-simple:
+  yo: saborearía
+  tu: saborearías
+  vos: saborearías
+  ud: saborearía
+  nosotros: saborearíamos
+  vosotros: saborearíais
+  uds: saborearían
+presente-perfecto:
+  yo: he saboreado
+  tu: has saboreado
+  vos: has saboreado
+  ud: ha saboreado
+  nosotros: hemos saboreado
+  vosotros: habéis saboreado
+  uds: han saboreado
+preterito-pluscuamperfecto:
+  yo: había saboreado
+  tu: habías saboreado
+  vos: habías saboreado
+  ud: había saboreado
+  nosotros: habíamos saboreado
+  vosotros: habíais saboreado
+  uds: habían saboreado
+futuro-perfecto:
+  yo: habré saboreado
+  tu: habrás saboreado
+  vos: habrás saboreado
+  ud: habrá saboreado
+  nosotros: habremos saboreado
+  vosotros: habréis saboreado
+  uds: habrán saboreado
+condicional-perfecto:
+  yo: habría saboreado
+  tu: habrías saboreado
+  vos: habrías saboreado
+  ud: habría saboreado
+  nosotros: habríamos saboreado
+  vosotros: habríais saboreado
+  uds: habrían saboreado
+presente-subjuntivo:
+  yo: saboree
+  tu: saborees
+  vos: saborees
+  ud: saboree
+  nosotros: saboreemos
+  vosotros: saboreéis
+  uds: saboreen
+preterito-perfecto-subjuntivo:
+  yo: haya saboreado
+  tu: hayas saboreado
+  vos: hayas saboreado
+  ud: haya saboreado
+  nosotros: hayamos saboreado
+  vosotros: hayáis saboreado
+  uds: hayan saboreado
+imperfecto-subjuntivo:
+  yo:
+    - saboreara
+    - saborease
+  tu:
+    - saborearas
+    - saboreases
+  vos:
+    - saborearas
+    - saboreases
+  ud:
+    - saboreara
+    - saborease
+  nosotros:
+    - saboreáramos
+    - saboreásemos
+  vosotros:
+    - saborearais
+    - saboreaseis
+  uds:
+    - saborearan
+    - saboreasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera saboreado
+    - hubiese saboreado
+  tu:
+    - hubieras saboreado
+    - hubieses saboreado
+  vos:
+    - hubieras saboreado
+    - hubieses saboreado
+  ud:
+    - hubiera saboreado
+    - hubiese saboreado
+  nosotros:
+    - hubiéramos saboreado
+    - hubiésemos saboreado
+  vosotros:
+    - hubierais saboreado
+    - hubieseis saboreado
+  uds:
+    - hubieran saboreado
+    - hubiesen saboreado
+imperativo:
+  tu: saborea
+  vos: saboreá
+  ud: saboree
+  nosotros: saboreemos
+  vosotros: saboread
+  uds: saboreen

@@ -1,0 +1,142 @@
+infinitivo: insultar
+gerundio: insultando
+participio-pasado: insultado
+presente-indicativo:
+  yo: insulto
+  tu: insultas
+  vos: insultás
+  ud: insulta
+  nosotros: insultamos
+  vosotros: insultáis
+  uds: insultan
+preterito-perfecto-simple:
+  yo: insulté
+  tu: insultaste
+  vos: insultaste
+  ud: insultó
+  nosotros: insultamos
+  vosotros: insultasteis
+  uds: insultaron
+preterito-imperfecto:
+  yo: insultaba
+  tu: insultabas
+  vos: insultabas
+  ud: insultaba
+  nosotros: insultábamos
+  vosotros: insultabais
+  uds: insultaban
+futuro-simple:
+  yo: insultaré
+  tu: insultarás
+  vos: insultarás
+  ud: insultará
+  nosotros: insultaremos
+  vosotros: insultaréis
+  uds: insultarán
+condicional-simple:
+  yo: insultaría
+  tu: insultarías
+  vos: insultarías
+  ud: insultaría
+  nosotros: insultaríamos
+  vosotros: insultaríais
+  uds: insultarían
+presente-perfecto:
+  yo: he insultado
+  tu: has insultado
+  vos: has insultado
+  ud: ha insultado
+  nosotros: hemos insultado
+  vosotros: habéis insultado
+  uds: han insultado
+preterito-pluscuamperfecto:
+  yo: había insultado
+  tu: habías insultado
+  vos: habías insultado
+  ud: había insultado
+  nosotros: habíamos insultado
+  vosotros: habíais insultado
+  uds: habían insultado
+futuro-perfecto:
+  yo: habré insultado
+  tu: habrás insultado
+  vos: habrás insultado
+  ud: habrá insultado
+  nosotros: habremos insultado
+  vosotros: habréis insultado
+  uds: habrán insultado
+condicional-perfecto:
+  yo: habría insultado
+  tu: habrías insultado
+  vos: habrías insultado
+  ud: habría insultado
+  nosotros: habríamos insultado
+  vosotros: habríais insultado
+  uds: habrían insultado
+presente-subjuntivo:
+  yo: insulte
+  tu: insultes
+  vos: insultes
+  ud: insulte
+  nosotros: insultemos
+  vosotros: insultéis
+  uds: insulten
+preterito-perfecto-subjuntivo:
+  yo: haya insultado
+  tu: hayas insultado
+  vos: hayas insultado
+  ud: haya insultado
+  nosotros: hayamos insultado
+  vosotros: hayáis insultado
+  uds: hayan insultado
+imperfecto-subjuntivo:
+  yo:
+    - insultara
+    - insultase
+  tu:
+    - insultaras
+    - insultases
+  vos:
+    - insultaras
+    - insultases
+  ud:
+    - insultara
+    - insultase
+  nosotros:
+    - insultáramos
+    - insultásemos
+  vosotros:
+    - insultarais
+    - insultaseis
+  uds:
+    - insultaran
+    - insultasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera insultado
+    - hubiese insultado
+  tu:
+    - hubieras insultado
+    - hubieses insultado
+  vos:
+    - hubieras insultado
+    - hubieses insultado
+  ud:
+    - hubiera insultado
+    - hubiese insultado
+  nosotros:
+    - hubiéramos insultado
+    - hubiésemos insultado
+  vosotros:
+    - hubierais insultado
+    - hubieseis insultado
+  uds:
+    - hubieran insultado
+    - hubiesen insultado
+imperativo:
+  tu: insulta
+  vos: insultá
+  ud: insulte
+  nosotros: insultemos
+  vosotros: insultad
+  uds: insulten

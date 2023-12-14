@@ -1,0 +1,142 @@
+infinitivo: tronchar
+gerundio: tronchando
+participio-pasado: tronchado
+presente-indicativo:
+  yo: troncho
+  tu: tronchas
+  vos: tronchás
+  ud: troncha
+  nosotros: tronchamos
+  vosotros: troncháis
+  uds: tronchan
+preterito-perfecto-simple:
+  yo: tronché
+  tu: tronchaste
+  vos: tronchaste
+  ud: tronchó
+  nosotros: tronchamos
+  vosotros: tronchasteis
+  uds: troncharon
+preterito-imperfecto:
+  yo: tronchaba
+  tu: tronchabas
+  vos: tronchabas
+  ud: tronchaba
+  nosotros: tronchábamos
+  vosotros: tronchabais
+  uds: tronchaban
+futuro-simple:
+  yo: troncharé
+  tu: troncharás
+  vos: troncharás
+  ud: tronchará
+  nosotros: troncharemos
+  vosotros: troncharéis
+  uds: troncharán
+condicional-simple:
+  yo: troncharía
+  tu: troncharías
+  vos: troncharías
+  ud: troncharía
+  nosotros: troncharíamos
+  vosotros: troncharíais
+  uds: troncharían
+presente-perfecto:
+  yo: he tronchado
+  tu: has tronchado
+  vos: has tronchado
+  ud: ha tronchado
+  nosotros: hemos tronchado
+  vosotros: habéis tronchado
+  uds: han tronchado
+preterito-pluscuamperfecto:
+  yo: había tronchado
+  tu: habías tronchado
+  vos: habías tronchado
+  ud: había tronchado
+  nosotros: habíamos tronchado
+  vosotros: habíais tronchado
+  uds: habían tronchado
+futuro-perfecto:
+  yo: habré tronchado
+  tu: habrás tronchado
+  vos: habrás tronchado
+  ud: habrá tronchado
+  nosotros: habremos tronchado
+  vosotros: habréis tronchado
+  uds: habrán tronchado
+condicional-perfecto:
+  yo: habría tronchado
+  tu: habrías tronchado
+  vos: habrías tronchado
+  ud: habría tronchado
+  nosotros: habríamos tronchado
+  vosotros: habríais tronchado
+  uds: habrían tronchado
+presente-subjuntivo:
+  yo: tronche
+  tu: tronches
+  vos: tronches
+  ud: tronche
+  nosotros: tronchemos
+  vosotros: tronchéis
+  uds: tronchen
+preterito-perfecto-subjuntivo:
+  yo: haya tronchado
+  tu: hayas tronchado
+  vos: hayas tronchado
+  ud: haya tronchado
+  nosotros: hayamos tronchado
+  vosotros: hayáis tronchado
+  uds: hayan tronchado
+imperfecto-subjuntivo:
+  yo:
+    - tronchara
+    - tronchase
+  tu:
+    - troncharas
+    - tronchases
+  vos:
+    - troncharas
+    - tronchases
+  ud:
+    - tronchara
+    - tronchase
+  nosotros:
+    - troncháramos
+    - tronchásemos
+  vosotros:
+    - troncharais
+    - tronchaseis
+  uds:
+    - troncharan
+    - tronchasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tronchado
+    - hubiese tronchado
+  tu:
+    - hubieras tronchado
+    - hubieses tronchado
+  vos:
+    - hubieras tronchado
+    - hubieses tronchado
+  ud:
+    - hubiera tronchado
+    - hubiese tronchado
+  nosotros:
+    - hubiéramos tronchado
+    - hubiésemos tronchado
+  vosotros:
+    - hubierais tronchado
+    - hubieseis tronchado
+  uds:
+    - hubieran tronchado
+    - hubiesen tronchado
+imperativo:
+  tu: troncha
+  vos: tronchá
+  ud: tronche
+  nosotros: tronchemos
+  vosotros: tronchad
+  uds: tronchen

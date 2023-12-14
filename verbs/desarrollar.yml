@@ -1,0 +1,142 @@
+infinitivo: desarrollar
+gerundio: desarrollando
+participio-pasado: desarrollado
+presente-indicativo:
+  yo: desarrollo
+  tu: desarrollas
+  vos: desarrollas
+  ud: desarrolla
+  nosotros: desarrollamos
+  vosotros: desarrolláis
+  uds: desarrollan
+preterito-perfecto-simple:
+  yo: desarrollé
+  tu: desarrollaste
+  vos: desarrollaste
+  ud: desarrolló
+  nosotros: desarrollamos
+  vosotros: desarrollasteis
+  uds: desarrollaron
+preterito-imperfecto:
+  yo: desarrollaba
+  tu: desarrollabas
+  vos: desarrollabas
+  ud: desarrollaba
+  nosotros: desarrollábamos
+  vosotros: desarrollabais
+  uds: desarrollaban
+futuro-simple:
+  yo: desarrollaré
+  tu: desarrollarás
+  vos: desarrollarás
+  ud: desarrollará
+  nosotros: desarrollaremos
+  vosotros: desarrollaréis
+  uds: desarrollarán
+condicional-simple:
+  yo: desarrollaría
+  tu: desarrollarías
+  vos: desarrollarías
+  ud: desarrollaría
+  nosotros: desarrollaríamos
+  vosotros: desarrollaríais
+  uds: desarrollarían
+presente-perfecto:
+  yo: he desarrollado
+  tu: has desarrollado
+  vos: has desarrollado
+  ud: ha desarrollado
+  nosotros: hemos desarrollado
+  vosotros: habéis desarrollado
+  uds: han desarrollado
+preterito-pluscuamperfecto:
+  yo: había desarrollado
+  tu: habías desarrollado
+  vos: habías desarrollado
+  ud: había desarrollado
+  nosotros: habíamos desarrollado
+  vosotros: habíais desarrollado
+  uds: habían desarrollado
+futuro-perfecto:
+  yo: habré desarrollado
+  tu: habrás desarrollado
+  vos: habrás desarrollado
+  ud: habrá desarrollado
+  nosotros: habremos desarrollado
+  vosotros: habréis desarrollado
+  uds: habrán desarrollado
+condicional-perfecto:
+  yo: habría desarrollado
+  tu: habrías desarrollado
+  vos: habrías desarrollado
+  ud: habría desarrollado
+  nosotros: habríamos desarrollado
+  vosotros: habríais desarrollado
+  uds: habrían desarrollado
+presente-subjuntivo:
+  yo: desarrolle
+  tu: desarrolles
+  vos: desarrolles
+  ud: desarrolle
+  nosotros: desarrollemos
+  vosotros: desarrolléis
+  uds: desarrollen
+preterito-perfecto-subjuntivo:
+  yo: haya desarrollado
+  tu: hayas desarrollado
+  vos: hayas desarrollado
+  ud: haya desarrollado
+  nosotros: hayamos desarrollado
+  vosotros: hayáis desarrollado
+  uds: hayan desarrollado
+imperfecto-subjuntivo:
+  yo:
+    - desarrollara
+    - desarrollase
+  tu:
+    - desarrollaras
+    - desarrolleses
+  vos:
+    - desarrollaras
+    - desarrolleses
+  ud:
+    - desarrollara
+    - desarrollase
+  nosotros:
+    - desarrolláramos
+    - desarrollásemos
+  vosotros:
+    - desarrollarais
+    - desarrolleaseis
+  uds:
+    - desarrollaran
+    - desarrollasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desarrollado
+    - hubiese desarrollado
+  tu:
+    - hubieras desarrollado
+    - hubieses desarrollado
+  vos:
+    - hubieras desarrollado
+    - hubieses desarrollado
+  ud:
+    - hubiera desarrollado
+    - hubiese desarrollado
+  nosotros:
+    - hubiéramos desarrollado
+    - hubiésemos desarrollado
+  vosotros:
+    - hubierais desarrollado
+    - hubieseis desarrollado
+  uds:
+    - hubieran desarrollado
+    - hubiesen desarrollado
+imperativo:
+  tu: desarrolla
+  vos: desarrollá
+  ud: desarrolle
+  nosotros: desarrollemos
+  vosotros: desarrollad
+  uds: desarrollen

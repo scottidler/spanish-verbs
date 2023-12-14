@@ -1,0 +1,142 @@
+infinitivo: revelar
+gerundio: revelando
+participio-pasado: revelado
+presente-indicativo:
+  yo: revelo
+  tu: revelas
+  vos: revelas
+  ud: revela
+  nosotros: revelamos
+  vosotros: reveláis
+  uds: revelan
+preterito-perfecto-simple:
+  yo: revelé
+  tu: revelaste
+  vos: revelaste
+  ud: reveló
+  nosotros: revelamos
+  vosotros: revelasteis
+  uds: revelaron
+preterito-imperfecto:
+  yo: revelaba
+  tu: revelabas
+  vos: revelabas
+  ud: revelaba
+  nosotros: revelábamos
+  vosotros: revelabais
+  uds: revelaban
+futuro-simple:
+  yo: revelaré
+  tu: revelarás
+  vos: revelarás
+  ud: revelará
+  nosotros: revelaremos
+  vosotros: revelaréis
+  uds: revelarán
+condicional-simple:
+  yo: revelaría
+  tu: revelarías
+  vos: revelarías
+  ud: revelaría
+  nosotros: revelaríamos
+  vosotros: revelaríais
+  uds: revelarían
+presente-perfecto:
+  yo: he revelado
+  tu: has revelado
+  vos: has revelado
+  ud: ha revelado
+  nosotros: hemos revelado
+  vosotros: habéis revelado
+  uds: han revelado
+preterito-pluscuamperfecto:
+  yo: había revelado
+  tu: habías revelado
+  vos: habías revelado
+  ud: había revelado
+  nosotros: habíamos revelado
+  vosotros: habíais revelado
+  uds: habían revelado
+futuro-perfecto:
+  yo: habré revelado
+  tu: habrás revelado
+  vos: habrás revelado
+  ud: habrá revelado
+  nosotros: habremos revelado
+  vosotros: habréis revelado
+  uds: habrán revelado
+condicional-perfecto:
+  yo: habría revelado
+  tu: habrías revelado
+  vos: habrías revelado
+  ud: habría revelado
+  nosotros: habríamos revelado
+  vosotros: habríais revelado
+  uds: habrían revelado
+presente-subjuntivo:
+  yo: revele
+  tu: reveles
+  vos: reveles
+  ud: revele
+  nosotros: revelemos
+  vosotros: reveléis
+  uds: revelen
+preterito-perfecto-subjuntivo:
+  yo: haya revelado
+  tu: hayas revelado
+  vos: hayas revelado
+  ud: haya revelado
+  nosotros: hayamos revelado
+  vosotros: hayáis revelado
+  uds: hayan revelado
+imperfecto-subjuntivo:
+  yo:
+    - revelara
+    - revelase
+  tu:
+    - revelaras
+    - revelases
+  vos:
+    - revelaras
+    - revelases
+  ud:
+    - revelara
+    - revelase
+  nosotros:
+    - reveláramos
+    - revelásemos
+  vosotros:
+    - revelarais
+    - revelaseis
+  uds:
+    - revelaran
+    - revelasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera revelado
+    - hubiese revelado
+  tu:
+    - hubieras revelado
+    - hubieses revelado
+  vos:
+    - hubieras revelado
+    - hubieses revelado
+  ud:
+    - hubiera revelado
+    - hubiese revelado
+  nosotros:
+    - hubiéramos revelado
+    - hubiésemos revelado
+  vosotros:
+    - hubierais revelado
+    - hubieseis revelado
+  uds:
+    - hubieran revelado
+    - hubiesen revelado
+imperativo:
+  tu: revela
+  vos: revelá
+  ud: revele
+  nosotros: revelemos
+  vosotros: revelad
+  uds: revelen

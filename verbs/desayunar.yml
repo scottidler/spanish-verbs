@@ -1,0 +1,142 @@
+infinitivo: desayunar
+gerundio: desayunando
+participio-pasado: desayunado
+presente-indicativo:
+  yo: desayuno
+  tu: desayunas
+  vos: desayunas
+  ud: desayuna
+  nosotros: desayunamos
+  vosotros: desayunáis
+  uds: desayunan
+preterito-perfecto-simple:
+  yo: desayuné
+  tu: desayunaste
+  vos: desayunaste
+  ud: desayunó
+  nosotros: desayunamos
+  vosotros: desayunasteis
+  uds: desayunaron
+preterito-imperfecto:
+  yo: desayunaba
+  tu: desayunabas
+  vos: desayunabas
+  ud: desayunaba
+  nosotros: desayunábamos
+  vosotros: desayunabais
+  uds: desayunaban
+futuro-simple:
+  yo: desayunaré
+  tu: desayunarás
+  vos: desayunarás
+  ud: desayunará
+  nosotros: desayunaremos
+  vosotros: desayunaréis
+  uds: desayunarán
+condicional-simple:
+  yo: desayunaría
+  tu: desayunarías
+  vos: desayunarías
+  ud: desayunaría
+  nosotros: desayunaríamos
+  vosotros: desayunaríais
+  uds: desayunarían
+presente-perfecto:
+  yo: he desayunado
+  tu: has desayunado
+  vos: has desayunado
+  ud: ha desayunado
+  nosotros: hemos desayunado
+  vosotros: habéis desayunado
+  uds: han desayunado
+preterito-pluscuamperfecto:
+  yo: había desayunado
+  tu: habías desayunado
+  vos: habías desayunado
+  ud: había desayunado
+  nosotros: habíamos desayunado
+  vosotros: habíais desayunado
+  uds: habían desayunado
+futuro-perfecto:
+  yo: habré desayunado
+  tu: habrás desayunado
+  vos: habrás desayunado
+  ud: habrá desayunado
+  nosotros: habremos desayunado
+  vosotros: habréis desayunado
+  uds: habrán desayunado
+condicional-perfecto:
+  yo: habría desayunado
+  tu: habrías desayunado
+  vos: habrías desayunado
+  ud: habría desayunado
+  nosotros: habríamos desayunado
+  vosotros: habríais desayunado
+  uds: habrían desayunado
+presente-subjuntivo:
+  yo: desayune
+  tu: desayunes
+  vos: desayunes
+  ud: desayune
+  nosotros: desayunemos
+  vosotros: desayunéis
+  uds: desayunen
+preterito-perfecto-subjuntivo:
+  yo: haya desayunado
+  tu: hayas desayunado
+  vos: hayas desayunado
+  ud: haya desayunado
+  nosotros: hayamos desayunado
+  vosotros: hayáis desayunado
+  uds: hayan desayunado
+imperfecto-subjuntivo:
+  yo:
+    - desayunara
+    - desayunase
+  tu:
+    - desayunaras
+    - desayunases
+  vos:
+    - desayunaras
+    - desayunases
+  ud:
+    - desayunara
+    - desayunase
+  nosotros:
+    - desayunáramos
+    - desayunásemos
+  vosotros:
+    - desayunarais
+    - desayunaseis
+  uds:
+    - desayunaran
+    - desayunasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desayunado
+    - hubiese desayunado
+  tu:
+    - hubieras desayunado
+    - hubieses desayunado
+  vos:
+    - hubieras desayunado
+    - hubieses desayunado
+  ud:
+    - hubiera desayunado
+    - hubiese desayunado
+  nosotros:
+    - hubiéramos desayunado
+    - hubiésemos desayunado
+  vosotros:
+    - hubierais desayunado
+    - hubieseis desayunado
+  uds:
+    - hubieran desayunado
+    - hubiesen desayunado
+imperativo:
+  tu: desayuna
+  vos: desayuná
+  ud: desayune
+  nosotros: desayunemos
+  vosotros: desayunad
+  uds: desayunen

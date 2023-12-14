@@ -1,0 +1,142 @@
+infinitivo: comprar
+gerundio: comprando
+participio-pasado: comprado
+presente-indicativo:
+  yo: compro
+  tu: compras
+  vos: compras
+  ud: compra
+  nosotros: compramos
+  vosotros: compráis
+  uds: compran
+preterito-perfecto-simple:
+  yo: compré
+  tu: compraste
+  vos: compraste
+  ud: compró
+  nosotros: compramos
+  vosotros: comprasteis
+  uds: compraron
+preterito-imperfecto:
+  yo: compraba
+  tu: comprabas
+  vos: comprabas
+  ud: compraba
+  nosotros: comprábamos
+  vosotros: comprabais
+  uds: compraban
+futuro-simple:
+  yo: compraré
+  tu: comprarás
+  vos: comprarás
+  ud: comprará
+  nosotros: compraremos
+  vosotros: compraréis
+  uds: comprarán
+condicional-simple:
+  yo: compraría
+  tu: comprarías
+  vos: comprarías
+  ud: compraría
+  nosotros: compraríamos
+  vosotros: compraríais
+  uds: comprarían
+presente-perfecto:
+  yo: he comprado
+  tu: has comprado
+  vos: has comprado
+  ud: ha comprado
+  nosotros: hemos comprado
+  vosotros: habéis comprado
+  uds: han comprado
+preterito-pluscuamperfecto:
+  yo: había comprado
+  tu: habías comprado
+  vos: habías comprado
+  ud: había comprado
+  nosotros: habíamos comprado
+  vosotros: habíais comprado
+  uds: habían comprado
+futuro-perfecto:
+  yo: habré comprado
+  tu: habrás comprado
+  vos: habrás comprado
+  ud: habrá comprado
+  nosotros: habremos comprado
+  vosotros: habréis comprado
+  uds: habrán comprado
+condicional-perfecto:
+  yo: habría comprado
+  tu: habrías comprado
+  vos: habrías comprado
+  ud: habría comprado
+  nosotros: habríamos comprado
+  vosotros: habríais comprado
+  uds: habrían comprado
+presente-subjuntivo:
+  yo: compre
+  tu: compres
+  vos: compres
+  ud: compre
+  nosotros: compremos
+  vosotros: compréis
+  uds: compren
+preterito-perfecto-subjuntivo:
+  yo: haya comprado
+  tu: hayas comprado
+  vos: hayas comprado
+  ud: haya comprado
+  nosotros: hayamos comprado
+  vosotros: hayáis comprado
+  uds: hayan comprado
+imperfecto-subjuntivo:
+  yo:
+    - comprara
+    - comprase
+  tu:
+    - compraras
+    - comprases
+  vos:
+    - compraras
+    - comprases
+  ud:
+    - comprara
+    - comprase
+  nosotros:
+    - compráramos
+    - comprásemos
+  vosotros:
+    - comprarais
+    - compraseis
+  uds:
+    - compraran
+    - comprasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera comprado
+    - hubiese comprado
+  tu:
+    - hubieras comprado
+    - hubieses comprado
+  vos:
+    - hubieras comprado
+    - hubieses comprado
+  ud:
+    - hubiera comprado
+    - hubiese comprado
+  nosotros:
+    - hubiéramos comprado
+    - hubiésemos comprado
+  vosotros:
+    - hubierais comprado
+    - hubieseis comprado
+  uds:
+    - hubieran comprado
+    - hubiesen comprado
+imperativo:
+  tu: compra
+  vos: comprá
+  ud: compre
+  nosotros: compremos
+  vosotros: comprad
+  uds: compren

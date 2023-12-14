@@ -1,0 +1,142 @@
+infinitivo: sobrevenir
+gerundio: sobreviniendo
+participio-pasado: sobrevenido
+presente-indicativo:
+  yo: sobrevengo
+  tu: sobrevienes
+  vos: sobrevienes
+  ud: sobreviene
+  nosotros: sobrevienen
+  vosotros: sobrevienen
+  uds: sobrevienen
+preterito-perfecto-simple:
+  yo: sobrevine
+  tu: sobreviniste
+  vos: sobreviniste
+  ud: sobrevino
+  nosotros: sobrevinimos
+  vosotros: sobrevinisteis
+  uds: sobrevinieron
+preterito-imperfecto:
+  yo: sobrevinía
+  tu: sobrevinías
+  vos: sobrevinías
+  ud: sobrevinía
+  nosotros: sobreviníamos
+  vosotros: sobreviníais
+  uds: sobrevinían
+futuro-simple:
+  yo: sobrevendré
+  tu: sobrevendrás
+  vos: sobrevendrás
+  ud: sobrevendrá
+  nosotros: sobrevendremos
+  vosotros: sobrevendréis
+  uds: sobrevendrán
+condicional-simple:
+  yo: sobrevendría
+  tu: sobrevendrías
+  vos: sobrevendrías
+  ud: sobrevendría
+  nosotros: sobrevendríamos
+  vosotros: sobrevendríais
+  uds: sobrevendrían
+presente-perfecto:
+  yo: he sobrevenido
+  tu: has sobrevenido
+  vos: has sobrevenido
+  ud: ha sobrevenido
+  nosotros: hemos sobrevenido
+  vosotros: habéis sobrevenido
+  uds: han sobrevenido
+preterito-pluscuamperfecto:
+  yo: había sobrevenido
+  tu: habías sobrevenido
+  vos: habías sobrevenido
+  ud: había sobrevenido
+  nosotros: habíamos sobrevenido
+  vosotros: habíais sobrevenido
+  uds: habían sobrevenido
+futuro-perfecto:
+  yo: habré sobrevenido
+  tu: habrás sobrevenido
+  vos: habrás sobrevenido
+  ud: habrá sobrevenido
+  nosotros: habremos sobrevenido
+  vosotros: habréis sobrevenido
+  uds: habrán sobrevenido
+condicional-perfecto:
+  yo: habría sobrevenido
+  tu: habrías sobrevenido
+  vos: habrías sobrevenido
+  ud: habría sobrevenido
+  nosotros: habríamos sobrevenido
+  vosotros: habríais sobrevenido
+  uds: habrían sobrevenido
+presente-subjuntivo:
+  yo: sobrevenga
+  tu: sobrevengas
+  vos: sobrevengas
+  ud: sobrevenga
+  nosotros: sobrevengamos
+  vosotros: sobrevengáis
+  uds: sobrevengan
+preterito-perfecto-subjuntivo:
+  yo: haya sobrevenido
+  tu: hayas sobrevenido
+  vos: hayas sobrevenido
+  ud: haya sobrevenido
+  nosotros: hayamos sobrevenido
+  vosotros: hayáis sobrevenido
+  uds: hayan sobrevenido
+imperfecto-subjuntivo:
+  yo:
+    - sobreviniera
+    - sobreviniese
+  tu:
+    - sobrevinieras
+    - sobrevinieses
+  vos:
+    - sobrevinieras
+    - sobrevinieses
+  ud:
+    - sobreviniera
+    - sobreviniese
+  nosotros:
+    - sobreviniéramos
+    - sobreviniésemos
+  vosotros:
+    - sobrevinierais
+    - sobrevinieseis
+  uds:
+    - sobrevinieran
+    - sobreviniesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sobrevenido
+    - hubiese sobrevenido
+  tu:
+    - hubieras sobrevenido
+    - hubieses sobrevenido
+  vos:
+    - hubieras sobrevenido
+    - hubieses sobrevenido
+  ud:
+    - hubiera sobrevenido
+    - hubiese sobrevenido
+  nosotros:
+    - hubiéramos sobrevenido
+    - hubiésemos sobrevenido
+  vosotros:
+    - hubierais sobrevenido
+    - hubieseis sobrevenido
+  uds:
+    - hubieran sobrevenido
+    - hubiesen sobrevenido
+imperativo:
+  tu: sobrevén
+  vos: sobrevenga
+  ud: sobrevenga
+  nosotros: sobrevengamos
+  vosotros: sobrevended
+  uds: sobrevengan

@@ -1,0 +1,142 @@
+infinitivo: jalar
+gerundio: jalando
+participio-pasado: jalado
+presente-indicativo:
+  yo: jalo
+  tu: jales
+  vos: jales
+  ud: jala
+  nosotros: jalamos
+  vosotros: jaláis
+  uds: jalan
+preterito-perfecto-simple:
+  yo: jalé
+  tu: jaleste
+  vos: jaleste
+  ud: jaló
+  nosotros: jalamos
+  vosotros: jalesteis
+  uds: jalaron
+preterito-imperfecto:
+  yo: jalaba
+  tu: jalabas
+  vos: jalabas
+  ud: jalaba
+  nosotros: jalábamos
+  vosotros: jalabais
+  uds: jalaban
+futuro-simple:
+  yo: jalaré
+  tu: jalarás
+  vos: jalarás
+  ud: jalará
+  nosotros: jalaremos
+  vosotros: jalaréis
+  uds: jalarán
+condicional-simple:
+  yo: jalaría
+  tu: jalarías
+  vos: jalarías
+  ud: jalaría
+  nosotros: jalaríamos
+  vosotros: jalaríais
+  uds: jalarían
+presente-perfecto:
+  yo: he jalado
+  tu: has jalado
+  vos: has jalado
+  ud: ha jalado
+  nosotros: hemos jalado
+  vosotros: habéis jalado
+  uds: han jalado
+preterito-pluscuamperfecto:
+  yo: había jalado
+  tu: habías jalado
+  vos: habías jalado
+  ud: había jalado
+  nosotros: habíamos jalado
+  vosotros: habíais jalado
+  uds: habían jalado
+futuro-perfecto:
+  yo: habré jalado
+  tu: habrás jalado
+  vos: habrás jalado
+  ud: habrá jalado
+  nosotros: habremos jalado
+  vosotros: habréis jalado
+  uds: habrán jalado
+condicional-perfecto:
+  yo: habría jalado
+  tu: habrías jalado
+  vos: habrías jalado
+  ud: habría jalado
+  nosotros: habríamos jalado
+  vosotros: habríais jalado
+  uds: habrían jalado
+presente-subjuntivo:
+  yo: jale
+  tu: jales
+  vos: jales
+  ud: jale
+  nosotros: jalemos
+  vosotros: jaléis
+  uds: jalen
+preterito-perfecto-subjuntivo:
+  yo: haya jalado
+  tu: hayas jalado
+  vos: hayas jalado
+  ud: haya jalado
+  nosotros: hayamos jalado
+  vosotros: hayáis jalado
+  uds: hayan jalado
+imperfecto-subjuntivo:
+  yo:
+    - jalara
+    - jalase
+  tu:
+    - jalaras
+    - jalases
+  vos:
+    - jalaras
+    - jalases
+  ud:
+    - jalara
+    - jalase
+  nosotros:
+    - jaláramos
+    - jalásemos
+  vosotros:
+    - jalarais
+    - jalaseis
+  uds:
+    - jalaran
+    - jalasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera jalado
+    - hubiese jalado
+  tu:
+    - hubieras jalado
+    - hubieses jalado
+  vos:
+    - hubieras jalado
+    - hubieses jalado
+  ud:
+    - hubiera jalado
+    - hubiese jalado
+  nosotros:
+    - hubiéramos jalado
+    - hubiésemos jalado
+  vosotros:
+    - hubierais jalado
+    - hubieseis jalado
+  uds:
+    - hubieran jalado
+    - hubiesen jalado
+imperativo:
+  tu: jala
+  vos: jalá
+  ud: jale
+  nosotros: jalemos
+  vosotros: jalad
+  uds: jalen

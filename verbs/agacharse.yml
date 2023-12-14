@@ -1,0 +1,156 @@
+infinitivo: agacharse
+gerundio: agachándose
+participio-pasado: agachado
+
+presente-indicativo:
+  yo: me agacho
+  tu: te agachas
+  vos: te agachás
+  ud: se agacha
+  nosotros: nos agachamos
+  vosotros: os agacháis
+  uds: se agachan
+
+preterito-perfecto-simple:
+  yo: me agaché
+  tu: te agachaste
+  vos: te agachaste
+  ud: se agachó
+  nosotros: nos agachamos
+  vosotros: os agachasteis
+  uds: se agacharon
+
+preterito-imperfecto:
+  yo: me agachaba
+  tu: te agachabas
+  vos: te agachabas
+  ud: se agachaba
+  nosotros: nos agachábamos
+  vosotros: os agachabais
+  uds: se agachaban
+
+futuro-simple:
+  yo: me agacharé
+  tu: te agacharás
+  vos: te agacharás
+  ud: se agachará
+  nosotros: nos agacharemos
+  vosotros: os agacharéis
+  uds: se agacharán
+
+condicional-simple:
+  yo: me agacharía
+  tu: te agacharías
+  vos: te agacharías
+  ud: se agacharía
+  nosotros: nos agacharíamos
+  vosotros: os agacharíais
+  uds: se agacharían
+
+presente-perfecto:
+  yo: me he agachado
+  tu: te has agachado
+  vos: te has agachado
+  ud: se ha agachado
+  nosotros: nos hemos agachado
+  vosotros: os habéis agachado
+  uds: se han agachado
+
+preterito-pluscuamperfecto:
+  yo: me había agachado
+  tu: te habías agachado
+  vos: te habías agachado
+  ud: se había agachado
+  nosotros: nos habíamos agachado
+  vosotros: os habíais agachado
+  uds: se habían agachado
+
+futuro-perfecto:
+  yo: me habré agachado
+  tu: te habrás agachado
+  vos: te habrás agachado
+  ud: se habrá agachado
+  nosotros: nos habremos agachado
+  vosotros: os habréis agachado
+  uds: se habrán agachado
+
+condicional-perfecto:
+  yo: me habría agachado
+  tu: te habrías agachado
+  vos: te habrías agachado
+  ud: se habría agachado
+  nosotros: nos habríamos agachado
+  vosotros: os habríais agachado
+  uds: se habrían agachado
+
+presente-subjuntivo:
+  yo: me agache
+  tu: te agaches
+  vos: te agaches
+  ud: se agache
+  nosotros: nos agachemos
+  vosotros: os agachéis
+  uds: se agachen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya agachado
+  tu: te hayas agachado
+  vos: te hayas agachado
+  ud: se haya agachado
+  nosotros: nos hayamos agachado
+  vosotros: os hayáis agachado
+  uds: se hayan agachado
+
+imperfecto-subjuntivo:
+  yo:
+    - me agachara
+    - me agachase
+  tu:
+    - te agacharas
+    - te agachases
+  vos:
+    - te agacharas
+    - te agachases
+  ud:
+    - se agachara
+    - se agachase
+  nosotros:
+    - nos agacháramos
+    - nos agachásemos
+  vosotros:
+    - os agacharais
+    - os agachaseis
+  uds:
+    - se agacharan
+    - se agachasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera agachado
+    - me hubiese agachado
+  tu:
+    - te hubieras agachado
+    - te hubieses agachado
+  vos:
+    - te hubieras agachado
+    - te hubieses agachado
+  ud:
+    - se hubiera agachado
+    - se hubiese agachado
+  nosotros:
+    - nos hubiéramos agachado
+    - nos hubiésemos agachado
+  vosotros:
+    - os hubierais agachado
+    - os hubieseis agachado
+  uds:
+    - se hubieran agachado
+    - se hubiesen agachado
+
+imperativo:
+  tu: agáchate
+  vos: agacháte
+  ud: agáchese
+  nosotros: agachémonos
+  vosotros: agachaos
+  uds: agáchense

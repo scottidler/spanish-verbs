@@ -1,0 +1,142 @@
+infinitivo: manar
+gerundio: manando
+participio-pasado: manado
+presente-indicativo:
+  yo: mano
+  tu: manas
+  vos: manas
+  ud: mana
+  nosotros: manamos
+  vosotros: manáis
+  uds: manan
+preterito-perfecto-simple:
+  yo: mané
+  tu: manaste
+  vos: manaste
+  ud: manó
+  nosotros: manamos
+  vosotros: manasteis
+  uds: manaron
+preterito-imperfecto:
+  yo: manaba
+  tu: manabas
+  vos: manabas
+  ud: manaba
+  nosotros: manábamos
+  vosotros: manabais
+  uds: manaban
+futuro-simple:
+  yo: manaré
+  tu: manarás
+  vos: manarás
+  ud: manará
+  nosotros: manaremos
+  vosotros: manaréis
+  uds: manarán
+condicional-simple:
+  yo: manaría
+  tu: manarías
+  vos: manarías
+  ud: manaría
+  nosotros: manaríamos
+  vosotros: manaríais
+  uds: manarían
+presente-perfecto:
+  yo: he manado
+  tu: has manado
+  vos: has manado
+  ud: ha manado
+  nosotros: hemos manado
+  vosotros: habéis manado
+  uds: han manado
+preterito-pluscuamperfecto:
+  yo: había manado
+  tu: habías manado
+  vos: habías manado
+  ud: había manado
+  nosotros: habíamos manado
+  vosotros: habíais manado
+  uds: habían manado
+futuro-perfecto:
+  yo: habré manado
+  tu: habrás manado
+  vos: habrás manado
+  ud: habrá manado
+  nosotros: habremos manado
+  vosotros: habréis manado
+  uds: habrán manado
+condicional-perfecto:
+  yo: habría manado
+  tu: habrías manado
+  vos: habrías manado
+  ud: habría manado
+  nosotros: habríamos manado
+  vosotros: habríais manado
+  uds: habrían manado
+presente-subjuntivo:
+  yo: mane
+  tu: manes
+  vos: manes
+  ud: mane
+  nosotros: manemos
+  vosotros: manéis
+  uds: manen
+preterito-perfecto-subjuntivo:
+  yo: haya manado
+  tu: hayas manado
+  vos: hayas manado
+  ud: haya manado
+  nosotros: hayamos manado
+  vosotros: hayáis manado
+  uds: hayan manado
+imperfecto-subjuntivo:
+  yo:
+    - manara
+    - manase
+  tu:
+    - manaras
+    - manases
+  vos:
+    - manaras
+    - manases
+  ud:
+    - manara
+    - manase
+  nosotros:
+    - manáramos
+    - manásemos
+  vosotros:
+    - manarais
+    - manaseis
+  uds:
+    - manaran
+    - manasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera manado
+    - hubiese manado
+  tu:
+    - hubieras manado
+    - hubieses manado
+  vos:
+    - hubieras manado
+    - hubieses manado
+  ud:
+    - hubiera manado
+    - hubiese manado
+  nosotros:
+    - hubiéramos manado
+    - hubiésemos manado
+  vosotros:
+    - hubierais manado
+    - hubieseis manado
+  uds:
+    - hubieran manado
+    - hubiesen manado
+imperativo:
+  tu: mana
+  vos: maná
+  ud: mane
+  nosotros: manemos
+  vosotros: manad
+  uds: manen

@@ -1,0 +1,142 @@
+infinitivo: entrenar
+gerundio: entrenando
+participio-pasado: entrenado
+presente-indicativo:
+  yo: entreno
+  tu: entrenas
+  vos: entrenás
+  ud: entrena
+  nosotros: entrenamos
+  vosotros: entrenáis
+  uds: entrenan
+preterito-perfecto-simple:
+  yo: entrené
+  tu: entrenaste
+  vos: entrenaste
+  ud: entrenó
+  nosotros: entrenamos
+  vosotros: entrenasteis
+  uds: entrenaron
+preterito-imperfecto:
+  yo: entrenaba
+  tu: entrenabas
+  vos: entrenabas
+  ud: entrenaba
+  nosotros: entrenábamos
+  vosotros: entrenabais
+  uds: entrenaban
+futuro-simple:
+  yo: entrenaré
+  tu: entrenarás
+  vos: entrenarás
+  ud: entrenará
+  nosotros: entrenaremos
+  vosotros: entrenaréis
+  uds: entrenarán
+condicional-simple:
+  yo: entrenaría
+  tu: entrenarías
+  vos: entrenarías
+  ud: entrenaría
+  nosotros: entrenaríamos
+  vosotros: entrenaríais
+  uds: entrenarían
+presente-perfecto:
+  yo: he entrenado
+  tu: has entrenado
+  vos: has entrenado
+  ud: ha entrenado
+  nosotros: hemos entrenado
+  vosotros: habéis entrenado
+  uds: han entrenado
+preterito-pluscuamperfecto:
+  yo: había entrenado
+  tu: habías entrenado
+  vos: habías entrenado
+  ud: había entrenado
+  nosotros: habíamos entrenado
+  vosotros: habíais entrenado
+  uds: habían entrenado
+futuro-perfecto:
+  yo: habré entrenado
+  tu: habrás entrenado
+  vos: habrás entrenado
+  ud: habrá entrenado
+  nosotros: habremos entrenado
+  vosotros: habréis entrenado
+  uds: habrán entrenado
+condicional-perfecto:
+  yo: habría entrenado
+  tu: habrías entrenado
+  vos: habrías entrenado
+  ud: habría entrenado
+  nosotros: habríamos entrenado
+  vosotros: habríais entrenado
+  uds: habrían entrenado
+presente-subjuntivo:
+  yo: entrene
+  tu: entrenes
+  vos: entrenes
+  ud: entrene
+  nosotros: entrenemos
+  vosotros: entrenéis
+  uds: entrenen
+preterito-perfecto-subjuntivo:
+  yo: haya entrenado
+  tu: hayas entrenado
+  vos: hayas entrenado
+  ud: haya entrenado
+  nosotros: hayamos entrenado
+  vosotros: hayáis entrenado
+  uds: hayan entrenado
+imperfecto-subjuntivo:
+  yo:
+    - entrenara
+    - entrenase
+  tu:
+    - entrenaras
+    - entrenases
+  vos:
+    - entrenaras
+    - entrenases
+  ud:
+    - entrenara
+    - entrenase
+  nosotros:
+    - entrenáramos
+    - entrenásemos
+  vosotros:
+    - entrenarais
+    - entrenaseis
+  uds:
+    - entrenaran
+    - entrenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera entrenado
+    - hubiese entrenado
+  tu:
+    - hubieras entrenado
+    - hubieses entrenado
+  vos:
+    - hubieras entrenado
+    - hubieses entrenado
+  ud:
+    - hubiera entrenado
+    - hubiese entrenado
+  nosotros:
+    - hubiéramos entrenado
+    - hubiésemos entrenado
+  vosotros:
+    - hubierais entrenado
+    - hubieseis entrenado
+  uds:
+    - hubieran entrenado
+    - hubiesen entrenado
+imperativo:
+  tu: entrena
+  vos: entrená
+  ud: entrene
+  nosotros: entrenemos
+  vosotros: entrenad
+  uds: entrenen

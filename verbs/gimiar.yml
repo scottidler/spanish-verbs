@@ -1,0 +1,142 @@
+infinitivo: gimiar
+gerundio: gimiando
+participio-pasado: gimado
+presente-indicativo:
+  yo: gimio
+  tu: gimias
+  vos: gimias
+  ud: gimia
+  nosotros: gimiamos
+  vosotros: gimiais
+  uds: gimian
+preterito-perfecto-simple:
+  yo: gimíe
+  tu: gimíaste
+  vos: gimíaste
+  ud: gimíó
+  nosotros: gimiamos
+  vosotros: gimíasteis
+  uds: gimíaron
+preterito-imperfecto:
+  yo: gimíaba
+  tu: gimíabas
+  vos: gimíabas
+  ud: gimíaba
+  nosotros: gimíabamos
+  vosotros: gimíabais
+  uds: gimíaban
+futuro-simple:
+  yo: gimiaré
+  tu: gimiarás
+  vos: gimiarás
+  ud: gimiará
+  nosotros: gimaremos
+  vosotros: gimiaréis
+  uds: gimiarán
+condicional-simple:
+  yo: gimiaría
+  tu: gimiarías
+  vos: gimiarías
+  ud: gimiaría
+  nosotros: gimiaríamos
+  vosotros: gimiaríais
+  uds: gimiarían
+presente-perfecto:
+  yo: he gimado
+  tu: has gimado
+  vos: has gimado
+  ud: ha gimado
+  nosotros: hemos gimado
+  vosotros: habéis gimado
+  uds: han gimado
+preterito-pluscuamperfecto:
+  yo: había gimado
+  tu: habías gimado
+  vos: habías gimado
+  ud: había gimado
+  nosotros: habíamos gimado
+  vosotros: habíais gimado
+  uds: habían gimado
+futuro-perfecto:
+  yo: habré gimado
+  tu: habrás gimado
+  vos: habrás gimado
+  ud: habrá gimado
+  nosotros: habremos gimado
+  vosotros: habréis gimado
+  uds: habrán gimado
+condicional-perfecto:
+  yo: habría gimado
+  tu: habrías gimado
+  vos: habrías gimado
+  ud: habría gimado
+  nosotros: habríamos gimado
+  vosotros: habríais gimado
+  uds: habrían gimado
+presente-subjuntivo:
+  yo: gimie
+  tu: gimies
+  vos: gimies
+  ud: gimie
+  nosotros: gimemos
+  vosotros: giméis
+  uds: gimien
+preterito-perfecto-subjuntivo:
+  yo: haya gimado
+  tu: hayas gimado
+  vos: hayas gimado
+  ud: haya gimado
+  nosotros: hayamos gimado
+  vosotros: hayáis gimado
+  uds: hayan gimado
+imperfecto-subjuntivo:
+  yo:
+    - gimiera
+    - gimiese
+  tu:
+    - gimieras
+    - gimieses
+  vos:
+    - gimieras
+    - gimieses
+  ud:
+    - gimiera
+    - gimiese
+  nosotros:
+    - gimiéramos
+    - gimiésemos
+  vosotros:
+    - gimierais
+    - gimieseis
+  uds:
+    - gimieran
+    - gimiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gimado
+    - hubiese gimado
+  tu:
+    - hubieras gimado
+    - hubieses gimado
+  vos:
+    - hubieras gimado
+    - hubieses gimado
+  ud:
+    - hubiera gimado
+    - hubiese gimado
+  nosotros:
+    - hubiéramos gimado
+    - hubiésemos gimado
+  vosotros:
+    - hubierais gimado
+    - hubieseis gimado
+  uds:
+    - hubieran gimado
+    - hubiesen gimado
+imperativo:
+  tu: gime
+  vos: gimiá
+  ud: gimie
+  nosotros: gimamos
+  vosotros: gimen
+  uds: giman

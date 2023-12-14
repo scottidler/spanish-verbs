@@ -1,0 +1,142 @@
+infinitivo: aburrir
+gerundio: aburriendo
+participio-pasado: aburrido
+presente-indicativo:
+  yo: aburro
+  tu: aburres
+  vos: aburres
+  ud: aburre
+  nosotros: aburrimos
+  vosotros: aburrís
+  uds: aburren
+preterito-perfecto-simple:
+  yo: aburrí
+  tu: aburriste
+  vos: aburriste
+  ud: aburrió
+  nosotros: aburrimos
+  vosotros: aburristeis
+  uds: aburrieron
+preterito-imperfecto:
+  yo: aburría
+  tu: aburrías
+  vos: aburrías
+  ud: aburría
+  nosotros: aburríamos
+  vosotros: aburríais
+  uds: aburrían
+futuro-simple:
+  yo: aburriré
+  tu: aburrirás
+  vos: aburrirás
+  ud: aburrirá
+  nosotros: aburriremos
+  vosotros: aburriréis
+  uds: aburrirán
+condicional-simple:
+  yo: aburriría
+  tu: aburrirías
+  vos: aburrirías
+  ud: aburriría
+  nosotros: aburriríamos
+  vosotros: aburriríais
+  uds: aburrirían
+presente-perfecto:
+  yo: he aburrido
+  tu: has aburrido
+  vos: has aburrido
+  ud: ha aburrido
+  nosotros: hemos aburrido
+  vosotros: habéis aburrido
+  uds: han aburrido
+preterito-pluscuamperfecto:
+  yo: había aburrido
+  tu: habías aburrido
+  vos: habías aburrido
+  ud: había aburrido
+  nosotros: habíamos aburrido
+  vosotros: habíais aburrido
+  uds: habían aburrido
+futuro-perfecto:
+  yo: habré aburrido
+  tu: habrás aburrido
+  vos: habrás aburrido
+  ud: habrá aburrido
+  nosotros: habremos aburrido
+  vosotros: habréis aburrido
+  uds: habrán aburrido
+condicional-perfecto:
+  yo: habría aburrido
+  tu: habrías aburrido
+  vos: habrías aburrido
+  ud: habría aburrido
+  nosotros: habríamos aburrido
+  vosotros: habríais aburrido
+  uds: habrían aburrido
+presente-subjuntivo:
+  yo: aburra
+  tu: aburras
+  vos: aburras
+  ud: aburra
+  nosotros: aburramos
+  vosotros: aburráis
+  uds: aburran
+preterito-perfecto-subjuntivo:
+  yo: haya aburrido
+  tu: hayas aburrido
+  vos: hayas aburrido
+  ud: haya aburrido
+  nosotros: hayamos aburrido
+  vosotros: hayáis aburrido
+  uds: hayan aburrido
+imperfecto-subjuntivo:
+  yo:
+    - aburriera
+    - aburriese
+  tu:
+    - aburrieras
+    - aburrieses
+  vos:
+    - aburrieras
+    - aburrieses
+  ud:
+    - aburriera
+    - aburriese
+  nosotros:
+    - aburriéramos
+    - aburriésemos
+  vosotros:
+    - aburrierais
+    - aburrieseis
+  uds:
+    - aburrieran
+    - aburriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aburrido
+    - hubiese aburrido
+  tu:
+    - hubieras aburrido
+    - hubieses aburrido
+  vos:
+    - hubieras aburrido
+    - hubieses aburrido
+  ud:
+    - hubiera aburrido
+    - hubiese aburrido
+  nosotros:
+    - hubiéramos aburrido
+    - hubiésemos aburrido
+  vosotros:
+    - hubierais aburrido
+    - hubieseis aburrido
+  uds:
+    - hubieran aburrido
+    - hubiesen aburrido
+imperativo:
+  tu: aburre
+  vos: aburrí
+  ud: aburra
+  nosotros: aburramos
+  vosotros: aburrid
+  uds: aburran

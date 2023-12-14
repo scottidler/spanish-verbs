@@ -1,0 +1,142 @@
+infinitivo: disgustar
+gerundio: disgustando
+participio-pasado: disgustado
+presente-indicativo:
+  yo: disgusto
+  tu: disgustas
+  vos: disgustás
+  ud: disgusta
+  nosotros: disgustamos
+  vosotros: disgustáis
+  uds: disgustan
+preterito-perfecto-simple:
+  yo: disgusté
+  tu: disgustaste
+  vos: disgustaste
+  ud: disgustó
+  nosotros: disgustamos
+  vosotros: disgustasteis
+  uds: disgustaron
+preterito-imperfecto:
+  yo: disgustaba
+  tu: disgustabas
+  vos: disgustabas
+  ud: disgustaba
+  nosotros: disgustábamos
+  vosotros: disgustabais
+  uds: disgustaban
+futuro-simple:
+  yo: disgustaré
+  tu: disgustarás
+  vos: disgustarás
+  ud: disgustará
+  nosotros: disgustaremos
+  vosotros: disgustaréis
+  uds: disgustarán
+condicional-simple:
+  yo: disgustaría
+  tu: disgustarías
+  vos: disgustarías
+  ud: disgustaría
+  nosotros: disgustaríamos
+  vosotros: disgustaríais
+  uds: disgustarían
+presente-perfecto:
+  yo: he disgustado
+  tu: has disgustado
+  vos: has disgustado
+  ud: ha disgustado
+  nosotros: hemos disgustado
+  vosotros: habéis disgustado
+  uds: han disgustado
+preterito-pluscuamperfecto:
+  yo: había disgustado
+  tu: habías disgustado
+  vos: habías disgustado
+  ud: había disgustado
+  nosotros: habíamos disgustado
+  vosotros: habíais disgustado
+  uds: habían disgustado
+futuro-perfecto:
+  yo: habré disgustado
+  tu: habrás disgustado
+  vos: habrás disgustado
+  ud: habrá disgustado
+  nosotros: habremos disgustado
+  vosotros: habréis disgustado
+  uds: habrán disgustado
+condicional-perfecto:
+  yo: habría disgustado
+  tu: habrías disgustado
+  vos: habrías disgustado
+  ud: habría disgustado
+  nosotros: habríamos disgustado
+  vosotros: habríais disgustado
+  uds: habrían disgustado
+presente-subjuntivo:
+  yo: disguste
+  tu: disgustes
+  vos: disgustes
+  ud: disguste
+  nosotros: disgustemos
+  vosotros: disgustéis
+  uds: disgusten
+preterito-perfecto-subjuntivo:
+  yo: haya disgustado
+  tu: hayas disgustado
+  vos: hayas disgustado
+  ud: haya disgustado
+  nosotros: hayamos disgustado
+  vosotros: hayáis disgustado
+  uds: hayan disgustado
+imperfecto-subjuntivo:
+  yo:
+    - disgustara
+    - disgustase
+  tu:
+    - disgustaras
+    - disgustases
+  vos:
+    - disgustaras
+    - disgustases
+  ud:
+    - disgustara
+    - disgustase
+  nosotros:
+    - disgustáramos
+    - disgustásemos
+  vosotros:
+    - disgustarais
+    - disgustaseis
+  uds:
+    - disgustaran
+    - disgustasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera disgustado
+    - hubiese disgustado
+  tu:
+    - hubieras disgustado
+    - hubieses disgustado
+  vos:
+    - hubieras disgustado
+    - hubieses disgustado
+  ud:
+    - hubiera disgustado
+    - hubiese disgustado
+  nosotros:
+    - hubiéramos disgustado
+    - hubiésemos disgustado
+  vosotros:
+    - hubierais disgustado
+    - hubieseis disgustado
+  uds:
+    - hubieran disgustado
+    - hubiesen disgustado
+imperativo:
+  tu: disgusta
+  vos: disgustá
+  ud: disguste
+  nosotros: disgustemos
+  vosotros: disgustad
+  uds: disgusten

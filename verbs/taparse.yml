@@ -1,0 +1,156 @@
+infinitivo: taparse
+gerundio: tapándose
+participio-pasado: tapado
+
+presente-indicativo:
+  yo: me tapo
+  tu: te tapas
+  vos: te tapas
+  ud: se tapa
+  nosotros: nos tapamos
+  vosotros: os tapáis
+  uds: se tapan
+
+preterito-perfecto-simple:
+  yo: me tapé
+  tu: te tapaste
+  vos: te tapaste
+  ud: se tapó
+  nosotros: nos tapamos
+  vosotros: os tapasteis
+  uds: se taparon
+
+preterito-imperfecto:
+  yo: me tapaba
+  tu: te tapabas
+  vos: te tapabas
+  ud: se tapaba
+  nosotros: nos tapábamos
+  vosotros: os tapabais
+  uds: se tapaban
+
+futuro-simple:
+  yo: me taparé
+  tu: te taparás
+  vos: te taparás
+  ud: se tapará
+  nosotros: nos taparemos
+  vosotros: os taparéis
+  uds: se taparán
+
+condicional-simple:
+  yo: me taparía
+  tu: te taparías
+  vos: te taparías
+  ud: se taparía
+  nosotros: nos taparíamos
+  vosotros: os taparíais
+  uds: se taparían
+
+presente-perfecto:
+  yo: me he tapado
+  tu: te has tapado
+  vos: te has tapado
+  ud: se ha tapado
+  nosotros: nos hemos tapado
+  vosotros: os habéis tapado
+  uds: se han tapado
+
+preterito-pluscuamperfecto:
+  yo: me había tapado
+  tu: te habías tapado
+  vos: te habías tapado
+  ud: se había tapado
+  nosotros: nos habíamos tapado
+  vosotros: os habíais tapado
+  uds: se habían tapado
+
+futuro-perfecto:
+  yo: me habré tapado
+  tu: te habrás tapado
+  vos: te habrás tapado
+  ud: se habrá tapado
+  nosotros: nos habremos tapado
+  vosotros: os habréis tapado
+  uds: se habrán tapado
+
+condicional-perfecto:
+  yo: me habría tapado
+  tu: te habrías tapado
+  vos: te habrías tapado
+  ud: se habría tapado
+  nosotros: nos habríamos tapado
+  vosotros: os habríais tapado
+  uds: se habrían tapado
+
+presente-subjuntivo:
+  yo: me tape
+  tu: te tapes
+  vos: te tapes
+  ud: se tape
+  nosotros: nos tapemos
+  vosotros: os tapéis
+  uds: se tapen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya tapado
+  tu: te hayas tapado
+  vos: te hayas tapado
+  ud: se haya tapado
+  nosotros: nos hayamos tapado
+  vosotros: os hayáis tapado
+  uds: se hayan tapado
+
+imperfecto-subjuntivo:
+  yo:
+    - me tapara
+    - me tapase
+  tu:
+    - te taparas
+    - te tapases
+  vos:
+    - te taparas
+    - te tapases
+  ud:
+    - se tapara
+    - se tapase
+  nosotros:
+    - nos tapáramos
+    - nos tapásemos
+  vosotros:
+    - os taparais
+    - os tapaseis
+  uds:
+    - se taparan
+    - se tapasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera tapado
+    - me hubiese tapado
+  tu:
+    - te hubieras tapado
+    - te hubieses tapado
+  vos:
+    - te hubieras tapado
+    - te hubieses tapado
+  ud:
+    - se hubiera tapado
+    - se hubiese tapado
+  nosotros:
+    - nos hubiéramos tapado
+    - nos hubiésemos tapado
+  vosotros:
+    - os hubierais tapado
+    - os hubieseis tapado
+  uds:
+    - se hubieran tapado
+    - se hubiesen tapado
+
+imperativo:
+  tu: tápate
+  vos: tapate
+  ud: tápese
+  nosotros: tapémonos
+  vosotros: tapaos
+  uds: tápense

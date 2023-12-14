@@ -1,0 +1,142 @@
+infinitivo: avísar
+gerundio: avísando
+participio-pasado: avísado
+presente-indicativo:
+  yo: aviso
+  tu: avisas
+  vos: avisás
+  ud: avisa
+  nosotros: avisamos
+  vosotros: avisáis
+  uds: avisan
+preterito-perfecto-simple:
+  yo: avisé
+  tu: avisaste
+  vos: avisaste
+  ud: avisó
+  nosotros: avisamos
+  vosotros: avisasteis
+  uds: avisaron
+preterito-imperfecto:
+  yo: avisaba
+  tu: avisabas
+  vos: avisabas
+  ud: avisaba
+  nosotros: avisábamos
+  vosotros: avisabais
+  uds: avisaban
+futuro-simple:
+  yo: avisaré
+  tu: avisarás
+  vos: avisarás
+  ud: avisará
+  nosotros: avisaremos
+  vosotros: avisaréis
+  uds: avisarán
+condicional-simple:
+  yo: avisaría
+  tu: avisarías
+  vos: avisarías
+  ud: avisaría
+  nosotros: avisaríamos
+  vosotros: avisaríais
+  uds: avisarían
+presente-perfecto:
+  yo: he avisado
+  tu: has avisado
+  vos: has avisado
+  ud: ha avisado
+  nosotros: hemos avisado
+  vosotros: habéis avisado
+  uds: han avisado
+preterito-pluscuamperfecto:
+  yo: había avisado
+  tu: habías avisado
+  vos: habías avisado
+  ud: había avisado
+  nosotros: habíamos avisado
+  vosotros: habíais avisado
+  uds: habían avisado
+futuro-perfecto:
+  yo: habré avisado
+  tu: habrás avisado
+  vos: habrás avisado
+  ud: habrá avisado
+  nosotros: habremos avisado
+  vosotros: habréis avisado
+  uds: habrán avisado
+condicional-perfecto:
+  yo: habría avisado
+  tu: habrías avisado
+  vos: habrías avisado
+  ud: habría avisado
+  nosotros: habríamos avisado
+  vosotros: habríais avisado
+  uds: habrían avisado
+presente-subjuntivo:
+  yo: avise
+  tu: avises
+  vos: avises
+  ud: avise
+  nosotros: avisemos
+  vosotros: aviséis
+  uds: avisen
+preterito-perfecto-subjuntivo:
+  yo: haya avisado
+  tu: hayas avisado
+  vos: hayas avisado
+  ud: haya avisado
+  nosotros: hayamos avisado
+  vosotros: hayáis avisado
+  uds: hayan avisado
+imperfecto-subjuntivo:
+  yo:
+    - avisara
+    - avisase
+  tu:
+    - avisaras
+    - avisaes
+  vos:
+    - avisaras
+    - avisaes
+  ud:
+    - avisara
+    - avisase
+  nosotros:
+    - avisáramos
+    - avisásemos
+  vosotros:
+    - avisarais
+    - avisaes
+  uds:
+    - avisaran
+    - avisanen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera avisado
+    - hubiese avisado
+  tu:
+    - hubieras avisado
+    - hubieses avisado
+  vos:
+    - hubieras avisado
+    - hubieses avisado
+  ud:
+    - hubiera avisado
+    - hubiese avisado
+  nosotros:
+    - hubiéramos avisado
+    - hubiésemos avisado
+  vosotros:
+    - hubierais avisado
+    - hubieseis avisado
+  uds:
+    - hubieran avisado
+    - hubiesen avisado
+imperativo:
+  tu: avisa
+  vos: avisá
+  ud: avise
+  nosotros: avisemos
+  vosotros: avisad
+  uds: avisen

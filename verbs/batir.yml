@@ -1,0 +1,142 @@
+infinitivo: batir
+gerundio: batiendo
+participio-pasado: batido
+presente-indicativo:
+  yo: bato
+  tu: bates
+  vos: bates
+  ud: bate
+  nosotros: batimos
+  vosotros: batís
+  uds: baten
+preterito-perfecto-simple:
+  yo: batí
+  tu: batiste
+  vos: batiste
+  ud: batió
+  nosotros: batimos
+  vosotros: batisteis
+  uds: batieron
+preterito-imperfecto:
+  yo: batía
+  tu: batías
+  vos: batías
+  ud: batía
+  nosotros: batíamos
+  vosotros: batíais
+  uds: batían
+futuro-simple:
+  yo: batiré
+  tu: batirás
+  vos: batirás
+  ud: batirá
+  nosotros: batiremos
+  vosotros: batiréis
+  uds: batirán
+condicional-simple:
+  yo: batiría
+  tu: batirías
+  vos: batirías
+  ud: batiría
+  nosotros: batiríamos
+  vosotros: batiríais
+  uds: batirían
+presente-perfecto:
+  yo: he batido
+  tu: has batido
+  vos: has batido
+  ud: ha batido
+  nosotros: hemos batido
+  vosotros: habéis batido
+  uds: han batido
+preterito-pluscuamperfecto:
+  yo: había batido
+  tu: habías batido
+  vos: habías batido
+  ud: había batido
+  nosotros: habíamos batido
+  vosotros: habíais batido
+  uds: habían batido
+futuro-perfecto:
+  yo: habré batido
+  tu: habrás batido
+  vos: habrás batido
+  ud: habrá batido
+  nosotros: habremos batido
+  vosotros: habréis batido
+  uds: habrán batido
+condicional-perfecto:
+  yo: habría batido
+  tu: habrías batido
+  vos: habrías batido
+  ud: habría batido
+  nosotros: habríamos batido
+  vosotros: habríais batido
+  uds: habrían batido
+presente-subjuntivo:
+  yo: bata
+  tu: batas
+  vos: batas
+  ud: bata
+  nosotros: batamos
+  vosotros: batáis
+  uds: batan
+preterito-perfecto-subjuntivo:
+  yo: haya batido
+  tu: hayas batido
+  vos: hayas batido
+  ud: haya batido
+  nosotros: hayamos batido
+  vosotros: hayáis batido
+  uds: hayan batido
+imperfecto-subjuntivo:
+  yo:
+    - batiera
+    - batiere
+  tu:
+    - batieras
+    - batieres
+  vos:
+    - batieras
+    - batieres
+  ud:
+    - batiera
+    - batiere
+  nosotros:
+    - batiéramos
+    - batiésemos
+  vosotros:
+    - batierais
+    - batiereis
+  uds:
+    - batieran
+    - batieren
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera batido
+    - hubiese batido
+  tu:
+    - hubieras batido
+    - hubieses batido
+  vos:
+    - hubieras batido
+    - hubieses batido
+  ud:
+    - hubiera batido
+    - hubiese batido
+  nosotros:
+    - hubiéramos batido
+    - hubiésemos batido
+  vosotros:
+    - hubierais batido
+    - hubieseis batido
+  uds:
+    - hubieran batido
+    - hubiesen batido
+imperativo:
+  tu: bate
+  vos: batí
+  ud: bata
+  nosotros: batamos
+  vosotros: batid
+  uds: batan

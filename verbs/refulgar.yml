@@ -1,0 +1,142 @@
+infinitivo: refulgar
+gerundio: refulgando
+participio-pasado: refulgado
+presente-indicativo:
+  yo: refuljo
+  tu: refulges
+  vos: refulgís
+  ud: refulge
+  nosotros: refulgimos
+  vosotros: refulgís
+  uds: refulgen
+preterito-perfecto-simple:
+  yo: refulgí
+  tu: refulgiste
+  vos: refulgiste
+  ud: refulgió
+  nosotros: refulgimos
+  vosotros: refulgisteis
+  uds: refulgieron
+preterito-imperfecto:
+  yo: refulgía
+  tu: refulgías
+  vos: refulgías
+  ud: refulgía
+  nosotros: refulgíamos
+  vosotros: refulgíais
+  uds: refulgían
+futuro-simple:
+  yo: refulgiré
+  tu: refulgirás
+  vos: refulgirás
+  ud: refulgirá
+  nosotros: refulgiremos
+  vosotros: refulgiréis
+  uds: refulgirán
+condicional-simple:
+  yo: refulgiría
+  tu: refulgirías
+  vos: refulgirías
+  ud: refulgiría
+  nosotros: refulgiríamos
+  vosotros: refulgiríais
+  uds: refulgirían
+presente-perfecto:
+  yo: he refulgado
+  tu: has refulgado
+  vos: has refulgado
+  ud: ha refulgado
+  nosotros: hemos refulgado
+  vosotros: habéis refulgado
+  uds: han refulgado
+preterito-pluscuamperfecto:
+  yo: había refulgado
+  tu: habías refulgado
+  vos: habías refulgado
+  ud: había refulgado
+  nosotros: habíamos refulgado
+  vosotros: habíais refulgado
+  uds: habían refulgado
+futuro-perfecto:
+  yo: habré refulgado
+  tu: habrás refulgado
+  vos: habrás refulgado
+  ud: habrá refulgado
+  nosotros: habremos refulgado
+  vosotros: habréis refulgado
+  uds: habrán refulgado
+condicional-perfecto:
+  yo: habría refulgado
+  tu: habrías refulgado
+  vos: habrías refulgado
+  ud: habría refulgado
+  nosotros: habríamos refulgado
+  vosotros: habríais refulgado
+  uds: habrían refulgado
+presente-subjuntivo:
+  yo: refulga
+  tu: refulgas
+  vos: refulgás
+  ud: refulga
+  nosotros: refulgamos
+  vosotros: refulgáis
+  uds: refulgan
+preterito-perfecto-subjuntivo:
+  yo: haya refulgado
+  tu: hayas refulgado
+  vos: hayas refulgado
+  ud: haya refulgado
+  nosotros: hayamos refulgado
+  vosotros: hayáis refulgado
+  uds: hayan refulgado
+imperfecto-subjuntivo:
+  yo:
+    - refulgara
+    - refulgase
+  tu:
+    - refulgaras
+    - refulgases
+  vos:
+    - refulgaras
+    - refulgases
+  ud:
+    - refulgara
+    - refulgase
+  nosotros:
+    - refulgáramos
+    - refulgásemos
+  vosotros:
+    - refulgarais
+    - refulgaseis
+  uds:
+    - refulgaran
+    - refulgasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera refulgado
+    - hubiese refulgado
+  tu:
+    - hubieras refulgado
+    - hubieses refulgado
+  vos:
+    - hubieras refulgado
+    - hubieses refulgado
+  ud:
+    - hubiera refulgado
+    - hubiese refulgado
+  nosotros:
+    - hubiéramos refulgado
+    - hubiésemos refulgado
+  vosotros:
+    - hubierais refulgado
+    - hubieseis refulgado
+  uds:
+    - hubieran refulgado
+    - hubiesen refulgado
+imperativo:
+  tu: refulge
+  vos: refulgí
+  ud: refulga
+  nosotros: refulgamos
+  vosotros: refulged
+  uds: refulgan

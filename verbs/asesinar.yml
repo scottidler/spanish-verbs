@@ -1,0 +1,142 @@
+infinitivo: asesinar
+gerundio: asesinando
+participio-pasado: asesinado
+presente-indicativo:
+  yo: asesino
+  tu: asesinas
+  vos: asesinas
+  ud: asesina
+  nosotros: asesinamos
+  vosotros: asesináis
+  uds: asesinan
+preterito-perfecto-simple:
+  yo: asesiné
+  tu: asesinaste
+  vos: asesinaste
+  ud: asesinó
+  nosotros: asesinamos
+  vosotros: asesinasteis
+  uds: asesinaron
+preterito-imperfecto:
+  yo: asesinaba
+  tu: asesinabas
+  vos: asesinabas
+  ud: asesinaba
+  nosotros: asesinábamos
+  vosotros: asesinabais
+  uds: asesinaban
+futuro-simple:
+  yo: asesinaré
+  tu: asesinarás
+  vos: asesinarás
+  ud: asesinará
+  nosotros: asesinaremos
+  vosotros: asesinaréis
+  uds: asesinarán
+condicional-simple:
+  yo: asesinaría
+  tu: asesinarías
+  vos: asesinarías
+  ud: asesinaría
+  nosotros: asesinaríamos
+  vosotros: asesinaríais
+  uds: asesinarían
+presente-perfecto:
+  yo: he asesinado
+  tu: has asesinado
+  vos: has asesinado
+  ud: ha asesinado
+  nosotros: hemos asesinado
+  vosotros: habéis asesinado
+  uds: han asesinado
+preterito-pluscuamperfecto:
+  yo: había asesinado
+  tu: habías asesinado
+  vos: habías asesinado
+  ud: había asesinado
+  nosotros: habíamos asesinado
+  vosotros: habíais asesinado
+  uds: habían asesinado
+futuro-perfecto:
+  yo: habré asesinado
+  tu: habrás asesinado
+  vos: habrás asesinado
+  ud: habrá asesinado
+  nosotros: habremos asesinado
+  vosotros: habréis asesinado
+  uds: habrán asesinado
+condicional-perfecto:
+  yo: habría asesinado
+  tu: habrías asesinado
+  vos: habrías asesinado
+  ud: habría asesinado
+  nosotros: habríamos asesinado
+  vosotros: habríais asesinado
+  uds: habrían asesinado
+presente-subjuntivo:
+  yo: asesine
+  tu: asesines
+  vos: asesines
+  ud: asesine
+  nosotros: asesinemos
+  vosotros: asesinéis
+  uds: asesinen
+preterito-perfecto-subjuntivo:
+  yo: haya asesinado
+  tu: hayas asesinado
+  vos: hayas asesinado
+  ud: haya asesinado
+  nosotros: hayamos asesinado
+  vosotros: hayáis asesinado
+  uds: hayan asesinado
+imperfecto-subjuntivo:
+  yo:
+    - asesinara
+    - asesinase
+  tu:
+    - asesinaras
+    - asesinases
+  vos:
+    - asesinaras
+    - asesinases
+  ud:
+    - asesinara
+    - asesinase
+  nosotros:
+    - asesináramos
+    - asesinásemos
+  vosotros:
+    - asesinarais
+    - asesinaseis
+  uds:
+    - asesinaran
+    - asesinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asesinado
+    - hubiese asesinado
+  tu:
+    - hubieras asesinado
+    - hubieses asesinado
+  vos:
+    - hubieras asesinado
+    - hubieses asesinado
+  ud:
+    - hubiera asesinado
+    - hubiese asesinado
+  nosotros:
+    - hubiéramos asesinado
+    - hubiésemos asesinado
+  vosotros:
+    - hubierais asesinado
+    - hubieseis asesinado
+  uds:
+    - hubieran asesinado
+    - hubiesen asesinado
+imperativo:
+  tu: asesina
+  vos: asesiná
+  ud: asesine
+  nosotros: asesinemos
+  vosotros: asesinad
+  uds: asesinen

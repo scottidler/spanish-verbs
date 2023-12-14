@@ -1,0 +1,142 @@
+infinitivo: enfriar
+gerundio: enfriando
+participio-pasado: enfriado
+presente-indicativo:
+  yo: enfrío
+  tu: enfrías
+  vos: enfrías
+  ud: enfría
+  nosotros: enfriamos
+  vosotros: enfriáis
+  uds: enfrían
+preterito-perfecto-simple:
+  yo: enfrié
+  tu: enfriaste
+  vos: enfriaste
+  ud: enfrió
+  nosotros: enfriamos
+  vosotros: enfriasteis
+  uds: enfriaron
+preterito-imperfecto:
+  yo: enfriaba
+  tu: enfriabas
+  vos: enfriabas
+  ud: enfriaba
+  nosotros: enfriábamos
+  vosotros: enfriabais
+  uds: enfriaban
+futuro-simple:
+  yo: enfriaré
+  tu: enfriarás
+  vos: enfriarás
+  ud: enfriará
+  nosotros: enfriaremos
+  vosotros: enfriaréis
+  uds: enfriarán
+condicional-simple:
+  yo: enfriaría
+  tu: enfriarías
+  vos: enfriarías
+  ud: enfriaría
+  nosotros: enfriaríamos
+  vosotros: enfriaríais
+  uds: enfriarían
+presente-perfecto:
+  yo: he enfriado
+  tu: has enfriado
+  vos: has enfriado
+  ud: ha enfriado
+  nosotros: hemos enfriado
+  vosotros: habéis enfriado
+  uds: han enfriado
+preterito-pluscuamperfecto:
+  yo: había enfriado
+  tu: habías enfriado
+  vos: habías enfriado
+  ud: había enfriado
+  nosotros: habíamos enfriado
+  vosotros: habíais enfriado
+  uds: habían enfriado
+futuro-perfecto:
+  yo: habré enfriado
+  tu: habrás enfriado
+  vos: habrás enfriado
+  ud: habrá enfriado
+  nosotros: habremos enfriado
+  vosotros: habréis enfriado
+  uds: habrán enfriado
+condicional-perfecto:
+  yo: habría enfriado
+  tu: habrías enfriado
+  vos: habrías enfriado
+  ud: habría enfriado
+  nosotros: habríamos enfriado
+  vosotros: habríais enfriado
+  uds: habrían enfriado
+presente-subjuntivo:
+  yo: enfríe
+  tu: enfríes
+  vos: enfríes
+  ud: enfríe
+  nosotros: enfriemos
+  vosotros: enfriéis
+  uds: enfríen
+preterito-perfecto-subjuntivo:
+  yo: haya enfriado
+  tu: hayas enfriado
+  vos: hayas enfriado
+  ud: haya enfriado
+  nosotros: hayamos enfriado
+  vosotros: hayáis enfriado
+  uds: hayan enfriado
+imperfecto-subjuntivo:
+  yo:
+    - enfriara
+    - enfriase
+  tu:
+    - enfriaras
+    - enfriases
+  vos:
+    - enfriaras
+    - enfriases
+  ud:
+    - enfriara
+    - enfriase
+  nosotros:
+    - enfriáramos
+    - enfriásemos
+  vosotros:
+    - enfriarais
+    - enfriaseis
+  uds:
+    - enfriaran
+    - enfriasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enfriado
+    - hubiese enfriado
+  tu:
+    - hubieras enfriado
+    - hubieses enfriado
+  vos:
+    - hubieras enfriado
+    - hubieses enfriado
+  ud:
+    - hubiera enfriado
+    - hubiese enfriado
+  nosotros:
+    - hubiéramos enfriado
+    - hubiésemos enfriado
+  vosotros:
+    - hubierais enfriado
+    - hubieseis enfriado
+  uds:
+    - hubieran enfriado
+    - hubiesen enfriado
+imperativo:
+  tu: enfría
+  vos: enfrí
+  ud: enfríe
+  nosotros: enfriemos
+  vosotros: enfriar
+  uds: enfríen

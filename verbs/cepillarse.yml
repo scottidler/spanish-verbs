@@ -1,0 +1,142 @@
+infinitivo: cepillarse
+gerundio: cepillándose
+participio-pasado: cepillado
+presente-indicativo:
+  yo: me cepillo
+  tu: te cepillas
+  vos: te cepillas
+  ud: se cepilla
+  nosotros: nos cepillamos
+  vosotros: os cepilláis
+  uds: se cepillan
+preterito-perfecto-simple:
+  yo: me cepillé
+  tu: te cepillaste
+  vos: te cepillaste
+  ud: se cepilló
+  nosotros: nos cepillamos
+  vosotros: os cepillasteis
+  uds: se cepillaron
+preterito-imperfecto:
+  yo: me cepillaba
+  tu: te cepillabas
+  vos: te cepillabas
+  ud: se cepillaba
+  nosotros: nos cepillábamos
+  vosotros: os cepillabais
+  uds: se cepillaban
+futuro-simple:
+  yo: me cepillaré
+  tu: te cepillarás
+  vos: te cepillarás
+  ud: se cepillará
+  nosotros: nos cepillaremos
+  vosotros: os cepillaréis
+  uds: se cepillarán
+condicional-simple:
+  yo: me cepillaría
+  tu: te cepillarías
+  vos: te cepillarías
+  ud: se cepillaría
+  nosotros: nos cepillaríamos
+  vosotros: os cepillaríais
+  uds: se cepillarían
+presente-perfecto:
+  yo: me he cepillado
+  tu: te has cepillado
+  vos: te has cepillado
+  ud: se ha cepillado
+  nosotros: nos hemos cepillado
+  vosotros: os habéis cepillado
+  uds: se han cepillado
+preterito-pluscuamperfecto:
+  yo: me había cepillado
+  tu: te habías cepillado
+  vos: te habías cepillado
+  ud: se había cepillado
+  nosotros: nos habíamos cepillado
+  vosotros: os habíais cepillado
+  uds: se habían cepillado
+futuro-perfecto:
+  yo: me habré cepillado
+  tu: te habrás cepillado
+  vos: te habrás cepillado
+  ud: se habrá cepillado
+  nosotros: nos habremos cepillado
+  vosotros: os habréis cepillado
+  uds: se habrán cepillado
+condicional-perfecto:
+  yo: me habría cepillado
+  tu: te habrías cepillado
+  vos: te habrías cepillado
+  ud: se habría cepillado
+  nosotros: nos habríamos cepillado
+  vosotros: os habríais cepillado
+  uds: se habrían cepillado
+presente-subjuntivo:
+  yo: me cepille
+  tu: te cepilles
+  vos: te cepilles
+  ud: se cepille
+  nosotros: nos cepillemos
+  vosotros: os cepilléis
+  uds: se cepillen
+preterito-perfecto-subjuntivo:
+  yo: me haya cepillado
+  tu: te hayas cepillado
+  vos: te hayas cepillado
+  ud: se haya cepillado
+  nosotros: nos hayamos cepillado
+  vosotros: os hayáis cepillado
+  uds: se hayan cepillado
+imperfecto-subjuntivo:
+  yo:
+    - me cepillara
+    - me cepillase
+  tu:
+    - te cepillaras
+    - te cepillases
+  vos:
+    - te cepillaras
+    - te cepillases
+  ud:
+    - se cepillara
+    - se cepillase
+  nosotros:
+    - nos cepilláramos
+    - nos cepillásemos
+  vosotros:
+    - os cepillarais
+    - os cepillaseis
+  uds:
+    - se cepillaran
+    - se cepillasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera cepillado
+    - me hubiese cepillado
+  tu:
+    - te hubieras cepillado
+    - te hubieses cepillado
+  vos:
+    - te hubieras cepillado
+    - te hubieses cepillado
+  ud:
+    - se hubiera cepillado
+    - se hubiese cepillado
+  nosotros:
+    - nos hubiéramos cepillado
+    - nos hubiésemos cepillado
+  vosotros:
+    - os hubierais cepillado
+    - os hubieseis cepillado
+  uds:
+    - se hubieran cepillado
+    - se hubiesen cepillado
+imperativo:
+  tu: cápitate
+  vos: cápitatate
+  ud: cépíllese
+  nosotros: cápitonos
+  vosotros: cápitaros
+  uds: cépíllense

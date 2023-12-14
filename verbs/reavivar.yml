@@ -1,0 +1,142 @@
+infinitivo: reavivar
+gerundio: reavivando
+participio-pasado: reavivado
+presente-indicativo:
+  yo: reavivo
+  tu: reavivas
+  vos: reavivas
+  ud: reaviva
+  nosotros: reavivamos
+  vosotros: reaviváis
+  uds: reavivan
+preterito-perfecto-simple:
+  yo: reavivé
+  tu: reavivaste
+  vos: reavivaste
+  ud: reavivó
+  nosotros: reavivamos
+  vosotros: reavivasteis
+  uds: reavivaron
+preterito-imperfecto:
+  yo: reavivaba
+  tu: reavivabas
+  vos: reavivabas
+  ud: reavivaba
+  nosotros: reavivábamos
+  vosotros: reavivabais
+  uds: reavivaban
+futuro-simple:
+  yo: reavivaré
+  tu: reavivarás
+  vos: reavivarás
+  ud: reavivará
+  nosotros: reavivaremos
+  vosotros: reavivaréis
+  uds: reavivarán
+condicional-simple:
+  yo: reavivaría
+  tu: reavivarías
+  vos: reavivarías
+  ud: reavivaría
+  nosotros: reavivaríamos
+  vosotros: reavivaríais
+  uds: reavivarían
+presente-perfecto:
+  yo: he reavivado
+  tu: has reavivado
+  vos: has reavivado
+  ud: ha reavivado
+  nosotros: hemos reavivado
+  vosotros: habéis reavivado
+  uds: han reavivado
+preterito-pluscuamperfecto:
+  yo: había reavivado
+  tu: habías reavivado
+  vos: habías reavivado
+  ud: había reavivado
+  nosotros: habíamos reavivado
+  vosotros: habíais reavivado
+  uds: habían reavivado
+futuro-perfecto:
+  yo: habré reavivado
+  tu: habrás reavivado
+  vos: habrás reavivado
+  ud: habrá reavivado
+  nosotros: habremos reavivado
+  vosotros: habréis reavivado
+  uds: habrán reavivado
+condicional-perfecto:
+  yo: habría reavivado
+  tu: habrías reavivado
+  vos: habrías reavivado
+  ud: habría reavivado
+  nosotros: habríamos reavivado
+  vosotros: habríais reavivado
+  uds: habrían reavivado
+presente-subjuntivo:
+  yo: revevive
+  tu: revevives
+  vos: revevives
+  ud: revevive
+  nosotros: revevivamos
+  vosotros: reaviváis
+  uds: reveviven
+preterito-perfecto-subjuntivo:
+  yo: haya reavivado
+  tu: hayas reavivado
+  vos: hayas reavivado
+  ud: haya reavivado
+  nosotros: hayamos reavivado
+  vosotros: hayáis reavivado
+  uds: hayan reavivado
+imperfecto-subjuntivo:
+  yo:
+    - reavivara
+    - reavivase
+  tu:
+    - reavivaras
+    - reavivases
+  vos:
+    - reavivaras
+    - reavivases
+  ud:
+    - reavivara
+    - reavivase
+  nosotros:
+    - reaviváramos
+    - reavivásemos
+  vosotros:
+    - reavivarais
+    - reavivaseis
+  uds:
+    - reavivaran
+    - reavivasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reavivado
+    - hubiese reavivado
+  tu:
+    - hubieras reavivado
+    - hubieses reavivado
+  vos:
+    - hubieras reavivado
+    - hubieses reavivado
+  ud:
+    - hubiera reavivado
+    - hubiese reavivado
+  nosotros:
+    - hubiéramos reavivado
+    - hubiésemos reavivado
+  vosotros:
+    - hubierais reavivado
+    - hubieseis reavivado
+  uds:
+    - hubieran reavivado
+    - hubiesen reavivado
+imperativo:
+  tu: reaviva
+  vos: reavivá
+  ud: reveviva
+  nosotros: revevivamos
+  vosotros: reavivad
+  uds: revevivan

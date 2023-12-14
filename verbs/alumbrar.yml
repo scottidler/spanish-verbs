@@ -1,0 +1,142 @@
+infinitivo: alumbrar
+gerundio: alumbrando
+participio-pasado: alumbrado
+presente-indicativo:
+  yo: alumbro
+  tu: alumbras
+  vos: alumbras
+  ud: alumbra
+  nosotros: alumbramos
+  vosotros: alumbráis
+  uds: alumbran
+preterito-perfecto-simple:
+  yo: alumbré
+  tu: alumbraste
+  vos: alumbraste
+  ud: alumbró
+  nosotros: alumbramos
+  vosotros: alumbrasteis
+  uds: alumbraron
+preterito-imperfecto:
+  yo: alumbraba
+  tu: alumbrabas
+  vos: alumbrabas
+  ud: alumbraba
+  nosotros: alumbrábamos
+  vosotros: alumbrabais
+  uds: alumbraban
+futuro-simple:
+  yo: alumbraré
+  tu: alumbrarás
+  vos: alumbrarás
+  ud: alumbrará
+  nosotros: alumbraremos
+  vosotros: alumbraréis
+  uds: alumbrarán
+condicional-simple:
+  yo: alumbraría
+  tu: alumbrarías
+  vos: alumbrarías
+  ud: alumbraría
+  nosotros: alumbraríamos
+  vosotros: alumbraríais
+  uds: alumbrarían
+presente-perfecto:
+  yo: he alumbrado
+  tu: has alumbrado
+  vos: has alumbrado
+  ud: ha alumbrado
+  nosotros: hemos alumbrado
+  vosotros: habéis alumbrado
+  uds: han alumbrado
+preterito-pluscuamperfecto:
+  yo: había alumbrado
+  tu: habías alumbrado
+  vos: habías alumbrado
+  ud: había alumbrado
+  nosotros: habíamos alumbrado
+  vosotros: habíais alumbrado
+  uds: habían alumbrado
+futuro-perfecto:
+  yo: habré alumbrado
+  tu: habrás alumbrado
+  vos: habrás alumbrado
+  ud: habrá alumbrado
+  nosotros: habremos alumbrado
+  vosotros: habréis alumbrado
+  uds: habrán alumbrado
+condicional-perfecto:
+  yo: habría alumbrado
+  tu: habrías alumbrado
+  vos: habrías alumbrado
+  ud: habría alumbrado
+  nosotros: habríamos alumbrado
+  vosotros: habríais alumbrado
+  uds: habrían alumbrado
+presente-subjuntivo:
+  yo: alumbre
+  tu: alumbres
+  vos: alumbres
+  ud: alumbre
+  nosotros: alumbramos
+  vosotros: alumbráis
+  uds: alumbren
+preterito-perfecto-subjuntivo:
+  yo: haya alumbrado
+  tu: hayas alumbrado
+  vos: hayas alumbrado
+  ud: haya alumbrado
+  nosotros: hayamos alumbrado
+  vosotros: hayáis alumbrado
+  uds: hayan alumbrado
+imperfecto-subjuntivo:
+  yo:
+    - alumbrara
+    - alumbrase
+  tu:
+    - alumbraras
+    - alumbrases
+  vos:
+    - alumbraras
+    - alumbrases
+  ud:
+    - alumbrara
+    - alumbrase
+  nosotros:
+    - alumbráramos
+    - alumbrásemos
+  vosotros:
+    - alumbrarais
+    - alumbraseis
+  uds:
+    - alumbraran
+    - alumbrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alumbrado
+    - hubiese alumbrado
+  tu:
+    - hubieras alumbrado
+    - hubieses alumbrado
+  vos:
+    - hubieras alumbrado
+    - hubieses alumbrado
+  ud:
+    - hubiera alumbrado
+    - hubiese alumbrado
+  nosotros:
+    - hubiéramos alumbrado
+    - hubiésemos alumbrado
+  vosotros:
+    - hubierais alumbrado
+    - hubieseis alumbrado
+  uds:
+    - hubieran alumbrado
+    - hubiesen alumbrado
+imperativo:
+  tu: alumbra
+  vos: alumbrá
+  ud: alumbre
+  nosotros: alumbramos
+  vosotros: alumbrad
+  uds: alumbren

@@ -1,0 +1,142 @@
+infinitivo: compartir
+gerundio: compartiendo
+participio-pasado: compartido
+presente-indicativo:
+  yo: comparto
+  tu: compartes
+  vos: compartes
+  ud: comparte
+  nosotros: compartimos
+  vosotros: compartís
+  uds: comparten
+preterito-perfecto-simple:
+  yo: compartí
+  tu: compartiste
+  vos: compartiste
+  ud: compartió
+  nosotros: compartimos
+  vosotros: compartisteis
+  uds: compartieron
+preterito-imperfecto:
+  yo: compartía
+  tu: compartías
+  vos: compartías
+  ud: compartía
+  nosotros: compartíamos
+  vosotros: compartíais
+  uds: compartían
+futuro-simple:
+  yo: compartiré
+  tu: compartirás
+  vos: compartirás
+  ud: compartirá
+  nosotros: compartiremos
+  vosotros: compartiréis
+  uds: compartirán
+condicional-simple:
+  yo: compartiría
+  tu: compartirías
+  vos: compartirías
+  ud: compartiría
+  nosotros: compartiríamos
+  vosotros: compartiríais
+  uds: compartirían
+presente-perfecto:
+  yo: he compartido
+  tu: has compartido
+  vos: has compartido
+  ud: ha compartido
+  nosotros: hemos compartido
+  vosotros: habéis compartido
+  uds: han compartido
+preterito-pluscuamperfecto:
+  yo: había compartido
+  tu: habías compartido
+  vos: habías compartido
+  ud: había compartido
+  nosotros: habíamos compartido
+  vosotros: habíais compartido
+  uds: habían compartido
+futuro-perfecto:
+  yo: habré compartido
+  tu: habrás compartido
+  vos: habrás compartido
+  ud: habrá compartido
+  nosotros: habremos compartido
+  vosotros: habréis compartido
+  uds: habrán compartido
+condicional-perfecto:
+  yo: habría compartido
+  tu: habrías compartido
+  vos: habrías compartido
+  ud: habría compartido
+  nosotros: habríamos compartido
+  vosotros: habríais compartido
+  uds: habrían compartido
+presente-subjuntivo:
+  yo: comparta
+  tu: compartas
+  vos: compartas
+  ud: comparta
+  nosotros: compartamos
+  vosotros: compartáis
+  uds: compartan
+preterito-perfecto-subjuntivo:
+  yo: haya compartido
+  tu: hayas compartido
+  vos: hayas compartido
+  ud: haya compartido
+  nosotros: hayamos compartido
+  vosotros: hayáis compartido
+  uds: hayan compartido
+imperfecto-subjuntivo:
+  yo:
+    - compartiera
+    - compartiese
+  tu:
+    - compartieras
+    - compartieses
+  vos:
+    - compartieras
+    - compartieses
+  ud:
+    - compartiera
+    - compartiese
+  nosotros:
+    - compartiéramos
+    - compartiésemos
+  vosotros:
+    - compartierais
+    - compartieseis
+  uds:
+    - compartieran
+    - compartiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera compartido
+    - hubiese compartido
+  tu:
+    - hubieras compartido
+    - hubieses compartido
+  vos:
+    - hubieras compartido
+    - hubieses compartido
+  ud:
+    - hubiera compartido
+    - hubiese compartido
+  nosotros:
+    - hubiéramos compartido
+    - hubiésemos compartido
+  vosotros:
+    - hubierais compartido
+    - hubieseis compartido
+  uds:
+    - hubieran compartido
+    - hubiesen compartido
+imperativo:
+  tu: comparte
+  vos: compartí
+  ud: comparte
+  nosotros: compartamos
+  vosotros: compartid
+  uds: compartan

@@ -1,0 +1,142 @@
+infinitivo: acordar
+gerundio: acordando
+participio-pasado: acordado
+presente-indicativo:
+  yo: acuerdo
+  tu: acuerdas
+  vos: acordás
+  ud: acuerda
+  nosotros: acordamos
+  vosotros: acordáis
+  uds: acuerdan
+preterito-perfecto-simple:
+  yo: acordé
+  tu: acordaste
+  vos: acordaste
+  ud: acordó
+  nosotros: acordamos
+  vosotros: acordasteis
+  uds: acordaron
+preterito-imperfecto:
+  yo: acordaba
+  tu: acordabas
+  vos: acordabas
+  ud: acordaba
+  nosotros: acordábamos
+  vosotros: acordabais
+  uds: acordaban
+futuro-simple:
+  yo: acordaré
+  tu: acordarás
+  vos: acordarás
+  ud: acordará
+  nosotros: acordaremos
+  vosotros: acordaréis
+  uds: acordarán
+condicional-simple:
+  yo: acordaría
+  tu: acordarías
+  vos: acordarías
+  ud: acordaría
+  nosotros: acordaríamos
+  vosotros: acordaríais
+  uds: acordarían
+presente-perfecto:
+  yo: he acordado
+  tu: has acordado
+  vos: has acordado
+  ud: ha acordado
+  nosotros: hemos acordado
+  vosotros: habéis acordado
+  uds: han acordado
+preterito-pluscuamperfecto:
+  yo: había acordado
+  tu: habías acordado
+  vos: habías acordado
+  ud: había acordado
+  nosotros: habíamos acordado
+  vosotros: habíais acordado
+  uds: habían acordado
+futuro-perfecto:
+  yo: habré acordado
+  tu: habrás acordado
+  vos: habrás acordado
+  ud: habrá acordado
+  nosotros: habremos acordado
+  vosotros: habréis acordado
+  uds: habrán acordado
+condicional-perfecto:
+  yo: habría acordado
+  tu: habrías acordado
+  vos: habrías acordado
+  ud: habría acordado
+  nosotros: habríamos acordado
+  vosotros: habríais acordado
+  uds: habrían acordado
+presente-subjuntivo:
+  yo: acuerde
+  tu: acuerdes
+  vos: acuerdes
+  ud: acuerde
+  nosotros: acordemos
+  vosotros: acordéis
+  uds: acuerden
+preterito-perfecto-subjuntivo:
+  yo: haya acordado
+  tu: hayas acordado
+  vos: hayas acordado
+  ud: haya acordado
+  nosotros: hayamos acordado
+  vosotros: hayáis acordado
+  uds: hayan acordado
+imperfecto-subjuntivo:
+  yo:
+    - acordara
+    - acordase
+  tu:
+    - acordaras
+    - acordases
+  vos:
+    - acordaras
+    - acordases
+  ud:
+    - acordara
+    - acordase
+  nosotros:
+    - acordáramos
+    - acordásemos
+  vosotros:
+    - acordarais
+    - acordaseis
+  uds:
+    - acordaran
+    - acordasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acordado
+    - hubiese acordado
+  tu:
+    - hubieras acordado
+    - hubieses acordado
+  vos:
+    - hubieras acordado
+    - hubieses acordado
+  ud:
+    - hubiera acordado
+    - hubiese acordado
+  nosotros:
+    - hubiéramos acordado
+    - hubiésemos acordado
+  vosotros:
+    - hubierais acordado
+    - hubieseis acordado
+  uds:
+    - hubieran acordado
+    - hubiesen acordado
+imperativo:
+  tu: acuerda
+  vos: acordá
+  ud: acuerde
+  nosotros: acordemos
+  vosotros: acordad
+  uds: acuerden

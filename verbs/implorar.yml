@@ -1,0 +1,142 @@
+infinitivo: implorar
+gerundio: implorando
+participio-pasado: implorado
+presente-indicativo:
+  yo: imploro
+  tu: imploras
+  vos: imploras
+  ud: implora
+  nosotros: imploramos
+  vosotros: imploráis
+  uds: imploran
+preterito-perfecto-simple:
+  yo: imploré
+  tu: imploraste
+  vos: imploraste
+  ud: imploró
+  nosotros: imploramos
+  vosotros: implorasteis
+  uds: imploraron
+preterito-imperfecto:
+  yo: imploraba
+  tu: implorabas
+  vos: implorabas
+  ud: imploraba
+  nosotros: implorábamos
+  vosotros: implorabais
+  uds: imploraban
+futuro-simple:
+  yo: imploraré
+  tu: implorarás
+  vos: implorarás
+  ud: implorará
+  nosotros: imploraremos
+  vosotros: imploraréis
+  uds: implorarán
+condicional-simple:
+  yo: imploraría
+  tu: implorarías
+  vos: implorarías
+  ud: imploraría
+  nosotros: imploraríamos
+  vosotros: imploraríais
+  uds: implorarían
+presente-perfecto:
+  yo: he implorado
+  tu: has implorado
+  vos: has implorado
+  ud: ha implorado
+  nosotros: hemos implorado
+  vosotros: habéis implorado
+  uds: han implorado
+preterito-pluscuamperfecto:
+  yo: había implorado
+  tu: habías implorado
+  vos: habías implorado
+  ud: había implorado
+  nosotros: habíamos implorado
+  vosotros: habíais implorado
+  uds: habían implorado
+futuro-perfecto:
+  yo: habré implorado
+  tu: habrás implorado
+  vos: habrás implorado
+  ud: habrá implorado
+  nosotros: habremos implorado
+  vosotros: habréis implorado
+  uds: habrán implorado
+condicional-perfecto:
+  yo: habría implorado
+  tu: habrías implorado
+  vos: habrías implorado
+  ud: habría implorado
+  nosotros: habríamos implorado
+  vosotros: habríais implorado
+  uds: habrían implorado
+presente-subjuntivo:
+  yo: implore
+  tu: implores
+  vos: implores
+  ud: implore
+  nosotros: imploremos
+  vosotros: imploréis
+  uds: imploren
+preterito-perfecto-subjuntivo:
+  yo: haya implorado
+  tu: hayas implorado
+  vos: hayas implorado
+  ud: haya implorado
+  nosotros: hayamos implorado
+  vosotros: hayáis implorado
+  uds: hayan implorado
+imperfecto-subjuntivo:
+  yo:
+    - implorara
+    - implorase
+  tu:
+    - imploraras
+    - implorases
+  vos:
+    - imploraras
+    - implorases
+  ud:
+    - implorara
+    - implorase
+  nosotros:
+    - imploráramos
+    - implorásemos
+  vosotros:
+    - implorarais
+    - imploraseis
+  uds:
+    - imploraran
+    - implorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera implorado
+    - hubiese implorado
+  tu:
+    - hubieras implorado
+    - hubieses implorado
+  vos:
+    - hubieras implorado
+    - hubieses implorado
+  ud:
+    - hubiera implorado
+    - hubiese implorado
+  nosotros:
+    - hubiéramos implorado
+    - hubiésemos implorado
+  vosotros:
+    - hubierais implorado
+    - hubieseis implorado
+  uds:
+    - hubieran implorado
+    - hubiesen implorado
+imperativo:
+  tu: implora
+  vos: implorá
+  ud: implore
+  nosotros: imploremos
+  vosotros: implorad
+  uds: imploren

@@ -1,0 +1,142 @@
+infinitivo: vitorear
+gerundio: vitoreando
+participio-pasado: vitoreado
+presente-indicativo:
+  yo: vitoreo
+  tu: vitoreas
+  vos: vitoreas
+  ud: vitorea
+  nosotros: vitoreamos
+  vosotros: vitoreáis
+  uds: vitorean
+preterito-perfecto-simple:
+  yo: vitoreé
+  tu: vitoreaste
+  vos: vitoreaste
+  ud: vitoreó
+  nosotros: vitoreamos
+  vosotros: vitoreasteis
+  uds: vitorearon
+preterito-imperfecto:
+  yo: vitoreaba
+  tu: vitoreabas
+  vos: vitoreabas
+  ud: vitoreaba
+  nosotros: vitoreábamos
+  vosotros: vitoreabais
+  uds: vitoreaban
+futuro-simple:
+  yo: vitorearé
+  tu: vitorearás
+  vos: vitorearás
+  ud: vitoreará
+  nosotros: vitorearemos
+  vosotros: vitorearéis
+  uds: vitorearán
+condicional-simple:
+  yo: vitorearía
+  tu: vitorearías
+  vos: vitorearías
+  ud: vitorearía
+  nosotros: vitorearíamos
+  vosotros: vitorearíais
+  uds: vitorearían
+presente-perfecto:
+  yo: he vitoreado
+  tu: has vitoreado
+  vos: has vitoreado
+  ud: ha vitoreado
+  nosotros: hemos vitoreado
+  vosotros: habéis vitoreado
+  uds: han vitoreado
+preterito-pluscuamperfecto:
+  yo: había vitoreado
+  tu: habías vitoreado
+  vos: habías vitoreado
+  ud: había vitoreado
+  nosotros: habíamos vitoreado
+  vosotros: habíais vitoreado
+  uds: habían vitoreado
+futuro-perfecto:
+  yo: habré vitoreado
+  tu: habrás vitoreado
+  vos: habrás vitoreado
+  ud: habrá vitoreado
+  nosotros: habremos vitoreado
+  vosotros: habréis vitoreado
+  uds: habrán vitoreado
+condicional-perfecto:
+  yo: habría vitoreado
+  tu: habrías vitoreado
+  vos: habrías vitoreado
+  ud: habría vitoreado
+  nosotros: habríamos vitoreado
+  vosotros: habríais vitoreado
+  uds: habrían vitoreado
+presente-subjuntivo:
+  yo: vitoree
+  tu: vitorees
+  vos: vitorees
+  ud: vitoree
+  nosotros: vitoreemos
+  vosotros: vitoreéis
+  uds: vitoreen
+preterito-perfecto-subjuntivo:
+  yo: haya vitoreado
+  tu: hayas vitoreado
+  vos: hayas vitoreado
+  ud: haya vitoreado
+  nosotros: hayamos vitoreado
+  vosotros: hayáis vitoreado
+  uds: hayan vitoreado
+imperfecto-subjuntivo:
+  yo:
+    - vitoreara
+    - vitorease
+  tu:
+    - vitorearas
+    - vitoreases
+  vos:
+    - vitorearas
+    - vitoreases
+  ud:
+    - vitoreara
+    - vitorease
+  nosotros:
+    - vitoreáramos
+    - vitoreásemos
+  vosotros:
+    - vitorearais
+    - vitoreaseis
+  uds:
+    - vitorearan
+    - vitoreasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vitoreado
+    - hubiese vitoreado
+  tu:
+    - hubieras vitoreado
+    - hubieses vitoreado
+  vos:
+    - hubieras vitoreado
+    - hubieses vitoreado
+  ud:
+    - hubiera vitoreado
+    - hubiese vitoreado
+  nosotros:
+    - hubiéramos vitoreado
+    - hubiésemos vitoreado
+  vosotros:
+    - hubierais vitoreado
+    - hubieseis vitoreado
+  uds:
+    - hubieran vitoreado
+    - hubiesen vitoreado
+imperativo:
+  tu: vitorea
+  vos: vitoreá
+  ud: vitoree
+  nosotros: vitoreemos
+  vosotros: vitoread
+  uds: vitoreen

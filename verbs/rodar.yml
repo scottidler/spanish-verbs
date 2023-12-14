@@ -1,0 +1,142 @@
+infinitivo: rodar
+gerundio: rodando
+participio-pasado: rodado
+presente-indicativo:
+  yo: ruedo
+  tu: ruedas
+  vos: ruedas
+  ud: rueda
+  nosotros: rodamos
+  vosotros: rodáis
+  uds: ruedan
+preterito-perfecto-simple:
+  yo: rodé
+  tu: rodaste
+  vos: rodaste
+  ud: rodó
+  nosotros: rodamos
+  vosotros: rodasteis
+  uds: rodaron
+preterito-imperfecto:
+  yo: rodaba
+  tu: rodabas
+  vos: rodabas
+  ud: rodaba
+  nosotros: rodábamos
+  vosotros: rodabais
+  uds: rodaban
+futuro-simple:
+  yo: rodaré
+  tu: rodarás
+  vos: rodarás
+  ud: rodará
+  nosotros: rodaremos
+  vosotros: rodaréis
+  uds: rodarán
+condicional-simple:
+  yo: rodaría
+  tu: rodarías
+  vos: rodarías
+  ud: rodaría
+  nosotros: rodaríamos
+  vosotros: rodaríais
+  uds: rodarían
+presente-perfecto:
+  yo: he rodado
+  tu: has rodado
+  vos: has rodado
+  ud: ha rodado
+  nosotros: hemos rodado
+  vosotros: habéis rodado
+  uds: han rodado
+preterito-pluscuamperfecto:
+  yo: había rodado
+  tu: habías rodado
+  vos: habías rodado
+  ud: había rodado
+  nosotros: habíamos rodado
+  vosotros: habíais rodado
+  uds: habían rodado
+futuro-perfecto:
+  yo: habré rodado
+  tu: habrás rodado
+  vos: habrás rodado
+  ud: habrá rodado
+  nosotros: habremos rodado
+  vosotros: habréis rodado
+  uds: habrán rodado
+condicional-perfecto:
+  yo: habría rodado
+  tu: habrías rodado
+  vos: habrías rodado
+  ud: habría rodado
+  nosotros: habríamos rodado
+  vosotros: habríais rodado
+  uds: habrían rodado
+presente-subjuntivo:
+  yo: ruede
+  tu: ruedes
+  vos: ruedes
+  ud: ruede
+  nosotros: ruedemos
+  vosotros: rodéis
+  uds: rueden
+preterito-perfecto-subjuntivo:
+  yo: haya rodado
+  tu: hayas rodado
+  vos: hayas rodado
+  ud: haya rodado
+  nosotros: hayamos rodado
+  vosotros: hayáis rodado
+  uds: hayan rodado
+imperfecto-subjuntivo:
+  yo:
+    - rodara
+    - rodase
+  tu:
+    - rodaras
+    - rodases
+  vos:
+    - rodaras
+    - rodases
+  ud:
+    - rodara
+    - rodase
+  nosotros:
+    - rodáramos
+    - rodásemos
+  vosotros:
+    - rodarais
+    - rodaseis
+  uds:
+    - rodaran
+    - rodasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rodado
+    - hubiese rodado
+  tu:
+    - hubieras rodado
+    - hubieses rodado
+  vos:
+    - hubieras rodado
+    - hubieses rodado
+  ud:
+    - hubiera rodado
+    - hubiese rodado
+  nosotros:
+    - hubiéramos rodado
+    - hubiésemos rodado
+  vosotros:
+    - hubierais rodado
+    - hubieseis rodado
+  uds:
+    - hubieran rodado
+    - hubiesen rodado
+imperativo:
+  tu: rueda
+  vos: roda
+  ud: ruede
+  nosotros: ruedemos
+  vosotros: rodad
+  uds: rueden

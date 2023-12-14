@@ -1,0 +1,156 @@
+infinitivo: morirse
+gerundio: muriéndose
+participio-pasado: muerto
+
+presente-indicativo:
+  yo: me muero
+  tu: te mueres
+  vos: te mueres
+  ud: se muere
+  nosotros: nos morimos
+  vosotros: os morís
+  uds: se mueren
+
+preterito-perfecto-simple:
+  yo: me morí
+  tu: te moriste
+  vos: te moriste
+  ud: se murió
+  nosotros: nos morimos
+  vosotros: os moristeis
+  uds: se murieron
+
+preterito-imperfecto:
+  yo: me moría
+  tu: te morías
+  vos: te morías
+  ud: se moría
+  nosotros: nos moríamos
+  vosotros: os moríais
+  uds: se morían
+
+futuro-simple:
+  yo: me moriré
+  tu: te morirás
+  vos: te morirás
+  ud: se morirá
+  nosotros: nos moriremos
+  vosotros: os moriréis
+  uds: se morirán
+
+condicional-simple:
+  yo: me moriría
+  tu: te morirías
+  vos: te morirías
+  ud: se moriría
+  nosotros: nos moriríamos
+  vosotros: os moriríais
+  uds: se morirían
+
+presente-perfecto:
+  yo: me he muerto
+  tu: te has muerto
+  vos: te has muerto
+  ud: se ha muerto
+  nosotros: nos hemos muerto
+  vosotros: os habéis muerto
+  uds: se han muerto
+
+preterito-pluscuamperfecto:
+  yo: me había muerto
+  tu: te habías muerto
+  vos: te habías muerto
+  ud: se había muerto
+  nosotros: nos habíamos muerto
+  vosotros: os habíais muerto
+  uds: se habían muerto
+
+futuro-perfecto:
+  yo: me habré muerto
+  tu: te habrás muerto
+  vos: te habrás muerto
+  ud: se habrá muerto
+  nosotros: nos habremos muerto
+  vosotros: os habréis muerto
+  uds: se habrán muerto
+
+condicional-perfecto:
+  yo: me habría muerto
+  tu: te habrías muerto
+  vos: te habrías muerto
+  ud: se habría muerto
+  nosotros: nos habríamos muerto
+  vosotros: os habríais muerto
+  uds: se habrían muerto
+
+presente-subjuntivo:
+  yo: me muera
+  tu: te mueras
+  vos: te mueras
+  ud: se muera
+  nosotros: nos muramos
+  vosotros: os muráis
+  uds: se mueran
+
+preterito-perfecto-subjuntivo:
+  yo: me haya muerto
+  tu: te hayas muerto
+  vos: te hayas muerto
+  ud: se haya muerto
+  nosotros: nos hayamos muerto
+  vosotros: os hayáis muerto
+  uds: se hayan muerto
+
+imperfecto-subjuntivo:
+  yo:
+    - me muriera
+    - me muriese
+  tu:
+    - te murieras
+    - te murieses
+  vos:
+    - te murieras
+    - te murieses
+  ud:
+    - se muriera
+    - se muriese
+  nosotros:
+    - nos muriéramos
+    - nos muriésemos
+  vosotros:
+    - os murierais
+    - os murieseis
+  uds:
+    - se murieran
+    - se muriesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera muerto
+    - me hubiese muerto
+  tu:
+    - te hubieras muerto
+    - te hubieses muerto
+  vos:
+    - te hubieras muerto
+    - te hubieses muerto
+  ud:
+    - se hubiera muerto
+    - se hubiese muerto
+  nosotros:
+    - nos hubiéramos muerto
+    - nos hubiésemos muerto
+  vosotros:
+    - os hubierais muerto
+    - os hubieseis muerto
+  uds:
+    - se hubieran muerto
+    - se hubiesen muerto
+
+imperativo:
+  tu: muérete
+  vos: muérete
+  ud: márchese
+  nosotros: marchémonos
+  vosotros: marchaos
+  uds: márchense

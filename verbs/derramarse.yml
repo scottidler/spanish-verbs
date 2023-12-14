@@ -1,0 +1,142 @@
+infinitivo: derramarse
+gerundio: derramándose
+participio-pasado: derramado
+presente-indicativo:
+  yo: me derramo
+  tu: te derramas
+  vos: te derramás
+  ud: se derrama
+  nosotros: nos derramamos
+  vosotros: os derramáis
+  uds: se derraman
+preterito-perfecto-simple:
+  yo: me derramé
+  tu: te derramaste
+  vos: te derramaste
+  ud: se derramó
+  nosotros: nos derramamos
+  vosotros: os derramasteis
+  uds: se derramaron
+preterito-imperfecto:
+  yo: me derramaba
+  tu: te derramabas
+  vos: te derramabas
+  ud: se derramaba
+  nosotros: nos derramábamos
+  vosotros: os derramabais
+  uds: se derramaban
+futuro-simple:
+  yo: me derramaré
+  tu: te derramarás
+  vos: te derramarás
+  ud: se derramará
+  nosotros: nos derramaremos
+  vosotros: os derramaréis
+  uds: se derramarán
+condicional-simple:
+  yo: me derramaría
+  tu: te derramarías
+  vos: te derramarías
+  ud: se derramaría
+  nosotros: nos derramaríamos
+  vosotros: os derramaríais
+  uds: se derramarían
+presente-perfecto:
+  yo: me he derramado
+  tu: te has derramado
+  vos: te has derramado
+  ud: se ha derramado
+  nosotros: nos hemos derramado
+  vosotros: os habéis derramado
+  uds: se han derramado
+preterito-pluscuamperfecto:
+  yo: me había derramado
+  tu: te habías derramado
+  vos: te habías derramado
+  ud: se había derramado
+  nosotros: nos habíamos derramado
+  vosotros: os habíais derramado
+  uds: se habían derramado
+futuro-perfecto:
+  yo: me habré derramado
+  tu: te habrás derramado
+  vos: te habrás derramado
+  ud: se habrá derramado
+  nosotros: nos habremos derramado
+  vosotros: os habréis derramado
+  uds: se habrán derramado
+condicional-perfecto:
+  yo: me habría derramado
+  tu: te habrías derramado
+  vos: te habrías derramado
+  ud: se habría derramado
+  nosotros: nos habríamos derramado
+  vosotros: os habríais derramado
+  uds: se habrían derramado
+presente-subjuntivo:
+  yo: me derrame
+  tu: te derrames
+  vos: te derrames
+  ud: se derrame
+  nosotros: nos derramemos
+  vosotros: os derraméis
+  uds: se derramen
+preterito-perfecto-subjuntivo:
+  yo: me haya derramado
+  tu: te hayas derramado
+  vos: te hayas derramado
+  ud: se haya derramado
+  nosotros: nos hayamos derramado
+  vosotros: os hayáis derramado
+  uds: se hayan derramado
+imperfecto-subjuntivo:
+  yo:
+    - me derramara
+    - me derramase
+  tu:
+    - te derramaras
+    - te derramases
+  vos:
+    - te derramaras
+    - te derramases
+  ud:
+    - se derramara
+    - se derramase
+  nosotros:
+    - nos derramáramos
+    - nos derramásemos
+  vosotros:
+    - os derramarais
+    - os derramaseis
+  uds:
+    - se derramaran
+    - se derramasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera derramado
+    - me hubiese derramado
+  tu:
+    - te hubieras derramado
+    - te hubieses derramado
+  vos:
+    - te hubieras derramado
+    - te hubieses derramado
+  ud:
+    - se hubiera derramado
+    - se hubiese derramado
+  nosotros:
+    - nos hubiéramos derramado
+    - nos hubiésemos derramado
+  vosotros:
+    - os hubierais derramado
+    - os hubieseis derramado
+  uds:
+    - se hubieran derramado
+    - se hubiesen derramado
+imperativo:
+  tu: derrámate
+  vos: derramáte
+  ud: derrámese
+  nosotros: derramémonos
+  vosotros: derramaos
+  uds: derrámense

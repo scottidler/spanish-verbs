@@ -1,0 +1,142 @@
+infinitivo: acércalir
+gerundio: acercándose
+participio-pasado: acercado
+presente-indicativo:
+  yo: me acerco
+  tu: te acercas
+  vos: te acercas
+  ud: se acerca
+  nosotros: nos acercamos
+  vosotros: os acercáis
+  uds: se acercan
+preterito-perfecto-simple:
+  yo: me acerqué
+  tu: te acercaste
+  vos: te acercaste
+  ud: se acercó
+  nosotros: nos acercamos
+  vosotros: os acercasteis
+  uds: se acercaron
+preterito-imperfecto:
+  yo: me acercaba
+  tu: te acercabas
+  vos: te acercabas
+  ud: se acercaba
+  nosotros: nos acercábamos
+  vosotros: os acercabais
+  uds: se acercaban
+futuro-simple:
+  yo: me acercaré
+  tu: te acercarás
+  vos: te acercarás
+  ud: se acercará
+  nosotros: nos acercaremos
+  vosotros: os acercaréis
+  uds: se acercarán
+condicional-simple:
+  yo: me acercaría
+  tu: te acercarías
+  vos: te acercarías
+  ud: se acercaría
+  nosotros: nos acercaríamos
+  vosotros: os acercaríais
+  uds: se acercarían
+presente-perfecto:
+  yo: me he acercado
+  tu: te has acercado
+  vos: te has acercado
+  ud: se ha acercado
+  nosotros: nos hemos acercado
+  vosotros: os habéis acercado
+  uds: se han acercado
+preterito-pluscuamperfecto:
+  yo: me había acercado
+  tu: te habías acercado
+  vos: te habías acercado
+  ud: se había acercado
+  nosotros: nos habíamos acercado
+  vosotros: os habíais acercado
+  uds: se habían acercado
+futuro-perfecto:
+  yo: me habré acercado
+  tu: te habrás acercado
+  vos: te habrás acercado
+  ud: se habrá acercado
+  nosotros: nos habremos acercado
+  vosotros: os habréis acercado
+  uds: se habrán acercado
+condicional-perfecto:
+  yo: me habría acercado
+  tu: te habrías acercado
+  vos: te habrías acercado
+  ud: se habría acercado
+  nosotros: nos habríamos acercado
+  vosotros: os habríais acercado
+  uds: se habrían acercado
+presente-subjuntivo:
+  yo: me acerque
+  tu: te acerques
+  vos: te acerques
+  ud: se acerque
+  nosotros: nos acerquemos
+  vosotros: os acerquéis
+  uds: se acerquen
+preterito-perfecto-subjuntivo:
+  yo: me haya acercado
+  tu: te hayas acercado
+  vos: te hayas acercado
+  ud: se haya acercado
+  nosotros: nos hayamos acercado
+  vosotros: os hayáis acercado
+  uds: se hayan acercado
+imperfecto-subjuntivo:
+  yo:
+    - me acercara
+    - me acercase
+  tu:
+    - te acercaras
+    - te acercases
+  vos:
+    - te acercaras
+    - te acercases
+  ud:
+    - se acercara
+    - se acercase
+  nosotros:
+    - nos acercáramos
+    - nos acercásemos
+  vosotros:
+    - os acercarais
+    - os acercaseis
+  uds:
+    - se acercaran
+    - se acercasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera acercado
+    - me hubiese acercado
+  tu:
+    - te hubieras acercado
+    - te hubieses acercado
+  vos:
+    - te hubieras acercado
+    - te hubieses acercado
+  ud:
+    - se hubiera acercado
+    - se hubiese acercado
+  nosotros:
+    - nos hubiéramos acercado
+    - nos hubiésemos acercado
+  vosotros:
+    - os hubierais acercado
+    - os hubieseis acercado
+  uds:
+    - se hubieran acercado
+    - se hubiesen acercado
+imperativo:
+  tu: acércalite
+  vos: acércalite
+  ud: acérquese
+  nosotros: acerquémonos
+  vosotros: acercaos
+  uds: acérquense

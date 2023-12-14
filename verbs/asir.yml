@@ -1,0 +1,142 @@
+infinitivo: asir
+gerundio: asiendo
+participio-pasado: asido
+presente-indicativo:
+  yo: asgo
+  tu: ases
+  vos: asis
+  ud: asi
+  nosotros: asimos
+  vosotros: asís
+  uds: asen
+preterito-perfecto-simple:
+  yo: así
+  tu: asiste
+  vos: asiste
+  ud: asió
+  nosotros: asimos
+  vosotros: asisteis
+  uds: asieron
+preterito-imperfecto:
+  yo: asía
+  tu: asías
+  vos: asías
+  ud: asía
+  nosotros: asíamos
+  vosotros: asíais
+  uds: asían
+futuro-simple:
+  yo: asiré
+  tu: asirás
+  vos: asirás
+  ud: asirá
+  nosotros: asiremos
+  vosotros: asiréis
+  uds: asirán
+condicional-simple:
+  yo: asiría
+  tu: asirías
+  vos: asirías
+  ud: asiría
+  nosotros: asiríamos
+  vosotros: asiríais
+  uds: asirían
+presente-perfecto:
+  yo: he asido
+  tu: has asido
+  vos: has asido
+  ud: ha asido
+  nosotros: hemos asido
+  vosotros: habéis asido
+  uds: han asido
+preterito-pluscuamperfecto:
+  yo: había asido
+  tu: habías asido
+  vos: habías asido
+  ud: había asido
+  nosotros: habíamos asido
+  vosotros: habíais asido
+  uds: habían asido
+futuro-perfecto:
+  yo: habré asido
+  tu: habrás asido
+  vos: habrás asido
+  ud: habrá asido
+  nosotros: habremos asido
+  vosotros: habréis asido
+  uds: habrán asido
+condicional-perfecto:
+  yo: habría asido
+  tu: habrías asido
+  vos: habrías asido
+  ud: habría asido
+  nosotros: habríamos asido
+  vosotros: habríais asido
+  uds: habrían asido
+presente-subjuntivo:
+  yo: asga
+  tu: asgas
+  vos: asgas
+  ud: asga
+  nosotros: asgamos
+  vosotros: asgáis
+  uds: asgan
+preterito-perfecto-subjuntivo:
+  yo: haya asido
+  tu: hayas asido
+  vos: hayas asido
+  ud: haya asido
+  nosotros: hayamos asido
+  vosotros: hayáis asido
+  uds: hayan asido
+imperfecto-subjuntivo:
+  yo:
+    - asiera
+    - asiese
+  tu:
+    - asieras
+    - asieses
+  vos:
+    - asieras
+    - asieses
+  ud:
+    - asiera
+    - asiese
+  nosotros:
+    - asiéramos
+    - asiésemos
+  vosotros:
+    - asierais
+    - asieseis
+  uds:
+    - asieran
+    - asiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asido
+    - hubiese asido
+  tu:
+    - hubieras asido
+    - hubieses asido
+  vos:
+    - hubieras asido
+    - hubieses asido
+  ud:
+    - hubiera asido
+    - hubiese asido
+  nosotros:
+    - hubiéramos asido
+    - hubiésemos asido
+  vosotros:
+    - hubierais asido
+    - hubieseis asido
+  uds:
+    - hubieran asido
+    - hubiesen asido
+imperativo:
+  tu: as
+  vos: asi
+  ud: asa
+  nosotros: asamos
+  vosotros: asad
+  uds: asan

@@ -1,0 +1,142 @@
+infinitivo: quedarse
+gerundio: quedándose
+participio-pasado: quedado
+presente-indicativo:
+  yo: me quedo
+  tu: te quedas
+  vos: te quedas
+  ud: se queda
+  nosotros: nos quedamos
+  vosotros: os quedáis
+  uds: se quedan
+preterito-perfecto-simple:
+  yo: me quedé
+  tu: te quedaste
+  vos: te quedaste
+  ud: se quedó
+  nosotros: nos quedamos
+  vosotros: os quedasteis
+  uds: se quedaron
+preterito-imperfecto:
+  yo: me quedaba
+  tu: te quedabas
+  vos: te quedabas
+  ud: se quedaba
+  nosotros: nos quedábamos
+  vosotros: os quedabais
+  uds: se quedaban
+futuro-simple:
+  yo: me quedaré
+  tu: te quedarás
+  vos: te quedarás
+  ud: se quedará
+  nosotros: nos quedaremos
+  vosotros: os quedaréis
+  uds: se quedarán
+condicional-simple:
+  yo: me quedaría
+  tu: te quedarías
+  vos: te quedarías
+  ud: se quedaría
+  nosotros: nos quedaríamos
+  vosotros: os quedaríais
+  uds: se quedarían
+presente-perfecto:
+  yo: me he quedado
+  tu: te has quedado
+  vos: te has quedado
+  ud: se ha quedado
+  nosotros: nos hemos quedado
+  vosotros: os habéis quedado
+  uds: se han quedado
+preterito-pluscuamperfecto:
+  yo: me había quedado
+  tu: te habías quedado
+  vos: te habías quedado
+  ud: se había quedado
+  nosotros: nos habíamos quedado
+  vosotros: os habíais quedado
+  uds: se habían quedado
+futuro-perfecto:
+  yo: me habré quedado
+  tu: te habrás quedado
+  vos: te habrás quedado
+  ud: se habrá quedado
+  nosotros: nos habremos quedado
+  vosotros: os habréis quedado
+  uds: se habrán quedado
+condicional-perfecto:
+  yo: me habría quedado
+  tu: te habrías quedado
+  vos: te habrías quedado
+  ud: se habría quedado
+  nosotros: nos habríamos quedado
+  vosotros: os habríais quedado
+  uds: se habrían quedado
+presente-subjuntivo:
+  yo: me quede
+  tu: te quedes
+  vos: te quedes
+  ud: se quede
+  nosotros: nos quedemos
+  vosotros: os quedéis
+  uds: se queden
+preterito-perfecto-subjuntivo:
+  yo: me haya quedado
+  tu: te hayas quedado
+  vos: te hayas quedado
+  ud: se haya quedado
+  nosotros: nos hayamos quedado
+  vosotros: os hayáis quedado
+  uds: se hayan quedado
+imperfecto-subjuntivo:
+  yo:
+    - me quedara
+    - me quedase
+  tu:
+    - te quedaras
+    - te quedases
+  vos:
+    - te quedaras
+    - te quedases
+  ud:
+    - se quedara
+    - se quedase
+  nosotros:
+    - nos quedáramos
+    - nos quedásemos
+  vosotros:
+    - os quedarais
+    - os quedaseis
+  uds:
+    - se quedaran
+    - se quedasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera quedado
+    - me hubiese quedado
+  tu:
+    - te hubieras quedado
+    - te hubieses quedado
+  vos:
+    - te hubieras quedado
+    - te hubieses quedado
+  ud:
+    - se hubiera quedado
+    - se hubiese quedado
+  nosotros:
+    - nos hubiéramos quedado
+    - nos hubiésemos quedado
+  vosotros:
+    - os hubierais quedado
+    - os hubieseis quedado
+  uds:
+    - se hubieran quedado
+    - se hubiesen quedado
+imperativo:
+  tu: quédate
+  vos: quédate
+  ud: quédese
+  nosotros: quedémonos
+  vosotros: quedaos
+  uds: quédense

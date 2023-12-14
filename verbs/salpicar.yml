@@ -1,0 +1,142 @@
+infinitivo: salpicar
+gerundio: salpicando
+participio-pasado: salpicado
+presente-indicativo:
+  yo: salpico
+  tu: salpicas
+  vos: salpicas
+  ud: salpica
+  nosotros: salpicamos
+  vosotros: salpicáis
+  uds: salpican
+preterito-perfecto-simple:
+  yo: salpique
+  tu: salpicaste
+  vos: salpicaste
+  ud: salpicó
+  nosotros: salpicamos
+  vosotros: salpicasteis
+  uds: salpicaron
+preterito-imperfecto:
+  yo: salpicaba
+  tu: salpicabas
+  vos: salpicabas
+  ud: salpicaba
+  nosotros: salpicábamos
+  vosotros: salpicabais
+  uds: salpicaban
+futuro-simple:
+  yo: salpicaré
+  tu: salpicarás
+  vos: salpicarás
+  ud: salpicará
+  nosotros: salpicaremos
+  vosotros: salpicaréis
+  uds: salpicarán
+condicional-simple:
+  yo: salpicaría
+  tu: salpicarías
+  vos: salpicarías
+  ud: salpicaría
+  nosotros: salpicaríamos
+  vosotros: salpicaríais
+  uds: salpicarían
+presente-perfecto:
+  yo: he salpicado
+  tu: has salpicado
+  vos: has salpicado
+  ud: ha salpicado
+  nosotros: hemos salpicado
+  vosotros: habéis salpicado
+  uds: han salpicado
+preterito-pluscuamperfecto:
+  yo: había salpicado
+  tu: habías salpicado
+  vos: habías salpicado
+  ud: había salpicado
+  nosotros: habíamos salpicado
+  vosotros: habíais salpicado
+  uds: habían salpicado
+futuro-perfecto:
+  yo: habré salpicado
+  tu: habrás salpicado
+  vos: habrás salpicado
+  ud: habrá salpicado
+  nosotros: habremos salpicado
+  vosotros: habréis salpicado
+  uds: habrán salpicado
+condicional-perfecto:
+  yo: habría salpicado
+  tu: habrías salpicado
+  vos: habrías salpicado
+  ud: habría salpicado
+  nosotros: habríamos salpicado
+  vosotros: habríais salpicado
+  uds: habrían salpicado
+presente-subjuntivo:
+  yo: salpique
+  tu: salpiques
+  vos: salpiques
+  ud: salpique
+  nosotros: salpiquemos
+  vosotros: salpiquéis
+  uds: salpiquen
+preterito-perfecto-subjuntivo:
+  yo: haya salpicado
+  tu: hayas salpicado
+  vos: hayas salpicado
+  ud: haya salpicado
+  nosotros: hayamos salpicado
+  vosotros: hayáis salpicado
+  uds: hayan salpicado
+imperfecto-subjuntivo:
+  yo:
+    - salpicara
+    - salpicase
+  tu:
+    - salpicaras
+    - salpicases
+  vos:
+    - salpicaras
+    - salpicases
+  ud:
+    - salpicara
+    - salpicase
+  nosotros:
+    - salpicáramos
+    - salpicásemos
+  vosotros:
+    - salpicarais
+    - salpicaseis
+  uds:
+    - salpicaran
+    - salpicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera salpicado
+    - hubiese salpicado
+  tu:
+    - hubieras salpicado
+    - hubieses salpicado
+  vos:
+    - hubieras salpicado
+    - hubieses salpicado
+  ud:
+    - hubiera salpicado
+    - hubiese salpicado
+  nosotros:
+    - hubiéramos salpicado
+    - hubiésemos salpicado
+  vosotros:
+    - hubierais salpicado
+    - hubieseis salpicado
+  uds:
+    - hubieran salpicado
+    - hubiesen salpicado
+imperativo:
+  tu: salpica
+  vos: salpicá
+  ud: salpique
+  nosotros: salpiquemos
+  vosotros: salpicad
+  uds: salpiquen

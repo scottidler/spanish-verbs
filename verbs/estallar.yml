@@ -1,0 +1,142 @@
+infinitivo: estallar
+gerundio: estallando
+participio-pasado: estallado
+presente-indicativo:
+  yo: estallo
+  tu: estallas
+  vos: estallas
+  ud: estalla
+  nosotros: estallamos
+  vosotros: estalláis
+  uds: estallan
+preterito-perfecto-simple:
+  yo: estallé
+  tu: estallaste
+  vos: estallaste
+  ud: estalló
+  nosotros: estallamos
+  vosotros: estallasteis
+  uds: estallaron
+preterito-imperfecto:
+  yo: estallaba
+  tu: estallabas
+  vos: estallabas
+  ud: estallaba
+  nosotros: estallábamos
+  vosotros: estallabais
+  uds: estallaban
+futuro-simple:
+  yo: estallaré
+  tu: estallarás
+  vos: estallarás
+  ud: estallará
+  nosotros: estallaremos
+  vosotros: estallaréis
+  uds: estallarán
+condicional-simple:
+  yo: estallaría
+  tu: estallarías
+  vos: estallarías
+  ud: estallaría
+  nosotros: estallaríamos
+  vosotros: estallaríais
+  uds: estallarían
+presente-perfecto:
+  yo: he estallado
+  tu: has estallado
+  vos: has estallado
+  ud: ha estallado
+  nosotros: hemos estallado
+  vosotros: habéis estallado
+  uds: han estallado
+preterito-pluscuamperfecto:
+  yo: había estallado
+  tu: habías estallado
+  vos: habías estallado
+  ud: había estallado
+  nosotros: habíamos estallado
+  vosotros: habíais estallado
+  uds: habían estallado
+futuro-perfecto:
+  yo: habré estallado
+  tu: habrás estallado
+  vos: habrás estallado
+  ud: habrá estallado
+  nosotros: habremos estallado
+  vosotros: habréis estallado
+  uds: habrán estallado
+condicional-perfecto:
+  yo: habría estallado
+  tu: habrías estallado
+  vos: habrías estallado
+  ud: habría estallado
+  nosotros: habríamos estallado
+  vosotros: habríais estallado
+  uds: habrían estallado
+presente-subjuntivo:
+  yo: estalle
+  tu: estalles
+  vos: estalles
+  ud: estalle
+  nosotros: estallemos
+  vosotros: estalléis
+  uds: estallen
+preterito-perfecto-subjuntivo:
+  yo: haya estallado
+  tu: hayas estallado
+  vos: hayas estallado
+  ud: haya estallado
+  nosotros: hayamos estallado
+  vosotros: hayáis estallado
+  uds: hayan estallado
+imperfecto-subjuntivo:
+  yo:
+    - estallara
+    - estallase
+  tu:
+    - estallaras
+    - estallases
+  vos:
+    - estallaras
+    - estallases
+  ud:
+    - estallara
+    - estallase
+  nosotros:
+    - estalláramos
+    - estallásemos
+  vosotros:
+    - estallarais
+    - estallaseis
+  uds:
+    - estallaran
+    - estallasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estallado
+    - hubiese estallado
+  tu:
+    - hubieras estallado
+    - hubieses estallado
+  vos:
+    - hubieras estallado
+    - hubieses estallado
+  ud:
+    - hubiera estallado
+    - hubiese estallado
+  nosotros:
+    - hubiéramos estallado
+    - hubiésemos estallado
+  vosotros:
+    - hubierais estallado
+    - hubieseis estallado
+  uds:
+    - hubieran estallado
+    - hubiesen estallado
+imperativo:
+  tu: estalla
+  vos: estallá
+  ud: estalle
+  nosotros: estallemos
+  vosotros: estallad
+  uds: estallen

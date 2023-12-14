@@ -1,0 +1,142 @@
+infinitivo: listar
+gerundio: listando
+participio-pasado: listado
+presente-indicativo:
+  yo: listo
+  tu: listas
+  vos: listas
+  ud: lista
+  nosotros: listamos
+  vosotros: listáis
+  uds: listan
+preterito-perfecto-simple:
+  yo: listé
+  tu: listaste
+  vos: listaste
+  ud: listó
+  nosotros: listamos
+  vosotros: listasteis
+  uds: listaron
+preterito-imperfecto:
+  yo: listaba
+  tu: listabas
+  vos: listabas
+  ud: listaba
+  nosotros: listábamos
+  vosotros: listabais
+  uds: listaban
+futuro-simple:
+  yo: listaré
+  tu: listarás
+  vos: listarás
+  ud: listará
+  nosotros: listaremos
+  vosotros: listaréis
+  uds: listarán
+condicional-simple:
+  yo: listaría
+  tu: listarías
+  vos: listarías
+  ud: listaría
+  nosotros: listaríamos
+  vosotros: listaríais
+  uds: listarían
+presente-perfecto:
+  yo: he listado
+  tu: has listado
+  vos: has listado
+  ud: ha listado
+  nosotros: hemos listado
+  vosotros: habéis listado
+  uds: han listado
+preterito-pluscuamperfecto:
+  yo: había listado
+  tu: habías listado
+  vos: habías listado
+  ud: había listado
+  nosotros: habíamos listado
+  vosotros: habíais listado
+  uds: habían listado
+futuro-perfecto:
+  yo: habré listado
+  tu: habrás listado
+  vos: habrás listado
+  ud: habrá listado
+  nosotros: habremos listado
+  vosotros: habréis listado
+  uds: habrán listado
+condicional-perfecto:
+  yo: habría listado
+  tu: habrías listado
+  vos: habrías listado
+  ud: habría listado
+  nosotros: habríamos listado
+  vosotros: habríais listado
+  uds: habrían listado
+presente-subjuntivo:
+  yo: liste
+  tu: listes
+  vos: listes
+  ud: liste
+  nosotros: listemos
+  vosotros: listéis
+  uds: listen
+preterito-perfecto-subjuntivo:
+  yo: haya listado
+  tu: hayas listado
+  vos: hayas listado
+  ud: haya listado
+  nosotros: hayamos listado
+  vosotros: hayáis listado
+  uds: hayan listado
+imperfecto-subjuntivo:
+  yo:
+    - listara
+    - listase
+  tu:
+    - listaras
+    - listases
+  vos:
+    - listaras
+    - listases
+  ud:
+    - listara
+    - listase
+  nosotros:
+    - listáramos
+    - listásemos
+  vosotros:
+    - listarais
+    - listaseis
+  uds:
+    - listaran
+    - listasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera listado
+    - hubiese listado
+  tu:
+    - hubieras listado
+    - hubieses listado
+  vos:
+    - hubieras listado
+    - hubieses listado
+  ud:
+    - hubiera listado
+    - hubiese listado
+  nosotros:
+    - hubiéramos listado
+    - hubiésemos listado
+  vosotros:
+    - hubierais listado
+    - hubieseis listado
+  uds:
+    - hubieran listado
+    - hubiesen listado
+imperativo:
+  tu: lista
+  vos: listá
+  ud: liste
+  nosotros: listemos
+  vosotros: listad
+  uds: listen

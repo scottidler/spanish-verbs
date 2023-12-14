@@ -1,0 +1,142 @@
+infinitivo: abrochar
+gerundio: abrochando
+participio-pasado: abrochado
+presente-indicativo:
+  yo: abrocho
+  tu: abrochas
+  vos: abrochas
+  ud: abrocha
+  nosotros: abrochamos
+  vosotros: abrocháis
+  uds: abrochan
+preterito-perfecto-simple:
+  yo: abroché
+  tu: abrochaste
+  vos: abrochaste
+  ud: abrochó
+  nosotros: abrochamos
+  vosotros: abrochasteis
+  uds: abrocharon
+preterito-imperfecto:
+  yo: abrochaba
+  tu: abrochabas
+  vos: abrochabas
+  ud: abrochaba
+  nosotros: abrochábamos
+  vosotros: abrochabais
+  uds: abrochaban
+futuro-simple:
+  yo: abrocharé
+  tu: abrocharás
+  vos: abrocharás
+  ud: abrochará
+  nosotros: abrocharemos
+  vosotros: abrocharéis
+  uds: abrocharán
+condicional-simple:
+  yo: abrocharía
+  tu: abrocharías
+  vos: abrocharías
+  ud: abrocharía
+  nosotros: abrocharíamos
+  vosotros: abrocharíais
+  uds: abrocharían
+presente-perfecto:
+  yo: he abrochado
+  tu: has abrochado
+  vos: has abrochado
+  ud: ha abrochado
+  nosotros: hemos abrochado
+  vosotros: habéis abrochado
+  uds: han abrochado
+preterito-pluscuamperfecto:
+  yo: había abrochado
+  tu: habías abrochado
+  vos: habías abrochado
+  ud: había abrochado
+  nosotros: habíamos abrochado
+  vosotros: habíais abrochado
+  uds: habían abrochado
+futuro-perfecto:
+  yo: habré abrochado
+  tu: habrás abrochado
+  vos: habrás abrochado
+  ud: habrá abrochado
+  nosotros: habremos abrochado
+  vosotros: habréis abrochado
+  uds: habrán abrochado
+condicional-perfecto:
+  yo: habría abrochado
+  tu: habrías abrochado
+  vos: habrías abrochado
+  ud: habría abrochado
+  nosotros: habríamos abrochado
+  vosotros: habríais abrochado
+  uds: habrían abrochado
+presente-subjuntivo:
+  yo: abroche
+  tu: abroches
+  vos: abroches
+  ud: abroche
+  nosotros: abrochemos
+  vosotros: abrochéis
+  uds: abrochen
+preterito-perfecto-subjuntivo:
+  yo: haya abrochado
+  tu: hayas abrochado
+  vos: hayas abrochado
+  ud: haya abrochado
+  nosotros: hayamos abrochado
+  vosotros: hayáis abrochado
+  uds: hayan abrochado
+imperfecto-subjuntivo:
+  yo:
+    - abrochara
+    - abrochase
+  tu:
+    - abrocharas
+    - abrochases
+  vos:
+    - abrocharas
+    - abrochases
+  ud:
+    - abrochara
+    - abrochase
+  nosotros:
+    - abrocháramos
+    - abrochásemos
+  vosotros:
+    - abrocharais
+    - abrochaseis
+  uds:
+    - abrocharan
+    - abrochasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera abrochado
+    - hubiese abrochado
+  tu:
+    - hubieras abrochado
+    - hubieses abrochado
+  vos:
+    - hubieras abrochado
+    - hubieses abrochado
+  ud:
+    - hubiera abrochado
+    - hubiese abrochado
+  nosotros:
+    - hubiéramos abrochado
+    - hubiésemos abrochado
+  vosotros:
+    - hubierais abrochado
+    - hubieseis abrochado
+  uds:
+    - hubieran abrochado
+    - hubiesen abrochado
+imperativo:
+  tu: abrocha
+  vos: abrochá
+  ud: abroche
+  nosotros: abrochemos
+  vosotros: abrochad
+  uds: abrochen

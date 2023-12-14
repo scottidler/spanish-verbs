@@ -1,0 +1,142 @@
+infinitivo: tejer
+gerundio: tejiendo
+participio-pasado: tejido
+presente-indicativo:
+  yo: tejo
+  tu: tejes
+  vos: tejes
+  ud: teje
+  nosotros: tejemos
+  vosotros: tejéis
+  uds: tejen
+preterito-perfecto-simple:
+  yo: tejí
+  tu: tejiste
+  vos: tejiste
+  ud: tejió
+  nosotros: tejimos
+  vosotros: tejisteis
+  uds: tejieron
+preterito-imperfecto:
+  yo: tejía
+  tu: tejías
+  vos: tejías
+  ud: tejía
+  nosotros: tejíamos
+  vosotros: tejíais
+  uds: tejían
+futuro-simple:
+  yo: tejeré
+  tu: tejerás
+  vos: tejerás
+  ud: tejerá
+  nosotros: tejeremos
+  vosotros: tejeréis
+  uds: tejerán
+condicional-simple:
+  yo: tejería
+  tu: tejerías
+  vos: tejerías
+  ud: tejería
+  nosotros: tejeríamos
+  vosotros: tejeríais
+  uds: tejerían
+presente-perfecto:
+  yo: he tejido
+  tu: has tejido
+  vos: has tejido
+  ud: ha tejido
+  nosotros: hemos tejido
+  vosotros: habéis tejido
+  uds: han tejido
+preterito-pluscuamperfecto:
+  yo: había tejido
+  tu: habías tejido
+  vos: habías tejido
+  ud: había tejido
+  nosotros: habíamos tejido
+  vosotros: habíais tejido
+  uds: habían tejido
+futuro-perfecto:
+  yo: habré tejido
+  tu: habrás tejido
+  vos: habrás tejido
+  ud: habrá tejido
+  nosotros: habremos tejido
+  vosotros: habréis tejido
+  uds: habrán tejido
+condicional-perfecto:
+  yo: habría tejido
+  tu: habrías tejido
+  vos: habrías tejido
+  ud: habría tejido
+  nosotros: habríamos tejido
+  vosotros: habríais tejido
+  uds: habrían tejido
+presente-subjuntivo:
+  yo: teja
+  tu: tejas
+  vos: tejas
+  ud: teja
+  nosotros: tejamos
+  vosotros: tejáis
+  uds: tejan
+preterito-perfecto-subjuntivo:
+  yo: haya tejido
+  tu: hayas tejido
+  vos: hayas tejido
+  ud: haya tejido
+  nosotros: hayamos tejido
+  vosotros: hayáis tejido
+  uds: hayan tejido
+imperfecto-subjuntivo:
+  yo:
+    - tejiera
+    - tejiese
+  tu:
+    - tejieras
+    - tejieses
+  vos:
+    - tejieras
+    - tejieses
+  ud:
+    - tejiera
+    - tejiese
+  nosotros:
+    - tejiéramos
+    - tejiésemos
+  vosotros:
+    - tejierais
+    - tejieseis
+  uds:
+    - tejieran
+    - tejiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tejido
+    - hubiese tejido
+  tu:
+    - hubieras tejido
+    - hubieses tejido
+  vos:
+    - hubieras tejido
+    - hubieses tejido
+  ud:
+    - hubiera tejido
+    - hubiese tejido
+  nosotros:
+    - hubiéramos tejido
+    - hubiésemos tejido
+  vosotros:
+    - hubierais tejido
+    - hubieseis tejido
+  uds:
+    - hubieran tejido
+    - hubiesen tejido
+imperativo:
+  tu: teje
+  vos: tejé
+  ud: teja
+  nosotros: tejamos
+  vosotros: tejed
+  uds: tejan

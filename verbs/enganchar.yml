@@ -1,0 +1,142 @@
+infinitivo: enganchar
+gerundio: enganchando
+participio-pasado: enganchado
+presente-indicativo:
+  yo: engancho
+  tu: enganchas
+  vos: enganchas
+  ud: engancha
+  nosotros: enganchamos
+  vosotros: engancháis
+  uds: enganchan
+preterito-perfecto-simple:
+  yo: enganché
+  tu: enganchaste
+  vos: enganchaste
+  ud: enganchó
+  nosotros: enganchamos
+  vosotros: enganchasteis
+  uds: engancharon
+preterito-imperfecto:
+  yo: enganchaba
+  tu: enganchabas
+  vos: enganchabas
+  ud: enganchaba
+  nosotros: enganchábamos
+  vosotros: enganchabais
+  uds: enganchaban
+futuro-simple:
+  yo: engancharé
+  tu: engancharás
+  vos: engancharás
+  ud: enganchará
+  nosotros: engancharemos
+  vosotros: engancharéis
+  uds: engancharán
+condicional-simple:
+  yo: engancharía
+  tu: engancharías
+  vos: engancharías
+  ud: engancharía
+  nosotros: engancharíamos
+  vosotros: engancharíais
+  uds: engancharían
+presente-perfecto:
+  yo: he enganchado
+  tu: has enganchado
+  vos: has enganchado
+  ud: ha enganchado
+  nosotros: hemos enganchado
+  vosotros: habéis enganchado
+  uds: han enganchado
+preterito-pluscuamperfecto:
+  yo: había enganchado
+  tu: habías enganchado
+  vos: habías enganchado
+  ud: había enganchado
+  nosotros: habíamos enganchado
+  vosotros: habíais enganchado
+  uds: habían enganchado
+futuro-perfecto:
+  yo: habré enganchado
+  tu: habrás enganchado
+  vos: habrás enganchado
+  ud: habrá enganchado
+  nosotros: habremos enganchado
+  vosotros: habréis enganchado
+  uds: habrán enganchado
+condicional-perfecto:
+  yo: habría enganchado
+  tu: habrías enganchado
+  vos: habrías enganchado
+  ud: habría enganchado
+  nosotros: habríamos enganchado
+  vosotros: habríais enganchado
+  uds: habrían enganchado
+presente-subjuntivo:
+  yo: enganche
+  tu: enganches
+  vos: enganches
+  ud: enganche
+  nosotros: enganchemos
+  vosotros: enganchéis
+  uds: enganchen
+preterito-perfecto-subjuntivo:
+  yo: haya enganchado
+  tu: hayas enganchado
+  vos: hayas enganchado
+  ud: haya enganchado
+  nosotros: hayamos enganchado
+  vosotros: hayáis enganchado
+  uds: hayan enganchado
+imperfecto-subjuntivo:
+  yo:
+    - enganchara
+    - enganchase
+  tu:
+    - engancharas
+    - enganchases
+  vos:
+    - engancharas
+    - enganchases
+  ud:
+    - enganchara
+    - enganchase
+  nosotros:
+    - engancháramos
+    - enganchásemos
+  vosotros:
+    - engancharais
+    - enganchaseis
+  uds:
+    - engancharan
+    - enganchasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enganchado
+    - hubiese enganchado
+  tu:
+    - hubieras enganchado
+    - hubieses enganchado
+  vos:
+    - hubieras enganchado
+    - hubieses enganchado
+  ud:
+    - hubiera enganchado
+    - hubiese enganchado
+  nosotros:
+    - hubiéramos enganchado
+    - hubiésemos enganchado
+  vosotros:
+    - hubierais enganchado
+    - hubieseis enganchado
+  uds:
+    - hubieran enganchado
+    - hubiesen enganchado
+imperativo:
+  tu: engancha
+  vos: enganchá
+  ud: enganche
+  nosotros: enganchemos
+  vosotros: enganchad
+  uds: enganchen

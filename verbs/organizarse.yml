@@ -1,0 +1,156 @@
+infinitivo: organizarse
+gerundio: organizándose
+participio-pasado: organizado
+
+presente-indicativo:
+  yo: me organizo
+  tu: te organizas
+  vos: te organizas
+  ud: se organiza
+  nosotros: nos organizamos
+  vosotros: os organizáis
+  uds: se organizan
+
+preterito-perfecto-simple:
+  yo: me organicé
+  tu: te organizaste
+  vos: te organizaste
+  ud: se organizó
+  nosotros: nos organizamos
+  vosotros: os organizasteis
+  uds: se organizaron
+
+preterito-imperfecto:
+  yo: me organizaba
+  tu: te organizabas
+  vos: te organizabas
+  ud: se organizaba
+  nosotros: nos organizábamos
+  vosotros: os organizabais
+  uds: se organizaban
+
+futuro-simple:
+  yo: me organizaré
+  tu: te organizarás
+  vos: te organizarás
+  ud: se organizará
+  nosotros: nos organizaremos
+  vosotros: os organizaréis
+  uds: se organizarán
+
+condicional-simple:
+  yo: me organizaría
+  tu: te organizarías
+  vos: te organizarías
+  ud: se organizaría
+  nosotros: nos organizaríamos
+  vosotros: os organizaríais
+  uds: se organizarían
+
+presente-perfecto:
+  yo: me he organizado
+  tu: te has organizado
+  vos: te has organizado
+  ud: se ha organizado
+  nosotros: nos hemos organizado
+  vosotros: os habéis organizado
+  uds: se han organizado
+
+preterito-pluscuamperfecto:
+  yo: me había organizado
+  tu: te habías organizado
+  vos: te habías organizado
+  ud: se había organizado
+  nosotros: nos habíamos organizado
+  vosotros: os habíais organizado
+  uds: se habían organizado
+
+futuro-perfecto:
+  yo: me habré organizado
+  tu: te habrás organizado
+  vos: te habrás organizado
+  ud: se habrá organizado
+  nosotros: nos habremos organizado
+  vosotros: os habréis organizado
+  uds: se habrán organizado
+
+condicional-perfecto:
+  yo: me habría organizado
+  tu: te habrías organizado
+  vos: te habrías organizado
+  ud: se habría organizado
+  nosotros: nos habríamos organizado
+  vosotros: os habríais organizado
+  uds: se habrían organizado
+
+presente-subjuntivo:
+  yo: me organice
+  tu: te organices
+  vos: te organices
+  ud: se organice
+  nosotros: nos organicemos
+  vosotros: os organicéis
+  uds: se organicen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya organizado
+  tu: te hayas organizado
+  vos: te hayas organizado
+  ud: se haya organizado
+  nosotros: nos hayamos organizado
+  vosotros: os hayáis organizado
+  uds: se hayan organizado
+
+imperfecto-subjuntivo:
+  yo:
+    - me organizara
+    - me organizase
+  tu:
+    - te organizaras
+    - te organizases
+  vos:
+    - te organizaras
+    - te organizases
+  ud:
+    - se organizara
+    - se organizase
+  nosotros:
+    - nos organizáramos
+    - nos organizásemos
+  vosotros:
+    - os organizarais
+    - os organizaseis
+  uds:
+    - se organizaran
+    - se organizasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera organizado
+    - me hubiese organizado
+  tu:
+    - te hubieras organizado
+    - te hubieses organizado
+  vos:
+    - te hubieras organizado
+    - te hubieses organizado
+  ud:
+    - se hubiera organizado
+    - se hubiese organizado
+  nosotros:
+    - nos hubiéramos organizado
+    - nos hubiésemos organizado
+  vosotros:
+    - os hubierais organizado
+    - os hubieseis organizado
+  uds:
+    - se hubieran organizado
+    - se hubiesen organizado
+
+imperativo:
+  tu: organízate
+  vos: organizate
+  ud: organícese
+  nosotros: organicémonos
+  vosotros: organizaos
+  uds: organicénse

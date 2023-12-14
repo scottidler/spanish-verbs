@@ -1,0 +1,142 @@
+infinitivo: renegar
+gerundio: renegando
+participio-pasado: renegado
+presente-indicativo:
+  yo: reniego
+  tu: reniegas
+  vos: reniegas
+  ud: reniega
+  nosotros: renegamos
+  vosotros: renegáis
+  uds: reniegan
+preterito-perfecto-simple:
+  yo: renegué
+  tu: renegaste
+  vos: renegaste
+  ud: renegó
+  nosotros: renegamos
+  vosotros: renegasteis
+  uds: renegaron
+preterito-imperfecto:
+  yo: renegaba
+  tu: renegabas
+  vos: renegabas
+  ud: renegaba
+  nosotros: renegábamos
+  vosotros: renegabais
+  uds: renegaban
+futuro-simple:
+  yo: renegaré
+  tu: renegarás
+  vos: renegarás
+  ud: renegará
+  nosotros: renegaremos
+  vosotros: renegaréis
+  uds: renegarán
+condicional-simple:
+  yo: renegaría
+  tu: renegarías
+  vos: renegarías
+  ud: renegaría
+  nosotros: renegaríamos
+  vosotros: renegaríais
+  uds: renegarían
+presente-perfecto:
+  yo: he renegado
+  tu: has renegado
+  vos: has renegado
+  ud: ha renegado
+  nosotros: hemos renegado
+  vosotros: habéis renegado
+  uds: han renegado
+preterito-pluscuamperfecto:
+  yo: había renegado
+  tu: habías renegado
+  vos: habías renegado
+  ud: había renegado
+  nosotros: habíamos renegado
+  vosotros: habíais renegado
+  uds: habían renegado
+futuro-perfecto:
+  yo: habré renegado
+  tu: habrás renegado
+  vos: habrás renegado
+  ud: habrá renegado
+  nosotros: habremos renegado
+  vosotros: habréis renegado
+  uds: habrán renegado
+condicional-perfecto:
+  yo: habría renegado
+  tu: habrías renegado
+  vos: habrías renegado
+  ud: habría renegado
+  nosotros: habríamos renegado
+  vosotros: habríais renegado
+  uds: habrían renegado
+presente-subjuntivo:
+  yo: reniegue
+  tu: reniegues
+  vos: reniegues
+  ud: reniegue
+  nosotros: reneguemos
+  vosotros: reneguéis
+  uds: renieguen
+preterito-perfecto-subjuntivo:
+  yo: haya renegado
+  tu: hayas renegado
+  vos: hayas renegado
+  ud: haya renegado
+  nosotros: hayamos renegado
+  vosotros: hayáis renegado
+  uds: hayan renegado
+imperfecto-subjuntivo:
+  yo:
+    - renegara
+    - renegase
+  tu:
+    - renegaras
+    - renegases
+  vos:
+    - renegaras
+    - renegases
+  ud:
+    - renegara
+    - renegase
+  nosotros:
+    - renegáramos
+    - renegásemos
+  vosotros:
+    - renegarais
+    - renegaseis
+  uds:
+    - renegaran
+    - renegasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera renegado
+    - hubiese renegado
+  tu:
+    - hubieras renegado
+    - hubieses renegado
+  vos:
+    - hubieras renegado
+    - hubieses renegado
+  ud:
+    - hubiera renegado
+    - hubiese renegado
+  nosotros:
+    - hubiéramos renegado
+    - hubiésemos renegado
+  vosotros:
+    - hubierais renegado
+    - hubieseis renegado
+  uds:
+    - hubieran renegado
+    - hubiesen renegado
+imperativo:
+  tu: reniega
+  vos: renegá
+  ud: reniegue
+  nosotros: reneguemos
+  vosotros: renegad
+  uds: renieguen

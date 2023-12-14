@@ -1,0 +1,142 @@
+infinitivo: aproximarse
+gerundio: aproximándose
+participio-pasado: aproximado
+presente-indicativo:
+  yo: me aproximo
+  tu: te aproximas
+  vos: te aproximas
+  ud: se aproxima
+  nosotros: nos aproximamos
+  vosotros: os aproximáis
+  uds: se aproximan
+preterito-perfecto-simple:
+  yo: me aproximé
+  tu: te aproximaste
+  vos: te aproximaste
+  ud: se aproximó
+  nosotros: nos aproximamos
+  vosotros: os aproximasteis
+  uds: se aproximaron
+preterito-imperfecto:
+  yo: me aproximaba
+  tu: te aproximabas
+  vos: te aproximabas
+  ud: se aproximaba
+  nosotros: nos aproximábamos
+  vosotros: os aproximabais
+  uds: se aproximaban
+futuro-simple:
+  yo: me aproximaré
+  tu: te aproximarás
+  vos: te aproximarás
+  ud: se aproximará
+  nosotros: nos aproximaremos
+  vosotros: os aproximaréis
+  uds: se aproximarán
+condicional-simple:
+  yo: me aproximaría
+  tu: te aproximarías
+  vos: te aproximarías
+  ud: se aproximaría
+  nosotros: nos aproximaríamos
+  vosotros: os aproximaríais
+  uds: se aproximarían
+presente-perfecto:
+  yo: me he aproximado
+  tu: te has aproximado
+  vos: te has aproximado
+  ud: se ha aproximado
+  nosotros: nos hemos aproximado
+  vosotros: os habéis aproximado
+  uds: se han aproximado
+preterito-pluscuamperfecto:
+  yo: me había aproximado
+  tu: te habías aproximado
+  vos: te habías aproximado
+  ud: se había aproximado
+  nosotros: nos habíamos aproximado
+  vosotros: os habíais aproximado
+  uds: se habían aproximado
+futuro-perfecto:
+  yo: me habré aproximado
+  tu: te habrás aproximado
+  vos: te habrás aproximado
+  ud: se habrá aproximado
+  nosotros: nos habremos aproximado
+  vosotros: os habréis aproximado
+  uds: se habrán aproximado
+condicional-perfecto:
+  yo: me habría aproximado
+  tu: te habrías aproximado
+  vos: te habrías aproximado
+  ud: se habría aproximado
+  nosotros: nos habríamos aproximado
+  vosotros: os habríais aproximado
+  uds: se habrían aproximado
+presente-subjuntivo:
+  yo: me aproxime
+  tu: te aproximes
+  vos: te aproximes
+  ud: se aproxime
+  nosotros: nos aproximemos
+  vosotros: os aproximéis
+  uds: se aproximen
+preterito-perfecto-subjuntivo:
+  yo: me haya aproximado
+  tu: te hayas aproximado
+  vos: te hayas aproximado
+  ud: se haya aproximado
+  nosotros: nos hayamos aproximado
+  vosotros: os hayáis aproximado
+  uds: se hayan aproximado
+imperfecto-subjuntivo:
+  yo:
+    - me aproximara
+    - me aproximase
+  tu:
+    - te aproximaras
+    - te aproximases
+  vos:
+    - te aproximaras
+    - te aproximases
+  ud:
+    - se aproximara
+    - se aproximase
+  nosotros:
+    - nos aproximáramos
+    - nos aproximásemos
+  vosotros:
+    - os aproximarais
+    - os aproximaseis
+  uds:
+    - se aproximaran
+    - se aproximaran
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera aproximado
+    - me hubiese aproximado
+  tu:
+    - te hubieras aproximado
+    - te hubieses aproximado
+  vos:
+    - te hubieras aproximado
+    - te hubieses aproximado
+  ud:
+    - se hubiera aproximado
+    - se hubiese aproximado
+  nosotros:
+    - nos hubiéramos aproximado
+    - nos hubiésemos aproximado
+  vosotros:
+    - os hubierais aproximado
+    - os hubieseis aproximado
+  uds:
+    - se hubieran aproximado
+    - se hubiesen aproximado
+imperativo:
+  tu: acércate
+  vos: acércate
+  ud: acérquese
+  nosotros: acerquémonos
+  vosotros: acercaos
+  uds: acérquense

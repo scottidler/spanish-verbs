@@ -1,0 +1,142 @@
+infinitivo: guarecerse
+gerundio: guareciéndose
+participio-pasado: guarecido
+presente-indicativo:
+  yo: me guarezco
+  tu: te guareces
+  vos: te guareces
+  ud: se guarece
+  nosotros: nos guarecemos
+  vosotros: os guarecéis
+  uds: se guarecen
+preterito-perfecto-simple:
+  yo: me guardecí
+  tu: te guardeciste
+  vos: te guardeciste
+  ud: se guardecio
+  nosotros: nos guardecimos
+  vosotros: os guardecisteis
+  uds: se guardecieron
+preterito-imperfecto:
+  yo: me guarecía
+  tu: te guarecías
+  vos: te guarecías
+  ud: se guarecía
+  nosotros: nos guarecíamos
+  vosotros: os guarecíais
+  uds: se guarecían
+futuro-simple:
+  yo: me guareceré
+  tu: te guarecerás
+  vos: te guarecerás
+  ud: se guarecerá
+  nosotros: nos guareceremos
+  vosotros: os guareceréis
+  uds: se guarecerán
+condicional-simple:
+  yo: me guarecería
+  tu: te guarecerías
+  vos: te guarecerías
+  ud: se guarecería
+  nosotros: nos guareceríamos
+  vosotros: os guareceríais
+  uds: se guarecerían
+presente-perfecto:
+  yo: me he guarecido
+  tu: te has guarecido
+  vos: te has guarecido
+  ud: se ha guarecido
+  nosotros: nos hemos guarecido
+  vosotros: os habéis guarecido
+  uds: se han guarecido
+preterito-pluscuamperfecto:
+  yo: me había guarecido
+  tu: te habías guarecido
+  vos: te habías guarecido
+  ud: se había guarecido
+  nosotros: nos habíamos guarecido
+  vosotros: os habíais guarecido
+  uds: se habían guarecido
+futuro-perfecto:
+  yo: me habré guarecido
+  tu: te habrás guarecido
+  vos: te habrás guarecido
+  ud: se habrá guarecido
+  nosotros: nos habremos guarecido
+  vosotros: os habréis guarecido
+  uds: se habrán guarecido
+condicional-perfecto:
+  yo: me habría guarecido
+  tu: te habrías guarecido
+  vos: te habrías guarecido
+  ud: se habría guarecido
+  nosotros: nos habríamos guarecido
+  vosotros: os habríais guarecido
+  uds: se habrían guarecido
+presente-subjuntivo:
+  yo: me guarezca
+  tu: te guarezcas
+  vos: te guarezcas
+  ud: se guarezca
+  nosotros: nos guarezcamos
+  vosotros: os guarezcáis
+  uds: se guarezcan
+preterito-perfecto-subjuntivo:
+  yo: me haya guarecido
+  tu: te hayas guarecido
+  vos: te hayas guarecido
+  ud: se haya guarecido
+  nosotros: nos hayamos guarecido
+  vosotros: os hayáis guarecido
+  uds: se hayan guarecido
+imperfecto-subjuntivo:
+  yo:
+    - me guareciera
+    - me guareciese
+  tu:
+    - te guarecieras
+    - te guarecises
+  vos:
+    - te guarecieras
+    - te guarecises
+  ud:
+    - se guareciera
+    - se guareciese
+  nosotros:
+    - nos guareciéramos
+    - nos guareciésemos
+  vosotros:
+    - os guarecierais
+    - os guarecieseis
+  uds:
+    - se guarecieran
+    - se guareciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera guarecido
+    - me hubiese guarecido
+  tu:
+    - te hubieras guarecido
+    - te hubieses guarecido
+  vos:
+    - te hubieras guarecido
+    - te hubieses guarecido
+  ud:
+    - se hubiera guarecido
+    - se hubiese guarecido
+  nosotros:
+    - nos hubiéramos guarecido
+    - nos hubiésemos guarecido
+  vosotros:
+    - os hubierais guarecido
+    - os hubieseis guarecido
+  uds:
+    - se hubieran guarecido
+    - se hubiesen guarecido
+imperativo:
+  tu: guárdate
+  vos: guárdate
+  ud: guárdeses
+  nosotros: guradémosnos
+  vosotros: guárdense
+  uds: guárdesen

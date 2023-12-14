@@ -1,0 +1,142 @@
+infinitivo: patalear
+gerundio: pataleando
+participio-pasado: pataleado
+presente-indicativo:
+  yo: pataleo
+  tu: pataleas
+  vos: pataleás
+  ud: patalea
+  nosotros: pataleamos
+  vosotros: pataleáis
+  uds: patalean
+preterito-perfecto-simple:
+  yo: pataleé
+  tu: pataleaste
+  vos: pataleaste
+  ud: pataleó
+  nosotros: pataleamos
+  vosotros: pataleasteis
+  uds: patalearon
+preterito-imperfecto:
+  yo: pataleaba
+  tu: pataleabas
+  vos: pataleabas
+  ud: pataleaba
+  nosotros: pataleábamos
+  vosotros: pataleabais
+  uds: pataleaban
+futuro-simple:
+  yo: patalearé
+  tu: patalearás
+  vos: patalearás
+  ud: pataleará
+  nosotros: patalearemos
+  vosotros: patalearéis
+  uds: patalearán
+condicional-simple:
+  yo: patalearía
+  tu: patalearías
+  vos: patalearías
+  ud: patalearía
+  nosotros: patalearíamos
+  vosotros: patalearíais
+  uds: patalearían
+presente-perfecto:
+  yo: he pataleado
+  tu: has pataleado
+  vos: has pataleado
+  ud: ha pataleado
+  nosotros: hemos pataleado
+  vosotros: habéis pataleado
+  uds: han pataleado
+preterito-pluscuamperfecto:
+  yo: había pataleado
+  tu: habías pataleado
+  vos: habías pataleado
+  ud: había pataleado
+  nosotros: habíamos pataleado
+  vosotros: habíais pataleado
+  uds: habían pataleado
+futuro-perfecto:
+  yo: habré pataleado
+  tu: habrás pataleado
+  vos: habrás pataleado
+  ud: habrá pataleado
+  nosotros: habremos pataleado
+  vosotros: habréis pataleado
+  uds: habrán pataleado
+condicional-perfecto:
+  yo: habría pataleado
+  tu: habrías pataleado
+  vos: habrías pataleado
+  ud: habría pataleado
+  nosotros: habríamos pataleado
+  vosotros: habríais pataleado
+  uds: habrían pataleado
+presente-subjuntivo:
+  yo: patalee
+  tu: patalees
+  vos: patalees
+  ud: patalee
+  nosotros: patealemos
+  vosotros: pataleéis
+  uds: pataleen
+preterito-perfecto-subjuntivo:
+  yo: haya pataleado
+  tu: hayas pataleado
+  vos: hayas pataleado
+  ud: haya pataleado
+  nosotros: hayamos pataleado
+  vosotros: hayáis pataleado
+  uds: hayan pataleado
+imperfecto-subjuntivo:
+  yo:
+    - pataleara
+    - patalease
+  tu:
+    - patalearas
+    - pataleases
+  vos:
+    - patalearas
+    - pataleases
+  ud:
+    - pataleara
+    - patalease
+  nosotros:
+    - pataleáramos
+    - pataleásemos
+  vosotros:
+    - patalearais
+    - pataleaseis
+  uds:
+    - patalearan
+    - pataleasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pataleado
+    - hubiese pataleado
+  tu:
+    - hubieras pataleado
+    - hubieses pataleado
+  vos:
+    - hubieras pataleado
+    - hubieses pataleado
+  ud:
+    - hubiera pataleado
+    - hubiese pataleado
+  nosotros:
+    - hubiéramos pataleado
+    - hubiésemos pataleado
+  vosotros:
+    - hubierais pataleado
+    - hubieseis pataleado
+  uds:
+    - hubieran pataleado
+    - hubiesen pataleado
+imperativo:
+  tu: patalea
+  vos: pataleá
+  ud: patalee
+  nosotros: pataleemos
+  vosotros: patalead
+  uds: pataleen

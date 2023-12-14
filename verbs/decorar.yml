@@ -1,0 +1,142 @@
+infinitivo: decorar
+gerundio: decorando
+participio-pasado: decorado
+presente-indicativo:
+  yo: decoro
+  tu: decoras
+  vos: decoras
+  ud: decora
+  nosotros: decoramos
+  vosotros: decoráis
+  uds: decoran
+preterito-perfecto-simple:
+  yo: decoré
+  tu: decoraste
+  vos: decoraste
+  ud: decoró
+  nosotros: decoramos
+  vosotros: decorasteis
+  uds: decoraron
+preterito-imperfecto:
+  yo: decoraba
+  tu: decorabas
+  vos: decorabas
+  ud: decoraba
+  nosotros: decorábamos
+  vosotros: decorabais
+  uds: decoraban
+futuro-simple:
+  yo: decoraré
+  tu: decorarás
+  vos: decorarás
+  ud: decorará
+  nosotros: decoraremos
+  vosotros: decoraréis
+  uds: decorarán
+condicional-simple:
+  yo: decoraría
+  tu: decorarías
+  vos: decorarías
+  ud: decoraría
+  nosotros: decoraríamos
+  vosotros: decoraríais
+  uds: decorarían
+presente-perfecto:
+  yo: he decorado
+  tu: has decorado
+  vos: has decorado
+  ud: ha decorado
+  nosotros: hemos decorado
+  vosotros: habéis decorado
+  uds: han decorado
+preterito-pluscuamperfecto:
+  yo: había decorado
+  tu: habías decorado
+  vos: habías decorado
+  ud: había decorado
+  nosotros: habíamos decorado
+  vosotros: habíais decorado
+  uds: habían decorado
+futuro-perfecto:
+  yo: habré decorado
+  tu: habrás decorado
+  vos: habrás decorado
+  ud: habrá decorado
+  nosotros: habremos decorado
+  vosotros: habréis decorado
+  uds: habrán decorado
+condicional-perfecto:
+  yo: habría decorado
+  tu: habrías decorado
+  vos: habrías decorado
+  ud: habría decorado
+  nosotros: habríamos decorado
+  vosotros: habríais decorado
+  uds: habrían decorado
+presente-subjuntivo:
+  yo: decore
+  tu: decores
+  vos: decores
+  ud: decore
+  nosotros: decoremos
+  vosotros: decoréis
+  uds: decoren
+preterito-perfecto-subjuntivo:
+  yo: haya decorado
+  tu: hayas decorado
+  vos: hayas decorado
+  ud: haya decorado
+  nosotros: hayamos decorado
+  vosotros: hayáis decorado
+  uds: hayan decorado
+imperfecto-subjuntivo:
+  yo:
+    - decorara
+    - decorase
+  tu:
+    - decoraras
+    - decorases
+  vos:
+    - decoraras
+    - decorases
+  ud:
+    - decorara
+    - decorase
+  nosotros:
+    - decoráramos
+    - decorásemos
+  vosotros:
+    - decorarais
+    - decoraseis
+  uds:
+    - decoraran
+    - decorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera decorado
+    - hubiese decorado
+  tu:
+    - hubieras decorado
+    - hubieses decorado
+  vos:
+    - hubieras decorado
+    - hubieses decorado
+  ud:
+    - hubiera decorado
+    - hubiese decorado
+  nosotros:
+    - hubiéramos decorado
+    - hubiésemos decorado
+  vosotros:
+    - hubierais decorado
+    - hubieseis decorado
+  uds:
+    - hubieran decorado
+    - hubiesen decorado
+imperativo:
+  tu: decora
+  vos: decorá
+  ud: decore
+  nosotros: no decorar
+  vosotros: decorad
+  uds: decoren

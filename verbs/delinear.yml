@@ -1,0 +1,142 @@
+infinitivo: delinear
+gerundio: delineando
+participio-pasado: delineado
+presente-indicativo:
+  yo: delineo
+  tu: delineas
+  vos: delineas
+  ud: delinea
+  nosotros: delineamos
+  vosotros: delineáis
+  uds: delínean
+preterito-perfecto-simple:
+  yo: delinee
+  tu: delineaste
+  vos: delineaste
+  ud: delinéo
+  nosotros: delineamos
+  vosotros: delineasteis
+  uds: delinearon
+preterito-imperfecto:
+  yo: delineaba
+  tu: delineabas
+  vos: delineabas
+  ud: delineaba
+  nosotros: delineábamos
+  vosotros: delineabais
+  uds: delineaban
+futuro-simple:
+  yo: delinearé
+  tu: delinearás
+  vos: delinearás
+  ud: delinirá
+  nosotros: delinearemos
+  vosotros: delinearéis
+  uds: delinirán
+condicional-simple:
+  yo: delinearía
+  tu: delinearías
+  vos: delinearías
+  ud: delinearía
+  nosotros: delinearíamos
+  vosotros: delinearíais
+  uds: delinearian
+presente-perfecto:
+  yo: he delineado
+  tu: has delineado
+  vos: has delineado
+  ud: ha delineado
+  nosotros: hemos delineado
+  vosotros: habéis delineado
+  uds: han delineado
+preterito-pluscuamperfecto:
+  yo: había delineado
+  tu: habías delineado
+  vos: habías delineado
+  ud: había delineado
+  nosotros: habíamos delineado
+  vosotros: habíais delineado
+  uds: habían delineado
+futuro-perfecto:
+  yo: habré delineado
+  tu: habrás delineado
+  vos: habrás delineado
+  ud: habrá delineado
+  nosotros: habremos delineado
+  vosotros: habréis delineado
+  uds: habrán delineado
+condicional-perfecto:
+  yo: habría delineado
+  tu: habrías delineado
+  vos: habrías delineado
+  ud: habría delineado
+  nosotros: habríamos delineado
+  vosotros: habríais delineado
+  uds: habrían delineado
+presente-subjuntivo:
+  yo: delimne
+  tu: delíneas
+  vos: delíneas
+  ud: delínea
+  nosotros: delinamos
+  vosotros: delineéis
+  uds: delinean
+preterito-perfecto-subjuntivo:
+  yo: haya delineado
+  tu: hayas delineado
+  vos: hayas delineado
+  ud: haya delineado
+  nosotros: hayamos delineado
+  vosotros: hayáis delineado
+  uds: hayan delineado
+imperfecto-subjuntivo:
+  yo:
+    - delineara
+    - delinease
+  tu:
+    - delinearas
+    - delineases
+  vos:
+    - delinearas
+    - delineases
+  ud:
+    - delineara
+    - delinease
+  nosotros:
+    - delineáramos
+    - delineásemos
+  vosotros:
+    - delinearais
+    - delineaseis
+  uds:
+    - delinearan
+    - delineasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera delineado
+    - hubiese delineado
+  tu:
+    - hubieras delineado
+    - hubieses delineado
+  vos:
+    - hubieras delineado
+    - hubieses delineado
+  ud:
+    - hubiera delineado
+    - hubiese delineado
+  nosotros:
+    - hubiéramos delineado
+    - hubiésemos delineado
+  vosotros:
+    - hubierais delineado
+    - hubieseis delineado
+  uds:
+    - hubieran delineado
+    - hubiesen delineado
+imperativo:
+  tu: delinea
+  vos: deliní
+  ud: delínea
+  nosotros: delimnemos
+  vosotros: delinead
+  uds: delinean

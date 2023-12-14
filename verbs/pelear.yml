@@ -1,0 +1,156 @@
+infinitivo: pelear
+gerundio: peleando
+participio-pasado: peleado
+
+presente-indicativo:
+  yo: peleo
+  tu: peleas
+  vos: peleas
+  ud: pelea
+  nosotros: peleamos
+  vosotros: peleáis
+  uds: pelean
+
+preterito-perfecto-simple:
+  yo: peleé
+  tu: peleaste
+  vos: peleaste
+  ud: peleó
+  nosotros: peleamos
+  vosotros: peleasteis
+  uds: pelearon
+
+preterito-imperfecto:
+  yo: peleaba
+  tu: peleabas
+  vos: peleabas
+  ud: peleaba
+  nosotros: peleábamos
+  vosotros: peleabais
+  uds: peleaban
+
+futuro-simple:
+  yo: pelearé
+  tu: pelearás
+  vos: pelearás
+  ud: peleará
+  nosotros: pelearemos
+  vosotros: pelearéis
+  uds: pelearán
+
+condicional-simple:
+  yo: pelearía
+  tu: pelearías
+  vos: pelearías
+  ud: pelearía
+  nosotros: pelearíamos
+  vosotros: pelearíais
+  uds: pelearían
+
+presente-perfecto:
+  yo: he peleado
+  tu: has peleado
+  vos: has peleado
+  ud: ha peleado
+  nosotros: hemos peleado
+  vosotros: habéis peleado
+  uds: han peleado
+
+preterito-pluscuamperfecto:
+  yo: había peleado
+  tu: habías peleado
+  vos: habías peleado
+  ud: había peleado
+  nosotros: habíamos peleado
+  vosotros: habíais peleado
+  uds: habían peleado
+
+futuro-perfecto:
+  yo: habré peleado
+  tu: habrás peleado
+  vos: habrás peleado
+  ud: habrá peleado
+  nosotros: habremos peleado
+  vosotros: habréis peleado
+  uds: habrán peleado
+
+condicional-perfecto:
+  yo: habría peleado
+  tu: habrías peleado
+  vos: habrías peleado
+  ud: habría peleado
+  nosotros: habríamos peleado
+  vosotros: habríais peleado
+  uds: habrían peleado
+
+presente-subjuntivo:
+  yo: pelee
+  tu: pelees
+  vos: pelees
+  ud: pelee
+  nosotros: peleemos
+  vosotros: peleéis
+  uds: peleen
+
+preterito-perfecto-subjuntivo:
+  yo: haya peleado
+  tu: hayas peleado
+  vos: hayas peleado
+  ud: haya peleado
+  nosotros: hayamos peleado
+  vosotros: hayáis peleado
+  uds: hayan peleado
+
+imperfecto-subjuntivo:
+  yo:
+    - peleara
+    - pelease
+  tu:
+    - pelearas
+    - peleases
+  vos:
+    - pelearas
+    - peleases
+  ud:
+    - peleara
+    - pelease
+  nosotros:
+    - peleáramos
+    - peleásemos
+  vosotros:
+    - pelearais
+    - peleaseis
+  uds:
+    - pelearan
+    - peleasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera peleado
+    - hubiese peleado
+  tu:
+    - hubieras peleado
+    - hubieses peleado
+  vos:
+    - hubieras peleado
+    - hubieses peleado
+  ud:
+    - hubiera peleado
+    - hubiese peleado
+  nosotros:
+    - hubiéramos peleado
+    - hubiésemos peleado
+  vosotros:
+    - hubierais peleado
+    - hubieseis peleado
+  uds:
+    - hubieran peleado
+    - hubiesen peleado
+
+imperativo:
+  tu: pelea
+  vos: peleá
+  ud: pelee
+  nosotros: peleemos
+  vosotros: pelead
+  uds: peleen

@@ -1,0 +1,142 @@
+infinitivo: mencionar
+gerundio: mencionando
+participio-pasado: mencionado
+presente-indicativo:
+  yo: menciono
+  tu: mencionas
+  vos: mencionas
+  ud: menciona
+  nosotros: mencionamos
+  vosotros: mencionáis
+  uds: mencionan
+preterito-perfecto-simple:
+  yo: mencioné
+  tu: mencionaste
+  vos: mencionaste
+  ud: mencionó
+  nosotros: mencionamos
+  vosotros: mencionasteis
+  uds: mencionaron
+preterito-imperfecto:
+  yo: mencionaba
+  tu: mencionabas
+  vos: mencionabas
+  ud: mencionaba
+  nosotros: mencionábamos
+  vosotros: mencionabais
+  uds: mencionaban
+futuro-simple:
+  yo: mencionaré
+  tu: mencionarás
+  vos: mencionarás
+  ud: mencionará
+  nosotros: mencionaremos
+  vosotros: mencionaréis
+  uds: mencionarán
+condicional-simple:
+  yo: mencionaría
+  tu: mencionarías
+  vos: mencionarías
+  ud: mencionaría
+  nosotros: mencionaríamos
+  vosotros: mencionaríais
+  uds: mencionarían
+presente-perfecto:
+  yo: he mencionado
+  tu: has mencionado
+  vos: has mencionado
+  ud: ha mencionado
+  nosotros: hemos mencionado
+  vosotros: habéis mencionado
+  uds: han mencionado
+preterito-pluscuamperfecto:
+  yo: había mencionado
+  tu: habías mencionado
+  vos: habías mencionado
+  ud: había mencionado
+  nosotros: habíamos mencionado
+  vosotros: habíais mencionado
+  uds: habían mencionado
+futuro-perfecto:
+  yo: habré mencionado
+  tu: habrás mencionado
+  vos: habrás mencionado
+  ud: habrá mencionado
+  nosotros: habremos mencionado
+  vosotros: habréis mencionado
+  uds: habrán mencionado
+condicional-perfecto:
+  yo: habría mencionado
+  tu: habrías mencionado
+  vos: habrías mencionado
+  ud: habría mencionado
+  nosotros: habríamos mencionado
+  vosotros: habríais mencionado
+  uds: habrían mencionado
+presente-subjuntivo:
+  yo: mencione
+  tu: menciones
+  vos: menciones
+  ud: mencione
+  nosotros: mencionemos
+  vosotros: mencionéis
+  uds: mencionen
+preterito-perfecto-subjuntivo:
+  yo: haya mencionado
+  tu: hayas mencionado
+  vos: hayas mencionado
+  ud: haya mencionado
+  nosotros: hayamos mencionado
+  vosotros: hayáis mencionado
+  uds: hayan mencionado
+imperfecto-subjuntivo:
+  yo:
+    - mencionara
+    - mencionase
+  tu:
+    - mencionaras
+    - mencionases
+  vos:
+    - mencionaras
+    - mencionases
+  ud:
+    - mencionara
+    - mencionase
+  nosotros:
+    - mencionáramos
+    - mencionásemos
+  vosotros:
+    - mencionarais
+    - mencionaseis
+  uds:
+    - mencionaran
+    - mencionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mencionado
+    - hubiese mencionado
+  tu:
+    - hubieras mencionado
+    - hubieses mencionado
+  vos:
+    - hubieras mencionado
+    - hubieses mencionado
+  ud:
+    - hubiera mencionado
+    - hubiese mencionado
+  nosotros:
+    - hubiéramos mencionado
+    - hubiésemos mencionado
+  vosotros:
+    - hubierais mencionado
+    - hubieseis mencionado
+  uds:
+    - hubieran mencionado
+    - hubiesen mencionado
+imperativo:
+  tu: menciona
+  vos: mencioná
+  ud: mencione
+  nosotros: mencionemos
+  vosotros: mencionad
+  uds: mencionen

@@ -1,0 +1,142 @@
+infinitivo: escrutar
+gerundio: escrutando
+participio-pasado: escrutado
+presente-indicativo:
+  yo: escruto
+  tu: escrutas
+  vos: escrutas
+  ud: escruta
+  nosotros: escrutamos
+  vosotros: escrutáis
+  uds: escrutan
+preterito-perfecto-simple:
+  yo: escruté
+  tu: escrutaste
+  vos: escrutaste
+  ud: escrutó
+  nosotros: escrutamos
+  vosotros: escrutasteis
+  uds: escrutaron
+preterito-imperfecto:
+  yo: escrutaba
+  tu: escrutabas
+  vos: escrutabas
+  ud: escrutaba
+  nosotros: escrutábamos
+  vosotros: escrutabais
+  uds: escrutaban
+futuro-simple:
+  yo: escrutaré
+  tu: escrutarás
+  vos: escrutarás
+  ud: escrutará
+  nosotros: escrutaremos
+  vosotros: escrutareis
+  uds: escrutarán
+condicional-simple:
+  yo: escrutaría
+  tu: escrutarías
+  vos: escrutarías
+  ud: escrutaría
+  nosotros: escrutaríamos
+  vosotros: escrutaríais
+  uds: escrutarían
+presente-perfecto:
+  yo: he escrutado
+  tu: has escrutado
+  vos: has escrutado
+  ud: ha escrutado
+  nosotros: hemos escrutado
+  vosotros: habéis escrutado
+  uds: han escrutado
+preterito-pluscuamperfecto:
+  yo: había escrutado
+  tu: habías escrutado
+  vos: habías escrutado
+  ud: había escrutado
+  nosotros: habíamos escrutado
+  vosotros: habíais escrutado
+  uds: habían escrutado
+futuro-perfecto:
+  yo: habré escrutado
+  tu: habrás escrutado
+  vos: habrás escrutado
+  ud: habrá escrutado
+  nosotros: habremos escrutado
+  vosotros: habréis escrutado
+  uds: habrán escrutado
+condicional-perfecto:
+  yo: habría escrutado
+  tu: habrías escrutado
+  vos: habrías escrutado
+  ud: habría escrutado
+  nosotros: habríamos escrutado
+  vosotros: habríais escrutado
+  uds: habrían escrutado
+presente-subjuntivo:
+  yo: escrute
+  tu: escrutes
+  vos: escrutes
+  ud: escrute
+  nosotros: escrutemos
+  vosotros: escrutéis
+  uds: escruten
+preterito-perfecto-subjuntivo:
+  yo: haya escrutado
+  tu: hayas escrutado
+  vos: hayas escrutado
+  ud: haya escrutado
+  nosotros: hayamos escrutado
+  vosotros: hayáis escrutado
+  uds: hayan escrutado
+imperfecto-subjuntivo:
+  yo:
+    - escrutara
+    - escrutase
+  tu:
+    - escrutaras
+    - escrutases
+  vos:
+    - escrutaras
+    - escrutases
+  ud:
+    - escrutara
+    - escrutase
+  nosotros:
+    - escrutáramos
+    - escrutásemos
+  vosotros:
+    - escrutarais
+    - escrutaseis
+  uds:
+    - escrutaran
+    - escrutaran
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera escrutado
+    - hubiese escrutado
+  tu:
+    - hubieras escrutado
+    - hubieses escrutado
+  vos:
+    - hubieras escrutado
+    - hubieses escrutado
+  ud:
+    - hubiera escrutado
+    - hubiese escrutado
+  nosotros:
+    - hubiéramos escrutado
+    - hubiésemos escrutado
+  vosotros:
+    - hubierais escrutado
+    - hubieseis escrutado
+  uds:
+    - hubieran escrutado
+    - hubiesen escrutado
+imperativo:
+  tu: escruta
+  vos: escrutá
+  ud: escrute
+  nosotros: escrutemos
+  vosotros: escrutad
+  uds: escruten

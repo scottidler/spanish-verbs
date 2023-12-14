@@ -1,0 +1,142 @@
+infinitivo: coger
+gerundio: cogiendo
+participio-pasado: cogido
+presente-indicativo:
+  yo: cojo
+  tu: coges
+  vos: coges
+  ud: coge
+  nosotros: cogemos
+  vosotros: cogéis
+  uds: cogen
+preterito-perfecto-simple:
+  yo: cogí
+  tu: cogiste
+  vos: cogiste
+  ud: cogió
+  nosotros: cogimos
+  vosotros: cogisteis
+  uds: cogieron
+preterito-imperfecto:
+  yo: cogía
+  tu: cogías
+  vos: cogías
+  ud: cogía
+  nosotros: cogíamos
+  vosotros: cogíais
+  uds: cogían
+futuro-simple:
+  yo: cogeré
+  tu: cogerás
+  vos: cogerás
+  ud: cogerá
+  nosotros: cogeremos
+  vosotros: cogeréis
+  uds: cogerán
+condicional-simple:
+  yo: cogería
+  tu: cogerías
+  vos: cogerías
+  ud: cogería
+  nosotros: cogeríamos
+  vosotros: cogeríais
+  uds: cogerían
+presente-perfecto:
+  yo: he cogido
+  tu: has cogido
+  vos: has cogido
+  ud: ha cogido
+  nosotros: hemos cogido
+  vosotros: habéis cogido
+  uds: han cogido
+preterito-pluscuamperfecto:
+  yo: había cogido
+  tu: habías cogido
+  vos: habías cogido
+  ud: había cogido
+  nosotros: habíamos cogido
+  vosotros: habíais cogido
+  uds: habían cogido
+futuro-perfecto:
+  yo: habré cogido
+  tu: habrás cogido
+  vos: habrás cogido
+  ud: habrá cogido
+  nosotros: habremos cogido
+  vosotros: habréis cogido
+  uds: habrán cogido
+condicional-perfecto:
+  yo: habría cogido
+  tu: habrías cogido
+  vos: habrías cogido
+  ud: habría cogido
+  nosotros: habríamos cogido
+  vosotros: habríais cogido
+  uds: habrían cogido
+presente-subjuntivo:
+  yo: coja
+  tu: cojas
+  vos: cojas
+  ud: coja
+  nosotros: cojamos
+  vosotros: cojáis
+  uds: cojan
+preterito-perfecto-subjuntivo:
+  yo: haya cogido
+  tu: hayas cogido
+  vos: hayas cogido
+  ud: haya cogido
+  nosotros: hayamos cogido
+  vosotros: hayáis cogido
+  uds: hayan cogido
+imperfecto-subjuntivo:
+  yo:
+    - cogiera
+    - cogiese
+  tu:
+    - cogieras
+    - cogieses
+  vos:
+    - cogieras
+    - cogieses
+  ud:
+    - cogiera
+    - cogiese
+  nosotros:
+    - cogiéramos
+    - cogiésemos
+  vosotros:
+    - cogierais
+    - cogieseis
+  uds:
+    - cogieran
+    - cogiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cogido
+    - hubiese cogido
+  tu:
+    - hubieras cogido
+    - hubieses cogido
+  vos:
+    - hubieras cogido
+    - hubieses cogido
+  ud:
+    - hubiera cogido
+    - hubiese cogido
+  nosotros:
+    - hubiéramos cogido
+    - hubiésemos cogido
+  vosotros:
+    - hubierais cogido
+    - hubieseis cogido
+  uds:
+    - hubieran cogido
+    - hubiesen cogido
+imperativo:
+  tu: coge
+  vos: cogé
+  ud: coja
+  nosotros: cojamos
+  vosotros: coged
+  uds: cojan

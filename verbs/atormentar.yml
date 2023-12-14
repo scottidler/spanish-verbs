@@ -1,0 +1,142 @@
+infinitivo: atormentar
+gerundio: atormentando
+participio-pasado: atormentado
+presente-indicativo:
+  yo: atormento
+  tu: atormentas
+  vos: atormentas
+  ud: atormenta
+  nosotros: atormentamos
+  vosotros: atormentáis
+  uds: atormentan
+preterito-perfecto-simple:
+  yo: atormenté
+  tu: atormentaste
+  vos: atormentaste
+  ud: atormentó
+  nosotros: atormentamos
+  vosotros: atormentasteis
+  uds: atormentaron
+preterito-imperfecto:
+  yo: atormentaba
+  tu: atormentabas
+  vos: atormentabas
+  ud: atormentaba
+  nosotros: atormentábamos
+  vosotros: atormentabais
+  uds: atormentaban
+futuro-simple:
+  yo: atormentaré
+  tu: atormentarás
+  vos: atormentarás
+  ud: atormentará
+  nosotros: atormentaremos
+  vosotros: atormentaréis
+  uds: atormentarán
+condicional-simple:
+  yo: atormentaría
+  tu: atormentarías
+  vos: atormentarías
+  ud: atormentaría
+  nosotros: atormentaríamos
+  vosotros: atormentaríais
+  uds: atormentarían
+presente-perfecto:
+  yo: he atormentado
+  tu: has atormentado
+  vos: has atormentado
+  ud: ha atormentado
+  nosotros: hemos atormentado
+  vosotros: habéis atormentado
+  uds: han atormentado
+preterito-pluscuamperfecto:
+  yo: había atormentado
+  tu: habías atormentado
+  vos: habías atormentado
+  ud: había atormentado
+  nosotros: habíamos atormentado
+  vosotros: habíais atormentado
+  uds: habían atormentado
+futuro-perfecto:
+  yo: habré atormentado
+  tu: habrás atormentado
+  vos: habrás atormentado
+  ud: habrá atormentado
+  nosotros: habremos atormentado
+  vosotros: habréis atormentado
+  uds: habrán atormentado
+condicional-perfecto:
+  yo: habría atormentado
+  tu: habrías atormentado
+  vos: habrías atormentado
+  ud: habría atormentado
+  nosotros: habríamos atormentado
+  vosotros: habríais atormentado
+  uds: habrían atormentado
+presente-subjuntivo:
+  yo: atormente
+  tu: atormentes
+  vos: atormentes
+  ud: atormente
+  nosotros: atormentemos
+  vosotros: atormentéis
+  uds: atormenten
+preterito-perfecto-subjuntivo:
+  yo: haya atormentado
+  tu: hayas atormentado
+  vos: hayas atormentado
+  ud: haya atormentado
+  nosotros: hayamos atormentado
+  vosotros: hayáis atormentado
+  uds: hayan atormentado
+imperfecto-subjuntivo:
+  yo:
+    - atormentara
+    - atormentase
+  tu:
+    - atormentaras
+    - atormentases
+  vos:
+    - atormentaras
+    - atormentases
+  ud:
+    - atormentara
+    - atormentase
+  nosotros:
+    - atormentáramos
+    - atormentásemos
+  vosotros:
+    - atormentarais
+    - atormentaseis
+  uds:
+    - atormentaran
+    - atormentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atormentado
+    - hubiese atormentado
+  tu:
+    - hubieras atormentado
+    - hubieses atormentado
+  vos:
+    - hubieras atormentado
+    - hubieses atormentado
+  ud:
+    - hubiera atormentado
+    - hubiese atormentado
+  nosotros:
+    - hubiéramos atormentado
+    - hubiésemos atormentado
+  vosotros:
+    - hubierais atormentado
+    - hubieseis atormentado
+  uds:
+    - hubieran atormentado
+    - hubiesen atormentado
+imperativo:
+  tu: atormenta
+  vos: atormentá
+  ud: atormente
+  nosotros: atormentemos
+  vosotros: atormentad
+  uds: atormenten

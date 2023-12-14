@@ -1,0 +1,142 @@
+infinitivo: distinguir
+gerundio: distinguiendo
+participio-pasado: distinguido
+presente-indicativo:
+  yo: distingo
+  tu: distingues
+  vos: distingues
+  ud: distingue
+  nosotros: distinguimos
+  vosotros: distinguís
+  uds: distinguen
+preterito-perfecto-simple:
+  yo: distinguí
+  tu: distinguiste
+  vos: distinguiste
+  ud: distinguió
+  nosotros: distinguimos
+  vosotros: distinguisteis
+  uds: distinguieron
+preterito-imperfecto:
+  yo: distinguía
+  tu: distinguías
+  vos: distinguías
+  ud: distinguía
+  nosotros: distinguíamos
+  vosotros: distinguíais
+  uds: distinguían
+futuro-simple:
+  yo: distinguiré
+  tu: distinguirás
+  vos: distinguirás
+  ud: distinguirá
+  nosotros: distinguiremos
+  vosotros: distinguiréis
+  uds: distinguirán
+condicional-simple:
+  yo: distinguiría
+  tu: distinguirías
+  vos: distinguirías
+  ud: distinguiría
+  nosotros: distinguiríamos
+  vosotros: distinguiríais
+  uds: distinguirían
+presente-perfecto:
+  yo: he distinguido
+  tu: has distinguido
+  vos: has distinguido
+  ud: ha distinguido
+  nosotros: hemos distinguido
+  vosotros: habéis distinguido
+  uds: han distinguido
+preterito-pluscuamperfecto:
+  yo: había distinguido
+  tu: habías distinguido
+  vos: habías distinguido
+  ud: había distinguido
+  nosotros: habíamos distinguido
+  vosotros: habíais distinguido
+  uds: habían distinguido
+futuro-perfecto:
+  yo: habré distinguido
+  tu: habrás distinguido
+  vos: habrás distinguido
+  ud: habrá distinguido
+  nosotros: habremos distinguido
+  vosotros: habréis distinguido
+  uds: habrán distinguido
+condicional-perfecto:
+  yo: habría distinguido
+  tu: habrías distinguido
+  vos: habrías distinguido
+  ud: habría distinguido
+  nosotros: habríamos distinguido
+  vosotros: habríais distinguido
+  uds: habrían distinguido
+presente-subjuntivo:
+  yo: distinga
+  tu: distingas
+  vos: distingas
+  ud: distinga
+  nosotros: distingamos
+  vosotros: distingáis
+  uds: distingan
+preterito-perfecto-subjuntivo:
+  yo: haya distinguido
+  tu: hayas distinguido
+  vos: hayas distinguido
+  ud: haya distinguido
+  nosotros: hayamos distinguido
+  vosotros: hayáis distinguido
+  uds: hayan distinguido
+imperfecto-subjuntivo:
+  yo:
+    - distinguiera
+    - distinguiese
+  tu:
+    - distinguieras
+    - distingieses
+  vos:
+    - distinguieras
+    - distingieses
+  ud:
+    - distinguiera
+    - distingiese
+  nosotros:
+    - distinguiéramos
+    - distinguiésemos
+  vosotros:
+    - distinguierais
+    - distingieseis
+  uds:
+    - distinguieran
+    - distingiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera distinguido
+    - hubiese distinguido
+  tu:
+    - hubieras distinguido
+    - hubieses distinguido
+  vos:
+    - hubieras distinguido
+    - hubieses distinguido
+  ud:
+    - hubiera distinguido
+    - hubiese distinguido
+  nosotros:
+    - hubiéramos distinguido
+    - hubiésemos distinguido
+  vosotros:
+    - hubierais distinguido
+    - hubieseis distinguido
+  uds:
+    - hubieran distinguido
+    - hubiesen distinguido
+imperativo:
+  tu: distingue
+  vos: distinguí
+  ud: distinga
+  nosotros: distingamos
+  vosotros: distinguid
+  uds: distingan

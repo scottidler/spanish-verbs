@@ -1,0 +1,142 @@
+infinitivo: inquirir
+gerundio: inquiriendo
+participio-pasado: inquirido
+presente-indicativo:
+  yo: inquiero
+  tu: inquieres
+  vos: inquirís
+  ud: inquiere
+  nosotros: inquirimos
+  vosotros: inquirís
+  uds: inquieren
+preterito-perfecto-simple:
+  yo: inquirí
+  tu: inquiriste
+  vos: inquiriste
+  ud: inquirió
+  nosotros: inquirimos
+  vosotros: inquiristeis
+  uds: inquirieron
+preterito-imperfecto:
+  yo: inquiría
+  tu: inquirías
+  vos: inquirías
+  ud: inquiría
+  nosotros: inquiríamos
+  vosotros: inquiríais
+  uds: inquirían
+futuro-simple:
+  yo: inquiriré
+  tu: inquirirás
+  vos: inquirirás
+  ud: inquirirá
+  nosotros: inquiriremos
+  vosotros: inquiriréis
+  uds: inquirirán
+condicional-simple:
+  yo: inquiriría
+  tu: inquirirías
+  vos: inquirirías
+  ud: inquiriría
+  nosotros: inquiriríamos
+  vosotros: inquiriríais
+  uds: inquirirían
+presente-perfecto:
+  yo: he inquirido
+  tu: has inquirido
+  vos: has inquirido
+  ud: ha inquirido
+  nosotros: hemos inquirido
+  vosotros: habéis inquirido
+  uds: han inquirido
+preterito-pluscuamperfecto:
+  yo: había inquirido
+  tu: habías inquirido
+  vos: habías inquirido
+  ud: había inquirido
+  nosotros: habíamos inquirido
+  vosotros: habíais inquirido
+  uds: habían inquirido
+futuro-perfecto:
+  yo: habré inquirido
+  tu: habrás inquirido
+  vos: habrás inquirido
+  ud: habrá inquirido
+  nosotros: habremos inquirido
+  vosotros: habréis inquirido
+  uds: habrán inquirido
+condicional-perfecto:
+  yo: habría inquirido
+  tu: habrías inquirido
+  vos: habrías inquirido
+  ud: habría inquirido
+  nosotros: habríamos inquirido
+  vosotros: habríais inquirido
+  uds: habrían inquirido
+presente-subjuntivo:
+  yo: inquiera
+  tu: inquieras
+  vos: inquieras
+  ud: inquiera
+  nosotros: inquieramos
+  vosotros: inquiráis
+  uds: inquieran
+preterito-perfecto-subjuntivo:
+  yo: haya inquirido
+  tu: hayas inquirido
+  vos: hayas inquirido
+  ud: haya inquirido
+  nosotros: hayamos inquirido
+  vosotros: hayáis inquirido
+  uds: hayan inquirido
+imperfecto-subjuntivo:
+  yo:
+    - inquiriera
+    - inquiriese
+  tu:
+    - inquirieras
+    - inquirieses
+  vos:
+    - inquirieras
+    - inquirieses
+  ud:
+    - inquiriera
+    - inquirese
+  nosotros:
+    - inquiriéramos
+    - inquiriésemos
+  vosotros:
+    - inquirierais
+    - inquireseis
+  uds:
+    - inquirieran
+    - inquiresen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera inquirido
+    - hubiese inquirido
+  tu:
+    - hubieras inquirido
+    - hubieses inquirido
+  vos:
+    - hubieras inquirido
+    - hubieses inquirido
+  ud:
+    - hubiera inquirido
+    - hubiese inquirido
+  nosotros:
+    - hubiéramos inquirido
+    - hubiésemos inquirido
+  vosotros:
+    - hubierais inquirido
+    - hubieseis inquirido
+  uds:
+    - hubieran inquirido
+    - hubiesen inquirido
+imperativo:
+  tu: inquiere
+  vos: inquirí
+  ud: inquiera
+  nosotros: inquieramos
+  vosotros: inquirid
+  uds: inquieran

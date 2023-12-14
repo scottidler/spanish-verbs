@@ -1,0 +1,142 @@
+infinitivo: continuócuir
+gerundio: continuócuendo
+participio-pasado: continuócuído
+presente-indicativo:
+  yo: continuócuo
+  tu: continuócues
+  vos: continuócues
+  ud: continuócue
+  nosotros: continuócuimos
+  vosotros: continuócuís
+  uds: continuócuen
+preterito-perfecto-simple:
+  yo: continuócuí
+  tu: continuócuíste
+  vos: continuócuíste
+  ud: continuócuíó
+  nosotros: continuócuímos
+  vosotros: continuócuísteis
+  uds: continuócuíeron
+preterito-imperfecto:
+  yo: continuócuía
+  tu: continuócuías
+  vos: continuócuías
+  ud: continuócuía
+  nosotros: continuócuíamos
+  vosotros: continuócuíais
+  uds: continuócuían
+futuro-simple:
+  yo: continuócueré
+  tu: continuócuerás
+  vos: continuócuerás
+  ud: continuócuerá
+  nosotros: continuócueremos
+  vosotros: continuócueréis
+  uds: continuócuerán
+condicional-simple:
+  yo: continuócuería
+  tu: continuócuerías
+  vos: continuócuerías
+  ud: continuócuería
+  nosotros: continuócueríamos
+  vosotros: continuócueríais
+  uds: continuócuerían
+presente-perfecto:
+  yo: he continuócuído
+  tu: has continuócuído
+  vos: has continuócuído
+  ud: ha continuócuído
+  nosotros: hemos continuócuído
+  vosotros: habéis continuócuído
+  uds: han continuócuído
+preterito-pluscuamperfecto:
+  yo: había continuócuído
+  tu: habías continuócuído
+  vos: habías continuócuído
+  ud: había continuócuído
+  nosotros: habíamos continuócuído
+  vosotros: habíais continuócuído
+  uds: habían continuócuído
+futuro-perfecto:
+  yo: habré continuócuído
+  tu: habrás continuócuído
+  vos: habrás continuócuído
+  ud: habrá continuócuído
+  nosotros: habremos continuócuído
+  vosotros: habréis continuócuído
+  uds: habrán continuócuído
+condicional-perfecto:
+  yo: habría continuócuído
+  tu: habrías continuócuído
+  vos: habrías continuócuído
+  ud: habría continuócuído
+  nosotros: habríamos continuócuído
+  vosotros: habríais continuócuído
+  uds: habrían continuócuído
+presente-subjuntivo:
+  yo: continuócua
+  tu: continuócuas
+  vos: continuócuas
+  ud: continuócua
+  nosotros: continuócuamos
+  vosotros: continuócuáis
+  uds: continuócuan
+preterito-perfecto-subjuntivo:
+  yo: haya continuócuído
+  tu: hayas continuócuído
+  vos: hayas continuócuído
+  ud: haya continuócuído
+  nosotros: hayamos continuócuído
+  vosotros: hayáis continuócuído
+  uds: hayan continuócuído
+imperfecto-subjuntivo:
+  yo:
+    - continuócuiera
+    - continuócuiese
+  tu:
+    - continuócueras
+    - continuócuieses
+  vos:
+    - continuócueras
+    - continuócuieses
+  ud:
+    - continuócuiera
+    - continuócuiese
+  nosotros:
+    - continuócuiéramos
+    - continuócuiésemos
+  vosotros:
+    - continuócuierais
+    - continuócuieseis
+  uds:
+    - continuócuieran
+    - continuócuiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera continuócuído
+    - hubiese continuócuído
+  tu:
+    - hubieras continuócuído
+    - hubieses continuócuído
+  vos:
+    - hubieras continuócuído
+    - hubieses continuócuído
+  ud:
+    - hubiera continuócuído
+    - hubiese continuócuído
+  nosotros:
+    - hubiéramos continuócuído
+    - hubiésemos continuócuído
+  vosotros:
+    - hubierais continuócuído
+    - hubieseis continuócuído
+  uds:
+    - hubieran continuócuído
+    - hubiesen continuócuído
+imperativo:
+  tu: continuócuí
+  vos: continuócuid
+  ud: continuócua
+  nosotros: continuócuamos
+  vosotros: continuócuid
+  uds: continuócuan

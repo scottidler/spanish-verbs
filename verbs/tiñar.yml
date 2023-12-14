@@ -1,0 +1,156 @@
+infinitivo: tiñar
+gerundio: tiñendo
+participio-pasado: teñido
+
+presente-indicativo:
+  yo: tiño
+  tu: tiñes
+  vos: tiñes
+  ud: tiñe
+  nosotros: teñimos
+  vosotros: teñís
+  uds: tiñen
+
+preterito-perfecto-simple:
+  yo: teñí
+  tu: teñiste
+  vos: teñiste
+  ud: tiñó
+  nosotros: teñimos
+  vosotros: teñisteis
+  uds: tiñeron
+
+preterito-imperfecto:
+  yo: teñía
+  tu: teñías
+  vos: teñías
+  ud: teñía
+  nosotros: teñíamos
+  vosotros: teñíais
+  uds: teñían
+
+futuro-simple:
+  yo: teñiré
+  tu: teñirás
+  vos: teñirás
+  ud: teñirá
+  nosotros: teñiremos
+  vosotros: teñiréis
+  uds: teñirán
+
+condicional-simple:
+  yo: teñiría
+  tu: teñirías
+  vos: teñirías
+  ud: teñiría
+  nosotros: teñiríamos
+  vosotros: teñiríais
+  uds: teñirían
+
+presente-perfecto:
+  yo: he teñido
+  tu: has teñido
+  vos: has teñido
+  ud: ha teñido
+  nosotros: hemos teñido
+  vosotros: habéis teñido
+  uds: han teñido
+
+preterito-pluscuamperfecto:
+  yo: había teñido
+  tu: habías teñido
+  vos: habías teñido
+  ud: había teñido
+  nosotros: habíamos teñido
+  vosotros: habíais teñido
+  uds: habían teñido
+
+futuro-perfecto:
+  yo: habré teñido
+  tu: habrás teñido
+  vos: habrás teñido
+  ud: habrá teñido
+  nosotros: habremos teñido
+  vosotros: habréis teñido
+  uds: habrán teñido
+
+condicional-perfecto:
+  yo: habría teñido
+  tu: habrías teñido
+  vos: habrías teñido
+  ud: habría teñido
+  nosotros: habríamos teñido
+  vosotros: habríais teñido
+  uds: habrían teñido
+
+presente-subjuntivo:
+  yo: tiña
+  tu: tiñas
+  vos: tiñas
+  ud: tiña
+  nosotros: tiñamos
+  vosotros: tiñáis
+  uds: tiñan
+
+preterito-perfecto-subjuntivo:
+  yo: haya teñido
+  tu: hayas teñido
+  vos: hayas teñido
+  ud: haya teñido
+  nosotros: hayamos teñido
+  vosotros: hayáis teñido
+  uds: hayan teñido
+
+imperfecto-subjuntivo:
+  yo:
+    - tiñera
+    - tiñese
+  tu:
+    - tiñeras
+    - tiñeses
+  vos:
+    - tiñeras
+    - tiñeses
+  ud:
+    - tiñera
+    - tiñese
+  nosotros:
+    - tiñéramos
+    - tiñésemos
+  vosotros:
+    - tiñerais
+    - tiñeseis
+  uds:
+    - tiñeran
+    - tiñesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera teñido
+    - hubiese teñido
+  tu:
+    - hubieras teñido
+    - hubieses teñido
+  vos:
+    - hubieras teñido
+    - hubieses teñido
+  ud:
+    - hubiera teñido
+    - hubiese teñido
+  nosotros:
+    - hubiéramos teñido
+    - hubiésemos teñido
+  vosotros:
+    - hubierais teñido
+    - hubieseis teñido
+  uds:
+    - hubieran teñido
+    - hubiesen teñido
+
+imperativo:
+  tu: tiñe
+  vos: teñí
+  ud: tiña
+  nosotros: tiñamos
+  vosotros: teñid
+  uds: tiñan

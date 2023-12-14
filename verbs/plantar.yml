@@ -1,0 +1,142 @@
+infinitivo: plantar
+gerundio: plantando
+participio-pasado: plantado
+presente-indicativo:
+  yo: planto
+  tu: plantas
+  vos: plantas
+  ud: planta
+  nosotros: plantamos
+  vosotros: plantáis
+  uds: plantan
+preterito-perfecto-simple:
+  yo: planté
+  tu: plantaste
+  vos: plantaste
+  ud: plantó
+  nosotros: plantamos
+  vosotros: plantasteis
+  uds: plantaron
+preterito-imperfecto:
+  yo: plantaba
+  tu: plantabas
+  vos: plantabas
+  ud: plantaba
+  nosotros: plantábamos
+  vosotros: plantabais
+  uds: plantaban
+futuro-simple:
+  yo: plantaré
+  tu: plantarás
+  vos: plantarás
+  ud: plantará
+  nosotros: plantaremos
+  vosotros: plantaréis
+  uds: plantarán
+condicional-simple:
+  yo: plantaría
+  tu: plantarías
+  vos: plantarías
+  ud: plantaría
+  nosotros: plantaríamos
+  vosotros: plantaríais
+  uds: plantarían
+presente-perfecto:
+  yo: he plantado
+  tu: has plantado
+  vos: has plantado
+  ud: ha plantado
+  nosotros: hemos plantado
+  vosotros: habéis plantado
+  uds: han plantado
+preterito-pluscuamperfecto:
+  yo: había plantado
+  tu: habías plantado
+  vos: habías plantado
+  ud: había plantado
+  nosotros: habíamos plantado
+  vosotros: habíais plantado
+  uds: habían plantado
+futuro-perfecto:
+  yo: habré plantado
+  tu: habrás plantado
+  vos: habrás plantado
+  ud: habrá plantado
+  nosotros: habremos plantado
+  vosotros: habréis plantado
+  uds: habrán plantado
+condicional-perfecto:
+  yo: habría plantado
+  tu: habrías plantado
+  vos: habrías plantado
+  ud: habría plantado
+  nosotros: habríamos plantado
+  vosotros: habríais plantado
+  uds: habrían plantado
+presente-subjuntivo:
+  yo: plante
+  tu: plante
+  vos: plante
+  ud: plante
+  nosotros: plantemos
+  vosotros: plantéis
+  uds: planten
+preterito-perfecto-subjuntivo:
+  yo: haya plantado
+  tu: hayas plantado
+  vos: hayas plantado
+  ud: haya plantado
+  nosotros: hayamos plantado
+  vosotros: hayáis plantado
+  uds: hayan plantado
+imperfecto-subjuntivo:
+  yo:
+    - plantara
+    - plantase
+  tu:
+    - plantaras
+    - plantases
+  vos:
+    - plantaras
+    - plantases
+  ud:
+    - plantara
+    - plantase
+  nosotros:
+    - plantáramos
+    - plantásemos
+  vosotros:
+    - plantarais
+    - plantaseis
+  uds:
+    - plantaran
+    - plantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera plantado
+    - hubiese plantado
+  tu:
+    - hubieras plantado
+    - hubieses plantado
+  vos:
+    - hubieras plantado
+    - hubieses plantado
+  ud:
+    - hubiera plantado
+    - hubiese plantado
+  nosotros:
+    - hubiéramos plantado
+    - hubiésemos plantado
+  vosotros:
+    - hubierais plantado
+    - hubieseis plantado
+  uds:
+    - hubieran plantado
+    - hubiesen plantado
+imperativo:
+  tu: planta
+  vos: plantá
+  ud: plante
+  nosotros: plantemos
+  vosotros: plantad
+  uds: planten

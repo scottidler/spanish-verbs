@@ -1,0 +1,156 @@
+infinitivo: arremolinarse
+gerundio: arremolinándose
+participio-pasado: arremolinado
+
+presente-indicativo:
+  yo: me arremolino
+  tu: te arremolinas
+  vos: te arremolinas
+  ud: se arremolina
+  nosotros: nos arremolinamos
+  vosotros: os arremolináis
+  uds: se arremolinan
+
+preterito-perfecto-simple:
+  yo: me arremoliné
+  tu: te arremolinaste
+  vos: te arremolinaste
+  ud: se arremolinó
+  nosotros: nos arremolinamos
+  vosotros: os arremolinasteis
+  uds: se arremolinaron
+
+preterito-imperfecto:
+  yo: me arremolinaba
+  tu: te arremolinabas
+  vos: te arremolinabas
+  ud: se arremolinaba
+  nosotros: nos arremolinábamos
+  vosotros: os arremolinabais
+  uds: se arremolinaban
+
+futuro-simple:
+  yo: me arremolinaré
+  tu: te arremolinarás
+  vos: te arremolinarás
+  ud: se arremolinará
+  nosotros: nos arremolinaremos
+  vosotros: os arremolinaréis
+  uds: se arremolinarán
+
+condicional-simple:
+  yo: me arremolinaría
+  tu: te arremolinarías
+  vos: te arremolinarías
+  ud: se arremolinaría
+  nosotros: nos arremolinaríamos
+  vosotros: os arremolinaríais
+  uds: se arremolinarían
+
+presente-perfecto:
+  yo: me he arremolinado
+  tu: te has arremolinado
+  vos: te has arremolinado
+  ud: se ha arremolinado
+  nosotros: nos hemos arremolinado
+  vosotros: os habéis arremolinado
+  uds: se han arremolinado
+
+preterito-pluscuamperfecto:
+  yo: me había arremolinado
+  tu: te habías arremolinado
+  vos: te habías arremolinado
+  ud: se había arremolinado
+  nosotros: nos habíamos arremolinado
+  vosotros: os habíais arremolinado
+  uds: se habían arremolinado
+
+futuro-perfecto:
+  yo: me habré arremolinado
+  tu: te habrás arremolinado
+  vos: te habrás arremolinado
+  ud: se habrá arremolinado
+  nosotros: nos habremos arremolinado
+  vosotros: os habréis arremolinado
+  uds: se habrán arremolinado
+
+condicional-perfecto:
+  yo: me habría arremolinado
+  tu: te habrías arremolinado
+  vos: te habrías arremolinado
+  ud: se habría arremolinado
+  nosotros: nos habríamos arremolinado
+  vosotros: os habríais arremolinado
+  uds: se habrían arremolinado
+
+presente-subjuntivo:
+  yo: me arremoline
+  tu: te arremolines
+  vos: te arremolines
+  ud: se arremoline
+  nosotros: nos arremolinemos
+  vosotros: os arremolinéis
+  uds: se arremolinen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya arremolinado
+  tu: te hayas arremolinado
+  vos: te hayas arremolinado
+  ud: se haya arremolinado
+  nosotros: nos hayamos arremolinado
+  vosotros: os hayáis arremolinado
+  uds: se hayan arremolinado
+
+imperfecto-subjuntivo:
+  yo:
+    - me arremolinara
+    - me arremolinase
+  tu:
+    - te arremolinaras
+    - te arremolinases
+  vos:
+    - te arremolinaras
+    - te arremolinases
+  ud:
+    - se arremolinara
+    - se arremolinase
+  nosotros:
+    - nos arremolináramos
+    - nos arremolinásemos
+  vosotros:
+    - os arremolinarais
+    - os arremolinaseis
+  uds:
+    - se arremolinaran
+    - se arremolasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera arremolinado
+    - me hubiese arremolinado
+  tu:
+    - te hubieras arremolinado
+    - te hubieses arremolinado
+  vos:
+    - te hubieras arremolinado
+    - te hubieses arremolinado
+  ud:
+    - se hubiera arremolinado
+    - se hubiese arremolinado
+  nosotros:
+    - nos hubiéramos arremolinado
+    - nos hubiésemos arremolinado
+  vosotros:
+    - os hubierais arremolinado
+    - os hubieseis arremolinado
+  uds:
+    - se hubieran arremolinado
+    - se hubiesen arremolinado
+
+imperativo:
+  tu: arremolínate
+  vos: arremolináte
+  ud: arremolínese
+  nosotros: arremolinémonos
+  vosotros: arremolináos
+  uds: arremolínense

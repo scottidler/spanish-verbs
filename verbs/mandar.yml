@@ -1,0 +1,142 @@
+infinitivo: mandar
+gerundio: mandando
+participio-pasado: mandado
+presente-indicativo:
+  yo: mando
+  tu: mandas
+  vos: mandas
+  ud: manda
+  nosotros: mandamos
+  vosotros: mandáis
+  uds: mandan
+preterito-perfecto-simple:
+  yo: mandé
+  tu: mandaste
+  vos: mandaste
+  ud: mandó
+  nosotros: mandamos
+  vosotros: mandasteis
+  uds: mandaron
+preterito-imperfecto:
+  yo: mandaba
+  tu: mandabas
+  vos: mandabas
+  ud: mandaba
+  nosotros: mandábamos
+  vosotros: mandabais
+  uds: mandaban
+futuro-simple:
+  yo: mandaré
+  tu: mandarás
+  vos: mandarás
+  ud: mandará
+  nosotros: mandaremos
+  vosotros: mandaréis
+  uds: mandarán
+condicional-simple:
+  yo: mandaría
+  tu: mandarías
+  vos: mandarías
+  ud: mandaría
+  nosotros: mandaríamos
+  vosotros: mandaríais
+  uds: mandarían
+presente-perfecto:
+  yo: he mandado
+  tu: has mandado
+  vos: has mandado
+  ud: ha mandado
+  nosotros: hemos mandado
+  vosotros: habéis mandado
+  uds: han mandado
+preterito-pluscuamperfecto:
+  yo: había mandado
+  tu: habías mandado
+  vos: habías mandado
+  ud: había mandado
+  nosotros: habíamos mandado
+  vosotros: habíais mandado
+  uds: habían mandado
+futuro-perfecto:
+  yo: habré mandado
+  tu: habrás mandado
+  vos: habrás mandado
+  ud: habrá mandado
+  nosotros: habremos mandado
+  vosotros: habréis mandado
+  uds: habrán mandado
+condicional-perfecto:
+  yo: habría mandado
+  tu: habrías mandado
+  vos: habrías mandado
+  ud: habría mandado
+  nosotros: habríamos mandado
+  vosotros: habríais mandado
+  uds: habrían mandado
+presente-subjuntivo:
+  yo: mande
+  tu: mandes
+  vos: mandes
+  ud: mande
+  nosotros: mandemos
+  vosotros: mandéis
+  uds: manden
+preterito-perfecto-subjuntivo:
+  yo: haya mandado
+  tu: hayas mandado
+  vos: hayas mandado
+  ud: haya mandado
+  nosotros: hayamos mandado
+  vosotros: hayáis mandado
+  uds: hayan mandado
+imperfecto-subjuntivo:
+  yo:
+    - mandara
+    - mandase
+  tu:
+    - mandaras
+    - mandases
+  vos:
+    - mandaras
+    - mandases
+  ud:
+    - mandara
+    - mandase
+  nosotros:
+    - mandáramos
+    - mandásemos
+  vosotros:
+    - mandarais
+    - mandaseis
+  uds:
+    - mandaran
+    - mandasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mandado
+    - hubiese mandado
+  tu:
+    - hubieras mandado
+    - hubieses mandado
+  vos:
+    - hubieras mandado
+    - hubieses mandado
+  ud:
+    - hubiera mandado
+    - hubiese mandado
+  nosotros:
+    - hubiéramos mandado
+    - hubiésemos mandado
+  vosotros:
+    - hubierais mandado
+    - hubieseis mandado
+  uds:
+    - hubieran mandado
+    - hubiesen mandado
+imperativo:
+  tu: manda
+  vos: mandá
+  ud: mande
+  nosotros: mandemos
+  vosotros: mandad
+  uds: manden

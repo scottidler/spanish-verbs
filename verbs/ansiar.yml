@@ -1,0 +1,142 @@
+infinitivo: ansiar
+gerundio: ansiando
+participio-pasado: ansiado
+presente-indicativo:
+  yo: ansío
+  tu: ansías
+  vos: ansías
+  ud: ansía
+  nosotros: anisamos
+  vosotros: ansiáis
+  uds: ansían
+preterito-perfecto-simple:
+  yo: ansíe
+  tu: ansíaste
+  vos: ansíaste
+  ud: ansíó
+  nosotros: ansíamos
+  vosotros: ansíasteis
+  uds: ansíaron
+preterito-imperfecto:
+  yo: ansiaba
+  tu: ansiabas
+  vos: ansiabas
+  ud: ansiaba
+  nosotros: ansiábamos
+  vosotros: ansiabais
+  uds: ansiaban
+futuro-simple:
+  yo: ansiaré
+  tu: ansiarás
+  vos: ansiarás
+  ud: ansiará
+  nosotros: ansiaremos
+  vosotros: ansiaréis
+  uds: ansiarán
+condicional-simple:
+  yo: ansiaría
+  tu: ansiarías
+  vos: ansiarías
+  ud: ansiaría
+  nosotros: ansiaríamos
+  vosotros: ansiaríais
+  uds: ansiarían
+presente-perfecto:
+  yo: he ansiado
+  tu: has ansiado
+  vos: has ansiado
+  ud: ha ansiado
+  nosotros: hemos ansiado
+  vosotros: habéis ansiado
+  uds: han ansiado
+preterito-pluscuamperfecto:
+  yo: había ansiado
+  tu: habías ansiado
+  vos: habías ansiado
+  ud: había ansiado
+  nosotros: habíamos ansiado
+  vosotros: habíais ansiado
+  uds: habían ansiado
+futuro-perfecto:
+  yo: habré ansiado
+  tu: habrás ansiado
+  vos: habrás ansiado
+  ud: habrá ansiado
+  nosotros: habremos ansiado
+  vosotros: habréis ansiado
+  uds: habrán ansiado
+condicional-perfecto:
+  yo: habría ansiado
+  tu: habrías ansiado
+  vos: habrías ansiado
+  ud: habría ansiado
+  nosotros: habríamos ansiado
+  vosotros: habríais ansiado
+  uds: habrían ansiado
+presente-subjuntivo:
+  yo: ansíe
+  tu: ansíes
+  vos: ansíes
+  ud: ansíe
+  nosotros: ansíemos
+  vosotros: ansiéis
+  uds: ansíen
+preterito-perfecto-subjuntivo:
+  yo: haya ansiado
+  tu: hayas ansiado
+  vos: hayas ansiado
+  ud: haya ansiado
+  nosotros: hayamos ansiado
+  vosotros: hayáis ansiado
+  uds: hayan ansiado
+imperfecto-subjuntivo:
+  yo:
+    - ansíara
+    - ansíese
+  tu:
+    - ansíaras
+    - ansíeses
+  vos:
+    - ansíaras
+    - ansíeses
+  ud:
+    - ansíara
+    - ansíese
+  nosotros:
+    - ansíaramos
+    - ansíesemos
+  vosotros:
+    - ansíarais
+    - ansíeseis
+  uds:
+    - ansíaran
+    - ansíesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ansiado
+    - hubiese ansiado
+  tu:
+    - hubieras ansiado
+    - hubieses ansiado
+  vos:
+    - hubieras ansiado
+    - hubieses ansiado
+  ud:
+    - hubiera ansiado
+    - hubiese ansiado
+  nosotros:
+    - hubiéramos ansiado
+    - hubiésemos ansiado
+  vosotros:
+    - hubierais ansiado
+    - hubieseis ansiado
+  uds:
+    - hubieran ansiado
+    - hubiesen ansiado
+imperativo:
+  tu: ansía
+  vos: ansiá
+  ud: ansíe
+  nosotros: ansíemos
+  vosotros: ansíad
+  uds: ansían

@@ -1,0 +1,142 @@
+infinitivo: rendirse
+gerundio: rindiéndose
+participio-pasado: rendido
+presente-indicativo:
+  yo: me rindo
+  tu: te rindes
+  vos: te rendís
+  ud: se rinde
+  nosotros: nos rendimos
+  vosotros: os rendéis
+  uds: se rinden
+preterito-perfecto-simple:
+  yo: me rendí
+  tu: te rendiste
+  vos: te rendiste
+  ud: se rindió
+  nosotros: nos rendimos
+  vosotros: os rendisteis
+  uds: se rindieron
+preterito-imperfecto:
+  yo: me rendía
+  tu: te rendías
+  vos: te rendías
+  ud: se rendía
+  nosotros: nos rendíamos
+  vosotros: os rendíais
+  uds: se rendían
+futuro-simple:
+  yo: me rendiré
+  tu: te rendirás
+  vos: te rendirás
+  ud: se rendirá
+  nosotros: nos rendiremos
+  vosotros: os rendiréis
+  uds: se rendirán
+condicional-simple:
+  yo: me rendiría
+  tu: te rendirías
+  vos: te rendirías
+  ud: se rendiría
+  nosotros: nos rendiríamos
+  vosotros: os rendiríais
+  uds: se rendirían
+presente-perfecto:
+  yo: me he rendido
+  tu: te has rendido
+  vos: te has rendido
+  ud: se ha rendido
+  nosotros: nos hemos rendido
+  vosotros: os habéis rendido
+  uds: se han rendido
+preterito-pluscuamperfecto:
+  yo: me había rendido
+  tu: te habías rendido
+  vos: te habías rendido
+  ud: se había rendido
+  nosotros: nos habíamos rendido
+  vosotros: os habíais rendido
+  uds: se habían rendido
+futuro-perfecto:
+  yo: me habré rendido
+  tu: te habrás rendido
+  vos: te habrás rendido
+  ud: se habrá rendido
+  nosotros: nos habremos rendido
+  vosotros: os habréis rendido
+  uds: se habrán rendido
+condicional-perfecto:
+  yo: me habría rendido
+  tu: te habrías rendido
+  vos: te habrías rendido
+  ud: se habría rendido
+  nosotros: nos habríamos rendido
+  vosotros: os habríais rendido
+  uds: se habrían rendido
+presente-subjuntivo:
+  yo: me rinda
+  tu: te rindas
+  vos: te rindas
+  ud: se rinda
+  nosotros: nos rindamos
+  vosotros: os rindáis
+  uds: se rindan
+preterito-perfecto-subjuntivo:
+  yo: me haya rendido
+  tu: te hayas rendido
+  vos: te hayas rendido
+  ud: se haya rendido
+  nosotros: nos hayamos rendido
+  vosotros: os hayáis rendido
+  uds: se hayan rendido
+imperfecto-subjuntivo:
+  yo:
+    - me rindiera
+    - me rindiese
+  tu:
+    - te rindieras
+    - te rindieses
+  vos:
+    - te rindieras
+    - te rindieses
+  ud:
+    - se rindiera
+    - se rindiese
+  nosotros:
+    - nos rindiéramos
+    - nos rindiésemos
+  vosotros:
+    - os rindierais
+    - os rindieseis
+  uds:
+    - se rindieran
+    - se rindiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera rendido
+    - me hubiese rendido
+  tu:
+    - te hubieras rendido
+    - te hubieses rendido
+  vos:
+    - te hubieras rendido
+    - te hubieses rendido
+  ud:
+    - se hubiera rendido
+    - se hubiese rendido
+  nosotros:
+    - nos hubiéramos rendido
+    - nos hubiésemos rendido
+  vosotros:
+    - os hubierais rendido
+    - os hubieseis rendido
+  uds:
+    - se hubieran rendido
+    - se hubiesen rendido
+imperativo:
+  tu: ríndete
+  vos: rendíte
+  ud: ríndase
+  nosotros: ríndamos
+  vosotros: rendíos
+  uds: ríndanse

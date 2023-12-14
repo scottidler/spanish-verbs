@@ -1,0 +1,142 @@
+infinitivo: asistir
+gerundio: asistiendo
+participio-pasado: asistido
+presente-indicativo:
+  yo: asisto
+  tu: asistes
+  vos: asistís
+  ud: asiste
+  nosotros: asistimos
+  vosotros: asistís
+  uds: asisten
+preterito-perfecto-simple:
+  yo: asistí
+  tu: asististe
+  vos: asististe
+  ud: asistió
+  nosotros: asistimos
+  vosotros: asististeis
+  uds: asistieron
+preterito-imperfecto:
+  yo: asistía
+  tu: asistías
+  vos: asistías
+  ud: asistía
+  nosotros: asistíamos
+  vosotros: asistíais
+  uds: asistían
+futuro-simple:
+  yo: asistiré
+  tu: asistirás
+  vos: asistirás
+  ud: asistirá
+  nosotros: asistiremos
+  vosotros: asistiréis
+  uds: asistirán
+condicional-simple:
+  yo: asistiría
+  tu: asistirías
+  vos: asistirías
+  ud: asistiría
+  nosotros: asistiríamos
+  vosotros: asistiríais
+  uds: asistirían
+presente-perfecto:
+  yo: he asistido
+  tu: has asistido
+  vos: has asistido
+  ud: ha asistido
+  nosotros: hemos asistido
+  vosotros: habéis asistido
+  uds: han asistido
+preterito-pluscuamperfecto:
+  yo: había asistido
+  tu: habías asistido
+  vos: habías asistido
+  ud: había asistido
+  nosotros: habíamos asistido
+  vosotros: habíais asistido
+  uds: habían asistido
+futuro-perfecto:
+  yo: habré asistido
+  tu: habrás asistido
+  vos: habrás asistido
+  ud: habrá asistido
+  nosotros: habremos asistido
+  vosotros: habréis asistido
+  uds: habrán asistido
+condicional-perfecto:
+  yo: habría asistido
+  tu: habrías asistido
+  vos: habrías asistido
+  ud: habría asistido
+  nosotros: habríamos asistido
+  vosotros: habríais asistido
+  uds: habrían asistido
+presente-subjuntivo:
+  yo: asista
+  tu: asistas
+  vos: asistas
+  ud: asista
+  nosotros: asistamos
+  vosotros: asistáis
+  uds: asistan
+preterito-perfecto-subjuntivo:
+  yo: haya asistido
+  tu: hayas asistido
+  vos: hayas asistido
+  ud: haya asistido
+  nosotros: hayamos asistido
+  vosotros: hayáis asistido
+  uds: hayan asistido
+imperfecto-subjuntivo:
+  yo:
+    - asistiera
+    - asistiese
+  tu:
+    - asistieras
+    - asistieses
+  vos:
+    - asistieras
+    - asistieses
+  ud:
+    - asistiera
+    - asistiese
+  nosotros:
+    - asistiéramos
+    - asistiésemos
+  vosotros:
+    - asistierais
+    - asistieseis
+  uds:
+    - asistieran
+    - asistiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asistido
+    - hubiese asistido
+  tu:
+    - hubieras asistido
+    - hubieses asistido
+  vos:
+    - hubieras asistido
+    - hubieses asistido
+  ud:
+    - hubiera asistido
+    - hubiese asistido
+  nosotros:
+    - hubiéramos asistido
+    - hubiésemos asistido
+  vosotros:
+    - hubierais asistido
+    - hubieseis asistido
+  uds:
+    - hubieran asistido
+    - hubiesen asistido
+imperativo:
+  tu: asiste
+  vos: asistí
+  ud: asista
+  nosotros: asistamos
+  vosotros: asistid
+  uds: asistan

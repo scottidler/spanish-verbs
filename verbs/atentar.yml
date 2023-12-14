@@ -1,0 +1,142 @@
+infinitivo: atentar
+gerundio: atentando
+participio-pasado: atentado
+presente-indicativo:
+  yo: atento
+  tu: atentas
+  vos: atentas
+  ud: atenta
+  nosotros: atentamos
+  vosotros: atentáis
+  uds: atentan
+preterito-perfecto-simple:
+  yo: atenté
+  tu: atentaste
+  vos: atentaste
+  ud: atentó
+  nosotros: atentamos
+  vosotros: atentasteis
+  uds: atentaron
+preterito-imperfecto:
+  yo: atentaba
+  tu: atentabas
+  vos: atentabas
+  ud: atentaba
+  nosotros: atentábamos
+  vosotros: atentabais
+  uds: atentaban
+futuro-simple:
+  yo: atentaré
+  tu: intentarás
+  vos: atentarás
+  ud: atentará
+  nosotros: atentaremos
+  vosotros: atentaréis
+  uds: atentarán
+condicional-simple:
+  yo: atentaría
+  tu: intentarías
+  vos: atentarías
+  ud: atentaría
+  nosotros: atentaríamos
+  vosotros: atentaríais
+  uds: atentarían
+presente-perfecto:
+  yo: he atentado
+  tu: has atentado
+  vos: has atentado
+  ud: ha atentado
+  nosotros: hemos atentado
+  vosotros: habéis atentado
+  uds: han atentado
+preterito-pluscuamperfecto:
+  yo: había atentado
+  tu: habías atentado
+  vos: habías atentado
+  ud: había atentado
+  nosotros: habíamos atentado
+  vosotros: habíais atentado
+  uds: habían atentado
+futuro-perfecto:
+  yo: habré atentado
+  tu: habrás atentado
+  vos: habrás atentado
+  ud: habrá atentado
+  nosotros: habremos atentado
+  vosotros: habréis atentado
+  uds: habrán atentado
+condicional-perfecto:
+  yo: habría atentado
+  tu: habrías atentado
+  vos: habrías atentado
+  ud: habría atentado
+  nosotros: habríamos atentado
+  vosotros: habríais atentado
+  uds: habrían atentado
+presente-subjuntivo:
+  yo: atente
+  tu: atentes
+  vos: atentes
+  ud: atente
+  nosotros: atentemos
+  vosotros: atentéis
+  uds: atenten
+preterito-perfecto-subjuntivo:
+  yo: haya atentado
+  tu: hayas atentado
+  vos: hayas atentado
+  ud: haya atentado
+  nosotros: hayamos atentado
+  vosotros: hayáis atentado
+  uds: hayan atentado
+imperfecto-subjuntivo:
+  yo:
+    - atentara
+    - atentase
+  tu:
+    - atentaras
+    - atentases
+  vos:
+    - atentaras
+    - atentases
+  ud:
+    - atentara
+    - atentase
+  nosotros:
+    - atentáramos
+    - atentásemos
+  vosotros:
+    - atentarais
+    - atentaseis
+  uds:
+    - atentaran
+    - atentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atentado
+    - hubiese atentado
+  tu:
+    - hubieras atentado
+    - hubieses atentado
+  vos:
+    - hubieras atentado
+    - hubieses atentado
+  ud:
+    - hubiera atentado
+    - hubiese atentado
+  nosotros:
+    - hubiéramos atentado
+    - hubiésemos atentado
+  vosotros:
+    - hubierais atentado
+    - hubieseis atentado
+  uds:
+    - hubieran atentado
+    - hubiesen atentado
+imperativo:
+  tu: atenta
+  vos: atentá
+  ud: atente
+  nosotros: atentemos
+  vosotros: atended
+  uds: atenten

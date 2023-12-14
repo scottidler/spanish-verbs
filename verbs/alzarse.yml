@@ -1,0 +1,142 @@
+infinitivo: alzarse
+gerundio: alzándose
+participio-pasado: alzado
+presente-indicativo:
+  yo: me alzo
+  tu: te alzas
+  vos: te alzás
+  ud: se alza
+  nosotros: nos alzamos
+  vosotros: os alzáis
+  uds: se alzan
+preterito-perfecto-simple:
+  yo: me alcé
+  tu: te alzaste
+  vos: te alzaste
+  ud: se alzó
+  nosotros: nos alzamos
+  vosotros: os alzasteis
+  uds: se alzaron
+preterito-imperfecto:
+  yo: me alzaba
+  tu: te alzabas
+  vos: te alzabas
+  ud: se alzaba
+  nosotros: nos alzámos
+  vosotros: os alzáis
+  uds: se alzaban
+futuro-simple:
+  yo: me alzaré
+  tu: te alzarás
+  vos: te alzarás
+  ud: se alzará
+  nosotros: nos alzaremos
+  vosotros: os alzaréis
+  uds: se alzarán
+condicional-simple:
+  yo: me alzaría
+  tu: te alzarías
+  vos: te alzarías
+  ud: se alzaría
+  nosotros: nos alzaríamos
+  vosotros: os alzaríais
+  uds: se alzarían
+presente-perfecto:
+  yo: me he alzado
+  tu: te has alzado
+  vos: te has alzado
+  ud: se ha alzado
+  nosotros: nos hemos alzado
+  vosotros: os habéis alzado
+  uds: se han alzado
+preterito-pluscuamperfecto:
+  yo: me había alzado
+  tu: te habías alzado
+  vos: te habías alzado
+  ud: se había alzado
+  nosotros: nos habíamos alzado
+  vosotros: os habíais alzado
+  uds: se habían alzado
+futuro-perfecto:
+  yo: me habré alzado
+  tu: te habrás alzado
+  vos: te habrás alzado
+  ud: se habrá alzado
+  nosotros: nos habremos alzado
+  vosotros: os habréis alzado
+  uds: se habrán alzado
+condicional-perfecto:
+  yo: me habría alzado
+  tu: te habrías alzado
+  vos: te habrías alzado
+  ud: se habría alzado
+  nosotros: nos habríamos alzado
+  vosotros: os habríais alzado
+  uds: se habrían alzado
+presente-subjuntivo:
+  yo: me alce
+  tu: te alces
+  vos: te alces
+  ud: se alce
+  nosotros: nos alcemos
+  vosotros: os alcéis
+  uds: se alcen
+preterito-perfecto-subjuntivo:
+  yo: me haya alzado
+  tu: te hayas alzado
+  vos: te hayas alzado
+  ud: se haya alzado
+  nosotros: nos hayamos alzado
+  vosotros: os hayáis alzado
+  uds: se hayan alzado
+imperfecto-subjuntivo:
+  yo:
+    - me alzara
+    - me alzase
+  tu:
+    - te alzaras
+    - te alzases
+  vos:
+    - te alzaras
+    - te alzases
+  ud:
+    - se alzara
+    - se alzase
+  nosotros:
+    - nos alzáramos
+    - nos alzásemos
+  vosotros:
+    - os alzarais
+    - os alzaseis
+  uds:
+    - se alzaran
+    - se alzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera alzado
+    - me hubiese alzado
+  tu:
+    - te hubieras alzado
+    - te hubieses alzado
+  vos:
+    - te hubieras alzado
+    - te hubieses alzado
+  ud:
+    - se hubiera alzado
+    - se hubiese alzado
+  nosotros:
+    - nos hubiéramos alzado
+    - nos hubiésemos alzado
+  vosotros:
+    - os hubierais alzado
+    - os hubieseis alzado
+  uds:
+    - se hubieran alzado
+    - se hubiesen alzado
+imperativo:
+  tu: álzate
+  vos: alzáte
+  ud: álzese
+  nosotros: alcémonos
+  vosotros: alzaos
+  uds: álcese

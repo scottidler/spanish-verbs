@@ -1,0 +1,142 @@
+infinitivo: bañarse
+gerundio: bañándose
+participio-pasado: bañado
+presente-indicativo:
+  yo: me baño
+  tu: te bañas
+  vos: te bañas
+  ud: se baña
+  nosotros: nos bañamos
+  vosotros: os bañáis
+  uds: se bañan
+preterito-perfecto-simple:
+  yo: me bañé
+  tu: te bañaste
+  vos: te bañaste
+  ud: se bañó
+  nosotros: nos bañamos
+  vosotros: os bañasteis
+  uds: se bañaron
+preterito-imperfecto:
+  yo: me bañaba
+  tu: te bañabas
+  vos: te bañabas
+  ud: se bañaba
+  nosotros: nos bañábamos
+  vosotros: os bañabais
+  uds: se bañaban
+futuro-simple:
+  yo: me bañaré
+  tu: te bañarás
+  vos: te bañarás
+  ud: se bañará
+  nosotros: nos bañaremos
+  vosotros: os bañaréis
+  uds: se bañarán
+condicional-simple:
+  yo: me bañaría
+  tu: te bañarías
+  vos: te bañarías
+  ud: se bañaría
+  nosotros: nos bañaríamos
+  vosotros: os bañaríais
+  uds: se bañarían
+presente-perfecto:
+  yo: me he bañado
+  tu: te has bañado
+  vos: te has bañado
+  ud: se ha bañado
+  nosotros: nos hemos bañado
+  vosotros: os habéis bañado
+  uds: se han bañado
+preterito-pluscuamperfecto:
+  yo: me había bañado
+  tu: te habías bañado
+  vos: te habías bañado
+  ud: se había bañado
+  nosotros: nos habíamos bañado
+  vosotros: os habíais bañado
+  uds: se habían bañado
+futuro-perfecto:
+  yo: me habré bañado
+  tu: te habrás bañado
+  vos: te habrás bañado
+  ud: se habrá bañado
+  nosotros: nos habremos bañado
+  vosotros: os habréis bañado
+  uds: se habrán bañado
+condicional-perfecto:
+  yo: me habría bañado
+  tu: te habrías bañado
+  vos: te habrías bañado
+  ud: se habría bañado
+  nosotros: nos habríamos bañado
+  vosotros: os habríais bañado
+  uds: se habrían bañado
+presente-subjuntivo:
+  yo: me bañe
+  tu: te bañes
+  vos: te bañes
+  ud: se bañe
+  nosotros: nos bañemos
+  vosotros: os bañéis
+  uds: se bañen
+preterito-perfecto-subjuntivo:
+  yo: me haya bañado
+  tu: te hayas bañado
+  vos: te hayas bañado
+  ud: se haya bañado
+  nosotros: nos hayamos bañado
+  vosotros: os hayáis bañado
+  uds: se hayan bañado
+imperfecto-subjuntivo:
+  yo:
+    - me bañara
+    - me bañase
+  tu:
+    - te bañaras
+    - te bañases
+  vos:
+    - te bañaras
+    - te bañases
+  ud:
+    - se bañara
+    - se bañase
+  nosotros:
+    - nos bañáramos
+    - nos bañásemos
+  vosotros:
+    - os bañarais
+    - os bañaseis
+  uds:
+    - se bañaran
+    - se bañasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera bañado
+    - me hubiese bañado
+  tu:
+    - te hubieras bañado
+    - te hubieses bañado
+  vos:
+    - te hubieras bañado
+    - te hubieses bañado
+  ud:
+    - se hubiera bañado
+    - se hubiese bañado
+  nosotros:
+    - nos hubiéramos bañado
+    - nos hubiésemos bañado
+  vosotros:
+    - os hubierais bañado
+    - os hubieseis bañado
+  uds:
+    - se hubieran bañado
+    - se hubiesen bañado
+imperativo:
+  tu: báñate
+  vos: bañate
+  ud: bañese
+  nosotros: bañémonos
+  vosotros: bañaos
+  uds: bañense

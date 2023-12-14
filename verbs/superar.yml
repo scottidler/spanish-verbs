@@ -1,0 +1,142 @@
+infinitivo: superar
+gerundio: superando
+participio-pasado: superado
+presente-indicativo:
+  yo: supero
+  tu: superas
+  vos: superas
+  ud: supera
+  nosotros: superamos
+  vosotros: superáis
+  uds: superan
+preterito-perfecto-simple:
+  yo: superé
+  tu: superaste
+  vos: superaste
+  ud: superó
+  nosotros: superamos
+  vosotros: superasteis
+  uds: superaron
+preterito-imperfecto:
+  yo: superaba
+  tu: superabas
+  vos: superabas
+  ud: superaba
+  nosotros: superábamos
+  vosotros: superabais
+  uds: superaban
+futuro-simple:
+  yo: superaré
+  tu: superarás
+  vos: superarás
+  ud: superará
+  nosotros: superaremos
+  vosotros: superaréis
+  uds: superarán
+condicional-simple:
+  yo: superaría
+  tu: superarías
+  vos: superarías
+  ud: superaría
+  nosotros: superaríamos
+  vosotros: superaríais
+  uds: superarían
+presente-perfecto:
+  yo: he superado
+  tu: has superado
+  vos: has superado
+  ud: ha superado
+  nosotros: hemos superado
+  vosotros: habéis superado
+  uds: han superado
+preterito-pluscuamperfecto:
+  yo: había superado
+  tu: habías superado
+  vos: habías superado
+  ud: había superado
+  nosotros: habíamos superado
+  vosotros: habíais superado
+  uds: habían superado
+futuro-perfecto:
+  yo: habré superado
+  tu: habrás superado
+  vos: habrás superado
+  ud: habrá superado
+  nosotros: habremos superado
+  vosotros: habréis superado
+  uds: habrán superado
+condicional-perfecto:
+  yo: habría superado
+  tu: habrías superado
+  vos: habrías superado
+  ud: habría superado
+  nosotros: habríamos superado
+  vosotros: habríais superado
+  uds: habrían superado
+presente-subjuntivo:
+  yo: supere
+  tu: superes
+  vos: superes
+  ud: supere
+  nosotros: superemos
+  vosotros: superéis
+  uds: superen
+preterito-perfecto-subjuntivo:
+  yo: haya superado
+  tu: hayas superado
+  vos: hayas superado
+  ud: haya superado
+  nosotros: hayamos superado
+  vosotros: hayáis superado
+  uds: hayan superado
+imperfecto-subjuntivo:
+  yo:
+    - superara
+    - superase
+  tu:
+    - superaras
+    - superases
+  vos:
+    - superaras
+    - superases
+  ud:
+    - superara
+    - superase
+  nosotros:
+    - superáramos
+    - superásemos
+  vosotros:
+    - superarais
+    - superaseis
+  uds:
+    - superaran
+    - superasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera superado
+    - hubiese superado
+  tu:
+    - hubieras superado
+    - hubieses superado
+  vos:
+    - hubieras superado
+    - hubieses superado
+  ud:
+    - hubiera superado
+    - hubiese superado
+  nosotros:
+    - hubiéramos superado
+    - hubiésemos superado
+  vosotros:
+    - hubierais superado
+    - hubieseis superado
+  uds:
+    - hubieran superado
+    - hubiesen superado
+imperativo:
+  tu: supera
+  vos: superá
+  ud: supere
+  nosotros: superemos
+  vosotros: superad
+  uds: superen

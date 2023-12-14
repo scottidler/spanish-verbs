@@ -1,0 +1,142 @@
+infinitivo: izar
+gerundio: izando
+participio-pasado: izado
+presente-indicativo:
+  yo: izo
+  tu: izas
+  vos: izas
+  ud: iza
+  nosotros: izamos
+  vosotros: izáis
+  uds: izan
+preterito-perfecto-simple:
+  yo: izé
+  tu: izaste
+  vos: izaste
+  ud: izó
+  nosotros: izamos
+  vosotros: izasteis
+  uds: izaron
+preterito-imperfecto:
+  yo: izaba
+  tu: izabas
+  vos: izabas
+  ud: izaba
+  nosotros: izábamos
+  vosotros: izabais
+  uds: izaban
+futuro-simple:
+  yo: izaré
+  tu: izarás
+  vos: izarás
+  ud: izará
+  nosotros: izaremos
+  vosotros: izaréis
+  uds: izarán
+condicional-simple:
+  yo: izaría
+  tu: izarías
+  vos: izarías
+  ud: izaría
+  nosotros: izaríamos
+  vosotros: izaríais
+  uds: izarían
+presente-perfecto:
+  yo: he izado
+  tu: has izado
+  vos: has izado
+  ud: ha izado
+  nosotros: hemos izado
+  vosotros: habéis izado
+  uds: han izado
+preterito-pluscuamperfecto:
+  yo: había izado
+  tu: habías izado
+  vos: habías izado
+  ud: había izado
+  nosotros: habíamos izado
+  vosotros: habíais izado
+  uds: habían izado
+futuro-perfecto:
+  yo: habré izado
+  tu: habrás izado
+  vos: habrás izado
+  ud: habrá izado
+  nosotros: habremos izado
+  vosotros: habréis izado
+  uds: habrán izado
+condicional-perfecto:
+  yo: habría izado
+  tu: habrías izado
+  vos: habrías izado
+  ud: habría izado
+  nosotros: habríamos izado
+  vosotros: habríais izado
+  uds: habrían izado
+presente-subjuntivo:
+  yo: ize
+  tu: izes
+  vos: izes
+  ud: ize
+  nosotros: izemos
+  vosotros: izéis
+  uds: izen
+preterito-perfecto-subjuntivo:
+  yo: haya izado
+  tu: hayas izado
+  vos: hayas izado
+  ud: haya izado
+  nosotros: hayamos izado
+  vosotros: hayáis izado
+  uds: hayan izado
+imperfecto-subjuntivo:
+  yo:
+    - izara
+    - izase
+  tu:
+    - izaras
+    - izases
+  vos:
+    - izaras
+    - izases
+  ud:
+    - izara
+    - izase
+  nosotros:
+    - izáramos
+    - izásemos
+  vosotros:
+    - izarais
+    - izaseis
+  uds:
+    - izaran
+    - izasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera izado
+    - hubiese izado
+  tu:
+    - hubieras izado
+    - hubieses izado
+  vos:
+    - hubieras izado
+    - hubieses izado
+  ud:
+    - hubiera izado
+    - hubiese izado
+  nosotros:
+    - hubiéramos izado
+    - hubiésemos izado
+  vosotros:
+    - hubierais izado
+    - hubieseis izado
+  uds:
+    - hubieran izado
+    - hubiesen izado
+imperativo:
+  tu: iza
+  vos: izá
+  ud: ize
+  nosotros: izemos
+  vosotros: izad
+  uds: izen

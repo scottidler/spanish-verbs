@@ -1,0 +1,142 @@
+infinitivo: extinguir
+gerundio: extinguiendo
+participio-pasado: extinguido
+presente-indicativo:
+  yo: extingo
+  tu: extingues
+  vos: extingues
+  ud: extingue
+  nosotros: extinguimos
+  vosotros: extinguís
+  uds: extinguen
+preterito-perfecto-simple:
+  yo: extinguí
+  tu: extinguiste
+  vos: extinguiste
+  ud: extinguió
+  nosotros: extinguimos
+  vosotros: extinguisteis
+  uds: extinguieron
+preterito-imperfecto:
+  yo: extinguía
+  tu: extinguías
+  vos: extinguías
+  ud: extinguía
+  nosotros: extinguíamos
+  vosotros: extinguíais
+  uds: extinguían
+futuro-simple:
+  yo: extinguiré
+  tu: extinguirás
+  vos: extinguirás
+  ud: extinguirá
+  nosotros: extinguiremos
+  vosotros: extinguiréis
+  uds: extinguirán
+condicional-simple:
+  yo: extinguiría
+  tu: extinguirías
+  vos: extinguirías
+  ud: extinguiría
+  nosotros: extinguiríamos
+  vosotros: extinguiríais
+  uds: extinguirían
+presente-perfecto:
+  yo: he extinguido
+  tu: has extinguido
+  vos: has extinguido
+  ud: ha extinguido
+  nosotros: hemos extinguido
+  vosotros: habéis extinguido
+  uds: han extinguido
+preterito-pluscuamperfecto:
+  yo: había extinguido
+  tu: habías extinguido
+  vos: habías extinguido
+  ud: había extinguido
+  nosotros: habíamos extinguido
+  vosotros: habíais extinguido
+  uds: habían extinguido
+futuro-perfecto:
+  yo: habré extinguido
+  tu: habrás extinguido
+  vos: habrás extinguido
+  ud: habrá extinguido
+  nosotros: habremos extinguido
+  vosotros: habréis extinguido
+  uds: habrán extinguido
+condicional-perfecto:
+  yo: habría extinguido
+  tu: habrías extinguido
+  vos: habrías extinguido
+  ud: habría extinguido
+  nosotros: habríamos extinguido
+  vosotros: habríais extinguido
+  uds: habrían extinguido
+presente-subjuntivo:
+  yo: extinga
+  tu: extingas
+  vos: extingas
+  ud: extinga
+  nosotros: extingamos
+  vosotros: extingáis
+  uds: extingan
+preterito-perfecto-subjuntivo:
+  yo: haya extinguido
+  tu: hayas extinguido
+  vos: hayas extinguido
+  ud: haya extinguido
+  nosotros: hayamos extinguido
+  vosotros: hayáis extinguido
+  uds: hayan extinguido
+imperfecto-subjuntivo:
+  yo:
+    - extinguiera
+    - extinguese
+  tu:
+    - extinguieras
+    - extingueses
+  vos:
+    - extinguieras
+    - extingueses
+  ud:
+    - extinguiera
+    - extinguese
+  nosotros:
+    - extinguiéramos
+    - extinguiésemos
+  vosotros:
+    - extinguierais
+    - extingueseis
+  uds:
+    - extinguieran
+    - extinguesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera extinguido
+    - hubiese extinguido
+  tu:
+    - hubieras extinguido
+    - hubieses extinguido
+  vos:
+    - hubieras extinguido
+    - hubieses extinguido
+  ud:
+    - hubiera extinguido
+    - hubiese extinguido
+  nosotros:
+    - hubiéramos extinguido
+    - hubiésemos extinguido
+  vosotros:
+    - hubierais extinguido
+    - hubieseis extinguido
+  uds:
+    - hubieran extinguido
+    - hubiesen extinguido
+imperativo:
+  tu: extingue
+  vos: extinguí
+  ud: extinga
+  nosotros: extingamos
+  vosotros: extinguid
+  uds: extingan

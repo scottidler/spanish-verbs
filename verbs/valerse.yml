@@ -1,0 +1,156 @@
+infinitivo: valerse
+gerundio: valiéndose
+participio-pasado: valido
+
+presente-indicativo:
+  yo: me valgo
+  tu: te vales
+  vos: te vales
+  ud: se vale
+  nosotros: nos valemos
+  vosotros: os valéis
+  uds: se valen
+
+preterito-perfecto-simple:
+  yo: me valí
+  tu: te valiste
+  vos: te valiste
+  ud: se valió
+  nosotros: nos validos
+  vosotros: os valisteis
+  uds: se valieron
+
+preterito-imperfecto:
+  yo: me valía
+  tu: te valías
+  vos: te valías
+  ud: se valía
+  nosotros: nos valíamos
+  vosotros: os valíais
+  uds: se valían
+
+futuro-simple:
+  yo: me valdré
+  tu: te valdrás
+  vos: te valdrás
+  ud: se valdrá
+  nosotros: nos valdremos
+  vosotros: os valdréis
+  uds: se valdrán
+
+condicional-simple:
+  yo: me valdría
+  tu: te valdrías
+  vos: te valdrías
+  ud: se valdría
+  nosotros: nos valdríamos
+  vosotros: os valdríais
+  uds: se valdrían
+
+presente-perfecto:
+  yo: me he valido
+  tu: te has valido
+  vos: te has valido
+  ud: se ha valido
+  nosotros: nos hemos valido
+  vosotros: os habéis valido
+  uds: se han valido
+
+preterito-pluscuamperfecto:
+  yo: me había valido
+  tu: te habías valido
+  vos: te habías valido
+  ud: se había valido
+  nosotros: nos habíamos valido
+  vosotros: os habíais valido
+  uds: se habían valido
+
+futuro-perfecto:
+  yo: me habré valido
+  tu: te habrás valido
+  vos: te habrás valido
+  ud: se habrá valido
+  nosotros: nos habremos valido
+  vosotros: os habréis valido
+  uds: se habrán valido
+
+condicional-perfecto:
+  yo: me habría valido
+  tu: te habrías valido
+  vos: te habrías valido
+  ud: se habría valido
+  nosotros: nos habríamos valido
+  vosotros: os habríais valido
+  uds: se habrían valido
+
+presente-subjuntivo:
+  yo: me valga
+  tu: te valgas
+  vos: te valgas
+  ud: se valga
+  nosotros: nos valgamos
+  vosotros: os valgáis
+  uds: se valgan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya valido
+  tu: te hayas valido
+  vos: te hayas valido
+  ud: se haya valido
+  nosotros: nos hayamos valido
+  vosotros: os hayáis valido
+  uds: se hayan valido
+
+imperfecto-subjuntivo:
+  yo:
+    - me valiera
+    - me valiese
+  tu:
+    - te valieras
+    - te valieses
+  vos:
+    - te valieras
+    - te valieses
+  ud:
+    - se valiera
+    - se valiese
+  nosotros:
+    - nos valiéramos
+    - nos valiésemos
+  vosotros:
+    - os valierais
+    - os valieseis
+  uds:
+    - se valieran
+    - se valiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera valido
+    - me hubiese valido
+  tu:
+    - te hubieras valido
+    - te hubieses valido
+  vos:
+    - te hubieras valido
+    - te hubieses valido
+  ud:
+    - se hubiera valido
+    - se hubiese valido
+  nosotros:
+    - nos hubiéramos valido
+    - nos hubiésemos valido
+  vosotros:
+    - os hubierais valido
+    - os hubieseis valido
+  uds:
+    - se hubieran valido
+    - se hubiesen valido
+
+imperativo:
+  tu: valételo
+  vos: valételo
+  ud: válase
+  nosotros: valgámonos
+  vosotros: valedlos
+  uds: váyanse

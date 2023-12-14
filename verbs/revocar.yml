@@ -1,0 +1,142 @@
+infinitivo: revocar
+gerundio: revocando
+participio-pasado: revocado
+presente-indicativo:
+  yo: revoco
+  tu: revocas
+  vos: revocas
+  ud: revoca
+  nosotros: revocamos
+  vosotros: revocáis
+  uds: revocan
+preterito-perfecto-simple:
+  yo: revoqué
+  tu: revocaste
+  vos: revocaste
+  ud: revocó
+  nosotros: revocamos
+  vosotros: revocasteis
+  uds: revocaron
+preterito-imperfecto:
+  yo: revocaba
+  tu: revocabas
+  vos: revocabas
+  ud: revocaba
+  nosotros: revocábamos
+  vosotros: revocabais
+  uds: revocaban
+futuro-simple:
+  yo: revocaré
+  tu: revocarás
+  vos: revocarás
+  ud: revocará
+  nosotros: revocaremos
+  vosotros: revocaréis
+  uds: revocarán
+condicional-simple:
+  yo: revocaría
+  tu: revocarías
+  vos: revocarías
+  ud: revocaría
+  nosotros: revocaríamos
+  vosotros: revocaríais
+  uds: revocarían
+presente-perfecto:
+  yo: he revocado
+  tu: has revocado
+  vos: has revocado
+  ud: ha revocado
+  nosotros: hemos revocado
+  vosotros: habéis revocado
+  uds: han revocado
+preterito-pluscuamperfecto:
+  yo: había revocado
+  tu: habías revocado
+  vos: habías revocado
+  ud: había revocado
+  nosotros: habíamos revocado
+  vosotros: habíais revocado
+  uds: habían revocado
+futuro-perfecto:
+  yo: habré revocado
+  tu: habrás revocado
+  vos: habrás revocado
+  ud: habrá revocado
+  nosotros: habremos revocado
+  vosotros: habréis revocado
+  uds: habrán revocado
+condicional-perfecto:
+  yo: habría revocado
+  tu: habrías revocado
+  vos: habrías revocado
+  ud: habría revocado
+  nosotros: habríamos revocado
+  vosotros: habríais revocado
+  uds: habrían revocado
+presente-subjuntivo:
+  yo: revoque
+  tu: revoques
+  vos: revoques
+  ud: revoque
+  nosotros: revoquemos
+  vosotros: revocéis
+  uds: revoquen
+preterito-perfecto-subjuntivo:
+  yo: haya revocado
+  tu: hayas revocado
+  vos: hayas revocado
+  ud: haya revocado
+  nosotros: hayamos revocado
+  vosotros: hayáis revocado
+  uds: hayan revocado
+imperfecto-subjuntivo:
+  yo:
+    - revocara
+    - revocase
+  tu:
+    - revocaras
+    - revocases
+  vos:
+    - revocaras
+    - revocases
+  ud:
+    - revocara
+    - revocase
+  nosotros:
+    - revocáramos
+    - revocásemos
+  vosotros:
+    - revocarais
+    - revocaseis
+  uds:
+    - revocaran
+    - revocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera revocado
+    - hubiese revocado
+  tu:
+    - hubieras revocado
+    - hubieses revocado
+  vos:
+    - hubieras revocado
+    - hubieses revocado
+  ud:
+    - hubiera revocado
+    - hubiese revocado
+  nosotros:
+    - hubiéramos revocado
+    - hubiésemos revocado
+  vosotros:
+    - hubierais revocado
+    - hubieseis revocado
+  uds:
+    - hubieran revocado
+    - hubiesen revocado
+imperativo:
+  tu: revoca
+  vos: revocá
+  ud: revoque
+  nosotros: revoquemos
+  vosotros: revocad
+  uds: revoquen

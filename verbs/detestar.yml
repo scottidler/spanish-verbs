@@ -1,0 +1,142 @@
+infinitivo: detestar
+gerundio: detestando
+participio-pasado: detestado
+presente-indicativo:
+  yo: detesto
+  tu: detestas
+  vos: detestas
+  ud: detesta
+  nosotros: detestamos
+  vosotros: detestáis
+  uds: detestan
+preterito-perfecto-simple:
+  yo: detesté
+  tu: detestaste
+  vos: detestaste
+  ud: detestó
+  nosotros: detestamos
+  vosotros: detestasteis
+  uds: detestaron
+preterito-imperfecto:
+  yo: detestaba
+  tu: detestabas
+  vos: detestabas
+  ud: detestaba
+  nosotros: detestábamos
+  vosotros: detestabais
+  uds: detestaban
+futuro-simple:
+  yo: detestaré
+  tu: detestarás
+  vos: detestarás
+  ud: detestará
+  nosotros: detestaremos
+  vosotros: detestaréis
+  uds: detestarán
+condicional-simple:
+  yo: detestaría
+  tu: detestarías
+  vos: detestarías
+  ud: detestaría
+  nosotros: detestaríamos
+  vosotros: detestaríais
+  uds: detestarían
+presente-perfecto:
+  yo: he detestado
+  tu: has detestado
+  vos: has detestado
+  ud: ha detestado
+  nosotros: hemos detestado
+  vosotros: habéis detestado
+  uds: han detestado
+preterito-pluscuamperfecto:
+  yo: había detestado
+  tu: habías detestado
+  vos: habías detestado
+  ud: había detestado
+  nosotros: habíamos detestado
+  vosotros: habíais detestado
+  uds: habían detestado
+futuro-perfecto:
+  yo: habré detestado
+  tu: habrás detestado
+  vos: habrás detestado
+  ud: habrá detestado
+  nosotros: habremos detestado
+  vosotros: habréis detestado
+  uds: habrán detestado
+condicional-perfecto:
+  yo: habría detestado
+  tu: habrías detestado
+  vos: habrías detestado
+  ud: habría detestado
+  nosotros: habríamos detestado
+  vosotros: habríais detestado
+  uds: habrían detestado
+presente-subjuntivo:
+  yo: deteste
+  tu: detestes
+  vos: detestes
+  ud: deteste
+  nosotros: detestemos
+  vosotros: detestéis
+  uds: detesten
+preterito-perfecto-subjuntivo:
+  yo: haya detestado
+  tu: hayas detestado
+  vos: hayas detestado
+  ud: haya detestado
+  nosotros: hayamos detestado
+  vosotros: hayáis detestado
+  uds: hayan detestado
+imperfecto-subjuntivo:
+  yo:
+    - detestara
+    - detestase
+  tu:
+    - detestaras
+    - detestases
+  vos:
+    - detestaras
+    - detestases
+  ud:
+    - detestara
+    - detestase
+  nosotros:
+    - detestáramos
+    - detestásemos
+  vosotros:
+    - detestarais
+    - detestaseis
+  uds:
+    - detestaran
+    - detestasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera detestado
+    - hubiese detestado
+  tu:
+    - hubieras detestado
+    - hubieses detestado
+  vos:
+    - hubieras detestado
+    - hubieses detestado
+  ud:
+    - hubiera detestado
+    - hubiese detestado
+  nosotros:
+    - hubiéramos detestado
+    - hubiésemos detestado
+  vosotros:
+    - hubierais detestado
+    - hubieseis detestado
+  uds:
+    - hubieran detestado
+    - hubiesen detestado
+imperativo:
+  tu: detesta
+  vos: detestá
+  ud: deteste
+  nosotros: detestemos
+  vosotros: detestad
+  uds: detesten

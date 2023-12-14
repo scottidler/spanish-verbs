@@ -1,0 +1,142 @@
+infinitivo: repasar
+gerundio: repasando
+participio-pasado: repasado
+presente-indicativo:
+  yo: repaso
+  tu: repasas
+  vos: repasas
+  ud: repasa
+  nosotros: repasamos
+  vosotros: repasáis
+  uds: repasan
+preterito-perfecto-simple:
+  yo: repasé
+  tu: repasaste
+  vos: repasaste
+  ud: repasó
+  nosotros: repasamos
+  vosotros: repasasteis
+  uds: repasaron
+preterito-imperfecto:
+  yo: repasaba
+  tu: repasabas
+  vos: repasabas
+  ud: repasaba
+  nosotros: repasábamos
+  vosotros: repasabais
+  uds: repasaban
+futuro-simple:
+  yo: repasaré
+  tu: repasarás
+  vos: repasarás
+  ud: repasará
+  nosotros: repasaremos
+  vosotros: repasaréis
+  uds: repasarán
+condicional-simple:
+  yo: repasaría
+  tu: repasarías
+  vos: repasarías
+  ud: repasaría
+  nosotros: repasaríamos
+  vosotros: repasaríais
+  uds: repasarían
+presente-perfecto:
+  yo: he repasado
+  tu: has repasado
+  vos: has repasado
+  ud: ha repasado
+  nosotros: hemos repasado
+  vosotros: habéis repasado
+  uds: han repasado
+preterito-pluscuamperfecto:
+  yo: había repasado
+  tu: habías repasado
+  vos: habías repasado
+  ud: había repasado
+  nosotros: habíamos repasado
+  vosotros: habíais repasado
+  uds: habían repasado
+futuro-perfecto:
+  yo: habré repasado
+  tu: habrás repasado
+  vos: habrás repasado
+  ud: habrá repasado
+  nosotros: habremos repasado
+  vosotros: habréis repasado
+  uds: habrán repasado
+condicional-perfecto:
+  yo: habría repasado
+  tu: habrías repasado
+  vos: habrías repasado
+  ud: habría repasado
+  nosotros: habríamos repasado
+  vosotros: habríais repasado
+  uds: habrían repasado
+presente-subjuntivo:
+  yo: repase
+  tu: repases
+  vos: repases
+  ud: repase
+  nosotros: repasemos
+  vosotros: repaséis
+  uds: repasen
+preterito-perfecto-subjuntivo:
+  yo: haya repasado
+  tu: hayas repasado
+  vos: hayas repasado
+  ud: haya repasado
+  nosotros: hayamos repasado
+  vosotros: hayáis repasado
+  uds: hayan repasado
+imperfecto-subjuntivo:
+  yo:
+    - repasara
+    - repasase
+  tu:
+    - repasaras
+    - repasases
+  vos:
+    - repasaras
+    - repasases
+  ud:
+    - repasara
+    - repasase
+  nosotros:
+    - repasáramos
+    - repasásemos
+  vosotros:
+    - repasarais
+    - repasaseis
+  uds:
+    - repasaran
+    - repasasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera repasado
+    - hubiese repasado
+  tu:
+    - hubieras repasado
+    - hubieses repasado
+  vos:
+    - hubieras repasado
+    - hubieses repasado
+  ud:
+    - hubiera repasado
+    - hubiese repasado
+  nosotros:
+    - hubiéramos repasado
+    - hubiésemos repasado
+  vosotros:
+    - hubierais repasado
+    - hubieseis repasado
+  uds:
+    - hubieran repasado
+    - hubiesen repasado
+imperativo:
+  tu: repasa
+  vos: repasá
+  ud: repase
+  nosotros: repasemos
+  vosotros: repasad
+  uds: repasen

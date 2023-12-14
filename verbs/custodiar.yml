@@ -1,0 +1,142 @@
+infinitivo: custodiar
+gerundio: custodiando
+participio-pasado: custodiado
+presente-indicativo:
+  yo: custodio
+  tu: custodias
+  vos: custodias
+  ud: custodia
+  nosotros: custodiamos
+  vosotros: custodiáis
+  uds: custodian
+preterito-perfecto-simple:
+  yo: custodié
+  tu: custodiaste
+  vos: custodiaste
+  ud: custodió
+  nosotros: custodiamos
+  vosotros: custodiasteis
+  uds: custodiaron
+preterito-imperfecto:
+  yo: custodiaba
+  tu: custodiabas
+  vos: custodiabas
+  ud: custodiaba
+  nosotros: custodiábamos
+  vosotros: custodiabais
+  uds: custodiaban
+futuro-simple:
+  yo: custodiaré
+  tu: custodiarás
+  vos: custodiarás
+  ud: custodiará
+  nosotros: custodiaremos
+  vosotros: custodiaréis
+  uds: custodiarán
+condicional-simple:
+  yo: custodiaría
+  tu: custodiarías
+  vos: custodiarías
+  ud: custodiaría
+  nosotros: custodiaríamos
+  vosotros: custodiaríais
+  uds: custodiarían
+presente-perfecto:
+  yo: he custodiado
+  tu: has custodiado
+  vos: has custodiado
+  ud: ha custodiado
+  nosotros: hemos custodiado
+  vosotros: habéis custodiado
+  uds: han custodiado
+preterito-pluscuamperfecto:
+  yo: había custodiado
+  tu: habías custodiado
+  vos: habías custodiado
+  ud: había custodiado
+  nosotros: habíamos custodiado
+  vosotros: habíais custodiado
+  uds: habían custodiado
+futuro-perfecto:
+  yo: habré custodiado
+  tu: habrás custodiado
+  vos: habrás custodiado
+  ud: habrá custodiado
+  nosotros: habremos custodiado
+  vosotros: habréis custodiado
+  uds: habrán custodiado
+condicional-perfecto:
+  yo: habría custodiado
+  tu: habrías custodiado
+  vos: habrías custodiado
+  ud: habría custodiado
+  nosotros: habríamos custodiado
+  vosotros: habríais custodiado
+  uds: habrían custodiado
+presente-subjuntivo:
+  yo: custodie
+  tu: custodies
+  vos: custodies
+  ud: custodie
+  nosotros: custodiemos
+  vosotros: custodiéis
+  uds: custodien
+preterito-perfecto-subjuntivo:
+  yo: haya custodiado
+  tu: hayas custodiado
+  vos: hayas custodiado
+  ud: haya custodiado
+  nosotros: hayamos custodiado
+  vosotros: hayáis custodiado
+  uds: hayan custodiado
+imperfecto-subjuntivo:
+  yo:
+    - custodiara
+    - custodiase
+  tu:
+    - custodiaras
+    - custodiases
+  vos:
+    - custodiaras
+    - custodiases
+  ud:
+    - custodiara
+    - custodiase
+  nosotros:
+    - custodiáramos
+    - custodiásemos
+  vosotros:
+    - custodiarais
+    - custodiaseis
+  uds:
+    - custodiaran
+    - custodiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera custodiado
+    - hubiese custodiado
+  tu:
+    - hubieras custodiado
+    - hubieses custodiado
+  vos:
+    - hubieras custodiado
+    - hubieses custodiado
+  ud:
+    - hubiera custodiado
+    - hubiese custodiado
+  nosotros:
+    - hubiéramos custodiado
+    - hubiésemos custodiado
+  vosotros:
+    - hubierais custodiado
+    - hubieseis custodiado
+  uds:
+    - hubieran custodiado
+    - hubiesen custodiado
+imperativo:
+  tu: custodia
+  vos: custodiá
+  ud: custodie
+  nosotros: custodiemos
+  vosotros: custodiad
+  uds: custodien

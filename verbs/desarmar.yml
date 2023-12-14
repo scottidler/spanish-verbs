@@ -1,0 +1,142 @@
+infinitivo: desarmar
+gerundio: desarmando
+participio-pasado: desarmado
+presente-indicativo:
+  yo: desarmo
+  tu: desarmas
+  vos: desarmás
+  ud: desarma
+  nosotros: desarmamos
+  vosotros: desarmáis
+  uds: desarman
+preterito-perfecto-simple:
+  yo: desarmé
+  tu: desarmaste
+  vos: desarmaste
+  ud: desarmó
+  nosotros: desarmamos
+  vosotros: desarmasteis
+  uds: desarmaron
+preterito-imperfecto:
+  yo: desarmaba
+  tu: desarmabas
+  vos: desarmabas
+  ud: desarmaba
+  nosotros: desarmábamos
+  vosotros: desarmabais
+  uds: desarmaban
+futuro-simple:
+  yo: desarmaré
+  tu: desarmarás
+  vos: desarmarás
+  ud: desarmará
+  nosotros: desarmaremos
+  vosotros: desarmaréis
+  uds: desarmarán
+condicional-simple:
+  yo: desarmaría
+  tu: desarmarías
+  vos: desarmarías
+  ud: desarmaría
+  nosotros: desarmaríamos
+  vosotros: desarmaríais
+  uds: desarmarían
+presente-perfecto:
+  yo: he desarmado
+  tu: has desarmado
+  vos: has desarmado
+  ud: ha desarmado
+  nosotros: hemos desarmado
+  vosotros: habéis desarmado
+  uds: han desarmado
+preterito-pluscuamperfecto:
+  yo: había desarmado
+  tu: habías desarmado
+  vos: habías desarmado
+  ud: había desarmado
+  nosotros: habíamos desarmado
+  vosotros: habíais desarmado
+  uds: habían desarmado
+futuro-perfecto:
+  yo: habré desarmado
+  tu: habrás desarmado
+  vos: habrás desarmado
+  ud: habrá desarmado
+  nosotros: habremos desarmado
+  vosotros: habréis desarmado
+  uds: habrán desarmado
+condicional-perfecto:
+  yo: habría desarmado
+  tu: habrías desarmado
+  vos: habrías desarmado
+  ud: habría desarmado
+  nosotros: habríamos desarmado
+  vosotros: habríais desarmado
+  uds: habrían desarmado
+presente-subjuntivo:
+  yo: desarme
+  tu: desarmes
+  vos: desarmes
+  ud: desarme
+  nosotros: desarmemos
+  vosotros: desarméis
+  uds: desarmen
+preterito-perfecto-subjuntivo:
+  yo: haya desarmado
+  tu: hayas desarmado
+  vos: hayas desarmado
+  ud: haya desarmado
+  nosotros: hayamos desarmado
+  vosotros: hayáis desarmado
+  uds: hayan desarmado
+imperfecto-subjuntivo:
+  yo:
+    - desarmara
+    - desarmase
+  tu:
+    - desarmaras
+    - desarmases
+  vos:
+    - desarmaras
+    - desarmases
+  ud:
+    - desarmara
+    - desarmase
+  nosotros:
+    - desarmáramos
+    - desarmásemos
+  vosotros:
+    - desarmarais
+    - desarmaseis
+  uds:
+    - desarmaran
+    - desarmasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desarmado
+    - hubiese desarmado
+  tu:
+    - hubieras desarmado
+    - hubieses desarmado
+  vos:
+    - hubieras desarmado
+    - hubieses desarmado
+  ud:
+    - hubiera desarmado
+    - hubiese desarmado
+  nosotros:
+    - hubiéramos desarmado
+    - hubiésemos desarmado
+  vosotros:
+    - hubierais desarmado
+    - hubieseis desarmado
+  uds:
+    - hubieran desarmado
+    - hubiesen desarmado
+imperativo:
+  tu: desarma
+  vos: desarmá
+  ud: desarme
+  nosotros: desarmemos
+  vosotros: desarmad
+  uds: desarmen

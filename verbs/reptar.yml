@@ -1,0 +1,142 @@
+infinitivo: reptar
+gerundio: reptando
+participio-pasado: reptado
+presente-indicativo:
+  yo: repto
+  tu: reptas
+  vos: reptas
+  ud: repta
+  nosotros: reptamos
+  vosotros: reptáis
+  uds: reptan
+preterito-perfecto-simple:
+  yo: repté
+  tu: reptaste
+  vos: reptaste
+  ud: reptó
+  nosotros: reptamos
+  vosotros: reptasteis
+  uds: reptaron
+preterito-imperfecto:
+  yo: reptaba
+  tu: reptabas
+  vos: reptabas
+  ud: reptaba
+  nosotros: reptábamos
+  vosotros: reptabais
+  uds: reptaban
+futuro-simple:
+  yo: reptaré
+  tu: reptarás
+  vos: reptarás
+  ud: reptará
+  nosotros: reptaremos
+  vosotros: reptaréis
+  uds: reptarán
+condicional-simple:
+  yo: reptaría
+  tu: reptarías
+  vos: reptarías
+  ud: reptaría
+  nosotros: reptaríamos
+  vosotros: reptaríais
+  uds: reptarían
+presente-perfecto:
+  yo: he reptado
+  tu: has reptado
+  vos: has reptado
+  ud: ha reptado
+  nosotros: hemos reptado
+  vosotros: habéis reptado
+  uds: han reptado
+preterito-pluscuamperfecto:
+  yo: había reptado
+  tu: habías reptado
+  vos: habías reptado
+  ud: había reptado
+  nosotros: habíamos reptado
+  vosotros: habíais reptado
+  uds: habían reptado
+futuro-perfecto:
+  yo: habré reptado
+  tu: habrás reptado
+  vos: habrás reptado
+  ud: habrá reptado
+  nosotros: habremos reptado
+  vosotros: habréis reptado
+  uds: habrán reptado
+condicional-perfecto:
+  yo: habría reptado
+  tu: habrías reptado
+  vos: habrías reptado
+  ud: habría reptado
+  nosotros: habríamos reptado
+  vosotros: habríais reptado
+  uds: habrían reptado
+presente-subjuntivo:
+  yo: repta
+  tu: reptas
+  vos: reptas
+  ud: repta
+  nosotros: reptamos
+  vosotros: reptáis
+  uds: reptan
+preterito-perfecto-subjuntivo:
+  yo: haya reptado
+  tu: hayas reptado
+  vos: hayas reptado
+  ud: haya reptado
+  nosotros: hayamos reptado
+  vosotros: hayáis reptado
+  uds: hayan reptado
+imperfecto-subjuntivo:
+  yo:
+    - reptara
+    - reptase
+  tu:
+    - reptaras
+    - reptases
+  vos:
+    - reptaras
+    - reptases
+  ud:
+    - reptara
+    - reptase
+  nosotros:
+    - reptáramos
+    - reptásemos
+  vosotros:
+    - reptarais
+    - reptaseis
+  uds:
+    - reptaran
+    - reptasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reptado
+    - hubiese reptado
+  tu:
+    - hubieras reptado
+    - hubieses reptado
+  vos:
+    - hubieras reptado
+    - hubieses reptado
+  ud:
+    - hubiera reptado
+    - hubiese reptado
+  nosotros:
+    - hubiéramos reptado
+    - hubiésemos reptado
+  vosotros:
+    - hubierais reptado
+    - hubieseis reptado
+  uds:
+    - hubieran reptado
+    - hubiesen reptado
+imperativo:
+  tu: repta
+  vos: reptá
+  ud: repta
+  nosotros: reptamos
+  vosotros: reptad
+  uds: reptan

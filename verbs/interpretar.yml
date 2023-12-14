@@ -1,0 +1,142 @@
+infinitivo: interpretar
+gerundio: interpretando
+participio-pasado: interpretado
+presente-indicativo:
+  yo: interpreto
+  tu: interpretas
+  vos: interpretas
+  ud: interpreta
+  nosotros: interpretamos
+  vosotros: interpretáis
+  uds: interpretan
+preterito-perfecto-simple:
+  yo: interpreté
+  tu: interpretaste
+  vos: interpretaste
+  ud: interpretó
+  nosotros: interpretamos
+  vosotros: interpretasteis
+  uds: interpretaron
+preterito-imperfecto:
+  yo: interpretaba
+  tu: interpretabas
+  vos: interpretabas
+  ud: interpretaba
+  nosotros: interpretabamos
+  vosotros: interpretabais
+  uds: interpretaban
+futuro-simple:
+  yo: interpretaré
+  tu: interpretarás
+  vos: interpretarás
+  ud: interpretará
+  nosotros: interpretaremos
+  vosotros: interpretaréis
+  uds: interpretarán
+condicional-simple:
+  yo: interpretaría
+  tu: interpretarías
+  vos: interpretarías
+  ud: interpretaría
+  nosotros: interpretaríamos
+  vosotros: interpretaríais
+  uds: interpretarían
+presente-perfecto:
+  yo: he interpretado
+  tu: has interpretado
+  vos: has interpretado
+  ud: ha interpretado
+  nosotros: hemos interpretado
+  vosotros: habéis interpretado
+  uds: han interpretado
+preterito-pluscuamperfecto:
+  yo: había interpretado
+  tu: habías interpretado
+  vos: habías interpretado
+  ud: había interpretado
+  nosotros: habíamos interpretado
+  vosotros: habíais interpretado
+  uds: habían interpretado
+futuro-perfecto:
+  yo: habré interpretado
+  tu: habrás interpretado
+  vos: habrás interpretado
+  ud: habrá interpretado
+  nosotros: habremos interpretado
+  vosotros: habréis interpretado
+  uds: habrán interpretado
+condicional-perfecto:
+  yo: habría interpretado
+  tu: habrías interpretado
+  vos: habrías interpretado
+  ud: habría interpretado
+  nosotros: habríamos interpretado
+  vosotros: habríais interpretado
+  uds: habrían interpretado
+presente-subjuntivo:
+  yo: interprete
+  tu: interpretes
+  vos: interpretes
+  ud: interprete
+  nosotros: interpretemos
+  vosotros: interpreteis
+  uds: interpreten
+preterito-perfecto-subjuntivo:
+  yo: haya interpretado
+  tu: hayas interpretado
+  vos: hayas interpretado
+  ud: haya interpretado
+  nosotros: hayamos interpretado
+  vosotros: hayáis interpretado
+  uds: hayan interpretado
+imperfecto-subjuntivo:
+  yo:
+    - interpretara
+    - interpretase
+  tu:
+    - interpretaras
+    - interpretases
+  vos:
+    - interpretaras
+    - interpretases
+  ud:
+    - interpretara
+    - interpretase
+  nosotros:
+    - interpretáramos
+    - interpretásemos
+  vosotros:
+    - interpretarais
+    - interpretaseis
+  uds:
+    - interpretaran
+    - interpretasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera interpretado
+    - hubiese interpretado
+  tu:
+    - hubieras interpretado
+    - hubieses interpretado
+  vos:
+    - hubieras interpretado
+    - hubieses interpretado
+  ud:
+    - hubiera interpretado
+    - hubiese interpretado
+  nosotros:
+    - hubiéramos interpretado
+    - hubiésemos interpretado
+  vosotros:
+    - hubierais interpretado
+    - hubieseis interpretado
+  uds:
+    - hubieran interpretado
+    - hubiesen interpretado
+imperativo:
+  tu: interpreta
+  vos: interpreta
+  ud: interprete
+  nosotros: interpretemos
+  vosotros: interpretad
+  uds: interpreten

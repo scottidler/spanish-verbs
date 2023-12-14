@@ -1,0 +1,142 @@
+infinitivo: apoderarse
+gerundio: apoderándose
+participio-pasado: apoderado
+presente-indicativo:
+  yo: me apodero
+  tu: te apoderas
+  vos: te apoderas
+  ud: se apodera
+  nosotros: nos apoderamos
+  vosotros: os apoderáis
+  uds: se apoderan
+preterito-perfecto-simple:
+  yo: me apoderé
+  tu: te apoderaste
+  vos: te apoderaste
+  ud: se apoderó
+  nosotros: nos apoderamos
+  vosotros: os apoderasteis
+  uds: se apoderaron
+preterito-imperfecto:
+  yo: me apoderaba
+  tu: te apoderabas
+  vos: te apoderabas
+  ud: se apoderaba
+  nosotros: nos apoderábamos
+  vosotros: os apoderabais
+  uds: se apoderaban
+futuro-simple:
+  yo: me apoderaré
+  tu: te apoderarás
+  vos: te apoderarás
+  ud: se apoderará
+  nosotros: nos apoderaremos
+  vosotros: os apoderaréis
+  uds: se apoderarán
+condicional-simple:
+  yo: me apoderaría
+  tu: te apoderarías
+  vos: te apoderarías
+  ud: se apoderaría
+  nosotros: nos apoderaríamos
+  vosotros: os apoderaríais
+  uds: se apoderarían
+presente-perfecto:
+  yo: me he apoderado
+  tu: te has apoderado
+  vos: te has apoderado
+  ud: se ha apoderado
+  nosotros: nos hemos apoderado
+  vosotros: os habéis apoderado
+  uds: se han apoderado
+preterito-pluscuamperfecto:
+  yo: me había apoderado
+  tu: te habías apoderado
+  vos: te habías apoderado
+  ud: se había apoderado
+  nosotros: nos habíamos apoderado
+  vosotros: os habíais apoderado
+  uds: se habían apoderado
+futuro-perfecto:
+  yo: me habré apoderado
+  tu: te habrás apoderado
+  vos: te habrás apoderado
+  ud: se habrá apoderado
+  nosotros: nos habremos apoderado
+  vosotros: os habréis apoderado
+  uds: se habrán apoderado
+condicional-perfecto:
+  yo: me habría apoderado
+  tu: te habrías apoderado
+  vos: te habrías apoderado
+  ud: se habría apoderado
+  nosotros: nos habríamos apoderado
+  vosotros: os habríais apoderado
+  uds: se habrían apoderado
+presente-subjuntivo:
+  yo: me apodere
+  tu: te apoderes
+  vos: te apoderes
+  ud: se apodere
+  nosotros: nos apoderemos
+  vosotros: os apoderéis
+  uds: se apoderen
+preterito-perfecto-subjuntivo:
+  yo: me haya apoderado
+  tu: te hayas apoderado
+  vos: te hayas apoderado
+  ud: se haya apoderado
+  nosotros: nos hayamos apoderado
+  vosotros: os hayáis apoderado
+  uds: se hayan apoderado
+imperfecto-subjuntivo:
+  yo:
+    - me apoderara
+    - me apoderase
+  tu:
+    - te apoderaras
+    - te apoderases
+  vos:
+    - te apoderaras
+    - te apoderases
+  ud:
+    - se apoderara
+    - se apoderase
+  nosotros:
+    - nos apoderáramos
+    - nos apoderásemos
+  vosotros:
+    - os apoderarais
+    - os apoderaseis
+  uds:
+    - se apoderaran
+    - se apoderasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera apoderado
+    - me hubiese apoderado
+  tu:
+    - te hubieras apoderado
+    - te hubieses apoderado
+  vos:
+    - te hubieras apoderado
+    - te hubieses apoderado
+  ud:
+    - se hubiera apoderado
+    - se hubiese apoderado
+  nosotros:
+    - nos hubiéramos apoderado
+    - nos hubiésemos apoderado
+  vosotros:
+    - os hubierais apoderado
+    - os hubieseis apoderado
+  uds:
+    - se hubieran apoderado
+    - se hubiesen apoderado
+imperativo:
+  tu: apodérate
+  vos: apodérate
+  ud: apodérese
+  nosotros: apoderémonos
+  vosotros: apoderaos
+  uds: apodérense

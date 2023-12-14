@@ -1,0 +1,142 @@
+infinitivo: repiquetear
+gerundio: repiqueteando
+participio-pasado: repiqueteado
+presente-indicativo:
+  yo: repiqueteo
+  tu: repiqueteas
+  vos: repiqueteas
+  ud: repiquetea
+  nosotros: repiqueteamos
+  vosotros: repiqueteáis
+  uds: repiquetean
+preterito-perfecto-simple:
+  yo: repiqueteé
+  tu: repiqueteaste
+  vos: repiqueteaste
+  ud: repiqueteó
+  nosotros: repiqueteamos
+  vosotros: repiqueteasteis
+  uds: repiquetearon
+preterito-imperfecto:
+  yo: repiqueteaba
+  tu: repiqueteabas
+  vos: repiqueteabas
+  ud: repiqueteaba
+  nosotros: repiqueteábamos
+  vosotros: repiqueteabais
+  uds: repiqueteaban
+futuro-simple:
+  yo: repiquetearé
+  tu: repiquetearás
+  vos: repiquetearás
+  ud: repiqueteará
+  nosotros: repiquetearemos
+  vosotros: repiquetearéis
+  uds: repiquetearán
+condicional-simple:
+  yo: repiquetearía
+  tu: repiquetearías
+  vos: repiquetearías
+  ud: repiquetearía
+  nosotros: repiquetearíamos
+  vosotros: repiquetearíais
+  uds: repiquetearían
+presente-perfecto:
+  yo: he repiqueteado
+  tu: has repiqueteado
+  vos: has repiqueteado
+  ud: ha repiqueteado
+  nosotros: hemos repiqueteado
+  vosotros: habéis repiqueteado
+  uds: han repiqueteado
+preterito-pluscuamperfecto:
+  yo: había repiqueteado
+  tu: habías repiqueteado
+  vos: habías repiqueteado
+  ud: había repiqueteado
+  nosotros: habíamos repiqueteado
+  vosotros: habíais repiqueteado
+  uds: habían repiqueteado
+futuro-perfecto:
+  yo: habré repiqueteado
+  tu: habrás repiqueteado
+  vos: habrás repiqueteado
+  ud: habrá repiqueteado
+  nosotros: habremos repiqueteado
+  vosotros: habréis repiqueteado
+  uds: habrán repiqueteado
+condicional-perfecto:
+  yo: habría repiqueteado
+  tu: habrías repiqueteado
+  vos: habrías repiqueteado
+  ud: habría repiqueteado
+  nosotros: habríamos repiqueteado
+  vosotros: habríais repiqueteado
+  uds: habrían repiqueteado
+presente-subjuntivo:
+  yo: repiquetee
+  tu: repiquetees
+  vos: repiquetees
+  ud: repiquetee
+  nosotros: repiqueteemos
+  vosotros: repiqueteéis
+  uds: repiqueteen
+preterito-perfecto-subjuntivo:
+  yo: haya repiqueteado
+  tu: hayas repiqueteado
+  vos: hayas repiqueteado
+  ud: haya repiqueteado
+  nosotros: hayamos repiqueteado
+  vosotros: hayáis repiqueteado
+  uds: hayan repiqueteado
+imperfecto-subjuntivo:
+  yo:
+    - repiqueteara
+    - repiquetease
+  tu:
+    - repiquetearas
+    - repiqueteases
+  vos:
+    - repiquetearas
+    - repiqueteases
+  ud:
+    - repiqueteara
+    - repiquetease
+  nosotros:
+    - repiquetearíamos
+    - repiqueteásemos
+  vosotros:
+    - repiquetearais
+    - repiqueteaseis
+  uds:
+    - repiquetearan
+    - repiqueteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera repiqueteado
+    - hubiese repiqueteado
+  tu:
+    - hubieras repiqueteado
+    - hubieses repiqueteado
+  vos:
+    - hubieras repiqueteado
+    - hubieses repiqueteado
+  ud:
+    - hubiera repiqueteado
+    - hubiese repiqueteado
+  nosotros:
+    - hubiéramos repiqueteado
+    - hubiésemos repiqueteado
+  vosotros:
+    - hubierais repiqueteado
+    - hubieseis repiqueteado
+  uds:
+    - hubieran repiqueteado
+    - hubiesen repiqueteado
+imperativo:
+  tu: repiquetea
+  vos: repiqueteá
+  ud: repiquetee
+  nosotros: repiqueteemos
+  vosotros: repiquetead
+  uds: repiqueteen

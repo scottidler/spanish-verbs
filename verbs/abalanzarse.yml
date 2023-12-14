@@ -1,0 +1,142 @@
+infinitivo: abalanzarse
+gerundio: abalanzándose
+participio-pasado: abalanzado
+presente-indicativo:
+  yo: me abalanzo
+  tu: te abalanzas
+  vos: te abalanzas
+  ud: se abalanza
+  nosotros: nos abalanzamos
+  vosotros: os abalanzáis
+  uds: se abalanzan
+preterito-perfecto-simple:
+  yo: me abalancé
+  tu: te abalanzaste
+  vos: te abalanzaste
+  ud: se abalanzó
+  nosotros: nos abalanzamos
+  vosotros: os abalanzasteis
+  uds: se abalanzaron
+preterito-imperfecto:
+  yo: me abalanzaba
+  tu: te abalanzabas
+  vos: te abalanzabas
+  ud: se abalanzaba
+  nosotros: nos abalanzábamos
+  vosotros: os abalanzabais
+  uds: se abalanzaban
+futuro-simple:
+  yo: me abalanzaré
+  tu: te abalanzarás
+  vos: te abalanzarás
+  ud: se abalanzará
+  nosotros: nos abalanzaremos
+  vosotros: os abalanzaréis
+  uds: se abalanzarán
+condicional-simple:
+  yo: me abalanzaría
+  tu: te abalanzarías
+  vos: te abalanzarías
+  ud: se abalanzaría
+  nosotros: nos abalanzaríamos
+  vosotros: os abalanzaríais
+  uds: se abalanzarían
+presente-perfecto:
+  yo: me he abalanzado
+  tu: te has abalanzado
+  vos: te has abalanzado
+  ud: se ha abalanzado
+  nosotros: nos hemos abalanzado
+  vosotros: os habéis abalanzado
+  uds: se han abalanzado
+preterito-pluscuamperfecto:
+  yo: me había abalanzado
+  tu: te habías abalanzado
+  vos: te habías abalanzado
+  ud: se había abalanzado
+  nosotros: nos habíamos abalanzado
+  vosotros: os habíais abalanzado
+  uds: se habían abalanzado
+futuro-perfecto:
+  yo: me habré abalanzado
+  tu: te habrás abalanzado
+  vos: te habrás abalanzado
+  ud: se habrá abalanzado
+  nosotros: nos habremos abalanzado
+  vosotros: os habréis abalanzado
+  uds: se habrán abalanzado
+condicional-perfecto:
+  yo: me habría abalanzado
+  tu: te habrías abalanzado
+  vos: te habrías abalanzado
+  ud: se habría abalanzado
+  nosotros: nos habríamos abalanzado
+  vosotros: os habríais abalanzado
+  uds: se habrían abalanzado
+presente-subjuntivo:
+  yo: me abalance
+  tu: te balances
+  vos: te balances
+  ud: se balance
+  nosotros: nos balanceemos
+  vosotros: os balanceéis
+  uds: se balanceen
+preterito-perfecto-subjuntivo:
+  yo: me haya abalanzado
+  tu: te hayas abalanzado
+  vos: te hayas abalanzado
+  ud: se haya abalanzado
+  nosotros: nos hayamos abalanzado
+  vosotros: os hayáis abalanzado
+  uds: se hayan abalanzado
+imperfecto-subjuntivo:
+  yo:
+    - me abalanzara
+    - me abalanzase
+  tu:
+    - te abalanzaras
+    - te abalanzases
+  vos:
+    - te abalanzaras
+    - te abalanzases
+  ud:
+    - se abalanzara
+    - se abalanzase
+  nosotros:
+    - nos abalanzáramos
+    - nos abalanzásemos
+  vosotros:
+    - os abalanzarais
+    - os abalanzaseis
+  uds:
+    - se abalanzaran
+    - se abalanzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera abalanzado
+    - me hubiese abalanzado
+  tu:
+    - te hubieras abalanzado
+    - te hubieses abalanzado
+  vos:
+    - te hubieras abalanzado
+    - te hubieses abalanzado
+  ud:
+    - se hubiera abalanzado
+    - se hubiese abalanzado
+  nosotros:
+    - nos hubiéramos abalanzado
+    - nos hubiésemos abalanzado
+  vosotros:
+    - os hubierais abalanzado
+    - os hubieseis abalanzado
+  uds:
+    - se hubieran abalanzado
+    - se hubiesen abalanzado
+imperativo:
+  tu: abalánzate
+  vos: abalanzate
+  ud: abalance
+  nosotros: abalancémonos
+  vosotros: abalanzaos
+  uds: abalancense

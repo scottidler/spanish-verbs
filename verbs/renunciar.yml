@@ -1,0 +1,142 @@
+infinitivo: renunciar
+gerundio: renunciando
+participio-pasado: renunciado
+presente-indicativo:
+  yo: renuncio
+  tu: renuncias
+  vos: renuncias
+  ud: renuncia
+  nosotros: renunciamos
+  vosotros: renunciáis
+  uds: renuncian
+preterito-perfecto-simple:
+  yo: renuncié
+  tu: renunciaste
+  vos: renunciaste
+  ud: renunció
+  nosotros: renunciamos
+  vosotros: renunciasteis
+  uds: renunciaron
+preterito-imperfecto:
+  yo: renunciaba
+  tu: renunciabas
+  vos: renunciabas
+  ud: renunciaba
+  nosotros: renunciábamos
+  vosotros: renunciabais
+  uds: renunciaban
+futuro-simple:
+  yo: renunciaré
+  tu: renunciarás
+  vos: renunciarás
+  ud: renunciará
+  nosotros: renunciaremos
+  vosotros: renunciaréis
+  uds: renunciarán
+condicional-simple:
+  yo: renunciaría
+  tu: renunciarías
+  vos: renunciarías
+  ud: renunciaría
+  nosotros: renunciaríamos
+  vosotros: renunciaríais
+  uds: renunciarían
+presente-perfecto:
+  yo: he renunciado
+  tu: has renunciado
+  vos: has renunciado
+  ud: ha renunciado
+  nosotros: hemos renunciado
+  vosotros: habéis renunciado
+  uds: han renunciado
+preterito-pluscuamperfecto:
+  yo: había renunciado
+  tu: habías renunciado
+  vos: habías renunciado
+  ud: había renunciado
+  nosotros: habíamos renunciado
+  vosotros: habíais renunciado
+  uds: habían renunciado
+futuro-perfecto:
+  yo: habré renunciado
+  tu: habrás renunciado
+  vos: habrás renunciado
+  ud: habrá renunciado
+  nosotros: habremos renunciado
+  vosotros: habréis renunciado
+  uds: habrán renunciado
+condicional-perfecto:
+  yo: habría renunciado
+  tu: habrías renunciado
+  vos: habrías renunciado
+  ud: habría renunciado
+  nosotros: habríamos renunciado
+  vosotros: habríais renunciado
+  uds: habrían renunciado
+presente-subjuntivo:
+  yo: renuncie
+  tu: renuncies
+  vos: renuncies
+  ud: renuncie
+  nosotros: renunciemos
+  vosotros: renunciéis
+  uds: renuncien
+preterito-perfecto-subjuntivo:
+  yo: haya renunciado
+  tu: hayas renunciado
+  vos: hayas renunciado
+  ud: haya renunciado
+  nosotros: hayamos renunciado
+  vosotros: hayáis renunciado
+  uds: hayan renunciado
+imperfecto-subjuntivo:
+  yo:
+    - renunciara
+    - renunciase
+  tu:
+    - renunciaras
+    - renunciases
+  vos:
+    - renunciaras
+    - renunciases
+  ud:
+    - renunciara
+    - renunciase
+  nosotros:
+    - renunciáramos
+    - renunciásemos
+  vosotros:
+    - renunciarais
+    - renunciaseis
+  uds:
+    - renunciaran
+    - renunciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera renunciado
+    - hubiese renunciado
+  tu:
+    - hubieras renunciado
+    - hubieses renunciado
+  vos:
+    - hubieras renunciado
+    - hubieses renunciado
+  ud:
+    - hubiera renunciado
+    - hubiese renunciado
+  nosotros:
+    - hubiéramos renunciado
+    - hubiésemos renunciado
+  vosotros:
+    - hubierais renunciado
+    - hubieseis renunciado
+  uds:
+    - hubieran renunciado
+    - hubiesen renunciado
+imperativo:
+  tu: renuncia
+  vos: renunciá
+  ud: renuncie
+  nosotros: renunciemos
+  vosotros: renunciad
+  uds: renuncien

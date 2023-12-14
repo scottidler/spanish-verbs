@@ -1,0 +1,156 @@
+infinitivo: empujarse
+gerundio: empujándose
+participio-pasado: empujado/empujada
+
+presente-indicativo:
+  yo: me empujo
+  tu: te empujas
+  vos: te empujás
+  ud: se empuja
+  nosotros: nos empujamos
+  vosotros: os empujáis
+  uds: se empujan
+
+preterito-perfecto-simple:
+  yo: me empujé
+  tu: te empujaste
+  vos: te empujaste
+  ud: se empujó
+  nosotros: nos empujamos
+  vosotros: os empujasteis
+  uds: se empujaron
+
+preterito-imperfecto:
+  yo: me empujaba
+  tu: te empujabas
+  vos: te empujabas
+  ud: se empujaba
+  nosotros: nos empujábamos
+  vosotros: os empujabais
+  uds: se empujaban
+
+futuro-simple:
+  yo: me empujaré
+  tu: te empujarás
+  vos: te empujarás
+  ud: se empujará
+  nosotros: nos empujaremos
+  vosotros: os empujaréis
+  uds: se empujarán
+
+condicional-simple:
+  yo: me empujaría
+  tu: te empujarías
+  vos: te empujarías
+  ud: se empujaría
+  nosotros: nos empujaríamos
+  vosotros: os empujaríais
+  uds: se empujarían
+
+presente-perfecto:
+  yo: me he empujado
+  tu: te has empujado
+  vos: te has empujado
+  ud: se ha empujado
+  nosotros: nos hemos empujado
+  vosotros: os habéis empujado
+  uds: se han empujado
+
+preterito-pluscuamperfecto:
+  yo: me había empujado
+  tu: te habías empujado
+  vos: te habías empujado
+  ud: se había empujado
+  nosotros: nos habíamos empujado
+  vosotros: os habíais empujado
+  uds: se habían empujado
+
+futuro-perfecto:
+  yo: me habré empujado
+  tu: te habrás empujado
+  vos: te habrás empujado
+  ud: se habrá empujado
+  nosotros: nos habremos empujado
+  vosotros: os habréis empujado
+  uds: se habrán empujado
+
+condicional-perfecto:
+  yo: me habría empujado
+  tu: te habrías empujado
+  vos: te habrías empujado
+  ud: se habría empujado
+  nosotros: nos habríamos empujado
+  vosotros: os habríais empujado
+  uds: se habrían empujado
+
+presente-subjuntivo:
+  yo: me empuje
+  tu: te empujes
+  vos: te empujes
+  ud: se empuje
+  nosotros: nos empujemos
+  vosotros: os empujéis
+  uds: se empujen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya empujado
+  tu: te hayas empujado
+  vos: te hayas empujado
+  ud: se haya empujado
+  nosotros: nos hayamos empujado
+  vosotros: os hayáis empujado
+  uds: se hayan empujado
+
+imperfecto-subjuntivo:
+  yo:
+    - me empujara
+    - me empujase
+  tu:
+    - te empujaras
+    - te empujases
+  vos:
+    - te empujaras
+    - te empujases
+  ud:
+    - se empujara
+    - se empujase
+  nosotros:
+    - nos empujáramos
+    - nos empujásemos
+  vosotros:
+    - os empujarais
+    - os empujaseis
+  uds:
+    - se empujaran
+    - se empujasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera empujado
+    - me hubiese empujado
+  tu:
+    - te hubieras empujado
+    - te hubieses empujado
+  vos:
+    - te hubieras empujado
+    - te hubieses empujado
+  ud:
+    - se hubiera empujado
+    - se hubiese empujado
+  nosotros:
+    - nos hubiéramos empujado
+    - nos hubiésemos empujado
+  vosotros:
+    - os hubierais empujado
+    - os hubieseis empujado
+  uds:
+    - se hubieran empujado
+    - se hubiesen empujado
+
+imperativo:
+  tu: empujate
+  vos: empujáte
+  ud: empuje
+  nosotros: empujémonos
+  vosotros: empujaos
+  uds: empujen

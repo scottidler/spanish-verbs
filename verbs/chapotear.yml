@@ -1,0 +1,142 @@
+infinitivo: chapotear
+gerundio: chapoteando
+participio-pasado: chapoteado
+presente-indicativo:
+  yo: chapoteo
+  tu: chapoteas
+  vos: chapoteás
+  ud: chapotea
+  nosotros: chapoteamos
+  vosotros: chapoteáis
+  uds: chapotean
+preterito-perfecto-simple:
+  yo: chapoteé
+  tu: chapoteaste
+  vos: chapoteaste
+  ud: chapoteó
+  nosotros: chapoteamos
+  vosotros: chapoteasteis
+  uds: chapotearon
+preterito-imperfecto:
+  yo: chapoteaba
+  tu: chapoteabas
+  vos: chapoteabas
+  ud: chapoteaba
+  nosotros: chapoteábamos
+  vosotros: chapoteabais
+  uds: chapoteaban
+futuro-simple:
+  yo: chapotearé
+  tu: chapotearás
+  vos: chapotearás
+  ud: chapoteará
+  nosotros: chapotearemos
+  vosotros: chapotearéis
+  uds: chapotearán
+condicional-simple:
+  yo: chapotearía
+  tu: chapotearías
+  vos: chapotearías
+  ud: chapotearía
+  nosotros: chapotearíamos
+  vosotros: chapotearíais
+  uds: chapotearían
+presente-perfecto:
+  yo: he chapoteado
+  tu: has chapoteado
+  vos: has chapoteado
+  ud: ha chapoteado
+  nosotros: hemos chapoteado
+  vosotros: habéis chapoteado
+  uds: han chapoteado
+preterito-pluscuamperfecto:
+  yo: había chapoteado
+  tu: habías chapoteado
+  vos: habías chapoteado
+  ud: había chapoteado
+  nosotros: habíamos chapoteado
+  vosotros: habíais chapoteado
+  uds: habían chapoteado
+futuro-perfecto:
+  yo: habré chapoteado
+  tu: habrás chapoteado
+  vos: habrás chapoteado
+  ud: habrá chapoteado
+  nosotros: habremos chapoteado
+  vosotros: habréis chapoteado
+  uds: habrán chapoteado
+condicional-perfecto:
+  yo: habría chapoteado
+  tu: habrías chapoteado
+  vos: habrías chapoteado
+  ud: habría chapoteado
+  nosotros: habríamos chapoteado
+  vosotros: habríais chapoteado
+  uds: habrían chapoteado
+presente-subjuntivo:
+  yo: chapotee
+  tu: chapotees
+  vos: chapotees
+  ud: chapotee
+  nosotros: chapoteemos
+  vosotros: chapoteéis
+  uds: chapoteen
+preterito-perfecto-subjuntivo:
+  yo: haya chapoteado
+  tu: hayas chapoteado
+  vos: hayas chapoteado
+  ud: haya chapoteado
+  nosotros: hayamos chapoteado
+  vosotros: hayáis chapoteado
+  uds: hayan chapoteado
+imperfecto-subjuntivo:
+  yo:
+    - chapoteara
+    - chapotease
+  tu:
+    - chapotearas
+    - chapoteases
+  vos:
+    - chapotearas
+    - chapoteases
+  ud:
+    - chapoteara
+    - chapotease
+  nosotros:
+    - chapoteáramos
+    - chapoteásemos
+  vosotros:
+    - chapotearais
+    - chapoteaseis
+  uds:
+    - chapotearan
+    - chapoteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera chapoteado
+    - hubiese chapoteado
+  tu:
+    - hubieras chapoteado
+    - hubieses chapoteado
+  vos:
+    - hubieras chapoteado
+    - hubieses chapoteado
+  ud:
+    - hubiera chapoteado
+    - hubiese chapoteado
+  nosotros:
+    - hubiéramos chapoteado
+    - hubiésemos chapoteado
+  vosotros:
+    - hubierais chapoteado
+    - hubieseis chapoteado
+  uds:
+    - hubieran chapoteado
+    - hubiesen chapoteado
+imperativo:
+  tu: chapotea
+  vos: chapoteá
+  ud: chapotee
+  nosotros: chapoteemos
+  vosotros: chapotead
+  uds: chapoteen

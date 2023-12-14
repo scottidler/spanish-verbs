@@ -1,0 +1,156 @@
+infinitivo: repetirse
+gerundio: repitiéndose
+participio-pasado: repetido
+
+presente-indicativo:
+  yo: me repito
+  tu: te repites
+  vos: te repetís
+  ud: se repite
+  nosotros: nos repetimos
+  vosotros: os repetís
+  uds: se repiten
+
+preterito-perfecto-simple:
+  yo: me repetí
+  tu: te repetiste
+  vos: te repetiste
+  ud: se repitió
+  nosotros: nos repetimos
+  vosotros: os repetisteis
+  uds: se repitieron
+
+preterito-imperfecto:
+  yo: me repetía
+  tu: te repetías
+  vos: te repetías
+  ud: se repetía
+  nosotros: nos repetíamos
+  vosotros: os repetíais
+  uds: se repetían
+
+futuro-simple:
+  yo: me repetiré
+  tu: te repetirás
+  vos: te repetirás
+  ud: se repetirá
+  nosotros: nos repetiremos
+  vosotros: os repetiréis
+  uds: se repetirán
+
+condicional-simple:
+  yo: me repetiría
+  tu: te repetirías
+  vos: te repetirías
+  ud: se repetiría
+  nosotros: nos repetiríamos
+  vosotros: os repetiríais
+  uds: se repetirían
+
+presente-perfecto:
+  yo: me he repetido
+  tu: te has repetido
+  vos: te has repetido
+  ud: se ha repetido
+  nosotros: nos hemos repetido
+  vosotros: os habéis repetido
+  uds: se han repetido
+
+preterito-pluscuamperfecto:
+  yo: me había repetido
+  tu: te habías repetido
+  vos: te habías repetido
+  ud: se había repetido
+  nosotros: nos habíamos repetido
+  vosotros: os habíais repetido
+  uds: se habían repetido
+
+futuro-perfecto:
+  yo: me habré repetido
+  tu: te habrás repetido
+  vos: te habrás repetido
+  ud: se habrá repetido
+  nosotros: nos habremos repetido
+  vosotros: os habréis repetido
+  uds: se habrán repetido
+
+condicional-perfecto:
+  yo: me habría repetido
+  tu: te habrías repetido
+  vos: te habrías repetido
+  ud: se habría repetido
+  nosotros: nos habríamos repetido
+  vosotros: os habríais repetido
+  uds: se habrían repetido
+
+presente-subjuntivo:
+  yo: me repita
+  tu: te repitas
+  vos: te repitas
+  ud: se repita
+  nosotros: nos repitamos
+  vosotros: os repitáis
+  uds: se repitan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya repetido
+  tu: te hayas repetido
+  vos: te hayas repetido
+  ud: se haya repetido
+  nosotros: nos hayamos repetido
+  vosotros: os hayáis repetido
+  uds: se hayan repetido
+
+imperfecto-subjuntivo:
+  yo:
+    - me repitiera
+    - me repitiese
+  tu:
+    - te repitieras
+    - te repitieses
+  vos:
+    - te repitieras
+    - te repitieses
+  ud:
+    - se repitiera
+    - se repitiese
+  nosotros:
+    - nos repitiéramos
+    - nos repitiésemos
+  vosotros:
+    - os repitierais
+    - os repitieseis
+  uds:
+    - se repitieran
+    - se repitiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera repetido
+    - me hubiese repetido
+  tu:
+    - te hubieras repetido
+    - te hubieses repetido
+  vos:
+    - te hubieras repetido
+    - te hubieses repetido
+  ud:
+    - se hubiera repetido
+    - se hubiese repetido
+  nosotros:
+    - nos hubiéramos repetido
+    - nos hubiésemos repetido
+  vosotros:
+    - os hubierais repetido
+    - os hubieseis repetido
+  uds:
+    - se hubieran repetido
+    - se hubiesen repetido
+
+imperativo:
+  tu: repítete
+  vos: repetite
+  ud: repítase
+  nosotros: repitámonos
+  vosotros: repetíos
+  uds: repítanse

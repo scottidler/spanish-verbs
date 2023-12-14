@@ -1,0 +1,142 @@
+infinitivo: osar
+gerundio: osando
+participio-pasado: osado
+presente-indicativo:
+  yo: oso
+  tu: osas
+  vos: osas
+  ud: osa
+  nosotros: osamos
+  vosotros: osáis
+  uds: osan
+preterito-perfecto-simple:
+  yo: osé
+  tu: osaste
+  vos: osaste
+  ud: osó
+  nosotros: osamos
+  vosotros: osasteis
+  uds: osaron
+preterito-imperfecto:
+  yo: osaba
+  tu: osabas
+  vos: osabas
+  ud: osaba
+  nosotros: osábamos
+  vosotros: osabais
+  uds: osaban
+futuro-simple:
+  yo: osaré
+  tu: osarás
+  vos: osarás
+  ud: osará
+  nosotros: osaremos
+  vosotros: osaréis
+  uds: osarán
+condicional-simple:
+  yo: osaría
+  tu: osarías
+  vos: osarías
+  ud: osaría
+  nosotros: osaríamos
+  vosotros: osaríais
+  uds: osarían
+presente-perfecto:
+  yo: he osado
+  tu: has osado
+  vos: has osado
+  ud: ha osado
+  nosotros: hemos osado
+  vosotros: habéis osado
+  uds: han osado
+preterito-pluscuamperfecto:
+  yo: había osado
+  tu: habías osado
+  vos: habías osado
+  ud: había osado
+  nosotros: habíamos osado
+  vosotros: habíais osado
+  uds: habían osado
+futuro-perfecto:
+  yo: habré osado
+  tu: habrás osado
+  vos: habrás osado
+  ud: habrá osado
+  nosotros: habremos osado
+  vosotros: habréis osado
+  uds: habrán osado
+condicional-perfecto:
+  yo: habría osado
+  tu: habrías osado
+  vos: habrías osado
+  ud: habría osado
+  nosotros: habríamos osado
+  vosotros: habríais osado
+  uds: habrían osado
+presente-subjuntivo:
+  yo: ose
+  tu: oses
+  vos: oses
+  ud: ose
+  nosotros: osemos
+  vosotros: oséis
+  uds: osen
+preterito-perfecto-subjuntivo:
+  yo: haya osado
+  tu: hayas osado
+  vos: hayas osado
+  ud: haya osado
+  nosotros: hayamos osado
+  vosotros: hayáis osado
+  uds: hayan osado
+imperfecto-subjuntivo:
+  yo:
+    - osara
+    - osase
+  tu:
+    - osaras
+    - osases
+  vos:
+    - osaras
+    - osases
+  ud:
+    - osara
+    - osase
+  nosotros:
+    - osáramos
+    - osásemos
+  vosotros:
+    - osarais
+    - osaseis
+  uds:
+    - osaran
+    - osasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera osado
+    - hubiese osado
+  tu:
+    - hubieras osado
+    - hubieses osado
+  vos:
+    - hubieras osado
+    - hubieses osado
+  ud:
+    - hubiera osado
+    - hubiese osado
+  nosotros:
+    - hubiéramos osado
+    - hubiésemos osado
+  vosotros:
+    - hubierais osado
+    - hubieseis osado
+  uds:
+    - hubieran osado
+    - hubiesen osado
+imperativo:
+  tu: osa
+  vos: osá
+  ud: ose
+  nosotros: osemos
+  vosotros: osad
+  uds: osen

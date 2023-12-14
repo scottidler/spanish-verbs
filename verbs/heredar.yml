@@ -1,0 +1,142 @@
+infinitivo: heredar
+gerundio: heredando
+participio-pasado: heredado
+presente-indicativo:
+  yo: heredo
+  tu: heredas
+  vos: heredas
+  ud: hereda
+  nosotros: heredamos
+  vosotros: heredáis
+  uds: heredan
+preterito-perfecto-simple:
+  yo: heredé
+  tu: heredaste
+  vos: heredaste
+  ud: heredó
+  nosotros: heredamos
+  vosotros: heredasteis
+  uds: heredaron
+preterito-imperfecto:
+  yo: heredaba
+  tu: heredabas
+  vos: heredabas
+  ud: heredaba
+  nosotros: heredábamos
+  vosotros: heredabais
+  uds: heredaban
+futuro-simple:
+  yo: heredaré
+  tu: heredarás
+  vos: heredarás
+  ud: heredará
+  nosotros: heredaremos
+  vosotros: heredaréis
+  uds: heredarán
+condicional-simple:
+  yo: heredaría
+  tu: heredarías
+  vos: heredarías
+  ud: heredaría
+  nosotros: heredaríamos
+  vosotros: heredaríais
+  uds: heredarían
+presente-perfecto:
+  yo: he heredado
+  tu: has heredado
+  vos: has heredado
+  ud: ha heredado
+  nosotros: hemos heredado
+  vosotros: habéis heredado
+  uds: han heredado
+preterito-pluscuamperfecto:
+  yo: había heredado
+  tu: habías heredado
+  vos: habías heredado
+  ud: había heredado
+  nosotros: habíamos heredado
+  vosotros: habíais heredado
+  uds: habían heredado
+futuro-perfecto:
+  yo: habré heredado
+  tu: habrás heredado
+  vos: habrás heredado
+  ud: habrá heredado
+  nosotros: habremos heredado
+  vosotros: habréis heredado
+  uds: habrán heredado
+condicional-perfecto:
+  yo: habría heredado
+  tu: habrías heredado
+  vos: habrías heredado
+  ud: habría heredado
+  nosotros: habríamos heredado
+  vosotros: habríais heredado
+  uds: habrían heredado
+presente-subjuntivo:
+  yo: herede
+  tu: heredes
+  vos: heredes
+  ud: herede
+  nosotros: heredemos
+  vosotros: heredéis
+  uds: hereden
+preterito-perfecto-subjuntivo:
+  yo: haya heredado
+  tu: hayas heredado
+  vos: hayas heredado
+  ud: haya heredado
+  nosotros: hayamos heredado
+  vosotros: hayáis heredado
+  uds: hayan heredado
+imperfecto-subjuntivo:
+  yo:
+    - heredara
+    - heredase
+  tu:
+    - heredaras
+    - heredases
+  vos:
+    - heredaras
+    - heredases
+  ud:
+    - heredara
+    - heredase
+  nosotros:
+    - heredáramos
+    - heredásemos
+  vosotros:
+    - heredarais
+    - heredaseis
+  uds:
+    - heredaran
+    - heredasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera heredado
+    - hubiese heredado
+  tu:
+    - hubieras heredado
+    - hubieses heredado
+  vos:
+    - hubieras heredado
+    - hubieses heredado
+  ud:
+    - hubiera heredado
+    - hubiese heredado
+  nosotros:
+    - hubiéramos heredado
+    - hubiésemos heredado
+  vosotros:
+    - hubierais heredado
+    - hubieseis heredado
+  uds:
+    - hubieran heredado
+    - hubiesen heredado
+imperativo:
+  tu: hereda
+  vos: heredá
+  ud: herede
+  nosotros: heredemos
+  vosotros: heredad
+  uds: hereden

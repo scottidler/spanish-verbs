@@ -1,0 +1,142 @@
+infinitivo: paber
+gerundio: pabendo
+participio-pasado: pabido
+presente-indicativo:
+  yo: pabe
+  tu: pabes
+  vos: pabes
+  ud: pabe
+  nosotros: pabemos
+  vosotros: pabeis
+  uds: paben
+preterito-perfecto-simple:
+  yo: pabi
+  tu: pabiste
+  vos: pabiste
+  ud: pabio
+  nosotros: pabimos
+  vosotros: pabisteis
+  uds: pabieron
+preterito-imperfecto:
+  yo: pabia
+  tu: pabias
+  vos: pabias
+  ud: pabia
+  nosotros: pabiamos
+  vosotros: pabiais
+  uds: pabian
+futuro-simple:
+  yo: pabere
+  tu: paberes
+  vos: paberes
+  ud: pabere
+  nosotros: paberemos
+  vosotros: pabereis
+  uds: paberen
+condicional-simple:
+  yo: paberia
+  tu: paberias
+  vos: paberias
+  ud: paberia
+  nosotros: paberiamos
+  vosotros: paberiais
+  uds: paberian
+presente-perfecto:
+  yo: he pabido
+  tu: has pabido
+  vos: has pabido
+  ud: ha pabido
+  nosotros: hemos pabido
+  vosotros: habeis pabido
+  uds: han pabido
+preterito-pluscuamperfecto:
+  yo: habia pabido
+  tu: habias pabido
+  vos: habias pabido
+  ud: habia pabido
+  nosotros: habiamos pabido
+  vosotros: habiais pabido
+  uds: habian pabido
+futuro-perfecto:
+  yo: habre pabido
+  tu: habres pabido
+  vos: habres pabido
+  ud: habre pabido
+  nosotros: habremos pabido
+  vosotros: habreis pabido
+  uds: habren pabido
+condicional-perfecto:
+  yo: habria pabido
+  tu: habrias pabido
+  vos: habrias pabido
+  ud: habria pabido
+  nosotros: habriamos pabido
+  vosotros: habriais pabido
+  uds: habrian pabido
+presente-subjuntivo:
+  yo: paba
+  tu: pabas
+  vos: pabas
+  ud: paba
+  nosotros: pabamos
+  vosotros: pabeis
+  uds: paban
+preterito-perfecto-subjuntivo:
+  yo: haya pabido
+  tu: hayas pabido
+  vos: hayas pabido
+  ud: haya pabido
+  nosotros: hayamos pabido
+  vosotros: hayais pabido
+  uds: hayan pabido
+imperfecto-subjuntivo:
+  yo:
+    - pabiera
+    - pabiese
+  tu:
+    - pabieras
+    - pabieses
+  vos:
+    - pabieras
+    - pabieses
+  ud:
+    - pabiera
+    - pabiese
+  nosotros:
+    - pabieramos
+    - pabiesemos
+  vosotros:
+    - pabierais
+    - pabieseis
+  uds:
+    - pabieran
+    - pabisen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pabido
+    - hubiese pabido
+  tu:
+    - hubieras pabido
+    - hubieses pabido
+  vos:
+    - hubieras pabido
+    - hubieses pabido
+  ud:
+    - hubiera pabido
+    - hubiese pabido
+  nosotros:
+    - hubieramos pabido
+    - hubiesemos pabido
+  vosotros:
+    - hubierais pabido
+    - hubieseis pabido
+  uds:
+    - hubieran pabido
+    - hubiesen pabido
+imperativo:
+  tu: pabe
+  vos: pabe
+  ud: pabe
+  nosotros: pabemos
+  vosotros: pabed
+  uds: paben

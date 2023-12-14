@@ -1,0 +1,142 @@
+infinitivo: tráemer
+gerundio: tráemiendo
+participio-pasado: tráemido
+presente-indicativo:
+  yo: tráeme
+  tu: tráes
+  vos: tráes
+  ud: tráe
+  nosotros: tráemos
+  vosotros: tráeis
+  uds: tráen
+preterito-perfecto-simple:
+  yo: tráemeí
+  tu: tráeste
+  vos: tráeste
+  ud: tráeó
+  nosotros: tráemos
+  vosotros: tráesteis
+  uds: tráeron
+preterito-imperfecto:
+  yo: tráemía
+  tu: tráemías
+  vos: tráemías
+  ud: tráemía
+  nosotros: tráemíamos
+  vosotros: tráemíais
+  uds: tráemían
+futuro-simple:
+  yo: tráemeré
+  tu: tráemerás
+  vos: tráemerás
+  ud: tráemera
+  nosotros: tráemeros
+  vosotros: tráemeréis
+  uds: tráemerán
+condicional-simple:
+  yo: tráemería
+  tu: tráemerías
+  vos: tráemerías
+  ud: tráemería
+  nosotros: tráemeríamos
+  vosotros: tráemeríais
+  uds: tráemerían
+presente-perfecto:
+  yo: he tráemido
+  tu: has tráemido
+  vos: has tráemido
+  ud: ha tráemido
+  nosotros: hemos tráemido
+  vosotros: habéis tráemido
+  uds: han tráemido
+preterito-pluscuamperfecto:
+  yo: había tráemido
+  tu: habías tráemido
+  vos: habías tráemido
+  ud: había tráemido
+  nosotros: habíamos tráemido
+  vosotros: habíais tráemido
+  uds: habían tráemido
+futuro-perfecto:
+  yo: habré tráemido
+  tu: habrás tráemido
+  vos: habrás tráemido
+  ud: habrá tráemido
+  nosotros: habremos tráemido
+  vosotros: habréis tráemido
+  uds: habrán tráemido
+condicional-perfecto:
+  yo: habría tráemido
+  tu: habrías tráemido
+  vos: habrías tráemido
+  ud: habría tráemido
+  nosotros: habríamos tráemido
+  vosotros: habríais tráemido
+  uds: habrían tráemido
+presente-subjuntivo:
+  yo: tráema
+  tu: tráemas
+  vos: tráemas
+  ud: tráema
+  nosotros: tráemamos
+  vosotros: tráemáis
+  uds: tráeman
+preterito-perfecto-subjuntivo:
+  yo: haya tráemido
+  tu: hayas tráemido
+  vos: hayas tráemido
+  ud: haya tráemido
+  nosotros: hayamos tráemido
+  vosotros: hayáis tráemido
+  uds: hayan tráemido
+imperfecto-subjuntivo:
+  yo:
+    - tráemiera
+    - tráemiese
+  tu:
+    - tráemieras
+    - tráemieses
+  vos:
+    - tráemieras
+    - tráemieses
+  ud:
+    - tráemiera
+    - tráemiese
+  nosotros:
+    - tráemiéramos
+    - tráemiésemos
+  vosotros:
+    - tráemierais
+    - tráemieseis
+  uds:
+    - tráemieran
+    - tráemiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tráemido
+    - hubiese tráemido
+  tu:
+    - hubieras tráemido
+    - hubieses tráemido
+  vos:
+    - hubieras tráemido
+    - hubieses tráemido
+  ud:
+    - hubiera tráemido
+    - hubiese tráemido
+  nosotros:
+    - hubiéramos tráemido
+    - hubiésemos tráemido
+  vosotros:
+    - hubierais tráemido
+    - hubieseis tráemido
+  uds:
+    - hubieran tráemido
+    - hubiesen tráemido
+imperativo:
+  tu: trae
+  vos: traé
+  ud: tráe
+  nosotros: tráemamos
+  vosotros: tráed
+  uds: tráen

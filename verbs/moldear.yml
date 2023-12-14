@@ -1,0 +1,142 @@
+infinitivo: moldear
+gerundio: moldeando
+participio-pasado: moldeado
+presente-indicativo:
+  yo: moldeo
+  tu: moldeas
+  vos: moldeas
+  ud: moldea
+  nosotros: moldeamos
+  vosotros: moldeáis
+  uds: moldean
+preterito-perfecto-simple:
+  yo: moldeé
+  tu: moldeaste
+  vos: moldeaste
+  ud: moldeó
+  nosotros: moldeamos
+  vosotros: moldeasteis
+  uds: moldearon
+preterito-imperfecto:
+  yo: moldeaba
+  tu: moldeabas
+  vos: moldeabas
+  ud: moldeaba
+  nosotros: moldeábamos
+  vosotros: moldeabais
+  uds: moldeaban
+futuro-simple:
+  yo: moldearé
+  tu: moldearás
+  vos: moldearás
+  ud: moldeará
+  nosotros: moldearemos
+  vosotros: moldearéis
+  uds: moldearán
+condicional-simple:
+  yo: moldearía
+  tu: moldearías
+  vos: moldearías
+  ud: moldearía
+  nosotros: moldearíamos
+  vosotros: moldearíais
+  uds: moldearían
+presente-perfecto:
+  yo: he moldeado
+  tu: has moldeado
+  vos: has moldeado
+  ud: ha moldeado
+  nosotros: hemos moldeado
+  vosotros: habéis moldeado
+  uds: han moldeado
+preterito-pluscuamperfecto:
+  yo: había moldeado
+  tu: habías moldeado
+  vos: habías moldeado
+  ud: había moldeado
+  nosotros: habíamos moldeado
+  vosotros: habíais moldeado
+  uds: habían moldeado
+futuro-perfecto:
+  yo: habré moldeado
+  tu: habrás moldeado
+  vos: habrás moldeado
+  ud: habrá moldeado
+  nosotros: habremos moldeado
+  vosotros: habréis moldeado
+  uds: habrán moldeado
+condicional-perfecto:
+  yo: habría moldeado
+  tu: habrías moldeado
+  vos: habrías moldeado
+  ud: habría moldeado
+  nosotros: habríamos moldeado
+  vosotros: habríais moldeado
+  uds: habrían moldeado
+presente-subjuntivo:
+  yo: moldee
+  tu: moldees
+  vos: moldees
+  ud: moldee
+  nosotros: moldeemos
+  vosotros: moldeéis
+  uds: moldeen
+preterito-perfecto-subjuntivo:
+  yo: haya moldeado
+  tu: hayas moldeado
+  vos: hayas moldeado
+  ud: haya moldeado
+  nosotros: hayamos moldeado
+  vosotros: hayáis moldeado
+  uds: hayan moldeado
+imperfecto-subjuntivo:
+  yo:
+    - moldeara
+    - moldease
+  tu:
+    - moldearas
+    - moldeases
+  vos:
+    - moldearas
+    - moldeases
+  ud:
+    - moldeara
+    - moldease
+  nosotros:
+    - moldeáramos
+    - moldeásemos
+  vosotros:
+    - moldearais
+    - moldeaseis
+  uds:
+    - moldearan
+    - moldeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera moldeado
+    - hubiese moldeado
+  tu:
+    - hubieras moldeado
+    - hubieses moldeado
+  vos:
+    - hubieras moldeado
+    - hubieses moldeado
+  ud:
+    - hubiera moldeado
+    - hubiese moldeado
+  nosotros:
+    - hubiéramos moldeado
+    - hubiésemos moldeado
+  vosotros:
+    - hubierais moldeado
+    - hubieseis moldeado
+  uds:
+    - hubieran moldeado
+    - hubiesen moldeado
+imperativo:
+  tu: moldea
+  vos: moldeá
+  ud: moldee
+  nosotros: moldeemos
+  vosotros: moldead
+  uds: moldeen

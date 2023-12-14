@@ -1,0 +1,142 @@
+infinitivo: convivir
+gerundio: conviviendo
+participio-pasado: convivido
+presente-indicativo:
+  yo: convivo
+  tu: convives
+  vos: convivís
+  ud: convive
+  nosotros: convivimos
+  vosotros: convivís
+  uds: conviven
+preterito-perfecto-simple:
+  yo: conviví
+  tu: conviviste
+  vos: conviviste
+  ud: convivió
+  nosotros: convivimos
+  vosotros: convivisteis
+  uds: convivieron
+preterito-imperfecto:
+  yo: convivía
+  tu: convivías
+  vos: convivías
+  ud: convivía
+  nosotros: convivíamos
+  vosotros: convivíais
+  uds: convivían
+futuro-simple:
+  yo: conviviré
+  tu: convivirás
+  vos: convivirás
+  ud: convivirá
+  nosotros: conviviremos
+  vosotros: conviviréis
+  uds: convivirán
+condicional-simple:
+  yo: conviviría
+  tu: convivirías
+  vos: convivirías
+  ud: conviviría
+  nosotros: conviviríamos
+  vosotros: conviviríais
+  uds: convivirían
+presente-perfecto:
+  yo: he convivido
+  tu: has convivido
+  vos: has convivido
+  ud: ha convivido
+  nosotros: hemos convivido
+  vosotros: habéis convivido
+  uds: han convivido
+preterito-pluscuamperfecto:
+  yo: había convivido
+  tu: habías convivido
+  vos: habías convivido
+  ud: había convivido
+  nosotros: habíamos convivido
+  vosotros: habíais convivido
+  uds: habían convivido
+futuro-perfecto:
+  yo: habré convivido
+  tu: habrás convivido
+  vos: habrás convivido
+  ud: habrá convivido
+  nosotros: habremos convivido
+  vosotros: habréis convivido
+  uds: habrán convivido
+condicional-perfecto:
+  yo: habría convivido
+  tu: habrías convivido
+  vos: habrías convivido
+  ud: habría convivido
+  nosotros: habríamos convivido
+  vosotros: habríais convivido
+  uds: habrían convivido
+presente-subjuntivo:
+  yo: conviva
+  tu: convivas
+  vos: convivas
+  ud: conviva
+  nosotros: convivamos
+  vosotros: conviváis
+  uds: convivan
+preterito-perfecto-subjuntivo:
+  yo: haya convivido
+  tu: hayas convivido
+  vos: hayas convivido
+  ud: haya convivido
+  nosotros: hayamos convivido
+  vosotros: hayáis convivido
+  uds: hayan convivido
+imperfecto-subjuntivo:
+  yo:
+    - conviviera
+    - conviviese
+  tu:
+    - convivieras
+    - convivieses
+  vos:
+    - convivieras
+    - convivieses
+  ud:
+    - conviviera
+    - conviviese
+  nosotros:
+    - conviviéramos
+    - conviviésemos
+  vosotros:
+    - convivierais
+    - convivieseis
+  uds:
+    - convivieran
+    - conviviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera convivido
+    - hubiese convivido
+  tu:
+    - hubieras convivido
+    - hubieses convivido
+  vos:
+    - hubieras convivido
+    - hubieses convivido
+  ud:
+    - hubiera convivido
+    - hubiese convivido
+  nosotros:
+    - hubiéramos convivido
+    - hubiésemos convivido
+  vosotros:
+    - hubierais convivido
+    - hubieseis convivido
+  uds:
+    - hubieran convivido
+    - hubiesen convivido
+imperativo:
+  tu: convive
+  vos: conviví
+  ud: conviva
+  nosotros: convivamos
+  vosotros: convivid
+  uds: convivan

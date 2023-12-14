@@ -1,0 +1,142 @@
+infinitivo: agotar
+gerundio: agotando
+participio-pasado: agotado
+presente-indicativo:
+  yo: agoto
+  tu: agotas
+  vos: agotas
+  ud: agota
+  nosotros: agotamos
+  vosotros: agotáis
+  uds: agotan
+preterito-perfecto-simple:
+  yo: agoté
+  tu: agotaste
+  vos: agotaste
+  ud: agotó
+  nosotros: agotamos
+  vosotros: agotasteis
+  uds: agotaron
+preterito-imperfecto:
+  yo: agotaba
+  tu: agotabas
+  vos: agotabas
+  ud: agotaba
+  nosotros: agotábamos
+  vosotros: agotabais
+  uds: agotaban
+futuro-simple:
+  yo: agotaré
+  tu: agotarás
+  vos: agotarás
+  ud: agotará
+  nosotros: agotaremos
+  vosotros: agotaréis
+  uds: agotarán
+condicional-simple:
+  yo: agotaría
+  tu: agotarías
+  vos: agotarías
+  ud: agotaría
+  nosotros: agotaríamos
+  vosotros: agotaríais
+  uds: agotarían
+presente-perfecto:
+  yo: he agotado
+  tu: has agotado
+  vos: has agotado
+  ud: ha agotado
+  nosotros: hemos agotado
+  vosotros: habéis agotado
+  uds: han agotado
+preterito-pluscuamperfecto:
+  yo: había agotado
+  tu: habías agotado
+  vos: habías agotado
+  ud: había agotado
+  nosotros: habíamos agotado
+  vosotros: habíais agotado
+  uds: habían agotado
+futuro-perfecto:
+  yo: habré agotado
+  tu: habrás agotado
+  vos: habrás agotado
+  ud: habrá agotado
+  nosotros: habremos agotado
+  vosotros: habréis agotado
+  uds: habrán agotado
+condicional-perfecto:
+  yo: habría agotado
+  tu: habrías agotado
+  vos: habrías agotado
+  ud: habría agotado
+  nosotros: habríamos agotado
+  vosotros: habríais agotado
+  uds: habrían agotado
+presente-subjuntivo:
+  yo: agote
+  tu: agotes
+  vos: agotes
+  ud: agote
+  nosotros: agotemos
+  vosotros: agotéis
+  uds: agoten
+preterito-perfecto-subjuntivo:
+  yo: haya agotado
+  tu: hayas agotado
+  vos: hayas agotado
+  ud: haya agotado
+  nosotros: hayamos agotado
+  vosotros: hayáis agotado
+  uds: hayan agotado
+imperfecto-subjuntivo:
+  yo:
+    - agotara
+    - agotase
+  tu:
+    - agotaras
+    - agotases
+  vos:
+    - agotaras
+    - agotases
+  ud:
+    - agotara
+    - agotase
+  nosotros:
+    - agotáramos
+    - agotásemos
+  vosotros:
+    - agotarais
+    - agotaseis
+  uds:
+    - agotaran
+    - agotasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agotado
+    - hubiese agotado
+  tu:
+    - hubieras agotado
+    - hubieses agotado
+  vos:
+    - hubieras agotado
+    - hubieses agotado
+  ud:
+    - hubiera agotado
+    - hubiese agotado
+  nosotros:
+    - hubiéramos agotado
+    - hubiésemos agotado
+  vosotros:
+    - hubierais agotado
+    - hubieseis agotado
+  uds:
+    - hubieran agotado
+    - hubiesen agotado
+imperativo:
+  tu: agota
+  vos: agotá
+  ud: agote
+  nosotros: agotemos
+  vosotros: agotad
+  uds: agoten

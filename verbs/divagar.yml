@@ -1,0 +1,142 @@
+infinitivo: divagar
+gerundio: divagando
+participio-pasado: divagado
+presente-indicativo:
+  yo: divago
+  tu: divagas
+  vos: divagás
+  ud: divaga
+  nosotros: divagamos
+  vosotros: divagáis
+  uds: divagan
+preterito-perfecto-simple:
+  yo: divagué
+  tu: divagaste
+  vos: divagaste
+  ud: divagó
+  nosotros: divagamos
+  vosotros: divagasteis
+  uds: divagaron
+preterito-imperfecto:
+  yo: divagaba
+  tu: divagabas
+  vos: divagabas
+  ud: divagaba
+  nosotros: divagábamos
+  vosotros: divagabais
+  uds: divagaban
+futuro-simple:
+  yo: divagaré
+  tu: divagarás
+  vos: divagarás
+  ud: divagará
+  nosotros: divagaremos
+  vosotros: divagaréis
+  uds: divagarán
+condicional-simple:
+  yo: divagaría
+  tu: divagarías
+  vos: divagarías
+  ud: divagaría
+  nosotros: divagaríamos
+  vosotros: divagaríais
+  uds: divagarían
+presente-perfecto:
+  yo: he divagado
+  tu: has divagado
+  vos: has divagado
+  ud: ha divagado
+  nosotros: hemos divagado
+  vosotros: habéis divagado
+  uds: han divagado
+preterito-pluscuamperfecto:
+  yo: había divagado
+  tu: habías divagado
+  vos: habías divagado
+  ud: había divagado
+  nosotros: habíamos divagado
+  vosotros: habíais divagado
+  uds: habían divagado
+futuro-perfecto:
+  yo: habré divagado
+  tu: habrás divagado
+  vos: habrás divagado
+  ud: habrá divagado
+  nosotros: habremos divagado
+  vosotros: habréis divagado
+  uds: habrán divagado
+condicional-perfecto:
+  yo: habría divagado
+  tu: habrías divagado
+  vos: habrías divagado
+  ud: habría divagado
+  nosotros: habríamos divagado
+  vosotros: habríais divagado
+  uds: habrían divagado
+presente-subjuntivo:
+  yo: divague
+  tu: divagues
+  vos: divagues
+  ud: divague
+  nosotros: divaguemos
+  vosotros: divaguéis
+  uds: divaguen
+preterito-perfecto-subjuntivo:
+  yo: haya divagado
+  tu: hayas divagado
+  vos: hayas divagado
+  ud: haya divagado
+  nosotros: hayamos divagado
+  vosotros: hayáis divagado
+  uds: hayan divagado
+imperfecto-subjuntivo:
+  yo:
+    - divagara
+    - divagase
+  tu:
+    - divagaras
+    - divagases
+  vos:
+    - divagaras
+    - divagases
+  ud:
+    - divagara
+    - divagase
+  nosotros:
+    - divagáramos
+    - divagásemos
+  vosotros:
+    - divagarais
+    - divagaseis
+  uds:
+    - divagaran
+    - divagasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera divagado
+    - hubiese divagado
+  tu:
+    - hubieras divagado
+    - hubieses divagado
+  vos:
+    - hubieras divagado
+    - hubieses divagado
+  ud:
+    - hubiera divagado
+    - hubiese divagado
+  nosotros:
+    - hubiéramos divagado
+    - hubiésemos divagado
+  vosotros:
+    - hubierais divagado
+    - hubieseis divagado
+  uds:
+    - hubieran divagado
+    - hubiesen divagado
+imperativo:
+  tu: divaga
+  vos: divagá
+  ud: divague
+  nosotros: divaguemos
+  vosotros: divagad
+  uds: divaguen

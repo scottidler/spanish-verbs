@@ -1,0 +1,156 @@
+infinitivo: caerse
+gerundio: cayéndose
+participio-pasado: caído
+
+presente-indicativo:
+  yo: me caigo
+  tu: te caes
+  vos: te caes
+  ud: se cae
+  nosotros: nos caemos
+  vosotros: os caéis
+  uds: se caen
+
+preterito-perfecto-simple:
+  yo: me caí
+  tu: te caíste
+  vos: te caíste
+  ud: se cayó
+  nosotros: nos caímos
+  vosotros: os caísteis
+  uds: se cayeron
+
+preterito-imperfecto:
+  yo: me caía
+  tu: te caías
+  vos: te caías
+  ud: se caía
+  nosotros: nos caíamos
+  vosotros: os caíais
+  uds: se caían
+
+futuro-simple:
+  yo: me caeré
+  tu: te caerás
+  vos: te caerás
+  ud: se caerá
+  nosotros: nos caeremos
+  vosotros: os caeréis
+  uds: se caerán
+
+condicional-simple:
+  yo: me caería
+  tu: te caerías
+  vos: te caerías
+  ud: se caería
+  nosotros: nos caeríamos
+  vosotros: os caeríais
+  uds: se caerían
+
+presente-perfecto:
+  yo: me he caído
+  tu: te has caído
+  vos: te has caído
+  ud: se ha caído
+  nosotros: nos hemos caído
+  vosotros: os habéis caído
+  uds: se han caído
+
+preterito-pluscuamperfecto:
+  yo: me había caído
+  tu: te habías caído
+  vos: te habías caído
+  ud: se había caído
+  nosotros: nos habíamos caído
+  vosotros: os habíais caído
+  uds: se habían caído
+
+futuro-perfecto:
+  yo: me habré caído
+  tu: te habrás caído
+  vos: te habrás caído
+  ud: se habrá caído
+  nosotros: nos habremos caído
+  vosotros: os habréis caído
+  uds: se habrán caído
+
+condicional-perfecto:
+  yo: me habría caído
+  tu: te habrías caído
+  vos: te habrías caído
+  ud: se habría caído
+  nosotros: nos habríamos caído
+  vosotros: os habríais caído
+  uds: se habrían caído
+
+presente-subjuntivo:
+  yo: me caiga
+  tu: te caigas
+  vos: te caigas
+  ud: se caiga
+  nosotros: nos caigamos
+  vosotros: os caigáis
+  uds: se caigan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya caído
+  tu: te hayas caído
+  vos: te hayas caído
+  ud: se haya caído
+  nosotros: nos hayamos caído
+  vosotros: os hayáis caído
+  uds: se hayan caído
+
+imperfecto-subjuntivo:
+  yo:
+    - me cayera
+    - me cayese
+  tu:
+    - te cayeras
+    - te cayeses
+  vos:
+    - te cayeras
+    - te cayeses
+  ud:
+    - se cayera
+    - se cayese
+  nosotros:
+    - nos cayéramos
+    - nos cayésemos
+  vosotros:
+    - os cayerais
+    - os cayeseis
+  uds:
+    - se cayeran
+    - se cayesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera caído
+    - me hubiese caído
+  tu:
+    - te hubieras caído
+    - te hubieses caído
+  vos:
+    - te hubieras caído
+    - te hubieses caído
+  ud:
+    - se hubiera caído
+    - se hubiese caído
+  nosotros:
+    - nos hubiéramos caído
+    - nos hubiésemos caído
+  vosotros:
+    - os hubierais caído
+    - os hubieseis caído
+  uds:
+    - se hubieran caído
+    - se hubiesen caído
+
+imperativo:
+  tu: cáete
+  vos: cáete
+  ud: céase
+  nosotros: cáigamosnos
+  vosotros: caeos
+  uds: cáiganse

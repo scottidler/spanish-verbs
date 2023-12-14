@@ -1,0 +1,142 @@
+infinitivo: confiscar
+gerundio: confiscando
+participio-pasado: confiscado
+presente-indicativo:
+  yo: confisco
+  tu: confiscas
+  vos: confiscas
+  ud: confisca
+  nosotros: confiscamos
+  vosotros: confiscáis
+  uds: confiscan
+preterito-perfecto-simple:
+  yo: confiscé
+  tu: confiscaste
+  vos: confiscaste
+  ud: confiscó
+  nosotros: confiscamos
+  vosotros: confiscasteis
+  uds: confiscaron
+preterito-imperfecto:
+  yo: confiscaba
+  tu: confiscabas
+  vos: confiscabas
+  ud: confiscaba
+  nosotros: confiscábamos
+  vosotros: confiscabais
+  uds: confiscaban
+futuro-simple:
+  yo: confiscaré
+  tu: confiscarás
+  vos: confiscarás
+  ud: confiscará
+  nosotros: confiscaremos
+  vosotros: confiscaréis
+  uds: confiscarán
+condicional-simple:
+  yo: confiscaría
+  tu: confiscarías
+  vos: confiscarías
+  ud: confiscaría
+  nosotros: confiscaríamos
+  vosotros: confiscaríais
+  uds: confiscarían
+presente-perfecto:
+  yo: he confiscado
+  tu: has confiscado
+  vos: has confiscado
+  ud: ha confiscado
+  nosotros: hemos confiscado
+  vosotros: habéis confiscado
+  uds: han confiscado
+preterito-pluscuamperfecto:
+  yo: había confiscado
+  tu: habías confiscado
+  vos: habías confiscado
+  ud: había confiscado
+  nosotros: habíamos confiscado
+  vosotros: habíais confiscado
+  uds: habían confiscado
+futuro-perfecto:
+  yo: habré confiscado
+  tu: habrás confiscado
+  vos: habrás confiscado
+  ud: habrá confiscado
+  nosotros: habremos confiscado
+  vosotros: habréis confiscado
+  uds: habrán confiscado
+condicional-perfecto:
+  yo: habría confiscado
+  tu: habrías confiscado
+  vos: habrías confiscado
+  ud: habría confiscado
+  nosotros: habríamos confiscado
+  vosotros: habríais confiscado
+  uds: habrían confiscado
+presente-subjuntivo:
+  yo: confisque
+  tu: confisques
+  vos: confisques
+  ud: confisque
+  nosotros: confisquemos
+  vosotros: confisquéis
+  uds: confisquen
+preterito-perfecto-subjuntivo:
+  yo: haya confiscado
+  tu: hayas confiscado
+  vos: hayas confiscado
+  ud: haya confiscado
+  nosotros: hayamos confiscado
+  vosotros: hayáis confiscado
+  uds: hayan confiscado
+imperfecto-subjuntivo:
+  yo:
+    - confiscara
+    - confiscase
+  tu:
+    - confiscaras
+    - confiscases
+  vos:
+    - confiscaras
+    - confiscases
+  ud:
+    - confiscara
+    - confiscase
+  nosotros:
+    - confiscáramos
+    - confiscásemos
+  vosotros:
+    - confiscarais
+    - confiscaseis
+  uds:
+    - confiscaran
+    - confiscasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera confiscado
+    - hubiese confiscado
+  tu:
+    - hubieras confiscado
+    - hubieses confiscado
+  vos:
+    - hubieras confiscado
+    - hubieses confiscado
+  ud:
+    - hubiera confiscado
+    - hubiese confiscado
+  nosotros:
+    - hubiéramos confiscado
+    - hubiésemos confiscado
+  vosotros:
+    - hubierais confiscado
+    - hubieseis confiscado
+  uds:
+    - hubieran confiscado
+    - hubiesen confiscado
+imperativo:
+  tu: confisca
+  vos: confisca
+  ud: confisque
+  nosotros: confisquemos
+  vosotros: confiscad
+  uds: confisquen

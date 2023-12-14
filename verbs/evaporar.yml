@@ -1,0 +1,142 @@
+infinitivo: evaporar
+gerundio: evaporando
+participio-pasado: evaporado
+presente-indicativo:
+  yo: evaporo
+  tu: evaporas
+  vos: evaporas
+  ud: evapora
+  nosotros: evaporamos
+  vosotros: evaporáis
+  uds: evaporan
+preterito-perfecto-simple:
+  yo: evaporé
+  tu: evaporaste
+  vos: evaporaste
+  ud: evaporó
+  nosotros: evaporamos
+  vosotros: evaporasteis
+  uds: evaporaron
+preterito-imperfecto:
+  yo: evaporaba
+  tu: evaporabas
+  vos: evaporabas
+  ud: evaporaba
+  nosotros: evaporábamos
+  vosotros: evaporabais
+  uds: evaporaban
+futuro-simple:
+  yo: evaporaré
+  tu: evaporarás
+  vos: evaporarás
+  ud: evaporará
+  nosotros: evaporaremos
+  vosotros: evaporaréis
+  uds: evaporarán
+condicional-simple:
+  yo: evaporaría
+  tu: evaporarías
+  vos: evaporarías
+  ud: evaporaría
+  nosotros: evaporaríamos
+  vosotros: evaporaríais
+  uds: evaporarían
+presente-perfecto:
+  yo: he evaporado
+  tu: has evaporado
+  vos: has evaporado
+  ud: ha evaporado
+  nosotros: hemos evaporado
+  vosotros: habéis evaporado
+  uds: han evaporado
+preterito-pluscuamperfecto:
+  yo: había evaporado
+  tu: habías evaporado
+  vos: habías evaporado
+  ud: había evaporado
+  nosotros: habíamos evaporado
+  vosotros: habíais evaporado
+  uds: habían evaporado
+futuro-perfecto:
+  yo: habré evaporado
+  tu: habrás evaporado
+  vos: habrás evaporado
+  ud: habrá evaporado
+  nosotros: habremos evaporado
+  vosotros: habréis evaporado
+  uds: habrán evaporado
+condicional-perfecto:
+  yo: habría evaporado
+  tu: habrías evaporado
+  vos: habrías evaporado
+  ud: habría evaporado
+  nosotros: habríamos evaporado
+  vosotros: habríais evaporado
+  uds: habrían evaporado
+presente-subjuntivo:
+  yo: evapore
+  tu: evapores
+  vos: evapores
+  ud: evapore
+  nosotros: evaporimos
+  vosotros: evaporéis
+  uds: evaporen
+preterito-perfecto-subjuntivo:
+  yo: haya evaporado
+  tu: hayas evaporado
+  vos: hayas evaporado
+  ud: haya evaporado
+  nosotros: hayamos evaporado
+  vosotros: hayáis evaporado
+  uds: hayan evaporado
+imperfecto-subjuntivo:
+  yo:
+    - evaporara
+    - evaporase
+  tu:
+    - evaporaras
+    - evaporases
+  vos:
+    - evaporaras
+    - evaporases
+  ud:
+    - evaporara
+    - evaporase
+  nosotros:
+    - evaporáramos
+    - evaporásemos
+  vosotros:
+    - evaporarais
+    - evaporaseis
+  uds:
+    - evaporaran
+    - evaporasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera evaporado
+    - hubiese evaporado
+  tu:
+    - hubieras evaporado
+    - hubieses evaporado
+  vos:
+    - hubieras evaporado
+    - hubieses evaporado
+  ud:
+    - hubiera evaporado
+    - hubiese evaporado
+  nosotros:
+    - hubiéramos evaporado
+    - hubiésemos evaporado
+  vosotros:
+    - hubierais evaporado
+    - hubieseis evaporado
+  uds:
+    - hubieran evaporado
+    - hubiesen evaporado
+imperativo:
+  tu: evapora
+  vos: evaporá
+  ud: evapore
+  nosotros: evaporamos
+  vosotros: evaporad
+  uds: evaporen

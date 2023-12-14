@@ -1,0 +1,142 @@
+infinitivo: sobrepasar
+gerundio: sobrepasando
+participio-pasado: sobrepasado
+presente-indicativo:
+  yo: sobrepaso
+  tu: sobrepasas
+  vos: sobrepasas
+  ud: sobrepasa
+  nosotros: sobrepasamos
+  vosotros: sobrepasáis
+  uds: sobrepasan
+preterito-perfecto-simple:
+  yo: sobrepasé
+  tu: sobrepasaste
+  vos: sobrepasaste
+  ud: sobrepasó
+  nosotros: sobrepasamos
+  vosotros: sobrepasasteis
+  uds: sobrepasaron
+preterito-imperfecto:
+  yo: sobrepasaba
+  tu: sobrepasabas
+  vos: sobrepasabas
+  ud: sobrepasaba
+  nosotros: sobrepasábamos
+  vosotros: sobrepasabais
+  uds: sobrepasaban
+futuro-simple:
+  yo: sobrepasaré
+  tu: sobrepasarás
+  vos: sobrepasarás
+  ud: sobrepasará
+  nosotros: sobrepasaremos
+  vosotros: sobrepasaréis
+  uds: sobrepasarán
+condicional-simple:
+  yo: sobrepasaría
+  tu: sobrepasarías
+  vos: sobrepasarías
+  ud: sobrepasaría
+  nosotros: sobrepasaríamos
+  vosotros: sobrepasaríais
+  uds: sobrepasarían
+presente-perfecto:
+  yo: he sobrepasado
+  tu: has sobrepasado
+  vos: has sobrepasado
+  ud: ha sobrepasado
+  nosotros: hemos sobrepasado
+  vosotros: habéis sobrepasado
+  uds: han sobrepasado
+preterito-pluscuamperfecto:
+  yo: había sobrepasado
+  tu: habías sobrepasado
+  vos: habías sobrepasado
+  ud: había sobrepasado
+  nosotros: habíamos sobrepasado
+  vosotros: habíais sobrepasado
+  uds: habían sobrepasado
+futuro-perfecto:
+  yo: habré sobrepasado
+  tu: habrás sobrepasado
+  vos: habrás sobrepasado
+  ud: habrá sobrepasado
+  nosotros: habremos sobrepasado
+  vosotros: habréis sobrepasado
+  uds: habrán sobrepasado
+condicional-perfecto:
+  yo: habría sobrepasado
+  tu: habrías sobrepasado
+  vos: habrías sobrepasado
+  ud: habría sobrepasado
+  nosotros: habríamos sobrepasado
+  vosotros: habríais sobrepasado
+  uds: habrían sobrepasado
+presente-subjuntivo:
+  yo: sobrepase
+  tu: sobrepases
+  vos: sobrepases
+  ud: sobrepase
+  nosotros: sobrepasemos
+  vosotros: sobrepaséis
+  uds: sobrepasen
+preterito-perfecto-subjuntivo:
+  yo: haya sobrepasado
+  tu: hayas sobrepasado
+  vos: hayas sobrepasado
+  ud: haya sobrepasado
+  nosotros: hayamos sobrepasado
+  vosotros: hayáis sobrepasado
+  uds: hayan sobrepasado
+imperfecto-subjuntivo:
+  yo:
+    - sobrepasara
+    - sobrepasase
+  tu:
+    - sobrepasaras
+    - sobrepasases
+  vos:
+    - sobrepasaras
+    - sobrepasases
+  ud:
+    - sobrepasara
+    - sobrepasase
+  nosotros:
+    - sobrepasáramos
+    - sobrepasásemos
+  vosotros:
+    - sobrepasarais
+    - sobrepasaseis
+  uds:
+    - sobrepasaran
+    - sobrepasasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sobrepasado
+    - hubiese sobrepasado
+  tu:
+    - hubieras sobrepasado
+    - hubieses sobrepasado
+  vos:
+    - hubieras sobrepasado
+    - hubieses sobrepasado
+  ud:
+    - hubiera sobrepasado
+    - hubiese sobrepasado
+  nosotros:
+    - hubiéramos sobrepasado
+    - hubiésemos sobrepasado
+  vosotros:
+    - hubierais sobrepasado
+    - hubieseis sobrepasado
+  uds:
+    - hubieran sobrepasado
+    - hubiesen sobrepasado
+imperativo:
+  tu: sobrepasa
+  vos: sobrepasá
+  ud: sobrepase
+  nosotros: sobrepasemos
+  vosotros: sobrepasad
+  uds: sobrepasen

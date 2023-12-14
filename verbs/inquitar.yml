@@ -1,0 +1,142 @@
+infinitivo: inquitar
+gerundio: inquitando
+participio-pasado: inquitado
+presente-indicativo:
+  yo: inquito
+  tu: inquitas
+  vos: inquitas
+  ud: inquita
+  nosotros: inquitamos
+  vosotros: inquitáis
+  uds: inquitan
+preterito-perfecto-simple:
+  yo: inquité
+  tu: inquitaste
+  vos: inquitaste
+  ud: inquitó
+  nosotros: inquitamos
+  vosotros: inquitasteis
+  uds: inquitaron
+preterito-imperfecto:
+  yo: inquitaba
+  tu: inquitabas
+  vos: inquitabas
+  ud: inquitaba
+  nosotros: inquitábamos
+  vosotros: inquitabais
+  uds: inquitaban
+futuro-simple:
+  yo: inquitaré
+  tu: inquitarás
+  vos: inquitarás
+  ud: inquitará
+  nosotros: inquitaremos
+  vosotros: inquitaréis
+  uds: inquitarán
+condicional-simple:
+  yo: inquitaría
+  tu: inquitarías
+  vos: inquitarías
+  ud: inquitaría
+  nosotros: inquitaríamos
+  vosotros: inquitaríais
+  uds: inquitarían
+presente-perfecto:
+  yo: he inquitado
+  tu: has inquitado
+  vos: has inquitado
+  ud: ha inquitado
+  nosotros: hemos inquitado
+  vosotros: habéis inquitado
+  uds: han inquitado
+preterito-pluscuamperfecto:
+  yo: había inquitado
+  tu: habías inquitado
+  vos: habías inquitado
+  ud: había inquitado
+  nosotros: habíamos inquitado
+  vosotros: habíais inquitado
+  uds: habían inquitado
+futuro-perfecto:
+  yo: habré inquitado
+  tu: habrás inquitado
+  vos: habrás inquitado
+  ud: habrá inquitado
+  nosotros: habremos inquitado
+  vosotros: habréis inquitado
+  uds: habrán inquitado
+condicional-perfecto:
+  yo: habría inquitado
+  tu: habrías inquitado
+  vos: habrías inquitado
+  ud: habría inquitado
+  nosotros: habríamos inquitado
+  vosotros: habríais inquitado
+  uds: habrían inquitado
+presente-subjuntivo:
+  yo: inquite
+  tu: inquites
+  vos: inquites
+  ud: inquite
+  nosotros: inquitamos
+  vosotros: inquitáis
+  uds: inquiten
+preterito-perfecto-subjuntivo:
+  yo: haya inquitado
+  tu: hayas inquitado
+  vos: hayas inquitado
+  ud: haya inquitado
+  nosotros: hayamos inquitado
+  vosotros: hayáis inquitado
+  uds: hayan inquitado
+imperfecto-subjuntivo:
+  yo:
+    - inquitara
+    - inquitase
+  tu:
+    - inquitaras
+    - inquitases
+  vos:
+    - inquitaras
+    - inquitases
+  ud:
+    - inquitara
+    - inquitase
+  nosotros:
+    - inquitáramos
+    - inquitásemos
+  vosotros:
+    - inquitarais
+    - inquitaseis
+  uds:
+    - inquitaran
+    - inquitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera inquitado
+    - hubiese inquitado
+  tu:
+    - hubieras inquitado
+    - hubieses inquitado
+  vos:
+    - hubieras inquitado
+    - hubieses inquitado
+  ud:
+    - hubiera inquitado
+    - hubiese inquitado
+  nosotros:
+    - hubiéramos inquitado
+    - hubiésemos inquitado
+  vosotros:
+    - hubierais inquitado
+    - hubieseis inquitado
+  uds:
+    - hubieran inquitado
+    - hubiesen inquitado
+imperativo:
+  tu: inquita
+  vos: inquité
+  ud: inquite
+  nosotros: inquitamos
+  vosotros: inquitad
+  uds: inquiten

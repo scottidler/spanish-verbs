@@ -1,0 +1,142 @@
+infinitivo: incinerar
+gerundio: incinerando
+participio-pasado: incinerado
+presente-indicativo:
+  yo: incinero
+  tu: incineras
+  vos: incineras
+  ud: incinera
+  nosotros: incineramos
+  vosotros: incineráis
+  uds: incineran
+preterito-perfecto-simple:
+  yo: incineré
+  tu: incineraste
+  vos: incineraste
+  ud: incineró
+  nosotros: incineramos
+  vosotros: incinerasteis
+  uds: incineraron
+preterito-imperfecto:
+  yo: incineraba
+  tu: incinerabas
+  vos: incinerabas
+  ud: incineraba
+  nosotros: incinerábamos
+  vosotros: incinerabais
+  uds: incineraban
+futuro-simple:
+  yo: incineraré
+  tu: incinerarás
+  vos: incinerarás
+  ud: incinerará
+  nosotros: incineraremos
+  vosotros: incineraréis
+  uds: incinerarán
+condicional-simple:
+  yo: incineraría
+  tu: incinerarías
+  vos: incinerarías
+  ud: incineraría
+  nosotros: incineraríamos
+  vosotros: incineraríais
+  uds: incinerarían
+presente-perfecto:
+  yo: he incinerado
+  tu: has incinerado
+  vos: has incinerado
+  ud: ha incinerado
+  nosotros: hemos incinerado
+  vosotros: habéis incinerado
+  uds: han incinerado
+preterito-pluscuamperfecto:
+  yo: había incinerado
+  tu: habías incinerado
+  vos: habías incinerado
+  ud: había incinerado
+  nosotros: habíamos incinerado
+  vosotros: habíais incinerado
+  uds: habían incinerado
+futuro-perfecto:
+  yo: habré incinerado
+  tu: habrás incinerado
+  vos: habrás incinerado
+  ud: habrá incinerado
+  nosotros: habremos incinerado
+  vosotros: habréis incinerado
+  uds: habrán incinerado
+condicional-perfecto:
+  yo: habría incinerado
+  tu: habrías incinerado
+  vos: habrías incinerado
+  ud: habría incinerado
+  nosotros: habríamos incinerado
+  vosotros: habríais incinerado
+  uds: habrían incinerado
+presente-subjuntivo:
+  yo: incinere
+  tu: incineres
+  vos: incineres
+  ud: incinere
+  nosotros: incineremos
+  vosotros: incineréis
+  uds: incineren
+preterito-perfecto-subjuntivo:
+  yo: haya incinerado
+  tu: hayas incinerado
+  vos: hayas incinerado
+  ud: haya incinerado
+  nosotros: hayamos incinerado
+  vosotros: hayáis incinerado
+  uds: hayan incinerado
+imperfecto-subjuntivo:
+  yo:
+    - incinerara
+    - incinerase
+  tu:
+    - incineraras
+    - incinerases
+  vos:
+    - incineraras
+    - incinerases
+  ud:
+    - incinerara
+    - incinerase
+  nosotros:
+    - incineráramos
+    - incinerásemos
+  vosotros:
+    - incinerarais
+    - incineraseis
+  uds:
+    - incineraran
+    - incinerasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera incinerado
+    - hubiese incinerado
+  tu:
+    - hubieras incinerado
+    - hubieses incinerado
+  vos:
+    - hubieras incinerado
+    - hubieses incinerado
+  ud:
+    - hubiera incinerado
+    - hubiese incinerado
+  nosotros:
+    - hubiéramos incinerado
+    - hubiésemos incinerado
+  vosotros:
+    - hubierais incinerado
+    - hubieseis incinerado
+  uds:
+    - hubieran incinerado
+    - hubiesen incinerado
+imperativo:
+  tu: incinera
+  vos: incinerá
+  ud: incinere
+  nosotros: incineremos
+  vosotros: incinerad
+  uds: incineren

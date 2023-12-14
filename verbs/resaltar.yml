@@ -1,0 +1,142 @@
+infinitivo: resaltar
+gerundio: resaltando
+participio-pasado: resaltado
+presente-indicativo:
+  yo: resalto
+  tu: resaltas
+  vos: resaltas
+  ud: resalta
+  nosotros: resaltamos
+  vosotros: resaltáis
+  uds: resaltan
+preterito-perfecto-simple:
+  yo: resalté
+  tu: resaltaste
+  vos: resaltaste
+  ud: resaltó
+  nosotros: resaltamos
+  vosotros: resaltasteis
+  uds: resaltaron
+preterito-imperfecto:
+  yo: resaltaba
+  tu: resaltabas
+  vos: resaltabas
+  ud: resaltaba
+  nosotros: resaltábamos
+  vosotros: resaltabais
+  uds: resaltaban
+futuro-simple:
+  yo: resaltaré
+  tu: resaltarás
+  vos: resaltarás
+  ud: resaltará
+  nosotros: resaltaremos
+  vosotros: resaltaréis
+  uds: resaltarán
+condicional-simple:
+  yo: resaltaría
+  tu: resaltarías
+  vos: resaltarías
+  ud: resaltaría
+  nosotros: resaltaríamos
+  vosotros: resaltaríais
+  uds: resaltarían
+presente-perfecto:
+  yo: he resaltado
+  tu: has resaltado
+  vos: has resaltado
+  ud: ha resaltado
+  nosotros: hemos resaltado
+  vosotros: habéis resaltado
+  uds: han resaltado
+preterito-pluscuamperfecto:
+  yo: había resaltado
+  tu: habías resaltado
+  vos: habías resaltado
+  ud: había resaltado
+  nosotros: habíamos resaltado
+  vosotros: habíais resaltado
+  uds: habían resaltado
+futuro-perfecto:
+  yo: habré resaltado
+  tu: habrás resaltado
+  vos: habrás resaltado
+  ud: habrá resaltado
+  nosotros: habremos resaltado
+  vosotros: habréis resaltado
+  uds: habrán resaltado
+condicional-perfecto:
+  yo: habría resaltado
+  tu: habrías resaltado
+  vos: habrías resaltado
+  ud: habría resaltado
+  nosotros: habríamos resaltado
+  vosotros: habríais resaltado
+  uds: habrían resaltado
+presente-subjuntivo:
+  yo: resalte
+  tu: resaltes
+  vos: resaltes
+  ud: resalte
+  nosotros: resaltemos
+  vosotros: resaltéis
+  uds: resalten
+preterito-perfecto-subjuntivo:
+  yo: haya resaltado
+  tu: hayas resaltado
+  vos: hayas resaltado
+  ud: haya resaltado
+  nosotros: hayamos resaltado
+  vosotros: hayáis resaltado
+  uds: hayan resaltado
+imperfecto-subjuntivo:
+  yo:
+    - resaltara
+    - resaltase
+  tu:
+    - resaltaras
+    - resaltases
+  vos:
+    - resaltaras
+    - resaltases
+  ud:
+    - resaltara
+    - resaltase
+  nosotros:
+    - resaltáramos
+    - resaltásemos
+  vosotros:
+    - resaltarais
+    - resaltaseis
+  uds:
+    - resaltaran
+    - resaltasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera resaltado
+    - hubiese resaltado
+  tu:
+    - hubieras resaltado
+    - hubieses resaltado
+  vos:
+    - hubieras resaltado
+    - hubieses resaltado
+  ud:
+    - hubiera resaltado
+    - hubiese resaltado
+  nosotros:
+    - hubiéramos resaltado
+    - hubiésemos resaltado
+  vosotros:
+    - hubierais resaltado
+    - hubieseis resaltado
+  uds:
+    - hubieran resaltado
+    - hubiesen resaltado
+imperativo:
+  tu: resalta
+  vos: resaltá
+  ud: resalte
+  nosotros: resaltemos
+  vosotros: resaltad
+  uds: resalten

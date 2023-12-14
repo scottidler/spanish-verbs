@@ -1,0 +1,142 @@
+infinitivo: arrancar
+gerundio: arrancando
+participio-pasado: arrancado
+presente-indicativo:
+  yo: arranco
+  tu: arrancas
+  vos: arrancas
+  ud: arranca
+  nosotros: arrancamos
+  vosotros: arrancáis
+  uds: arrancan
+preterito-perfecto-simple:
+  yo: arranqué
+  tu: arrancaste
+  vos: arrancaste
+  ud: arrancó
+  nosotros: arrancamos
+  vosotros: arrancasteis
+  uds: arrancaron
+preterito-imperfecto:
+  yo: arrancaba
+  tu: arrancabas
+  vos: arrancabas
+  ud: arrancaba
+  nosotros: arrancábamos
+  vosotros: arrancabais
+  uds: arrancaban
+futuro-simple:
+  yo: arrancaré
+  tu: arrancarás
+  vos: arrancarás
+  ud: arrancará
+  nosotros: arrancaremos
+  vosotros: arrancaréis
+  uds: arrancarán
+condicional-simple:
+  yo: arrancaría
+  tu: arrancarías
+  vos: arrancarías
+  ud: arrancaría
+  nosotros: arrancaríamos
+  vosotros: arrancaríais
+  uds: arrancarían
+presente-perfecto:
+  yo: he arrancado
+  tu: has arrancado
+  vos: has arrancado
+  ud: ha arrancado
+  nosotros: hemos arrancado
+  vosotros: habéis arrancado
+  uds: han arrancado
+preterito-pluscuamperfecto:
+  yo: había arrancado
+  tu: habías arrancado
+  vos: habías arrancado
+  ud: había arrancado
+  nosotros: habíamos arrancado
+  vosotros: habíais arrancado
+  uds: habían arrancado
+futuro-perfecto:
+  yo: habré arrancado
+  tu: habrás arrancado
+  vos: habrás arrancado
+  ud: habrá arrancado
+  nosotros: habremos arrancado
+  vosotros: habréis arrancado
+  uds: habrán arrancado
+condicional-perfecto:
+  yo: habría arrancado
+  tu: habrías arrancado
+  vos: habrías arrancado
+  ud: habría arrancado
+  nosotros: habríamos arrancado
+  vosotros: habríais arrancado
+  uds: habrían arrancado
+presente-subjuntivo:
+  yo: arranque
+  tu: arranques
+  vos: arranques
+  ud: arranque
+  nosotros: arranquemos
+  vosotros: arranquéis
+  uds: arranquen
+preterito-perfecto-subjuntivo:
+  yo: haya arrancado
+  tu: hayas arrancado
+  vos: hayas arrancado
+  ud: haya arrancado
+  nosotros: hayamos arrancado
+  vosotros: hayáis arrancado
+  uds: hayan arrancado
+imperfecto-subjuntivo:
+  yo:
+    - arrancara
+    - arrancase
+  tu:
+    - arrancaras
+    - arrancases
+  vos:
+    - arrancaras
+    - arrancases
+  ud:
+    - arrancara
+    - arrancase
+  nosotros:
+    - arrancáramos
+    - arrancásemos
+  vosotros:
+    - arrancarais
+    - arrancaseis
+  uds:
+    - arrancaran
+    - arrancasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arrancado
+    - hubiese arrancado
+  tu:
+    - hubieras arrancado
+    - hubieses arrancado
+  vos:
+    - hubieras arrancado
+    - hubieses arrancado
+  ud:
+    - hubiera arrancado
+    - hubiese arrancado
+  nosotros:
+    - hubiéramos arrancado
+    - hubiésemos arrancado
+  vosotros:
+    - hubierais arrancado
+    - hubieseis arrancado
+  uds:
+    - hubieran arrancado
+    - hubiesen arrancado
+imperativo:
+  tu: arranca
+  vos: arrancá
+  ud: arranque
+  nosotros: arranquemos
+  vosotros: arrancad
+  uds: arranquen

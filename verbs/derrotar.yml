@@ -1,0 +1,142 @@
+infinitivo: derrotar
+gerundio: derrotando
+participio-pasado: derrotado
+presente-indicativo:
+  yo: derroto
+  tu: derrotas
+  vos: derrotas
+  ud: derrota
+  nosotros: derrotamos
+  vosotros: derrotáis
+  uds: derrotan
+preterito-perfecto-simple:
+  yo: derroté
+  tu: derrotaste
+  vos: derrotaste
+  ud: derrotó
+  nosotros: derrotamos
+  vosotros: derrotasteis
+  uds: derrotaron
+preterito-imperfecto:
+  yo: derrotaba
+  tu: derrotabas
+  vos: derrotabas
+  ud: derrotaba
+  nosotros: derrotábamos
+  vosotros: derrotabais
+  uds: derrotaban
+futuro-simple:
+  yo: derrotaré
+  tu: derrotarás
+  vos: derrotarás
+  ud: derrotará
+  nosotros: derrotaremos
+  vosotros: derrotaréis
+  uds: derrotarán
+condicional-simple:
+  yo: derrotaría
+  tu: derrotarías
+  vos: derrotarías
+  ud: derrotaría
+  nosotros: derrotaríamos
+  vosotros: derrotaríais
+  uds: derrotarían
+presente-perfecto:
+  yo: he derrotado
+  tu: has derrotado
+  vos: has derrotado
+  ud: ha derrotado
+  nosotros: hemos derrotado
+  vosotros: habéis derrotado
+  uds: han derrotado
+preterito-pluscuamperfecto:
+  yo: había derrotado
+  tu: habías derrotado
+  vos: habías derrotado
+  ud: había derrotado
+  nosotros: habíamos derrotado
+  vosotros: habíais derrotado
+  uds: habían derrotado
+futuro-perfecto:
+  yo: habré derrotado
+  tu: habrás derrotado
+  vos: habrás derrotado
+  ud: habrá derrotado
+  nosotros: habremos derrotado
+  vosotros: habréis derrotado
+  uds: habrán derrotado
+condicional-perfecto:
+  yo: habría derrotado
+  tu: habrías derrotado
+  vos: habrías derrotado
+  ud: habría derrotado
+  nosotros: habríamos derrotado
+  vosotros: habríais derrotado
+  uds: habrían derrotado
+presente-subjuntivo:
+  yo: derrote
+  tu: derrotes
+  vos: derrotes
+  ud: derrote
+  nosotros: derrotemos
+  vosotros: derrotéis
+  uds: derroten
+preterito-perfecto-subjuntivo:
+  yo: haya derrotado
+  tu: hayas derrotado
+  vos: hayas derrotado
+  ud: haya derrotado
+  nosotros: hayamos derrotado
+  vosotros: hayáis derrotado
+  uds: hayan derrotado
+imperfecto-subjuntivo:
+  yo:
+    - derrotara
+    - derrotase
+  tu:
+    - derrotaras
+    - derrotases
+  vos:
+    - derrotaras
+    - derrotases
+  ud:
+    - derrotara
+    - derrotase
+  nosotros:
+    - derrotáramos
+    - derrotásemos
+  vosotros:
+    - derrotarais
+    - derrotaseis
+  uds:
+    - derrotaran
+    - derrotasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera derrotado
+    - hubiese derrotado
+  tu:
+    - hubieras derrotado
+    - hubieses derrotado
+  vos:
+    - hubieras derrotado
+    - hubieses derrotado
+  ud:
+    - hubiera derrotado
+    - hubiese derrotado
+  nosotros:
+    - hubiéramos derrotado
+    - hubiésemos derrotado
+  vosotros:
+    - hubierais derrotado
+    - hubieseis derrotado
+  uds:
+    - hubieran derrotado
+    - hubiesen derrotado
+imperativo:
+  tu: derrota
+  vos: derrota
+  ud: derrote
+  nosotros: derrotemos
+  vosotros: derrotad
+  uds: derroten

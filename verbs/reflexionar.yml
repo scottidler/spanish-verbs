@@ -1,0 +1,142 @@
+infinitivo: reflexionar
+gerundio: reflexionando
+participio-pasado: reflexionado
+presente-indicativo:
+  yo: reflexiono
+  tu: reflexionas
+  vos: reflexionas
+  ud: reflexiona
+  nosotros: reflexionamos
+  vosotros: reflexionáis
+  uds: reflexionan
+preterito-perfecto-simple:
+  yo: reflexioné
+  tu: reflexionaste
+  vos: reflexionaste
+  ud: reflexionó
+  nosotros: reflexionamos
+  vosotros: reflexionasteis
+  uds: reflexionaron
+preterito-imperfecto:
+  yo: reflexionaba
+  tu: reflexionabas
+  vos: reflexionabas
+  ud: reflexionaba
+  nosotros: reflexionábamos
+  vosotros: reflexionabais
+  uds: reflexionaban
+futuro-simple:
+  yo: reflexionaré
+  tu: reflexionarás
+  vos: reflexionarás
+  ud: reflexionará
+  nosotros: reflexionaremos
+  vosotros: reflexionaréis
+  uds: reflexionarán
+condicional-simple:
+  yo: reflexionaría
+  tu: reflexionarías
+  vos: reflexionarías
+  ud: reflexionaría
+  nosotros: reflexionaríamos
+  vosotros: reflexionaríais
+  uds: reflexionarían
+presente-perfecto:
+  yo: he reflexionado
+  tu: has reflexionado
+  vos: has reflexionado
+  ud: ha reflexionado
+  nosotros: hemos reflexionado
+  vosotros: habéis reflexionado
+  uds: han reflexionado
+preterito-pluscuamperfecto:
+  yo: había reflexionado
+  tu: habías reflexionado
+  vos: habías reflexionado
+  ud: había reflexionado
+  nosotros: habíamos reflexionado
+  vosotros: habíais reflexionado
+  uds: habían reflexionado
+futuro-perfecto:
+  yo: habré reflexionado
+  tu: habrás reflexionado
+  vos: habrás reflexionado
+  ud: habrá reflexionado
+  nosotros: habremos reflexionado
+  vosotros: habréis reflexionado
+  uds: habrán reflexionado
+condicional-perfecto:
+  yo: habría reflexionado
+  tu: habrías reflexionado
+  vos: habrías reflexionado
+  ud: habría reflexionado
+  nosotros: habríamos reflexionado
+  vosotros: habríais reflexionado
+  uds: habrían reflexionado
+presente-subjuntivo:
+  yo: reflexione
+  tu: reflexiones
+  vos: reflexiones
+  ud: reflexione
+  nosotros: reflexionemos
+  vosotros: reflexionéis
+  uds: reflexionen
+preterito-perfecto-subjuntivo:
+  yo: haya reflexionado
+  tu: hayas reflexionado
+  vos: hayas reflexionado
+  ud: haya reflexionado
+  nosotros: hayamos reflexionado
+  vosotros: hayáis reflexionado
+  uds: hayan reflexionado
+imperfecto-subjuntivo:
+  yo:
+    - reflexionara
+    - reflexionase
+  tu:
+    - reflexionaras
+    - reflexionases
+  vos:
+    - reflexionaras
+    - reflexionases
+  ud:
+    - reflexionara
+    - reflexionase
+  nosotros:
+    - reflexionáramos
+    - reflexionásemos
+  vosotros:
+    - reflexionarais
+    - reflexionaseis
+  uds:
+    - reflexionaran
+    - reflexionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reflexionado
+    - hubiese reflexionado
+  tu:
+    - hubieras reflexionado
+    - hubieses reflexionado
+  vos:
+    - hubieras reflexionado
+    - hubieses reflexionado
+  ud:
+    - hubiera reflexionado
+    - hubiese reflexionado
+  nosotros:
+    - hubiéramos reflexionado
+    - hubiésemos reflexionado
+  vosotros:
+    - hubierais reflexionado
+    - hubieseis reflexionado
+  uds:
+    - hubieran reflexionado
+    - hubiesen reflexionado
+imperativo:
+  tu: reflexiona
+  vos: reflexioná
+  ud: reflexione
+  nosotros: reflexionemos
+  vosotros: reflexionad
+  uds: reflexionen

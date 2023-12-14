@@ -1,0 +1,142 @@
+infinitivo: bailar
+gerundio: bailando
+participio-pasado: bailado
+presente-indicativo:
+  yo: bailo
+  tu: bailas
+  vos: bailas
+  ud: baila
+  nosotros: bailamos
+  vosotros: bailáis
+  uds: bailan
+preterito-perfecto-simple:
+  yo: bailé
+  tu: bailaste
+  vos: bailaste
+  ud: bailó
+  nosotros: bailamos
+  vosotros: bailasteis
+  uds: bailaron
+preterito-imperfecto:
+  yo: bailaba
+  tu: bailabas
+  vos: bailabas
+  ud: bailaba
+  nosotros: bailábamos
+  vosotros: bailabais
+  uds: bailaban
+futuro-simple:
+  yo: bailaré
+  tu: bailarás
+  vos: bailarás
+  ud: bailará
+  nosotros: bailaremos
+  vosotros: bailaréis
+  uds: bailarán
+condicional-simple:
+  yo: bailaría
+  tu: bailarías
+  vos: bailarías
+  ud: bailaría
+  nosotros: bailaríamos
+  vosotros: bailaríais
+  uds: bailarían
+presente-perfecto:
+  yo: he bailado
+  tu: has bailado
+  vos: has bailado
+  ud: ha bailado
+  nosotros: hemos bailado
+  vosotros: habéis bailado
+  uds: han bailado
+preterito-pluscuamperfecto:
+  yo: había bailado
+  tu: habías bailado
+  vos: habías bailado
+  ud: había bailado
+  nosotros: habíamos bailado
+  vosotros: habíais bailado
+  uds: habían bailado
+futuro-perfecto:
+  yo: habré bailado
+  tu: habrás bailado
+  vos: habrás bailado
+  ud: habrá bailado
+  nosotros: habremos bailado
+  vosotros: habréis bailado
+  uds: habrán bailado
+condicional-perfecto:
+  yo: habría bailado
+  tu: habrías bailado
+  vos: habrías bailado
+  ud: habría bailado
+  nosotros: habríamos bailado
+  vosotros: habríais bailado
+  uds: habrían bailado
+presente-subjuntivo:
+  yo: baile
+  tu: bailes
+  vos: bailes
+  ud: baile
+  nosotros: bailemos
+  vosotros: bailéis
+  uds: bailen
+preterito-perfecto-subjuntivo:
+  yo: haya bailado
+  tu: hayas bailado
+  vos: hayas bailado
+  ud: haya bailado
+  nosotros: hayamos bailado
+  vosotros: hayáis bailado
+  uds: hayan bailado
+imperfecto-subjuntivo:
+  yo:
+    - bailara
+    - bailase
+  tu:
+    - bailaras
+    - bailases
+  vos:
+    - bailaras
+    - bailases
+  ud:
+    - bailara
+    - bailase
+  nosotros:
+    - bailáramos
+    - bailásemos
+  vosotros:
+    - bailarais
+    - bailaseis
+  uds:
+    - bailaran
+    - bailasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bailado
+    - hubiese bailado
+  tu:
+    - hubieras bailado
+    - hubieses bailado
+  vos:
+    - hubieras bailado
+    - hubieses bailado
+  ud:
+    - hubiera bailado
+    - hubiese bailado
+  nosotros:
+    - hubiéramos bailado
+    - hubiésemos bailado
+  vosotros:
+    - hubierais bailado
+    - hubieseis bailado
+  uds:
+    - hubieran bailado
+    - hubiesen bailado
+imperativo:
+  tu: baila
+  vos: bailá
+  ud: baile
+  nosotros: bailemos
+  vosotros: bailad
+  uds: bailen

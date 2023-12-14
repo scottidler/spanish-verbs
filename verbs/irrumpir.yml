@@ -1,0 +1,142 @@
+infinitivo: irrumpir
+gerundio: irrumpiendo
+participio-pasado: irrumpido
+presente-indicativo:
+  yo: irrumpo
+  tu: irrumpes
+  vos: irrumpes
+  ud: irrumpe
+  nosotros: irrumpimos
+  vosotros: irrumpís
+  uds: irrumpen
+preterito-perfecto-simple:
+  yo: irrumpí
+  tu: irrumpiste
+  vos: irrumpiste
+  ud: irrumpió
+  nosotros: irrumpimos
+  vosotros: irrumpisteis
+  uds: irrumpieron
+preterito-imperfecto:
+  yo: irrumpía
+  tu: irrumpías
+  vos: irrumpías
+  ud: irrumpía
+  nosotros: irrumpíamos
+  vosotros: irrumpíais
+  uds: irrumpían
+futuro-simple:
+  yo: irrumpiré
+  tu: irrumpirás
+  vos: irrumpirás
+  ud: irrumpirá
+  nosotros: irrumpiremos
+  vosotros: irrumpiréis
+  uds: irrumpirán
+condicional-simple:
+  yo: irrumpiría
+  tu: irrumpirías
+  vos: irrumpirías
+  ud: irrumpiría
+  nosotros: irrumpiríamos
+  vosotros: irrumpiríais
+  uds: irrumpirían
+presente-perfecto:
+  yo: he irrumpido
+  tu: has irrumpido
+  vos: has irrumpido
+  ud: ha irrumpido
+  nosotros: hemos irrumpido
+  vosotros: habéis irrumpido
+  uds: han irrumpido
+preterito-pluscuamperfecto:
+  yo: había irrumpido
+  tu: habías irrumpido
+  vos: habías irrumpido
+  ud: había irrumpido
+  nosotros: habíamos irrumpido
+  vosotros: habíais irrumpido
+  uds: habían irrumpido
+futuro-perfecto:
+  yo: habré irrumpido
+  tu: habrás irrumpido
+  vos: habrás irrumpido
+  ud: habrá irrumpido
+  nosotros: habremos irrumpido
+  vosotros: habréis irrumpido
+  uds: habrán irrumpido
+condicional-perfecto:
+  yo: habría irrumpido
+  tu: habrías irrumpido
+  vos: habrías irrumpido
+  ud: habría irrumpido
+  nosotros: habríamos irrumpido
+  vosotros: habríais irrumpido
+  uds: habrían irrumpido
+presente-subjuntivo:
+  yo: irrumpa
+  tu: irrumpas
+  vos: irrumpas
+  ud: irrumpa
+  nosotros: irrumpamos
+  vosotros: irrumpáis
+  uds: irrumpa
+preterito-perfecto-subjuntivo:
+  yo: haya irrumpido
+  tu: hayas irrumpido
+  vos: hayas irrumpido
+  ud: haya irrumpido
+  nosotros: hayamos irrumpido
+  vosotros: hayáis irrumpido
+  uds: hayan irrumpido
+imperfecto-subjuntivo:
+  yo:
+    - irrumpiera
+    - irrumpiese
+  tu:
+    - irrumpieras
+    - irrumpieses
+  vos:
+    - irrumpieras
+    - irrumpieses
+  ud:
+    - irrumpiera
+    - irrumpiese
+  nosotros:
+    - irrumpiéramos
+    - irrumpiésemos
+  vosotros:
+    - irrumpierais
+    - irrumpieseis
+  uds:
+    - irrumpieran
+    - irrumpiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera irrumpido
+    - hubiese irrumpido
+  tu:
+    - hubieras irrumpido
+    - hubieses irrumpido
+  vos:
+    - hubieras irrumpido
+    - hubieses irrumpido
+  ud:
+    - hubiera irrumpido
+    - hubiese irrumpido
+  nosotros:
+    - hubiéramos irrumpido
+    - hubiésemos irrumpido
+  vosotros:
+    - hubierais irrumpido
+    - hubieseis irrumpido
+  uds:
+    - hubieran irrumpido
+    - hubiesen irrumpido
+imperativo:
+  tu: irrumpe
+  vos: irrumpí
+  ud: irrumpe
+  nosotros: irrumpamos
+  vosotros: irrumpid
+  uds: irrumpa

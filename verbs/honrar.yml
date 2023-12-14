@@ -1,0 +1,142 @@
+infinitivo: honrar
+gerundio: honrando
+participio-pasado: honrado
+presente-indicativo:
+  yo: honro
+  tu: honras
+  vos: honras
+  ud: honra
+  nosotros: honramos
+  vosotros: honráis
+  uds: honran
+preterito-perfecto-simple:
+  yo: honré
+  tu: honraste
+  vos: honraste
+  ud: honró
+  nosotros: honramos
+  vosotros: honrasteis
+  uds: honraron
+preterito-imperfecto:
+  yo: honraba
+  tu: honrabas
+  vos: honrabas
+  ud: honraba
+  nosotros: honrábamos
+  vosotros: honrabais
+  uds: honraban
+futuro-simple:
+  yo: honraré
+  tu: honrarás
+  vos: honrarás
+  ud: honrará
+  nosotros: honraremos
+  vosotros: honraréis
+  uds: honrarán
+condicional-simple:
+  yo: honraría
+  tu: honrarías
+  vos: honrarías
+  ud: honraría
+  nosotros: honraríamos
+  vosotros: honraríais
+  uds: honrarían
+presente-perfecto:
+  yo: he honrado
+  tu: has honrado
+  vos: has honrado
+  ud: ha honrado
+  nosotros: hemos honrado
+  vosotros: habéis honrado
+  uds: han honrado
+preterito-pluscuamperfecto:
+  yo: había honrado
+  tu: habías honrado
+  vos: habías honrado
+  ud: había honrado
+  nosotros: habíamos honrado
+  vosotros: habíais honrado
+  uds: habían honrado
+futuro-perfecto:
+  yo: habré honrado
+  tu: habrás honrado
+  vos: habrás honrado
+  ud: habrá honrado
+  nosotros: habremos honrado
+  vosotros: habréis honrado
+  uds: habrán honrado
+condicional-perfecto:
+  yo: habría honrado
+  tu: habrías honrado
+  vos: habrías honrado
+  ud: habría honrado
+  nosotros: habríamos honrado
+  vosotros: habríais honrado
+  uds: habrían honrado
+presente-subjuntivo:
+  yo: honre
+  tu: honres
+  vos: honres
+  ud: honre
+  nosotros: honremos
+  vosotros: honréis
+  uds: honren
+preterito-perfecto-subjuntivo:
+  yo: haya honrado
+  tu: hayas honrado
+  vos: hayas honrado
+  ud: haya honrado
+  nosotros: hayamos honrado
+  vosotros: hayáis honrado
+  uds: hayan honrado
+imperfecto-subjuntivo:
+  yo:
+    - honrara
+    - honrase
+  tu:
+    - honraras
+    - honrases
+  vos:
+    - honraras
+    - honrases
+  ud:
+    - honrara
+    - honrase
+  nosotros:
+    - honráramos
+    - honrásemos
+  vosotros:
+    - honrarais
+    - honraseis
+  uds:
+    - honraran
+    - honrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera honrado
+    - hubiese honrado
+  tu:
+    - hubieras honrado
+    - hubieses honrado
+  vos:
+    - hubieras honrado
+    - hubieses honrado
+  ud:
+    - hubiera honrado
+    - hubiese honrado
+  nosotros:
+    - hubiéramos honrado
+    - hubiésemos honrado
+  vosotros:
+    - hubierais honrado
+    - hubieseis honrado
+  uds:
+    - hubieran honrado
+    - hubiesen honrado
+imperativo:
+  tu: honra
+  vos: honrá
+  ud: honre
+  nosotros: honremos
+  vosotros: honrad
+  uds: honren

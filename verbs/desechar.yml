@@ -1,0 +1,142 @@
+infinitivo: desechar
+gerundio: desechando
+participio-pasado: desechado
+presente-indicativo:
+  yo: desecho
+  tu: desechas
+  vos: desechas
+  ud: desecha
+  nosotros: desechemos
+  vosotros: desecháis
+  uds: desechan
+preterito-perfecto-simple:
+  yo: deseché
+  tu: desechaste
+  vos: desechaste
+  ud: desechó
+  nosotros: desechamos
+  vosotros: desechasteis
+  uds: desecharon
+preterito-imperfecto:
+  yo: desechaba
+  tu: desechabas
+  vos: desechabas
+  ud: desechaba
+  nosotros: desechábamos
+  vosotros: desechabais
+  uds: desechaban
+futuro-simple:
+  yo: desecharé
+  tu: desecharás
+  vos: desecharás
+  ud: desechará
+  nosotros: desecharemos
+  vosotros: desecharéis
+  uds: desecharán
+condicional-simple:
+  yo: desechaíiría
+  tu: desechaíirías
+  vos: desechaíirías
+  ud: desechaíiría
+  nosotros: desechaíiríamos
+  vosotros: desechaíiríais
+  uds: desechaíirían
+presente-perfecto:
+  yo: he desechado
+  tu: has desechado
+  vos: has desechado
+  ud: ha desechado
+  nosotros: hemos desechado
+  vosotros: habéis desechado
+  uds: han desechado
+preterito-pluscuamperfecto:
+  yo: había desechado
+  tu: habías desechado
+  vos: habías desechado
+  ud: había desechado
+  nosotros: habíamos desechado
+  vosotros: habíais desechado
+  uds: habían desechado
+futuro-perfecto:
+  yo: habré desechado
+  tu: habrás desechado
+  vos: habrás desechado
+  ud: habrá desechado
+  nosotros: habremos desechado
+  vosotros: habréis desechado
+  uds: habrán desechado
+condicional-perfecto:
+  yo: habría desechado
+  tu: habrías desechado
+  vos: habrías desechado
+  ud: habría desechado
+  nosotros: habríamos desechado
+  vosotros: habríais desechado
+  uds: habrían desechado
+presente-subjuntivo:
+  yo: deseche
+  tu: deseches
+  vos: deseches
+  ud: deseches
+  nosotros: desechemos
+  vosotros: desechéis
+  uds: desechen
+preterito-perfecto-subjuntivo:
+  yo: haya desechado
+  tu: hayas desechado
+  vos: hayas desechado
+  ud: haya desechado
+  nosotros: hayamos desechado
+  vosotros: hayáis desechado
+  uds: hayan desechado
+imperfecto-subjuntivo:
+  yo:
+    - desechara
+    - desecharase
+  tu:
+    - desecharas
+    - desecharases
+  vos:
+    - desecharas
+    - desecharases
+  ud:
+    - desechara
+    - desecharase
+  nosotros:
+    - desecharáramos
+    - desecharásemos
+  vosotros:
+    - desecharais
+    - desecharaseis
+  uds:
+    - desecharan
+    - desecharasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desechado
+    - hubiese desechado
+  tu:
+    - hubieras desechado
+    - hubieses desechado
+  vos:
+    - hubieras desechado
+    - hubieses desechado
+  ud:
+    - hubiera desechado
+    - hubiese desechado
+  nosotros:
+    - hubiéramos desechado
+    - hubiésemos desechado
+  vosotros:
+    - hubierais desechado
+    - hubieseis desechado
+  uds:
+    - hubieran desechado
+    - hubiesen desechado
+imperativo:
+  tu: desecha
+  vos: desechá
+  ud: deseché
+  nosotros: desechamos
+  vosotros: desechad
+  uds: desechen

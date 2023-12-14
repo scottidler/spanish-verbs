@@ -1,0 +1,142 @@
+infinitivo: excusar
+gerundio: excusando
+participio-pasado: excusado
+presente-indicativo:
+  yo: excuso
+  tu: excusas
+  vos: excusas
+  ud: excusa
+  nosotros: excusamos
+  vosotros: excusáis
+  uds: excusan
+preterito-perfecto-simple:
+  yo: excusé
+  tu: excusaste
+  vos: excusaste
+  ud: excusó
+  nosotros: excusamos
+  vosotros: excusasteis
+  uds: excusaron
+preterito-imperfecto:
+  yo: excusaba
+  tu: excusabas
+  vos: excusabas
+  ud: excusaba
+  nosotros: excusábamos
+  vosotros: excusabais
+  uds: excusaban
+futuro-simple:
+  yo: excusaré
+  tu: excusarás
+  vos: excusarás
+  ud: excusará
+  nosotros: excusaremos
+  vosotros: excusaréis
+  uds: excusarán
+condicional-simple:
+  yo: excusaría
+  tu: excusarías
+  vos: excusarías
+  ud: excusaría
+  nosotros: excusaríamos
+  vosotros: excusaríais
+  uds: excusarían
+presente-perfecto:
+  yo: he excusado
+  tu: has excusado
+  vos: has excusado
+  ud: ha excusado
+  nosotros: hemos excusado
+  vosotros: habéis excusado
+  uds: han excusado
+preterito-pluscuamperfecto:
+  yo: había excusado
+  tu: habías excusado
+  vos: habías excusado
+  ud: había excusado
+  nosotros: habíamos excusado
+  vosotros: habíais excusado
+  uds: habían excusado
+futuro-perfecto:
+  yo: habré excusado
+  tu: habrás excusado
+  vos: habrás excusado
+  ud: habrá excusado
+  nosotros: habremos excusado
+  vosotros: habréis excusado
+  uds: habrán excusado
+condicional-perfecto:
+  yo: habría excusado
+  tu: habrías excusado
+  vos: habrías excusado
+  ud: habría excusado
+  nosotros: habríamos excusado
+  vosotros: habríais excusado
+  uds: habrían excusado
+presente-subjuntivo:
+  yo: excuse
+  tu: excuses
+  vos: excuses
+  ud: excuse
+  nosotros: excusemos
+  vosotros: excuséis
+  uds: excusen
+preterito-perfecto-subjuntivo:
+  yo: haya excusado
+  tu: hayas excusado
+  vos: hayas excusado
+  ud: haya excusado
+  nosotros: hayamos excusado
+  vosotros: hayáis excusado
+  uds: hayan excusado
+imperfecto-subjuntivo:
+  yo:
+    - excusara
+    - excusase
+  tu:
+    - excusaras
+    - excusases
+  vos:
+    - excusaras
+    - excusases
+  ud:
+    - excusara
+    - excusase
+  nosotros:
+    - excusáramos
+    - excusásemos
+  vosotros:
+    - excusarais
+    - excusaseis
+  uds:
+    - excusaran
+    - excusasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera excusado
+    - hubiese excusado
+  tu:
+    - hubieras excusado
+    - hubieses excusado
+  vos:
+    - hubieras excusado
+    - hubieses excusado
+  ud:
+    - hubiera excusado
+    - hubiese excusado
+  nosotros:
+    - hubiéramos excusado
+    - hubiésemos excusado
+  vosotros:
+    - hubierais excusado
+    - hubieseis excusado
+  uds:
+    - hubieran excusado
+    - hubiesen excusado
+imperativo:
+  tu: excusa
+  vos: excusá
+  ud: excuse
+  nosotros: excusemos
+  vosotros: excusad
+  uds: excusen

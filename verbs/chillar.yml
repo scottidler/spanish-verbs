@@ -1,0 +1,142 @@
+infinitivo: chillar
+gerundio: chillando
+participio-pasado: chillado
+presente-indicativo:
+  yo: chillo
+  tu: chillas
+  vos: chillas
+  ud: chilla
+  nosotros: chillamos
+  vosotros: chilláis
+  uds: chillan
+preterito-perfecto-simple:
+  yo: chillé
+  tu: chillaste
+  vos: chillaste
+  ud: chilló
+  nosotros: chillamos
+  vosotros: chillasteis
+  uds: chillaron
+preterito-imperfecto:
+  yo: chillaba
+  tu: chillabas
+  vos: chillabas
+  ud: chillaba
+  nosotros: chillábamos
+  vosotros: chillabais
+  uds: chillaban
+futuro-simple:
+  yo: chillaré
+  tu: chillarás
+  vos: chillarás
+  ud: chillará
+  nosotros: chillaremos
+  vosotros: chillaréis
+  uds: chillarán
+condicional-simple:
+  yo: chillaría
+  tu: chillarías
+  vos: chillarías
+  ud: chillaría
+  nosotros: chillaríamos
+  vosotros: chillaríais
+  uds: chillarían
+presente-perfecto:
+  yo: he chillado
+  tu: has chillado
+  vos: has chillado
+  ud: ha chillado
+  nosotros: hemos chillado
+  vosotros: habéis chillado
+  uds: han chillado
+preterito-pluscuamperfecto:
+  yo: había chillado
+  tu: habías chillado
+  vos: habías chillado
+  ud: había chillado
+  nosotros: habíamos chillado
+  vosotros: habíais chillado
+  uds: habían chillado
+futuro-perfecto:
+  yo: habré chillado
+  tu: habrás chillado
+  vos: habrás chillado
+  ud: habrá chillado
+  nosotros: habremos chillado
+  vosotros: habréis chillado
+  uds: habrán chillado
+condicional-perfecto:
+  yo: habría chillado
+  tu: habrías chillado
+  vos: habrías chillado
+  ud: habría chillado
+  nosotros: habríamos chillado
+  vosotros: habríais chillado
+  uds: habrían chillado
+presente-subjuntivo:
+  yo: chille
+  tu: chilles
+  vos: chilles
+  ud: chille
+  nosotros: chillemos
+  vosotros: chilléis
+  uds: chillen
+preterito-perfecto-subjuntivo:
+  yo: haya chillado
+  tu: hayas chillado
+  vos: hayas chillado
+  ud: haya chillado
+  nosotros: hayamos chillado
+  vosotros: hayáis chillado
+  uds: hayan chillado
+imperfecto-subjuntivo:
+  yo:
+    - chillara
+    - chillase
+  tu:
+    - chilaras
+    - chilases
+  vos:
+    - chilaras
+    - chilases
+  ud:
+    - chillara
+    - chillase
+  nosotros:
+    - chilláramos
+    - chillásemos
+  vosotros:
+    - chilarais
+    - chilaseis
+  uds:
+    - chilaran
+    - chilasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera chillado
+    - hubiese chillado
+  tu:
+    - hubieras chillado
+    - hubieses chillado
+  vos:
+    - hubieras chillado
+    - hubieses chillado
+  ud:
+    - hubiera chillado
+    - hubiese chillado
+  nosotros:
+    - hubiéramos chillado
+    - hubiésemos chillado
+  vosotros:
+    - hubierais chillado
+    - hubieseis chillado
+  uds:
+    - hubieran chillado
+    - hubiesen chillado
+imperativo:
+  tu: chilla
+  vos: chillá
+  ud: chille
+  nosotros: chillemos
+  vosotros: chillad
+  uds: chillen

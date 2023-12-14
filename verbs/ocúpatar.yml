@@ -1,0 +1,142 @@
+infinitivo: ocúpatar
+gerundio: ocupatando
+participio-pasado: ocupatado
+presente-indicativo:
+  yo: ocúpato
+  tu: ocúpatas
+  vos: ocúpatas
+  ud: ocúpata
+  nosotros: ocupatamos
+  vosotros: ocupatáis
+  uds: ocúpatan
+preterito-perfecto-simple:
+  yo: ocupaté
+  tu: ocupataste
+  vos: ocupataste
+  ud: ocupató
+  nosotros: ocupatamos
+  vosotros: ocupatasteis
+  uds: ocupataron
+preterito-imperfecto:
+  yo: ocupatava
+  tu: ocupatavas
+  vos: ocupatavas
+  ud: ocupatava
+  nosotros: ocupatávamos
+  vosotros: ocupatavais
+  uds: ocupatavan
+futuro-simple:
+  yo: ocúpataré
+  tu: ocúpatarás
+  vos: ocúpatarás
+  ud: ocúpatará
+  nosotros: ocúpataremos
+  vosotros: ocúpataréis
+  uds: ocúpatarán
+condicional-simple:
+  yo: ocúpataría
+  tu: ocúpatarías
+  vos: ocúpatarías
+  ud: ocúpataría
+  nosotros: ocúpataríamos
+  vosotros: ocúpataríais
+  uds: ocúpatarían
+presente-perfecto:
+  yo: he ocupatado
+  tu: has ocupatado
+  vos: has ocupatado
+  ud: ha ocupatado
+  nosotros: hemos ocupatado
+  vosotros: habéis ocupatado
+  uds: han ocupatado
+preterito-pluscuamperfecto:
+  yo: había ocupatado
+  tu: habías ocupatado
+  vos: habías ocupatado
+  ud: había ocupatado
+  nosotros: habíamos ocupatado
+  vosotros: habíais ocupatado
+  uds: habían ocupatado
+futuro-perfecto:
+  yo: habré ocupatado
+  tu: habrás ocupatado
+  vos: habrás ocupatado
+  ud: habrá ocupatado
+  nosotros: habremos ocupatado
+  vosotros: habréis ocupatado
+  uds: habrán ocupatado
+condicional-perfecto:
+  yo: habría ocupatado
+  tu: habrías ocupatado
+  vos: habrías ocupatado
+  ud: habría ocupatado
+  nosotros: habríamos ocupatado
+  vosotros: habríais ocupatado
+  uds: habrían ocupatado
+presente-subjuntivo:
+  yo: ocupe
+  tu: ocupes
+  vos: ocupes
+  ud: ocupe
+  nosotros: ocupemos
+  vosotros: ocupéis
+  uds: ocupen
+preterito-perfecto-subjuntivo:
+  yo: haya ocupatado
+  tu: hayas ocupatado
+  vos: hayas ocupatado
+  ud: haya ocupatado
+  nosotros: hayamos ocupatado
+  vosotros: hayáis ocupatado
+  uds: hayan ocupatado
+imperfecto-subjuntivo:
+  yo:
+    - ocupatara
+    - ocupatase
+  tu:
+    - ocupataras
+    - ocupatases
+  vos:
+    - ocupataras
+    - ocupatases
+  ud:
+    - ocupatara
+    - ocupatase
+  nosotros:
+    - ocupatáramos
+    - ocupatásemos
+  vosotros:
+    - ocupatarais
+    - ocupataseis
+  uds:
+    - ocupataran
+    - ocupatasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ocupatado
+    - hubiese ocupatado
+  tu:
+    - hubieras ocupatado
+    - hubieses ocupatado
+  vos:
+    - hubieras ocupatado
+    - hubieses ocupatado
+  ud:
+    - hubiera ocupatado
+    - hubiese ocupatado
+  nosotros:
+    - hubiéramos ocupatado
+    - hubiésemos ocupatado
+  vosotros:
+    - hubierais ocupatado
+    - hubieseis ocupatado
+  uds:
+    - hubieran ocupatado
+    - hubiesen ocupatado
+imperativo:
+  tu: ocúpata
+  vos: ocúpata
+  ud: ocúpata
+  nosotros: ocupatamos
+  vosotros: ocupatad
+  uds: ocupatan

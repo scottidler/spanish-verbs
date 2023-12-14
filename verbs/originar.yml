@@ -1,0 +1,142 @@
+infinitivo: originar
+gerundio: originando
+participio-pasado: originado
+presente-indicativo:
+  yo: origino
+  tu: originas
+  vos: originas
+  ud: origina
+  nosotros: originamos
+  vosotros: origináis
+  uds: originan
+preterito-perfecto-simple:
+  yo: originé
+  tu: originaste
+  vos: originaste
+  ud: originó
+  nosotros: originamos
+  vosotros: originasteis
+  uds: originaron
+preterito-imperfecto:
+  yo: originaba
+  tu: originabas
+  vos: originabas
+  ud: originaba
+  nosotros: originábamos
+  vosotros: originabais
+  uds: originaban
+futuro-simple:
+  yo: originaré
+  tu: originarás
+  vos: originarás
+  ud: originará
+  nosotros: originaremos
+  vosotros: originaréis
+  uds: originarán
+condicional-simple:
+  yo: originaría
+  tu: originarías
+  vos: originarías
+  ud: originaría
+  nosotros: originaríamos
+  vosotros: originaríais
+  uds: originarían
+presente-perfecto:
+  yo: he originado
+  tu: has originado
+  vos: has originado
+  ud: ha originado
+  nosotros: hemos originado
+  vosotros: habéis originado
+  uds: han originado
+preterito-pluscuamperfecto:
+  yo: había originado
+  tu: habías originado
+  vos: habías originado
+  ud: había originado
+  nosotros: habíamos originado
+  vosotros: habíais originado
+  uds: habían originado
+futuro-perfecto:
+  yo: habré originado
+  tu: habrás originado
+  vos: habrás originado
+  ud: habrá originado
+  nosotros: habremos originado
+  vosotros: habréis originado
+  uds: habrán originado
+condicional-perfecto:
+  yo: habría originado
+  tu: habrías originado
+  vos: habrías originado
+  ud: habría originado
+  nosotros: habríamos originado
+  vosotros: habríais originado
+  uds: habrían originado
+presente-subjuntivo:
+  yo: origine
+  tu: origines
+  vos: origines
+  ud: origine
+  nosotros: originemos
+  vosotros: originéis
+  uds: originen
+preterito-perfecto-subjuntivo:
+  yo: haya originado
+  tu: hayas originado
+  vos: hayas originado
+  ud: haya originado
+  nosotros: hayamos originado
+  vosotros: hayáis originado
+  uds: hayan originado
+imperfecto-subjuntivo:
+  yo:
+    - originara
+    - originase
+  tu:
+    - originaras
+    - originases
+  vos:
+    - originaras
+    - originases
+  ud:
+    - originara
+    - originase
+  nosotros:
+    - origináramos
+    - originásemos
+  vosotros:
+    - originarais
+    - originaseis
+  uds:
+    - originaran
+    - originasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera originado
+    - hubiese originado
+  tu:
+    - hubieras originado
+    - hubieses originado
+  vos:
+    - hubieras originado
+    - hubieses originado
+  ud:
+    - hubiera originado
+    - hubiese originado
+  nosotros:
+    - hubiéramos originado
+    - hubiésemos originado
+  vosotros:
+    - hubierais originado
+    - hubieseis originado
+  uds:
+    - hubieran originado
+    - hubiesen originado
+imperativo:
+  tu: origina
+  vos: originá
+  ud: origine
+  nosotros: originemos
+  vosotros: originad
+  uds: originen

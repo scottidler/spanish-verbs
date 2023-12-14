@@ -1,0 +1,142 @@
+infinitivo: completar
+gerundio: completando
+participio-pasado: completado
+presente-indicativo:
+  yo: completo
+  tu: completas
+  vos: completas
+  ud: completa
+  nosotros: completamos
+  vosotros: completáis
+  uds: completan
+preterito-perfecto-simple:
+  yo: completé
+  tu: completaste
+  vos: completaste
+  ud: completó
+  nosotros: completamos
+  vosotros: completasteis
+  uds: completaron
+preterito-imperfecto:
+  yo: completaba
+  tu: completabas
+  vos: completabas
+  ud: completaba
+  nosotros: completábamos
+  vosotros: completabais
+  uds: completaban
+futuro-simple:
+  yo: completaré
+  tu: completarás
+  vos: completarás
+  ud: completará
+  nosotros: completaremos
+  vosotros: completaréis
+  uds: completarán
+condicional-simple:
+  yo: completaría
+  tu: completarías
+  vos: completarías
+  ud: completaría
+  nosotros: completaríamos
+  vosotros: completaríais
+  uds: completarían
+presente-perfecto:
+  yo: he completado
+  tu: has completado
+  vos: has completado
+  ud: ha completado
+  nosotros: hemos completado
+  vosotros: habéis completado
+  uds: han completado
+preterito-pluscuamperfecto:
+  yo: había completado
+  tu: habías completado
+  vos: habías completado
+  ud: había completado
+  nosotros: habíamos completado
+  vosotros: habíais completado
+  uds: habían completado
+futuro-perfecto:
+  yo: habré completado
+  tu: habrás completado
+  vos: habrás completado
+  ud: habrá completado
+  nosotros: habremos completado
+  vosotros: habréis completado
+  uds: habrán completado
+condicional-perfecto:
+  yo: habría completado
+  tu: habrías completado
+  vos: habrías completado
+  ud: habría completado
+  nosotros: habríamos completado
+  vosotros: habríais completado
+  uds: habrían completado
+presente-subjuntivo:
+  yo: complete
+  tu: completes
+  vos: completes
+  ud: complete
+  nosotros: completemos
+  vosotros: completéis
+  uds: completen
+preterito-perfecto-subjuntivo:
+  yo: haya completado
+  tu: hayas completado
+  vos: hayas completado
+  ud: haya completado
+  nosotros: hayamos completado
+  vosotros: hayáis completado
+  uds: hayan completado
+imperfecto-subjuntivo:
+  yo:
+    - completara
+    - completase
+  tu:
+    - completaras
+    - completsases
+  vos:
+    - completaras
+    - completases
+  ud:
+    - completara
+    - completase
+  nosotros:
+    - completáramos
+    - completásemos
+  vosotros:
+    - completarais
+    - completaseis
+  uds:
+    - completaran
+    - completasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera completado
+    - hubiese completado
+  tu:
+    - hubieras completado
+    - hubieses completado
+  vos:
+    - hubieras completado
+    - hubieses completado
+  ud:
+    - hubiera completado
+    - hubiese completado
+  nosotros:
+    - hubiéramos completado
+    - hubiésemos completado
+  vosotros:
+    - hubierais completado
+    - hubieseis completado
+  uds:
+    - hubieran completado
+    - hubiesen completado
+imperativo:
+  tu: completa
+  vos: completá
+  ud: complete
+  nosotros: completemos
+  vosotros: completad
+  uds: completen

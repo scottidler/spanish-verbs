@@ -1,0 +1,142 @@
+infinitivo: clausurar
+gerundio: clausurando
+participio-pasado: clausurado
+presente-indicativo:
+  yo: clausuro
+  tu: clausuras
+  vos: clausurás
+  ud: clausura
+  nosotros: clausuramos
+  vosotros: clausuráis
+  uds: clausuran
+preterito-perfecto-simple:
+  yo: clausuré
+  tu: clausuraste
+  vos: clausuraste
+  ud: clausuró
+  nosotros: clausuramos
+  vosotros: clausurasteis
+  uds: clausuraron
+preterito-imperfecto:
+  yo: clausuraba
+  tu: clausurabas
+  vos: clausurabas
+  ud: clausuraba
+  nosotros: clausurábamos
+  vosotros: clausurabais
+  uds: clausuraban
+futuro-simple:
+  yo: clausuraré
+  tu: clausurarás
+  vos: clausurarás
+  ud: clausurará
+  nosotros: clausuraremos
+  vosotros: clausuraréis
+  uds: clausurarán
+condicional-simple:
+  yo: clausuraría
+  tu: clausurarías
+  vos: clausurarías
+  ud: clausuraría
+  nosotros: clausuraríamos
+  vosotros: clausuraríais
+  uds: clausurarían
+presente-perfecto:
+  yo: he clausurado
+  tu: has clausurado
+  vos: has clausurado
+  ud: ha clausurado
+  nosotros: hemos clausurado
+  vosotros: habéis clausurado
+  uds: han clausurado
+preterito-pluscuamperfecto:
+  yo: había clausurado
+  tu: habías clausurado
+  vos: habías clausurado
+  ud: había clausurado
+  nosotros: habíamos clausurado
+  vosotros: habíais clausurado
+  uds: habían clausurado
+futuro-perfecto:
+  yo: habré clausurado
+  tu: habrás clausurado
+  vos: habrás clausurado
+  ud: habrá clausurado
+  nosotros: habremos clausurado
+  vosotros: habréis clausurado
+  uds: habrán clausurado
+condicional-perfecto:
+  yo: habría clausurado
+  tu: habrías clausurado
+  vos: habrías clausurado
+  ud: habría clausurado
+  nosotros: habríamos clausurado
+  vosotros: habríais clausurado
+  uds: habrían clausurado
+presente-subjuntivo:
+  yo: clausure
+  tu: clausures
+  vos: clausures
+  ud: clausure
+  nosotros: clausuremos
+  vosotros: clausuréis
+  uds: clausuren
+preterito-perfecto-subjuntivo:
+  yo: haya clausurado
+  tu: hayas clausurado
+  vos: hayas clausurado
+  ud: haya clausurado
+  nosotros: hayamos clausurado
+  vosotros: hayáis clausurado
+  uds: hayan clausurado
+imperfecto-subjuntivo:
+  yo:
+    - clausurara
+    - clausurase
+  tu:
+    - clausuraras
+    - clausurases
+  vos:
+    - clausuraras
+    - clausurases
+  ud:
+    - clausurara
+    - clausurase
+  nosotros:
+    - clausuráramos
+    - clausurásemos
+  vosotros:
+    - clausurarais
+    - clausuraseis
+  uds:
+    - clausuraran
+    - clausurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera clausurado
+    - hubiese clausurado
+  tu:
+    - hubieras clausurado
+    - hubieses clausurado
+  vos:
+    - hubieras clausurado
+    - hubieses clausurado
+  ud:
+    - hubiera clausurado
+    - hubiese clausurado
+  nosotros:
+    - hubiéramos clausurado
+    - hubiésemos clausurado
+  vosotros:
+    - hubierais clausurado
+    - hubieseis clausurado
+  uds:
+    - hubieran clausurado
+    - hubiesen clausurado
+imperativo:
+  tu: clausura
+  vos: clausurá
+  ud: clausure
+  nosotros: clausuremos
+  vosotros: clausurad
+  uds: clausuren

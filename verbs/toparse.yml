@@ -1,0 +1,142 @@
+infinitivo: topa
+gerundio: topando
+participio-pasado: topado
+presente-indicativo:
+  yo: topo
+  tu: topas
+  vos: topás
+  ud: topa
+  nosotros: topamos
+  vosotros: topáis
+  uds: topan
+preterito-perfecto-simple:
+  yo: topé
+  tu: topaste
+  vos: topaste
+  ud: topó
+  nosotros: topamos
+  vosotros: topasteis
+  uds: toparon
+preterito-imperfecto:
+  yo: topaba
+  tu: topabas
+  vos: topabas
+  ud: topaba
+  nosotros: topábamos
+  vosotros: topabais
+  uds: topaban
+futuro-simple:
+  yo: toparé
+  tu: toparás
+  vos: toparás
+  ud: topará
+  nosotros: toparemos
+  vosotros: toparéis
+  uds: toparán
+condicional-simple:
+  yo: toparía
+  tu: toparías
+  vos: toparías
+  ud: toparía
+  nosotros: toparíamos
+  vosotros: toparíais
+  uds: toparían
+presente-perfecto:
+  yo: he topado
+  tu: has topado
+  vos: has topado
+  ud: ha topado
+  nosotros: hemos topado
+  vosotros: habéis topado
+  uds: han topado
+preterito-pluscuamperfecto:
+  yo: había topado
+  tu: habías topado
+  vos: habías topado
+  ud: había topado
+  nosotros: habíamos topado
+  vosotros: habíais topado
+  uds: habían topado
+futuro-perfecto:
+  yo: habré topado
+  tu: habrás topado
+  vos: habrás topado
+  ud: habrá topado
+  nosotros: habremos topado
+  vosotros: habréis topado
+  uds: habrán topado
+condicional-perfecto:
+  yo: habría topado
+  tu: habrías topado
+  vos: habrías topado
+  ud: habría topado
+  nosotros: habríamos topado
+  vosotros: habríais topado
+  uds: habrían topado
+presente-subjuntivo:
+  yo: tope
+  tu: topes
+  vos: topes
+  ud: tope
+  nosotros: topemos
+  vosotros: topéis
+  uds: topen
+preterito-perfecto-subjuntivo:
+  yo: haya topado
+  tu: hayas topado
+  vos: hayas topado
+  ud: haya topado
+  nosotros: hayamos topado
+  vosotros: hayáis topado
+  uds: hayan topado
+imperfecto-subjuntivo:
+  yo:
+    - topara
+    - topase
+  tu:
+    - toparas
+    - topases
+  vos:
+    - toparas
+    - topases
+  ud:
+    - topara
+    - topase
+  nosotros:
+    - topáramos
+    - topásemos
+  vosotros:
+    - toparais
+    - topaseis
+  uds:
+    - toparan
+    - topasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera topado
+    - hubiese topado
+  tu:
+    - hubieras topado
+    - hubieses topado
+  vos:
+    - hubieras topado
+    - hubieses topado
+  ud:
+    - hubiera topado
+    - hubiese topado
+  nosotros:
+    - hubiéramos topado
+    - hubiésemos topado
+  vosotros:
+    - hubierais topado
+    - hubieseis topado
+  uds:
+    - hubieran topado
+    - hubiesen topado
+imperativo:
+  tu: topa
+  vos: topá
+  ud: tope
+  nosotros: topemos
+  vosotros: topad
+  uds: topen

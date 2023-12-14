@@ -1,0 +1,142 @@
+infinitivo: desenfundar
+gerundio: desenfundando
+participio-pasado: desenfundado
+presente-indicativo:
+  yo: desenfundo
+  tu: desenfundas
+  vos: desenfundas
+  ud: desenfunda
+  nosotros: desenfundamos
+  vosotros: desenfundáis
+  uds: desenfundan
+preterito-perfecto-simple:
+  yo: desenfundé
+  tu: desenfundaste
+  vos: desenfundaste
+  ud: desenfundó
+  nosotros: desenfundamos
+  vosotros: desenfundasteis
+  uds: desenfundaron
+preterito-imperfecto:
+  yo: desenfundaba
+  tu: desenfundabas
+  vos: desenfundabas
+  ud: desenfundaba
+  nosotros: desenfundábamos
+  vosotros: desenfundabais
+  uds: desenfundaban
+futuro-simple:
+  yo: desenfundaré
+  tu: desenfundarás
+  vos: desenfundarás
+  ud: desenfundará
+  nosotros: desenfundaremos
+  vosotros: desenfundaréis
+  uds: desenfundarán
+condicional-simple:
+  yo: desenfundaría
+  tu: desenfundarías
+  vos: desenfundarías
+  ud: desenfundaría
+  nosotros: desenfundaríamos
+  vosotros: desenfundaríais
+  uds: desenfundarían
+presente-perfecto:
+  yo: he desenfundado
+  tu: has desenfundado
+  vos: has desenfundado
+  ud: ha desenfundado
+  nosotros: hemos desenfundado
+  vosotros: habéis desenfundado
+  uds: han desenfundado
+preterito-pluscuamperfecto:
+  yo: había desenfundado
+  tu: habías desenfundado
+  vos: habías desenfundado
+  ud: había desenfundado
+  nosotros: habíamos desenfundado
+  vosotros: habíais desenfundado
+  uds: habían desenfundado
+futuro-perfecto:
+  yo: habré desenfundado
+  tu: habrás desenfundado
+  vos: habrás desenfundado
+  ud: habrá desenfundado
+  nosotros: habremos desenfundado
+  vosotros: habréis desenfundado
+  uds: habrán desenfundado
+condicional-perfecto:
+  yo: habría desenfundado
+  tu: habrías desenfundado
+  vos: habrías desenfundado
+  ud: habría desenfundado
+  nosotros: habríamos desenfundado
+  vosotros: habríais desenfundado
+  uds: habrían desenfundado
+presente-subjuntivo:
+  yo: desenfunde
+  tu: desenfundes
+  vos: desenfundes
+  ud: desenfunde
+  nosotros: desenfundemos
+  vosotros: desenfundéis
+  uds: desenfunden
+preterito-perfecto-subjuntivo:
+  yo: haya desenfundado
+  tu: hayas desenfundado
+  vos: hayas desenfundado
+  ud: haya desenfundado
+  nosotros: hayamos desenfundado
+  vosotros: hayáis desenfundado
+  uds: hayan desenfundado
+imperfecto-subjuntivo:
+  yo:
+    - desenfundara
+    - desenfundase
+  tu:
+    - desenfundaras
+    - desenfundases
+  vos:
+    - desenfundaras
+    - desenfundases
+  ud:
+    - desenfundara
+    - desenfundase
+  nosotros:
+    - desenfundáramos
+    - desenfundásemos
+  vosotros:
+    - desenfundarais
+    - desenfundaseis
+  uds:
+    - desenfundaran
+    - desenfundasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desenfundado
+    - hubiese desenfundado
+  tu:
+    - hubieras desenfundado
+    - hubieses desenfundado
+  vos:
+    - hubieras desenfundado
+    - hubieses desenfundado
+  ud:
+    - hubiera desenfundado
+    - hubiese desenfundado
+  nosotros:
+    - hubiéramos desenfundado
+    - hubiésemos desenfundado
+  vosotros:
+    - hubierais desenfundado
+    - hubieseis desenfundado
+  uds:
+    - hubieran desenfundado
+    - hubiesen desenfundado
+imperativo:
+  tu: desenfunda
+  vos: desenfundá
+  ud: desenfunde
+  nosotros: desenfundemos
+  vosotros: desenfundad
+  uds: desenfunden

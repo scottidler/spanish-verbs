@@ -1,0 +1,142 @@
+infinitivo: desgarrar
+gerundio: desgarrando
+participio-pasado: desgarrado
+presente-indicativo:
+  yo: desgarro
+  tu: desgarras
+  vos: desgarras
+  ud: desgarra
+  nosotros: desgarramos
+  vosotros: desgarráis
+  uds: desgarran
+preterito-perfecto-simple:
+  yo: desgarré
+  tu: desgarraste
+  vos: desgarraste
+  ud: desgarró
+  nosotros: desgarramos
+  vosotros: desgarrasteis
+  uds: desgarraron
+preterito-imperfecto:
+  yo: desgarraba
+  tu: desgarrabas
+  vos: desgarrabas
+  ud: desgarraba
+  nosotros: desgarrábamos
+  vosotros: desgarrabais
+  uds: desgarraban
+futuro-simple:
+  yo: desgarraré
+  tu: desgarrarás
+  vos: desgarrarás
+  ud: desgarrará
+  nosotros: desgarraremos
+  vosotros: desgarraréis
+  uds: desgarrarán
+condicional-simple:
+  yo: desgarraría
+  tu: desgarrarías
+  vos: desgarrarías
+  ud: desgarraría
+  nosotros: desgarraríamos
+  vosotros: desgarraríais
+  uds: desgarrarían
+presente-perfecto:
+  yo: he desgarrado
+  tu: has desgarrado
+  vos: has desgarrado
+  ud: ha desgarrado
+  nosotros: hemos desgarrado
+  vosotros: habéis desgarrado
+  uds: han desgarrado
+preterito-pluscuamperfecto:
+  yo: había desgarrado
+  tu: habías desgarrado
+  vos: habías desgarrado
+  ud: había desgarrado
+  nosotros: habíamos desgarrado
+  vosotros: habíais desgarrado
+  uds: habían desgarrado
+futuro-perfecto:
+  yo: habré desgarrado
+  tu: habrás desgarrado
+  vos: habrás desgarrado
+  ud: habrá desgarrado
+  nosotros: habremos desgarrado
+  vosotros: habréis desgarrado
+  uds: habrán desgarrado
+condicional-perfecto:
+  yo: habría desgarrado
+  tu: habrías desgarrado
+  vos: habrías desgarrado
+  ud: habría desgarrado
+  nosotros: habríamos desgarrado
+  vosotros: habríais desgarrado
+  uds: habrían desgarrado
+presente-subjuntivo:
+  yo: desgarre
+  tu: desgarres
+  vos: desgarres
+  ud: desgarre
+  nosotros: desgarremos
+  vosotros: desgarréis
+  uds: desgarren
+preterito-perfecto-subjuntivo:
+  yo: haya desgarrado
+  tu: hayas desgarrado
+  vos: hayas desgarrado
+  ud: haya desgarrado
+  nosotros: hayamos desgarrado
+  vosotros: hayáis desgarrado
+  uds: hayan desgarrado
+imperfecto-subjuntivo:
+  yo:
+    - desgarrara
+    - desgarrase
+  tu:
+    - desgarraras
+    - desgarrases
+  vos:
+    - desgarraras
+    - desgarrases
+  ud:
+    - desgarrara
+    - desgarrase
+  nosotros:
+    - desgarráramos
+    - desgarrásemos
+  vosotros:
+    - desgarrarais
+    - desgarraseis
+  uds:
+    - desgarraran
+    - desgarrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desgarrado
+    - hubiese desgarrado
+  tu:
+    - hubieras desgarrado
+    - hubieses desgarrado
+  vos:
+    - hubieras desgarrado
+    - hubieses desgarrado
+  ud:
+    - hubiera desgarrado
+    - hubiese desgarrado
+  nosotros:
+    - hubiéramos desgarrado
+    - hubiésemos desgarrado
+  vosotros:
+    - hubierais desgarrado
+    - hubieseis desgarrado
+  uds:
+    - hubieran desgarrado
+    - hubiesen desgarrado
+imperativo:
+  tu: desgarra
+  vos: desgarrá
+  ud: desgarre
+  nosotros: desgarremos
+  vosotros: desgarrad
+  uds: desgarren

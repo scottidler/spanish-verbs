@@ -1,0 +1,142 @@
+infinitivo: generar
+gerundio: generando
+participio-pasado: generado
+presente-indicativo:
+  yo: genero
+  tu: generas
+  vos: generas
+  ud: genera
+  nosotros: generamos
+  vosotros: generáis
+  uds: generan
+preterito-perfecto-simple:
+  yo: generé
+  tu: generaste
+  vos: generaste
+  ud: generó
+  nosotros: generamos
+  vosotros: generasteis
+  uds: generaron
+preterito-imperfecto:
+  yo: generaba
+  tu: generabas
+  vos: generabas
+  ud: generaba
+  nosotros: generábamos
+  vosotros: generabais
+  uds: generaban
+futuro-simple:
+  yo: generaré
+  tu: generarás
+  vos: generarás
+  ud: generará
+  nosotros: generaremos
+  vosotros: generaréis
+  uds: generarán
+condicional-simple:
+  yo: generaría
+  tu: generarías
+  vos: generarías
+  ud: generaría
+  nosotros: generaríamos
+  vosotros: generaríais
+  uds: generarían
+presente-perfecto:
+  yo: he generado
+  tu: has generado
+  vos: has generado
+  ud: ha generado
+  nosotros: hemos generado
+  vosotros: habéis generado
+  uds: han generado
+preterito-pluscuamperfecto:
+  yo: había generado
+  tu: habías generado
+  vos: habías generado
+  ud: había generado
+  nosotros: habíamos generado
+  vosotros: habíais generado
+  uds: habían generado
+futuro-perfecto:
+  yo: habré generado
+  tu: habrás generado
+  vos: habrás generado
+  ud: habrá generado
+  nosotros: habremos generado
+  vosotros: habréis generado
+  uds: habrán generado
+condicional-perfecto:
+  yo: habría generado
+  tu: habrías generado
+  vos: habrías generado
+  ud: habría generado
+  nosotros: habríamos generado
+  vosotros: habríais generado
+  uds: habrían generado
+presente-subjuntivo:
+  yo: genere
+  tu: generes
+  vos: generes
+  ud: genere
+  nosotros: generemos
+  vosotros: generéis
+  uds: generen
+preterito-perfecto-subjuntivo:
+  yo: haya generado
+  tu: hayas generado
+  vos: hayas generado
+  ud: haya generado
+  nosotros: hayamos generado
+  vosotros: hayáis generado
+  uds: hayan generado
+imperfecto-subjuntivo:
+  yo: 
+    - generara
+    - generase
+  tu:
+    - generaras
+    - generases
+  vos:
+    - generaras
+    - generases
+  ud:
+    - generara
+    - generase
+  nosotros:
+    - generáramos
+    - generásemos
+  vosotros:
+    - generarais
+    - generaseis
+  uds:
+    - generaran
+    - generasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera generado
+    - hubiese generado
+  tu:
+    - hubieras generado
+    - hubieses generado
+  vos:
+    - hubieras generado
+    - hubieses generado
+  ud:
+    - hubiera generado
+    - hubiese generado
+  nosotros:
+    - hubiéramos generado
+    - hubiésemos generado
+  vosotros:
+    - hubierais generado
+    - hubieseis generado
+  uds:
+    - hubieran generado
+    - hubiesen generado
+imperativo:
+  tu: genera
+  vos: generá
+  ud: genere
+  nosotros: generemos
+  vosotros: generad
+  uds: generen

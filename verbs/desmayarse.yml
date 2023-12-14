@@ -1,0 +1,142 @@
+infinitivo: desmayarse
+gerundio: desmayándose
+participio-pasado: desmayado
+presente-indicativo:
+  yo: me desmayo
+  tu: te desmayas
+  vos: te desmayas
+  ud: se desmaya
+  nosotros: nos desmayamos
+  vosotros: os desmayáis
+  uds: se desmayan
+preterito-perfecto-simple:
+  yo: me desmayé
+  tu: te desmayaste
+  vos: te desmayaste
+  ud: se desmayó
+  nosotros: nos desmayamos
+  vosotros: os desmayasteis
+  uds: se desmayaron
+preterito-imperfecto:
+  yo: me desmayaba
+  tu: te desmayabas
+  vos: te desmayabas
+  ud: se desmayaba
+  nosotros: nos desmayábamos
+  vosotros: os desmayabais
+  uds: se desmayaban
+futuro-simple:
+  yo: me desmayaré
+  tu: te desmayarás
+  vos: te desmayarás
+  ud: se desmayará
+  nosotros: nos desmayaremos
+  vosotros: os desmayaréis
+  uds: se desmayarán
+condicional-simple:
+  yo: me desmayaría
+  tu: te desmayarías
+  vos: te desmayarías
+  ud: se desmayaría
+  nosotros: nos desmayaríamos
+  vosotros: os desmayaríais
+  uds: se desmayarían
+presente-perfecto:
+  yo: me he desmayado
+  tu: te has desmayado
+  vos: te has desmayado
+  ud: se ha desmayado
+  nosotros: nos hemos desmayado
+  vosotros: os habéis desmayado
+  uds: se han desmayado
+preterito-pluscuamperfecto:
+  yo: me había desmayado
+  tu: te habías desmayado
+  vos: te habías desmayado
+  ud: se había desmayado
+  nosotros: nos habíamos desmayado
+  vosotros: os habíais desmayado
+  uds: se habían desmayado
+futuro-perfecto:
+  yo: me habré desmayado
+  tu: te habrás desmayado
+  vos: te habrás desmayado
+  ud: se habrá desmayado
+  nosotros: nos habremos desmayado
+  vosotros: os habréis desmayado
+  uds: se habrán desmayado
+condicional-perfecto:
+  yo: me habría desmayado
+  tu: te habrías desmayado
+  vos: te habrías desmayado
+  ud: se habría desmayado
+  nosotros: nos habríamos desmayado
+  vosotros: os habríais desmayado
+  uds: se habrían desmayado
+presente-subjuntivo:
+  yo: me desmaye
+  tu: te desmayes
+  vos: te desmayes
+  ud: se desmaye
+  nosotros: nos desmayemos
+  vosotros: os desmayéis
+  uds: se desmayen
+preterito-perfecto-subjuntivo:
+  yo: me haya desmayado
+  tu: te hayas desmayado
+  vos: te hayas desmayado
+  ud: se haya desmayado
+  nosotros: nos hayamos desmayado
+  vosotros: os hayáis desmayado
+  uds: se hayan desmayado
+imperfecto-subjuntivo:
+  yo:
+    - me desmayara
+    - me desmayase
+  tu:
+    - te desmayaras
+    - te desmayases
+  vos:
+    - te desmayaras
+    - te desmayases
+  ud:
+    - se desmayara
+    - se desmayase
+  nosotros:
+    - nos desmayáramos
+    - nos desmayásemos
+  vosotros:
+    - os desmayarais
+    - os desmayaseis
+  uds:
+    - se desmayaran
+    - se desmayasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera desmayado
+    - me hubiese desmayado
+  tu:
+    - te hubieras desmayado
+    - te hubieses desmayado
+  vos:
+    - te hubieras desmayado
+    - te hubieses desmayado
+  ud:
+    - se hubiera desmayado
+    - se hubiese desmayado
+  nosotros:
+    - nos hubiéramos desmayado
+    - nos hubiésemos desmayado
+  vosotros:
+    - os hubierais desmayado
+    - os hubieseis desmayado
+  uds:
+    - se hubieran desmayado
+    - se hubiesen desmayado
+imperativo:
+  tu: desmáyate
+  vos: desmáyate
+  ud: desmáyese
+  nosotros: desmayémonos
+  vosotros: desmayaos
+  uds: desmáyense

@@ -1,0 +1,156 @@
+infinitivo: enrojecerse
+gerundio: enrojeciéndose
+participio-pasado: enrojecido
+
+presente-indicativo:
+  yo: me enrojezco
+  tu: te enrojeces
+  vos: te enrojeces
+  ud: se enrojece
+  nosotros: nos enrojecemos
+  vosotros: os enrojecéis
+  uds: se enrojecen
+
+preterito-perfecto-simple:
+  yo: me enrojecí
+  tu: te enrojeciste
+  vos: te enrojeciste
+  ud: se enrojeció
+  nosotros: nos enrojecimos
+  vosotros: os enrojecisteis
+  uds: se enrojecieron
+
+preterito-imperfecto:
+  yo: me enrojecía
+  tu: te enrojecías
+  vos: te enrojecías
+  ud: se enrojecía
+  nosotros: nos enrojecíamos
+  vosotros: os enrojecíais
+  uds: se enrojecían
+
+futuro-simple:
+  yo: me enrojeceré
+  tu: te enrojecerás
+  vos: te enrojecerás
+  ud: se enrojecerá
+  nosotros: nos enrojeceremos
+  vosotros: os enrojeceréis
+  uds: se enrojecerán
+
+condicional-simple:
+  yo: me enrojecería
+  tu: te enrojecerías
+  vos: te enrojecerías
+  ud: se enrojecería
+  nosotros: nos enrojeceríamos
+  vosotros: os enrojeceríais
+  uds: se enrojecerían
+
+presente-perfecto:
+  yo: me he enrojecido
+  tu: te has enrojecido
+  vos: te has enrojecido
+  ud: se ha enrojecido
+  nosotros: nos hemos enrojecido
+  vosotros: os habéis enrojecido
+  uds: se han enrojecido
+
+preterito-pluscuamperfecto:
+  yo: me había enrojecido
+  tu: te habías enrojecido
+  vos: te habías enrojecido
+  ud: se había enrojecido
+  nosotros: nos habíamos enrojecido
+  vosotros: os habíais enrojecido
+  uds: se habían enrojecido
+
+futuro-perfecto:
+  yo: me habré enrojecido
+  tu: te habrás enrojecido
+  vos: te habrás enrojecido
+  ud: se habrá enrojecido
+  nosotros: nos habremos enrojecido
+  vosotros: os habréis enrojecido
+  uds: se habrán enrojecido
+
+condicional-perfecto:
+  yo: me habría enrojecido
+  tu: te habrías enrojecido
+  vos: te habrías enrojecido
+  ud: se habría enrojecido
+  nosotros: nos habríamos enrojecido
+  vosotros: os habríais enrojecido
+  uds: se habrían enrojecido
+
+presente-subjuntivo:
+  yo: me enrojezca
+  tu: te enrojezcas
+  vos: te enrojezcas
+  ud: se enrojezca
+  nosotros: nos enrojezcamos
+  vosotros: os enrojezcáis
+  uds: se enrojezcan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya enrojecido
+  tu: te hayas enrojecido
+  vos: te hayas enrojecido
+  ud: se haya enrojecido
+  nosotros: nos hayamos enrojecido
+  vosotros: os hayáis enrojecido
+  uds: se hayan enrojecido
+
+imperfecto-subjuntivo:
+  yo:
+    - me enrojeciera
+    - me enrojeciese
+  tu:
+    - te enrojecieras
+    - te enrojecieses
+  vos:
+    - te enrojecieras
+    - te enrojecieses
+  ud:
+    - se enrojeciera
+    - se enrojeciese
+  nosotros:
+    - nos enrojeciéramos
+    - nos enrojeciésemos
+  vosotros:
+    - os enrojecierais
+    - os enrojecieseis
+  uds:
+    - se enrojecieran
+    - se enrojeciesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera enrojecido
+    - me hubiese enrojecido
+  tu:
+    - te hubieras enrojecido
+    - te hubieses enrojecido
+  vos:
+    - te hubieras enrojecido
+    - te hubieses enrojecido
+  ud:
+    - se hubiera enrojecido
+    - se hubiese enrojecido
+  nosotros:
+    - nos hubiéramos enrojecido
+    - nos hubiésemos enrojecido
+  vosotros:
+    - os hubierais enrojecido
+    - os hubieseis enrojecido
+  uds:
+    - se hubieran enrojecido
+    - se hubiesen enrojecido
+
+imperativo:
+  tu: enrojécete
+  vos: enrojecéte
+  ud: enrojezca
+  nosotros: enrojezcámonos
+  vosotros: enrojeceos
+  uds: enrojezcan

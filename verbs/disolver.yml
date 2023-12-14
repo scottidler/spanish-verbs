@@ -1,0 +1,142 @@
+infinitivo: disolver
+gerundio: disolviendo
+participio-pasado: disuelto
+presente-indicativo:
+  yo: disuelvo
+  tu: disuelves
+  vos: disolvés
+  ud: disuelve
+  nosotros: disolvemos
+  vosotros: disolvéis
+  uds: disuelven
+preterito-perfecto-simple:
+  yo: disolví
+  tu: disolviste
+  vos: disolviste
+  ud: disolvió
+  nosotros: disolvimos
+  vosotros: disolvisteis
+  uds: disolvieron
+preterito-imperfecto:
+  yo: disolvía
+  tu: disolvías
+  vos: disolvías
+  ud: disolvía
+  nosotros: disolvíamos
+  vosotros: disolvíais
+  uds: disolvían
+futuro-simple:
+  yo: disolveré
+  tu: disolverás
+  vos: disolverás
+  ud: disolverá
+  nosotros: disolveremos
+  vosotros: disolveréis
+  uds: disolverán
+condicional-simple:
+  yo: disolvería
+  tu: disolverías
+  vos: disolverías
+  ud: disolvería
+  nosotros: disolveríamos
+  vosotros: disolveríais
+  uds: disolverían
+presente-perfecto:
+  yo: he disuelto
+  tu: has disuelto
+  vos: has disuelto
+  ud: ha disuelto
+  nosotros: hemos disuelto
+  vosotros: habéis disuelto
+  uds: han disuelto
+preterito-pluscuamperfecto:
+  yo: había disuelto
+  tu: habías disuelto
+  vos: habías disuelto
+  ud: había disuelto
+  nosotros: habíamos disuelto
+  vosotros: habíais disuelto
+  uds: habían disuelto
+futuro-perfecto:
+  yo: habré disuelto
+  tu: habrás disuelto
+  vos: habrás disuelto
+  ud: habrá disuelto
+  nosotros: habremos disuelto
+  vosotros: habréis disuelto
+  uds: habrán disuelto
+condicional-perfecto:
+  yo: habría disuelto
+  tu: habrías disuelto
+  vos: habrías disuelto
+  ud: habría disuelto
+  nosotros: habríamos disuelto
+  vosotros: habríais disuelto
+  uds: habrían disuelto
+presente-subjuntivo:
+  yo: disuelva
+  tu: disuelvas
+  vos: disuelvas
+  ud: disuelva
+  nosotros: disolvamos
+  vosotros: disolváis
+  uds: disuelvan
+preterito-perfecto-subjuntivo:
+  yo: haya disuelto
+  tu: hayas disuelto
+  vos: hayas disuelto
+  ud: haya disuelto
+  nosotros: hayamos disuelto
+  vosotros: hayáis disuelto
+  uds: hayan disuelto
+imperfecto-subjuntivo:
+  yo:
+    - disolviera
+    - disolviese
+  tu:
+    - disolvieras
+    - disolvieses
+  vos:
+    - disolvieras
+    - disolvieses
+  ud:
+    - disolviera
+    - disolviese
+  nosotros:
+    - disolviéramos
+    - disolviésemos
+  vosotros:
+    - disolvierais
+    - disolvieseis
+  uds:
+    - disolvieran
+    - disolviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera disuelto
+    - hubiese disuelto
+  tu:
+    - hubieras disuelto
+    - hubieses disuelto
+  vos:
+    - hubieras disuelto
+    - hubieses disuelto
+  ud:
+    - hubiera disuelto
+    - hubiese disuelto
+  nosotros:
+    - hubiéramos disuelto
+    - hubiésemos disuelto
+  vosotros:
+    - hubierais disuelto
+    - hubieseis disuelto
+  uds:
+    - hubieran disuelto
+    - hubiesen disuelto
+imperativo:
+  tu: disuelve
+  vos: disolvé
+  ud: disuelva
+  nosotros: disolvamos
+  vosotros: disolved
+  uds: disuelvan

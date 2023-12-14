@@ -1,0 +1,142 @@
+infinitivo: bambolear
+gerundio: bamboleando
+participio-pasado: bamboleado
+presente-indicativo:
+  yo: bamboleo
+  tu: bamboleas
+  vos: bamboleas
+  ud: bambolea
+  nosotros: bamboleamos
+  vosotros: bamboleáis
+  uds: bambolean
+preterito-perfecto-simple:
+  yo: bamboleé
+  tu: bamboleaste
+  vos: bamboleaste
+  ud: bamboleó
+  nosotros: bamboleamos
+  vosotros: bamboleasteis
+  uds: bambolearon
+preterito-imperfecto:
+  yo: bamboleaba
+  tu: bamboleabas
+  vos: bamboleabas
+  ud: bamboleaba
+  nosotros: bamboleábamos
+  vosotros: bamboleabais
+  uds: bamboleaban
+futuro-simple:
+  yo: bambolearé
+  tu: bambolearás
+  vos: bambolearás
+  ud: bamboleará
+  nosotros: bambolearemos
+  vosotros: bambolearéis
+  uds: bambolearán
+condicional-simple:
+  yo: bambolearía
+  tu: bambolearías
+  vos: bambolearías
+  ud: bambolearía
+  nosotros: bambolearíamos
+  vosotros: bambolearíais
+  uds: bambolearían
+presente-perfecto:
+  yo: he bamboleado
+  tu: has bamboleado
+  vos: has bamboleado
+  ud: ha bamboleado
+  nosotros: hemos bamboleado
+  vosotros: habéis bamboleado
+  uds: han bamboleado
+preterito-pluscuamperfecto:
+  yo: había bamboleado
+  tu: habías bamboleado
+  vos: habías bamboleado
+  ud: había bamboleado
+  nosotros: habíamos bamboleado
+  vosotros: habíais bamboleado
+  uds: habían bamboleado
+futuro-perfecto:
+  yo: habré bamboleado
+  tu: habrás bamboleado
+  vos: habrás bamboleado
+  ud: habrá bamboleado
+  nosotros: habremos bamboleado
+  vosotros: habréis bamboleado
+  uds: habrán bamboleado
+condicional-perfecto:
+  yo: habría bamboleado
+  tu: habrías bamboleado
+  vos: habrías bamboleado
+  ud: habría bamboleado
+  nosotros: habríamos bamboleado
+  vosotros: habríais bamboleado
+  uds: habrían bamboleado
+presente-subjuntivo:
+  yo: bambolee
+  tu: bambolees
+  vos: bambolees
+  ud: bambolee
+  nosotros: bamboleemos
+  vosotros: bamboleéis
+  uds: bamboleen
+preterito-perfecto-subjuntivo:
+  yo: haya bamboleado
+  tu: hayas bamboleado
+  vos: hayas bamboleado
+  ud: haya bamboleado
+  nosotros: hayamos bamboleado
+  vosotros: hayáis bamboleado
+  uds: hayan bamboleado
+imperfecto-subjuntivo:
+  yo:
+    - bamboleara
+    - bambolease
+  tu:
+    - bambolearas
+    - bamboleases
+  vos:
+    - bambolearas
+    - bamboleases
+  ud:
+    - bamboleara
+    - bambolease
+  nosotros:
+    - bamboleáramos
+    - bamboleásemos
+  vosotros:
+    - bambolearais
+    - bamboseaseis
+  uds:
+    - bambolearan
+    - bamboleasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bamboleado
+    - hubiese bamboleado
+  tu:
+    - hubieras bamboleado
+    - hubieses bamboleado
+  vos:
+    - hubieras bamboleado
+    - hubieses bamboleado
+  ud:
+    - hubiera bamboleado
+    - hubiese bamboleado
+  nosotros:
+    - hubiéramos bamboleado
+    - hubiésemos bamboleado
+  vosotros:
+    - hubierais bamboleado
+    - hubieseis bamboleado
+  uds:
+    - hubieran bamboleado
+    - hubiesen bamboleado
+imperativo:
+  tu: bambolea
+  vos: bambolea
+  ud: bambolee
+  nosotros: bamboleemos
+  vosotros: bambolead
+  uds: bamboleen

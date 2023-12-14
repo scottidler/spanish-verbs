@@ -1,0 +1,142 @@
+infinitivo: brindar
+gerundio: brindando
+participio-pasado: brindado
+presente-indicativo:
+  yo: brindo
+  tu: brindas
+  vos: brindás
+  ud: brinda
+  nosotros: brindamos
+  vosotros: brindáis
+  uds: brindan
+preterito-perfecto-simple:
+  yo: brindé
+  tu: brindaste
+  vos: brindaste
+  ud: brindó
+  nosotros: brindamos
+  vosotros: brindasteis
+  uds: brindaron
+preterito-imperfecto:
+  yo: brindaba
+  tu: brindabas
+  vos: brindabas
+  ud: brindaba
+  nosotros: brindábamos
+  vosotros: brindabais
+  uds: brindaban
+futuro-simple:
+  yo: brindaré
+  tu: brindarás
+  vos: brindarás
+  ud: brindará
+  nosotros: brindaremos
+  vosotros: brindaréis
+  uds: brindarán
+condicional-simple:
+  yo: brindaría
+  tu: brindarías
+  vos: brindarías
+  ud: brindaría
+  nosotros: brindaríamos
+  vosotros: brindaríais
+  uds: brindarían
+presente-perfecto:
+  yo: he brindado
+  tu: has brindado
+  vos: has brindado
+  ud: ha brindado
+  nosotros: hemos brindado
+  vosotros: habéis brindado
+  uds: han brindado
+preterito-pluscuamperfecto:
+  yo: había brindado
+  tu: habías brindado
+  vos: habías brindado
+  ud: había brindado
+  nosotros: habíamos brindado
+  vosotros: habíais brindado
+  uds: habían brindado
+futuro-perfecto:
+  yo: habré brindado
+  tu: habrás brindado
+  vos: habrás brindado
+  ud: habrá brindado
+  nosotros: habremos brindado
+  vosotros: habréis brindado
+  uds: habrán brindado
+condicional-perfecto:
+  yo: habría brindado
+  tu: habrías brindado
+  vos: habrías brindado
+  ud: habría brindado
+  nosotros: habríamos brindado
+  vosotros: habríais brindado
+  uds: habrían brindado
+presente-subjuntivo:
+  yo: brinde
+  tu: brindes
+  vos: brindes
+  ud: brinde
+  nosotros: brindemos
+  vosotros: brindéis
+  uds: brinden
+preterito-perfecto-subjuntivo:
+  yo: haya brindado
+  tu: hayas brindado
+  vos: hayas brindado
+  ud: haya brindado
+  nosotros: hayamos brindado
+  vosotros: hayáis brindado
+  uds: hayan brindado
+imperfecto-subjuntivo:
+  yo:
+    - brindara
+    - brindase
+  tu:
+    - brindaras
+    - brindases
+  vos:
+    - brindaras
+    - brindases
+  ud:
+    - brindara
+    - brindase
+  nosotros:
+    - brindáramos
+    - brindásemos
+  vosotros:
+    - brindarais
+    - brindaseis
+  uds:
+    - brindaran
+    - brindasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera brindado
+    - hubiese brindado
+  tu:
+    - hubieras brindado
+    - hubieses brindado
+  vos:
+    - hubieras brindado
+    - hubieses brindado
+  ud:
+    - hubiera brindado
+    - hubiese brindado
+  nosotros:
+    - hubiéramos brindado
+    - hubiésemos brindado
+  vosotros:
+    - hubierais brindado
+    - hubieseis brindado
+  uds:
+    - hubieran brindado
+    - hubiesen brindado
+imperativo:
+  tu: brinda
+  vos: brindá
+  ud: brinde
+  nosotros: brindemos
+  vosotros: brindad
+  uds: brinden

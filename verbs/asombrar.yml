@@ -1,0 +1,142 @@
+infinitivo: asombrar
+gerundio: asombrando
+participio-pasado: asombrado
+presente-indicativo:
+  yo: asombro
+  tu: asombras
+  vos: asombras
+  ud: asombra
+  nosotros: asombramos
+  vosotros: asombráis
+  uds: asombran
+preterito-perfecto-simple:
+  yo: asombré
+  tu: asombraste
+  vos: asombraste
+  ud: asombró
+  nosotros: asombramos
+  vosotros: asombrasteis
+  uds: asombraron
+preterito-imperfecto:
+  yo: asombraba
+  tu: asombrabas
+  vos: asombrabas
+  ud: asombraba
+  nosotros: asombrábamos
+  vosotros: asombrabais
+  uds: asombraban
+futuro-simple:
+  yo: asombraré
+  tu: asombrarás
+  vos: asombrarás
+  ud: asombrará
+  nosotros: asombraremos
+  vosotros: asombraréis
+  uds: asombrarán
+condicional-simple:
+  yo: asombraría
+  tu: asombrarías
+  vos: asombrarías
+  ud: asombraría
+  nosotros: asombraríamos
+  vosotros: asombraríais
+  uds: asombrarían
+presente-perfecto:
+  yo: he asombrado
+  tu: has asombrado
+  vos: has asombrado
+  ud: ha asombrado
+  nosotros: hemos asombrado
+  vosotros: habéis asombrado
+  uds: han asombrado
+preterito-pluscuamperfecto:
+  yo: había asombrado
+  tu: habías asombrado
+  vos: habías asombrado
+  ud: había asombrado
+  nosotros: habíamos asombrado
+  vosotros: habíais asombrado
+  uds: habían asombrado
+futuro-perfecto:
+  yo: habré asombrado
+  tu: habrás asombrado
+  vos: habrás asombrado
+  ud: habrá asombrado
+  nosotros: habremos asombrado
+  vosotros: habréis asombrado
+  uds: habrán asombrado
+condicional-perfecto:
+  yo: habría asombrado
+  tu: habrías asombrado
+  vos: habrías asombrado
+  ud: habría asombrado
+  nosotros: habríamos asombrado
+  vosotros: habríais asombrado
+  uds: habrían asombrado
+presente-subjuntivo:
+  yo: asombre
+  tu: asombres
+  vos: asombres
+  ud: asombre
+  nosotros: asombremos
+  vosotros: asombréis
+  uds: asombren
+preterito-perfecto-subjuntivo:
+  yo: haya asombrado
+  tu: hayas asombrado
+  vos: hayas asombrado
+  ud: haya asombrado
+  nosotros: hayamos asombrado
+  vosotros: hayáis asombrado
+  uds: hayan asombrado
+imperfecto-subjuntivo:
+  yo:
+    - asombrara
+    - asombrase
+  tu:
+    - asombraras
+    - asombrases
+  vos:
+    - asombraras
+    - asombrases
+  ud:
+    - asombrara
+    - asombrase
+  nosotros:
+    - asombráramos
+    - asombrásemos
+  vosotros:
+    - asombrarais
+    - asombraseis
+  uds:
+    - asombraran
+    - asombrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asombrado
+    - hubiese asombrado
+  tu:
+    - hubieras asombrado
+    - hubieses asombrado
+  vos:
+    - hubieras asombrado
+    - hubieses asombrado
+  ud:
+    - hubiera asombrado
+    - hubiese asombrado
+  nosotros:
+    - hubiéramos asombrado
+    - hubiésemos asombrado
+  vosotros:
+    - hubierais asombrado
+    - hubieseis asombrado
+  uds:
+    - hubieran asombrado
+    - hubiesen asombrado
+imperativo:
+  tu: asombra
+  vos: asombrá
+  ud: asombre
+  nosotros: asombremos
+  vosotros: asombrad
+  uds: asombren

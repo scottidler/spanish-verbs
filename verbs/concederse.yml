@@ -1,0 +1,142 @@
+infinitivo: concederse
+gerundio: concediéndose
+participio-pasado: concedido
+presente-indicativo:
+  yo: me concedo
+  tu: te concedes
+  vos: te concedes
+  ud: se concede
+  nosotros: nos concedemos
+  vosotros: os concedéis
+  uds: se conceden
+preterito-perfecto-simple:
+  yo: me concedí
+  tu: te concediste
+  vos: te concediste
+  ud: se concedió
+  nosotros: nos concedimos
+  vosotros: os concedisteis
+  uds: se concedieron
+preterito-imperfecto:
+  yo: me concedía
+  tu: te concedías
+  vos: te concedías
+  ud: se concedía
+  nosotros: nos concedíamos
+  vosotros: os concedíais
+  uds: se concedían
+futuro-simple:
+  yo: me concederé
+  tu: te concederás
+  vos: te concederás
+  ud: se concederá
+  nosotros: nos concederemos
+  vosotros: os concederéis
+  uds: se concederán
+condicional-simple:
+  yo: me concedería
+  tu: te concederías
+  vos: te concederías
+  ud: se concedería
+  nosotros: nos concederíamos
+  vosotros: os concederíais
+  uds: se concederían
+presente-perfecto:
+  yo: me he concedido
+  tu: te has concedido
+  vos: te has concedido
+  ud: se ha concedido
+  nosotros: nos hemos concedido
+  vosotros: os habéis concedido
+  uds: se han concedido
+preterito-pluscuamperfecto:
+  yo: me había concedido
+  tu: te habías concedido
+  vos: te habías concedido
+  ud: se había concedido
+  nosotros: nos habíamos concedido
+  vosotros: os habíais concedido
+  uds: se habían concedido
+futuro-perfecto:
+  yo: me habré concedido
+  tu: te habrás concedido
+  vos: te habrás concedido
+  ud: se habrá concedido
+  nosotros: nos habremos concedido
+  vosotros: os habréis concedido
+  uds: se habrán concedido
+condicional-perfecto:
+  yo: me habría concedido
+  tu: te habrías concedido
+  vos: te habrías concedido
+  ud: se habría concedido
+  nosotros: nos habríamos concedido
+  vosotros: os habríais concedido
+  uds: se habrían concedido
+presente-subjuntivo:
+  yo: me conceda
+  tu: te concedas
+  vos: te concedas
+  ud: se conceda
+  nosotros: nos concedamos
+  vosotros: os concedáis
+  uds: se concedan
+preterito-perfecto-subjuntivo:
+  yo: me haya concedido
+  tu: te hayas concedido
+  vos: te hayas concedido
+  ud: se haya concedido
+  nosotros: nos hayamos concedido
+  vosotros: os hayáis concedido
+  uds: se hayan concedido
+imperfecto-subjuntivo:
+  yo:
+    - me concediera
+    - me concediese
+  tu:
+    - te concedieras
+    - te concedieses
+  vos:
+    - te concedieras
+    - te concedieses
+  ud:
+    - se concediera
+    - se concediese
+  nosotros:
+    - nos concediéramos
+    - nos concediésemos
+  vosotros:
+    - os concedierais
+    - os concedieseis
+  uds:
+    - se concedieran
+    - se concediesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera concedido
+    - me hubiese concedido
+  tu:
+    - te hubieras concedido
+    - te hubieses concedido
+  vos:
+    - te hubieras concedido
+    - te hubieses concedido
+  ud:
+    - se hubiera concedido
+    - se hubiese concedido
+  nosotros:
+    - nos hubiéramos concedido
+    - nos hubiésemos concedido
+  vosotros:
+    - os hubierais concedido
+    - os hubieseis concedido
+  uds:
+    - se hubieran concedido
+    - se hubiesen concedido
+imperativo:
+  tu: concédete
+  vos: concédete
+  ud: concésele
+  nosotros: concédanos
+  vosotros: conceded
+  uds: concédanse

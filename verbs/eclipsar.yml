@@ -1,0 +1,142 @@
+infinitivo: eclipsar
+gerundio: eclipsando
+participio-pasado: eclipsado
+presente-indicativo:
+  yo: eclipse
+  tu: eclipsas
+  vos: eclipsás
+  ud: eclipsa
+  nosotros: eclipsamos
+  vosotros: eclipsáis
+  uds: eclipsan
+preterito-perfecto-simple:
+  yo: eclipsé
+  tu: eclipsaste
+  vos: eclipsaste
+  ud: eclipsó
+  nosotros: eclipsamos
+  vosotros: eclipsasteis
+  uds: eclipsaron
+preterito-imperfecto:
+  yo: eclipsaba
+  tu: eclipsabas
+  vos: eclipsabas
+  ud: eclipsaba
+  nosotros: eclipsábamos
+  vosotros: eclipsabais
+  uds: eclipsaban
+futuro-simple:
+  yo: eclipsaré
+  tu: eclipsarás
+  vos: eclipsarás
+  ud: eclipsará
+  nosotros: eclipsaremos
+  vosotros: eclipsaréis
+  uds: eclipsarán
+condicional-simple:
+  yo: eclipsaría
+  tu: eclipsarías
+  vos: eclipsarías
+  ud: eclipsaría
+  nosotros: eclipsaríamos
+  vosotros: eclipsaríais
+  uds: eclipsarían
+presente-perfecto:
+  yo: he eclipsado
+  tu: has eclipsado
+  vos: has eclipsado
+  ud: ha eclipsado
+  nosotros: hemos eclipsado
+  vosotros: habéis eclipsado
+  uds: han eclipsado
+preterito-pluscuamperfecto:
+  yo: había eclipsado
+  tu: habías eclipsado
+  vos: habías eclipsado
+  ud: había eclipsado
+  nosotros: habíamos eclipsado
+  vosotros: habíais eclipsado
+  uds: habían eclipsado
+futuro-perfecto:
+  yo: habré eclipsado
+  tu: habrás eclipsado
+  vos: habrás eclipsado
+  ud: habrá eclipsado
+  nosotros: habremos eclipsado
+  vosotros: habréis eclipsado
+  uds: habrán eclipsado
+condicional-perfecto:
+  yo: habría eclipsado
+  tu: habrías eclipsado
+  vos: habrías eclipsado
+  ud: habría eclipsado
+  nosotros: habríamos eclipsado
+  vosotros: habríais eclipsado
+  uds: habrían eclipsado
+presente-subjuntivo:
+  yo: eclipse
+  tu: eclipses
+  vos: eclipses
+  ud: eclipse
+  nosotros: eclipsemos
+  vosotros: eclipséis
+  uds: eclipsen
+preterito-perfecto-subjuntivo:
+  yo: haya eclipsado
+  tu: hayas eclipsado
+  vos: hayas eclipsado
+  ud: haya eclipsado
+  nosotros: hayamos eclipsado
+  vosotros: hayáis eclipsado
+  uds: hayan eclipsado
+imperfecto-subjuntivo:
+  yo:
+    - eclipsara
+    - eclipsase
+  tu:
+    - eclipsaras
+    - eclipsases
+  vos:
+    - eclipsaras
+    - eclipsases
+  ud:
+    - eclipsara
+    - eclipsase
+  nosotros:
+    - eclipsáramos
+    - eclipsásemos
+  vosotros:
+    - eclipsarais
+    - eclipsaseis
+  uds:
+    - eclipsaran
+    - eclipsasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera eclipsado
+    - hubiese eclipsado
+  tu:
+    - hubieras eclipsado
+    - hubieses eclipsado
+  vos:
+    - hubieras eclipsado
+    - hubieses eclipsado
+  ud:
+    - hubiera eclipsado
+    - hubiese eclipsado
+  nosotros:
+    - hubiéramos eclipsado
+    - hubiésemos eclipsado
+  vosotros:
+    - hubierais eclipsado
+    - hubieseis eclipsado
+  uds:
+    - hubieran eclipsado
+    - hubiesen eclipsado
+imperativo:
+  tu: eclipsa
+  vos: eclipsá
+  ud: eclipse
+  nosotros: eclipsemos
+  vosotros: eclipsad
+  uds: eclipsen

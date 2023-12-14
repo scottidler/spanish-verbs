@@ -1,0 +1,142 @@
+infinitivo: proliferar
+gerundio: proliferando
+participio-pasado: proliferado
+presente-indicativo:
+  yo: proliferó
+  tu: proliferas
+  vos: proliferas
+  ud: prolifera
+  nosotros: proliferamos
+  vosotros: proliferáis
+  uds: proliferan
+preterito-perfecto-simple:
+  yo: proliferé
+  tu: proliferaste
+  vos: proliferaste
+  ud: proliferó
+  nosotros: proliferamos
+  vosotros: proliferasteis
+  uds: proliferaron
+preterito-imperfecto:
+  yo: proliferaba
+  tu: proliferabas
+  vos: proliferabas
+  ud: proliferaba
+  nosotros: proliferábamos
+  vosotros: proliferabais
+  uds: proliferaban
+futuro-simple:
+  yo: proliferaré
+  tu: proliferarás
+  vos: proliferarás
+  ud: proliferará
+  nosotros: proliferaremos
+  vosotros: proliferaréis
+  uds: proliferarán
+condicional-simple:
+  yo: proliferaría
+  tu: proliferarías
+  vos: proliferarías
+  ud: proliferaría
+  nosotros: proliferaríamos
+  vosotros: proliferaríais
+  uds: proliferarían
+presente-perfecto:
+  yo: he proliferado
+  tu: has proliferado
+  vos: has proliferado
+  ud: ha proliferado
+  nosotros: hemos proliferado
+  vosotros: habéis proliferado
+  uds: han proliferado
+preterito-pluscuamperfecto:
+  yo: había proliferado
+  tu: habías proliferado
+  vos: habías proliferado
+  ud: había proliferado
+  nosotros: habíamos proliferado
+  vosotros: habíais proliferado
+  uds: habían proliferado
+futuro-perfecto:
+  yo: habré proliferado
+  tu: habrás proliferado
+  vos: habrás proliferado
+  ud: habrá proliferado
+  nosotros: habremos proliferado
+  vosotros: habréis proliferado
+  uds: habrán proliferado
+condicional-perfecto:
+  yo: habría proliferado
+  tu: habrías proliferado
+  vos: habrías proliferado
+  ud: habría proliferado
+  nosotros: habríamos proliferado
+  vosotros: habríais proliferado
+  uds: habrían proliferado
+presente-subjuntivo:
+  yo: prolifere
+  tu: proliferes
+  vos: proliferes
+  ud: prolifere
+  nosotros: proliferemos
+  vosotros: proliferéis
+  uds: proliferen
+preterito-perfecto-subjuntivo:
+  yo: haya proliferado
+  tu: hayas proliferado
+  vos: hayas proliferado
+  ud: haya proliferado
+  nosotros: hayamos proliferado
+  vosotros: hayáis proliferado
+  uds: hayan proliferado
+imperfecto-subjuntivo:
+  yo:
+    - proliferara
+    - proliferase
+  tu:
+    - proliferaras
+    - proliferases
+  vos:
+    - proliferaras
+    - proliferases
+  ud:
+    - proliferara
+    - proliferase
+  nosotros:
+    - proliferáramos
+    - proliferásemos
+  vosotros:
+    - proliferarais
+    - proliferaseis
+  uds:
+    - proliferaran
+    - proliferasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera proliferado
+    - hubiese proliferado
+  tu:
+    - hubieras proliferado
+    - hubieses proliferado
+  vos:
+    - hubieras proliferado
+    - hubieses proliferado
+  ud:
+    - hubiera proliferado
+    - hubiese proliferado
+  nosotros:
+    - hubiéramos proliferado
+    - hubiésemos proliferado
+  vosotros:
+    - hubierais proliferado
+    - hubieseis proliferado
+  uds:
+    - hubieran proliferado
+    - hubiesen proliferado
+imperativo:
+  tu: prolifera
+  vos: prolifera
+  ud: prolifere
+  nosotros: proliferemos
+  vosotros: proliferad
+  uds: proliferen

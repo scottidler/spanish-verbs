@@ -1,0 +1,142 @@
+infinitivo: tropezarse
+gerundio: tropezándose
+participio-pasado: tropezado
+presente-indicativo:
+  yo: me tropiezo
+  tu: te tropiezas
+  vos: te tropiezas
+  ud: se tropieza
+  nosotros: nos tropezamos
+  vosotros: os tropezáis
+  uds: se tropiezan
+preterito-perfecto-simple:
+  yo: me tropecé
+  tu: te tropezaste
+  vos: te tropezaste
+  ud: se tropezó
+  nosotros: nos tropezamos
+  vosotros: os tropezasteis
+  uds: se tropezaron
+preterito-imperfecto:
+  yo: me tropezaba
+  tu: te tropezabas
+  vos: te tropezabas
+  ud: se tropezaba
+  nosotros: nos tropezábamos
+  vosotros: os tropezabais
+  uds: se tropezaban
+futuro-simple:
+  yo: me tropezaré
+  tu: te tropezarás
+  vos: te tropezarás
+  ud: se tropezará
+  nosotros: nos tropezaremos
+  vosotros: os tropezaréis
+  uds: se tropezarán
+condicional-simple:
+  yo: me tropezaría
+  tu: te tropezarías
+  vos: te tropezarías
+  ud: se tropezaría
+  nosotros: nos tropezaríamos
+  vosotros: os tropezaríais
+  uds: se tropezarían
+presente-perfecto:
+  yo: me he tropezado
+  tu: te has tropezado
+  vos: te has tropezado
+  ud: se ha tropezado
+  nosotros: nos hemos tropezado
+  vosotros: os habéis tropezado
+  uds: se han tropezado
+preterito-pluscuamperfecto:
+  yo: me había tropezado
+  tu: te habías tropezado
+  vos: te habías tropezado
+  ud: se había tropezado
+  nosotros: nos habíamos tropezado
+  vosotros: os habíais tropezado
+  uds: se habían tropezado
+futuro-perfecto:
+  yo: me habré tropezado
+  tu: te habrás tropezado
+  vos: te habrás tropezado
+  ud: se habrá tropezado
+  nosotros: nos habremos tropezado
+  vosotros: os habréis tropezado
+  uds: se habrán tropezado
+condicional-perfecto:
+  yo: me habría tropezado
+  tu: te habrías tropezado
+  vos: te habrías tropezado
+  ud: se habría tropezado
+  nosotros: nos habríamos tropezado
+  vosotros: os habríais tropezado
+  uds: se habrían tropezado
+presente-subjuntivo:
+  yo: me tropiece
+  tu: te tropieces
+  vos: te tropieces
+  ud: se tropiece
+  nosotros: nos tropecemos
+  vosotros: os tropencéis
+  uds: se tropiecen
+preterito-perfecto-subjuntivo:
+  yo: me haya tropezado
+  tu: te hayas tropezado
+  vos: te hayas tropezado
+  ud: se haya tropezado
+  nosotros: nos hayamos tropezado
+  vosotros: os hayáis tropezado
+  uds: se hayan tropezado
+imperfecto-subjuntivo:
+  yo:
+    - me tropezara
+    - me tropezase
+  tu:
+    - te tropezaras
+    - te tropezases
+  vos:
+    - te tropezaras
+    - te tropezases
+  ud:
+    - se tropezara
+    - se tropezase
+  nosotros:
+    - nos tropezáramos
+    - nos tropezásemos
+  vosotros:
+    - os tropezarais
+    - os tropezaseis
+  uds:
+    - se tropezaran
+    - se tropezasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera tropezado
+    - me hubiese tropezado
+  tu:
+    - te hubieras tropezado
+    - te hubieses tropezado
+  vos:
+    - te hubieras tropezado
+    - te hubieses tropezado
+  ud:
+    - se hubiera tropezado
+    - se hubiese tropezado
+  nosotros:
+    - nos hubiéramos tropezado
+    - nos hubiésemos tropezado
+  vosotros:
+    - os hubierais tropezado
+    - os hubieseis tropezado
+  uds:
+    - se hubieran tropezado
+    - se hubiesen tropezado
+imperativo:
+  tu: tócete
+  vos: tropézate
+  ud: tropécese
+  nosotros: tropecémonos
+  vosotros: tropezadvos
+  uds: tropécense

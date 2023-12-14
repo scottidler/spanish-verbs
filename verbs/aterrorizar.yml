@@ -1,0 +1,142 @@
+infinitivo: aterrorizar
+gerundio: aterrorizando
+participio-pasado: aterrorizado
+presente-indicativo:
+  yo: aterrorizo
+  tu: aterrorizas
+  vos: aterrorizas
+  ud: aterroriza
+  nosotros: aterrorizamos
+  vosotros: aterrorizáis
+  uds: aterrorizan
+preterito-perfecto-simple:
+  yo: aterroricé
+  tu: aterrorizaste
+  vos: aterrorizaste
+  ud: aterrorizó
+  nosotros: aterrorizamos
+  vosotros: aterrorizasteis
+  uds: aterrorizaron
+preterito-imperfecto:
+  yo: aterrorizaba
+  tu: aterrorizabas
+  vos: aterrorizabas
+  ud: aterrorizaba
+  nosotros: aterrorizábamos
+  vosotros: aterrorizabais
+  uds: aterrorizaban
+futuro-simple:
+  yo: aterrorizaré
+  tu: aterrorizarás
+  vos: aterrorizarás
+  ud: aterrorizará
+  nosotros: aterrorizaremos
+  vosotros: aterrorizaréis
+  uds: aterrorizarán
+condicional-simple:
+  yo: aterrorizaría
+  tu: aterrorizarías
+  vos: aterrorizarías
+  ud: aterrorizaría
+  nosotros: aterrorizaríamos
+  vosotros: aterrorizaríais
+  uds: aterrorizarían
+presente-perfecto:
+  yo: he aterrorizado
+  tu: has aterrorizado
+  vos: has aterrorizado
+  ud: ha aterrorizado
+  nosotros: hemos aterrorizado
+  vosotros: habéis aterrorizado
+  uds: han aterrorizado
+preterito-pluscuamperfecto:
+  yo: había aterrorizado
+  tu: habías aterrorizado
+  vos: habías aterrorizado
+  ud: había aterrorizado
+  nosotros: habíamos aterrorizado
+  vosotros: habíais aterrorizado
+  uds: habían aterrorizado
+futuro-perfecto:
+  yo: habré aterrorizado
+  tu: habrás aterrorizado
+  vos: habrás aterrorizado
+  ud: habrá aterrorizado
+  nosotros: habremos aterrorizado
+  vosotros: habréis aterrorizado
+  uds: habrán aterrorizado
+condicional-perfecto:
+  yo: habría aterrorizado
+  tu: habrías aterrorizado
+  vos: habrías aterrorizado
+  ud: habría aterrorizado
+  nosotros: habríamos aterrorizado
+  vosotros: habríais aterrorizado
+  uds: habrían aterrorizado
+presente-subjuntivo:
+  yo: aterroce
+  tu: aterrorices
+  vos: aterrorices
+  ud: aterroce
+  nosotros: aterroricemos
+  vosotros: aterroricéis
+  uds: aterroricen
+preterito-perfecto-subjuntivo:
+  yo: haya aterrorizado
+  tu: hayas aterrorizado
+  vos: hayas aterrorizado
+  ud: haya aterrorizado
+  nosotros: hayamos aterrorizado
+  vosotros: hayáis aterrorizado
+  uds: hayan aterrorizado
+imperfecto-subjuntivo:
+  yo:
+    - aterrorizara
+    - aterrorizase
+  tu:
+    - aterrorizaras
+    - aterrorizases
+  vos:
+    - aterrorizaras
+    - aterrorizases
+  ud:
+    - aterrorizara
+    - aterrorizase
+  nosotros:
+    - aterrorizáramos
+    - aterrorizásemos
+  vosotros:
+    - aterrorizarais
+    - aterrorizaseis
+  uds:
+    - aterrorizaran
+    - aterrorizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aterrorizado
+    - hubiese aterrorizado
+  tu:
+    - hubieras aterrorizado
+    - hubieses aterrorizado
+  vos:
+    - hubieras aterrorizado
+    - hubieses aterrorizado
+  ud:
+    - hubiera aterrorizado
+    - hubiese aterrorizado
+  nosotros:
+    - hubiéramos aterrorizado
+    - hubiésemos aterrorizado
+  vosotros:
+    - hubierais aterrorizado
+    - hubieseis aterrorizado
+  uds:
+    - hubieran aterrorizado
+    - hubiesen aterrorizado
+imperativo:
+  tu: aterroriza
+  vos: aterrorizá
+  ud: aterrorice
+  nosotros: aterroricemos
+  vosotros: aterrorizad
+  uds: aterroricen

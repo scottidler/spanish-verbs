@@ -1,0 +1,156 @@
+infinitivo: baber 
+gerundio: babiendo 
+participio-pasado: babe  
+
+presente-indicativo:
+  yo: bebo 
+  tu: bebes 
+  vos: bebes 
+  ud: bebe 
+  nosotros: bebemos 
+  vosotros: bebéis 
+  uds: beben 
+
+preterito-perfecto-simple:
+  yo: bebí 
+  tu: bebiste 
+  vos: bebiste 
+  ud: bebió 
+  nosotros: bebimos 
+  vosotros: bebisteis 
+  uds: bebieron 
+
+preterito-imperfecto:
+  yo: bebía 
+  tu: bebías 
+  vos: bebías 
+  ud: bebía 
+  nosotros: bebíamos 
+  vosotros: bebíais 
+  uds: bebían 
+
+futuro-simple:
+  yo: beberé 
+  tu: beberás 
+  vos: beberás 
+  ud: beberá 
+  nosotros: beberemos 
+  vosotros: beberéis 
+  uds: beberán 
+
+condicional-simple:
+  yo: bebería 
+  tu: beberías 
+  vos: beberías 
+  ud: bebería 
+  nosotros: beberíamos 
+  vosotros: beberíais 
+  uds: beberían 
+
+presente-perfecto:
+  yo: he bebido 
+  tu: has bebido 
+  vos: has bebido 
+  ud: ha bebido 
+  nosotros: hemos bebido 
+  vosotros: habéis bebido 
+  uds: han bebido 
+
+preterito-pluscuamperfecto:
+  yo: había bebido 
+  tu: habías bebido 
+  vos: habías bebido 
+  ud: había bebido 
+  nosotros: habíamos bebido 
+  vosotros: habíais bebido 
+  uds: habían bebido 
+
+futuro-perfecto:
+  yo: habré bebido 
+  tu: habrás bebido 
+  vos: habrás bebido 
+  ud: habrá bebido 
+  nosotros: habremos bebido 
+  vosotros: habréis bebido 
+  uds: habrán bebido 
+
+condicional-perfecto:
+  yo: habría bebido 
+  tu: habrías bebido 
+  vos: habrías bebido 
+  ud: habría bebido 
+  nosotros: habríamos bebido 
+  vosotros: habríais bebido 
+  uds: habrían bebido 
+
+presente-subjuntivo:
+  yo: beba 
+  tu: bebas 
+  vos: bebas 
+  ud: beba 
+  nosotros: bebamos 
+  vosotros: bebáis 
+  uds: beban 
+
+preterito-perfecto-subjuntivo:
+  yo: haya bebido 
+  tu: hayas bebido 
+  vos: hayas bebido 
+  ud: haya bebido 
+  nosotros: hayamos bebido 
+  vosotros: hayáis bebido 
+  uds: hayan bebido 
+
+imperfecto-subjuntivo:
+  yo:
+    - bebiera 
+    - bebiese 
+  tu:
+    - bebieras 
+    - bebieses 
+  vos:
+    - bebieras 
+    - bebieses 
+  ud:
+    - bebiera 
+    - bebiese 
+  nosotros:
+    - bebiéramos 
+    - bebiésemos 
+  vosotros:
+    - bebierais 
+    - bebieseis 
+  uds:
+    - bebieran 
+    - bebiesen 
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bebido 
+    - hubiese bebido 
+  tu:
+    - hubieras bebido 
+    - hubieses bebido 
+  vos:
+    - hubieras bebido 
+    - hubieses bebido 
+  ud:
+    - hubiera bebido 
+    - hubiese bebido 
+  nosotros:
+    - hubiéramos bebido 
+    - hubiésemos bebido 
+  vosotros:
+    - hubierais bebido 
+    - hubieseis bebido 
+  uds:
+    - hubieran bebido 
+    - hubiesen bebido 
+
+imperativo:
+  tu: bebe 
+  vos: bebé 
+  ud: beba 
+  nosotros: bebamos 
+  vosotros: bebed 
+  uds: beban

@@ -1,0 +1,142 @@
+infinitivo: agrietarse
+gerundio: agrietándose
+participio-pasado: agrietado
+presente-indicativo:
+  yo: me agrieto
+  tu: te agrietas
+  vos: te agrietas
+  ud: se agrieta
+  nosotros: nos agrietamos
+  vosotros: os agrietáis
+  uds: se agrietan
+preterito-perfecto-simple:
+  yo: me agrieté
+  tu: te agrietaste
+  vos: te agrietaste
+  ud: se agrietó
+  nosotros: nos agrietamos
+  vosotros: os agrietasteis
+  uds: se agrietaron
+preterito-imperfecto:
+  yo: me agrietaba
+  tu: te agrietabas
+  vos: te agrietabas
+  ud: se agrietaba
+  nosotros: nos agrietábamos
+  vosotros: os agrietabais
+  uds: se agrietaban
+futuro-simple:
+  yo: me agrietaré
+  tu: te agrietarás
+  vos: te agrietarás
+  ud: se agrietará
+  nosotros: nos agrietaremos
+  vosotros: os agrietaréis
+  uds: se agrietarán
+condicional-simple:
+  yo: me agrietaría
+  tu: te agrietarías
+  vos: te agrietarías
+  ud: se agrietaría
+  nosotros: nos agrietaríamos
+  vosotros: os agrietaríais
+  uds: se agrietarían
+presente-perfecto:
+  yo: me he agrietado
+  tu: te has agrietado
+  vos: te has agrietado
+  ud: se ha agrietado
+  nosotros: nos hemos agrietado
+  vosotros: os habéis agrietado
+  uds: se han agrietado
+preterito-pluscuamperfecto:
+  yo: me había agrietado
+  tu: te habías agrietado
+  vos: te habías agrietado
+  ud: se había agrietado
+  nosotros: nos habíamos agrietado
+  vosotros: os habíais agrietado
+  uds: se habían agrietado
+futuro-perfecto:
+  yo: me habré agrietado
+  tu: te habrás agrietado
+  vos: te habrás agrietado
+  ud: se habrá agrietado
+  nosotros: nos habremos agrietado
+  vosotros: os habréis agrietado
+  uds: se habrán agrietado
+condicional-perfecto:
+  yo: me habría agrietado
+  tu: te habrías agrietado
+  vos: te habrías agrietado
+  ud: se habría agrietado
+  nosotros: nos habríamos agrietado
+  vosotros: os habríais agrietado
+  uds: se habrían agrietado
+presente-subjuntivo:
+  yo: me agriete
+  tu: te agrietes
+  vos: te agrietes
+  ud: se agriete
+  nosotros: nos agrietemos
+  vosotros: os agrietéis
+  uds: se agrieten
+preterito-perfecto-subjuntivo:
+  yo: me haya agrietado
+  tu: te hayas agrietado
+  vos: te hayas agrietado
+  ud: se haya agrietado
+  nosotros: nos hayamos agrietado
+  vosotros: os hayáis agrietado
+  uds: se hayan agrietado
+imperfecto-subjuntivo:
+  yo:
+    - me agrietara
+    - me agrietase
+  tu:
+    - te agrietaras
+    - te agrietases
+  vos:
+    - te agrietaras
+    - te agrietases
+  ud:
+    - se agrietara
+    - se agrietase
+  nosotros:
+    - nos agrietáramos
+    - nos agrietásemos
+  vosotros:
+    - os agrietarais
+    - os agrietaseis
+  uds:
+    - se agrietaran
+    - se agrietaran
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera agrietado
+    - me hubiese agrietado
+  tu:
+    - te hubieras agrietado
+    - te hubieses agrietado
+  vos:
+    - te hubieras agrietado
+    - te hubieses agrietado
+  ud:
+    - se hubiera agrietado
+    - se hubiese agrietado
+  nosotros:
+    - nos hubiéramos agrietado
+    - nos hubiésemos agrietado
+  vosotros:
+    - os hubierais agrietado
+    - os hubieseis agrietado
+  uds:
+    - se hubieran agrietado
+    - se hubiesen agrietado
+imperativo:
+  tu: ágrieta
+  vos: ágrietas
+  ud: agriete
+  nosotros: agrietémonos
+  vosotros: agrietad
+  uds: agrieten

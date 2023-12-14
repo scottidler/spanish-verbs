@@ -1,0 +1,142 @@
+infinitivo: reanudar
+gerundio: reanudando
+participio-pasado: reanudado
+presente-indicativo:
+  yo: reanudo
+  tu: reanudas
+  vos: reanudas
+  ud: reanuda
+  nosotros: reanudamos
+  vosotros: reanudáis
+  uds: reanudan
+preterito-perfecto-simple:
+  yo: reanudé
+  tu: reanudaste
+  vos: reanudaste
+  ud: reanudó
+  nosotros: reanudamos
+  vosotros: reanudasteis
+  uds: reanudaron
+preterito-imperfecto:
+  yo: reanudaba
+  tu: reanudabas
+  vos: reanudabas
+  ud: reanudaba
+  nosotros: reanudábamos
+  vosotros: reanudabais
+  uds: reanudaban
+futuro-simple:
+  yo: reanudaré
+  tu: reanudarás
+  vos: reanudarás
+  ud: reanudará
+  nosotros: reanudaremos
+  vosotros: reanudaréis
+  uds: reanudarán
+condicional-simple:
+  yo: reanudaría
+  tu: reanudarías
+  vos: reanudarías
+  ud: reanudaría
+  nosotros: reanudaríamos
+  vosotros: reanudaríais
+  uds: reanudarían
+presente-perfecto:
+  yo: he reanudado
+  tu: has reanudado
+  vos: has reanudado
+  ud: ha reanudado
+  nosotros: hemos reanudado
+  vosotros: habéis reanudado
+  uds: han reanudado
+preterito-pluscuamperfecto:
+  yo: había reanudado
+  tu: habías reanudado
+  vos: habías reanudado
+  ud: había reanudado
+  nosotros: habíamos reanudado
+  vosotros: habíais reanudado
+  uds: habían reanudado
+futuro-perfecto:
+  yo: habré reanudado
+  tu: habrás reanudado
+  vos: habrás reanudado
+  ud: habrá reanudado
+  nosotros: habremos reanudado
+  vosotros: habréis reanudado
+  uds: habrán reanudado
+condicional-perfecto:
+  yo: habría reanudado
+  tu: habrías reanudado
+  vos: habrías reanudado
+  ud: habría reanudado
+  nosotros: habríamos reanudado
+  vosotros: habríais reanudado
+  uds: habrían reanudado
+presente-subjuntivo:
+  yo: reanude
+  tu: reanudes
+  vos: reanudes
+  ud: reanude
+  nosotros: reanudemos
+  vosotros: reanudéis
+  uds: reanuden
+preterito-perfecto-subjuntivo:
+  yo: haya reanudado
+  tu: hayas reanudado
+  vos: hayas reanudado
+  ud: haya reanudado
+  nosotros: hayamos reanudado
+  vosotros: hayáis reanudado
+  uds: hayan reanudado
+imperfecto-subjuntivo:
+  yo:
+    - reanudara
+    - reanudase
+  tu:
+    - reanudaras
+    - reanudases
+  vos:
+    - reanudaras
+    - reanudases
+  ud:
+    - reanudara
+    - reanudase
+  nosotros:
+    - reanudáramos
+    - reanudásemos
+  vosotros:
+    - reanudarais
+    - reanudaseis
+  uds:
+    - reanudaran
+    - reanudasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reanudado
+    - hubiese reanudado
+  tu:
+    - hubieras reanudado
+    - hubieses reanudado
+  vos:
+    - hubieras reanudado
+    - hubieses reanudado
+  ud:
+    - hubiera reanudado
+    - hubiese reanudado
+  nosotros:
+    - hubiéramos reanudado
+    - hubiésemos reanudado
+  vosotros:
+    - hubierais reanudado
+    - hubieseis reanudado
+  uds:
+    - hubieran reanudado
+    - hubiesen reanudado
+imperativo:
+  tu: reanuda
+  vos: reanudá
+  ud: reanude
+  nosotros: reanudemos
+  vosotros: reanudad
+  uds: reanuden

@@ -1,0 +1,142 @@
+infinitivo: dijistir
+gerundio: dijistiendo
+participio-pasado: dijistido
+presente-indicativo:
+  yo: dijisto
+  tu: dijistes
+  vos: dijistes
+  ud: dijiste
+  nosotros: dijistimos
+  vosotros: dijistís
+  uds: dijisten
+preterito-perfecto-simple:
+  yo: dijiste
+  tu: dijiste
+  vos: dijiste
+  ud: dijiste
+  nosotros: dijistimos
+  vosotros: dijisteis
+  uds: dijeron
+preterito-imperfecto:
+  yo: dijistía
+  tu: dijistías
+  vos: dijistías
+  ud: dijistía
+  nosotros: dijistíamos
+  vosotros: dijistíais
+  uds: dijistían
+futuro-simple:
+  yo: dijistiré
+  tu: dijistirás
+  vos: dijistirás
+  ud: dijistirá
+  nosotros: dijistiremos
+  vosotros: dijistiréis
+  uds: dijistirán
+condicional-simple:
+  yo: dijistiría
+  tu: dijistirías
+  vos: dijistirías
+  ud: dijistiría
+  nosotros: dijistiríamos
+  vosotros: dijistiríais
+  uds: dijistirían
+presente-perfecto:
+  yo: he dijistido
+  tu: has dijistido
+  vos: has dijistido
+  ud: ha dijistido
+  nosotros: hemos dijistido
+  vosotros: habéis dijistido
+  uds: han dijistido
+preterito-pluscuamperfecto:
+  yo: había dijistido
+  tu: habías dijistido
+  vos: habías dijistido
+  ud: había dijistido
+  nosotros: habíamos dijistido
+  vosotros: habíais dijistido
+  uds: habían dijistido
+futuro-perfecto:
+  yo: habré dijistido
+  tu: habrás dijistido
+  vos: habrás dijistido
+  ud: habrá dijistido
+  nosotros: habremos dijistido
+  vosotros: habréis dijistido
+  uds: habrán dijistido
+condicional-perfecto:
+  yo: habría dijistido
+  tu: habrías dijistido
+  vos: habrías dijistido
+  ud: habría dijistido
+  nosotros: habríamos dijistido
+  vosotros: habríais dijistido
+  uds: habrían dijistido
+presente-subjuntivo:
+  yo: dijista
+  tu: dijistas
+  vos: dijistas
+  ud: dijista
+  nosotros: dijistamos
+  vosotros: dijistáis
+  uds: dijistan
+preterito-perfecto-subjuntivo:
+  yo: haya dijistido
+  tu: hayas dijistido
+  vos: hayas dijistido
+  ud: haya dijistido
+  nosotros: hayamos dijistido
+  vosotros: hayáis dijistido
+  uds: hayan dijistido
+imperfecto-subjuntivo:
+  yo:
+    - dijistara
+    - dijistase
+  tu:
+    - dijistaras
+    - dijistases
+  vos:
+    - dijistaras
+    - dijistases
+  ud:
+    - dijistara
+    - dijistase
+  nosotros:
+    - dijistáramos
+    - dijistásemos
+  vosotros:
+    - dijistarais
+    - dijistaseis
+  uds:
+    - dijistaran
+    - dijistasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dijistido
+    - hubiese dijistido
+  tu:
+    - hubieras dijistido
+    - hubieses dijistido
+  vos:
+    - hubieras dijistido
+    - hubieses dijistido
+  ud:
+    - hubiera dijistido
+    - hubiese dijistido
+  nosotros:
+    - hubiéramos dijistido
+    - hubiésemos dijistido
+  vosotros:
+    - hubierais dijistido
+    - hubieseis dijistido
+  uds:
+    - hubieran dijistido
+    - hubiesen dijistido
+imperativo:
+  tu: dijiste
+  vos: dijistá
+  ud: dijista
+  nosotros: dijistamos
+  vosotros: dijistid
+  uds: dijistan

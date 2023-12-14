@@ -1,0 +1,142 @@
+infinitivo: impulsar
+gerundio: impulsando
+participio-pasado: impulsado
+presente-indicativo:
+  yo: impulso
+  tu: impulsas
+  vos: impulsás
+  ud: impulsa
+  nosotros: impulsamos
+  vosotros: impulsáis
+  uds: impulsan
+preterito-perfecto-simple:
+  yo: impulsé
+  tu: impulsaste
+  vos: impulsaste
+  ud: impulsó
+  nosotros: impulsamos
+  vosotros: impulsasteis
+  uds: impulsaron
+preterito-imperfecto:
+  yo: impulsaba
+  tu: impulsabas
+  vos: impulsabas
+  ud: impulsaba
+  nosotros: impulsábamos
+  vosotros: impulsabais
+  uds: impulsaban
+futuro-simple:
+  yo: impulsaré
+  tu: impulsarás
+  vos: impulsarás
+  ud: impulsará
+  nosotros: impulsaremos
+  vosotros: impulsaréis
+  uds: impulsarán
+condicional-simple:
+  yo: impulsaría
+  tu: impulsarías
+  vos: impulsarías
+  ud: impulsaría
+  nosotros: impulsaríamos
+  vosotros: impulsaríais
+  uds: impulsarían
+presente-perfecto:
+  yo: he impulsado
+  tu: has impulsado
+  vos: has impulsado
+  ud: ha impulsado
+  nosotros: hemos impulsado
+  vosotros: habéis impulsado
+  uds: han impulsado
+preterito-pluscuamperfecto:
+  yo: había impulsado
+  tu: habías impulsado
+  vos: habías impulsado
+  ud: había impulsado
+  nosotros: habíamos impulsado
+  vosotros: habíais impulsado
+  uds: habían impulsado
+futuro-perfecto:
+  yo: habré impulsado
+  tu: habrás impulsado
+  vos: habrás impulsado
+  ud: habrá impulsado
+  nosotros: habremos impulsado
+  vosotros: habréis impulsado
+  uds: habrán impulsado
+condicional-perfecto:
+  yo: habría impulsado
+  tu: habrías impulsado
+  vos: habrías impulsado
+  ud: habría impulsado
+  nosotros: habríamos impulsado
+  vosotros: habríais impulsado
+  uds: habrían impulsado
+presente-subjuntivo:
+  yo: impulse
+  tu: impulses
+  vos: impulses
+  ud: impulse
+  nosotros: impulsemos
+  vosotros: impulséis
+  uds: impulsen
+preterito-perfecto-subjuntivo:
+  yo: haya impulsado
+  tu: hayas impulsado
+  vos: hayas impulsado
+  ud: haya impulsado
+  nosotros: hayamos impulsado
+  vosotros: hayáis impulsado
+  uds: hayan impulsado
+imperfecto-subjuntivo:
+  yo:
+    - impulsara
+    - impulsase
+  tu:
+    - impulsaras
+    - impulsases
+  vos:
+    - impulsaras
+    - impulsases
+  ud:
+    - impulsara
+    - impulsase
+  nosotros:
+    - impulsáramos
+    - impulsásemos
+  vosotros:
+    - impulsarais
+    - impulsaseis
+  uds:
+    - impulsaran
+    - impulsasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera impulsado
+    - hubiese impulsado
+  tu:
+    - hubieras impulsado
+    - hubieses impulsado
+  vos:
+    - hubieras impulsado
+    - hubieses impulsado
+  ud:
+    - hubiera impulsado
+    - hubiese impulsado
+  nosotros:
+    - hubiéramos impulsado
+    - hubiésemos impulsado
+  vosotros:
+    - hubierais impulsado
+    - hubieseis impulsado
+  uds:
+    - hubieran impulsado
+    - hubiesen impulsado
+imperativo:
+  tu: impulsa
+  vos: impulsá
+  ud: impulse
+  nosotros: impulsemos
+  vosotros: impulsad
+  uds: impulsen

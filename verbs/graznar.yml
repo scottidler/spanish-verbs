@@ -1,0 +1,142 @@
+infinitivo: graznar
+gerundio: graznando
+participio-pasado: graznado
+presente-indicativo:
+  yo: grazno
+  tu: graznas
+  vos: graznas
+  ud: grazna
+  nosotros: graznamos
+  vosotros: graznáis
+  uds: graznan
+preterito-perfecto-simple:
+  yo: grazné
+  tu: graznaste
+  vos: graznaste
+  ud: graznó
+  nosotros: graznamos
+  vosotros: graznasteis
+  uds: graznaron
+preterito-imperfecto:
+  yo: graznaba
+  tu: graznabas
+  vos: graznabas
+  ud: graznaba
+  nosotros: graznábamos
+  vosotros: graznabais
+  uds: graznaban
+futuro-simple:
+  yo: graznaré
+  tu: graznarás
+  vos: graznarás
+  ud: graznará
+  nosotros: graznaremos
+  vosotros: graznaréis
+  uds: graznarán
+condicional-simple:
+  yo: graznaría
+  tu: graznarías
+  vos: graznarías
+  ud: graznaría
+  nosotros: graznaríamos
+  vosotros: graznaríais
+  uds: graznarían
+presente-perfecto:
+  yo: he graznado
+  tu: has graznado
+  vos: has graznado
+  ud: ha graznado
+  nosotros: hemos graznado
+  vosotros: habéis graznado
+  uds: han graznado
+preterito-pluscuamperfecto:
+  yo: había graznado
+  tu: habías graznado
+  vos: habías graznado
+  ud: había graznado
+  nosotros: habíamos graznado
+  vosotros: habíais graznado
+  uds: habían graznado
+futuro-perfecto:
+  yo: habré graznado
+  tu: habrás graznado
+  vos: habrás graznado
+  ud: habrá graznado
+  nosotros: habremos graznado
+  vosotros: habréis graznado
+  uds: habrán graznado
+condicional-perfecto:
+  yo: habría graznado
+  tu: habrías graznado
+  vos: habrías graznado
+  ud: habría graznado
+  nosotros: habríamos graznado
+  vosotros: habríais graznado
+  uds: habrían graznado
+presente-subjuntivo:
+  yo: grazne
+  tu: graznes
+  vos: graznes
+  ud: grazne
+  nosotros: granznemos
+  vosotros: graznéis
+  uds: graznen
+preterito-perfecto-subjuntivo:
+  yo: haya graznado
+  tu: hayas graznado
+  vos: hayas graznado
+  ud: haya graznado
+  nosotros: hayamos graznado
+  vosotros: hayáis graznado
+  uds: hayan graznado
+imperfecto-subjuntivo:
+  yo:
+    - graznara
+    - graznase
+  tu:
+    - graznaras
+    - graznases
+  vos:
+    - graznaras
+    - graznases
+  ud:
+    - graznara
+    - graznase
+  nosotros:
+    - graznáramos
+    - graznásemos
+  vosotros:
+    - graznarais
+    - graznaseis
+  uds:
+    - graznaran
+    - graznasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera graznado
+    - hubiese graznado
+  tu:
+    - hubieras graznado
+    - hubieses graznado
+  vos:
+    - hubieras graznado
+    - hubieses graznado
+  ud:
+    - hubiera graznado
+    - hubiese graznado
+  nosotros:
+    - hubiéramos graznado
+    - hubiésemos graznado
+  vosotros:
+    - hubierais graznado
+    - hubieseis graznado
+  uds:
+    - hubieran graznado
+    - hubiesen graznado
+imperativo:
+  tu: grazna
+  vos: grazná
+  ud: grazne
+  nosotros: granznemos
+  vosotros: hablad
+  uds: graznen

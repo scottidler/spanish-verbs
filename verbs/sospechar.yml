@@ -1,0 +1,142 @@
+infinitivo: sospechar
+gerundio: sospechando
+participio-pasado: sospechado
+presente-indicativo:
+  yo: sospecho
+  tu: sospechas
+  vos: sospechás
+  ud: sospecha
+  nosotros: sospechamos
+  vosotros: sospecháis
+  uds: sospechan
+preterito-perfecto-simple:
+  yo: sospeché
+  tu: sospechaste
+  vos: sospechaste
+  ud: sospechó
+  nosotros: sospechamos
+  vosotros: sospechasteis
+  uds: sospecharon
+preterito-imperfecto:
+  yo: sospechaba
+  tu: sospechabas
+  vos: sospechabas
+  ud: sospechaba
+  nosotros: sospechábamos
+  vosotros: sospechabais
+  uds: sospechaban
+futuro-simple:
+  yo: sospecharé
+  tu: sospecharás
+  vos: sospecharás
+  ud: sospechará
+  nosotros: sospecharemos
+  vosotros: sospecharéis
+  uds: sospecharán
+condicional-simple:
+  yo: sospecharía
+  tu: sospecharías
+  vos: sospecharías
+  ud: sospecharía
+  nosotros: sospecharíamos
+  vosotros: sospecharíais
+  uds: sospecharían
+presente-perfecto:
+  yo: he sospechado
+  tu: has sospechado
+  vos: has sospechado
+  ud: ha sospechado
+  nosotros: hemos sospechado
+  vosotros: habéis sospechado
+  uds: han sospechado
+preterito-pluscuamperfecto:
+  yo: había sospechado
+  tu: habías sospechado
+  vos: habías sospechado
+  ud: había sospechado
+  nosotros: habíamos sospechado
+  vosotros: habíais sospechado
+  uds: habían sospechado
+futuro-perfecto:
+  yo: habré sospechado
+  tu: habrás sospechado
+  vos: habrás sospechado
+  ud: habrá sospechado
+  nosotros: habremos sospechado
+  vosotros: habréis sospechado
+  uds: habrán sospechado
+condicional-perfecto:
+  yo: habría sospechado
+  tu: habrías sospechado
+  vos: habrías sospechado
+  ud: habría sospechado
+  nosotros: habríamos sospechado
+  vosotros: habríais sospechado
+  uds: habrían sospechado
+presente-subjuntivo:
+  yo: sospeche
+  tu: sospeches
+  vos: sospeches
+  ud: sospeche
+  nosotros: sospechemos
+  vosotros: sospechéis
+  uds: sospechen
+preterito-perfecto-subjuntivo:
+  yo: haya sospechado
+  tu: hayas sospechado
+  vos: hayas sospechado
+  ud: haya sospechado
+  nosotros: hayamos sospechado
+  vosotros: hayáis sospechado
+  uds: hayan sospechado
+imperfecto-subjuntivo:
+  yo:
+    - sospechara
+    - sospechase
+  tu:
+    - sospecharas
+    - sospechases
+  vos:
+    - sospecharas
+    - sospechases
+  ud:
+    - sospechara
+    - sospechase
+  nosotros:
+    - sospecháramos
+    - sospechásemos
+  vosotros:
+    - sospecharais
+    - sospechaseis
+  uds:
+    - sospecharan
+    - sospechasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sospechado
+    - hubiese sospechado
+  tu:
+    - hubieras sospechado
+    - hubieses sospechado
+  vos:
+    - hubieras sospechado
+    - hubieses sospechado
+  ud:
+    - hubiera sospechado
+    - hubiese sospechado
+  nosotros:
+    - hubiéramos sospechado
+    - hubiésemos sospechado
+  vosotros:
+    - hubierais sospechado
+    - hubieseis sospechado
+  uds:
+    - hubieran sospechado
+    - hubiesen sospechado
+imperativo:
+  tu: sospecha
+  vos: sospechá
+  ud: sospeche
+  nosotros: sospechemos
+  vosotros: sospechad
+  uds: sospechen

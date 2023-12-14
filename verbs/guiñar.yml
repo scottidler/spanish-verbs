@@ -1,0 +1,142 @@
+infinitivo: guiñar
+gerundio: guiñando
+participio-pasado: guiñado
+presente-indicativo:
+  yo: guiño
+  tu: guiñas
+  vos: guiñás
+  ud: guiña
+  nosotros: guiñamos
+  vosotros: guiñáis
+  uds: guiñan
+preterito-perfecto-simple:
+  yo: guiñé
+  tu: guiñaste
+  vos: guiñaste
+  ud: guiñó
+  nosotros: guiñamos
+  vosotros: guiñasteis
+  uds: guiñaron
+preterito-imperfecto:
+  yo: guiñaba
+  tu: guiñabas
+  vos: guiñabas
+  ud: guiñaba
+  nosotros: guiñábamos
+  vosotros: guiñabais
+  uds: guiñaban
+futuro-simple:
+  yo: guiñaré
+  tu: guiñarás
+  vos: guiñarás
+  ud: guiñará
+  nosotros: guiñaremos
+  vosotros: guiñaréis
+  uds: guiñarán
+condicional-simple:
+  yo: guiñaría
+  tu: guiñarías
+  vos: guiñarías
+  ud: guiñaría
+  nosotros: guiñaríamos
+  vosotros: guiñaríais
+  uds: guiñarían
+presente-perfecto:
+  yo: he guiñado
+  tu: has guiñado
+  vos: has guiñado
+  ud: ha guiñado
+  nosotros: hemos guiñado
+  vosotros: habéis guiñado
+  uds: han guiñado
+preterito-pluscuamperfecto:
+  yo: había guiñado
+  tu: habías guiñado
+  vos: habías guiñado
+  ud: había guiñado
+  nosotros: habíamos guiñado
+  vosotros: habíais guiñado
+  uds: habían guiñado
+futuro-perfecto:
+  yo: habré guiñado
+  tu: habrás guiñado
+  vos: habrás guiñado
+  ud: habrá guiñado
+  nosotros: habremos guiñado
+  vosotros: habréis guiñado
+  uds: habrán guiñado
+condicional-perfecto:
+  yo: habría guiñado
+  tu: habrías guiñado
+  vos: habrías guiñado
+  ud: habría guiñado
+  nosotros: habríamos guiñado
+  vosotros: habríais guiñado
+  uds: habrían guiñado
+presente-subjuntivo:
+  yo: guiñe
+  tu: guiñes
+  vos: guiñes
+  ud: guiñe
+  nosotros: guiñemos
+  vosotros: guiñéis
+  uds: guiñen
+preterito-perfecto-subjuntivo:
+  yo: haya guiñado
+  tu: hayas guiñado
+  vos: hayas guiñado
+  ud: haya guiñado
+  nosotros: hayamos guiñado
+  vosotros: hayáis guiñado
+  uds: hayan guiñado
+imperfecto-subjuntivo:
+  yo:
+    - guiñara
+    - guiñase
+  tu:
+    - guiñaras
+    - guiñases
+  vos:
+    - guiñaras
+    - guiñases
+  ud:
+    - guiñara
+    - guiñase
+  nosotros:
+    - guiñáramos
+    - guiñásemos
+  vosotros:
+    - guiñarais
+    - guiñaseis
+  uds:
+    - guiaran
+    - guiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera guiñado
+    - hubiese guiñado
+  tu:
+    - hubieras guiñado
+    - hubieses guiñado
+  vos:
+    - hubieras guiñado
+    - hubieses guiñado
+  ud:
+    - hubiera guiñado
+    - hubiese guiñado
+  nosotros:
+    - hubiéramos guiñado
+    - hubiésemos guiñado
+  vosotros:
+    - hubierais guiñado
+    - hubieseis guiñado
+  uds:
+    - hubieran guiñado
+    - hubiesen guiñado
+imperativo:
+  tu: guiña
+  vos: guiñá
+  ud: guiñe
+  nosotros: guiñemos
+  vosotros: guiñad
+  uds: guiñen

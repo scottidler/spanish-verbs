@@ -1,0 +1,142 @@
+infinitivo: precipitar
+gerundio: precipitando
+participio-pasado: precipitado
+presente-indicativo:
+  yo: precipito
+  tu: precipitas
+  vos: precipitas
+  ud: precipita
+  nosotros: precipitamos
+  vosotros: precipitáis
+  uds: precipitan
+preterito-perfecto-simple:
+  yo: precipité
+  tu: precipitaste
+  vos: precipitaste
+  ud: precipitó
+  nosotros: precipitamos
+  vosotros: precipitasteis
+  uds: precipitaron
+preterito-imperfecto:
+  yo: precipitaba
+  tu: precipitabas
+  vos: precipitabas
+  ud: precipitaba
+  nosotros: precipitábamos
+  vosotros: precipitabais
+  uds: precipitaban
+futuro-simple:
+  yo: precipitaré
+  tu: precipitarás
+  vos: precipitarás
+  ud: precipitará
+  nosotros: precipitaremos
+  vosotros: precipitaréis
+  uds: precipitarán
+condicional-simple:
+  yo: precipitaría
+  tu: precipitarías
+  vos: precipitarías
+  ud: precipitaría
+  nosotros: precipitaríamos
+  vosotros: precipitaríais
+  uds: precipitarían
+presente-perfecto:
+  yo: he precipitado
+  tu: has precipitado
+  vos: has precipitado
+  ud: ha precipitado
+  nosotros: hemos precipitado
+  vosotros: habéis precipitado
+  uds: han precipitado
+preterito-pluscuamperfecto:
+  yo: había precipitado
+  tu: habías precipitado
+  vos: habías precipitado
+  ud: había precipitado
+  nosotros: habíamos precipitado
+  vosotros: habíais precipitado
+  uds: habían precipitado
+futuro-perfecto:
+  yo: habré precipitado
+  tu: habrás precipitado
+  vos: habrás precipitado
+  ud: habrá precipitado
+  nosotros: habremos precipitado
+  vosotros: habréis precipitado
+  uds: habrán precipitado
+condicional-perfecto:
+  yo: habría precipitado
+  tu: habrías precipitado
+  vos: habrías precipitado
+  ud: habría precipitado
+  nosotros: habríamos precipitado
+  vosotros: habríais precipitado
+  uds: habrían precipitado
+presente-subjuntivo:
+  yo: precipite
+  tu: precipites
+  vos: precipites
+  ud: precipite
+  nosotros: precipitemos
+  vosotros: precipitéis
+  uds: precipiten
+preterito-perfecto-subjuntivo:
+  yo: haya precipitado
+  tu: hayas precipitado
+  vos: hayas precipitado
+  ud: haya precipitado
+  nosotros: hayamos precipitado
+  vosotros: hayáis precipitado
+  uds: hayan precipitado
+imperfecto-subjuntivo:
+  yo:
+    - precipitara
+    - precipitase
+  tu:
+    - precipitaras
+    - precipitases
+  vos:
+    - precipitaras
+    - precipitases
+  ud:
+    - precipitara
+    - precipitase
+  nosotros:
+    - precipitáramos
+    - precipitásemos
+  vosotros:
+    - precipitarais
+    - precipitaseis
+  uds:
+    - precipitaran
+    - precipitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera precipitado
+    - hubiese precipitado
+  tu:
+    - hubieras precipitado
+    - hubieses precipitado
+  vos:
+    - hubieras precipitado
+    - hubieses precipitado
+  ud:
+    - hubiera precipitado
+    - hubiese precipitado
+  nosotros:
+    - hubiéramos precipitado
+    - hubiésemos precipitado
+  vosotros:
+    - hubierais precipitado
+    - hubieseis precipitado
+  uds:
+    - hubieran precipitado
+    - hubiesen precipitado
+imperativo:
+  tu: precipita
+  vos: precipitá
+  ud: precipite
+  nosotros: precipitemos
+  vosotros: precipitad
+  uds: precipiten

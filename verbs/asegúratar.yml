@@ -1,0 +1,156 @@
+infinitivo: aseguratar
+gerundio: aseguratando
+participio-pasado: aseguratado
+
+presente-indicativo:
+  yo: asegurato
+  tu: aseguratas
+  vos: aseguratas
+  ud: asegurata
+  nosotros: aseguratamos
+  vosotros: aseguratáis
+  uds: aseguratan
+
+preterito-perfecto-simple:
+  yo: aseguraté
+  tu: asegurataste
+  vos: asegurataste
+  ud: asegurató
+  nosotros: aseguratamos
+  vosotros: aseguratasteis
+  uds: asegurataron
+
+preterito-imperfecto:
+  yo: aseguratava
+  tu: aseguratavas
+  vos: aseguratavas
+  ud: aseguratava
+  nosotros: aseguratávamos
+  vosotros: aseguratavais
+  uds: aseguratavan
+
+futuro-simple:
+  yo: asegurataré
+  tu: aseguratarás
+  vos: aseguratarás
+  ud: aseguratará
+  nosotros: aseguratáremos
+  vosotros: asegurataréis
+  uds: aseguratarán
+
+condicional-simple:
+  yo: asegurataría
+  tu: aseguratarías
+  vos: aseguratarías
+  ud: asegurataría
+  nosotros: asegurataríamos
+  vosotros: asegurataríais
+  uds: aseguratarían
+
+presente-perfecto:
+  yo: he aseguratado
+  tu: has aseguratado
+  vos: has aseguratado
+  ud: ha aseguratado
+  nosotros: hemos aseguratado
+  vosotros: habéis aseguratado
+  uds: han aseguratado
+
+preterito-pluscuamperfecto:
+  yo: había aseguratado
+  tu: habías aseguratado
+  vos: habías aseguratado
+  ud: había aseguratado
+  nosotros: habíamos aseguratado
+  vosotros: habíais aseguratado
+  uds: habían aseguratado
+
+futuro-perfecto:
+  yo: habré aseguratado
+  tu: habrás aseguratado
+  vos: habrás aseguratado
+  ud: habrá aseguratado
+  nosotros: habremos aseguratado
+  vosotros: habréis aseguratado
+  uds: habrán aseguratado
+
+condicional-perfecto:
+  yo: habría aseguratado
+  tu: habrías aseguratado
+  vos: habrías aseguratado
+  ud: habría aseguratado
+  nosotros: habríamos aseguratado
+  vosotros: habríais aseguratado
+  uds: habrían aseguratado
+
+presente-subjuntivo:
+  yo: asegurata
+  tu: aseguratas
+  vos: aseguratas
+  ud: asegurata
+  nosotros: aseguratamos
+  vosotros: aseguratáis
+  uds: aseguratan
+
+preterito-perfecto-subjuntivo:
+  yo: haya aseguratado
+  tu: hayas aseguratado
+  vos: hayas aseguratado
+  ud: haya aseguratado
+  nosotros: hayamos aseguratado
+  vosotros: hayáis aseguratado
+  uds: hayan aseguratado
+
+imperfecto-subjuntivo:
+  yo:
+    - aseguratara
+    - aseguratase
+  tu:
+    - asegurataras
+    - aseguratases
+  vos:
+    - asegurataras
+    - aseguratases
+  ud:
+    - aseguratara
+    - aseguratase
+  nosotros:
+    - aseguratáramos
+    - aseguratásemos
+  vosotros:
+    - aseguratarais
+    - asegurataseis
+  uds:
+    - asegurataran
+    - aseguratasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aseguratado
+    - hubiese aseguratado
+  tu:
+    - hubieras aseguratado
+    - hubieses aseguratado
+  vos:
+    - hubieras aseguratado
+    - hubieses aseguratado
+  ud:
+    - hubiera aseguratado
+    - hubiese aseguratado
+  nosotros:
+    - hubiéramos aseguratado
+    - hubiésemos aseguratado
+  vosotros:
+    - hubierais aseguratado
+    - hubieseis aseguratado
+  uds:
+    - hubieran aseguratado
+    - hubiesen aseguratado
+
+imperativo:
+  tu: asegurata
+  vos: aseguratá
+  ud: asegurata
+  nosotros: aseguratamos
+  vosotros: aseguratad
+  uds: aseguratan

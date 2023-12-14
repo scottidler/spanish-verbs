@@ -1,0 +1,142 @@
+infinitivo: depender
+gerundio: dependiendo
+participio-pasado: dependido
+presente-indicativo:
+  yo: dependo
+  tu: dependes
+  vos: dependés
+  ud: depende
+  nosotros: dependemos
+  vosotros: dependéis
+  uds: dependen
+preterito-perfecto-simple:
+  yo: dependí
+  tu: dependiste
+  vos: dependiste
+  ud: dependió
+  nosotros: dependimos
+  vosotros: dependisteis
+  uds: dependieron
+preterito-imperfecto:
+  yo: dependía
+  tu: dependías
+  vos: dependías
+  ud: dependía
+  nosotros: dependíamos
+  vosotros: dependíais
+  uds: dependían
+futuro-simple:
+  yo: dependeré
+  tu: dependerás
+  vos: dependerás
+  ud: dependerá
+  nosotros: dependeremos
+  vosotros: dependeréis
+  uds: dependerán
+condicional-simple:
+  yo: dependería
+  tu: dependerías
+  vos: dependerías
+  ud: dependería
+  nosotros: dependeríamos
+  vosotros: dependeríais
+  uds: dependerían
+presente-perfecto:
+  yo: he dependido
+  tu: has dependido
+  vos: has dependido
+  ud: ha dependido
+  nosotros: hemos dependido
+  vosotros: habéis dependido
+  uds: han dependido
+preterito-pluscuamperfecto:
+  yo: había dependido
+  tu: habías dependido
+  vos: habías dependido
+  ud: había dependido
+  nosotros: habíamos dependido
+  vosotros: habíais dependido
+  uds: habían dependido
+futuro-perfecto:
+  yo: habré dependido
+  tu: habrás dependido
+  vos: habrás dependido
+  ud: habrá dependido
+  nosotros: habremos dependido
+  vosotros: habréis dependido
+  uds: habrán dependido
+condicional-perfecto:
+  yo: habría dependido
+  tu: habrías dependido
+  vos: habrías dependido
+  ud: habría dependido
+  nosotros: habríamos dependido
+  vosotros: habríais dependido
+  uds: habrían dependido
+presente-subjuntivo:
+  yo: dependa
+  tu: dependas
+  vos: dependas
+  ud: dependa
+  nosotros: dependamos
+  vosotros: dependáis
+  uds: dependan
+preterito-perfecto-subjuntivo:
+  yo: haya dependido
+  tu: hayas dependido
+  vos: hayas dependido
+  ud: haya dependido
+  nosotros: hayamos dependido
+  vosotros: hayáis dependido
+  uds: hayan dependido
+imperfecto-subjuntivo:
+  yo:
+    - dependiera
+    - dependiese
+  tu:
+    - dependieras
+    - dependieses
+  vos:
+    - dependieras
+    - dependieses
+  ud:
+    - dependiera
+    - dependiese
+  nosotros:
+    - dependiéramos
+    - dependiésemos
+  vosotros:
+    - dependierais
+    - dependieseis
+  uds:
+    - dependieran
+    - dependiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dependido
+    - hubiese dependido
+  tu:
+    - hubieras dependido
+    - hubieses dependido
+  vos:
+    - hubieras dependido
+    - hubieses dependido
+  ud:
+    - hubiera dependido
+    - hubiese dependido
+  nosotros:
+    - hubiéramos dependido
+    - hubiésemos dependido
+  vosotros:
+    - hubierais dependido
+    - hubieseis dependido
+  uds:
+    - hubieran dependido
+    - hubiesen dependido
+imperativo:
+  tu: depende
+  vos: dependé
+  ud: dependa
+  nosotros: dependamos
+  vosotros: depended
+  uds: dependan

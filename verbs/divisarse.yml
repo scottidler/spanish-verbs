@@ -1,0 +1,142 @@
+infinitivo: divisarse
+gerundio: divisándose
+participio-pasado: divisado
+presente-indicativo:
+  yo: me diviso
+  tu: te divisas
+  vos: te divisas
+  ud: se divisa
+  nosotros: nos divisamos
+  vosotros: os divisáis
+  uds: se divisan
+preterito-perfecto-simple:
+  yo: me divisé
+  tu: te diviaste
+  vos: te diviaste
+  ud: se divistió
+  nosotros: nos divisamos
+  vosotros: os diviasteis
+  uds: se divistieron
+preterito-imperfecto:
+  yo: me divisaba
+  tu: te divisabas
+  vos: te divisabas
+  ud: se divisaba
+  nosotros: nos divisábamos
+  vosotros: os divisabais
+  uds: se divisaban
+futuro-simple:
+  yo: me divisaré
+  tu: te divisarás
+  vos: te divisarás
+  ud: se divisará
+  nosotros: nos divisaremos
+  vosotros: os divisaréis
+  uds: se divisarán
+condicional-simple:
+  yo: me divisaría
+  tu: te divisarías
+  vos: te divisarías
+  ud: se divisaría
+  nosotros: nos divisaríamos
+  vosotros: os divisaríais
+  uds: se divisarían
+presente-perfecto:
+  yo: me he divisado
+  tu: te has divisado
+  vos: te has divisado
+  ud: se ha divisado
+  nosotros: nos hemos divisado
+  vosotros: os habéis divisado
+  uds: se han divisado
+preterito-pluscuamperfecto:
+  yo: me había divisado
+  tu: te habías divisado
+  vos: te habías divisado
+  ud: se había divisado
+  nosotros: nos habíamos divisado
+  vosotros: os habíais divisado
+  uds: se habían divisado
+futuro-perfecto:
+  yo: me habré divisado
+  tu: te habrás divisado
+  vos: te habrás divisado
+  ud: se habrá divisado
+  nosotros: nos habremos divisado
+  vosotros: os habréis divisado
+  uds: se habrán divisado
+condicional-perfecto:
+  yo: me habría divisado
+  tu: te habrías divisado
+  vos: te habrías divisado
+  ud: se habría divisado
+  nosotros: nos habríamos divisado
+  vosotros: os habríais divisado
+  uds: se habrían divisado
+presente-subjuntivo:
+  yo: me divise
+  tu: te divises
+  vos: te divises
+  ud: se divise
+  nosotros: nos divisiemos
+  vosotros: os divisiéis
+  uds: se divisen
+preterito-perfecto-subjuntivo:
+  yo: me haya divisado
+  tu: te hayas divisado
+  vos: te hayas divisado
+  ud: se haya divisado
+  nosotros: nos hayamos divisado
+  vosotros: os hayáis divisado
+  uds: se hayan divisado
+imperfecto-subjuntivo:
+  yo:
+    - me divisara
+    - me divisase
+  tu:
+    - te divisaras
+    - te divisases
+  vos:
+    - te divisaras
+    - te divisases
+  ud:
+    - se divisara
+    - se divisase
+  nosotros:
+    - nos divisiéramos
+    - nos divisiésemos
+  vosotros:
+    - os divisarais
+    - os divisiéseis
+  uds:
+    - se divisaran
+    - se divisasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera divisado
+    - me hubiese divisado
+  tu:
+    - te hubieras divisado
+    - te hubieses divisado
+  vos:
+    - te hubieras divisado
+    - te hubieses divisado
+  ud:
+    - se hubiera divisado
+    - se hubiese divisado
+  nosotros:
+    - nos hubiéramos divisado
+    - nos hubiésemos divisado
+  vosotros:
+    - os hubierais divisado
+    - os hubieseis divisado
+  uds:
+    - se hubieran divisado
+    - se hubiesen divisado
+imperativo:
+  tu: divísate
+  vos: divísate
+  ud: divísase
+  nosotros: divisiémonos
+  vosotros: divisaos
+  uds: divísense

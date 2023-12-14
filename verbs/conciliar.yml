@@ -1,0 +1,142 @@
+infinitivo: conciliar
+gerundio: conciliando
+participio-pasado: conciliado
+presente-indicativo:
+  yo: concilio
+  tu: concilias
+  vos: concilias
+  ud: concilia
+  nosotros: conciliamos
+  vosotros: conciliáis
+  uds: concilian
+preterito-perfecto-simple:
+  yo: concilié
+  tu: conciliaste
+  vos: conciliaste
+  ud: concilió
+  nosotros: conciliamos
+  vosotros: conciliasteis
+  uds: conciliaron
+preterito-imperfecto:
+  yo: conciliaba
+  tu: conciliabas
+  vos: conciliabas
+  ud: conciliaba
+  nosotros: conciliábamos
+  vosotros: conciliabais
+  uds: conciliaban
+futuro-simple:
+  yo: conciliaré
+  tu: conciliarás
+  vos: conciliarás
+  ud: conciliará
+  nosotros: conciliaremos
+  vosotros: conciliaréis
+  uds: conciliarán
+condicional-simple:
+  yo: conciliaría
+  tu: conciliarías
+  vos: conciliarías
+  ud: conciliaría
+  nosotros: conciliaríamos
+  vosotros: conciliaríais
+  uds: conciliarían
+presente-perfecto:
+  yo: he conciliado
+  tu: has conciliado
+  vos: has conciliado
+  ud: ha conciliado
+  nosotros: hemos conciliado
+  vosotros: habéis conciliado
+  uds: han conciliado
+preterito-pluscuamperfecto:
+  yo: había conciliado
+  tu: habías conciliado
+  vos: habías conciliado
+  ud: había conciliado
+  nosotros: habíamos conciliado
+  vosotros: habíais conciliado
+  uds: habían conciliado
+futuro-perfecto:
+  yo: habré conciliado
+  tu: habrás conciliado
+  vos: habrás conciliado
+  ud: habrá conciliado
+  nosotros: habremos conciliado
+  vosotros: habréis conciliado
+  uds: habrán conciliado
+condicional-perfecto:
+  yo: habría conciliado
+  tu: habrías conciliado
+  vos: habrías conciliado
+  ud: habría conciliado
+  nosotros: habríamos conciliado
+  vosotros: habríais conciliado
+  uds: habrían conciliado
+presente-subjuntivo:
+  yo: concilie
+  tu: concilies
+  vos: concilies
+  ud: concilie
+  nosotros: conciliemos
+  vosotros: conciliéis
+  uds: concilien
+preterito-perfecto-subjuntivo:
+  yo: haya conciliado
+  tu: hayas conciliado
+  vos: hayas conciliado
+  ud: haya conciliado
+  nosotros: hayamos conciliado
+  vosotros: hayáis conciliado
+  uds: hayan conciliado
+imperfecto-subjuntivo:
+  yo:
+    - conciliara
+    - conciliase
+  tu:
+    - conciliaras
+    - conciliases
+  vos:
+    - conciliaras
+    - conciliases
+  ud:
+    - conciliara
+    - conciliase
+  nosotros:
+    - conciliáramos
+    - conciliésemos
+  vosotros:
+    - conciliarais
+    - conciliaseis
+  uds:
+    - conciliaran
+    - conciliasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conciliado
+    - hubiese conciliado
+  tu:
+    - hubieras conciliado
+    - hubieses conciliado
+  vos:
+    - hubieras conciliado
+    - hubieses conciliado
+  ud:
+    - hubiera conciliado
+    - hubiese conciliado
+  nosotros:
+    - hubiéramos conciliado
+    - hubiésemos conciliado
+  vosotros:
+    - hubierais conciliado
+    - hubieseis conciliado
+  uds:
+    - hubieran conciliado
+    - hubiesen conciliado
+imperativo:
+  tu: concilia
+  vos: conciliá
+  ud: concilie
+  nosotros: conciliemos
+  vosotros: conciliad
+  uds: concilien

@@ -1,0 +1,142 @@
+infinitivo: trenzar
+gerundio: trenzando
+participio-pasado: trenzado
+presente-indicativo:
+  yo: trenzo
+  tu: trenzas
+  vos: trenzas
+  ud: trenza
+  nosotros: trenzamos
+  vosotros: trenzáis
+  uds: trenzan
+preterito-perfecto-simple:
+  yo: trencé
+  tu: trenzaste
+  vos: trenzaste
+  ud: trenzó
+  nosotros: trenzamos
+  vosotros: trenzasteis
+  uds: trenzaron
+preterito-imperfecto:
+  yo: trenzaba
+  tu: trenzabas
+  vos: trenzabas
+  ud: trenzaba
+  nosotros: trenzábamos
+  vosotros: trenzabais
+  uds: trenzaban
+futuro-simple:
+  yo: trenzaré
+  tu: trenzarás
+  vos: trenzarás
+  ud: trenzará
+  nosotros: trenzaremos
+  vosotros: trenzaréis
+  uds: trenzarán
+condicional-simple:
+  yo: trenzaría
+  tu: trenzarías
+  vos: trenzarías
+  ud: trenzaría
+  nosotros: trenzaríamos
+  vosotros: trenzaríais
+  uds: trenzarían
+presente-perfecto:
+  yo: he trenzado
+  tu: has trenzado
+  vos: has trenzado
+  ud: ha trenzado
+  nosotros: hemos trenzado
+  vosotros: habéis trenzado
+  uds: han trenzado
+preterito-pluscuamperfecto:
+  yo: había trenzado
+  tu: habías trenzado
+  vos: habías trenzado
+  ud: había trenzado
+  nosotros: habíamos trenzado
+  vosotros: habíais trenzado
+  uds: habían trenzado
+futuro-perfecto:
+  yo: habré trenzado
+  tu: habrás trenzado
+  vos: habrás trenzado
+  ud: habrá trenzado
+  nosotros: habremos trenzado
+  vosotros: habréis trenzado
+  uds: habrán trenzado
+condicional-perfecto:
+  yo: habría trenzado
+  tu: habrías trenzado
+  vos: habrías trenzado
+  ud: habría trenzado
+  nosotros: habríamos trenzado
+  vosotros: habríais trenzado
+  uds: habrían trenzado
+presente-subjuntivo:
+  yo: trence
+  tu: trences
+  vos: trences
+  ud: trence
+  nosotros: trenzcamos
+  vosotros: trenzcáis
+  uds: trencen
+preterito-perfecto-subjuntivo:
+  yo: haya trenzado
+  tu: hayas trenzado
+  vos: hayas trenzado
+  ud: haya trenzado
+  nosotros: hayamos trenzado
+  vosotros: hayáis trenzado
+  uds: hayan trenzado
+imperfecto-subjuntivo:
+  yo:
+    - trenzara
+    - trenzase
+  tu:
+    - trenzaras
+    - trenzases
+  vos:
+    - trenzaras
+    - trenzases
+  ud:
+    - trenzara
+    - trenzase
+  nosotros:
+    - trenzáramos
+    - trenzásemos
+  vosotros:
+    - trenzarais
+    - trenzaseis
+  uds:
+    - trenzaran
+    - trenzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera trenzado
+    - hubiese trenzado
+  tu:
+    - hubieras trenzado
+    - hubieses trenzado
+  vos:
+    - hubieras trenzado
+    - hubieses trenzado
+  ud:
+    - hubiera trenzado
+    - hubiese trenzado
+  nosotros:
+    - hubiéramos trenzado
+    - hubiésemos trenzado
+  vosotros:
+    - hubierais trenzado
+    - hubieseis trenzado
+  uds:
+    - hubieran trenzado
+    - hubiesen trenzado
+imperativo:
+  tu: trenza
+  vos: trenzá
+  ud: trenze
+  nosotros: trenzcamos
+  vosotros: trenzad
+  uds: trencen

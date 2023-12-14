@@ -1,0 +1,156 @@
+infinitivo: sobresaltarse
+gerundio: sobresaltándose
+participio-pasado: sobresaltado
+
+presente-indicativo:
+  yo: me sobresalto
+  tu: te sobresaltas
+  vos: te sobresaltas
+  ud: se sobresalta
+  nosotros: nos sobresaltamos
+  vosotros: os sobresaltáis
+  uds: se sobresaltan
+
+preterito-perfecto-simple:
+  yo: me sobresalté
+  tu: te sobresaltaste
+  vos: te sobresaltaste
+  ud: se sobresaltó
+  nosotros: nos sobresaltamos
+  vosotros: os sobresaltasteis
+  uds: se sobresaltaron
+
+preterito-imperfecto:
+  yo: me sobresaltaba
+  tu: te sobresaltabas
+  vos: te sobresaltabas
+  ud: se sobresaltaba
+  nosotros: nos sobresaltábamos
+  vosotros: os sobresaltabais
+  uds: se sobresaltaban
+
+futuro-simple:
+  yo: me sobresaltaré
+  tu: te sobresaltarás
+  vos: te sobresaltarás
+  ud: se sobresaltará
+  nosotros: nos sobresaltaremos
+  vosotros: os sobresaltaréis
+  uds: se sobresaltarán
+
+condicional-simple:
+  yo: me sobresaltaría
+  tu: te sobresaltarías
+  vos: te sobresaltarías
+  ud: se sobresaltaría
+  nosotros: nos sobresaltaríamos
+  vosotros: os sobresaltaríais
+  uds: se sobresaltarían
+
+presente-perfecto:
+  yo: me he sobresaltado
+  tu: te has sobresaltado
+  vos: te has sobresaltado
+  ud: se ha sobresaltado
+  nosotros: nos hemos sobresaltado
+  vosotros: os habéis sobresaltado
+  uds: se han sobresaltado
+
+preterito-pluscuamperfecto:
+  yo: me había sobresaltado
+  tu: te habías sobresaltado
+  vos: te habías sobresaltado
+  ud: se había sobresaltado
+  nosotros: nos habíamos sobresaltado
+  vosotros: os habíais sobresaltado
+  uds: se habían sobresaltado
+
+futuro-perfecto:
+  yo: me habré sobresaltado
+  tu: te habrás sobresaltado
+  vos: te habrás sobresaltado
+  ud: se habrá sobresaltado
+  nosotros: nos habremos sobresaltado
+  vosotros: os habréis sobresaltado
+  uds: se habrán sobresaltado
+
+condicional-perfecto:
+  yo: me habría sobresaltado
+  tu: te habrías sobresaltado
+  vos: te habrías sobresaltado
+  ud: se habría sobresaltado
+  nosotros: nos habríamos sobresaltado
+  vosotros: os habríais sobresaltado
+  uds: se habrían sobresaltado
+
+presente-subjuntivo:
+  yo: me sobresalte
+  tu: te sobresaltes
+  vos: te sobresaltes
+  ud: se sobresalte
+  nosotros: nos sobresaltemos
+  vosotros: os sobresaltéis
+  uds: se sobresalten
+
+preterito-perfecto-subjuntivo:
+  yo: me haya sobresaltado
+  tu: te hayas sobresaltado
+  vos: te hayas sobresaltado
+  ud: se haya sobresaltado
+  nosotros: nos hayamos sobresaltado
+  vosotros: os hayáis sobresaltado
+  uds: se hayan sobresaltado
+
+imperfecto-subjuntivo:
+  yo:
+    - me sobresaltara
+    - me sobresaltase
+  tu:
+    - te sobresaltaras
+    - te sobresaltases
+  vos:
+    - te sobresaltaras
+    - te sobresaltases
+  ud:
+    - se sobresaltara
+    - se sobresaltase
+  nosotros:
+    - nos sobresaltáramos
+    - nos sobresaltásemos
+  vosotros:
+    - os sobresaltarais
+    - os sobresaltaseis
+  uds:
+    - se sobresaltaran
+    - se sobresaltasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera sobresaltado
+    - me hubiese sobresaltado
+  tu:
+    - te hubieras sobresaltado
+    - te hubieses sobresaltado
+  vos:
+    - te hubieras sobresaltado
+    - te hubieses sobresaltado
+  ud:
+    - se hubiera sobresaltado
+    - se hubiese sobresaltado
+  nosotros:
+    - nos hubiéramos sobresaltado
+    - nos hubiésemos sobresaltado
+  vosotros:
+    - os hubierais sobresaltado
+    - os hubieseis sobresaltado
+  uds:
+    - se hubieran sobresaltado
+    - se hubiesen sobresaltado
+
+imperativo:
+  tu: sobresáltate
+  vos: sobresaltáte
+  ud: sobresáltese
+  nosotros: sobresaltémonos
+  vosotros: sobresaltaos
+  uds: sobresáltese

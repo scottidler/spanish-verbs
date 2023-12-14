@@ -1,0 +1,142 @@
+infinitivo: malgastar
+gerundio: malgastando
+participio-pasado: malgastado
+presente-indicativo:
+  yo: malgasto
+  tu: malgastas
+  vos: malgastas
+  ud: malgasta
+  nosotros: malgastamos
+  vosotros: malgastáis
+  uds: malgastan
+preterito-perfecto-simple:
+  yo: malgasté
+  tu: malgastaste
+  vos: malgastaste
+  ud: malgastó
+  nosotros: malgastamos
+  vosotros: malgastasteis
+  uds: malgastaron
+preterito-imperfecto:
+  yo: malgastaba
+  tu: malgastabas
+  vos: malgastabas
+  ud: malgastaba
+  nosotros: malgastábamos
+  vosotros: malgastabais
+  uds: malgastaban
+futuro-simple:
+  yo: malgastaré
+  tu: malgastarás
+  vos: malgastarás
+  ud: malgastará
+  nosotros: malgastaremos
+  vosotros: malgastaréis
+  uds: malgastarán
+condicional-simple:
+  yo: malgastaría
+  tu: malgastarías
+  vos: malgastarías
+  ud: malgastaría
+  nosotros: malgastaríamos
+  vosotros: malgastaríais
+  uds: malgastarían
+presente-perfecto:
+  yo: he malgastado
+  tu: has malgastado
+  vos: has malgastado
+  ud: ha malgastado
+  nosotros: hemos malgastado
+  vosotros: habéis malgastado
+  uds: han malgastado
+preterito-pluscuamperfecto:
+  yo: había malgastado
+  tu: habías malgastado
+  vos: habías malgastado
+  ud: había malgastado
+  nosotros: habíamos malgastado
+  vosotros: habíais malgastado
+  uds: habían malgastado
+futuro-perfecto:
+  yo: habré malgastado
+  tu: habrás malgastado
+  vos: habrás malgastado
+  ud: habrá malgastado
+  nosotros: habremos malgastado
+  vosotros: habréis malgastado
+  uds: habrán malgastado
+condicional-perfecto:
+  yo: habría malgastado
+  tu: habrías malgastado
+  vos: habrías malgastado
+  ud: habría malgastado
+  nosotros: habríamos malgastado
+  vosotros: habríais malgastado
+  uds: habrían malgastado
+presente-subjuntivo:
+  yo: malgaste
+  tu: malgastes
+  vos: malgastes
+  ud: malgaste
+  nosotros: malgastemos
+  vosotros: malgastéis
+  uds: malgasten
+preterito-perfecto-subjuntivo:
+  yo: haya malgastado
+  tu: hayas malgastado
+  vos: hayas malgastado
+  ud: haya malgastado
+  nosotros: hayamos malgastado
+  vosotros: hayáis malgastado
+  uds: hayan malgastado
+imperfecto-subjuntivo:
+  yo:
+    - malgastara
+    - malgastase
+  tu:
+    - malgastaras
+    - malgastases
+  vos:
+    - malgastaras
+    - malgastases
+  ud:
+    - malgastara
+    - malgastase
+  nosotros:
+    - malgastáramos
+    - malgastásemos
+  vosotros:
+    - malgastarais
+    - malgastaseis
+  uds:
+    - malgastaran
+    - malgastasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera malgastado
+    - hubiese malgastado
+  tu:
+    - hubieras malgastado
+    - hubieses malgastado
+  vos:
+    - hubieras malgastado
+    - hubieses malgastado
+  ud:
+    - hubiera malgastado
+    - hubiese malgastado
+  nosotros:
+    - hubiéramos malgastado
+    - hubiésemos malgastado
+  vosotros:
+    - hubierais malgastado
+    - hubieseis malgastado
+  uds:
+    - hubieran malgastado
+    - hubiesen malgastado
+imperativo:
+  tu: malgasta
+  vos: malgastá
+  ud: malgaste
+  nosotros: malgastemos
+  vosotros: malgastad
+  uds: malgasten

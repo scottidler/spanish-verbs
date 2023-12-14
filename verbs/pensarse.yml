@@ -1,0 +1,142 @@
+infinitivo: pensarse
+gerundio: pensándose
+participio-pasado: pensado
+presente-indicativo:
+  yo: me pienso
+  tu: te piensas
+  vos: te pensás
+  ud: se piensa
+  nosotros: nos pensamos
+  vosotros: os pensáis
+  uds: se piensan
+preterito-perfecto-simple:
+  yo: me pensé
+  tu: te pensaste
+  vos: te pensaste
+  ud: se pensó
+  nosotros: nos pensamos
+  vosotros: os pensasteis
+  uds: se pensaron
+preterito-imperfecto:
+  yo: me pensaba
+  tu: te pensabas
+  vos: te pensabas
+  ud: se pensaba
+  nosotros: nos pensábamos
+  vosotros: os pensabais
+  uds: se pensaban
+futuro-simple:
+  yo: me pensaré
+  tu: te pensarás
+  vos: te pensarás
+  ud: se pensará
+  nosotros: nos pensaremos
+  vosotros: os pensaréis
+  uds: se pensarán
+condicional-simple:
+  yo: me pensaría
+  tu: te pensarías
+  vos: te pensarías
+  ud: se pensaría
+  nosotros: nos pensaríamos
+  vosotros: os pensaríais
+  uds: se pensarían
+presente-perfecto:
+  yo: me he pensado
+  tu: te has pensado
+  vos: te has pensado
+  ud: se ha pensado
+  nosotros: nos hemos pensado
+  vosotros: os habéis pensado
+  uds: se han pensado
+preterito-pluscuamperfecto:
+  yo: me había pensado
+  tu: te habías pensado
+  vos: te habías pensado
+  ud: se había pensado
+  nosotros: nos habíamos pensado
+  vosotros: os habíais pensado
+  uds: se habían pensado
+futuro-perfecto:
+  yo: me habré pensado
+  tu: te habrás pensado
+  vos: te habrás pensado
+  ud: se habrá pensado
+  nosotros: nos habremos pensado
+  vosotros: os habréis pensado
+  uds: se habrán pensado
+condicional-perfecto:
+  yo: me habría pensado
+  tu: te habrías pensado
+  vos: te habrías pensado
+  ud: se habría pensado
+  nosotros: nos habríamos pensado
+  vosotros: os habríais pensado
+  uds: se habrían pensado
+presente-subjuntivo:
+  yo: me piense
+  tu: te pienses
+  vos: te pienses
+  ud: se piense
+  nosotros: nos pensemos
+  vosotros: os penséis
+  uds: se piensen
+preterito-perfecto-subjuntivo:
+  yo: me haya pensado
+  tu: te hayas pensado
+  vos: te hayas pensado
+  ud: se haya pensado
+  nosotros: nos hayamos pensado
+  vosotros: os hayáis pensado
+  uds: se hayan pensado
+imperfecto-subjuntivo:
+  yo:
+    - me pensara
+    - me pensase
+  tu:
+    - te pensaras
+    - te pensases
+  vos:
+    - te pensaras
+    - te pensases
+  ud:
+    - se pensara
+    - se pensase
+  nosotros:
+    - nos pensáramos
+    - nos pensásemos
+  vosotros:
+    - os pensarais
+    - os pensaseis
+  uds:
+    - se pensaran
+    - se pensasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera pensado
+    - me hubiese pensado
+  tu:
+    - te hubieras pensado
+    - te hubieses pensado
+  vos:
+    - te hubieras pensado
+    - te hubieses pensado
+  ud:
+    - se hubiera pensado
+    - se hubiese pensado
+  nosotros:
+    - nos hubiéramos pensado
+    - nos hubiésemos pensado
+  vosotros:
+    - os hubierais pensado
+    - os hubieseis pensado
+  uds:
+    - se hubieran pensado
+    - se hubiesen pensado
+imperativo:
+  tu: piénsate
+  vos: pensate
+  ud: piénselo
+  nosotros: pensemosnos
+  vosotros: pensaos
+  uds: piénsenlo

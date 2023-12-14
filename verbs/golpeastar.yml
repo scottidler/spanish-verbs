@@ -1,0 +1,142 @@
+infinitivo: golpeastar
+gerundio: golpeastando
+participio-pasado: golpeastado
+presente-indicativo:
+  yo: golpeasto
+  tu: golpeastas
+  vos: golpeastas
+  ud: golpeasta
+  nosotros: golpeastamos
+  vosotros: golpeastáis
+  uds: golpeastan
+preterito-perfecto-simple:
+  yo: golpeasteé
+  tu: golpeasteaste
+  vos: golpeasteaste
+  ud: golpeasteó
+  nosotros: golpeastearamos
+  vosotros: golpeasteasteis
+  uds: golpeastearon
+preterito-imperfecto:
+  yo: golpeastaba
+  tu: golpeastabas
+  vos: golpeastabas
+  ud: golpeastaba
+  nosotros: golpeastábamos
+  vosotros: golpeastabais
+  uds: golpeastaban
+futuro-simple:
+  yo: golpeastaré
+  tu: golpeastarás
+  vos: golpeastarás
+  ud: golpeastará
+  nosotros: golpeastaremos
+  vosotros: golpeastaréis
+  uds: golpeastarán
+condicional-simple:
+  yo: golpeastaría
+  tu: golpeastarías
+  vos: golpeastarías
+  ud: golpeastaría
+  nosotros: golpeastaríamos
+  vosotros: golpeastaríais
+  uds: golpeastarían
+presente-perfecto:
+  yo: he golpeastado
+  tu: has golpeastado
+  vos: has golpeastado
+  ud: ha golpeastado
+  nosotros: hemos golpeastado
+  vosotros: habéis golpeastado
+  uds: han golpeastado
+preterito-pluscuamperfecto:
+  yo: había golpeastado
+  tu: habías golpeastado
+  vos: habías golpeastado
+  ud: había golpeastado
+  nosotros: habíamos golpeastado
+  vosotros: habíais golpeastado
+  uds: habían golpeastado
+futuro-perfecto:
+  yo: habré golpeastado
+  tu: habrás golpeastado
+  vos: habrás golpeastado
+  ud: habrá golpeastado
+  nosotros: habremos golpeastado
+  vosotros: habréis golpeastado
+  uds: habrán golpeastado
+condicional-perfecto:
+  yo: habría golpeastado
+  tu: habrías golpeastado
+  vos: habrías golpeastado
+  ud: habría golpeastado
+  nosotros: habríamos golpeastado
+  vosotros: habríais golpeastado
+  uds: habrían golpeastado
+presente-subjuntivo:
+  yo: golpeaste
+  tu: golpeastes
+  vos: golpeastes
+  ud: golpeaste
+  nosotros: golpeastemos
+  vosotros: golpeastéis
+  uds: golpeasten
+preterito-perfecto-subjuntivo:
+  yo: haya golpeastado
+  tu: hayas golpeastado
+  vos: hayas golpeastado
+  ud: haya golpeastado
+  nosotros: hayamos golpeastado
+  vosotros: hayáis golpeastado
+  uds: hayan golpeastado
+imperfecto-subjuntivo:
+  yo:
+    - golpeastara
+    - golpeastase
+  tu:
+    - golpeastaras
+    - golpeastases
+  vos:
+    - golpeastaras
+    - golpeastases
+  ud:
+    - golpeastara
+    - golpeastase
+  nosotros:
+    - golpeastáramos
+    - golpeastásemos
+  vosotros:
+    - golpeastarais
+    - golpeastaseis
+  uds:
+    - golpeastaran
+    - golpeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera golpeastado
+    - hubiese golpeastado
+  tu:
+    - hubieras golpeastado
+    - hubieses golpeastado
+  vos:
+    - hubieras golpeastado
+    - hubieses golpeastado
+  ud:
+    - hubiera golpeastado
+    - hubiese golpeastado
+  nosotros:
+    - hubiéramos golpeastado
+    - hubiésemos golpeastado
+  vosotros:
+    - hubierais golpeastado
+    - hubieseis golpeastado
+  uds:
+    - hubieran golpeastado
+    - hubiesen golpeastado
+imperativo:
+  tu: golpeasta
+  vos: golpeastá
+  ud: golpeaste
+  nosotros: golpeastemos
+  vosotros: golpeastad
+  uds: golpeasten

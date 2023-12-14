@@ -1,0 +1,142 @@
+infinitivo: enamorar
+gerundio: enamorando
+participio-pasado: enamorado
+presente-indicativo:
+  yo: enamoro
+  tu: enamoras
+  vos: enamoras
+  ud: enamora
+  nosotros: enamoramos
+  vosotros: enamoráis
+  uds: enamoran
+preterito-perfecto-simple:
+  yo: enamoré
+  tu: enamoraste
+  vos: enamoraste
+  ud: enamoró
+  nosotros: enamoramos
+  vosotros: enamorasteis
+  uds: enamoraron
+preterito-imperfecto:
+  yo: enamoraba
+  tu: enamorabas
+  vos: enamorabas
+  ud: enamoraba
+  nosotros: enamorábamos
+  vosotros: enamorabais
+  uds: enamoraban
+futuro-simple:
+  yo: enamoraré
+  tu: enamorarás
+  vos: enamorarás
+  ud: enamorará
+  nosotros: enamoraremos
+  vosotros: enamoraréis
+  uds: enamorarán
+condicional-simple:
+  yo: enamoraría
+  tu: enamorarías
+  vos: enamorarías
+  ud: enamoraría
+  nosotros: enamoraríamos
+  vosotros: enamoraríais
+  uds: enamorarían
+presente-perfecto:
+  yo: he enamorado
+  tu: has enamorado
+  vos: has enamorado
+  ud: ha enamorado
+  nosotros: hemos enamorado
+  vosotros: habéis enamorado
+  uds: han enamorado
+preterito-pluscuamperfecto:
+  yo: había enamorado
+  tu: habías enamorado
+  vos: habías enamorado
+  ud: había enamorado
+  nosotros: habíamos enamorado
+  vosotros: habíais enamorado
+  uds: habían enamorado
+futuro-perfecto:
+  yo: habré enamorado
+  tu: habrás enamorado
+  vos: habrás enamorado
+  ud: habrá enamorado
+  nosotros: habremos enamorado
+  vosotros: habréis enamorado
+  uds: habrán enamorado
+condicional-perfecto:
+  yo: habría enamorado
+  tu: habrías enamorado
+  vos: habrías enamorado
+  ud: habría enamorado
+  nosotros: habríamos enamorado
+  vosotros: habríais enamorado
+  uds: habrían enamorado
+presente-subjuntivo:
+  yo: enamore
+  tu: enamares
+  vos: enamares
+  ud: enamore
+  nosotros: enamoremos
+  vosotros: enamoréis
+  uds: enamares
+preterito-perfecto-subjuntivo:
+  yo: haya enamorado
+  tu: hayas enamorado
+  vos: hayas enamorado
+  ud: haya enamorado
+  nosotros: hayamos enamorado
+  vosotros: hayáis enamorado
+  uds: hayan enamorado
+imperfecto-subjuntivo:
+  yo: 
+    - enamorara
+    - enamorase
+  tu:
+    - enamoraras
+    - enamorases
+  vos:
+    - enamoraras
+    - enamorases
+  ud:
+    - enamorara
+    - enamorase
+  nosotros:
+    - enamoráramos
+    - enamorásemos
+  vosotros:
+    - enamorarais
+    - enamoraseis
+  uds:
+    - enamoraran
+    - enamorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enamorado
+    - hubiese enamorado
+  tu:
+    - hubieras enamorado
+    - hubieses enamorado
+  vos:
+    - hubieras enamorado
+    - hubieses enamorado
+  ud:
+    - hubiera enamorado
+    - hubiese enamorado
+  nosotros:
+    - hubiéramos enamorado
+    - hubiésemos enamorado
+  vosotros:
+    - hubierais enamorado
+    - hubieseis enamorado
+  uds:
+    - hubieran enamorado
+    - hubiesen enamorado
+imperativo:
+  tu: enamora
+  vos: enamorá
+  ud: enamore
+  nosotros: enamoremos
+  vosotros: enamorad
+  uds: enamares

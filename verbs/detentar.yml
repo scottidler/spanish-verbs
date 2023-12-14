@@ -1,0 +1,142 @@
+infinitivo: detentar
+gerundio: detentando
+participio-pasado: detentado
+presente-indicativo:
+  yo: detento
+  tu: detentas
+  vos: detentas
+  ud: detenta
+  nosotros: detentamos
+  vosotros: detentáis
+  uds: detentan
+preterito-perfecto-simple:
+  yo: detenté
+  tu: detentaste
+  vos: detentaste
+  ud: detentó
+  nosotros: detentamos
+  vosotros: detentasteis
+  uds: detentaron
+preterito-imperfecto:
+  yo: detentaba
+  tu: detentabas
+  vos: detentabas
+  ud: detentaba
+  nosotros: detentábamos
+  vosotros: detentabais
+  uds: detentaban
+futuro-simple:
+  yo: detentaré
+  tu: detentarás
+  vos: detentarás
+  ud: detentará
+  nosotros: detentaremos
+  vosotros: detentaréis
+  uds: detentarán
+condicional-simple:
+  yo: detentaría
+  tu: detentarías
+  vos: detentarías
+  ud: detentaría
+  nosotros: detentaríamos
+  vosotros: detentaríais
+  uds: detentarían
+presente-perfecto:
+  yo: he detentado
+  tu: has detentado
+  vos: has detentado
+  ud: ha detentado
+  nosotros: hemos detentado
+  vosotros: habéis detentado
+  uds: han detentado
+preterito-pluscuamperfecto:
+  yo: había detentado
+  tu: habías detentado
+  vos: habías detentado
+  ud: había detentado
+  nosotros: habíamos detentado
+  vosotros: habíais detentado
+  uds: habían detentado
+futuro-perfecto:
+  yo: habré detentado
+  tu: habrás detentado
+  vos: habrás detentado
+  ud: habrá detentado
+  nosotros: habremos detentado
+  vosotros: habréis detentado
+  uds: habrán detentado
+condicional-perfecto:
+  yo: habría detentado
+  tu: habrías detentado
+  vos: habrías detentado
+  ud: habría detentado
+  nosotros: habríamos detentado
+  vosotros: habríais detentado
+  uds: habrían detentado
+presente-subjuntivo:
+  yo: detente
+  tu: detentes
+  vos: detentes
+  ud: detente
+  nosotros: detentemos
+  vosotros: detentéis
+  uds: detenten
+preterito-perfecto-subjuntivo:
+  yo: haya detentado
+  tu: hayas detentado
+  vos: hayas detentado
+  ud: haya detentado
+  nosotros: hayamos detentado
+  vosotros: hayáis detentado
+  uds: hayan detentado
+imperfecto-subjuntivo:
+  yo:
+    - detentara
+    - detentase
+  tu:
+    - detentaras
+    - detentases
+  vos:
+    - detentaras
+    - detentases
+  ud:
+    - detentara
+    - detentase
+  nosotros:
+    - detentáramos
+    - detentásemos
+  vosotros:
+    - detentarais
+    - detentaseis
+  uds:
+    - detentaran
+    - detentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera detentado
+    - hubiese detentado
+  tu:
+    - hubieras detentado
+    - hubieses detentado
+  vos:
+    - hubieras detentado
+    - hubieses detentado
+  ud:
+    - hubiera detentado
+    - hubiese detentado
+  nosotros:
+    - hubiéramos detentado
+    - hubiésemos detentado
+  vosotros:
+    - hubierais detentado
+    - hubieseis detentado
+  uds:
+    - hubieran detentado
+    - hubiesen detentado
+imperativo:
+  tu: detenta
+  vos: detentá
+  ud: detente
+  nosotros: detentemos
+  vosotros: detentad
+  uds: detenten

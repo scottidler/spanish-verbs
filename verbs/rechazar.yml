@@ -1,0 +1,142 @@
+infinitivo: rechazar
+gerundio: rechazando
+participio-pasado: rechazado
+presente-indicativo:
+  yo: rechazo
+  tu: rechazas
+  vos: rechazas
+  ud: rechaza
+  nosotros: rechazamos
+  vosotros: rechazáis
+  uds: rechazan
+preterito-perfecto-simple:
+  yo: rechacé
+  tu: rechazaste
+  vos: rechazaste
+  ud: rechazó
+  nosotros: rechazamos
+  vosotros: rechazasteis
+  uds: rechazaron
+preterito-imperfecto:
+  yo: rechazaba
+  tu: rechazabas
+  vos: rechazabas
+  ud: rechazaba
+  nosotros: rechazábamos
+  vosotros: rechazabais
+  uds: rechazaban
+futuro-simple:
+  yo: rechazaré
+  tu: rechazarás
+  vos: rechazarás
+  ud: rechazará
+  nosotros: rechazaremos
+  vosotros: rechazaréis
+  uds: rechazarán
+condicional-simple:
+  yo: rechazaría
+  tu: rechazarías
+  vos: rechazarías
+  ud: rechazaría
+  nosotros: rechazaríamos
+  vosotros: rechazaríais
+  uds: rechazarían
+presente-perfecto:
+  yo: he rechazado
+  tu: has rechazado
+  vos: has rechazado
+  ud: ha rechazado
+  nosotros: hemos rechazado
+  vosotros: habéis rechazado
+  uds: han rechazado
+preterito-pluscuamperfecto:
+  yo: había rechazado
+  tu: habías rechazado
+  vos: habías rechazado
+  ud: había rechazado
+  nosotros: habíamos rechazado
+  vosotros: habíais rechazado
+  uds: habían rechazado
+futuro-perfecto:
+  yo: habré rechazado
+  tu: habrás rechazado
+  vos: habrás rechazado
+  ud: habrá rechazado
+  nosotros: habremos rechazado
+  vosotros: habréis rechazado
+  uds: habrán rechazado
+condicional-perfecto:
+  yo: habría rechazado
+  tu: habrías rechazado
+  vos: habrías rechazado
+  ud: habría rechazado
+  nosotros: habríamos rechazado
+  vosotros: habríais rechazado
+  uds: habrían rechazado
+presente-subjuntivo:
+  yo: rechace
+  tu: rechaces
+  vos: rechaces
+  ud: rechace
+  nosotros: rechacemos
+  vosotros: rechacéis
+  uds: rechacen
+preterito-perfecto-subjuntivo:
+  yo: haya rechazado
+  tu: hayas rechazado
+  vos: hayas rechazado
+  ud: haya rechazado
+  nosotros: hayamos rechazado
+  vosotros: hayáis rechazado
+  uds: hayan rechazado
+imperfecto-subjuntivo:
+  yo:
+    - rechazara
+    - rechazase
+  tu:
+    - rechazaras
+    - rechazases
+  vos:
+    - rechazaras
+    - rechazases
+  ud:
+    - rechazara
+    - rechazase
+  nosotros:
+    - rechazáramos
+    - rechazásemos
+  vosotros:
+    - rechazarais
+    - rechazaseis
+  uds:
+    - rechazaran
+    - rechazasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rechazado
+    - hubiese rechazado
+  tu:
+    - hubieras rechazado
+    - hubieses rechazado
+  vos:
+    - hubieras rechazado
+    - hubieses rechazado
+  ud:
+    - hubiera rechazado
+    - hubiese rechazado
+  nosotros:
+    - hubiéramos rechazado
+    - hubiésemos rechazado
+  vosotros:
+    - hubierais rechazado
+    - hubieseis rechazado
+  uds:
+    - hubieran rechazado
+    - hubiesen rechazado
+imperativo:
+  tu: rechaza
+  vos: rechazá
+  ud: rechace
+  nosotros: rechacemos
+  vosotros: rechazad
+  uds: rechacen

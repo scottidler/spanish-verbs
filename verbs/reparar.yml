@@ -1,0 +1,142 @@
+infinitivo: reparar
+gerundio: reparando
+participio-pasado: reparado
+presente-indicativo:
+  yo: reparo
+  tu: reparas
+  vos: reparas
+  ud: repara
+  nosotros: reparamos
+  vosotros: reparáis
+  uds: reparan
+preterito-perfecto-simple:
+  yo: reparé
+  tu: reparaste
+  vos: reparaste
+  ud: reparó
+  nosotros: reparamos
+  vosotros: reparasteis
+  uds: repararon
+preterito-imperfecto:
+  yo: reparaba
+  tu: reparabas
+  vos: reparabas
+  ud: reparaba
+  nosotros: reparábamos
+  vosotros: reparabais
+  uds: reparaban
+futuro-simple:
+  yo: repararé
+  tu: repararás
+  vos: repararás
+  ud: reparará
+  nosotros: repararemos
+  vosotros: repararéis
+  uds: repararán
+condicional-simple:
+  yo: repararía
+  tu: repararías
+  vos: repararías
+  ud: repararía
+  nosotros: repararíamos
+  vosotros: repararíais
+  uds: repararían
+presente-perfecto:
+  yo: he reparado
+  tu: has reparado
+  vos: has reparado
+  ud: ha reparado
+  nosotros: hemos reparado
+  vosotros: habéis reparado
+  uds: han reparado
+preterito-pluscuamperfecto:
+  yo: había reparado
+  tu: habías reparado
+  vos: habías reparado
+  ud: había reparado
+  nosotros: habíamos reparado
+  vosotros: habíais reparado
+  uds: habían reparado
+futuro-perfecto:
+  yo: habré reparado
+  tu: habrás reparado
+  vos: habrás reparado
+  ud: habrá reparado
+  nosotros: habremos reparado
+  vosotros: habréis reparado
+  uds: habrán reparado
+condicional-perfecto:
+  yo: habría reparado
+  tu: habrías reparado
+  vos: habrías reparado
+  ud: habría reparado
+  nosotros: habríamos reparado
+  vosotros: habríais reparado
+  uds: habrían reparado
+presente-subjuntivo:
+  yo: repare
+  tu: repares
+  vos: repares
+  ud: repare
+  nosotros: reparemos
+  vosotros: reparéis
+  uds: reparen
+preterito-perfecto-subjuntivo:
+  yo: haya reparado
+  tu: hayas reparado
+  vos: hayas reparado
+  ud: haya reparado
+  nosotros: hayamos reparado
+  vosotros: hayáis reparado
+  uds: hayan reparado
+imperfecto-subjuntivo:
+  yo:
+    - reparara
+    - reparase
+  tu:
+    - repararas
+    - reparases
+  vos:
+    - repararas
+    - reparases
+  ud:
+    - reparara
+    - reparase
+  nosotros:
+    - reparáramos
+    - reparásemos
+  vosotros:
+    - repararais
+    - reparaseis
+  uds:
+    - repararan
+    - reparasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reparado
+    - hubiese reparado
+  tu:
+    - hubieras reparado
+    - hubieses reparado
+  vos:
+    - hubieras reparado
+    - hubieses reparado
+  ud:
+    - hubiera reparado
+    - hubiese reparado
+  nosotros:
+    - hubiéramos reparado
+    - hubiésemos reparado
+  vosotros:
+    - hubierais reparado
+    - hubieseis reparado
+  uds:
+    - hubieran reparado
+    - hubiesen reparado
+imperativo:
+  tu: repara
+  vos: repará
+  ud: repare
+  nosotros: reparemos
+  vosotros: reparad
+  uds: reparen

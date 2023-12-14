@@ -1,0 +1,142 @@
+infinitivo: procurar
+gerundio: procurando
+participio-pasado: procurado
+presente-indicativo:
+  yo: procuro
+  tu: procuras
+  vos: procuras
+  ud: procura
+  nosotros: procuramos
+  vosotros: procuráis
+  uds: procuran
+preterito-perfecto-simple:
+  yo: procuré
+  tu: procuraste
+  vos: procuraste
+  ud: procuró
+  nosotros: procuramos
+  vosotros: procurasteis
+  uds: procuraron
+preterito-imperfecto:
+  yo: procuraba
+  tu: procurabas
+  vos: procurabas
+  ud: procuraba
+  nosotros: procurábamos
+  vosotros: procurabais
+  uds: procuraban
+futuro-simple:
+  yo: procuraré
+  tu: procurarás
+  vos: procurarás
+  ud: procurará
+  nosotros: procuraremos
+  vosotros: procuraréis
+  uds: procurarán
+condicional-simple:
+  yo: procuraría
+  tu: procurarías
+  vos: procurarías
+  ud: procuraría
+  nosotros: procuraríamos
+  vosotros: procuraríais
+  uds: procurarían
+presente-perfecto:
+  yo: he procurado
+  tu: has procurado
+  vos: has procurado
+  ud: ha procurado
+  nosotros: hemos procurado
+  vosotros: habéis procurado
+  uds: han procurado
+preterito-pluscuamperfecto:
+  yo: había procurado
+  tu: habías procurado
+  vos: habías procurado
+  ud: había procurado
+  nosotros: habíamos procurado
+  vosotros: habíais procurado
+  uds: habían procurado
+futuro-perfecto:
+  yo: habré procurado
+  tu: habrás procurado
+  vos: habrás procurado
+  ud: habrá procurado
+  nosotros: habremos procurado
+  vosotros: habréis procurado
+  uds: habrán procurado
+condicional-perfecto:
+  yo: habría procurado
+  tu: habrías procurado
+  vos: habrías procurado
+  ud: habría procurado
+  nosotros: habríamos procurado
+  vosotros: habríais procurado
+  uds: habrían procurado
+presente-subjuntivo:
+  yo: procure
+  tu: procures
+  vos: procures
+  ud: procure
+  nosotros: procuremos
+  vosotros: procuréis
+  uds: procuren
+preterito-perfecto-subjuntivo:
+  yo: haya procurado
+  tu: hayas procurado
+  vos: hayas procurado
+  ud: haya procurado
+  nosotros: hayamos procurado
+  vosotros: hayáis procurado
+  uds: hayan procurado
+imperfecto-subjuntivo:
+  yo:
+    - procurara
+    - procurase
+  tu:
+    - procuraras
+    - procurases
+  vos:
+    - procuraras
+    - procurases
+  ud:
+    - procurara
+    - procurase
+  nosotros:
+    - procuráramos
+    - procurásemos
+  vosotros:
+    - procurarais
+    - procuraseis
+  uds:
+    - procuraran
+    - procurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera procurado
+    - hubiese procurado
+  tu:
+    - hubieras procurado
+    - hubieses procurado
+  vos:
+    - hubieras procurado
+    - hubieses procurado
+  ud:
+    - hubiera procurado
+    - hubiese procurado
+  nosotros:
+    - hubiéramos procurado
+    - hubiésemos procurado
+  vosotros:
+    - hubierais procurado
+    - hubieseis procurado
+  uds:
+    - hubieran procurado
+    - hubiesen procurado
+imperativo:
+  tu: procura
+  vos: procurá
+  ud: procure
+  nosotros: procuremos
+  vosotros: procurad
+  uds: procuren

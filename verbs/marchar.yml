@@ -1,0 +1,142 @@
+infinitivo: marchar
+gerundio: marchando
+participio-pasado: marchado
+presente-indicativo:
+  yo: marcho
+  tu: marchas
+  vos: marchas
+  ud: marcha
+  nosotros: marchamos
+  vosotros: marcháis
+  uds: marchan
+preterito-perfecto-simple:
+  yo: marché
+  tu: marchaste
+  vos: marchaste
+  ud: marchó
+  nosotros: marchamos
+  vosotros: marchasteis
+  uds: marcharon
+preterito-imperfecto:
+  yo: marchaba
+  tu: marchabas
+  vos: marchabas
+  ud: marchaba
+  nosotros: marchábamos
+  vosotros: marchabais
+  uds: marchaban
+futuro-simple:
+  yo: marcharé
+  tu: marcharás
+  vos: marcharás
+  ud: marchará
+  nosotros: marcharemos
+  vosotros: marcharéis
+  uds: marcharán
+condicional-simple:
+  yo: marcharía
+  tu: marcharías
+  vos: marcharías
+  ud: marcharía
+  nosotros: marcharíamos
+  vosotros: marcharíais
+  uds: marcharían
+presente-perfecto:
+  yo: he marchado
+  tu: has marchado
+  vos: has marchado
+  ud: ha marchado
+  nosotros: hemos marchado
+  vosotros: habéis marchado
+  uds: han marchado
+preterito-pluscuamperfecto:
+  yo: había marchado
+  tu: habías marchado
+  vos: habías marchado
+  ud: había marchado
+  nosotros: habíamos marchado
+  vosotros: habíais marchado
+  uds: habían marchado
+futuro-perfecto:
+  yo: habré marchado
+  tu: habrás marchado
+  vos: habrás marchado
+  ud: habrá marchado
+  nosotros: habremos marchado
+  vosotros: habréis marchado
+  uds: habrán marchado
+condicional-perfecto:
+  yo: habría marchado
+  tu: habrías marchado
+  vos: habrías marchado
+  ud: habría marchado
+  nosotros: habríamos marchado
+  vosotros: habríais marchado
+  uds: habrían marchado
+presente-subjuntivo:
+  yo: marche
+  tu: marches
+  vos: marches
+  ud: marche
+  nosotros: marchemos
+  vosotros: marchéis
+  uds: marchen
+preterito-perfecto-subjuntivo:
+  yo: haya marchado
+  tu: hayas marchado
+  vos: hayas marchado
+  ud: haya marchado
+  nosotros: hayamos marchado
+  vosotros: hayáis marchado
+  uds: hayan marchado
+imperfecto-subjuntivo:
+  yo:
+    - marchara
+    - marchase
+  tu:
+    - marcharas
+    - marcheses
+  vos:
+    - marcharas
+    - marcheses
+  ud:
+    - marchara
+    - marchase
+  nosotros:
+    - marcháramos
+    - marchásemos
+  vosotros:
+    - marcharais
+    - marcheséis
+  uds:
+    - marcharan
+    - marchesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera marchado
+    - hubiese marchado
+  tu:
+    - hubieras marchado
+    - hubieses marchado
+  vos:
+    - hubieras marchado
+    - hubieses marchado
+  ud:
+    - hubiera marchado
+    - hubiese marchado
+  nosotros:
+    - hubiéramos marchado
+    - hubiésemos marchado
+  vosotros:
+    - hubierais marchado
+    - hubieseis marchado
+  uds:
+    - hubieran marchado
+    - hubiesen marchado
+imperativo:
+  tu: marcha
+  vos: marchá
+  ud: marche
+  nosotros: marchemos
+  vosotros: marchad
+  uds: marchen

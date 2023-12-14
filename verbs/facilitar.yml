@@ -1,0 +1,142 @@
+infinitivo: facilitar
+gerundio: facilitando
+participio-pasado: facilitado
+presente-indicativo:
+  yo: facilito
+  tu: facilitas
+  vos: facilitás
+  ud: facilita
+  nosotros: facilitamos
+  vosotros: facilitáis
+  uds: facilitan
+preterito-perfecto-simple:
+  yo: facilité
+  tu: facilitaste
+  vos: facilitaste
+  ud: facilitó
+  nosotros: facilitamos
+  vosotros: facilitasteis
+  uds: facilitaron
+preterito-imperfecto:
+  yo: facilitaba
+  tu: facilitabas
+  vos: facilitabas
+  ud: facilitaba
+  nosotros: facilitábamos
+  vosotros: facilitabais
+  uds: facilitaban
+futuro-simple:
+  yo: facilitaré
+  tu: facilitarás
+  vos: facilitarás
+  ud: facilitará
+  nosotros: facilitaremos
+  vosotros: facilitaréis
+  uds: facilitarán
+condicional-simple:
+  yo: facilitaría
+  tu: facilitarías
+  vos: facilitarías
+  ud: facilitaría
+  nosotros: facilitaríamos
+  vosotros: facilitaríais
+  uds: facilitarían
+presente-perfecto:
+  yo: he facilitado
+  tu: has facilitado
+  vos: has facilitado
+  ud: ha facilitado
+  nosotros: hemos facilitado
+  vosotros: habéis facilitado
+  uds: han facilitado
+preterito-pluscuamperfecto:
+  yo: había facilitado
+  tu: habías facilitado
+  vos: habías facilitado
+  ud: había facilitado
+  nosotros: habíamos facilitado
+  vosotros: habíais facilitado
+  uds: habían facilitado
+futuro-perfecto:
+  yo: habré facilitado
+  tu: habrás facilitado
+  vos: habrás facilitado
+  ud: habrá facilitado
+  nosotros: habremos facilitado
+  vosotros: habréis facilitado
+  uds: habrán facilitado
+condicional-perfecto:
+  yo: habría facilitado
+  tu: habrías facilitado
+  vos: habrías facilitado
+  ud: habría facilitado
+  nosotros: habríamos facilitado
+  vosotros: habríais facilitado
+  uds: habrían facilitado
+presente-subjuntivo:
+  yo: facilite
+  tu: facilites
+  vos: facilites
+  ud: facilite
+  nosotros: facilitemos
+  vosotros: facilitéis
+  uds: faciliten
+preterito-perfecto-subjuntivo:
+  yo: haya facilitado
+  tu: hayas facilitado
+  vos: hayas facilitado
+  ud: haya facilitado
+  nosotros: hayamos facilitado
+  vosotros: hayáis facilitado
+  uds: hayan facilitado
+imperfecto-subjuntivo:
+  yo:
+    - facilitara
+    - facilitase
+  tu:
+    - facilitaras
+    - facilitases
+  vos:
+    - facilitaras
+    - facilitases
+  ud:
+    - facilitara
+    - facilitase
+  nosotros:
+    - facilitáramos
+    - facilitásemos
+  vosotros:
+    - facilitarais
+    - facilitaseis
+  uds:
+    - facilitaran
+    - facilitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera facilitado
+    - hubiese facilitado
+  tu:
+    - hubieras facilitado
+    - hubieses facilitado
+  vos:
+    - hubieras facilitado
+    - hubieses facilitado
+  ud:
+    - hubiera facilitado
+    - hubiese facilitado
+  nosotros:
+    - hubiéramos facilitado
+    - hubiésemos facilitado
+  vosotros:
+    - hubierais facilitado
+    - hubieseis facilitado
+  uds:
+    - hubieran facilitado
+    - hubiesen facilitado
+imperativo:
+  tu: facilita
+  vos: facilitá
+  ud: facilite
+  nosotros: facilitemos
+  vosotros: facilitad
+  uds: faciliten

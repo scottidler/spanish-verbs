@@ -1,0 +1,142 @@
+infinitivo: encabezar
+gerundio: encabezando
+participio-pasado: encabezado
+presente-indicativo:
+  yo: encabezo
+  tu: encabezas
+  vos: encabezas
+  ud: encabeza
+  nosotros: encabezamos
+  vosotros: encabezáis
+  uds: encabezan
+preterito-perfecto-simple:
+  yo: encabezé
+  tu: encabezaste
+  vos: encabezaste
+  ud: encabezó
+  nosotros: encabezamos
+  vosotros: encabezasteis
+  uds: encabezaron
+preterito-imperfecto:
+  yo: encabezaba
+  tu: encabezabas
+  vos: encabezabas
+  ud: encabezaba
+  nosotros: encabezábamos
+  vosotros: encabezabais
+  uds: encabezaban
+futuro-simple:
+  yo: encabezaré
+  tu: encabezarás
+  vos: encabezarás
+  ud: encabezará
+  nosotros: encabezaremos
+  vosotros: encabezaréis
+  uds: encabezarán
+condicional-simple:
+  yo: encabezaría
+  tu: encabezarías
+  vos: encabezarías
+  ud: encabezaría
+  nosotros: encabezaríamos
+  vosotros: encabezaríais
+  uds: encabezarían
+presente-perfecto:
+  yo: he encabezado
+  tu: has encabezado
+  vos: has encabezado
+  ud: ha encabezado
+  nosotros: hemos encabezado
+  vosotros: habéis encabezado
+  uds: han encabezado
+preterito-pluscuamperfecto:
+  yo: había encabezado
+  tu: habías encabezado
+  vos: habías encabezado
+  ud: había encabezado
+  nosotros: habíamos encabezado
+  vosotros: habíais encabezado
+  uds: habían encabezado
+futuro-perfecto:
+  yo: habré encabezado
+  tu: habrás encabezado
+  vos: habrás encabezado
+  ud: habrá encabezado
+  nosotros: habremos encabezado
+  vosotros: habréis encabezado
+  uds: habrán encabezado
+condicional-perfecto:
+  yo: habría encabezado
+  tu: habrías encabezado
+  vos: habrías encabezado
+  ud: habría encabezado
+  nosotros: habríamos encabezado
+  vosotros: habríais encabezado
+  uds: habrían encabezado
+presente-subjuntivo:
+  yo: encabece
+  tu: encabeces
+  vos: encabeces
+  ud: encabece
+  nosotros: encabezcamos
+  vosotros: encabezcan
+  uds: encabezcan
+preterito-perfecto-subjuntivo:
+  yo: haya encabezado
+  tu: hayas encabezado
+  vos: hayas encabezado
+  ud: haya encabezado
+  nosotros: hayamos encabezado
+  vosotros: hayáis encabezado
+  uds: hayan encabezado
+imperfecto-subjuntivo:
+  yo:
+    - encabezara
+    - encabezase
+  tu:
+    - encabezaras
+    - encabezases
+  vos:
+    - encabezaras
+    - encabezases
+  ud:
+    - encabezara
+    - encabezase
+  nosotros:
+    - encabezáramos
+    - encabezásemos
+  vosotros:
+    - encabezarais
+    - encabezaseis
+  uds:
+    - encabezaran
+    - encabezasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encabezado
+    - hubiese encabezado
+  tu:
+    - hubieras encabezado
+    - hubieses encabezado
+  vos:
+    - hubieras encabezado
+    - hubieses encabezado
+  ud:
+    - hubiera encabezado
+    - hubiese encabezado
+  nosotros:
+    - hubiéramos encabezado
+    - hubiésemos encabezado
+  vosotros:
+    - hubierais encabezado
+    - hubieseis encabezado
+  uds:
+    - hubieran encabezado
+    - hubiesen encabezado
+imperativo:
+  tu: encabeza
+  vos: encabezá
+  ud: encabece
+  nosotros: encabezcamos
+  vosotros: encabezad
+  uds: encabezcan

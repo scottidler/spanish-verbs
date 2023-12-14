@@ -1,0 +1,142 @@
+infinitivo: nadar
+gerundio: nadando
+participio-pasado: nadado
+presente-indicativo:
+  yo: nado
+  tu: nadas
+  vos: nadas
+  ud: nada
+  nosotros: nadamos
+  vosotros: nadáis
+  uds: nadan
+preterito-perfecto-simple:
+  yo: nadé
+  tu: nadaste
+  vos: nadaste
+  ud: nadó
+  nosotros: nadamos
+  vosotros: nadasteis
+  uds: nadaron
+preterito-imperfecto:
+  yo: nadaba
+  tu: nadabas
+  vos: nadabas
+  ud: nadaba
+  nosotros: nadábamos
+  vosotros: nadabais
+  uds: nadaban
+futuro-simple:
+  yo: nadaré
+  tu: nadarás
+  vos: nadarás
+  ud: nadará
+  nosotros: nadaremos
+  vosotros: nadaréis
+  uds: nadarán
+condicional-simple:
+  yo: nadaría
+  tu: nadarías
+  vos: nadarías
+  ud: nadaría
+  nosotros: nadaríamos
+  vosotros: nadaríais
+  uds: nadarían
+presente-perfecto:
+  yo: he nadado
+  tu: has nadado
+  vos: has nadado
+  ud: ha nadado
+  nosotros: hemos nadado
+  vosotros: habéis nadado
+  uds: han nadado
+preterito-pluscuamperfecto:
+  yo: había nadado
+  tu: habías nadado
+  vos: habías nadado
+  ud: había nadado
+  nosotros: habíamos nadado
+  vosotros: habíais nadado
+  uds: habían nadado
+futuro-perfecto:
+  yo: habré nadado
+  tu: habrás nadado
+  vos: habrás nadado
+  ud: habrá nadado
+  nosotros: habremos nadado
+  vosotros: habréis nadado
+  uds: habrán nadado
+condicional-perfecto:
+  yo: habría nadado
+  tu: habrías nadado
+  vos: habrías nadado
+  ud: habría nadado
+  nosotros: habríamos nadado
+  vosotros: habríais nadado
+  uds: habrían nadado
+presente-subjuntivo:
+  yo: nade
+  tu: nades
+  vos: nades
+  ud: nade
+  nosotros: nademos
+  vosotros: nadéis
+  uds: naden
+preterito-perfecto-subjuntivo:
+  yo: haya nadado
+  tu: hayas nadado
+  vos: hayas nadado
+  ud: haya nadado
+  nosotros: hayamos nadado
+  vosotros: hayáis nadado
+  uds: hayan nadado
+imperfecto-subjuntivo:
+  yo:
+    - nadara
+    - nadase
+  tu:
+    - nadaras
+    - nadases
+  vos:
+    - nadaras
+    - nadases
+  ud:
+    - nadara
+    - nadase
+  nosotros:
+    - nadáramos
+    - nadásemos
+  vosotros:
+    - nadarais
+    - nadaseis
+  uds:
+    - nadaran
+    - nadasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera nadado
+    - hubiese nadado
+  tu:
+    - hubieras nadado
+    - hubieses nadado
+  vos:
+    - hubieras nadado
+    - hubieses nadado
+  ud:
+    - hubiera nadado
+    - hubiese nadado
+  nosotros:
+    - hubiéramos nadado
+    - hubiésemos nadado
+  vosotros:
+    - hubierais nadado
+    - hubieseis nadado
+  uds:
+    - hubieran nadado
+    - hubiesen nadado
+imperativo:
+  tu: nada
+  vos: nadá
+  ud: nade
+  nosotros: nademos
+  vosotros: nadad
+  uds: naden

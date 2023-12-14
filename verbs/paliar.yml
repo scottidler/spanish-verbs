@@ -1,0 +1,142 @@
+infinitivo: paliar
+gerundio: paliando
+participio-pasado: paliado
+presente-indicativo:
+  yo: palio
+  tu: palias
+  vos: palias
+  ud: paliá
+  nosotros: paliámos
+  vosotros: paliáis
+  uds: palian
+preterito-perfecto-simple:
+  yo: palié
+  tu: paliaste
+  vos: paliaste
+  ud: palió
+  nosotros: paliámos
+  vosotros: paliasteis
+  uds: paliaron
+preterito-imperfecto:
+  yo: paliaba
+  tu: paliabas
+  vos: paliabas
+  ud: paliaba
+  nosotros: paliáíamos
+  vosotros: paliábais
+  uds: paliaban
+futuro-simple:
+  yo: paliaré
+  tu: paliarás
+  vos: paliarás
+  ud: paliará
+  nosotros: paliáremos
+  vosotros: paliaréis
+  uds: paliarán
+condicional-simple:
+  yo: paliaría
+  tu: paliarías
+  vos: paliarías
+  ud: paliaría
+  nosotros: paliaríamos
+  vosotros: paliaríais
+  uds: paliarían
+presente-perfecto:
+  yo: he paliado
+  tu: has paliado
+  vos: has paliado
+  ud: ha paliado
+  nosotros: hemos paliado
+  vosotros: habéis paliado
+  uds: han paliado
+preterito-pluscuamperfecto:
+  yo: había paliado
+  tu: habías paliado
+  vos: habías paliado
+  ud: había paliado
+  nosotros: habíamos paliado
+  vosotros: habíais paliado
+  uds: habían paliado
+futuro-perfecto:
+  yo: habré paliado
+  tu: habrás paliado
+  vos: habrás paliado
+  ud: habrá paliado
+  nosotros: habremos paliado
+  vosotros: habréis paliado
+  uds: habrán paliado
+condicional-perfecto:
+  yo: habría paliado
+  tu: habrías paliado
+  vos: habrías paliado
+  ud: habría paliado
+  nosotros: habríamos paliado
+  vosotros: habríais paliado
+  uds: habrían paliado
+presente-subjuntivo:
+  yo: palie
+  tu: palies
+  vos: palies
+  ud: palie
+  nosotros: paliemos
+  vosotros: paliéis
+  uds: palien
+preterito-perfecto-subjuntivo:
+  yo: haya paliado
+  tu: hayas paliado
+  vos: hayas paliado
+  ud: haya paliado
+  nosotros: hayamos paliado
+  vosotros: hayáis paliado
+  uds: hayan paliado
+imperfecto-subjuntivo:
+  yo:
+    - paliara
+    - paliase
+  tu:
+    - paliaras
+    - paliases
+  vos:
+    - paliaras
+    - paliases
+  ud:
+    - paliara
+    - paliase
+  nosotros:
+    - paliáramos
+    - paliásemos
+  vosotros:
+    - paliarais
+    - paliaseis
+  uds:
+    - paliaran
+    - paliasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera paliado
+    - hubiese paliado
+  tu:
+    - hubieras paliado
+    - hubieses paliado
+  vos:
+    - hubieras paliado
+    - hubieses paliado
+  ud:
+    - hubiera paliado
+    - hubiese paliado
+  nosotros:
+    - hubiéramos paliado
+    - hubiésemos paliado
+  vosotros:
+    - hubierais paliado
+    - hubieseis paliado
+  uds:
+    - hubieran paliado
+    - hubiesen paliado
+imperativo:
+  tu: palia
+  vos: palá
+  ud: palie
+  nosotros: paliemos
+  vosotros: palid
+  uds: palien

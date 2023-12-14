@@ -1,0 +1,142 @@
+infinitivo: acoger
+gerundio: acogiendo
+participio-pasado: acogido
+presente-indicativo:
+  yo: acojo
+  tu: acoges
+  vos: acoges
+  ud: acoge
+  nosotros: acogemos
+  vosotros: acogéis
+  uds: acogen
+preterito-perfecto-simple:
+  yo: acogí
+  tu: acogiste
+  vos: acogiste
+  ud: acogió
+  nosotros: acogimos
+  vosotros: acogisteis
+  uds: acogieron
+preterito-imperfecto:
+  yo: acogía
+  tu: acogías
+  vos: acogías
+  ud: acogía
+  nosotros: acogíamos
+  vosotros: acogíais
+  uds: acogían
+futuro-simple:
+  yo: acogeré
+  tu: acogerás
+  vos: acogerás
+  ud: acogerá
+  nosotros: acogeremos
+  vosotros: acogeréis
+  uds: acogerán
+condicional-simple:
+  yo: acogería
+  tu: acogerías
+  vos: acogerías
+  ud: acogería
+  nosotros: acogeríamos
+  vosotros: acogeríais
+  uds: acogerían
+presente-perfecto:
+  yo: he acogido
+  tu: has acogido
+  vos: has acogido
+  ud: ha acogido
+  nosotros: hemos acogido
+  vosotros: habéis acogido
+  uds: han acogido
+preterito-pluscuamperfecto:
+  yo: había acogido
+  tu: habías acogido
+  vos: habías acogido
+  ud: había acogido
+  nosotros: habíamos acogido
+  vosotros: habíais acogido
+  uds: habían acogido
+futuro-perfecto:
+  yo: habré acogido
+  tu: habrás acogido
+  vos: habrás acogido
+  ud: habrá acogido
+  nosotros: habremos acogido
+  vosotros: habréis acogido
+  uds: habrán acogido
+condicional-perfecto:
+  yo: habría acogido
+  tu: habrías acogido
+  vos: habrías acogido
+  ud: habría acogido
+  nosotros: habríamos acogido
+  vosotros: habríais acogido
+  uds: habrían acogido
+presente-subjuntivo:
+  yo: acoja
+  tu: acojas
+  vos: acojas
+  ud: acoja
+  nosotros: acojamos
+  vosotros: acojáis
+  uds: acojan
+preterito-perfecto-subjuntivo:
+  yo: haya acogido
+  tu: hayas acogido
+  vos: hayas acogido
+  ud: haya acogido
+  nosotros: hayamos acogido
+  vosotros: hayáis acogido
+  uds: hayan acogido
+imperfecto-subjuntivo:
+  yo:
+    - acogiera
+    - acogiese
+  tu:
+    - acogieras
+    - acogieses
+  vos:
+    - acogieras
+    - acogieses
+  ud:
+    - acogiera
+    - acogiese
+  nosotros:
+    - acogiéramos
+    - acogiésemos
+  vosotros:
+    - acogierais
+    - acogieseis
+  uds:
+    - acogieran
+    - acogiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acogido
+    - hubiese acogido
+  tu:
+    - hubieras acogido
+    - hubieses acogido
+  vos:
+    - hubieras acogido
+    - hubieses acogido
+  ud:
+    - hubiera acogido
+    - hubiese acogido
+  nosotros:
+    - hubiéramos acogido
+    - hubiésemos acogido
+  vosotros:
+    - hubierais acogido
+    - hubieseis acogido
+  uds:
+    - hubieran acogido
+    - hubiesen acogido
+imperativo:
+  tu: acoge
+  vos: acogé
+  ud: acoja
+  nosotros: acojamos
+  vosotros: acoged
+  uds: acojan

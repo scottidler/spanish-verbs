@@ -1,0 +1,142 @@
+infinitivo: conectar
+gerundio: conectando
+participio-pasado: conectado
+presente-indicativo:
+  yo: conecto
+  tu: conectas
+  vos: conectas
+  ud: conecta
+  nosotros: conectamos
+  vosotros: conectáis
+  uds: conectan
+preterito-perfecto-simple:
+  yo: conecté
+  tu: conectaste
+  vos: conectaste
+  ud: conectó
+  nosotros: conectamos
+  vosotros: conectasteis
+  uds: conectaron
+preterito-imperfecto:
+  yo: conectaba
+  tu: conectabas
+  vos: conectabas
+  ud: conectaba
+  nosotros: conectábamos
+  vosotros: conectabais
+  uds: conectaban
+futuro-simple:
+  yo: conectaré
+  tu: conectarás
+  vos: conectarás
+  ud: conectará
+  nosotros: conectaremos
+  vosotros: conectaréis
+  uds: conectarán
+condicional-simple:
+  yo: conectaría
+  tu: conectarías
+  vos: conectarías
+  ud: conectaría
+  nosotros: conectaríamos
+  vosotros: conectaríais
+  uds: conectarían
+presente-perfecto:
+  yo: he conectado
+  tu: has conectado
+  vos: has conectado
+  ud: ha conectado
+  nosotros: hemos conectado
+  vosotros: habéis conectado
+  uds: han conectado
+preterito-pluscuamperfecto:
+  yo: había conectado
+  tu: habías conectado
+  vos: habías conectado
+  ud: había conectado
+  nosotros: habíamos conectado
+  vosotros: habíais conectado
+  uds: habían conectado
+futuro-perfecto:
+  yo: habré conectado
+  tu: habrás conectado
+  vos: habrás conectado
+  ud: habrá conectado
+  nosotros: habremos conectado
+  vosotros: habréis conectado
+  uds: habrán conectado
+condicional-perfecto:
+  yo: habría conectado
+  tu: habrías conectado
+  vos: habrías conectado
+  ud: habría conectado
+  nosotros: habríamos conectado
+  vosotros: habríais conectado
+  uds: habrían conectado
+presente-subjuntivo:
+  yo: conecte
+  tu: conectes
+  vos: conectes
+  ud: conecte
+  nosotros: conectemos
+  vosotros: conectéis
+  uds: conecten
+preterito-perfecto-subjuntivo:
+  yo: haya conectado
+  tu: hayas conectado
+  vos: hayas conectado
+  ud: haya conectado
+  nosotros: hayamos conectado
+  vosotros: hayáis conectado
+  uds: hayan conectado
+imperfecto-subjuntivo:
+  yo:
+    - conectara
+    - conectase
+  tu:
+    - conectaras
+    - conectases
+  vos:
+    - conectaras
+    - conectases
+  ud:
+    - conectara
+    - conectase
+  nosotros:
+    - conectáramos
+    - conectásemos
+  vosotros:
+    - conectarais
+    - conectaseis
+  uds:
+    - conectaran
+    - conectasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conectado
+    - hubiese conectado
+  tu:
+    - hubieras conectado
+    - hubieses conectado
+  vos:
+    - hubieras conectado
+    - hubieses conectado
+  ud:
+    - hubiera conectado
+    - hubiese conectado
+  nosotros:
+    - hubiéramos conectado
+    - hubiésemos conectado
+  vosotros:
+    - hubierais conectado
+    - hubieseis conectado
+  uds:
+    - hubieran conectado
+    - hubiesen conectado
+imperativo:
+  tu: conecta
+  vos: conectá
+  ud: conecte
+  nosotros: conectemos
+  vosotros: conectad
+  uds: conecten

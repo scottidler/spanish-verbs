@@ -1,0 +1,142 @@
+infinitivo: adorar
+gerundio: adorando
+participio-pasado: adorado
+presente-indicativo:
+  yo: adoro
+  tu: adoras
+  vos: adoras
+  ud: adora
+  nosotros: adoramos
+  vosotros: adoráis
+  uds: adoran
+preterito-perfecto-simple:
+  yo: adoré
+  tu: adoraste
+  vos: adoraste
+  ud: adoró
+  nosotros: adoramos
+  vosotros: adorasteis
+  uds: adoraron
+preterito-imperfecto:
+  yo: adoraba
+  tu: adorabas
+  vos: adorabas
+  ud: adoraba
+  nosotros: adorábamos
+  vosotros: adorabais
+  uds: adoraban
+futuro-simple:
+  yo: adoraré
+  tu: adorarás
+  vos: adorarás
+  ud: adorará
+  nosotros: adoraremos
+  vosotros: adoraréis
+  uds: adorarán
+condicional-simple:
+  yo: adoraría
+  tu: adorarías
+  vos: adorarías
+  ud: adoraría
+  nosotros: adoraríamos
+  vosotros: adoraríais
+  uds: adorarían
+presente-perfecto:
+  yo: he adorado
+  tu: has adorado
+  vos: has adorado
+  ud: ha adorado
+  nosotros: hemos adorado
+  vosotros: habéis adorado
+  uds: han adorado
+preterito-pluscuamperfecto:
+  yo: había adorado
+  tu: habías adorado
+  vos: habías adorado
+  ud: había adorado
+  nosotros: habíamos adorado
+  vosotros: habíais adorado
+  uds: habían adorado
+futuro-perfecto:
+  yo: habré adorado
+  tu: habrás adorado
+  vos: habrás adorado
+  ud: habrá adorado
+  nosotros: habremos adorado
+  vosotros: habréis adorado
+  uds: habrán adorado
+condicional-perfecto:
+  yo: habría adorado
+  tu: habrías adorado
+  vos: habrías adorado
+  ud: habría adorado
+  nosotros: habríamos adorado
+  vosotros: habríais adorado
+  uds: habrían adorado
+presente-subjuntivo:
+  yo: adore
+  tu: adores
+  vos: adores
+  ud: adore
+  nosotros: adoremos
+  vosotros: adoréis
+  uds: adoren
+preterito-perfecto-subjuntivo:
+  yo: haya adorado
+  tu: hayas adorado
+  vos: hayas adorado
+  ud: haya adorado
+  nosotros: hayamos adorado
+  vosotros: hayáis adorado
+  uds: hayan adorado
+imperfecto-subjuntivo:
+  yo:
+    - adorara
+    - adorase
+  tu:
+    - adoraras
+    - adorases
+  vos:
+    - adoraras
+    - adorases
+  ud:
+    - adorara
+    - adorase
+  nosotros:
+    - adoráramos
+    - adorásemos
+  vosotros:
+    - adorarais
+    - adoraseis
+  uds:
+    - adoraran
+    - adorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera adorado
+    - hubiese adorado
+  tu:
+    - hubieras adorado
+    - hubieses adorado
+  vos:
+    - hubieras adorado
+    - hubieses adorado
+  ud:
+    - hubiera adorado
+    - hubiese adorado
+  nosotros:
+    - hubiéramos adorado
+    - hubiésemos adorado
+  vosotros:
+    - hubierais adorado
+    - hubieseis adorado
+  uds:
+    - hubieran adorado
+    - hubiesen adorado
+imperativo:
+  tu: adora
+  vos: adorá
+  ud: adore
+  nosotros: adoremos
+  vosotros: adorad
+  uds: adoren

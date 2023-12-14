@@ -1,0 +1,142 @@
+infinitivo: figurar
+gerundio: figurando
+participio-pasado: figurado
+presente-indicativo:
+  yo: figuro
+  tu: figuras
+  vos: figuras
+  ud: figura
+  nosotros: figuramos
+  vosotros: figuráis
+  uds: figuran
+preterito-perfecto-simple:
+  yo: figuré
+  tu: figuraste
+  vos: figuraste
+  ud: figuró
+  nosotros: figuramos
+  vosotros: figurasteis
+  uds: figuraron
+preterito-imperfecto:
+  yo: figuraba
+  tu: figurabas
+  vos: figurabas
+  ud: figuraba
+  nosotros: figurábamos
+  vosotros: figurabais
+  uds: figuraban
+futuro-simple:
+  yo: figuraré
+  tu: figurarás
+  vos: figurarás
+  ud: figurará
+  nosotros: figuraremos
+  vosotros: figuraréis
+  uds: figurarán
+condicional-simple:
+  yo: figuraría
+  tu: figurarías
+  vos: figurarías
+  ud: figuraría
+  nosotros: figuraríamos
+  vosotros: figuraríais
+  uds: figurarían
+presente-perfecto:
+  yo: he figurado
+  tu: has figurado
+  vos: has figurado
+  ud: ha figurado
+  nosotros: hemos figurado
+  vosotros: habéis figurado
+  uds: han figurado
+preterito-pluscuamperfecto:
+  yo: había figurado
+  tu: habías figurado
+  vos: habías figurado
+  ud: había figurado
+  nosotros: habíamos figurado
+  vosotros: habíais figurado
+  uds: habían figurado
+futuro-perfecto:
+  yo: habré figurado
+  tu: habrás figurado
+  vos: habrás figurado
+  ud: habrá figurado
+  nosotros: habremos figurado
+  vosotros: habréis figurado
+  uds: habrán figurado
+condicional-perfecto:
+  yo: habría figurado
+  tu: habrías figurado
+  vos: habrías figurado
+  ud: habría figurado
+  nosotros: habríamos figurado
+  vosotros: habríais figurado
+  uds: habrían figurado
+presente-subjuntivo:
+  yo: figure
+  tu: figures
+  vos: figures
+  ud: figure
+  nosotros: figuremos
+  vosotros: figuréis
+  uds: figuren
+preterito-perfecto-subjuntivo:
+  yo: haya figurado
+  tu: hayas figurado
+  vos: hayas figurado
+  ud: haya figurado
+  nosotros: hayamos figurado
+  vosotros: hayáis figurado
+  uds: hayan figurado
+imperfecto-subjuntivo:
+  yo:
+    - figurara
+    - figurase
+  tu:
+    - figuraras
+    - figurases
+  vos:
+    - figuraras
+    - figurases
+  ud:
+    - figurara
+    - figurase
+  nosotros:
+    - figuráramos
+    - figurásemos
+  vosotros:
+    - figurarais
+    - figuraseis
+  uds:
+    - figuraran
+    - figurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera figurado
+    - hubiese figurado
+  tu:
+    - hubieras figurado
+    - hubieses figurado
+  vos:
+    - hubieras figurado
+    - hubieses figurado
+  ud:
+    - hubiera figurado
+    - hubiese figurado
+  nosotros:
+    - hubiéramos figurado
+    - hubiésemos figurado
+  vosotros:
+    - hubierais figurado
+    - hubieseis figurado
+  uds:
+    - hubieran figurado
+    - hubiesen figurado
+imperativo:
+  tu: figura
+  vos: figurá
+  ud: figure
+  nosotros: figuremos
+  vosotros: figurad
+  uds: figuren

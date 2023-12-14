@@ -1,0 +1,142 @@
+infinitivo: habitar
+gerundio: habitando
+participio-pasado: habitado
+presente-indicativo:
+  yo: habito
+  tu: habitas
+  vos: habitas
+  ud: habita
+  nosotros: habitamos
+  vosotros: habitáis
+  uds: habitan
+preterito-perfecto-simple:
+  yo: habitué
+  tu: habitaste
+  vos: habitaste
+  ud: habitó
+  nosotros: habitamos
+  vosotros: habitasteis
+  uds: habitaron
+preterito-imperfecto:
+  yo: habitaba
+  tu: habitabas
+  vos: habitabas
+  ud: habitaba
+  nosotros: habitábamos
+  vosotros: habitabais
+  uds: habitaban
+futuro-simple:
+  yo: habitaré
+  tu: habitarás
+  vos: habitarás
+  ud: habitará
+  nosotros: habitaremos
+  vosotros: habitaréis
+  uds: habitarán
+condicional-simple:
+  yo: habitaría
+  tu: habitarías
+  vos: habitarías
+  ud: habitaría
+  nosotros: habitaríamos
+  vosotros: habitaríais
+  uds: habitarían
+presente-perfecto:
+  yo: he habitado
+  tu: has habitado
+  vos: has habitado
+  ud: ha habitado
+  nosotros: hemos habitado
+  vosotros: habéis habitado
+  uds: han habitado
+preterito-pluscuamperfecto:
+  yo: había habitado
+  tu: habías habitado
+  vos: habías habitado
+  ud: había habitado
+  nosotros: habíamos habitado
+  vosotros: habíais habitado
+  uds: habían habitado
+futuro-perfecto:
+  yo: habré habitado
+  tu: habrás habitado
+  vos: habrás habitado
+  ud: habrá habitado
+  nosotros: habremos habitado
+  vosotros: habréis habitado
+  uds: habrán habitado
+condicional-perfecto:
+  yo: habría habitado
+  tu: habrías habitado
+  vos: habrías habitado
+  ud: habría habitado
+  nosotros: habríamos habitado
+  vosotros: habríais habitado
+  uds: habrían habitado
+presente-subjuntivo:
+  yo: habite
+  tu: habites
+  vos: habites
+  ud: habite
+  nosotros: habitemos
+  vosotros: habitéis
+  uds: habiten
+preterito-perfecto-subjuntivo:
+  yo: haya habitado
+  tu: hayas habitado
+  vos: hayas habitado
+  ud: haya habitado
+  nosotros: hayamos habitado
+  vosotros: hayáis habitado
+  uds: hayan habitado
+imperfecto-subjuntivo:
+  yo:
+    - habitara
+    - habitase
+  tu:
+    - habitaras
+    - habitases
+  vos:
+    - habitaras
+    - habitases
+  ud:
+    - habitara
+    - habitase
+  nosotros:
+    - habitáramos
+    - habitásemos
+  vosotros:
+    - habitarais
+    - habitaseis
+  uds:
+    - habitaran
+    - habitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera habitado
+    - hubiese habitado
+  tu:
+    - hubieras habitado
+    - hubieses habitado
+  vos:
+    - hubieras habitado
+    - hubieses habitado
+  ud:
+    - hubiera habitado
+    - hubiese habitado
+  nosotros:
+    - hubiéramos habitado
+    - hubiésemos habitado
+  vosotros:
+    - hubierais habitado
+    - hubieseis habitado
+  uds:
+    - hubieran habitado
+    - hubiesen habitado
+imperativo:
+  tu: habita
+  vos: habitá
+  ud: habite
+  nosotros: habitemos
+  vosotros: habitad
+  uds: habiten

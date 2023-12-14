@@ -1,0 +1,142 @@
+infinitivo: sanar
+gerundio: sanando
+participio-pasado: sanado
+presente-indicativo:
+  yo: sano
+  tu: sanas
+  vos: sanas
+  ud: sana
+  nosotros: sanamos
+  vosotros: sanáis
+  uds: sanan
+preterito-perfecto-simple:
+  yo: sané
+  tu: sanaste
+  vos: sanaste
+  ud: sanó
+  nosotros: sanamos
+  vosotros: sanasteis
+  uds: sanaron
+preterito-imperfecto:
+  yo: sanaba
+  tu: sanabas
+  vos: sanabas
+  ud: sanaba
+  nosotros: sanábamos
+  vosotros: sanabais
+  uds: sanaban
+futuro-simple:
+  yo: sanaré
+  tu: sanarás
+  vos: sanarás
+  ud: sanará
+  nosotros: sanaremos
+  vosotros: sanaréis
+  uds: sanarán
+condicional-simple:
+  yo: sanaría
+  tu: sanarías
+  vos: sanarías
+  ud: sanaría
+  nosotros: sanaríamos
+  vosotros: sanaríais
+  uds: sanarían
+presente-perfecto:
+  yo: he sanado
+  tu: has sanado
+  vos: has sanado
+  ud: ha sanado
+  nosotros: hemos sanado
+  vosotros: habéis sanado
+  uds: han sanado
+preterito-pluscuamperfecto:
+  yo: había sanado
+  tu: habías sanado
+  vos: habías sanado
+  ud: había sanado
+  nosotros: habíamos sanado
+  vosotros: habíais sanado
+  uds: habían sanado
+futuro-perfecto:
+  yo: habré sanado
+  tu: habrás sanado
+  vos: habrás sanado
+  ud: habrá sanado
+  nosotros: habremos sanado
+  vosotros: habréis sanado
+  uds: habrán sanado
+condicional-perfecto:
+  yo: habría sanado
+  tu: habrías sanado
+  vos: habrías sanado
+  ud: habría sanado
+  nosotros: habríamos sanado
+  vosotros: habríais sanado
+  uds: habrían sanado
+presente-subjuntivo:
+  yo: sane
+  tu: sanes
+  vos: sanes
+  ud: sane
+  nosotros: sanemos
+  vosotros: sanéis
+  uds: sanen
+preterito-perfecto-subjuntivo:
+  yo: haya sanado
+  tu: hayas sanado
+  vos: hayas sanado
+  ud: haya sanado
+  nosotros: hayamos sanado
+  vosotros: hayáis sanado
+  uds: hayan sanado
+imperfecto-subjuntivo:
+  yo:
+    - sanara
+    - sanase
+  tu:
+    - sanaras
+    - sanases
+  vos:
+    - sanaras
+    - sanases
+  ud:
+    - sanara
+    - sanase
+  nosotros:
+    - sanáramos
+    - sanásemos
+  vosotros:
+    - sanarais
+    - sanaseis
+  uds:
+    - sanaran
+    - sanasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sanado
+    - hubiese sanado
+  tu:
+    - hubieras sanado
+    - hubieses sanado
+  vos:
+    - hubieras sanado
+    - hubieses sanado
+  ud:
+    - hubiera sanado
+    - hubiese sanado
+  nosotros:
+    - hubiéramos sanado
+    - hubiésemos sanado
+  vosotros:
+    - hubierais sanado
+    - hubieseis sanado
+  uds:
+    - hubieran sanado
+    - hubiesen sanado
+imperativo:
+  tu: sana
+  vos: saná
+  ud: sane
+  nosotros: sanemos
+  vosotros: sanad
+  uds: sanen

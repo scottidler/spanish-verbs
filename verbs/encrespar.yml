@@ -1,0 +1,142 @@
+infinitivo: encrespar
+gerundio: encrespando
+participio-pasado: encrespado
+presente-indicativo:
+  yo: encrespo
+  tu: encrespas
+  vos: encrespas
+  ud: encrespa
+  nosotros: encrespamos
+  vosotros: encrespáis
+  uds: encrespan
+preterito-perfecto-simple:
+  yo: encrespé
+  tu: encrespaste
+  vos: encrespaste
+  ud: encrespó
+  nosotros: encrespamos
+  vosotros: encrespasteis
+  uds: encresparon
+preterito-imperfecto:
+  yo: encrespaba
+  tu: encrespabas
+  vos: encrespabas
+  ud: encrespaba
+  nosotros: encrespábamos
+  vosotros: encrespabais
+  uds: encrespaban
+futuro-simple:
+  yo: encresparé
+  tu: encresparás
+  vos: encresparás
+  ud: encrespará
+  nosotros: encresparemos
+  vosotros: encresparéis
+  uds: encresparán
+condicional-simple:
+  yo: encresparía
+  tu: encresparías
+  vos: encresparías
+  ud: encresparía
+  nosotros: encresparíamos
+  vosotros: encresparíais
+  uds: encresparían
+presente-perfecto:
+  yo: he encrespado
+  tu: has encrespado
+  vos: has encrespado
+  ud: ha encrespado
+  nosotros: hemos encrespado
+  vosotros: habéis encrespado
+  uds: han encrespado
+preterito-pluscuamperfecto:
+  yo: había encrespado
+  tu: habías encrespado
+  vos: habías encrespado
+  ud: había encrespado
+  nosotros: habíamos encrespado
+  vosotros: habíais encrespado
+  uds: habían encrespado
+futuro-perfecto:
+  yo: habré encrespado
+  tu: habrás encrespado
+  vos: habrás encrespado
+  ud: habrá encrespado
+  nosotros: habremos encrespado
+  vosotros: habréis encrespado
+  uds: habrán encrespado
+condicional-perfecto:
+  yo: habría encrespado
+  tu: habrías encrespado
+  vos: habrías encrespado
+  ud: habría encrespado
+  nosotros: habríamos encrespado
+  vosotros: habríais encrespado
+  uds: habrían encrespado
+presente-subjuntivo:
+  yo: encrespe
+  tu: encrespes
+  vos: encrespes
+  ud: encrespe
+  nosotros: encrespemos
+  vosotros: encrespéis
+  uds: encrespen
+preterito-perfecto-subjuntivo:
+  yo: haya encrespado
+  tu: hayas encrespado
+  vos: hayas encrespado
+  ud: haya encrespado
+  nosotros: hayamos encrespado
+  vosotros: hayáis encrespado
+  uds: hayan encrespado
+imperfecto-subjuntivo:
+  yo:
+    - encrespara
+    - encrespase
+  tu:
+    - encresparas
+    - encrespases
+  vos:
+    - encresparas
+    - encrespases
+  ud:
+    - encrespara
+    - encrespase
+  nosotros:
+    - encrespáramos
+    - encrespásemos
+  vosotros:
+    - encresparais
+    - encrespaseis
+  uds:
+    - encresparan
+    - encrespasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encrespado
+    - hubiese encrespado
+  tu:
+    - hubieras encrespado
+    - hubieses encrespado
+  vos:
+    - hubieras encrespado
+    - hubieses encrespado
+  ud:
+    - hubiera encrespado
+    - hubiese encrespado
+  nosotros:
+    - hubiéramos encrespado
+    - hubiésemos encrespado
+  vosotros:
+    - hubierais encrespado
+    - hubieseis encrespado
+  uds:
+    - hubieran encrespado
+    - hubiesen encrespado
+imperativo:
+  tu: encrespa
+  vos: encrespá
+  ud: encrespe
+  nosotros: encrespemos
+  vosotros: encrespad
+  uds: encrespen

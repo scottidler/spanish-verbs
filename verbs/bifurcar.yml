@@ -1,0 +1,142 @@
+infinitivo: bifurcar
+gerundio: bifurcando
+participio-pasado: bifurcado
+presente-indicativo:
+  yo: bifurco
+  tu: bifurcas
+  vos: bifurcas
+  ud: bifurca
+  nosotros: bifurcamos
+  vosotros: bifurcáis
+  uds: bifurcan
+preterito-perfecto-simple:
+  yo: bifurqué
+  tu: bifurcaste
+  vos: bifurcaste
+  ud: bifurcó
+  nosotros: bifurcamos
+  vosotros: bifurcasteis
+  uds: bifurcaron
+preterito-imperfecto:
+  yo: bifurcaba
+  tu: bifurcabas
+  vos: bifurcabas
+  ud: bifurcaba
+  nosotros: bifurcábamos
+  vosotros: bifurcabais
+  uds: bifurcaban
+futuro-simple:
+  yo: bifurcaré
+  tu: bifurcarás
+  vos: bifurcarás
+  ud: bifurcará
+  nosotros: bifurcaremos
+  vosotros: bifurcaréis
+  uds: bifurcarán
+condicional-simple:
+  yo: bifurcaría
+  tu: bifurcarías
+  vos: bifurcarías
+  ud: bifurcaría
+  nosotros: bifurcaríamos
+  vosotros: bifurcaríais
+  uds: bifurcarían
+presente-perfecto:
+  yo: he bifurcado
+  tu: has bifurcado
+  vos: has bifurcado
+  ud: ha bifurcado
+  nosotros: hemos bifurcado
+  vosotros: habéis bifurcado
+  uds: han bifurcado
+preterito-pluscuamperfecto:
+  yo: había bifurcado
+  tu: habías bifurcado
+  vos: habías bifurcado
+  ud: había bifurcado
+  nosotros: habíamos bifurcado
+  vosotros: habíais bifurcado
+  uds: habían bifurcado
+futuro-perfecto:
+  yo: habré bifurcado
+  tu: habrás bifurcado
+  vos: habrás bifurcado
+  ud: habrá bifurcado
+  nosotros: habremos bifurcado
+  vosotros: habréis bifurcado
+  uds: habrán bifurcado
+condicional-perfecto:
+  yo: habría bifurcado
+  tu: habrías bifurcado
+  vos: habrías bifurcado
+  ud: habría bifurcado
+  nosotros: habríamos bifurcado
+  vosotros: habríais bifurcado
+  uds: habrían bifurcado
+presente-subjuntivo:
+  yo: bifurque
+  tu: bifurques
+  vos: bifurques
+  ud: bifurque
+  nosotros: bifurquemos
+  vosotros: bifurquéis
+  uds: bifurquen
+preterito-perfecto-subjuntivo:
+  yo: haya bifurcado
+  tu: hayas bifurcado
+  vos: hayas bifurcado
+  ud: haya bifurcado
+  nosotros: hayamos bifurcado
+  vosotros: hayáis bifurcado
+  uds: hayan bifurcado
+imperfecto-subjuntivo:
+  yo:
+    - bifurcara
+    - bifurcase
+  tu:
+    - bifurcaras
+    - bifurcases
+  vos:
+    - bifurcaras
+    - bifurcases
+  ud:
+    - bifurcara
+    - bifurcase
+  nosotros:
+    - bifurcáramos
+    - bifurcásemos
+  vosotros:
+    - bifurcarais
+    - bifurcaseis
+  uds:
+    - bifurcaran
+    - bifurcasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bifurcado
+    - hubiese bifurcado
+  tu:
+    - hubieras bifurcado
+    - hubieses bifurcado
+  vos:
+    - hubieras bifurcado
+    - hubieses bifurcado
+  ud:
+    - hubiera bifurcado
+    - hubiese bifurcado
+  nosotros:
+    - hubiéramos bifurcado
+    - hubiésemos bifurcado
+  vosotros:
+    - hubierais bifurcado
+    - hubieseis bifurcado
+  uds:
+    - hubieran bifurcado
+    - hubiesen bifurcado
+imperativo:
+  tu: bifurca
+  vos: bifurcá
+  ud: bifurque
+  nosotros: bifurquemos
+  vosotros: bifurcad
+  uds: bifurquen

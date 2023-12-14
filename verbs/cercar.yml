@@ -1,0 +1,142 @@
+infinitivo: cercar
+gerundio: cercando
+participio-pasado: cercado
+presente-indicativo:
+  yo: cerco
+  tu: cercas
+  vos: cercas
+  ud: cerca
+  nosotros: cercamos
+  vosotros: cercáis
+  uds: cercan
+preterito-perfecto-simple:
+  yo: cerqué
+  tu: cercaste
+  vos: cercaste
+  ud: cercó
+  nosotros: cercamos
+  vosotros: cercasteis
+  uds: cercaron
+preterito-imperfecto:
+  yo: cercaba
+  tu: cercabas
+  vos: cercabas
+  ud: cercaba
+  nosotros: cercábamos
+  vosotros: cercabais
+  uds: cercaban
+futuro-simple:
+  yo: cercaré
+  tu: cercarás
+  vos: cercarás
+  ud: cercará
+  nosotros: cercaremos
+  vosotros: cercaréis
+  uds: cercarán
+condicional-simple:
+  yo: cercaría
+  tu: cercarías
+  vos: cercarías
+  ud: cercaría
+  nosotros: cercaríamos
+  vosotros: cercaríais
+  uds: cercarían
+presente-perfecto:
+  yo: he cercado
+  tu: has cercado
+  vos: has cercado
+  ud: ha cercado
+  nosotros: hemos cercado
+  vosotros: habéis cercado
+  uds: han cercado
+preterito-pluscuamperfecto:
+  yo: había cercado
+  tu: habías cercado
+  vos: habías cercado
+  ud: había cercado
+  nosotros: habíamos cercado
+  vosotros: habíais cercado
+  uds: habían cercado
+futuro-perfecto:
+  yo: habré cercado
+  tu: habrás cercado
+  vos: habrás cercado
+  ud: habrá cercado
+  nosotros: habremos cercado
+  vosotros: habréis cercado
+  uds: habrán cercado
+condicional-perfecto:
+  yo: habría cercado
+  tu: habrías cercado
+  vos: habrías cercado
+  ud: habría cercado
+  nosotros: habríamos cercado
+  vosotros: habríais cercado
+  uds: habrían cercado
+presente-subjuntivo:
+  yo: cercue
+  tu: cercues
+  vos: cercues
+  ud: cercue
+  nosotros: cerquemos
+  vosotros: cercéis
+  uds: cercen
+preterito-perfecto-subjuntivo:
+  yo: haya cercado
+  tu: hayas cercado
+  vos: hayas cercado
+  ud: haya cercado
+  nosotros: hayamos cercado
+  vosotros: hayáis cercado
+  uds: hayan cercado
+imperfecto-subjuntivo:
+  yo:
+    - cercara
+    - cercase
+  tu:
+    - cercaras
+    - cercases
+  vos:
+    - cercaras
+    - cercases
+  ud:
+    - cercara
+    - cercase
+  nosotros:
+    - cercáramos
+    - cercásemos
+  vosotros:
+    - cercarais
+    - cercaseis
+  uds:
+    - cercaran
+    - cercasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cercado
+    - hubiese cercado
+  tu:
+    - hubieras cercado
+    - hubieses cercado
+  vos:
+    - hubieras cercado
+    - hubieses cercado
+  ud:
+    - hubiera cercado
+    - hubiese cercado
+  nosotros:
+    - hubiéramos cercado
+    - hubiésemos cercado
+  vosotros:
+    - hubierais cercado
+    - hubieseis cercado
+  uds:
+    - hubieran cercado
+    - hubiesen cercado
+imperativo:
+  tu: cerca
+  vos: cercá
+  ud: cercue
+  nosotros: cerquemos
+  vosotros: cercad
+  uds: cercen

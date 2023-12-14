@@ -1,0 +1,142 @@
+infinitivo: germinar
+gerundio: germinando
+participio-pasado: germinado
+presente-indicativo:
+  yo: germino
+  tu: germinas
+  vos: germinas
+  ud: germina
+  nosotros: germinamos
+  vosotros: germináis
+  uds: germinan
+preterito-perfecto-simple:
+  yo: germiné
+  tu: germinaste
+  vos: germinaste
+  ud: germinó
+  nosotros: germinamos
+  vosotros: germinasteis
+  uds: germinaron
+preterito-imperfecto:
+  yo: germinaba
+  tu: germinabas
+  vos: germinabas
+  ud: germinaba
+  nosotros: germinábamos
+  vosotros: germinabais
+  uds: germinaban
+futuro-simple:
+  yo: germinaré
+  tu: germinarás
+  vos: germinarás
+  ud: germinará
+  nosotros: germinaremos
+  vosotros: germinaréis
+  uds: germinarán
+condicional-simple:
+  yo: germinaría
+  tu: germinarías
+  vos: germinarías
+  ud: germinaría
+  nosotros: germinaríamos
+  vosotros: germinaríais
+  uds: germinarían
+presente-perfecto:
+  yo: he germinado
+  tu: has germinado
+  vos: has germinado
+  ud: ha germinado
+  nosotros: hemos germinado
+  vosotros: habéis germinado
+  uds: han germinado
+preterito-pluscuamperfecto:
+  yo: había germinado
+  tu: habías germinado
+  vos: habías germinado
+  ud: había germinado
+  nosotros: habíamos germinado
+  vosotros: habíais germinado
+  uds: habían germinado
+futuro-perfecto:
+  yo: habré germinado
+  tu: habrás germinado
+  vos: habrás germinado
+  ud: habrá germinado
+  nosotros: habremos germinado
+  vosotros: habréis germinado
+  uds: habrán germinado
+condicional-perfecto:
+  yo: habría germinado
+  tu: habrías germinado
+  vos: habrías germinado
+  ud: habría germinado
+  nosotros: habríamos germinado
+  vosotros: habríais germinado
+  uds: habrían germinado
+presente-subjuntivo:
+  yo: germine
+  tu: germines
+  vos: germines
+  ud: germine
+  nosotros: germinemos
+  vosotros: germineis
+  uds: germinen
+preterito-perfecto-subjuntivo:
+  yo: haya germinado
+  tu: hayas germinado
+  vos: hayas germinado
+  ud: haya germinado
+  nosotros: hayamos germinado
+  vosotros: hayáis germinado
+  uds: hayan germinado
+imperfecto-subjuntivo:
+  yo:
+    - germinara
+    - germinase
+  tu:
+    - germinaras
+    - germinases
+  vos:
+    - germinaras
+    - germinases
+  ud:
+    - germinara
+    - germinase
+  nosotros:
+    - germináramos
+    - germinásemos
+  vosotros:
+    - germinarais
+    - germinaseis
+  uds:
+    - germinaran
+    - germinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera germinado
+    - hubiese germinado
+  tu:
+    - hubieras germinado
+    - hubieses germinado
+  vos:
+    - hubieras germinado
+    - hubieses germinado
+  ud:
+    - hubiera germinado
+    - hubiese germinado
+  nosotros:
+    - hubiéramos germinado
+    - hubiésemos germinado
+  vosotros:
+    - hubierais germinado
+    - hubieseis germinado
+  uds:
+    - hubieran germinado
+    - hubiesen germinado
+imperativo:
+  tu: germina
+  vos: germiná
+  ud: germine
+  nosotros: germinemos
+  vosotros: germinad
+  uds: germinen

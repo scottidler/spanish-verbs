@@ -1,0 +1,142 @@
+infinitivo: rascarse
+gerundio: rascándose
+participio-pasado: rascado
+presente-indicativo:
+  yo: me rasco
+  tu: te rascas
+  vos: te rascas
+  ud: se rasca
+  nosotros: nos rascamos
+  vosotros: os rascáis
+  uds: se rascan
+preterito-perfecto-simple:
+  yo: me rasqué
+  tu: te rascaste
+  vos: te rascaste
+  ud: se rascó
+  nosotros: nos rascamos
+  vosotros: os rascasteis
+  uds: se rascaron
+preterito-imperfecto:
+  yo: me rascaba
+  tu: te rascabas
+  vos: te rascabas
+  ud: se rascaba
+  nosotros: nos rascábamos
+  vosotros: os rascabais
+  uds: se rascaban
+futuro-simple:
+  yo: me rascaré
+  tu: te rascarás
+  vos: te rascarás
+  ud: se rascará
+  nosotros: nos rascaremos
+  vosotros: os rascaréis
+  uds: se rascarán
+condicional-simple:
+  yo: me rascaría
+  tu: te rascarías
+  vos: te rascarías
+  ud: se rascaría
+  nosotros: nos rascaríamos
+  vosotros: os rascaríais
+  uds: se rascarían
+presente-perfecto:
+  yo: me he rascado
+  tu: te has rascado
+  vos: te has rascado
+  ud: se ha rascado
+  nosotros: nos hemos rascado
+  vosotros: os habéis rascado
+  uds: se han rascado
+preterito-pluscuamperfecto:
+  yo: me había rascado
+  tu: te habías rascado
+  vos: te habías rascado
+  ud: se había rascado
+  nosotros: nos habíamos rascado
+  vosotros: os habíais rascado
+  uds: se habían rascado
+futuro-perfecto:
+  yo: me habré rascado
+  tu: te habrás rascado
+  vos: te habrás rascado
+  ud: se habrá rascado
+  nosotros: nos habremos rascado
+  vosotros: os habréis rascado
+  uds: se habrán rascado
+condicional-perfecto:
+  yo: me habría rascado
+  tu: te habrías rascado
+  vos: te habrías rascado
+  ud: se habría rascado
+  nosotros: nos habríamos rascado
+  vosotros: os habríais rascado
+  uds: se habrían rascado
+presente-subjuntivo:
+  yo: me rasque
+  tu: te rasques
+  vos: te rasques
+  ud: se rasque
+  nosotros: nos rascamos
+  vosotros: os rascáis
+  uds: se rasquen
+preterito-perfecto-subjuntivo:
+  yo: me haya rascado
+  tu: te hayas rascado
+  vos: te hayas rascado
+  ud: se haya rascado
+  nosotros: nos hayamos rascado
+  vosotros: os hayáis rascado
+  uds: se hayan rascado
+imperfecto-subjuntivo:
+  yo:
+    - me rascara
+    - me rascase
+  tu:
+    - te rascaras
+    - te rascases
+  vos:
+    - te rascaras
+    - te rascases
+  ud:
+    - se rascara
+    - se rascase
+  nosotros:
+    - nos rascáramos
+    - nos rascásemos
+  vosotros:
+    - os rascarais
+    - os rascaseis
+  uds:
+    - se rascaran
+    - se rascasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera rascado
+    - me hubiese rascado
+  tu:
+    - te hubieras rascado
+    - te hubieses rascado
+  vos:
+    - te hubieras rascado
+    - te hubieses rascado
+  ud:
+    - se hubiera rascado
+    - se hubiese rascado
+  nosotros:
+    - nos hubiéramos rascado
+    - nos hubiésemos rascado
+  vosotros:
+    - os hubierais rascado
+    - os hubieseis rascado
+  uds:
+    - se hubieran rascado
+    - se hubiesen rascado
+imperativo:
+  tu: rasca-te
+  vos: rasca-te
+  ud: rasque-se
+  nosotros: rasquémonos
+  vosotros: rascad-vosotros
+  uds: rasquen-se

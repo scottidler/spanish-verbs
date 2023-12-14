@@ -1,0 +1,142 @@
+infinitivo: otorgadlar
+gerundio: otorgadlando
+participio-pasado: otorgadlado
+presente-indicativo:
+  yo: otorgadlo
+  tu: otorgadlas
+  vos: otorgadlas
+  ud: otorgadla
+  nosotros: otorgadlamos
+  vosotros: otorgadláis
+  uds: otorgadlan
+preterito-perfecto-simple:
+  yo: otorgadlé
+  tu: otorgadlaste
+  vos: otorgadlaste
+  ud: otorgadló
+  nosotros: otorgadlamos
+  vosotros: otorgadlasteis
+  uds: otorgadlaron
+preterito-imperfecto:
+  yo: otorgadlaba
+  tu: otorgadlabas
+  vos: otorgadlabas
+  ud: otorgadlaba
+  nosotros: otorgadlábamos
+  vosotros: otorgadlabais
+  uds: otorgadlaban
+futuro-simple:
+  yo: otorgadlaré
+  tu: otorgadlarás
+  vos: otorgadlarás
+  ud: otorgadlará
+  nosotros: otorgadlaremos
+  vosotros: otorgadlaréis
+  uds: otorgadlarán
+condicional-simple:
+  yo: otorgadlaría
+  tu: otorgadlarías
+  vos: otorgadlarías
+  ud: otorgadlaría
+  nosotros: otorgadlaríamos
+  vosotros: otorgadlaríais
+  uds: otorgadlarían
+presente-perfecto:
+  yo: he otorgadlado
+  tu: has otorgadlado
+  vos: has otorgadlado
+  ud: ha otorgadlado
+  nosotros: hemos otorgadlado
+  vosotros: habéis otorgadlado
+  uds: han otorgadlado
+preterito-pluscuamperfecto:
+  yo: había otorgadlado
+  tu: habías otorgadlado
+  vos: habías otorgadlado
+  ud: había otorgadlado
+  nosotros: habíamos otorgadlado
+  vosotros: habíais otorgadlado
+  uds: habían otorgadlado
+futuro-perfecto:
+  yo: habré otorgadlado
+  tu: habrás otorgadlado
+  vos: habrás otorgadlado
+  ud: habrá otorgadlado
+  nosotros: habremos otorgadlado
+  vosotros: habréis otorgadlado
+  uds: habrán otorgadlado
+condicional-perfecto:
+  yo: habría otorgadlado
+  tu: habrías otorgadlado
+  vos: habrías otorgadlado
+  ud: habría otorgadlado
+  nosotros: habríamos otorgadlado
+  vosotros: habríais otorgadlado
+  uds: habrían otorgadlado
+presente-subjuntivo:
+  yo: otorgadle
+  tu: otorgadles
+  vos: otorgadles
+  ud: otorgadle
+  nosotros: otorgadlemos
+  vosotros: otorgadléis
+  uds: otorgadlen
+preterito-perfecto-subjuntivo:
+  yo: haya otorgadlado
+  tu: hayas otorgadlado
+  vos: hayas otorgadlado
+  ud: haya otorgadlado
+  nosotros: hayamos otorgadlado
+  vosotros: hayáis otorgadlado
+  uds: hayan otorgadlado
+imperfecto-subjuntivo:
+  yo:
+    - otorgadlara
+    - otorgadlase
+  tu:
+    - otorgadaras
+    - otorgadases
+  vos:
+    - otorgadaras
+    - otorgadases
+  ud:
+    - otorgadlara
+    - otorgadlase
+  nosotros:
+    - otorgadláramos
+    - otorgadlásemos
+  vosotros:
+    - otorgadarais
+    - otorgadaseis
+  uds:
+    - otorgadlaran
+    - otorgadasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera otorgadlado
+    - hubiese otorgadlado
+  tu:
+    - hubieras otorgadlado
+    - hubieses otorgadlado
+  vos:
+    - hubieras otorgadlado
+    - hubieses otorgadlado
+  ud:
+    - hubiera otorgadlado
+    - hubiese otorgadlado
+  nosotros:
+    - hubiéramos otorgadlado
+    - hubiésemos otorgadlado
+  vosotros:
+    - hubierais otorgadlado
+    - hubieseis otorgadlado
+  uds:
+    - hubieran otorgadlado
+    - hubiesen otorgadlado
+imperativo:
+  tu: otorgadla
+  vos: otorgadlá
+  ud: otorgadla
+  nosotros: otorgadlamos
+  vosotros: otorgadlad
+  uds: otorgadlan

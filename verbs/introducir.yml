@@ -1,0 +1,142 @@
+infinitivo: introducir
+gerundio: introduciendo
+participio-pasado: introducido
+presente-indicativo:
+  yo: introduzco
+  tu: introduces
+  vos: introduces
+  ud: introduce
+  nosotros: introducimos
+  vosotros: introducís
+  uds: introducen
+preterito-perfecto-simple:
+  yo: introduje
+  tu: introdujiste
+  vos: introdujiste
+  ud: introdujo
+  nosotros: introdujimos
+  vosotros: introdujisteis
+  uds: introdujeron
+preterito-imperfecto:
+  yo: introducía
+  tu: introducías
+  vos: introducías
+  ud: introducía
+  nosotros: introducíamos
+  vosotros: introducíais
+  uds: introducían
+futuro-simple:
+  yo: introduciré
+  tu: introducirás
+  vos: introducirás
+  ud: introducirá
+  nosotros: introduciremos
+  vosotros: introduciréis
+  uds: introducirán
+condicional-simple:
+  yo: introduciría
+  tu: introducirías
+  vos: introducirías
+  ud: introduciría
+  nosotros: introduciríamos
+  vosotros: introduciríais
+  uds: introducirían
+presente-perfecto:
+  yo: he introducido
+  tu: has introducido
+  vos: has introducido
+  ud: ha introducido
+  nosotros: hemos introducido
+  vosotros: habéis introducido
+  uds: han introducido
+preterito-pluscuamperfecto:
+  yo: había introducido
+  tu: habías introducido
+  vos: habías introducido
+  ud: había introducido
+  nosotros: habíamos introducido
+  vosotros: habíais introducido
+  uds: habían introducido
+futuro-perfecto:
+  yo: habré introducido
+  tu: habrás introducido
+  vos: habrás introducido
+  ud: habrá introducido
+  nosotros: habremos introducido
+  vosotros: habréis introducido
+  uds: habrán introducido
+condicional-perfecto:
+  yo: habría introducido
+  tu: habrías introducido
+  vos: habrías introducido
+  ud: habría introducido
+  nosotros: habríamos introducido
+  vosotros: habríais introducido
+  uds: habrían introducido
+presente-subjuntivo:
+  yo: introduzca
+  tu: introduzcas
+  vos: introduzcas
+  ud: introduzca
+  nosotros: introduzcamos
+  vosotros: introduzcáis
+  uds: introduzcan
+preterito-perfecto-subjuntivo:
+  yo: haya introducido
+  tu: hayas introducido
+  vos: hayas introducido
+  ud: haya introducido
+  nosotros: hayamos introducido
+  vosotros: hayáis introducido
+  uds: hayan introducido
+imperfecto-subjuntivo:
+  yo:
+    - introdujera
+    - introdujese
+  tu:
+    - introdujeras
+    - introdujeses
+  vos:
+    - introdujeras
+    - introdujeses
+  ud:
+    - introdujera
+    - introdujese
+  nosotros:
+    - introdujéramos
+    - introdujésemos
+  vosotros:
+    - introdujerais
+    - introdujeseis
+  uds:
+    - introdujeran
+    - introdujesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera introducido
+    - hubiese introducido
+  tu:
+    - hubieras introducido
+    - hubieses introducido
+  vos:
+    - hubieras introducido
+    - hubieses introducido
+  ud:
+    - hubiera introducido
+    - hubiese introducido
+  nosotros:
+    - hubiéramos introducido
+    - hubiésemos introducido
+  vosotros:
+    - hubierais introducido
+    - hubieseis introducido
+  uds:
+    - hubieran introducido
+    - hubiesen introducido
+imperativo:
+  tu: introduce
+  vos: introducí
+  ud: introduzca
+  nosotros: introduzcamos
+  vosotros: introducid
+  uds: introduzcan

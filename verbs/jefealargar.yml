@@ -1,0 +1,142 @@
+infinitivo: jefealargar
+gerundio: jefealargando
+participio-pasado: jefealargado
+presente-indicativo:
+  yo: me jefeoalargo
+  tu: te jefeoalargas
+  vos: te jefeoalargas
+  ud: se jefeoalarga
+  nosotros: nos jefeoalargamos
+  vosotros: os jefeoalargáis
+  uds: se jefeoalargan
+preterito-perfecto-simple:
+  yo: me jefeoalargué
+  tu: te jefeoalargaste
+  vos: te jefeoalargaste
+  ud: se jefeoalargó
+  nosotros: nos jefeoalargamos
+  vosotros: os jefeoalargasteis
+  uds: se jefeoalargaron
+preterito-imperfecto:
+  yo: me jefeoalargaba
+  tu: te jefeoalargabas
+  vos: te jefeoalargabas
+  ud: se jefeoalargaba
+  nosotros: nos jefeoalargábamos
+  vosotros: os jefeoalargabais
+  uds: se jefeoalargaban
+futuro-simple:
+  yo: me jefeoalargaré
+  tu: te jefeoalargarás
+  vos: te jefeoalargarás
+  ud: se jefeoalargará
+  nosotros: nos jefeoalargaremos
+  vosotros: os jefeoalargaréis
+  uds: se jefeoalargarán
+condicional-simple:
+  yo: me jefeoalargaría
+  tu: te jefeoalargarías
+  vos: te jefeoalargarías
+  ud: se jefeoalargaría
+  nosotros: nos jefeoalargaríamos
+  vosotros: os jefeoalargaríais
+  uds: se jefeoalargarían
+presente-perfecto:
+  yo: me he jefealargado
+  tu: te has jefealargado
+  vos: te has jefealargado
+  ud: se ha jefealargado
+  nosotros: nos hemos jefealargado
+  vosotros: os habéis jefealargado
+  uds: se han jefealargado
+preterito-pluscuamperfecto:
+  yo: me había jefealargado
+  tu: te habías jefealargado
+  vos: te habías jefealargado
+  ud: se había jefealargado
+  nosotros: nos habíamos jefealargado
+  vosotros: os habíais jefealargado
+  uds: se habían jefealargado
+futuro-perfecto:
+  yo: me habré jefealargado
+  tu: te habrás jefealargado
+  vos: te habrás jefealargado
+  ud: se habrá jefealargado
+  nosotros: nos habremos jefealargado
+  vosotros: os habréis jefealargado
+  uds: se habrán jefealargado
+condicional-perfecto:
+  yo: me habría jefealargado
+  tu: te habrías jefealargado
+  vos: te habrías jefealargado
+  ud: se habría jefealargado
+  nosotros: nos habríamos jefealargado
+  vosotros: os habríais jefealargado
+  uds: se habrían jefealargado
+presente-subjuntivo:
+  yo: me jefealargue
+  tu: te jefealargues
+  vos: te jefealargues
+  ud: se jefealargue
+  nosotros: nos jefealarguemos
+  vosotros: os jefealarguéis
+  uds: se jefealarguen
+preterito-perfecto-subjuntivo:
+  yo: me haya jefealargado
+  tu: te hayas jefealargado
+  vos: te hayas jefealargado
+  ud: se haya jefealargado
+  nosotros: nos hayamos jefealargado
+  vosotros: os hayáis jefealargado
+  uds: se hayan jefealargado
+imperfecto-subjuntivo:
+  yo:
+    - me jefealargara
+    - me jefealargase
+  tu:
+    - te jefealargaras
+    - te jefealargases
+  vos:
+    - te jefealargaras
+    - te jefealargases
+  ud:
+    - se jefealargara
+    - se jefealargase
+  nosotros:
+    - nos jefealargáramos
+    - nos jefealargásemos
+  vosotros:
+    - os jefealargarais
+    - os jefealargaseis
+  uds:
+    - se jefealargaran
+    - se jefealargasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera jefealargado
+    - me hubiese jefealargado
+  tu:
+    - te hubieras jefealargado
+    - te hubieses jefealargado
+  vos:
+    - te hubieras jefealargado
+    - te hubieses jefealargado
+  ud:
+    - se hubiera jefealargado
+    - se hubiese jefealargado
+  nosotros:
+    - nos hubiéramos jefealargado
+    - nos hubiésemos jefealargado
+  vosotros:
+    - os hubierais jefealargado
+    - os hubieseis jefealargado
+  uds:
+    - se hubieran jefealargado
+    - se hubiesen jefealargado
+imperativo:
+  tu: jefealarga
+  vos: jefealargá
+  ud: jefealargue
+  nosotros: jefealarguemos
+  vosotros: jefealargad
+  uds: jefealarguen

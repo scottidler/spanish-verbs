@@ -1,0 +1,142 @@
+infinitivo: compadecer
+gerundio: compadeciendo
+participio-pasado: compadecido
+presente-indicativo:
+  yo: compadezco
+  tu: compadeces
+  vos: compadeces
+  ud: compadece
+  nosotros: compadecemos
+  vosotros: compadecéis
+  uds: compadecen
+preterito-perfecto-simple:
+  yo: compadecí
+  tu: compadeciste
+  vos: compadeciste
+  ud: compadeció
+  nosotros: compadecimos
+  vosotros: compadecisteis
+  uds: compadecieron
+preterito-imperfecto:
+  yo: compadecía
+  tu: compadecías
+  vos: compadecías
+  ud: compadecía
+  nosotros: compadecíamos
+  vosotros: compadecíais
+  uds: compadecían
+futuro-simple:
+  yo: compadeceré
+  tu: compadecerás
+  vos: compadecerás
+  ud: compadecerá
+  nosotros: compadeceremos
+  vosotros: compadeceréis
+  uds: compadecerán
+condicional-simple:
+  yo: compadecería
+  tu: compadecerías
+  vos: compadecerías
+  ud: compadecería
+  nosotros: compadeceríamos
+  vosotros: compadeceríais
+  uds: compadecerían
+presente-perfecto:
+  yo: he compadecido
+  tu: has compadecido
+  vos: has compadecido
+  ud: ha compadecido
+  nosotros: hemos compadecido
+  vosotros: habéis compadecido
+  uds: han compadecido
+preterito-pluscuamperfecto:
+  yo: había compadecido
+  tu: habías compadecido
+  vos: habías compadecido
+  ud: había compadecido
+  nosotros: habíamos compadecido
+  vosotros: habíais compadecido
+  uds: habían compadecido
+futuro-perfecto:
+  yo: habré compadecido
+  tu: habrás compadecido
+  vos: habrás compadecido
+  ud: habrá compadecido
+  nosotros: habremos compadecido
+  vosotros: habréis compadecido
+  uds: habrán compadecido
+condicional-perfecto:
+  yo: habría compadecido
+  tu: habrías compadecido
+  vos: habrías compadecido
+  ud: habría compadecido
+  nosotros: habríamos compadecido
+  vosotros: habríais compadecido
+  uds: habrían compadecido
+presente-subjuntivo:
+  yo: compadezca
+  tu: compadezcas
+  vos: compadezcas
+  ud: compadezca
+  nosotros: compadezcamos
+  vosotros: compadezcáis
+  uds: compadezcan
+preterito-perfecto-subjuntivo:
+  yo: haya compadecido
+  tu: hayas compadecido
+  vos: hayas compadecido
+  ud: haya compadecido
+  nosotros: hayamos compadecido
+  vosotros: hayáis compadecido
+  uds: hayan compadecido
+imperfecto-subjuntivo:
+  yo:
+    - compadeciera
+    - compadeciese
+  tu:
+    - compadecieras
+    - compadecieses
+  vos:
+    - compadecieras
+    - compadecieses
+  ud:
+    - compadeciera
+    - compadeciese
+  nosotros:
+    - compadeciéramos
+    - compadeciésemos
+  vosotros:
+    - compadecierais
+    - compadecieseis
+  uds:
+    - compadecieran
+    - compadeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera compadecido
+    - hubiese compadecido
+  tu:
+    - hubieras compadecido
+    - hubieses compadecido
+  vos:
+    - hubieras compadecido
+    - hubieses compadecido
+  ud:
+    - hubiera compadecido
+    - hubiese compadecido
+  nosotros:
+    - hubiéramos compadecido
+    - hubiésemos compadecido
+  vosotros:
+    - hubierais compadecido
+    - hubieseis compadecido
+  uds:
+    - hubieran compadecido
+    - hubiesen compadecido
+imperativo:
+  tu: compadece
+  vos: compadece
+  ud: compadezca
+  nosotros: compadezcamos
+  vosotros: compadeced
+  uds: compadezcan

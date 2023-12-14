@@ -1,0 +1,156 @@
+infinitivo: bautizar
+gerundio: bautizando
+participio-pasado: bautizado
+
+presente-indicativo:
+  yo: bautizo
+  tu: bautizas
+  vos: bautizas
+  ud: bautiza
+  nosotros: bautizamos
+  vosotros: bautizáis
+  uds: bautizan
+
+preterito-perfecto-simple:
+  yo: bauticé
+  tu: bautizaste
+  vos: bautizaste
+  ud: bautizó
+  nosotros: bautizamos
+  vosotros: bautizasteis
+  uds: bautizaron
+
+preterito-imperfecto:
+  yo: bautizaba
+  tu: bautizabas
+  vos: bautizabas
+  ud: bautizaba
+  nosotros: bautizábamos
+  vosotros: bautizabais
+  uds: bautizaban
+
+futuro-simple:
+  yo: bautizaré
+  tu: bautizarás
+  vos: bautizarás
+  ud: bautizará
+  nosotros: bautizaremos
+  vosotros: bautizaréis
+  uds: bautizarán
+
+condicional-simple:
+  yo: bautizaría
+  tu: bautizarías
+  vos: bautizarías
+  ud: bautizaría
+  nosotros: bautizaríamos
+  vosotros: bautizaríais
+  uds: bautizarían
+
+presente-perfecto:
+  yo: he bautizado
+  tu: has bautizado
+  vos: has bautizado
+  ud: ha bautizado
+  nosotros: hemos bautizado
+  vosotros: habéis bautizado
+  uds: han bautizado
+
+preterito-pluscuamperfecto:
+  yo: había bautizado
+  tu: habías bautizado
+  vos: habías bautizado
+  ud: había bautizado
+  nosotros: habíamos bautizado
+  vosotros: habíais bautizado
+  uds: habían bautizado
+
+futuro-perfecto:
+  yo: habré bautizado
+  tu: habrás bautizado
+  vos: habrás bautizado
+  ud: habrá bautizado
+  nosotros: habremos bautizado
+  vosotros: habréis bautizado
+  uds: habrán bautizado
+
+condicional-perfecto:
+  yo: habría bautizado
+  tu: habrías bautizado
+  vos: habrías bautizado
+  ud: habría bautizado
+  nosotros: habríamos bautizado
+  vosotros: habríais bautizado
+  uds: habrían bautizado
+
+presente-subjuntivo:
+  yo: bautice
+  tu: bautices
+  vos: bautices
+  ud: bautice
+  nosotros: bauticemos
+  vosotros: bauticéis
+  uds: bauticen
+
+preterito-perfecto-subjuntivo:
+  yo: haya bautizado
+  tu: hayas bautizado
+  vos: hayas bautizado
+  ud: haya bautizado
+  nosotros: hayamos bautizado
+  vosotros: hayáis bautizado
+  uds: hayan bautizado
+
+imperfecto-subjuntivo:
+  yo:
+    - bautizara
+    - bautizase
+  tu:
+    - bautizaras
+    - bautizases
+  vos:
+    - bautizaras
+    - bautizases
+  ud:
+    - bautizara
+    - bautizase
+  nosotros:
+    - bautizáramos
+    - bautizásemos
+  vosotros:
+    - bautizarais
+    - bautizaseis
+  uds:
+    - bautizaran
+    - bautizasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bautizado
+    - hubiese bautizado
+  tu:
+    - hubieras bautizado
+    - hubieses bautizado
+  vos:
+    - hubieras bautizado
+    - hubieses bautizado
+  ud:
+    - hubiera bautizado
+    - hubiese bautizado
+  nosotros:
+    - hubiéramos bautizado
+    - hubiésemos bautizado
+  vosotros:
+    - hubierais bautizado
+    - hubieseis bautizado
+  uds:
+    - hubieran bautizado
+    - hubiesen bautizado
+
+imperativo:
+  tu: bautiza
+  vos: bautizá
+  ud: bautice
+  nosotros: bauticemos
+  vosotros: bautizad
+  uds: bauticen

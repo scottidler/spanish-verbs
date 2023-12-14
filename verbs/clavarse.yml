@@ -1,0 +1,142 @@
+infinitivo: clavarse
+gerundio: clavándose
+participio-pasado: clavado
+presente-indicativo:
+  yo: me clavo
+  tu: te clavas
+  vos: te clavas
+  ud: se clava
+  nosotros: nos clavamos
+  vosotros: os claváis
+  uds: se clavan
+preterito-perfecto-simple:
+  yo: me clavé
+  tu: te clavaste
+  vos: te clavaste
+  ud: se clavó
+  nosotros: nos clavamos
+  vosotros: os clavasteis
+  uds: se clavaron
+preterito-imperfecto:
+  yo: me clavaba
+  tu: te clavabas
+  vos: te clavabas
+  ud: se clavaba
+  nosotros: nos clavábamos
+  vosotros: os clavabais
+  uds: se clavaban
+futuro-simple:
+  yo: me clavaré
+  tu: te clavarás
+  vos: te clavarás
+  ud: se clavará
+  nosotros: nos clavaremos
+  vosotros: os clavaréis
+  uds: se clavarán
+condicional-simple:
+  yo: me clavaría
+  tu: te clavarías
+  vos: te clavarías
+  ud: se clavaría
+  nosotros: nos clavaríamos
+  vosotros: os clavaríais
+  uds: se clavarían
+presente-perfecto:
+  yo: me he clavado
+  tu: te has clavado
+  vos: te has clavado
+  ud: se ha clavado
+  nosotros: nos hemos clavado
+  vosotros: os habéis clavado
+  uds: se han clavado
+preterito-pluscuamperfecto:
+  yo: me había clavado
+  tu: te habías clavado
+  vos: te habías clavado
+  ud: se había clavado
+  nosotros: nos habíamos clavado
+  vosotros: os habíais clavado
+  uds: se habían clavado
+futuro-perfecto:
+  yo: me habré clavado
+  tu: te habrás clavado
+  vos: te habrás clavado
+  ud: se habrá clavado
+  nosotros: nos habremos clavado
+  vosotros: os habréis clavado
+  uds: se habrán clavado
+condicional-perfecto:
+  yo: me habría clavado
+  tu: te habrías clavado
+  vos: te habrías clavado
+  ud: se habría clavado
+  nosotros: nos habríamos clavado
+  vosotros: os habríais clavado
+  uds: se habrían clavado
+presente-subjuntivo:
+  yo: me clave
+  tu: te claves
+  vos: te claves
+  ud: se clave
+  nosotros: nos clavemos
+  vosotros: os clavéis
+  uds: se claven
+preterito-perfecto-subjuntivo:
+  yo: me haya clavado
+  tu: te hayas clavado
+  vos: te hayas clavado
+  ud: se haya clavado
+  nosotros: nos hayamos clavado
+  vosotros: os hayáis clavado
+  uds: se hayan clavado
+imperfecto-subjuntivo:
+  yo:
+    - me clavara
+    - me clavase
+  tu:
+    - te clavaras
+    - te clavases
+  vos:
+    - te clavaras
+    - te clavases
+  ud:
+    - se clavara
+    - se clavase
+  nosotros:
+    - nos claváramos
+    - nos clavásemos
+  vosotros:
+    - os clavarais
+    - os clavaseis
+  uds:
+    - se clavaran
+    - se clavasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera clavado
+    - me hubiese clavado
+  tu:
+    - te hubieras clavado
+    - te hubieses clavado
+  vos:
+    - te hubieras clavado
+    - te hubieses clavado
+  ud:
+    - se hubiera clavado
+    - se hubiese clavado
+  nosotros:
+    - nos hubiéramos clavado
+    - nos hubiésemos clavado
+  vosotros:
+    - os hubierais clavado
+    - os hubieseis clavado
+  uds:
+    - se hubieran clavado
+    - se hubiesen clavado
+imperativo:
+  tu: clávate
+  vos: clávate
+  ud: clávese
+  nosotros: clavémonos
+  vosotros: clavaos
+  uds: clávense

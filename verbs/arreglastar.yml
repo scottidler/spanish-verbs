@@ -1,0 +1,142 @@
+infinitivo: arreglastar
+gerundio: arreglastando
+participio-pasado: arreglastado
+presente-indicativo:
+  yo: arreglasto
+  tu: arreglastas
+  vos: arreglastas
+  ud: arreglasta
+  nosotros: arreglastamos
+  vosotros: arreglastáis
+  uds: arreglastan
+preterito-perfecto-simple:
+  yo: arreglasté
+  tu: arreglastaste
+  vos: arreglastaste
+  ud: arreglastó
+  nosotros: arreglastamos
+  vosotros: arreglastasteis
+  uds: arreglastaron
+preterito-imperfecto:
+  yo: arreglastaba
+  tu: arreglastabas
+  vos: arreglastabas
+  ud: arreglastaba
+  nosotros: arreglastábamos
+  vosotros: arreglastabais
+  uds: arreglastaban
+futuro-simple:
+  yo: arreglastaré
+  tu: arreglastarás
+  vos: arreglastarás
+  ud: arreglastará
+  nosotros: arreglastaremos
+  vosotros: arreglastaréis
+  uds: arreglastarán
+condicional-simple:
+  yo: arreglastaría
+  tu: arreglastarías
+  vos: arreglastarías
+  ud: arreglastaría
+  nosotros: arreglastaríamos
+  vosotros: arreglastaríais
+  uds: arreglastarían
+presente-perfecto:
+  yo: he arreglastado
+  tu: has arreglastado
+  vos: has arreglastado
+  ud: ha arreglastado
+  nosotros: hemos arreglastado
+  vosotros: habéis arreglastado
+  uds: han arreglastado
+preterito-pluscuamperfecto:
+  yo: había arreglastado
+  tu: habías arreglastado
+  vos: habías arreglastado
+  ud: había arreglastado
+  nosotros: habíamos arreglastado
+  vosotros: habíais arreglastado
+  uds: habían arreglastado
+futuro-perfecto:
+  yo: habré arreglastado
+  tu: habrás arreglastado
+  vos: habrás arreglastado
+  ud: habrá arreglastado
+  nosotros: habremos arreglastado
+  vosotros: habréis arreglastado
+  uds: habrán arreglastado
+condicional-perfecto:
+  yo: habría arreglastado
+  tu: habrías arreglastado
+  vos: habrías arreglastado
+  ud: habría arreglastado
+  nosotros: habríamos arreglastado
+  vosotros: habríais arreglastado
+  uds: habrían arreglastado
+presente-subjuntivo:
+  yo: arreglaste
+  tu: arreglastes
+  vos: arreglastes
+  ud: arreglaste
+  nosotros: arreglastemos
+  vosotros: arreglastéis
+  uds: arreglasten
+preterito-perfecto-subjuntivo:
+  yo: haya arreglastado
+  tu: hayas arreglastado
+  vos: hayas arreglastado
+  ud: haya arreglastado
+  nosotros: hayamos arreglastado
+  vosotros: hayáis arreglastado
+  uds: hayan arreglastado
+imperfecto-subjuntivo:
+  yo:
+    - arreglastara
+    - arreglastase
+  tu:
+    - arreglastaras
+    - arreglastases
+  vos:
+    - arreglastaras
+    - arreglastases
+  ud:
+    - arreglastara
+    - arreglastase
+  nosotros:
+    - arregláramos
+    - arreglásemos
+  vosotros:
+    - arreglarais
+    - arreglaseis
+  uds:
+    - arreglaran
+    - arreglasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arreglastado
+    - hubiese arreglastado
+  tu:
+    - hubieras arreglastado
+    - hubieses arreglastado
+  vos:
+    - hubieras arreglastado
+    - hubieses arreglastado
+  ud:
+    - hubiera arreglastado
+    - hubiese arreglastado
+  nosotros:
+    - hubiéramos arreglastado
+    - hubiésemos arreglastado
+  vosotros:
+    - hubierais arreglastado
+    - hubieseis arreglastado
+  uds:
+    - hubieran arreglastado
+    - hubiesen arreglastado
+imperativo:
+  tu: arreglasta
+  vos: arreglastá
+  ud: arreglaste
+  nosotros: arreglastemos
+  vosotros: arreglastad
+  uds: arreglasten

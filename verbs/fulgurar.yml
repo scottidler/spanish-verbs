@@ -1,0 +1,142 @@
+infinitivo: fulgurar
+gerundio: fulgurando
+participio-pasado: fulgurado
+presente-indicativo:
+  yo: fulguro
+  tu: fulguras
+  vos: fulguras
+  ud: fulgura
+  nosotros: fulguramos
+  vosotros: fulguráis
+  uds: fulguran
+preterito-perfecto-simple:
+  yo: fulguré
+  tu: fulguraste
+  vos: fulguraste
+  ud: fulguró
+  nosotros: fulguramos
+  vosotros: fulgurasteis
+  uds: fulguraron
+preterito-imperfecto:
+  yo: fulguraba
+  tu: fulgurabas
+  vos: fulgurabas
+  ud: fulguraba
+  nosotros: fulgurábamos
+  vosotros: fulgurabais
+  uds: fulguraban
+futuro-simple:
+  yo: fulguraré
+  tu: fulgurarás
+  vos: fulgurarás
+  ud: fulgurará
+  nosotros: fulguraremos
+  vosotros: fulguraréis
+  uds: fulgurarán
+condicional-simple:
+  yo: fulguraría
+  tu: fulgurarías
+  vos: fulgurarías
+  ud: fulguraría
+  nosotros: fulguraríamos
+  vosotros: fulguraríais
+  uds: fulgurarían
+presente-perfecto:
+  yo: he fulgurado
+  tu: has fulgurado
+  vos: has fulgurado
+  ud: ha fulgurado
+  nosotros: hemos fulgurado
+  vosotros: habéis fulgurado
+  uds: han fulgurado
+preterito-pluscuamperfecto:
+  yo: había fulgurado
+  tu: habías fulgurado
+  vos: habías fulgurado
+  ud: había fulgurado
+  nosotros: habíamos fulgurado
+  vosotros: habíais fulgurado
+  uds: habían fulgurado
+futuro-perfecto:
+  yo: habré fulgurado
+  tu: habrás fulgurado
+  vos: habrás fulgurado
+  ud: habrá fulgurado
+  nosotros: habremos fulgurado
+  vosotros: habréis fulgurado
+  uds: habrán fulgurado
+condicional-perfecto:
+  yo: habría fulgurado
+  tu: habrías fulgurado
+  vos: habrías fulgurado
+  ud: habría fulgurado
+  nosotros: habríamos fulgurado
+  vosotros: habríais fulgurado
+  uds: habrían fulgurado
+presente-subjuntivo:
+  yo: fulgure
+  tu: fulgures
+  vos: fulgures
+  ud: fulgure
+  nosotros: fulguremos
+  vosotros: fulguréis
+  uds: fulguren
+preterito-perfecto-subjuntivo:
+  yo: haya fulgurado
+  tu: hayas fulgurado
+  vos: hayas fulgurado
+  ud: haya fulgurado
+  nosotros: hayamos fulgurado
+  vosotros: hayáis fulgurado
+  uds: hayan fulgurado
+imperfecto-subjuntivo:
+  yo:
+    - fulgurara
+    - fulgurase
+  tu:
+    - fulguraras
+    - fulgurases
+  vos:
+    - fulguraras
+    - fulgurases
+  ud:
+    - fulgurara
+    - fulgurase
+  nosotros:
+    - fulguráramos
+    - fulgurásemos
+  vosotros:
+    - fulgurarais
+    - fulguraseis
+  uds:
+    - fulguraran
+    - fulgurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fulgurado
+    - hubiese fulgurado
+  tu:
+    - hubieras fulgurado
+    - hubieses fulgurado
+  vos:
+    - hubieras fulgurado
+    - hubieses fulgurado
+  ud:
+    - hubiera fulgurado
+    - hubiese fulgurado
+  nosotros:
+    - hubiéramos fulgurado
+    - hubiésemos fulgurado
+  vosotros:
+    - hubierais fulgurado
+    - hubieseis fulgurado
+  uds:
+    - hubieran fulgurado
+    - hubiesen fulgurado
+imperativo:
+  tu: fulgura
+  vos: fulgurá
+  ud: fulgure
+  nosotros: fulguremos
+  vosotros: fulgurad
+  uds: fulguren

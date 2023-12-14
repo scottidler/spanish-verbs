@@ -1,0 +1,142 @@
+infinitivo: denominar
+gerundio: denominando
+participio-pasado: denominado
+presente-indicativo:
+  yo: denomino
+  tu: denominas
+  vos: denominas
+  ud: denomina
+  nosotros: denominamos
+  vosotros: denomináis
+  uds: denominan
+preterito-perfecto-simple:
+  yo: denominé
+  tu: denominaste
+  vos: denominaste
+  ud: denominó
+  nosotros: denominamos
+  vosotros: denominasteis
+  uds: denominaron
+preterito-imperfecto:
+  yo: denominaba
+  tu: denominabas
+  vos: denominabas
+  ud: denominaba
+  nosotros: denominábamos
+  vosotros: denominabais
+  uds: denominaban
+futuro-simple:
+  yo: denominaré
+  tu: denominarás
+  vos: denominarás
+  ud: denominará
+  nosotros: denominaremos
+  vosotros: denominaréis
+  uds: denominarán
+condicional-simple:
+  yo: denominaría
+  tu: denominarías
+  vos: denominarías
+  ud: denominaría
+  nosotros: denominaríamos
+  vosotros: denominaríais
+  uds: denominarían
+presente-perfecto:
+  yo: he denominado
+  tu: has denominado
+  vos: has denominado
+  ud: ha denominado
+  nosotros: hemos denominado
+  vosotros: habéis denominado
+  uds: han denominado
+preterito-pluscuamperfecto:
+  yo: había denominado
+  tu: habías denominado
+  vos: habías denominado
+  ud: había denominado
+  nosotros: habíamos denominado
+  vosotros: habíais denominado
+  uds: habían denominado
+futuro-perfecto:
+  yo: habré denominado
+  tu: habrás denominado
+  vos: habrás denominado
+  ud: habrá denominado
+  nosotros: habremos denominado
+  vosotros: habréis denominado
+  uds: habrán denominado
+condicional-perfecto:
+  yo: habría denominado
+  tu: habrías denominado
+  vos: habrías denominado
+  ud: habría denominado
+  nosotros: habríamos denominado
+  vosotros: habríais denominado
+  uds: habrían denominado
+presente-subjuntivo:
+  yo: denomine
+  tu: denomines
+  vos: denomines
+  ud: denomine
+  nosotros: denominemos
+  vosotros: denominéis
+  uds: denominen
+preterito-perfecto-subjuntivo:
+  yo: haya denominado
+  tu: hayas denominado
+  vos: hayas denominado
+  ud: haya denominado
+  nosotros: hayamos denominado
+  vosotros: hayáis denominado
+  uds: hayan denominado
+imperfecto-subjuntivo:
+  yo:
+    - denominara
+    - denominase
+  tu:
+    - denominaras
+    - denominases
+  vos:
+    - denominaras
+    - denominases
+  ud:
+    - denominara
+    - denominase
+  nosotros:
+    - denomináramos
+    - denominásemos
+  vosotros:
+    - denominarais
+    - denominaseis
+  uds:
+    - denominaran
+    - denominasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera denominado
+    - hubiese denominado
+  tu:
+    - hubieras denominado
+    - hubieses denominado
+  vos:
+    - hubieras denominado
+    - hubieses denominado
+  ud:
+    - hubiera denominado
+    - hubiese denominado
+  nosotros:
+    - hubiéramos denominado
+    - hubiésemos denominado
+  vosotros:
+    - hubierais denominado
+    - hubieseis denominado
+  uds:
+    - hubieran denominado
+    - hubiesen denominado
+imperativo:
+  tu: denomina
+  vos: denominá
+  ud: denomine
+  nosotros: denominemos
+  vosotros: denominad
+  uds: denominen

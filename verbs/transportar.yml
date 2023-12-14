@@ -1,0 +1,142 @@
+infinitivo: transportar
+gerundio: transportando
+participio-pasado: transportado
+presente-indicativo:
+  yo: transporto
+  tu: transportas
+  vos: transportas
+  ud: transporta
+  nosotros: transportamos
+  vosotros: transportáis
+  uds: transportan
+preterito-perfecto-simple:
+  yo: transporté
+  tu: transportaste
+  vos: transportaste
+  ud: transportó
+  nosotros: transportamos
+  vosotros: transportasteis
+  uds: transportaron
+preterito-imperfecto:
+  yo: transportaba
+  tu: transportabas
+  vos: transportabas
+  ud: transportaba
+  nosotros: transportábamos
+  vosotros: transportabais
+  uds: transportaban
+futuro-simple:
+  yo: transportaré
+  tu: transportarás
+  vos: transportarás
+  ud: transportará
+  nosotros: transportaremos
+  vosotros: transportaréis
+  uds: transportarán
+condicional-simple:
+  yo: transportaría
+  tu: transportarías
+  vos: transportarías
+  ud: transportaría
+  nosotros: transportaríamos
+  vosotros: transportaríais
+  uds: transportarían
+presente-perfecto:
+  yo: he transportado
+  tu: has transportado
+  vos: has transportado
+  ud: ha transportado
+  nosotros: hemos transportado
+  vosotros: habéis transportado
+  uds: han transportado
+preterito-pluscuamperfecto:
+  yo: había transportado
+  tu: habías transportado
+  vos: habías transportado
+  ud: había transportado
+  nosotros: habíamos transportado
+  vosotros: habíais transportado
+  uds: habían transportado
+futuro-perfecto:
+  yo: habré transportado
+  tu: habrás transportado
+  vos: habrás transportado
+  ud: habrá transportado
+  nosotros: habremos transportado
+  vosotros: habréis transportado
+  uds: habrán transportado
+condicional-perfecto:
+  yo: habría transportado
+  tu: habrías transportado
+  vos: habrías transportado
+  ud: habría transportado
+  nosotros: habríamos transportado
+  vosotros: habríais transportado
+  uds: habrían transportado
+presente-subjuntivo:
+  yo: transporte
+  tu: transportes
+  vos: transportes
+  ud: transporte
+  nosotros: transportemos
+  vosotros: transportéis
+  uds: transporten
+preterito-perfecto-subjuntivo:
+  yo: haya transportado
+  tu: hayas transportado
+  vos: hayas transportado
+  ud: haya transportado
+  nosotros: hayamos transportado
+  vosotros: hayáis transportado
+  uds: hayan transportado
+imperfecto-subjuntivo:
+  yo:
+    - transportara
+    - transportase
+  tu:
+    - transportaras
+    - transportases
+  vos:
+    - transportaras
+    - transportases
+  ud:
+    - transportara
+    - transportase
+  nosotros:
+    - transportáramos
+    - transportásemos
+  vosotros:
+    - transportarais
+    - transportaseis
+  uds:
+    - transportaran
+    - transportasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera transportado
+    - hubiese transportado
+  tu:
+    - hubieras transportado
+    - hubieses transportado
+  vos:
+    - hubieras transportado
+    - hubieses transportado
+  ud:
+    - hubiera transportado
+    - hubiese transportado
+  nosotros:
+    - hubiéramos transportado
+    - hubiésemos transportado
+  vosotros:
+    - hubierais transportado
+    - hubieseis transportado
+  uds:
+    - hubieran transportado
+    - hubiesen transportado
+imperativo:
+  tu: transporta
+  vos: transportá
+  ud: transporte
+  nosotros: transportemos
+  vosotros: transportad
+  uds: transporten

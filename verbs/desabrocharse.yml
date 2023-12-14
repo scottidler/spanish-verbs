@@ -1,0 +1,156 @@
+infinitivo: desabrocharse
+gerundio: desabrochándose
+participio-pasado: desabrochado
+
+presente-indicativo:
+  yo: me desabrocho
+  tu: te desabrochas
+  vos: te desabrochás
+  ud: se desabrocha
+  nosotros: nos desabrochamos
+  vosotros: os desabrocháis
+  uds: se desabrochan
+
+preterito-perfecto-simple:
+  yo: me desabroché
+  tu: te desabrochaste
+  vos: te desabrochaste
+  ud: se desabrochó
+  nosotros: nos desabrochamos
+  vosotros: os desabrochasteis
+  uds: se desabrocharon
+
+preterito-imperfecto:
+  yo: me desabrochaba
+  tu: te desabrochabas
+  vos: te desabrochabas
+  ud: se desabrochaba
+  nosotros: nos desabrochábamos
+  vosotros: os desabrochabais
+  uds: se desabrochaban
+
+futuro-simple:
+  yo: me desabrocharé
+  tu: te desabrocharás
+  vos: te desabrocharás
+  ud: se desabrochará
+  nosotros: nos desabrocharemos
+  vosotros: os desabrocharéis
+  uds: se desabrocharán
+
+condicional-simple:
+  yo: me desabrocharía
+  tu: te desabrocharías
+  vos: te desabrocharías
+  ud: se desabrocharía
+  nosotros: nos desabrocharíamos
+  vosotros: os desabrocharíais
+  uds: se desabrocharían
+
+presente-perfecto:
+  yo: me he desabrochado
+  tu: te has desabrochado
+  vos: te has desabrochado
+  ud: se ha desabrochado
+  nosotros: nos hemos desabrochado
+  vosotros: os habéis desabrochado
+  uds: se han desabrochado
+
+preterito-pluscuamperfecto:
+  yo: me había desabrochado
+  tu: te habías desabrochado
+  vos: te habías desabrochado
+  ud: se había desabrochado
+  nosotros: nos habíamos desabrochado
+  vosotros: os habíais desabrochado
+  uds: se habían desabrochado
+
+futuro-perfecto:
+  yo: me habré desabrochado
+  tu: te habrás desabrochado
+  vos: te habrás desabrochado
+  ud: se habrá desabrochado
+  nosotros: nos habremos desabrochado
+  vosotros: os habréis desabrochado
+  uds: se habrán desabrochado
+
+condicional-perfecto:
+  yo: me habría desabrochado
+  tu: te habrías desabrochado
+  vos: te habrías desabrochado
+  ud: se habría desabrochado
+  nosotros: nos habríamos desabrochado
+  vosotros: os habríais desabrochado
+  uds: se habrían desabrochado
+
+presente-subjuntivo:
+  yo: me desabroche
+  tu: te desabroches
+  vos: te desabroches
+  ud: se desabroche
+  nosotros: nos desabrochemos
+  vosotros: os desabrochéis
+  uds: se desabrochen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya desabrochado
+  tu: te hayas desabrochado
+  vos: te hayas desabrochado
+  ud: se haya desabrochado
+  nosotros: nos hayamos desabrochado
+  vosotros: os hayáis desabrochado
+  uds: se hayan desabrochado
+
+imperfecto-subjuntivo:
+  yo:
+    - me desabrochara
+    - me desabrochase
+  tu:
+    - te desabrocharas
+    - te desabrochases
+  vos:
+    - te desabrocharas
+    - te desabrochases
+  ud:
+    - se desabrochara
+    - se desabrochase
+  nosotros:
+    - nos desabrocháramos
+    - nos desabrochásemos
+  vosotros:
+    - os desabrocharais
+    - os desabrochaseis
+  uds:
+    - se desabrocharan
+    - se desabrochasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera desabrochado
+    - me hubiese desabrochado
+  tu:
+    - te hubieras desabrochado
+    - te hubieses desabrochado
+  vos:
+    - te hubieras desabrochado
+    - te hubieses desabrochado
+  ud:
+    - se hubiera desabrochado
+    - se hubiese desabrochado
+  nosotros:
+    - nos hubiéramos desabrochado
+    - nos hubiésemos desabrochado
+  vosotros:
+    - os hubierais desabrochado
+    - os hubieseis desabrochado
+  uds:
+    - se hubieran desabrochado
+    - se hubiesen desabrochado
+
+imperativo:
+  tu: desabróchate
+  vos: desabrochate
+  ud: desabróchese
+  nosotros: desabrochémosnos
+  vosotros: desabrochaos
+  uds: desabróchense

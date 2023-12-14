@@ -1,0 +1,142 @@
+infinitivo: rivalizar
+gerundio: rivalizando
+participio-pasado: rivalizado
+presente-indicativo:
+  yo: rivalizo
+  tu: rivalizas
+  vos: rivalizas
+  ud: rivaliza
+  nosotros: rivalizamos
+  vosotros: rivalizáis
+  uds: rivalizan
+preterito-perfecto-simple:
+  yo: rivalicé
+  tu: rivalizaste
+  vos: rivalizaste
+  ud: rivalizó
+  nosotros: rivalizamos
+  vosotros: rivalizasteis
+  uds: rivalizaron
+preterito-imperfecto:
+  yo: rivalizaba
+  tu: rivalizabas
+  vos: rivalizabas
+  ud: rivalizaba
+  nosotros: rivalizábamos
+  vosotros: rivalizabais
+  uds: rivalizaban
+futuro-simple:
+  yo: rivalizaré
+  tu: rivalizarás
+  vos: rivalizarás
+  ud: rivalizará
+  nosotros: rivalizaremos
+  vosotros: rivalizaréis
+  uds: rivalizarán
+condicional-simple:
+  yo: rivalizaría
+  tu: rivalizarías
+  vos: rivalizarías
+  ud: rivalizaría
+  nosotros: rivalizaríamos
+  vosotros: rivalizaríais
+  uds: rivalizarían
+presente-perfecto:
+  yo: he rivalizado
+  tu: has rivalizado
+  vos: has rivalizado
+  ud: ha rivalizado
+  nosotros: hemos rivalizado
+  vosotros: habéis rivalizado
+  uds: han rivalizado
+preterito-pluscuamperfecto:
+  yo: había rivalizado
+  tu: habías rivalizado
+  vos: habías rivalizado
+  ud: había rivalizado
+  nosotros: habíamos rivalizado
+  vosotros: habíais rivalizado
+  uds: habían rivalizado
+futuro-perfecto:
+  yo: habré rivalizado
+  tu: habrás rivalizado
+  vos: habrás rivalizado
+  ud: habrá rivalizado
+  nosotros: habremos rivalizado
+  vosotros: habréis rivalizado
+  uds: habrán rivalizado
+condicional-perfecto:
+  yo: habría rivalizado
+  tu: habrías rivalizado
+  vos: habrías rivalizado
+  ud: habría rivalizado
+  nosotros: habríamos rivalizado
+  vosotros: habríais rivalizado
+  uds: habrían rivalizado
+presente-subjuntivo:
+  yo: rivalice
+  tu: rivalices
+  vos: rivalices
+  ud: rivalice
+  nosotros: rivalicemos
+  vosotros: rivalicéis
+  uds: rivalicen
+preterito-perfecto-subjuntivo:
+  yo: haya rivalizado
+  tu: hayas rivalizado
+  vos: hayas rivalizado
+  ud: haya rivalizado
+  nosotros: hayamos rivalizado
+  vosotros: hayáis rivalizado
+  uds: hayan rivalizado
+imperfecto-subjuntivo:
+  yo:
+    - rivalizara
+    - rivalizase
+  tu:
+    - rivalizaras
+    - rivalizases
+  vos:
+    - rivalizaras
+    - rivalizases
+  ud:
+    - rivalizara
+    - rivalizase
+  nosotros:
+    - rivalizáramos
+    - rivalizásemos
+  vosotros:
+    - rivalizarais
+    - rivalizaseis
+  uds:
+    - rivalizaran
+    - rivalizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rivalizado
+    - hubiese rivalizado
+  tu:
+    - hubieras rivalizado
+    - hubieses rivalizado
+  vos:
+    - hubieras rivalizado
+    - hubieses rivalizado
+  ud:
+    - hubiera rivalizado
+    - hubiese rivalizado
+  nosotros:
+    - hubiéramos rivalizado
+    - hubiésemos rivalizado
+  vosotros:
+    - hubierais rivalizado
+    - hubieseis rivalizado
+  uds:
+    - hubieran rivalizado
+    - hubiesen rivalizado
+imperativo:
+  tu: rivaliza
+  vos: rivalizá
+  ud: rivalice
+  nosotros: rivalicemos
+  vosotros: rivalizad
+  uds: rivalicen

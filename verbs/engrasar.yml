@@ -1,0 +1,142 @@
+infinitivo: engrasar
+gerundio: engrasando
+participio-pasado: engrasado
+presente-indicativo:
+  yo: engraso
+  tu: engrasas
+  vos: engrasas
+  ud: engrasa
+  nosotros: engrasamos
+  vosotros: engrasáis
+  uds: engrasan
+preterito-perfecto-simple:
+  yo: engrasé
+  tu: engrasaste
+  vos: engrasaste
+  ud: engrasó
+  nosotros: engrasamos
+  vosotros: engrasasteis
+  uds: engrasaron
+preterito-imperfecto:
+  yo: engrasaba
+  tu: engrasabas
+  vos: engrasabas
+  ud: engrasaba
+  nosotros: engrasábamos
+  vosotros: engrasabais
+  uds: engrasaban
+futuro-simple:
+  yo: engrasaré
+  tu: engrasarás
+  vos: engrasarás
+  ud: engrasará
+  nosotros: engrasaremos
+  vosotros: engrasaréis
+  uds: engrasarán
+condicional-simple:
+  yo: engrasaría
+  tu: engrasarías
+  vos: engrasarías
+  ud: engrasaría
+  nosotros: engrasaríamos
+  vosotros: engrasaríais
+  uds: engrasarían
+presente-perfecto:
+  yo: he engrasado
+  tu: has engrasado
+  vos: has engrasado
+  ud: ha engrasado
+  nosotros: hemos engrasado
+  vosotros: habéis engrasado
+  uds: han engrasado
+preterito-pluscuamperfecto:
+  yo: había engrasado
+  tu: habías engrasado
+  vos: habías engrasado
+  ud: había engrasado
+  nosotros: habíamos engrasado
+  vosotros: habíais engrasado
+  uds: habían engrasado
+futuro-perfecto:
+  yo: habré engrasado
+  tu: habrás engrasado
+  vos: habrás engrasado
+  ud: habrá engrasado
+  nosotros: habremos engrasado
+  vosotros: habréis engrasado
+  uds: habrán engrasado
+condicional-perfecto:
+  yo: habría engrasado
+  tu: habrías engrasado
+  vos: habrías engrasado
+  ud: habría engrasado
+  nosotros: habríamos engrasado
+  vosotros: habríais engrasado
+  uds: habrían engrasado
+presente-subjuntivo:
+  yo: engrase
+  tu: engrases
+  vos: engrases
+  ud: engrase
+  nosotros: engrasemos
+  vosotros: engraséis
+  uds: engrasen
+preterito-perfecto-subjuntivo:
+  yo: haya engrasado
+  tu: hayas engrasado
+  vos: hayas engrasado
+  ud: haya engrasado
+  nosotros: hayamos engrasado
+  vosotros: hayáis engrasado
+  uds: hayan engrasado
+imperfecto-subjuntivo:
+  yo:
+    - engrasara
+    - engrasase
+  tu:
+    - engrasaras
+    - engrasases
+  vos:
+    - engrasaras
+    - engrasases
+  ud:
+    - engrasara
+    - engrasase
+  nosotros:
+    - engrasáramos
+    - engrasásemos
+  vosotros:
+    - engrasarais
+    - engrasaseis
+  uds:
+    - engrasaran
+    - engrasasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera engrasado
+    - hubiese engrasado
+  tu:
+    - hubieras engrasado
+    - hubieses engrasado
+  vos:
+    - hubieras engrasado
+    - hubieses engrasado
+  ud:
+    - hubiera engrasado
+    - hubiese engrasado
+  nosotros:
+    - hubiéramos engrasado
+    - hubiésemos engrasado
+  vosotros:
+    - hubierais engrasado
+    - hubieseis engrasado
+  uds:
+    - hubieran engrasado
+    - hubiesen engrasado
+imperativo:
+  tu: engrasa
+  vos: engrasá
+  ud: engrase
+  nosotros: engrasemos
+  vosotros: engrasad
+  uds: engrasen

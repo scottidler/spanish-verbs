@@ -1,0 +1,142 @@
+infinitivo: fisgonear
+gerundio: fisgoneando
+participio-pasado: fisgoneado
+presente-indicativo:
+  yo: fisgoneo
+  tu: fisgoneas
+  vos: fisgoneas
+  ud: fisgonea
+  nosotros: fisgoneamos
+  vosotros: fisgoneáis
+  uds: fisgonean
+preterito-perfecto-simple:
+  yo: fisgoneé
+  tu: fisgoneaste
+  vos: fisgoneaste
+  ud: fisgoneó
+  nosotros: fisgoneamos
+  vosotros: fisgoneasteis
+  uds: fisgonearon
+preterito-imperfecto:
+  yo: fisgoneaba
+  tu: fisgoneabas
+  vos: fisgoneabas
+  ud: fisgoneaba
+  nosotros: fisgoneábamos
+  vosotros: fisgoneabais
+  uds: fisgoneaban
+futuro-simple:
+  yo: fisgonearé
+  tu: fisgonearás
+  vos: fisgonearás
+  ud: fisgoneará
+  nosotros: fisgonearemos
+  vosotros: fisgonearéis
+  uds: fisgonearán
+condicional-simple:
+  yo: fisgonearía
+  tu: fisgonearías
+  vos: fisgonearías
+  ud: fisgonearía
+  nosotros: fisgonearíamos
+  vosotros: fisgonearíais
+  uds: fisgonearían
+presente-perfecto:
+  yo: he fisgoneado
+  tu: has fisgoneado
+  vos: has fisgoneado
+  ud: ha fisgoneado
+  nosotros: hemos fisgoneado
+  vosotros: habéis fisgoneado
+  uds: han fisgoneado
+preterito-pluscuamperfecto:
+  yo: había fisgoneado
+  tu: habías fisgoneado
+  vos: habías fisgoneado
+  ud: había fisgoneado
+  nosotros: habíamos fisgoneado
+  vosotros: habíais fisgoneado
+  uds: habían fisgoneado
+futuro-perfecto:
+  yo: habré fisgoneado
+  tu: habrás fisgoneado
+  vos: habrás fisgoneado
+  ud: habrá fisgoneado
+  nosotros: habremos fisgoneado
+  vosotros: habréis fisgoneado
+  uds: habrán fisgoneado
+condicional-perfecto:
+  yo: habría fisgoneado
+  tu: habrías fisgoneado
+  vos: habrías fisgoneado
+  ud: habría fisgoneado
+  nosotros: habríamos fisgoneado
+  vosotros: habríais fisgoneado
+  uds: habrían fisgoneado
+presente-subjuntivo:
+  yo: fisgonee
+  tu: fisgonees
+  vos: fisgonees
+  ud: fisgonee
+  nosotros: fisgoneemos
+  vosotros: fisgoneéis
+  uds: fisgoneen
+preterito-perfecto-subjuntivo:
+  yo: haya fisgoneado
+  tu: hayas fisgoneado
+  vos: hayas fisgoneado
+  ud: haya fisgoneado
+  nosotros: hayamos fisgoneado
+  vosotros: hayáis fisgoneado
+  uds: hayan fisgoneado
+imperfecto-subjuntivo:
+  yo:
+    - fisgoneara
+    - fisgonease
+  tu:
+    - fisgonearas
+    - fisgoneases
+  vos:
+    - fisgonearas
+    - fisgoneases
+  ud:
+    - fisgoneara
+    - fisgonease
+  nosotros:
+    - fisgoneáramos
+    - fisgoneásemos
+  vosotros:
+    - fisgonearais
+    - fisgoneaseis
+  uds:
+    - fisgonearan
+    - fisgoneasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fisgoneado
+    - hubiese fisgoneado
+  tu:
+    - hubieras fisgoneado
+    - hubieses fisgoneado
+  vos:
+    - hubieras fisgoneado
+    - hubieses fisgoneado
+  ud:
+    - hubiera fisgoneado
+    - hubiese fisgoneado
+  nosotros:
+    - hubiéramos fisgoneado
+    - hubiésemos fisgoneado
+  vosotros:
+    - hubierais fisgoneado
+    - hubieseis fisgoneado
+  uds:
+    - hubieran fisgoneado
+    - hubiesen fisgoneado
+imperativo:
+  tu: fisgonea
+  vos: fisgoneá
+  ud: fisgonee
+  nosotros: fisgoneemos
+  vosotros: fisgonead
+  uds: fisgoneen

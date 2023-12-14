@@ -1,0 +1,142 @@
+infinitivo: dispersar
+gerundio: dispersando
+participio-pasado: dispersado
+presente-indicativo:
+  yo: disperso
+  tu: dispersas
+  vos: dispersas
+  ud: dispersa
+  nosotros: dispersamos
+  vosotros: dispersáis
+  uds: dispersan
+preterito-perfecto-simple:
+  yo: dispersé
+  tu: dispersaste
+  vos: dispersaste
+  ud: dispersó
+  nosotros: dispersamos
+  vosotros: dispersasteis
+  uds: dispersaron
+preterito-imperfecto:
+  yo: dispersaba
+  tu: dispersabas
+  vos: dispersabas
+  ud: dispersaba
+  nosotros: dispersábamos
+  vosotros: dispersabais
+  uds: dispersaban
+futuro-simple:
+  yo: dispersaré
+  tu: dispersarás
+  vos: dispersarás
+  ud: dispersará
+  nosotros: dispersaremos
+  vosotros: dispersaréis
+  uds: dispersarán
+condicional-simple:
+  yo: dispersaría
+  tu: dispersarías
+  vos: dispersarías
+  ud: dispersaría
+  nosotros: dispersaríamos
+  vosotros: dispersaríais
+  uds: dispersarían
+presente-perfecto:
+  yo: he dispersado
+  tu: has dispersado
+  vos: has dispersado
+  ud: ha dispersado
+  nosotros: hemos dispersado
+  vosotros: habéis dispersado
+  uds: han dispersado
+preterito-pluscuamperfecto:
+  yo: había dispersado
+  tu: habías dispersado
+  vos: habías dispersado
+  ud: había dispersado
+  nosotros: habíamos dispersado
+  vosotros: habíais dispersado
+  uds: habían dispersado
+futuro-perfecto:
+  yo: habré dispersado
+  tu: habrás dispersado
+  vos: habrás dispersado
+  ud: habrá dispersado
+  nosotros: habremos dispersado
+  vosotros: habréis dispersado
+  uds: habrán dispersado
+condicional-perfecto:
+  yo: habría dispersado
+  tu: habrías dispersado
+  vos: habrías dispersado
+  ud: habría dispersado
+  nosotros: habríamos dispersado
+  vosotros: habríais dispersado
+  uds: habrían dispersado
+presente-subjuntivo:
+  yo: disperse
+  tu: disperses
+  vos: disperses
+  ud: disperse
+  nosotros: dispersemos
+  vosotros: disperséis
+  uds: dispersen
+preterito-perfecto-subjuntivo:
+  yo: haya dispersado
+  tu: hayas dispersado
+  vos: hayas dispersado
+  ud: haya dispersado
+  nosotros: hayamos dispersado
+  vosotros: hayáis dispersado
+  uds: hayan dispersado
+imperfecto-subjuntivo:
+  yo:
+    - dispersara
+    - dispersase
+  tu:
+    - dispersaras
+    - dispersases
+  vos:
+    - dispersaras
+    - dispersases
+  ud:
+    - dispersara
+    - dispersase
+  nosotros:
+    - dispersáramos
+    - dispersásemos
+  vosotros:
+    - dispersarais
+    - dispersaseis
+  uds:
+    - dispersaran
+    - dispersasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dispersado
+    - hubiese dispersado
+  tu:
+    - hubieras dispersado
+    - hubieses dispersado
+  vos:
+    - hubieras dispersado
+    - hubieses dispersado
+  ud:
+    - hubiera dispersado
+    - hubiese dispersado
+  nosotros:
+    - hubiéramos dispersado
+    - hubiésemos dispersado
+  vosotros:
+    - hubierais dispersado
+    - hubieseis dispersado
+  uds:
+    - hubieran dispersado
+    - hubiesen dispersado
+imperativo:
+  tu: dispersa
+  vos: dispersá
+  ud: disperse
+  nosotros: dispersemos
+  vosotros: dispersad
+  uds: dispersen

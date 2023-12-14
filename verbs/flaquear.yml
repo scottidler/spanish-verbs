@@ -1,0 +1,142 @@
+infinitivo: flaquear
+gerundio: flaqueando
+participio-pasado: flaqueado
+presente-indicativo:
+  yo: flaqueeo
+  tu: flaqueeas
+  vos: flaqueeas
+  ud: flaqueea
+  nosotros: flaqueamos
+  vosotros: flaqueeáis
+  uds: flaquean
+preterito-perfecto-simple:
+  yo: flaqueeé
+  tu: flaqueaste
+  vos: flaqueaste
+  ud: flaqueó
+  nosotros: flaqueamos
+  vosotros: flaqueasteis
+  uds: flaquearon
+preterito-imperfecto:
+  yo: flaqueaba
+  tu: flaqueabas
+  vos: flaqueabas
+  ud: flaqueaba
+  nosotros: flaqueábamos
+  vosotros: flaqueabais
+  uds: flaqueaban
+futuro-simple:
+  yo: flaqueré
+  tu: flaquerás
+  vos: flaquerás
+  ud: flaquerá
+  nosotros: flaqueremos
+  vosotros: flaqueréis
+  uds: flaquerán
+condicional-simple:
+  yo: flaquería
+  tu: flaquerías
+  vos: flaquerías
+  ud: flaquería
+  nosotros: flaqueríamos
+  vosotros: flaqueríais
+  uds: flaquerían
+presente-perfecto:
+  yo: he flaqueado
+  tu: has flaqueado
+  vos: has flaqueado
+  ud: ha flaqueado
+  nosotros: hemos flaqueado
+  vosotros: habéis flaqueado
+  uds: han flaqueado
+preterito-pluscuamperfecto:
+  yo: había flaqueado
+  tu: habías flaqueado
+  vos: habías flaqueado
+  ud: había flaqueado
+  nosotros: habíamos flaqueado
+  vosotros: habíais flaqueado
+  uds: habían flaqueado
+futuro-perfecto:
+  yo: habré flaqueado
+  tu: habrás flaqueado
+  vos: habrás flaqueado
+  ud: habrá flaqueado
+  nosotros: habremos flaqueado
+  vosotros: habréis flaqueado
+  uds: habrán flaqueado
+condicional-perfecto:
+  yo: habría flaqueado
+  tu: habrías flaqueado
+  vos: habrías flaqueado
+  ud: habría flaqueado
+  nosotros: habríamos flaqueado
+  vosotros: habríais flaqueado
+  uds: habrían flaqueado
+presente-subjuntivo:
+  yo: flaqueee
+  tu: flaqueees
+  vos: flaqueees
+  ud: flaqueee
+  nosotros: flaqueemos
+  vosotros: flaaqueéi
+  uds: flqueeen
+preterito-perfecto-subjuntivo:
+  yo: haya flaqueado
+  tu: hayas flaqueado
+  vos: hayas flaqueado
+  ud: haya flaqueado
+  nosotros: hayamos flaqueado
+  vosotros: hayáis flaqueado
+  uds: hayan flaqueado
+imperfecto-subjuntivo:
+  yo:
+    - flaqueara
+    - flaquease
+  tu:
+    - flaquearas
+    - flaqueases
+  vos:
+    - flaquearas
+    - flaqueases
+  ud:
+    - flaqueara
+    - flaquease
+  nosotros:
+    - flaqueáramos
+    - flaqueásemos
+  vosotros:
+    - flaquearais
+    - flaqueaseis
+  uds:
+    - flaquearan
+    - flaqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera flaqueado
+    - hubiese flaqueado
+  tu:
+    - hubieras flaqueado
+    - hubieses flaqueado
+  vos:
+    - hubieras flaqueado
+    - hubieses flaqueado
+  ud:
+    - hubiera flaqueado
+    - hubiese flaqueado
+  nosotros:
+    - hubiéramos flaqueado
+    - hubiésemos flaqueado
+  vosotros:
+    - hubierais flaqueado
+    - hubieseis flaqueado
+  uds:
+    - hubieran flaqueado
+    - hubiesen flaqueado
+imperativo:
+  tu: flaquea
+  vos: flaqueá
+  ud: flaquee
+  nosotros: flaqueemos
+  vosotros: flaquead
+  uds: flaqueen

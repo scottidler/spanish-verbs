@@ -1,0 +1,142 @@
+infinitivo: disputar
+gerundio: disputando
+participio-pasado: disputado
+presente-indicativo:
+  yo: disputo
+  tu: disputas
+  vos: disputas
+  ud: disputa
+  nosotros: disputamos
+  vosotros: disputáis
+  uds: disputan
+preterito-perfecto-simple:
+  yo: disputé
+  tu: disputaste
+  vos: disputaste
+  ud: disputó
+  nosotros: disputamos
+  vosotros: disputasteis
+  uds: disputaron
+preterito-imperfecto:
+  yo: disputaba
+  tu: disputabas
+  vos: disputabas
+  ud: disputaba
+  nosotros: disputábamos
+  vosotros: disputabais
+  uds: disputaban
+futuro-simple:
+  yo: disputaré
+  tu: disputarás
+  vos: disputarás
+  ud: disputará
+  nosotros: disputaremos
+  vosotros: disputaréis
+  uds: disputarán
+condicional-simple:
+  yo: disputaría
+  tu: disputarías
+  vos: disputarías
+  ud: disputaría
+  nosotros: disputaríamos
+  vosotros: disputaríais
+  uds: disputarían
+presente-perfecto:
+  yo: he disputado
+  tu: has disputado
+  vos: has disputado
+  ud: ha disputado
+  nosotros: hemos disputado
+  vosotros: habéis disputado
+  uds: han disputado
+preterito-pluscuamperfecto:
+  yo: había disputado
+  tu: habías disputado
+  vos: habías disputado
+  ud: había disputado
+  nosotros: habíamos disputado
+  vosotros: habíais disputado
+  uds: habían disputado
+futuro-perfecto:
+  yo: habré disputado
+  tu: habrás disputado
+  vos: habrás disputado
+  ud: habrá disputado
+  nosotros: habremos disputado
+  vosotros: habréis disputado
+  uds: habrán disputado
+condicional-perfecto:
+  yo: habría disputado
+  tu: habrías disputado
+  vos: habrías disputado
+  ud: habría disputado
+  nosotros: habríamos disputado
+  vosotros: habríais disputado
+  uds: habrían disputado
+presente-subjuntivo:
+  yo: dispute
+  tu: disputes
+  vos: disputes
+  ud: dispute
+  nosotros: disputemos
+  vosotros: disputéis
+  uds: disputen
+preterito-perfecto-subjuntivo:
+  yo: haya disputado
+  tu: hayas disputado
+  vos: hayas disputado
+  ud: haya disputado
+  nosotros: hayamos disputado
+  vosotros: hayáis disputado
+  uds: hayan disputado
+imperfecto-subjuntivo:
+  yo:
+    - disputara
+    - disputase
+  tu:
+    - disputaras
+    - disputases
+  vos:
+    - disputaras
+    - disputases
+  ud:
+    - disputara
+    - disputase
+  nosotros:
+    - disputáramos
+    - disputásemos
+  vosotros:
+    - disputarais
+    - disputaseis
+  uds:
+    - disputaran
+    - disputasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera disputado
+    - hubiese disputado
+  tu:
+    - hubieras disputado
+    - hubieses disputado
+  vos:
+    - hubieras disputado
+    - hubieses disputado
+  ud:
+    - hubiera disputado
+    - hubiese disputado
+  nosotros:
+    - hubiéramos disputado
+    - hubiésemos disputado
+  vosotros:
+    - hubierais disputado
+    - hubieseis disputado
+  uds:
+    - hubieran disputado
+    - hubiesen disputado
+imperativo:
+  tu: disputa
+  vos: disputá
+  ud: dispute
+  nosotros: disputemos
+  vosotros: disputad
+  uds: disputen

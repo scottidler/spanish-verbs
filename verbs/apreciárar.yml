@@ -1,0 +1,142 @@
+infinitivo: apreciar
+gerundio: apreciando
+participio-pasado: apreciado
+presente-indicativo:
+  yo: aprecio
+  tu: aprecias
+  vos: aprecias
+  ud: aprecia
+  nosotros: apreciamos
+  vosotros: apreciáis
+  uds: aprecian
+preterito-perfecto-simple:
+  yo: aprecié
+  tu: apreciaste
+  vos: apreciaste
+  ud: apreció
+  nosotros: apreciamos
+  vosotros: apreciasteis
+  uds: apreciaron
+preterito-imperfecto:
+  yo: apreciaba
+  tu: apreciabas
+  vos: apreciabas
+  ud: apreciaba
+  nosotros: apreciábamos
+  vosotros: apreciabais
+  uds: apreciaban
+futuro-simple:
+  yo: apreciaré
+  tu: apreciarás
+  vos: apreciarás
+  ud: apreciará
+  nosotros: apreciaremos
+  vosotros: apreciaréis
+  uds: apreciarán
+condicional-simple:
+  yo: apreciaría
+  tu: apreciarías
+  vos: apreciarías
+  ud: apreciaría
+  nosotros: apreciaríamos
+  vosotros: apreciaríais
+  uds: apreciarían
+presente-perfecto:
+  yo: he apreciado
+  tu: has apreciado
+  vos: has apreciado
+  ud: ha apreciado
+  nosotros: hemos apreciado
+  vosotros: habéis apreciado
+  uds: han apreciado
+preterito-pluscuamperfecto:
+  yo: había apreciado
+  tu: habías apreciado
+  vos: habías apreciado
+  ud: había apreciado
+  nosotros: habíamos apreciado
+  vosotros: habíais apreciado
+  uds: habían apreciado
+futuro-perfecto:
+  yo: habré apreciado
+  tu: habrás apreciado
+  vos: habrás apreciado
+  ud: habrá apreciado
+  nosotros: habremos apreciado
+  vosotros: habréis apreciado
+  uds: habrán apreciado
+condicional-perfecto:
+  yo: habría apreciado
+  tu: habrías apreciado
+  vos: habrías apreciado
+  ud: habría apreciado
+  nosotros: habríamos apreciado
+  vosotros: habríais apreciado
+  uds: habrían apreciado
+presente-subjuntivo:
+  yo: aprecie
+  tu: aprecies
+  vos: aprecies
+  ud: aprecie
+  nosotros: apreciemos
+  vosotros: apreciéis
+  uds: aprecien
+preterito-perfecto-subjuntivo:
+  yo: haya apreciado
+  tu: hayas apreciado
+  vos: hayas apreciado
+  ud: haya apreciado
+  nosotros: hayamos apreciado
+  vosotros: hayáis apreciado
+  uds: hayan apreciado
+imperfecto-subjuntivo:
+  yo:
+    - apreciara
+    - apreciase
+  tu:
+    - apreciaras
+    - apreciases
+  vos:
+    - apreciaras
+    - apreciases
+  ud:
+    - apreciara
+    - apreciase
+  nosotros:
+    - apreciáramos
+    - apreciésemos
+  vosotros:
+    - apreciarais
+    - apreciaseis
+  uds:
+    - apreciaran
+    - apreciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apreciado
+    - hubiese apreciado
+  tu:
+    - hubieras apreciado
+    - hubieses apreciado
+  vos:
+    - hubieras apreciado
+    - hubieses apreciado
+  ud:
+    - hubiera apreciado
+    - hubiese apreciado
+  nosotros:
+    - hubiéramos apreciado
+    - hubiésemos apreciado
+  vosotros:
+    - hubierais apreciado
+    - hubieseis apreciado
+  uds:
+    - hubieran apreciado
+    - hubiesen apreciado
+imperativo:
+  tu: aprecia
+  vos: apreciá
+  ud: aprecie
+  nosotros: apreciemos
+  vosotros: apreciad
+  uds: aprecien

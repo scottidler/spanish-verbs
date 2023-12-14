@@ -1,0 +1,142 @@
+infinitivo: recurrir
+gerundio: recurriendo
+participio-pasado: recurrido
+presente-indicativo:
+  yo: recurro
+  tu: recorres
+  vos: recorres
+  ud: recurre
+  nosotros: recurrimos
+  vosotros: recurrís
+  uds: recurren
+preterito-perfecto-simple:
+  yo: recurrí
+  tu: recurriste
+  vos: recurriste
+  ud: recurrió
+  nosotros: recurrimos
+  vosotros: recurristeis
+  uds: recurrieron
+preterito-imperfecto:
+  yo: recurría
+  tu: recurrías
+  vos: recurrías
+  ud: recurría
+  nosotros: recurríamos
+  vosotros: recurríais
+  uds: recurrían
+futuro-simple:
+  yo: recurriré
+  tu: recurrirás
+  vos: recurrirás
+  ud: recurrirá
+  nosotros: recurrirermos
+  vosotros: recurriréis
+  uds: recurrirán
+condicional-simple:
+  yo: recurriría
+  tu: recurrirías
+  vos: recurrirías
+  ud: recurriría
+  nosotros: recurriríamos
+  vosotros: recurriríais
+  uds: recurrirían
+presente-perfecto:
+  yo: he recurrido
+  tu: has recurrido
+  vos: has recurrido
+  ud: ha recurrido
+  nosotros: hemos recurrido
+  vosotros: habéis recurrido
+  uds: han recurrido
+preterito-pluscuamperfecto:
+  yo: había recurrido
+  tu: habías recurrido
+  vos: habías recurrido
+  ud: había recurrido
+  nosotros: habíamos recurrido
+  vosotros: habíais recurrido
+  uds: habían recurrido
+futuro-perfecto:
+  yo: habré recurrido
+  tu: habrás recurrido
+  vos: habrás recurrido
+  ud: habrá recurrido
+  nosotros: habremos recurrido
+  vosotros: habréis recurrido
+  uds: habrán recurrido
+condicional-perfecto:
+  yo: habría recurrido
+  tu: habrías recurrido
+  vos: habrías recurrido
+  ud: habría recurrido
+  nosotros: habríamos recurrido
+  vosotros: habríais recurrido
+  uds: habrían recurrido
+presente-subjuntivo:
+  yo: recurra
+  tu: recurras
+  vos: recurras
+  ud: recurra
+  nosotros: recurramos
+  vosotros: recurrais
+  uds: recurran
+preterito-perfecto-subjuntivo:
+  yo: haya recurrido
+  tu: hayas recurrido
+  vos: hayas recurrido
+  ud: haya recurrido
+  nosotros: hayamos recurrido
+  vosotros: hayáis recurrido
+  uds: hayan recurrido
+imperfecto-subjuntivo:
+  yo:
+    - recurriera
+    - recurriese
+  tu:
+    - recurrieras
+    - recurrieses
+  vos:
+    - recurrieras
+    - recurrieses
+  ud:
+    - recurriera
+    - recurriese
+  nosotros:
+    - recurriéramos
+    - recurriésemos
+  vosotros:
+    - recurrierais
+    - recurrieseis
+  uds:
+    - recurrieran
+    - recurriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recurrido
+    - hubiese recurrido
+  tu:
+    - hubieras recurrido
+    - hubieses recurrido
+  vos:
+    - hubieras recurrido
+    - hubieses recurrido
+  ud:
+    - hubiera recurrido
+    - hubiese recurrido
+  nosotros:
+    - hubiéramos recurrido
+    - hubiésemos recurrido
+  vosotros:
+    - hubierais recurrido
+    - hubieseis recurrido
+  uds:
+    - hubieran recurrido
+    - hubiesen recurrido
+imperativo:
+  tu: recurre
+  vos: recurre
+  ud: recurra
+  nosotros: recurramos
+  vosotros: recurrid
+  uds: recurran

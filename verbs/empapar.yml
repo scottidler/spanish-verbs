@@ -1,0 +1,142 @@
+infinitivo: empapar
+gerundio: empapando
+participio-pasado: empapado
+presente-indicativo:
+  yo: empapo
+  tu: empapas
+  vos: empapas
+  ud: empapa
+  nosotros: empapamos
+  vosotros: empapáis
+  uds: empapan
+preterito-perfecto-simple:
+  yo: empapé
+  tu: empapaste
+  vos: empapaste
+  ud: empapó
+  nosotros: empapamos
+  vosotros: empapasteis
+  uds: empaparon
+preterito-imperfecto:
+  yo: empapaba
+  tu: empapabas
+  vos: empapabas
+  ud: empapaba
+  nosotros: empapábamos
+  vosotros: empapabais
+  uds: empapaban
+futuro-simple:
+  yo: empaparé
+  tu: empaparás
+  vos: empaparás
+  ud: empapará
+  nosotros: empaparemos
+  vosotros: empaparéis
+  uds: empaparán
+condicional-simple:
+  yo: empaparía
+  tu: empaparías
+  vos: empaparías
+  ud: empaparía
+  nosotros: empaparíamos
+  vosotros: empaparíais
+  uds: empaparían
+presente-perfecto:
+  yo: he empapado
+  tu: has empapado
+  vos: has empapado
+  ud: ha empapado
+  nosotros: hemos empapado
+  vosotros: habéis empapado
+  uds: han empapado
+preterito-pluscuamperfecto:
+  yo: había empapado
+  tu: habías empapado
+  vos: habías empapado
+  ud: había empapado
+  nosotros: habíamos empapado
+  vosotros: habíais empapado
+  uds: habían empapado
+futuro-perfecto:
+  yo: habré empapado
+  tu: habrás empapado
+  vos: habrás empapado
+  ud: habrá empapado
+  nosotros: habremos empapado
+  vosotros: habréis empapado
+  uds: habrán empapado
+condicional-perfecto:
+  yo: habría empapado
+  tu: habrías empapado
+  vos: habrías empapado
+  ud: habría empapado
+  nosotros: habríamos empapado
+  vosotros: habríais empapado
+  uds: habrían empapado
+presente-subjuntivo:
+  yo: empape
+  tu: empapes
+  vos: empapes
+  ud: empape
+  nosotros: empapemos
+  vosotros: empapéis
+  uds: empapen
+preterito-perfecto-subjuntivo:
+  yo: haya empapado
+  tu: hayas empapado
+  vos: hayas empapado
+  ud: haya empapado
+  nosotros: hayamos empapado
+  vosotros: hayáis empapado
+  uds: hayan empapado
+imperfecto-subjuntivo:
+  yo:
+    - empapara
+    - empapase
+  tu:
+    - empaparas
+    - empapases
+  vos:
+    - empaparas
+    - empapases
+  ud:
+    - empapara
+    - empapase
+  nosotros:
+    - empapáramos
+    - empapásemos
+  vosotros:
+    - empaparais
+    - empapaseis
+  uds:
+    - empaparan
+    - empapasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera empapado
+    - hubiese empapado
+  tu:
+    - hubieras empapado
+    - hubieses empapado
+  vos:
+    - hubieras empapado
+    - hubieses empapado
+  ud:
+    - hubiera empapado
+    - hubiese empapado
+  nosotros:
+    - hubiéramos empapado
+    - hubiésemos empapado
+  vosotros:
+    - hubierais empapado
+    - hubieseis empapado
+  uds:
+    - hubieran empapado
+    - hubiesen empapado
+imperativo:
+  tu: empapa
+  vos: empapá
+  ud: empape
+  nosotros: empapemos
+  vosotros: empapad
+  uds: empapen

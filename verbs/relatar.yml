@@ -1,0 +1,142 @@
+infinitivo: relatar
+gerundio: relatando
+participio-pasado: relatado
+presente-indicativo:
+  yo: relato
+  tu: relatas
+  vos: relatas
+  ud: relata
+  nosotros: relatamos
+  vosotros: relatáis
+  uds: relatan
+preterito-perfecto-simple:
+  yo: relaté
+  tu: relataste
+  vos: relataste
+  ud: relató
+  nosotros: relatamos
+  vosotros: relatasteis
+  uds: relataron
+preterito-imperfecto:
+  yo: relataba
+  tu: relatabas
+  vos: relatabas
+  ud: relataba
+  nosotros: relatábamos
+  vosotros: relatabais
+  uds: relataban
+futuro-simple:
+  yo: relataré
+  tu: relatarás
+  vos: relatarás
+  ud: relatará
+  nosotros: relataremos
+  vosotros: relataréis
+  uds: relatarán
+condicional-simple:
+  yo: relataría
+  tu: relatarías
+  vos: relatarías
+  ud: relataría
+  nosotros: relataríamos
+  vosotros: relataríais
+  uds: relatarían
+presente-perfecto:
+  yo: he relatado
+  tu: has relatado
+  vos: has relatado
+  ud: ha relatado
+  nosotros: hemos relatado
+  vosotros: habéis relatado
+  uds: han relatado
+preterito-pluscuamperfecto:
+  yo: había relatado
+  tu: habías relatado
+  vos: habías relatado
+  ud: había relatado
+  nosotros: habíamos relatado
+  vosotros: habíais relatado
+  uds: habían relatado
+futuro-perfecto:
+  yo: habré relatado
+  tu: habrás relatado
+  vos: habrás relatado
+  ud: habrá relatado
+  nosotros: habremos relatado
+  vosotros: habréis relatado
+  uds: habrán relatado
+condicional-perfecto:
+  yo: habría relatado
+  tu: habrías relatado
+  vos: habrías relatado
+  ud: habría relatado
+  nosotros: habríamos relatado
+  vosotros: habríais relatado
+  uds: habrían relatado
+presente-subjuntivo:
+  yo: relate
+  tu: relates
+  vos: relates
+  ud: relate
+  nosotros: relatemos
+  vosotros: relatéis
+  uds: relaten
+preterito-perfecto-subjuntivo:
+  yo: haya relatado
+  tu: hayas relatado
+  vos: hayas relatado
+  ud: haya relatado
+  nosotros: hayamos relatado
+  vosotros: hayáis relatado
+  uds: hayan relatado
+imperfecto-subjuntivo:
+  yo:
+    - relatara
+    - relatas e 
+  tu:
+    - relataras
+    - relatares
+  vos:
+    - relataras
+    - relatares
+  ud:
+    - relatara
+    - relatare
+  nosotros:
+    - relatáramos
+    - relatásemos
+  vosotros:
+    - relatarais
+    - relatareis
+  uds:
+    - relataran
+    - relataren
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera relatado
+    - hubiese relatado
+  tu:
+    - hubieras relatado
+    - hubieses relatado
+  vos:
+    - hubieras relatado
+    - hubieses relatado
+  ud:
+    - hubiera relatado
+    - hubiese relatado
+  nosotros:
+    - hubiéramos relatado
+    - hubiésemos relatado
+  vosotros:
+    - hubierais relatado
+    - hubieseis relatado
+  uds:
+    - hubieran relatado
+    - hubiesen relatado
+imperativo:
+  tu: relata
+  vos: relata
+  ud: relate
+  nosotros: relatemos
+  vosotros: relatad
+  uds: relaten

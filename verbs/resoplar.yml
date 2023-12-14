@@ -1,0 +1,142 @@
+infinitivo: resoplar
+gerundio: resoplando
+participio-pasado: resoplado
+presente-indicativo:
+  yo: resoplo
+  tu: resoplas
+  vos: resoplas
+  ud: resopla
+  nosotros: resoplamos
+  vosotros: resopláis
+  uds: resoplan
+preterito-perfecto-simple:
+  yo: resoplé
+  tu: resoplaste
+  vos: resoplaste
+  ud: resopló
+  nosotros: resoplamos
+  vosotros: resoplasteis
+  uds: resoplaron
+preterito-imperfecto:
+  yo: resoplaba
+  tu: resoblabas
+  vos: resoblabas
+  ud: resoblabla
+  nosotros: resoplábamos
+  vosotros: resoblabais
+  uds: resoblaban
+futuro-simple:
+  yo: resoplaré
+  tu: resoplarás
+  vos: resoplarás
+  ud: resoplará
+  nosotros: resoplaremos
+  vosotros: resoplaréis
+  uds: resoplarán
+condicional-simple:
+  yo: resoplaría
+  tu: resoplarías
+  vos: resoplarías
+  ud: resoplaría
+  nosotros: resoplaríamos
+  vosotros: resoplaríais
+  uds: resoplarían
+presente-perfecto:
+  yo: he resoplado
+  tu: has resoplado
+  vos: has resoplado
+  ud: ha resoplado
+  nosotros: hemos resoplado
+  vosotros: habéis resoplado
+  uds: han resoplado
+preterito-pluscuamperfecto:
+  yo: había resoplado
+  tu: habías resoplado
+  vos: habías resoplado
+  ud: había resoplado
+  nosotros: habíamos resoplado
+  vosotros: habíais resoplado
+  uds: habían resoplado
+futuro-perfecto:
+  yo: habré resoplado
+  tu: habrás resoplado
+  vos: habrás resoplado
+  ud: habrá resoplado
+  nosotros: habremos resoplado
+  vosotros: habréis resoplado
+  uds: habrán resoplado
+condicional-perfecto:
+  yo: habría resoplado
+  tu: habrías resoplado
+  vos: habrías resoplado
+  ud: habría resoplado
+  nosotros: habríamos resoplado
+  vosotros: habríais resoplado
+  uds: habrían resoplado
+presente-subjuntivo:
+  yo: resople
+  tu: resoples
+  vos: resoples
+  ud: resople
+  nosotros: resoplemos
+  vosotros: resopléis
+  uds: resoplen
+preterito-perfecto-subjuntivo:
+  yo: haya resoplado
+  tu: hayas resoplado
+  vos: hayas resoplado
+  ud: haya resoplado
+  nosotros: hayamos resoplado
+  vosotros: hayáis resoplado
+  uds: hayan resoplado
+imperfecto-subjuntivo:
+  yo:
+    - resoplara
+    - resoplase
+  tu:
+    - resoplaras
+    - resoplases
+  vos:
+    - resoplaras
+    - resoplases
+  ud:
+    - resoplara
+    - resoplase
+  nosotros:
+    - resopláramos
+    - resoplásemos
+  vosotros:
+    - resoplarais
+    - resoplaseis
+  uds:
+    - resoplaran
+    - resoplasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera resoplado
+    - hubiese resoplado
+  tu:
+    - hubieras resoplado
+    - hubieses resoplado
+  vos:
+    - hubieras resoplado
+    - hubieses resoplado
+  ud:
+    - hubiera resoplado
+    - hubiese resoplado
+  nosotros:
+    - hubiéramos resoplado
+    - hubiésemos resoplado
+  vosotros:
+    - hubierais resoplado
+    - hubieseis resoplado
+  uds:
+    - hubieran resoplado
+    - hubiesen resoplado
+imperativo:
+  tu: resopla
+  vos: resoplá
+  ud: resople
+  nosotros: resoplemos
+  vosotros: resoplad
+  uds: resoplen

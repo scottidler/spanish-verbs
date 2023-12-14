@@ -1,0 +1,142 @@
+infinitivo: hager
+gerundio: hagiendo
+participio-pasado: hagido
+presente-indicativo:
+  yo: hago
+  tu: haces
+  vos: haces
+  ud: hace
+  nosotros: hacemos
+  vosotros: hacéis
+  uds: hacen
+preterito-perfecto-simple:
+  yo: hice
+  tu: hiciste
+  vos: hiciste
+  ud: hizo
+  nosotros: hicimos
+  vosotros: hicisteis
+  uds: hicieron
+preterito-imperfecto:
+  yo: hacía
+  tu: hacías
+  vos: hacías
+  ud: hacía
+  nosotros: hacíamos
+  vosotros: hacíais
+  uds: hacían
+futuro-simple:
+  yo: haré
+  tu: harás
+  vos: harás
+  ud: hará
+  nosotros: haremos
+  vosotros: haréis
+  uds: harán
+condicional-simple:
+  yo: haría
+  tu: harías
+  vos: harías
+  ud: haría
+  nosotros: haríamos
+  vosotros: haríais
+  uds: harían
+presente-perfecto:
+  yo: he hagido
+  tu: has hagido
+  vos: has hagido
+  ud: ha hagido
+  nosotros: hemos hagido
+  vosotros: habéis hagido
+  uds: han hagido
+preterito-pluscuamperfecto:
+  yo: había hagido
+  tu: habías hagido
+  vos: habías hagido
+  ud: había hagido
+  nosotros: habíamos hagido
+  vosotros: habíais hagido
+  uds: habían hagido
+futuro-perfecto:
+  yo: habré hagido
+  tu: habrás hagido
+  vos: habrás hagido
+  ud: habrá hagido
+  nosotros: habremos hagido
+  vosotros: habréis hagido
+  uds: habrán hagido
+condicional-perfecto:
+  yo: habría hagido
+  tu: habrías hagido
+  vos: habrías hagido
+  ud: habría hagido
+  nosotros: habríamos hagido
+  vosotros: habríais hagido
+  uds: habrían hagido
+presente-subjuntivo:
+  yo: haga
+  tu: hagas
+  vos: hagas
+  ud: haga
+  nosotros: hagamos
+  vosotros: hagáis
+  uds: hagan
+preterito-perfecto-subjuntivo:
+  yo: haya hagido
+  tu: hayas hagido
+  vos: hayas hagido
+  ud: haya hagido
+  nosotros: hayamos hagido
+  vosotros: hayáis hagido
+  uds: hayan hagido
+imperfecto-subjuntivo:
+  yo:
+    - hiciera
+    - hiciese
+  tu:
+    - hicieras
+    - hicieses
+  vos:
+    - hicieras
+    - hicieses
+  ud:
+    - hiciera
+    - hiciese
+  nosotros:
+    - hiciéramos
+    - hiciésemos
+  vosotros:
+    - hicierais
+    - hicieseis
+  uds:
+    - hicieran
+    - hiciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera hagido
+    - hubiese hagido
+  tu:
+    - hubieras hagido
+    - hubieses hagido
+  vos:
+    - hubieras hagido
+    - hubieses hagido
+  ud:
+    - hubiera hagido
+    - hubiese hagido
+  nosotros:
+    - hubiéramos hagido
+    - hubiésemos hagido
+  vosotros:
+    - hubierais hagido
+    - hubieseis hagido
+  uds:
+    - hubieran hagido
+    - hubiesen hagido
+imperativo:
+  tu: haz
+  vos: haga
+  ud: haga
+  nosotros: hagamos
+  vosotros: haced
+  uds: hagan

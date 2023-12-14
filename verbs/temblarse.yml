@@ -1,0 +1,142 @@
+infinitivo: temblarse
+gerundio: temblando
+participio-pasado: temblado
+presente-indicativo:
+  yo: me tiemblo
+  tu: te tiemblas
+  vos: te tiemblas
+  ud: se tiembla
+  nosotros: nos temblamos
+  vosotros: os tembláis
+  uds: se tiemblan
+preterito-perfecto-simple:
+  yo: me temblé
+  tu: te temblaste
+  vos: te temblaste
+  ud: se tembló
+  nosotros: nos temblamos
+  vosotros: os temblasteis
+  uds: se temblaron
+preterito-imperfecto:
+  yo: me temblaba
+  tu: te temblabas
+  vos: te temblabas
+  ud: se temblaba
+  nosotros: nos temblábamos
+  vosotros: os temblabais
+  uds: se temblaban
+futuro-simple:
+  yo: me temblaré
+  tu: te temblarás
+  vos: te temblarás
+  ud: se temblará
+  nosotros: nos temblaremos
+  vosotros: os temblaréis
+  uds: se temblarán
+condicional-simple:
+  yo: me temblaría
+  tu: te temblarías
+  vos: te temblarías
+  ud: se temblaría
+  nosotros: nos temblaríamos
+  vosotros: os temblaríais
+  uds: se temblarían
+presente-perfecto:
+  yo: me he temblado
+  tu: te has temblado
+  vos: te has temblado
+  ud: se ha temblado
+  nosotros: nos hemos temblado
+  vosotros: os habéis temblado
+  uds: se han temblado
+preterito-pluscuamperfecto:
+  yo: me había temblado
+  tu: te habías temblado
+  vos: te habías temblado
+  ud: se había temblado
+  nosotros: nos habíamos temblado
+  vosotros: os habíais temblado
+  uds: se habían temblado
+futuro-perfecto:
+  yo: me habré temblado
+  tu: te habrás temblado
+  vos: te habrás temblado
+  ud: se habrá temblado
+  nosotros: nos habremos temblado
+  vosotros: os habréis temblado
+  uds: se habrán temblado
+condicional-perfecto:
+  yo: me habría temblado
+  tu: te habrías temblado
+  vos: te habrías temblado
+  ud: se habría temblado
+  nosotros: nos habríamos temblado
+  vosotros: os habríais temblado
+  uds: se habrían temblado
+presente-subjuntivo:
+  yo: me tiemble
+  tu: te tiembles
+  vos: te tiembles
+  ud: se tiemble
+  nosotros: nos tiemblemos
+  vosotros: os tembléis
+  uds: se tiemblen
+preterito-perfecto-subjuntivo:
+  yo: me haya temblado
+  tu: te hayas temblado
+  vos: te hayas temblado
+  ud: se haya temblado
+  nosotros: nos hayamos temblado
+  vosotros: os hayáis temblado
+  uds: se hayan temblado
+imperfecto-subjuntivo:
+  yo:
+    - me temblara
+    - me temblase
+  tu:
+    - temblaras
+    - temblases
+  vos:
+    - temblaras
+    - temblases
+  ud:
+    - temblara
+    - temblase
+  nosotros:
+    - tembláramos
+    - temblásemos
+  vosotros:
+    - temblarais
+    - temblaseis
+  uds:
+    - temblaran
+    - temblasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera temblado
+    - me hubiese temblado
+  tu:
+    - te hubieras temblado
+    - te hubieses temblado
+  vos:
+    - te hubieras temblado
+    - te hubieses temblado
+  ud:
+    - se hubiera temblado
+    - se hubiese temblado
+  nosotros:
+    - nos hubiéramos temblado
+    - nos hubiésemos temblado
+  vosotros:
+    - os hubierais temblado
+    - os hubieseis temblado
+  uds:
+    - se hubieran temblado
+    - se hubiesen temblado
+imperativo:
+  tu: tiembla
+  vos: tiemble
+  ud: tiemblese
+  nosotros: tiemblemos
+  vosotros: tembled
+  uds: tiemblense

@@ -1,0 +1,142 @@
+infinitivo: dedicar
+gerundio: dedicando
+participio-pasado: dedicado
+presente-indicativo:
+  yo: dedico
+  tu: dedicas
+  vos: dedicas
+  ud: dedica
+  nosotros: dedicamos
+  vosotros: dedicáis
+  uds: dedican
+preterito-perfecto-simple:
+  yo: dediqué
+  tu: dedicaste
+  vos: dedicaste
+  ud: dedicó
+  nosotros: dedicamos
+  vosotros: dedicasteis
+  uds: dedicaron
+preterito-imperfecto:
+  yo: dedicaba
+  tu: dedicabas
+  vos: dedicabas
+  ud: dedicaba
+  nosotros: dedicábamos
+  vosotros: dedicabais
+  uds: dedicaban
+futuro-simple:
+  yo: dedicaré
+  tu: dedicarás
+  vos: dedicarás
+  ud: dedicará
+  nosotros: dedicaremos
+  vosotros: dedicaréis
+  uds: dedicarán
+condicional-simple:
+  yo: dedicaría
+  tu: dedicarías
+  vos: dedicarías
+  ud: dedicaría
+  nosotros: dedicaríamos
+  vosotros: dedicaríais
+  uds: dedicarían
+presente-perfecto:
+  yo: he dedicado
+  tu: has dedicado
+  vos: has dedicado
+  ud: ha dedicado
+  nosotros: hemos dedicado
+  vosotros: habéis dedicado
+  uds: han dedicado
+preterito-pluscuamperfecto:
+  yo: había dedicado
+  tu: habías dedicado
+  vos: habías dedicado
+  ud: había dedicado
+  nosotros: habíamos dedicado
+  vosotros: habíais dedicado
+  uds: habían dedicado
+futuro-perfecto:
+  yo: habré dedicado
+  tu: habrás dedicado
+  vos: habrás dedicado
+  ud: habrá dedicado
+  nosotros: habremos dedicado
+  vosotros: habréis dedicado
+  uds: habrán dedicado
+condicional-perfecto:
+  yo: habría dedicado
+  tu: habrías dedicado
+  vos: habrías dedicado
+  ud: habría dedicado
+  nosotros: habríamos dedicado
+  vosotros: habríais dedicado
+  uds: habrían dedicado
+presente-subjuntivo:
+  yo: dedique
+  tu: dediques
+  vos: dediques
+  ud: dedique
+  nosotros: dediquemos
+  vosotros: dediquéis
+  uds: dediquen
+preterito-perfecto-subjuntivo:
+  yo: haya dedicado
+  tu: hayas dedicado
+  vos: hayas dedicado
+  ud: haya dedicado
+  nosotros: hayamos dedicado
+  vosotros: hayáis dedicado
+  uds: hayan dedicado
+imperfecto-subjuntivo:
+  yo:
+    - dedicara
+    - dedicase
+  tu:
+    - dedicaras
+    - dedicases
+  vos:
+    - dedicaras
+    - dedicases
+  ud:
+    - dedicara
+    - dedicase
+  nosotros:
+    - dedicáramos
+    - dedicásemos
+  vosotros:
+    - dedicarais
+    - dedicaseis
+  uds:
+    - dedicaran
+    - dedicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dedicado
+    - hubiese dedicado
+  tu:
+    - hubieras dedicado
+    - hubieses dedicado
+  vos:
+    - hubieras dedicado
+    - hubieses dedicado
+  ud:
+    - hubiera dedicado
+    - hubiese dedicado
+  nosotros:
+    - hubiéramos dedicado
+    - hubiésemos dedicado
+  vosotros:
+    - hubierais dedicado
+    - hubieseis dedicado
+  uds:
+    - hubieran dedicado
+    - hubiesen dedicado
+imperativo:
+  tu: dedica
+  vos: dedicá
+  ud: dedique
+  nosotros: dediquemos
+  vosotros: dedicad
+  uds: dediquen

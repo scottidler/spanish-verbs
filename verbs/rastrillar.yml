@@ -1,0 +1,142 @@
+infinitivo: rastrillar
+gerundio: rastrillando
+participio-pasado: rastrillado
+presente-indicativo:
+  yo: rastrillo
+  tu: rastrillas
+  vos: rastrillás
+  ud: rastrilla
+  nosotros: rastrillamos
+  vosotros: rastrilláis
+  uds: rastrillan
+preterito-perfecto-simple:
+  yo: rastrillé
+  tu: rastrillaste
+  vos: rastrillaste
+  ud: rastrilló
+  nosotros: rastrillamos
+  vosotros: rastrillasteis
+  uds: rastrillaron
+preterito-imperfecto:
+  yo: rastrillaba
+  tu: rastrillabas
+  vos: rastrillabas
+  ud: rastrillaba
+  nosotros: rastrillábamos
+  vosotros: rastrillabais
+  uds: rastrillaban
+futuro-simple:
+  yo: rastrillaré
+  tu: rastrillarás
+  vos: rastrillarás
+  ud: rastrillará
+  nosotros: rastrillaremos
+  vosotros: rastrillaréis
+  uds: rastrillarán
+condicional-simple:
+  yo: rastrillaría
+  tu: rastrillarías
+  vos: rastrillarías
+  ud: rastrillaría
+  nosotros: rastrillaríamos
+  vosotros: rastrillaríais
+  uds: rastrillarían
+presente-perfecto:
+  yo: he rastrillado
+  tu: has rastrillado
+  vos: has rastrillado
+  ud: ha rastrillado
+  nosotros: hemos rastrillado
+  vosotros: habéis rastrillado
+  uds: han rastrillado
+preterito-pluscuamperfecto:
+  yo: había rastrillado
+  tu: habías rastrillado
+  vos: habías rastrillado
+  ud: había rastrillado
+  nosotros: habíamos rastrillado
+  vosotros: habíais rastrillado
+  uds: habían rastrillado
+futuro-perfecto:
+  yo: habré rastrillado
+  tu: habrás rastrillado
+  vos: habrás rastrillado
+  ud: habrá rastrillado
+  nosotros: habremos rastrillado
+  vosotros: habréis rastrillado
+  uds: habrán rastrillado
+condicional-perfecto:
+  yo: habría rastrillado
+  tu: habrías rastrillado
+  vos: habrías rastrillado
+  ud: habría rastrillado
+  nosotros: habríamos rastrillado
+  vosotros: habríais rastrillado
+  uds: habrían rastrillado
+presente-subjuntivo:
+  yo: rastrille
+  tu: rastrilles
+  vos: rastrilles
+  ud: rastrille
+  nosotros: rastrillemos
+  vosotros: rastrilléis
+  uds: rastrillen
+preterito-perfecto-subjuntivo:
+  yo: haya rastrillado
+  tu: hayas rastrillado
+  vos: hayas rastrillado
+  ud: haya rastrillado
+  nosotros: hayamos rastrillado
+  vosotros: hayáis rastrillado
+  uds: hayan rastrillado
+imperfecto-subjuntivo:
+  yo:
+    - rastrillara
+    - rastrillase
+  tu:
+    - rastrillaras
+    - rastrillases
+  vos:
+    - rastrillaras
+    - rastrillases
+  ud:
+    - rastrillara
+    - rastrillase
+  nosotros:
+    - rastrilláramos
+    - rastrillásemos
+  vosotros:
+    - rastrillarais
+    - rastrillaseis
+  uds:
+    - rastrillaran
+    - rastrillasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rastrillado
+    - hubiese rastrillado
+  tu:
+    - hubieras rastrillado
+    - hubieses rastrillado
+  vos:
+    - hubieras rastrillado
+    - hubieses rastrillado
+  ud:
+    - hubiera rastrillado
+    - hubiese rastrillado
+  nosotros:
+    - hubiéramos rastrillado
+    - hubiésemos rastrillado
+  vosotros:
+    - hubierais rastrillado
+    - hubieseis rastrillado
+  uds:
+    - hubieran rastrillado
+    - hubiesen rastrillado
+imperativo:
+  tu: rastrilla
+  vos: rastrillá
+  ud: rastrille
+  nosotros: rastrillemos
+  vosotros: rastrillad
+  uds: rastrillen

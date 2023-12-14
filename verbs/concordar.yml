@@ -1,0 +1,142 @@
+infinitivo: concordar
+gerundio: concordando
+participio-pasado: concordado
+presente-indicativo:
+  yo: concuerdo
+  tu: concuerdas
+  vos: concordás
+  ud: concuerda
+  nosotros: concordamos
+  vosotros: concordáis
+  uds: concuerdan
+preterito-perfecto-simple:
+  yo: concordé
+  tu: concordaste
+  vos: concordaste
+  ud: concordó
+  nosotros: concordamos
+  vosotros: concordasteis
+  uds: concordaron
+preterito-imperfecto:
+  yo: concordaba
+  tu: concordabas
+  vos: concordabas
+  ud: concordaba
+  nosotros: concordábamos
+  vosotros: concordabais
+  uds: concordaban
+futuro-simple:
+  yo: concordaré
+  tu: concordarás
+  vos: concordarás
+  ud: concordará
+  nosotros: concordaremos
+  vosotros: concordaréis
+  uds: concordarán
+condicional-simple:
+  yo: concordaría
+  tu: concordarías
+  vos: concordarías
+  ud: concordaría
+  nosotros: concordaríamos
+  vosotros: concordaríais
+  uds: concordarían
+presente-perfecto:
+  yo: he concordado
+  tu: has concordado
+  vos: has concordado
+  ud: ha concordado
+  nosotros: hemos concordado
+  vosotros: habéis concordado
+  uds: han concordado
+preterito-pluscuamperfecto:
+  yo: había concordado
+  tu: habías concordado
+  vos: habías concordado
+  ud: había concordado
+  nosotros: habíamos concordado
+  vosotros: habíais concordado
+  uds: habían concordado
+futuro-perfecto:
+  yo: habré concordado
+  tu: habrás concordado
+  vos: habrás concordado
+  ud: habrá concordado
+  nosotros: habremos concordado
+  vosotros: habréis concordado
+  uds: habrán concordado
+condicional-perfecto:
+  yo: habría concordado
+  tu: habrías concordado
+  vos: habrías concordado
+  ud: habría concordado
+  nosotros: habríamos concordado
+  vosotros: habríais concordado
+  uds: habrían concordado
+presente-subjuntivo:
+  yo: concuerde
+  tu: concuerdes
+  vos: concuerdes
+  ud: concuerde
+  nosotros: concordemos
+  vosotros: concordéis
+  uds: concuerden
+preterito-perfecto-subjuntivo:
+  yo: haya concordado
+  tu: hayas concordado
+  vos: hayas concordado
+  ud: haya concordado
+  nosotros: hayamos concordado
+  vosotros: hayáis concordado
+  uds: hayan concordado
+imperfecto-subjuntivo:
+  yo:
+    - concordara
+    - concordase
+  tu:
+    - concordaras
+    - concordases
+  vos:
+    - concordaras
+    - concordases
+  ud:
+    - concordara
+    - concordase
+  nosotros:
+    - concordáramos
+    - concordásemos
+  vosotros:
+    - concordarais
+    - concordaseis
+  uds:
+    - concordaran
+    - concordasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera concordado
+    - hubiese concordado
+  tu:
+    - hubieras concordado
+    - hubieses concordado
+  vos:
+    - hubieras concordado
+    - hubieses concordado
+  ud:
+    - hubiera concordado
+    - hubiese concordado
+  nosotros:
+    - hubiéramos concordado
+    - hubiésemos concordado
+  vosotros:
+    - hubierais concordado
+    - hubieseis concordado
+  uds:
+    - hubieran concordado
+    - hubiesen concordado
+imperativo:
+  tu: concuerda
+  vos: concordá
+  ud: concuerde
+  nosotros: concordemos
+  vosotros: concordad
+  uds: concuerden

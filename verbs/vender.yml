@@ -1,0 +1,142 @@
+infinitivo: vender
+gerundio: vendiendo
+participio-pasado: vendido
+presente-indicativo:
+  yo: vendo
+  tu: vendes
+  vos: vendes
+  ud: vende
+  nosotros: vendemos
+  vosotros: vendéis
+  uds: venden
+preterito-perfecto-simple:
+  yo: vendí
+  tu: vendiste
+  vos: vendiste
+  ud: vendió
+  nosotros: vendimos
+  vosotros: vendisteis
+  uds: vendieron
+preterito-imperfecto:
+  yo: vendía
+  tu: vendías
+  vos: vendías
+  ud: vendía
+  nosotros: vendíamos
+  vosotros: vendíais
+  uds: vendían
+futuro-simple:
+  yo: venderé
+  tu: venderás
+  vos: venderás
+  ud: venderá
+  nosotros: venderemos
+  vosotros: venderéis
+  uds: venderán
+condicional-simple:
+  yo: vendería
+  tu: venderías
+  vos: venderías
+  ud: vendería
+  nosotros: venderíamos
+  vosotros: venderíais
+  uds: venderían
+presente-perfecto:
+  yo: he vendido
+  tu: has vendido
+  vos: has vendido
+  ud: ha vendido
+  nosotros: hemos vendido
+  vosotros: habéis vendido
+  uds: han vendido
+preterito-pluscuamperfecto:
+  yo: había vendido
+  tu: habías vendido
+  vos: habías vendido
+  ud: había vendido
+  nosotros: habíamos vendido
+  vosotros: habíais vendido
+  uds: habían vendido
+futuro-perfecto:
+  yo: habré vendido
+  tu: habrás vendido
+  vos: habrás vendido
+  ud: habrá vendido
+  nosotros: habremos vendido
+  vosotros: habréis vendido
+  uds: habrán vendido
+condicional-perfecto:
+  yo: habría vendido
+  tu: habrías vendido
+  vos: habrías vendido
+  ud: habría vendido
+  nosotros: habríamos vendido
+  vosotros: habríais vendido
+  uds: habrían vendido
+presente-subjuntivo:
+  yo: venda
+  tu: vendas
+  vos: vendas
+  ud: venda
+  nosotros: vendamos
+  vosotros: vendáis
+  uds: vendan
+preterito-perfecto-subjuntivo:
+  yo: haya vendido
+  tu: hayas vendido
+  vos: hayas vendido
+  ud: haya vendido
+  nosotros: hayamos vendido
+  vosotros: hayáis vendido
+  uds: hayan vendido
+imperfecto-subjuntivo:
+  yo:
+    - vendiera
+    - vendiese
+  tu:
+    - vendieras
+    - vendieses
+  vos:
+    - vendieras
+    - vendieses
+  ud:
+    - vendiera
+    - vendiese
+  nosotros:
+    - vendiéramos
+    - vendiésemos
+  vosotros:
+    - vendierais
+    - vendieseis
+  uds:
+    - vendieran
+    - vendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vendido
+    - hubiese vendido
+  tu:
+    - hubieras vendido
+    - hubieses vendido
+  vos:
+    - hubieras vendido
+    - hubieses vendido
+  ud:
+    - hubiera vendido
+    - hubiese vendido
+  nosotros:
+    - hubiéramos vendido
+    - hubiésemos vendido
+  vosotros:
+    - hubierais vendido
+    - hubieseis vendido
+  uds:
+    - hubieran vendido
+    - hubiesen vendido
+imperativo:
+  tu: vende
+  vos: vendé
+  ud: venda
+  nosotros: vendamos
+  vosotros: vended
+  uds: vendan

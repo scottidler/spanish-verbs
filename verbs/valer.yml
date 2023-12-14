@@ -1,0 +1,142 @@
+infinitivo: valer
+gerundio: valiendo
+participio-pasado: valido
+presente-indicativo:
+  yo: valgo
+  tu: vales
+  vos: vales
+  ud: vale
+  nosotros: valemos
+  vosotros: valéis
+  uds: valen
+preterito-perfecto-simple:
+  yo: valí
+  tu: valiste
+  vos: valiste
+  ud: valió
+  nosotros: valimos
+  vosotros: valisteis
+  uds: valieron
+preterito-imperfecto:
+  yo: valía
+  tu: valías
+  vos: valías
+  ud: valía
+  nosotros: valíamos
+  vosotros: valíais
+  uds: valían
+futuro-simple:
+  yo: valdré
+  tu: valdrás
+  vos: valdrás
+  ud: valdrá
+  nosotros: valdremos
+  vosotros: valdréis
+  uds: valdrán
+condicional-simple:
+  yo: valdría
+  tu: valdrías
+  vos: valdrías
+  ud: valdría
+  nosotros: valdríamos
+  vosotros: valdríais
+  uds: valdrían
+presente-perfecto:
+  yo: he valido
+  tu: has valido
+  vos: has valido
+  ud: ha valido
+  nosotros: hemos valido
+  vosotros: habéis valido
+  uds: han valido
+preterito-pluscuamperfecto:
+  yo: había valido
+  tu: habías valido
+  vos: habías valido
+  ud: había valido
+  nosotros: habíamos valido
+  vosotros: habíais valido
+  uds: habían valido
+futuro-perfecto:
+  yo: habré valido
+  tu: habrás valido
+  vos: habrás valido
+  ud: habrá valido
+  nosotros: habremos valido
+  vosotros: habréis valido
+  uds: habrán valido
+condicional-perfecto:
+  yo: habría valido
+  tu: habrías valido
+  vos: habrías valido
+  ud: habría valido
+  nosotros: habríamos valido
+  vosotros: habríais valido
+  uds: habrían valido
+presente-subjuntivo:
+  yo: valga
+  tu: valgas
+  vos: valgas
+  ud: valga
+  nosotros: valgamos
+  vosotros: valgáis
+  uds: valgan
+preterito-perfecto-subjuntivo:
+  yo: haya valido
+  tu: hayas valido
+  vos: hayas valido
+  ud: haya valido
+  nosotros: hayamos valido
+  vosotros: hayáis valido
+  uds: hayan valido
+imperfecto-subjuntivo:
+  yo:
+    - valiera
+    - valiese
+  tu:
+    - valieras
+    - valieses
+  vos:
+    - valieras
+    - valieses
+  ud:
+    - valiera
+    - valiese
+  nosotros:
+    - valiéramos
+    - valiésemos
+  vosotros:
+    - valierais
+    - valieseis
+  uds:
+    - valieran
+    - valiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera valido
+    - hubiese valido
+  tu:
+    - hubieras valido
+    - hubieses valido
+  vos:
+    - hubieras valido
+    - hubieses valido
+  ud:
+    - hubiera valido
+    - hubiese valido
+  nosotros:
+    - hubiéramos valido
+    - hubiésemos valido
+  vosotros:
+    - hubierais valido
+    - hubieseis valido
+  uds:
+    - hubieran valido
+    - hubiesen valido
+imperativo:
+  tu: vale
+  vos: valé
+  ud: valga
+  nosotros: valgamos
+  vosotros: valed
+  uds: valgan

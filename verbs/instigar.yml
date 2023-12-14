@@ -1,0 +1,142 @@
+infinitivo: instigar
+gerundio: instigando
+participio-pasado: instigado
+presente-indicativo:
+  yo: instigo
+  tu: instigas
+  vos: instigas
+  ud: instiga
+  nosotros: instigamos
+  vosotros: instigáis
+  uds: instigan
+preterito-perfecto-simple:
+  yo: instigué
+  tu: instigaste
+  vos: instigaste
+  ud: instigó
+  nosotros: instigamos
+  vosotros: instigasteis
+  uds: instigaron
+preterito-imperfecto:
+  yo: instigaba
+  tu: instigabas
+  vos: instigabas
+  ud: instigaba
+  nosotros: instigábamos
+  vosotros: instigabais
+  uds: instigaban
+futuro-simple:
+  yo: instigaré
+  tu: instigarás
+  vos: instigarás
+  ud: instigará
+  nosotros: instigaremos
+  vosotros: instigaréis
+  uds: instigarán
+condicional-simple:
+  yo: instigaría
+  tu: instigarías
+  vos: instigarías
+  ud: instigaría
+  nosotros: instigaríamos
+  vosotros: instigaríais
+  uds: instigarían
+presente-perfecto:
+  yo: he instigado
+  tu: has instigado
+  vos: has instigado
+  ud: ha instigado
+  nosotros: hemos instigado
+  vosotros: habéis instigado
+  uds: han instigado
+preterito-pluscuamperfecto:
+  yo: había instigado
+  tu: habías instigado
+  vos: habías instigado
+  ud: había instigado
+  nosotros: habíamos instigado
+  vosotros: habíais instigado
+  uds: habían instigado
+futuro-perfecto:
+  yo: habré instigado
+  tu: habrás instigado
+  vos: habrás instigado
+  ud: habrá instigado
+  nosotros: habremos instigado
+  vosotros: habréis instigado
+  uds: habrán instigado
+condicional-perfecto:
+  yo: habría instigado
+  tu: habrías instigado
+  vos: habrías instigado
+  ud: habría instigado
+  nosotros: habríamos instigado
+  vosotros: habríais instigado
+  uds: habrían instigado
+presente-subjuntivo:
+  yo: instigue
+  tu: instigues
+  vos: instigues
+  ud: instigue
+  nosotros: instiguemos
+  vosotros: instiguéis
+  uds: instiguen
+preterito-perfecto-subjuntivo:
+  yo: haya instigado
+  tu: hayas instigado
+  vos: hayas instigado
+  ud: haya instigado
+  nosotros: hayamos instigado
+  vosotros: hayáis instigado
+  uds: hayan instigado
+imperfecto-subjuntivo:
+  yo:
+    - instigara
+    - instigase
+  tu:
+    - instigaras
+    - instigases
+  vos:
+    - instigaras
+    - instigases
+  ud:
+    - instigara
+    - instigase
+  nosotros:
+    - instigáramos
+    - instigásemos
+  vosotros:
+    - instigarais
+    - instigaseis
+  uds:
+    - instigaran
+    - instigasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera instigado
+    - hubiese instigado
+  tu:
+    - hubieras instigado
+    - hubieses instigado
+  vos:
+    - hubieras instigado
+    - hubieses instigado
+  ud:
+    - hubiera instigado
+    - hubiese instigado
+  nosotros:
+    - hubiéramos instigado
+    - hubiésemos instigado
+  vosotros:
+    - hubierais instigado
+    - hubieseis instigado
+  uds:
+    - hubieran instigado
+    - hubiesen instigado
+imperativo:
+  tu: instiga
+  vos: instigá
+  ud: instigue
+  nosotros: instiguemos
+  vosotros: instigad
+  uds: instiguen

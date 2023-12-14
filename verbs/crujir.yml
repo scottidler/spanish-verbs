@@ -1,0 +1,142 @@
+infinitivo: crujir
+gerundio: crujendo
+participio-pasado: crujido
+presente-indicativo:
+  yo: crujo
+  tu: crujes
+  vos: crujes
+  ud: cruje
+  nosotros: crujimos
+  vosotros: crujís
+  uds: crujen
+preterito-perfecto-simple:
+  yo: crují
+  tu: crujiste
+  vos: crujiste
+  ud: crujó
+  nosotros: crujimos
+  vosotros: crujisteis
+  uds: crujieron
+preterito-imperfecto:
+  yo: crujía
+  tu: crujías
+  vos: crujías
+  ud: crujía
+  nosotros: crujíamos
+  vosotros: crujíais
+  uds: crujían
+futuro-simple:
+  yo: crujiré
+  tu: crujirás
+  vos: crujirás
+  ud: crujirá
+  nosotros: crujiremos
+  vosotros: crujiréis
+  uds: crujirán
+condicional-simple:
+  yo: crujiría
+  tu: crujirías
+  vos: crujirías
+  ud: crujiría
+  nosotros: crujiríamos
+  vosotros: crujiríais
+  uds: crujirían
+presente-perfecto:
+  yo: he crujido
+  tu: has crujido
+  vos: has crujido
+  ud: ha crujido
+  nosotros: hemos crujido
+  vosotros: habéis crujido
+  uds: han crujido
+preterito-pluscuamperfecto:
+  yo: había crujido
+  tu: habías crujido
+  vos: habías crujido
+  ud: había crujido
+  nosotros: habíamos crujido
+  vosotros: habíais crujido
+  uds: habían crujido
+futuro-perfecto:
+  yo: habré crujido
+  tu: habrás crujido
+  vos: habrás crujido
+  ud: habrá crujido
+  nosotros: habremos crujido
+  vosotros: habréis crujido
+  uds: habrán crujido
+condicional-perfecto:
+  yo: habría crujido
+  tu: habrías crujido
+  vos: habrías crujido
+  ud: habría crujido
+  nosotros: habríamos crujido
+  vosotros: habríais crujido
+  uds: habrían crujido
+presente-subjuntivo:
+  yo: crujas
+  tu: crujas
+  vos: crujas
+  ud: cruja
+  nosotros: crujamos
+  vosotros: crujáis
+  uds: crujan
+preterito-perfecto-subjuntivo:
+  yo: haya crujido
+  tu: hayas crujido
+  vos: hayas crujido
+  ud: haya crujido
+  nosotros: hayamos crujido
+  vosotros: hayáis crujido
+  uds: hayan crujido
+imperfecto-subjuntivo:
+  yo:
+    - crujiera
+    - crujiese
+  tu:
+    - crujieras
+    - crujieses
+  vos:
+    - crujieras
+    - crujieses
+  ud:
+    - crujiera
+    - crujiese
+  nosotros:
+    - crujieramos
+    - crujiésemos
+  vosotros:
+    - crujierais
+    - crujieseis
+  uds:
+    - crujieran
+    - crujiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera crujido
+    - hubiese crujido
+  tu:
+    - hubieras crujido
+    - hubieses crujido
+  vos:
+    - hubieras crujido
+    - hubieses crujido
+  ud:
+    - hubiera crujido
+    - hubiese crujido
+  nosotros:
+    - hubiéramos crujido
+    - hubiésemos crujido
+  vosotros:
+    - hubierais crujido
+    - hubieseis crujido
+  uds:
+    - hubieran crujido
+    - hubiesen crujido
+imperativo:
+  tu: cruje
+  vos: crují
+  ud: cruja
+  nosotros: crujamos
+  vosotros: crujid
+  uds: crujan

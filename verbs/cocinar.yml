@@ -1,0 +1,142 @@
+infinitivo: cocinar
+gerundio: cocinando
+participio-pasado: cocinado
+presente-indicativo:
+  yo: cocino
+  tu: cocinas
+  vos: cocinas
+  ud: cocina
+  nosotros: cocinamos
+  vosotros: cocináis
+  uds: cocinan
+preterito-perfecto-simple:
+  yo: cociné
+  tu: cocinaste
+  vos: cocinaste
+  ud: cocinó
+  nosotros: cocinamos
+  vosotros: cocinasteis
+  uds: cocinaron
+preterito-imperfecto:
+  yo: cocinaba
+  tu: cocinabas
+  vos: cocinabas
+  ud: cocinaba
+  nosotros: cocinábamos
+  vosotros: cocinabais
+  uds: cocinaban
+futuro-simple:
+  yo: cocinaré
+  tu: cocinarás
+  vos: cocinarás
+  ud: cocinará
+  nosotros: cocinaremos
+  vosotros: cocinaréis
+  uds: cocinarán
+condicional-simple:
+  yo: cocinaría
+  tu: cocinarías
+  vos: cocinarías
+  ud: cocinaría
+  nosotros: cocinaríamos
+  vosotros: cocinaríais
+  uds: cocinarían
+presente-perfecto:
+  yo: he cocinado
+  tu: has cocinado
+  vos: has cocinado
+  ud: ha cocinado
+  nosotros: hemos cocinado
+  vosotros: habéis cocinado
+  uds: han cocinado
+preterito-pluscuamperfecto:
+  yo: había cocinado
+  tu: habías cocinado
+  vos: habías cocinado
+  ud: había cocinado
+  nosotros: habíamos cocinado
+  vosotros: habíais cocinado
+  uds: habían cocinado
+futuro-perfecto:
+  yo: habré cocinado
+  tu: habrás cocinado
+  vos: habrás cocinado
+  ud: habrá cocinado
+  nosotros: habremos cocinado
+  vosotros: habréis cocinado
+  uds: habrán cocinado
+condicional-perfecto:
+  yo: habría cocinado
+  tu: habrías cocinado
+  vos: habrías cocinado
+  ud: habría cocinado
+  nosotros: habríamos cocinado
+  vosotros: habríais cocinado
+  uds: habrían cocinado
+presente-subjuntivo:
+  yo: cocine
+  tu: cocines
+  vos: cocines
+  ud: cocine
+  nosotros: cocinemos
+  vosotros: cocinéis
+  uds: cocinen
+preterito-perfecto-subjuntivo:
+  yo: haya cocinado
+  tu: hayas cocinado
+  vos: hayas cocinado
+  ud: haya cocinado
+  nosotros: hayamos cocinado
+  vosotros: hayáis cocinado
+  uds: hayan cocinado
+imperfecto-subjuntivo:
+  yo:
+    - cocinara
+    - cocinase
+  tu:
+    - cocinaras
+    - cocinases
+  vos:
+    - cocinaras
+    - cocinases
+  ud:
+    - cocinara
+    - cocinase
+  nosotros:
+    - cocináramos
+    - cocinásemos
+  vosotros:
+    - cocinarais
+    - cocinaseis
+  uds:
+    - cocinaran
+    - cocinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cocinado
+    - hubiese cocinado
+  tu:
+    - hubieras cocinado
+    - hubieses cocinado
+  vos:
+    - hubieras cocinado
+    - hubieses cocinado
+  ud:
+    - hubiera cocinado
+    - hubiese cocinado
+  nosotros:
+    - hubiéramos cocinado
+    - hubiésemos cocinado
+  vosotros:
+    - hubierais cocinado
+    - hubieseis cocinado
+  uds:
+    - hubieran cocinado
+    - hubiesen cocinado
+imperativo:
+  tu: cocina
+  vos: cociná
+  ud: cocine
+  nosotros: cocinemos
+  vosotros: cocinad
+  uds: cocinen

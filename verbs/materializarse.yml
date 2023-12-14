@@ -1,0 +1,142 @@
+infinitivo: materializarse
+gerundio: materializándose
+participio-pasado: materializado
+presente-indicativo:
+  yo: me materializo
+  tu: te materializas
+  vos: te materializas
+  ud: se materializa
+  nosotros: nos materializamos
+  vosotros: os materializáis
+  uds: se materializan
+preterito-perfecto-simple:
+  yo: me materialicé
+  tu: te materializaste
+  vos: te materializaste
+  ud: se materializó
+  nosotros: nos materializamos
+  vosotros: os materializasteis
+  uds: se materializaron
+preterito-imperfecto:
+  yo: me materializaba
+  tu: te materializabas
+  vos: te materializabas
+  ud: se materializaba
+  nosotros: nos materializábamos
+  vosotros: os materializabais
+  uds: se materializaban
+futuro-simple:
+  yo: me materializaré
+  tu: te materializarás
+  vos: te materializarás
+  ud: se materializará
+  nosotros: nos materializaremos
+  vosotros: os materializaréis
+  uds: se materializarán
+condicional-simple:
+  yo: me materializaría
+  tu: te materializarías
+  vos: te materializarías
+  ud: se materializaría
+  nosotros: nos materializaríamos
+  vosotros: os materializaríais
+  uds: se materializarían
+presente-perfecto:
+  yo: me he materializado
+  tu: te has materializado
+  vos: te has materializado
+  ud: se ha materializado
+  nosotros: nos hemos materializado
+  vosotros: os habéis materializado
+  uds: se han materializado
+preterito-pluscuamperfecto:
+  yo: me había materializado
+  tu: te habías materializado
+  vos: te habías materializado
+  ud: se había materializado
+  nosotros: nos habíamos materializado
+  vosotros: os habíais materializado
+  uds: se habían materializado
+futuro-perfecto:
+  yo: me habré materializado
+  tu: te habrás materializado
+  vos: te habrás materializado
+  ud: se habrá materializado
+  nosotros: nos habremos materializado
+  vosotros: os habréis materializado
+  uds: se habrán materializado
+condicional-perfecto:
+  yo: me habría materializado
+  tu: te habrías materializado
+  vos: te habrías materializado
+  ud: se habría materializado
+  nosotros: nos habríamos materializado
+  vosotros: os habríais materializado
+  uds: se habrían materializado
+presente-subjuntivo:
+  yo: me materialice
+  tu: te materialices
+  vos: te materialices
+  ud: se materialice
+  nosotros: nos materialicemos
+  vosotros: os materialicéis
+  uds: se materialicen
+preterito-perfecto-subjuntivo:
+  yo: me haya materializado
+  tu: te hayas materializado
+  vos: te hayas materializado
+  ud: se haya materializado
+  nosotros: nos hayamos materializado
+  vosotros: os hayáis materializado
+  uds: se hayan materializado
+imperfecto-subjuntivo:
+  yo:
+    - me materializara
+    - me materializase
+  tu:
+    - te materializaras
+    - te materializases
+  vos:
+    - te materializaras
+    - te materializases
+  ud:
+    - se materializara
+    - se materializase
+  nosotros:
+    - nos materializáramos
+    - nos materializásemos
+  vosotros:
+    - os materializarais
+    - os materializaseis
+  uds:
+    - se materializaran
+    - se materializasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera materializado
+    - me hubiese materializado
+  tu:
+    - te hubieras materializado
+    - te hubieses materializado
+  vos:
+    - te hubieras materializado
+    - te hubieses materializado
+  ud:
+    - se hubiera materializado
+    - se hubiese materializado
+  nosotros:
+    - nos hubiéramos materializado
+    - nos hubiésemos materializado
+  vosotros:
+    - os hubierais materializado
+    - os hubieseis materializado
+  uds:
+    - se hubieran materializado
+    - se hubiesen materializado
+imperativo:
+  tu: materialízate
+  vos: materialízate
+  ud: materialícese
+  nosotros: materialicémonos
+  vosotros: materializaos
+  uds: materialícense

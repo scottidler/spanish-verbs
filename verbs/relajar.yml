@@ -1,0 +1,142 @@
+infinitivo: relajar
+gerundio: relajando
+participio-pasado: relajado
+presente-indicativo:
+  yo: relajo
+  tu: relajas
+  vos: relajás
+  ud: relaja
+  nosotros: relajamos
+  vosotros: relajáis
+  uds: relajan
+preterito-perfecto-simple:
+  yo: relajé
+  tu: relajaste
+  vos: relajaste
+  ud: relajó
+  nosotros: relajamos
+  vosotros: relajasteis
+  uds: relajaron
+preterito-imperfecto:
+  yo: relajaba
+  tu: relajabas
+  vos: relajabas
+  ud: relajaba
+  nosotros: relajábamos
+  vosotros: relajabais
+  uds: relajaban
+futuro-simple:
+  yo: relajaré
+  tu: relajarás
+  vos: relajarás
+  ud: relajará
+  nosotros: relajaremos
+  vosotros: relajaréis
+  uds: relajarán
+condicional-simple:
+  yo: relajaría
+  tu: relajarías
+  vos: relajarías
+  ud: relajaría
+  nosotros: relajaríamos
+  vosotros: relajaríais
+  uds: relajarían
+presente-perfecto:
+  yo: he relajado
+  tu: has relajado
+  vos: has relajado
+  ud: ha relajado
+  nosotros: hemos relajado
+  vosotros: habéis relajado
+  uds: han relajado
+preterito-pluscuamperfecto:
+  yo: había relajado
+  tu: habías relajado
+  vos: habías relajado
+  ud: había relajado
+  nosotros: habíamos relajado
+  vosotros: habíais relajado
+  uds: habían relajado
+futuro-perfecto:
+  yo: habré relajado
+  tu: habrás relajado
+  vos: habrás relajado
+  ud: habrá relajado
+  nosotros: habremos relajado
+  vosotros: habréis relajado
+  uds: habrán relajado
+condicional-perfecto:
+  yo: habría relajado
+  tu: habrías relajado
+  vos: habrías relajado
+  ud: habría relajado
+  nosotros: habríamos relajado
+  vosotros: habríais relajado
+  uds: habrían relajado
+presente-subjuntivo:
+  yo: relaje
+  tu: relajes
+  vos: relajes
+  ud: relaje
+  nosotros: relajemos
+  vosotros: relajéis
+  uds: relajen
+preterito-perfecto-subjuntivo:
+  yo: haya relajado
+  tu: hayas relajado
+  vos: hayas relajado
+  ud: haya relajado
+  nosotros: hayamos relajado
+  vosotros: hayáis relajado
+  uds: hayan relajado
+imperfecto-subjuntivo:
+  yo:
+    - relajara
+    - relajase
+  tu:
+    - relajaras
+    - relajases
+  vos:
+    - relajaras
+    - relajases
+  ud:
+    - relajara
+    - relajase
+  nosotros:
+    - relajáramos
+    - relajásemos
+  vosotros:
+    - relajarais
+    - relajaseis
+  uds:
+    - relajaran
+    - relajasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera relajado
+    - hubiese relajado
+  tu:
+    - hubieras relajado
+    - hubieses relajado
+  vos:
+    - hubieras relajado
+    - hubieses relajado
+  ud:
+    - hubiera relajado
+    - hubiese relajado
+  nosotros:
+    - hubiéramos relajado
+    - hubiésemos relajado
+  vosotros:
+    - hubierais relajado
+    - hubieseis relajado
+  uds:
+    - hubieran relajado
+    - hubiesen relajado
+imperativo:
+  tu: relaja
+  vos: relajá
+  ud: relaje
+  nosotros: relajemos
+  vosotros: relajad
+  uds: relajen

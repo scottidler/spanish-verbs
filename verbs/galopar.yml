@@ -1,0 +1,142 @@
+infinitivo: galopar
+gerundio: galopando
+participio-pasado: galopado
+presente-indicativo:
+  yo: galopo
+  tu: galopas
+  vos: galopas
+  ud: galopa
+  nosotros: galopamos
+  vosotros: galopáis
+  uds: galopan
+preterito-perfecto-simple:
+  yo: galopé
+  tu: galopaste
+  vos: galopaste
+  ud: galopó
+  nosotros: galopamos
+  vosotros: galopasteis
+  uds: galoparon
+preterito-imperfecto:
+  yo: galopaba
+  tu: galopabas
+  vos: galopabas
+  ud: galopaba
+  nosotros: galopábamos
+  vosotros: galopabais
+  uds: galopaban
+futuro-simple:
+  yo: galoparé
+  tu: galoparás
+  vos: galoparás
+  ud: galopará
+  nosotros: galoparemos
+  vosotros: galoparéis
+  uds: galoparán
+condicional-simple:
+  yo: galoparía
+  tu: galoparías
+  vos: galoparías
+  ud: galoparía
+  nosotros: galoparíamos
+  vosotros: galoparíais
+  uds: galoparían
+presente-perfecto:
+  yo: he galopado
+  tu: has galopado
+  vos: has galopado
+  ud: ha galopado
+  nosotros: hemos galopado
+  vosotros: habéis galopado
+  uds: han galopado
+preterito-pluscuamperfecto:
+  yo: había galopado
+  tu: habías galopado
+  vos: habías galopado
+  ud: había galopado
+  nosotros: habíamos galopado
+  vosotros: habíais galopado
+  uds: habían galopado
+futuro-perfecto:
+  yo: habré galopado
+  tu: habrás galopado
+  vos: habrás galopado
+  ud: habrá galopado
+  nosotros: habremos galopado
+  vosotros: habréis galopado
+  uds: habrán galopado
+condicional-perfecto:
+  yo: habría galopado
+  tu: habrías galopado
+  vos: habrías galopado
+  ud: habría galopado
+  nosotros: habríamos galopado
+  vosotros: habríais galopado
+  uds: habrían galopado
+presente-subjuntivo:
+  yo: galope
+  tu: galopes
+  vos: galopes
+  ud: galope
+  nosotros: galopemos
+  vosotros: galopéis
+  uds: galopen
+preterito-perfecto-subjuntivo:
+  yo: haya galopado
+  tu: hayas galopado
+  vos: hayas galopado
+  ud: haya galopado
+  nosotros: hayamos galopado
+  vosotros: hayáis galopado
+  uds: hayan galopado
+imperfecto-subjuntivo:
+  yo:
+    - galopara
+    - galopase
+  tu:
+    - galoparas
+    - galopases
+  vos:
+    - galoparas
+    - galopases
+  ud:
+    - galopara
+    - galopase
+  nosotros:
+    - galopáramos
+    - galopásemos
+  vosotros:
+    - galoparais
+    - galopaseis
+  uds:
+    - galoparan
+    - galopasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera galopado
+    - hubiese galopado
+  tu:
+    - hubieras galopado
+    - hubieses galopado
+  vos:
+    - hubieras galopado
+    - hubieses galopado
+  ud:
+    - hubiera galopado
+    - hubiese galopado
+  nosotros:
+    - hubiéramos galopado
+    - hubiésemos galopado
+  vosotros:
+    - hubierais galopado
+    - hubieseis galopado
+  uds:
+    - hubieran galopado
+    - hubiesen galopado
+imperativo:
+  tu: galopa
+  vos: galopá
+  ud: galope
+  nosotros: galopemos
+  vosotros: galopad
+  uds: galopen

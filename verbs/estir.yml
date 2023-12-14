@@ -1,0 +1,142 @@
+infinitivo: estir
+gerundio: estiendo
+participio-pasado: estirado
+presente-indicativo:
+  yo: estiro
+  tu: estiras
+  vos: estiras
+  ud: estira
+  nosotros: estiramos
+  vosotros: estiráis
+  uds: estiran
+preterito-perfecto-simple:
+  yo: estiré
+  tu: estiraste
+  vos: estiraste
+  ud: estiró
+  nosotros: estiramos
+  vosotros: estirasteis
+  uds: estiraron
+preterito-imperfecto:
+  yo: estiraba
+  tu: estirabas
+  vos: estirabas
+  ud: estiraba
+  nosotros: estirábamos
+  vosotros: estirabais
+  uds: estiraban
+futuro-simple:
+  yo: estiraré
+  tu: estirarás
+  vos: estirarás
+  ud: estirará
+  nosotros: estiraremos
+  vosotros: estiraréis
+  uds: estirarán
+condicional-simple:
+  yo: estiraría
+  tu: estirarías
+  vos: estirarías
+  ud: estiraría
+  nosotros: estiraríamos
+  vosotros: estiraríais
+  uds: estirarían
+presente-perfecto:
+  yo: he estirado
+  tu: has estirado
+  vos: has estirado
+  ud: ha estirado
+  nosotros: hemos estirado
+  vosotros: habéis estirado
+  uds: han estirado
+preterito-pluscuamperfecto:
+  yo: había estirado
+  tu: habías estirado
+  vos: habías estirado
+  ud: había estirado
+  nosotros: habíamos estirado
+  vosotros: habíais estirado
+  uds: habían estirado
+futuro-perfecto:
+  yo: habré estirado
+  tu: habrás estirado
+  vos: habrás estirado
+  ud: habrá estirado
+  nosotros: habremos estirado
+  vosotros: habréis estirado
+  uds: habrán estirado
+condicional-perfecto:
+  yo: habría estirado
+  tu: habrías estirado
+  vos: habrías estirado
+  ud: habría estirado
+  nosotros: habríamos estirado
+  vosotros: habríais estirado
+  uds: habrían estirado
+presente-subjuntivo:
+  yo: estire
+  tu: estires
+  vos: estires
+  ud: estire
+  nosotros: estiremos
+  vosotros: estiréis
+  uds: estiren
+preterito-perfecto-subjuntivo:
+  yo: haya estirado
+  tu: hayas estirado
+  vos: hayas estirado
+  ud: haya estirado
+  nosotros: hayamos estirado
+  vosotros: hayáis estirado
+  uds: hayan estirado
+imperfecto-subjuntivo:
+  yo:
+    - estirara
+    - estirase
+  tu:
+    - estiraras
+    - estirases
+  vos:
+    - estiraras
+    - estirases
+  ud:
+    - estirara
+    - estirase
+  nosotros:
+    - estiráramos
+    - estirásemos
+  vosotros:
+    - estirarais
+    - estiraseis
+  uds:
+    - estiraran
+    - estirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estirado
+    - hubiese estirado
+  tu:
+    - hubieras estirado
+    - hubieses estirado
+  vos:
+    - hubieras estirado
+    - hubieses estirado
+  ud:
+    - hubiera estirado
+    - hubiese estirado
+  nosotros:
+    - hubiéramos estirado
+    - hubiésemos estirado
+  vosotros:
+    - hubierais estirado
+    - hubieseis estirado
+  uds:
+    - hubieran estirado
+    - hubiesen estirado
+imperativo:
+  tu: estira
+  vos: estirá
+  ud: estire
+  nosotros: estiremos
+  vosotros: estirad
+  uds: estiren

@@ -1,0 +1,142 @@
+infinitivo: desandar
+gerundio: desandando
+participio-pasado: desandado
+presente-indicativo:
+  yo: desando
+  tu: desandas
+  vos: desandas
+  ud: desanda
+  nosotros: desandamos
+  vosotros: desandáis
+  uds: desandan
+preterito-perfecto-simple:
+  yo: desandé
+  tu: desandaste
+  vos: desandaste
+  ud: desandó
+  nosotros: desandamos
+  vosotros: desandasteis
+  uds: desandaron
+preterito-imperfecto:
+  yo: desandaba
+  tu: desandabas
+  vos: desandabas
+  ud: desandaba
+  nosotros: desandábamos
+  vosotros: desandabais
+  uds: desandaban
+futuro-simple:
+  yo: desandaré
+  tu: desandarás
+  vos: desandarás
+  ud: desandará
+  nosotros: desandaremos
+  vosotros: desandaréis
+  uds: desandarán
+condicional-simple:
+  yo: desandaría
+  tu: desandarías
+  vos: desandarías
+  ud: desandaría
+  nosotros: desandaríamos
+  vosotros: desandaríais
+  uds: desandarían
+presente-perfecto:
+  yo: he desandado
+  tu: has desandado
+  vos: has desandado
+  ud: ha desandado
+  nosotros: hemos desandado
+  vosotros: habéis desandado
+  uds: han desandado
+preterito-pluscuamperfecto:
+  yo: había desandado
+  tu: habías desandado
+  vos: habías desandado
+  ud: había desandado
+  nosotros: habíamos desandado
+  vosotros: habíais desandado
+  uds: habían desandado
+futuro-perfecto:
+  yo: habré desandado
+  tu: habrás desandado
+  vos: habrás desandado
+  ud: habrá desandado
+  nosotros: habremos desandado
+  vosotros: habréis desandado
+  uds: habrán desandado
+condicional-perfecto:
+  yo: habría desandado
+  tu: habrías desandado
+  vos: habrías desandado
+  ud: habría desandado
+  nosotros: habríamos desandado
+  vosotros: habríais desandado
+  uds: habrían desandado
+presente-subjuntivo:
+  yo: desande
+  tu: desandes
+  vos: desandes
+  ud: desande
+  nosotros: desandemos
+  vosotros: desandéis
+  uds: desanden
+preterito-perfecto-subjuntivo:
+  yo: haya desandado
+  tu: hayas desandado
+  vos: hayas desandado
+  ud: haya desandado
+  nosotros: hayamos desandado
+  vosotros: hayáis desandado
+  uds: hayan desandado
+imperfecto-subjuntivo:
+  yo:
+    - desandara
+    - desandase
+  tu:
+    - desandaras
+    - desandases
+  vos:
+    - desandaras
+    - desandases
+  ud:
+    - desandara
+    - desandase
+  nosotros:
+    - desandáramos
+    - desandásemos
+  vosotros:
+    - desandarais
+    - desandaseis
+  uds:
+    - desandaran
+    - desandasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desandado
+    - hubiese desandado
+  tu:
+    - hubieras desandado
+    - hubieses desandado
+  vos:
+    - hubieras desandado
+    - hubieses desandado
+  ud:
+    - hubiera desandado
+    - hubiese desandado
+  nosotros:
+    - hubiéramos desandado
+    - hubiésemos desandado
+  vosotros:
+    - hubierais desandado
+    - hubieseis desandado
+  uds:
+    - hubieran desandado
+    - hubiesen desandado
+imperativo:
+  tu: desanda
+  vos: desandá
+  ud: desande
+  nosotros: desandemos
+  vosotros: desandad
+  uds: desanden

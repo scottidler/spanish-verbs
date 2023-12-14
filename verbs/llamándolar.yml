@@ -1,0 +1,142 @@
+infinitivo: llamándolar
+gerundio: llamándolando
+participio-pasado: llamándolado
+presente-indicativo:
+  yo: llamándolo
+  tu: llamándolas
+  vos: llamándolas
+  ud: llamándola
+  nosotros: llamándolamos
+  vosotros: llamándoláis
+  uds: llamándolas
+preterito-perfecto-simple:
+  yo: he llamándolado
+  tu: has llamándolado
+  vos: has llamándolado
+  ud: ha llamándolado
+  nosotros: hemos llamándolado
+  vosotros: habéis llamándolado
+  uds: han llamándolado
+preterito-imperfecto:
+  yo: llamándolaba
+  tu: llamándolabas
+  vos: llamándolabas
+  ud: llamándolaba
+  nosotros: llamándolábamos
+  vosotros: llamándolabais
+  uds: llamándolaban
+futuro-simple:
+  yo: llamaré
+  tu: llamarás
+  vos: llamarás
+  ud: llamará
+  nosotros: llamaremos
+  vosotros: llamaréis
+  uds: llamarán
+condicional-simple:
+  yo: llamaría
+  tu: llamarías
+  vos: llamarías
+  ud: llamaría
+  nosotros: llamaríamos
+  vosotros: llamaríais
+  uds: llamarían
+presente-perfecto:
+  yo: he llamándolado
+  tu: has llamándolado
+  vos: has llamándolado
+  ud: ha llamándolado
+  nosotros: hemos llamándolado
+  vosotros: habéis llamándolado
+  uds: han llamándolado
+preterito-pluscuamperfecto:
+  yo: había llamándolado
+  tu: habías llamándolado
+  vos: habías llamándolado
+  ud: había llamándolado
+  nosotros: habíamos llamándolado
+  vosotros: habíais llamándolado
+  uds: habían llamándolado
+futuro-perfecto:
+  yo: habré llamándolado
+  tu: habrás llamándolado
+  vos: habrás llamándolado
+  ud: habrá llamándolado
+  nosotros: habremos llamándolado
+  vosotros: habréis llamándolado
+  uds: habrán llamándolado
+condicional-perfecto:
+  yo: habría llamándolado
+  tu: habrías llamándolado
+  vos: habrías llamándolado
+  ud: habría llamándolado
+  nosotros: habríamos llamándolado
+  vosotros: habríais llamándolado
+  uds: habrían llamándolado
+presente-subjuntivo:
+  yo: llame
+  tu: llames
+  vos: llames
+  ud: llame
+  nosotros: llamemos
+  vosotros: llaméis
+  uds: llamen
+preterito-perfecto-subjuntivo:
+  yo: haya llamándolado
+  tu: hayas llamándolado
+  vos: hayas llamándolado
+  ud: haya llamándolado
+  nosotros: hayamos llamándolado
+  vosotros: hayáis llamándolado
+  uds: hayan llamándolado
+imperfecto-subjuntivo:
+  yo:
+    - llamándolaras
+    - llamándolases
+  tu:
+    - llamándolaras
+    - llamándolases
+  vos:
+    - llamándolaras
+    - llamándolases
+  ud:
+    - llamándolara
+    - llamándolase
+  nosotros:
+    - llamándoláramos
+    - llamándolásemos
+  vosotros:
+    - llamándolarais
+    - llamándolaseis
+  uds:
+    - llamándolaran
+    - llamándolasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llamándolado
+    - hubiese llamándolado
+  tu:
+    - hubieras llamándolado
+    - hubieses llamándolado
+  vos:
+    - hubieras llamándolado
+    - hubieses llamándolado
+  ud:
+    - hubiera llamándolado
+    - hubiese llamándolado
+  nosotros:
+    - hubiéramos llamándolado
+    - hubiésemos llamándolado
+  vosotros:
+    - hubierais llamándolado
+    - hubieseis llamándolado
+  uds:
+    - hubieran llamándolado
+    - hubiesen llamándolado
+imperativo:
+  tu: llámalo
+  vos: llámale
+  ud: llámalo
+  nosotros: llamémoslo
+  vosotros: llamadlo
+  uds: llámenlo

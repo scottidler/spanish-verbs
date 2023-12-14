@@ -1,0 +1,142 @@
+infinitivo: volcar
+gerundio: volcando
+participio-pasado: volcado
+presente-indicativo:
+  yo: vuelco
+  tu: vuelcas
+  vos: vuelcas
+  ud: vuelca
+  nosotros: volcamos
+  vosotros: volcáis
+  uds: vuelcan
+preterito-perfecto-simple:
+  yo: volqué
+  tu: volcaste
+  vos: volcaste
+  ud: volcó
+  nosotros: volcamos
+  vosotros: volcasteis
+  uds: volcaron
+preterito-imperfecto:
+  yo: volcaba
+  tu: volcabas
+  vos: volcabas
+  ud: volcaba
+  nosotros: volcábamos
+  vosotros: volcabais
+  uds: volcaban
+futuro-simple:
+  yo: volcaré
+  tu: volcarás
+  vos: volcarás
+  ud: volcará
+  nosotros: volcaremos
+  vosotros: volcaréis
+  uds: volcarán
+condicional-simple:
+  yo: volcaría
+  tu: volcarías
+  vos: volcarías
+  ud: volcaría
+  nosotros: volcaríamos
+  vosotros: volcaríais
+  uds: volcarían
+presente-perfecto:
+  yo: he volcado
+  tu: has volcado
+  vos: has volcado
+  ud: ha volcado
+  nosotros: hemos volcado
+  vosotros: habéis volcado
+  uds: han volcado
+preterito-pluscuamperfecto:
+  yo: había volcado
+  tu: habías volcado
+  vos: habías volcado
+  ud: había volcado
+  nosotros: habíamos volcado
+  vosotros: habíais volcado
+  uds: habían volcado
+futuro-perfecto:
+  yo: habré volcado
+  tu: habrás volcado
+  vos: habrás volcado
+  ud: habrá volcado
+  nosotros: habremos volcado
+  vosotros: habréis volcado
+  uds: habrán volcado
+condicional-perfecto:
+  yo: habría volcado
+  tu: habrías volcado
+  vos: habrías volcado
+  ud: habría volcado
+  nosotros: habríamos volcado
+  vosotros: habríais volcado
+  uds: habrían volcado
+presente-subjuntivo:
+  yo: vuelque
+  tu: vuelques
+  vos: vuelques
+  ud: vuelque
+  nosotros: volquemos
+  vosotros: volquéis
+  uds: vuelquen
+preterito-perfecto-subjuntivo:
+  yo: haya volcado
+  tu: hayas volcado
+  vos: hayas volcado
+  ud: haya volcado
+  nosotros: hayamos volcado
+  vosotros: hayáis volcado
+  uds: hayan volcado
+imperfecto-subjuntivo:
+  yo:
+    - volcara
+    - volcase
+  tu:
+    - volcaras
+    - volcases
+  vos:
+    - volcaras
+    - volcases
+  ud:
+    - volcara
+    - volcase
+  nosotros:
+    - volcáramos
+    - volcásemos
+  vosotros:
+    - volcarais
+    - volcaseis
+  uds:
+    - volcaran
+    - volcasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera volcado
+    - hubiese volcado
+  tu:
+    - hubieras volcado
+    - hubieses volcado
+  vos:
+    - hubieras volcado
+    - hubieses volcado
+  ud:
+    - hubiera volcado
+    - hubiese volcado
+  nosotros:
+    - hubiéramos volcado
+    - hubiésemos volcado
+  vosotros:
+    - hubierais volcado
+    - hubieseis volcado
+  uds:
+    - hubieran volcado
+    - hubiesen volcado
+imperativo:
+  tu: vuelca
+  vos: volcá
+  ud: vuelque
+  nosotros: volquemos
+  vosotros: volcad
+  uds: vuelquen

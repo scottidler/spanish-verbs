@@ -1,0 +1,142 @@
+infinitivo: florecer
+gerundio: floreciendo
+participio-pasado: florecido
+presente-indicativo:
+  yo: florezco
+  tu: floreces
+  vos: floreces
+  ud: florece
+  nosotros: florecemos
+  vosotros: florecéis
+  uds: florecen
+preterito-perfecto-simple:
+  yo: florecí
+  tu: floreciste
+  vos: floreciste
+  ud: floreció
+  nosotros: florecimos
+  vosotros: florecisteis
+  uds: florecieron
+preterito-imperfecto:
+  yo: florecía
+  tu: florecías
+  vos: florecías
+  ud: florecía
+  nosotros: florecíamos
+  vosotros: florecíais
+  uds: florecían
+futuro-simple:
+  yo: floreceré
+  tu: florecerás
+  vos: florecerás
+  ud: florecerá
+  nosotros: floreceremos
+  vosotros: floreceréis
+  uds: florecerán
+condicional-simple:
+  yo: florecería
+  tu: florecerías
+  vos: florecerías
+  ud: florecería
+  nosotros: floreceríamos
+  vosotros: floreceríais
+  uds: florecerían
+presente-perfecto:
+  yo: he florecido
+  tu: has florecido
+  vos: has florecido
+  ud: ha florecido
+  nosotros: hemos florecido
+  vosotros: habéis florecido
+  uds: han florecido
+preterito-pluscuamperfecto:
+  yo: había florecido
+  tu: habías florecido
+  vos: habías florecido
+  ud: había florecido
+  nosotros: habíamos florecido
+  vosotros: habíais florecido
+  uds: habían florecido
+futuro-perfecto:
+  yo: habré florecido
+  tu: habrás florecido
+  vos: habrás florecido
+  ud: habrá florecido
+  nosotros: habremos florecido
+  vosotros: habréis florecido
+  uds: habrán florecido
+condicional-perfecto:
+  yo: habría florecido
+  tu: habrías florecido
+  vos: habrías florecido
+  ud: habría florecido
+  nosotros: habríamos florecido
+  vosotros: habríais florecido
+  uds: habrían florecido
+presente-subjuntivo:
+  yo: florezca
+  tu: florezcas
+  vos: florezcas
+  ud: florezca
+  nosotros: florezcamos
+  vosotros: florezcáis
+  uds: florezcan
+preterito-perfecto-subjuntivo:
+  yo: haya florecido
+  tu: hayas florecido
+  vos: hayas florecido
+  ud: haya florecido
+  nosotros: hayamos florecido
+  vosotros: hayáis florecido
+  uds: hayan florecido
+imperfecto-subjuntivo:
+  yo:
+    - floreciera
+    - floreciese
+  tu:
+    - florecieras
+    - florecieses
+  vos:
+    - florecieras
+    - florecieses
+  ud:
+    - floreciera
+    - floreciese
+  nosotros:
+    - floreciéramos
+    - floreciésemos
+  vosotros:
+    - florecierais
+    - florecieseis
+  uds:
+    - florecieran
+    - floreciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera florecido
+    - hubiese florecido
+  tu:
+    - hubieras florecido
+    - hubieses florecido
+  vos:
+    - hubieras florecido
+    - hubieses florecido
+  ud:
+    - hubiera florecido
+    - hubiese florecido
+  nosotros:
+    - hubiéramos florecido
+    - hubiésemos florecido
+  vosotros:
+    - hubierais florecido
+    - hubieseis florecido
+  uds:
+    - hubieran florecido
+    - hubiesen florecido
+imperativo:
+  tu: florece
+  vos: florece
+  ud: florezca
+  nosotros: florezcamos
+  vosotros: floreced
+  uds: florezcan

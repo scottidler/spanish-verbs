@@ -1,0 +1,142 @@
+infinitivo: disfrutarse
+gerundio: disfrutándose
+participio-pasado: disfrutado
+presente-indicativo:
+  yo: me disfruto
+  tu: te disfrutas
+  vos: te disfrutas
+  ud: se disfruta
+  nosotros: nos disfrutamos
+  vosotros: os disfrutáis
+  uds: se disfrutan
+preterito-perfecto-simple:
+  yo: me disfruté
+  tu: te disfrutaste
+  vos: te disfrutaste
+  ud: se disfrutó
+  nosotros: nos disfrutamos
+  vosotros: os disfrutasteis
+  uds: se disfrutaron
+preterito-imperfecto:
+  yo: me disfrutaba
+  tu: te disfrutabas
+  vos: te disfrutabas
+  ud: se disfrutaba
+  nosotros: nos disfrutábamos
+  vosotros: os disfrutabais
+  uds: se disfrutaban
+futuro-simple:
+  yo: me disfrutaré
+  tu: te disfrutarás
+  vos: te disfrutarás
+  ud: se disfrutará
+  nosotros: nos disfrutaremos
+  vosotros: os disfrutaréis
+  uds: se disfrutarán
+condicional-simple:
+  yo: me disfrutaría
+  tu: te disfrutarías
+  vos: te disfrutarías
+  ud: se disfrutaría
+  nosotros: nos disfrutaríamos
+  vosotros: os disfrutaríais
+  uds: se disfrutarían
+presente-perfecto:
+  yo: me he disfrutado
+  tu: te has disfrutado
+  vos: te has disfrutado
+  ud: se ha disfrutado
+  nosotros: nos hemos disfrutado
+  vosotros: os habéis disfrutado
+  uds: se han disfrutado
+preterito-pluscuamperfecto:
+  yo: me había disfrutado
+  tu: te habías disfrutado
+  vos: te habías disfrutado
+  ud: se había disfrutado
+  nosotros: nos habíamos disfrutado
+  vosotros: os habíais disfrutado
+  uds: se habían disfrutado
+futuro-perfecto:
+  yo: me habré disfrutado
+  tu: te habrás disfrutado
+  vos: te habrás disfrutado
+  ud: se habrá disfrutado
+  nosotros: nos habremos disfrutado
+  vosotros: os habréis disfrutado
+  uds: se habrán disfrutado
+condicional-perfecto:
+  yo: me habría disfrutado
+  tu: te habrías disfrutado
+  vos: te habrías disfrutado
+  ud: se habría disfrutado
+  nosotros: nos habríamos disfrutado
+  vosotros: os habríais disfrutado
+  uds: se habrían disfrutado
+presente-subjuntivo:
+  yo: me disfrute
+  tu: te disfrutes
+  vos: te disfrutes
+  ud: se disfrute
+  nosotros: nos disfrutemos
+  vosotros: os disfrutéis
+  uds: se disfruten
+preterito-perfecto-subjuntivo:
+  yo: me haya disfrutado
+  tu: te hayas disfrutado
+  vos: te hayas disfrutado
+  ud: se haya disfrutado
+  nosotros: nos hayamos disfrutado
+  vosotros: os hayáis disfrutado
+  uds: se hayan disfrutado
+imperfecto-subjuntivo:
+  yo:
+    - me disfrutara
+    - me disfrutase
+  tu:
+    - te disfrutaras
+    - te disfrutases
+  vos:
+    - te disfrutaras
+    - te disfrutases
+  ud:
+    - se disfrutara
+    - se disfrutase
+  nosotros:
+    - nos disfrutáramos
+    - nos disfrutásemos
+  vosotros:
+    - os disfrutarais
+    - os disfrutaseis
+  uds:
+    - se disfrutaran
+    - se disfrutasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera disfrutado
+    - me hubiese disfrutado
+  tu:
+    - te hubieras disfrutado
+    - te hubieses disfrutado
+  vos:
+    - te hubieras disfrutado
+    - te hubieses disfrutado
+  ud:
+    - se hubiera disfrutado
+    - se hubiese disfrutado
+  nosotros:
+    - nos hubiéramos disfrutado
+    - nos hubiésemos disfrutado
+  vosotros:
+    - os hubierais disfrutado
+    - os hubieseis disfrutado
+  uds:
+    - se hubieran disfrutado
+    - se hubiesen disfrutado
+imperativo:
+  tu: disfrútate
+  vos: disfrutate
+  ud: disfrútese
+  nosotros: disfrutémonos
+  vosotros: disfrutaos
+  uds: disfrútense

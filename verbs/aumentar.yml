@@ -1,0 +1,142 @@
+infinitivo: aumentar
+gerundio: aumentando
+participio-pasado: aumentado
+presente-indicativo:
+  yo: aumento
+  tu: aumentas
+  vos: aumentás
+  ud: aumenta
+  nosotros: aumentamos
+  vosotros: aumentáis
+  uds: aumentan
+preterito-perfecto-simple:
+  yo: aumenté
+  tu: aumentaste
+  vos: aumentaste
+  ud: aumentó
+  nosotros: aumentamos
+  vosotros: aumentasteis
+  uds: aumentaron
+preterito-imperfecto:
+  yo: aumentaba
+  tu: aumentabas
+  vos: aumentabas
+  ud: aumentaba
+  nosotros: aumentábamos
+  vosotros: aumentabais
+  uds: aumentaban
+futuro-simple:
+  yo: aumentaré
+  tu: aumentarás
+  vos: aumentarás
+  ud: aumentará
+  nosotros: aumentaremos
+  vosotros: aumentaréis
+  uds: aumentarán
+condicional-simple:
+  yo: aumentaría
+  tu: aumentarías
+  vos: aumentarías
+  ud: aumentaría
+  nosotros: aumentaríamos
+  vosotros: aumentaríais
+  uds: aumentarían
+presente-perfecto:
+  yo: he aumentado
+  tu: has aumentado
+  vos: has aumentado
+  ud: ha aumentado
+  nosotros: hemos aumentado
+  vosotros: habéis aumentado
+  uds: han aumentado
+preterito-pluscuamperfecto:
+  yo: había aumentado
+  tu: habías aumentado
+  vos: habías aumentado
+  ud: había aumentado
+  nosotros: habíamos aumentado
+  vosotros: habíais aumentado
+  uds: habían aumentado
+futuro-perfecto:
+  yo: habré aumentado
+  tu: habrás aumentado
+  vos: habrás aumentado
+  ud: habrá aumentado
+  nosotros: habremos aumentado
+  vosotros: habréis aumentado
+  uds: habrán aumentado
+condicional-perfecto:
+  yo: habría aumentado
+  tu: habrías aumentado
+  vos: habrías aumentado
+  ud: habría aumentado
+  nosotros: habríamos aumentado
+  vosotros: habríais aumentado
+  uds: habrían aumentado
+presente-subjuntivo:
+  yo: aumente
+  tu: aumentes
+  vos: aumentes
+  ud: aumente
+  nosotros: aumentemos
+  vosotros: aumentéis
+  uds: aumenten
+preterito-perfecto-subjuntivo:
+  yo: haya aumentado
+  tu: hayas aumentado
+  vos: hayas aumentado
+  ud: haya aumentado
+  nosotros: hayamos aumentado
+  vosotros: hayáis aumentado
+  uds: hayan aumentado
+imperfecto-subjuntivo:
+  yo:
+    - aumentara
+    - aumentase
+  tu:
+    - aumentaras
+    - aumentases
+  vos:
+    - aumentaras
+    - aumentases
+  ud:
+    - aumentara
+    - aumentase
+  nosotros:
+    - aumentáramos
+    - aumentásemos
+  vosotros:
+    - aumentarais
+    - aumentaseis
+  uds:
+    - aumentaran
+    - aumentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aumentado
+    - hubiese aumentado
+  tu:
+    - hubieras aumentado
+    - hubieses aumentado
+  vos:
+    - hubieras aumentado
+    - hubieses aumentado
+  ud:
+    - hubiera aumentado
+    - hubiese aumentado
+  nosotros:
+    - hubiéramos aumentado
+    - hubiésemos aumentado
+  vosotros:
+    - hubierais aumentado
+    - hubieseis aumentado
+  uds:
+    - hubieran aumentado
+    - hubiesen aumentado
+imperativo:
+  tu: aumenta
+  vos: aumentá
+  ud: aumente
+  nosotros: aumentemos
+  vosotros: aumentad
+  uds: aumenten

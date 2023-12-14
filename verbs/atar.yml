@@ -1,0 +1,142 @@
+infinitivo: atar
+gerundio: atando
+participio-pasado: atado
+presente-indicativo:
+  yo: ato
+  tu: atas
+  vos: atas
+  ud: ata
+  nosotros: atamos
+  vosotros: atáis
+  uds: atan
+preterito-perfecto-simple:
+  yo: ate
+  tu: ataste
+  vos: ataste
+  ud: ató
+  nosotros: atamos
+  vosotros: atasteis
+  uds: ataron
+preterito-imperfecto:
+  yo: ataba
+  tu: atabas
+  vos: atabas
+  ud: ataba
+  nosotros: atábamos
+  vosotros: atabais
+  uds: ataban
+futuro-simple:
+  yo: ataré
+  tu: atarás
+  vos: atarás
+  ud: atará
+  nosotros: ataremos
+  vosotros: ataréis
+  uds: atarán
+condicional-simple:
+  yo: ataría
+  tu: atarías
+  vos: atarías
+  ud: ataría
+  nosotros: ataríamos
+  vosotros: ataríais
+  uds: atarían
+presente-perfecto:
+  yo: he atado
+  tu: has atado
+  vos: has atado
+  ud: ha atado
+  nosotros: hemos atado
+  vosotros: habéis atado
+  uds: han atado
+preterito-pluscuamperfecto:
+  yo: había atado
+  tu: habías atado
+  vos: habías atado
+  ud: había atado
+  nosotros: habíamos atado
+  vosotros: habíais atado
+  uds: habían atado
+futuro-perfecto:
+  yo: habré atado
+  tu: habrás atado
+  vos: habrás atado
+  ud: habrá atado
+  nosotros: habremos atado
+  vosotros: habréis atado
+  uds: habrán atado
+condicional-perfecto:
+  yo: habría atado
+  tu: habrías atado
+  vos: habrías atado
+  ud: habría atado
+  nosotros: habríamos atado
+  vosotros: habríais atado
+  uds: habrían atado
+presente-subjuntivo:
+  yo: ate
+  tu: ates
+  vos: ates
+  ud: ate
+  nosotros: atemos
+  vosotros: atéis
+  uds: aten
+preterito-perfecto-subjuntivo:
+  yo: haya atado
+  tu: hayas atado
+  vos: hayas atado
+  ud: haya atado
+  nosotros: hayamos atado
+  vosotros: hayáis atado
+  uds: hayan atado
+imperfecto-subjuntivo:
+  yo:
+    - atara
+    - atase
+  tu:
+    - ataras
+    - atases
+  vos:
+    - ataras
+    - atases
+  ud:
+    - atara
+    - atase
+  nosotros:
+    - atáramos
+    - atásemos
+  vosotros:
+    - atarais
+    - ataseis
+  uds:
+    - ataran
+    - atasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atado
+    - hubiese atado
+  tu:
+    - hubieras atado
+    - hubieses atado
+  vos:
+    - hubieras atado
+    - hubieses atado
+  ud:
+    - hubiera atado
+    - hubiese atado
+  nosotros:
+    - hubiéramos atado
+    - hubiésemos atado
+  vosotros:
+    - hubierais atado
+    - hubieseis atado
+  uds:
+    - hubieran atado
+    - hubiesen atado
+imperativo:
+  tu: ata
+  vos: atá
+  ud: ate
+  nosotros: atemos
+  vosotros: atad
+  uds: aten

@@ -1,0 +1,142 @@
+infinitivo: reconfortar
+gerundio: reconfortando
+participio-pasado: reconfortado
+presente-indicativo:
+    yo: reconforto
+    tu: reconfortas
+    vos: reconfortas
+    ud: reconforta
+    nosotros: reconfortamos
+    vosotros: reconfortáis
+    uds: reconfortan
+preterito-perfecto-simple:
+    yo: reconforté
+    tu: reconfortaste
+    vos: reconfortaste
+    ud: reconfortó
+    nosotros: reconfortamos
+    vosotros: reconfortasteis
+    uds: reconfortaron
+preterito-imperfecto:
+    yo: reconfortaba
+    tu: reconfortabas
+    vos: reconfortabas
+    ud: reconfortaba
+    nosotros: reconfortábamos
+    vosotros: reconfortabais
+    uds: reconfortaban
+futuro-simple:
+    yo: reconfortaré
+    tu: reconfortarás
+    vos: reconfortarás
+    ud: reconfortará
+    nosotros: reconfortaremos
+    vosotros: reconfortaréis
+    uds: reconfortarán
+condicional-simple:
+    yo: reconfortaría
+    tu: reconfortarías
+    vos: reconfortarías
+    ud: reconfortaría
+    nosotros: reconfortaríamos
+    vosotros: reconfortaríais
+    uds: reconfortarían
+presente-perfecto:
+    yo: he reconfortado
+    tu: has reconfortado
+    vos: has reconfortado
+    ud: ha reconfortado
+    nosotros: hemos reconfortado
+    vosotros: habéis reconfortado
+    uds: han reconfortado
+preterito-pluscuamperfecto:
+    yo: había reconfortado
+    tu: habías reconfortado
+    vos: habías reconfortado
+    ud: había reconfortado
+    nosotros: habíamos reconfortado
+    vosotros: habíais reconfortado
+    uds: habían reconfortado
+futuro-perfecto:
+    yo: habré reconfortado
+    tu: habrás reconfortado
+    vos: habrás reconfortado
+    ud: habrá reconfortado
+    nosotros: habremos reconfortado
+    vosotros: habréis reconfortado
+    uds: habrán reconfortado
+condicional-perfecto:
+    yo: habría reconfortado
+    tu: habrías reconfortado
+    vos: habrías reconfortado
+    ud: habría reconfortado
+    nosotros: habríamos reconfortado
+    vosotros: habríais reconfortado
+    uds: habrían reconfortado
+presente-subjuntivo:
+    yo: reconforte
+    tu: reconfortes
+    vos: reconfortes
+    ud: reconforte
+    nosotros: reconfortemos
+    vosotros: reconfortéis
+    uds: reconforten
+preterito-perfecto-subjuntivo:
+    yo: haya reconfortado
+    tu: hayas reconfortado
+    vos: hayas reconfortado
+    ud: haya reconfortado
+    nosotros: hayamos reconfortado
+    vosotros: hayáis reconfortado
+    uds: hayan reconfortado
+imperfecto-subjuntivo:
+    yo:
+      - reconfortara
+      - reconfortase
+    tu:
+      - reconfortaras
+      - reconfortases
+    vos:
+      - reconfortaras
+      - reconfortases
+    ud:
+      - reconfortara
+      - reconfortase
+    nosotros:
+      - reconfortáramos
+      - reconfortásemos
+    vosotros:
+      - reconfortarais
+      - reconfortaseis
+    uds:
+      - reconfortaran
+      - reconfortasen
+pluscuamperfecto-subjuntivo:
+    yo:
+      - hubiera reconfortado
+      - hubiese reconfortado
+    tu:
+      - hubieras reconfortado
+      - hubieses reconfortado
+    vos:
+      - hubieras reconfortado
+      - hubieses reconfortado
+    ud:
+      - hubiera reconfortado
+      - hubiese reconfortado
+    nosotros:
+      - hubiéramos reconfortado
+      - hubiésemos reconfortado
+    vosotros:
+      - hubierais reconfortado
+      - hubieseis reconfortado
+    uds:
+      - hubieran reconfortado
+      - hubiesen reconfortado
+imperativo:
+    tu: reconforta
+    vos: reconfortá
+    ud: reconforte
+    nosotros: reconfortemos
+    vosotros: reconfortad
+    uds: reconforten

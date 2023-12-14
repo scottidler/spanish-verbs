@@ -1,0 +1,142 @@
+infinitivo: disimular
+gerundio: disimulando
+participio-pasado: disimulado
+presente-indicativo:
+  yo: disimulo
+  tu: disimulas
+  vos: disimulas
+  ud: disimula
+  nosotros: disimulamos
+  vosotros: disimuláis
+  uds: disimulan
+preterito-perfecto-simple:
+  yo: disimulé
+  tu: disimulaste
+  vos: disimulaste
+  ud: disimuló
+  nosotros: disimulamos
+  vosotros: disimulasteis
+  uds: disimularon
+preterito-imperfecto:
+  yo: disimulaba
+  tu: disimulabas
+  vos: disimulabas
+  ud: disimulaba
+  nosotros: disimulábamos
+  vosotros: disimulabais
+  uds: disimulaban
+futuro-simple:
+  yo: disimularé
+  tu: disimularás
+  vos: disimularás
+  ud: disimulará
+  nosotros: disimularemos
+  vosotros: disimularéis
+  uds: disimularán
+condicional-simple:
+  yo: disimularía
+  tu: disimularías
+  vos: disimularías
+  ud: disimularía
+  nosotros: disimularíamos
+  vosotros: disimularíais
+  uds: disimularían
+presente-perfecto:
+  yo: he disimulado
+  tu: has disimulado
+  vos: has disimulado
+  ud: ha disimulado
+  nosotros: hemos disimulado
+  vosotros: habéis disimulado
+  uds: han disimulado
+preterito-pluscuamperfecto:
+  yo: había disimulado
+  tu: habías disimulado
+  vos: habías disimulado
+  ud: había disimulado
+  nosotros: habíamos disimulado
+  vosotros: habíais disimulado
+  uds: habían disimulado
+futuro-perfecto:
+  yo: habré disimulado
+  tu: habrás disimulado
+  vos: habrás disimulado
+  ud: habrá disimulado
+  nosotros: habremos disimulado
+  vosotros: habréis disimulado
+  uds: habrán disimulado
+condicional-perfecto:
+  yo: habría disimulado
+  tu: habrías disimulado
+  vos: habrías disimulado
+  ud: habría disimulado
+  nosotros: habríamos disimulado
+  vosotros: habríais disimulado
+  uds: habrían disimulado
+presente-subjuntivo:
+  yo: disimule
+  tu: disimules
+  vos: disimules
+  ud: disimule
+  nosotros: disimulemos
+  vosotros: disimuléis
+  uds: disimulen
+preterito-perfecto-subjuntivo:
+  yo: haya disimulado
+  tu: hayas disimulado
+  vos: hayas disimulado
+  ud: haya disimulado
+  nosotros: hayamos disimulado
+  vosotros: hayáis disimulado
+  uds: hayan disimulado
+imperfecto-subjuntivo:
+  yo:
+    - disimulara
+    - disimulase
+  tu:
+    - disimularas
+    - disimulases
+  vos:
+    - disimularas
+    - disimulases
+  ud:
+    - disimulara
+    - disimulase
+  nosotros:
+    - disimuláramos
+    - disimulásemos
+  vosotros:
+    - disimularais
+    - disimulaseis
+  uds:
+    - disimularan
+    - disimulasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera disimulado
+    - hubiese disimulado
+  tu:
+    - hubieras disimulado
+    - hubieses disimulado
+  vos:
+    - hubieras disimulado
+    - hubieses disimulado
+  ud:
+    - hubiera disimulado
+    - hubiese disimulado
+  nosotros:
+    - hubiéramos disimulado
+    - hubiésemos disimulado
+  vosotros:
+    - hubierais disimulado
+    - hubieseis disimulado
+  uds:
+    - hubieran disimulado
+    - hubiesen disimulado
+imperativo:
+  tu: disimula
+  vos: disimulá
+  ud: disimule
+  nosotros: disimulemos
+  vosotros: disimulad
+  uds: disimulen

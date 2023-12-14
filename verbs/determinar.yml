@@ -1,0 +1,142 @@
+infinitivo: determinar
+gerundio: determinando
+participio-pasado: determinado
+presente-indicativo:
+  yo: determino
+  tu: determinas
+  vos: determinas
+  ud: determina
+  nosotros: determinamos
+  vosotros: determináis
+  uds: determinan
+preterito-perfecto-simple:
+  yo: determiné
+  tu: determinaste
+  vos: determinaste
+  ud: determinó
+  nosotros: determinamos
+  vosotros: determinasteis
+  uds: determinaron
+preterito-imperfecto:
+  yo: determinaba
+  tu: determinabas
+  vos: determinabas
+  ud: determinaba
+  nosotros: determinábamos
+  vosotros: determinabais
+  uds: determinaban
+futuro-simple:
+  yo: determinaré
+  tu: determinarás
+  vos: determinarás
+  ud: determinará
+  nosotros: determinaremos
+  vosotros: determinaréis
+  uds: determinarán
+condicional-simple:
+  yo: determinaría
+  tu: determinarías
+  vos: determinarías
+  ud: determinaría
+  nosotros: determinaríamos
+  vosotros: determinaríais
+  uds: determinarían
+presente-perfecto:
+  yo: he determinado
+  tu: has determinado
+  vos: has determinado
+  ud: ha determinado
+  nosotros: hemos determinado
+  vosotros: habéis determinado
+  uds: han determinado
+preterito-pluscuamperfecto:
+  yo: había determinado
+  tu: habías determinado
+  vos: habías determinado
+  ud: había determinado
+  nosotros: habíamos determinado
+  vosotros: habíais determinado
+  uds: habían determinado
+futuro-perfecto:
+  yo: habré determinado
+  tu: habrás determinado
+  vos: habrás determinado
+  ud: habrá determinado
+  nosotros: habremos determinado
+  vosotros: habréis determinado
+  uds: habrán determinado
+condicional-perfecto:
+  yo: habría determinado
+  tu: habrías determinado
+  vos: habrías determinado
+  ud: habría determinado
+  nosotros: habríamos determinado
+  vosotros: habríais determinado
+  uds: habrían determinado
+presente-subjuntivo:
+  yo: determine
+  tu: determines
+  vos: determines
+  ud: determine
+  nosotros: determinemos
+  vosotros: determinéis
+  uds: determinen
+preterito-perfecto-subjuntivo:
+  yo: haya determinado
+  tu: hayas determinado
+  vos: hayas determinado
+  ud: haya determinado
+  nosotros: hayamos determinado
+  vosotros: hayáis determinado
+  uds: hayan determinado
+imperfecto-subjuntivo:
+  yo:
+    - determinara
+    - determinase
+  tu:
+    - determinaras
+    - determinases
+  vos:
+    - determinaras
+    - determinases
+  ud:
+    - determinara
+    - determinase
+  nosotros:
+    - determináramos
+    - determinásemos
+  vosotros:
+    - determinarais
+    - determinaseis
+  uds:
+    - determinaran
+    - determinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera determinado
+    - hubiese determinado
+  tu:
+    - hubieras determinado
+    - hubieses determinado
+  vos:
+    - hubieras determinado
+    - hubieses determinado
+  ud:
+    - hubiera determinado
+    - hubiese determinado
+  nosotros:
+    - hubiéramos determinado
+    - hubiésemos determinado
+  vosotros:
+    - hubierais determinado
+    - hubieseis determinado
+  uds:
+    - hubieran determinado
+    - hubiesen determinado
+imperativo:
+  tu: determina
+  vos: determiná
+  ud: determine
+  nosotros: determinemos
+  vosotros: determinad
+  uds: determinen

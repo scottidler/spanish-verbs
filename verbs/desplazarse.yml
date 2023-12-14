@@ -1,0 +1,142 @@
+infinitivo: desplazarse
+gerundio: desplazándose
+participio-pasado: desplazado
+presente-indicativo:
+  yo: me desplazo
+  tu: te desplazas
+  vos: te desplazas
+  ud: se desplaza
+  nosotros: nos desplazamos
+  vosotros: os desplazáis
+  uds: se desplazan
+preterito-perfecto-simple:
+  yo: me desplacé
+  tu: te desplazaste
+  vos: te desplazaste
+  ud: se desplazó
+  nosotros: nos desplazamos
+  vosotros: os desplazasteis
+  uds: se desplazaron
+preterito-imperfecto:
+  yo: me desplazaba
+  tu: te desplazabas
+  vos: te desplazabas
+  ud: se desplazaba
+  nosotros: nos desplazábamos
+  vosotros: os desplazabais
+  uds: se desplazaban
+futuro-simple:
+  yo: me desplazaré
+  tu: te desplazarás
+  vos: te desplazarás
+  ud: se desplazará
+  nosotros: nos desplazaremos
+  vosotros: os desplazaréis
+  uds: se desplazarán
+condicional-simple:
+  yo: me desplazaría
+  tu: te desplazarías
+  vos: te desplazarías
+  ud: se desplazaría
+  nosotros: nos desplazaríamos
+  vosotros: os desplazaríais
+  uds: se desplazarían
+presente-perfecto:
+  yo: me he desplazado
+  tu: te has desplazado
+  vos: te has desplazado
+  ud: se ha desplazado
+  nosotros: nos hemos desplazado
+  vosotros: os habéis desplazado
+  uds: se han desplazado
+preterito-pluscuamperfecto:
+  yo: me había desplazado
+  tu: te habías desplazado
+  vos: te habías desplazado
+  ud: se había desplazado
+  nosotros: nos habíamos desplazado
+  vosotros: os habíais desplazado
+  uds: se habían desplazado
+futuro-perfecto:
+  yo: me habré desplazado
+  tu: te habrás desplazado
+  vos: te habrás desplazado
+  ud: se habrá desplazado
+  nosotros: nos habremos desplazado
+  vosotros: os habréis desplazado
+  uds: se habrán desplazado
+condicional-perfecto:
+  yo: me habría desplazado
+  tu: te habrías desplazado
+  vos: te habrías desplazado
+  ud: se habría desplazado
+  nosotros: nos habríamos desplazado
+  vosotros: os habríais desplazado
+  uds: se habrían desplazado
+presente-subjuntivo:
+  yo: me desplace
+  tu: te desplaces
+  vos: te desplaces
+  ud: se desplace
+  nosotros: nos desplacemos
+  vosotros: os desplacéis
+  uds: se desplacen
+preterito-perfecto-subjuntivo:
+  yo: me haya desplazado
+  tu: te hayas desplazado
+  vos: te hayas desplazado
+  ud: se haya desplazado
+  nosotros: nos hayamos desplazado
+  vosotros: os hayáis desplazado
+  uds: se hayan desplazado
+imperfecto-subjuntivo:
+  yo:
+    - me desplazara
+    - me desplazase
+  tu:
+    - te desplazaras
+    - te desplazases
+  vos:
+    - te desplazaras
+    - te desplazases
+  ud:
+    - se desplazara
+    - se desplazase
+  nosotros:
+    - nos desplazáramos
+    - nos desplazásemos
+  vosotros:
+    - os desplazarais
+    - os desplazaseis
+  uds:
+    - se desplazaran
+    - se desplazasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera desplazado
+    - me hubiese desplazado
+  tu:
+    - te hubieras desplazado
+    - te hubieses desplazado
+  vos:
+    - te hubieras desplazado
+    - te hubieses desplazado
+  ud:
+    - se hubiera desplazado
+    - se hubiese desplazado
+  nosotros:
+    - nos hubiéramos desplazado
+    - nos hubiésemos desplazado
+  vosotros:
+    - os hubierais desplazado
+    - os hubieseis desplazado
+  uds:
+    - se hubieran desplazado
+    - se hubiesen desplazado
+imperativo:
+  tu: desplázate
+  vos: desplázate
+  ud: desplácese
+  nosotros: desplacémonos
+  vosotros: desplazaos
+  uds: desplácense

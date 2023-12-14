@@ -1,0 +1,156 @@
+infinitivo: olfatear
+gerundio: olfateando
+participio-pasado: olfateado
+
+presente-indicativo:
+  yo: olfateo
+  tu: olfateas
+  vos: olfateas
+  ud: olfatea
+  nosotros: olfateamos
+  vosotros: olfateáis
+  uds: olfatean
+
+preterito-perfecto-simple:
+  yo: olfateé
+  tu: olfateaste
+  vos: olfateaste
+  ud: olfateó
+  nosotros: olfateamos
+  vosotros: olfateasteis
+  uds: olfatearon
+
+preterito-imperfecto:
+  yo: olfateaba
+  tu: olfateabas
+  vos: olfateabas
+  ud: olfateaba
+  nosotros: olfateábamos
+  vosotros: olfateabais
+  uds: olfateaban
+
+futuro-simple:
+  yo: olfatearé
+  tu: olfatearás
+  vos: olfatearás
+  ud: olfateará
+  nosotros: olfatearemos
+  vosotros: olfatearéis
+  uds: olfatearán
+
+condicional-simple:
+  yo: olfatearía
+  tu: olfatearías
+  vos: olfatearías
+  ud: olfatearía
+  nosotros: olfatearíamos
+  vosotros: olfatearíais
+  uds: olfatearían
+
+presente-perfecto:
+  yo: he olfateado
+  tu: has olfateado
+  vos: has olfateado
+  ud: ha olfateado
+  nosotros: hemos olfateado
+  vosotros: habéis olfateado
+  uds: han olfateado
+
+preterito-pluscuamperfecto:
+  yo: había olfateado
+  tu: habías olfateado
+  vos: habías olfateado
+  ud: había olfateado
+  nosotros: habíamos olfateado
+  vosotros: habíais olfateado
+  uds: habían olfateado
+
+futuro-perfecto:
+  yo: habré olfateado
+  tu: habrás olfateado
+  vos: habrás olfateado
+  ud: habrá olfateado
+  nosotros: habremos olfateado
+  vosotros: habréis olfateado
+  uds: habrán olfateado
+
+condicional-perfecto:
+  yo: habría olfateado
+  tu: habrías olfateado
+  vos: habrías olfateado
+  ud: habría olfateado
+  nosotros: habríamos olfateado
+  vosotros: habríais olfateado
+  uds: habrían olfateado
+
+presente-subjuntivo:
+  yo: olfatee
+  tu: olfatees
+  vos: olfatees
+  ud: olfatee
+  nosotros: olfateemos
+  vosotros: olfateéis
+  uds: olfateen
+
+preterito-perfecto-subjuntivo:
+  yo: haya olfateado
+  tu: hayas olfateado
+  vos: hayas olfateado
+  ud: haya olfateado
+  nosotros: hayamos olfateado
+  vosotros: hayáis olfateado
+  uds: hayan olfateado
+
+imperfecto-subjuntivo:
+  yo:
+    - olfateara
+    - olfatease
+  tu:
+    - olfatearas
+    - olfateases
+  vos:
+    - olfatearas
+    - olfateases
+  ud:
+    - olfateara
+    - olfatease
+  nosotros:
+    - olfateáramos
+    - olfateásemos
+  vosotros:
+    - olfatearais
+    - olfateaseis
+  uds:
+    - olfatearan
+    - olfateasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera olfateado
+    - hubiese olfateado
+  tu:
+    - hubieras olfateado
+    - hubieses olfateado
+  vos:
+    - hubieras olfateado
+    - hubieses olfateado
+  ud:
+    - hubiera olfateado
+    - hubiese olfateado
+  nosotros:
+    - hubiéramos olfateado
+    - hubiésemos olfateado
+  vosotros:
+    - hubierais olfateado
+    - hubieseis olfateado
+  uds:
+    - hubieran olfateado
+    - hubiesen olfateado
+
+imperativo:
+  tu: olfatea
+  vos: olfateá
+  ud: olfatee
+  nosotros: olfateemos
+  vosotros: olfatead
+  uds: olfateen

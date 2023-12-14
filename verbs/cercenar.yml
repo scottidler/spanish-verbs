@@ -1,0 +1,142 @@
+infinitivo: cercenar
+gerundio: cercenando
+participio-pasado: cercenado
+presente-indicativo:
+  yo: cerceno
+  tu: cercenas
+  vos: cercenas
+  ud: cercena
+  nosotros: cercenamos
+  vosotros: cercenáis
+  uds: cercenan
+preterito-perfecto-simple:
+  yo: cercené
+  tu: cercenaste
+  vos: cercenaste
+  ud: cercenó
+  nosotros: cercenamos
+  vosotros: cercenasteis
+  uds: cercenaron
+preterito-imperfecto:
+  yo: cercenaba
+  tu: cercenabas
+  vos: cercenabas
+  ud: cercenaba
+  nosotros: cercenábamos
+  vosotros: cercenabais
+  uds: cercenaban
+futuro-simple:
+  yo: cercenaré
+  tu: cercenarás
+  vos: cercenarás
+  ud: cercenará
+  nosotros: cercenaremos
+  vosotros: cercenaréis
+  uds: cercenarán
+condicional-simple:
+  yo: cercenaría
+  tu: cercenarías
+  vos: cercenarías
+  ud: cercenaría
+  nosotros: cercenaríamos
+  vosotros: cercenaríais
+  uds: cercenarían
+presente-perfecto:
+  yo: he cercenado
+  tu: has cercenado
+  vos: has cercenado
+  ud: ha cercenado
+  nosotros: hemos cercenado
+  vosotros: habéis cercenado
+  uds: han cercenado
+preterito-pluscuamperfecto:
+  yo: había cercenado
+  tu: habías cercenado
+  vos: habías cercenado
+  ud: había cercenado
+  nosotros: habíamos cercenado
+  vosotros: habíais cercenado
+  uds: habían cercenado
+futuro-perfecto:
+  yo: habré cercenado
+  tu: habrás cercenado
+  vos: habrás cercenado
+  ud: habrá cercenado
+  nosotros: habremos cercenado
+  vosotros: habréis cercenado
+  uds: habrán cercenado
+condicional-perfecto:
+  yo: habría cercenado
+  tu: habrías cercenado
+  vos: habrías cercenado
+  ud: habría cercenado
+  nosotros: habríamos cercenado
+  vosotros: habríais cercenado
+  uds: habrían cercenado
+presente-subjuntivo:
+  yo: cercene
+  tu: cercenes
+  vos: cercenes
+  ud: cercene
+  nosotros: cercenemos
+  vosotros: cercenéis
+  uds: cercenen
+preterito-perfecto-subjuntivo:
+  yo: haya cercenado
+  tu: hayas cercenado
+  vos: hayas cercenado
+  ud: haya cercenado
+  nosotros: hayamos cercenado
+  vosotros: hayáis cercenado
+  uds: hayan cercenado
+imperfecto-subjuntivo:
+  yo:
+    - cercenara
+    - cercenase
+  tu:
+    - cercenaras
+    - cercenases
+  vos:
+    - cercenaras
+    - cercenases
+  ud:
+    - cercenara
+    - cercenase
+  nosotros:
+    - cercenáramos
+    - cercenásemos
+  vosotros:
+    - cercenarais
+    - cercenaseis
+  uds:
+    - cercenaran
+    - cercenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cercenado
+    - hubiese cercenado
+  tu:
+    - hubieras cercenado
+    - hubieses cercenado
+  vos:
+    - hubieras cercenado
+    - hubieses cercenado
+  ud:
+    - hubiera cercenado
+    - hubiese cercenado
+  nosotros:
+    - hubiéramos cercenado
+    - hubiésemos cercenado
+  vosotros:
+    - hubierais cercenado
+    - hubieseis cercenado
+  uds:
+    - hubieran cercenado
+    - hubiesen cercenado
+imperativo:
+  tu: cercena
+  vos: cercená
+  ud: cercene
+  nosotros: cercenemos
+  vosotros: cercenad
+  uds: cercenen

@@ -1,0 +1,142 @@
+infinitivo: matir
+gerundio: matiendo
+participio-pasado: matido
+presente-indicativo:
+  yo: mato
+  tu: matas
+  vos: matas
+  ud: mata
+  nosotros: matimos
+  vosotros: matís
+  uds: matan
+preterito-perfecto-simple:
+  yo: maté
+  tu: mataste
+  vos: mataste
+  ud: mató
+  nosotros: matimos
+  vosotros: matasteis
+  uds: mataron
+preterito-imperfecto:
+  yo: mataba
+  tu: matabas
+  vos: matabas
+  ud: mataba
+  nosotros: matabamos
+  vosotros: matabais
+  uds: mataban
+futuro-simple:
+  yo: matiré
+  tu: matirás
+  vos: matirás
+  ud: matirá
+  nosotros: matiremos
+  vosotros: matiréis
+  uds: matirán
+condicional-simple:
+  yo: matiría
+  tu: matirías
+  vos: matirías
+  ud: matiría
+  nosotros: matiríamos
+  vosotros: matiríais
+  uds: matirían
+presente-perfecto:
+  yo: he matido
+  tu: has matido
+  vos: has matido
+  ud: ha matido
+  nosotros: hemos matido
+  vosotros: habéis matido
+  uds: han matido
+preterito-pluscuamperfecto:
+  yo: había matido
+  tu: habías matido
+  vos: habías matido
+  ud: había matido
+  nosotros: habíamos matido
+  vosotros: habíais matido
+  uds: habían matido
+futuro-perfecto:
+  yo: habré matido
+  tu: habrás matido
+  vos: habrás matido
+  ud: habrá matido
+  nosotros: habremos matido
+  vosotros: habréis matido
+  uds: habrán matido
+condicional-perfecto:
+  yo: habría matido
+  tu: habrías matido
+  vos: habrías matido
+  ud: habría matido
+  nosotros: habríamos matido
+  vosotros: habríais matido
+  uds: habrían matido
+presente-subjuntivo:
+  yo: mate
+  tu: mates
+  vos: mates
+  ud: mate
+  nosotros: matemos
+  vosotros: matéis
+  uds: maten
+preterito-perfecto-subjuntivo:
+  yo: haya matido
+  tu: hayas matido
+  vos: hayas matido
+  ud: haya matido
+  nosotros: hayamos matido
+  vosotros: hayáis matido
+  uds: hayan matido
+imperfecto-subjuntivo:
+  yo:
+    - matira
+    - matiese
+  tu:
+    - matiras
+    - matieses
+  vos:
+    - matiras
+    - matieses
+  ud:
+    - matira
+    - matiese
+  nosotros:
+    - matiramos
+    - matiésemos
+  vosotros:
+    - matirais
+    - matieseis
+  uds:
+    - matiran
+    - matiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera matido
+    - hubiese matido
+  tu:
+    - hubieras matido
+    - hubieses matido
+  vos:
+    - hubieras matido
+    - hubieses matido
+  ud:
+    - hubiera matido
+    - hubiese matido
+  nosotros:
+    - hubiéramos matido
+    - hubiésemos matido
+  vosotros:
+    - hubierais matido
+    - hubieseis matido
+  uds:
+    - hubieran matido
+    - hubiesen matido
+imperativo:
+  tu: mata
+  vos: matí
+  ud: mate
+  nosotros: matamos
+  vosotros: matid
+  uds: maten

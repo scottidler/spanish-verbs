@@ -1,0 +1,142 @@
+infinitivo: urgir
+gerundio: urgiendo
+participio-pasado: urgido
+presente-indicativo:
+  yo: urjo
+  tu: urges
+  vos: urges
+  ud: urge
+  nosotros: urgimos
+  vosotros: urgis
+  uds: urgen
+preterito-perfecto-simple:
+  yo: urgí
+  tu: urgiste
+  vos: urgiste
+  ud: urgió
+  nosotros: urgimos
+  vosotros: urgisteis
+  uds: urgieron
+preterito-imperfecto:
+  yo: urgía
+  tu: urgías
+  vos: urgías
+  ud: urgía
+  nosotros: urgíamos
+  vosotros: urgíais
+  uds: urgían
+futuro-simple:
+  yo: urgiré
+  tu: urgirás
+  vos: urgirás
+  ud: urgirá
+  nosotros: urgiremos
+  vosotros: urgiréis
+  uds: urgirán
+condicional-simple:
+  yo: urgiría
+  tu: urgirías
+  vos: urgirías
+  ud: urgiría
+  nosotros: urgiríamos
+  vosotros: urgiríais
+  uds: urgirían
+presente-perfecto:
+  yo: he urgido
+  tu: has urgido
+  vos: has urgido
+  ud: ha urgido
+  nosotros: hemos urgido
+  vosotros: habéis urgido
+  uds: han urgido
+preterito-pluscuamperfecto:
+  yo: había urgido
+  tu: habías urgido
+  vos: habías urgido
+  ud: había urgido
+  nosotros: habíamos urgido
+  vosotros: habíais urgido
+  uds: habían urgido
+futuro-perfecto:
+  yo: habré urgido
+  tu: habrás urgido
+  vos: habrás urgido
+  ud: habrá urgido
+  nosotros: habremos urgido
+  vosotros: habréis urgido
+  uds: habrán urgido
+condicional-perfecto:
+  yo: habría urgido
+  tu: habrías urgido
+  vos: habrías urgido
+  ud: habría urgido
+  nosotros: habríamos urgido
+  vosotros: habríais urgido
+  uds: habrían urgido
+presente-subjuntivo:
+  yo: urja
+  tu: urjas
+  vos: urjas
+  ud: urja
+  nosotros: urjamos
+  vosotros: urjáis
+  uds: urjan
+preterito-perfecto-subjuntivo:
+  yo: haya urgido
+  tu: hayas urgido
+  vos: hayas urgido
+  ud: haya urgido
+  nosotros: hayamos urgido
+  vosotros: hayáis urgido
+  uds: hayan urgido
+imperfecto-subjuntivo:
+  yo:
+    - urgiera
+    - urgiese
+  tu:
+    - urgieras
+    - urgieses
+  vos:
+    - urgieras
+    - urgieses
+  ud:
+    - urgiera
+    - urgiese
+  nosotros:
+    - urgiéramos
+    - urgiésemos
+  vosotros:
+    - urgierais
+    - urgieseis
+  uds:
+    - urgieran
+    - urgiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera urgido
+    - hubiese urgido
+  tu:
+    - hubieras urgido
+    - hubieses urgido
+  vos:
+    - hubieras urgido
+    - hubieses urgido
+  ud:
+    - hubiera urgido
+    - hubiese urgido
+  nosotros:
+    - hubiéramos urgido
+    - hubiésemos urgido
+  vosotros:
+    - hubierais urgido
+    - hubieseis urgido
+  uds:
+    - hubieran urgido
+    - hubiesen urgido
+imperativo:
+  tu: urge
+  vos: urgid
+  ud: urja
+  nosotros: urjamos
+  vosotros: urgíos
+  uds: urjan

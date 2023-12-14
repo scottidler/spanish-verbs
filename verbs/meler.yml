@@ -1,0 +1,142 @@
+infinitivo: meler
+gerundio: melando
+participio-pasado: melado
+presente-indicativo:
+  yo: mele
+  tu: meles
+  vos: meles
+  ud: mele
+  nosotros: melemos
+  vosotros: meléis
+  uds: mele
+preterito-perfecto-simple:
+  yo: melé
+  tu: melaste
+  vos: melaste
+  ud: meló
+  nosotros: melamos
+  vosotros: melasteis
+  uds: melaron
+preterito-imperfecto:
+  yo: melaba
+  tu: melabas
+  vos: melabas
+  ud: melaba
+  nosotros: melábamos
+  vosotros: melabais
+  uds: melaban
+futuro-simple:
+  yo: melaré
+  tu: melarás
+  vos: melarás
+  ud: melará
+  nosotros: melaremos
+  vosotros: melaréis
+  uds: melarán
+condicional-simple:
+  yo: melaría
+  tu: melarías
+  vos: melarías
+  ud: melaría
+  nosotros: melaríamos
+  vosotros: melaríais
+  uds: melarían
+presente-perfecto:
+  yo: he melado
+  tu: has melado
+  vos: has melado
+  ud: ha melado
+  nosotros: hemos melado
+  vosotros: habéis melado
+  uds: han melado
+preterito-pluscuamperfecto:
+  yo: había melado
+  tu: habías melado
+  vos: habías melado
+  ud: había melado
+  nosotros: habíamos melado
+  vosotros: habíais melado
+  uds: habían melado
+futuro-perfecto:
+  yo: habré melado
+  tu: habrás melado
+  vos: habrás melado
+  ud: habrá melado
+  nosotros: habremos melado
+  vosotros: habréis melado
+  uds: habrán melado
+condicional-perfecto:
+  yo: habría melado
+  tu: habrías melado
+  vos: habrías melado
+  ud: habría melado
+  nosotros: habríamos melado
+  vosotros: habríais melado
+  uds: habrían melado
+presente-subjuntivo:
+  yo: mele
+  tu: meles
+  vos: meles
+  ud: mele
+  nosotros: melemos
+  vosotros: meléis
+  uds: mele
+preterito-perfecto-subjuntivo:
+  yo: haya melado
+  tu: hayas melado
+  vos: hayas melado
+  ud: haya melado
+  nosotros: hayamos melado
+  vosotros: hayáis melado
+  uds: hayan melado
+imperfecto-subjuntivo:
+  yo:
+    - melara
+    - melase
+  tu:
+    - melaras
+    - melases
+  vos:
+    - melaras
+    - melases
+  ud:
+    - melara
+    - melase
+  nosotros:
+    - meláramos
+    - melásemos
+  vosotros:
+    - melarais
+    - melaseis
+  uds:
+    - melaran
+    - melasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera melado
+    - hubiese melado
+  tu:
+    - hubieras melado
+    - hubieses melado
+  vos:
+    - hubieras melado
+    - hubieses melado
+  ud:
+    - hubiera melado
+    - hubiese melado
+  nosotros:
+    - hubiéramos melado
+    - hubiésemos melado
+  vosotros:
+    - hubierais melado
+    - hubieseis melado
+  uds:
+    - hubieran melado
+    - hubiesen melado
+imperativo:
+  tu: mele
+  vos: mele
+  ud: mele
+  nosotros: melemos
+  vosotros: melad
+  uds: mele

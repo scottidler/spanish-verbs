@@ -1,0 +1,142 @@
+infinitivo: aprisionar
+gerundio: aprisionando
+participio-pasado: aprisionado
+presente-indicativo:
+  yo: aprisiono
+  tu: aprisionas
+  vos: aprisionas
+  ud: aprisiona
+  nosotros: aprisionamos
+  vosotros: aprisionáis
+  uds: aprisionan
+preterito-perfecto-simple:
+  yo: aprisioné
+  tu: aprisionaste
+  vos: aprisionaste
+  ud: aprisionó
+  nosotros: aprisionamos
+  vosotros: aprisionasteis
+  uds: aprisionaron
+preterito-imperfecto:
+  yo: aprisionaba
+  tu: aprisionabas
+  vos: aprisionabas
+  ud: aprisionaba
+  nosotros: aprisionábamos
+  vosotros: aprisionabais
+  uds: aprisionaban
+futuro-simple:
+  yo: aprisionaré
+  tu: aprisionarás
+  vos: aprisionarás
+  ud: aprisionará
+  nosotros: aprisionaremos
+  vosotros: aprisionaréis
+  uds: aprisionarán
+condicional-simple:
+  yo: aprisionaría
+  tu: aprisionarías
+  vos: aprisionarías
+  ud: aprisionaría
+  nosotros: aprisionaríamos
+  vosotros: aprisionaríais
+  uds: aprisionarían
+presente-perfecto:
+  yo: he aprisionado
+  tu: has aprisionado
+  vos: has aprisionado
+  ud: ha aprisionado
+  nosotros: hemos aprisionado
+  vosotros: habéis aprisionado
+  uds: han aprisionado
+preterito-pluscuamperfecto:
+  yo: había aprisionado
+  tu: habías aprisionado
+  vos: habías aprisionado
+  ud: había aprisionado
+  nosotros: habíamos aprisionado
+  vosotros: habíais aprisionado
+  uds: habían aprisionado
+futuro-perfecto:
+  yo: habré aprisionado
+  tu: habrás aprisionado
+  vos: habrás aprisionado
+  ud: habrá aprisionado
+  nosotros: habremos aprisionado
+  vosotros: habréis aprisionado
+  uds: habrán aprisionado
+condicional-perfecto:
+  yo: habría aprisionado
+  tu: habrías aprisionado
+  vos: habrías aprisionado
+  ud: habría aprisionado
+  nosotros: habríamos aprisionado
+  vosotros: habríais aprisionado
+  uds: habrían aprisionado
+presente-subjuntivo:
+  yo: aprisione
+  tu: aprisiones
+  vos: aprisiones
+  ud: aprisione
+  nosotros: aprisionemos
+  vosotros: aprisionéis
+  uds: aprisionen
+preterito-perfecto-subjuntivo:
+  yo: haya aprisionado
+  tu: hayas aprisionado
+  vos: hayas aprisionado
+  ud: haya aprisionado
+  nosotros: hayamos aprisionado
+  vosotros: hayáis aprisionado
+  uds: hayan aprisionado
+imperfecto-subjuntivo:
+  yo:
+    - aprisionara
+    - aprisionase
+  tu:
+    - aprisionaras
+    - aprisionases
+  vos:
+    - aprisionaras
+    - aprisionases
+  ud:
+    - aprisionara
+    - aprisionase
+  nosotros:
+    - aprisionáramos
+    - aprisionásemos
+  vosotros:
+    - aprisionarais
+    - aprisionaseis
+  uds:
+    - aprisionaran
+    - aprisionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aprisionado
+    - hubiese aprisionado
+  tu:
+    - hubieras aprisionado
+    - hubieses aprisionado
+  vos:
+    - hubieras aprisionado
+    - hubieses aprisionado
+  ud:
+    - hubiera aprisionado
+    - hubiese aprisionado
+  nosotros:
+    - hubiéramos aprisionado
+    - hubiésemos aprisionado
+  vosotros:
+    - hubierais aprisionado
+    - hubieseis aprisionado
+  uds:
+    - hubieran aprisionado
+    - hubiesen aprisionado
+imperativo:
+  tu: aprisiona
+  vos: aprisioná
+  ud: aprisione
+  nosotros: aprisionemos
+  vosotros: aprisionad
+  uds: aprisionen

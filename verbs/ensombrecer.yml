@@ -1,0 +1,142 @@
+infinitivo: ensombrecer
+gerundio: ensombreciendo
+participio-pasado: ensombrecido
+presente-indicativo:
+  yo: ensombrezco
+  tu: ensombreces
+  vos: ensombreces
+  ud: ensombrece
+  nosotros: ensombrecemos
+  vosotros: ensombrecéis
+  uds: ensombrecen
+preterito-perfecto-simple:
+  yo: ensombrecí
+  tu: ensombreciste
+  vos: ensombreciste
+  ud: ensombreció
+  nosotros: ensombrecimos
+  vosotros: ensombrecisteis
+  uds: ensombrecieron
+preterito-imperfecto:
+  yo: ensombrecía
+  tu: ensombrecías
+  vos: ensombrecías
+  ud: ensombrecía
+  nosotros: ensombrecíamos
+  vosotros: ensombrecíais
+  uds: ensombrecían
+futuro-simple:
+  yo: ensombreceré
+  tu: ensombrecerás
+  vos: ensombrecerás
+  ud: ensombrecerá
+  nosotros: ensombreceremos
+  vosotros: ensombreceréis
+  uds: ensombrecerán
+condicional-simple:
+  yo: ensombrecería
+  tu: ensombrecerías
+  vos: ensombrecerías
+  ud: ensombrecería
+  nosotros: ensombreceríamos
+  vosotros: ensombreceríais
+  uds: ensombrecerían
+presente-perfecto:
+  yo: he ensombrecido
+  tu: has ensombrecido
+  vos: has ensombrecido
+  ud: ha ensombrecido
+  nosotros: hemos ensombrecido
+  vosotros: habéis ensombrecido
+  uds: han ensombrecido
+preterito-pluscuamperfecto:
+  yo: había ensombrecido
+  tu: habías ensombrecido
+  vos: habías ensombrecido
+  ud: había ensombrecido
+  nosotros: habíamos ensombrecido
+  vosotros: habíais ensombrecido
+  uds: habían ensombrecido
+futuro-perfecto:
+  yo: habré ensombrecido
+  tu: habrás ensombrecido
+  vos: habrás ensombrecido
+  ud: habrá ensombrecido
+  nosotros: habremos ensombrecido
+  vosotros: habréis ensombrecido
+  uds: habrán ensombrecido
+condicional-perfecto:
+  yo: habría ensombrecido
+  tu: habrías ensombrecido
+  vos: habrías ensombrecido
+  ud: habría ensombrecido
+  nosotros: habríamos ensombrecido
+  vosotros: habríais ensombrecido
+  uds: habrían ensombrecido
+presente-subjuntivo:
+  yo: ensombrezca
+  tu: ensombrezcas
+  vos: ensombrezcas
+  ud: ensombrezca
+  nosotros: ensombrezcamos
+  vosotros: ensombrezcáis
+  uds: ensombrezcan
+preterito-perfecto-subjuntivo:
+  yo: haya ensombrecido
+  tu: hayas ensombrecido
+  vos: hayas ensombrecido
+  ud: haya ensombrecido
+  nosotros: hayamos ensombrecido
+  vosotros: hayáis ensombrecido
+  uds: hayan ensombrecido
+imperfecto-subjuntivo:
+  yo:
+    - ensombreciera
+    - ensombreciese
+  tu:
+    - ensombrecieras
+    - ensombrecieses
+  vos:
+    - ensombrecieras
+    - ensombrecieses
+  ud:
+    - ensombreciera
+    - ensombreciese
+  nosotros:
+    - ensombreciéramos
+    - ensombreciésemos
+  vosotros:
+    - ensombrecierais
+    - ensombrecieseis
+  uds:
+    - ensombrecieran
+    - ensombreciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ensombrecido
+    - hubiese ensombrecido
+  tu:
+    - hubieras ensombrecido
+    - hubieses ensombrecido
+  vos:
+    - hubieras ensombrecido
+    - hubieses ensombrecido
+  ud:
+    - hubiera ensombrecido
+    - hubiese ensombrecido
+  nosotros:
+    - hubiéramos ensombrecido
+    - hubiésemos ensombrecido
+  vosotros:
+    - hubierais ensombrecido
+    - hubieseis ensombrecido
+  uds:
+    - hubieran ensombrecido
+    - hubiesen ensombrecido
+imperativo:
+  tu: ensombrece
+  vos: ensombrecé
+  ud: ensombrezca
+  nosotros: ensombrezcamos
+  vosotros: ensombredced
+  uds: ensombrezcan

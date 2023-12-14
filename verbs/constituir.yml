@@ -1,0 +1,142 @@
+infinitivo: constituir
+gerundio: constituyendo
+participio-pasado: constituido
+presente-indicativo:
+  yo: constituyo
+  tu: constituyes
+  vos: constituyes
+  ud: constituye
+  nosotros: constituimos
+  vosotros: constituís
+  uds: constituyen
+preterito-perfecto-simple:
+  yo: constituí
+  tu: constituiste
+  vos: constituiste
+  ud: constituyó
+  nosotros: constituimos
+  vosotros: constituisteis
+  uds: constituyeron
+preterito-imperfecto:
+  yo: constituía
+  tu: constituías
+  vos: constituías
+  ud: constituía
+  nosotros: constituíamos
+  vosotros: constituíais
+  uds: constituían
+futuro-simple:
+  yo: constituiré
+  tu: constituirás
+  vos: constituirás
+  ud: constituirá
+  nosotros: constituiremos
+  vosotros: constituiréis
+  uds: constituirán
+condicional-simple:
+  yo: constituiría
+  tu: constituirías
+  vos: constituirías
+  ud: constituiría
+  nosotros: constituiríamos
+  vosotros: constituiríais
+  uds: constituirían
+presente-perfecto:
+  yo: he constituido
+  tu: has constituido
+  vos: has constituido
+  ud: ha constituido
+  nosotros: hemos constituido
+  vosotros: habéis constituido
+  uds: han constituido
+preterito-pluscuamperfecto:
+  yo: había constituido
+  tu: habías constituido
+  vos: habías constituido
+  ud: había constituido
+  nosotros: habíamos constituido
+  vosotros: habíais constituido
+  uds: habían constituido
+futuro-perfecto:
+  yo: habré constituido
+  tu: habrás constituido
+  vos: habrás constituido
+  ud: habrá constituido
+  nosotros: habremos constituido
+  vosotros: habréis constituido
+  uds: habrán constituido
+condicional-perfecto:
+  yo: habría constituido
+  tu: habrías constituido
+  vos: habrías constituido
+  ud: habría constituido
+  nosotros: habríamos constituido
+  vosotros: habríais constituido
+  uds: habrían constituido
+presente-subjuntivo:
+  yo: constituya
+  tu: constituyas
+  vos: constituyas
+  ud: constituya
+  nosotros: constituyamos
+  vosotros: constituyáis
+  uds: constituyan
+preterito-perfecto-subjuntivo:
+  yo: haya constituido
+  tu: hayas constituido
+  vos: hayas constituido
+  ud: haya constituido
+  nosotros: hayamos constituido
+  vosotros: hayáis constituido
+  uds: hayan constituido
+imperfecto-subjuntivo:
+  yo:
+    - constituyera
+    - constituyese
+  tu:
+    - constituyeras
+    - constituyeses
+  vos:
+    - constituyeras
+    - constituyeses
+  ud:
+    - constituyera
+    - constituyese
+  nosotros:
+    - constituyéramos
+    - constituyésemos
+  vosotros:
+    - constituyerais
+    - constituyeseis
+  uds:
+    - constituyeran
+    - constituyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera constituido
+    - hubiese constituido
+  tu:
+    - hubieras constituido
+    - hubieses constituido
+  vos:
+    - hubieras constituido
+    - hubieses constituido
+  ud:
+    - hubiera constituido
+    - hubiese constituido
+  nosotros:
+    - hubiéramos constituido
+    - hubiésemos constituido
+  vosotros:
+    - hubierais constituido
+    - hubieseis constituido
+  uds:
+    - hubieran constituido
+    - hubiesen constituido
+imperativo:
+  tu: constituye
+  vos: constituye
+  ud: constituya
+  nosotros: constituyamos
+  vosotros: constituí
+  uds: constituyan

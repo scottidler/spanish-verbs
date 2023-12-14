@@ -1,0 +1,142 @@
+infinitivo: guir
+gerundio: guiendo
+participio-pasado: guid
+presente-indicativo:
+  yo: guio
+  tu: guías
+  vos: guís
+  ud: guía
+  nosotros: guimos
+  vosotros: guís
+  uds: guen
+preterito-perfecto-simple:
+  yo: guí
+  tu: guiste
+  vos: guiste
+  ud: guío
+  nosotros: guimos
+  vosotros: guisteis
+  uds: guieron
+preterito-imperfecto:
+  yo: guía
+  tu: guías
+  vos: guías
+  ud: guía
+  nosotros: guíamos
+  vosotros: guíais
+  uds: guían
+futuro-simple:
+  yo: guiré
+  tu: guirás
+  vos: guirás
+  ud: guirá
+  nosotros: guiéremos
+  vosotros: guiréis
+  uds: guirán
+condicional-simple:
+  yo: guiría
+  tu: guirías
+  vos: guirías
+  ud: guiría
+  nosotros: guiríamos
+  vosotros: guiríais
+  uds: guirían
+presente-perfecto:
+  yo: he guid
+  tu: has guid
+  vos: has guid
+  ud: ha guid
+  nosotros: hemos guid
+  vosotros: habéis guid
+  uds: han guid
+preterito-pluscuamperfecto:
+  yo: había guid
+  tu: habías guid
+  vos: habías guid
+  ud: había guid
+  nosotros: habíamos guid
+  vosotros: habíais guid
+  uds: habían guid
+futuro-perfecto:
+  yo: habré guid
+  tu: habrás guid
+  vos: habrás guid
+  ud: habrá guid
+  nosotros: habremos guid
+  vosotros: habréis guid
+  uds: habrán guid
+condicional-perfecto:
+  yo: habría guid
+  tu: habrías guid
+  vos: habrías guid
+  ud: habría guid
+  nosotros: habríamos guid
+  vosotros: habríais guid
+  uds: habrían guid
+presente-subjuntivo:
+  yo: guía
+  tu: guías
+  vos: guías
+  ud: guía
+  nosotros: guamos
+  vosotros: guáis
+  uds: guían
+preterito-perfecto-subjuntivo:
+  yo: haya guid
+  tu: hayas guid
+  vos: hayas guid
+  ud: haya guid
+  nosotros: hayamos guid
+  vosotros: hayáis guid
+  uds: hayan guid
+imperfecto-subjuntivo:
+  yo:
+    - guirara
+    - guirase
+  tu:
+    - guiraras
+    - guirases
+  vos:
+    - guiraras
+    - guirases
+  ud:
+    - guirara
+    - guirase
+  nosotros:
+    - guiramos
+    - guirsemos
+  vosotros:
+    - guirarais
+    - guiraseis
+  uds:
+    - guiraran
+    - guirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera guid
+    - hubiese guid
+  tu:
+    - hubieras guid
+    - hubieses guid
+  vos:
+    - hubieras guid
+    - hubieses guid
+  ud:
+    - hubiera guid
+    - hubiese guid
+  nosotros:
+    - hubiéramos guid
+    - hubiésemos guid
+  vosotros:
+    - hubierais guid
+    - hubieseis guid
+  uds:
+    - hubieran guid
+    - hubiesen guid
+imperativo:
+  tu: guí
+  vos: guí
+  ud: guía
+  nosotros: guamos
+  vosotros: guí
+  uds: guían

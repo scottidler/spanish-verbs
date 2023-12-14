@@ -1,0 +1,142 @@
+infinitivo: ejecutar
+gerundio: ejecutando
+participio-pasado: ejecutado
+presente-indicativo:
+  yo: ejecuto
+  tu: ejecutas
+  vos: ejecutas
+  ud: ejecuta
+  nosotros: ejecutamos
+  vosotros: ejecutáis
+  uds: ejecutan
+preterito-perfecto-simple:
+  yo: ejecuté
+  tu: ejecutaste
+  vos: ejecutaste
+  ud: ejecutó
+  nosotros: ejecutamos
+  vosotros: ejecutasteis
+  uds: ejecutaron
+preterito-imperfecto:
+  yo: ejecutaba
+  tu: ejecutabas
+  vos: ejecutabas
+  ud: ejecutaba
+  nosotros: ejecutábamos
+  vosotros: ejecutabais
+  uds: ejecutaban
+futuro-simple:
+  yo: ejecutaré
+  tu: ejecutarás
+  vos: ejecutarás
+  ud: ejecutará
+  nosotros: ejecutaremos
+  vosotros: ejecutaréis
+  uds: ejecutarán
+condicional-simple:
+  yo: ejecutaría
+  tu: ejecutarías
+  vos: ejecutarías
+  ud: ejecutaría
+  nosotros: ejecutaríamos
+  vosotros: ejecutaríais
+  uds: ejecutarían
+presente-perfecto:
+  yo: he ejecutado
+  tu: has ejecutado
+  vos: has ejecutado
+  ud: ha ejecutado
+  nosotros: hemos ejecutado
+  vosotros: habéis ejecutado
+  uds: han ejecutado
+preterito-pluscuamperfecto:
+  yo: había ejecutado
+  tu: habías ejecutado
+  vos: habías ejecutado
+  ud: había ejecutado
+  nosotros: habíamos ejecutado
+  vosotros: habíais ejecutado
+  uds: habían ejecutado
+futuro-perfecto:
+  yo: habré ejecutado
+  tu: habrás ejecutado
+  vos: habrás ejecutado
+  ud: habrá ejecutado
+  nosotros: habremos ejecutado
+  vosotros: habréis ejecutado
+  uds: habrán ejecutado
+condicional-perfecto:
+  yo: habría ejecutado
+  tu: habrías ejecutado
+  vos: habrías ejecutado
+  ud: habría ejecutado
+  nosotros: habríamos ejecutado
+  vosotros: habríais ejecutado
+  uds: habrían ejecutado
+presente-subjuntivo:
+  yo: ejecute
+  tu: ejecutes
+  vos: ejecutes
+  ud: ejecute
+  nosotros: ejecutemos
+  vosotros: ejecutéis
+  uds: ejecuten
+preterito-perfecto-subjuntivo:
+  yo: haya ejecutado
+  tu: hayas ejecutado
+  vos: hayas ejecutado
+  ud: haya ejecutado
+  nosotros: hayamos ejecutado
+  vosotros: hayáis ejecutado
+  uds: hayan ejecutado
+imperfecto-subjuntivo:
+  yo:
+    - ejecutara
+    - ejecutase
+  tu:
+    - ejecutaras
+    - ejecutases
+  vos:
+    - ejecutaras
+    - ejecutases
+  ud:
+    - ejecutara
+    - ejecutase
+  nosotros:
+    - ejecutáramos
+    - ejecutásemos
+  vosotros:
+    - ejecutarais
+    - ejecutaseis
+  uds:
+    - ejecutaran
+    - ejecutasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ejecutado
+    - hubiese ejecutado
+  tu:
+    - hubieras ejecutado
+    - hubieses ejecutado
+  vos:
+    - hubieras ejecutado
+    - hubieses ejecutado
+  ud:
+    - hubiera ejecutado
+    - hubiese ejecutado
+  nosotros:
+    - hubiéramos ejecutado
+    - hubiésemos ejecutado
+  vosotros:
+    - hubierais ejecutado
+    - hubieseis ejecutado
+  uds:
+    - hubieran ejecutado
+    - hubiesen ejecutado
+imperativo:
+  tu: ejecuta
+  vos: ejecutá
+  ud: ejecute
+  nosotros: ejecutemos
+  vosotros: ejecutad
+  uds: ejecuten

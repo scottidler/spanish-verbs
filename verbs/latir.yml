@@ -1,0 +1,142 @@
+infinitivo: latir
+gerundio: latiendo
+participio-pasado: latido
+presente-indicativo:
+  yo: lato
+  tu: latas
+  vos: latas
+  ud: lata
+  nosotros: latimos
+  vosotros: latís
+  uds: latan
+preterito-perfecto-simple:
+  yo: latí
+  tu: latiste
+  vos: latiste
+  ud: latió
+  nosotros: latimos
+  vosotros: latisteis
+  uds: latieron
+preterito-imperfecto:
+  yo: latía
+  tu: latías
+  vos: latías
+  ud: latía
+  nosotros: latíamos
+  vosotros: latíais
+  uds: latían
+futuro-simple:
+  yo: latiré
+  tu: latirás
+  vos: latirás
+  ud: latirá
+  nosotros: latiremos
+  vosotros: latiréis
+  uds: latirán
+condicional-simple:
+  yo: latiría
+  tu: latirías
+  vos: latirías
+  ud: latiría
+  nosotros: latiríamos
+  vosotros: latiríais
+  uds: latirían
+presente-perfecto:
+  yo: he latido
+  tu: has latido
+  vos: has latido
+  ud: ha latido
+  nosotros: hemos latido
+  vosotros: habéis latido
+  uds: han latido
+preterito-pluscuamperfecto:
+  yo: había latido
+  tu: habías latido
+  vos: habías latido
+  ud: había latido
+  nosotros: habíamos latido
+  vosotros: habíais latido
+  uds: habían latido
+futuro-perfecto:
+  yo: habré latido
+  tu: habrás latido
+  vos: habrás latido
+  ud: habrá latido
+  nosotros: habremos latido
+  vosotros: habréis latido
+  uds: habrán latido
+condicional-perfecto:
+  yo: habría latido
+  tu: habrías latido
+  vos: habrías latido
+  ud: habría latido
+  nosotros: habríamos latido
+  vosotros: habríais latido
+  uds: habrían latido
+presente-subjuntivo:
+  yo: lata
+  tu: latas
+  vos: latas
+  ud: lata
+  nosotros: latamos
+  vosotros: latáis
+  uds: latan
+preterito-perfecto-subjuntivo:
+  yo: haya latido
+  tu: hayas latido
+  vos: hayas latido
+  ud: haya latido
+  nosotros: hayamos latido
+  vosotros: hayáis latido
+  uds: hayan latido
+imperfecto-subjuntivo:
+  yo:
+    - latiera
+    - latiese
+  tu:
+    - latieras
+    - latieses
+  vos:
+    - latieras
+    - latieses
+  ud:
+    - latiera
+    - latiese
+  nosotros:
+    - latiéramos
+    - latiésemos
+  vosotros:
+    - latierais
+    - latieseis
+  uds:
+    - latieran
+    - latiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera latido
+    - hubiese latido
+  tu:
+    - hubieras latido
+    - hubieses latido
+  vos:
+    - hubieras latido
+    - hubieses latido
+  ud:
+    - hubiera latido
+    - hubiese latido
+  nosotros:
+    - hubiéramos latido
+    - hubiésemos latido
+  vosotros:
+    - hubierais latido
+    - hubieseis latido
+  uds:
+    - hubieran latido
+    - hubiesen latido
+imperativo:
+  tu: late
+  vos: latí
+  ud: lata
+  nosotros: latamos
+  vosotros: latid
+  uds: latan

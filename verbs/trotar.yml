@@ -1,0 +1,142 @@
+infinitivo: trotar
+gerundio: trotando
+participio-pasado: trotado
+presente-indicativo:
+  yo: troto
+  tu: trotas
+  vos: trotas
+  ud: trota
+  nosotros: trotamos
+  vosotros: trotáis
+  uds: trotan
+preterito-perfecto-simple:
+  yo: troté
+  tu: trotaste
+  vos: trotaste
+  ud: trotó
+  nosotros: trotamos
+  vosotros: trotasteis
+  uds: trotaron
+preterito-imperfecto:
+  yo: trotaba
+  tu: trotabas
+  vos: trotabas
+  ud: trotaba
+  nosotros: trotábamos
+  vosotros: trotabais
+  uds: trotaban
+futuro-simple:
+  yo: trotaré
+  tu: trotarás
+  vos: trotarás
+  ud: trotará
+  nosotros: trotaremos
+  vosotros: trotaréis
+  uds: trotarán
+condicional-simple:
+  yo: trotaría
+  tu: trotarías
+  vos: trotarías
+  ud: trotaría
+  nosotros: trotaríamos
+  vosotros: trotaríais
+  uds: trotarían
+presente-perfecto:
+  yo: he trotado
+  tu: has trotado
+  vos: has trotado
+  ud: ha trotado
+  nosotros: hemos trotado
+  vosotros: habéis trotado
+  uds: han trotado
+preterito-pluscuamperfecto:
+  yo: había trotado
+  tu: habías trotado
+  vos: habías trotado
+  ud: había trotado
+  nosotros: habíamos trotado
+  vosotros: habíais trotado
+  uds: habían trotado
+futuro-perfecto:
+  yo: habré trotado
+  tu: habrás trotado
+  vos: habrás trotado
+  ud: habrá trotado
+  nosotros: habremos trotado
+  vosotros: habréis trotado
+  uds: habrán trotado
+condicional-perfecto:
+  yo: habría trotado
+  tu: habrías trotado
+  vos: habrías trotado
+  ud: habría trotado
+  nosotros: habríamos trotado
+  vosotros: habríais trotado
+  uds: habrían trotado
+presente-subjuntivo:
+  yo: trotse
+  tu: trotses
+  vos: trotses
+  ud: trotse
+  nosotros: trotemos
+  vosotros: trotéis
+  uds: trotsen
+preterito-perfecto-subjuntivo:
+  yo: haya trotado
+  tu: hayas trotado
+  vos: hayas trotado
+  ud: haya trotado
+  nosotros: hayamos trotado
+  vosotros: hayáis trotado
+  uds: hayan trotado
+imperfecto-subjuntivo:
+  yo:
+    - trotara
+    - trotase
+  tu:
+    - trotaras
+    - trotases
+  vos:
+    - trotaras
+    - trotases
+  ud:
+    - trotara
+    - trotase
+  nosotros:
+    - trotáramos
+    - trotásemos
+  vosotros:
+    - trotarais
+    - trotaseis
+  uds:
+    - trotaran
+    - trotasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera trotado
+    - hubiese trotado
+  tu:
+    - hubieras trotado
+    - hubieses trotado
+  vos:
+    - hubieras trotado
+    - hubieses trotado
+  ud:
+    - hubiera trotado
+    - hubiese trotado
+  nosotros:
+    - hubiéramos trotado
+    - hubiésemos trotado
+  vosotros:
+    - hubierais trotado
+    - hubieseis trotado
+  uds:
+    - hubieran trotado
+    - hubiesen trotado
+imperativo:
+  tu: trota
+  vos: trotá
+  ud: trote
+  nosotros: trotamos
+  vosotros: trotad
+  uds: trotan

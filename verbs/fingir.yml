@@ -1,0 +1,142 @@
+infinitivo: fingir
+gerundio: fingiendo
+participio-pasado: fingido
+presente-indicativo:
+  yo: finjo
+  tu: finges
+  vos: finges
+  ud: finge
+  nosotros: fingimos
+  vosotros: fingís
+  uds: fingen
+preterito-perfecto-simple:
+  yo: fingí
+  tu: fingiste
+  vos: fingiste
+  ud: fingió
+  nosotros: fingimos
+  vosotros: fingisteis
+  uds: fingieron
+preterito-imperfecto:
+  yo: fingía
+  tu: fingías
+  vos: fingías
+  ud: fingía
+  nosotros: fingíamos
+  vosotros: fingíais
+  uds: fingían
+futuro-simple:
+  yo: fingiré
+  tu: fingirás
+  vos: fingirás
+  ud: fingirá
+  nosotros: fingiremos
+  vosotros: fingiréis
+  uds: fingirán
+condicional-simple:
+  yo: fingiría
+  tu: fingirías
+  vos: fingirías
+  ud: fingiría
+  nosotros: fingiríamos
+  vosotros: fingiríais
+  uds: fingirían
+presente-perfecto:
+  yo: he fingido
+  tu: has fingido
+  vos: has fingido
+  ud: ha fingido
+  nosotros: hemos fingido
+  vosotros: habéis fingido
+  uds: han fingido
+preterito-pluscuamperfecto:
+  yo: había fingido
+  tu: habías fingido
+  vos: habías fingido
+  ud: había fingido
+  nosotros: habíamos fingido
+  vosotros: habíais fingido
+  uds: habían fingido
+futuro-perfecto:
+  yo: habré fingido
+  tu: habrás fingido
+  vos: habrás fingido
+  ud: habrá fingido
+  nosotros: habremos fingido
+  vosotros: habréis fingido
+  uds: habrán fingido
+condicional-perfecto:
+  yo: habría fingido
+  tu: habrías fingido
+  vos: habrías fingido
+  ud: habría fingido
+  nosotros: habríamos fingido
+  vosotros: habríais fingido
+  uds: habrían fingido
+presente-subjuntivo:
+  yo: finja
+  tu: finjas
+  vos: finjas
+  ud: finja
+  nosotros: finjamos
+  vosotros: fingáis
+  uds: finjan
+preterito-perfecto-subjuntivo:
+  yo: haya fingido
+  tu: hayas fingido
+  vos: hayas fingido
+  ud: haya fingido
+  nosotros: hayamos fingido
+  vosotros: hayáis fingido
+  uds: hayan fingido
+imperfecto-subjuntivo:
+  yo:
+    - fingiera
+    - fingiese
+  tu:
+    - fingieras
+    - finguieses
+  vos:
+    - fingieras
+    - finguieses
+  ud:
+    - fingiera
+    - fingiese
+  nosotros:
+    - fingiéramos
+    - fingiésemos
+  vosotros:
+    - fingierais
+    - finguieseis
+  uds:
+    - fingieran
+    - fingiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fingido
+    - hubiese fingido
+  tu:
+    - hubieras fingido
+    - hubieses fingido
+  vos:
+    - hubieras fingido
+    - hubieses fingido
+  ud:
+    - hubiera fingido
+    - hubiese fingido
+  nosotros:
+    - hubiéramos fingido
+    - hubiésemos fingido
+  vosotros:
+    - hubierais fingido
+    - hubieseis fingido
+  uds:
+    - hubieran fingido
+    - hubiesen fingido
+imperativo:
+  tu: finge
+  vos: fingí
+  ud: finja
+  nosotros: finjamos
+  vosotros: fingid
+  uds: finjan

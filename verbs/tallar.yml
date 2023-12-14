@@ -1,0 +1,142 @@
+infinitivo: tallar
+gerundio: tallando
+participio-pasado: tallado
+presente-indicativo:
+  yo: tallo
+  tu: tallas
+  vos: tallas
+  ud: talla
+  nosotros: tallamos
+  vosotros: talláis
+  uds: tallan
+preterito-perfecto-simple:
+  yo: tallé
+  tu: tallaste
+  vos: tallaste
+  ud: talló
+  nosotros: tallamos
+  vosotros: tallasteis
+  uds: tallaron
+preterito-imperfecto:
+  yo: tallaba
+  tu: tallabas
+  vos: tallabas
+  ud: tallaba
+  nosotros: tallábamos
+  vosotros: tallabais
+  uds: tallaban
+futuro-simple:
+  yo: tallaré
+  tu: tallarás
+  vos: tallarás
+  ud: tallará
+  nosotros: tallaremos
+  vosotros: tallaréis
+  uds: tallarán
+condicional-simple:
+  yo: tallaría
+  tu: tallarías
+  vos: tallarías
+  ud: tallaría
+  nosotros: tallaríamos
+  vosotros: tallaríais
+  uds: tallarían
+presente-perfecto:
+  yo: he tallado
+  tu: has tallado
+  vos: has tallado
+  ud: ha tallado
+  nosotros: hemos tallado
+  vosotros: habéis tallado
+  uds: han tallado
+preterito-pluscuamperfecto:
+  yo: había tallado
+  tu: habías tallado
+  vos: habías tallado
+  ud: había tallado
+  nosotros: habíamos tallado
+  vosotros: habíais tallado
+  uds: habían tallado
+futuro-perfecto:
+  yo: habré tallado
+  tu: habrás tallado
+  vos: habrás tallado
+  ud: habrá tallado
+  nosotros: habremos tallado
+  vosotros: habréis tallado
+  uds: habrán tallado
+condicional-perfecto:
+  yo: habría tallado
+  tu: habrías tallado
+  vos: habrías tallado
+  ud: habría tallado
+  nosotros: habríamos tallado
+  vosotros: habríais tallado
+  uds: habrían tallado
+presente-subjuntivo:
+  yo: talle
+  tu: talles
+  vos: talles
+  ud: talle
+  nosotros: tallemos
+  vosotros: talléis
+  uds: tallen
+preterito-perfecto-subjuntivo:
+  yo: haya tallado
+  tu: hayas tallado
+  vos: hayas tallado
+  ud: haya tallado
+  nosotros: hayamos tallado
+  vosotros: hayáis tallado
+  uds: hayan tallado
+imperfecto-subjuntivo:
+  yo:
+    - tallara
+    - tallase
+  tu:
+    - tallaras
+    - tallases
+  vos:
+    - tallaras
+    - tallases
+  ud:
+    - tallara
+    - tallase
+  nosotros:
+    - talláramos
+    - tallásemos
+  vosotros:
+    - tallarais
+    - tallaseis
+  uds:
+    - tallaran
+    - tallasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tallado
+    - hubiese tallado
+  tu:
+    - hubieras tallado
+    - hubieses tallado
+  vos:
+    - hubieras tallado
+    - hubieses tallado
+  ud:
+    - hubiera tallado
+    - hubiese tallado
+  nosotros:
+    - hubiéramos tallado
+    - hubiésemos tallado
+  vosotros:
+    - hubierais tallado
+    - hubieseis tallado
+  uds:
+    - hubieran tallado
+    - hubiesen tallado
+imperativo:
+  tu: talla
+  vos: tallá
+  ud: talle
+  nosotros: tallemos
+  vosotros: tallad
+  uds: tallen

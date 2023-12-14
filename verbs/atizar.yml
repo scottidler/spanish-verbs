@@ -1,0 +1,142 @@
+infinitivo: atizar
+gerundio: atizando
+participio-pasado: atizado
+presente-indicativo:
+  yo: atizo
+  tu: atizas
+  vos: atizas
+  ud: atiza
+  nosotros: atizamos
+  vosotros: atizáis
+  uds: atizan
+preterito-perfecto-simple:
+  yo: aticé
+  tu: atizaste
+  vos: atizaste
+  ud: atizó
+  nosotros: atizamos
+  vosotros: atizasteis
+  uds: atizaron
+preterito-imperfecto:
+  yo: atizaba
+  tu: atizabas
+  vos: atizabas
+  ud: atizaba
+  nosotros: atizábamos
+  vosotros: atizabais
+  uds: atizaban
+futuro-simple:
+  yo: atizaré
+  tu: atizarás
+  vos: atizarás
+  ud: atizará
+  nosotros: atizaremos
+  vosotros: atizaréis
+  uds: atizarán
+condicional-simple:
+  yo: atizaría
+  tu: atizarías
+  vos: atizarías
+  ud: atizaría
+  nosotros: atizaríamos
+  vosotros: atizaríais
+  uds: atizarían
+presente-perfecto:
+  yo: he atizado
+  tu: has atizado
+  vos: has atizado
+  ud: ha atizado
+  nosotros: hemos atizado
+  vosotros: habéis atizado
+  uds: han atizado
+preterito-pluscuamperfecto:
+  yo: había atizado
+  tu: habías atizado
+  vos: habías atizado
+  ud: había atizado
+  nosotros: habíamos atizado
+  vosotros: habíais atizado
+  uds: habían atizado
+futuro-perfecto:
+  yo: habré atizado
+  tu: habrás atizado
+  vos: habrás atizado
+  ud: habrá atizado
+  nosotros: habremos atizado
+  vosotros: habréis atizado
+  uds: habrán atizado
+condicional-perfecto:
+  yo: habría atizado
+  tu: habrías atizado
+  vos: habrías atizado
+  ud: habría atizado
+  nosotros: habríamos atizado
+  vosotros: habríais atizado
+  uds: habrían atizado
+presente-subjuntivo:
+  yo: atice
+  tu: atices
+  vos: atices
+  ud: atice
+  nosotros: aticemos
+  vosotros: aticéis
+  uds: aticen
+preterito-perfecto-subjuntivo:
+  yo: haya atizado
+  tu: hayas atizado
+  vos: hayas atizado
+  ud: haya atizado
+  nosotros: hayamos atizado
+  vosotros: hayáis atizado
+  uds: hayan atizado
+imperfecto-subjuntivo:
+  yo:
+    - atizara
+    - atizase
+  tu:
+    - atizaras
+    - atizases
+  vos:
+    - atizaras
+    - atizases
+  ud:
+    - atizara
+    - atizase
+  nosotros:
+    - atizáramos
+    - atizásemos
+  vosotros:
+    - atizarais
+    - atizaseis
+  uds:
+    - atizaran
+    - atizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atizado
+    - hubiese atizado
+  tu:
+    - hubieras atizado
+    - hubieses atizado
+  vos:
+    - hubieras atizado
+    - hubieses atizado
+  ud:
+    - hubiera atizado
+    - hubiese atizado
+  nosotros:
+    - hubiéramos atizado
+    - hubiésemos atizado
+  vosotros:
+    - hubierais atizado
+    - hubieseis atizado
+  uds:
+    - hubieran atizado
+    - hubiesen atizado
+imperativo:
+  tu: atiza
+  vos: atizá
+  ud: atice
+  nosotros: aticemos
+  vosotros: atizad
+  uds: aticen

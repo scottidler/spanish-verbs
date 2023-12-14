@@ -1,0 +1,142 @@
+infinitivo: hincar
+gerundio: hincando
+participio-pasado: hincado
+presente-indicativo:
+  yo: hinco
+  tu: hincas
+  vos: hincas
+  ud: hinca
+  nosotros: hincamos
+  vosotros: hincáis
+  uds: hincan
+preterito-perfecto-simple:
+  yo: hincé
+  tu: hincaste
+  vos: hincaste
+  ud: hincó
+  nosotros: hincamos
+  vosotros: hincasteis
+  uds: hincaron
+preterito-imperfecto:
+  yo: hincaba
+  tu: hincabas
+  vos: hincabas
+  ud: hincaba
+  nosotros: hincábamos
+  vosotros: hincabais
+  uds: hincaban
+futuro-simple:
+  yo: hincaré
+  tu: hincarás
+  vos: hincarás
+  ud: hincará
+  nosotros: hincaremos
+  vosotros: hincaréis
+  uds: hincarán
+condicional-simple:
+  yo: hincaría
+  tu: hincarías
+  vos: hincarías
+  ud: hincaría
+  nosotros: hincaríamos
+  vosotros: hincaríais
+  uds: hincarían
+presente-perfecto:
+  yo: he hincado
+  tu: has hincado
+  vos: has hincado
+  ud: ha hincado
+  nosotros: hemos hincado
+  vosotros: habéis hincado
+  uds: han hincado
+preterito-pluscuamperfecto:
+  yo: había hincado
+  tu: habías hincado
+  vos: habías hincado
+  ud: había hincado
+  nosotros: habíamos hincado
+  vosotros: habíais hincado
+  uds: habían hincado
+futuro-perfecto:
+  yo: habré hincado
+  tu: habrás hincado
+  vos: habrás hincado
+  ud: habrá hincado
+  nosotros: habremos hincado
+  vosotros: habréis hincado
+  uds: habrán hincado
+condicional-perfecto:
+  yo: habría hincado
+  tu: habrías hincado
+  vos: habrías hincado
+  ud: habría hincado
+  nosotros: habríamos hincado
+  vosotros: habríais hincado
+  uds: habrían hincado
+presente-subjuntivo:
+  yo: hinque
+  tu: hinques
+  vos: hinques
+  ud: hinque
+  nosotros: hinquemos
+  vosotros: hincéis
+  uds: hinquen
+preterito-perfecto-subjuntivo:
+  yo: haya hincado
+  tu: hayas hincado
+  vos: hayas hincado
+  ud: haya hincado
+  nosotros: hayamos hincado
+  vosotros: hayáis hincado
+  uds: hayan hincado
+imperfecto-subjuntivo:
+  yo:
+    - hincara
+    - hincase
+  tu:
+    - hicaras
+    - hicases
+  vos:
+    - hicaras
+    - hicases
+  ud:
+    - hincara
+    - hincase
+  nosotros:
+    - hincáramos
+    - hincásemos
+  vosotros:
+    - hicarais
+    - hicaseis
+  uds:
+    - hicaran
+    - hicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera hincado
+    - hubiese hincado
+  tu:
+    - hubieras hincado
+    - hubieses hincado
+  vos:
+    - hubieras hincado
+    - hubieses hincado
+  ud:
+    - hubiera hincado
+    - hubiese hincado
+  nosotros:
+    - hubiéramos hincado
+    - hubiésemos hincado
+  vosotros:
+    - hubierais hincado
+    - hubieseis hincado
+  uds:
+    - hubieran hincado
+    - hubiesen hincado
+imperativo:
+  tu: hinca
+  vos: hincá
+  ud: hinque
+  nosotros: hinquemos
+  vosotros: hincad
+  uds: hinquen

@@ -1,0 +1,142 @@
+infinitivo: zumbar
+gerundio: zumbando
+participio-pasado: zumbado
+presente-indicativo:
+  yo: zumbo
+  tu: zumbas
+  vos: zumbas
+  ud: zumba
+  nosotros: zumbamos
+  vosotros: zumbáis
+  uds: zumban
+preterito-perfecto-simple:
+  yo: zumbé
+  tu: zumbaste
+  vos: zumbaste
+  ud: zumbó
+  nosotros: zumbamos
+  vosotros: zumbasteis
+  uds: zumbaron
+preterito-imperfecto:
+  yo: zumbaba
+  tu: zumbabas
+  vos: zumbabas
+  ud: zumbaba
+  nosotros: zumbábamos
+  vosotros: zumbabais
+  uds: zumbaban
+futuro-simple:
+  yo: zumbaré
+  tu: zumbarás
+  vos: zumbarás
+  ud: zumbará
+  nosotros: zumbaremos
+  vosotros: zumbaréis
+  uds: zumbarán
+condicional-simple:
+  yo: zumbaría
+  tu: zumbarías
+  vos: zumbarías
+  ud: zumbaría
+  nosotros: zumbaríamos
+  vosotros: zumbaríais
+  uds: zumbarían
+presente-perfecto:
+  yo: he zumbado
+  tu: has zumbado
+  vos: has zumbado
+  ud: ha zumbado
+  nosotros: hemos zumbado
+  vosotros: habéis zumbado
+  uds: han zumbado
+preterito-pluscuamperfecto:
+  yo: había zumbado
+  tu: habías zumbado
+  vos: habías zumbado
+  ud: había zumbado
+  nosotros: habíamos zumbado
+  vosotros: habíais zumbado
+  uds: habían zumbado
+futuro-perfecto:
+  yo: habré zumbado
+  tu: habrás zumbado
+  vos: habrás zumbado
+  ud: habrá zumbado
+  nosotros: habremos zumbado
+  vosotros: habréis zumbado
+  uds: habrán zumbado
+condicional-perfecto:
+  yo: habría zumbado
+  tu: habrías zumbado
+  vos: habrías zumbado
+  ud: habría zumbado
+  nosotros: habríamos zumbado
+  vosotros: habríais zumbado
+  uds: habrían zumbado
+presente-subjuntivo:
+  yo: zumbre
+  tu: zumbres
+  vos: zumbres
+  ud: zumbre
+  nosotros: zumbremos
+  vosotros: zumbéis
+  uds: zumbren
+preterito-perfecto-subjuntivo:
+  yo: haya zumbado
+  tu: hayas zumbado
+  vos: hayas zumbado
+  ud: haya zumbado
+  nosotros: hayamos zumbado
+  vosotros: hayáis zumbado
+  uds: hayan zumbado
+imperfecto-subjuntivo:
+  yo:
+    - zumbara
+    - zumbase
+  tu:
+    - zumbaras
+    - zumbases
+  vos:
+    - zumbaras
+    - zumbases
+  ud:
+    - zumbara
+    - zumbase
+  nosotros:
+    - zumbáramos
+    - zumbásemos
+  vosotros:
+    - zumbarais
+    - zumbaseis
+  uds:
+    - zumbaran
+    - zumbasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera zumbado
+    - hubiese zumbado
+  tu:
+    - hubieras zumbado
+    - hubieses zumbado
+  vos:
+    - hubieras zumbado
+    - hubieses zumbado
+  ud:
+    - hubiera zumbado
+    - hubiese zumbado
+  nosotros:
+    - hubiéramos zumbado
+    - hubiésemos zumbado
+  vosotros:
+    - hubierais zumbado
+    - hubieseis zumbado
+  uds:
+    - hubieran zumbado
+    - hubiesen zumbado
+imperativo:
+  tu: zumba
+  vos: zumbá
+  ud: zumba
+  nosotros: zumbemos
+  vosotros: zumbad
+  uds: zumben

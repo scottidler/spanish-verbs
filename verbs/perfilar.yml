@@ -1,0 +1,142 @@
+infinitivo: perfilar
+gerundio: perfilando
+participio-pasado: perfilado
+presente-indicativo:
+  yo: perfilo
+  tu: perfilas
+  vos: perfilas
+  ud: perfila
+  nosotros: perfilamos
+  vosotros: perfiláis
+  uds: perfilan
+preterito-perfecto-simple:
+  yo: perfilé
+  tu: perfilaste
+  vos: perfilaste
+  ud: perfiló
+  nosotros: perfilamos
+  vosotros: perfilasteis
+  uds: perfilaron
+preterito-imperfecto:
+  yo: perfilaba
+  tu: perfilabas
+  vos: perfilabas
+  ud: perfilaba
+  nosotros: perfilábamos
+  vosotros: perfilabais
+  uds: perfilaban
+futuro-simple:
+  yo: perfilaré
+  tu: perfilarás
+  vos: perfilarás
+  ud: perfilará
+  nosotros: perfilaremos
+  vosotros: perfilaréis
+  uds: perfilarán
+condicional-simple:
+  yo: perfilaría
+  tu: perfilarías
+  vos: perfilarías
+  ud: perfilaría
+  nosotros: perfilaríamos
+  vosotros: perfilaríais
+  uds: perfilarían
+presente-perfecto:
+  yo: he perfilado
+  tu: has perfilado
+  vos: has perfilado
+  ud: ha perfilado
+  nosotros: hemos perfilado
+  vosotros: habéis perfilado
+  uds: han perfilado
+preterito-pluscuamperfecto:
+  yo: había perfilado
+  tu: habías perfilado
+  vos: habías perfilado
+  ud: había perfilado
+  nosotros: habíamos perfilado
+  vosotros: habíais perfilado
+  uds: habían perfilado
+futuro-perfecto:
+  yo: habré perfilado
+  tu: habrás perfilado
+  vos: habrás perfilado
+  ud: habrá perfilado
+  nosotros: habremos perfilado
+  vosotros: habréis perfilado
+  uds: habrán perfilado
+condicional-perfecto:
+  yo: habría perfilado
+  tu: habrías perfilado
+  vos: habrías perfilado
+  ud: habría perfilado
+  nosotros: habríamos perfilado
+  vosotros: habríais perfilado
+  uds: habrían perfilado
+presente-subjuntivo:
+  yo: perfile
+  tu: perfiles
+  vos: perfiles
+  ud: perfile
+  nosotros: perfilemos
+  vosotros: perfiléis
+  uds: perfilen
+preterito-perfecto-subjuntivo:
+  yo: haya perfilado
+  tu: hayas perfilado
+  vos: hayas perfilado
+  ud: haya perfilado
+  nosotros: hayamos perfilado
+  vosotros: hayáis perfilado
+  uds: hayan perfilado
+imperfecto-subjuntivo:
+  yo:
+    - perfilara
+    - perfilase
+  tu:
+    - perfilaras
+    - perfilases
+  vos:
+    - perfilaras
+    - perfilases
+  ud:
+    - perfilara
+    - perfilase
+  nosotros:
+    - perfiláramos
+    - perfilásemos
+  vosotros:
+    - perfilarais
+    - perfilaseis
+  uds:
+    - perfilaran
+    - perfilasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera perfilado
+    - hubiese perfilado
+  tu:
+    - hubieras perfilado
+    - hubieses perfilado
+  vos:
+    - hubieras perfilado
+    - hubieses perfilado
+  ud:
+    - hubiera perfilado
+    - hubiese perfilado
+  nosotros:
+    - hubiéramos perfilado
+    - hubiésemos perfilado
+  vosotros:
+    - hubierais perfilado
+    - hubieseis perfilado
+  uds:
+    - hubieran perfilado
+    - hubiesen perfilado
+imperativo:
+  tu: perfila
+  vos: perfilá
+  ud: perfile
+  nosotros: perfilemos
+  vosotros: perfilad
+  uds: perfilen

@@ -1,0 +1,142 @@
+infinitivo: delirar
+gerundio: delirando
+participio-pasado: delirado
+presente-indicativo:
+  yo: deliro
+  tu: deliras
+  vos: delirás
+  ud: delira
+  nosotros: deliramos
+  vosotros: deliráis
+  uds: deliran
+preterito-perfecto-simple:
+  yo: deliré
+  tu: deliraste
+  vos: deliraste
+  ud: deliró
+  nosotros: deliramos
+  vosotros: delirasteis
+  uds: deliraron
+preterito-imperfecto:
+  yo: deliraba
+  tu: delirabas
+  vos: delirabas
+  ud: deliraba
+  nosotros: delirábamos
+  vosotros: delirabais
+  uds: deliraban
+futuro-simple:
+  yo: deliraré
+  tu: delirarás
+  vos: delirarás
+  ud: delirará
+  nosotros: deliraremos
+  vosotros: deliraréis
+  uds: delirarán
+condicional-simple:
+  yo: deliraría
+  tu: delirarías
+  vos: delirarías
+  ud: deliraría
+  nosotros: deliraríamos
+  vosotros: deliraríais
+  uds: delirarían
+presente-perfecto:
+  yo: he delirado
+  tu: has delirado
+  vos: has delirado
+  ud: ha delirado
+  nosotros: hemos delirado
+  vosotros: habéis delirado
+  uds: han delirado
+preterito-pluscuamperfecto:
+  yo: había delirado
+  tu: habías delirado
+  vos: habías delirado
+  ud: había delirado
+  nosotros: habíamos delirado
+  vosotros: habíais delirado
+  uds: habían delirado
+futuro-perfecto:
+  yo: habré delirado
+  tu: habrás delirado
+  vos: habrás delirado
+  ud: habrá delirado
+  nosotros: habremos delirado
+  vosotros: habréis delirado
+  uds: habrán delirado
+condicional-perfecto:
+  yo: habría delirado
+  tu: habrías delirado
+  vos: habrías delirado
+  ud: habría delirado
+  nosotros: habríamos delirado
+  vosotros: habríais delirado
+  uds: habrían delirado
+presente-subjuntivo:
+  yo: delire
+  tu: delires
+  vos: delires
+  ud: delire
+  nosotros: deliremos
+  vosotros: deliráis
+  uds: deliren
+preterito-perfecto-subjuntivo:
+  yo: haya delirado
+  tu: hayas delirado
+  vos: hayas delirado
+  ud: haya delirado
+  nosotros: hayamos delirado
+  vosotros: hayáis delirado
+  uds: hayan delirado
+imperfecto-subjuntivo:
+  yo:
+    - delirara
+    - delirase
+  tu:
+    - deliraras
+    - delirases
+  vos:
+    - deliraras
+    - delirases
+  ud:
+    - delirara
+    - delirase
+  nosotros:
+    - deliráramos
+    - delirásemos
+  vosotros:
+    - delirarais
+    - deliraseis
+  uds:
+    - deliraran
+    - delirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera delirado
+    - hubiese delirado
+  tu:
+    - hubieras delirado
+    - hubieses delirado
+  vos:
+    - hubieras delirado
+    - hubieses delirado
+  ud:
+    - hubiera delirado
+    - hubiese delirado
+  nosotros:
+    - hubiéramos delirado
+    - hubiésemos delirado
+  vosotros:
+    - hubierais delirado
+    - hubieseis delirado
+  uds:
+    - hubieran delirado
+    - hubiesen delirado
+imperativo:
+  tu: delira
+  vos: delirá
+  ud: delire
+  nosotros: deliremos
+  vosotros: delirad
+  uds: deliren

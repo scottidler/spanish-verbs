@@ -1,0 +1,142 @@
+infinitivo: cerner
+gerundio: cerniendo
+participio-pasado: cernido
+presente-indicativo:
+  yo: cerno
+  tu: cernes
+  vos: cernes
+  ud: cierne
+  nosotros: cernimos
+  vosotros: cernís
+  uds: ciernen
+preterito-perfecto-simple:
+  yo: cerní
+  tu: cerniste
+  vos: cerniste
+  ud: cernió
+  nosotros: cernimos
+  vosotros: cernisteis
+  uds: cernieron
+preterito-imperfecto:
+  yo: cernía
+  tu: cernías
+  vos: cernías
+  ud: cernía
+  nosotros: cerníamos
+  vosotros: cerníais
+  uds: cernían
+futuro-simple:
+  yo: cerneré
+  tu: cernerás
+  vos: cernerás
+  ud: cernerá
+  nosotros: cerneremos
+  vosotros: cerneréis
+  uds: cernerán
+condicional-simple:
+  yo: cernería
+  tu: cernerías
+  vos: cernerías
+  ud: cernería
+  nosotros: cerneríamos
+  vosotros: cerneríais
+  uds: cernerían
+presente-perfecto:
+  yo: he cernido
+  tu: has cernido
+  vos: has cernido
+  ud: ha cernido
+  nosotros: hemos cernido
+  vosotros: habéis cernido
+  uds: han cernido
+preterito-pluscuamperfecto:
+  yo: había cernido
+  tu: habías cernido
+  vos: habías cernido
+  ud: había cernido
+  nosotros: habíamos cernido
+  vosotros: habíais cernido
+  uds: habían cernido
+futuro-perfecto:
+  yo: habré cernido
+  tu: habrás cernido
+  vos: habrás cernido
+  ud: habrá cernido
+  nosotros: habremos cernido
+  vosotros: habréis cernido
+  uds: habrán cernido
+condicional-perfecto:
+  yo: habría cernido
+  tu: habrías cernido
+  vos: habrías cernido
+  ud: habría cernido
+  nosotros: habríamos cernido
+  vosotros: habríais cernido
+  uds: habrían cernido
+presente-subjuntivo:
+  yo: cernea
+  tu: cerneas
+  vos: cerneas
+  ud: cernea
+  nosotros: cerneamos
+  vosotros: cernéis
+  uds: cernean
+preterito-perfecto-subjuntivo:
+  yo: haya cernido
+  tu: hayas cernido
+  vos: hayas cernido
+  ud: haya cernido
+  nosotros: hayamos cernido
+  vosotros: hayáis cernido
+  uds: hayan cernido
+imperfecto-subjuntivo:
+  yo:
+    - cierniera
+    - cierniese
+  tu:
+    - ciernieras
+    - ciernieses
+  vos:
+    - ciernieras
+    - ciernieses
+  ud:
+    - cierniera
+    - cierniese
+  nosotros:
+    - cierniéramos
+    - cierniésemos
+  vosotros:
+    - ciernierais
+    - ciernieseis
+  uds:
+    - ciernieran
+    - cierniesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cernido
+    - hubiese cernido
+  tu:
+    - hubieras cernido
+    - hubieses cernido
+  vos:
+    - hubieras cernido
+    - hubieses cernido
+  ud:
+    - hubiera cernido
+    - hubiese cernido
+  nosotros:
+    - hubiéramos cernido
+    - hubiésemos cernido
+  vosotros:
+    - hubierais cernido
+    - hubieseis cernido
+  uds:
+    - hubieran cernido
+    - hubiesen cernido
+imperativo:
+  tu: cierne
+  vos: cerne
+  ud: cernea
+  nosotros: cerneamos
+  vosotros: cernid
+  uds: cernean

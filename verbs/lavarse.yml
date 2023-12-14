@@ -1,0 +1,142 @@
+infinitivo: lavarse
+gerundio: lavándose
+participio-pasado: lavado
+presente-indicativo:
+  yo: me lavo
+  tu: te lavas
+  vos: te lavas
+  ud: se lava
+  nosotros: nos lavamos
+  vosotros: os laváis
+  uds: se lavan
+preterito-perfecto-simple:
+  yo: me lavé
+  tu: te lavaste
+  vos: te lavaste
+  ud: se lavó
+  nosotros: nos lavamos
+  vosotros: os lavasteis
+  uds: se lavaron
+preterito-imperfecto:
+  yo: me lavaba
+  tu: te lavabas
+  vos: te lavabas
+  ud: se lavaba
+  nosotros: nos lavábamos
+  vosotros: os lavabais
+  uds: se lavaban
+futuro-simple:
+  yo: me lavaré
+  tu: te lavarás
+  vos: te lavarás
+  ud: se lavará
+  nosotros: nos lavaremos
+  vosotros: os lavaréis
+  uds: se lavarán
+condicional-simple:
+  yo: me lavaría
+  tu: te lavarías
+  vos: te lavarías
+  ud: se lavaría
+  nosotros: nos lavaríamos
+  vosotros: os lavaríais
+  uds: se lavarían
+presente-perfecto:
+  yo: me he lavado
+  tu: te has lavado
+  vos: te has lavado
+  ud: se ha lavado
+  nosotros: nos hemos lavado
+  vosotros: os habéis lavado
+  uds: se han lavado
+preterito-pluscuamperfecto:
+  yo: me había lavado
+  tu: te habías lavado
+  vos: te habías lavado
+  ud: se había lavado
+  nosotros: nos habíamos lavado
+  vosotros: os habíais lavado
+  uds: se habían lavado
+futuro-perfecto:
+  yo: me habré lavado
+  tu: te habrás lavado
+  vos: te habrás lavado
+  ud: se habrá lavado
+  nosotros: nos habremos lavado
+  vosotros: os habréis lavado
+  uds: se habrán lavado
+condicional-perfecto:
+  yo: me habría lavado
+  tu: te habrías lavado
+  vos: te habrías lavado
+  ud: se habría lavado
+  nosotros: nos habríamos lavado
+  vosotros: os habríais lavado
+  uds: se habrían lavado
+presente-subjuntivo:
+  yo: me lave
+  tu: te laves
+  vos: te laves
+  ud: se lave
+  nosotros: nos lavemos
+  vosotros: os lavéis
+  uds: se laven
+preterito-perfecto-subjuntivo:
+  yo: me haya lavado
+  tu: te hayas lavado
+  vos: te hayas lavado
+  ud: se haya lavado
+  nosotros: nos hayamos lavado
+  vosotros: os hayáis lavado
+  uds: se hayan lavado
+imperfecto-subjuntivo:
+  yo:
+    - me lavara
+    - me lavase
+  tu:
+    - te lavaras
+    - te lavases
+  vos:
+    - te lavaras
+    - te lavases
+  ud:
+    - se lavara
+    - se lavase
+  nosotros:
+    - nos laváramos
+    - nos lavásemos
+  vosotros:
+    - os lavarais
+    - os lavaseis
+  uds:
+    - se lavaran
+    - se lavasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera lavado
+    - me hubiese lavado
+  tu:
+    - te hubieras lavado
+    - te hubieses lavado
+  vos:
+    - te hubieras lavado
+    - te hubieses lavado
+  ud:
+    - se hubiera lavado
+    - se hubiese lavado
+  nosotros:
+    - nos hubiéramos lavado
+    - nos hubiésemos lavado
+  vosotros:
+    - os hubierais lavado
+    - os hubieseis lavado
+  uds:
+    - se hubieran lavado
+    - se hubiesen lavado
+imperativo:
+  tu: lávate
+  vos: lavate
+  ud: límpiese
+  nosotros: lavémonos
+  vosotros: lavaos
+  uds: límpiense

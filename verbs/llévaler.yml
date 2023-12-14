@@ -1,0 +1,142 @@
+infinitivo: llévaler
+gerundio: llévalendo
+participio-pasado: llévalido
+presente-indicativo:
+  yo: llévalo
+  tu: llévalas
+  vos: llévalas
+  ud: llévala
+  nosotros: llévalamos
+  vosotros: llévaláis
+  uds: llévalan
+preterito-perfecto-simple:
+  yo: llévalé
+  tu: llévalaste
+  vos: llévalaste
+  ud: llévaló
+  nosotros: llévalamos
+  vosotros: llévalasteis
+  uds: llévalaron
+preterito-imperfecto:
+  yo: llévalaba
+  tu: llévalabas
+  vos: llévalabas
+  ud: llévalaba
+  nosotros: llévalábamos
+  vosotros: llévalabais
+  uds: llévalaban
+futuro-simple:
+  yo: llévalaré
+  tu: llévalarás
+  vos: llévalarás
+  ud: llévalará
+  nosotros: llévalaremos
+  vosotros: llévalaréis
+  uds: llévalarán
+condicional-simple:
+  yo: llévalaría
+  tu: llévalarías
+  vos: llévalarías
+  ud: llévalaría
+  nosotros: llévalaríamos
+  vosotros: llévalaríais
+  uds: llévalarían
+presente-perfecto:
+  yo: he llévalido
+  tu: has llévalido
+  vos: has llévalido
+  ud: ha llévalido
+  nosotros: hemos llévalido
+  vosotros: habéis llévalido
+  uds: han llévalido
+preterito-pluscuamperfecto:
+  yo: había llévalido
+  tu: habías llévalido
+  vos: habías llévalido
+  ud: había llévalido
+  nosotros: habíamos llévalido
+  vosotros: habíais llévalido
+  uds: habían llévalido
+futuro-perfecto:
+  yo: habré llévalido
+  tu: habrás llévalido
+  vos: habrás llévalido
+  ud: habrá llévalido
+  nosotros: habremos llévalido
+  vosotros: habréis llévalido
+  uds: habrán llévalido
+condicional-perfecto:
+  yo: habría llévalido
+  tu: habrías llévalido
+  vos: habrías llévalido
+  ud: habría llévalido
+  nosotros: habríamos llévalido
+  vosotros: habríais llévalido
+  uds: habrían llévalido
+presente-subjuntivo:
+  yo: llévala
+  tu: llévalas
+  vos: llévalas
+  ud: llévala
+  nosotros: llévalamos
+  vosotros: llévaláis
+  uds: llévalan
+preterito-perfecto-subjuntivo:
+  yo: haya llévalido
+  tu: hayas llévalido
+  vos: hayas llévalido
+  ud: haya llévalido
+  nosotros: hayamos llévalido
+  vosotros: hayáis llévalido
+  uds: hayan llévalido
+imperfecto-subjuntivo:
+  yo:
+    - llévalara
+    - llévalase
+  tu:
+    - llévalaras
+    - llévalases
+  vos:
+    - llévalaras
+    - llévalases
+  ud:
+    - llévalara
+    - llévalase
+  nosotros:
+    - llévaláramos
+    - llévalásemos
+  vosotros:
+    - llévalarais
+    - llévalaseis
+  uds:
+    - llévalaran
+    - llévalasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llévalido
+    - hubiese llévalido
+  tu:
+    - hubieras llévalido
+    - hubieses llévalido
+  vos:
+    - hubieras llévalido
+    - hubieses llévalido
+  ud:
+    - hubiera llévalido
+    - hubiese llévalido
+  nosotros:
+    - hubiéramos llévalido
+    - hubiésemos llévalido
+  vosotros:
+    - hubierais llévalido
+    - hubieseis llévalido
+  uds:
+    - hubieran llévalido
+    - hubiesen llévalido
+imperativo:
+  tu: llévalo
+  vos: llévalá
+  ud: llévala
+  nosotros: llévalamos
+  vosotros: llévalad
+  uds: llévalan

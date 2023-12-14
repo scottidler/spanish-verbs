@@ -1,0 +1,142 @@
+infinitivo: ganar
+gerundio: ganando
+participio-pasado: ganado
+presente-indicativo:
+  yo: gano
+  tu: ganas
+  vos: ganas
+  ud: gana
+  nosotros: ganamos
+  vosotros: ganáis
+  uds: ganan
+preterito-perfecto-simple:
+  yo: gané
+  tu: ganaste
+  vos: ganaste
+  ud: ganó
+  nosotros: ganamos
+  vosotros: ganasteis
+  uds: ganaron
+preterito-imperfecto:
+  yo: ganaba
+  tu: ganabas
+  vos: ganabas
+  ud: ganaba
+  nosotros: ganábamos
+  vosotros: ganabais
+  uds: ganaban
+futuro-simple:
+  yo: ganaré
+  tu: ganarás
+  vos: ganarás
+  ud: ganará
+  nosotros: ganaremos
+  vosotros: ganaréis
+  uds: ganarán
+condicional-simple:
+  yo: ganaría
+  tu: ganarías
+  vos: ganarías
+  ud: ganaría
+  nosotros: ganaríamos
+  vosotros: ganaríais
+  uds: ganarían
+presente-perfecto:
+  yo: he ganado
+  tu: has ganado
+  vos: has ganado
+  ud: ha ganado
+  nosotros: hemos ganado
+  vosotros: habéis ganado
+  uds: han ganado
+preterito-pluscuamperfecto:
+  yo: había ganado
+  tu: habías ganado
+  vos: habías ganado
+  ud: había ganado
+  nosotros: habíamos ganado
+  vosotros: habíais ganado
+  uds: habían ganado
+futuro-perfecto:
+  yo: habré ganado
+  tu: habrás ganado
+  vos: habrás ganado
+  ud: habrá ganado
+  nosotros: habremos ganado
+  vosotros: habréis ganado
+  uds: habrán ganado
+condicional-perfecto:
+  yo: habría ganado
+  tu: habrías ganado
+  vos: habrías ganado
+  ud: habría ganado
+  nosotros: habríamos ganado
+  vosotros: habríais ganado
+  uds: habrían ganado
+presente-subjuntivo:
+  yo: gane
+  tu: ganes
+  vos: ganes
+  ud: gane
+  nosotros: ganemos
+  vosotros: ganéis
+  uds: ganen
+preterito-perfecto-subjuntivo:
+  yo: haya ganado
+  tu: hayas ganado
+  vos: hayas ganado
+  ud: haya ganado
+  nosotros: hayamos ganado
+  vosotros: hayáis ganado
+  uds: hayan ganado
+imperfecto-subjuntivo:
+  yo:
+    - ganara
+    - ganase
+  tu:
+    - ganaras
+    - ganases
+  vos:
+    - ganaras
+    - ganases
+  ud:
+    - ganara
+    - ganase
+  nosotros:
+    - ganáramos
+    - ganásemos
+  vosotros:
+    - ganarais
+    - ganaseis
+  uds:
+    - ganaran
+    - ganasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ganado
+    - hubiese ganado
+  tu:
+    - hubieras ganado
+    - hubieses ganado
+  vos:
+    - hubieras ganado
+    - hubieses ganado
+  ud:
+    - hubiera ganado
+    - hubiese ganado
+  nosotros:
+    - hubiéramos ganado
+    - hubiésemos ganado
+  vosotros:
+    - hubierais ganado
+    - hubieseis ganado
+  uds:
+    - hubieran ganado
+    - hubiesen ganado
+imperativo:
+  tu: gana
+  vos: ganá
+  ud: gane
+  nosotros: ganemos
+  vosotros: ganad
+  uds: ganen

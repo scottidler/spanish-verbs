@@ -1,0 +1,142 @@
+infinitivo: acallar
+gerundio: acallando
+participio-pasado: acallado
+presente-indicativo:
+  yo: acallo
+  tu: acallas
+  vos: acallas
+  ud: acalla
+  nosotros: acallamos
+  vosotros: acalláis
+  uds: acallan
+preterito-perfecto-simple:
+  yo: acallé
+  tu: acallaste
+  vos: acallaste
+  ud: acalló
+  nosotros: acallamos
+  vosotros: acallasteis
+  uds: acallaron
+preterito-imperfecto:
+  yo: acallaba
+  tu: acallabas
+  vos: acallabas
+  ud: acallaba
+  nosotros: acallábamos
+  vosotros: acallabais
+  uds: acallaban
+futuro-simple:
+  yo: acallaré
+  tu: acallarás
+  vos: acallarás
+  ud: acallará
+  nosotros: acallaremos
+  vosotros: acallaréis
+  uds: acallarán
+condicional-simple:
+  yo: acallaría
+  tu: acallarías
+  vos: acallarías
+  ud: acallaría
+  nosotros: acallaríamos
+  vosotros: acallaríais
+  uds: acallarían
+presente-perfecto:
+  yo: he acallado
+  tu: has acallado
+  vos: has acallado
+  ud: ha acallado
+  nosotros: hemos acallado
+  vosotros: habéis acallado
+  uds: han acallado
+preterito-pluscuamperfecto:
+  yo: había acallado
+  tu: habías acallado
+  vos: habías acallado
+  ud: había acallado
+  nosotros: habíamos acallado
+  vosotros: habíais acallado
+  uds: habían acallado
+futuro-perfecto:
+  yo: habré acallado
+  tu: habrás acallado
+  vos: habrás acallado
+  ud: habrá acallado
+  nosotros: habremos acallado
+  vosotros: habréis acallado
+  uds: habrán acallado
+condicional-perfecto:
+  yo: habría acallado
+  tu: habrías acallado
+  vos: habrías acallado
+  ud: habría acallado
+  nosotros: habríamos acallado
+  vosotros: habríais acallado
+  uds: habrían acallado
+presente-subjuntivo:
+  yo: calle
+  tu: calles
+  vos: calles
+  ud: calle
+  nosotros: callemos
+  vosotros: calléis
+  uds: callen
+preterito-perfecto-subjuntivo:
+  yo: haya acallado
+  tu: hayas acallado
+  vos: hayas acallado
+  ud: haya acallado
+  nosotros: hayamos acallado
+  vosotros: hayáis acallado
+  uds: hayan acallado
+imperfecto-subjuntivo:
+  yo:
+    - acallara
+    - acallase
+  tu:
+    - acallaras
+    - acallases
+  vos:
+    - acallaras
+    - acallases
+  ud:
+    - acallara
+    - acallase
+  nosotros:
+    - acalláramos
+    - acallásemos
+  vosotros:
+    - acallarais
+    - acallaseis
+  uds:
+    - acallaran
+    - acallasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acallado
+    - hubiese acallado
+  tu:
+    - hubieras acallado
+    - hubieses acallado
+  vos:
+    - hubieras acallado
+    - hubieses acallado
+  ud:
+    - hubiera acallado
+    - hubiese acallado
+  nosotros:
+    - hubiéramos acallado
+    - hubiésemos acallado
+  vosotros:
+    - hubierais acallado
+    - hubieseis acallado
+  uds:
+    - hubieran acallado
+    - hubiesen acallado
+imperativo:
+  tu: acalla
+  vos: acallá
+  ud: calle
+  nosotros: callemos
+  vosotros: acallad
+  uds: callen

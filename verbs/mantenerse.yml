@@ -1,0 +1,156 @@
+infinitivo: mantenerse
+gerundio: manteniéndose
+participio-pasado: mantenido
+
+presente-indicativo:
+  yo: me mantengo
+  tu: te mantienes
+  vos: te mantenés
+  ud: se mantiene
+  nosotros: nos mantenemos
+  vosotros: os mantenéis
+  uds: se mantienen
+
+preterito-perfecto-simple:
+  yo: me mantuve
+  tu: te mantuviste
+  vos: te mantuviste
+  ud: se mantuvo
+  nosotros: nos mantuvimos
+  vosotros: os mantuvisteis
+  uds: se mantuvieron
+
+preterito-imperfecto:
+  yo: me mantenía
+  tu: te mantenías
+  vos: te mantenías
+  ud: se mantenía
+  nosotros: nos manteníamos
+  vosotros: os manteníais
+  uds: se mantenían
+
+futuro-simple:
+  yo: me mantendré
+  tu: te mantendrás
+  vos: te mantendrás
+  ud: se mantendrá
+  nosotros: nos mantendremos
+  vosotros: os mantendréis
+  uds: se mantendrán
+
+condicional-simple:
+  yo: me mantendría
+  tu: te mantendrías
+  vos: te mantendrías
+  ud: se mantendría
+  nosotros: nos mantendríamos
+  vosotros: os mantendríais
+  uds: se mantendrían
+
+presente-perfecto:
+  yo: me he mantenido
+  tu: te has mantenido
+  vos: te has mantenido
+  ud: se ha mantenido
+  nosotros: nos hemos mantenido
+  vosotros: os habéis mantenido
+  uds: se han mantenido
+
+preterito-pluscuamperfecto:
+  yo: me había mantenido
+  tu: te habías mantenido
+  vos: te habías mantenido
+  ud: se había mantenido
+  nosotros: nos habíamos mantenido
+  vosotros: os habíais mantenido
+  uds: se habían mantenido
+
+futuro-perfecto:
+  yo: me habré mantenido
+  tu: te habrás mantenido
+  vos: te habrás mantenido
+  ud: se habrá mantenido
+  nosotros: nos habremos mantenido
+  vosotros: os habréis mantenido
+  uds: se habrán mantenido
+
+condicional-perfecto:
+  yo: me habría mantenido
+  tu: te habrías mantenido
+  vos: te habrías mantenido
+  ud: se habría mantenido
+  nosotros: nos habríamos mantenido
+  vosotros: os habríais mantenido
+  uds: se habrían mantenido
+
+presente-subjuntivo:
+  yo: me mantenga
+  tu: te mantengas
+  vos: te mantengas
+  ud: se mantenga
+  nosotros: nos mantengamos
+  vosotros: os mantengáis
+  uds: se mantengan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya mantenido
+  tu: te hayas mantenido
+  vos: te hayas mantenido
+  ud: se haya mantenido
+  nosotros: nos hayamos mantenido
+  vosotros: os hayáis mantenido
+  uds: se hayan mantenido
+
+imperfecto-subjuntivo:
+  yo:
+    - me mantuviera
+    - me mantuviese
+  tu:
+    - te mantuvieras
+    - te mantuvieses
+  vos:
+    - te mantuvieras
+    - te mantuvieses
+  ud:
+    - se mantuviera
+    - se mantuviese
+  nosotros:
+    - nos mantuviéramos
+    - nos mantuviésemos
+  vosotros:
+    - os mantuvierais
+    - os mantuvieseis
+  uds:
+    - se mantuvieran
+    - se mantuviesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera mantenido
+    - me hubiese mantenido
+  tu:
+    - te hubieras mantenido
+    - te hubieses mantenido
+  vos:
+    - te hubieras mantenido
+    - te hubieses mantenido
+  ud:
+    - se hubiera mantenido
+    - se hubiese mantenido
+  nosotros:
+    - nos hubiéramos mantenido
+    - nos hubiésemos mantenido
+  vosotros:
+    - os hubierais mantenido
+    - os hubieseis mantenido
+  uds:
+    - se hubieran mantenido
+    - se hubiesen mantenido
+
+imperativo:
+  tu: mantente
+  vos: mantenete
+  ud: manténgase
+  nosotros: mantengámonos
+  vosotros: manteneos
+  uds: manténganse

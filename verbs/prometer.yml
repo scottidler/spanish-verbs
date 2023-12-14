@@ -1,0 +1,142 @@
+infinitivo: prometer
+gerundio: prometiendo
+participio-pasado: prometido
+presente-indicativo:
+  yo: prometo
+  tu: prometes
+  vos: prometés
+  ud: promete
+  nosotros: prometemos
+  vosotros: prometéis
+  uds: prometen
+preterito-perfecto-simple:
+  yo: prometí
+  tu: prometiste
+  vos: prometiste
+  ud: prometió
+  nosotros: prometimos
+  vosotros: prometisteis
+  uds: prometieron
+preterito-imperfecto:
+  yo: prometía
+  tu: prometías
+  vos: prometías
+  ud: prometía
+  nosotros: prometíamos
+  vosotros: prometíais
+  uds: prometían
+futuro-simple:
+  yo: prometeré
+  tu: prometerás
+  vos: prometerás
+  ud: prometerá
+  nosotros: prometeremos
+  vosotros: prometeréis
+  uds: prometerán
+condicional-simple:
+  yo: prometería
+  tu: prometerías
+  vos: prometerías
+  ud: prometería
+  nosotros: prometeríamos
+  vosotros: prometeríais
+  uds: prometerían
+presente-perfecto:
+  yo: he prometido
+  tu: has prometido
+  vos: has prometido
+  ud: ha prometido
+  nosotros: hemos prometido
+  vosotros: habéis prometido
+  uds: han prometido
+preterito-pluscuamperfecto:
+  yo: había prometido
+  tu: habías prometido
+  vos: habías prometido
+  ud: había prometido
+  nosotros: habíamos prometido
+  vosotros: habíais prometido
+  uds: habían prometido
+futuro-perfecto:
+  yo: habré prometido
+  tu: habrás prometido
+  vos: habrás prometido
+  ud: habrá prometido
+  nosotros: habremos prometido
+  vosotros: habréis prometido
+  uds: habrán prometido
+condicional-perfecto:
+  yo: habría prometido
+  tu: habrías prometido
+  vos: habrías prometido
+  ud: habría prometido
+  nosotros: habríamos prometido
+  vosotros: habríais prometido
+  uds: habrían prometido
+presente-subjuntivo:
+  yo: prometa
+  tu: prometas
+  vos: prometas
+  ud: prometa
+  nosotros: prometamos
+  vosotros: prometáis
+  uds: prometan
+preterito-perfecto-subjuntivo:
+  yo: haya prometido
+  tu: hayas prometido
+  vos: hayas prometido
+  ud: haya prometido
+  nosotros: hayamos prometido
+  vosotros: hayáis prometido
+  uds: hayan prometido
+imperfecto-subjuntivo:
+  yo:
+    - prometiera
+    - prometiese
+  tu:
+    - prometieras
+    - prometieses
+  vos:
+    - prometieras
+    - prometieses
+  ud:
+    - prometiera
+    - prometiese
+  nosotros:
+    - prometiéramos
+    - prometiésemos
+  vosotros:
+    - prometierais
+    - prometieseis
+  uds:
+    - prometieran
+    - prometiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera prometido
+    - hubiese prometido
+  tu:
+    - hubieras prometido
+    - hubieses prometido
+  vos:
+    - hubieras prometido
+    - hubieses prometido
+  ud:
+    - hubiera prometido
+    - hubiese prometido
+  nosotros:
+    - hubiéramos prometido
+    - hubiésemos prometido
+  vosotros:
+    - hubierais prometido
+    - hubieseis prometido
+  uds:
+    - hubieran prometido
+    - hubiesen prometido
+imperativo:
+  tu: promete
+  vos: prometé
+  ud: prometa
+  nosotros: prometamos
+  vosotros: prometed
+  uds: prometan

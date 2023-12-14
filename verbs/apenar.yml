@@ -1,0 +1,142 @@
+infinitivo: apenar
+gerundio: apenando
+participio-pasado: apenado
+presente-indicativo:
+  yo: apeno
+  tu: apenas
+  vos: apenas
+  ud: apena
+  nosotros: apenamos
+  vosotros: apenáis
+  uds: apenan
+preterito-perfecto-simple:
+  yo: apené
+  tu: apenaste
+  vos: apenaste
+  ud: apenó
+  nosotros: apenamos
+  vosotros: apenasteis
+  uds: apenaron
+preterito-imperfecto:
+  yo: apenaba
+  tu: apenabas
+  vos: apenabas
+  ud: apenaba
+  nosotros: apenábamos
+  vosotros: apenabais
+  uds: apenaban
+futuro-simple:
+  yo: apenaré
+  tu: apenarás
+  vos: apenarás
+  ud: apenará
+  nosotros: apenaremos
+  vosotros: apenaréis
+  uds: apenarán
+condicional-simple:
+  yo: apenaría
+  tu: apenarías
+  vos: apenarías
+  ud: apenaría
+  nosotros: apenaríamos
+  vosotros: apenaríais
+  uds: apenarían
+presente-perfecto:
+  yo: he apenado
+  tu: has apenado
+  vos: has apenado
+  ud: ha apenado
+  nosotros: hemos apenado
+  vosotros: habéis apenado
+  uds: han apenado
+preterito-pluscuamperfecto:
+  yo: había apenado
+  tu: habías apenado
+  vos: habías apenado
+  ud: había apenado
+  nosotros: habíamos apenado
+  vosotros: habíais apenado
+  uds: habían apenado
+futuro-perfecto:
+  yo: habré apenado
+  tu: habrás apenado
+  vos: habrás apenado
+  ud: habrá apenado
+  nosotros: habremos apenado
+  vosotros: habréis apenado
+  uds: habrán apenado
+condicional-perfecto:
+  yo: habría apenado
+  tu: habrías apenado
+  vos: habrías apenado
+  ud: habría apenado
+  nosotros: habríamos apenado
+  vosotros: habríais apenado
+  uds: habrían apenado
+presente-subjuntivo:
+  yo: apene
+  tu: apenes
+  vos: apenes
+  ud: apene
+  nosotros: apenemos
+  vosotros: apenéis
+  uds: apenen
+preterito-perfecto-subjuntivo:
+  yo: haya apenado
+  tu: hayas apenado
+  vos: hayas apenado
+  ud: haya apenado
+  nosotros: hayamos apenado
+  vosotros: hayáis apenado
+  uds: hayan apenado
+imperfecto-subjuntivo:
+  yo:
+    - apenara
+    - apenase
+  tu:
+    - apenaras
+    - apenases
+  vos:
+    - apenaras
+    - apenases
+  ud:
+    - apenara
+    - apenase
+  nosotros:
+    - apenáramos
+    - apenásemos
+  vosotros:
+    - apenarais
+    - apenaseis
+  uds:
+    - apenaran
+    - apenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apenado
+    - hubiese apenado
+  tu:
+    - hubieras apenado
+    - hubieses apenado
+  vos:
+    - hubieras apenado
+    - hubieses apenado
+  ud:
+    - hubiera apenado
+    - hubiese apenado
+  nosotros:
+    - hubiéramos apenado
+    - hubiésemos apenado
+  vosotros:
+    - hubierais apenado
+    - hubieseis apenado
+  uds:
+    - hubieran apenado
+    - hubiesen apenado
+imperativo:
+  tu: apena
+  vos: apená
+  ud: apene
+  nosotros: apenemos
+  vosotros: apenad
+  uds: apenen

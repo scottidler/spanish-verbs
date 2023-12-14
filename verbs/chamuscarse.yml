@@ -1,0 +1,142 @@
+infinitivo: chamuscarse
+gerundio: chamuscándose
+participio-pasado: chamuscado
+presente-indicativo:
+  yo: me chamusco
+  tu: te chamuscas
+  vos: te chamuscas
+  ud: se chamusca
+  nosotros: nos chamuscamos
+  vosotros: os chamuscáis
+  uds: se chamuscan
+preterito-perfecto-simple:
+  yo: me chamusqué
+  tu: te chamuscaste
+  vos: te chamuscaste
+  ud: se chamuscó
+  nosotros: nos chamuscamos
+  vosotros: os chamuscasteis
+  uds: se chamuscaron
+preterito-imperfecto:
+  yo: me chamuscaba
+  tu: te chamuscabas
+  vos: te chamuscabas
+  ud: se chamuscaba
+  nosotros: nos chamuscábamos
+  vosotros: os chamuscabais
+  uds: se chamuscaban
+futuro-simple:
+  yo: me chamuscaré
+  tu: te chamuscarás
+  vos: te chamuscarás
+  ud: se chamuscará
+  nosotros: nos chamuscaremos
+  vosotros: os chamuscaréis
+  uds: se chamuscarán
+condicional-simple:
+  yo: me chamuscaría
+  tu: te chamuscarías
+  vos: te chamuscarías
+  ud: se chamuscaría
+  nosotros: nos chamuscaríamos
+  vosotros: os chamuscaríais
+  uds: se chamuscarían
+presente-perfecto:
+  yo: me he chamuscado
+  tu: te has chamuscado
+  vos: te has chamuscado
+  ud: se ha chamuscado
+  nosotros: nos hemos chamuscado
+  vosotros: os habéis chamuscado
+  uds: se han chamuscado
+preterito-pluscuamperfecto:
+  yo: me había chamuscado
+  tu: te habías chamuscado
+  vos: te habías chamuscado
+  ud: se había chamuscado
+  nosotros: nos habíamos chamuscado
+  vosotros: os habíais chamuscado
+  uds: se habían chamuscado
+futuro-perfecto:
+  yo: me habré chamuscado
+  tu: te habrás chamuscado
+  vos: te habrás chamuscado
+  ud: se habrá chamuscado
+  nosotros: nos habremos chamuscado
+  vosotros: os habréis chamuscado
+  uds: se habrán chamuscado
+condicional-perfecto:
+  yo: me habría chamuscado
+  tu: te habrías chamuscado
+  vos: te habrías chamuscado
+  ud: se habría chamuscado
+  nosotros: nos habríamos chamuscado
+  vosotros: os habríais chamuscado
+  uds: se habrían chamuscado
+presente-subjuntivo:
+  yo: me chamusque
+  tu: te chamusques
+  vos: te chamusques
+  ud: se chamusque
+  nosotros: nos chamusquemos
+  vosotros: os chamusquéis
+  uds: se chamusquen
+preterito-perfecto-subjuntivo:
+  yo: me haya chamuscado
+  tu: te hayas chamuscado
+  vos: te hayas chamuscado
+  ud: se haya chamuscado
+  nosotros: nos hayamos chamuscado
+  vosotros: os hayáis chamuscado
+  uds: se hayan chamuscado
+imperfecto-subjuntivo:
+  yo:
+    - me chamuscara
+    - me chamuscase
+  tu:
+    - te chamuscaras
+    - te chamuscases
+  vos:
+    - te chamuscaras
+    - te chamuscases
+  ud:
+    - se chamuscara
+    - se chamuscase
+  nosotros:
+    - nos chamuscáramos
+    - nos chamuscásemos
+  vosotros:
+    - os chamuscarais
+    - os chamuscaseis
+  uds:
+    - se chamuscaran
+    - se chamuscasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera chamuscado
+    - me hubiese chamuscado
+  tu:
+    - te hubieras chamuscado
+    - te hubieses chamuscado
+  vos:
+    - te hubieras chamuscado
+    - te hubieses chamuscado
+  ud:
+    - se hubiera chamuscado
+    - se hubiese chamuscado
+  nosotros:
+    - nos hubiéramos chamuscado
+    - nos hubiésemos chamuscado
+  vosotros:
+    - os hubierais chamuscado
+    - os hubieseis chamuscado
+  uds:
+    - se hubieran chamuscado
+    - se hubiesen chamuscado
+imperativo:
+  tu: chamúscate
+  vos: chamuscate
+  ud: chamúsquese
+  nosotros: chamuscémonos
+  vosotros: chamuscaos
+  uds: chamúsquense

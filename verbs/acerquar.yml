@@ -1,0 +1,142 @@
+infinitivo: acerquar
+gerundio: acerquando
+participio-pasado: acerquado
+presente-indicativo:
+  yo: acerco
+  tu: acercas
+  vos: acercás
+  ud: acerca
+  nosotros: acercamos
+  vosotros: acercáis
+  uds: acercan
+preterito-perfecto-simple:
+  yo: acerqué
+  tu: acercaste
+  vos: acercaste
+  ud: acercó
+  nosotros: acercamos
+  vosotros: acercasteis
+  uds: acercaron
+preterito-imperfecto:
+  yo: acercaba
+  tu: acercabas
+  vos: acercabas
+  ud: acercaba
+  nosotros: acercábamos
+  vosotros: acercabais
+  uds: acercaban
+futuro-simple:
+  yo: acercaré
+  tu: acercarás
+  vos: acercarás
+  ud: acercará
+  nosotros: acercaremos
+  vosotros: acercaréis
+  uds: acercarán
+condicional-simple:
+  yo: acercaría
+  tu: acercarías
+  vos: acercarías
+  ud: acercaría
+  nosotros: acercaríamos
+  vosotros: acercaríais
+  uds: acercarían
+presente-perfecto:
+  yo: he acercado
+  tu: has acercado
+  vos: has acercado
+  ud: ha acercado
+  nosotros: hemos acercado
+  vosotros: habéis acercado
+  uds: han acercado
+preterito-pluscuamperfecto:
+  yo: había acercado
+  tu: habías acercado
+  vos: habías acercado
+  ud: había acercado
+  nosotros: habíamos acercado
+  vosotros: habíais acercado
+  uds: habían acercado
+futuro-perfecto:
+  yo: habré acercado
+  tu: habrás acercado
+  vos: habrás acercado
+  ud: habrá acercado
+  nosotros: habremos acercado
+  vosotros: habréis acercado
+  uds: habrán acercado
+condicional-perfecto:
+  yo: habría acercado
+  tu: habrías acercado
+  vos: habrías acercado
+  ud: habría acercado
+  nosotros: habríamos acercado
+  vosotros: habríais acercado
+  uds: habrían acercado
+presente-subjuntivo:
+  yo: acerque
+  tu: acerques
+  vos: acerques
+  ud: acerque
+  nosotros: acerquemos
+  vosotros: acerquéis
+  uds: acerquen
+preterito-perfecto-subjuntivo:
+  yo: haya acercado
+  tu: hayas acercado
+  vos: hayas acercado
+  ud: haya acercado
+  nosotros: hayamos acercado
+  vosotros: hayáis acercado
+  uds: hayan acercado
+imperfecto-subjuntivo:
+  yo:
+    - acercara
+    - acercase
+  tu:
+    - acercaras
+    - acercases
+  vos:
+    - acercaras
+    - acercases
+  ud:
+    - acercara
+    - acercase
+  nosotros:
+    - acercáramos
+    - acercásemos
+  vosotros:
+    - acercarais
+    - acercaseis
+  uds:
+    - acercaran
+    - acercasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acercado
+    - hubiese acercado
+  tu:
+    - hubieras acercado
+    - hubieses acercado
+  vos:
+    - hubieras acercado
+    - hubieses acercado
+  ud:
+    - hubiera acercado
+    - hubiese acercado
+  nosotros:
+    - hubiéramos acercado
+    - hubiésemos acercado
+  vosotros:
+    - hubierais acercado
+    - hubieseis acercado
+  uds:
+    - hubieran acercado
+    - hubiesen acercado
+imperativo:
+  tu: acerca
+  vos: acercá
+  ud: acerque
+  nosotros: acerquemos
+  vosotros: acercad
+  uds: acerquen

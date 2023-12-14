@@ -1,0 +1,142 @@
+infinitivo: centrar
+gerundio: centrando
+participio-pasado: centrado
+presente-indicativo:
+  yo: centro
+  tu: centras
+  vos: centras
+  ud: centra
+  nosotros: centramos
+  vosotros: centráis
+  uds: centran
+preterito-perfecto-simple:
+  yo: centré
+  tu: centraste
+  vos: centraste
+  ud: centró
+  nosotros: centramos
+  vosotros: centrasteis
+  uds: centraron
+preterito-imperfecto:
+  yo: centraba
+  tu: centrabas
+  vos: centrabas
+  ud: centraba
+  nosotros: centrábamos
+  vosotros: centrabais
+  uds: centraban
+futuro-simple:
+  yo: centraré
+  tu: centrarás
+  vos: centrarás
+  ud: centrará
+  nosotros: centraremos
+  vosotros: centraréis
+  uds: centrarán
+condicional-simple:
+  yo: centraría
+  tu: centrarías
+  vos: centrarías
+  ud: centraría
+  nosotros: centraríamos
+  vosotros: centraríais
+  uds: centrarían
+presente-perfecto:
+  yo: he centrado
+  tu: has centrado
+  vos: has centrado
+  ud: ha centrado
+  nosotros: hemos centrado
+  vosotros: habéis centrado
+  uds: han centrado
+preterito-pluscuamperfecto:
+  yo: había centrado
+  tu: habías centrado
+  vos: habías centrado
+  ud: había centrado
+  nosotros: habíamos centrado
+  vosotros: habíais centrado
+  uds: habían centrado
+futuro-perfecto:
+  yo: habré centrado
+  tu: habrás centrado
+  vos: habrás centrado
+  ud: habrá centrado
+  nosotros: habremos centrado
+  vosotros: habréis centrado
+  uds: habrán centrado
+condicional-perfecto:
+  yo: habría centrado
+  tu: habrías centrado
+  vos: habrías centrado
+  ud: habría centrado
+  nosotros: habríamos centrado
+  vosotros: habríais centrado
+  uds: habrían centrado
+presente-subjuntivo:
+  yo: centre
+  tu: centres
+  vos: centres
+  ud: centre
+  nosotros: centremos
+  vosotros: centréis
+  uds: centren
+preterito-perfecto-subjuntivo:
+  yo: haya centrado
+  tu: hayas centrado
+  vos: hayas centrado
+  ud: haya centrado
+  nosotros: hayamos centrado
+  vosotros: hayáis centrado
+  uds: hayan centrado
+imperfecto-subjuntivo:
+  yo:
+    - centrara
+    - centrase
+  tu:
+    - centraras
+    - centrases
+  vos:
+    - centraras
+    - centrases
+  ud:
+    - centrara
+    - centrase
+  nosotros:
+    - centráramos
+    - centrásemos
+  vosotros:
+    - centrarais
+    - centraseis
+  uds:
+    - centraran
+    - centrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera centrado
+    - hubiese centrado
+  tu:
+    - hubieras centrado
+    - hubieses centrado
+  vos:
+    - hubieras centrado
+    - hubieses centrado
+  ud:
+    - hubiera centrado
+    - hubiese centrado
+  nosotros:
+    - hubiéramos centrado
+    - hubiésemos centrado
+  vosotros:
+    - hubierais centrado
+    - hubieseis centrado
+  uds:
+    - hubieran centrado
+    - hubiesen centrado
+imperativo:
+  tu: centra
+  vos: centrá
+  ud: centre
+  nosotros: centremos
+  vosotros: centrad
+  uds: centren

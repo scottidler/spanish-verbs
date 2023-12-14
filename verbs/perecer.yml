@@ -1,0 +1,142 @@
+infinitivo: perecer
+gerundio: pereciendo
+participio-pasado: perecido
+presente-indicativo:
+  yo: perezco
+  tu: pereces
+  vos: perecés
+  ud: perece
+  nosotros: perecemos
+  vosotros: perecéis
+  uds: perecen
+preterito-perfecto-simple:
+  yo: perecí
+  tu: pereciste
+  vos: pereciste
+  ud: pereció
+  nosotros: perecimos
+  vosotros: perecisteis
+  uds: perecieron
+preterito-imperfecto:
+  yo: perecía
+  tu: perecías
+  vos: perecías
+  ud: perecía
+  nosotros: perecíamos
+  vosotros: perecíais
+  uds: perecían
+futuro-simple:
+  yo: pereceré
+  tu: perecerás
+  vos: perecerás
+  ud: perecerá
+  nosotros: pereceremos
+  vosotros: pereceréis
+  uds: perecerán
+condicional-simple:
+  yo: perecería
+  tu: perecerías
+  vos: perecerías
+  ud: perecería
+  nosotros: pereceríamos
+  vosotros: pereceríais
+  uds: perecerían
+presente-perfecto:
+  yo: he perecido
+  tu: has perecido
+  vos: has perecido
+  ud: ha perecido
+  nosotros: hemos perecido
+  vosotros: habéis perecido
+  uds: han perecido
+preterito-pluscuamperfecto:
+  yo: había perecido
+  tu: habías perecido
+  vos: habías perecido
+  ud: había perecido
+  nosotros: habíamos perecido
+  vosotros: habíais perecido
+  uds: habían perecido
+futuro-perfecto:
+  yo: habré perecido
+  tu: habrás perecido
+  vos: habrás perecido
+  ud: habrá perecido
+  nosotros: habremos perecido
+  vosotros: habréis perecido
+  uds: habrán perecido
+condicional-perfecto:
+  yo: habría perecido
+  tu: habrías perecido
+  vos: habrías perecido
+  ud: habría perecido
+  nosotros: habríamos perecido
+  vosotros: habríais perecido
+  uds: habrían perecido
+presente-subjuntivo:
+  yo: perezca
+  tu: perezcas
+  vos: perezcas
+  ud: perezca
+  nosotros: perezcamos
+  vosotros: perezcáis
+  uds: perezcan
+preterito-perfecto-subjuntivo:
+  yo: haya perecido
+  tu: hayas perecido
+  vos: hayas perecido
+  ud: haya perecido
+  nosotros: hayamos perecido
+  vosotros: hayáis perecido
+  uds: hayan perecido
+imperfecto-subjuntivo:
+  yo:
+    - pereciera
+    - pereciese
+  tu:
+    - perecieras
+    - perecieses
+  vos:
+    - perecieras
+    - perecieses
+  ud:
+    - pereciera
+    - pereciese
+  nosotros:
+    - pereciéramos
+    - pereciésemos
+  vosotros:
+    - perecierais
+    - perecieseis
+  uds:
+    - perecieran
+    - pereciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera perecido
+    - hubiese perecido
+  tu:
+    - hubieras perecido
+    - hubieses perecido
+  vos:
+    - hubieras perecido
+    - hubieses perecido
+  ud:
+    - hubiera perecido
+    - hubiese perecido
+  nosotros:
+    - hubiéramos perecido
+    - hubiésemos perecido
+  vosotros:
+    - hubierais perecido
+    - hubieseis perecido
+  uds:
+    - hubieran perecido
+    - hubiesen perecido
+imperativo:
+  tu: perece
+  vos: perecé
+  ud: perezca
+  nosotros: perezcamos
+  vosotros: pereced
+  uds: perezcan

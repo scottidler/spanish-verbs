@@ -1,0 +1,142 @@
+infinitivo: intensificar
+gerundio: intensificando
+participio-pasado: intensificado
+presente-indicativo:
+  yo: intensifico
+  tu: intensificas
+  vos: intensificas
+  ud: intensifica
+  nosotros: intensificamos
+  vosotros: intensificáis
+  uds: intensifican
+preterito-perfecto-simple:
+  yo: intensifiqué
+  tu: intensificaste
+  vos: intensificaste
+  ud: intensificó
+  nosotros: intensificamos
+  vosotros: intensificasteis
+  uds: intensificaron
+preterito-imperfecto:
+  yo: intensificaba
+  tu: intensificabas
+  vos: intensificabas
+  ud: intensificaba
+  nosotros: intensificábamos
+  vosotros: intensificabais
+  uds: intensificaban
+futuro-simple:
+  yo: intensificaré
+  tu: intensificarás
+  vos: intensificarás
+  ud: intensificará
+  nosotros: intensificaremos
+  vosotros: intensificaréis
+  uds: intensificarán
+condicional-simple:
+  yo: intensificaría
+  tu: intensificarías
+  vos: intensificarías
+  ud: intensificaría
+  nosotros: intensificaríamos
+  vosotros: intensificaríais
+  uds: intensificarían
+presente-perfecto:
+  yo: he intensificado
+  tu: has intensificado
+  vos: has intensificado
+  ud: ha intensificado
+  nosotros: hemos intensificado
+  vosotros: habéis intensificado
+  uds: han intensificado
+preterito-pluscuamperfecto:
+  yo: había intensificado
+  tu: habías intensificado
+  vos: habías intensificado
+  ud: había intensificado
+  nosotros: habíamos intensificado
+  vosotros: habíais intensificado
+  uds: habían intensificado
+futuro-perfecto:
+  yo: habré intensificado
+  tu: habrás intensificado
+  vos: habrás intensificado
+  ud: habrá intensificado
+  nosotros: habremos intensificado
+  vosotros: habréis intensificado
+  uds: habrán intensificado
+condicional-perfecto:
+  yo: habría intensificado
+  tu: habrías intensificado
+  vos: habrías intensificado
+  ud: habría intensificado
+  nosotros: habríamos intensificado
+  vosotros: habríais intensificado
+  uds: habrían intensificado
+presente-subjuntivo:
+  yo: intensifique
+  tu: intensifiques
+  vos: intensifiques
+  ud: intensifique
+  nosotros: intensifiquemos
+  vosotros: intensifiquéis
+  uds: intensifiquen
+preterito-perfecto-subjuntivo:
+  yo: haya intensificado
+  tu: hayas intensificado
+  vos: hayas intensificado
+  ud: haya intensificado
+  nosotros: hayamos intensificado
+  vosotros: hayáis intensificado
+  uds: hayan intensificado
+imperfecto-subjuntivo:
+  yo:
+    - intensificara
+    - intensificase
+  tu:
+    - intensificaras
+    - intensificases
+  vos:
+    - intensificaras
+    - intensificases
+  ud:
+    - intensificara
+    - intensificase
+  nosotros:
+    - intensificáramos
+    - intensificásemos
+  vosotros:
+    - intensificarais
+    - intensificaseis
+  uds:
+    - intensificaran
+    - intensificasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera intensificado
+    - hubiese intensificado
+  tu:
+    - hubieras intensificado
+    - hubieses intensificado
+  vos:
+    - hubieras intensificado
+    - hubieses intensificado
+  ud:
+    - hubiera intensificado
+    - hubiese intensificado
+  nosotros:
+    - hubiéramos intensificado
+    - hubiésemos intensificado
+  vosotros:
+    - hubierais intensificado
+    - hubieseis intensificado
+  uds:
+    - hubieran intensificado
+    - hubiesen intensificado
+imperativo:
+  tu: intensifica
+  vos: intensificá
+  ud: intensifique
+  nosotros: intensifiquemos
+  vosotros: intensificad
+  uds: intensifiquen

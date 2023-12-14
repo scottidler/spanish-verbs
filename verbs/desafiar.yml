@@ -1,0 +1,142 @@
+infinitivo: desafiar
+gerundio: desafiando
+participio-pasado: desafiado
+presente-indicativo:
+  yo: desafío
+  tu: desafías
+  vos: desafías
+  ud: desafía
+  nosotros: desafiamos
+  vosotros: desafiáis
+  uds: desafían
+preterito-perfecto-simple:
+  yo: desafié
+  tu: desafiaste
+  vos: desafiaste
+  ud: desafió
+  nosotros: desafiamos
+  vosotros: desafiasteis
+  uds: desafiaron
+preterito-imperfecto:
+  yo: desafiaba
+  tu: desafiabas
+  vos: desafiabas
+  ud: desafiaba
+  nosotros: desafiábamos
+  vosotros: desafiabais
+  uds: desafiaban
+futuro-simple:
+  yo: desafiaré
+  tu: desafiarás
+  vos: desafiarás
+  ud: desafiará
+  nosotros: desafiaremos
+  vosotros: desafiaréis
+  uds: desafiarán
+condicional-simple:
+  yo: desafiaría
+  tu: desafiarías
+  vos: desafiarías
+  ud: desafiaría
+  nosotros: desafiaríamos
+  vosotros: desafiaríais
+  uds: desafiarían
+presente-perfecto:
+  yo: he desafiado
+  tu: has desafiado
+  vos: has desafiado
+  ud: ha desafiado
+  nosotros: hemos desafiado
+  vosotros: habéis desafiado
+  uds: han desafiado
+preterito-pluscuamperfecto:
+  yo: había desafiado
+  tu: habías desafiado
+  vos: habías desafiado
+  ud: había desafiado
+  nosotros: habíamos desafiado
+  vosotros: habíais desafiado
+  uds: habían desafiado
+futuro-perfecto:
+  yo: habré desafiado
+  tu: habrás desafiado
+  vos: habrás desafiado
+  ud: habrá desafiado
+  nosotros: habremos desafiado
+  vosotros: habréis desafiado
+  uds: habrán desafiado
+condicional-perfecto:
+  yo: habría desafiado
+  tu: habrías desafiado
+  vos: habrías desafiado
+  ud: habría desafiado
+  nosotros: habríamos desafiado
+  vosotros: habríais desafiado
+  uds: habrían desafiado
+presente-subjuntivo:
+  yo: desafíe
+  tu: desafíes
+  vos: desafíes
+  ud: desafíe
+  nosotros: desafiemos
+  vosotros: desafiéis
+  uds: desafíen
+preterito-perfecto-subjuntivo:
+  yo: haya desafiado
+  tu: hayas desafiado
+  vos: hayas desafiado
+  ud: haya desafiado
+  nosotros: hayamos desafiado
+  vosotros: hayáis desafiado
+  uds: hayan desafiado
+imperfecto-subjuntivo:
+  yo:
+    - desafiara
+    - desafiase
+  tu:
+    - desafiaras
+    - desafiases
+  vos:
+    - desafiaras
+    - desafiases
+  ud:
+    - desafiara
+    - desafiase
+  nosotros:
+    - desafiáramos
+    - desafiésemos
+  vosotros:
+    - desafiarais
+    - desafiaseis
+  uds:
+    - desafiaran
+    - desafiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desafiado
+    - hubiese desafiado
+  tu:
+    - hubieras desafiado
+    - hubieses desafiado
+  vos:
+    - hubieras desafiado
+    - hubieses desafiado
+  ud:
+    - hubiera desafiado
+    - hubiese desafiado
+  nosotros:
+    - hubiéramos desafiado
+    - hubiésemos desafiado
+  vosotros:
+    - hubierais desafiado
+    - hubieseis desafiado
+  uds:
+    - hubieran desafiado
+    - hubiesen desafiado
+imperativo:
+  tu: desafía
+  vos: desafíá
+  ud: desafíe
+  nosotros: desafiemos
+  vosotros: desafiad
+  uds: desafíen

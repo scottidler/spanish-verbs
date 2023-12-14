@@ -1,0 +1,142 @@
+infinitivo: interrogar
+gerundio: interrogando
+participio-pasado: interrogado
+presente-indicativo:
+  yo: interrogo
+  tu: interrogas
+  vos: interrogás
+  ud: interroga
+  nosotros: interrogamos
+  vosotros: interrogáis
+  uds: interrogan
+preterito-perfecto-simple:
+  yo: interrogué
+  tu: interrogaste
+  vos: interrogaste
+  ud: interrogó
+  nosotros: interrogamos
+  vosotros: interrogasteis
+  uds: interrogaron
+preterito-imperfecto:
+  yo: interrogaba
+  tu: interrogabas
+  vos: interrogabas
+  ud: interrogaba
+  nosotros: interrogábamos
+  vosotros: interrogabais
+  uds: interrogaban
+futuro-simple:
+  yo: interrogaré
+  tu: interrogarás
+  vos: interrogarás
+  ud: interrogará
+  nosotros: interrogaremos
+  vosotros: interrogaréis
+  uds: interrogarán
+condicional-simple:
+  yo: interrogaría
+  tu: interrogarías
+  vos: interrogarías
+  ud: interrogaría
+  nosotros: interrogaríamos
+  vosotros: interrogaríais
+  uds: interrogarían
+presente-perfecto:
+  yo: he interrogado
+  tu: has interrogado
+  vos: has interrogado
+  ud: ha interrogado
+  nosotros: hemos interrogado
+  vosotros: habéis interrogado
+  uds: han interrogado
+preterito-pluscuamperfecto:
+  yo: había interrogado
+  tu: habías interrogado
+  vos: habías interrogado
+  ud: había interrogado
+  nosotros: habíamos interrogado
+  vosotros: habíais interrogado
+  uds: habían interrogado
+futuro-perfecto:
+  yo: habré interrogado
+  tu: habrás interrogado
+  vos: habrás interrogado
+  ud: habrá interrogado
+  nosotros: habremos interrogado
+  vosotros: habréis interrogado
+  uds: habrán interrogado
+condicional-perfecto:
+  yo: habría interrogado
+  tu: habrías interrogado
+  vos: habrías interrogado
+  ud: habría interrogado
+  nosotros: habríamos interrogado
+  vosotros: habríais interrogado
+  uds: habrían interrogado
+presente-subjuntivo:
+  yo: interroge
+  tu: interrogues
+  vos: interrogues
+  ud: interrogue
+  nosotros: interroguemos
+  vosotros: interrogéis
+  uds: interroguen
+preterito-perfecto-subjuntivo:
+  yo: haya interrogado
+  tu: hayas interrogado
+  vos: hayas interrogado
+  ud: haya interrogado
+  nosotros: hayamos interrogado
+  vosotros: hayáis interrogado
+  uds: hayan interrogado
+imperfecto-subjuntivo:
+  yo:
+    - interrogara
+    - interrogase
+  tu:
+    - interrogaras
+    - interrogases
+  vos:
+    - interrogaras
+    - interrogases
+  ud:
+    - interrogara
+    - interrogase
+  nosotros:
+    - interrogáramos
+    - interrogásemos
+  vosotros:
+    - interrogarais
+    - interrogaseis
+  uds:
+    - interrogaran
+    - interrogasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera interrogado
+    - hubiese interrogado
+  tu:
+    - hubieras interrogado
+    - hubieses interrogado
+  vos:
+    - hubieras interrogado
+    - hubieses interrogado
+  ud:
+    - hubiera interrogado
+    - hubiese interrogado
+  nosotros:
+    - hubiéramos interrogado
+    - hubiésemos interrogado
+  vosotros:
+    - hubierais interrogado
+    - hubieseis interrogado
+  uds:
+    - hubieran interrogado
+    - hubiesen interrogado
+imperativo:
+  tu: interroga
+  vos: interrogá
+  ud: interrogue
+  nosotros: interroguemos
+  vosotros: interrogad
+  uds: interroguen

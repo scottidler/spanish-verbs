@@ -1,0 +1,142 @@
+infinitivo: incendiarse
+gerundio: incendiándose
+participio-pasado: incendiado
+presente-indicativo:
+  yo: me incendio
+  tu: te incendias
+  vos: te incendias
+  ud: se incendia
+  nosotros: nos incendiamos
+  vosotros: os incendiáis
+  uds: se incendian
+preterito-perfecto-simple:
+  yo: me incendié
+  tu: te incendiaste
+  vos: te incendiaste
+  ud: se incendió
+  nosotros: nos incendiamos
+  vosotros: os incendiasteis
+  uds: se incendiaron
+preterito-imperfecto:
+  yo: me incendiaba
+  tu: te incendiabas
+  vos: te incendiabas
+  ud: se incendiaba
+  nosotros: nos incendiábamos
+  vosotros: os incendiabais
+  uds: se incendiaban
+futuro-simple:
+  yo: me incendiaré
+  tu: te incendiarás
+  vos: te incendiarás
+  ud: se incendiará
+  nosotros: nos incendiaremos
+  vosotros: os incendiaréis
+  uds: se incendiarán
+condicional-simple:
+  yo: me incendiaría
+  tu: te incendiarías
+  vos: te incendiarías
+  ud: se incendiaría
+  nosotros: nos incendiaríamos
+  vosotros: os incendiaríais
+  uds: se incendiarían
+presente-perfecto:
+  yo: me he incendiado
+  tu: te has incendiado
+  vos: te has incendiado
+  ud: se ha incendiado
+  nosotros: nos hemos incendiado
+  vosotros: os habéis incendiado
+  uds: se han incendiado
+preterito-pluscuamperfecto:
+  yo: me había incendiado
+  tu: te habías incendiado
+  vos: te habías incendiado
+  ud: se había incendiado
+  nosotros: nos habíamos incendiado
+  vosotros: os habíais incendiado
+  uds: se habían incendiado
+futuro-perfecto:
+  yo: me habré incendiado
+  tu: te habrás incendiado
+  vos: te habrás incendiado
+  ud: se habrá incendiado
+  nosotros: nos habremos incendiado
+  vosotros: os habréis incendiado
+  uds: se habrán incendiado
+condicional-perfecto:
+  yo: me habría incendiado
+  tu: te habrías incendiado
+  vos: te habrías incendiado
+  ud: se habría incendiado
+  nosotros: nos habríamos incendiado
+  vosotros: os habríais incendiado
+  uds: se habrían incendiado
+presente-subjuntivo:
+  yo: me incendie
+  tu: te incendies
+  vos: te incendies
+  ud: se incendie
+  nosotros: nos incendiemos
+  vosotros: os incendiéis
+  uds: se incendien
+preterito-perfecto-subjuntivo:
+  yo: me haya incendiado
+  tu: te hayas incendiado
+  vos: te hayas incendiado
+  ud: se haya incendiado
+  nosotros: nos hayamos incendiado
+  vosotros: os hayáis incendiado
+  uds: se hayan incendiado
+imperfecto-subjuntivo:
+  yo:
+    - me incendiara
+    - me incendiase
+  tu:
+    - incendiaras
+    - incendiases
+  vos:
+    - incendiaras
+    - incendiases
+  ud:
+    - incendiara
+    - incendiase
+  nosotros:
+    - incendiáramos
+    - incendiásemos
+  vosotros:
+    - incendiarais
+    - incendiaseis
+  uds:
+    - incendiaran
+    - incendiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera incendiado
+    - me hubiese incendiado
+  tu:
+    - te hubieras incendiado
+    - te hubieses incendiado
+  vos:
+    - te hubieras incendiado
+    - te hubieses incendiado
+  ud:
+    - se hubiera incendiado
+    - se hubiese incendiado
+  nosotros:
+    - nos hubiéramos incendiado
+    - nos hubiésemos incendiado
+  vosotros:
+    - os hubierais incendiado
+    - os hubieseis incendiado
+  uds:
+    - se hubieran incendiado
+    - se hubiesen incendiado
+imperativo:
+  tu: inciéndete
+  vos: inciéndete
+  ud: inciéndase
+  nosotros: incendiémonos
+  vosotros: incendiaos
+  uds: inciéndanse

@@ -1,0 +1,142 @@
+infinitivo: crepitar
+gerundio: crepitando
+participio-pasado: crepitado
+presente-indicativo:
+  yo: crepito
+  tu: crepitas
+  vos: crepitas
+  ud: crepita
+  nosotros: crepitamos
+  vosotros: crepitáis
+  uds: crepitan
+preterito-perfecto-simple:
+  yo: crepit&eacute;
+  tu: crepitaste
+  vos: crepitaste
+  ud: crepit&oacute;
+  nosotros: crepitamos
+  vosotros: crepitasteis
+  uds: crepitaron
+preterito-imperfecto:
+  yo: crepitaba
+  tu: crepitabas
+  vos: crepitabas
+  ud: crepitaba
+  nosotros: crepit&aacute;bamos
+  vosotros: crepitabais
+  uds: crepitaban
+futuro-simple:
+  yo: crepitar&eacute;
+  tu: crepitar&aacute;s
+  vos: crepitar&aacute;s
+  ud: crepitar&aacute;
+  nosotros: crepitaremos
+  vosotros: crepitar&eacute;is
+  uds: crepitar&aacute;n
+condicional-simple:
+  yo: crepitar&iacute;a
+  tu: crepitar&iacute;as
+  vos: crepitar&iacute;as
+  ud: crepitar&iacute;a
+  nosotros: crepitar&iacute;amos
+  vosotros: crepitar&iacute;ais
+  uds: crepitar&iacute;an
+presente-perfecto:
+  yo: he crepitado
+  tu: has crepitado
+  vos: has crepitado
+  ud: ha crepitado
+  nosotros: hemos crepitado
+  vosotros: hab&eacute;is crepitado
+  uds: han crepitado
+preterito-pluscuamperfecto:
+  yo: hab&iacute;a crepitado
+  tu: hab&iacute;as crepitado
+  vos: hab&iacute;as crepitado
+  ud: hab&iacute;a crepitado
+  nosotros: hab&iacute;amos crepitado
+  vosotros: hab&iacute;ais crepitado
+  uds: hab&iacute;an crepitado
+futuro-perfecto:
+  yo: habr&eacute; crepitado
+  tu: habr&aacute;s crepitado
+  vos: habr&aacute;s crepitado
+  ud: habr&aacute; crepitado
+  nosotros: habremos crepitado
+  vosotros: habr&eacute;is crepitado
+  uds: habr&aacute;n crepitado
+condicional-perfecto:
+  yo: habr&iacute;a crepitado
+  tu: habr&iacute;as crepitado
+  vos: habr&iacute;as crepitado
+  ud: habr&iacute;a crepitado
+  nosotros: habr&iacute;amos crepitado
+  vosotros: habr&iacute;ais crepitado
+  uds: habr&iacute;an crepitado
+presente-subjuntivo:
+  yo: crepite
+  tu: crepites
+  vos: crepites
+  ud: crepite
+  nosotros: crepitemos
+  vosotros: crepit&eacute;is
+  uds: crepiten
+preterito-perfecto-subjuntivo:
+  yo: haya crepitado
+  tu: hayas crepitado
+  vos: hayas crepitado
+  ud: haya crepitado
+  nosotros: hayamos crepitado
+  vosotros: hay&aacute;is crepitado
+  uds: hayan crepitado
+imperfecto-subjuntivo:
+  yo:
+    - crepitara
+    - crepitase
+  tu:
+    - crepitaras
+    - crepitases
+  vos:
+    - crepitaras
+    - crepitases
+  ud:
+    - crepitara
+    - crepitase
+  nosotros:
+    - crepit&aacute;ramos
+    - crepit&aacute;semos
+  vosotros:
+    - crepitarais
+    - crepitaseis
+  uds:
+    - crepitaran
+    - crepitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera crepitado
+    - hubiese crepitado
+  tu:
+    - hubieras crepitado
+    - hubieses crepitado
+  vos:
+    - hubieras crepitado
+    - hubieses crepitado
+  ud:
+    - hubiera crepitado
+    - hubiese crepitado
+  nosotros:
+    - hubi&eacute;ramos crepitado
+    - hubi&eacute;semos crepitado
+  vosotros:
+    - hubierais crepitado
+    - hubieseis crepitado
+  uds:
+    - hubieran crepitado
+    - hubiesen crepitado
+imperativo:
+  tu: crepita
+  vos: crepit&aacute;
+  ud: crepite
+  nosotros: crepitemos
+  vosotros: crepitad
+  uds: crepiten

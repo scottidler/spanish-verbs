@@ -1,0 +1,142 @@
+infinitivo: descuidar
+gerundio: descuidando
+participio-pasado: descuidado
+presente-indicativo:
+  yo: descuido
+  tu: descuidas
+  vos: descuidas
+  ud: descuida
+  nosotros: descuidamos
+  vosotros: descuidáis
+  uds: descuidan
+preterito-perfecto-simple:
+  yo: descuidé
+  tu: descuidaste
+  vos: descuidaste
+  ud: descuidó
+  nosotros: descuidamos
+  vosotros: descuidasteis
+  uds: descuidaron
+preterito-imperfecto:
+  yo: descuidaba
+  tu: descuidabas
+  vos: descuidabas
+  ud: descuidaba
+  nosotros: descuidábamos
+  vosotros: descuidabais
+  uds: descuidaban
+futuro-simple:
+  yo: descuidaré
+  tu: descuidarás
+  vos: descuidarás
+  ud: descuidará
+  nosotros: descuidaremos
+  vosotros: descuidaréis
+  uds: descuidarán
+condicional-simple:
+  yo: descuidaría
+  tu: descuidarías
+  vos: descuidarías
+  ud: descuidaría
+  nosotros: descuidaríamos
+  vosotros: descuidaríais
+  uds: descuidarían
+presente-perfecto:
+  yo: he descuidado
+  tu: has descuidado
+  vos: has descuidado
+  ud: ha descuidado
+  nosotros: hemos descuidado
+  vosotros: habéis descuidado
+  uds: han descuidado
+preterito-pluscuamperfecto:
+  yo: había descuidado
+  tu: habías descuidado
+  vos: habías descuidado
+  ud: había descuidado
+  nosotros: habíamos descuidado
+  vosotros: habíais descuidado
+  uds: habían descuidado
+futuro-perfecto:
+  yo: habré descuidado
+  tu: habrás descuidado
+  vos: habrás descuidado
+  ud: habrá descuidado
+  nosotros: habremos descuidado
+  vosotros: habréis descuidado
+  uds: habrán descuidado
+condicional-perfecto:
+  yo: habría descuidado
+  tu: habrías descuidado
+  vos: habrías descuidado
+  ud: habría descuidado
+  nosotros: habríamos descuidado
+  vosotros: habríais descuidado
+  uds: habrían descuidado
+presente-subjuntivo:
+  yo: descuide
+  tu: descuides
+  vos: descuides
+  ud: descuide
+  nosotros: descuidemos
+  vosotros: descuidéis
+  uds: descuiden
+preterito-perfecto-subjuntivo:
+  yo: haya descuidado
+  tu: hayas descuidado
+  vos: hayas descuidado
+  ud: haya descuidado
+  nosotros: hayamos descuidado
+  vosotros: hayáis descuidado
+  uds: hayan descuidado
+imperfecto-subjuntivo:
+  yo:
+    - descuidara
+    - descuidase
+  tu:
+    - descuidaras
+    - descuidases
+  vos:
+    - descuidaras
+    - descuidases
+  ud:
+    - descuidara
+    - descuidase
+  nosotros:
+    - descuidáramos
+    - descuidásemos
+  vosotros:
+    - descuidarais
+    - descuidaseis
+  uds:
+    - descuidaran
+    - descuidasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera descuidado
+    - hubiese descuidado
+  tu:
+    - hubieras descuidado
+    - hubieses descuidado
+  vos:
+    - hubieras descuidado
+    - hubieses descuidado
+  ud:
+    - hubiera descuidado
+    - hubiese descuidado
+  nosotros:
+    - hubiéramos descuidado
+    - hubiésemos descuidado
+  vosotros:
+    - hubierais descuidado
+    - hubieseis descuidado
+  uds:
+    - hubieran descuidado
+    - hubiesen descuidado
+imperativo:
+  tu: descuida
+  vos: descuidá
+  ud: descuide
+  nosotros: descuidemos
+  vosotros: descuidad
+  uds: descuiden

@@ -1,0 +1,142 @@
+infinitivo: intervenir
+gerundio: interviniendo
+participio-pasado: intervenido
+presente-indicativo:
+  yo: intervengo
+  tu: intervienes
+  vos: intervenís
+  ud: interviene
+  nosotros: intervenimos
+  vosotros: intervenís
+  uds: intervienen
+preterito-perfecto-simple:
+  yo: intervine
+  tu: interveniste
+  vos: interveniste
+  ud: intervino
+  nosotros: intervenimos
+  vosotros: intervenisteis
+  uds: intervinieron
+preterito-imperfecto:
+  yo: intervenía
+  tu: intervenías
+  vos: intervenías
+  ud: intervenía
+  nosotros: interveníamos
+  vosotros: interveníais
+  uds: intervenían
+futuro-simple:
+  yo: interveniré
+  tu: intervenirás
+  vos: intervenirás
+  ud: intervenirá
+  nosotros: intervendremos
+  vosotros: intervendréis
+  uds: intervenirán
+condicional-simple:
+  yo: interveniría
+  tu: intervenirías
+  vos: intervenirías
+  ud: interveniría
+  nosotros: interveniríamos
+  vosotros: interveniríais
+  uds: intervenirían
+presente-perfecto:
+  yo: he intervenido
+  tu: has intervenido
+  vos: has intervenido
+  ud: ha intervenido
+  nosotros: hemos intervenido
+  vosotros: habéis intervenido
+  uds: han intervenido
+preterito-pluscuamperfecto:
+  yo: había intervenido
+  tu: habías intervenido
+  vos: habías intervenido
+  ud: había intervenido
+  nosotros: habíamos intervenido
+  vosotros: habíais intervenido
+  uds: habían intervenido
+futuro-perfecto:
+  yo: habré intervenido
+  tu: habrás intervenido
+  vos: habrás intervenido
+  ud: habrá intervenido
+  nosotros: habremos intervenido
+  vosotros: habréis intervenido
+  uds: habrán intervenido
+condicional-perfecto:
+  yo: habría intervenido
+  tu: habrías intervenido
+  vos: habrías intervenido
+  ud: habría intervenido
+  nosotros: habríamos intervenido
+  vosotros: habríais intervenido
+  uds: habrían intervenido
+presente-subjuntivo:
+  yo: intervenga
+  tu: intervengas
+  vos: intervengas
+  ud: intervenga
+  nosotros: intervengamos
+  vosotros: intervengáis
+  uds: intervengan
+preterito-perfecto-subjuntivo:
+  yo: haya intervenido
+  tu: hayas intervenido
+  vos: hayas intervenido
+  ud: haya intervenido
+  nosotros: hayamos intervenido
+  vosotros: hayáis intervenido
+  uds: hayan intervenido
+imperfecto-subjuntivo:
+  yo:
+    - interviniera
+    - interviniese
+  tu:
+    - intervinieras
+    - intervinieses
+  vos:
+    - intervinieras
+    - intervinieses
+  ud:
+    - interviniera
+    - interviniese
+  nosotros:
+    - interviéramos
+    - interviésemos
+  vosotros:
+    - intervinierais
+    - intervinieseis
+  uds:
+    - intervinieran
+    - interviniesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera intervenido
+    - hubiese intervenido
+  tu:
+    - hubieras intervenido
+    - hubieses intervenido
+  vos:
+    - hubieras intervenido
+    - hubieses intervenido
+  ud:
+    - hubiera intervenido
+    - hubiese intervenido
+  nosotros:
+    - hubiéramos intervenido
+    - hubiésemos intervenido
+  vosotros:
+    - hubierais intervenido
+    - hubieseis intervenido
+  uds:
+    - hubieran intervenido
+    - hubiesen intervenido
+imperativo:
+  tu: interviene
+  vos: intervení
+  ud: intervenga
+  nosotros: intervengamos
+  vosotros: intervenid
+  uds: intervengan

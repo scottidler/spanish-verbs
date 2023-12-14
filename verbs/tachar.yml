@@ -1,0 +1,142 @@
+infinitivo: tachar
+gerundio: tachando
+participio-pasado: tachado
+presente-indicativo:
+  yo: tacho
+  tu: tachas
+  vos: tachás
+  ud: tacha
+  nosotros: tachamos
+  vosotros: tacháis
+  uds: tachan
+preterito-perfecto-simple:
+  yo: taché
+  tu: tachaste
+  vos: tachaste
+  ud: tachó
+  nosotros: tachamos
+  vosotros: tachasteis
+  uds: tacharon
+preterito-imperfecto:
+  yo: tachaba
+  tu: tachabas
+  vos: tachabas
+  ud: tachaba
+  nosotros: tachábamos
+  vosotros: tachabais
+  uds: tachaban
+futuro-simple:
+  yo: tacharé
+  tu: tacharás
+  vos: tacharás
+  ud: tachará
+  nosotros: tacharemos
+  vosotros: tacharéis
+  uds: tacharán
+condicional-simple:
+  yo: tacharía
+  tu: tacharías
+  vos: tacharías
+  ud: tacharía
+  nosotros: tacharíamos
+  vosotros: tacharíais
+  uds: tacharían
+presente-perfecto:
+  yo: he tachado
+  tu: has tachado
+  vos: has tachado
+  ud: ha tachado
+  nosotros: hemos tachado
+  vosotros: habéis tachado
+  uds: han tachado
+preterito-pluscuamperfecto:
+  yo: había tachado
+  tu: habías tachado
+  vos: habías tachado
+  ud: había tachado
+  nosotros: habíamos tachado
+  vosotros: habíais tachado
+  uds: habían tachado
+futuro-perfecto:
+  yo: habré tachado
+  tu: habrás tachado
+  vos: habrás tachado
+  ud: habrá tachado
+  nosotros: habremos tachado
+  vosotros: habréis tachado
+  uds: habrán tachado
+condicional-perfecto:
+  yo: habría tachado
+  tu: habrías tachado
+  vos: habrías tachado
+  ud: habría tachado
+  nosotros: habríamos tachado
+  vosotros: habríais tachado
+  uds: habrían tachado
+presente-subjuntivo:
+  yo: tache
+  tu: taches
+  vos: taches
+  ud: tache
+  nosotros: tachemos
+  vosotros: tachéis
+  uds: tachen
+preterito-perfecto-subjuntivo:
+  yo: haya tachado
+  tu: hayas tachado
+  vos: hayas tachado
+  ud: haya tachado
+  nosotros: hayamos tachado
+  vosotros: hayáis tachado
+  uds: hayan tachado
+imperfecto-subjuntivo:
+  yo:
+    - tachara
+    - tachase
+  tu:
+    - tacharas
+    - tachases
+  vos:
+    - tacharas
+    - tachases
+  ud:
+    - tachara
+    - tachase
+  nosotros:
+    - tacháramos
+    - tachásemos
+  vosotros:
+    - tacharais
+    - tachaseis
+  uds:
+    - tacharan
+    - tachasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tachado
+    - hubiese tachado
+  tu:
+    - hubieras tachado
+    - hubieses tachado
+  vos:
+    - hubieras tachado
+    - hubieses tachado
+  ud:
+    - hubiera tachado
+    - hubiese tachado
+  nosotros:
+    - hubiéramos tachado
+    - hubiésemos tachado
+  vosotros:
+    - hubierais tachado
+    - hubieseis tachado
+  uds:
+    - hubieran tachado
+    - hubiesen tachado
+imperativo:
+  tu: tacha
+  vos: tachá
+  ud: tache
+  nosotros: tachemos
+  vosotros: tachad
+  uds: tachen

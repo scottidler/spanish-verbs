@@ -1,0 +1,142 @@
+infinitivo: eliminar
+gerundio: eliminando
+participio-pasado: eliminado
+presente-indicativo:
+  yo: elimino
+  tu: eliminas
+  vos: eliminas
+  ud: elimina
+  nosotros: eliminamos
+  vosotros: elimináis
+  uds: eliminan
+preterito-perfecto-simple:
+  yo: eliminé
+  tu: eliminaste
+  vos: eliminaste
+  ud: eliminó
+  nosotros: eliminamos
+  vosotros: eliminasteis
+  uds: eliminaron
+preterito-imperfecto:
+  yo: eliminaba
+  tu: eliminabas
+  vos: eliminabas
+  ud: eliminaba
+  nosotros: eliminábamos
+  vosotros: eliminabais
+  uds: eliminaban
+futuro-simple:
+  yo: eliminaré
+  tu: eliminarás
+  vos: eliminarás
+  ud: eliminará
+  nosotros: eliminaremos
+  vosotros: eliminaréis
+  uds: eliminarán
+condicional-simple:
+  yo: eliminaría
+  tu: eliminarías
+  vos: eliminarías
+  ud: eliminaría
+  nosotros: eliminaríamos
+  vosotros: eliminaríais
+  uds: eliminarían
+presente-perfecto:
+  yo: he eliminado
+  tu: has eliminado
+  vos: has eliminado
+  ud: ha eliminado
+  nosotros: hemos eliminado
+  vosotros: habéis eliminado
+  uds: han eliminado
+preterito-pluscuamperfecto:
+  yo: había eliminado
+  tu: habías eliminado
+  vos: habías eliminado
+  ud: había eliminado
+  nosotros: habíamos eliminado
+  vosotros: habíais eliminado
+  uds: habían eliminado
+futuro-perfecto:
+  yo: habré eliminado
+  tu: habrás eliminado
+  vos: habrás eliminado
+  ud: habrá eliminado
+  nosotros: habremos eliminado
+  vosotros: habréis eliminado
+  uds: habrán eliminado
+condicional-perfecto:
+  yo: habría eliminado
+  tu: habrías eliminado
+  vos: habrías eliminado
+  ud: habría eliminado
+  nosotros: habríamos eliminado
+  vosotros: habríais eliminado
+  uds: habrían eliminado
+presente-subjuntivo:
+  yo: elimine
+  tu: elimines
+  vos: elimines
+  ud: elimine
+  nosotros: eliminemos
+  vosotros: eliminéis
+  uds: eliminen
+preterito-perfecto-subjuntivo:
+  yo: haya eliminado
+  tu: hayas eliminado
+  vos: hayas eliminado
+  ud: haya eliminado
+  nosotros: hayamos eliminado
+  vosotros: hayáis eliminado
+  uds: hayan eliminado
+imperfecto-subjuntivo:
+  yo:
+    - eliminara
+    - eliminase
+  tu:
+    - eliminaras
+    - eliminases
+  vos:
+    - eliminaras
+    - eliminases
+  ud:
+    - eliminara
+    - eliminase
+  nosotros:
+    - elimináramos
+    - eliminásemos
+  vosotros:
+    - eliminarais
+    - eliminaseis
+  uds:
+    - eliminaran
+    - eliminasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera eliminado
+    - hubiese eliminado
+  tu:
+    - hubieras eliminado
+    - hubieses eliminado
+  vos:
+    - hubieras eliminado
+    - hubieses eliminado
+  ud:
+    - hubiera eliminado
+    - hubiese eliminado
+  nosotros:
+    - hubiéramos eliminado
+    - hubiésemos eliminado
+  vosotros:
+    - hubierais eliminado
+    - hubieseis eliminado
+  uds:
+    - hubieran eliminado
+    - hubiesen eliminado
+imperativo:
+  tu: elimina
+  vos: eliminá
+  ud: elimine
+  nosotros: eliminemos
+  vosotros: eliminad
+  uds: eliminen

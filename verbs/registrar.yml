@@ -1,0 +1,142 @@
+infinitivo: registrar
+gerundio: registrando
+participio-pasado: registrado
+presente-indicativo:
+  yo: registro
+  tu: registras
+  vos: registras
+  ud: registra
+  nosotros: registramos
+  vosotros: registráis
+  uds: registran
+preterito-perfecto-simple:
+  yo: registré
+  tu: registraste
+  vos: registraste
+  ud: registró
+  nosotros: registramos
+  vosotros: registrasteis
+  uds: registraron
+preterito-imperfecto:
+  yo: registraba
+  tu: registrabas
+  vos: registrabas
+  ud: registraba
+  nosotros: registrábamos
+  vosotros: registrabais
+  uds: registraban
+futuro-simple:
+  yo: registraré
+  tu: registrarás
+  vos: registrarás
+  ud: registrará
+  nosotros: registraremos
+  vosotros: registraréis
+  uds: registrarán
+condicional-simple:
+  yo: registraría
+  tu: registrarías
+  vos: registrarías
+  ud: registraría
+  nosotros: registraríamos
+  vosotros: registraríais
+  uds: registrarían
+presente-perfecto:
+  yo: he registrado
+  tu: has registrado
+  vos: has registrado
+  ud: ha registrado
+  nosotros: hemos registrado
+  vosotros: habéis registrado
+  uds: han registrado
+preterito-pluscuamperfecto:
+  yo: había registrado
+  tu: habías registrado
+  vos: habías registrado
+  ud: había registrado
+  nosotros: habíamos registrado
+  vosotros: habíais registrado
+  uds: habían registrado
+futuro-perfecto:
+  yo: habré registrado
+  tu: habrás registrado
+  vos: habrás registrado
+  ud: habrá registrado
+  nosotros: habremos registrado
+  vosotros: habréis registrado
+  uds: habrán registrado
+condicional-perfecto:
+  yo: habría registrado
+  tu: habrías registrado
+  vos: habrías registrado
+  ud: habría registrado
+  nosotros: habríamos registrado
+  vosotros: habríais registrado
+  uds: habrían registrado
+presente-subjuntivo:
+  yo: registre
+  tu: registres
+  vos: registres
+  ud: registre
+  nosotros: registremos
+  vosotros: registréis
+  uds: registren
+preterito-perfecto-subjuntivo:
+  yo: haya registrado
+  tu: hayas registrado
+  vos: hayas registrado
+  ud: haya registrado
+  nosotros: hayamos registrado
+  vosotros: hayáis registrado
+  uds: hayan registrado
+imperfecto-subjuntivo:
+  yo:
+    - registrara
+    - registrase
+  tu:
+    - registraras
+    - registrases
+  vos:
+    - registraras
+    - registrases
+  ud:
+    - registrara
+    - registrase
+  nosotros:
+    - registráramos
+    - registrásemos
+  vosotros:
+    - registrarais
+    - registraseis
+  uds:
+    - registraran
+    - registrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera registrado
+    - hubiese registrado
+  tu:
+    - hubieras registrado
+    - hubieses registrado
+  vos:
+    - hubieras registrado
+    - hubieses registrado
+  ud:
+    - hubiera registrado
+    - hubiese registrado
+  nosotros:
+    - hubiéramos registrado
+    - hubiésemos registrado
+  vosotros:
+    - hubierais registrado
+    - hubieseis registrado
+  uds:
+    - hubieran registrado
+    - hubiesen registrado
+imperativo:
+  tu: registra
+  vos: registrá
+  ud: registre
+  nosotros: registremos
+  vosotros: registrad
+  uds: registren

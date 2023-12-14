@@ -1,0 +1,156 @@
+infinitivo: abastecerse
+gerundio: abasteciéndose
+participio-pasado: abastecido
+
+presente-indicativo:
+  yo: me abastezco
+  tu: te abasteces
+  vos: te abasteces
+  ud: se abastece
+  nosotros: nos abastecemos
+  vosotros: os abastecéis
+  uds: se abastecen
+
+preterito-perfecto-simple:
+  yo: me abastecí
+  tu: te abasteciste
+  vos: te abasteciste
+  ud: se abasteció
+  nosotros: nos abastecimos
+  vosotros: os abastecisteis
+  uds: se abastecieron
+
+preterito-imperfecto:
+  yo: me abastecía
+  tu: te abastecías
+  vos: te abastecías
+  ud: se abastecía
+  nosotros: nos abastecíamos
+  vosotros: os abastecíais
+  uds: se abastecían
+
+futuro-simple:
+  yo: me abasteceré
+  tu: te abastecerás
+  vos: te abastecerás
+  ud: se abastecerá
+  nosotros: nos abasteceremos
+  vosotros: os abasteceréis
+  uds: se abastecerán
+
+condicional-simple:
+  yo: me abastecería
+  tu: te abastecerías
+  vos: te abastecerías
+  ud: se abastecería
+  nosotros: nos abasteceríamos
+  vosotros: os abasteceríais
+  uds: se abastecerían
+
+presente-perfecto:
+  yo: me he abastecido
+  tu: te has abastecido
+  vos: te has abastecido
+  ud: se ha abastecido
+  nosotros: nos hemos abastecido
+  vosotros: os habéis abastecido
+  uds: se han abastecido
+
+preterito-pluscuamperfecto:
+  yo: me había abastecido
+  tu: te habías abastecido
+  vos: te habías abastecido
+  ud: se había abastecido
+  nosotros: nos habíamos abastecido
+  vosotros: os habíais abastecido
+  uds: se habían abastecido
+
+futuro-perfecto:
+  yo: me habré abastecido
+  tu: te habrás abastecido
+  vos: te habrás abastecido
+  ud: se habrá abastecido
+  nosotros: nos habremos abastecido
+  vosotros: os habréis abastecido
+  uds: se habrán abastecido
+
+condicional-perfecto:
+  yo: me habría abastecido
+  tu: te habrías abastecido
+  vos: te habrías abastecido
+  ud: se habría abastecido
+  nosotros: nos habríamos abastecido
+  vosotros: os habríais abastecido
+  uds: se habrían abastecido
+
+presente-subjuntivo:
+  yo: me abastezca
+  tu: te abastezcas
+  vos: te abastezcas
+  ud: se abastezca
+  nosotros: nos abastezcamos
+  vosotros: os abastezcáis
+  uds: se abastezcan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya abastecido
+  tu: te hayas abastecido
+  vos: te hayas abastecido
+  ud: se haya abastecido
+  nosotros: nos hayamos abastecido
+  vosotros: os hayáis abastecido
+  uds: se hayan abastecido
+
+imperfecto-subjuntivo:
+  yo:
+    - me abasteciera
+    - me abasteciese
+  tu:
+    - te abastecieras
+    - te abastecieses
+  vos:
+    - te abastecieras
+    - te abastecieses
+  ud:
+    - se abasteciera
+    - se abasteciese
+  nosotros:
+    - nos abasteciéramos
+    - nos abasteciésemos
+  vosotros:
+    - os abastecierais
+    - os abastecieseis
+  uds:
+    - se abastecieran
+    - se abasteciesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera abastecido
+    - me hubiese abastecido
+  tu:
+    - te hubieras abastecido
+    - te hubieses abastecido
+  vos:
+    - te hubieras abastecido
+    - te hubieses abastecido
+  ud:
+    - se hubiera abastecido
+    - se hubiese abastecido
+  nosotros:
+    - nos hubiéramos abastecido
+    - nos hubiésemos abastecido
+  vosotros:
+    - os hubierais abastecido
+    - os hubieseis abastecido
+  uds:
+    - se hubieran abastecido
+    - se hubiesen abastecido
+
+imperativo:
+  tu: abastécete
+  vos: abastecete
+  ud: abastézcase
+  nosotros: abastecámonos
+  vosotros: abasteced
+  uds: abastézcanse

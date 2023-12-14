@@ -1,0 +1,142 @@
+infinitivo: envenenar
+gerundio: envenenando
+participio-pasado: envenenado
+presente-indicativo:
+  yo: enveneno
+  tu: envenenas
+  vos: envenenas
+  ud: envenena
+  nosotros: envenenamos
+  vosotros: envenenáis
+  uds: envenenan
+preterito-perfecto-simple:
+  yo: envenené
+  tu: envenenaste
+  vos: envenenaste
+  ud: envenenó
+  nosotros: envenenamos
+  vosotros: envenenasteis
+  uds: envenenaron
+preterito-imperfecto:
+  yo: envenenaba
+  tu: envenenabas
+  vos: envenenabas
+  ud: envenenaba
+  nosotros: envenenábamos
+  vosotros: envenenabais
+  uds: envenenaban
+futuro-simple:
+  yo: envenenaré
+  tu: envenenarás
+  vos: envenenarás
+  ud: envenenará
+  nosotros: envenenaremos
+  vosotros: envenenaréis
+  uds: envenenarán
+condicional-simple:
+  yo: envenenaría
+  tu: envenenarías
+  vos: envenenarías
+  ud: envenenaría
+  nosotros: envenenaríamos
+  vosotros: envenenaríais
+  uds: envenenarían
+presente-perfecto:
+  yo: he envenenado
+  tu: has envenenado
+  vos: has envenenado
+  ud: ha envenenado
+  nosotros: hemos envenenado
+  vosotros: habéis envenenado
+  uds: han envenenado
+preterito-pluscuamperfecto:
+  yo: había envenenado
+  tu: habías envenenado
+  vos: habías envenenado
+  ud: había envenenado
+  nosotros: habíamos envenenado
+  vosotros: habíais envenenado
+  uds: habían envenenado
+futuro-perfecto:
+  yo: habré envenenado
+  tu: habrás envenenado
+  vos: habrás envenenado
+  ud: habrá envenenado
+  nosotros: habremos envenenado
+  vosotros: habréis envenenado
+  uds: habrán envenenado
+condicional-perfecto:
+  yo: habría envenenado
+  tu: habrías envenenado
+  vos: habrías envenenado
+  ud: habría envenenado
+  nosotros: habríamos envenenado
+  vosotros: habríais envenenado
+  uds: habrían envenenado
+presente-subjuntivo:
+  yo: envenene
+  tu: envenenes
+  vos: envenenes
+  ud: envenene
+  nosotros: envenenemos
+  vosotros: envenenéis
+  uds: envenenen
+preterito-perfecto-subjuntivo:
+  yo: haya envenenado
+  tu: hayas envenenado
+  vos: hayas envenenado
+  ud: haya envenenado
+  nosotros: hayamos envenenado
+  vosotros: hayáis envenenado
+  uds: hayan envenenado
+imperfecto-subjuntivo:
+  yo:
+    - envenenara
+    - envenenase
+  tu:
+    - envenenaras
+    - envenenases
+  vos:
+    - envenenaras
+    - envenenases
+  ud:
+    - envenenara
+    - envenenase
+  nosotros:
+    - envenenáramos
+    - envenenásemos
+  vosotros:
+    - envenenarais
+    - envenenaseis
+  uds:
+    - envenenaran
+    - envenenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera envenenado
+    - hubiese envenenado
+  tu:
+    - hubieras envenenado
+    - hubieses envenenado
+  vos:
+    - hubieras envenenado
+    - hubieses envenenado
+  ud:
+    - hubiera envenenado
+    - hubiese envenenado
+  nosotros:
+    - hubiéramos envenenado
+    - hubiésemos envenenado
+  vosotros:
+    - hubierais envenenado
+    - hubieseis envenenado
+  uds:
+    - hubieran envenenado
+    - hubiesen envenenado
+imperativo:
+  tu: envenena
+  vos: envenená
+  ud: envenene
+  nosotros: envenenemos
+  vosotros: envenenad
+  uds: envenenen

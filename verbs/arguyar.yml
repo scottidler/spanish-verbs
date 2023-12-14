@@ -1,0 +1,142 @@
+infinitivo: arguyar
+gerundio: arguyendo
+participio-pasado: argüido
+presente-indicativo:
+  yo: arguyo
+  tu: arguyes
+  vos: arguyes
+  ud: arguye
+  nosotros: argüimos
+  vosotros: arguís
+  uds: arguyen
+preterito-perfecto-simple:
+  yo: argüí
+  tu: argüiste
+  vos: argüiste
+  ud: arguyó
+  nosotros: argüimos
+  vosotros: argüisteis
+  uds: arguyeron
+preterito-imperfecto:
+  yo: arguía
+  tu: arguías
+  vos: arguías
+  ud: arguía
+  nosotros: arguíamos
+  vosotros: arguíais
+  uds: arguían
+futuro-simple:
+  yo: argüiré
+  tu: argüirás
+  vos: argüirás
+  ud: argüirá
+  nosotros: argüiremos
+  vosotros: argüiréis
+  uds: argüirán
+condicional-simple:
+  yo: argüiría
+  tu: argüirías
+  vos: argüirías
+  ud: argüiría
+  nosotros: argüiríamos
+  vosotros: argüiríais
+  uds: argüirían
+presente-perfecto:
+  yo: he argüido
+  tu: has argüido
+  vos: has argüido
+  ud: ha argüido
+  nosotros: hemos argüido
+  vosotros: habéis argüido
+  uds: han argüido
+preterito-pluscuamperfecto:
+  yo: había argüido
+  tu: habías argüido
+  vos: habías argüido
+  ud: había argüido
+  nosotros: habíamos argüido
+  vosotros: habíais argüido
+  uds: habían argüido
+futuro-perfecto:
+  yo: habré argüido
+  tu: habrás argüido
+  vos: habrás argüido
+  ud: habrá argüido
+  nosotros: habremos argüido
+  vosotros: habréis argüido
+  uds: habrán argüido
+condicional-perfecto:
+  yo: habría argüido
+  tu: habrías argüido
+  vos: habrías argüido
+  ud: habría argüido
+  nosotros: habríamos argüido
+  vosotros: habríais argüido
+  uds: habrían argüido
+presente-subjuntivo:
+  yo: arguya
+  tu: arguyas
+  vos: arguyas
+  ud: arguya
+  nosotros: arguyamos
+  vosotros: arguyáis
+  uds: arguyan
+preterito-perfecto-subjuntivo:
+  yo: haya argüido
+  tu: hayas argüido
+  vos: hayas argüido
+  ud: haya argüido
+  nosotros: hayamos argüido
+  vosotros: hayáis argüido
+  uds: hayan argüido
+imperfecto-subjuntivo:
+  yo:
+    - arguyera
+    - arguyese
+  tu:
+    - arguyeras
+    - arguyeses
+  vos:
+    - arguyeras
+    - arguyeses
+  ud:
+    - arguyera
+    - arguyese
+  nosotros:
+    - arguyéramos
+    - arguyésemos
+  vosotros:
+    - arguyerais
+    - arguyeseis
+  uds:
+    - arguyeran
+    - arguyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera argüido
+    - hubiese argüido
+  tu:
+    - hubieras argüido
+    - hubieses argüido
+  vos:
+    - hubieras argüido
+    - hubieses argüido
+  ud:
+    - hubiera argüido
+    - hubiese argüido
+  nosotros:
+    - hubiéramos argüido
+    - hubiésemos argüido
+  vosotros:
+    - hubierais argüido
+    - hubieseis argüido
+  uds:
+    - hubieran argüido
+    - hubiesen argüido
+imperativo:
+  tu: arguye
+  vos: argüí
+  ud: arguya
+  nosotros: arguyamos
+  vosotros: argüid
+  uds: arguyan

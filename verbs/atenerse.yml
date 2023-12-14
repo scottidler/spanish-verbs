@@ -1,0 +1,156 @@
+infinitivo: atenerse
+gerundio: ateniéndose
+participio-pasado: atenido
+
+presente-indicativo:
+  yo: me atengo
+  tu: te atienes
+  vos: te atienes
+  ud: se atiene
+  nosotros: nos atenemos
+  vosotros: os atenéis
+  uds: se atienen
+
+preterito-perfecto-simple:
+  yo: me atuve
+  tu: te atuviste
+  vos: te atuviste
+  ud: se atuvo
+  nosotros: nos tuvimos
+  vosotros: os tuvisteis
+  uds: se tuvieron
+
+preterito-imperfecto:
+  yo: me atenía
+  tu: te atenías
+  vos: te atenías
+  ud: se atenía
+  nosotros: nos ateníamos
+  vosotros: os ateníais
+  uds: se atenían
+
+futuro-simple:
+  yo: me atendré
+  tu: te atendrás
+  vos: te atendrás
+  ud: se atendrá
+  nosotros: nos atendremos
+  vosotros: os atendréis
+  uds: se atendrán
+
+condicional-simple:
+  yo: me atendría
+  tu: te atendrías
+  vos: te atendrías
+  ud: se atendría
+  nosotros: nos atendríamos
+  vosotros: os atendríais
+  uds: se atendrían
+
+presente-perfecto:
+  yo: me he atenido
+  tu: te has atenido
+  vos: te has atenido
+  ud: se ha atenido
+  nosotros: nos hemos atenido
+  vosotros: os habéis atenido
+  uds: se han atenido
+
+preterito-pluscuamperfecto:
+  yo: me había atenido
+  tu: te habías atenido
+  vos: te habías atenido
+  ud: se había atenido
+  nosotros: nos habíamos atenido
+  vosotros: os habíais atenido
+  uds: se habían atenido
+
+futuro-perfecto:
+  yo: me habré atenido
+  tu: te habrás atenido
+  vos: te habrás atenido
+  ud: se habrá atenido
+  nosotros: nos habremos atenido
+  vosotros: os habréis atenido
+  uds: se habrán atenido
+
+condicional-perfecto:
+  yo: me habría atenido
+  tu: te habrías atenido
+  vos: te habrías atenido
+  ud: se habría atenido
+  nosotros: nos habríamos atenido
+  vosotros: os habríais atenido
+  uds: se habrían atenido
+
+presente-subjuntivo:
+  yo: me atenga
+  tu: te atengas
+  vos: te atengas
+  ud: se atenga
+  nosotros: nos atengamos
+  vosotros: os atengáis
+  uds: se atengan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya atenido
+  tu: te hayas atenido
+  vos: te hayas atenido
+  ud: se haya atenido
+  nosotros: nos hayamos atenido
+  vosotros: os hayáis atenido
+  uds: se hayan atenido
+
+imperfecto-subjuntivo:
+  yo:
+    - me atuviera
+    - me atuviese
+  tu:
+    - te atuvieras
+    - te atuvieses
+  vos:
+    - te atuvieras
+    - te atuvieses
+  ud:
+    - se atuviera
+    - se atuviese
+  nosotros:
+    - nos atuviéramos
+    - nos atuviésemos
+  vosotros:
+    - os atuvierais
+    - os atuvieseis
+  uds:
+    - se atuvieran
+    - se atuviesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera atenido
+    - me hubiese atenido
+  tu:
+    - te hubieras atenido
+    - te hubieses atenido
+  vos:
+    - te hubieras atenido
+    - te hubieses atenido
+  ud:
+    - se hubiera atenido
+    - se hubiese atenido
+  nosotros:
+    - nos hubiéramos atenido
+    - nos hubiésemos atenido
+  vosotros:
+    - os hubierais atenido
+    - os hubieseis atenido
+  uds:
+    - se hubieran atenido
+    - se hubiesen atenido
+
+imperativo:
+  tu: átente
+  vos: átente
+  ud: átengase
+  nosotros: atengámonos
+  vosotros: ateneos
+  uds: átenganse

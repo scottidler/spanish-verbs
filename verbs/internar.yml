@@ -1,0 +1,142 @@
+infinitivo: internar
+gerundio: internando
+participio-pasado: internado
+presente-indicativo:
+  yo: interno
+  tu: internas
+  vos: internas
+  ud: interna
+  nosotros: internamos
+  vosotros: internáis
+  uds: internan
+preterito-perfecto-simple:
+  yo: interné
+  tu: internaste
+  vos: internaste
+  ud: internó
+  nosotros: internamos
+  vosotros: internasteis
+  uds: internaron
+preterito-imperfecto:
+  yo: internaba
+  tu: internabas
+  vos: internabas
+  ud: internaba
+  nosotros: internábamos
+  vosotros: internabais
+  uds: internaban
+futuro-simple:
+  yo: internaré
+  tu: internarás
+  vos: internarás
+  ud: internará
+  nosotros: internaremos
+  vosotros: internaréis
+  uds: internarán
+condicional-simple:
+  yo: internaría
+  tu: internarías
+  vos: internarías
+  ud: internaría
+  nosotros: internaríamos
+  vosotros: internaríais
+  uds: internarían
+presente-perfecto:
+  yo: he internado
+  tu: has internado
+  vos: has internado
+  ud: ha internado
+  nosotros: hemos internado
+  vosotros: habéis internado
+  uds: han internado
+preterito-pluscuamperfecto:
+  yo: había internado
+  tu: habías internado
+  vos: habías internado
+  ud: había internado
+  nosotros: habíamos internado
+  vosotros: habíais internado
+  uds: habían internado
+futuro-perfecto:
+  yo: habré internado
+  tu: habrás internado
+  vos: habrás internado
+  ud: habrá internado
+  nosotros: habremos internado
+  vosotros: habréis internado
+  uds: habrán internado
+condicional-perfecto:
+  yo: habría internado
+  tu: habrías internado
+  vos: habrías internado
+  ud: habría internado
+  nosotros: habríamos internado
+  vosotros: habríais internado
+  uds: habrían internado
+presente-subjuntivo:
+  yo: interne
+  tu: internes
+  vos: internes
+  ud: interne
+  nosotros: internemos
+  vosotros: internéis
+  uds: internen
+preterito-perfecto-subjuntivo:
+  yo: haya internado
+  tu: hayas internado
+  vos: hayas internado
+  ud: haya internado
+  nosotros: hayamos internado
+  vosotros: hayáis internado
+  uds: hayan internado
+imperfecto-subjuntivo:
+  yo:
+    - internara
+    - internase
+  tu:
+    - internaras
+    - internases
+  vos:
+    - internaras
+    - internases
+  ud:
+    - internara
+    - internase
+  nosotros:
+    - internáramos
+    - internásemos
+  vosotros:
+    - internarais
+    - internaseis
+  uds:
+    - internaran
+    - internasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera internado
+    - hubiese internado
+  tu:
+    - hubieras internado
+    - hubieses internado
+  vos:
+    - hubieras internado
+    - hubieses internado
+  ud:
+    - hubiera internado
+    - hubiese internado
+  nosotros:
+    - hubiéramos internado
+    - hubiésemos internado
+  vosotros:
+    - hubierais internado
+    - hubieseis internado
+  uds:
+    - hubieran internado
+    - hubiesen internado
+imperativo:
+  tu: interna
+  vos: interná
+  ud: interne
+  nosotros: internemos
+  vosotros: internad
+  uds: internen

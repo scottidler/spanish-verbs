@@ -1,0 +1,142 @@
+infinitivo: cesar
+gerundio: cesando
+participio-pasado: cesado
+presente-indicativo:
+  yo: ceso
+  tu: cesas
+  vos: cesas
+  ud: cesa
+  nosotros: cesamos
+  vosotros: cesáis
+  uds: cesan
+preterito-perfecto-simple:
+  yo: cesé
+  tu: cesaste
+  vos: cesaste
+  ud: cesó
+  nosotros: cesamos
+  vosotros: cesasteis
+  uds: cesaron
+preterito-imperfecto:
+  yo: cesaba
+  tu: cesabas
+  vos: cesabas
+  ud: cesaba
+  nosotros: cesábamos
+  vosotros: cesabais
+  uds: cesaban
+futuro-simple:
+  yo: cesaré
+  tu: cesarás
+  vos: cesarás
+  ud: cesará
+  nosotros: cesaremos
+  vosotros: cesaréis
+  uds: cesarán
+condicional-simple:
+  yo: cesaría
+  tu: cesarías
+  vos: cesarías
+  ud: cesaría
+  nosotros: cesaríamos
+  vosotros: cesaríais
+  uds: cesarían
+presente-perfecto:
+  yo: he cesado
+  tu: has cesado
+  vos: has cesado
+  ud: ha cesado
+  nosotros: hemos cesado
+  vosotros: habéis cesado
+  uds: han cesado
+preterito-pluscuamperfecto:
+  yo: había cesado
+  tu: habías cesado
+  vos: habías cesado
+  ud: había cesado
+  nosotros: habíamos cesado
+  vosotros: habíais cesado
+  uds: habían cesado
+futuro-perfecto:
+  yo: habré cesado
+  tu: habrás cesado
+  vos: habrás cesado
+  ud: habrá cesado
+  nosotros: habremos cesado
+  vosotros: habréis cesado
+  uds: habrán cesado
+condicional-perfecto:
+  yo: habría cesado
+  tu: habrías cesado
+  vos: habrías cesado
+  ud: habría cesado
+  nosotros: habríamos cesado
+  vosotros: habríais cesado
+  uds: habrían cesado
+presente-subjuntivo:
+  yo: cese
+  tu: ceses
+  vos: ceses
+  ud: cese
+  nosotros: cesemos
+  vosotros: ceséis
+  uds: cesen
+preterito-perfecto-subjuntivo:
+  yo: haya cesado
+  tu: hayas cesado
+  vos: hayas cesado
+  ud: haya cesado
+  nosotros: hayamos cesado
+  vosotros: hayáis cesado
+  uds: hayan cesado
+imperfecto-subjuntivo:
+  yo:
+    - cesara
+    - cesase
+  tu:
+    - cesaras
+    - cesases
+  vos:
+    - cesaras
+    - cesases
+  ud:
+    - cesara
+    - cesase
+  nosotros:
+    - cesáramos
+    - cesásemos
+  vosotros:
+    - cesarais
+    - cesaseis
+  uds:
+    - cesaran
+    - cesasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cesado
+    - hubiese cesado
+  tu:
+    - hubieras cesado
+    - hubieses cesado
+  vos:
+    - hubieras cesado
+    - hubieses cesado
+  ud:
+    - hubiera cesado
+    - hubiese cesado
+  nosotros:
+    - hubiéramos cesado
+    - hubiésemos cesado
+  vosotros:
+    - hubierais cesado
+    - hubieseis cesado
+  uds:
+    - hubieran cesado
+    - hubiesen cesado
+imperativo:
+  tu: cesa
+  vos: cese
+  ud: cese
+  nosotros: cesemos
+  vosotros: cesad
+  uds: cesen

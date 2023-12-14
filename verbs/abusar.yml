@@ -1,0 +1,142 @@
+infinitivo: abusar
+gerundio: abusando
+participio-pasado: abusado
+presente-indicativo:
+  yo: abuso
+  tu: abusas
+  vos: abusas
+  ud: abusa
+  nosotros: abusamos
+  vosotros: abusáis
+  uds: abusan
+preterito-perfecto-simple:
+  yo: abusé
+  tu: abusaste
+  vos: abusaste
+  ud: abusó
+  nosotros: abusamos
+  vosotros: abusasteis
+  uds: abusaron
+preterito-imperfecto:
+  yo: abusaba
+  tu: abusabas
+  vos: abusabas
+  ud: abusaba
+  nosotros: abusábamos
+  vosotros: abusabais
+  uds: abusaban
+futuro-simple:
+  yo: abusaré
+  tu: abusarás
+  vos: abusarás
+  ud: abusará
+  nosotros: abusaremos
+  vosotros: abusaréis
+  uds: abusarán
+condicional-simple:
+  yo: abusaría
+  tu: abusarías
+  vos: abusarías
+  ud: abusaría
+  nosotros: abusaríamos
+  vosotros: abusaríais
+  uds: abusarían
+presente-perfecto:
+  yo: he abusado
+  tu: has abusado
+  vos: has abusado
+  ud: ha abusado
+  nosotros: hemos abusado
+  vosotros: habéis abusado
+  uds: han abusado
+preterito-pluscuamperfecto:
+  yo: había abusado
+  tu: habías abusado
+  vos: habías abusado
+  ud: había abusado
+  nosotros: habíamos abusado
+  vosotros: habíais abusado
+  uds: habían abusado
+futuro-perfecto:
+  yo: habré abusado
+  tu: habrás abusado
+  vos: habrás abusado
+  ud: habrá abusado
+  nosotros: habremos abusado
+  vosotros: habréis abusado
+  uds: habrán abusado
+condicional-perfecto:
+  yo: habría abusado
+  tu: habrías abusado
+  vos: habrías abusado
+  ud: habría abusado
+  nosotros: habríamos abusado
+  vosotros: habríais abusado
+  uds: habrían abusado
+presente-subjuntivo:
+  yo: abuse
+  tu: abuses
+  vos: abuses
+  ud: abuse
+  nosotros: abusemos
+  vosotros: abuséis
+  uds: abusen
+preterito-perfecto-subjuntivo:
+  yo: haya abusado
+  tu: hayas abusado
+  vos: hayas abusado
+  ud: haya abusado
+  nosotros: hayamos abusado
+  vosotros: hayáis abusado
+  uds: hayan abusado
+imperfecto-subjuntivo:
+  yo:
+    - abusara
+    - abusase
+  tu:
+    - abusaras
+    - abusases
+  vos:
+    - abusaras
+    - abusases
+  ud:
+    - abusara
+    - abusase
+  nosotros:
+    - abusáramos
+    - abusásemos
+  vosotros:
+    - abusarais
+    - abusaseis
+  uds:
+    - abusaran
+    - abusasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera abusado
+    - hubiese abusado
+  tu:
+    - hubieras abusado
+    - hubieses abusado
+  vos:
+    - hubieras abusado
+    - hubieses abusado
+  ud:
+    - hubiera abusado
+    - hubiese abusado
+  nosotros:
+    - hubiéramos abusado
+    - hubiésemos abusado
+  vosotros:
+    - hubierais abusado
+    - hubieseis abusado
+  uds:
+    - hubieran abusado
+    - hubiesen abusado
+imperativo:
+  tu: abusa
+  vos: abusá
+  ud: abuse
+  nosotros: abusemos
+  vosotros: abusad
+  uds: abusen

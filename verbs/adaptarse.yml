@@ -1,0 +1,142 @@
+infinitivo: adaptarse
+gerundio: adaptándose
+participio-pasado: adaptado
+presente-indicativo:
+  yo: me adapto
+  tu: te adaptas
+  vos: te adaptás
+  ud: se adapta
+  nosotros: nos adaptamos
+  vosotros: os adaptáis
+  uds: se adaptan
+preterito-perfecto-simple:
+  yo: me adapté
+  tu: te adaptaste
+  vos: te adaptaste
+  ud: se adaptó
+  nosotros: nos adaptamos
+  vosotros: os adaptasteis
+  uds: se adaptaron
+preterito-imperfecto:
+  yo: me adaptaba
+  tu: te adaptabas
+  vos: te adaptabas
+  ud: se adaptaba
+  nosotros: nos adaptábamos
+  vosotros: os adaptabais
+  uds: se adaptaban
+futuro-simple:
+  yo: me adaptaré
+  tu: te adaptarás
+  vos: te adaptarás
+  ud: se adaptará
+  nosotros: nos adaptaremos
+  vosotros: os adaptaréis
+  uds: se adaptarán
+condicional-simple:
+  yo: me adaptaría
+  tu: te adaptarías
+  vos: te adaptarías
+  ud: se adaptaría
+  nosotros: nos adaptaríamos
+  vosotros: os adaptaríais
+  uds: se adaptarían
+presente-perfecto:
+  yo: me he adaptado
+  tu: te has adaptado
+  vos: te has adaptado
+  ud: se ha adaptado
+  nosotros: nos hemos adaptado
+  vosotros: os habéis adaptado
+  uds: se han adaptado
+preterito-pluscuamperfecto:
+  yo: me había adaptado
+  tu: te habías adaptado
+  vos: te habías adaptado
+  ud: se había adaptado
+  nosotros: nos habíamos adaptado
+  vosotros: os habíais adaptado
+  uds: se habían adaptado
+futuro-perfecto:
+  yo: me habré adaptado
+  tu: te habrás adaptado
+  vos: te habrás adaptado
+  ud: se habrá adaptado
+  nosotros: nos habremos adaptado
+  vosotros: os habréis adaptado
+  uds: se habrán adaptado
+condicional-perfecto:
+  yo: me habría adaptado
+  tu: te habrías adaptado
+  vos: te habrías adaptado
+  ud: se habría adaptado
+  nosotros: nos habríamos adaptado
+  vosotros: os habríais adaptado
+  uds: se habrían adaptado
+presente-subjuntivo:
+  yo: me adapte
+  tu: te adaptes
+  vos: te adaptes
+  ud: se adapte
+  nosotros: nos adaptemos
+  vosotros: os adaptéis
+  uds: se adapten
+preterito-perfecto-subjuntivo:
+  yo: me haya adaptado
+  tu: te hayas adaptado
+  vos: te hayas adaptado
+  ud: se haya adaptado
+  nosotros: nos hayamos adaptado
+  vosotros: os hayáis adaptado
+  uds: se hayan adaptado
+imperfecto-subjuntivo:
+  yo:
+    - me adaptara
+    - me adaptase
+  tu:
+    - adaptaras
+    - adaptases
+  vos:
+    - adaptaras
+    - adaptases
+  ud:
+    - adaptara
+    - adaptase
+  nosotros:
+    - adaptáramos
+    - adaptásemos
+  vosotros:
+    - adaptarais
+    - adaptaseis
+  uds:
+    - adaptaran
+    - adaptasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera adaptado
+    - me hubiese adaptado
+  tu:
+    - hubieras adaptado
+    - hubieses adaptado
+  vos:
+    - hubieras adaptado
+    - hubieses adaptado
+  ud:
+    - hubiera adaptado
+    - hubiese adaptado
+  nosotros:
+    - hubiéramos adaptado
+    - hubiésemos adaptado
+  vosotros:
+    - hubierais adaptado
+    - hubieseis adaptado
+  uds:
+    - hubieran adaptado
+    - hubiesen adaptado
+imperativo:
+  tu: adáptate
+  vos: adaptate
+  ud: adáptese
+  nosotros: adaptémonos
+  vosotros: adaptaos
+  uds: adáptense

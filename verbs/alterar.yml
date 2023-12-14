@@ -1,0 +1,142 @@
+infinitivo: alterar
+gerundio: alterando
+participio-pasado: alterado
+presente-indicativo:
+  yo: altero
+  tu: alteras
+  vos: alteras
+  ud: altera
+  nosotros: alteramos
+  vosotros: alteráis
+  uds: alteran
+preterito-perfecto-simple:
+  yo: alteré
+  tu: alteraste
+  vos: alteraste
+  ud: alteró
+  nosotros: alteramos
+  vosotros: alterasteis
+  uds: alteraron
+preterito-imperfecto:
+  yo: alteraba
+  tu: alterabas
+  vos: alterabas
+  ud: alteraba
+  nosotros: alterábamos
+  vosotros: alterabais
+  uds: alteraban
+futuro-simple:
+  yo: alteraré
+  tu: alterarás
+  vos: alterarás
+  ud: alterará
+  nosotros: alteraremos
+  vosotros: alteraréis
+  uds: alterarán
+condicional-simple:
+  yo: alteraría
+  tu: alterarías
+  vos: alterarías
+  ud: alteraría
+  nosotros: alteraríamos
+  vosotros: alteraríais
+  uds: alterarían
+presente-perfecto:
+  yo: he alterado
+  tu: has alterado
+  vos: has alterado
+  ud: ha alterado
+  nosotros: hemos alterado
+  vosotros: habéis alterado
+  uds: han alterado
+preterito-pluscuamperfecto:
+  yo: había alterado
+  tu: habías alterado
+  vos: habías alterado
+  ud: había alterado
+  nosotros: habíamos alterado
+  vosotros: habíais alterado
+  uds: habían alterado
+futuro-perfecto:
+  yo: habré alterado
+  tu: habrás alterado
+  vos: habrás alterado
+  ud: habrá alterado
+  nosotros: habremos alterado
+  vosotros: habréis alterado
+  uds: habrán alterado
+condicional-perfecto:
+  yo: habría alterado
+  tu: habrías alterado
+  vos: habrías alterado
+  ud: habría alterado
+  nosotros: habríamos alterado
+  vosotros: habríais alterado
+  uds: habrían alterado
+presente-subjuntivo:
+  yo: altere
+  tu: alteres
+  vos: alteres
+  ud: altere
+  nosotros: alteremos
+  vosotros: alteréis
+  uds: alteren
+preterito-perfecto-subjuntivo:
+  yo: haya alterado
+  tu: hayas alterado
+  vos: hayas alterado
+  ud: haya alterado
+  nosotros: hayamos alterado
+  vosotros: hayáis alterado
+  uds: hayan alterado
+imperfecto-subjuntivo:
+  yo:
+    - alterara
+    - alterase
+  tu:
+    - alteraras
+    - alterases
+  vos:
+    - alteraras
+    - alterases
+  ud:
+    - alterara
+    - alterase
+  nosotros:
+    - alteráramos
+    - alterásemos
+  vosotros:
+    - alterarais
+    - alteraseis
+  uds:
+    - alteraran
+    - alterasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alterado
+    - hubiese alterado
+  tu:
+    - hubieras alterado
+    - hubieses alterado
+  vos:
+    - hubieras alterado
+    - hubieses alterado
+  ud:
+    - hubiera alterado
+    - hubiese alterado
+  nosotros:
+    - hubiéramos alterado
+    - hubiésemos alterado
+  vosotros:
+    - hubierais alterado
+    - hubieseis alterado
+  uds:
+    - hubieran alterado
+    - hubiesen alterado
+imperativo:
+  tu: altera
+  vos: alterá
+  ud: altere
+  nosotros: alteremos
+  vosotros: alterad
+  uds: alteren

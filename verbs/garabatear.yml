@@ -1,0 +1,142 @@
+infinitivo: garabatear
+gerundio: garabateando
+participio-pasado: garabateado
+presente-indicativo:
+  yo: garabateo
+  tu: garabateas
+  vos: garabateas
+  ud: garabatea
+  nosotros: garabateamos
+  vosotros: garabateáis
+  uds: garabatean
+preterito-perfecto-simple:
+  yo: garabateé
+  tu: garabateaste
+  vos: garabateaste
+  ud: garabateó
+  nosotros: garabateamos
+  vosotros: garabateasteis
+  uds: garabatearon
+preterito-imperfecto:
+  yo: garabateaba
+  tu: garabateabas
+  vos: garabateabas
+  ud: garabateaba
+  nosotros: garabateábamos
+  vosotros: garabateabais
+  uds: garabateaban
+futuro-simple:
+  yo: garabatearé
+  tu: garabatearás
+  vos: garabatearás
+  ud: garabateará
+  nosotros: garabatearemos
+  vosotros: garabatearéis
+  uds: garabatearán
+condicional-simple:
+  yo: garabatearía
+  tu: garabatearías
+  vos: garabatearías
+  ud: garabatearía
+  nosotros: garabatearíamos
+  vosotros: garabatearíais
+  uds: garabatearían
+presente-perfecto:
+  yo: he garabateado
+  tu: has garabateado
+  vos: has garabateado
+  ud: ha garabateado
+  nosotros: hemos garabateado
+  vosotros: habéis garabateado
+  uds: han garabateado
+preterito-pluscuamperfecto:
+  yo: había garabateado
+  tu: habías garabateado
+  vos: habías garabateado
+  ud: había garabateado
+  nosotros: habíamos garabateado
+  vosotros: habíais garabateado
+  uds: habían garabateado
+futuro-perfecto:
+  yo: habré garabateado
+  tu: habrás garabateado
+  vos: habrás garabateado
+  ud: habrá garabateado
+  nosotros: habremos garabateado
+  vosotros: habréis garabateado
+  uds: habrán garabateado
+condicional-perfecto:
+  yo: habría garabateado
+  tu: habrías garabateado
+  vos: habrías garabateado
+  ud: habría garabateado
+  nosotros: habríamos garabateado
+  vosotros: habríais garabateado
+  uds: habrían garabateado
+presente-subjuntivo:
+  yo: garabatee
+  tu: garabatees
+  vos: garabatees
+  ud: garabatee
+  nosotros: garabateemos
+  vosotros: garabateéis
+  uds: garabateen
+preterito-perfecto-subjuntivo:
+  yo: haya garabateado
+  tu: hayas garabateado
+  vos: hayas garabateado
+  ud: haya garabateado
+  nosotros: hayamos garabateado
+  vosotros: hayáis garabateado
+  uds: hayan garabateado
+imperfecto-subjuntivo:
+  yo:
+    - garabateara
+    - garabatease
+  tu:
+    - garabatearas
+    - garabateases
+  vos:
+    - garabatearas
+    - garabateases
+  ud:
+    - garabateara
+    - garabatease
+  nosotros:
+    - garabateáramos
+    - garabateásemos
+  vosotros:
+    - garabatearais
+    - garabateaseis
+  uds:
+    - garabatearan
+    - garabateasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera garabateado
+    - hubiese garabateado
+  tu:
+    - hubieras garabateado
+    - hubieses garabateado
+  vos:
+    - hubieras garabateado
+    - hubieses garabateado
+  ud:
+    - hubiera garabateado
+    - hubiese garabateado
+  nosotros:
+    - hubiéramos garabateado
+    - hubiésemos garabateado
+  vosotros:
+    - hubierais garabateado
+    - hubieseis garabateado
+  uds:
+    - hubieran garabateado
+    - hubiesen garabateado
+imperativo:
+  tu: garabatea
+  vos: garabateá
+  ud: garabatee
+  nosotros: garabateemos
+  vosotros: garabatead
+  uds: garabateen

@@ -1,0 +1,142 @@
+infinitivo: llamarse
+gerundio: llamándose
+participio-pasado: llamado
+presente-indicativo:
+  yo: me llamo
+  tu: te llamas
+  vos: te llamas
+  ud: se llama
+  nosotros: nos llamamos
+  vosotros: os llamáis
+  uds: se llaman
+preterito-perfecto-simple:
+  yo: me llamé
+  tu: te llamaste
+  vos: te llamaste
+  ud: se llamó
+  nosotros: nos llamamos
+  vosotros: os llamasteis
+  uds: se llamaron
+preterito-imperfecto:
+  yo: me llamaba
+  tu: te llamabas
+  vos: te llamabas
+  ud: se llamaba
+  nosotros: nos llamábamos
+  vosotros: os llamabais
+  uds: se llamaban
+futuro-simple:
+  yo: me llamaré
+  tu: te llamarás
+  vos: te llamarás
+  ud: se llamará
+  nosotros: nos llamaremos
+  vosotros: os llamaréis
+  uds: se llamarán
+condicional-simple:
+  yo: me llamaría
+  tu: te llamarías
+  vos: te llamarías
+  ud: se llamaría
+  nosotros: nos llamaríamos
+  vosotros: os llamaríais
+  uds: se llamarían
+presente-perfecto:
+  yo: me he llamado
+  tu: te has llamado
+  vos: te has llamado
+  ud: se ha llamado
+  nosotros: nos hemos llamado
+  vosotros: os habéis llamado
+  uds: se han llamado
+preterito-pluscuamperfecto:
+  yo: me había llamado
+  tu: te habías llamado
+  vos: te habías llamado
+  ud: se había llamado
+  nosotros: nos habíamos llamado
+  vosotros: os habíais llamado
+  uds: se habían llamado
+futuro-perfecto:
+  yo: me habré llamado
+  tu: te habrás llamado
+  vos: te habrás llamado
+  ud: se habrá llamado
+  nosotros: nos habremos llamado
+  vosotros: os habréis llamado
+  uds: se habrán llamado
+condicional-perfecto:
+  yo: me habría llamado
+  tu: te habrías llamado
+  vos: te habrías llamado
+  ud: se habría llamado
+  nosotros: nos habríamos llamado
+  vosotros: os habríais llamado
+  uds: se habrían llamado
+presente-subjuntivo:
+  yo: me llame
+  tu: te llames
+  vos: te llames
+  ud: se llame
+  nosotros: nos llamemos
+  vosotros: os llaméis
+  uds: se llamen
+preterito-perfecto-subjuntivo:
+  yo: me haya llamado
+  tu: te hayas llamado
+  vos: te hayas llamado
+  ud: se haya llamado
+  nosotros: nos hayamos llamado
+  vosotros: os hayáis llamado
+  uds: se hayan llamado
+imperfecto-subjuntivo:
+  yo:
+    - me llamara
+    - me llamase
+  tu:
+    - te llamaras
+    - te llamases
+  vos:
+    - te llamaras
+    - te llamases
+  ud:
+    - se llamara
+    - se llamase
+  nosotros:
+    - nos llamáramos
+    - nos llamásemos
+  vosotros:
+    - os llamarais
+    - os llamarais
+  uds:
+    - se llamaran
+    - se llamasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera llamado
+    - me hubiese llamado
+  tu:
+    - te hubieras llamado
+    - te hubieses llamado
+  vos:
+    - te hubieras llamado
+    - te hubieses llamado
+  ud:
+    - se hubiera llamado
+    - se hubiese llamado
+  nosotros:
+    - nos hubiéramos llamado
+    - nos hubiésemos llamado
+  vosotros:
+    - os hubierais llamado
+    - os hubieseis llamado
+  uds:
+    - se hubieran llamado
+    - se hubiesen llamado
+imperativo:
+  tu: llámame
+  vos: llámame
+  ud: llámese
+  nosotros: llamémonos
+  vosotros: llamáos
+  uds: llámense

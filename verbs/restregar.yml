@@ -1,0 +1,142 @@
+infinitivo: restregar
+gerundio: restregando
+participio-pasado: restregado
+presente-indicativo:
+  yo: restriego
+  tu: restriegas
+  vos: restregás
+  ud: restriega
+  nosotros: restregamos
+  vosotros: restregáis
+  uds: restriegan
+preterito-perfecto-simple:
+  yo: restregué
+  tu: restregaste
+  vos: restregaste
+  ud: restregó
+  nosotros: restregamos
+  vosotros: restregasteis
+  uds: restregaron
+preterito-imperfecto:
+  yo: restregaba
+  tu: restregabas
+  vos: restregabas
+  ud: restregaba
+  nosotros: restregábamos
+  vosotros: restregabais
+  uds: restregaban
+futuro-simple:
+  yo: restregaré
+  tu: restregarás
+  vos: restregarás
+  ud: restregará
+  nosotros: restregaremos
+  vosotros: restregaréis
+  uds: restregarán
+condicional-simple:
+  yo: restregaría
+  tu: restregarías
+  vos: restregarías
+  ud: restregaría
+  nosotros: restregaríamos
+  vosotros: restregaríais
+  uds: restregarían
+presente-perfecto:
+  yo: he restregado
+  tu: has restregado
+  vos: has restregado
+  ud: ha restregado
+  nosotros: hemos restregado
+  vosotros: habéis restregado
+  uds: han restregado
+preterito-pluscuamperfecto:
+  yo: había restregado
+  tu: habías restregado
+  vos: habías restregado
+  ud: había restregado
+  nosotros: habíamos restregado
+  vosotros: habíais restregado
+  uds: habían restregado
+futuro-perfecto:
+  yo: habré restregado
+  tu: habrás restregado
+  vos: habrás restregado
+  ud: habrá restregado
+  nosotros: habremos restregado
+  vosotros: habréis restregado
+  uds: habrán restregado
+condicional-perfecto:
+  yo: habría restregado
+  tu: habrías restregado
+  vos: habrías restregado
+  ud: habría restregado
+  nosotros: habríamos restregado
+  vosotros: habríais restregado
+  uds: habrían restregado
+presente-subjuntivo:
+  yo: restriegue
+  tu: restriegues
+  vos: restriegues
+  ud: restriegue
+  nosotros: restreguemos
+  vosotros: restreguéis
+  uds: restrieguen
+preterito-perfecto-subjuntivo:
+  yo: haya restregado
+  tu: hayas restregado
+  vos: hayas restregado
+  ud: haya restregado
+  nosotros: hayamos restregado
+  vosotros: hayáis restregado
+  uds: hayan restregado
+imperfecto-subjuntivo:
+  yo:
+    - restregara
+    - restregase
+  tu:
+    - restregaras
+    - restregases
+  vos:
+    - restregaras
+    - restregases
+  ud:
+    - restregara
+    - restregase
+  nosotros:
+    - restregáramos
+    - restregásemos
+  vosotros:
+    - restregarais
+    - restregaseis
+  uds:
+    - restregaran
+    - restregasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera restregado
+    - hubiese restregado
+  tu:
+    - hubieras restregado
+    - hubieses restregado
+  vos:
+    - hubieras restregado
+    - hubieses restregado
+  ud:
+    - hubiera restregado
+    - hubiese restregado
+  nosotros:
+    - hubiéramos restregado
+    - hubiésemos restregado
+  vosotros:
+    - hubierais restregado
+    - hubieseis restregado
+  uds:
+    - hubieran restregado
+    - hubiesen restregado
+imperativo:
+  tu: restriega
+  vos: restregá
+  ud: restriegue
+  nosotros: restreguemos
+  vosotros: restregad
+  uds: restrieguen

@@ -1,0 +1,142 @@
+infinitivo: afrontar
+gerundio: afrontando
+participio-pasado: afrontado
+presente-indicativo:
+  yo: afronto
+  tu: afrontas
+  vos: afrontas
+  ud: afronta
+  nosotros: afrontamos
+  vosotros: afrontáis
+  uds: afrontan
+preterito-perfecto-simple:
+  yo: afronté
+  tu: afrontaste
+  vos: afrontaste
+  ud: afrontó
+  nosotros: afrontamos
+  vosotros: afrontasteis
+  uds: afrontaron
+preterito-imperfecto:
+  yo: afrontaba
+  tu: afrontabas
+  vos: afrontabas
+  ud: afrontaba
+  nosotros: afrontábamos
+  vosotros: afrontabais
+  uds: afrontaban
+futuro-simple:
+  yo: afrontaré
+  tu: afrontarás
+  vos: afrontarás
+  ud: afrontará
+  nosotros: afrontaremos
+  vosotros: afrontaréis
+  uds: afrontarán
+condicional-simple:
+  yo: afrontaría
+  tu: afrontarías
+  vos: afrontarías
+  ud: afrontaría
+  nosotros: afrontaríamos
+  vosotros: afrontaríais
+  uds: afrontarían
+presente-perfecto:
+  yo: he afrontado
+  tu: has afrontado
+  vos: has afrontado
+  ud: ha afrontado
+  nosotros: hemos afrontado
+  vosotros: habéis afrontado
+  uds: han afrontado
+preterito-pluscuamperfecto:
+  yo: había afrontado
+  tu: habías afrontado
+  vos: habías afrontado
+  ud: había afrontado
+  nosotros: habíamos afrontado
+  vosotros: habíais afrontado
+  uds: habían afrontado
+futuro-perfecto:
+  yo: habré afrontado
+  tu: habrás afrontado
+  vos: habrás afrontado
+  ud: habrá afrontado
+  nosotros: habremos afrontado
+  vosotros: habréis afrontado
+  uds: habrán afrontado
+condicional-perfecto:
+  yo: habría afrontado
+  tu: habrías afrontado
+  vos: habrías afrontado
+  ud: habría afrontado
+  nosotros: habríamos afrontado
+  vosotros: habríais afrontado
+  uds: habrían afrontado
+presente-subjuntivo:
+  yo: afronte
+  tu: afrontes
+  vos: afrontes
+  ud: afronte
+  nosotros: afrontemos
+  vosotros: afrontéis
+  uds: afronten
+preterito-perfecto-subjuntivo:
+  yo: haya afrontado
+  tu: hayas afrontado
+  vos: hayas afrontado
+  ud: haya afrontado
+  nosotros: hayamos afrontado
+  vosotros: hayáis afrontado
+  uds: hayan afrontado
+imperfecto-subjuntivo:
+  yo:
+    - afrontara
+    - afrontase
+  tu:
+    - afrontaras
+    - afrontases
+  vos:
+    - afrontaras
+    - afrontases
+  ud:
+    - afrontara
+    - afrontase
+  nosotros:
+    - afrontáramos
+    - afrontásemos
+  vosotros:
+    - afrontarais
+    - afrontaseis
+  uds:
+    - afrontaran
+    - afrontasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera afrontado
+    - hubiese afrontado
+  tu:
+    - hubieras afrontado
+    - hubieses afrontado
+  vos:
+    - hubieras afrontado
+    - hubieses afrontado
+  ud:
+    - hubiera afrontado
+    - hubiese afrontado
+  nosotros:
+    - hubiéramos afrontado
+    - hubiésemos afrontado
+  vosotros:
+    - hubierais afrontado
+    - hubieseis afrontado
+  uds:
+    - hubieran afrontado
+    - hubiesen afrontado
+imperativo:
+  tu: afronta
+  vos: afrontá
+  ud: afronte
+  nosotros: afrontemos
+  vosotros: afrontad
+  uds: afronten

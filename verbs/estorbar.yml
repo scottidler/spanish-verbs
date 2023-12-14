@@ -1,0 +1,142 @@
+infinitivo: estorbar
+gerundio: estorbando
+participio-pasado: estorbado
+presente-indicativo:
+  yo: estorbo
+  tu: estorbas
+  vos: estorbas
+  ud: estorba
+  nosotros: estorbamos
+  vosotros: estorbáis
+  uds: estorban
+preterito-perfecto-simple:
+  yo: estorbé
+  tu: estorbaste
+  vos: estorbaste
+  ud: estorbó
+  nosotros: estorbamos
+  vosotros: estorbasteis
+  uds: estorbaron
+preterito-imperfecto:
+  yo: estorbaba
+  tu: estorbabas
+  vos: estorbabas
+  ud: estorbaba
+  nosotros: estorbábamos
+  vosotros: estorbabais
+  uds: estorbaban
+futuro-simple:
+  yo: estorbaré
+  tu: estorbarás
+  vos: estorbarás
+  ud: estorbará
+  nosotros: estorbaremos
+  vosotros: estorbaréis
+  uds: estorbarán
+condicional-simple:
+  yo: estorbaría
+  tu: estorbarías
+  vos: estorbarías
+  ud: estorbaría
+  nosotros: estorbaríamos
+  vosotros: estorbaríais
+  uds: estorbarían
+presente-perfecto:
+  yo: he estorbado
+  tu: has estorbado
+  vos: has estorbado
+  ud: ha estorbado
+  nosotros: hemos estorbado
+  vosotros: habéis estorbado
+  uds: han estorbado
+preterito-pluscuamperfecto:
+  yo: había estorbado
+  tu: habías estorbado
+  vos: habías estorbado
+  ud: había estorbado
+  nosotros: habíamos estorbado
+  vosotros: habíais estorbado
+  uds: habían estorbado
+futuro-perfecto:
+  yo: habré estorbado
+  tu: habrás estorbado
+  vos: habrás estorbado
+  ud: habrá estorbado
+  nosotros: habremos estorbado
+  vosotros: habréis estorbado
+  uds: habrán estorbado
+condicional-perfecto:
+  yo: habría estorbado
+  tu: habrías estorbado
+  vos: habrías estorbado
+  ud: habría estorbado
+  nosotros: habríamos estorbado
+  vosotros: habríais estorbado
+  uds: habrían estorbado
+presente-subjuntivo:
+  yo: estorbe
+  tu: estorbes
+  vos: estorbes
+  ud: estorbe
+  nosotros: estorbemos
+  vosotros: estorbéis
+  uds: estorben
+preterito-perfecto-subjuntivo:
+  yo: haya estorbado
+  tu: hayas estorbado
+  vos: hayas estorbado
+  ud: haya estorbado
+  nosotros: hayamos estorbado
+  vosotros: hayáis estorbado
+  uds: hayan estorbado
+imperfecto-subjuntivo:
+  yo:
+    - estorbara
+    - estorbare
+  tu:
+    - estorbaras
+    - estorbares
+  vos:
+    - estorbaras
+    - estorbares
+  ud:
+    - estorbara
+    - estorbare
+  nosotros:
+    - estorbáramos
+    - estorbásemos
+  vosotros:
+    - estorbarais
+    - estorbaseis
+  uds:
+    - estorbaran
+    - estorbasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estorbado
+    - hubiese estorbado
+  tu:
+    - hubieras estorbado
+    - hubieses estorbado
+  vos:
+    - hubieras estorbado
+    - hubieses estorbado
+  ud:
+    - hubiera estorbado
+    - hubiese estorbado
+  nosotros:
+    - hubiéramos estorbado
+    - hubiésemos estorbado
+  vosotros:
+    - hubierais estorbado
+    - hubieseis estorbado
+  uds:
+    - hubieran estorbado
+    - hubiesen estorbado
+imperativo:
+  tu: estorba
+  vos: estorbá
+  ud: estorbe
+  nosotros: estorbemos
+  vosotros: estorbad
+  uds: estorben

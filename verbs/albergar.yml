@@ -1,0 +1,142 @@
+infinitivo: albergar
+gerundio: albergando
+participio-pasado: albergado
+presente-indicativo:
+  yo: albergo
+  tu: albergas
+  vos: albergas
+  ud: alberga
+  nosotros: albergamos
+  vosotros: albergáis
+  uds: albergan
+preterito-perfecto-simple:
+  yo: albergué
+  tu: albergaste
+  vos: albergaste
+  ud: albergó
+  nosotros: albergamos
+  vosotros: albergasteis
+  uds: albergaron
+preterito-imperfecto:
+  yo: albergaba
+  tu: albergabas
+  vos: albergabas
+  ud: albergaba
+  nosotros: albergábamos
+  vosotros: albergabais
+  uds: albergaban
+futuro-simple:
+  yo: albergaré
+  tu: albergarás
+  vos: albergarás
+  ud: albergará
+  nosotros: albergaremos
+  vosotros: albergaréis
+  uds: albergarán
+condicional-simple:
+  yo: albergaría
+  tu: albergarías
+  vos: albergarías
+  ud: albergaría
+  nosotros: albergaríamos
+  vosotros: albergaríais
+  uds: albergarían
+presente-perfecto:
+  yo: he albergado
+  tu: has albergado
+  vos: has albergado
+  ud: ha albergado
+  nosotros: hemos albergado
+  vosotros: habéis albergado
+  uds: han albergado
+preterito-pluscuamperfecto:
+  yo: había albergado
+  tu: habías albergado
+  vos: habías albergado
+  ud: había albergado
+  nosotros: habíamos albergado
+  vosotros: habíais albergado
+  uds: habían albergado
+futuro-perfecto:
+  yo: habré albergado
+  tu: habrás albergado
+  vos: habrás albergado
+  ud: habrá albergado
+  nosotros: habremos albergado
+  vosotros: habréis albergado
+  uds: habrán albergado
+condicional-perfecto:
+  yo: habría albergado
+  tu: habrías albergado
+  vos: habrías albergado
+  ud: habría albergado
+  nosotros: habríamos albergado
+  vosotros: habríais albergado
+  uds: habrían albergado
+presente-subjuntivo:
+  yo: albergue
+  tu: albergues
+  vos: albergues
+  ud: albergue
+  nosotros: alberguemos
+  vosotros: alberguéis
+  uds: alberguen
+preterito-perfecto-subjuntivo:
+  yo: haya albergado
+  tu: hayas albergado
+  vos: hayas albergado
+  ud: haya albergado
+  nosotros: hayamos albergado
+  vosotros: hayáis albergado
+  uds: hayan albergado
+imperfecto-subjuntivo:
+  yo:
+    - albergara
+    - albergase
+  tu:
+    - albergaras
+    - albergases
+  vos:
+    - albergaras
+    - albergases
+  ud:
+    - albergara
+    - albergase
+  nosotros:
+    - albergáramos
+    - albergásemos
+  vosotros:
+    - albergarais
+    - albergaseis
+  uds:
+    - albergaran
+    - albergasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera albergado
+    - hubiese albergado
+  tu:
+    - hubieras albergado
+    - hubieses albergado
+  vos:
+    - hubieras albergado
+    - hubieses albergado
+  ud:
+    - hubiera albergado
+    - hubiese albergado
+  nosotros:
+    - hubiéramos albergado
+    - hubiésemos albergado
+  vosotros:
+    - hubierais albergado
+    - hubieseis albergado
+  uds:
+    - hubieran albergado
+    - hubiesen albergado
+imperativo:
+  tu: alberga
+  vos: albergá
+  ud: albergue
+  nosotros: alberguemos
+  vosotros: albergad
+  uds: alberguen

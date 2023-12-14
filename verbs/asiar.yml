@@ -1,0 +1,142 @@
+infinitivo: asiar
+gerundio: asiando
+participio-pasado: asiado
+presente-indicativo:
+  yo: asio
+  tu: asias
+  vos: asias
+  ud: asia
+  nosotros: asiamos
+  vosotros: asiais
+  uds: asian
+preterito-perfecto-simple:
+  yo: asie
+  tu: asiste
+  vos: asiste
+  ud: asio
+  nosotros: asiamos
+  vosotros: asisteis
+  uds: asiaron
+preterito-imperfecto:
+  yo: asiaba
+  tu: asiabas
+  vos: asiabas
+  ud: asiaba
+  nosotros: asiabamos
+  vosotros: asiabais
+  uds: asiaban
+futuro-simple:
+  yo: asiare
+  tu: asiares
+  vos: asiares
+  ud: asiare
+  nosotros: asiaremos
+  vosotros: asiareis
+  uds: asiaren
+condicional-simple:
+  yo: asiaria
+  tu: asiarias
+  vos: asiarias
+  ud: asiaria
+  nosotros: asiariamos
+  vosotros: asiariais
+  uds: asiarian
+presente-perfecto:
+  yo: he asiado
+  tu: has asiado
+  vos: has asiado
+  ud: ha asiado
+  nosotros: hemos asiado
+  vosotros: habeis asiado
+  uds: han asiado
+preterito-pluscuamperfecto:
+  yo: habia asiado
+  tu: habias asiado
+  vos: habias asiado
+  ud: habia asiado
+  nosotros: habiamos asiado
+  vosotros: habiais asiado
+  uds: habian asiado
+futuro-perfecto:
+  yo: habre asiado
+  tu: habras asiado
+  vos: habras asiado
+  ud: habra asiado
+  nosotros: habremos asiado
+  vosotros: habreis asiado
+  uds: habran asiado
+condicional-perfecto:
+  yo: habria asiado
+  tu: habrias asiado
+  vos: habrias asiado
+  ud: habria asiado
+  nosotros: habriamos asiado
+  vosotros: habriais asiado
+  uds: habrian asiado
+presente-subjuntivo:
+  yo: asie
+  tu: asies
+  vos: asies
+  ud: asie
+  nosotros: asiemos
+  vosotros: asieis
+  uds: asien
+preterito-perfecto-subjuntivo:
+  yo: haya asiado
+  tu: hayas asiado
+  vos: hayas asiado
+  ud: haya asiado
+  nosotros: hayamos asiado
+  vosotros: hayais asiado
+  uds: hayan asiado
+imperfecto-subjuntivo:
+  yo:
+    - asiara
+    - asiase
+  tu:
+    - asiaras
+    - asiasen
+  vos:
+    - asiaras
+    - asiasen
+  ud:
+    - asiara
+    - asiase
+  nosotros:
+    - asiaramos
+    - asiasemos
+  vosotros:
+    - asiarias
+    - asiaseis
+  uds:
+    - asiaran
+    - asiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asiado
+    - hubiese asiado
+  tu:
+    - hubieras asiado
+    - hubieses asiado
+  vos:
+    - hubieras asiado
+    - hubieses asiado
+  ud:
+    - hubiera asiado
+    - hubiese asiado
+  nosotros:
+    - hubieramos asiado
+    - hubiesemos asiado
+  vosotros:
+    - hubierais asiado
+    - hubieseis asiado
+  uds:
+    - hubieran asiado
+    - hubiesen asiado
+imperativo:
+  tu: asia
+  vos: asie
+  ud: asia
+  nosotros: asiemos
+  vosotros: asiaos
+  uds: asien

@@ -1,0 +1,142 @@
+infinitivo: recuperarse
+gerundio: recuperándose
+participio-pasado: recuperado
+presente-indicativo:
+  yo: me recupero
+  tu: te recuperas
+  vos: te recuperas
+  ud: se recupera
+  nosotros: nos recuperamos
+  vosotros: os recuperáis
+  uds: se recuperan
+preterito-perfecto-simple:
+  yo: me recuperé
+  tu: te recuperaste
+  vos: te recuperaste
+  ud: se recuperó
+  nosotros: nos recuperamos
+  vosotros: os recuperasteis
+  uds: se recuperaron
+preterito-imperfecto:
+  yo: me recuperaba
+  tu: te recuperabas
+  vos: te recuperabas
+  ud: se recuperaba
+  nosotros: nos recuperábamos
+  vosotros: os recuperabais
+  uds: se recuperaban
+futuro-simple:
+  yo: me recuperaré
+  tu: te recuperarás
+  vos: te recuperarás
+  ud: se recuperará
+  nosotros: nos recuperaremos
+  vosotros: os recuperaréis
+  uds: se recuperarán
+condicional-simple:
+  yo: me recuperaría
+  tu: te recuperarías
+  vos: te recuperarías
+  ud: se recuperaría
+  nosotros: nos recuperaríamos
+  vosotros: os recuperaríais
+  uds: se recuperarían
+presente-perfecto:
+  yo: me he recuperado
+  tu: te has recuperado
+  vos: te has recuperado
+  ud: se ha recuperado
+  nosotros: nos hemos recuperado
+  vosotros: os habéis recuperado
+  uds: se han recuperado
+preterito-pluscuamperfecto:
+  yo: me había recuperado
+  tu: te habías recuperado
+  vos: te habías recuperado
+  ud: se había recuperado
+  nosotros: nos habíamos recuperado
+  vosotros: os habíais recuperado
+  uds: se habían recuperado
+futuro-perfecto:
+  yo: me habré recuperado
+  tu: te habrás recuperado
+  vos: te habrás recuperado
+  ud: se habrá recuperado
+  nosotros: nos habremos recuperado
+  vosotros: os habréis recuperado
+  uds: se habrán recuperado
+condicional-perfecto:
+  yo: me habría recuperado
+  tu: te habrías recuperado
+  vos: te habrías recuperado
+  ud: se habría recuperado
+  nosotros: nos habríamos recuperado
+  vosotros: os habríais recuperado
+  uds: se habrían recuperado
+presente-subjuntivo:
+  yo: me recupere
+  tu: te recuperes
+  vos: te recuperes
+  ud: se recupere
+  nosotros: nos recuperemos
+  vosotros: os recuperéis
+  uds: se recuperen
+preterito-perfecto-subjuntivo:
+  yo: me haya recuperado
+  tu: te hayas recuperado
+  vos: te hayas recuperado
+  ud: se haya recuperado
+  nosotros: nos hayamos recuperado
+  vosotros: os hayáis recuperado
+  uds: se hayan recuperado
+imperfecto-subjuntivo:
+  yo:
+    - me recuperara
+    - me recuperase
+  tu:
+    - te recuperaras
+    - te recuperases
+  vos:
+    - te recuperaras
+    - te recuperases
+  ud:
+    - se recuperara
+    - se recuperase
+  nosotros:
+    - nos recuperáramos
+    - nos recuperásemos
+  vosotros:
+    - os recuperarais
+    - os recuperaseis
+  uds:
+    - se recuperaran
+    - se recuperasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera recuperado
+    - me hubiese recuperado
+  tu:
+    - te hubieras recuperado
+    - te hubieses recuperado
+  vos:
+    - te hubieras recuperado
+    - te hubieses recuperado
+  ud:
+    - se hubiera recuperado
+    - se hubiese recuperado
+  nosotros:
+    - nos hubiéramos recuperado
+    - nos hubiésemos recuperado
+  vosotros:
+    - os hubierais recuperado
+    - os hubieseis recuperado
+  uds:
+    - se hubieran recuperado
+    - se hubiesen recuperado
+imperativo:
+  tu: recupérate
+  vos: recupérate
+  ud: recupérese
+  nosotros: recuperémonos
+  vosotros: recuperaos
+  uds: recuperénse

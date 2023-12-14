@@ -1,0 +1,142 @@
+infinitivo: retrasar
+gerundio: retrasando
+participio-pasado: retrasado
+presente-indicativo:
+  yo: retraso
+  tu: retrasas
+  vos: retrasas
+  ud: retrasa
+  nosotros: retrasamos
+  vosotros: retrasáis
+  uds: retrasan
+preterito-perfecto-simple:
+  yo: retrasé
+  tu: retrasaste
+  vos: retrasaste
+  ud: retrasó
+  nosotros: retrasamos
+  vosotros: retrasasteis
+  uds: retrasaron
+preterito-imperfecto:
+  yo: retrasaba
+  tu: retrasabas
+  vos: retrasabas
+  ud: retrasaba
+  nosotros: retrasábamos
+  vosotros: retrasabais
+  uds: retrasaban
+futuro-simple:
+  yo: retrasaré
+  tu: retrasarás
+  vos: retrasarás
+  ud: retrasará
+  nosotros: retrasaremos
+  vosotros: retrasaréis
+  uds: retrasarán
+condicional-simple:
+  yo: retrasaría
+  tu: retrasarías
+  vos: retrasarías
+  ud: retrasaría
+  nosotros: retrasaríamos
+  vosotros: retrasaríais
+  uds: retrasarían
+presente-perfecto:
+  yo: he retrasado
+  tu: has retrasado
+  vos: has retrasado
+  ud: ha retrasado
+  nosotros: hemos retrasado
+  vosotros: habéis retrasado
+  uds: han retrasado
+preterito-pluscuamperfecto:
+  yo: había retrasado
+  tu: habías retrasado
+  vos: habías retrasado
+  ud: había retrasado
+  nosotros: habíamos retrasado
+  vosotros: habíais retrasado
+  uds: habían retrasado
+futuro-perfecto:
+  yo: habré retrasado
+  tu: habrás retrasado
+  vos: habrás retrasado
+  ud: habrá retrasado
+  nosotros: habremos retrasado
+  vosotros: habréis retrasado
+  uds: habrán retrasado
+condicional-perfecto:
+  yo: habría retrasado
+  tu: habrías retrasado
+  vos: habrías retrasado
+  ud: habría retrasado
+  nosotros: habríamos retrasado
+  vosotros: habríais retrasado
+  uds: habrían retrasado
+presente-subjuntivo:
+  yo: retrase
+  tu: retrases
+  vos: retrases
+  ud: retrase
+  nosotros: retrasemos
+  vosotros: retraséis
+  uds: retrasen
+preterito-perfecto-subjuntivo:
+  yo: haya retrasado
+  tu: hayas retrasado
+  vos: hayas retrasado
+  ud: haya retrasado
+  nosotros: hayamos retrasado
+  vosotros: hayáis retrasado
+  uds: hayan retrasado
+imperfecto-subjuntivo:
+  yo:
+    - retrasara
+    - retrasase
+  tu:
+    - retrasaras
+    - retrasases
+  vos:
+    - retrasaras
+    - retrasases
+  ud:
+    - retrasara
+    - retrasase
+  nosotros:
+    - retrasáramos
+    - retrasásemos
+  vosotros:
+    - retrasarais
+    - retrasaseis
+  uds:
+    - retrasaran
+    - retrasasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera retrasado
+    - hubiese retrasado
+  tu:
+    - hubieras retrasado
+    - hubieses retrasado
+  vos:
+    - hubieras retrasado
+    - hubieses retrasado
+  ud:
+    - hubiera retrasado
+    - hubiese retrasado
+  nosotros:
+    - hubiéramos retrasado
+    - hubiésemos retrasado
+  vosotros:
+    - hubierais retrasado
+    - hubieseis retrasado
+  uds:
+    - hubieran retrasado
+    - hubiesen retrasado
+imperativo:
+  tu: retrasa
+  vos: retrasá
+  ud: retrase
+  nosotros: retrasemos
+  vosotros: retrasad
+  uds: retrasen

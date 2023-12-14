@@ -1,0 +1,142 @@
+infinitivo: endurecer
+gerundio: endureciendo
+participio-pasado: endurecido
+presente-indicativo:
+  yo: endurezco
+  tu: endureces
+  vos: endureces
+  ud: endurece
+  nosotros: endurecemos
+  vosotros: endurecéis
+  uds: endurecen
+preterito-perfecto-simple:
+  yo: endurecí
+  tu: endureciste
+  vos: endureciste
+  ud: endureció
+  nosotros: endurecimos
+  vosotros: endurecisteis
+  uds: endurecieron
+preterito-imperfecto:
+  yo: endurecía
+  tu: endurecías
+  vos: endurecías
+  ud: endurecía
+  nosotros: endurecíamos
+  vosotros: endurecíais
+  uds: endurecían
+futuro-simple:
+  yo: endureceré
+  tu: endurecerás
+  vos: endurecerás
+  ud: endurecerá
+  nosotros: endureceremos
+  vosotros: endureceréis
+  uds: endurecerán
+condicional-simple:
+  yo: endurecería
+  tu: endurecerías
+  vos: endurecerías
+  ud: endurecería
+  nosotros: endureceríamos
+  vosotros: endureceríais
+  uds: endurecerían
+presente-perfecto:
+  yo: he endurecido
+  tu: has endurecido
+  vos: has endurecido
+  ud: ha endurecido
+  nosotros: hemos endurecido
+  vosotros: habéis endurecido
+  uds: han endurecido
+preterito-pluscuamperfecto:
+  yo: había endurecido
+  tu: habías endurecido
+  vos: habías endurecido
+  ud: había endurecido
+  nosotros: habíamos endurecido
+  vosotros: habíais endurecido
+  uds: habían endurecido
+futuro-perfecto:
+  yo: habré endurecido
+  tu: habrás endurecido
+  vos: habrás endurecido
+  ud: habrá endurecido
+  nosotros: habremos endurecido
+  vosotros: habréis endurecido
+  uds: habrán endurecido
+condicional-perfecto:
+  yo: habría endurecido
+  tu: habrías endurecido
+  vos: habrías endurecido
+  ud: habría endurecido
+  nosotros: habríamos endurecido
+  vosotros: habríais endurecido
+  uds: habrían endurecido
+presente-subjuntivo:
+  yo: endurezca
+  tu: endurezcas
+  vos: endurezcas
+  ud: endurezca
+  nosotros: endurezcamos
+  vosotros: endurezcáis
+  uds: endurezcan
+preterito-perfecto-subjuntivo:
+  yo: haya endurecido
+  tu: hayas endurecido
+  vos: hayas endurecido
+  ud: haya endurecido
+  nosotros: hayamos endurecido
+  vosotros: hayáis endurecido
+  uds: hayan endurecido
+imperfecto-subjuntivo:
+  yo:
+    - endureciera
+    - endureciese
+  tu:
+    - endurecieras
+    - endurecieses
+  vos:
+    - endurecieras
+    - endurecieses
+  ud:
+    - endureciera
+    - endureciese
+  nosotros:
+    - endureciéramos
+    - endureciésemos
+  vosotros:
+    - endurecierais
+    - endurecieseis
+  uds:
+    - endurecieran
+    - endureciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera endurecido
+    - hubiese endurecido
+  tu:
+    - hubieras endurecido
+    - hubieses endurecido
+  vos:
+    - hubieras endurecido
+    - hubieses endurecido
+  ud:
+    - hubiera endurecido
+    - hubiese endurecido
+  nosotros:
+    - hubiéramos endurecido
+    - hubiésemos endurecido
+  vosotros:
+    - hubierais endurecido
+    - hubieseis endurecido
+  uds:
+    - hubieran endurecido
+    - hubiesen endurecido
+imperativo:
+  tu: endurece
+  vos: endurecé
+  ud: endurezca
+  nosotros: endurezcamos
+  vosotros: endureced
+  uds: endurezcan

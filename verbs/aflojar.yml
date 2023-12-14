@@ -1,0 +1,142 @@
+infinitivo: aflojar
+gerundio: aflojando
+participio-pasado: aflojado
+presente-indicativo:
+  yo: aflojo
+  tu: aflojas
+  vos: aflojás
+  ud: afloja
+  nosotros: aflojamos
+  vosotros: aflojáis
+  uds: aflojan
+preterito-perfecto-simple:
+  yo: aflojé
+  tu: aflojaste
+  vos: aflojaste
+  ud: aflojó
+  nosotros: aflojamos
+  vosotros: aflojasteis
+  uds: aflojaron
+preterito-imperfecto:
+  yo: aflojaba
+  tu: aflojabas
+  vos: aflojabas
+  ud: aflojaba
+  nosotros: aflojábamos
+  vosotros: aflojabais
+  uds: aflojaban
+futuro-simple:
+  yo: aflojaré
+  tu: aflojarás
+  vos: aflojarás
+  ud: aflojará
+  nosotros: aflojaremos
+  vosotros: aflojaréis
+  uds: aflojarán
+condicional-simple:
+  yo: aflojaría
+  tu: aflojarías
+  vos: aflojarías
+  ud: aflojaría
+  nosotros: aflojaríamos
+  vosotros: aflojaríais
+  uds: aflojarían
+presente-perfecto:
+  yo: he aflojado
+  tu: has aflojado
+  vos: has aflojado
+  ud: ha aflojado
+  nosotros: hemos aflojado
+  vosotros: habéis aflojado
+  uds: han aflojado
+preterito-pluscuamperfecto:
+  yo: había aflojado
+  tu: habías aflojado
+  vos: habías aflojado
+  ud: había aflojado
+  nosotros: habíamos aflojado
+  vosotros: habíais aflojado
+  uds: habían aflojado
+futuro-perfecto:
+  yo: habré aflojado
+  tu: habrás aflojado
+  vos: habrás aflojado
+  ud: habrá aflojado
+  nosotros: habremos aflojado
+  vosotros: habréis aflojado
+  uds: habrán aflojado
+condicional-perfecto:
+  yo: habría aflojado
+  tu: habrías aflojado
+  vos: habrías aflojado
+  ud: habría aflojado
+  nosotros: habríamos aflojado
+  vosotros: habríais aflojado
+  uds: habrían aflojado
+presente-subjuntivo:
+  yo: afloje
+  tu: aflojes
+  vos: aflojes
+  ud: afloje
+  nosotros: aflojemos
+  vosotros: aflojéis
+  uds: aflojen
+preterito-perfecto-subjuntivo:
+  yo: haya aflojado
+  tu: hayas aflojado
+  vos: hayas aflojado
+  ud: haya aflojado
+  nosotros: hayamos aflojado
+  vosotros: hayáis aflojado
+  uds: hayan aflojado
+imperfecto-subjuntivo:
+  yo:
+    - aflojara
+    - aflojase
+  tu:
+    - aflojaras
+    - aflojases
+  vos:
+    - aflojaras
+    - aflojases
+  ud:
+    - aflojara
+    - aflojase
+  nosotros:
+    - aflojáramos
+    - aflojásemos
+  vosotros:
+    - aflojarais
+    - aflojaseis
+  uds:
+    - aflojaran
+    - aflojasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aflojado
+    - hubiese aflojado
+  tu:
+    - hubieras aflojado
+    - hubieses aflojado
+  vos:
+    - hubieras aflojado
+    - hubieses aflojado
+  ud:
+    - hubiera aflojado
+    - hubiese aflojado
+  nosotros:
+    - hubiéramos aflojado
+    - hubiésemos aflojado
+  vosotros:
+    - hubierais aflojado
+    - hubieseis aflojado
+  uds:
+    - hubieran aflojado
+    - hubiesen aflojado
+imperativo:
+  tu: afloja
+  vos: aflojá
+  ud: afloje
+  nosotros: aflojemos
+  vosotros: aflojad
+  uds: aflojen

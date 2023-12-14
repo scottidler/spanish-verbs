@@ -1,0 +1,142 @@
+infinitivo: formarse
+gerundio: formándose
+participio-pasado: formado
+presente-indicativo:
+  yo: me formo
+  tu: te formas
+  vos: te formas
+  ud: se forma
+  nosotros: nos formamos
+  vosotros: os formáis
+  uds: se forman
+preterito-perfecto-simple:
+  yo: me formé
+  tu: te formaste
+  vos: te formaste
+  ud: se formó
+  nosotros: nos formamos
+  vosotros: os formasteis
+  uds: se formaron
+preterito-imperfecto:
+  yo: me formaba
+  tu: te formabas
+  vos: te formabas
+  ud: se formaba
+  nosotros: nos formábamos
+  vosotros: os formabais
+  uds: se formaban
+futuro-simple:
+  yo: me formaré
+  tu: te formarás
+  vos: te formarás
+  ud: se formará
+  nosotros: nos formaremos
+  vosotros: os formaréis
+  uds: se formarán
+condicional-simple:
+  yo: me formaría
+  tu: te formarías
+  vos: te formarías
+  ud: se formaría
+  nosotros: nos formaríamos
+  vosotros: os formaríais
+  uds: se formarían
+presente-perfecto:
+  yo: me he formado
+  tu: te has formado
+  vos: te has formado
+  ud: se ha formado
+  nosotros: nos hemos formado
+  vosotros: os habéis formado
+  uds: se han formado
+preterito-pluscuamperfecto:
+  yo: me había formado
+  tu: te habías formado
+  vos: te habías formado
+  ud: se había formado
+  nosotros: nos habíamos formado
+  vosotros: os habíais formado
+  uds: se habían formado
+futuro-perfecto:
+  yo: me habré formado
+  tu: te habrás formado
+  vos: te habrás formado
+  ud: se habrá formado
+  nosotros: nos habremos formado
+  vosotros: os habréis formado
+  uds: se habrán formado
+condicional-perfecto:
+  yo: me habría formado
+  tu: te habrías formado
+  vos: te habrías formado
+  ud: se habría formado
+  nosotros: nos habríamos formado
+  vosotros: os habríais formado
+  uds: se habrían formado
+presente-subjuntivo:
+  yo: me forme
+  tu: te formes
+  vos: te formes
+  ud: se forme
+  nosotros: nos formemos
+  vosotros: os forméis
+  uds: se formen
+preterito-perfecto-subjuntivo:
+  yo: me haya formado
+  tu: te hayas formado
+  vos: te hayas formado
+  ud: se haya formado
+  nosotros: nos hayamos formado
+  vosotros: os hayáis formado
+  uds: se hayan formado
+imperfecto-subjuntivo:
+  yo:
+    - me formara
+    - me formase
+  tu:
+    - formaras
+    - formases
+  vos:
+    - formaras
+    - formases
+  ud:
+    - formara
+    - formase
+  nosotros:
+    - formáramos
+    - formásemos
+  vosotros:
+    - formarais
+    - formaseis
+  uds:
+    - formaran
+    - formasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera formado
+    - me hubiese formado
+  tu:
+    - te hubieras formado
+    - te hubieses formado
+  vos:
+    - te hubieras formado
+    - te hubieses formado
+  ud:
+    - se hubiera formado
+    - se hubiese formado
+  nosotros:
+    - nos hubiéramos formado
+    - nos hubiésemos formado
+  vosotros:
+    - os hubierais formado
+    - os hubieseis formado
+  uds:
+    - se hubieran formado
+    - se hubiesen formado
+imperativo:
+  tu: fórmate
+  vos: formate
+  ud: formese
+  nosotros: formémonos
+  vosotros: formaos
+  uds: formense

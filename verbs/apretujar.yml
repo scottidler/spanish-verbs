@@ -1,0 +1,142 @@
+infinitivo: apretujar
+gerundio: apretujando
+participio-pasado: apretujado
+presente-indicativo:
+  yo: apretujo
+  tu: apretujas
+  vos: apretujas
+  ud: apretuja
+  nosotros: apretujamos
+  vosotros: apretujáis
+  uds: apretujan
+preterito-perfecto-simple:
+  yo: apretujé
+  tu: apretujaste
+  vos: apretujaste
+  ud: apretujó
+  nosotros: apretujamos
+  vosotros: apretujasteis
+  uds: apretujaron
+preterito-imperfecto:
+  yo: apretujaba
+  tu: apretujabas
+  vos: apretujabas
+  ud: apretujaba
+  nosotros: apretujábamos
+  vosotros: apretujabais
+  uds: apretujaban
+futuro-simple:
+  yo: apretujaré
+  tu: apretujarás
+  vos: apretujarás
+  ud: apretujará
+  nosotros: apretujaremos
+  vosotros: apretujaréis
+  uds: apretujarán
+condicional-simple:
+  yo: apretujaría
+  tu: apretujarías
+  vos: apretujarías
+  ud: apretujaría
+  nosotros: apretujaríamos
+  vosotros: apretujaríais
+  uds: apretujarían
+presente-perfecto:
+  yo: he apretujado
+  tu: has apretujado
+  vos: has apretujado
+  ud: ha apretujado
+  nosotros: hemos apretujado
+  vosotros: habéis apretujado
+  uds: han apretujado
+preterito-pluscuamperfecto:
+  yo: había apretujado
+  tu: habías apretujado
+  vos: habías apretujado
+  ud: había apretujado
+  nosotros: habíamos apretujado
+  vosotros: habíais apretujado
+  uds: habían apretujado
+futuro-perfecto:
+  yo: habré apretujado
+  tu: habrás apretujado
+  vos: habrás apretujado
+  ud: habrá apretujado
+  nosotros: habremos apretujado
+  vosotros: habréis apretujado
+  uds: habrán apretujado
+condicional-perfecto:
+  yo: habría apretujado
+  tu: habrías apretujado
+  vos: habrías apretujado
+  ud: habría apretujado
+  nosotros: habríamos apretujado
+  vosotros: habríais apretujado
+  uds: habrían apretujado
+presente-subjuntivo:
+  yo: apretuje
+  tu: apretujes
+  vos: apretujes
+  ud: apretuje
+  nosotros: apretujemos
+  vosotros: apretujéis
+  uds: apretujen
+preterito-perfecto-subjuntivo:
+  yo: haya apretujado
+  tu: hayas apretujado
+  vos: hayas apretujado
+  ud: haya apretujado
+  nosotros: hayamos apretujado
+  vosotros: hayáis apretujado
+  uds: hayan apretujado
+imperfecto-subjuntivo:
+  yo:
+    - apretujara
+    - apretujase
+  tu:
+    - apretujaras
+    - apretujases
+  vos:
+    - apretujaras
+    - apretujases
+  ud:
+    - apretujara
+    - apretujase
+  nosotros:
+    - apretujáramos
+    - apretujásemos
+  vosotros:
+    - apretujarais
+    - apretujaseis
+  uds:
+    - apretujaran
+    - apretujasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apretujado
+    - hubiese apretujado
+  tu:
+    - hubieras apretujado
+    - hubieses apretujado
+  vos:
+    - hubieras apretujado
+    - hubieses apretujado
+  ud:
+    - hubiera apretujado
+    - hubiese apretujado
+  nosotros:
+    - hubiéramos apretujado
+    - hubiésemos apretujado
+  vosotros:
+    - hubierais apretujado
+    - hubieseis apretujado
+  uds:
+    - hubieran apretujado
+    - hubiesen apretujado
+imperativo:
+  tu: apretuja
+  vos: apretujá
+  ud: apretuje
+  nosotros: apretujemos
+  vosotros: apretujad
+  uds: apretujen

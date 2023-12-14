@@ -1,0 +1,142 @@
+infinitivo: anudar
+gerundio: anudando
+participio-pasado: anudado
+presente-indicativo:
+  yo: anudo
+  tu: anudas
+  vos: anudas
+  ud: anuda
+  nosotros: anudamos
+  vosotros: anudáis
+  uds: anudan
+preterito-perfecto-simple:
+  yo: anudé
+  tu: anudaste
+  vos: anudaste
+  ud: anudó
+  nosotros: anudamos
+  vosotros: anudasteis
+  uds: anudaron
+preterito-imperfecto:
+  yo: anudaba
+  tu: anudabas
+  vos: anudabas
+  ud: anudaba
+  nosotros: anudábamos
+  vosotros: anudabais
+  uds: anudaban
+futuro-simple:
+  yo: anudaré
+  tu: anudarás
+  vos: anudarás
+  ud: anudará
+  nosotros: anudaremos
+  vosotros: anudaréis
+  uds: anudarán
+condicional-simple:
+  yo: anudaría
+  tu: anudarías
+  vos: anudarías
+  ud: anudaría
+  nosotros: anudaríamos
+  vosotros: anudaríais
+  uds: anudarían
+presente-perfecto:
+  yo: he anudado
+  tu: has anudado
+  vos: has anudado
+  ud: ha anudado
+  nosotros: hemos anudado
+  vosotros: habéis anudado
+  uds: han anudado
+preterito-pluscuamperfecto:
+  yo: había anudado
+  tu: habías anudado
+  vos: habías anudado
+  ud: había anudado
+  nosotros: habíamos anudado
+  vosotros: habíais anudado
+  uds: habían anudado
+futuro-perfecto:
+  yo: habré anudado
+  tu: habrás anudado
+  vos: habrás anudado
+  ud: habrá anudado
+  nosotros: habremos anudado
+  vosotros: habréis anudado
+  uds: habrán anudado
+condicional-perfecto:
+  yo: habría anudado
+  tu: habrías anudado
+  vos: habrías anudado
+  ud: habría anudado
+  nosotros: habríamos anudado
+  vosotros: habríais anudado
+  uds: habrían anudado
+presente-subjuntivo:
+  yo: anude
+  tu: anudes
+  vos: anudes
+  ud: anude
+  nosotros: anudemos
+  vosotros: anudéis
+  uds: anuden
+preterito-perfecto-subjuntivo:
+  yo: haya anudado
+  tu: hayas anudado
+  vos: hayas anudado
+  ud: haya anudado
+  nosotros: hayamos anudado
+  vosotros: hayáis anudado
+  uds: hayan anudado
+imperfecto-subjuntivo:
+  yo:
+    - anudara
+    - anudase
+  tu:
+    - anudaras
+    - anudases
+  vos:
+    - anudaras
+    - anudases
+  ud:
+    - anudara
+    - anudase
+  nosotros:
+    - anudáramos
+    - anudásemos
+  vosotros:
+    - anudarais
+    - anudaseis
+  uds:
+    - anudaran
+    - anudasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera anudado
+    - hubiese anudado
+  tu:
+    - hubieras anudado
+    - hubieses anudado
+  vos:
+    - hubieras anudado
+    - hubieses anudado
+  ud:
+    - hubiera anudado
+    - hubiese anudado
+  nosotros:
+    - hubiéramos anudado
+    - hubiésemos anudado
+  vosotros:
+    - hubierais anudado
+    - hubieseis anudado
+  uds:
+    - hubieran anudado
+    - hubiesen anudado
+imperativo:
+  tu: anuda
+  vos: anudá
+  ud: anude
+  nosotros: anudemos
+  vosotros: anudad
+  uds: anuden

@@ -1,0 +1,142 @@
+infinitivo: desdeñar
+gerundio: desdeñando
+participio-pasado: desdeñado
+presente-indicativo:
+  yo: desdeño
+  tu: desdeñas
+  vos: desdeñás
+  ud: desdeña
+  nosotros: desdeñamos
+  vosotros: desdeñáis
+  uds: desdeñan
+preterito-perfecto-simple:
+  yo: desdeñé
+  tu: desdeñaste
+  vos: desdeñaste
+  ud: desdeñó
+  nosotros: desdeñamos
+  vosotros: desdeñasteis
+  uds: desdeñaron
+preterito-imperfecto:
+  yo: desdeñaba
+  tu: desdeñabas
+  vos: desdeñabas
+  ud: desdeñaba
+  nosotros: desdeñábamos
+  vosotros: desdeñabais
+  uds: desdeñaban
+futuro-simple:
+  yo: desdeñaré
+  tu: desdeñarás
+  vos: desdeñarás
+  ud: desdeñará
+  nosotros: desdeñaremos
+  vosotros: desdeñaréis
+  uds: desdeñarán
+condicional-simple:
+  yo: desdeñaría
+  tu: desdeñarías
+  vos: desdeñarías
+  ud: desdeñaría
+  nosotros: desdeñaríamos
+  vosotros: desdeñaríais
+  uds: desdeñarían
+presente-perfecto:
+  yo: he desdeñado
+  tu: has desdeñado
+  vos: has desdeñado
+  ud: ha desdeñado
+  nosotros: hemos desdeñado
+  vosotros: habéis desdeñado
+  uds: han desdeñado
+preterito-pluscuamperfecto:
+  yo: había desdeñado
+  tu: habías desdeñado
+  vos: habías desdeñado
+  ud: había desdeñado
+  nosotros: habíamos desdeñado
+  vosotros: habíais desdeñado
+  uds: habían desdeñado
+futuro-perfecto:
+  yo: habré desdeñado
+  tu: habrás desdeñado
+  vos: habrás desdeñado
+  ud: habrá desdeñado
+  nosotros: habremos desdeñado
+  vosotros: habréis desdeñado
+  uds: habrán desdeñado
+condicional-perfecto:
+  yo: habría desdeñado
+  tu: habrías desdeñado
+  vos: habrías desdeñado
+  ud: habría desdeñado
+  nosotros: habríamos desdeñado
+  vosotros: habríais desdeñado
+  uds: habrían desdeñado
+presente-subjuntivo:
+  yo: desdeñe
+  tu: desdeñes
+  vos: desdeñes
+  ud: desdeñe
+  nosotros: desdeñemos
+  vosotros: desdeñéis
+  uds: desdeñen
+preterito-perfecto-subjuntivo:
+  yo: haya desdeñado
+  tu: hayas desdeñado
+  vos: hayas desdeñado
+  ud: haya desdeñado
+  nosotros: hayamos desdeñado
+  vosotros: hayáis desdeñado
+  uds: hayan desdeñado
+imperfecto-subjuntivo:
+  yo:
+    - desdeñara
+    - desdeñase
+  tu:
+    - desdeñaras
+    - desdeñases
+  vos:
+    - desdeñaras
+    - desdeñases
+  ud:
+    - desdeñara
+    - desdeñase
+  nosotros:
+    - desdeñáramos
+    - desdeñásemos
+  vosotros:
+    - desdeñarais
+    - desdeñaseis
+  uds:
+    - desdeñaran
+    - desdeñasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desdeñado
+    - hubiese desdeñado
+  tu:
+    - hubieras desdeñado
+    - hubieses desdeñado
+  vos:
+    - hubieras desdeñado
+    - hubieses desdeñado
+  ud:
+    - hubiera desdeñado
+    - hubiese desdeñado
+  nosotros:
+    - hubiéramos desdeñado
+    - hubiésemos desdeñado
+  vosotros:
+    - hubierais desdeñado
+    - hubieseis desdeñado
+  uds:
+    - hubieran desdeñado
+    - hubiesen desdeñado
+imperativo:
+  tu: desdeña
+  vos: desdeñá
+  ud: desdeñe
+  nosotros: desdeñemos
+  vosotros: desdeñad
+  uds: desdeñen

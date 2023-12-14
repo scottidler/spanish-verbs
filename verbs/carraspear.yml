@@ -1,0 +1,142 @@
+infinitivo: carraspear
+gerundio: carraspeando
+participio-pasado: carraspeado
+presente-indicativo:
+  yo: carraspeo
+  tu: carraspeas
+  vos: carraspeas
+  ud: carraspea
+  nosotros: carraspeamos
+  vosotros: carraspeáis
+  uds: carraspean
+preterito-perfecto-simple:
+  yo: carraspeé
+  tu: carraspeaste
+  vos: carraspeaste
+  ud: carraspeó
+  nosotros: carraspeamos
+  vosotros: carraspeasteis
+  uds: carraspearon
+preterito-imperfecto:
+  yo: carraspeaba
+  tu: carraspeabas
+  vos: carraspeabas
+  ud: carraspeaba
+  nosotros: carraspeábamos
+  vosotros: carraspeabais
+  uds: carraspeaban
+futuro-simple:
+  yo: carraspearé
+  tu: carraspearás
+  vos: carraspearás
+  ud: carraspeará
+  nosotros: carraspearemos
+  vosotros: carraspearéis
+  uds: carraspearán
+condicional-simple:
+  yo: carraspearía
+  tu: carraspearías
+  vos: carraspearías
+  ud: carraspearía
+  nosotros: carraspearíamos
+  vosotros: carraspearíais
+  uds: carraspearían
+presente-perfecto:
+  yo: he carraspeado
+  tu: has carraspeado
+  vos: has carraspeado
+  ud: ha carraspeado
+  nosotros: hemos carraspeado
+  vosotros: habéis carraspeado
+  uds: han carraspeado
+preterito-pluscuamperfecto:
+  yo: había carraspeado
+  tu: habías carraspeado
+  vos: habías carraspeado
+  ud: había carraspeado
+  nosotros: habíamos carraspeado
+  vosotros: habíais carraspeado
+  uds: habían carraspeado
+futuro-perfecto:
+  yo: habré carraspeado
+  tu: habrás carraspeado
+  vos: habrás carraspeado
+  ud: habrá carraspeado
+  nosotros: habremos carraspeado
+  vosotros: habréis carraspeado
+  uds: habrán carraspeado
+condicional-perfecto:
+  yo: habría carraspeado
+  tu: habrías carraspeado
+  vos: habrías carraspeado
+  ud: habría carraspeado
+  nosotros: habríamos carraspeado
+  vosotros: habríais carraspeado
+  uds: habrían carraspeado
+presente-subjuntivo:
+  yo: carraspee
+  tu: carraspees
+  vos: carraspees
+  ud: carraspee
+  nosotros: carraspeemos
+  vosotros: carraspeéis
+  uds: carraspeen
+preterito-perfecto-subjuntivo:
+  yo: haya carraspeado
+  tu: hayas carraspeado
+  vos: hayas carraspeado
+  ud: haya carraspeado
+  nosotros: hayamos carraspeado
+  vosotros: hayáis carraspeado
+  uds: hayan carraspeado
+imperfecto-subjuntivo:
+  yo:
+    - carraspeara
+    - carraspease
+  tu:
+    - carraspearas
+    - carraspeases
+  vos:
+    - carraspearas
+    - carraspeases
+  ud:
+    - carraspeara
+    - carraspease
+  nosotros:
+    - carraspeáramos
+    - carraspeásemos
+  vosotros:
+    - carraspearais
+    - carraspeaseis
+  uds:
+    - carraspearan
+    - carraspeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera carraspeado
+    - hubiese carraspeado
+  tu:
+    - hubieras carraspeado
+    - hubieses carraspeado
+  vos:
+    - hubieras carraspeado
+    - hubieses carraspeado
+  ud:
+    - hubiera carraspeado
+    - hubiese carraspeado
+  nosotros:
+    - hubiéramos carraspeado
+    - hubiésemos carraspeado
+  vosotros:
+    - hubierais carraspeado
+    - hubieseis carraspeado
+  uds:
+    - hubieran carraspeado
+    - hubiesen carraspeado
+imperativo:
+  tu: carraspea
+  vos: carraspeá
+  ud: carraspee
+  nosotros: carraspeemos
+  vosotros: carraspead
+  uds: carraspeen

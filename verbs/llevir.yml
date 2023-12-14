@@ -1,0 +1,142 @@
+infinitivo: llevar
+gerundio: llevando
+participio-pasado: llevado
+presente-indicativo:
+  yo: llevo
+  tu: llevas
+  vos: llevas
+  ud: lleva
+  nosotros: llevamos
+  vosotros: lleváis
+  uds: llevan
+preterito-perfecto-simple:
+  yo: llevé
+  tu: llevaste
+  vos: llevaste
+  ud: llevó
+  nosotros: llevamos
+  vosotros: llevasteis
+  uds: llevaron
+preterito-imperfecto:
+  yo: llevaba
+  tu: llevabas
+  vos: llevabas
+  ud: llevaba
+  nosotros: llevábamos
+  vosotros: llevabais
+  uds: llevaban
+futuro-simple:
+  yo: llevaré
+  tu: llevarás
+  vos: llevarás
+  ud: llevará
+  nosotros: llevaremos
+  vosotros: llevaréis
+  uds: llevarán
+condicional-simple:
+  yo: llevaría
+  tu: llevarías
+  vos: llevarías
+  ud: llevaría
+  nosotros: llevaríamos
+  vosotros: llevaríais
+  uds: llevarían
+presente-perfecto:
+  yo: he llevado
+  tu: has llevado
+  vos: has llevado
+  ud: ha llevado
+  nosotros: hemos llevado
+  vosotros: habéis llevado
+  uds: han llevado
+preterito-pluscuamperfecto:
+  yo: había llevado
+  tu: habías llevado
+  vos: habías llevado
+  ud: había llevado
+  nosotros: habíamos llevado
+  vosotros: habíais llevado
+  uds: habían llevado
+futuro-perfecto:
+  yo: habré llevado
+  tu: habrás llevado
+  vos: habrás llevado
+  ud: habrá llevado
+  nosotros: habremos llevado
+  vosotros: habréis llevado
+  uds: habrán llevado
+condicional-perfecto:
+  yo: habría llevado
+  tu: habrías llevado
+  vos: habrías llevado
+  ud: habría llevado
+  nosotros: habríamos llevado
+  vosotros: habríais llevado
+  uds: habrían llevado
+presente-subjuntivo:
+  yo: lleve
+  tu: lleves
+  vos: lleves
+  ud: lleve
+  nosotros: llevemos
+  vosotros: llevéis
+  uds: lleven
+preterito-perfecto-subjuntivo:
+  yo: haya llevado
+  tu: hayas llevado
+  vos: hayas llevado
+  ud: haya llevado
+  nosotros: hayamos llevado
+  vosotros: hayáis llevado
+  uds: hayan llevado
+imperfecto-subjuntivo:
+  yo:
+    - llevara
+    - llevase
+  tu:
+    - llevaras
+    - llevases
+  vos:
+    - llevaras
+    - llevases
+  ud:
+    - llevara
+    - llevase
+  nosotros:
+    - lleváramos
+    - llevásemos
+  vosotros:
+    - llevarais
+    - llevaseis
+  uds:
+    - llevaran
+    - llevasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llevado
+    - hubiese llevado
+  tu:
+    - hubieras llevado
+    - hubieses llevado
+  vos:
+    - hubieras llevado
+    - hubieses llevado
+  ud:
+    - hubiera llevado
+    - hubiese llevado
+  nosotros:
+    - hubiéramos llevado
+    - hubiésemos llevado
+  vosotros:
+    - hubierais llevado
+    - hubieseis llevado
+  uds:
+    - hubieran llevado
+    - hubiesen llevado
+imperativo:
+  tu: lleva
+  vos: llevá
+  ud: lleve
+  nosotros: llevemos
+  vosotros: llevad
+  uds: lleven

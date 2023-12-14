@@ -1,0 +1,142 @@
+infinitivo: atravesir
+gerundio: atravesiendo
+participio-pasado: atravesido
+presente-indicativo:
+  yo: atravieso
+  tu: atraviesas
+  vos: atraviesas
+  ud: atraviesa
+  nosotros: atraviesamos
+  vosotros: atravesáis
+  uds: atraviesan
+preterito-perfecto-simple:
+  yo: atravesí
+  tu: atravesiste
+  vos: atravesiste
+  ud: atravesó
+  nosotros: atravesimos
+  vosotros: atravesisteis
+  uds: atravesieron
+preterito-imperfecto:
+  yo: atravesía
+  tu: atravesías
+  vos: atravesías
+  ud: atravesía
+  nosotros: atravesíamos
+  vosotros: atravesíais
+  uds: atravesían
+futuro-simple:
+  yo: atravesiré
+  tu: atravesirás
+  vos: atravesirás
+  ud: atravesirá
+  nosotros: atravesiremos
+  vosotros: atravesiréis
+  uds: atravesirán
+condicional-simple:
+  yo: atravesiría
+  tu: atravesirías
+  vos: atravesirías
+  ud: atravesiría
+  nosotros: atravesiríamos
+  vosotros: atravesiríais
+  uds: atravesirían
+presente-perfecto:
+  yo: he atravesido
+  tu: has atravesido
+  vos: has atravesido
+  ud: ha atravesido
+  nosotros: hemos atravesido
+  vosotros: habéis atravesido
+  uds: han atravesido
+preterito-pluscuamperfecto:
+  yo: había atravesido
+  tu: habías atravesido
+  vos: habías atravesido
+  ud: había atravesido
+  nosotros: habíamos atravesido
+  vosotros: habíais atravesido
+  uds: habían atravesido
+futuro-perfecto:
+  yo: habré atravesido
+  tu: habrás atravesido
+  vos: habrás atravesido
+  ud: habrá atravesido
+  nosotros: habremos atravesido
+  vosotros: habréis atravesido
+  uds: habrán atravesido
+condicional-perfecto:
+  yo: habría atravesido
+  tu: habrías atravesido
+  vos: habrías atravesido
+  ud: habría atravesido
+  nosotros: habríamos atravesido
+  vosotros: habríais atravesido
+  uds: habrían atravesido
+presente-subjuntivo:
+  yo: atravesa
+  tu: atravese
+  vos: atravese
+  ud: atravese
+  nosotros: atravesamos
+  vosotros: atraveséis
+  uds: atraviesen
+preterito-perfecto-subjuntivo:
+  yo: haya atravesido
+  tu: hayas atravesido
+  vos: hayas atravesido
+  ud: haya atravesido
+  nosotros: hayamos atravesido
+  vosotros: hayáis atravesido
+  uds: hayan atravesido
+imperfecto-subjuntivo:
+  yo:
+    - atravesiera
+    - atravesiese
+  tu:
+    - atravesieras
+    - atravesieses
+  vos:
+    - atravesieras
+    - atravesieses
+  ud:
+    - atravesiera
+    - atravesiese
+  nosotros:
+    - atravesiéramos
+    - atravesiésemos
+  vosotros:
+    - atravesierais
+    - atravesieseis
+  uds:
+    - atravesieran
+    - atravesiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atravesido
+    - hubiese atravesido
+  tu:
+    - hubieras atravesido
+    - hubieses atravesido
+  vos:
+    - hubieras atravesido
+    - hubieses atravesido
+  ud:
+    - hubiera atravesido
+    - hubiese atravesido
+  nosotros:
+    - hubiéramos atravesido
+    - hubiésemos atravesido
+  vosotros:
+    - hubierais atravesido
+    - hubieseis atravesido
+  uds:
+    - hubieran atravesido
+    - hubiesen atravesido
+imperativo:
+  tu: atraviesa
+  vos: atravese
+  ud: atravese
+  nosotros: atravesamos
+  vosotros: atravesid
+  uds: atraviesen

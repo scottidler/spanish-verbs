@@ -1,0 +1,142 @@
+infinitivo: desvanecer
+gerundio: desvaneciendo
+participio-pasado: desvanecido
+presente-indicativo:
+  yo: desvanezco
+  tu: desvaneces
+  vos: desvaneces
+  ud: desvanece
+  nosotros: desvanecemos
+  vosotros: desvanecéis
+  uds: desvanecen
+preterito-perfecto-simple:
+  yo: desvanecí
+  tu: desvaneciste
+  vos: desvaneciste
+  ud: desvaneció
+  nosotros: desvanecimos
+  vosotros: desvanecisteis
+  uds: desvanecieron
+preterito-imperfecto:
+  yo: desvanecía
+  tu: desvanecías
+  vos: desvanecías
+  ud: desvanecía
+  nosotros: desvanecíamos
+  vosotros: desvanecíais
+  uds: desvanecían
+futuro-simple:
+  yo: desvaneceré
+  tu: desvanecerás
+  vos: desvanecerás
+  ud: desvanecerá
+  nosotros: desvaneceremos
+  vosotros: desvaneceréis
+  uds: desvanecerán
+condicional-simple:
+  yo: desvanecería
+  tu: desvanecerías
+  vos: desvanecerías
+  ud: desvanecería
+  nosotros: desvaneceríamos
+  vosotros: desvaneceríais
+  uds: desvanecerían
+presente-perfecto:
+  yo: he desvanecido
+  tu: has desvanecido
+  vos: has desvanecido
+  ud: ha desvanecido
+  nosotros: hemos desvanecido
+  vosotros: habéis desvanecido
+  uds: han desvanecido
+preterito-pluscuamperfecto:
+  yo: había desvanecido
+  tu: habías desvanecido
+  vos: habías desvanecido
+  ud: había desvanecido
+  nosotros: habíamos desvanecido
+  vosotros: habíais desvanecido
+  uds: habían desvanecido
+futuro-perfecto:
+  yo: habré desvanecido
+  tu: habrás desvanecido
+  vos: habrás desvanecido
+  ud: habrá desvanecido
+  nosotros: habremos desvanecido
+  vosotros: habréis desvanecido
+  uds: habrán desvanecido
+condicional-perfecto:
+  yo: habría desvanecido
+  tu: habrías desvanecido
+  vos: habrías desvanecido
+  ud: habría desvanecido
+  nosotros: habríamos desvanecido
+  vosotros: habríais desvanecido
+  uds: habrían desvanecido
+presente-subjuntivo:
+  yo: desvanezca
+  tu: desvanezcas
+  vos: desvanezcas
+  ud: desvanezca
+  nosotros: desvanezcamos
+  vosotros: desvanezcáis
+  uds: desvanezcan
+preterito-perfecto-subjuntivo:
+  yo: haya desvanecido
+  tu: hayas desvanecido
+  vos: hayas desvanecido
+  ud: haya desvanecido
+  nosotros: hayamos desvanecido
+  vosotros: hayáis desvanecido
+  uds: hayan desvanecido
+imperfecto-subjuntivo:
+  yo:
+    - desvaneciera
+    - desvaneciese
+  tu:
+    - desvanecieras
+    - desvanecieses
+  vos:
+    - desvanecieras
+    - desvanecieses
+  ud:
+    - desvaneciera
+    - desvaneciese
+  nosotros:
+    - desvaneciéramos
+    - desvaneciésemos
+  vosotros:
+    - desvanecierais
+    - desvanecieseis
+  uds:
+    - desvanecieran
+    - desvaneciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desvanecido
+    - hubiese desvanecido
+  tu:
+    - hubieras desvanecido
+    - hubieses desvanecido
+  vos:
+    - hubieras desvanecido
+    - hubieses desvanecido
+  ud:
+    - hubiera desvanecido
+    - hubiese desvanecido
+  nosotros:
+    - hubiéramos desvanecido
+    - hubiésemos desvanecido
+  vosotros:
+    - hubierais desvanecido
+    - hubieseis desvanecido
+  uds:
+    - hubieran desvanecido
+    - hubiesen desvanecido
+imperativo:
+  tu: desvanece
+  vos: desvanecé
+  ud: desvanezca
+  nosotros: desvanezcamos
+  vosotros: desvaneced
+  uds: desvanezcan

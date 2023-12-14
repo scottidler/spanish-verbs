@@ -1,0 +1,142 @@
+infinitivo: lamentar
+gerundio: lamentando
+participio-pasado: lamentado
+presente-indicativo:
+  yo: lamento
+  tu: lamentas
+  vos: lamentas
+  ud: lamenta
+  nosotros: lamentamos
+  vosotros: lamentáis
+  uds: lamentan
+preterito-perfecto-simple:
+  yo: lamenté
+  tu: lamentaste
+  vos: lamentaste
+  ud: lamentó
+  nosotros: lamentamos
+  vosotros: lamentasteis
+  uds: lamentaron
+preterito-imperfecto:
+  yo: lamentaba
+  tu: lamentabas
+  vos: lamentabas
+  ud: lamentaba
+  nosotros: lamentábamos
+  vosotros: lamentabais
+  uds: lamentaban
+futuro-simple:
+  yo: lamentaré
+  tu: lamentarás
+  vos: lamentarás
+  ud: lamentará
+  nosotros: lamentaremos
+  vosotros: lamentaréis
+  uds: lamentarán
+condicional-simple:
+  yo: lamentaría
+  tu: lamentarías
+  vos: lamentarías
+  ud: lamentaría
+  nosotros: lamentaríamos
+  vosotros: lamentaríais
+  uds: lamentarían
+presente-perfecto:
+  yo: he lamentado
+  tu: has lamentado
+  vos: has lamentado
+  ud: ha lamentado
+  nosotros: hemos lamentado
+  vosotros: habéis lamentado
+  uds: han lamentado
+preterito-pluscuamperfecto:
+  yo: había lamentado
+  tu: habías lamentado
+  vos: habías lamentado
+  ud: había lamentado
+  nosotros: habíamos lamentado
+  vosotros: habíais lamentado
+  uds: habían lamentado
+futuro-perfecto:
+  yo: habré lamentado
+  tu: habrás lamentado
+  vos: habrás lamentado
+  ud: habrá lamentado
+  nosotros: habremos lamentado
+  vosotros: habréis lamentado
+  uds: habrán lamentado
+condicional-perfecto:
+  yo: habría lamentado
+  tu: habrías lamentado
+  vos: habrías lamentado
+  ud: habría lamentado
+  nosotros: habríamos lamentado
+  vosotros: habríais lamentado
+  uds: habrían lamentado
+presente-subjuntivo:
+  yo: lamente
+  tu: lamentes
+  vos: lamentes
+  ud: lamente
+  nosotros: lamentemos
+  vosotros: lamentéis
+  uds: lamenten
+preterito-perfecto-subjuntivo:
+  yo: haya lamentado
+  tu: hayas lamentado
+  vos: hayas lamentado
+  ud: haya lamentado
+  nosotros: hayamos lamentado
+  vosotros: hayáis lamentado
+  uds: hayan lamentado
+imperfecto-subjuntivo:
+  yo:
+    - lamentara
+    - lamentase
+  tu:
+    - lamentaras
+    - lamentases
+  vos:
+    - lamentaras
+    - lamentases
+  ud:
+    - lamentara
+    - lamentase
+  nosotros:
+    - lamentáramos
+    - lamentásemos
+  vosotros:
+    - lamentarais
+    - lamentaseis
+  uds:
+    - lamentaran
+    - lamentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera lamentado
+    - hubiese lamentado
+  tu:
+    - hubieras lamentado
+    - hubieses lamentado
+  vos:
+    - hubieras lamentado
+    - hubieses lamentado
+  ud:
+    - hubiera lamentado
+    - hubiese lamentado
+  nosotros:
+    - hubiéramos lamentado
+    - hubiésemos lamentado
+  vosotros:
+    - hubierais lamentado
+    - hubieseis lamentado
+  uds:
+    - hubieran lamentado
+    - hubiesen lamentado
+imperativo:
+  tu: lamenta
+  vos: lamentá
+  ud: lamente
+  nosotros: lamentemos
+  vosotros: lamentad
+  uds: lamenten

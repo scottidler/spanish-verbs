@@ -1,0 +1,142 @@
+infinitivo: caber
+gerundio: cabiendo
+participio-pasado: cabido
+presente-indicativo:
+  yo: quepo
+  tu: cabes
+  vos: cabes
+  ud: cabe
+  nosotros: cabemos
+  vosotros: cabéis
+  uds: caben
+preterito-perfecto-simple:
+  yo: cupe
+  tu: cupiste
+  vos: cupiste
+  ud: cupo
+  nosotros: cupimos
+  vosotros: cupisteis
+  uds: cupieron
+preterito-imperfecto:
+  yo: cabía
+  tu: cabías
+  vos: cabías
+  ud: cabía
+  nosotros: cabíamos
+  vosotros: cabíais
+  uds: cabían
+futuro-simple:
+  yo: cabré
+  tu: cabrás
+  vos: cabrás
+  ud: cabrá
+  nosotros: cabremos
+  vosotros: cabréis
+  uds: cabrán
+condicional-simple:
+  yo: cabría
+  tu: cabrías
+  vos: cabrías
+  ud: cabría
+  nosotros: cabríamos
+  vosotros: cabríais
+  uds: cabrían
+presente-perfecto:
+  yo: he cabido
+  tu: has cabido
+  vos: has cabido
+  ud: ha cabido
+  nosotros: hemos cabido
+  vosotros: habéis cabido
+  uds: han cabido
+preterito-pluscuamperfecto:
+  yo: había cabido
+  tu: habías cabido
+  vos: habías cabido
+  ud: había cabido
+  nosotros: habíamos cabido
+  vosotros: habíais cabido
+  uds: habían cabido
+futuro-perfecto:
+  yo: habré cabido
+  tu: habrás cabido
+  vos: habrás cabido
+  ud: habrá cabido
+  nosotros: habremos cabido
+  vosotros: habréis cabido
+  uds: habrán cabido
+condicional-perfecto:
+  yo: habría cabido
+  tu: habrías cabido
+  vos: habrías cabido
+  ud: habría cabido
+  nosotros: habríamos cabido
+  vosotros: habríais cabido
+  uds: habrían cabido
+presente-subjuntivo:
+  yo: quepa
+  tu: quepas
+  vos: quepas
+  ud: quepa
+  nosotros: quepamos
+  vosotros: quepáis
+  uds: quepan
+preterito-perfecto-subjuntivo:
+  yo: haya cabido
+  tu: hayas cabido
+  vos: hayas cabido
+  ud: haya cabido
+  nosotros: hayamos cabido
+  vosotros: hayáis cabido
+  uds: hayan cabido
+imperfecto-subjuntivo:
+  yo:
+    - cupiera
+    - cupiese
+  tu:
+    - cupieras
+    - cupieses
+  vos:
+    - cupieras
+    - cupieses
+  ud:
+    - cupiera
+    - cupiese
+  nosotros:
+    - cupiéramos
+    - cupiésemos
+  vosotros:
+    - cupierais
+    - cupieseis
+  uds:
+    - cupieran
+    - cupiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cabido
+    - hubiese cabido
+  tu:
+    - hubieras cabido
+    - hubieses cabido
+  vos:
+    - hubieras cabido
+    - hubieses cabido
+  ud:
+    - hubiera cabido
+    - hubiese cabido
+  nosotros:
+    - hubiéramos cabido
+    - hubiésemos cabido
+  vosotros:
+    - hubierais cabido
+    - hubieseis cabido
+  uds:
+    - hubieran cabido
+    - hubiesen cabido
+imperativo:
+  tu: cabe
+  vos: cabé
+  ud: quepa
+  nosotros: quepamos
+  vosotros: cabed
+  uds: quepan

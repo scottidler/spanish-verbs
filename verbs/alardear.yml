@@ -1,0 +1,142 @@
+infinitivo: alardear
+gerundio: alardeando
+participio-pasado: alardeado
+presente-indicativo:
+  yo: alardeo
+  tu: alardeas
+  vos: alardeas
+  ud: alardea
+  nosotros: alardeamos
+  vosotros: alardeáis
+  uds: alardean
+preterito-perfecto-simple:
+  yo: alardeé
+  tu: alardeaste
+  vos: alardeaste
+  ud: alardeó
+  nosotros: alardeamos
+  vosotros: alardeasteis
+  uds: alardearon
+preterito-imperfecto:
+  yo: alardeaba
+  tu: alardeabas
+  vos: alardeabas
+  ud: alardeaba
+  nosotros: alardeábamos
+  vosotros: alardeabais
+  uds: alardeaban
+futuro-simple:
+  yo: alardearé
+  tu: alardearás
+  vos: alardearás
+  ud: alardeará
+  nosotros: alardearemos
+  vosotros: alardearéis
+  uds: alardearán
+condicional-simple:
+  yo: alardearía
+  tu: alardearías
+  vos: alardearías
+  ud: alardearía
+  nosotros: alardearíamos
+  vosotros: alardearíais
+  uds: alardearían
+presente-perfecto:
+  yo: he alardeado
+  tu: has alardeado
+  vos: has alardeado
+  ud: ha alardeado
+  nosotros: hemos alardeado
+  vosotros: habéis alardeado
+  uds: han alardeado
+preterito-pluscuamperfecto:
+  yo: había alardeado
+  tu: habías alardeado
+  vos: habías alardeado
+  ud: había alardeado
+  nosotros: habíamos alardeado
+  vosotros: habíais alardeado
+  uds: habían alardeado
+futuro-perfecto:
+  yo: habré alardeado
+  tu: habrás alardeado
+  vos: habrás alardeado
+  ud: habrá alardeado
+  nosotros: habremos alardeado
+  vosotros: habréis alardeado
+  uds: habrán alardeado
+condicional-perfecto:
+  yo: habría alardeado
+  tu: habrías alardeado
+  vos: habrías alardeado
+  ud: habría alardeado
+  nosotros: habríamos alardeado
+  vosotros: habríais alardeado
+  uds: habrían alardeado
+presente-subjuntivo:
+  yo: alardee
+  tu: alardees
+  vos: alardees
+  ud: alardee
+  nosotros: alardeemos
+  vosotros: alardeéis
+  uds: alardeen
+preterito-perfecto-subjuntivo:
+  yo: haya alardeado
+  tu: hayas alardeado
+  vos: hayas alardeado
+  ud: haya alardeado
+  nosotros: hayamos alardeado
+  vosotros: hayáis alardeado
+  uds: hayan alardeado
+imperfecto-subjuntivo:
+  yo:
+    - alardeara
+    - alardease
+  tu:
+    - alardearas
+    - alardeases
+  vos:
+    - alardearas
+    - alardeases
+  ud:
+    - alardeara
+    - alardease
+  nosotros:
+    - alardeáramos
+    - alardeásemos
+  vosotros:
+    - alardearais
+    - alardeaseis
+  uds:
+    - alardearan
+    - alardeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alardeado
+    - hubiese alardeado
+  tu:
+    - hubieras alardeado
+    - hubieses alardeado
+  vos:
+    - hubieras alardeado
+    - hubieses alardeado
+  ud:
+    - hubiera alardeado
+    - hubiese alardeado
+  nosotros:
+    - hubiéramos alardeado
+    - hubiésemos alardeado
+  vosotros:
+    - hubierais alardeado
+    - hubieseis alardeado
+  uds:
+    - hubieran alardeado
+    - hubiesen alardeado
+imperativo:
+  tu: alardea
+  vos: alardeá
+  ud: alardee
+  nosotros: alardeemos
+  vosotros: alardead
+  uds: alardeen

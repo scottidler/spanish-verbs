@@ -1,0 +1,142 @@
+infinitivo: alarder
+gerundio: alardando
+participio-pasado: alardado
+presente-indicativo:
+  yo: alardo
+  tu: alardas
+  vos: alardas
+  ud: alarda
+  nosotros: alardamos
+  vosotros: alardáis
+  uds: alardan
+preterito-perfecto-simple:
+  yo: alardé
+  tu: alardaste
+  vos: alardaste
+  ud: alardó
+  nosotros: alardamos
+  vosotros: alardasteis
+  uds: alardaron
+preterito-imperfecto:
+  yo: alardaba
+  tu: alardabas
+  vos: alardabas
+  ud: alardaba
+  nosotros: alardábamos
+  vosotros: alardabais
+  uds: alardaban
+futuro-simple:
+  yo: alardaré
+  tu: alardarás
+  vos: alardarás
+  ud: alardará
+  nosotros: alardaremos
+  vosotros: alardaréis
+  uds: alardarán
+condicional-simple:
+  yo: alardaría
+  tu: alardarías
+  vos: alardarías
+  ud: alardaría
+  nosotros: alardaríamos
+  vosotros: alardaríais
+  uds: alardarían
+presente-perfecto:
+  yo: he alardado
+  tu: has alardado
+  vos: has alardado
+  ud: ha alardado
+  nosotros: hemos alardado
+  vosotros: habéis alardado
+  uds: han alardado
+preterito-pluscuamperfecto:
+  yo: había alardado
+  tu: habías alardado
+  vos: habías alardado
+  ud: había alardado
+  nosotros: habíamos alardado
+  vosotros: habíais alardado
+  uds: habían alardado
+futuro-perfecto:
+  yo: habré alardado
+  tu: habrás alardado
+  vos: habrás alardado
+  ud: habrá alardado
+  nosotros: habremos alardado
+  vosotros: habréis alardado
+  uds: habrán alardado
+condicional-perfecto:
+  yo: habría alardado
+  tu: habrías alardado
+  vos: habrías alardado
+  ud: habría alardado
+  nosotros: habríamos alardado
+  vosotros: habríais alardado
+  uds: habrían alardado
+presente-subjuntivo:
+  yo: alarde
+  tu: alardes
+  vos: alardes
+  ud: alarde
+  nosotros: alardemos
+  vosotros: alardéis
+  uds: alarden
+preterito-perfecto-subjuntivo:
+  yo: haya alardado
+  tu: hayas alardado
+  vos: hayas alardado
+  ud: haya alardado
+  nosotros: hayamos alardado
+  vosotros: hayáis alardado
+  uds: hayan alardado
+imperfecto-subjuntivo:
+  yo:
+    - alardara
+    - alardase
+  tu:
+    - alardaras
+    - alardases
+  vos:
+    - alardaras
+    - alardases
+  ud:
+    - alardara
+    - alardase
+  nosotros:
+    - alardáramos
+    - alardásemos
+  vosotros:
+    - alardarais
+    - alardaseis
+  uds:
+    - alardaran
+    - alardasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alardado
+    - hubiese alardado
+  tu:
+    - hubieras alardado
+    - hubieses alardado
+  vos:
+    - hubieras alardado
+    - hubieses alardado
+  ud:
+    - hubiera alardado
+    - hubiese alardado
+  nosotros:
+    - hubiéramos alardado
+    - hubiésemos alardado
+  vosotros:
+    - hubierais alardado
+    - hubieseis alardado
+  uds:
+    - hubieran alardado
+    - hubiesen alardado
+imperativo:
+  tu: alarda
+  vos: alardá
+  ud: alarde
+  nosotros: alardemos
+  vosotros: alardad
+  uds: alarden

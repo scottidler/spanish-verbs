@@ -1,0 +1,142 @@
+infinitivo: dormitar
+gerundio: dormitando
+participio-pasado: dormitado
+presente-indicativo:
+  yo: dormito
+  tu: dormitas
+  vos: dormitas
+  ud: dormita
+  nosotros: dormitamos
+  vosotros: dormitáis
+  uds: dormitan
+preterito-perfecto-simple:
+  yo: dormité
+  tu: dormitaste
+  vos: dormitaste
+  ud: dormitó
+  nosotros: dormitamos
+  vosotros: dormitasteis
+  uds: dormitaron
+preterito-imperfecto:
+  yo: dormitaba
+  tu: dormitabas
+  vos: dormitabas
+  ud: dormitaba
+  nosotros: dormitábamos
+  vosotros: dormitabais
+  uds: dormitaban
+futuro-simple:
+  yo: dormitaré
+  tu: dormitarás
+  vos: dormitarás
+  ud: dormitará
+  nosotros: dormitaremos
+  vosotros: dormitaréis
+  uds: dormitarán
+condicional-simple:
+  yo: dormitaría
+  tu: dormitarías
+  vos: dormitarías
+  ud: dormitaría
+  nosotros: dormitaríamos
+  vosotros: dormitaríais
+  uds: dormitarían
+presente-perfecto:
+  yo: he dormitado
+  tu: has dormitado
+  vos: has dormitado
+  ud: ha dormitado
+  nosotros: hemos dormitado
+  vosotros: habéis dormitado
+  uds: han dormitado
+preterito-pluscuamperfecto:
+  yo: había dormitado
+  tu: habías dormitado
+  vos: habías dormitado
+  ud: había dormitado
+  nosotros: habíamos dormitado
+  vosotros: habíais dormitado
+  uds: habían dormitado
+futuro-perfecto:
+  yo: habré dormitado
+  tu: habrás dormitado
+  vos: habrás dormitado
+  ud: habrá dormitado
+  nosotros: habremos dormitado
+  vosotros: habréis dormitado
+  uds: habrán dormitado
+condicional-perfecto:
+  yo: habría dormitado
+  tu: habrías dormitado
+  vos: habrías dormitado
+  ud: habría dormitado
+  nosotros: habríamos dormitado
+  vosotros: habríais dormitado
+  uds: habrían dormitado
+presente-subjuntivo:
+  yo: duerma
+  tu: duermas
+  vos: duermas
+  ud: duerma
+  nosotros: durmamos
+  vosotros: durmáis
+  uds: duerman
+preterito-perfecto-subjuntivo:
+  yo: haya dormitado
+  tu: hayas dormitado
+  vos: hayas dormitado
+  ud: haya dormitado
+  nosotros: hayamos dormitado
+  vosotros: hayáis dormitado
+  uds: hayan dormitado
+imperfecto-subjuntivo:
+  yo:
+    - dormitara
+    - dormitase
+  tu:
+    - dormitaras
+    - dormitases
+  vos:
+    - dormitaras
+    - dormitases
+  ud:
+    - dormitara
+    - dormitase
+  nosotros:
+    - dormitáramos
+    - dormitásemos
+  vosotros:
+    - dormitarais
+    - dormitaseis
+  uds:
+    - dormitaran
+    - dormitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dormitado
+    - hubiese dormitado
+  tu:
+    - hubieras dormitado
+    - hubieses dormitado
+  vos:
+    - hubieras dormitado
+    - hubieses dormitado
+  ud:
+    - hubiera dormitado
+    - hubiese dormitado
+  nosotros:
+    - hubiéramos dormitado
+    - hubiésemos dormitado
+  vosotros:
+    - hubierais dormitado
+    - hubieseis dormitado
+  uds:
+    - hubieran dormitado
+    - hubiesen dormitado
+imperativo:
+  tu: duerme
+  vos: dormitá
+  ud: duerma
+  nosotros: durmamos
+  vosotros: dormid
+  uds: duerman

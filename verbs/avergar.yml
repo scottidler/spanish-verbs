@@ -1,0 +1,142 @@
+infinitivo: avergar
+gerundio: avergando
+participio-pasado: avergado
+presente-indicativo:
+  yo: avergo
+  tu: avergas
+  vos: avergas
+  ud: averga
+  nosotros: avergamos
+  vosotros: avergáis
+  uds: avergan
+preterito-perfecto-simple:
+  yo: avergué
+  tu: avergaste
+  vos: avergaste
+  ud: avergó
+  nosotros: avergamos
+  vosotros: avergasteis
+  uds: avergaron
+preterito-imperfecto:
+  yo: avergaba
+  tu: avergabas
+  vos: avergabas
+  ud: avergaba
+  nosotros: avergábamos
+  vosotros: avergabais
+  uds: avergaban
+futuro-simple:
+  yo: avergaré
+  tu: avergarás
+  vos: avergarás
+  ud: avergará
+  nosotros: avergaremos
+  vosotros: avergaréis
+  uds: avergarán
+condicional-simple:
+  yo: avergaría
+  tu: avergarías
+  vos: avergarías
+  ud: avergaría
+  nosotros: avergaríamos
+  vosotros: avergaríais
+  uds: avergarían
+presente-perfecto:
+  yo: he avergado
+  tu: has avergado
+  vos: has avergado
+  ud: ha avergado
+  nosotros: hemos avergado
+  vosotros: habéis avergado
+  uds: han avergado
+preterito-pluscuamperfecto:
+  yo: había avergado
+  tu: habías avergado
+  vos: habías avergado
+  ud: había avergado
+  nosotros: habíamos avergado
+  vosotros: habíais avergado
+  uds: habían avergado
+futuro-perfecto:
+  yo: habré avergado
+  tu: habrás avergado
+  vos: habrás avergado
+  ud: habrá avergado
+  nosotros: habremos avergado
+  vosotros: habréis avergado
+  uds: habrán avergado
+condicional-perfecto:
+  yo: habría avergado
+  tu: habrías avergado
+  vos: habrías avergado
+  ud: habría avergado
+  nosotros: habríamos avergado
+  vosotros: habríais avergado
+  uds: habrían avergado
+presente-subjuntivo:
+  yo: avergue
+  tu: avergues
+  vos: avergues
+  ud: avergue
+  nosotros: averguemos
+  vosotros: averguéis
+  uds: averguen
+preterito-perfecto-subjuntivo:
+  yo: haya avergado
+  tu: hayas avergado
+  vos: hayas avergado
+  ud: haya avergado
+  nosotros: hayamos avergado
+  vosotros: hayáis avergado
+  uds: hayan avergado
+imperfecto-subjuntivo:
+  yo:
+    - avergara
+    - avergase
+  tu:
+    - avergaras
+    - avergases
+  vos:
+    - avergaras
+    - avergases
+  ud:
+    - avergara
+    - avergase
+  nosotros:
+    - avergáramos
+    - avergásemos
+  vosotros:
+    - avergarais
+    - avergaseis
+  uds:
+    - avergaran
+    - avergasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera avergado
+    - hubiese avergado
+  tu:
+    - hubieras avergado
+    - hubieses avergado
+  vos:
+    - hubieras avergado
+    - hubieses avergado
+  ud:
+    - hubiera avergado
+    - hubiese avergado
+  nosotros:
+    - hubiéramos avergado
+    - hubiésemos avergado
+  vosotros:
+    - hubierais avergado
+    - hubieseis avergado
+  uds:
+    - hubieran avergado
+    - hubiesen avergado
+imperativo:
+  tu: averga
+  vos: avergá
+  ud: avergue
+  nosotros: averguemos
+  vosotros: avergad
+  uds: averguen

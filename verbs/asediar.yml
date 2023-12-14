@@ -1,0 +1,142 @@
+infinitivo: asediar
+gerundio: asediando
+participio-pasado: asediado
+presente-indicativo:
+  yo: asedio
+  tu: asedias
+  vos: asedias
+  ud: asedia
+  nosotros: asediamos
+  vosotros: asediáis
+  uds: asedian
+preterito-perfecto-simple:
+  yo: asedié
+  tu: asediaste
+  vos: asediaste
+  ud: asedió
+  nosotros: asediamos
+  vosotros: asediasteis
+  uds: asediaron
+preterito-imperfecto:
+  yo: asediaba
+  tu: asediabas
+  vos: asediabas
+  ud: asediaba
+  nosotros: asediábamos
+  vosotros: asediabais
+  uds: asediaban
+futuro-simple:
+  yo: asediaré
+  tu: asediarás
+  vos: asediarás
+  ud: asediará
+  nosotros: asediaremos
+  vosotros: asediaréis
+  uds: asediarán
+condicional-simple:
+  yo: asediaría
+  tu: asediarías
+  vos: asediarías
+  ud: asediaría
+  nosotros: asediaríamos
+  vosotros: asediaríais
+  uds: asediarían
+presente-perfecto:
+  yo: he asediado
+  tu: has asediado
+  vos: has asediado
+  ud: ha asediado
+  nosotros: hemos asediado
+  vosotros: habéis asediado
+  uds: han asediado
+preterito-pluscuamperfecto:
+  yo: había asediado
+  tu: habías asediado
+  vos: habías asediado
+  ud: había asediado
+  nosotros: habíamos asediado
+  vosotros: habíais asediado
+  uds: habían asediado
+futuro-perfecto:
+  yo: habré asediado
+  tu: habrás asediado
+  vos: habrás asediado
+  ud: habrá asediado
+  nosotros: habremos asediado
+  vosotros: habréis asediado
+  uds: habrán asediado
+condicional-perfecto:
+  yo: habría asediado
+  tu: habrías asediado
+  vos: habrías asediado
+  ud: habría asediado
+  nosotros: habríamos asediado
+  vosotros: habríais asediado
+  uds: habrían asediado
+presente-subjuntivo:
+  yo: asedie
+  tu: asedies
+  vos: asedies
+  ud: asedie
+  nosotros: asediemos
+  vosotros: asediéis
+  uds: asedien
+preterito-perfecto-subjuntivo:
+  yo: haya asediado
+  tu: hayas asediado
+  vos: hayas asediado
+  ud: haya asediado
+  nosotros: hayamos asediado
+  vosotros: hayáis asediado
+  uds: hayan asediado
+imperfecto-subjuntivo:
+  yo:
+    - asediara
+    - asediase
+  tu:
+    - asediaras
+    - asediases
+  vos:
+    - asediaras
+    - asediases
+  ud:
+    - asediara
+    - asediase
+  nosotros:
+    - asediáramos
+    - asediásemos
+  vosotros:
+    - asediarais
+    - asediaseis
+  uds:
+    - asediaran
+    - asediasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asediado
+    - hubiese asediado
+  tu:
+    - hubieras asediado
+    - hubieses asediado
+  vos:
+    - hubieras asediado
+    - hubieses asediado
+  ud:
+    - hubiera asediado
+    - hubiese asediado
+  nosotros:
+    - hubiéramos asediado
+    - hubiésemos asediado
+  vosotros:
+    - hubierais asediado
+    - hubieseis asediado
+  uds:
+    - hubieran asediado
+    - hubiesen asediado
+imperativo:
+  tu: asedia
+  vos: asedía
+  ud: asedie
+  nosotros: asediemos
+  vosotros: asediad
+  uds: asedien

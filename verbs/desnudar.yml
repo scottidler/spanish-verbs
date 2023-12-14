@@ -1,0 +1,142 @@
+infinitivo: desnudar
+gerundio: desnudando
+participio-pasado: desnudado
+presente-indicativo:
+  yo: desnudo
+  tu: desnudas
+  vos: desnudás
+  ud: desnuda
+  nosotros: desnudamos
+  vosotros: desnudáis
+  uds: desnudan
+preterito-perfecto-simple:
+  yo: desnudé
+  tu: desnudaste
+  vos: desnudaste
+  ud: desnudó
+  nosotros: desnudamos
+  vosotros: desnudasteis
+  uds: desnudaron
+preterito-imperfecto:
+  yo: desnudaba
+  tu: desnudabas
+  vos: desnudabas
+  ud: desnudaba
+  nosotros: desnudábamos
+  vosotros: desnudabais
+  uds: desnudaban
+futuro-simple:
+  yo: desnudaré
+  tu: desnudarás
+  vos: desnudarás
+  ud: desnudará
+  nosotros: desnudaremos
+  vosotros: desnudaréis
+  uds: desnudarán
+condicional-simple:
+  yo: desnudaría
+  tu: desnudarías
+  vos: desnudarías
+  ud: desnudaría
+  nosotros: desnudaríamos
+  vosotros: desnudaríais
+  uds: desnudarían
+presente-perfecto:
+  yo: he desnudado
+  tu: has desnudado
+  vos: has desnudado
+  ud: ha desnudado
+  nosotros: hemos desnudado
+  vosotros: habéis desnudado
+  uds: han desnudado
+preterito-pluscuamperfecto:
+  yo: había desnudado
+  tu: habías desnudado
+  vos: habías desnudado
+  ud: había desnudado
+  nosotros: habíamos desnudado
+  vosotros: habíais desnudado
+  uds: habían desnudado
+futuro-perfecto:
+  yo: habré desnudado
+  tu: habrás desnudado
+  vos: habrás desnudado
+  ud: habrá desnudado
+  nosotros: habremos desnudado
+  vosotros: habréis desnudado
+  uds: habrán desnudado
+condicional-perfecto:
+  yo: habría desnudado
+  tu: habrías desnudado
+  vos: habrías desnudado
+  ud: habría desnudado
+  nosotros: habríamos desnudado
+  vosotros: habríais desnudado
+  uds: habrían desnudado
+presente-subjuntivo:
+  yo: desnude
+  tu: desnudes
+  vos: desnudes
+  ud: desnude
+  nosotros: desnudemos
+  vosotros: desnudéis
+  uds: desnuden
+preterito-perfecto-subjuntivo:
+  yo: haya desnudado
+  tu: hayas desnudado
+  vos: hayas desnudado
+  ud: haya desnudado
+  nosotros: hayamos desnudado
+  vosotros: hayáis desnudado
+  uds: hayan desnudado
+imperfecto-subjuntivo:
+  yo:
+    - desnudara
+    - desnudase
+  tu:
+    - desnudaras
+    - desnudases
+  vos:
+    - desnudaras
+    - desnudases
+  ud:
+    - desnudara
+    - desnudase
+  nosotros:
+    - desnudáramos
+    - desnudásemos
+  vosotros:
+    - desnudarais
+    - desnudaseis
+  uds:
+    - desnudaran
+    - desnudasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desnudado
+    - hubiese desnudado
+  tu:
+    - hubieras desnudado
+    - hubieses desnudado
+  vos:
+    - hubieras desnudado
+    - hubieses desnudado
+  ud:
+    - hubiera desnudado
+    - hubiese desnudado
+  nosotros:
+    - hubiéramos desnudado
+    - hubiésemos desnudado
+  vosotros:
+    - hubierais desnudado
+    - hubieseis desnudado
+  uds:
+    - hubieran desnudado
+    - hubiesen desnudado
+imperativo:
+  tu: desnuda
+  vos: desnudá
+  ud: desnuda
+  nosotros: desnudemos
+  vosotros: desnudad
+  uds: desnuden

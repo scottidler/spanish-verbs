@@ -1,0 +1,156 @@
+infinitivo: apilar
+gerundio: apilando
+participio-pasado: apilado
+
+presente-indicativo:
+  yo: apilo
+  tu: apilas
+  vos: apilas
+  ud: apila
+  nosotros: apilamos
+  vosotros: apiláis
+  uds: apilan
+
+preterito-perfecto-simple:
+  yo: apilé
+  tu: apilaste
+  vos: apilaste
+  ud: apiló
+  nosotros: apilamos
+  vosotros: apilasteis
+  uds: apilaron
+
+preterito-imperfecto:
+  yo: apilaba
+  tu: apilabas
+  vos: apilabas
+  ud: apilaba
+  nosotros: apilábamos
+  vosotros: apilabais
+  uds: apilaban
+  
+futuro-simple:
+  yo: apilaré
+  tu: apilarás
+  vos: apilarás
+  ud: apilará
+  nosotros: apilaremos
+  vosotros: apilaréis
+  uds: apilarán
+  
+condicional-simple:
+  yo: apilaría
+  tu: apilarías
+  vos: apilarías
+  ud: apilaría
+  nosotros: apilaríamos
+  vosotros: apilaríais
+  uds: apilarían
+
+presente-perfecto:
+  yo: he apilado
+  tu: has apilado
+  vos: has apilado
+  ud: ha apilado
+  nosotros: hemos apilado
+  vosotros: habéis apilado
+  uds: han apilado
+
+preterito-pluscuamperfecto:
+  yo: había apilado
+  tu: habías apilado
+  vos: habías apilado
+  ud: había apilado
+  nosotros: habíamos apilado
+  vosotros: habíais apilado
+  uds: habían apilado
+
+futuro-perfecto:
+  yo: habré apilado
+  tu: habrás apilado
+  vos: habrás apilado
+  ud: habrá apilado
+  nosotros: habremos apilado
+  vosotros: habréis apilado
+  uds: habrán apilado
+
+condicional-perfecto:
+  yo: habría apilado
+  tu: habrías apilado
+  vos: habrías apilado
+  ud: habría apilado
+  nosotros: habríamos apilado
+  vosotros: habríais apilado
+  uds: habrían apilado
+
+presente-subjuntivo:
+  yo: apile
+  tu: apiles
+  vos: apiles
+  ud: apile
+  nosotros: apilemos
+  vosotros: apiléis
+  uds: apilen
+
+preterito-perfecto-subjuntivo:
+  yo: haya apilado
+  tu: hayas apilado
+  vos: hayas apilado
+  ud: haya apilado
+  nosotros: hayamos apilado
+  vosotros: hayáis apilado
+  uds: hayan apilado
+
+imperfecto-subjuntivo:
+  yo:
+    - apilara
+    - apilase
+  tu:
+    - apilaras
+    - apilases
+  vos:
+    - apilaras
+    - apilases
+  ud:
+    - apilara
+    - apilase
+  nosotros:
+    - apiláramos
+    - apilásemos
+  vosotros:
+    - apilarais
+    - apilaseis
+  uds:
+    - apilaran
+    - apilasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apilado
+    - hubiese apilado
+  tu:
+    - hubieras apilado
+    - hubieses apilado
+  vos:
+    - hubieras apilado
+    - hubieses apilado
+  ud:
+    - hubiera apilado
+    - hubiese apilado
+  nosotros:
+    - hubiéramos apilado
+    - hubiésemos apilado
+  vosotros:
+    - hubierais apilado
+    - hubieseis apilado
+  uds:
+    - hubieran apilado
+    - hubiesen apilado
+
+imperativo:
+  tu: apila
+  vos: apilá
+  ud: apile
+  nosotros: apilemos
+  vosotros: apilad
+  uds: apilen

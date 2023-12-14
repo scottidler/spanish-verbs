@@ -1,0 +1,142 @@
+infinitivo: signifir
+gerundio: significando
+participio-pasado: significado
+presente-indicativo:
+  yo: signifo
+  tu: signifas
+  vos: signifas
+  ud: signifa
+  nosotros: significamos
+  vosotros: significáis
+  uds: significan
+preterito-perfecto-simple:
+  yo: signifiqué
+  tu: signifcaste
+  vos: signifcaste
+  ud: signifcó
+  nosotros: significamos
+  vosotros: signifcasteis
+  uds: signifcaron
+preterito-imperfecto:
+  yo: significaba
+  tu: significabas
+  vos: significabas
+  ud: significaba
+  nosotros: significábamos
+  vosotros: significabais
+  uds: significaban
+futuro-simple:
+  yo: significaré
+  tu: significarás
+  vos: significarás
+  ud: significará
+  nosotros: significaremos
+  vosotros: significaréis
+  uds: significarán
+condicional-simple:
+  yo: significaría
+  tu: significarías
+  vos: significarías
+  ud: significaría
+  nosotros: significaríamos
+  vosotros: significaríais
+  uds: significarían
+presente-perfecto:
+  yo: he significado
+  tu: has significado
+  vos: has significado
+  ud: ha significado
+  nosotros: hemos significado
+  vosotros: habéis significado
+  uds: han significado
+preterito-pluscuamperfecto:
+  yo: había significado
+  tu: habías significado
+  vos: habías significado
+  ud: había significado
+  nosotros: habíamos significado
+  vosotros: habíais significado
+  uds: habían significado
+futuro-perfecto:
+  yo: habré significado
+  tu: habrás significado
+  vos: habrás significado
+  ud: habrá significado
+  nosotros: habremos significado
+  vosotros: habréis significado
+  uds: habrán significado
+condicional-perfecto:
+  yo: habría significado
+  tu: habrías significado
+  vos: habrías significado
+  ud: habría significado
+  nosotros: habríamos significado
+  vosotros: habríais significado
+  uds: habrían significado
+presente-subjuntivo:
+  yo: signifique
+  tu: signifiques
+  vos: signifiques
+  ud: signifique
+  nosotros: signifiquemos
+  vosotros: signifiqueis
+  uds: signifquen
+preterito-perfecto-subjuntivo:
+  yo: haya significado
+  tu: hayas significado
+  vos: hayas significado
+  ud: haya significado
+  nosotros: hayamos significado
+  vosotros: hayáis significado
+  uds: hayan significado
+imperfecto-subjuntivo:
+  yo:
+    - significara
+    - significase
+  tu:
+    - signficaras
+    - significases
+  vos:
+    - signficaras
+    - significases
+  ud:
+    - significara
+    - significase
+  nosotros:
+    - signficáramos
+    - signficásemos
+  vosotros:
+    - signficarais
+    - significaseis
+  uds:
+    - signficaran
+    - significasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera significado
+    - hubiese significado
+  tu:
+    - hubieras significado
+    - hubieses significado
+  vos:
+    - hubieras significado
+    - hubieses significado
+  ud:
+    - hubiera significado
+    - hubiese significado
+  nosotros:
+    - hubiéramos significado
+    - hubiésemos significado
+  vosotros:
+    - hubierais significado
+    - hubieseis significado
+  uds:
+    - hubieran significado
+    - hubiesen significado
+imperativo:
+  tu: signifir
+  vos: signifique
+  ud: signifique
+  nosotros: signifiquemos
+  vosotros: significad
+  uds: signifquen

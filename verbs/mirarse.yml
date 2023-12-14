@@ -1,0 +1,142 @@
+infinitivo: mirarse
+gerundio: mirándose
+participio-pasado: mirado
+presente-indicativo:
+  yo: me miro
+  tu: te miras
+  vos: te miras
+  ud: se mira
+  nosotros: nos miramos
+  vosotros: os miráis
+  uds: se miran
+preterito-perfecto-simple:
+  yo: me miré
+  tu: te miraste
+  vos: te miraste
+  ud: se miró
+  nosotros: nos miramos
+  vosotros: os mirasteis
+  uds: se miraron
+preterito-imperfecto:
+  yo: me miraba
+  tu: te mirabas
+  vos: te mirabas
+  ud: se miraba
+  nosotros: nos mirábamos
+  vosotros: os mirabais
+  uds: se miraban
+futuro-simple:
+  yo: me miraré
+  tu: te mirarás
+  vos: te mirarás
+  ud: se mirará
+  nosotros: nos miraremos
+  vosotros: os miraréis
+  uds: se mirarán
+condicional-simple:
+  yo: me miraría
+  tu: te mirarías
+  vos: te mirarías
+  ud: se miraría
+  nosotros: nos miraríamos
+  vosotros: os miraríais
+  uds: se mirarían
+presente-perfecto:
+  yo: me he mirado
+  tu: te has mirado
+  vos: te has mirado
+  ud: se ha mirado
+  nosotros: nos hemos mirado
+  vosotros: os habéis mirado
+  uds: se han mirado
+preterito-pluscuamperfecto:
+  yo: me había mirado
+  tu: te habías mirado
+  vos: te habías mirado
+  ud: se había mirado
+  nosotros: nos habíamos mirado
+  vosotros: os habíais mirado
+  uds: se habían mirado
+futuro-perfecto:
+  yo: me habré mirado
+  tu: te habrás mirado
+  vos: te habrás mirado
+  ud: se habrá mirado
+  nosotros: nos habremos mirado
+  vosotros: os habréis mirado
+  uds: se habrán mirado
+condicional-perfecto:
+  yo: me habría mirado
+  tu: te habrías mirado
+  vos: te habrías mirado
+  ud: se habría mirado
+  nosotros: nos habríamos mirado
+  vosotros: os habríais mirado
+  uds: se habrían mirado
+presente-subjuntivo:
+  yo: me mire
+  tu: te mires
+  vos: te mires
+  ud: se mire
+  nosotros: nos miremos
+  vosotros: os miréis
+  uds: se miren
+preterito-perfecto-subjuntivo:
+  yo: me haya mirado
+  tu: te hayas mirado
+  vos: te hayas mirado
+  ud: se haya mirado
+  nosotros: nos hayamos mirado
+  vosotros: os hayáis mirado
+  uds: se hayan mirado
+imperfecto-subjuntivo:
+  yo:
+    - me mirara
+    - me mirase
+  tu:
+    - te miraras
+    - te mirases
+  vos:
+    - te miraras
+    - te mirases
+  ud:
+    - se mirara
+    - se mirase
+  nosotros:
+    - nos miráramos
+    - nos mirásemos
+  vosotros:
+    - os mirarais
+    - os miraseis
+  uds:
+    - se miraran
+    - se mirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera mirado
+    - me hubiese mirado
+  tu:
+    - te hubieras mirado
+    - te hubieses mirado
+  vos:
+    - te hubieras mirado
+    - te hubieses mirado
+  ud:
+    - se hubiera mirado
+    - se hubiese mirado
+  nosotros:
+    - nos hubiéramos mirado
+    - nos hubiésemos mirado
+  vosotros:
+    - os hubierais mirado
+    - os hubieseis mirado
+  uds:
+    - se hubieran mirado
+    - se hubiesen mirado
+imperativo:
+  tu: mírate
+  vos: mirate
+  ud: mírese
+  nosotros: mirémonos
+  vosotros: miraos
+  uds: mírense

@@ -1,0 +1,142 @@
+infinitivo: aljar
+gerundio: aljando
+participio-pasado: aljado
+presente-indicativo:
+  yo: aljo
+  tu: aljas
+  vos: aljas
+  ud: alja
+  nosotros: aljamos
+  vosotros: aljáis
+  uds: aljan
+preterito-perfecto-simple:
+  yo: aljé
+  tu: aljaste
+  vos: aljaste
+  ud: aljó
+  nosotros: aljamos
+  vosotros: aljasteis
+  uds: aljaron
+preterito-imperfecto:
+  yo: aljaba
+  tu: aljabas
+  vos: aljabas
+  ud: aljaba
+  nosotros: aljábamos
+  vosotros: aljabais
+  uds: aljaban
+futuro-simple:
+  yo: aljaré
+  tu: aljarás
+  vos: aljarás
+  ud: aljará
+  nosotros: aljaremos
+  vosotros: aljaréis
+  uds: aljarán
+condicional-simple:
+  yo: aljaría
+  tu: aljarías
+  vos: aljarías
+  ud: aljaría
+  nosotros: aljaríamos
+  vosotros: aljaríais
+  uds: aljarían
+presente-perfecto:
+  yo: he aljado
+  tu: has aljado
+  vos: has aljado
+  ud: ha aljado
+  nosotros: hemos aljado
+  vosotros: habéis aljado
+  uds: han aljado
+preterito-pluscuamperfecto:
+  yo: había aljado
+  tu: habías aljado
+  vos: habías aljado
+  ud: había aljado
+  nosotros: habíamos aljado
+  vosotros: habíais aljado
+  uds: habían aljado
+futuro-perfecto:
+  yo: habré aljado
+  tu: habrás aljado
+  vos: habrás aljado
+  ud: habrá aljado
+  nosotros: habremos aljado
+  vosotros: habréis aljado
+  uds: habrán aljado
+condicional-perfecto:
+  yo: habría aljado
+  tu: habrías aljado
+  vos: habrías aljado
+  ud: habría aljado
+  nosotros: habríamos aljado
+  vosotros: habríais aljado
+  uds: habrían aljado
+presente-subjuntivo:
+  yo: alje
+  tu: aljes
+  vos: aljes
+  ud: alje
+  nosotros: aljemos
+  vosotros: aljéis
+  uds: aljen
+preterito-perfecto-subjuntivo:
+  yo: haya aljado
+  tu: hayas aljado
+  vos: hayas aljado
+  ud: haya aljado
+  nosotros: hayamos aljado
+  vosotros: hayáis aljado
+  uds: hayan aljado
+imperfecto-subjuntivo:
+  yo:
+    - aljara
+    - aljase
+  tu:
+    - aljaras
+    - aljases
+  vos:
+    - aljaras
+    - aljases
+  ud:
+    - aljara
+    - aljase
+  nosotros:
+    - aljáramos
+    - aljásemos
+  vosotros:
+    - aljarais
+    - aljaseis
+  uds:
+    - aljaran
+    - aljasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aljado
+    - hubiese aljado
+  tu:
+    - hubieras aljado
+    - hubieses aljado
+  vos:
+    - hubieras aljado
+    - hubieses aljado
+  ud:
+    - hubiera aljado
+    - hubiese aljado
+  nosotros:
+    - hubiéramos aljado
+    - hubiésemos aljado
+  vosotros:
+    - hubierais aljado
+    - hubieseis aljado
+  uds:
+    - hubieran aljado
+    - hubiesen aljado
+imperativo:
+  tu: alja
+  vos: aljá
+  ud: alje
+  nosotros: aljemos
+  vosotros: aljad
+  uds: aljen

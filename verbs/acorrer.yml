@@ -1,0 +1,142 @@
+infinitivo: acorrer
+gerundio: acorriendo
+participio-pasado: acorrido
+presente-indicativo:
+  yo: acorro
+  tu: acorres
+  vos: acorres
+  ud: acorre
+  nosotros: acorremos
+  vosotros: acorréis
+  uds: acorren
+preterito-perfecto-simple:
+  yo: acorrí
+  tu: acorriste
+  vos: acorriste
+  ud: acorrió
+  nosotros: acorrimos
+  vosotros: acorristeis
+  uds: acorrieron
+preterito-imperfecto:
+  yo: acorría
+  tu: acorrías
+  vos: acorrías
+  ud: acorría
+  nosotros: acorríamos
+  vosotros: acorríais
+  uds: acorrían
+futuro-simple:
+  yo: acorreré
+  tu: acorrerás
+  vos: acorrerás
+  ud: acorrerá
+  nosotros: acorreremos
+  vosotros: acorreréis
+  uds: acorrerán
+condicional-simple:
+  yo: acorrería
+  tu: acorrerías
+  vos: acorrerías
+  ud: acorrería
+  nosotros: acorreríamos
+  vosotros: acorreríais
+  uds: acorrerían
+presente-perfecto:
+  yo: he acorrido
+  tu: has acorrido
+  vos: has acorrido
+  ud: ha acorrido
+  nosotros: hemos acorrido
+  vosotros: habéis acorrido
+  uds: han acorrido
+preterito-pluscuamperfecto:
+  yo: había acorrido
+  tu: habías acorrido
+  vos: habías acorrido
+  ud: había acorrido
+  nosotros: habíamos acorrido
+  vosotros: habíais acorrido
+  uds: habían acorrido
+futuro-perfecto:
+  yo: habré acorrido
+  tu: habrás acorrido
+  vos: habrás acorrido
+  ud: habrá acorrido
+  nosotros: habremos acorrido
+  vosotros: habréis acorrido
+  uds: habrán acorrido
+condicional-perfecto:
+  yo: habría acorrido
+  tu: habrías acorrido
+  vos: habrías acorrido
+  ud: habría acorrido
+  nosotros: habríamos acorrido
+  vosotros: habríais acorrido
+  uds: habrían acorrido
+presente-subjuntivo:
+  yo: acorra
+  tu: acorras
+  vos: acorras
+  ud: acorra
+  nosotros: acorramos
+  vosotros: acorráis
+  uds: acorran
+preterito-perfecto-subjuntivo:
+  yo: haya acorrido
+  tu: hayas acorrido
+  vos: hayas acorrido
+  ud: haya acorrido
+  nosotros: hayamos acorrido
+  vosotros: hayáis acorrido
+  uds: hayan acorrido
+imperfecto-subjuntivo:
+  yo:
+    - acorriera
+    - acorriese
+  tu:
+    - acorrieras
+    - acorrieses
+  vos:
+    - acorrieras
+    - acorrieses
+  ud:
+    - acorriera
+    - acorriese
+  nosotros:
+    - acorriéramos
+    - acorriésemos
+  vosotros:
+    - acorrierais
+    - acorrieseis
+  uds:
+    - acorrieran
+    - acorriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acorrido
+    - hubiese acorrido
+  tu:
+    - hubieras acorrido
+    - hubieses acorrido
+  vos:
+    - hubieras acorrido
+    - hubieses acorrido
+  ud:
+    - hubiera acorrido
+    - hubiese acorrido
+  nosotros:
+    - hubiéramos acorrido
+    - hubiésemos acorrido
+  vosotros:
+    - hubierais acorrido
+    - hubieseis acorrido
+  uds:
+    - hubieran acorrido
+    - hubiesen acorrido
+imperativo:
+  tu: acorre
+  vos: acorred
+  ud: acorra
+  nosotros: aco
+  vosotros: acorred
+  uds: aco

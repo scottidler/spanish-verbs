@@ -1,0 +1,142 @@
+infinitivo: vagar
+gerundio: vagando
+participio-pasado: vagado
+presente-indicativo:
+  yo: vago
+  tu: vagas
+  vos: vagás
+  ud: vaga
+  nosotros: vagamos
+  vosotros: vagáis
+  uds: vagan
+preterito-perfecto-simple:
+  yo: vagué
+  tu: vagaste
+  vos: vagaste
+  ud: vagó
+  nosotros: vagamos
+  vosotros: vagasteis
+  uds: vagaron
+preterito-imperfecto:
+  yo: vagaba
+  tu: vagabas
+  vos: vagabas
+  ud: vagaba
+  nosotros: vagábamos
+  vosotros: vagabais
+  uds: vagaban
+futuro-simple:
+  yo: vagaré
+  tu: vagarás
+  vos: vagarás
+  ud: vagará
+  nosotros: vagaremos
+  vosotros: vagaréis
+  uds: vagarán
+condicional-simple:
+  yo: vagaría
+  tu: vagarías
+  vos: vagarías
+  ud: vagaría
+  nosotros: vagaríamos
+  vosotros: vagaríais
+  uds: vagarían
+presente-perfecto:
+  yo: he vagado
+  tu: has vagado
+  vos: has vagado
+  ud: ha vagado
+  nosotros: hemos vagado
+  vosotros: habéis vagado
+  uds: han vagado
+preterito-pluscuamperfecto:
+  yo: había vagado
+  tu: habías vagado
+  vos: habías vagado
+  ud: había vagado
+  nosotros: habíamos vagado
+  vosotros: habíais vagado
+  uds: habían vagado
+futuro-perfecto:
+  yo: habré vagado
+  tu: habrás vagado
+  vos: habrás vagado
+  ud: habrá vagado
+  nosotros: habremos vagado
+  vosotros: habréis vagado
+  uds: habrán vagado
+condicional-perfecto:
+  yo: habría vagado
+  tu: habrías vagado
+  vos: habrías vagado
+  ud: habría vagado
+  nosotros: habríamos vagado
+  vosotros: habríais vagado
+  uds: habrían vagado
+presente-subjuntivo:
+  yo: vague
+  tu: vagues
+  vos: vagués
+  ud: vague
+  nosotros: vaguemos
+  vosotros: vaguéis
+  uds: vaguen
+preterito-perfecto-subjuntivo:
+  yo: haya vagado
+  tu: hayas vagado
+  vos: hayas vagado
+  ud: haya vagado
+  nosotros: hayamos vagado
+  vosotros: hayáis vagado
+  uds: hayan vagado
+imperfecto-subjuntivo:
+  yo:
+    - vagara
+    - vagase
+  tu:
+    - vagaras
+    - vagases
+  vos:
+    - vagaras
+    - vagases
+  ud:
+    - vagara
+    - vagase
+  nosotros:
+    - vagáramos
+    - vagásemos
+  vosotros:
+    - vagarais
+    - vagaseis
+  uds:
+    - vagaran
+    - vagasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vagado
+    - hubiese vagado
+  tu:
+    - hubieras vagado
+    - hubieses vagado
+  vos:
+    - hubieras vagado
+    - hubieses vagado
+  ud:
+    - hubiera vagado
+    - hubiese vagado
+  nosotros:
+    - hubiéramos vagado
+    - hubiésemos vagado
+  vosotros:
+    - hubierais vagado
+    - hubieseis vagado
+  uds:
+    - hubieran vagado
+    - hubiesen vagado
+imperativo:
+  tu: vaga
+  vos: vagá
+  ud: vague
+  nosotros: vaguemos
+  vosotros: vagad
+  uds: vaguen

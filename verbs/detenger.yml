@@ -1,0 +1,142 @@
+infinitivo: detenar
+gerundio: detenando
+participio-pasado: detenado
+presente-indicativo:
+  yo: deteno
+  tu: detenes
+  vos: detenes
+  ud: detena
+  nosotros: detenemos
+  vosotros: detenéis
+  uds: detenan
+preterito-perfecto-simple:
+  yo: detube
+  tu: detuviste
+  vos: detuviste
+  ud: detuvo
+  nosotros: detuvimos
+  vosotros: detuvisteis
+  uds: detuvieron
+preterito-imperfecto:
+  yo: detenía
+  tu: detenías
+  vos: detenías
+  ud: detenía
+  nosotros: deteníamos
+  vosotros: deteníais
+  uds: detenían
+futuro-simple:
+  yo: detendré
+  tu: detendrás
+  vos: detendrás
+  ud: detendrá
+  nosotros: detendremos
+  vosotros: detendréis
+  uds: detendrán
+condicional-simple:
+  yo: detendría
+  tu: detendrías
+  vos: detendrías
+  ud: detendría
+  nosotros: detendríamos
+  vosotros: detendríais
+  uds: detendrían
+presente-perfecto:
+  yo: he detenido
+  tu: has detenido
+  vos: has detenido
+  ud: ha detenido
+  nosotros: hemos detenido
+  vosotros: habéis detenido
+  uds: han detenido
+preterito-pluscuamperfecto:
+  yo: había detenido
+  tu: habías detenido
+  vos: habías detenido
+  ud: había detenido
+  nosotros: habíamos detenido
+  vosotros: habíais detenido
+  uds: habían detenido
+futuro-perfecto:
+  yo: habré detenido
+  tu: habrás detenido
+  vos: habrás detenido
+  ud: habrá detenido
+  nosotros: habremos detenido
+  vosotros: habréis detenido
+  uds: habrán detenido
+condicional-perfecto:
+  yo: habría detenido
+  tu: habrías detenido
+  vos: habrías detenido
+  ud: habría detenido
+  nosotros: habríamos detenido
+  vosotros: habríais detenido
+  uds: habrían detenido
+presente-subjuntivo:
+  yo: detenga
+  tu: detengas
+  vos: detengas
+  ud: detenga
+  nosotros: detengamos
+  vosotros: detengáis
+  uds: detengan
+preterito-perfecto-subjuntivo:
+  yo: haya detenido
+  tu: hayas detenido
+  vos: hayas detenido
+  ud: haya detenido
+  nosotros: hayamos detenido
+  vosotros: hayáis detenido
+  uds: hayan detenido
+imperfecto-subjuntivo:
+  yo:
+    - detuviera
+    - detuviese
+  tu:
+    - detuvieras
+    - detuvieses
+  vos:
+    - detuvieras
+    - detuvieses
+  ud:
+    - detuviera
+    - detuviese
+  nosotros:
+    - detuviéramos
+    - detuviésemos
+  vosotros:
+    - detuvierais
+    - detuvieseis
+  uds:
+    - detuvieran
+    - detuviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera detenido
+    - hubiese detenido
+  tu:
+    - hubieras detenido
+    - hubieses detenido
+  vos:
+    - hubieras detenido
+    - hubieses detenido
+  ud:
+    - hubiera detenido
+    - hubiese detenido
+  nosotros:
+    - hubiéramos detenido
+    - hubiésemos detenido
+  vosotros:
+    - hubierais detenido
+    - hubieseis detenido
+  uds:
+    - hubieran detenido
+    - hubiesen detenido
+imperativo:
+  tu: detén
+  vos: detened
+  ud: detenga
+  nosotros: detengamos
+  vosotros: detened
+  uds: detengan

@@ -1,0 +1,142 @@
+infinitivo: enrollar
+gerundio: enrollando
+participio-pasado: enrollado
+presente-indicativo:
+  yo: enroll-o
+  tu: enroll-as
+  vos: enroll-ás
+  ud: enroll-a
+  nosotros: enroll-amos
+  vosotros: enroll-áis
+  uds: enroll-an
+preterito-perfecto-simple:
+  yo: enroll-é
+  tu: enroll-aste
+  vos: enroll-aste
+  ud: enroll-ó
+  nosotros: enroll-amos
+  vosotros: enroll-asteis
+  uds: enroll-aron
+preterito-imperfecto:
+  yo: enroll-aba
+  tu: enroll-abas
+  vos: enroll-abas
+  ud: enroll-aba
+  nosotros: enroll-ábamos
+  vosotros: enroll-abais
+  uds: enroll-aban
+futuro-simple:
+  yo: enroll-aré
+  tu: enroll-arás
+  vos: enroll-arás
+  ud: enroll-ará
+  nosotros: enroll-aremos
+  vosotros: enroll-aréis
+  uds: enroll-arán
+condicional-simple:
+  yo: enroll-aría
+  tu: enroll-arías
+  vos: enroll-arías
+  ud: enroll-aría
+  nosotros: enroll-aríamos
+  vosotros: enroll-aríais
+  uds: enroll-arían
+presente-perfecto:
+  yo: he enrollado
+  tu: has enrollado
+  vos: has enrollado
+  ud: ha enrollado
+  nosotros: hemos enrollado
+  vosotros: habéis enrollado
+  uds: han enrollado
+preterito-pluscuamperfecto:
+  yo: había enrollado
+  tu: habías enrollado
+  vos: habías enrollado
+  ud: había enrollado
+  nosotros: habíamos enrollado
+  vosotros: habíais enrollado
+  uds: habían enrollado
+futuro-perfecto:
+  yo: habré enrollado
+  tu: habrás enrollado
+  vos: habrás enrollado
+  ud: habrá enrollado
+  nosotros: habremos enrollado
+  vosotros: habréis enrollado
+  uds: habrán enrollado
+condicional-perfecto:
+  yo: habría enrollado
+  tu: habrías enrollado
+  vos: habrías enrollado
+  ud: habría enrollado
+  nosotros: habríamos enrollado
+  vosotros: habríais enrollado
+  uds: habrían enrollado
+presente-subjuntivo:
+  yo: enroll-e
+  tu: enroll-es
+  vos: enroll-es
+  ud: enroll-e
+  nosotros: enroll-emos
+  vosotros: enroll-éis
+  uds: enroll-en
+preterito-perfecto-subjuntivo:
+  yo: haya enrollado
+  tu: hayas enrollado
+  vos: hayas enrollado
+  ud: haya enrollado
+  nosotros: hayamos enrollado
+  vosotros: hayáis enrollado
+  uds: hayan enrollado
+imperfecto-subjuntivo:
+  yo:
+    - enroll-ara
+    - enroll-ase
+  tu:
+    - enroll-aras
+    - enroll-ases
+  vos:
+    - enroll-aras
+    - enroll-ases
+  ud:
+    - enroll-ara
+    - enroll-ase
+  nosotros:
+    - enroll-áramos
+    - enroll-ásemos
+  vosotros:
+    - enroll-arais
+    - enroll-aseis
+  uds:
+    - enroll-aran
+    - enroll-asen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enrollado
+    - hubiese enrollado
+  tu:
+    - hubieras enrollado
+    - hubieses enrollado
+  vos:
+    - hubieras enrollado
+    - hubieses enrollado
+  ud:
+    - hubiera enrollado
+    - hubiese enrollado
+  nosotros:
+    - hubiéramos enrollado
+    - hubiésemos enrollado
+  vosotros:
+    - hubierais enrollado
+    - hubieseis enrollado
+  uds:
+    - hubieran enrollado
+    - hubiesen enrollado
+imperativo:
+  tu: enroll-a
+  vos: enroll-á
+  ud: enroll-e
+  nosotros: enroll-emos
+  vosotros: enroll-ad
+  uds: enroll-en

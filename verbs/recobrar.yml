@@ -1,0 +1,142 @@
+infinitivo: recobrar
+gerundio: recobrando
+participio-pasado: recobrado
+presente-indicativo:
+  yo: recobro
+  tu: recobras
+  vos: recobras
+  ud: recobra
+  nosotros: recobramos
+  vosotros: recobráis
+  uds: recobran
+preterito-perfecto-simple:
+  yo: recobré
+  tu: recobraste
+  vos: recobraste
+  ud: recobró
+  nosotros: recobramos
+  vosotros: recobrasteis
+  uds: recobraron
+preterito-imperfecto:
+  yo: recobraba
+  tu: recobrabas
+  vos: recobrabas
+  ud: recobraba
+  nosotros: recobrábamos
+  vosotros: recobrabais
+  uds: recobraban
+futuro-simple:
+  yo: recobraré
+  tu: recobrarás
+  vos: recobrarás
+  ud: recobrará
+  nosotros: recobraremos
+  vosotros: recobraréis
+  uds: recobrarán
+condicional-simple:
+  yo: recobraría
+  tu: recobrarías
+  vos: recobrarías
+  ud: recobraría
+  nosotros: recobraríamos
+  vosotros: recobraríais
+  uds: recobrarían
+presente-perfecto:
+  yo: he recobrado
+  tu: has recobrado
+  vos: has recobrado
+  ud: ha recobrado
+  nosotros: hemos recobrado
+  vosotros: habéis recobrado
+  uds: han recobrado
+preterito-pluscuamperfecto:
+  yo: había recobrado
+  tu: habías recobrado
+  vos: habías recobrado
+  ud: había recobrado
+  nosotros: habíamos recobrado
+  vosotros: habíais recobrado
+  uds: habían recobrado
+futuro-perfecto:
+  yo: habré recobrado
+  tu: habrás recobrado
+  vos: habrás recobrado
+  ud: habrá recobrado
+  nosotros: habremos recobrado
+  vosotros: habréis recobrado
+  uds: habrán recobrado
+condicional-perfecto:
+  yo: habría recobrado
+  tu: habrías recobrado
+  vos: habrías recobrado
+  ud: habría recobrado
+  nosotros: habríamos recobrado
+  vosotros: habríais recobrado
+  uds: habrían recobrado
+presente-subjuntivo:
+  yo: recobre
+  tu: recobres
+  vos: recobres
+  ud: recobre
+  nosotros: recobremos
+  vosotros: recobréis
+  uds: recobren
+preterito-perfecto-subjuntivo:
+  yo: haya recobrado
+  tu: hayas recobrado
+  vos: hayas recobrado
+  ud: haya recobrado
+  nosotros: hayamos recobrado
+  vosotros: hayáis recobrado
+  uds: hayan recobrado
+imperfecto-subjuntivo:
+  yo:
+    - recobrara
+    - recobrase
+  tu:
+    - recobraras
+    - recobrases
+  vos:
+    - recobraras
+    - recobrases
+  ud:
+    - recobrara
+    - recobrase
+  nosotros:
+    - recobráramos
+    - recobrásemos
+  vosotros:
+    - recobrarais
+    - recobraseis
+  uds:
+    - recobraran
+    - recobrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recobrado
+    - hubiese recobrado
+  tu:
+    - hubieras recobrado
+    - hubieses recobrado
+  vos:
+    - hubieras recobrado
+    - hubieses recobrado
+  ud:
+    - hubiera recobrado
+    - hubiese recobrado
+  nosotros:
+    - hubiéramos recobrado
+    - hubiésemos recobrado
+  vosotros:
+    - hubierais recobrado
+    - hubieseis recobrado
+  uds:
+    - hubieran recobrado
+    - hubiesen recobrado
+imperativo:
+  tu: recobra
+  vos: recobrá
+  ud: recobre
+  nosotros: recobremos
+  vosotros: recobrad
+  uds: recobren

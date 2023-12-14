@@ -1,0 +1,142 @@
+infinitivo: carecer
+gerundio: careciendo
+participio-pasado: carecido
+presente-indicativo:
+  yo: carezco
+  tu: careces
+  vos: careces
+  ud: carece
+  nosotros: carecemos
+  vosotros: carecéis
+  uds: carecen
+preterito-perfecto-simple:
+  yo: carecí
+  tu: careciste
+  vos: careciste
+  ud: careció
+  nosotros: carecimos
+  vosotros: carecisteis
+  uds: carecieron
+preterito-imperfecto:
+  yo: carecía
+  tu: carecías
+  vos: carecías
+  ud: carecía
+  nosotros: carecíamos
+  vosotros: carecíais
+  uds: carecían
+futuro-simple:
+  yo: careceré
+  tu: carecerás
+  vos: carecerás
+  ud: carecerá
+  nosotros: careceremos
+  vosotros: careceréis
+  uds: carecerán
+condicional-simple:
+  yo: carecería
+  tu: carecerías
+  vos: carecerías
+  ud: carecería
+  nosotros: careceríamos
+  vosotros: careceríais
+  uds: carecerían
+presente-perfecto:
+  yo: he carecido
+  tu: has carecido
+  vos: has carecido
+  ud: ha carecido
+  nosotros: hemos carecido
+  vosotros: habéis carecido
+  uds: han carecido
+preterito-pluscuamperfecto:
+  yo: había carecido
+  tu: habías carecido
+  vos: habías carecido
+  ud: había carecido
+  nosotros: habíamos carecido
+  vosotros: habíais carecido
+  uds: habían carecido
+futuro-perfecto:
+  yo: habré carecido
+  tu: habrás carecido
+  vos: habrás carecido
+  ud: habrá carecido
+  nosotros: habremos carecido
+  vosotros: habréis carecido
+  uds: habrán carecido
+condicional-perfecto:
+  yo: habría carecido
+  tu: habrías carecido
+  vos: habrías carecido
+  ud: habría carecido
+  nosotros: habríamos carecido
+  vosotros: habríais carecido
+  uds: habrían carecido
+presente-subjuntivo:
+  yo: carezca
+  tu: carezcas
+  vos: carezcas
+  ud: carezca
+  nosotros: carezcamos
+  vosotros: carezcáis
+  uds: carezcan
+preterito-perfecto-subjuntivo:
+  yo: haya carecido
+  tu: hayas carecido
+  vos: hayas carecido
+  ud: haya carecido
+  nosotros: hayamos carecido
+  vosotros: hayáis carecido
+  uds: hayan carecido
+imperfecto-subjuntivo:
+  yo:
+    - careciera
+    - careciese
+  tu:
+    - carecieras
+    - carecieses
+  vos:
+    - carecieras
+    - carecieses
+  ud:
+    - careciera
+    - careciese
+  nosotros:
+    - careciéramos
+    - careciésemos
+  vosotros:
+    - carecierais
+    - carecieseis
+  uds:
+    - carecieran
+    - careciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera carecido
+    - hubiese carecido
+  tu:
+    - hubieras carecido
+    - hubieses carecido
+  vos:
+    - hubieras carecido
+    - hubieses carecido
+  ud:
+    - hubiera carecido
+    - hubiese carecido
+  nosotros:
+    - hubiéramos carecido
+    - hubiésemos carecido
+  vosotros:
+    - hubierais carecido
+    - hubieseis carecido
+  uds:
+    - hubieran carecido
+    - hubiesen carecido
+imperativo:
+  tu: carece
+  vos: carecé
+  ud: carezca
+  nosotros: carezcamos
+  vosotros: careced
+  uds: carezcan

@@ -1,0 +1,142 @@
+infinitivo: producir
+gerundio: produciendo
+participio-pasado: producido
+presente-indicativo:
+  yo: produzco
+  tu: produces
+  vos: produces
+  ud: produce
+  nosotros: producimos
+  vosotros: producís
+  uds: producen
+preterito-perfecto-simple:
+  yo: produje
+  tu: produjiste
+  vos: produjiste
+  ud: produjo
+  nosotros: produjimos
+  vosotros: produjisteis
+  uds: produjeron
+preterito-imperfecto:
+  yo: producía
+  tu: producías
+  vos: producías
+  ud: producía
+  nosotros: producíamos
+  vosotros: producíais
+  uds: producían
+futuro-simple:
+  yo: produciré
+  tu: producirás
+  vos: producirás
+  ud: producirá
+  nosotros: produciremos
+  vosotros: produciréis
+  uds: producirán
+condicional-simple:
+  yo: produciría
+  tu: producirías
+  vos: producirías
+  ud: produciría
+  nosotros: produciríamos
+  vosotros: produciríais
+  uds: producirían
+presente-perfecto:
+  yo: he producido
+  tu: has producido
+  vos: has producido
+  ud: ha producido
+  nosotros: hemos producido
+  vosotros: habéis producido
+  uds: han producido
+preterito-pluscuamperfecto:
+  yo: había producido
+  tu: habías producido
+  vos: habías producido
+  ud: había producido
+  nosotros: habíamos producido
+  vosotros: habíais producido
+  uds: habían producido
+futuro-perfecto:
+  yo: habré producido
+  tu: habrás producido
+  vos: habrás producido
+  ud: habrá producido
+  nosotros: habremos producido
+  vosotros: habréis producido
+  uds: habrán producido
+condicional-perfecto:
+  yo: habría producido
+  tu: habrías producido
+  vos: habrías producido
+  ud: habría producido
+  nosotros: habríamos producido
+  vosotros: habríais producido
+  uds: habrían producido
+presente-subjuntivo:
+  yo: produzca
+  tu: produzcas
+  vos: produzcas
+  ud: produzca
+  nosotros: produzcamos
+  vosotros: produzcáis
+  uds: produzcan
+preterito-perfecto-subjuntivo:
+  yo: haya producido
+  tu: hayas producido
+  vos: hayas producido
+  ud: haya producido
+  nosotros: hayamos producido
+  vosotros: hayáis producido
+  uds: hayan producido
+imperfecto-subjuntivo:
+  yo:
+    - produjera
+    - produjese
+  tu:
+    - produjeras
+    - produjeses
+  vos:
+    - produjeras
+    - produjeses
+  ud:
+    - produjera
+    - produjese
+  nosotros:
+    - produjéramos
+    - produjésemos
+  vosotros:
+    - produjerais
+    - produjeseis
+  uds:
+    - produjeran
+    - produjesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera producido
+    - hubiese producido
+  tu:
+    - hubieras producido
+    - hubieses producido
+  vos:
+    - hubieras producido
+    - hubieses producido
+  ud:
+    - hubiera producido
+    - hubiese producido
+  nosotros:
+    - hubiéramos producido
+    - hubiésemos producido
+  vosotros:
+    - hubierais producido
+    - hubieseis producido
+  uds:
+    - hubieran producido
+    - hubiesen producido
+imperativo:
+  tu: produce
+  vos: producí
+  ud: produzca
+  nosotros: produzcamos
+  vosotros: producid
+  uds: produzcan

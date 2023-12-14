@@ -1,0 +1,142 @@
+infinitivo: acomodar
+gerundio: acomodando
+participio-pasado: acomodado
+presente-indicativo:
+  yo: acomodo
+  tu: acomodas
+  vos: acomodás
+  ud: acomoda
+  nosotros: acomodamos
+  vosotros: acomodáis
+  uds: acomodan
+preterito-perfecto-simple:
+  yo: acomodé
+  tu: acomodaste
+  vos: acomodaste
+  ud: acomodó
+  nosotros: acomodamos
+  vosotros: acomodasteis
+  uds: acomodaron
+preterito-imperfecto:
+  yo: acomodaba
+  tu: acomodabas
+  vos: acomodabas
+  ud: acomodaba
+  nosotros: acomodábamos
+  vosotros: acomodabais
+  uds: acomodaban
+futuro-simple:
+  yo: acomodaré
+  tu: acomodarás
+  vos: acomodarás
+  ud: acomodará
+  nosotros: acomodaremos
+  vosotros: acomodaréis
+  uds: acomodarán
+condicional-simple:
+  yo: acomodaría
+  tu: acomodarías
+  vos: acomodarías
+  ud: acomodaría
+  nosotros: acomodaríamos
+  vosotros: acomodaríais
+  uds: acomodarían
+presente-perfecto:
+  yo: he acomodado
+  tu: has acomodado
+  vos: has acomodado
+  ud: ha acomodado
+  nosotros: hemos acomodado
+  vosotros: habéis acomodado
+  uds: han acomodado
+preterito-pluscuamperfecto:
+  yo: había acomodado
+  tu: habías acomodado
+  vos: habías acomodado
+  ud: había acomodado
+  nosotros: habíamos acomodado
+  vosotros: habíais acomodado
+  uds: habían acomodado
+futuro-perfecto:
+  yo: habré acomodado
+  tu: habrás acomodado
+  vos: habrás acomodado
+  ud: habrá acomodado
+  nosotros: habremos acomodado
+  vosotros: habréis acomodado
+  uds: habrán acomodado
+condicional-perfecto:
+  yo: habría acomodado
+  tu: habrías acomodado
+  vos: habrías acomodado
+  ud: habría acomodado
+  nosotros: habríamos acomodado
+  vosotros: habríais acomodado
+  uds: habrían acomodado
+presente-subjuntivo:
+  yo: acomode
+  tu: acomodes
+  vos: acomodés
+  ud: acomode
+  nosotros: acomodemos
+  vosotros: acomodéis
+  uds: acomoden
+preterito-perfecto-subjuntivo:
+  yo: haya acomodado
+  tu: hayas acomodado
+  vos: hayas acomodado
+  ud: haya acomodado
+  nosotros: hayamos acomodado
+  vosotros: hayáis acomodado
+  uds: hayan acomodado
+imperfecto-subjuntivo:
+  yo:
+    - acomodara
+    - acomodase
+  tu:
+    - acomodaras
+    - acomodases
+  vos:
+    - acomodaras
+    - acomodases
+  ud:
+    - acomodara
+    - acomodase
+  nosotros:
+    - acomodáramos
+    - acomodásemos
+  vosotros:
+    - acomodarais
+    - acomodaseis
+  uds:
+    - acomodaran
+    - acomodasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acomodado
+    - hubiese acomodado
+  tu:
+    - hubieras acomodado
+    - hubieses acomodado
+  vos:
+    - hubieras acomodado
+    - hubieses acomodado
+  ud:
+    - hubiera acomodado
+    - hubiese acomodado
+  nosotros:
+    - hubiéramos acomodado
+    - hubiésemos acomodado
+  vosotros:
+    - hubierais acomodado
+    - hubieseis acomodado
+  uds:
+    - hubieran acomodado
+    - hubiesen acomodado
+imperativo:
+  tu: acomoda
+  vos: acomodá
+  ud: acomode
+  nosotros: acomodemos
+  vosotros: acomodad
+  uds: acomoden

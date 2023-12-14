@@ -1,0 +1,142 @@
+infinitivo: desterrar
+gerundio: desterrando
+participio-pasado: desterrado
+presente-indicativo:
+  yo: destierro
+  tu: destierras
+  vos: destierras
+  ud: destierra
+  nosotros: desterramos
+  vosotros: desterráis
+  uds: destierran
+preterito-perfecto-simple:
+  yo: desterré
+  tu: desterraste
+  vos: desterraste
+  ud: desterró
+  nosotros: desterramos
+  vosotros: desterrasteis
+  uds: desterraron
+preterito-imperfecto:
+  yo: desterraba
+  tu: desterrabas
+  vos: desterrabas
+  ud: desterraba
+  nosotros: desterrábamos
+  vosotros: desterrabais
+  uds: desterraban
+futuro-simple:
+  yo: desterraré
+  tu: desterrarás
+  vos: desterrarás
+  ud: desterrará
+  nosotros: desterraremos
+  vosotros: desterraréis
+  uds: desterrarán
+condicional-simple:
+  yo: desterraría
+  tu: desterrarías
+  vos: desterrarías
+  ud: desterraría
+  nosotros: desterraríamos
+  vosotros: desterraríais
+  uds: desterrarían
+presente-perfecto:
+  yo: he desterrado
+  tu: has desterrado
+  vos: has desterrado
+  ud: ha desterrado
+  nosotros: hemos desterrado
+  vosotros: habéis desterrado
+  uds: han desterrado
+preterito-pluscuamperfecto:
+  yo: había desterrado
+  tu: habías desterrado
+  vos: habías desterrado
+  ud: había desterrado
+  nosotros: habíamos desterrado
+  vosotros: habíais desterrado
+  uds: habían desterrado
+futuro-perfecto:
+  yo: habré desterrado
+  tu: habrás desterrado
+  vos: habrás desterrado
+  ud: habrá desterrado
+  nosotros: habremos desterrado
+  vosotros: habréis desterrado
+  uds: habrán desterrado
+condicional-perfecto:
+  yo: habría desterrado
+  tu: habrías desterrado
+  vos: habrías desterrado
+  ud: habría desterrado
+  nosotros: habríamos desterrado
+  vosotros: habríais desterrado
+  uds: habrían desterrado
+presente-subjuntivo:
+  yo: destierre
+  tu: destierres
+  vos: destierres
+  ud: destierre
+  nosotros: desterremos
+  vosotros: desterréis
+  uds: destierren
+preterito-perfecto-subjuntivo:
+  yo: haya desterrado
+  tu: hayas desterrado
+  vos: hayas desterrado
+  ud: haya desterrado
+  nosotros: hayamos desterrado
+  vosotros: hayáis desterrado
+  uds: hayan desterrado
+imperfecto-subjuntivo:
+  yo:
+    - desterrara
+    - desterrase
+  tu:
+    - desterraras
+    - desterrases
+  vos:
+    - desterraras
+    - desterrases
+  ud:
+    - desterrara
+    - desterrase
+  nosotros:
+    - desterráramos
+    - desterrásemos
+  vosotros:
+    - desterrarais
+    - desterraseis
+  uds:
+    - desterraran
+    - desterrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desterrado
+    - hubiese desterrado
+  tu:
+    - hubieras desterrado
+    - hubieses desterrado
+  vos:
+    - hubieras desterrado
+    - hubieses desterrado
+  ud:
+    - hubiera desterrado
+    - hubiese desterrado
+  nosotros:
+    - hubiéramos desterrado
+    - hubiésemos desterrado
+  vosotros:
+    - hubierais desterrado
+    - hubieseis desterrado
+  uds:
+    - hubieran desterrado
+    - hubiesen desterrado
+imperativo:
+  tu: destierra
+  vos: desterrá
+  ud: destierre
+  nosotros: desterremos
+  vosotros: desterrad
+  uds: destierren

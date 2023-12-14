@@ -1,0 +1,142 @@
+infinitivo: plantarse
+gerundio: plantándose
+participio-pasado: plantado
+presente-indicativo:
+  yo: me planto
+  tu: te plantas
+  vos: te plantás
+  ud: se planta
+  nosotros: nos plantamos
+  vosotros: os plantáis
+  uds: se plantan
+preterito-perfecto-simple:
+  yo: me planté
+  tu: te plantaste
+  vos: te plantaste
+  ud: se plantó
+  nosotros: nos plantamos
+  vosotros: os plantasteis
+  uds: se plantaron
+preterito-imperfecto:
+  yo: me plantaba
+  tu: te plantabas
+  vos: te plantabas
+  ud: se plantaba
+  nosotros: nos plantábamos
+  vosotros: os plantabais
+  uds: se plantaban
+futuro-simple:
+  yo: me plantaré
+  tu: te plantarás
+  vos: te plantarás
+  ud: se plantará
+  nosotros: nos plantaremos
+  vosotros: os plantaréis
+  uds: se plantarán
+condicional-simple:
+  yo: me plantaría
+  tu: te plantarías
+  vos: te plantarías
+  ud: se plantaría
+  nosotros: nos plantaríamos
+  vosotros: os plantaríais
+  uds: se plantarían
+presente-perfecto:
+  yo: me he plantado
+  tu: te has plantado
+  vos: te has plantado
+  ud: se ha plantado
+  nosotros: nos hemos plantado
+  vosotros: os habéis plantado
+  uds: se han plantado
+preterito-pluscuamperfecto:
+  yo: me había plantado
+  tu: te habías plantado
+  vos: te habías plantado
+  ud: se había plantado
+  nosotros: nos habíamos plantado
+  vosotros: os habíais plantado
+  uds: se habían plantado
+futuro-perfecto:
+  yo: me habré plantado
+  tu: te habrás plantado
+  vos: te habrás plantado
+  ud: se habrá plantado
+  nosotros: nos habremos plantado
+  vosotros: os habréis plantado
+  uds: se habrán plantado
+condicional-perfecto:
+  yo: me habría plantado
+  tu: te habrías plantado
+  vos: te habrías plantado
+  ud: se habría plantado
+  nosotros: nos habríamos plantado
+  vosotros: os habríais plantado
+  uds: se habrían plantado
+presente-subjuntivo:
+  yo: me plante
+  tu: te plantes
+  vos: te plantes
+  ud: se plante
+  nosotros: nos plantemos
+  vosotros: os plantéis
+  uds: se planten
+preterito-perfecto-subjuntivo:
+  yo: me haya plantado
+  tu: te hayas plantado
+  vos: te hayas plantado
+  ud: se haya plantado
+  nosotros: nos hayamos plantado
+  vosotros: os hayáis plantado
+  uds: se hayan plantado
+imperfecto-subjuntivo:
+  yo:
+    - me plantara
+    - me plantase
+  tu:
+    - te plantaras
+    - te plantases
+  vos:
+    - te plantaras
+    - te plantases
+  ud:
+    - se plantara
+    - se plantase
+  nosotros:
+    - nos plantáramos
+    - nos plantásemos
+  vosotros:
+    - os plantarais
+    - os plantaseis
+  uds:
+    - se plantaran
+    - se plantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera plantado
+    - me hubiese plantado
+  tu:
+    - te hubieras plantado
+    - te hubieses plantado
+  vos:
+    - te hubieras plantado
+    - te hubieses plantado
+  ud:
+    - se hubiera plantado
+    - se hubiese plantado
+  nosotros:
+    - nos hubiéramos plantado
+    - nos hubiésemos plantado
+  vosotros:
+    - os hubierais plantado
+    - os hubieseis plantado
+  uds:
+    - se hubieran plantado
+    - se hubiesen plantado
+imperativo:
+  tu: plántate
+  vos: plantate
+  ud: plántese
+  nosotros: plantémonos
+  vosotros: plantaos
+  uds: plántense

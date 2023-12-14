@@ -1,0 +1,142 @@
+infinitivo: recostarse
+gerundio: recostándose
+participio-pasado: recostado
+presente-indicativo:
+  yo: me recuesto
+  tu: te recuestas
+  vos: te recostás
+  ud: se recuesta
+  nosotros: nos recostamos
+  vosotros: os recostáis
+  uds: se recuestan
+preterito-perfecto-simple:
+  yo: me recosté
+  tu: te recostaste
+  vos: te recostaste
+  ud: se recostó
+  nosotros: nos recostamos
+  vosotros: os recostasteis
+  uds: se recostaron
+preterito-imperfecto:
+  yo: me recostaba
+  tu: te recostabas
+  vos: te recostabas
+  ud: se recostaba
+  nosotros: nos recostábamos
+  vosotros: os recostabais
+  uds: se recostaban
+futuro-simple:
+  yo: me recostaré
+  tu: te recostarás
+  vos: te recostarás
+  ud: se recostará
+  nosotros: nos recostaremos
+  vosotros: os recostaréis
+  uds: se recostarán
+condicional-simple:
+  yo: me recostaría
+  tu: te recostarías
+  vos: te recostarías
+  ud: se recostaría
+  nosotros: nos recostaríamos
+  vosotros: os recostaríais
+  uds: se recostarían
+presente-perfecto:
+  yo: me he recostado
+  tu: te has recostado
+  vos: te has recostado
+  ud: se ha recostado
+  nosotros: nos hemos recostado
+  vosotros: os habéis recostado
+  uds: se han recostado
+preterito-pluscuamperfecto:
+  yo: me había recostado
+  tu: te habías recostado
+  vos: te habías recostado
+  ud: se había recostado
+  nosotros: nos habíamos recostado
+  vosotros: os habíais recostado
+  uds: se habían recostado
+futuro-perfecto:
+  yo: me habré recostado
+  tu: te habrás recostado
+  vos: te habrás recostado
+  ud: se habrá recostado
+  nosotros: nos habremos recostado
+  vosotros: os habréis recostado
+  uds: se habrán recostado
+condicional-perfecto:
+  yo: me habría recostado
+  tu: te habrías recostado
+  vos: te habrías recostado
+  ud: se habría recostado
+  nosotros: nos habríamos recostado
+  vosotros: os habríais recostado
+  uds: se habrían recostado
+presente-subjuntivo:
+  yo: me recueste
+  tu: te recuestes
+  vos: te recuestes
+  ud: se recueste
+  nosotros: nos recostemos
+  vosotros: os recostéis
+  uds: se recuesten
+preterito-perfecto-subjuntivo:
+  yo: me haya recostado
+  tu: te hayas recostado
+  vos: te hayas recostado
+  ud: se haya recostado
+  nosotros: nos hayamos recostado
+  vosotros: os hayáis recostado
+  uds: se hayan recostado
+imperfecto-subjuntivo:
+  yo:
+    - me recostara
+    - me recostase
+  tu:
+    - te recostaras
+    - te recostases
+  vos:
+    - te recostaras
+    - te recostases
+  ud:
+    - se recostara
+    - se recostase
+  nosotros:
+    - nos recostáramos
+    - nos recostásemos
+  vosotros:
+    - os recostarais
+    - os recostaseis
+  uds:
+    - se recostaran
+    - se recostasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera recostado
+    - me hubiese recostado
+  tu:
+    - te hubieras recostado
+    - te hubieses recostado
+  vos:
+    - te hubieras recostado
+    - te hubieses recostado
+  ud:
+    - se hubiera recostado
+    - se hubiese recostado
+  nosotros:
+    - nos hubiéramos recostado
+    - nos hubiésemos recostado
+  vosotros:
+    - os hubierais recostado
+    - os hubieseis recostado
+  uds:
+    - se hubieran recostado
+    - se hubiesen recostado
+imperativo:
+  tu: recuéstate
+  vos: recostáte
+  ud: recuéstese
+  nosotros: recostémonos
+  vosotros: recostaos
+  uds: recuéstense

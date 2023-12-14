@@ -1,0 +1,142 @@
+infinitivo: estrellar
+gerundio: estrellando
+participio-pasado: estrellado
+presente-indicativo:
+  yo: estrello
+  tu: estrellas
+  vos: estrellas
+  ud: estrella
+  nosotros: estrellamos
+  vosotros: estrelláis
+  uds: estrellan
+preterito-perfecto-simple:
+  yo: estrellé
+  tu: estrellaste
+  vos: estrellaste
+  ud: estrelló
+  nosotros: estrellamos
+  vosotros: estrellasteis
+  uds: estrellaron
+preterito-imperfecto:
+  yo: estrellaba
+  tu: estrellabas
+  vos: estrellabas
+  ud: estrellaba
+  nosotros: estrellábamos
+  vosotros: estrellabais
+  uds: estrellaban
+futuro-simple:
+  yo: estrellaré
+  tu: estrellarás
+  vos: estrellarás
+  ud: estrellará
+  nosotros: estrellaremos
+  vosotros: estrellaréis
+  uds: estrellarán
+condicional-simple:
+  yo: estrellaría
+  tu: estrellarías
+  vos: estrellarías
+  ud: estrellaría
+  nosotros: estrellaríamos
+  vosotros: estrellaríais
+  uds: estrellarían
+presente-perfecto:
+  yo: he estrellado
+  tu: has estrellado
+  vos: has estrellado
+  ud: ha estrellado
+  nosotros: hemos estrellado
+  vosotros: habéis estrellado
+  uds: han estrellado
+preterito-pluscuamperfecto:
+  yo: había estrellado
+  tu: habías estrellado
+  vos: habías estrellado
+  ud: había estrellado
+  nosotros: habíamos estrellado
+  vosotros: habíais estrellado
+  uds: habían estrellado
+futuro-perfecto:
+  yo: habré estrellado
+  tu: habrás estrellado
+  vos: habrás estrellado
+  ud: habrá estrellado
+  nosotros: habremos estrellado
+  vosotros: habréis estrellado
+  uds: habrán estrellado
+condicional-perfecto:
+  yo: habría estrellado
+  tu: habrías estrellado
+  vos: habrías estrellado
+  ud: habría estrellado
+  nosotros: habríamos estrellado
+  vosotros: habríais estrellado
+  uds: habrían estrellado
+presente-subjuntivo:
+  yo: estrelle
+  tu: estrelles
+  vos: estrelles
+  ud: estrelle
+  nosotros: estrellemos
+  vosotros: estrelléis
+  uds: estrellen
+preterito-perfecto-subjuntivo:
+  yo: haya estrellado
+  tu: hayas estrellado
+  vos: hayas estrellado
+  ud: haya estrellado
+  nosotros: hayamos estrellado
+  vosotros: hayáis estrellado
+  uds: hayan estrellado
+imperfecto-subjuntivo:
+  yo:
+    - estrellara
+    - estrellase
+  tu:
+    - estrellaras
+    - estrellases
+  vos:
+    - estrellaras
+    - estrellases
+  ud:
+    - estrellara
+    - estrellase
+  nosotros:
+    - estrelláramos
+    - estrellásemos
+  vosotros:
+    - estrellarais
+    - estrellaseis
+  uds:
+    - estrellaran
+    - estrellasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estrellado
+    - hubiese estrellado
+  tu:
+    - hubieras estrellado
+    - hubieses estrellado
+  vos:
+    - hubieras estrellado
+    - hubieses estrellado
+  ud:
+    - hubiera estrellado
+    - hubiese estrellado
+  nosotros:
+    - hubiéramos estrellado
+    - hubiésemos estrellado
+  vosotros:
+    - hubierais estrellado
+    - hubieseis estrellado
+  uds:
+    - hubieran estrellado
+    - hubiesen estrellado
+imperativo:
+  tu: estrella
+  vos: estrellá
+  ud: estrelle
+  nosotros: estrellemos
+  vosotros: estrellaos
+  uds: estrellen

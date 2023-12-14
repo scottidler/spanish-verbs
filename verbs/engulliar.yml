@@ -1,0 +1,142 @@
+infinitivo: engullir
+gerundio: engullendo
+participio-pasado: engullido
+presente-indicativo:
+  yo: engullo
+  tu: engulles
+  vos: engulles
+  ud: engulle
+  nosotros: engullimos
+  vosotros: engullís
+  uds: engullen
+preterito-perfecto-simple:
+  yo: engullí
+  tu: engulliste
+  vos: engulliste
+  ud: engulló
+  nosotros: engullimos
+  vosotros: engullisteis
+  uds: engulleron
+preterito-imperfecto:
+  yo: engullía
+  tu: engullías
+  vos: engullías
+  ud: engullía
+  nosotros: engullíamos
+  vosotros: engullíais
+  uds: engullían
+futuro-simple:
+  yo: engulliré
+  tu: engullirás
+  vos: engullirás
+  ud: engullirá
+  nosotros: engulliremos
+  vosotros: engulliréis
+  uds: engullirán
+condicional-simple:
+  yo: engulliría
+  tu: engullirías
+  vos: engullirías
+  ud: engulliría
+  nosotros: engulliríamos
+  vosotros: engulliríais
+  uds: engullirían
+presente-perfecto:
+  yo: he engullido
+  tu: has engullido
+  vos: has engullido
+  ud: ha engullido
+  nosotros: hemos engullido
+  vosotros: habéis engullido
+  uds: han engullido
+preterito-pluscuamperfecto:
+  yo: había engullido
+  tu: habías engullido
+  vos: habías engullido
+  ud: había engullido
+  nosotros: habíamos engullido
+  vosotros: habíais engullido
+  uds: habían engullido
+futuro-perfecto:
+  yo: habré engullido
+  tu: habrás engullido
+  vos: habrás engullido
+  ud: habrá engullido
+  nosotros: habremos engullido
+  vosotros: habréis engullido
+  uds: habrán engullido
+condicional-perfecto:
+  yo: habría engullido
+  tu: habrías engullido
+  vos: habrías engullido
+  ud: habría engullido
+  nosotros: habríamos engullido
+  vosotros: habríais engullido
+  uds: habrían engullido
+presente-subjuntivo:
+  yo: engulla
+  tu: engullas
+  vos: engullas
+  ud: engulla
+  nosotros: engullamos
+  vosotros: engulláis
+  uds: engullan
+preterito-perfecto-subjuntivo:
+  yo: haya engullido
+  tu: hayas engullido
+  vos: hayas engullido
+  ud: haya engullido
+  nosotros: hayamos engullido
+  vosotros: hayáis engullido
+  uds: hayan engullido
+imperfecto-subjuntivo:
+  yo:
+    - engullera
+    - engullese
+  tu:
+    - engulleras
+    - engulleses
+  vos:
+    - engulleras
+    - engulleses
+  ud:
+    - engullera
+    - engullese
+  nosotros:
+    - engulléramos
+    - engullésemos
+  vosotros:
+    - engullerais
+    - engulleaseis
+  uds:
+    - engulleran
+    - engullesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera engullido
+    - hubiese engullido
+  tu:
+    - hubieras engullido
+    - hubieses engullido
+  vos:
+    - hubieras engullido
+    - hubieses engullido
+  ud:
+    - hubiera engullido
+    - hubiese engullido
+  nosotros:
+    - hubiéramos engullido
+    - hubiésemos engullido
+  vosotros:
+    - hubierais engullido
+    - hubieseis engullido
+  uds:
+    - hubieran engullido
+    - hubiesen engullido
+imperativo:
+  tu: engulle
+  vos: engullí
+  ud: engulla
+  nosotros: engullamos
+  vosotros: engullid
+  uds: engullan

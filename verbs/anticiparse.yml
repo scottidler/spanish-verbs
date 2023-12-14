@@ -1,0 +1,142 @@
+infinitivo: anticiparse
+gerundio: anticipándose
+participio-pasado: anticipado
+presente-indicativo:
+  yo: me anticipo
+  tu: te anticipas
+  vos: te anticipás
+  ud: se anticipa
+  nosotros: nos anticipamos
+  vosotros: os anticipáis
+  uds: se anticipan
+preterito-perfecto-simple:
+  yo: me anticipé
+  tu: te anticipaste
+  vos: te anticipaste
+  ud: se anticipó
+  nosotros: nos anticipamos
+  vosotros: os anticipasteis
+  uds: se anticiparon
+preterito-imperfecto:
+  yo: me anticipaba
+  tu: te anticipabas
+  vos: te anticipabas
+  ud: se anticipaba
+  nosotros: nos anticipábamos
+  vosotros: os anticipabais
+  uds: se anticipaban
+futuro-simple:
+  yo: me anticiparé
+  tu: te anticiparás
+  vos: te anticiparás
+  ud: se anticipará
+  nosotros: nos anticiparemos
+  vosotros: os anticiparéis
+  uds: se anticiparán
+condicional-simple:
+  yo: me anticiparía
+  tu: te anticiparías
+  vos: te anticiparías
+  ud: se anticiparía
+  nosotros: nos anticiparíamos
+  vosotros: os anticiparíais
+  uds: se anticiparían
+presente-perfecto:
+  yo: me he anticipado
+  tu: te has anticipado
+  vos: te has anticipado
+  ud: se ha anticipado
+  nosotros: nos hemos anticipado
+  vosotros: os habéis anticipado
+  uds: se han anticipado
+preterito-pluscuamperfecto:
+  yo: me había anticipado
+  tu: te habías anticipado
+  vos: te habías anticipado
+  ud: se había anticipado
+  nosotros: nos habíamos anticipado
+  vosotros: os habíais anticipado
+  uds: se habían anticipado
+futuro-perfecto:
+  yo: me habré anticipado
+  tu: te habrás anticipado
+  vos: te habrás anticipado
+  ud: se habrá anticipado
+  nosotros: nos habremos anticipado
+  vosotros: os habréis anticipado
+  uds: se habrán anticipado
+condicional-perfecto:
+  yo: me habría anticipado
+  tu: te habrías anticipado
+  vos: te habrías anticipado
+  ud: se habría anticipado
+  nosotros: nos habríamos anticipado
+  vosotros: os habríais anticipado
+  uds: se habrían anticipado
+presente-subjuntivo:
+  yo: me anticipe
+  tu: te anticipes
+  vos: te anticipes
+  ud: se anticipe
+  nosotros: nos anticipemos
+  vosotros: os anticipéis
+  uds: se anticipen
+preterito-perfecto-subjuntivo:
+  yo: me haya anticipado
+  tu: te hayas anticipado
+  vos: te hayas anticipado
+  ud: se haya anticipado
+  nosotros: nos hayamos anticipado
+  vosotros: os hayáis anticipado
+  uds: se hayan anticipado
+imperfecto-subjuntivo:
+  yo:
+    - me anticipara
+    - me anticipase
+  tu:
+    - te anticiparas
+    - te anticipases
+  vos:
+    - te anticiparas
+    - te anticipases
+  ud:
+    - se anticipara
+    - se anticipase
+  nosotros:
+    - nos anticipáramos
+    - nos anticipásemos
+  vosotros:
+    - os anticiparais
+    - os anticipaseis
+  uds:
+    - se anticiparan
+    - se anticipasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera anticipado
+    - me hubiese anticipado
+  tu:
+    - te hubieras anticipado
+    - te hubieses anticipado
+  vos:
+    - te hubieras anticipado
+    - te hubieses anticipado
+  ud:
+    - se hubiera anticipado
+    - se hubiese anticipado
+  nosotros:
+    - nos hubiéramos anticipado
+    - nos hubiésemos anticipado
+  vosotros:
+    - os hubierais anticipado
+    - os hubieseis anticipado
+  uds:
+    - se hubieran anticipado
+    - se hubiesen anticipado
+imperativo:
+  tu: anticípate
+  vos: anticípate
+  ud: antícipese
+  nosotros: anticipémonos
+  vosotros: anticipaos
+  uds: anticipen

@@ -1,0 +1,142 @@
+infinitivo: opinar
+gerundio: opinando
+participio-pasado: opinado
+presente-indicativo:
+  yo: opino
+  tu: opinas
+  vos: opinas
+  ud: opina
+  nosotros: opinamos
+  vosotros: opináis
+  uds: opinan
+preterito-perfecto-simple:
+  yo: opiné
+  tu: opinaste
+  vos: opinaste
+  ud: opinó
+  nosotros: opinamos
+  vosotros: opinasteis
+  uds: opinaron
+preterito-imperfecto:
+  yo: opinaba
+  tu: opinabas
+  vos: opinabas
+  ud: opinaba
+  nosotros: opinábamos
+  vosotros: opinabais
+  uds: opinaban
+futuro-simple:
+  yo: opinaré
+  tu: opinarás
+  vos: opinarás
+  ud: opinará
+  nosotros: opinaremos
+  vosotros: opinaréis
+  uds: opinarán
+condicional-simple:
+  yo: opinaría
+  tu: opinarías
+  vos: opinarías
+  ud: opinaría
+  nosotros: opinaríamos
+  vosotros: opinaríais
+  uds: opinarían
+presente-perfecto:
+  yo: he opinado
+  tu: has opinado
+  vos: has opinado
+  ud: ha opinado
+  nosotros: hemos opinado
+  vosotros: habéis opinado
+  uds: han opinado
+preterito-pluscuamperfecto:
+  yo: había opinado
+  tu: habías opinado
+  vos: habías opinado
+  ud: había opinado
+  nosotros: habíamos opinado
+  vosotros: habíais opinado
+  uds: habían opinado
+futuro-perfecto:
+  yo: habré opinado
+  tu: habrás opinado
+  vos: habrás opinado
+  ud: habrá opinado
+  nosotros: habremos opinado
+  vosotros: habréis opinado
+  uds: habrán opinado
+condicional-perfecto:
+  yo: habría opinado
+  tu: habrías opinado
+  vos: habrías opinado
+  ud: habría opinado
+  nosotros: habríamos opinado
+  vosotros: habríais opinado
+  uds: habrían opinado
+presente-subjuntivo:
+  yo: opine
+  tu: opines
+  vos: opines
+  ud: opine
+  nosotros: opinemos
+  vosotros: opinéis
+  uds: opinen
+preterito-perfecto-subjuntivo:
+  yo: haya opinado
+  tu: hayas opinado
+  vos: hayas opinado
+  ud: haya opinado
+  nosotros: hayamos opinado
+  vosotros: hayáis opinado
+  uds: hayan opinado
+imperfecto-subjuntivo:
+  yo:
+    - opinara
+    - opinase
+  tu:
+    - opinaras
+    - opinases
+  vos:
+    - opinaras
+    - opinases
+  ud:
+    - opinara
+    - opinase
+  nosotros:
+    - opináramos
+    - opinásemos
+  vosotros:
+    - opinarais
+    - opinaseis
+  uds:
+    - opinaran
+    - opinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera opinado
+    - hubiese opinado
+  tu:
+    - hubieras opinado
+    - hubieses opinado
+  vos:
+    - hubieras opinado
+    - hubieses opinado
+  ud:
+    - hubiera opinado
+    - hubiese opinado
+  nosotros:
+    - hubiéramos opinado
+    - hubiésemos opinado
+  vosotros:
+    - hubierais opinado
+    - hubieseis opinado
+  uds:
+    - hubieran opinado
+    - hubiesen opinado
+imperativo:
+  tu: opina
+  vos: opiná
+  ud: opine
+  nosotros: opinemos
+  vosotros: opinad
+  uds: opinen

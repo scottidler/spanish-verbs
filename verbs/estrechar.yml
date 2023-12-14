@@ -1,0 +1,142 @@
+infinitivo: estrechar
+gerundio: estrechando
+participio-pasado: estrechado
+presente-indicativo:
+  yo: estrecho
+  tu: estrechas
+  vos: estrechás
+  ud: estrecha
+  nosotros: estrechamos
+  vosotros: estrecháis
+  uds: estrechan
+preterito-perfecto-simple:
+  yo: estreché
+  tu: estrechaste
+  vos: estrechaste
+  ud: estrechó
+  nosotros: estrechamos
+  vosotros: estrechasteis
+  uds: estrecharon
+preterito-imperfecto:
+  yo: estrechaba
+  tu: estrechabas
+  vos: estrechabas
+  ud: estrechaba
+  nosotros: estrechábamos
+  vosotros: estrechabais
+  uds: estrechaban
+futuro-simple:
+  yo: estrecharé
+  tu: estrecharás
+  vos: estrecharás
+  ud: estrechará
+  nosotros: estrecharemos
+  vosotros: estrecharéis
+  uds: estrecharán
+condicional-simple:
+  yo: estrecharía
+  tu: estrecharías
+  vos: estrecharías
+  ud: estrecharía
+  nosotros: estrecharíamos
+  vosotros: estrecharíais
+  uds: estrecharían
+presente-perfecto:
+  yo: he estrechado
+  tu: has estrechado
+  vos: has estrechado
+  ud: ha estrechado
+  nosotros: hemos estrechado
+  vosotros: habéis estrechado
+  uds: han estrechado
+preterito-pluscuamperfecto:
+  yo: había estrechado
+  tu: habías estrechado
+  vos: habías estrechado
+  ud: había estrechado
+  nosotros: habíamos estrechado
+  vosotros: habíais estrechado
+  uds: habían estrechado
+futuro-perfecto:
+  yo: habré estrechado
+  tu: habrás estrechado
+  vos: habrás estrechado
+  ud: habrá estrechado
+  nosotros: habremos estrechado
+  vosotros: habréis estrechado
+  uds: habrán estrechado
+condicional-perfecto:
+  yo: habría estrechado
+  tu: habrías estrechado
+  vos: habrías estrechado
+  ud: habría estrechado
+  nosotros: habríamos estrechado
+  vosotros: habríais estrechado
+  uds: habrían estrechado
+presente-subjuntivo:
+  yo: estreche
+  tu: estreches
+  vos: estreches
+  ud: estreche
+  nosotros: estrechemos
+  vosotros: estrechéis
+  uds: estrechen
+preterito-perfecto-subjuntivo:
+  yo: haya estrechado
+  tu: hayas estrechado
+  vos: hayas estrechado
+  ud: haya estrechado
+  nosotros: hayamos estrechado
+  vosotros: hayáis estrechado
+  uds: hayan estrechado
+imperfecto-subjuntivo:
+  yo:
+    - estrechara
+    - estrechase
+  tu:
+    - estrecharas
+    - estrechases
+  vos:
+    - estrecharas
+    - estrechases
+  ud:
+    - estrechara
+    - estrechase
+  nosotros:
+    - estrecháramos
+    - estrechásemos
+  vosotros:
+    - estrecharais
+    - estrechaseis
+  uds:
+    - estrecharan
+    - estrechasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estrechado
+    - hubiese estrechado
+  tu:
+    - hubieras estrechado
+    - hubieses estrechado
+  vos:
+    - hubieras estrechado
+    - hubieses estrechado
+  ud:
+    - hubiera estrechado
+    - hubiese estrechado
+  nosotros:
+    - hubiéramos estrechado
+    - hubiésemos estrechado
+  vosotros:
+    - hubierais estrechado
+    - hubieseis estrechado
+  uds:
+    - hubieran estrechado
+    - hubiesen estrechado
+imperativo:
+  tu: estrecha
+  vos: estrechá
+  ud: estreche
+  nosotros: estrechemos
+  vosotros: estrechad
+  uds: estrechen

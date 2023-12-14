@@ -1,0 +1,142 @@
+infinitivo: acostumbrarse
+gerundio: acostumbrándose
+participio-pasado: acostumbrado
+presente-indicativo:
+  yo: me acostumbro
+  tu: te acostumbras
+  vos: te acostumbrás
+  ud: se acostumbra
+  nosotros: nos acostumbramos
+  vosotros: os acostumbráis
+  uds: se acostumbran
+preterito-perfecto-simple:
+  yo: me acostumbré
+  tu: te acostumbraste
+  vos: te acostumbraste
+  ud: se acostumbró
+  nosotros: nos acostumbramos
+  vosotros: os acostumbrasteis
+  uds: se acostumbraron
+preterito-imperfecto:
+  yo: me acostumbraba
+  tu: te acostumbrabas
+  vos: te acostumbrabas
+  ud: se acostumbraba
+  nosotros: nos acostumbrábamos
+  vosotros: os acostumbrabais
+  uds: se acostumbraban
+futuro-simple:
+  yo: me acostumbraré
+  tu: te acostumbrarás
+  vos: te acostumbrarás
+  ud: se acostumbrará
+  nosotros: nos acostumbraremos
+  vosotros: os acostumbraréis
+  uds: se acostumbrarán
+condicional-simple:
+  yo: me acostumbraría
+  tu: te acostumbrarías
+  vos: te acostumbrarías
+  ud: se acostumbraría
+  nosotros: nos acostumbraríamos
+  vosotros: os acostumbraríais
+  uds: se acostumbrarían
+presente-perfecto:
+  yo: me he acostumbrado
+  tu: te has acostumbrado
+  vos: te has acostumbrado
+  ud: se ha acostumbrado
+  nosotros: nos hemos acostumbrado
+  vosotros: os habéis acostumbrado
+  uds: se han acostumbrado
+preterito-pluscuamperfecto:
+  yo: me había acostumbrado
+  tu: te habías acostumbrado
+  vos: te habías acostumbrado
+  ud: se había acostumbrado
+  nosotros: nos habíamos acostumbrado
+  vosotros: os habíais acostumbrado
+  uds: se habían acostumbrado
+futuro-perfecto:
+  yo: me habré acostumbrado
+  tu: te habrás acostumbrado
+  vos: te habrás acostumbrado
+  ud: se habrá acostumbrado
+  nosotros: nos habremos acostumbrado
+  vosotros: os habréis acostumbrado
+  uds: se habrán acostumbrado
+condicional-perfecto:
+  yo: me habría acostumbrado
+  tu: te habrías acostumbrado
+  vos: te habrías acostumbrado
+  ud: se habría acostumbrado
+  nosotros: nos habríamos acostumbrado
+  vosotros: os habríais acostumbrado
+  uds: se habrían acostumbrado
+presente-subjuntivo:
+  yo: me acostumbre
+  tu: te acostumbres
+  vos: te acostumbres
+  ud: se acostumbre
+  nosotros: nos acostumbremos
+  vosotros: os acostumbréis
+  uds: se acostumbren
+preterito-perfecto-subjuntivo:
+  yo: me haya acostumbrado
+  tu: te hayas acostumbrado
+  vos: te hayas acostumbrado
+  ud: se haya acostumbrado
+  nosotros: nos hayamos acostumbrado
+  vosotros: os hayáis acostumbrado
+  uds: se hayan acostumbrado
+imperfecto-subjuntivo:
+  yo:
+    - me acostumbrara
+    - me acostumbrase
+  tu:
+    - te acostumbraras
+    - te acostumbrases
+  vos:
+    - te acostumbraras
+    - te acostumbrases
+  ud:
+    - se acostumbrara
+    - se acostumbrase
+  nosotros:
+    - nos acostumbráramos
+    - nos acostumbrásemos
+  vosotros:
+    - os acostumbrarais
+    - os acostumbraseis
+  uds:
+    - se acostumbraran
+    - se acostumbrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera acostumbrado
+    - me hubiese acostumbrado
+  tu:
+    - te hubieras acostumbrado
+    - te hubieses acostumbrado
+  vos:
+    - te hubieras acostumbrado
+    - te hubieses acostumbrado
+  ud:
+    - se hubiera acostumbrado
+    - se hubiese acostumbrado
+  nosotros:
+    - nos hubiéramos acostumbrado
+    - nos hubiésemos acostumbrado
+  vosotros:
+    - os hubierais acostumbrado
+    - os hubieseis acostumbrado
+  uds:
+    - se hubieran acostumbrado
+    - se hubiesen acostumbrado
+imperativo:
+  tu: acostúmbrate
+  vos: acostumbrate
+  ud: acostúmbrese
+  nosotros: acostumbrémonos
+  vosotros: acostumbraos
+  uds: acostúmbrense

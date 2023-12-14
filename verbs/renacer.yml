@@ -1,0 +1,142 @@
+infinitivo: renacer
+gerundio: renaciendo
+participio-pasado: renacido
+presente-indicativo:
+  yo: renazco
+  tu: renaces
+  vos: renaces
+  ud: renace
+  nosotros: renacemos
+  vosotros: renacéis
+  uds: renacen
+preterito-perfecto-simple:
+  yo: renací
+  tu: renaciste
+  vos: renaciste
+  ud: renació
+  nosotros: renacimos
+  vosotros: renacisteis
+  uds: renacieron
+preterito-imperfecto:
+  yo: renacía
+  tu: renacías
+  vos: renacías
+  ud: renacía
+  nosotros: renacíamos
+  vosotros: renacíais
+  uds: renacían
+futuro-simple:
+  yo: renaceré
+  tu: renacerás
+  vos: renacerás
+  ud: renacerá
+  nosotros: renaceremos
+  vosotros: renaceréis
+  uds: renacerán
+condicional-simple:
+  yo: renacería
+  tu: renacerías
+  vos: renacerías
+  ud: renacería
+  nosotros: renaceríamos
+  vosotros: renaceríais
+  uds: renacerían
+presente-perfecto:
+  yo: he renacido
+  tu: has renacido
+  vos: has renacido
+  ud: ha renacido
+  nosotros: hemos renacido
+  vosotros: habéis renacido
+  uds: han renacido
+preterito-pluscuamperfecto:
+  yo: había renacido
+  tu: habías renacido
+  vos: habías renacido
+  ud: había renacido
+  nosotros: habíamos renacido
+  vosotros: habíais renacido
+  uds: habían renacido
+futuro-perfecto:
+  yo: habré renacido
+  tu: habrás renacido
+  vos: habrás renacido
+  ud: habrá renacido
+  nosotros: habremos renacido
+  vosotros: habréis renacido
+  uds: habrán renacido
+condicional-perfecto:
+  yo: habría renacido
+  tu: habrías renacido
+  vos: habrías renacido
+  ud: habría renacido
+  nosotros: habríamos renacido
+  vosotros: habríais renacido
+  uds: habrían renacido
+presente-subjuntivo:
+  yo: renazca
+  tu: renazcas
+  vos: renazcas
+  ud: renazca
+  nosotros: renazcamos
+  vosotros: renazcáis
+  uds: renazcan
+preterito-perfecto-subjuntivo:
+  yo: haya renacido
+  tu: hayas renacido
+  vos: hayas renacido
+  ud: haya renacido
+  nosotros: hayamos renacido
+  vosotros: hayáis renacido
+  uds: hayan renacido
+imperfecto-subjuntivo:
+  yo:
+    - renaciera
+    - renaciese
+  tu:
+    - renacieras
+    - renacieses
+  vos:
+    - renacieras
+    - renacieses
+  ud:
+    - renaciera
+    - renaciese
+  nosotros:
+    - renaciéramos
+    - renaciésemos
+  vosotros:
+    - renacierais
+    - renacieseis
+  uds:
+    - renacieran
+    - renaciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera renacido
+    - hubiese renacido
+  tu:
+    - hubieras renacido
+    - hubieses renacido
+  vos:
+    - hubieras renacido
+    - hubieses renacido
+  ud:
+    - hubiera renacido
+    - hubiese renacido
+  nosotros:
+    - hubiéramos renacido
+    - hubiésemos renacido
+  vosotros:
+    - hubierais renacido
+    - hubieseis renacido
+  uds:
+    - hubieran renacido
+    - hubiesen renacido
+imperativo:
+  tu: renace
+  vos: renacé
+  ud: renazca
+  nosotros: renazcamos
+  vosotros: renaced
+  uds: renazcan

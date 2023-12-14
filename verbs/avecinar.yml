@@ -1,0 +1,142 @@
+infinitivo: avecinar
+gerundio: avecinando
+participio-pasado: avecinado
+presente-indicativo:
+  yo: avecino
+  tu: avecinas
+  vos: avecinas
+  ud: avecina
+  nosotros: avecinamos
+  vosotros: avecináis
+  uds: avecinan
+preterito-perfecto-simple:
+  yo: aveciné
+  tu: avecinaste
+  vos: avecinaste
+  ud: avecinó
+  nosotros: avecinamos
+  vosotros: avecinasteis
+  uds: avecinaron
+preterito-imperfecto:
+  yo: avecinaba
+  tu: avecinabas
+  vos: avecinabas
+  ud: avecinaba
+  nosotros: avecinábamos
+  vosotros: avecinabais
+  uds: avecinaban
+futuro-simple:
+  yo: avecinaré
+  tu: avecinarás
+  vos: avecinarás
+  ud: avecinará
+  nosotros: avecinaremos
+  vosotros: avecinaréis
+  uds: avecinarán
+condicional-simple:
+  yo: avecinaría
+  tu: avecinarías
+  vos: avecinarías
+  ud: avecinaría
+  nosotros: avecinaríamos
+  vosotros: avecinaríais
+  uds: avecinarían
+presente-perfecto:
+  yo: he avecinado
+  tu: has avecinado
+  vos: has avecinado
+  ud: ha avecinado
+  nosotros: hemos avecinado
+  vosotros: habéis avecinado
+  uds: han avecinado
+preterito-pluscuamperfecto:
+  yo: había avecinado
+  tu: habías avecinado
+  vos: habías avecinado
+  ud: había avecinado
+  nosotros: habíamos avecinado
+  vosotros: habíais avecinado
+  uds: habían avecinado
+futuro-perfecto:
+  yo: habré avecinado
+  tu: habrás avecinado
+  vos: habrás avecinado
+  ud: habrá avecinado
+  nosotros: habremos avecinado
+  vosotros: habréis avecinado
+  uds: habrán avecinado
+condicional-perfecto:
+  yo: habría avecinado
+  tu: habrías avecinado
+  vos: habrías avecinado
+  ud: habría avecinado
+  nosotros: habríamos avecinado
+  vosotros: habríais avecinado
+  uds: habrían avecinado
+presente-subjuntivo:
+  yo: avecine
+  tu: avecines
+  vos: avecines
+  ud: avecine
+  nosotros: avecinemos
+  vosotros: avecinéis
+  uds: avecinen
+preterito-perfecto-subjuntivo:
+  yo: haya avecinado
+  tu: hayas avecinado
+  vos: hayas avecinado
+  ud: haya avecinado
+  nosotros: hayamos avecinado
+  vosotros: hayáis avecinado
+  uds: hayan avecinado
+imperfecto-subjuntivo:
+  yo:
+    - avecinara
+    - avecinase
+  tu:
+    - avecinaras
+    - avecinases
+  vos:
+    - avecinaras
+    - avecinases
+  ud:
+    - avecinara
+    - avecinase
+  nosotros:
+    - avecináramos
+    - avecinásemos
+  vosotros:
+    - avecinarais
+    - avecinaseis
+  uds:
+    - avecinaran
+    - avecinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera avecinado
+    - hubiese avecinado
+  tu:
+    - hubieras avecinado
+    - hubieses avecinado
+  vos:
+    - hubieras avecinado
+    - hubieses avecinado
+  ud:
+    - hubiera avecinado
+    - hubiese avecinado
+  nosotros:
+    - hubiéramos avecinado
+    - hubiésemos avecinado
+  vosotros:
+    - hubierais avecinado
+    - hubieseis avecinado
+  uds:
+    - hubieran avecinado
+    - hubiesen avecinado
+imperativo:
+  tu: avecina
+  vos: aveciná
+  ud: avecine
+  nosotros: avecinemos
+  vosotros: avecinad
+  uds: avecinen

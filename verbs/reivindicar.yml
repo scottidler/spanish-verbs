@@ -1,0 +1,142 @@
+infinitivo: reivindicar
+gerundio: reivindicando
+participio-pasado: reivindicado
+presente-indicativo:
+  yo: reivindico
+  tu: reivindicas
+  vos: reivindicás
+  ud: reivindica
+  nosotros: reivindicamos
+  vosotros: reivindicáis
+  uds: reivindican
+preterito-perfecto-simple:
+  yo: reivindiqué
+  tu: reivindicaste
+  vos: reivindicaste
+  ud: reivindicó
+  nosotros: reivindicamos
+  vosotros: reivindicasteis
+  uds: reivindicaron
+preterito-imperfecto:
+  yo: reivindicaba
+  tu: reivindicabas
+  vos: reivindicabas
+  ud: reivindicaba
+  nosotros: reivindicábamos
+  vosotros: reivindicabais
+  uds: reivindicaban
+futuro-simple:
+  yo: reivindicaré
+  tu: reivindicarás
+  vos: reivindicarás
+  ud: reivindicará
+  nosotros: reivindicaremos
+  vosotros: reivindicaréis
+  uds: reivindicarán
+condicional-simple:
+  yo: reivindicaría
+  tu: reivindicarías
+  vos: reivindicarías
+  ud: reivindicaría
+  nosotros: reivindicaríamos
+  vosotros: reivindicaríais
+  uds: reivindicarían
+presente-perfecto:
+  yo: he reivindicado
+  tu: has reivindicado
+  vos: has reivindicado
+  ud: ha reivindicado
+  nosotros: hemos reivindicado
+  vosotros: habéis reivindicado
+  uds: han reivindicado
+preterito-pluscuamperfecto:
+  yo: había reivindicado
+  tu: habías reivindicado
+  vos: habías reivindicado
+  ud: había reivindicado
+  nosotros: habíamos reivindicado
+  vosotros: habíais reivindicado
+  uds: habían reivindicado
+futuro-perfecto:
+  yo: habré reivindicado
+  tu: habrás reivindicado
+  vos: habrás reivindicado
+  ud: habrá reivindicado
+  nosotros: habremos reivindicado
+  vosotros: habréis reivindicado
+  uds: habrán reivindicado
+condicional-perfecto:
+  yo: habría reivindicado
+  tu: habrías reivindicado
+  vos: habrías reivindicado
+  ud: habría reivindicado
+  nosotros: habríamos reivindicado
+  vosotros: habríais reivindicado
+  uds: habrían reivindicado
+presente-subjuntivo:
+  yo: reivindique
+  tu: reivindiques
+  vos: reivindiques
+  ud: reivindique
+  nosotros: reivindiquemos
+  vosotros: reivindiquéis
+  uds: reivindiquen
+preterito-perfecto-subjuntivo:
+  yo: haya reivindicado
+  tu: hayas reivindicado
+  vos: hayas reivindicado
+  ud: haya reivindicado
+  nosotros: hayamos reivindicado
+  vosotros: hayáis reivindicado
+  uds: hayan reivindicado
+imperfecto-subjuntivo:
+  yo:
+    - reivindicara
+    - reivindicase
+  tu:
+    - reivindicaras
+    - reivindicases
+  vos:
+    - reivindicaras
+    - reivindicases
+  ud:
+    - reivindicara
+    - reivindicase
+  nosotros:
+    - reivindicáramos
+    - reivindicásemos
+  vosotros:
+    - reivindicarais
+    - reivindicaseis
+  uds:
+    - reivindicaran
+    - reivindicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reivindicado
+    - hubiese reivindicado
+  tu:
+    - hubieras reivindicado
+    - hubieses reivindicado
+  vos:
+    - hubieras reivindicado
+    - hubieses reivindicado
+  ud:
+    - hubiera reivindicado
+    - hubiese reivindicado
+  nosotros:
+    - hubiéramos reivindicado
+    - hubiésemos reivindicado
+  vosotros:
+    - hubierais reivindicado
+    - hubieseis reivindicado
+  uds:
+    - hubieran reivindicado
+    - hubiesen reivindicado
+imperativo:
+  tu: reivindica
+  vos: reivindicá
+  ud: reivindique
+  nosotros: reivindiquemos
+  vosotros: reivindicad
+  uds: reivindiquen

@@ -1,0 +1,156 @@
+infinitivo: agitarse
+gerundio: agitándose
+participio-pasado: agitado
+
+presente-indicativo:
+  yo: me agito
+  tu: te agitas
+  vos: te agitas
+  ud: se agita
+  nosotros: nos agitamos
+  vosotros: os agitáis
+  uds: se agitan
+
+preterito-perfecto-simple:
+  yo: me agité
+  tu: te agitaste
+  vos: te agitaste
+  ud: se agitó
+  nosotros: nos agitamos
+  vosotros: os agitasteis
+  uds: se agitaron
+
+preterito-imperfecto:
+  yo: me agitaba
+  tu: te agitabas
+  vos: te agitabas
+  ud: se agitaba
+  nosotros: nos agitábamos
+  vosotros: os agitabais
+  uds: se agitaban
+
+futuro-simple:
+  yo: me agitaré
+  tu: te agitarás
+  vos: te agitarás
+  ud: se agitará
+  nosotros: nos agitaremos
+  vosotros: os agitaréis
+  uds: se agitarán
+
+condicional-simple:
+  yo: me agitaría
+  tu: te agitarías
+  vos: te agitarías
+  ud: se agitaría
+  nosotros: nos agitaríamos
+  vosotros: os agitaríais
+  uds: se agitarían
+
+presente-perfecto:
+  yo: me he agitado
+  tu: te has agitado
+  vos: te has agitado
+  ud: se ha agitado
+  nosotros: nos hemos agitado
+  vosotros: os habéis agitado
+  uds: se han agitado
+
+preterito-pluscuamperfecto:
+  yo: me había agitado
+  tu: te habías agitado
+  vos: te habías agitado
+  ud: se había agitado
+  nosotros: nos habíamos agitado
+  vosotros: os habíais agitado
+  uds: se habían agitado
+
+futuro-perfecto:
+  yo: me habré agitado
+  tu: te habrás agitado
+  vos: te habrás agitado
+  ud: se habrá agitado
+  nosotros: nos habremos agitado
+  vosotros: os habréis agitado
+  uds: se habrán agitado
+
+condicional-perfecto:
+  yo: me habría agitado
+  tu: te habrías agitado
+  vos: te habrías agitado
+  ud: se habría agitado
+  nosotros: nos habríamos agitado
+  vosotros: os habríais agitado
+  uds: se habrían agitado
+
+presente-subjuntivo:
+  yo: me agite
+  tu: te agites
+  vos: te agites
+  ud: se agite
+  nosotros: nos agitemos
+  vosotros: os agitéis
+  uds: se agiten
+
+preterito-perfecto-subjuntivo:
+  yo: me haya agitado
+  tu: te hayas agitado
+  vos: te hayas agitado
+  ud: se haya agitado
+  nosotros: nos hayamos agitado
+  vosotros: os hayáis agitado
+  uds: se hayan agitado
+
+imperfecto-subjuntivo:
+  yo:
+    - me agitara
+    - me agitase
+  tu:
+    - te agitaras
+    - te agitases
+  vos:
+    - te agitaras
+    - te agitases
+  ud:
+    - se agitara
+    - se agitase
+  nosotros:
+    - nos agitáramos
+    - nos agitásemos
+  vosotros:
+    - os agitarais
+    - os agitaseis
+  uds:
+    - se agitaran
+    - se agitasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera agitado
+    - me hubiese agitado
+  tu:
+    - te hubieras agitado
+    - te hubieses agitado
+  vos:
+    - te hubieras agitado
+    - te hubieses agitado
+  ud:
+    - se hubiera agitado
+    - se hubiese agitado
+  nosotros:
+    - nos hubiéramos agitado
+    - nos hubiésemos agitado
+  vosotros:
+    - os hubierais agitado
+    - os hubieseis agitado
+  uds:
+    - se hubieran agitado
+    - se hubiesen agitado
+
+imperativo:
+  tu: agítate
+  vos: agítate
+  ud: agítese
+  nosotros: agitémonos
+  vosotros: agitaos
+  uds: agítense

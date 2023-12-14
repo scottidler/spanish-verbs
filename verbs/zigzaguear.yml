@@ -1,0 +1,142 @@
+infinitivo: zigzaguear
+gerundio: zigzagueando
+participio-pasado: zigzagueado
+presente-indicativo:
+  yo: zigzagueo
+  tu: zigzagueas
+  vos: zigzagueas
+  ud: zigzaguea
+  nosotros: zigzagueamos
+  vosotros: zigzagueáis
+  uds: zigzaguean
+preterito-perfecto-simple:
+  yo: zigzagueé
+  tu: zigzagueaste
+  vos: zigzagueaste
+  ud: zigzagueó
+  nosotros: zigzagueamos
+  vosotros: zigzagueasteis
+  uds: zigzaguearon
+preterito-imperfecto:
+  yo: zigzagueaba
+  tu: zigzagueabas
+  vos: zigzagueabas
+  ud: zigzagueaba
+  nosotros: zigzagueábamos
+  vosotros: zigzagueabais
+  uds: zigzagueaban
+futuro-simple:
+  yo: zigzaguearé
+  tu: zigzaguearás
+  vos: zigzaguearás
+  ud: zigzagueará
+  nosotros: zigzaguearemos
+  vosotros: zigzaguearéis
+  uds: zigzaguearán
+condicional-simple:
+  yo: zigzaguearía
+  tu: zigzaguearías
+  vos: zigzaguearías
+  ud: zigzaguearía
+  nosotros: zigzaguearíamos
+  vosotros: zigzaguearíais
+  uds: zigzaguearían
+presente-perfecto:
+  yo: he zigzagueado
+  tu: has zigzagueado
+  vos: has zigzagueado
+  ud: ha zigzagueado
+  nosotros: hemos zigzagueado
+  vosotros: habéis zigzagueado
+  uds: han zigzagueado
+preterito-pluscuamperfecto:
+  yo: había zigzagueado
+  tu: habías zigzagueado
+  vos: habías zigzagueado
+  ud: había zigzagueado
+  nosotros: habíamos zigzagueado
+  vosotros: habíais zigzagueado
+  uds: habían zigzagueado
+futuro-perfecto:
+  yo: habré zigzagueado
+  tu: habrás zigzagueado
+  vos: habrás zigzagueado
+  ud: habrá zigzagueado
+  nosotros: habremos zigzagueado
+  vosotros: habréis zigzagueado
+  uds: habrán zigzagueado
+condicional-perfecto:
+  yo: habría zigzagueado
+  tu: habrías zigzagueado
+  vos: habrías zigzagueado
+  ud: habría zigzagueado
+  nosotros: habríamos zigzagueado
+  vosotros: habríais zigzagueado
+  uds: habrían zigzagueado
+presente-subjuntivo:
+  yo: zigzaguee
+  tu: zigzaguees
+  vos: zigzaguees
+  ud: zigzaguee
+  nosotros: zigzagueemos
+  vosotros: zigzagueéis
+  uds: zigzagueen
+preterito-perfecto-subjuntivo:
+  yo: haya zigzagueado
+  tu: hayas zigzagueado
+  vos: hayas zigzagueado
+  ud: haya zigzagueado
+  nosotros: hayamos zigzagueado
+  vosotros: hayáis zigzagueado
+  uds: hayan zigzagueado
+imperfecto-subjuntivo:
+  yo:
+    - zigzagueara
+    - zigzaguease
+  tu:
+    - zigzaguearas
+    - zigzagueases
+  vos:
+    - zigzaguearas
+    - zigzagueases
+  ud:
+    - zigzagueara
+    - zigzaguease
+  nosotros:
+    - zigzagueáramos
+    - zigzagueásemos
+  vosotros:
+    - zigzaguearais
+    - zigzagueaseis
+  uds:
+    - zigzaguearan
+    - zigzagueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera zigzagueado
+    - hubiese zigzagueado
+  tu:
+    - hubieras zigzagueado
+    - hubieses zigzagueado
+  vos:
+    - hubieras zigzagueado
+    - hubieses zigzagueado
+  ud:
+    - hubiera zigzagueado
+    - hubiese zigzagueado
+  nosotros:
+    - hubiéramos zigzagueado
+    - hubiésemos zigzagueado
+  vosotros:
+    - hubierais zigzagueado
+    - hubieseis zigzagueado
+  uds:
+    - hubieran zigzagueado
+    - hubiesen zigzagueado
+imperativo:
+  tu: zigzaguea
+  vos: zigzagueá
+  ud: zigzaguee
+  nosotros: zigzagueemos
+  vosotros: zigzaguead
+  uds: zigzagueen

@@ -1,0 +1,142 @@
+infinitivo: derretir
+gerundio: derritiendo
+participio-pasado: derretido
+presente-indicativo:
+  yo: derrito
+  tu: derrites
+  vos: derrites
+  ud: derrite
+  nosotros: derretimos
+  vosotros: derretís
+  uds: derriten
+preterito-perfecto-simple:
+  yo: derretí
+  tu: derretiste
+  vos: derretiste
+  ud: derritió
+  nosotros: derretimos
+  vosotros: derretisteis
+  uds: derritieron
+preterito-imperfecto:
+  yo: derretía
+  tu: derretías
+  vos: derretías
+  ud: derretía
+  nosotros: derretíamos
+  vosotros: derretíais
+  uds: derretían
+futuro-simple:
+  yo: derretiré
+  tu: derretirás
+  vos: derretirás
+  ud: derretirá
+  nosotros: derretiremos
+  vosotros: derretiréis
+  uds: derretirán
+condicional-simple:
+  yo: derretiría
+  tu: derretirías
+  vos: derretirías
+  ud: derretiría
+  nosotros: derretiríamos
+  vosotros: derretiríais
+  uds: derretirían
+presente-perfecto:
+  yo: he derretido
+  tu: has derretido
+  vos: has derretido
+  ud: ha derretido
+  nosotros: hemos derretido
+  vosotros: habéis derretido
+  uds: han derretido
+preterito-pluscuamperfecto:
+  yo: había derretido
+  tu: habías derretido
+  vos: habías derretido
+  ud: había derretido
+  nosotros: habíamos derretido
+  vosotros: habíais derretido
+  uds: habían derretido
+futuro-perfecto:
+  yo: habré derretido
+  tu: habrás derretido
+  vos: habrás derretido
+  ud: habrá derretido
+  nosotros: habremos derretido
+  vosotros: habréis derretido
+  uds: habrán derretido
+condicional-perfecto:
+  yo: habría derretido
+  tu: habrías derretido
+  vos: habrías derretido
+  ud: habría derretido
+  nosotros: habríamos derretido
+  vosotros: habríais derretido
+  uds: habrían derretido
+presente-subjuntivo:
+  yo: derrita
+  tu: derritas
+  vos: derritas
+  ud: derrita
+  nosotros: derritamos
+  vosotros: derritáis
+  uds: derritan
+preterito-perfecto-subjuntivo:
+  yo: haya derretido
+  tu: hayas derretido
+  vos: hayas derretido
+  ud: haya derretido
+  nosotros: hayamos derretido
+  vosotros: hayáis derretido
+  uds: hayan derretido
+imperfecto-subjuntivo:
+  yo:
+    - derritiera
+    - derritiese
+  tu:
+    - derritieras
+    - derritieses
+  vos:
+    - derritieras
+    - derritieses
+  ud:
+    - derritiera
+    - derritiese
+  nosotros:
+    - derritiéramos
+    - derritiésemos
+  vosotros:
+    - derritierais
+    - derritieseis
+  uds:
+    - derritieran
+    - derritiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera derretido
+    - hubiese derretido
+  tu:
+    - hubieras derretido
+    - hubieses derretido
+  vos:
+    - hubieras derretido
+    - hubieses derretido
+  ud:
+    - hubiera derretido
+    - hubiese derretido
+  nosotros:
+    - hubiéramos derretido
+    - hubiésemos derretido
+  vosotros:
+    - hubierais derretido
+    - hubieseis derretido
+  uds:
+    - hubieran derretido
+    - hubiesen derretido
+imperativo:
+  tu: derrite
+  vos: derretí
+  ud: derrita
+  nosotros: derritamos
+  vosotros: derretid
+  uds: derritan

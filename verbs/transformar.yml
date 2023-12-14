@@ -1,0 +1,142 @@
+infinitivo: transformar
+gerundio: transformando
+participio-pasado: transformado
+presente-indicativo:
+  yo: transformo
+  tu: transformas
+  vos: transformas
+  ud: transforma
+  nosotros: transformamos
+  vosotros: transformáis
+  uds: transforman
+preterito-perfecto-simple:
+  yo: transformé
+  tu: transformaste
+  vos: transformaste
+  ud: transformó
+  nosotros: transformamos
+  vosotros: transformasteis
+  uds: transformaron
+preterito-imperfecto:
+  yo: transformaba
+  tu: transformabas
+  vos: transformabas
+  ud: transformaba
+  nosotros: transformábamos
+  vosotros: transformabais
+  uds: transformaban
+futuro-simple:
+  yo: transformaré
+  tu: transformarás
+  vos: transformarás
+  ud: transformará
+  nosotros: transformaremos
+  vosotros: transformaréis
+  uds: transformarán
+condicional-simple:
+  yo: transformaría
+  tu: transformarías
+  vos: transformarías
+  ud: transformaría
+  nosotros: transformaríamos
+  vosotros: transformaríais
+  uds: transformarían
+presente-perfecto:
+  yo: he transformado
+  tu: has transformado
+  vos: has transformado
+  ud: ha transformado
+  nosotros: hemos transformado
+  vosotros: habéis transformado
+  uds: han transformado
+preterito-pluscuamperfecto:
+  yo: había transformado
+  tu: habías transformado
+  vos: habías transformado
+  ud: había transformado
+  nosotros: habíamos transformado
+  vosotros: habíais transformado
+  uds: habían transformado
+futuro-perfecto:
+  yo: habré transformado
+  tu: habrás transformado
+  vos: habrás transformado
+  ud: habrá transformado
+  nosotros: habremos transformado
+  vosotros: habréis transformado
+  uds: habrán transformado
+condicional-perfecto:
+  yo: habría transformado
+  tu: habrías transformado
+  vos: habrías transformado
+  ud: habría transformado
+  nosotros: habríamos transformado
+  vosotros: habríais transformado
+  uds: habrían transformado
+presente-subjuntivo:
+  yo: transforme
+  tu: transformes
+  vos: transformes
+  ud: transforme
+  nosotros: transformemos
+  vosotros: transforméis
+  uds: transformen
+preterito-perfecto-subjuntivo:
+  yo: haya transformado
+  tu: hayas transformado
+  vos: hayas transformado
+  ud: haya transformado
+  nosotros: hayamos transformado
+  vosotros: hayáis transformado
+  uds: hayan transformado
+imperfecto-subjuntivo:
+  yo:
+    - transformara
+    - transformase
+  tu:
+    - transformaras
+    - transformases
+  vos:
+    - transformaras
+    - transformases
+  ud:
+    - transformara
+    - transformase
+  nosotros:
+    - transformáramos
+    - transformásemos
+  vosotros:
+    - transformarais
+    - transformaseis
+  uds:
+    - transformaran
+    - transformasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera transformado
+    - hubiese transformado
+  tu:
+    - hubieras transformado
+    - hubieses transformado
+  vos:
+    - hubieras transformado
+    - hubieses transformado
+  ud:
+    - hubiera transformado
+    - hubiese transformado
+  nosotros:
+    - hubiéramos transformado
+    - hubiésemos transformado
+  vosotros:
+    - hubierais transformado
+    - hubieseis transformado
+  uds:
+    - hubieran transformado
+    - hubiesen transformado
+imperativo:
+  tu: transforma
+  vos: transformá
+  ud: transforme
+  nosotros: transformemos
+  vosotros: transformad
+  uds: transformen

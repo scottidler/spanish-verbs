@@ -1,0 +1,142 @@
+infinitivo: estornudar
+gerundio: estornudando
+participio-pasado: estornudado
+presente-indicativo:
+  yo: estornudo
+  tu: estornudas
+  vos: estornudás
+  ud: estornuda
+  nosotros: estornudamos
+  vosotros: estornudáis
+  uds: estornudan
+preterito-perfecto-simple:
+  yo: estornudé
+  tu: estornudaste
+  vos: estornudaste
+  ud: estornudó
+  nosotros: estornudamos
+  vosotros: estornudasteis
+  uds: estornudaron
+preterito-imperfecto:
+  yo: estornudaba
+  tu: estornudabas
+  vos: estornudabas
+  ud: estornudaba
+  nosotros: estornudábamos
+  vosotros: estornudabais
+  uds: estornudaban
+futuro-simple:
+  yo: estornudaré
+  tu: estornudarás
+  vos: estornudarás
+  ud: estornudará
+  nosotros: estornudaremos
+  vosotros: estornudaréis
+  uds: estornudarán
+condicional-simple:
+  yo: estornudaría
+  tu: estornudarías
+  vos: estornudarías
+  ud: estornudaría
+  nosotros: estornudaríamos
+  vosotros: estornudaríais
+  uds: estornudarían
+presente-perfecto:
+  yo: he estornudado
+  tu: has estornudado
+  vos: has estornudado
+  ud: ha estornudado
+  nosotros: hemos estornudado
+  vosotros: habéis estornudado
+  uds: han estornudado
+preterito-pluscuamperfecto:
+  yo: había estornudado
+  tu: habías estornudado
+  vos: habías estornudado
+  ud: había estornudado
+  nosotros: habíamos estornudado
+  vosotros: habíais estornudado
+  uds: habían estornudado
+futuro-perfecto:
+  yo: habré estornudado
+  tu: habrás estornudado
+  vos: habrás estornudado
+  ud: habrá estornudado
+  nosotros: habremos estornudado
+  vosotros: habréis estornudado
+  uds: habrán estornudado
+condicional-perfecto:
+  yo: habría estornudado
+  tu: habrías estornudado
+  vos: habrías estornudado
+  ud: habría estornudado
+  nosotros: habríamos estornudado
+  vosotros: habríais estornudado
+  uds: habrían estornudado
+presente-subjuntivo:
+  yo: estornude
+  tu: estornudes
+  vos: estornudes
+  ud: estornude
+  nosotros: estornudemos
+  vosotros: estornudéis
+  uds: estornuden
+preterito-perfecto-subjuntivo:
+  yo: haya estornudado
+  tu: hayas estornudado
+  vos: hayas estornudado
+  ud: haya estornudado
+  nosotros: hayamos estornudado
+  vosotros: hayáis estornudado
+  uds: hayan estornudado
+imperfecto-subjuntivo:
+  yo:
+    - estornudara
+    - estornudase
+  tu:
+    - estornudaras
+    - estornudases
+  vos:
+    - estornudaras
+    - estornudases
+  ud:
+    - estornudara
+    - estornudase
+  nosotros:
+    - estornudáramos
+    - estornudásemos
+  vosotros:
+    - estornudarais
+    - estornudaseis
+  uds:
+    - estornudaran
+    - estornudasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estornudado
+    - hubiese estornudado
+  tu:
+    - hubieras estornudado
+    - hubieses estornudado
+  vos:
+    - hubieras estornudado
+    - hubieses estornudado
+  ud:
+    - hubiera estornudado
+    - hubiese estornudado
+  nosotros:
+    - hubiéramos estornudado
+    - hubiésemos estornudado
+  vosotros:
+    - hubierais estornudado
+    - hubieseis estornudado
+  uds:
+    - hubieran estornudado
+    - hubiesen estornudado
+imperativo:
+  tu: estornuda
+  vos: estornudá
+  ud: estornude
+  nosotros: estornudemos
+  vosotros: estornudad
+  uds: estornuden

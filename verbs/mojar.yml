@@ -1,0 +1,142 @@
+infinitivo: mojar
+gerundio: mojando
+participio-pasado: mojado
+presente-indicativo:
+  yo: mojo
+  tu: mojas
+  vos: mojás
+  ud: moja
+  nosotros: mojamos
+  vosotros: mojáis
+  uds: mojan
+preterito-perfecto-simple:
+  yo: mojé
+  tu: mojaste
+  vos: mojaste
+  ud: mojó
+  nosotros: mojamos
+  vosotros: mojasteis
+  uds: mojaron
+preterito-imperfecto:
+  yo: mojaba
+  tu: mojabas
+  vos: mojabas
+  ud: mojaba
+  nosotros: mojábamos
+  vosotros: mojabais
+  uds: mojaban
+futuro-simple:
+  yo: mojaré
+  tu: mojarás
+  vos: mojarás
+  ud: mojará
+  nosotros: mojaremos
+  vosotros: mojaréis
+  uds: mojarán
+condicional-simple:
+  yo: mojaría
+  tu: mojarías
+  vos: mojarías
+  ud: mojaría
+  nosotros: mojaríamos
+  vosotros: mojaríais
+  uds: mojarían
+presente-perfecto:
+  yo: he mojado
+  tu: has mojado
+  vos: has mojado
+  ud: ha mojado
+  nosotros: hemos mojado
+  vosotros: habéis mojado
+  uds: han mojado
+preterito-pluscuamperfecto:
+  yo: había mojado
+  tu: habías mojado
+  vos: habías mojado
+  ud: había mojado
+  nosotros: habíamos mojado
+  vosotros: habíais mojado
+  uds: habían mojado
+futuro-perfecto:
+  yo: habré mojado
+  tu: habrás mojado
+  vos: habrás mojado
+  ud: habrá mojado
+  nosotros: habremos mojado
+  vosotros: habréis mojado
+  uds: habrán mojado
+condicional-perfecto:
+  yo: habría mojado
+  tu: habrías mojado
+  vos: habrías mojado
+  ud: habría mojado
+  nosotros: habríamos mojado
+  vosotros: habríais mojado
+  uds: habrían mojado
+presente-subjuntivo:
+  yo: moje
+  tu: mojes
+  vos: mojes
+  ud: moje
+  nosotros: mojemos
+  vosotros: mojéis
+  uds: mojen
+preterito-perfecto-subjuntivo:
+  yo: haya mojado
+  tu: hayas mojado
+  vos: hayas mojado
+  ud: haya mojado
+  nosotros: hayamos mojado
+  vosotros: hayáis mojado
+  uds: hayan mojado
+imperfecto-subjuntivo:
+  yo:
+    - mojara
+    - mojase
+  tu:
+    - mojaras
+    - mojases
+  vos:
+    - mojaras
+    - mojases
+  ud:
+    - mojara
+    - mojase
+  nosotros:
+    - mojáramos
+    - mojásemos
+  vosotros:
+    - mojarais
+    - mojaseis
+  uds:
+    - mojaran
+    - mojasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mojado
+    - hubiese mojado
+  tu:
+    - hubieras mojado
+    - hubieses mojado
+  vos:
+    - hubieras mojado
+    - hubieses mojado
+  ud:
+    - hubiera mojado
+    - hubiese mojado
+  nosotros:
+    - hubiéramos mojado
+    - hubiésemos mojado
+  vosotros:
+    - hubierais mojado
+    - hubieseis mojado
+  uds:
+    - hubieran mojado
+    - hubiesen mojado
+imperativo:
+  tu: moja
+  vos: mojá
+  ud: moje
+  nosotros: mojemos
+  vosotros: mojad
+  uds: mojen

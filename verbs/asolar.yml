@@ -1,0 +1,142 @@
+infinitivo: asolar
+gerundio: asolando
+participio-pasado: asolado
+presente-indicativo:
+  yo: asuelo
+  tu: asuelas
+  vos: asuelas
+  ud: asuela
+  nosotros: asolamos
+  vosotros: asoláis
+  uds: asuelan
+preterito-perfecto-simple:
+  yo: asolé
+  tu: asolaste
+  vos: asolaste
+  ud: asoló
+  nosotros: asolamos
+  vosotros: asolasteis
+  uds: asolaron
+preterito-imperfecto:
+  yo: asolaba
+  tu: asolabas
+  vos: asolabas
+  ud: asolaba
+  nosotros: asolábamos
+  vosotros: asolabais
+  uds: asolaban
+futuro-simple:
+  yo: asolaré
+  tu: asolarás
+  vos: asolarás
+  ud: asolará
+  nosotros: asolaremos
+  vosotros: asolaréis
+  uds: asolarán
+condicional-simple:
+  yo: asolaría
+  tu: asolarías
+  vos: asolarías
+  ud: asolaría
+  nosotros: asolaríamos
+  vosotros: asolaríais
+  uds: asolarían
+presente-perfecto:
+  yo: he asolado
+  tu: has asolado
+  vos: has asolado
+  ud: ha asolado
+  nosotros: hemos asolado
+  vosotros: habéis asolado
+  uds: han asolado
+preterito-pluscuamperfecto:
+  yo: había asolado
+  tu: habías asolado
+  vos: habías asolado
+  ud: había asolado
+  nosotros: habíamos asolado
+  vosotros: habíais asolado
+  uds: habían asolado
+futuro-perfecto:
+  yo: habré asolado
+  tu: habrás asolado
+  vos: habrás asolado
+  ud: habrá asolado
+  nosotros: habremos asolado
+  vosotros: habréis asolado
+  uds: habrán asolado
+condicional-perfecto:
+  yo: habría asolado
+  tu: habrías asolado
+  vos: habrías asolado
+  ud: habría asolado
+  nosotros: habríamos asolado
+  vosotros: habríais asolado
+  uds: habrían asolado
+presente-subjuntivo:
+  yo: asuele
+  tu: asueles
+  vos: asueles
+  ud: asuele
+  nosotros: asolemos
+  vosotros: asoléis
+  uds: asuelen
+preterito-perfecto-subjuntivo:
+  yo: haya asolado
+  tu: hayas asolado
+  vos: hayas asolado
+  ud: haya asolado
+  nosotros: hayamos asolado
+  vosotros: hayáis asolado
+  uds: hayan asolado
+imperfecto-subjuntivo:
+  yo:
+    - asolara
+    - asolase
+  tu:
+    - asolaras
+    - asolases
+  vos:
+    - asolaras
+    - asolases
+  ud:
+    - asolara
+    - asolase
+  nosotros:
+    - asoláramos
+    - asolásemos
+  vosotros:
+    - asolarais
+    - asolaseis
+  uds:
+    - asolaran
+    - asolasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asolado
+    - hubiese asolado
+  tu:
+    - hubieras asolado
+    - hubieses asolado
+  vos:
+    - hubieras asolado
+    - hubieses asolado
+  ud:
+    - hubiera asolado
+    - hubiese asolado
+  nosotros:
+    - hubiéramos asolado
+    - hubiésemos asolado
+  vosotros:
+    - hubierais asolado
+    - hubieseis asolado
+  uds:
+    - hubieran asolado
+    - hubiesen asolado
+imperativo:
+  tu: asuela
+  vos: asolá
+  ud: asuele
+  nosotros: asolemos
+  vosotros: asolad
+  uds: asuelen

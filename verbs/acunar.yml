@@ -1,0 +1,142 @@
+infinitivo: acunar
+gerundio: acunando
+participio-pasado: acunado
+presente-indicativo:
+  yo: acuno
+  tu: acunas
+  vos: acunas
+  ud: acuna
+  nosotros: acunamos
+  vosotros: acunáis
+  uds: acunan
+preterito-perfecto-simple:
+  yo: acuné
+  tu: acunaste
+  vos: acunaste
+  ud: acunó
+  nosotros: acunamos
+  vosotros: acunasteis
+  uds: acunaron
+preterito-imperfecto:
+  yo: acunaba
+  tu: acunabas
+  vos: acunabas
+  ud: acunaba
+  nosotros: acunábamos
+  vosotros: acunabais
+  uds: acunaban
+futuro-simple:
+  yo: acunaré
+  tu: acunarás
+  vos: acunarás
+  ud: acunará
+  nosotros: acunaremos
+  vosotros: acunaréis
+  uds: acunarán
+condicional-simple:
+  yo: acunaría
+  tu: acunarías
+  vos: acunarías
+  ud: acunaría
+  nosotros: acunaríamos
+  vosotros: acunaríais
+  uds: acunarían
+presente-perfecto:
+  yo: he acunado
+  tu: has acunado
+  vos: has acunado
+  ud: ha acunado
+  nosotros: hemos acunado
+  vosotros: habéis acunado
+  uds: han acunado
+preterito-pluscuamperfecto:
+  yo: había acunado
+  tu: habías acunado
+  vos: habías acunado
+  ud: había acunado
+  nosotros: habíamos acunado
+  vosotros: habíais acunado
+  uds: habían acunado
+futuro-perfecto:
+  yo: habré acunado
+  tu: habrás acunado
+  vos: habrás acunado
+  ud: habrá acunado
+  nosotros: habremos acunado
+  vosotros: habréis acunado
+  uds: habrán acunado
+condicional-perfecto:
+  yo: habría acunado
+  tu: habrías acunado
+  vos: habrías acunado
+  ud: habría acunado
+  nosotros: habríamos acunado
+  vosotros: habríais acunado
+  uds: habrían acunado
+presente-subjuntivo:
+  yo: acune
+  tu: acunes
+  vos: acunes
+  ud: acune
+  nosotros: acunemos
+  vosotros: acunéis
+  uds: acunen
+preterito-perfecto-subjuntivo:
+  yo: haya acunado
+  tu: hayas acunado
+  vos: hayas acunado
+  ud: haya acunado
+  nosotros: hayamos acunado
+  vosotros: hayáis acunado
+  uds: hayan acunado
+imperfecto-subjuntivo:
+  yo:
+    - acunara
+    - acunase
+  tu:
+    - acunaras
+    - acunases
+  vos:
+    - acunaras
+    - acunases
+  ud:
+    - acunara
+    - acunase
+  nosotros:
+    - acunáramos
+    - acunásemos
+  vosotros:
+    - acunarais
+    - acunaseis
+  uds:
+    - acunaran
+    - acunasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acunado
+    - hubiese acunado
+  tu:
+    - hubieras acunado
+    - hubieses acunado
+  vos:
+    - hubieras acunado
+    - hubieses acunado
+  ud:
+    - hubiera acunado
+    - hubiese acunado
+  nosotros:
+    - hubiéramos acunado
+    - hubiésemos acunado
+  vosotros:
+    - hubierais acunado
+    - hubieseis acunado
+  uds:
+    - hubieran acunado
+    - hubiesen acunado
+imperativo:
+  tu: acuna
+  vos: acuná
+  ud: acune
+  nosotros: acunemos
+  vosotros: acunad
+  uds: acunen

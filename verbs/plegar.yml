@@ -1,0 +1,142 @@
+infinitivo: plegar
+gerundio: plegando
+participio-pasado: plegado
+presente-indicativo:
+  yo: pliego
+  tu: pliegas
+  vos: pliegas
+  ud: pliega
+  nosotros: plegamos
+  vosotros: plegáis
+  uds: pliegan
+preterito-perfecto-simple:
+  yo: plegué
+  tu: plegaste
+  vos: plegaste
+  ud: plegó
+  nosotros: plegamos
+  vosotros: plegasteis
+  uds: plegaron
+preterito-imperfecto:
+  yo: plegaba
+  tu: plegabas
+  vos: plegabas
+  ud: plegaba
+  nosotros: plegábamos
+  vosotros: plegabais
+  uds: plegaban
+futuro-simple:
+  yo: plegaré
+  tu: plegarás
+  vos: plegarás
+  ud: plegará
+  nosotros: plegaremos
+  vosotros: plegaréis
+  uds: plegarán
+condicional-simple:
+  yo: plegaría
+  tu: plegarías
+  vos: plegarías
+  ud: plegaría
+  nosotros: plegaríamos
+  vosotros: plegaríais
+  uds: plegarían
+presente-perfecto:
+  yo: he plegado
+  tu: has plegado
+  vos: has plegado
+  ud: ha plegado
+  nosotros: hemos plegado
+  vosotros: habéis plegado
+  uds: han plegado
+preterito-pluscuamperfecto:
+  yo: había plegado
+  tu: habías plegado
+  vos: habías plegado
+  ud: había plegado
+  nosotros: habíamos plegado
+  vosotros: habíais plegado
+  uds: habían plegado
+futuro-perfecto:
+  yo: habré plegado
+  tu: habrás plegado
+  vos: habrás plegado
+  ud: habrá plegado
+  nosotros: habremos plegado
+  vosotros: habréis plegado
+  uds: habrán plegado
+condicional-perfecto:
+  yo: habría plegado
+  tu: habrías plegado
+  vos: habrías plegado
+  ud: habría plegado
+  nosotros: habríamos plegado
+  vosotros: habríais plegado
+  uds: habrían plegado
+presente-subjuntivo:
+  yo: pliegue
+  tu: pliegues
+  vos: pliegues
+  ud: pliegue
+  nosotros: pleguemos
+  vosotros: pliegueis
+  uds: plieguen
+preterito-perfecto-subjuntivo:
+  yo: haya plegado
+  tu: hayas plegado
+  vos: hayas plegado
+  ud: haya plegado
+  nosotros: hayamos plegado
+  vosotros: hayáis plegado
+  uds: hayan plegado
+imperfecto-subjuntivo:
+  yo:
+    - plegara
+    - plegase
+  tu:
+    - plegaras
+    - plegases
+  vos:
+    - plegaras
+    - plegases
+  ud:
+    - plegara
+    - plegase
+  nosotros:
+    - plegáramos
+    - plegásemos
+  vosotros:
+    - plegarais
+    - plegaseis
+  uds:
+    - plegaran
+    - plegasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera plegado
+    - hubiese plegado
+  tu:
+    - hubieras plegado
+    - hubieses plegado
+  vos:
+    - hubieras plegado
+    - hubieses plegado
+  ud:
+    - hubiera plegado
+    - hubiese plegado
+  nosotros:
+    - hubiéramos plegado
+    - hubiésemos plegado
+  vosotros:
+    - hubierais plegado
+    - hubieseis plegado
+  uds:
+    - hubieran plegado
+    - hubiesen plegado
+imperativo:
+  tu: pliega
+  vos: plegá
+  ud: pliegue
+  nosotros: pleguemos
+  vosotros: plegad
+  uds: plieguen

@@ -1,0 +1,142 @@
+infinitivo: resquebrajar
+gerundio: resquebrajando
+participio-pasado: resquebrajado
+presente-indicativo:
+  yo: resquebrajo
+  tu: resquebrajas
+  vos: resquebrajás
+  ud: resquebraja
+  nosotros: resquebrajamos
+  vosotros: resquebrajáis
+  uds: resquebrajan
+preterito-perfecto-simple:
+  yo: resquebrajé
+  tu: resquebrajaste
+  vos: resquebrajaste
+  ud: resquebrajó
+  nosotros: resquebrajamos
+  vosotros: resquebrajasteis
+  uds: resquebrajaron
+preterito-imperfecto:
+  yo: resquebrajaba
+  tu: resquebrajabas
+  vos: resquebrajabas
+  ud: resquebrajaba
+  nosotros: resquebrajábamos
+  vosotros: resquebrajabais
+  uds: resquebrajaban
+futuro-simple:
+  yo: resquebrajaré
+  tu: resquebrajarás
+  vos: resquebrajarás
+  ud: resquebrajará
+  nosotros: resquebrajaremos
+  vosotros: resquebrajaréis
+  uds: resquebrajarán
+condicional-simple:
+  yo: resquebrajaría
+  tu: resquebrajarías
+  vos: resquebrajarías
+  ud: resquebrajaría
+  nosotros: resquebrajaríamos
+  vosotros: resquebrajaríais
+  uds: resquebrajarían
+presente-perfecto:
+  yo: he resquebrajado
+  tu: has resquebrajado
+  vos: has resquebrajado
+  ud: ha resquebrajado
+  nosotros: hemos resquebrajado
+  vosotros: habéis resquebrajado
+  uds: han resquebrajado
+preterito-pluscuamperfecto:
+  yo: había resquebrajado
+  tu: habías resquebrajado
+  vos: habías resquebrajado
+  ud: había resquebrajado
+  nosotros: habíamos resquebrajado
+  vosotros: habíais resquebrajado
+  uds: habían resquebrajado
+futuro-perfecto:
+  yo: habré resquebrajado
+  tu: habrás resquebrajado
+  vos: habrás resquebrajado
+  ud: habrá resquebrajado
+  nosotros: habremos resquebrajado
+  vosotros: habréis resquebrajado
+  uds: habrán resquebrajado
+condicional-perfecto:
+  yo: habría resquebrajado
+  tu: habrías resquebrajado
+  vos: habrías resquebrajado
+  ud: habría resquebrajado
+  nosotros: habríamos resquebrajado
+  vosotros: habríais resquebrajado
+  uds: habrían resquebrajado
+presente-subjuntivo:
+  yo: resquebraje
+  tu: resquebrajes
+  vos: resquebrajes
+  ud: resquebraje
+  nosotros: resquebrajemos
+  vosotros: resquebrajéis
+  uds: resquebrajen
+preterito-perfecto-subjuntivo:
+  yo: haya resquebrajado
+  tu: hayas resquebrajado
+  vos: hayas resquebrajado
+  ud: haya resquebrajado
+  nosotros: hayamos resquebrajado
+  vosotros: hayáis resquebrajado
+  uds: hayan resquebrajado
+imperfecto-subjuntivo:
+  yo:
+    - resquebrajara
+    - resquebrajase
+  tu:
+    - resquebrajaras
+    - resquebrajases
+  vos:
+    - resquebrajaras
+    - resquebrajases
+  ud:
+    - resquebrajara
+    - resquebrajase
+  nosotros:
+    - resquebrajáramos
+    - resquebrajásemos
+  vosotros:
+    - resquebrajarais
+    - resquebrajaseis
+  uds:
+    - resquebrajaran
+    - resquebrajasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera resquebrajado
+    - hubiese resquebrajado
+  tu:
+    - hubieras resquebrajado
+    - hubieses resquebrajado
+  vos:
+    - hubieras resquebrajado
+    - hubieses resquebrajado
+  ud:
+    - hubiera resquebrajado
+    - hubiese resquebrajado
+  nosotros:
+    - hubiéramos resquebrajado
+    - hubiésemos resquebrajado
+  vosotros:
+    - hubierais resquebrajado
+    - hubieseis resquebrajado
+  uds:
+    - hubieran resquebrajado
+    - hubiesen resquebrajado
+imperativo:
+  tu: resquebraja
+  vos: resquebrajá
+  ud: resquebraje
+  nosotros: resquebrajemos
+  vosotros: resquebrajad
+  uds: resquebrajen

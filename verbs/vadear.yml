@@ -1,0 +1,142 @@
+infinitivo: vadear
+gerundio: vadeando
+participio-pasado: vadeado
+presente-indicativo:
+  yo: vadéo
+  tu: vadeas
+  vos: vadeás
+  ud: vadea
+  nosotros: vadeamos
+  vosotros: vadeáis
+  uds: vadean
+preterito-perfecto-simple:
+  yo: vadeé
+  tu: vadeaste
+  vos: vadeaste
+  ud: vadeó
+  nosotros: vadeamos
+  vosotros: vadeasteis
+  uds: vadearon
+preterito-imperfecto:
+  yo: vadeaba
+  tu: vadeabas
+  vos: vadeabas
+  ud: vadeaba
+  nosotros: vadeábamos
+  vosotros: vadeabais
+  uds: vadeaban
+futuro-simple:
+  yo: vadearé
+  tu: vadearás
+  vos: vadearás
+  ud: vadeará
+  nosotros: vadearemos
+  vosotros: vadearéis
+  uds: vadearán
+condicional-simple:
+  yo: vadearía
+  tu: vadearías
+  vos: vadearías
+  ud: vadearía
+  nosotros: vadearíamos
+  vosotros: vadearíais
+  uds: vadearían
+presente-perfecto:
+  yo: he vadeado
+  tu: has vadeado
+  vos: has vadeado
+  ud: ha vadeado
+  nosotros: hemos vadeado
+  vosotros: habéis vadeado
+  uds: han vadeado
+preterito-pluscuamperfecto:
+  yo: había vadeado
+  tu: habías vadeado
+  vos: habías vadeado
+  ud: había vadeado
+  nosotros: habíamos vadeado
+  vosotros: habíais vadeado
+  uds: habían vadeado
+futuro-perfecto:
+  yo: habré vadeado
+  tu: habrás vadeado
+  vos: habrás vadeado
+  ud: habrá vadeado
+  nosotros: habremos vadeado
+  vosotros: habréis vadeado
+  uds: habrán vadeado
+condicional-perfecto:
+  yo: habría vadeado
+  tu: habrías vadeado
+  vos: habrías vadeado
+  ud: habría vadeado
+  nosotros: habríamos vadeado
+  vosotros: habríais vadeado
+  uds: habrían vadeado
+presente-subjuntivo:
+  yo: vadee
+  tu: vadees
+  vos: vadees
+  ud: vadee
+  nosotros: vadeemos
+  vosotros: vadeéis
+  uds: vadeen
+preterito-perfecto-subjuntivo:
+  yo: haya vadeado
+  tu: hayas vadeado
+  vos: hayas vadeado
+  ud: haya vadeado
+  nosotros: hayamos vadeado
+  vosotros: hayáis vadeado
+  uds: hayan vadeado
+imperfecto-subjuntivo:
+  yo:
+    - vadeara
+    - vadease
+  tu:
+    - vadearas
+    - vadeases
+  vos:
+    - vadearas
+    - vadeases
+  ud:
+    - vadeara
+    - vadease
+  nosotros:
+    - vadeáramos
+    - vadeásemos
+  vosotros:
+    - vadearais
+    - vadeaseis
+  uds:
+    - vadearan
+    - vadeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vadeado
+    - hubiese vadeado
+  tu:
+    - hubieras vadeado
+    - hubieses vadeado
+  vos:
+    - hubieras vadeado
+    - hubieses vadeado
+  ud:
+    - hubiera vadeado
+    - hubiese vadeado
+  nosotros:
+    - hubiéramos vadeado
+    - hubiésemos vadeado
+  vosotros:
+    - hubierais vadeado
+    - hubieseis vadeado
+  uds:
+    - hubieran vadeado
+    - hubiesen vadeado
+imperativo:
+  tu: vadea
+  vos: vadeá
+  ud: vadee
+  nosotros: vadeemos
+  vosotros: vadead
+  uds: vadeen

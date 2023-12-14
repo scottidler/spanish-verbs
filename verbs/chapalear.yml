@@ -1,0 +1,142 @@
+infinitivo: chapalear
+gerundio: chapaleando
+participio-pasado: chapaleado
+presente-indicativo:
+  yo: chapeleo
+  tu: chapaleas
+  vos: chapaleas
+  ud: chapalea
+  nosotros: chapaleamos
+  vosotros: chapeleáis
+  uds: chapalean
+preterito-perfecto-simple:
+  yo: chapaleé
+  tu: chapeleaste
+  vos: chapeleaste
+  ud: chapaleó
+  nosotros: chapaleamos
+  vosotros: chapeleasteis
+  uds: chapalearon
+preterito-imperfecto:
+  yo: chapaleaba
+  tu: chapaleabas
+  vos: chapaleabas
+  ud: chapaleaba
+  nosotros: chapaleábamos
+  vosotros: chapaleabais
+  uds: chapaleaban
+futuro-simple:
+  yo: chapalearé
+  tu: chapalearás
+  vos: chapalearás
+  ud: chapaleará
+  nosotros: chapalearemos
+  vosotros: chapalearéis
+  uds: chapalearán
+condicional-simple:
+  yo: chapalearía
+  tu: chapalearías
+  vos: chapalearías
+  ud: chapalearía
+  nosotros: chapalearíamos
+  vosotros: chapalearíais
+  uds: chapalearían
+presente-perfecto:
+  yo: he chapaleado
+  tu: has chapaleado
+  vos: has chapaleado
+  ud: ha chapaleado
+  nosotros: hemos chapaleado
+  vosotros: habéis chapaleado
+  uds: han chapaleado
+preterito-pluscuamperfecto:
+  yo: había chapaleado
+  tu: habías chapaleado
+  vos: habías chapaleado
+  ud: había chapaleado
+  nosotros: habíamos chapaleado
+  vosotros: habíais chapaleado
+  uds: habían chapaleado
+futuro-perfecto:
+  yo: habré chapaleado
+  tu: habrás chapaleado
+  vos: habrás chapaleado
+  ud: habrá chapaleado
+  nosotros: habremos chapaleado
+  vosotros: habréis chapaleado
+  uds: habrán chapaleado
+condicional-perfecto:
+  yo: habría chapaleado
+  tu: habrías chapaleado
+  vos: habrías chapaleado
+  ud: habría chapaleado
+  nosotros: habríamos chapaleado
+  vosotros: habríais chapaleado
+  uds: habrían chapaleado
+presente-subjuntivo:
+  yo: chapele
+  tu: chapeles
+  vos: chapeles
+  ud: chapele
+  nosotros: chapelemos
+  vosotros: chapeleáis
+  uds: chapeleen
+preterito-perfecto-subjuntivo:
+  yo: haya chapaleado
+  tu: hayas chapaleado
+  vos: hayas chapaleado
+  ud: haya chapaleado
+  nosotros: hayamos chapaleado
+  vosotros: hayáis chapaleado
+  uds: hayan chapaleado
+imperfecto-subjuntivo:
+  yo:
+    - chapaleara
+    - chapalease
+  tu:
+    - chapalearas
+    - chapaleases
+  vos:
+    - chapalearas
+    - chapaleases
+  ud:
+    - chapaleara
+    - chapalease
+  nosotros:
+    - chapaleáramos
+    - chapaleásemos
+  vosotros:
+    - chapalearais
+    - chapaleaseis
+  uds:
+    - chapalearan
+    - chapaleasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera chapaleado
+    - hubiese chapaleado
+  tu:
+    - hubieras chapaleado
+    - hubieses chapaleado
+  vos:
+    - hubieras chapaleado
+    - hubieses chapaleado
+  ud:
+    - hubiera chapaleado
+    - hubiese chapaleado
+  nosotros:
+    - hubiéramos chapaleado
+    - hubiésemos chapaleado
+  vosotros:
+    - hubierais chapaleado
+    - hubieseis chapaleado
+  uds:
+    - hubieran chapaleado
+    - hubiesen chapaleado
+imperativo:
+  tu: chapalea
+  vos: chapaleá
+  ud: chapalee
+  nosotros: chapelemos
+  vosotros: chaplead
+  uds: chapeleen

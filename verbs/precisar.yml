@@ -1,0 +1,142 @@
+infinitivo: precisar
+gerundio: precisando
+participio-pasado: precisado
+presente-indicativo:
+  yo: preciso
+  tu: precisas
+  vos: precisas
+  ud: precisa
+  nosotros: precisamos
+  vosotros: precisáis
+  uds: precisan
+preterito-perfecto-simple:
+  yo: precisé
+  tu: precisaste
+  vos: precisaste
+  ud: precisó
+  nosotros: precisamos
+  vosotros: precisasteis
+  uds: precisaron
+preterito-imperfecto:
+  yo: precisaba
+  tu: precisabas
+  vos: precisabas
+  ud: precisaba
+  nosotros: precisábamos
+  vosotros: precisabais
+  uds: precisaban
+futuro-simple:
+  yo: precisaré
+  tu: precisarás
+  vos: precisarás
+  ud: precisará
+  nosotros: precisaremos
+  vosotros: precisaréis
+  uds: precisarán
+condicional-simple:
+  yo: precisaría
+  tu: precisarías
+  vos: precisarías
+  ud: precisaría
+  nosotros: precisaríamos
+  vosotros: precisaríais
+  uds: precisarían
+presente-perfecto:
+  yo: he precisado
+  tu: has precisado
+  vos: has precisado
+  ud: ha precisado
+  nosotros: hemos precisado
+  vosotros: habéis precisado
+  uds: han precisado
+preterito-pluscuamperfecto:
+  yo: había precisado
+  tu: habías precisado
+  vos: habías precisado
+  ud: había precisado
+  nosotros: habíamos precisado
+  vosotros: habíais precisado
+  uds: habían precisado
+futuro-perfecto:
+  yo: habré precisado
+  tu: habrás precisado
+  vos: habrás precisado
+  ud: habrá precisado
+  nosotros: habremos precisado
+  vosotros: habréis precisado
+  uds: habrán precisado
+condicional-perfecto:
+  yo: habría precisado
+  tu: habrías precisado
+  vos: habrías precisado
+  ud: habría precisado
+  nosotros: habríamos precisado
+  vosotros: habríais precisado
+  uds: habrían precisado
+presente-subjuntivo:
+  yo: precise
+  tu: precises
+  vos: precises
+  ud: precise
+  nosotros: precisemos
+  vosotros: preciséis
+  uds: precisen
+preterito-perfecto-subjuntivo:
+  yo: haya precisado
+  tu: hayas precisado
+  vos: hayas precisado
+  ud: haya precisado
+  nosotros: hayamos precisado
+  vosotros: hayáis precisado
+  uds: hayan precisado
+imperfecto-subjuntivo:
+  yo: 
+    - precisara
+    - precisase
+  tu: 
+    - precisaras
+    - precisases
+  vos: 
+    - precisaras
+    - precisases
+  ud: 
+    - precisara
+    - precisase
+  nosotros: 
+    - precisáramos
+    - precisásemos
+  vosotros: 
+    - precisarais
+    - precisaseis
+  uds: 
+    - precisaran
+    - precisasen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - hubiera precisado
+    - hubiese precisado
+  tu: 
+    - hubieras precisado
+    - hubieses precisado
+  vos: 
+    - hubieras precisado
+    - hubieses precisado
+  ud: 
+    - hubiera precisado
+    - hubiese precisado
+  nosotros: 
+    - hubiéramos precisado
+    - hubiésemos precisado
+  vosotros: 
+    - hubierais precisado
+    - hubieseis precisado
+  uds: 
+    - hubieran precisado
+    - hubiesen precisado
+imperativo:
+  tu: precisa
+  vos: precisá
+  ud: precise
+  nosotros: precisemos
+  vosotros: preciad
+  uds: precisen

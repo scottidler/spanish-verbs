@@ -1,0 +1,156 @@
+infinitivo: arrepentirse
+gerundio: arrepintiéndose
+participio-pasado: arrepentido
+
+presente-indicativo:
+  yo: me arrepiento
+  tu: te arrepientes
+  vos: te arrepentís
+  ud: se arrepiente
+  nosotros: nos arrepentimos
+  vosotros: os arrepentís
+  uds: se arrepienten
+
+preterito-perfecto-simple:
+  yo: me arrepentí
+  tu: te arrepentiste
+  vos: te arrepentiste
+  ud: se arrepintió
+  nosotros: nos arrepentimos
+  vosotros: os arrepentisteis
+  uds: se arrepintieron
+
+preterito-imperfecto:
+  yo: me arrepentía
+  tu: te arrepentías
+  vos: te arrepentías
+  ud: se arrepentía
+  nosotros: nos arrepentíamos
+  vosotros: os arrepentíais
+  uds: se arrepentían
+
+futuro-simple:
+  yo: me arrepentiré
+  tu: te arrepentirás
+  vos: te arrepentirás
+  ud: se arrepentirá
+  nosotros: nos arrepentiremos
+  vosotros: os arrepentiréis
+  uds: se arrepentirán
+
+condicional-simple:
+  yo: me arrepentiría
+  tu: te arrepentirías
+  vos: te arrepentirías
+  ud: se arrepentiría
+  nosotros: nos arrepentiríamos
+  vosotros: os arrepentiríais
+  uds: se arrepentirían
+
+presente-perfecto:
+  yo: me he arrepentido
+  tu: te has arrepentido
+  vos: te has arrepentido
+  ud: se ha arrepentido
+  nosotros: nos hemos arrepentido
+  vosotros: os habéis arrepentido
+  uds: se han arrepentido
+
+preterito-pluscuamperfecto:
+  yo: me había arrepentido
+  tu: te habías arrepentido
+  vos: te habías arrepentido
+  ud: se había arrepentido
+  nosotros: nos habíamos arrepentido
+  vosotros: os habíais arrepentido
+  uds: se habían arrepentido
+
+futuro-perfecto:
+  yo: me habré arrepentido
+  tu: te habrás arrepentido
+  vos: te habrás arrepentido
+  ud: se habrá arrepentido
+  nosotros: nos habremos arrepentido
+  vosotros: os habréis arrepentido
+  uds: se habrán arrepentido
+
+condicional-perfecto:
+  yo: me habría arrepentido
+  tu: te habrías arrepentido
+  vos: te habrías arrepentido
+  ud: se habría arrepentido
+  nosotros: nos habríamos arrepentido
+  vosotros: os habríais arrepentido
+  uds: se habrían arrepentido
+
+presente-subjuntivo:
+  yo: me arrepienta
+  tu: te arrepientas
+  vos: te arrepientas
+  ud: se arrepienta
+  nosotros: nos arrepintamos
+  vosotros: os arrepintáis
+  uds: se arrepientan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya arrepentido
+  tu: te hayas arrepentido
+  vos: te hayas arrepentido
+  ud: se haya arrepentido
+  nosotros: nos hayamos arrepentido
+  vosotros: os hayáis arrepentido
+  uds: se hayan arrepentido
+
+imperfecto-subjuntivo:
+  yo:
+    - me arrepintiera
+    - me arrepintiese
+  tu:
+    - te arrepintieras
+    - te arrepintieses
+  vos:
+    - te arrepintieras
+    - te arrepintieses
+  ud:
+    - se arrepintiera
+    - se arrepintiese
+  nosotros:
+    - nos arrepintiéramos
+    - nos arrepintiésemos
+  vosotros:
+    - os arrepintierais
+    - os arrepintieseis
+  uds:
+    - se arrepintieran
+    - se arrepintiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera arrepentido
+    - me hubiese arrepentido
+  tu:
+    - te hubieras arrepentido
+    - te hubieses arrepentido
+  vos:
+    - te hubieras arrepentido
+    - te hubieses arrepentido
+  ud:
+    - se hubiera arrepentido
+    - se hubiese arrepentido
+  nosotros:
+    - nos hubiéramos arrepentido
+    - nos hubiésemos arrepentido
+  vosotros:
+    - os hubierais arrepentido
+    - os hubieseis arrepentido
+  uds:
+    - se hubieran arrepentido
+    - se hubiesen arrepentido
+
+imperativo:
+  tu: arrepiéntete
+  vos: arrepentíte
+  ud: arrepiéntase
+  nosotros: arrepintámonos
+  vosotros: arrepentíos
+  uds: arrepiéntanse

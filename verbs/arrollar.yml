@@ -1,0 +1,142 @@
+infinitivo: arrollar
+gerundio: arrollando
+participio-pasado: arrollado
+presente-indicativo:
+  yo: arrollo
+  tu: arrollas
+  vos: arrollas
+  ud: arrolla
+  nosotros: arrollamos
+  vosotros: arrolláis
+  uds: arrollan
+preterito-perfecto-simple:
+  yo: arrollé
+  tu: arrollaste
+  vos: arrollaste
+  ud: arrolló
+  nosotros: arrollamos
+  vosotros: arrollasteis
+  uds: arrollaron
+preterito-imperfecto:
+  yo: arrollaba
+  tu: arrollabas
+  vos: arrollabas
+  ud: arrollaba
+  nosotros: arrollábamos
+  vosotros: arrollabais
+  uds: arrollaban
+futuro-simple:
+  yo: arrollaré
+  tu: arrollarás
+  vos: arrollarás
+  ud: arrollará
+  nosotros: arrollaremos
+  vosotros: arrollaréis
+  uds: arrollarán
+condicional-simple:
+  yo: arrollaría
+  tu: arrollarías
+  vos: arrollarías
+  ud: arrollaría
+  nosotros: arrollaríamos
+  vosotros: arrollaríais
+  uds: arrollarían
+presente-perfecto:
+  yo: he arrollado
+  tu: has arrollado
+  vos: has arrollado
+  ud: ha arrollado
+  nosotros: hemos arrollado
+  vosotros: habéis arrollado
+  uds: han arrollado
+preterito-pluscuamperfecto:
+  yo: había arrollado
+  tu: habías arrollado
+  vos: habías arrollado
+  ud: había arrollado
+  nosotros: habíamos arrollado
+  vosotros: habíais arrollado
+  uds: habían arrollado
+futuro-perfecto:
+  yo: habré arrollado
+  tu: habrás arrollado
+  vos: habrás arrollado
+  ud: habrá arrollado
+  nosotros: habremos arrollado
+  vosotros: habréis arrollado
+  uds: habrán arrollado
+condicional-perfecto:
+  yo: habría arrollado
+  tu: habrías arrollado
+  vos: habrías arrollado
+  ud: habría arrollado
+  nosotros: habríamos arrollado
+  vosotros: habríais arrollado
+  uds: habrían arrollado
+presente-subjuntivo:
+  yo: arrolle
+  tu: arrolles
+  vos: arrolles
+  ud: arrolle
+  nosotros: arrollemos
+  vosotros: arrolléis
+  uds: arrollen
+preterito-perfecto-subjuntivo:
+  yo: haya arrollado
+  tu: hayas arrollado
+  vos: hayas arrollado
+  ud: haya arrollado
+  nosotros: hayamos arrollado
+  vosotros: hayáis arrollado
+  uds: hayan arrollado
+imperfecto-subjuntivo:
+  yo:
+    - arrollara
+    - arrollase
+  tu:
+    - arrollaras
+    - arrollases
+  vos:
+    - arrollaras
+    - arrollases
+  ud:
+    - arrollara
+    - arrollase
+  nosotros:
+    - arrolláramos
+    - arrollásemos
+  vosotros:
+    - arrollarais
+    - arrollaseis
+  uds:
+    - arrollaran
+    - arrollasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arrollado
+    - hubiese arrollado
+  tu:
+    - hubieras arrollado
+    - hubieses arrollado
+  vos:
+    - hubieras arrollado
+    - hubieses arrollado
+  ud:
+    - hubiera arrollado
+    - hubiese arrollado
+  nosotros:
+    - hubiéramos arrollado
+    - hubiésemos arrollado
+  vosotros:
+    - hubierais arrollado
+    - hubieseis arrollado
+  uds:
+    - hubieran arrollado
+    - hubiesen arrollado
+imperativo:
+  tu: arrolla
+  vos: arrollá
+  ud: arrolle
+  nosotros: arrollemos
+  vosotros: arrollad
+  uds: arrollen

@@ -1,0 +1,142 @@
+infinitivo: reinar
+gerundio: reinando
+participio-pasado: reinado
+presente-indicativo:
+  yo: reino
+  tu: reinas
+  vos: reinas
+  ud: reina
+  nosotros: reinamos
+  vosotros: reináis
+  uds: reinan
+preterito-perfecto-simple:
+  yo: reiné
+  tu: reinaste
+  vos: reinaste
+  ud: reinó
+  nosotros: reinamos
+  vosotros: reinasteis
+  uds: reinaron
+preterito-imperfecto:
+  yo: reinaba
+  tu: reinabas
+  vos: reinabas
+  ud: reinaba
+  nosotros: reinábamos
+  vosotros: reinabais
+  uds: reinaban
+futuro-simple:
+  yo: reinaré
+  tu: reinarás
+  vos: reinarás
+  ud: reinará
+  nosotros: reinaremos
+  vosotros: reinaréis
+  uds: reinarán
+condicional-simple:
+  yo: reinaría
+  tu: reinarías
+  vos: reinarías
+  ud: reinaría
+  nosotros: reinaríamos
+  vosotros: reinaríais
+  uds: reinarían
+presente-perfecto:
+  yo: he reinado
+  tu: has reinado
+  vos: has reinado
+  ud: ha reinado
+  nosotros: hemos reinado
+  vosotros: habéis reinado
+  uds: han reinado
+preterito-pluscuamperfecto:
+  yo: había reinado
+  tu: habías reinado
+  vos: habías reinado
+  ud: había reinado
+  nosotros: habíamos reinado
+  vosotros: habíais reinado
+  uds: habían reinado
+futuro-perfecto:
+  yo: habré reinado
+  tu: habrás reinado
+  vos: habrás reinado
+  ud: habrá reinado
+  nosotros: habremos reinado
+  vosotros: habréis reinado
+  uds: habrán reinado
+condicional-perfecto:
+  yo: habría reinado
+  tu: habrías reinado
+  vos: habrías reinado
+  ud: habría reinado
+  nosotros: habríamos reinado
+  vosotros: habríais reinado
+  uds: habrían reinado
+presente-subjuntivo:
+  yo: reine
+  tu: reines
+  vos: reines
+  ud: reine
+  nosotros: reinemos
+  vosotros: reinéis
+  uds: reinen
+preterito-perfecto-subjuntivo:
+  yo: haya reinado
+  tu: hayas reinado
+  vos: hayas reinado
+  ud: haya reinado
+  nosotros: hayamos reinado
+  vosotros: hayáis reinado
+  uds: hayan reinado
+imperfecto-subjuntivo:
+  yo:
+    - reinara
+    - reinase
+  tu:
+    - reinaras
+    - reinases
+  vos:
+    - reinaras
+    - reinases
+  ud:
+    - reinara
+    - reinase
+  nosotros:
+    - reináramos
+    - reinásemos
+  vosotros:
+    - reinarais
+    - reinaseis
+  uds:
+    - reinaran
+    - reinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reinado
+    - hubiese reinado
+  tu:
+    - hubieras reinado
+    - hubieses reinado
+  vos:
+    - hubieras reinado
+    - hubieses reinado
+  ud:
+    - hubiera reinado
+    - hubiese reinado
+  nosotros:
+    - hubiéramos reinado
+    - hubiésemos reinado
+  vosotros:
+    - hubierais reinado
+    - hubieseis reinado
+  uds:
+    - hubieran reinado
+    - hubiesen reinado
+imperativo:
+  tu: reina
+  vos: reigna
+  ud: reine
+  nosotros: reinemos
+  vosotros: reinad
+  uds: reinen

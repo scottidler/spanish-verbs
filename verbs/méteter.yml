@@ -1,0 +1,156 @@
+infinitivo: méteter
+gerundio: métetiéndote
+participio-pasado: métetido
+
+presente-indicativo:
+  yo: me métete
+  tu: te métetes
+  vos: te métetes
+  ud: se métete
+  nosotros: nos metemos
+  vosotros: os metéis
+  uds: se meteten
+
+preterito-perfecto-simple:
+  yo: me metí
+  tu: te metiste
+  vos: te metiste
+  ud: se metió
+  nosotros: nos metimos
+  vosotros: os metisteis
+  uds: se metieron
+
+preterito-imperfecto:
+  yo: me metía
+  tu: te metías
+  vos: te metías
+  ud: se metía
+  nosotros: nos metíamos
+  vosotros: os metíais
+  uds: se metían
+
+futuro-simple:
+  yo: me meteré
+  tu: te meterás
+  vos: te meterás
+  ud: se meterá
+  nosotros: nos meteremos
+  vosotros: os meteréis
+  uds: se meterán
+
+condicional-simple:
+  yo: me metería
+  tu: te meterías
+  vos: te meterías
+  ud: se metería
+  nosotros: nos meteríamos
+  vosotros: os meteríais
+  uds: se meterían
+
+presente-perfecto:
+  yo: me he metido
+  tu: te has metido
+  vos: te has metido
+  ud: se ha metido
+  nosotros: nos hemos metido
+  vosotros: os habéis metido
+  uds: se han metido
+
+preterito-pluscuamperfecto:
+  yo: me había metido
+  tu: te habías metido
+  vos: te habías metido
+  ud: se había metido
+  nosotros: nos habíamos metido
+  vosotros: os habíais metido
+  uds: se habían metido
+
+futuro-perfecto:
+  yo: me habré metido
+  tu: te habrás metido
+  vos: te habrás metido
+  ud: se habrá metido
+  nosotros: nos habremos metido
+  vosotros: os habréis metido
+  uds: se habrán metido
+
+condicional-perfecto:
+  yo: me habría metido
+  tu: te habrías metido
+  vos: te habrías metido
+  ud: se habría metido
+  nosotros: nos habríamos metido
+  vosotros: os habríais metido
+  uds: se habrían metido
+
+presente-subjuntivo:
+  yo: me meta
+  tu: te metas
+  vos: te metas
+  ud: se meta
+  nosotros: nos metamos
+  vosotros: os metáis
+  uds: se metan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya metido
+  tu: te hayas metido
+  vos: te hayas metido
+  ud: se haya metido
+  nosotros: nos hayamos metido
+  vosotros: os hayáis metido
+  uds: se hayan metido
+
+imperfecto-subjuntivo:
+  yo:
+    - me metiera
+    - me metiese
+  tu:
+    - te metieras
+    - te metieses
+  vos:
+    - te metieras
+    - te metieses
+  ud:
+    - se metiera
+    - se metiese
+  nosotros:
+    - nos metiéramos
+    - nos metiésemos
+  vosotros:
+    - os metierais
+    - os metieseis
+  uds:
+    - se metieran
+    - se metiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera metido
+    - me hubiese metido
+  tu:
+    - te hubieras metido
+    - te hubieses metido
+  vos:
+    - te hubieras metido
+    - te hubieses metido
+  ud:
+    - se hubiera metido
+    - se hubiese metido
+  nosotros:
+    - nos hubiéramos metido
+    - nos hubiésemos metido
+  vosotros:
+    - os hubierais metido
+    - os hubieseis metido
+  uds:
+    - se hubieran metido
+    - se hubiesen metido
+
+imperativo:
+  tu: métete
+  vos: métete
+  ud: métase
+  nosotros: metámonos
+  vosotros: meteos
+  uds: métanse

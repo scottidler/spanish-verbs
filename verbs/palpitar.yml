@@ -1,0 +1,142 @@
+infinitivo: palpitar
+gerundio: palpitaando
+participio-pasado: palpítado
+presente-indicativo:
+  yo: palpitoo
+  tu: palpitas
+  vos: palpitas
+  ud: palpitaa
+  nosotros: palpitaamos
+  vosotros: palpitáis
+  uds: palpitaaan
+preterito-perfecto-simple:
+  yo: palpité
+  tu: palpistee
+  vos: palpistee
+  ud: palpité
+  nosotros: palpitaamos
+  vosotros: palpisteeis
+  uds: palpitaaaron
+preterito-imperfecto:
+  yo: palpitaaba
+  tu: palpitaabas
+  vos: palpitaabas
+  ud: palpitaaba
+  nosotros: palpitaábamos
+  vosotros: palpitaabais
+  uds: palpitaaban
+futuro-simple:
+  yo: palpitaré
+  tu: palpitarás
+  vos: palpitarás
+  ud: palpitará
+  nosotros: palpitaremos
+  vosotros: palpitaréis
+  uds: palpitarán
+condicional-simple:
+  yo: palpitaría
+  tu: palpitarías
+  vos: palpitarías
+  ud: palpitaría
+  nosotros: palpitaríamos
+  vosotros: palpitaríais
+  uds: palpitarían
+presente-perfecto:
+  yo: he palpítado
+  tu: has palpítado
+  vos: has palpítado
+  ud: ha palpítado
+  nosotros: hemos palpítado
+  vosotros: habéis palpítado
+  uds: han palpítado
+preterito-pluscuamperfecto:
+  yo: había palpítado
+  tu: habías palpítado
+  vos: habías palpítado
+  ud: había palpítado
+  nosotros: habíamos palpítado
+  vosotros: habíais palpítado
+  uds: habían palpítado
+futuro-perfecto:
+  yo: habré palpítado
+  tu: habrás palpítado
+  vos: habrás palpítado
+  ud: habrá palpítado
+  nosotros: habremos palpítado
+  vosotros: habréis palpítado
+  uds: habrán palpítado
+condicional-perfecto:
+  yo: habría palpítado
+  tu: habrías palpítado
+  vos: habrías palpítado
+  ud: habría palpítado
+  nosotros: habríamos palpítado
+  vosotros: habríais palpítado
+  uds: habrían palpítado
+presente-subjuntivo:
+  yo: palpitse
+  tu: palpitse
+  vos: palpitse
+  ud: palpitse
+  nosotros: palpitemos
+  vosotros: palpitéis
+  uds: palpitseen
+preterito-perfecto-subjuntivo:
+  yo: haya palpítado
+  tu: hayas palpítado
+  vos: hayas palpítado
+  ud: haya palpítado
+  nosotros: hayamos palpítado
+  vosotros: hayáis palpítado
+  uds: hayan palpítado
+imperfecto-subjuntivo:
+  yo:
+    - palpitasen
+    - palpitasen
+  tu:
+    - palpitases
+    - palpitases
+  vos:
+    - palpitases
+    - palpitases
+  ud:
+    - palpitasen
+    - palpitasen
+  nosotros:
+    - palpitásemos
+    - palpitásemos
+  vosotros:
+    - palpitaseis
+    - palpitaseis
+  uds:
+    - palpitasen
+    - palpitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera palpítado
+    - hubiese palpítado
+  tu:
+    - hubieras palpítado
+    - hubieses palpítado
+  vos:
+    - hubieras palpítado
+    - hubieses palpítado
+  ud:
+    - hubiera palpítado
+    - hubiese palpítado
+  nosotros:
+    - hubiéramos palpítado
+    - hubiésemos palpítado
+  vosotros:
+    - hubierais palpítado
+    - hubieseis palpítado
+  uds:
+    - hubieran palpítado
+    - hubiesen palpítado
+imperativo:
+  tu: palpitaa
+  vos: palpitá
+  ud: palpitae
+  nosotros: palpitáemos
+  vosotros: palpitas
+  uds: palpiten

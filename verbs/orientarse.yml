@@ -1,0 +1,156 @@
+infinitivo: orientarse
+gerundio: orientándose
+participio-pasado: orientado
+
+presente-indicativo:
+  yo: me oriento
+  tu: te orientas 
+  vos: te orientas
+  ud: se orienta
+  nosotros: nos orientamos
+  vosotros: os orientáis
+  uds: se orientan
+
+preterito-perfecto-simple:
+  yo: me orienté
+  tu: te orientaste
+  vos: te orientaste
+  ud: se orientó
+  nosotros: nos orientamos
+  vosotros: os orientasteis
+  uds: se orientaron 
+
+preterito-imperfecto:
+  yo: me orientaba
+  tu: te orientabas
+  vos: te orientabas
+  ud: se orientaba
+  nosotros: nos orientábamos
+  vosotros: os orientabais
+  uds: se orientaban
+
+futuro-simple:
+  yo: me orientaré
+  tu: te orientarás
+  vos: te orientarás
+  ud: se orientará
+  nosotros: nos orientaremos
+  vosotros: os orientaréis
+  uds: se orientarán
+
+condicional-simple:
+  yo: me orientaría
+  tu: te orientarías
+  vos: te orientarías
+  ud: se orientaría
+  nosotros: nos orientaríamos
+  vosotros: os orientaríais
+  uds: se orientarían
+
+presente-perfecto:
+  yo: me he orientado
+  tu: te has orientado
+  vos: te has orientado
+  ud: se ha orientado
+  nosotros: nos hemos orientado
+  vosotros: os habéis orientado
+  uds: se han orientado
+
+preterito-pluscuamperfecto:
+  yo: me había orientado
+  tu: te habías orientado
+  vos: te habías orientado
+  ud: se había orientado
+  nosotros: nos habíamos orientado
+  vosotros: os habíais orientado
+  uds: se habían orientado
+
+futuro-perfecto:
+  yo: me habré orientado
+  tu: te habrás orientado
+  vos: te habrás orientado
+  ud: se habrá orientado
+  nosotros: nos habremos orientado
+  vosotros: os habréis orientado
+  uds: se habrán orientado
+
+condicional-perfecto:
+  yo: me habría orientado
+  tu: te habrías orientado
+  vos: te habrías orientado
+  ud: se habría orientado
+  nosotros: nos habríamos orientado
+  vosotros: os habríais orientado
+  uds: se habrían orientado
+
+presente-subjuntivo:
+  yo: me oriente
+  tu: te orientes
+  vos: te orientes
+  ud: se oriente
+  nosotros: nos orientemos
+  vosotros: os orientéis
+  uds: se orienten
+
+preterito-perfecto-subjuntivo:
+  yo: me haya orientado
+  tu: te hayas orientado
+  vos: te hayas orientado
+  ud: se haya orientado
+  nosotros: nos hayamos orientado
+  vosotros: os hayáis orientado
+  uds: se hayan orientado
+
+imperfecto-subjuntivo:
+  yo:
+    - me orientara
+    - me orientase
+  tu:
+    - te orientaras
+    - te orientases
+  vos:
+    - te orientaras
+    - te orientases
+  ud:
+    - se orientara
+    - se orientase
+  nosotros:
+    - nos orientáramos
+    - nos orientásemos
+  vosotros:
+    - os orientarais
+    - os orientaseis
+  uds:
+    - se orientaran
+    - se orientasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera orientado
+    - me hubiese orientado
+  tu:
+    - te hubieras orientado
+    - te hubieses orientado
+  vos:
+    - te hubieras orientado
+    - te hubieses orientado
+  ud:
+    - se hubiera orientado
+    - se hubiese orientado
+  nosotros:
+    - nos hubiéramos orientado
+    - nos hubiésemos orientado
+  vosotros:
+    - os hubierais orientado
+    - os hubieseis orientado
+  uds:
+    - se hubieran orientado
+    - se hubiesen orientado
+
+imperativo:
+  tu: orientate
+  vos: orientáte
+  ud: oriéntese
+  nosotros: orientémonos
+  vosotros: orientaos
+  uds: oriéntense

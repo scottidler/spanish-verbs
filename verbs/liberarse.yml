@@ -1,0 +1,156 @@
+infinitivo: liberarse
+gerundio: liberándose
+participio-pasado: liberado
+
+presente-indicativo:
+  yo: me libero
+  tu: te liberas
+  vos: te liberas
+  ud: se libera
+  nosotros: nos liberamos
+  vosotros: os liberáis
+  uds: se liberan
+
+preterito-perfecto-simple:
+  yo: me liberé
+  tu: te liberaste
+  vos: te liberaste
+  ud: se liberó
+  nosotros: nos liberamos
+  vosotros: os liberasteis
+  uds: se liberaron
+
+preterito-imperfecto:
+  yo: me liberaba
+  tu: te liberabas
+  vos: te liberabas
+  ud: se liberaba
+  nosotros: nos liberábamos
+  vosotros: os liberabais
+  uds: se liberaban
+
+futuro-simple:
+  yo: me liberaré
+  tu: te liberarás
+  vos: te liberarás
+  ud: se liberará
+  nosotros: nos liberaremos
+  vosotros: os liberaréis
+  uds: se liberarán
+
+condicional-simple:
+  yo: me liberaría
+  tu: te liberarías
+  vos: te liberarías
+  ud: se liberaría
+  nosotros: nos liberaríamos
+  vosotros: os liberaríais
+  uds: se liberarían
+
+presente-perfecto:
+  yo: me he liberado
+  tu: te has liberado
+  vos: te has liberado
+  ud: se ha liberado
+  nosotros: nos hemos liberado
+  vosotros: os habéis liberado
+  uds: se han liberado
+
+preterito-pluscuamperfecto:
+  yo: me había liberado
+  tu: te habías liberado
+  vos: te habías liberado
+  ud: se había liberado
+  nosotros: nos habíamos liberado
+  vosotros: os habíais liberado
+  uds: se habían liberado
+
+futuro-perfecto:
+  yo: me habré liberado
+  tu: te habrás liberado
+  vos: te habrás liberado
+  ud: se habrá liberado
+  nosotros: nos habremos liberado
+  vosotros: os habréis liberado
+  uds: se habrán liberado
+
+condicional-perfecto:
+  yo: me habría liberado
+  tu: te habrías liberado
+  vos: te habrías liberado
+  ud: se habría liberado
+  nosotros: nos habríamos liberado
+  vosotros: os habríais liberado
+  uds: se habrían liberado
+
+presente-subjuntivo:
+  yo: me libere
+  tu: te liberes
+  vos: te liberes
+  ud: se libere
+  nosotros: nos liberemos
+  vosotros: os liberéis
+  uds: se liberen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya liberado
+  tu: te hayas liberado
+  vos: te hayas liberado
+  ud: se haya liberado
+  nosotros: nos hayamos liberado
+  vosotros: os hayáis liberado
+  uds: se hayan liberado
+
+imperfecto-subjuntivo:
+  yo:
+    - me liberara
+    - me liberase
+  tu:
+    - te liberaras
+    - te liberases
+  vos:
+    - te liberaras
+    - te liberases
+  ud:
+    - se liberara
+    - se liberase
+  nosotros:
+    - nos liberáramos
+    - nos liberásemos
+  vosotros:
+    - os liberarais
+    - os liberaseis
+  uds:
+    - se liberaran
+    - se liberases
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera liberado
+    - me hubiese liberado
+  tu:
+    - te hubieras liberado
+    - te hubieses liberado
+  vos:
+    - te hubieras liberado
+    - te hubieses liberado
+  ud:
+    - se hubiera liberado
+    - se hubiese liberado
+  nosotros:
+    - nos hubiéramos liberado
+    - nos hubiésemos liberado
+  vosotros:
+    - os hubierais liberado
+    - os hubieseis liberado
+  uds:
+    - se hubieran liberado
+    - se hubiesen liberado
+
+imperativo:
+  tu: libérate
+  vos: libérate
+  ud: líbrese
+  nosotros: liberémonos
+  vosotros: liberaos
+  uds: líbrense

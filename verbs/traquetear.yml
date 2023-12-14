@@ -1,0 +1,142 @@
+infinitivo: traquetear
+gerundio: traqueteando
+participio-pasado: traqueteado
+presente-indicativo:
+  yo: traqueteo
+  tu: traqueteas
+  vos: traqueteas
+  ud: traquetea
+  nosotros: traqueteamos
+  vosotros: traqueteáis
+  uds: traquetean
+preterito-perfecto-simple:
+  yo: traqueteé
+  tu: traqueteaste
+  vos: traqueteaste
+  ud: traqueteó
+  nosotros: traqueteamos
+  vosotros: traqueteasteis
+  uds: traquetearon
+preterito-imperfecto:
+  yo: traqueteaba
+  tu: traqueteabas
+  vos: traqueteabas
+  ud: traqueteaba
+  nosotros: traqueteábamos
+  vosotros: traqueteabais
+  uds: traqueteaban
+futuro-simple:
+  yo: traquetearé
+  tu: traquetearás
+  vos: traquetearás
+  ud: traqueteará
+  nosotros: traquetearemos
+  vosotros: traquetearéis
+  uds: traquetearán
+condicional-simple:
+  yo: traquetearía
+  tu: traquetearías
+  vos: traquetearías
+  ud: traquetearía
+  nosotros: traquetearíamos
+  vosotros: traquetearíais
+  uds: traquetearían
+presente-perfecto:
+  yo: he traqueteado
+  tu: has traqueteado
+  vos: has traqueteado
+  ud: ha traqueteado
+  nosotros: hemos traqueteado
+  vosotros: habéis traqueteado
+  uds: han traqueteado
+preterito-pluscuamperfecto:
+  yo: había traqueteado
+  tu: habías traqueteado
+  vos: habías traqueteado
+  ud: había traqueteado
+  nosotros: habíamos traqueteado
+  vosotros: habíais traqueteado
+  uds: habían traqueteado
+futuro-perfecto:
+  yo: habré traqueteado
+  tu: habrás traqueteado
+  vos: habrás traqueteado
+  ud: habrá traqueteado
+  nosotros: habremos traqueteado
+  vosotros: habréis traqueteado
+  uds: habrán traqueteado
+condicional-perfecto:
+  yo: habría traqueteado
+  tu: habrías traqueteado
+  vos: habrías traqueteado
+  ud: habría traqueteado
+  nosotros: habríamos traqueteado
+  vosotros: habríais traqueteado
+  uds: habrían traqueteado
+presente-subjuntivo:
+  yo: traquetee
+  tu: traquetees
+  vos: traquetees
+  ud: traquetee
+  nosotros: traqueteemos
+  vosotros: traqueteéis
+  uds: traqueteen
+preterito-perfecto-subjuntivo:
+  yo: haya traqueteado
+  tu: hayas traqueteado
+  vos: hayas traqueteado
+  ud: haya traqueteado
+  nosotros: hayamos traqueteado
+  vosotros: hayáis traqueteado
+  uds: hayan traqueteado
+imperfecto-subjuntivo:
+  yo:
+    - traqueteara
+    - traquetease
+  tu:
+    - traquetearas
+    - traquetearas
+  vos:
+    - traquetearas
+    - traquetearas
+  ud:
+    - traqueteara
+    - traquetease
+  nosotros:
+    - traqueteáramos
+    - traqueteásemos
+  vosotros:
+    - traqueteareis
+    - traquetearais
+  uds:
+    - traquetaran
+    - traqueteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera traqueteado
+    - hubiese traqueteado
+  tu:
+    - hubieras traqueteado
+    - hubieses traqueteado
+  vos:
+    - hubieras traqueteado
+    - hubieses traqueteado
+  ud:
+    - hubiera traqueteado
+    - hubiese traqueteado
+  nosotros:
+    - hubiéramos traqueteado
+    - hubiésemos traqueteado
+  vosotros:
+    - hubierais traqueteado
+    - hubieseis traqueteado
+  uds:
+    - hubieran traqueteado
+    - hubiesen traqueteado
+imperativo:
+  tu: traquetéa
+  vos: traquetá
+  ud: traquetee
+  nosotros: traqueteemos
+  vosotros: traquetead
+  uds: traqueteen

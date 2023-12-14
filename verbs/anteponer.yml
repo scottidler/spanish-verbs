@@ -1,0 +1,142 @@
+infinitivo: anteponer
+gerundio: anteponiendo
+participio-pasado: antepondido
+presente-indicativo:
+  yo: antepongo
+  tu: antepones
+  vos: antepones
+  ud: antepone
+  nosotros: anteponemos
+  vosotros: anteponéis
+  uds: anteponen
+preterito-perfecto-simple:
+  yo: antepuse
+  tu: antepusiste
+  vos: antepusiste
+  ud: antepuso
+  nosotros: antepusimos
+  vosotros: antepusisteis
+  uds: antepusieron
+preterito-imperfecto:
+  yo: anteposía
+  tu: anteposías
+  vos: anteposías
+  ud: anteposía
+  nosotros: anteposíamos
+  vosotros: anteposíais
+  uds: anteposían
+futuro-simple:
+  yo: antepodré
+  tu: antepodrás
+  vos: antepodrás
+  ud: antepodrá
+  nosotros: antepodremos
+  vosotros: antepodréis
+  uds: antepodrán
+condicional-simple:
+  yo: antepodría
+  tu: antepodrías
+  vos: antepodrías
+  ud: antepodría
+  nosotros: antepodríamos
+  vosotros: antepodríais
+  uds: antepodrían
+presente-perfecto:
+  yo: he antepuesto
+  tu: has antepuesto
+  vos: has antepuesto
+  ud: ha antepuesto
+  nosotros: hemos antepuesto
+  vosotros: habéis antepuesto
+  uds: han antepuesto
+preterito-pluscuamperfecto:
+  yo: había antepuesto
+  tu: habías antepuesto
+  vos: habías antepuesto
+  ud: había antepuesto
+  nosotros: habíamos antepuesto
+  vosotros: habíais antepuesto
+  uds: habían antepuesto
+futuro-perfecto:
+  yo: habré antepuesto
+  tu: habrás antepuesto
+  vos: habrás antepuesto
+  ud: habrá antepuesto
+  nosotros: habremos antepuesto
+  vosotros: habréis antepuesto
+  uds: habrán antepuesto
+condicional-perfecto:
+  yo: habría antepuesto
+  tu: habrías antepuesto
+  vos: habrías antepuesto
+  ud: habría antepuesto
+  nosotros: habríamos antepuesto
+  vosotros: habríais antepuesto
+  uds: habrían antepuesto
+presente-subjuntivo:
+  yo: anteponga
+  tu: antepongas
+  vos: antepongas
+  ud: anteponga
+  nosotros: antepongamos
+  vosotros: antepongáis
+  uds: antepongan
+preterito-perfecto-subjuntivo:
+  yo: haya ante puesto
+  tu: hayas ante puesto
+  vos: hayas ante puesto
+  ud: haya ante puesto
+  nosotros: hayamos ante puesto
+  vosotros: hayáis ante puesto
+  uds: hayan ante puesto
+imperfecto-subjuntivo:
+  yo:
+    - antepusiera
+    - antepusiese
+  tu:
+    - antepusieras
+    - antepusieses
+  vos:
+    - antepusieras
+    - antepusieses
+  ud:
+    - antepusiera
+    - antepusiese
+  nosotros:
+    - antepusiéramos
+    - antepusiésemos
+  vosotros:
+    - antepusierais
+    - antepusieseis
+  uds:
+    - antepusieran
+    - antepusiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera antepuesto
+    - hubiese antepuesto
+  tu:
+    - hubieras antepuesto
+    - hubieses antepuesto
+  vos:
+    - hubieras antepuesto
+    - hubieses antepuesto
+  ud:
+    - hubiera antepuesto
+    - hubiese antepuesto
+  nosotros:
+    - hubiéramos antepuesto
+    - hubiésemos antepuesto
+  vosotros:
+    - hubierais antepuesto
+    - hubieseis antepuesto
+  uds:
+    - hubieran antepuesto
+    - hubiesen antepuesto
+imperativo:
+  tu: antepón
+  vos: anteponé
+  ud: anteponga
+  nosotros: antepongamos
+  vosotros: anteponed
+  uds: antepongan

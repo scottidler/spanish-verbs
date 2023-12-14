@@ -1,0 +1,142 @@
+infinitivo: idear
+gerundio: ideando
+participio-pasado: ideado
+presente-indicativo:
+  yo: ideo
+  tu: ideas
+  vos: ideas
+  ud: idea
+  nosotros: ideamos
+  vosotros: ideáis
+  uds: idean
+preterito-perfecto-simple:
+  yo: ideé
+  tu: ideaste
+  vos: ideaste
+  ud: ideó
+  nosotros: ideamos
+  vosotros: ideasteis
+  uds: idearon
+preterito-imperfecto:
+  yo: ideaba
+  tu: ideabas
+  vos: ideabas
+  ud: ideaba
+  nosotros: ideábamos
+  vosotros: ideabais
+  uds: ideaban
+futuro-simple:
+  yo: idearé
+  tu: idearás
+  vos: idearás
+  ud: ideará
+  nosotros: idearemos
+  vosotros: idearéis
+  uds: idearán
+condicional-simple:
+  yo: idearía
+  tu: idearías
+  vos: idearías
+  ud: idearía
+  nosotros: idearíamos
+  vosotros: idearíais
+  uds: idearían
+presente-perfecto:
+  yo: he ideado
+  tu: has ideado
+  vos: has ideado
+  ud: ha ideado
+  nosotros: hemos ideado
+  vosotros: habéis ideado
+  uds: han ideado
+preterito-pluscuamperfecto:
+  yo: había ideado
+  tu: habías ideado
+  vos: habías ideado
+  ud: había ideado
+  nosotros: habíamos ideado
+  vosotros: habíais ideado
+  uds: habían ideado
+futuro-perfecto:
+  yo: habré ideado
+  tu: habrás ideado
+  vos: habrás ideado
+  ud: habrá ideado
+  nosotros: habremos ideado
+  vosotros: habréis ideado
+  uds: habrán ideado
+condicional-perfecto:
+  yo: habría ideado
+  tu: habrías ideado
+  vos: habrías ideado
+  ud: habría ideado
+  nosotros: habríamos ideado
+  vosotros: habríais ideado
+  uds: habrían ideado
+presente-subjuntivo:
+  yo: idee
+  tu: idees
+  vos: idees
+  ud: idee
+  nosotros: ideemos
+  vosotros: ideéis
+  uds: ideen
+preterito-perfecto-subjuntivo:
+  yo: haya ideado
+  tu: hayas ideado
+  vos: hayas ideado
+  ud: haya ideado
+  nosotros: hayamos ideado
+  vosotros: hayáis ideado
+  uds: hayan ideado
+imperfecto-subjuntivo:
+  yo:
+    - ideara
+    - idease
+  tu:
+    - idearas
+    - ideases
+  vos:
+    - idearas
+    - ideases
+  ud:
+    - ideara
+    - idease
+  nosotros:
+    - ideáramos
+    - ideásemos
+  vosotros:
+    - idearais
+    - ideaseis
+  uds:
+    - idearan
+    - ideasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ideado
+    - hubiese ideado
+  tu:
+    - hubieras ideado
+    - hubieses ideado
+  vos:
+    - hubieras ideado
+    - hubieses ideado
+  ud:
+    - hubiera ideado
+    - hubiese ideado
+  nosotros:
+    - hubiéramos ideado
+    - hubiésemos ideado
+  vosotros:
+    - hubierais ideado
+    - hubieseis ideado
+  uds:
+    - hubieran ideado
+    - hubiesen ideado
+imperativo:
+  tu: idea
+  vos: ideá
+  ud: idee
+  nosotros: ideemos
+  vosotros: idead
+  uds: ideen

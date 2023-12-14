@@ -1,0 +1,142 @@
+infinitivo: ostentar
+gerundio: ostentando
+participio-pasado: ostentado
+presente-indicativo: 
+  yo: ostento
+  tu: ostentas
+  vos: ostentas
+  ud: ostenta
+  nosotros: ostentamos
+  vosotros: ostentáis
+  uds: ostentan
+preterito-perfecto-simple:
+  yo: ostenté
+  tu: ostentaste
+  vos: ostentaste
+  ud: ostentó
+  nosotros: ostentamos
+  vosotros: ostentasteis
+  uds: ostentaron
+preterito-imperfecto:
+  yo: ostentaba
+  tu: ostentabas
+  vos: ostentabas
+  ud: ostentaba
+  nosotros: ostentábamos
+  vosotros: ostentabais
+  uds: ostentaban
+futuro-simple:
+  yo: ostentaré
+  tu: ostentarás
+  vos: ostentarás
+  ud: ostentará
+  nosotros: ostentaremos
+  vosotros: ostentaréis
+  uds: ostentarán
+condicional-simple:
+  yo: ostentaría
+  tu: ostentarías
+  vos: ostentarías
+  ud: ostentaría
+  nosotros: ostentaríamos
+  vosotros: ostentaríais
+  uds: ostentarían
+presente-perfecto:
+  yo: he ostentado
+  tu: has ostentado
+  vos: has ostentado
+  ud: ha ostentado
+  nosotros: hemos ostentado
+  vosotros: habéis ostentado
+  uds: han ostentado
+preterito-pluscuamperfecto:
+  yo: había ostentado
+  tu: habías ostentado
+  vos: habías ostentado
+  ud: había ostentado
+  nosotros: habíamos ostentado
+  vosotros: habíais ostentado
+  uds: habían ostentado
+futuro-perfecto:
+  yo: habré ostentado
+  tu: habrás ostentado
+  vos: habrás ostentado
+  ud: habrá ostentado
+  nosotros: habremos ostentado
+  vosotros: habréis ostentado
+  uds: habrán ostentado
+condicional-perfecto:
+  yo: habría ostentado
+  tu: habrías ostentado
+  vos: habrías ostentado
+  ud: habría ostentado
+  nosotros: habríamos ostentado
+  vosotros: habríais ostentado
+  uds: habrían ostentado
+presente-subjuntivo:
+  yo: ostente
+  tu: ostentes
+  vos: ostentes
+  ud: ostente
+  nosotros: ostentemos
+  vosotros: ostentéis
+  uds: ostenten
+preterito-perfecto-subjuntivo:
+  yo: haya ostentado
+  tu: hayas ostentado
+  vos: hayas ostentado
+  ud: haya ostentado
+  nosotros: hayamos ostentado
+  vosotros: hayáis ostentado
+  uds: hayan ostentado
+imperfecto-subjuntivo:
+  yo:
+    - ostentara
+    - ostentase
+  tu:
+    - ostentaras
+    - ostentases
+  vos:
+    - ostentaras
+    - ostentases
+  ud:
+    - ostentara
+    - ostentase
+  nosotros:
+    - ostentáramos
+    - ostentásemos
+  vosotros:
+    - ostentarais
+    - ostentaseis
+  uds:
+    - ostentaran
+    - ostentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ostentado
+    - hubiese ostentado
+  tu:
+    - hubieras ostentado
+    - hubieses ostentado
+  vos:
+    - hubieras ostentado
+    - hubieses ostentado
+  ud:
+    - hubiera ostentado
+    - hubiese ostentado
+  nosotros:
+    - hubiéramos ostentado
+    - hubiésemos ostentado
+  vosotros:
+    - hubierais ostentado
+    - hubieseis ostentado
+  uds:
+    - hubieran ostentado
+    - hubiesen ostentado
+imperativo:
+  tu: ostenta
+  vos: ostentá
+  ud: ostente
+  nosotros: ostentemos
+  vosotros: ostentad
+  uds: ostenten

@@ -1,0 +1,142 @@
+infinitivo: "tragarse"
+gerundio: "tragándose"
+participio-pasado: "tragado"
+presente-indicativo:
+  yo: "me trago"
+  tu: "te tragas"
+  vos: "te tragas"
+  ud: "se traga"
+  nosotros: "nos tragamos"
+  vosotros: "os tragáis"
+  uds: "se tragan"
+preterito-perfecto-simple:
+  yo: "me tragué"
+  tu: "te tragaste"
+  vos: "te tragaste"
+  ud: "se tragó"
+  nosotros: "nos tragamos"
+  vosotros: "os tragasteis"
+  uds: "se tragaron"
+preterito-imperfecto:
+  yo: "me tragaba"
+  tu: "te tragabas"
+  vos: "te tragabas"
+  ud: "se tragaba"
+  nosotros: "nos trágabamos"
+  vosotros: "os tragabais"
+  uds: "se tragaban"
+futuro-simple:
+  yo: "me tragaré"
+  tu: "te tragarás"
+  vos: "te tragarás"
+  ud: "se tragará"
+  nosotros: "nos tragaremos"
+  vosotros: "os tragaréis"
+  uds: "se tragarán"
+condicional-simple:
+  yo: "me tragaría"
+  tu: "te tragarías"
+  vos: "te tragarías"
+  ud: "se tragaría"
+  nosotros: "nos tragaríamos"
+  vosotros: "os tragaríais"
+  uds: "se tragarían"
+presente-perfecto:
+  yo: "me he tragado"
+  tu: "te has tragado"
+  vos: "te has tragado"
+  ud: "se ha tragado"
+  nosotros: "nos hemos tragado"
+  vosotros: "os habéis tragado"
+  uds: "se han tragado"
+preterito-pluscuamperfecto:
+  yo: "me había tragado"
+  tu: "te habías tragado"
+  vos: "te habías tragado"
+  ud: "se había tragado"
+  nosotros: "nos habíamos tragado"
+  vosotros: "os habíais tragado"
+  uds: "se habían tragado"
+futuro-perfecto:
+  yo: "me habré tragado"
+  tu: "te habrás tragado"
+  vos: "te habrás tragado"
+  ud: "se habrá tragado"
+  nosotros: "nos habremos tragado"
+  vosotros: "os habréis tragado"
+  uds: "se habrán tragado"
+condicional-perfecto:
+  yo: "me habría tragado"
+  tu: "te habrías tragado"
+  vos: "te habrías tragado"
+  ud: "se habría tragado"
+  nosotros: "nos habríamos tragado"
+  vosotros: "os habríais tragado"
+  uds: "se habrían tragado"
+presente-subjuntivo:
+  yo: "me trague"
+  tu: "te tragues"
+  vos: "te tragues"
+  ud: "se trague"
+  nosotros: "nos traguemos"
+  vosotros: "os tragáis"
+  uds: "se traguen"
+preterito-perfecto-subjuntivo:
+  yo: "me haya tragado"
+  tu: "te hayas tragado"
+  vos: "te hayas tragado"
+  ud: "se haya tragado"
+  nosotros: "nos hayamos tragado"
+  vosotros: "os hayáis tragado"
+  uds: "se hayan tragado"
+imperfecto-subjuntivo:
+  yo:
+    - "me tragara"
+    - "me tragara"
+  tu:
+    - "te tragaras"
+    - "te tragases"
+  vos:
+    - "te tragaras"
+    - "te tragases"
+  ud:
+    - "se tragara"
+    - "se tragase"
+  nosotros:
+    - "nos tragáramos"
+    - "nos trágasemos"
+  vosotros:
+    - "os tragarais"
+    - "os tragarais"
+  uds:
+    - "se tragaran"
+    - "se tragasen"
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - "me hubiera tragado"
+    - "me hubiese tragado"
+  tu: 
+    - "te hubieras tragado"
+    - "te hubieses tragado"
+  vos: 
+    - "te hubieras tragado"
+    - "te hubieses tragado"
+  ud: 
+    - "se hubiera tragado"
+    - "se hubiese tragado"
+  nosotros: 
+    - "nos hubiéramos tragado"
+    - "nos hubiésemos tragado"
+  vosotros: 
+    - "os hubierais tragado"
+    - "os hubieseis tragado"
+  uds: 
+    - "se hubieran tragado"
+    - "se hubiesen tragado"
+imperativo:
+  tu: "trágatelo"
+  vos: "trágatelo"
+  ud: "tráguelo"
+  nosotros: "tragámostelo"
+  vosotros: "tragáoslo"
+  uds: "tráguenlo"

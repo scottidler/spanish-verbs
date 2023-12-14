@@ -1,0 +1,142 @@
+infinitivo: deparar
+gerundio: deparando
+participio-pasado: deparado
+presente-indicativo:
+  yo: deparo
+  tu: deparas
+  vos: deparas
+  ud: depara
+  nosotros: deparamos
+  vosotros: deparáis
+  uds: deparan
+preterito-perfecto-simple:
+  yo: deparé
+  tu: deparaste
+  vos: deparaste
+  ud: deparó
+  nosotros: deparamos
+  vosotros: deparasteis
+  uds: depararon
+preterito-imperfecto:
+  yo: deparaba
+  tu: deparabas
+  vos: deparabas
+  ud: deparaba
+  nosotros: deparábamos
+  vosotros: deparabais
+  uds: deparaban
+futuro-simple:
+  yo: depararé
+  tu: depararás
+  vos: depararás
+  ud: deparará
+  nosotros: depararemos
+  vosotros: depararéis
+  uds: depararán
+condicional-simple:
+  yo: depararía
+  tu: depararías
+  vos: depararías
+  ud: depararía
+  nosotros: depararíamos
+  vosotros: depararíais
+  uds: depararían
+presente-perfecto:
+  yo: he deparado
+  tu: has deparado
+  vos: has deparado
+  ud: ha deparado
+  nosotros: hemos deparado
+  vosotros: habéis deparado
+  uds: han deparado
+preterito-pluscuamperfecto:
+  yo: había deparado
+  tu: habías deparado
+  vos: habías deparado
+  ud: había deparado
+  nosotros: habíamos deparado
+  vosotros: habíais deparado
+  uds: habían deparado
+futuro-perfecto:
+  yo: habré deparado
+  tu: habrás deparado
+  vos: habrás deparado
+  ud: habrá deparado
+  nosotros: habremos deparado
+  vosotros: habréis deparado
+  uds: habrán deparado
+condicional-perfecto:
+  yo: habría deparado
+  tu: habrías deparado
+  vos: habrías deparado
+  ud: habría deparado
+  nosotros: habríamos deparado
+  vosotros: habríais deparado
+  uds: habrían deparado
+presente-subjuntivo:
+  yo: depare
+  tu: deparas
+  vos: deparas
+  ud: depare
+  nosotros: deparemos
+  vosotros: deparéis
+  uds: deparen
+preterito-perfecto-subjuntivo:
+  yo: haya deparado
+  tu: hayas deparado
+  vos: hayas deparado
+  ud: haya deparado
+  nosotros: hayamos deparado
+  vosotros: hayáis deparado
+  uds: hayan deparado
+imperfecto-subjuntivo:
+  yo:
+    - deparara
+    - deparase
+  tu:
+    - depararas
+    - deparases
+  vos:
+    - depararas
+    - deparases
+  ud:
+    - deparara
+    - deparase
+  nosotros:
+    - deparáramos
+    - deparásemos
+  vosotros:
+    - depararais
+    - deparaseis
+  uds:
+    - depararan
+    - deparasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera deparado
+    - hubiese deparado
+  tu:
+    - hubieras deparado
+    - hubieses deparado
+  vos:
+    - hubieras deparado
+    - hubieses deparado
+  ud:
+    - hubiera deparado
+    - hubiese deparado
+  nosotros:
+    - hubiéramos deparado
+    - hubiésemos deparado
+  vosotros:
+    - hubierais deparado
+    - hubieseis deparado
+  uds:
+    - hubieran deparado
+    - hubiesen deparado
+imperativo:
+  tu: depara
+  vos: depará
+  ud: depare
+  nosotros: deparemos
+  vosotros: deparad
+  uds: deparen

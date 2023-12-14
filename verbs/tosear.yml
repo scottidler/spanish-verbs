@@ -1,0 +1,142 @@
+infinitivo: tosear
+gerundio: toseando
+participio-pasado: toseado
+presente-indicativo:
+  yo: toseo
+  tu: toseas
+  vos: toseás
+  ud: tosea
+  nosotros: toseamos
+  vosotros: toseáis
+  uds: tosean
+preterito-perfecto-simple:
+  yo: toseé
+  tu: toseaste
+  vos: toseaste
+  ud: toseó
+  nosotros: toseamos
+  vosotros: toseasteis
+  uds: tosearon
+preterito-imperfecto:
+  yo: toseaba
+  tu: toseabas
+  vos: toseabas
+  ud: toseaba
+  nosotros: toseábamos
+  vosotros: toseabais
+  uds: toseaban
+futuro-simple:
+  yo: tosearé
+  tu: tosearás
+  vos: tosearás
+  ud: toseará
+  nosotros: tosearemos
+  vosotros: tosearéis
+  uds: tosearán
+condicional-simple:
+  yo: tosearía
+  tu: tosearías
+  vos: tosearías
+  ud: tosearía
+  nosotros: tosearíamos
+  vosotros: tosearíais
+  uds: tosearían
+presente-perfecto:
+  yo: he toseado
+  tu: has toseado
+  vos: has toseado
+  ud: ha toseado
+  nosotros: hemos toseado
+  vosotros: habéis toseado
+  uds: han toseado
+preterito-pluscuamperfecto:
+  yo: había toseado
+  tu: habías toseado
+  vos: habías toseado
+  ud: había toseado
+  nosotros: habíamos toseado
+  vosotros: habíais toseado
+  uds: habían toseado
+futuro-perfecto:
+  yo: habré toseado
+  tu: habrás toseado
+  vos: habrás toseado
+  ud: habrá toseado
+  nosotros: habremos toseado
+  vosotros: habréis toseado
+  uds: habrán toseado
+condicional-perfecto:
+  yo: habría toseado
+  tu: habrías toseado
+  vos: habrías toseado
+  ud: habría toseado
+  nosotros: habríamos toseado
+  vosotros: habríais toseado
+  uds: habrían toseado
+presente-subjuntivo:
+  yo: tosee
+  tu: tosees
+  vos: tosees
+  ud: tosee
+  nosotros: toseemos
+  vosotros: toseéis
+  uds: toseen
+preterito-perfecto-subjuntivo:
+  yo: haya toseado
+  tu: hayas toseado
+  vos: hayas toseado
+  ud: haya toseado
+  nosotros: hayamos toseado
+  vosotros: hayáis toseado
+  uds: hayan toseado
+imperfecto-subjuntivo:
+  yo:
+    - toseara
+    - tosease
+  tu:
+    - tosearas
+    - toseases
+  vos:
+    - tosearas
+    - toseases
+  ud:
+    - toseara
+    - tosease
+  nosotros:
+    - toseáramos
+    - toseásemos
+  vosotros:
+    - tosearais
+    - toseaseis
+  uds:
+    - tosearan
+    - toseasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera toseado
+    - hubiese toseado
+  tu:
+    - hubieras toseado
+    - hubieses toseado
+  vos:
+    - hubieras toseado
+    - hubieses toseado
+  ud:
+    - hubiera toseado
+    - hubiese toseado
+  nosotros:
+    - hubiéramos toseado
+    - hubiésemos toseado
+  vosotros:
+    - hubierais toseado
+    - hubieseis toseado
+  uds:
+    - hubieran toseado
+    - hubiesen toseado
+imperativo:
+  tu: tosea
+  vos: toseá
+  ud: tose
+  nosotros: toseamos
+  vosotros: tosead
+  uds: toseen

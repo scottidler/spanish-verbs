@@ -1,0 +1,142 @@
+infinitivo: propinar
+gerundio: propinando
+participio-pasado: propinado
+presente-indicativo:
+  yo: propino
+  tu: propinas
+  vos: propinas
+  ud: propina
+  nosotros: propinamos
+  vosotros: propináis
+  uds: propinan
+preterito-perfecto-simple:
+  yo: propiné
+  tu: propinaste
+  vos: propinaste
+  ud: propinó
+  nosotros: propinamos
+  vosotros: propinasteis
+  uds: propinaron
+preterito-imperfecto:
+  yo: propinaba
+  tu: propinabas
+  vos: propinabas
+  ud: propinaba
+  nosotros: propinábamos
+  vosotros: propinabais
+  uds: propinaban
+futuro-simple:
+  yo: propinaré
+  tu: propinarás
+  vos: propinarás
+  ud: propinará
+  nosotros: propinaremos
+  vosotros: propinaréis
+  uds: propinarán
+condicional-simple:
+  yo: propinaría
+  tu: propinarías
+  vos: propinarías
+  ud: propinaría
+  nosotros: propinaríamos
+  vosotros: propinaríais
+  uds: propinarían
+presente-perfecto:
+  yo: he propinado
+  tu: has propinado
+  vos: has propinado
+  ud: ha propinado
+  nosotros: hemos propinado
+  vosotros: habéis propinado
+  uds: han propinado
+preterito-pluscuamperfecto:
+  yo: había propinado
+  tu: habías propinado
+  vos: habías propinado
+  ud: había propinado
+  nosotros: habíamos propinado
+  vosotros: habíais propinado
+  uds: habían propinado
+futuro-perfecto:
+  yo: habré propinado
+  tu: habrás propinado
+  vos: habrás propinado
+  ud: habrá propinado
+  nosotros: habremos propinado
+  vosotros: habréis propinado
+  uds: habrán propinado
+condicional-perfecto:
+  yo: habría propinado
+  tu: habrías propinado
+  vos: habrías propinado
+  ud: habría propinado
+  nosotros: habríamos propinado
+  vosotros: habríais propinado
+  uds: habrían propinado
+presente-subjuntivo:
+  yo: propine
+  tu: propines
+  vos: propines
+  ud: propine
+  nosotros: propinemos
+  vosotros: propinéis
+  uds: propinen
+preterito-perfecto-subjuntivo:
+  yo: haya propinado
+  tu: hayas propinado
+  vos: hayas propinado
+  ud: haya propinado
+  nosotros: hayamos propinado
+  vosotros: hayáis propinado
+  uds: hayan propinado
+imperfecto-subjuntivo:
+  yo:
+    - propinara
+    - propinase
+  tu:
+    - propinaras
+    - propinases
+  vos:
+    - propinaras
+    - propinases
+  ud:
+    - propinara
+    - propinase
+  nosotros:
+    - propináramos
+    - propinásemos
+  vosotros:
+    - propinarais
+    - propinaseis
+  uds:
+    - propinaran
+    - propinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera propinado
+    - hubiese propinado
+  tu:
+    - hubieras propinado
+    - hubieses propinado
+  vos:
+    - hubieras propinado
+    - hubieses propinado
+  ud:
+    - hubiera propinado
+    - hubiese propinado
+  nosotros:
+    - hubiéramos propinado
+    - hubiésemos propinado
+  vosotros:
+    - hubierais propinado
+    - hubieseis propinado
+  uds:
+    - hubieran propinado
+    - hubiesen propinado
+imperativo:
+  tu: propina
+  vos: propiná
+  ud: propine
+  nosotros: propinemos
+  vosotros: propinad
+  uds: propinen

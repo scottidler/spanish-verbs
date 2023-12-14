@@ -1,0 +1,142 @@
+infinitivo: franquear
+gerundio: franqueando
+participio-pasado: franqueado
+presente-indicativo:
+  yo: franqueo
+  tu: franqueas
+  vos: franqueas
+  ud: franquea
+  nosotros: franqueamos
+  vosotros: franqueáis
+  uds: franquean
+preterito-perfecto-simple:
+  yo: franqueé
+  tu: franqueaste
+  vos: franqueaste
+  ud: franqueó
+  nosotros: franqueamos
+  vosotros: franqueasteis
+  uds: franquearon
+preterito-imperfecto:
+  yo: franqueaba
+  tu: franqueabas
+  vos: franqueabas
+  ud: franqueaba
+  nosotros: franqueábamos
+  vosotros: franqueabais
+  uds: franqueaban
+futuro-simple:
+  yo: franquearé
+  tu: franquearás
+  vos: franquearás
+  ud: franqueará
+  nosotros: franquearemos
+  vosotros: franquearéis
+  uds: franquearán
+condicional-simple:
+  yo: franquearía
+  tu: franquearías
+  vos: franquearías
+  ud: franquearía
+  nosotros: franquearíamos
+  vosotros: franquearíais
+  uds: franquearían
+presente-perfecto:
+  yo: he franqueado
+  tu: has franqueado
+  vos: has franqueado
+  ud: ha franqueado
+  nosotros: hemos franqueado
+  vosotros: habéis franqueado
+  uds: han franqueado
+preterito-pluscuamperfecto:
+  yo: había franqueado
+  tu: habías franqueado
+  vos: habías franqueado
+  ud: había franqueado
+  nosotros: habíamos franqueado
+  vosotros: habíais franqueado
+  uds: habían franqueado
+futuro-perfecto:
+  yo: habré franqueado
+  tu: habrás franqueado
+  vos: habrás franqueado
+  ud: habrá franqueado
+  nosotros: habremos franqueado
+  vosotros: habréis franqueado
+  uds: habrán franqueado
+condicional-perfecto:
+  yo: habría franqueado
+  tu: habrías franqueado
+  vos: habrías franqueado
+  ud: habría franqueado
+  nosotros: habríamos franqueado
+  vosotros: habríais franqueado
+  uds: habrían franqueado
+presente-subjuntivo:
+  yo: franquee
+  tu: franquees
+  vos: franquees
+  ud: franquee
+  nosotros: franqueemos
+  vosotros: franqueéis
+  uds: franqueen
+preterito-perfecto-subjuntivo:
+  yo: haya franqueado
+  tu: hayas franqueado
+  vos: hayas franqueado
+  ud: haya franqueado
+  nosotros: hayamos franqueado
+  vosotros: hayáis franqueado
+  uds: hayan franqueado
+imperfecto-subjuntivo:
+  yo:
+    - franqueara
+    - franquease
+  tu:
+    - franquearas
+    - franqueases
+  vos:
+    - franquearas
+    - franqueases
+  ud:
+    - franqueara
+    - franquease
+  nosotros:
+    - franqueáramos
+    - franqueásemos
+  vosotros:
+    - franquearais
+    - franqueaseis
+  uds:
+    - franquearan
+    - franqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera franqueado
+    - hubiese franqueado
+  tu:
+    - hubieras franqueado
+    - hubieses franqueado
+  vos:
+    - hubieras franqueado
+    - hubieses franqueado
+  ud:
+    - hubiera franqueado
+    - hubiese franqueado
+  nosotros:
+    - hubiéramos franqueado
+    - hubiésemos franqueado
+  vosotros:
+    - hubierais franqueado
+    - hubieseis franqueado
+  uds:
+    - hubieran franqueado
+    - hubiesen franqueado
+imperativo:
+  tu: franquea
+  vos: franqueá
+  ud: franquee
+  nosotros: franqueemos
+  vosotros: franquead
+  uds: franqueen

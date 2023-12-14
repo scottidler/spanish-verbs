@@ -1,0 +1,142 @@
+infinitivo: ahorrar
+gerundio: ahorrando
+participio-pasado: ahorrado
+presente-indicativo:
+  yo: ahorro
+  tu: ahorras
+  vos: ahorras
+  ud: ahorra
+  nosotros: ahorramos
+  vosotros: ahorráis
+  uds: ahorran
+preterito-perfecto-simple:
+  yo: ahorré
+  tu: ahorraste
+  vos: ahorraste
+  ud: ahorró
+  nosotros: ahorramos
+  vosotros: ahorrasteis
+  uds: ahorraron
+preterito-imperfecto:
+  yo: ahorraba
+  tu: ahorrabas
+  vos: ahorrabas
+  ud: ahorraba
+  nosotros: ahorrábamos
+  vosotros: ahorrabais
+  uds: ahorraban
+futuro-simple:
+  yo: ahorraré
+  tu: ahorrarás
+  vos: ahorrarás
+  ud: ahorrará
+  nosotros: ahorraremos
+  vosotros: ahorraréis
+  uds: ahorrarán
+condicional-simple:
+  yo: ahorraría
+  tu: ahorrarías
+  vos: ahorrarías
+  ud: ahorraría
+  nosotros: ahorraríamos
+  vosotros: ahorraríais
+  uds: ahorrarían
+presente-perfecto:
+  yo: he ahorrado
+  tu: has ahorrado
+  vos: has ahorrado
+  ud: ha ahorrado
+  nosotros: hemos ahorrado
+  vosotros: habéis ahorrado
+  uds: han ahorrado
+preterito-pluscuamperfecto:
+  yo: había ahorrado
+  tu: habías ahorrado
+  vos: habías ahorrado
+  ud: había ahorrado
+  nosotros: habíamos ahorrado
+  vosotros: habíais ahorrado
+  uds: habían ahorrado
+futuro-perfecto:
+  yo: habré ahorrado
+  tu: habrás ahorrado
+  vos: habrás ahorrado
+  ud: habrá ahorrado
+  nosotros: habremos ahorrado
+  vosotros: habréis ahorrado
+  uds: habrán ahorrado
+condicional-perfecto:
+  yo: habría ahorrado
+  tu: habrías ahorrado
+  vos: habrías ahorrado
+  ud: habría ahorrado
+  nosotros: habríamos ahorrado
+  vosotros: habríais ahorrado
+  uds: habrían ahorrado
+presente-subjuntivo:
+  yo: ahorre
+  tu: ahorres
+  vos: ahorres
+  ud: ahorre
+  nosotros: ahorremos
+  vosotros: ahorréis
+  uds: ahorren
+preterito-perfecto-subjuntivo:
+  yo: haya ahorrado
+  tu: hayas ahorrado
+  vos: hayas ahorrado
+  ud: haya ahorrado
+  nosotros: hayamos ahorrado
+  vosotros: hayáis ahorrado
+  uds: hayan ahorrado
+imperfecto-subjuntivo:
+  yo:
+    - ahorrara
+    - ahorrase
+  tu:
+    - ahorraras
+    - ahorrases
+  vos:
+    - ahorraras
+    - ahorrases
+  ud:
+    - ahorrara
+    - ahorrase
+  nosotros:
+    - ahorráramos
+    - ahorrásemos
+  vosotros:
+    - ahorrarais
+    - ahorraseis
+  uds:
+    - ahorraran
+    - ahorrásen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ahorrado
+    - hubiese ahorrado
+  tu:
+    - hubieras ahorrado
+    - hubieses ahorrado
+  vos:
+    - hubieras ahorrado
+    - hubieses ahorrado
+  ud:
+    - hubiera ahorrado
+    - hubiese ahorrado
+  nosotros:
+    - hubiéramos ahorrado
+    - hubiésemos ahorrado
+  vosotros:
+    - hubierais ahorrado
+    - hubieseis ahorrado
+  uds:
+    - hubieran ahorrado
+    - hubiesen ahorrado
+imperativo:
+  tu: ahorra
+  vos: ahorrá
+  ud: ahorre
+  nosotros: ahorremos
+  vosotros: ahorráis
+  uds: ahorren

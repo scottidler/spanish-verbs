@@ -1,0 +1,142 @@
+infinitivo: disculparse
+gerundio: disculpándose
+participio-pasado: disculpado
+presente-indicativo:
+  yo: me disculpo
+  tu: te disculpas
+  vos: te disculpas
+  ud: se disculpa
+  nosotros: nos disculpamos
+  vosotros: os disculpáis
+  uds: se disculpan
+preterito-perfecto-simple:
+  yo: me disculpé
+  tu: te disculpaste
+  vos: te disculpaste
+  ud: se disculpó
+  nosotros: nos disculpamos
+  vosotros: os disculpasteis
+  uds: se disculparon
+preterito-imperfecto:
+  yo: me disculpaba
+  tu: te disculpabas
+  vos: te disculpabas
+  ud: se disculpaba
+  nosotros: nos disculpábamos
+  vosotros: os disculpabais
+  uds: se disculpaban
+futuro-simple:
+  yo: me disculparé
+  tu: te disculparás
+  vos: te disculparás
+  ud: se disculpará
+  nosotros: nos disculparemos
+  vosotros: os disculparéis
+  uds: se disculparán
+condicional-simple:
+  yo: me disculparía
+  tu: te disculparías
+  vos: te disculparías
+  ud: se disculparía
+  nosotros: nos disculparíamos
+  vosotros: os disculparíais
+  uds: se disculparían
+presente-perfecto:
+  yo: me he disculpado
+  tu: te has disculpado
+  vos: te has disculpado
+  ud: se ha disculpado
+  nosotros: nos hemos disculpado
+  vosotros: os habéis disculpado
+  uds: se han disculpado
+preterito-pluscuamperfecto:
+  yo: me había disculpado
+  tu: te habías disculpado
+  vos: te habías disculpado
+  ud: se había disculpado
+  nosotros: nos habíamos disculpado
+  vosotros: os habíais disculpado
+  uds: se habían disculpado
+futuro-perfecto:
+  yo: me habré disculpado
+  tu: te habrás disculpado
+  vos: te habrás disculpado
+  ud: se habrá disculpado
+  nosotros: nos habremos disculpado
+  vosotros: os habréis disculpado
+  uds: se habrán disculpado
+condicional-perfecto:
+  yo: me habría disculpado
+  tu: te habrías disculpado
+  vos: te habrías disculpado
+  ud: se habría disculpado
+  nosotros: nos habríamos disculpado
+  vosotros: os habríais disculpado
+  uds: se habrían disculpado
+presente-subjuntivo:
+  yo: me disculpe
+  tu: te disculpes
+  vos: te disculpes
+  ud: se disculpe
+  nosotros: nos disculpemos
+  vosotros: os disculpéis
+  uds: se disculpen
+preterito-perfecto-subjuntivo:
+  yo: me haya disculpado
+  tu: te hayas disculpado
+  vos: te hayas disculpado
+  ud: se haya disculpado
+  nosotros: nos hayamos disculpado
+  vosotros: os hayáis disculpado
+  uds: se hayan disculpado
+imperfecto-subjuntivo:
+  yo:
+    - me disculpara
+    - me disculpase
+  tu:
+    - te disculparas
+    - te disculpasses
+  vos:
+    - te disculparas
+    - te disculpasses
+  ud:
+    - se disculpara
+    - se disculpase
+  nosotros:
+    - nos disculpáramos
+    - nos disculpásemos
+  vosotros:
+    - os disculparais
+    - os disculpaseis
+  uds:
+    - se disculparan
+    - se disculparan
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera disculpado
+    - me hubiese disculpado
+  tu:
+    - te hubieras disculpado
+    - te hubieses disculpado
+  vos:
+    - te hubieras disculpado
+    - te hubieses disculpado
+  ud:
+    - se hubiera disculpado
+    - se hubiese disculpado
+  nosotros:
+    - nos hubiéramos disculpado
+    - nos hubiésemos disculpado
+  vosotros:
+    - os hubierais disculpado
+    - os hubieseis disculpado
+  uds:
+    - se hubieran disculpado
+    - se hubiesen disculpado
+imperativo:
+  tu: discúlpate
+  vos: disculpáte
+  ud: discúlpese
+  nosotros: disculpémonos
+  vosotros: disculpaos
+  uds: discúlpense

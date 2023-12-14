@@ -1,0 +1,142 @@
+infinitivo: destapar
+gerundio: destapando
+participio-pasado: destapado
+presente-indicativo:
+  yo: destapo
+  tu: destapas
+  vos: destapás
+  ud: destapa
+  nosotros: destapamos
+  vosotros: destapáis
+  uds: destapan
+preterito-perfecto-simple:
+  yo: destapé
+  tu: destapaste
+  vos: destapaste
+  ud: destapó
+  nosotros: destapamos
+  vosotros: destapasteis
+  uds: destaparon
+preterito-imperfecto:
+  yo: destapaba
+  tu: destapabas
+  vos: destapabas
+  ud: destapaba
+  nosotros: destapábamos
+  vosotros: destapabais
+  uds: destapaban
+futuro-simple:
+  yo: destaparé
+  tu: destaparás
+  vos: destaparás
+  ud: destapará
+  nosotros: destaparemos
+  vosotros: destaparéis
+  uds: destaparán
+condicional-simple:
+  yo: destaparía
+  tu: destaparías
+  vos: destaparías
+  ud: destaparía
+  nosotros: destaparíamos
+  vosotros: destaparíais
+  uds: destaparían
+presente-perfecto:
+  yo: he destapado
+  tu: has destapado
+  vos: has destapado
+  ud: ha destapado
+  nosotros: hemos destapado
+  vosotros: habéis destapado
+  uds: han destapado
+preterito-pluscuamperfecto:
+  yo: había destapado
+  tu: habías destapado
+  vos: habías destapado
+  ud: había destapado
+  nosotros: habíamos destapado
+  vosotros: habíais destapado
+  uds: habían destapado
+futuro-perfecto:
+  yo: habré destapado
+  tu: habrás destapado
+  vos: habrás destapado
+  ud: habrá destapado
+  nosotros: habremos destapado
+  vosotros: habréis destapado
+  uds: habrán destapado
+condicional-perfecto:
+  yo: habría destapado
+  tu: habrías destapado
+  vos: habrías destapado
+  ud: habría destapado
+  nosotros: habríamos destapado
+  vosotros: habríais destapado
+  uds: habrían destapado
+presente-subjuntivo:
+  yo: destape
+  tu: destapes
+  vos: destapes
+  ud: destape
+  nosotros: destapemos
+  vosotros: destapéis
+  uds: destapen
+preterito-perfecto-subjuntivo:
+  yo: haya destapado
+  tu: hayas destapado
+  vos: hayas destapado
+  ud: haya destapado
+  nosotros: hayamos destapado
+  vosotros: hayáis destapado
+  uds: hayan destapado
+imperfecto-subjuntivo:
+  yo:
+    - destapara
+    - destapase
+  tu:
+    - destaparas
+    - destapases
+  vos:
+    - destaparas
+    - destapases
+  ud:
+    - destapara
+    - destapase
+  nosotros:
+    - destapáramos
+    - destapásemos
+  vosotros:
+    - destaparais
+    - destapaseis
+  uds:
+    - destaparan
+    - destapasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera destapado
+    - hubiese destapado
+  tu:
+    - hubieras destapado
+    - hubieses destapado
+  vos:
+    - hubieras destapado
+    - hubieses destapado
+  ud:
+    - hubiera destapado
+    - hubiese destapado
+  nosotros:
+    - hubiéramos destapado
+    - hubiésemos destapado
+  vosotros:
+    - hubierais destapado
+    - hubieseis destapado
+  uds:
+    - hubieran destapado
+    - hubiesen destapado
+imperativo:
+  tu: destapa
+  vos: destapá
+  ud: destape
+  nosotros: destapemos
+  vosotros: destapad
+  uds: destapen

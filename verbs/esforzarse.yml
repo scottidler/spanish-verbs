@@ -1,0 +1,156 @@
+infinitivo: esforzarse
+gerundio: esforzándose
+participio-pasado: esforzado
+
+presente-indicativo:
+  yo: me esfuerzo
+  tu: te esfuerzas
+  vos: te esfuerzas
+  ud: se esfuerza
+  nosotros: nos esforzamos
+  vosotros: os esforzáis
+  uds: se esfuerzan
+
+preterito-perfecto-simple:
+  yo: me esforcé
+  tu: te esforzaste
+  vos: te esforzaste
+  ud: se esforzó
+  nosotros: nos esforzamos
+  vosotros: os esforzasteis
+  uds: se esforzaron
+
+preterito-imperfecto:
+  yo: me esforzaba
+  tu: te esforzabas
+  vos: te esforzabas
+  ud: se esforzaba
+  nosotros: nos esforzábamos
+  vosotros: os esforzabais
+  uds: se esforzaban
+
+futuro-simple:
+  yo: me esforzaré
+  tu: te esforzarás
+  vos: te esforzarás
+  ud: se esforzará
+  nosotros: nos esforzaremos
+  vosotros: os esforzaréis
+  uds: se esforzarán
+
+condicional-simple:
+  yo: me esforzaría
+  tu: te esforzarías
+  vos: te esforzarías
+  ud: se esforzaría
+  nosotros: nos esforzaríamos
+  vosotros: os esforzaríais
+  uds: se esforzarían
+
+presente-perfecto:
+  yo: me he esforzado
+  tu: te has esforzado
+  vos: te has esforzado
+  ud: se ha esforzado
+  nosotros: nos hemos esforzado
+  vosotros: os habéis esforzado
+  uds: se han esforzado
+
+preterito-pluscuamperfecto:
+  yo: me había esforzado
+  tu: te habías esforzado
+  vos: te habías esforzado
+  ud: se había esforzado
+  nosotros: nos habíamos esforzado
+  vosotros: os habíais esforzado
+  uds: se habían esforzado
+
+futuro-perfecto:
+  yo: me habré esforzado
+  tu: te habrás esforzado
+  vos: te habrás esforzado
+  ud: se habrá esforzado
+  nosotros: nos habremos esforzado
+  vosotros: os habréis esforzado
+  uds: se habrán esforzado
+
+condicional-perfecto:
+  yo: me habría esforzado
+  tu: te habrías esforzado
+  vos: te habrías esforzado
+  ud: se habría esforzado
+  nosotros: nos habríamos esforzado
+  vosotros: os habríais esforzado
+  uds: se habrían esforzado
+
+presente-subjuntivo:
+  yo: me esfuerce
+  tu: te esfuerces
+  vos: te esfuerces
+  ud: se esfuerce
+  nosotros: nos esforcemos
+  vosotros: os esforcéis
+  uds: se esfuercen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya esforzado
+  tu: te hayas esforzado
+  vos: te hayas esforzado
+  ud: se haya esforzado
+  nosotros: nos hayamos esforzado
+  vosotros: os hayáis esforzado
+  uds: se hayan esforzado
+
+imperfecto-subjuntivo:
+  yo:
+    - me esforzara
+    - me esforzase
+  tu:
+    - te esforzaras
+    - te esforzases
+  vos:
+    - te esforzaras
+    - te esforzases
+  ud:
+    - se esforzara
+    - se esforzase
+  nosotros:
+    - nos esforzáramos
+    - nos esforzásemos
+  vosotros:
+    - os esforzarais
+    - os esforzaseis
+  uds:
+    - se esforzaran
+    - se esforzasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera esforzado
+    - me hubiese esforzado
+  tu:
+    - te hubieras esforzado
+    - te hubieses esforzado
+  vos:
+    - te hubieras esforzado
+    - te hubieses esforzado
+  ud:
+    - se hubiera esforzado
+    - se hubiese esforzado
+  nosotros:
+    - nos hubiéramos esforzado
+    - nos hubiésemos esforzado
+  vosotros:
+    - os hubierais esforzado
+    - os hubieseis esforzado
+  uds:
+    - se hubieran esforzado
+    - se hubiesen esforzado
+
+imperativo:
+  tu: esfuérzate
+  vos: esforzáte
+  ud: esfuerce
+  nosotros: esforcémonos
+  vosotros: esforzaos
+  uds: esfuércense

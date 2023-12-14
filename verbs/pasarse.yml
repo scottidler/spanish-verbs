@@ -1,0 +1,156 @@
+infinitivo: pasarse
+gerundio: pasándose
+participio-pasado: pasado
+
+presente-indicativo:
+  yo: me paso
+  tu: te pasas
+  vos: te pasas
+  ud: se pasa
+  nosotros: nos pasamos
+  vosotros: os pasáis
+  uds: se pasan
+
+preterito-perfecto-simple:
+  yo: me pasé
+  tu: te pasaste
+  vos: te pasaste
+  ud: se pasó
+  nosotros: nos pasamos
+  vosotros: os pasasteis
+  uds: se pasaron
+
+preterito-imperfecto:
+  yo: me pasaba
+  tu: te pasabas
+  vos: te pasabas
+  ud: se pasaba
+  nosotros: nos pasábamos
+  vosotros: os pasabais
+  uds: se pasaban
+
+futuro-simple:
+  yo: me pasaré
+  tu: te pasarás
+  vos: te pasarás
+  ud: se pasará
+  nosotros: nos pasaremos
+  vosotros: os pasaréis
+  uds: se pasarán
+
+condicional-simple:
+  yo: me pasaria
+  tu: te pasarias
+  vos: te pasarias
+  ud: se pasaria
+  nosotros: nos pasaríamos
+  vosotros: os pasaríais
+  uds: se pasarian
+
+presente-perfecto:
+  yo: me he pasado
+  tu: te has pasado
+  vos: te has pasado
+  ud: se ha pasado
+  nosotros: nos hemos pasado
+  vosotros: os habéis pasado
+  uds: se han pasado
+
+preterito-pluscuamperfecto:
+  yo: me había pasado
+  tu: te habías pasado
+  vos: te habías pasado
+  ud: se había pasado
+  nosotros: nos habíamos pasado
+  vosotros: os habíais pasado
+  uds: se habían pasado
+
+futuro-perfecto:
+  yo: me habré pasado
+  tu: te habrás pasado
+  vos: te habrás pasado
+  ud: se habrá pasado
+  nosotros: nos habremos pasado
+  vosotros: os habréis pasado
+  uds: se habrán pasado
+
+condicional-perfecto:
+  yo: me habría pasado
+  tu: te habrías pasado
+  vos: te habrías pasado
+  ud: se habría pasado
+  nosotros: nos habríamos pasado
+  vosotros: os habríais pasado
+  uds: se habrían pasado
+
+presente-subjuntivo:
+  yo: me pase
+  tu: te pases
+  vos: te pases
+  ud: se pase
+  nosotros: nos pasemos
+  vosotros: os paséis
+  uds: se pasen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya pasado
+  tu: te hayas pasado
+  vos: te hayas pasado
+  ud: se haya pasado
+  nosotros: nos hayamos pasado
+  vosotros: os hayáis pasado
+  uds: se hayan pasado
+
+imperfecto-subjuntivo:
+  yo:
+    - me pasara
+    - me pasase
+  tu:
+    - te pasaras
+    - te pasases
+  vos:
+    - te pasaras
+    - te pasases
+  ud:
+    - se pasara
+    - se pasase
+  nosotros:
+    - nos pasáramos
+    - nos pasásemos
+  vosotros:
+    - os pasarais
+    - os pasaseis
+  uds:
+    - se pasaran
+    - se pasasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera pasado
+    - me hubiese pasado
+  tu:
+    - te hubieras pasado
+    - te hubieses pasado
+  vos:
+    - te hubieras pasado
+    - te hubieses pasado
+  ud:
+    - se hubiera pasado
+    - se hubiese pasado
+  nosotros:
+    - nos hubiéramos pasado
+    - nos hubiésemos pasado
+  vosotros:
+    - os hubierais pasado
+    - os hubieseis pasado
+  uds:
+    - se hubieran pasado
+    - se hubiesen pasado
+
+imperativo:
+  tu: pásate
+  vos: pasátate
+  ud: pásese
+  nosotros: pasémonos
+  vosotros: pasaos
+  uds: pásense

@@ -1,0 +1,142 @@
+infinitivo: aparentar
+gerundio: aparentando
+participio-pasado: aparentado
+presente-indicativo:
+  yo: aparento
+  tu: aparentas
+  vos: aparentas
+  ud: aparenta
+  nosotros: aparentamos
+  vosotros: aparentáis
+  uds: aparentan
+preterito-perfecto-simple:
+  yo: aparenté
+  tu: aparentaste
+  vos: aparentaste
+  ud: aparentó
+  nosotros: aparentamos
+  vosotros: aparentasteis
+  uds: aparentaron
+preterito-imperfecto:
+  yo: aparentaba
+  tu: aparentabas
+  vos: aparentabas
+  ud: aparentaba
+  nosotros: aparentábamos
+  vosotros: aparentabais
+  uds: aparentaban
+futuro-simple:
+  yo: aparentaré
+  tu: aparentarás
+  vos: aparentarás
+  ud: aparentará
+  nosotros: aparentaremos
+  vosotros: aparentaréis
+  uds: aparentarán
+condicional-simple:
+  yo: aparentaría
+  tu: aparentarías
+  vos: aparentarías
+  ud: aparentaría
+  nosotros: aparentaríamos
+  vosotros: aparentaríais
+  uds: aparentarían
+presente-perfecto:
+  yo: he aparentado
+  tu: has aparentado
+  vos: has aparentado
+  ud: ha aparentado
+  nosotros: hemos aparentado
+  vosotros: habéis aparentado
+  uds: han aparentado
+preterito-pluscuamperfecto:
+  yo: había aparentado
+  tu: habías aparentado
+  vos: habías aparentado
+  ud: había aparentado
+  nosotros: habíamos aparentado
+  vosotros: habíais aparentado
+  uds: habían aparentado
+futuro-perfecto:
+  yo: habré aparentado
+  tu: habrás aparentado
+  vos: habrás aparentado
+  ud: habrá aparentado
+  nosotros: habremos aparentado
+  vosotros: habréis aparentado
+  uds: habrán aparentado
+condicional-perfecto:
+  yo: habría aparentado
+  tu: habrías aparentado
+  vos: habrías aparentado
+  ud: habría aparentado
+  nosotros: habríamos aparentado
+  vosotros: habríais aparentado
+  uds: habrían aparentado
+presente-subjuntivo:
+  yo: aparente
+  tu: aparentes
+  vos: aparentes
+  ud: aparente
+  nosotros: aparentemos
+  vosotros: aparentéis
+  uds: aparenten
+preterito-perfecto-subjuntivo:
+  yo: haya aparentado
+  tu: hayas aparentado
+  vos: hayas aparentado
+  ud: haya aparentado
+  nosotros: hayamos aparentado
+  vosotros: hayáis aparentado
+  uds: hayan aparentado
+imperfecto-subjuntivo:
+  yo:
+    - aparentara
+    - aparentase
+  tu:
+    - aparentaras
+    - aparentases
+  vos:
+    - aparentaras
+    - aparentases
+  ud:
+    - aparentara
+    - aparentase
+  nosotros:
+    - aparentáramos
+    - aparentásemos
+  vosotros:
+    - aparentarais
+    - aparentaseis
+  uds:
+    - aparentaran
+    - aparentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aparentado
+    - hubiese aparentado
+  tu:
+    - hubieras aparentado
+    - hubieses aparentado
+  vos:
+    - hubieras aparentado
+    - hubieses aparentado
+  ud:
+    - hubiera aparentado
+    - hubiese aparentado
+  nosotros:
+    - hubiéramos aparentado
+    - hubiésemos aparentado
+  vosotros:
+    - hubierais aparentado
+    - hubieseis aparentado
+  uds:
+    - hubieran aparentado
+    - hubiesen aparentado
+imperativo:
+  tu: aparenta
+  vos: aparentá
+  ud: aparente
+  nosotros: aparentemos
+  vosotros: aparentad
+  uds: aparenten

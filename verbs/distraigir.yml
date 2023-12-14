@@ -1,0 +1,142 @@
+infinitivo: distraer
+gerundio: distrayendo
+participio-pasado: distraído
+presente-indicativo:
+  yo: distraigo
+  tu: distraes
+  vos: distraés
+  ud: distrae
+  nosotros: distraemos
+  vosotros: distraéis
+  uds: distraen
+preterito-perfecto-simple:
+  yo: distrají
+  tu: distrajiste
+  vos: distrajiste
+  ud: distrajó
+  nosotros: distrajimos
+  vosotros: distrajisteis
+  uds: distrajeron
+preterito-imperfecto:
+  yo: distraía
+  tu: distraías
+  vos: distraías
+  ud: distraía
+  nosotros: distraíamos
+  vosotros: distraíais
+  uds: distraían
+futuro-simple:
+  yo: distraeré
+  tu: distraerás
+  vos: distraerás
+  ud: distraerá
+  nosotros: distraeremos
+  vosotros: distraeréis
+  uds: distraerán
+condicional-simple:
+  yo: distraería
+  tu: distraerías
+  vos: distraerías
+  ud: distraería
+  nosotros: distraeríamos
+  vosotros: distraeríais
+  uds: distraerían
+presente-perfecto:
+  yo: he distraído
+  tu: has distraído
+  vos: has distraído
+  ud: ha distraído
+  nosotros: hemos distraído
+  vosotros: habéis distraído
+  uds: han distraído
+preterito-pluscuamperfecto:
+  yo: había distraído
+  tu: habías distraído
+  vos: habías distraído
+  ud: había distraído
+  nosotros: habíamos distraído
+  vosotros: habíais distraído
+  uds: habían distraído
+futuro-perfecto:
+  yo: habré distraído
+  tu: habrás distraído
+  vos: habrás distraído
+  ud: habrá distraído
+  nosotros: habremos distraído
+  vosotros: habréis distraído
+  uds: habrán distraído
+condicional-perfecto:
+  yo: habría distraído
+  tu: habrías distraído
+  vos: habrías distraído
+  ud: habría distraído
+  nosotros: habríamos distraído
+  vosotros: habríais distraído
+  uds: habrían distraído
+presente-subjuntivo:
+  yo: distraiga
+  tu: distraigas
+  vos: distraigas
+  ud: distraiga
+  nosotros: distraigamos
+  vosotros: distraigáis
+  uds: distraigan
+preterito-perfecto-subjuntivo:
+  yo: haya distraído
+  tu: hayas distraído
+  vos: hayas distraído
+  ud: haya distraído
+  nosotros: hayamos distraído
+  vosotros: hayáis distraído
+  uds: hayan distraído
+imperfecto-subjuntivo:
+  yo:
+    - distrajera
+    - distrajese
+  tu:
+    - distrajeras
+    - distrajese
+  vos:
+    - distrajeras
+    - distrajese
+  ud:
+    - distrajera
+    - distrajese
+  nosotros:
+    - distrajéramos
+    - distrajésemos
+  vosotros:
+    - distrajerais
+    - distrajeseis
+  uds:
+    - distrajeran
+    - distrajesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera distraído
+    - hubiese distraído
+  tu:
+    - hubieras distraído
+    - hubieses distraído
+  vos:
+    - hubieras distraído
+    - hubieses distraído
+  ud:
+    - hubiera distraído
+    - hubiese distraído
+  nosotros:
+    - hubiéramos distraído
+    - hubiésemos distraído
+  vosotros:
+    - hubierais distraído
+    - hubieseis distraído
+  uds:
+    - hubieran distraído
+    - hubiesen distraído
+imperativo:
+  tu: distrae
+  vos: distraé
+  ud: distraiga
+  nosotros: distraigamos
+  vosotros: distraed
+  uds: distraigan

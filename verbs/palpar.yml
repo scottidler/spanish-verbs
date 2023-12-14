@@ -1,0 +1,142 @@
+infinitivo: palpar
+gerundio: palpando
+participio-pasado: palpado
+presente-indicativo:
+  yo: palpo
+  tu: palpas
+  vos: palpas
+  ud: palpa
+  nosotros: palpamos
+  vosotros: palpáis
+  uds: palpan
+preterito-perfecto-simple:
+  yo: palpé
+  tu: palpaste
+  vos: palpaste
+  ud: palpó
+  nosotros: palpamos
+  vosotros: palpasteis
+  uds: palparon
+preterito-imperfecto:
+  yo: palpaba
+  tu: palpabas
+  vos: palpabas
+  ud: palpaba
+  nosotros: palpábamos
+  vosotros: palpabais
+  uds: palapaban
+futuro-simple:
+  yo: palparé
+  tu: palparás
+  vos: palparás
+  ud: palpará
+  nosotros: palparemos
+  vosotros: palparéis
+  uds: palparán
+condicional-simple:
+  yo: palparía
+  tu: palparías
+  vos: palparías
+  ud: palparía
+  nosotros: palparíamos
+  vosotros: palparíais
+  uds: palparían
+presente-perfecto:
+  yo: he palpado
+  tu: has palpado
+  vos: has palpado
+  ud: ha palpado
+  nosotros: hemos palpado
+  vosotros: habéis palpado
+  uds: han palpado
+preterito-pluscuamperfecto:
+  yo: había palpado
+  tu: habías palpado
+  vos: habías palpado
+  ud: había palpado
+  nosotros: habíamos palpado
+  vosotros: habíais palpado
+  uds: habían palpado
+futuro-perfecto:
+  yo: habré palpado
+  tu: habrás palpado
+  vos: habrás palpado
+  ud: habrá palpado
+  nosotros: habremos palpado
+  vosotros: habréis palpado
+  uds: habrán palpado
+condicional-perfecto:
+  yo: habría palpado
+  tu: habrías palpado
+  vos: habrías palpado
+  ud: habría palpado
+  nosotros: habríamos palpado
+  vosotros: habríais palpado
+  uds: habrían palpado
+presente-subjuntivo:
+  yo: palpe
+  tu: palpes
+  vos: palpes
+  ud: palpe
+  nosotros: palpemos
+  vosotros: palpeis
+  uds: palpen
+preterito-perfecto-subjuntivo:
+  yo: haya palpado
+  tu: hayas palpado
+  vos: hayas palpado
+  ud: haya palpado
+  nosotros: hayamos palpado
+  vosotros: hayáis palpado
+  uds: hayan palpado
+imperfecto-subjuntivo:
+  yo:
+    - palpase
+    - palpara
+  tu:
+    - palpases
+    - palparas
+  vos:
+    - palpases
+    - palparas
+  ud:
+    - palpase
+    - palpara
+  nosotros:
+    - palpáramos
+    - palpásemos
+  vosotros:
+    - palpaseis
+    - palparais
+  uds:
+    - palpasen
+    - palpasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera palpado
+    - hubiese palpado
+  tu:
+    - hubieras palpado
+    - hubieses palpado
+  vos:
+    - hubieras palpado
+    - hubieses palpado
+  ud:
+    - hubiera palpado
+    - hubiese palpado
+  nosotros:
+    - hubiéramos palpado
+    - hubiésemos palpado
+  vosotros:
+    - hubierais palpado
+    - hubieseis palpado
+  uds:
+    - hubieran palpado
+    - hubiesen palpado
+imperativo:
+  tu: palpa
+  vos: palpá
+  ud: palpe
+  nosotros: palpemos
+  vosotros: palpad
+  uds: palpen

@@ -1,0 +1,142 @@
+infinitivo: obtener
+gerundio: obteniendo
+participio-pasado: obtenido
+presente-indicativo:
+  yo: obtengo
+  tu: obtienes
+  vos: obtienes
+  ud: obtiene
+  nosotros: obtenemos
+  vosotros: obtenéis
+  uds: obtienen
+preterito-perfecto-simple:
+  yo: obtuve
+  tu: obtuviste
+  vos: obtuviste
+  ud: obtuvo
+  nosotros: obtuvimos
+  vosotros: obtuvisteis
+  uds: obtuvieron
+preterito-imperfecto:
+  yo: obtenía
+  tu: obtenías
+  vos: obtenías
+  ud: obtenía
+  nosotros: obteníamos
+  vosotros: obteníais
+  uds: obtenían
+futuro-simple:
+  yo: obtendré
+  tu: obtendrás
+  vos: obtendrás
+  ud: obtendrá
+  nosotros: obtendremos
+  vosotros: obtendréis
+  uds: obtendrán
+condicional-simple:
+  yo: obtendría
+  tu: obtendrías
+  vos: obtendrías
+  ud: obtendría
+  nosotros: obtendríamos
+  vosotros: obtendríais
+  uds: obtendrían
+presente-perfecto:
+  yo: he obtenido
+  tu: has obtenido
+  vos: has obtenido
+  ud: ha obtenido
+  nosotros: hemos obtenido
+  vosotros: habéis obtenido
+  uds: han obtenido
+preterito-pluscuamperfecto:
+  yo: había obtenido
+  tu: habías obtenido
+  vos: habías obtenido
+  ud: había obtenido
+  nosotros: habíamos obtenido
+  vosotros: habíais obtenido
+  uds: habían obtenido
+futuro-perfecto:
+  yo: habré obtenido
+  tu: habrás obtenido
+  vos: habrás obtenido
+  ud: habrá obtenido
+  nosotros: habremos obtenido
+  vosotros: habréis obtenido
+  uds: habrán obtenido
+condicional-perfecto:
+  yo: habría obtenido
+  tu: habrías obtenido
+  vos: habrías obtenido
+  ud: habría obtenido
+  nosotros: habríamos obtenido
+  vosotros: habríais obtenido
+  uds: habrían obtenido
+presente-subjuntivo:
+  yo: obtenga
+  tu: obtengas
+  vos: obtengas
+  ud: obtenga
+  nosotros: obtengamos
+  vosotros: obtengáis
+  uds: obtengan
+preterito-perfecto-subjuntivo:
+  yo: haya obtenido
+  tu: hayas obtenido
+  vos: hayas obtenido
+  ud: haya obtenido
+  nosotros: hayamos obtenido
+  vosotros: hayáis obtenido
+  uds: hayan obtenido
+imperfecto-subjuntivo:
+  yo:
+    - obtuviera
+    - obtuviese
+  tu:
+    - obtuvieras
+    - obtuvieses
+  vos:
+    - obtuvieras
+    - obtuvieses
+  ud:
+    - obtuviera
+    - obtuviese
+  nosotros:
+    - obtuviéramos
+    - obtuviésemos
+  vosotros:
+    - obtuvierais
+    - obtuvieseis
+  uds:
+    - obtuvieran
+    - obtuviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera obtenido
+    - hubiese obtenido
+  tu:
+    - hubieras obtenido
+    - hubieses obtenido
+  vos:
+    - hubieras obtenido
+    - hubieses obtenido
+  ud:
+    - hubiera obtenido
+    - hubiese obtenido
+  nosotros:
+    - hubiéramos obtenido
+    - hubiésemos obtenido
+  vosotros:
+    - hubierais obtenido
+    - hubieseis obtenido
+  uds:
+    - hubieran obtenido
+    - hubiesen obtenido
+imperativo:
+  tu: obtén
+  vos: obtené
+  ud: obtenga
+  nosotros: obtengamos
+  vosotros: obtened
+  uds: obtengan

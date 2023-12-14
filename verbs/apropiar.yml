@@ -1,0 +1,142 @@
+infinitivo: apropiar
+gerundio: apropiando
+participio-pasado: apropiado
+presente-indicativo:
+  yo: apropio
+  tu: aproprias
+  vos: aproprias
+  ud: apropria
+  nosotros: apropiamos
+  vosotros: apropriais
+  uds: aproprian
+preterito-perfecto-simple:
+  yo: apropié
+  tu: apropiaste
+  vos: apropiaste
+  ud: apropió
+  nosotros: apropiamos
+  vosotros: apropiasteis
+  uds: apropiaron
+preterito-imperfecto:
+  yo: apropiaba
+  tu: apropiabas
+  vos: apropiabas
+  ud: apropiaba
+  nosotros: apropriabamos
+  vosotros: apropiabais
+  uds: apropiaban
+futuro-simple:
+  yo: apropiaré
+  tu: apropiarás
+  vos: apropiarás
+  ud: apropiará
+  nosotros: apropriaremos
+  vosotros: apropiaréis
+  uds: apropiarán
+condicional-simple:
+  yo: apropiaría
+  tu: apropiarías
+  vos: apropiarías
+  ud: apropiaría
+  nosotros: apropriaríamos
+  vosotros: apropiaríais
+  uds: apropiarían
+presente-perfecto:
+  yo: he apropiado
+  tu: has apropiado
+  vos: has apropiado
+  ud: ha apropiado
+  nosotros: hemos apropiado
+  vosotros: habéis apropiado
+  uds: han apropiado
+preterito-pluscuamperfecto:
+  yo: había apropiado
+  tu: habías apropiado
+  vos: habías apropiado
+  ud: había apropiado
+  nosotros: habíamos apropiado
+  vosotros: habíais apropiado
+  uds: habían apropiado
+futuro-perfecto:
+  yo: habré apropiado
+  tu: habrás apropiado
+  vos: habrás apropiado
+  ud: habrá apropiado
+  nosotros: habremos apropiado
+  vosotros: habréis apropiado
+  uds: habrán apropiado
+condicional-perfecto:
+  yo: habría apropiado
+  tu: habrías apropiado
+  vos: habrías apropiado
+  ud: habría apropiado
+  nosotros: habríamos apropiado
+  vosotros: habríais apropiado
+  uds: habrían apropiado
+presente-subjuntivo:
+  yo: apropie
+  tu: apropies
+  vos: apropies
+  ud: apropie
+  nosotros: apropriemos
+  vosotros: apropriéis
+  uds: apropies
+preterito-perfecto-subjuntivo:
+  yo: haya apropiado
+  tu: hayas apropiado
+  vos: hayas apropiado
+  ud: haya apropiado
+  nosotros: hayamos apropiado
+  vosotros: hayáis apropiado
+  uds: hayan apropiado
+imperfecto-subjuntivo:
+  yo:
+    - apropiara
+    - apropiase
+  tu:
+    - apropiaras
+    - apropiases
+  vos:
+    - apropiaras
+    - apropiases
+  ud:
+    - apropiara
+    - apropiase
+  nosotros:
+    - apropriáramos
+    - apropriásemos
+  vosotros:
+    - apropiarais
+    - apropiaseis
+  uds:
+    - apropiaran
+    - apropiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apropiado
+    - hubiese apropiado
+  tu:
+    - hubieras apropiado
+    - hubieses apropiado
+  vos:
+    - hubieras apropiado
+    - hubieses apropiado
+  ud:
+    - hubiera apropiado
+    - hubiese apropiado
+  nosotros:
+    - hubiéramos apropiado
+    - hubiésemos apropiado
+  vosotros:
+    - hubierais apropiado
+    - hubieseis apropiado
+  uds:
+    - hubieran apropiado
+    - hubiesen apropiado
+imperativo:
+  tu: apropia
+  vos: apropiá
+  ud: apropie
+  nosotros: apropriemos
+  vosotros: apropiad
+  uds: apropíen

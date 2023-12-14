@@ -1,0 +1,142 @@
+infinitivo: agredir
+gerundio: agrediendo
+participio-pasado: agredido
+presente-indicativo:
+  yo: agredido
+  tu: agredes
+  vos: agredís
+  ud: agrede
+  nosotros: agredimos
+  vosotros: agredís
+  uds: agreden
+preterito-perfecto-simple:
+  yo: agredí
+  tu: agrediste
+  vos: agrediste
+  ud: agredió
+  nosotros: agredimos
+  vosotros: agredisteis
+  uds: agredieron
+preterito-imperfecto:
+  yo: agredía
+  tu: agredías
+  vos: agredías
+  ud: agredía
+  nosotros: agredíamos
+  vosotros: agredíais
+  uds: agredían
+futuro-simple:
+  yo: agrediré
+  tu: agredirás
+  vos: agredirás
+  ud: agredirá
+  nosotros: agrediremos
+  vosotros: agrediréis
+  uds: agredirán
+condicional-simple:
+  yo: agrediría
+  tu: agredirías
+  vos: agredirías
+  ud: agrediría
+  nosotros: agrediríamos
+  vosotros: agrediríais
+  uds: agredirían
+presente-perfecto:
+  yo: he agredido
+  tu: has agredido
+  vos: has agredido
+  ud: ha agredido
+  nosotros: hemos agredido
+  vosotros: habéis agredido
+  uds: han agredido
+preterito-pluscuamperfecto:
+  yo: había agredido
+  tu: habías agredido
+  vos: habías agredido
+  ud: había agredido
+  nosotros: habíamos agredido
+  vosotros: habíais agredido
+  uds: habían agredido
+futuro-perfecto:
+  yo: habré agredido
+  tu: habrás agredido
+  vos: habrás agredido
+  ud: habrá agredido
+  nosotros: habremos agredido
+  vosotros: habréis agredido
+  uds: habrán agredido
+condicional-perfecto:
+  yo: habría agredido
+  tu: habrías agredido
+  vos: habrías agredido
+  ud: habría agredido
+  nosotros: habríamos agredido
+  vosotros: habríais agredido
+  uds: habrían agredido
+presente-subjuntivo:
+  yo: agreda
+  tu: agredas
+  vos: agredas
+  ud: agreda
+  nosotros: agredamos
+  vosotros: agredáis
+  uds: agredan
+preterito-perfecto-subjuntivo:
+  yo: haya agredido
+  tu: hayas agredido
+  vos: hayas agredido
+  ud: haya agredido
+  nosotros: hayamos agredido
+  vosotros: hayáis agredido
+  uds: hayan agredido
+imperfecto-subjuntivo:
+  yo:
+    - agrediera
+    - agrediese
+  tu:
+    - agredieras
+    - agredieses
+  vos:
+    - agredieras
+    - agredieses
+  ud:
+    - agrediera
+    - agrediese
+  nosotros:
+    - agrediéramos
+    - agrediésemos
+  vosotros:
+    - agredierais
+    - agredieseis
+  uds:
+    - agredieran
+    - agrediesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agredido
+    - hubiese agredido
+  tu:
+    - hubieras agredido
+    - hubieses agredido
+  vos:
+    - hubieras agredido
+    - hubieses agredido
+  ud:
+    - hubiera agredido
+    - hubiese agredido
+  nosotros:
+    - hubiéramos agredido
+    - hubiésemos agredido
+  vosotros:
+    - hubierais agredido
+    - hubieseis agredido
+  uds:
+    - hubieran agredido
+    - hubiesen agredido
+imperativo:
+  tu: agrede
+  vos: agredí
+  ud: agrede
+  nosotros: agredamos
+  vosotros: agredid
+  uds: agredan

@@ -1,0 +1,142 @@
+infinitivo: desfilar
+gerundio: desfilando
+participio-pasado: desfilado
+presente-indicativo:
+  yo: desfilo
+  tu: desfilas
+  vos: desfilas
+  ud: desfila
+  nosotros: desfilamos
+  vosotros: desfiláis
+  uds: desfilan
+preterito-perfecto-simple:
+  yo: desfilé
+  tu: desfilaste
+  vos: desfilaste
+  ud: desfiló
+  nosotros: desfilamos
+  vosotros: desfilasteis
+  uds: desfilaron
+preterito-imperfecto:
+  yo: desfilaba
+  tu: desfilabas
+  vos: desfilabas
+  ud: desfilaba
+  nosotros: desfilábamos
+  vosotros: desfilabais
+  uds: desfilaban
+futuro-simple:
+  yo: desfilaré
+  tu: desfilarás
+  vos: desfilarás
+  ud: desfilará
+  nosotros: desfilaremos
+  vosotros: desfilaréis
+  uds: desfilarán
+condicional-simple:
+  yo: desfilaría
+  tu: desfilarías
+  vos: desfilarías
+  ud: desfilaría
+  nosotros: desfilaríamos
+  vosotros: desfilaríais
+  uds: desfilarían
+presente-perfecto:
+  yo: he desfilado
+  tu: has desfilado
+  vos: has desfilado
+  ud: ha desfilado
+  nosotros: hemos desfilado
+  vosotros: habéis desfilado
+  uds: han desfilado
+preterito-pluscuamperfecto:
+  yo: había desfilado
+  tu: habías desfilado
+  vos: habías desfilado
+  ud: había desfilado
+  nosotros: habíamos desfilado
+  vosotros: habíais desfilado
+  uds: habían desfilado
+futuro-perfecto:
+  yo: habré desfilado
+  tu: habrás desfilado
+  vos: habrás desfilado
+  ud: habrá desfilado
+  nosotros: habremos desfilado
+  vosotros: habréis desfilado
+  uds: habrán desfilado
+condicional-perfecto:
+  yo: habría desfilado
+  tu: habrías desfilado
+  vos: habrías desfilado
+  ud: habría desfilado
+  nosotros: habríamos desfilado
+  vosotros: habríais desfilado
+  uds: habrían desfilado
+presente-subjuntivo:
+  yo: desfile
+  tu: desfiles
+  vos: desfiles
+  ud: desfile
+  nosotros: desfilemos
+  vosotros: desfiléis
+  uds: desfilen
+preterito-perfecto-subjuntivo:
+  yo: haya desfilado
+  tu: hayas desfilado
+  vos: hayas desfilado
+  ud: haya desfilado
+  nosotros: hayamos desfilado
+  vosotros: hayáis desfilado
+  uds: hayan desfilado
+imperfecto-subjuntivo:
+  yo:
+    - desfilara
+    - desfilase
+  tu:
+    - desfilaras
+    - desfilases
+  vos:
+    - desfilaras
+    - desfilases
+  ud:
+    - desfilara
+    - desfilase
+  nosotros:
+    - desfiláramos
+    - desfilásemos
+  vosotros:
+    - desfilarais
+    - desfilaseis
+  uds:
+    - desfilaran
+    - desfilasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desfilado
+    - hubiese desfilado
+  tu:
+    - hubieras desfilado
+    - hubieses desfilado
+  vos:
+    - hubieras desfilado
+    - hubieses desfilado
+  ud:
+    - hubiera desfilado
+    - hubiese desfilado
+  nosotros:
+    - hubiéramos desfilado
+    - hubiésemos desfilado
+  vosotros:
+    - hubierais desfilado
+    - hubieseis desfilado
+  uds:
+    - hubieran desfilado
+    - hubiesen desfilado
+imperativo:
+  tu: desfila
+  vos: desfilá
+  ud: desfile
+  nosotros: desfilemos
+  vosotros: desfilad
+  uds: desfilen

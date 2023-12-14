@@ -1,0 +1,142 @@
+infinitivo: designar
+gerundio: designando
+participio-pasado: designado
+presente-indicativo:
+  yo: designo
+  tu: designas
+  vos: designas
+  ud: designa
+  nosotros: designamos
+  vosotros: designáis
+  uds: designan
+preterito-perfecto-simple:
+  yo: designé
+  tu: designaste
+  vos: designaste
+  ud: designó
+  nosotros: designamos
+  vosotros: designasteis
+  uds: designaron
+preterito-imperfecto:
+  yo: designaba
+  tu: designabas
+  vos: designabas
+  ud: designaba
+  nosotros: designábamos
+  vosotros: designabais
+  uds: designaban
+futuro-simple:
+  yo: designaré
+  tu: designarás
+  vos: designarás
+  ud: designará
+  nosotros: designaremos
+  vosotros: designaréis
+  uds: designarán
+condicional-simple:
+  yo: designaría
+  tu: designarías
+  vos: designarías
+  ud: designaría
+  nosotros: designaríamos
+  vosotros: designaríais
+  uds: designarían
+presente-perfecto:
+  yo: he designado
+  tu: has designado
+  vos: has designado
+  ud: ha designado
+  nosotros: hemos designado
+  vosotros: habéis designado
+  uds: han designado
+preterito-pluscuamperfecto:
+  yo: había designado
+  tu: habías designado
+  vos: habías designado
+  ud: había designado
+  nosotros: habíamos designado
+  vosotros: habíais designado
+  uds: habían designado
+futuro-perfecto:
+  yo: habré designado
+  tu: habrás designado
+  vos: habrás designado
+  ud: habrá designado
+  nosotros: habremos designado
+  vosotros: habréis designado
+  uds: habrán designado
+condicional-perfecto:
+  yo: habría designado
+  tu: habrías designado
+  vos: habrías designado
+  ud: habría designado
+  nosotros: habríamos designado
+  vosotros: habríais designado
+  uds: habrían designado
+presente-subjuntivo:
+  yo: designe
+  tu: designes
+  vos: designes
+  ud: designe
+  nosotros: designemos
+  vosotros: designéis
+  uds: designen
+preterito-perfecto-subjuntivo:
+  yo: haya designado
+  tu: hayas designado
+  vos: hayas designado
+  ud: haya designado
+  nosotros: hayamos designado
+  vosotros: hayáis designado
+  uds: hayan designado
+imperfecto-subjuntivo:
+  yo:
+    - designara
+    - designase
+  tu:
+    - designaras
+    - designases
+  vos:
+    - designaras
+    - designases
+  ud:
+    - designara
+    - designase
+  nosotros:
+    - designáramos
+    - designásemos
+  vosotros:
+    - designarais
+    - designaseis
+  uds:
+    - designaran
+    - designasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera designado
+    - hubiese designado
+  tu:
+    - hubieras designado
+    - hubieses designado
+  vos:
+    - hubieras designado
+    - hubieses designado
+  ud:
+    - hubiera designado
+    - hubiese designado
+  nosotros:
+    - hubiéramos designado
+    - hubiésemos designado
+  vosotros:
+    - hubierais designado
+    - hubieseis designado
+  uds:
+    - hubieran designado
+    - hubiesen designado
+imperativo:
+  tu: designa
+  vos: designá
+  ud: designe
+  nosotros: designemos
+  vosotros: designad
+  uds: designen

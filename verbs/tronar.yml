@@ -1,0 +1,142 @@
+infinitivo: tronar
+gerundio: tronando
+participio-pasado: tronado
+presente-indicativo:
+  yo: trueno
+  tu: truenas
+  vos: truenas
+  ud: truena
+  nosotros: tronamos
+  vosotros: tronáis
+  uds: truenan
+preterito-perfecto-simple:
+  yo: troné
+  tu: tronaste
+  vos: tronaste
+  ud: tronó
+  nosotros: tronamos
+  vosotros: tronasteis
+  uds: tronaron
+preterito-imperfecto:
+  yo: tronaba
+  tu: tronabas
+  vos: tronabas
+  ud: tronaba
+  nosotros: tronábamos
+  vosotros: tronabais
+  uds: tronaban
+futuro-simple:
+  yo: tronaré
+  tu: tronarás
+  vos: tronarás
+  ud: tronará
+  nosotros: tronaremos
+  vosotros: tronaréis
+  uds: tronarán
+condicional-simple:
+  yo: tronaría
+  tu: tronarías
+  vos: tronarías
+  ud: tronaría
+  nosotros: tronaríamos
+  vosotros: tronaríais
+  uds: tronarían
+presente-perfecto:
+  yo: he tronado
+  tu: has tronado
+  vos: has tronado
+  ud: ha tronado
+  nosotros: hemos tronado
+  vosotros: habéis tronado
+  uds: han tronado
+preterito-pluscuamperfecto:
+  yo: había tronado
+  tu: habías tronado
+  vos: habías tronado
+  ud: había tronado
+  nosotros: habíamos tronado
+  vosotros: habíais tronado
+  uds: habían tronado
+futuro-perfecto:
+  yo: habré tronado
+  tu: habrás tronado
+  vos: habrás tronado
+  ud: habrá tronado
+  nosotros: habremos tronado
+  vosotros: habréis tronado
+  uds: habrán tronado
+condicional-perfecto:
+  yo: habría tronado
+  tu: habrías tronado
+  vos: habrías tronado
+  ud: habría tronado
+  nosotros: habríamos tronado
+  vosotros: habríais tronado
+  uds: habrían tronado
+presente-subjuntivo:
+  yo: truene
+  tu: truenes
+  vos: truenes
+  ud: truene
+  nosotros: tronemos
+  vosotros: tronéis
+  uds: truenen
+preterito-perfecto-subjuntivo:
+  yo: haya tronado
+  tu: hayas tronado
+  vos: hayas tronado
+  ud: haya tronado
+  nosotros: hayamos tronado
+  vosotros: hayáis tronado
+  uds: hayan tronado
+imperfecto-subjuntivo:
+  yo:
+    - tronara
+    - tronase
+  tu:
+    - tronaras
+    - tronases
+  vos:
+    - tronaras
+    - tronases
+  ud:
+    - tronara
+    - tronase
+  nosotros:
+    - tronáramos
+    - tronásemos
+  vosotros:
+    - tronarais
+    - tronaseis
+  uds:
+    - tronaran
+    - tronasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tronado
+    - hubiese tronado
+  tu:
+    - hubieras tronado
+    - hubieses tronado
+  vos:
+    - hubieras tronado
+    - hubieses tronado
+  ud:
+    - hubiera tronado
+    - hubiese tronado
+  nosotros:
+    - hubiéramos tronado
+    - hubiésemos tronado
+  vosotros:
+    - hubierais tronado
+    - hubieseis tronado
+  uds:
+    - hubieran tronado
+    - hubiesen tronado
+imperativo:
+  tu: trona
+  vos: troná
+  ud: truene
+  nosotros: tronemos
+  vosotros: tronad
+  uds: truenen

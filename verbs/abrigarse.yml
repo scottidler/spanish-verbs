@@ -1,0 +1,156 @@
+infinitivo: abrigarse
+gerundio: abrigándose
+participio-pasado: abrigado
+
+presente-indicativo:
+  yo: me abrigo
+  tu: te abrigas
+  vos: te abrigás
+  ud: se abriga
+  nosotros: nos abrigamos
+  vosotros: os abrigáis
+  uds: se abrigan
+
+preterito-perfecto-simple:
+  yo: me abrigué
+  tu: te abrigaste
+  vos: te abrigaste
+  ud: se abrigó
+  nosotros: nos abrigamos
+  vosotros: os abrigasteis
+  uds: se abrigaron
+
+preterito-imperfecto:
+  yo: me abrigaba
+  tu: te abrigabas
+  vos: te abrigabas
+  ud: se abrigaba
+  nosotros: nos abrigábamos
+  vosotros: os abrigabais
+  uds: se abrigaban
+
+futuro-simple:
+  yo: me abrigaré
+  tu: te abrigarás
+  vos: te abrigarás
+  ud: se abrigará
+  nosotros: nos abrigaremos
+  vosotros: os abrigaréis
+  uds: se abrigarán
+
+condicional-simple:
+  yo: me abrigaría
+  tu: te abrigarías
+  vos: te abrigarías
+  ud: se abrigaría
+  nosotros: nos abrigaríamos
+  vosotros: os abrigaríais
+  uds: se abrigarían
+
+presente-perfecto:
+  yo: me he abrigado
+  tu: te has abrigado
+  vos: te has abrigado
+  ud: se ha abrigado
+  nosotros: nos hemos abrigado
+  vosotros: os habéis abrigado
+  uds: se han abrigado
+
+preterito-pluscuamperfecto:
+  yo: me había abrigado
+  tu: te habías abrigado
+  vos: te habías abrigado
+  ud: se había abrigado
+  nosotros: nos habíamos abrigado
+  vosotros: os habíais abrigado
+  uds: se habían abrigado
+
+futuro-perfecto:
+  yo: me habré abrigado
+  tu: te habrás abrigado
+  vos: te habrás abrigado
+  ud: se habrá abrigado
+  nosotros: nos habremos abrigado
+  vosotros: os habréis abrigado
+  uds: se habrán abrigado
+
+condicional-perfecto:
+  yo: me habría abrigado
+  tu: te habrías abrigado
+  vos: te habrías abrigado
+  ud: se habría abrigado
+  nosotros: nos habríamos abrigado
+  vosotros: os habríais abrigado
+  uds: se habrían abrigado
+
+presente-subjuntivo:
+  yo: me abrigue
+  tu: te abrigues
+  vos: te abrigues
+  ud: se abrigue
+  nosotros: nos abriguemos
+  vosotros: os abriguéis
+  uds: se abriguen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya abrigado
+  tu: te hayas abrigado
+  vos: te hayas abrigado
+  ud: se haya abrigado
+  nosotros: nos hayamos abrigado
+  vosotros: os hayáis abrigado
+  uds: se hayan abrigado
+
+imperfecto-subjuntivo:
+  yo: 
+    - me abrigara
+    - me abrigase
+  tu: 
+    - te abrigaras
+    - te abrigases
+  vos: 
+    - te abrigaras
+    - te abrigases
+  ud: 
+    - se abrigara
+    - se abrigase
+  nosotros: 
+    - nos abrigáramos
+    - nos abrigásemos
+  vosotros: 
+    - os abrigarais
+    - os abrigaseis
+  uds: 
+    - se abrigaran
+    - se abrigasen
+
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - me hubiera abrigado
+    - me hubiese abrigado
+  tu: 
+    - te hubieras abrigado
+    - te hubieses abrigado
+  vos: 
+    - te hubieras abrigado
+    - te hubieses abrigado
+  ud: 
+    - se hubiera abrigado
+    - se hubiese abrigado
+  nosotros: 
+    - nos hubiéramos abrigado
+    - nos hubiésemos abrigado
+  vosotros: 
+    - os hubierais abrigado
+    - os hubieseis abrigado
+  uds: 
+    - se hubieran abrigado
+    - se hubiesen abrigado
+
+imperativo:
+  tu: abrígate
+  vos: abrígate
+  ud: abríguese
+  nosotros: abriguémonos
+  vosotros: abrigaos
+  uds: abrígansen

@@ -1,0 +1,142 @@
+infinitivo: pintar
+gerundio: pintando
+participio-pasado: pintado
+presente-indicativo:
+  yo: pinto
+  tu: pintas
+  vos: pintas
+  ud: pinta
+  nosotros: pintamos
+  vosotros: pintáis
+  uds: pintan
+preterito-perfecto-simple:
+  yo: pinté
+  tu: pintaste
+  vos: pintaste
+  ud: pintó
+  nosotros: pintamos
+  vosotros: pintasteis
+  uds: pintaron
+preterito-imperfecto:
+  yo: pintaba
+  tu: pintabas
+  vos: pintabas
+  ud: pintaba
+  nosotros: pintábamos
+  vosotros: pintabais
+  uds: pintaban
+futuro-simple:
+  yo: pintaré
+  tu: pintarás
+  vos: pintarás
+  ud: pintará
+  nosotros: pintaremos
+  vosotros: pintaréis
+  uds: pintarán
+condicional-simple:
+  yo: pintaría
+  tu: pintarías
+  vos: pintarías
+  ud: pintaría
+  nosotros: pintaríamos
+  vosotros: pintaríais
+  uds: pintarían
+presente-perfecto:
+  yo: he pintado
+  tu: has pintado
+  vos: has pintado
+  ud: ha pintado
+  nosotros: hemos pintado
+  vosotros: habéis pintado
+  uds: han pintado
+preterito-pluscuamperfecto:
+  yo: había pintado
+  tu: habías pintado
+  vos: habías pintado
+  ud: había pintado
+  nosotros: habíamos pintado
+  vosotros: habíais pintado
+  uds: habían pintado
+futuro-perfecto:
+  yo: habré pintado
+  tu: habrás pintado
+  vos: habrás pintado
+  ud: habrá pintado
+  nosotros: habremos pintado
+  vosotros: habréis pintado
+  uds: habrán pintado
+condicional-perfecto:
+  yo: habría pintado
+  tu: habrías pintado
+  vos: habrías pintado
+  ud: habría pintado
+  nosotros: habríamos pintado
+  vosotros: habríais pintado
+  uds: habrían pintado
+presente-subjuntivo:
+  yo: pinte
+  tu: pintes
+  vos: pintes
+  ud: pinte
+  nosotros: pintemos
+  vosotros: pintéis
+  uds: pinten
+preterito-perfecto-subjuntivo:
+  yo: haya pintado
+  tu: hayas pintado
+  vos: hayas pintado
+  ud: haya pintado
+  nosotros: hayamos pintado
+  vosotros: hayáis pintado
+  uds: hayan pintado
+imperfecto-subjuntivo:
+  yo:
+    - pintara
+    - pintase
+  tu:
+    - pintaras
+    - pintases
+  vos:
+    - pintaras
+    - pintases
+  ud:
+    - pintara
+    - pintase
+  nosotros:
+    - pintáramos
+    - pintásemos
+  vosotros:
+    - pintarais
+    - pintaseis
+  uds:
+    - pintaran
+    - pintasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pintado
+    - hubiese pintado
+  tu:
+    - hubieras pintado
+    - hubieses pintado
+  vos:
+    - hubieras pintado
+    - hubieses pintado
+  ud:
+    - hubiera pintado
+    - hubiese pintado
+  nosotros:
+    - hubiéramos pintado
+    - hubiésemos pintado
+  vosotros:
+    - hubierais pintado
+    - hubieseis pintado
+  uds:
+    - hubieran pintado
+    - hubiesen pintado
+imperativo:
+  tu: pinta
+  vos: pintá
+  ud: pinte
+  nosotros: pintemos
+  vosotros: pintaos
+  uds: pinten

@@ -1,0 +1,142 @@
+infinitivo: reclinar
+gerundio: reclinando
+participio-pasado: reclinado
+presente-indicativo:
+  yo: reclino
+  tu: reclinas
+  vos: reclinas
+  ud: reclina
+  nosotros: reclinamos
+  vosotros: reclináis
+  uds: reclinan
+preterito-perfecto-simple:
+  yo: recliné
+  tu: reclinaste
+  vos: reclinaste
+  ud: reclinó
+  nosotros: reclinamos
+  vosotros: reclinasteis
+  uds: reclinaron
+preterito-imperfecto:
+  yo: reclinaba
+  tu: reclinabas
+  vos: reclinabas
+  ud: reclinaba
+  nosotros: reclinábamos
+  vosotros: reclinabais
+  uds: reclinaban
+futuro-simple:
+  yo: reclinaré
+  tu: reclinarás
+  vos: reclinarás
+  ud: reclinará
+  nosotros: reclinaremos
+  vosotros: reclinaréis
+  uds: reclinarán
+condicional-simple:
+  yo: reclinaría
+  tu: reclinarías
+  vos: reclinarías
+  ud: reclinaría
+  nosotros: reclinaríamos
+  vosotros: reclinaríais
+  uds: reclinarían
+presente-perfecto:
+  yo: he reclinado
+  tu: has reclinado
+  vos: has reclinado
+  ud: ha reclinado
+  nosotros: hemos reclinado
+  vosotros: habéis reclinado
+  uds: han reclinado
+preterito-pluscuamperfecto:
+  yo: había reclinado
+  tu: habías reclinado
+  vos: habías reclinado
+  ud: había reclinado
+  nosotros: habíamos reclinado
+  vosotros: habíais reclinado
+  uds: habían reclinado
+futuro-perfecto:
+  yo: habré reclinado
+  tu: habrás reclinado
+  vos: habrás reclinado
+  ud: habrá reclinado
+  nosotros: habremos reclinado
+  vosotros: habréis reclinado
+  uds: habrán reclinado
+condicional-perfecto:
+  yo: habría reclinado
+  tu: habrías reclinado
+  vos: habrías reclinado
+  ud: habría reclinado
+  nosotros: habríamos reclinado
+  vosotros: habríais reclinado
+  uds: habrían reclinado
+presente-subjuntivo:
+  yo: recline
+  tu: reclines
+  vos: reclines
+  ud: recline
+  nosotros: reclinemos
+  vosotros: reclinéis
+  uds: reclinen
+preterito-perfecto-subjuntivo:
+  yo: haya reclinado
+  tu: hayas reclinado
+  vos: hayas reclinado
+  ud: haya reclinado
+  nosotros: hayamos reclinado
+  vosotros: hayáis reclinado
+  uds: hayan reclinado
+imperfecto-subjuntivo:
+  yo:
+    - reclinara
+    - reclinase
+  tu:
+    - reclinaras
+    - reclinases
+  vos:
+    - reclinaras
+    - reclinases
+  ud:
+    - reclinara
+    - reclinase
+  nosotros:
+    - reclináramos
+    - reclinásemos
+  vosotros:
+    - reclinarais
+    - reclinaseis
+  uds:
+    - reclinaran
+    - reclinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reclinado
+    - hubiese reclinado
+  tu:
+    - hubieras reclinado
+    - hubieses reclinado
+  vos:
+    - hubieras reclinado
+    - hubieses reclinado
+  ud:
+    - hubiera reclinado
+    - hubiese reclinado
+  nosotros:
+    - hubiéramos reclinado
+    - hubiésemos reclinado
+  vosotros:
+    - hubierais reclinado
+    - hubieseis reclinado
+  uds:
+    - hubieran reclinado
+    - hubiesen reclinado
+imperativo:
+  tu: reclina
+  vos: recliná
+  ud: recline
+  nosotros: reclinemos
+  vosotros: reclinad
+  uds: reclinen

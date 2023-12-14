@@ -1,0 +1,142 @@
+infinitivo: maltratar
+gerundio: maltratando
+participio-pasado: maltratado
+presente-indicativo:
+  yo: maltrato
+  tu: maltratas
+  vos: maltratás
+  ud: maltrata
+  nosotros: maltratamos
+  vosotros: maltratáis
+  uds: maltratan
+preterito-perfecto-simple:
+  yo: maltraté
+  tu: maltrataste
+  vos: maltrataste
+  ud: maltrató
+  nosotros: maltratamos
+  vosotros: maltratasteis
+  uds: maltrataron
+preterito-imperfecto:
+  yo: maltrataba
+  tu: maltratabas
+  vos: maltratabas
+  ud: maltrataba
+  nosotros: maltratábamos
+  vosotros: maltratabais
+  uds: maltrataban
+futuro-simple:
+  yo: maltrataré
+  tu: maltratarás
+  vos: maltratarás
+  ud: maltratará
+  nosotros: maltrataremos
+  vosotros: maltrataréis
+  uds: maltratarán
+condicional-simple:
+  yo: maltrataría
+  tu: maltratarías
+  vos: maltratarías
+  ud: maltrataría
+  nosotros: maltrataríamos
+  vosotros: maltrataríais
+  uds: maltratarían
+presente-perfecto:
+  yo: he maltratado
+  tu: has maltratado
+  vos: has maltratado
+  ud: ha maltratado
+  nosotros: hemos maltratado
+  vosotros: habéis maltratado
+  uds: han maltratado
+preterito-pluscuamperfecto:
+  yo: había maltratado
+  tu: habías maltratado
+  vos: habías maltratado
+  ud: había maltratado
+  nosotros: habíamos maltratado
+  vosotros: habíais maltratado
+  uds: habían maltratado
+futuro-perfecto:
+  yo: habré maltratado
+  tu: habrás maltratado
+  vos: habrás maltratado
+  ud: habrá maltratado
+  nosotros: habremos maltratado
+  vosotros: habréis maltratado
+  uds: habrán maltratado
+condicional-perfecto:
+  yo: habría maltratado
+  tu: habrías maltratado
+  vos: habrías maltratado
+  ud: habría maltratado
+  nosotros: habríamos maltratado
+  vosotros: habríais maltratado
+  uds: habrían maltratado
+presente-subjuntivo:
+  yo: maltrate
+  tu: maltrates
+  vos: maltrates
+  ud: maltrate
+  nosotros: maltratemos
+  vosotros: maltratéis
+  uds: maltraten
+preterito-perfecto-subjuntivo:
+  yo: haya maltratado
+  tu: hayas maltratado
+  vos: hayas maltratado
+  ud: haya maltratado
+  nosotros: hayamos maltratado
+  vosotros: hayáis maltratado
+  uds: hayan maltratado
+imperfecto-subjuntivo:
+  yo:
+    - maltratara
+    - maltratase
+  tu:
+    - maltrataras
+    - maltratases
+  vos:
+    - maltrataras
+    - maltratases
+  ud:
+    - maltratara
+    - maltratase
+  nosotros:
+    - maltratáramos
+    - maltratásemos
+  vosotros:
+    - maltratarais
+    - maltrataseis
+  uds:
+    - maltrataran
+    - maltratasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera maltratado
+    - hubiese maltratado
+  tu:
+    - hubieras maltratado
+    - hubieses maltratado
+  vos:
+    - hubieras maltratado
+    - hubieses maltratado
+  ud:
+    - hubiera maltratado
+    - hubiese maltratado
+  nosotros:
+    - hubiéramos maltratado
+    - hubiésemos maltratado
+  vosotros:
+    - hubierais maltratado
+    - hubieseis maltratado
+  uds:
+    - hubieran maltratado
+    - hubiesen maltratado
+imperativo:
+  tu: maltrata
+  vos: maltratá
+  ud: maltrate
+  nosotros: maltratemos
+  vosotros: maltratad
+  uds: maltraten

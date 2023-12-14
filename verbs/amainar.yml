@@ -1,0 +1,142 @@
+infinitivo: amainar
+gerundio: amainando
+participio-pasado: amainado
+presente-indicativo:
+  yo: amaino
+  tu: amainas
+  vos: amainas
+  ud: amaina
+  nosotros: amainamos
+  vosotros: amaináis
+  uds: amainan
+preterito-perfecto-simple:
+  yo: amainé
+  tu: amainaste
+  vos: amainaste
+  ud: amainó
+  nosotros: amainamos
+  vosotros: amainasteis
+  uds: amainaron
+preterito-imperfecto:
+  yo: amainaba
+  tu: amainabas
+  vos: amainabas
+  ud: amainaba
+  nosotros: amainábamos
+  vosotros: amainabais
+  uds: amainaban
+futuro-simple:
+  yo: amainaré
+  tu: amainarás
+  vos: amainarás
+  ud: amainará
+  nosotros: amainaremos
+  vosotros: amainaréis
+  uds: amainarán
+condicional-simple:
+  yo: amainaría
+  tu: amainarías
+  vos: amainarías
+  ud: amainaría
+  nosotros: amainaríamos
+  vosotros: amainaríais
+  uds: amainarían
+presente-perfecto:
+  yo: he amainado
+  tu: has amainado
+  vos: has amainado
+  ud: ha amainado
+  nosotros: hemos amainado
+  vosotros: habéis amainado
+  uds: han amainado
+preterito-pluscuamperfecto:
+  yo: había amainado
+  tu: habías amainado
+  vos: habías amainado
+  ud: había amainado
+  nosotros: habíamos amainado
+  vosotros: habíais amainado
+  uds: habían amainado
+futuro-perfecto:
+  yo: habré amainado
+  tu: habrás amainado
+  vos: habrás amainado
+  ud: habrá amainado
+  nosotros: habremos amainado
+  vosotros: habréis amainado
+  uds: habrán amainado
+condicional-perfecto:
+  yo: habría amainado
+  tu: habrías amainado
+  vos: habrías amainado
+  ud: habría amainado
+  nosotros: habríamos amainado
+  vosotros: habríais amainado
+  uds: habrían amainado
+presente-subjuntivo:
+  yo: amaine
+  tu: amaines
+  vos: amaines
+  ud: amaine
+  nosotros: amainemos
+  vosotros: amainéis
+  uds: amainen
+preterito-perfecto-subjuntivo:
+  yo: haya amainado
+  tu: hayas amainado
+  vos: hayas amainado
+  ud: haya amainado
+  nosotros: hayamos amainado
+  vosotros: hayáis amainado
+  uds: hayan amainado
+imperfecto-subjuntivo:
+  yo:
+    - amainara
+    - amainase
+  tu:
+    - amainaras
+    - amainases
+  vos:
+    - amainaras
+    - amainases
+  ud:
+    - amainara
+    - amainase
+  nosotros:
+    - amaináramos
+    - amainásemos
+  vosotros:
+    - amainarais
+    - amainaseis
+  uds:
+    - amainaran
+    - amainasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera amainado
+    - hubiese amainado
+  tu:
+    - hubieras amainado
+    - hubieses amainado
+  vos:
+    - hubieras amainado
+    - hubieses amainado
+  ud:
+    - hubiera amainado
+    - hubiese amainado
+  nosotros:
+    - hubiéramos amainado
+    - hubiésemos amainado
+  vosotros:
+    - hubierais amainado
+    - hubieseis amainado
+  uds:
+    - hubieran amainado
+    - hubiesen amainado
+imperativo:
+  tu: amaina
+  vos: amainá
+  ud: amaine
+  nosotros: amainemos
+  vosotros: amainad
+  uds: amainen

@@ -1,0 +1,142 @@
+infinitivo: resollar
+gerundio: resollando
+participio-pasado: resollado
+presente-indicativo:
+  yo: resuello
+  tu: resuellas
+  vos: resuellas
+  ud: resuella
+  nosotros: resollamos
+  vosotros: resolláis
+  uds: resuellan
+preterito-perfecto-simple:
+  yo: resollé
+  tu: resollaste
+  vos: resollaste
+  ud: resolló
+  nosotros: resollamos
+  vosotros: resollasteis
+  uds: resollaron
+preterito-imperfecto:
+  yo: resollaba
+  tu: resollabas
+  vos: resollabas
+  ud: resollaba
+  nosotros: resollábamos
+  vosotros: resollabais
+  uds: resollaban
+futuro-simple:
+  yo: resollaré
+  tu: resollarás
+  vos: resollarás
+  ud: resollará
+  nosotros: resollaremos
+  vosotros: resollaréis
+  uds: resollarán
+condicional-simple:
+  yo: resollaría
+  tu: resollarías
+  vos: resollarías
+  ud: resollaría
+  nosotros: resollaríamos
+  vosotros: resollaríais
+  uds: resollarían
+presente-perfecto:
+  yo: he resollado
+  tu: has resollado
+  vos: has resollado
+  ud: ha resollado
+  nosotros: hemos resollado
+  vosotros: habéis resollado
+  uds: han resollado
+preterito-pluscuamperfecto:
+  yo: había resollado
+  tu: habías resollado
+  vos: habías resollado
+  ud: había resollado
+  nosotros: habíamos resollado
+  vosotros: habíais resollado
+  uds: habían resollado
+futuro-perfecto:
+  yo: habré resollado
+  tu: habrás resollado
+  vos: habrás resollado
+  ud: habrá resollado
+  nosotros: habremos resollado
+  vosotros: habréis resollado
+  uds: habrán resollado
+condicional-perfecto:
+  yo: habría resollado
+  tu: habrías resollado
+  vos: habrías resollado
+  ud: habría resollado
+  nosotros: habríamos resollado
+  vosotros: habríais resollado
+  uds: habrían resollado
+presente-subjuntivo:
+  yo: resuelva
+  tu: resuelvas
+  vos: resuelvas
+  ud: resuelva
+  nosotros: resolvamos
+  vosotros: resolláis
+  uds: resuelvan
+preterito-perfecto-subjuntivo:
+  yo: haya resollado
+  tu: hayas resollado
+  vos: hayas resollado
+  ud: haya resollado
+  nosotros: hayamos resollado
+  vosotros: hayáis resollado
+  uds: hayan resollado
+imperfecto-subjuntivo:
+  yo:
+    - resollara
+    - resollase
+  tu:
+    - resollaras
+    - resollases
+  vos:
+    - resollaras
+    - resollases
+  ud:
+    - resollara
+    - resollase
+  nosotros:
+    - resolláramos
+    - resollásemos
+  vosotros:
+    - resollarais
+    - resollaseis
+  uds:
+    - resollaran
+    - resollasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera resollado
+    - hubiese resollado
+  tu:
+    - hubieras resollado
+    - hubieses resollado
+  vos:
+    - hubieras resollado
+    - hubieses resollado
+  ud:
+    - hubiera resollado
+    - hubiese resollado
+  nosotros:
+    - hubiéramos resollado
+    - hubiésemos resollado
+  vosotros:
+    - hubierais resollado
+    - hubieseis resollado
+  uds:
+    - hubieran resollado
+    - hubiesen resollado
+imperativo:
+  tu: resuella
+  vos: resuella
+  ud: resuella
+  nosotros: resolvamos
+  vosotros: resollad
+  uds: resuelvan

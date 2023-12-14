@@ -1,0 +1,142 @@
+infinitivo: instruir
+gerundio: instruyendo
+participio-pasado: instruido
+presente-indicativo:
+  yo: instruyo
+  tu: instruyes
+  vos: instruís
+  ud: instruye
+  nosotros: instruimos
+  vosotros: instruís
+  uds: instruyen
+preterito-perfecto-simple:
+  yo: instruí
+  tu: instruiste
+  vos: instruiste
+  ud: instruyó
+  nosotros: instruimos
+  vosotros: instruisteis
+  uds: instruyeron
+preterito-imperfecto:
+  yo: instruía
+  tu: instruías
+  vos: instruías
+  ud: instruía
+  nosotros: instruíamos
+  vosotros: instruíais
+  uds: instruían
+futuro-simple:
+  yo: instruiré
+  tu: instruirás
+  vos: instruirás
+  ud: instruirá
+  nosotros: instruiremos
+  vosotros: instruiréis
+  uds: instruirán
+condicional-simple:
+  yo: instruiría
+  tu: instruirías
+  vos: instruirías
+  ud: instruiría
+  nosotros: instruiríamos
+  vosotros: instruiríais
+  uds: instruirían
+presente-perfecto:
+  yo: he instruido
+  tu: has instruido
+  vos: has instruido
+  ud: ha instruido
+  nosotros: hemos instruido
+  vosotros: habéis instruido
+  uds: han instruido
+preterito-pluscuamperfecto:
+  yo: había instruido
+  tu: habías instruido
+  vos: habías instruido
+  ud: había instruido
+  nosotros: habíamos instruido
+  vosotros: habíais instruido
+  uds: habían instruido
+futuro-perfecto:
+  yo: habré instruido
+  tu: habrás instruido
+  vos: habrás instruido
+  ud: habrá instruido
+  nosotros: habremos instruido
+  vosotros: habréis instruido
+  uds: habrán instruido
+condicional-perfecto:
+  yo: habría instruido
+  tu: habrías instruido
+  vos: habrías instruido
+  ud: habría instruido
+  nosotros: habríamos instruido
+  vosotros: habríais instruido
+  uds: habrían instruido
+presente-subjuntivo:
+  yo: instruya
+  tu: instruyas
+  vos: instruyas
+  ud: instruya
+  nosotros: instruyamos
+  vosotros: instruyáis
+  uds: instruyan
+preterito-perfecto-subjuntivo:
+  yo: haya instruido
+  tu: hayas instruido
+  vos: hayas instruido
+  ud: haya instruido
+  nosotros: hayamos instruido
+  vosotros: hayáis instruido
+  uds: hayan instruido
+imperfecto-subjuntivo:
+  yo:
+    - instruyera
+    - instruyese
+  tu:
+    - instruyeras
+    - instruyeses
+  vos:
+    - instruyeras
+    - instruyeses
+  ud:
+    - instruyera
+    - instruyese
+  nosotros:
+    - instruyéramos
+    - instruyésemos
+  vosotros:
+    - instruyerais
+    - instruyeseis
+  uds:
+    - instruyeran
+    - instruyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera instruido
+    - hubiese instruido
+  tu:
+    - hubieras instruido
+    - hubieses instruido
+  vos:
+    - hubieras instruido
+    - hubieses instruido
+  ud:
+    - hubiera instruido
+    - hubiese instruido
+  nosotros:
+    - hubiéramos instruido
+    - hubiésemos instruido
+  vosotros:
+    - hubierais instruido
+    - hubieseis instruido
+  uds:
+    - hubieran instruido
+    - hubiesen instruido
+imperativo:
+  tu: instruye
+  vos: instruí
+  ud: instruya
+  nosotros: instruyamos
+  vosotros: instruid
+  uds: instruyan

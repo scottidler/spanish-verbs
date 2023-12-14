@@ -1,0 +1,142 @@
+infinitivo: doblarse
+gerundio: doblando
+participio-pasado: doblado
+presente-indicativo:
+  yo: me doblo
+  tu: te doblas
+  vos: te doblas
+  ud: se dobla
+  nosotros: nos doblamos
+  vosotros: os dobláis
+  uds: se doblan
+preterito-perfecto-simple:
+  yo: me doblé
+  tu: te doblaste
+  vos: te doblaste
+  ud: se dobló
+  nosotros: nos doblamos
+  vosotros: os doblasteis
+  uds: se doblaron
+preterito-imperfecto:
+  yo: me doblaba
+  tu: te doblabas
+  vos: te doblabas
+  ud: se doblaba
+  nosotros: nos doblábamos
+  vosotros: os doblabais
+  uds: se doblaban
+futuro-simple:
+  yo: me doblaré
+  tu: te doblarás
+  vos: te doblarás
+  ud: se doblará
+  nosotros: nos doblaremos
+  vosotros: os doblaréis
+  uds: se doblarán
+condicional-simple:
+  yo: me doblaría
+  tu: te doblarías
+  vos: te doblarías
+  ud: se doblaría
+  nosotros: nos doblaríamos
+  vosotros: os doblaríais
+  uds: se doblarían
+presente-perfecto:
+  yo: me he doblado
+  tu: te has doblado
+  vos: te has doblado
+  ud: se ha doblado
+  nosotros: nos hemos doblado
+  vosotros: os habéis doblado
+  uds: se han doblado
+preterito-pluscuamperfecto:
+  yo: me había doblado
+  tu: te habías doblado
+  vos: te habías doblado
+  ud: se había doblado
+  nosotros: nos habíamos doblado
+  vosotros: os habíais doblado
+  uds: se habían doblado
+futuro-perfecto:
+  yo: me habré doblado
+  tu: te habrás doblado
+  vos: te habrás doblado
+  ud: se habrá doblado
+  nosotros: nos habremos doblado
+  vosotros: os habréis doblado
+  uds: se habrán doblado
+condicional-perfecto:
+  yo: me habría doblado
+  tu: te habrías doblado
+  vos: te habrías doblado
+  ud: se habría doblado
+  nosotros: nos habríamos doblado
+  vosotros: os habríais doblado
+  uds: se habrían doblado
+presente-subjuntivo:
+  yo: me doble
+  tu: te dobles
+  vos: te dobles
+  ud: se doble
+  nosotros: nos doblemos
+  vosotros: os dobléis
+  uds: se doblen
+preterito-perfecto-subjuntivo:
+  yo: me haya doblado
+  tu: te hayas doblado
+  vos: te hayas doblado
+  ud: se haya doblado
+  nosotros: nos hayamos doblado
+  vosotros: os hayáis doblado
+  uds: se hayan doblado
+imperfecto-subjuntivo:
+  yo:
+    - me doblara
+    - me doblase
+  tu:
+    - te doblaras
+    - te doblases
+  vos:
+    - te doblaras
+    - te doblases
+  ud:
+    - se doblara
+    - se doblase
+  nosotros:
+    - nos dobláramos
+    - nos doblásemos
+  vosotros:
+    - os doblarais
+    - os doblaseis
+  uds:
+    - se doblaran
+    - se doblasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera doblado
+    - me hubiese doblado
+  tu:
+    - te hubieras doblado
+    - te hubieses doblado
+  vos:
+    - te hubieras doblado
+    - te hubieses doblado
+  ud:
+    - se hubiera doblado
+    - se hubiese doblado
+  nosotros:
+    - nos hubiéramos doblado
+    - nos hubiésemos doblado
+  vosotros:
+    - os hubierais doblado
+    - os hubieseis doblado
+  uds:
+    - se hubieran doblado
+    - se hubiesen doblado
+imperativo:
+  tu: dóblate
+  vos: dóblate
+  ud: dóblese
+  nosotros: nos doblemos
+  vosotros: doblaos
+  uds: dóblense

@@ -1,0 +1,142 @@
+infinitivo: virar
+gerundio: virando
+participio-pasado: virado
+presente-indicativo:
+  yo: viro
+  tu: viras
+  vos: viras
+  ud: vira
+  nosotros: viramos
+  vosotros: viráis
+  uds: viran
+preterito-perfecto-simple:
+  yo: viré
+  tu: viraste
+  vos: viraste
+  ud: viró
+  nosotros: viramos
+  vosotros: virasteis
+  uds: viraron
+preterito-imperfecto:
+  yo: viraba
+  tu: virabas
+  vos: virabas
+  ud: viraba
+  nosotros: virábamos
+  vosotros: virabais
+  uds: viraban
+futuro-simple:
+  yo: viraré
+  tu: virarás
+  vos: virarás
+  ud: virará
+  nosotros: viraremos
+  vosotros: viraréis
+  uds: virarán
+condicional-simple:
+  yo: viraría
+  tu: virarías
+  vos: virarías
+  ud: viraría
+  nosotros: viraríamos
+  vosotros: viraríais
+  uds: virarían
+presente-perfecto:
+  yo: he virado
+  tu: has virado
+  vos: has virado
+  ud: ha virado
+  nosotros: hemos virado
+  vosotros: habéis virado
+  uds: han virado
+preterito-pluscuamperfecto:
+  yo: había virado
+  tu: habías virado
+  vos: habías virado
+  ud: había virado
+  nosotros: habíamos virado
+  vosotros: habíais virado
+  uds: habían virado
+futuro-perfecto:
+  yo: habré virado
+  tu: habrás virado
+  vos: habrás virado
+  ud: habrá virado
+  nosotros: habremos virado
+  vosotros: habréis virado
+  uds: habrán virado
+condicional-perfecto:
+  yo: habría virado
+  tu: habrías virado
+  vos: habrías virado
+  ud: habría virado
+  nosotros: habríamos virado
+  vosotros: habríais virado
+  uds: habrían virado
+presente-subjuntivo:
+  yo: vire
+  tu: vires
+  vos: vires
+  ud: vire
+  nosotros: viremos
+  vosotros: viréis
+  uds: viren
+preterito-perfecto-subjuntivo:
+  yo: haya virado
+  tu: hayas virado
+  vos: hayas virado
+  ud: haya virado
+  nosotros: hayamos virado
+  vosotros: hayáis virado
+  uds: hayan virado
+imperfecto-subjuntivo:
+  yo:
+    - virara
+    - virase
+  tu:
+    - viraras
+    - virases
+  vos:
+    - viraras
+    - virases
+  ud:
+    - virara
+    - virase
+  nosotros:
+    - viráramos
+    - virásemos
+  vosotros:
+    - virarais
+    - viraseis
+  uds:
+    - viraran
+    - virasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera virado
+    - hubiese virado
+  tu:
+    - hubieras virado
+    - hubieses virado
+  vos:
+    - hubieras virado
+    - hubieses virado
+  ud:
+    - hubiera virado
+    - hubiese virado
+  nosotros:
+    - hubiéramos virado
+    - hubiésemos virado
+  vosotros:
+    - hubierais virado
+    - hubieseis virado
+  uds:
+    - hubieran virado
+    - hubiesen virado
+imperativo:
+  tu: vira
+  vos: virá
+  ud: vire
+  nosotros: viremos
+  vosotros: virad
+  uds: viren

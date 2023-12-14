@@ -1,0 +1,142 @@
+infinitivo: visitar
+gerundio: visitando
+participio-pasado: visitado
+presente-indicativo:
+  yo: visito
+  tu: visitas
+  vos: visitas
+  ud: visita
+  nosotros: visitamos
+  vosotros: visitáis
+  uds: visitan
+preterito-perfecto-simple:
+  yo: visité
+  tu: visitaste
+  vos: visitaste
+  ud: visitó
+  nosotros: visitamos
+  vosotros: visitasteis
+  uds: visitaron
+preterito-imperfecto:
+  yo: visitaba
+  tu: visitabas
+  vos: visitabas
+  ud: visitaba
+  nosotros: visitábamos
+  vosotros: visitabais
+  uds: visitaban
+futuro-simple:
+  yo: visitaré
+  tu: visitarás
+  vos: visitarás
+  ud: visitará
+  nosotros: visitaremos
+  vosotros: visitaréis
+  uds: visitarán
+condicional-simple:
+  yo: visitaría
+  tu: visitarías
+  vos: visitarías
+  ud: visitaría
+  nosotros: visitaríamos
+  vosotros: visitaríais
+  uds: visitarían
+presente-perfecto:
+  yo: he visitado
+  tu: has visitado
+  vos: has visitado
+  ud: ha visitado
+  nosotros: hemos visitado
+  vosotros: habéis visitado
+  uds: han visitado
+preterito-pluscuamperfecto:
+  yo: había visitado
+  tu: habías visitado
+  vos: habías visitado
+  ud: había visitado
+  nosotros: habíamos visitado
+  vosotros: habíais visitado
+  uds: habían visitado
+futuro-perfecto:
+  yo: habré visitado
+  tu: habrás visitado
+  vos: habrás visitado
+  ud: habrá visitado
+  nosotros: habremos visitado
+  vosotros: habréis visitado
+  uds: habrán visitado
+condicional-perfecto:
+  yo: habría visitado
+  tu: habrías visitado
+  vos: habrías visitado
+  ud: habría visitado
+  nosotros: habríamos visitado
+  vosotros: habríais visitado
+  uds: habrían visitado
+presente-subjuntivo:
+  yo: visite
+  tu: visites
+  vos: visites
+  ud: visite
+  nosotros: visitemos
+  vosotros: visitéis
+  uds: visiten
+preterito-perfecto-subjuntivo:
+  yo: haya visitado
+  tu: hayas visitado
+  vos: hayas visitado
+  ud: haya visitado
+  nosotros: hayamos visitado
+  vosotros: hayáis visitado
+  uds: hayan visitado
+imperfecto-subjuntivo:
+  yo:
+    - visitara
+    - visitase
+  tu:
+    - visitaras
+    - visitases
+  vos:
+    - visitaras
+    - visitases
+  ud:
+    - visitara
+    - visitase
+  nosotros:
+    - visitáramos
+    - visitásemos
+  vosotros:
+    - visitarais
+    - visitaseis
+  uds:
+    - visitaran
+    - visitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera visitado
+    - hubiese visitado
+  tu:
+    - hubieras visitado
+    - hubieses visitado
+  vos:
+    - hubieras visitado
+    - hubieses visitado
+  ud:
+    - hubiera visitado
+    - hubiese visitado
+  nosotros:
+    - hubiéramos visitado
+    - hubiésemos visitado
+  vosotros:
+    - hubierais visitado
+    - hubieseis visitado
+  uds:
+    - hubieran visitado
+    - hubiesen visitado
+imperativo:
+  tu: visita
+  vos: visitá
+  ud: visite
+  nosotros: visitemos
+  vosotros: visitad
+  uds: visiten

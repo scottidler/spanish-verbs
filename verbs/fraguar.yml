@@ -1,0 +1,142 @@
+infinitivo: fraguar
+gerundio: fraguando
+participio-pasado: fraguado
+presente-indicativo:
+  yo: frago
+  tu: fraguas
+  vos: fraguas
+  ud: fragua
+  nosotros: fraguamos
+  vosotros: fraguáis
+  uds: fraguan
+preterito-perfecto-simple:
+  yo: fragué
+  tu: fraguaste
+  vos: fraguaste
+  ud: fraguó
+  nosotros: fraguamos
+  vosotros: fraguasteis
+  uds: fraguaron
+preterito-imperfecto:
+  yo: fraguaba
+  tu: fraguabas
+  vos: fraguabas
+  ud: fraguaba
+  nosotros: fraguábamos
+  vosotros: fraguabais
+  uds: fraguaban
+futuro-simple:
+  yo: fraguaré
+  tu: fraguarás
+  vos: fraguarás
+  ud: fraguará
+  nosotros: fraguaremos
+  vosotros: fraguaréis
+  uds: fraguarán
+condicional-simple:
+  yo: fraguaría
+  tu: fraguarías
+  vos: fraguarías
+  ud: fraguaría
+  nosotros: fraguaríamos
+  vosotros: fraguaríais
+  uds: fraguarían
+presente-perfecto:
+  yo: he fraguado
+  tu: has fraguado
+  vos: has fraguado
+  ud: ha fraguado
+  nosotros: hemos fraguado
+  vosotros: habéis fraguado
+  uds: han fraguado
+preterito-pluscuamperfecto:
+  yo: había fraguado
+  tu: habías fraguado
+  vos: habías fraguado
+  ud: había fraguado
+  nosotros: habíamos fraguado
+  vosotros: habíais fraguado
+  uds: habían fraguado
+futuro-perfecto:
+  yo: habré fraguado
+  tu: habrás fraguado
+  vos: habrás fraguado
+  ud: habrá fraguado
+  nosotros: habremos fraguado
+  vosotros: habréis fraguado
+  uds: habrán fraguado
+condicional-perfecto:
+  yo: habría fraguado
+  tu: habrías fraguado
+  vos: habrías fraguado
+  ud: habría fraguado
+  nosotros: habríamos fraguado
+  vosotros: habríais fraguado
+  uds: habrían fraguado
+presente-subjuntivo:
+  yo: frague
+  tu: fragues
+  vos: fragues
+  ud: frague
+  nosotros: fraguemos
+  vosotros: fraguéis
+  uds: fraguen
+preterito-perfecto-subjuntivo:
+  yo: haya fraguado
+  tu: hayas fraguado
+  vos: hayas fraguado
+  ud: haya fraguado
+  nosotros: hayamos fraguado
+  vosotros: hayáis fraguado
+  uds: hayan fraguado
+imperfecto-subjuntivo:
+  yo:
+    - fraguara
+    - fraguase
+  tu:
+    - fraguaras
+    - fraguases
+  vos:
+    - fraguaras
+    - fraguases
+  ud:
+    - fraguara
+    - fraguase
+  nosotros:
+    - fraguáramos
+    - fraguásemos
+  vosotros:
+    - fraguarais
+    - fraguaseis
+  uds:
+    - fraguaran
+    - fraguasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fraguado
+    - hubiese fraguado
+  tu:
+    - hubieras fraguado
+    - hubieses fraguado
+  vos:
+    - hubieras fraguado
+    - hubieses fraguado
+  ud:
+    - hubiera fraguado
+    - hubiese fraguado
+  nosotros:
+    - hubiéramos fraguado
+    - hubiésemos fraguado
+  vosotros:
+    - hubierais fraguado
+    - hubieseis fraguado
+  uds:
+    - hubieran fraguado
+    - hubiesen fraguado
+imperativo:
+  tu: frague
+  vos: fraguá
+  ud: frague
+  nosotros: fraguemos
+  vosotros: fraguad
+  uds: fraguen

@@ -1,0 +1,142 @@
+infinitivo: arremeter
+gerundio: arremetiendo
+participio-pasado: arremetido
+presente-indicativo:
+  yo: arremeto
+  tu: arremetes
+  vos: arremetes
+  ud: arremete
+  nosotros: arremetemos
+  vosotros: arremetéis
+  uds: arremeten
+preterito-perfecto-simple:
+  yo: arremetí
+  tu: arremetiste
+  vos: arremetiste
+  ud: arremetió
+  nosotros: arremetimos
+  vosotros: arremetisteis
+  uds: arremetieron
+preterito-imperfecto:
+  yo: arremetía
+  tu: arremetías
+  vos: arremetías
+  ud: arremetía
+  nosotros: arremetíamos
+  vosotros: arremetíais
+  uds: arremetían
+futuro-simple:
+  yo: arremeteré
+  tu: arremeterás
+  vos: arremeterás
+  ud: arremeterá
+  nosotros: arremeteremos
+  vosotros: arremeteréis
+  uds: arremeterán
+condicional-simple:
+  yo: arremetería
+  tu: arremeterías
+  vos: arremeterías
+  ud: arremetería
+  nosotros: arremeteríamos
+  vosotros: arremeteríais
+  uds: arremeterían
+presente-perfecto:
+  yo: he arremetido
+  tu: has arremetido
+  vos: has arremetido
+  ud: ha arremetido
+  nosotros: hemos arremetido
+  vosotros: habéis arremetido
+  uds: han arremetido
+preterito-pluscuamperfecto:
+  yo: había arremetido
+  tu: habías arremetido
+  vos: habías arremetido
+  ud: había arremetido
+  nosotros: habíamos arremetido
+  vosotros: habíais arremetido
+  uds: habían arremetido
+futuro-perfecto:
+  yo: habré arremetido
+  tu: habrás arremetido
+  vos: habrás arremetido
+  ud: habrá arremetido
+  nosotros: habremos arremetido
+  vosotros: habréis arremetido
+  uds: habrán arremetido
+condicional-perfecto:
+  yo: habría arremetido
+  tu: habrías arremetido
+  vos: habrías arremetido
+  ud: habría arremetido
+  nosotros: habríamos arremetido
+  vosotros: habríais arremetido
+  uds: habrían arremetido
+presente-subjuntivo:
+  yo: arremeta
+  tu: arremetas
+  vos: arremetas
+  ud: arremeta
+  nosotros: arremetamos
+  vosotros: arremetáis
+  uds: arremetan
+preterito-perfecto-subjuntivo:
+  yo: haya arremetido
+  tu: hayas arremetido
+  vos: hayas arremetido
+  ud: haya arremetido
+  nosotros: hayamos arremetido
+  vosotros: hayáis arremetido
+  uds: hayan arremetido
+imperfecto-subjuntivo:
+  yo:
+    - arremetiera
+    - arremetiese
+  tu:
+    - arremetieras
+    - arremetieses
+  vos:
+    - arremetieras
+    - arremetieses
+  ud:
+    - arremetiera
+    - arremetiese
+  nosotros:
+    - arremetiéramos
+    - arremetiésemos
+  vosotros:
+    - arremetierais
+    - arremetieseis
+  uds:
+    - arremetieran
+    - arremetiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arremetido
+    - hubiese arremetido
+  tu:
+    - hubieras arremetido
+    - hubieses arremetido
+  vos:
+    - hubieras arremetido
+    - hubieses arremetido
+  ud:
+    - hubiera arremetido
+    - hubiese arremetido
+  nosotros:
+    - hubiéramos arremetido
+    - hubiésemos arremetido
+  vosotros:
+    - hubierais arremetido
+    - hubieseis arremetido
+  uds:
+    - hubieran arremetido
+    - hubiesen arremetido
+imperativo:
+  tu: arremete
+  vos: arremeté
+  ud: arremeta
+  nosotros: arremetamos
+  vosotros: arremeted
+  uds: arremetan

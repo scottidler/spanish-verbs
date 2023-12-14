@@ -1,0 +1,142 @@
+infinitivo: admirar
+gerundio: admirando
+participio-pasado: admirado
+presente-indicativo:
+  yo: admiro
+  tu: admiras
+  vos: admiras
+  ud: admira
+  nosotros: admiramos
+  vosotros: admiráis
+  uds: admiran
+preterito-perfecto-simple:
+  yo: admiré
+  tu: admiraste
+  vos: admiraste
+  ud: admiró
+  nosotros: admiramos
+  vosotros: admirasteis
+  uds: admiraron
+preterito-imperfecto:
+  yo: admiraba
+  tu: admirabas
+  vos: admirabas
+  ud: admiraba
+  nosotros: admirábamos
+  vosotros: admirabais
+  uds: admiraban
+futuro-simple:
+  yo: admiraré
+  tu: admirarás
+  vos: admirarás
+  ud: admirará
+  nosotros: admiraremos
+  vosotros: admiraréis
+  uds: admirarán
+condicional-simple:
+  yo: admiraría
+  tu: admirarías
+  vos: admirarías
+  ud: admiraría
+  nosotros: admiraríamos
+  vosotros: admiraríais
+  uds: admirarían
+presente-perfecto:
+  yo: he admirado
+  tu: has admirado
+  vos: has admirado
+  ud: ha admirado
+  nosotros: hemos admirado
+  vosotros: habéis admirado
+  uds: han admirado
+preterito-pluscuamperfecto:
+  yo: había admirado
+  tu: habías admirado
+  vos: habías admirado
+  ud: había admirado
+  nosotros: habíamos admirado
+  vosotros: habíais admirado
+  uds: habían admirado
+futuro-perfecto:
+  yo: habré admirado
+  tu: habrás admirado
+  vos: habrás admirado
+  ud: habrá admirado
+  nosotros: habremos admirado
+  vosotros: habréis admirado
+  uds: habrán admirado
+condicional-perfecto:
+  yo: habría admirado
+  tu: habrías admirado
+  vos: habrías admirado
+  ud: habría admirado
+  nosotros: habríamos admirado
+  vosotros: habríais admirado
+  uds: habrían admirado
+presente-subjuntivo:
+  yo: admire
+  tu: admires
+  vos: admires
+  ud: admire
+  nosotros: admiremos
+  vosotros: admiréis
+  uds: admiren
+preterito-perfecto-subjuntivo:
+  yo: haya admirado
+  tu: hayas admirado
+  vos: hayas admirado
+  ud: haya admirado
+  nosotros: hayamos admirado
+  vosotros: hayáis admirado
+  uds: hayan admirado
+imperfecto-subjuntivo:
+  yo:
+    - admirara
+    - admirase
+  tu:
+    - admiraras
+    - admirases
+  vos:
+    - admiraras
+    - admirases
+  ud:
+    - admirara
+    - admirase
+  nosotros:
+    - admiráramos
+    - admirásemos
+  vosotros:
+    - admirarais
+    - admiraseis
+  uds:
+    - admiraran
+    - admirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera admirado
+    - hubiese admirado
+  tu:
+    - hubieras admirado
+    - hubieses admirado
+  vos:
+    - hubieras admirado
+    - hubieses admirado
+  ud:
+    - hubiera admirado
+    - hubiese admirado
+  nosotros:
+    - hubiéramos admirado
+    - hubiésemos admirado
+  vosotros:
+    - hubierais admirado
+    - hubieseis admirado
+  uds:
+    - hubieran admirado
+    - hubiesen admirado
+imperativo:
+  tu: admira
+  vos: admirá
+  ud: admire
+  nosotros: admiremos
+  vosotros: admirad
+  uds: admiren

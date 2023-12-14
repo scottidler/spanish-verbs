@@ -1,0 +1,142 @@
+infinitivo: sobrecoger
+gerundio: sobrecogiendo
+participio-pasado: sobrecogido
+presente-indicativo:
+  yo: sobrecujo
+  tu: sobrecoges
+  vos: sobrecoges
+  ud: sobrecoge
+  nosotros: sobrecogemos
+  vosotros: sobrecogéis
+  uds: sobrecogen
+preterito-perfecto-simple:
+  yo: sobrecogí
+  tu: sobrecogiste
+  vos: sobrecogiste
+  ud: sobrecogió
+  nosotros: sobrecogimos
+  vosotros: sobrecogisteis
+  uds: sobrecogieron
+preterito-imperfecto:
+  yo: sobrecogía
+  tu: sobrecogías
+  vos: sobrecogías
+  ud: sobrecogía
+  nosotros: sobrecogíamos
+  vosotros: sobrecogíais
+  uds: sobrecogían
+futuro-simple:
+  yo: sobrecogeré
+  tu: sobrecogerás
+  vos: sobrecogerás
+  ud: sobrecogerá
+  nosotros: sobrecogeremos
+  vosotros: sobrecogeréis
+  uds: sobrecogerán
+condicional-simple:
+  yo: sobrecogería
+  tu: sobrecogerías
+  vos: sobrecogerías
+  ud: sobrecogería
+  nosotros: sobrecogeríamos
+  vosotros: sobrecogeríais
+  uds: sobrecogerían
+presente-perfecto:
+  yo: he sobrecogido
+  tu: has sobrecogido
+  vos: has sobrecogido
+  ud: ha sobrecogido
+  nosotros: hemos sobrecogido
+  vosotros: habéis sobrecogido
+  uds: han sobrecogido
+preterito-pluscuamperfecto:
+  yo: había sobrecogido
+  tu: habías sobrecogido
+  vos: habías sobrecogido
+  ud: había sobrecogido
+  nosotros: habíamos sobrecogido
+  vosotros: habíais sobrecogido
+  uds: habían sobrecogido
+futuro-perfecto:
+  yo: habré sobrecogido
+  tu: habrás sobrecogido
+  vos: habrás sobrecogido
+  ud: habrá sobrecogido
+  nosotros: habremos sobrecogido
+  vosotros: habréis sobrecogido
+  uds: habrán sobrecogido
+condicional-perfecto:
+  yo: habría sobrecogido
+  tu: habrías sobrecogido
+  vos: habrías sobrecogido
+  ud: habría sobrecogido
+  nosotros: habríamos sobrecogido
+  vosotros: habríais sobrecogido
+  uds: habrían sobrecogido
+presente-subjuntivo:
+  yo: sobrecobré
+  tu: sobrecobres
+  vos: sobrecobres
+  ud: sobrecobra
+  nosotros: sobrecobremos
+  vosotros: sobrecobréis
+  uds: sobrecobren
+preterito-perfecto-subjuntivo:
+  yo: haya sobrecogido
+  tu: hayas sobrecogido
+  vos: hayas sobrecogido
+  ud: haya sobrecogido
+  nosotros: hayamos sobrecogido
+  vosotros: hayáis sobrecogido
+  uds: hayan sobrecogido
+imperfecto-subjuntivo:
+  yo:
+    - sobrecogiera
+    - sobrecogiese
+  tu:
+    - sobrecogieras
+    - sobrecogieses
+  vos:
+    - sobrecogieras
+    - sobrecogieses
+  ud:
+    - sobrecogiera
+    - sobrecogiese
+  nosotros:
+    - sobrecogiéramos
+    - sobrecogiésemos
+  vosotros:
+    - sobrecogierais
+    - sobrecogieseis
+  uds:
+    - sobrecogieran
+    - sobrecogiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sobrecogido
+    - hubiese sobrecogido
+  tu:
+    - hubieras sobrecogido
+    - hubieses sobrecogido
+  vos:
+    - hubieras sobrecogido
+    - hubieses sobrecogido
+  ud:
+    - hubiera sobrecogido
+    - hubiese sobrecogido
+  nosotros:
+    - hubiéramos sobrecogido
+    - hubiésemos sobrecogido
+  vosotros:
+    - hubierais sobrecogido
+    - hubieseis sobrecogido
+  uds:
+    - hubieran sobrecogido
+    - hubiesen sobrecogido
+imperativo:
+  tu: sobrecoge
+  vos: sobrecogé
+  ud: sobrecobra
+  nosotros: sobrecobremos
+  vosotros: sobrecoged
+  uds: sobrecobren

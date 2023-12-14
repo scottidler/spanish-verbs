@@ -1,0 +1,142 @@
+infinitivo: consistir
+gerundio: consistiendo
+participio-pasado: consistido
+presente-indicativo:
+  yo: consisto
+  tu: consistes
+  vos: consistes
+  ud: consiste
+  nosotros: consistimos
+  vosotros: consistís
+  uds: consisten
+preterito-perfecto-simple:
+  yo: consistí
+  tu: consististe
+  vos: consististe
+  ud: consistió
+  nosotros: consistimos
+  vosotros: consististeis
+  uds: consistieron
+preterito-imperfecto:
+  yo: consistía
+  tu: consistías
+  vos: consistías
+  ud: consistía
+  nosotros: consistíamos
+  vosotros: consistíais
+  uds: consistían
+futuro-simple:
+  yo: consistiré
+  tu: consistirás
+  vos: consistirás
+  ud: consistirá
+  nosotros: consistiremos
+  vosotros: consistiréis
+  uds: consistirán
+condicional-simple:
+  yo: consistiría
+  tu: consistirías
+  vos: consistirías
+  ud: consistiría
+  nosotros: consistiríamos
+  vosotros: consistiríais
+  uds: consistirían
+presente-perfecto:
+  yo: he consistido
+  tu: has consistido
+  vos: has consistido
+  ud: ha consistido
+  nosotros: hemos consistido
+  vosotros: habéis consistido
+  uds: han consistido
+preterito-pluscuamperfecto:
+  yo: había consistido
+  tu: habías consistido
+  vos: habías consistido
+  ud: había consistido
+  nosotros: habíamos consistido
+  vosotros: habíais consistido
+  uds: habían consistido
+futuro-perfecto:
+  yo: habré consistido
+  tu: habrás consistido
+  vos: habrás consistido
+  ud: habrá consistido
+  nosotros: habremos consistido
+  vosotros: habréis consistido
+  uds: habrán consistido
+condicional-perfecto:
+  yo: habría consistido
+  tu: habrías consistido
+  vos: habrías consistido
+  ud: habría consistido
+  nosotros: habríamos consistido
+  vosotros: habríais consistido
+  uds: habrían consistido
+presente-subjuntivo:
+  yo: consista
+  tu: consistas
+  vos: consistas
+  ud: consista
+  nosotros: consistamos
+  vosotros: consistáis
+  uds: consistan
+preterito-perfecto-subjuntivo:
+  yo: haya consistido
+  tu: hayas consistido
+  vos: hayas consistido
+  ud: haya consistido
+  nosotros: hayamos consistido
+  vosotros: hayáis consistido
+  uds: hayan consistido
+imperfecto-subjuntivo:
+  yo:
+    - consistiera
+    - consistiese
+  tu:
+    - consistieras
+    - consistieses
+  vos:
+    - consistieras
+    - consistieses
+  ud:
+    - consistiera
+    - consistiese
+  nosotros:
+    - consistiéramos
+    - consistiésemos
+  vosotros:
+    - consistierais
+    - consistieseis
+  uds:
+    - consistieran
+    - consistiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera consistido
+    - hubiese consistido
+  tu:
+    - hubieras consistido
+    - hubieses consistido
+  vos:
+    - hubieras consistido
+    - hubieses consistido
+  ud:
+    - hubiera consistido
+    - hubiese consistido
+  nosotros:
+    - hubiéramos consistido
+    - hubiésemos consistido
+  vosotros:
+    - hubierais consistido
+    - hubieseis consistido
+  uds:
+    - hubieran consistido
+    - hubiesen consistido
+imperativo:
+  tu: consiste
+  vos: consistí
+  ud: consista
+  nosotros: consistamos
+  vosotros: consistid
+  uds: consistan

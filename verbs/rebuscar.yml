@@ -1,0 +1,142 @@
+infinitivo: rebuscar
+gerundio: rebuscando
+participio-pasado: rebuscado
+presente-indicativo:
+  yo: rebusco
+  tu: rebuscas
+  vos: rebuscas
+  ud: rebusca
+  nosotros: rebuscamos
+  vosotros: rebuscáis
+  uds: rebuscan
+preterito-perfecto-simple:
+  yo: rebusqué
+  tu: rebuscaste
+  vos: rebuscaste
+  ud: rebuscó
+  nosotros: rebuscamos
+  vosotros: rebuscasteis
+  uds: rebuscaron
+preterito-imperfecto:
+  yo: rebuscaba
+  tu: rebuscabas
+  vos: rebuscabas
+  ud: rebuscaba
+  nosotros: rebuscábamos
+  vosotros: rebuscabais
+  uds: rebuscaban
+futuro-simple:
+  yo: rebuscaré
+  tu: rebuscarás
+  vos: rebuscarás
+  ud: rebuscará
+  nosotros: rebuscaremos
+  vosotros: rebuscaréis
+  uds: rebuscarán
+condicional-simple:
+  yo: rebuscaría
+  tu: rebuscarías
+  vos: rebuscarías
+  ud: rebuscaría
+  nosotros: rebuscaríamos
+  vosotros: rebuscaríais
+  uds: rebuscarían
+presente-perfecto:
+  yo: he rebuscado
+  tu: has rebuscado
+  vos: has rebuscado
+  ud: ha rebuscado
+  nosotros: hemos rebuscado
+  vosotros: habéis rebuscado
+  uds: han rebuscado
+preterito-pluscuamperfecto:
+  yo: había rebuscado
+  tu: habías rebuscado
+  vos: habías rebuscado
+  ud: había rebuscado
+  nosotros: habíamos rebuscado
+  vosotros: habíais rebuscado
+  uds: habían rebuscado
+futuro-perfecto:
+  yo: habré rebuscado
+  tu: habrás rebuscado
+  vos: habrás rebuscado
+  ud: habrá rebuscado
+  nosotros: habremos rebuscado
+  vosotros: habréis rebuscado
+  uds: habrán rebuscado
+condicional-perfecto:
+  yo: habría rebuscado
+  tu: habrías rebuscado
+  vos: habrías rebuscado
+  ud: habría rebuscado
+  nosotros: habríamos rebuscado
+  vosotros: habríais rebuscado
+  uds: habrían rebuscado
+presente-subjuntivo:
+  yo: rebusque
+  tu: rebusques
+  vos: rebusques
+  ud: rebusque
+  nosotros: rebusquemos
+  vosotros: rebusquéis
+  uds: rebusquen
+preterito-perfecto-subjuntivo:
+  yo: haya rebuscado
+  tu: hayas rebuscado
+  vos: hayas rebuscado
+  ud: haya rebuscado
+  nosotros: hayamos rebuscado
+  vosotros: hayáis rebuscado
+  uds: hayan rebuscado
+imperfecto-subjuntivo:
+  yo:
+    - rebuscara
+    - rebuscase
+  tu:
+    - rebuscaras
+    - rebuscases
+  vos:
+    - rebuscaras
+    - rebuscases
+  ud:
+    - rebuscara
+    - rebuscase
+  nosotros:
+    - rebuscáramos
+    - rebuscásemos
+  vosotros:
+    - rebuscarais
+    - rebuscaseis
+  uds:
+    - rebuscaran
+    - rebuscasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rebuscado
+    - hubiese rebuscado
+  tu:
+    - hubieras rebuscado
+    - hubieses rebuscado
+  vos:
+    - hubieras rebuscado
+    - hubieses rebuscado
+  ud:
+    - hubiera rebuscado
+    - hubiese rebuscado
+  nosotros:
+    - hubiéramos rebuscado
+    - hubiésemos rebuscado
+  vosotros:
+    - hubierais rebuscado
+    - hubieseis rebuscado
+  uds:
+    - hubieran rebuscado
+    - hubiesen rebuscado
+imperativo:
+  tu: rebusca
+  vos: rebuscá
+  ud: rebusque
+  nosotros: rebusquemos
+  vosotros: rebuscad
+  uds: rebusquen

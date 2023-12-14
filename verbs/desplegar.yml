@@ -1,0 +1,142 @@
+infinitivo: desplegar
+gerundio: desplegando
+participio-pasado: desplegado
+presente-indicativo:
+  yo: despliego
+  tu: despliegas
+  vos: despliegas
+  ud: despliega
+  nosotros: desplegamos
+  vosotros: desplegáis
+  uds: despliegan
+preterito-perfecto-simple:
+  yo: desplegué
+  tu: desplegaste
+  vos: desplegaste
+  ud: desplegó
+  nosotros: desplegamos
+  vosotros: desplegasteis
+  uds: desplegaron
+preterito-imperfecto:
+  yo: desplegaba
+  tu: desplegabas
+  vos: desplegabas
+  ud: desplegaba
+  nosotros: desplegábamos
+  vosotros: desplegabais
+  uds: desplegaban
+futuro-simple:
+  yo: desplegaré
+  tu: desplegarás
+  vos: desplegarás
+  ud: desplegará
+  nosotros: desplegaremos
+  vosotros: desplegaréis
+  uds: desplegarán
+condicional-simple:
+  yo: desplegaría
+  tu: desplegarías
+  vos: desplegarías
+  ud: desplegaría
+  nosotros: desplegaríamos
+  vosotros: desplegaríais
+  uds: desplegarían
+presente-perfecto:
+  yo: he desplegado
+  tu: has desplegado
+  vos: has desplegado
+  ud: ha desplegado
+  nosotros: hemos desplegado
+  vosotros: habéis desplegado
+  uds: han desplegado
+preterito-pluscuamperfecto:
+  yo: había desplegado
+  tu: habías desplegado
+  vos: habías desplegado
+  ud: había desplegado
+  nosotros: habíamos desplegado
+  vosotros: habíais desplegado
+  uds: habían desplegado
+futuro-perfecto:
+  yo: habré desplegado
+  tu: habrás desplegado
+  vos: habrás desplegado
+  ud: habrá desplegado
+  nosotros: habremos desplegado
+  vosotros: habréis desplegado
+  uds: habrán desplegado
+condicional-perfecto:
+  yo: habría desplegado
+  tu: habrías desplegado
+  vos: habrías desplegado
+  ud: habría desplegado
+  nosotros: habríamos desplegado
+  vosotros: habríais desplegado
+  uds: habrían desplegado
+presente-subjuntivo:
+  yo: despliegue
+  tu: despliegues
+  vos: despliegues
+  ud: despliegue
+  nosotros: despleguemos
+  vosotros: despleguéis
+  uds: desplieguen
+preterito-perfecto-subjuntivo:
+  yo: haya desplegado
+  tu: hayas desplegado
+  vos: hayas desplegado
+  ud: haya desplegado
+  nosotros: hayamos desplegado
+  vosotros: hayáis desplegado
+  uds: hayan desplegado
+imperfecto-subjuntivo:
+  yo:
+    - desplegara
+    - desplegase
+  tu:
+    - desplegaras
+    - desplegases
+  vos:
+    - desplegaras
+    - desplegases
+  ud:
+    - desplegara
+    - desplegase
+  nosotros:
+    - desplegáramos
+    - desplegásemos
+  vosotros:
+    - desplegarais
+    - desplegaseis
+  uds:
+    - desplegaran
+    - desplegasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desplegado
+    - hubiese desplegado
+  tu:
+    - hubieras desplegado
+    - hubieses desplegado
+  vos:
+    - hubieras desplegado
+    - hubieses desplegado
+  ud:
+    - hubiera desplegado
+    - hubiese desplegado
+  nosotros:
+    - hubiéramos desplegado
+    - hubiésemos desplegado
+  vosotros:
+    - hubierais desplegado
+    - hubieseis desplegado
+  uds:
+    - hubieran desplegado
+    - hubiesen desplegado
+imperativo:
+  tu: despliega
+  vos: desplegá
+  ud: despliegue
+  nosotros: despleguemos
+  vosotros: desplegad
+  uds: desplieguen

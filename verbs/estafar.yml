@@ -1,0 +1,142 @@
+infinitivo: estafar
+gerundio: estafando
+participio-pasado: estafado
+presente-indicativo:
+  yo: estafro
+  tu: estafas
+  vos: estafas
+  ud: estafa
+  nosotros: estafamos
+  vosotros: estafáis
+  uds: estafan
+preterito-perfecto-simple:
+  yo: estafé
+  tu: estafaste
+  vos: estafaste
+  ud: estafó
+  nosotros: estafamos
+  vosotros: estafasteis
+  uds: estafaron
+preterito-imperfecto:
+  yo: estafaba
+  tu: estafabas
+  vos: estafabas
+  ud: estafaba
+  nosotros: estafábamos
+  vosotros: estafabais
+  uds: estafaban
+futuro-simple:
+  yo: estafaré
+  tu: estafarás
+  vos: estafarás
+  ud: estafará
+  nosotros: estafaremos
+  vosotros: estafaréis
+  uds: estafarán
+condicional-simple:
+  yo: estafaría
+  tu: estafarías
+  vos: estafarías
+  ud: estafaría
+  nosotros: estafaríamos
+  vosotros: estafaríais
+  uds: estafarían
+presente-perfecto:
+  yo: he estafado
+  tu: has estafado
+  vos: has estafado
+  ud: ha estafado
+  nosotros: hemos estafado
+  vosotros: habéis estafado
+  uds: han estafado
+preterito-pluscuamperfecto:
+  yo: había estafado
+  tu: habías estafado
+  vos: habías estafado
+  ud: había estafado
+  nosotros: habíamos estafado
+  vosotros: habíais estafado
+  uds: habían estafado
+futuro-perfecto:
+  yo: habré estafado
+  tu: habrás estafado
+  vos: habrás estafado
+  ud: habrá estafado
+  nosotros: habremos estafado
+  vosotros: habréis estafado
+  uds: habrán estafado
+condicional-perfecto:
+  yo: habría estafado
+  tu: habrías estafado
+  vos: habrías estafado
+  ud: habría estafado
+  nosotros: habríamos estafado
+  vosotros: habríais estafado
+  uds: habrían estafado
+presente-subjuntivo:
+  yo: estafe
+  tu: estafes
+  vos: estafes
+  ud: estafe
+  nosotros: estafemos
+  vosotros: estaféis
+  uds: estafen
+preterito-perfecto-subjuntivo:
+  yo: haya estafado
+  tu: hayas estafado
+  vos: hayas estafado
+  ud: haya estafado
+  nosotros: hayamos estafado
+  vosotros: hayáis estafado
+  uds: hayan estafado
+imperfecto-subjuntivo:
+  yo:
+    - estafara
+    - estafase
+  tu:
+    - estafaras
+    - estafases
+  vos:
+    - estafaras
+    - estafases
+  ud:
+    - estafara
+    - estafase
+  nosotros:
+    - estafáramos
+    - estafásemos
+  vosotros:
+    - estafarais
+    - estafaseis
+  uds:
+    - estafaran
+    - estafasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estafado
+    - hubiese estafado
+  tu:
+    - hubieras estafado
+    - hubieses estafado
+  vos:
+    - hubieras estafado
+    - hubieses estafado
+  ud:
+    - hubiera estafado
+    - hubiese estafado
+  nosotros:
+    - hubiéramos estafado
+    - hubiésemos estafado
+  vosotros:
+    - hubierais estafado
+    - hubieseis estafado
+  uds:
+    - hubieran estafado
+    - hubiesen estafado
+imperativo:
+  tu: estafa
+  vos: estafá
+  ud: estafe
+  nosotros: estafemos
+  vosotros: estafad
+  uds: estafen

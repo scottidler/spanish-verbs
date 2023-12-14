@@ -1,0 +1,142 @@
+infinitivo: aunar
+gerundio: aunando
+participio-pasado: aunado
+presente-indicativo:
+  yo: auno
+  tu: aunas
+  vos: aunas
+  ud: auna
+  nosotros: aunamos
+  vosotros: aunáis
+  uds: aunan
+preterito-perfecto-simple:
+  yo: aune
+  tu: auniste
+  vos: auniste
+  ud: aunió
+  nosotros: aunimos
+  vosotros: aunisteis
+  uds: aunieron
+preterito-imperfecto:
+  yo: aunaba
+  tu: aunabas
+  vos: aunabas
+  ud: aunaba
+  nosotros: aunábamos
+  vosotros: aunabais
+  uds: aunaban
+futuro-simple:
+  yo: aunaré
+  tu: aunarás
+  vos: aunarás
+  ud: aunará
+  nosotros: aunaremos
+  vosotros: aunaréis
+  uds: aunarán
+condicional-simple:
+  yo: aunaría
+  tu: aunarías
+  vos: aunarías
+  ud: aunaría
+  nosotros: aunaríamos
+  vosotros: aunaríais
+  uds: aunarían
+presente-perfecto:
+  yo: he aunado
+  tu: has aunado
+  vos: has aunado
+  ud: ha aunado
+  nosotros: hemos aunado
+  vosotros: habéis aunado
+  uds: han aunado
+preterito-pluscuamperfecto:
+  yo: había aunado
+  tu: habías aunado
+  vos: habías aunado
+  ud: había aunado
+  nosotros: habíamos aunado
+  vosotros: habíais aunado
+  uds: habían aunado
+futuro-perfecto:
+  yo: habré aunado
+  tu: habrás aunado
+  vos: habrás aunado
+  ud: habrá aunado
+  nosotros: habremos aunado
+  vosotros: habréis aunado
+  uds: habrán aunado
+condicional-perfecto:
+  yo: habría aunado
+  tu: habrías aunado
+  vos: habrías aunado
+  ud: habría aunado
+  nosotros: habríamos aunado
+  vosotros: habríais aunado
+  uds: habrían aunado
+presente-subjuntivo:
+  yo: aune
+  tu: aunes
+  vos: aunes
+  ud: aune
+  nosotros: aunemos
+  vosotros: aunéis
+  uds: aunen
+preterito-perfecto-subjuntivo:
+  yo: haya aunado
+  tu: hayas aunado
+  vos: hayas aunado
+  ud: haya aunado
+  nosotros: hayamos aunado
+  vosotros: hayáis aunado
+  uds: hayan aunado
+imperfecto-subjuntivo:
+  yo:
+    - aunara
+    - aunase
+  tu:
+    - aunaras
+    - aunases
+  vos:
+    - aunaras
+    - aunases
+  ud:
+    - aunara
+    - aunase
+  nosotros:
+    - aunáramos
+    - aunásemos
+  vosotros:
+    - aunarais
+    - aunaseis
+  uds:
+    - aunaran
+    - aunasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aunado
+    - hubiese aunado
+  tu:
+    - hubieras aunado
+    - hubieses aunado
+  vos:
+    - hubieras aunado
+    - hubieses aunado
+  ud:
+    - hubiera aunado
+    - hubiese aunado
+  nosotros:
+    - hubiéramos aunado
+    - hubiésemos aunado
+  vosotros:
+    - hubierais aunado
+    - hubieseis aunado
+  uds:
+    - hubieran aunado
+    - hubiesen aunado
+imperativo:
+  tu: auna
+  vos: auná
+  ud: aune
+  nosotros: aunemos
+  vosotros: aunar
+  uds: aunen

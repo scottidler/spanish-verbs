@@ -1,0 +1,142 @@
+infinitivo: otorgar
+gerundio: otorgando
+participio-pasado: otorgado
+presente-indicativo:
+  yo: otorgo
+  tu: otorgas
+  vos: otorgas
+  ud: otorga
+  nosotros: otorgamos
+  vosotros: otorgáis
+  uds: otorgan
+preterito-perfecto-simple:
+  yo: otorgué
+  tu: otorgaste
+  vos: otorgaste
+  ud: otorgó
+  nosotros: otorgamos
+  vosotros: otorgasteis
+  uds: otorgaron
+preterito-imperfecto:
+  yo: otorgaba
+  tu: otorgabas
+  vos: otorgabas
+  ud: otorgaba
+  nosotros: otorgábamos
+  vosotros: otorgabais
+  uds: otorgaban
+futuro-simple:
+  yo: otorgaré
+  tu: otorgarás
+  vos: otorgarás
+  ud: otorgará
+  nosotros: otorgaremos
+  vosotros: otorgaréis
+  uds: otorgarán
+condicional-simple:
+  yo: otorgaría
+  tu: otorgarías
+  vos: otorgarías
+  ud: otorgaría
+  nosotros: otorgaríamos
+  vosotros: otorgaríais
+  uds: otorgarían
+presente-perfecto:
+  yo: he otorgado
+  tu: has otorgado
+  vos: has otorgado
+  ud: ha otorgado
+  nosotros: hemos otorgado
+  vosotros: habéis otorgado
+  uds: han otorgado
+preterito-pluscuamperfecto:
+  yo: había otorgado
+  tu: habías otorgado
+  vos: habías otorgado
+  ud: había otorgado
+  nosotros: habíamos otorgado
+  vosotros: habíais otorgado
+  uds: habían otorgado
+futuro-perfecto:
+  yo: habré otorgado
+  tu: habrás otorgado
+  vos: habrás otorgado
+  ud: habrá otorgado
+  nosotros: habremos otorgado
+  vosotros: habréis otorgado
+  uds: habrán otorgado
+condicional-perfecto:
+  yo: habría otorgado
+  tu: habrías otorgado
+  vos: habrías otorgado
+  ud: habría otorgado
+  nosotros: habríamos otorgado
+  vosotros: habríais otorgado
+  uds: habrían otorgado
+presente-subjuntivo:
+  yo: otorgue
+  tu: otorgues
+  vos: otorgues
+  ud: otorgue
+  nosotros: otorguemos
+  vosotros: otorguéis
+  uds: otorguen
+preterito-perfecto-subjuntivo:
+  yo: haya otorgado
+  tu: hayas otorgado
+  vos: hayas otorgado
+  ud: haya otorgado
+  nosotros: hayamos otorgado
+  vosotros: hayáis otorgado
+  uds: hayan otorgado
+imperfecto-subjuntivo:
+  yo:
+    - otorgara
+    - otorgase
+  tu:
+    - otorgaras
+    - otorgases
+  vos:
+    - otorgaras
+    - otorgases
+  ud:
+    - otorgara
+    - otorgase
+  nosotros:
+    - otorgáramos
+    - otorgásemos
+  vosotros:
+    - otorgarais
+    - otorgaseis
+  uds:
+    - otorgaran
+    - otorgasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera otorgado
+    - hubiese otorgado
+  tu:
+    - hubieras otorgado
+    - hubieses otorgado
+  vos:
+    - hubieras otorgado
+    - hubieses otorgado
+  ud:
+    - hubiera otorgado
+    - hubiese otorgado
+  nosotros:
+    - hubiéramos otorgado
+    - hubiésemos otorgado
+  vosotros:
+    - hubierais otorgado
+    - hubieseis otorgado
+  uds:
+    - hubieran otorgado
+    - hubiesen otorgado
+imperativo:
+  tu: otorga
+  vos: otorgá
+  ud: otorgue
+  nosotros: otorguemos
+  vosotros: otorgad
+  uds: otorguen

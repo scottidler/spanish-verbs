@@ -1,0 +1,142 @@
+infinitivo: haraganear
+gerundio: haraganeando
+participio-pasado: haraganeado
+presente-indicativo:
+  yo: haragueo
+  tu: haragueas
+  vos: haragueás
+  ud: haraguea
+  nosotros: haragueamos
+  vosotros: haragueáis
+  uds: haraguean
+preterito-perfecto-simple:
+  yo: haragueé
+  tu: haragueaste
+  vos: haragueaste
+  ud: haragueó
+  nosotros: haragueamos
+  vosotros: haragueasteis
+  uds: haraguearon
+preterito-imperfecto:
+  yo: haragueaba
+  tu: haragueabas
+  vos: haragueabas
+  ud: haragueaba
+  nosotros: haragueábamos
+  vosotros: haragueabais
+  uds: haragueaban
+futuro-simple:
+  yo: haraguearé
+  tu: haraguearás
+  vos: haraguearás
+  ud: haragueará
+  nosotros: haraguearemos
+  vosotros: haraguearéis
+  uds: haraguearán
+condicional-simple:
+  yo: haraguearía
+  tu: haraguearías
+  vos: haraguearías
+  ud: haraguearía
+  nosotros: haraguearíamos
+  vosotros: haraguearíais
+  uds: haraguearían
+presente-perfecto:
+  yo: he haragueado
+  tu: has haragueado
+  vos: has haragueado
+  ud: ha haragueado
+  nosotros: hemos haragueado
+  vosotros: habéis haragueado
+  uds: han haragueado
+preterito-pluscuamperfecto:
+  yo: había haragueado
+  tu: habías haragueado
+  vos: habías haragueado
+  ud: había haragueado
+  nosotros: habíamos haragueado
+  vosotros: habíais haragueado
+  uds: habían haragueado
+futuro-perfecto:
+  yo: habré haragueado
+  tu: habrás haragueado
+  vos: habrás haragueado
+  ud: habrá haragueado
+  nosotros: habremos haragueado
+  vosotros: habréis haragueado
+  uds: habrán haragueado
+condicional-perfecto:
+  yo: habría haragueado
+  tu: habrías haragueado
+  vos: habrías haragueado
+  ud: habría haragueado
+  nosotros: habríamos haragueado
+  vosotros: habríais haragueado
+  uds: habrían haragueado
+presente-subjuntivo:
+  yo: haraguee
+  tu: haraguees
+  vos: haraguees
+  ud: haraguee
+  nosotros: haragueemos
+  vosotros: haragueéis
+  uds: haraguen
+preterito-perfecto-subjuntivo:
+  yo: haya haragueado
+  tu: hayas haragueado
+  vos: hayas haragueado
+  ud: haya haragueado
+  nosotros: hayamos haragueado
+  vosotros: hayáis haragueado
+  uds: hayan haragueado
+imperfecto-subjuntivo:
+  yo:
+    - haragueara
+    - haraguease
+  tu:
+    - haraguearas
+    - haragueases
+  vos:
+    - haraguearas
+    - haragueases
+  ud:
+    - haragueara
+    - haraguease
+  nosotros:
+    - haragueáramos
+    - haragueásemos
+  vosotros:
+    - haraguearais
+    - haragueaseis
+  uds:
+    - haraguearan
+    - haragueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera haragueado
+    - hubiese haragueado
+  tu:
+    - hubieras haragueado
+    - hubieses haragueado
+  vos:
+    - hubieras haragueado
+    - hubieses haragueado
+  ud:
+    - hubiera haragueado
+    - hubiese haragueado
+  nosotros:
+    - hubiéramos haragueado
+    - hubiésemos haragueado
+  vosotros:
+    - hubierais haragueado
+    - hubieseis haragueado
+  uds:
+    - hubieran haragueado
+    - hubiesen haragueado
+imperativo:
+  tu: haraganea
+  vos: haraguaneá
+  ud: haraguee
+  nosotros: haragueemos
+  vosotros: haraguead
+  uds: haraguen

@@ -1,0 +1,156 @@
+infinitivo: freir
+gerundio: friendo
+participio-pasado: frito
+
+presente-indicativo:
+  yo: frio
+  tu: fries
+  vos: fries
+  ud: frie
+  nosotros: freímos
+  vosotros: freís
+  uds: frien
+
+preterito-perfecto-simple:
+  yo: freí
+  tu: freíste
+  vos: freíste
+  ud: frió
+  nosotros: freímos
+  vosotros: freísteis
+  uds: frieron
+
+preterito-imperfecto:
+  yo: freía
+  tu: freías
+  vos: freías
+  ud: freía
+  nosotros: freíamos
+  vosotros: freíais
+  uds: freían
+
+futuro-simple:
+  yo: freiré
+  tu: freirás
+  vos: freirás
+  ud: freirá
+  nosotros: freiremos
+  vosotros: freiréis
+  uds: freirán
+
+condicional-simple:
+  yo: freiría
+  tu: freirías
+  vos: freirías
+  ud: freiría
+  nosotros: freiríamos
+  vosotros: freiríais
+  uds: freirían
+
+presente-perfecto:
+  yo: he frito
+  tu: has frito
+  vos: has frito
+  ud: ha frito
+  nosotros: hemos frito
+  vosotros: habéis frito
+  uds: han frito
+
+preterito-pluscuamperfecto:
+  yo: había frito
+  tu: habías frito
+  vos: habías frito
+  ud: había frito
+  nosotros: habíamos frito
+  vosotros: habíais frito
+  uds: habían frito
+
+futuro-perfecto:
+  yo: habré frito
+  tu: habrás frito
+  vos: habrás frito
+  ud: habrá frito
+  nosotros: habremos frito
+  vosotros: habréis frito
+  uds: habrán frito
+
+condicional-perfecto:
+  yo: habría frito
+  tu: habrías frito
+  vos: habrías frito
+  ud: habría frito
+  nosotros: habríamos frito
+  vosotros: habríais frito
+  uds: habrían frito
+
+presente-subjuntivo:
+  yo: fria
+  tu: frias
+  vos: frias
+  ud: fria
+  nosotros: friamos
+  vosotros: friáis
+  uds: frian
+
+preterito-perfecto-subjuntivo:
+  yo: haya frito
+  tu: hayas frito
+  vos: hayas frito
+  ud: haya frito
+  nosotros: hayamos frito
+  vosotros: hayáis frito
+  uds: hayan frito
+
+imperfecto-subjuntivo:
+  yo:
+    - friera
+    - friese
+  tu:
+    - frieras
+    - frieses
+  vos:
+    - frieras
+    - frieses
+  ud:
+    - friera
+    - friese
+  nosotros:
+    - friéramos
+    - friésemos
+  vosotros:
+    - frierais
+    - fueseis
+  uds:
+    - frieran
+    - fuesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera frito
+    - hubiese frito
+  tu:
+    - hubieras frito
+    - hubieses frito
+  vos:
+    - hubieras frito
+    - hubieses frito
+  ud:
+    - hubiera frito
+    - hubiese frito
+  nosotros:
+    - hubiéramos frito
+    - hubiésemos frito
+  vosotros:
+    - hubierais frito
+    - hubieseis frito
+  uds:
+    - hubieran frito
+    - hubiesen frito
+
+imperativo:
+  tu: fríe
+  vos: freí
+  ud: fría
+  nosotros: friamos
+  vosotros: freid
+  uds: frian

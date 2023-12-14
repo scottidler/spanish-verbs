@@ -1,0 +1,142 @@
+infinitivo: rezar
+gerundio: rezando
+participio-pasado: rezado
+presente-indicativo:
+  yo: rezo
+  tu: rezas
+  vos: rezas
+  ud: reza
+  nosotros: rezamos
+  vosotros: rezáis
+  uds: rezan
+preterito-perfecto-simple:
+  yo: recé
+  tu: rezaste
+  vos: rezaste
+  ud: rezó
+  nosotros: rezamos
+  vosotros: rezasteis
+  uds: rezaron
+preterito-imperfecto:
+  yo: rezaba
+  tu: rezabas
+  vos: rezabas
+  ud: rezaba
+  nosotros: rezábamos
+  vosotros: rezabais
+  uds: rezaban
+futuro-simple:
+  yo: rezaré
+  tu: rezarás
+  vos: rezarás
+  ud: rezará
+  nosotros: rezaremos
+  vosotros: rezaréis
+  uds: rezarán
+condicional-simple:
+  yo: rezaría
+  tu: rezarías
+  vos: rezarías
+  ud: rezaría
+  nosotros: rezaríamos
+  vosotros: rezaríais
+  uds: rezarían
+presente-perfecto:
+  yo: he rezado
+  tu: has rezado
+  vos: has rezado
+  ud: ha rezado
+  nosotros: hemos rezado
+  vosotros: habéis rezado
+  uds: han rezado
+preterito-pluscuamperfecto:
+  yo: había rezado
+  tu: habías rezado
+  vos: habías rezado
+  ud: había rezado
+  nosotros: habíamos rezado
+  vosotros: habíais rezado
+  uds: habían rezado
+futuro-perfecto:
+  yo: habré rezado
+  tu: habrás rezado
+  vos: habrás rezado
+  ud: habrá rezado
+  nosotros: habremos rezado
+  vosotros: habréis rezado
+  uds: habrán rezado
+condicional-perfecto:
+  yo: habría rezado
+  tu: habrías rezado
+  vos: habrías rezado
+  ud: habría rezado
+  nosotros: habríamos rezado
+  vosotros: habríais rezado
+  uds: habrían rezado
+presente-subjuntivo:
+  yo: rece
+  tu: reces
+  vos: reces
+  ud: rece
+  nosotros: recemos
+  vosotros: recéis
+  uds: recen
+preterito-perfecto-subjuntivo:
+  yo: haya rezado
+  tu: hayas rezado
+  vos: hayas rezado
+  ud: haya rezado
+  nosotros: hayamos rezado
+  vosotros: hayáis rezado
+  uds: hayan rezado
+imperfecto-subjuntivo:
+  yo:
+    - rezara
+    - rezase
+  tu:
+    - rezaras
+    - rezases
+  vos:
+    - rezaras
+    - rezases
+  ud:
+    - rezara
+    - rezase
+  nosotros:
+    - rezáramos
+    - rezásemos
+  vosotros:
+    - rezarais
+    - rezaseis
+  uds:
+    - rezaran
+    - rezasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rezado
+    - hubiese rezado
+  tu:
+    - hubieras rezado
+    - hubieses rezado
+  vos:
+    - hubieras rezado
+    - hubieses rezado
+  ud:
+    - hubiera rezado
+    - hubiese rezado
+  nosotros:
+    - hubiéramos rezado
+    - hubiésemos rezado
+  vosotros:
+    - hubierais rezado
+    - hubieseis rezado
+  uds:
+    - hubieran rezado
+    - hubiesen rezado
+imperativo:
+  tu: reza
+  vos: rezá
+  ud: rece
+  nosotros: recemos
+  vosotros: rezad
+  uds: recen

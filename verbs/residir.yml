@@ -1,0 +1,142 @@
+infinitivo: residir
+gerundio: residiendo
+participio-pasado: residido
+presente-indicativo:
+  yo: resido
+  tu: resides
+  vos: resides
+  ud: reside
+  nosotros: residimos
+  vosotros: residís
+  uds: residen
+preterito-perfecto-simple:
+  yo: residí
+  tu: residiste
+  vos: residiste
+  ud: residió
+  nosotros: residimos
+  vosotros: residisteis
+  uds: residieron
+preterito-imperfecto:
+  yo: residía
+  tu: residías
+  vos: residías
+  ud: residía
+  nosotros: residíamos
+  vosotros: residíais
+  uds: residían
+futuro-simple:
+  yo: residiré
+  tu: residirás
+  vos: residirás
+  ud: residirá
+  nosotros: residiremos
+  vosotros: residiréis
+  uds: residirán
+condicional-simple:
+  yo: residiría
+  tu: residirías
+  vos: residirías
+  ud: residiría
+  nosotros: residiríamos
+  vosotros: residiríais
+  uds: residirían
+presente-perfecto:
+  yo: he residido
+  tu: has residido
+  vos: has residido
+  ud: ha residido
+  nosotros: hemos residido
+  vosotros: habéis residido
+  uds: han residido
+preterito-pluscuamperfecto:
+  yo: había residido
+  tu: habías residido
+  vos: habías residido
+  ud: había residido
+  nosotros: habíamos residido
+  vosotros: habíais residido
+  uds: habían residido
+futuro-perfecto:
+  yo: habré residido
+  tu: habrás residido
+  vos: habrás residido
+  ud: habrá residido
+  nosotros: habremos residido
+  vosotros: habréis residido
+  uds: habrán residido
+condicional-perfecto:
+  yo: habría residido
+  tu: habrías residido
+  vos: habrías residido
+  ud: habría residido
+  nosotros: habríamos residido
+  vosotros: habríais residido
+  uds: habrían residido
+presente-subjuntivo:
+  yo: resida
+  tu: residas
+  vos: residas
+  ud: resida
+  nosotros: residamos
+  vosotros: residáis
+  uds: residan
+preterito-perfecto-subjuntivo:
+  yo: haya residido
+  tu: hayas residido
+  vos: hayas residido
+  ud: haya residido
+  nosotros: hayamos residido
+  vosotros: hayáis residido
+  uds: hayan residido
+imperfecto-subjuntivo:
+  yo:
+    - residiera
+    - residiese
+  tu:
+    - residieras
+    - residieses
+  vos:
+    - residieras
+    - residieses
+  ud:
+    - residiera
+    - residiese
+  nosotros:
+    - residieramos
+    - residiésemos
+  vosotros:
+    - residierais
+    - residieseis
+  uds:
+    - residieran
+    - residiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera residido
+    - hubiese residido
+  tu:
+    - hubieras residido
+    - hubieses residido
+  vos:
+    - hubieras residido
+    - hubieses residido
+  ud:
+    - hubiera residido
+    - hubiese residido
+  nosotros:
+    - hubiéramos residido
+    - hubiésemos residido
+  vosotros:
+    - hubierais residido
+    - hubieseis residido
+  uds:
+    - hubieran residido
+    - hubiesen residido
+imperativo:
+  tu: reside
+  vos: residi
+  ud: resida
+  nosotros: residamos
+  vosotros: residid
+  uds: residan

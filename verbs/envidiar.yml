@@ -1,0 +1,142 @@
+infinitivo: envidiar
+gerundio: envidiando
+participio-pasado: envidiado
+presente-indicativo:
+  yo: envidio
+  tu: envidias
+  vos: envidias
+  ud: envidia
+  nosotros: envidiamos
+  vosotros: envidiáis
+  uds: envidian
+preterito-perfecto-simple:
+  yo: envidié
+  tu: envidiaste
+  vos: envidiaste
+  ud: envidió
+  nosotros: envidiamos
+  vosotros: envidiasteis
+  uds: envidiaron
+preterito-imperfecto:
+  yo: envidiaba
+  tu: envidiabas
+  vos: envidiabas
+  ud: envidiaba
+  nosotros: envidiábamos
+  vosotros: envidiabais
+  uds: envidiaban
+futuro-simple:
+  yo: envidiaré
+  tu: envidiarás
+  vos: envidiarás
+  ud: envidiará
+  nosotros: envidiaremos
+  vosotros: envidiaréis
+  uds: envidiarán
+condicional-simple:
+  yo: envidiaría
+  tu: envidiarías
+  vos: envidiarías
+  ud: envidiaría
+  nosotros: envidiaríamos
+  vosotros: envidiaríais
+  uds: envidiarían
+presente-perfecto:
+  yo: he envidiado
+  tu: has envidiado
+  vos: has envidiado
+  ud: ha envidiado
+  nosotros: hemos envidiado
+  vosotros: habéis envidiado
+  uds: han envidiado
+preterito-pluscuamperfecto:
+  yo: había envidiado
+  tu: habías envidiado
+  vos: habías envidiado
+  ud: había envidiado
+  nosotros: habíamos envidiado
+  vosotros: habíais envidiado
+  uds: habían envidiado
+futuro-perfecto:
+  yo: habré envidiado
+  tu: habrás envidiado
+  vos: habrás envidiado
+  ud: habrá envidiado
+  nosotros: habremos envidiado
+  vosotros: habréis envidiado
+  uds: habrán envidiado
+condicional-perfecto:
+  yo: habría envidiado
+  tu: habrías envidiado
+  vos: habrías envidiado
+  ud: habría envidiado
+  nosotros: habríamos envidiado
+  vosotros: habríais envidiado
+  uds: habrían envidiado
+presente-subjuntivo:
+  yo: envidie
+  tu: envidies
+  vos: envidies
+  ud: envidie
+  nosotros: envidiemos
+  vosotros: envidiéis
+  uds: envidien
+preterito-perfecto-subjuntivo:
+  yo: haya envidiado
+  tu: hayas envidiado
+  vos: hayas envidiado
+  ud: haya envidiado
+  nosotros: hayamos envidiado
+  vosotros: hayáis envidiado
+  uds: hayan envidiado
+imperfecto-subjuntivo:
+  yo:
+    - envidiara
+    - envidiase
+  tu:
+    - envidiaras
+    - envidiases
+  vos:
+    - envidiaras
+    - envidiases
+  ud:
+    - envidiara
+    - envidiase
+  nosotros:
+    - envidiáramos
+    - envidiásemos
+  vosotros:
+    - envidiarais
+    - envidiaseis
+  uds:
+    - envidiaran
+    - envidiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera envidiado
+    - hubiese envidiado
+  tu:
+    - hubieras envidiado
+    - hubieses envidiado
+  vos:
+    - hubieras envidiado
+    - hubieses envidiado
+  ud:
+    - hubiera envidiado
+    - hubiese envidiado
+  nosotros:
+    - hubiéramos envidiado
+    - hubiésemos envidiado
+  vosotros:
+    - hubierais envidiado
+    - hubieseis envidiado
+  uds:
+    - hubieran envidiado
+    - hubiesen envidiado
+imperativo:
+  tu: envidia
+  vos: envidiá
+  ud: envidie
+  nosotros: envidiemos
+  vosotros: envidiad
+  uds: envidien

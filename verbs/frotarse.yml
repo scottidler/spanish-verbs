@@ -1,0 +1,156 @@
+infinitivo: frotarse
+gerundio: frotándose
+participio-pasado: frotado
+
+presente-indicativo:
+  yo: me froto
+  tu: te frotas
+  vos: te frotás
+  ud: se frota
+  nosotros: nos frotamos
+  vosotros: os frotáis
+  uds: se frotan
+
+preterito-perfecto-simple:
+  yo: me froté
+  tu: te frotaste
+  vos: te frotaste
+  ud: se frotó
+  nosotros: nos frotamos
+  vosotros: os frotasteis
+  uds: se frotaron
+
+preterito-imperfecto:
+  yo: me frotaba
+  tu: te frotabas
+  vos: te frotabas
+  ud: se frotaba
+  nosotros: nos frotábamos
+  vosotros: os frotabais
+  uds: se frotaban
+
+futuro-simple:
+  yo: me frotaré
+  tu: te frotarás
+  vos: te frotarás
+  ud: se frotará
+  nosotros: nos frotaremos
+  vosotros: os frotaréis
+  uds: se frotarán
+
+condicional-simple:
+  yo: me frotaría
+  tu: te frotarías
+  vos: te frotarías
+  ud: se frotaría
+  nosotros: nos frotaríamos
+  vosotros: os frotaríais
+  uds: se frotarían
+
+presente-perfecto:
+  yo: me he frotado
+  tu: te has frotado
+  vos: te has frotado
+  ud: se ha frotado
+  nosotros: nos hemos frotado
+  vosotros: os habéis frotado
+  uds: se han frotado
+
+preterito-pluscuamperfecto:
+  yo: me había frotado
+  tu: te habías frotado
+  vos: te habías frotado
+  ud: se había frotado
+  nosotros: nos habíamos frotado
+  vosotros: os habíais frotado
+  uds: se habían frotado
+
+futuro-perfecto:
+  yo: me habré frotado
+  tu: te habrás frotado
+  vos: te habrás frotado
+  ud: se habrá frotado
+  nosotros: nos habremos frotado
+  vosotros: os habréis frotado
+  uds: se habrán frotado
+
+condicional-perfecto:
+  yo: me habría frotado
+  tu: te habrías frotado
+  vos: te habrías frotado
+  ud: se habría frotado
+  nosotros: nos habríamos frotado
+  vosotros: os habríais frotado
+  uds: se habrían frotado
+
+presente-subjuntivo:
+  yo: me froto
+  tu: te frotes
+  vos: te frotés
+  ud: se frote
+  nosotros: nos frotemos
+  vosotros: os froteis
+  uds: se froten
+
+preterito-perfecto-subjuntivo:
+  yo: me haya frotado
+  tu: te hayas frotado
+  vos: te hayas frotado
+  ud: se haya frotado
+  nosotros: nos hayamos frotado
+  vosotros: os hayáis frotado
+  uds: se hayan frotado
+
+imperfecto-subjuntivo:
+  yo:
+    - me frotara
+    - me frotase
+  tu:
+    - te frotaras
+    - te frotases
+  vos:
+    - te frotaras
+    - te frotases
+  ud:
+    - se frotara
+    - se frotase
+  nosotros:
+    - nos frotáramos
+    - nos frotásemos
+  vosotros:
+    - os frotarais
+    - os frotaseis
+  uds:
+    - se frotaran
+    - se frotasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera frotado
+    - me hubiese frotado
+  tu:
+    - te hubieras frotado
+    - te hubieses frotado
+  vos:
+    - te hubieras frotado
+    - te hubieses frotado
+  ud:
+    - se hubiera frotado
+    - se hubiese frotado
+  nosotros:
+    - nos hubiéramos frotado
+    - nos hubiésemos frotado
+  vosotros:
+    - os hubierais frotado
+    - os hubieseis frotado
+  uds:
+    - se hubieran frotado
+    - se hubiesen frotado
+
+imperativo:
+  tu: frótate
+  vos: frotate
+  ud: frótese
+  nosotros: frotémonos
+  vosotros: frotad
+  uds: frótese

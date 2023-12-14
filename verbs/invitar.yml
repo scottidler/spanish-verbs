@@ -1,0 +1,142 @@
+infinitivo: invitar
+gerundio: invitando
+participio-pasado: invitado
+presente-indicativo:
+  yo: invito
+  tu: invitas
+  vos: invitas
+  ud: invita
+  nosotros: invitamos
+  vosotros: invitáis
+  uds: invitan
+preterito-perfecto-simple:
+  yo: invité
+  tu: invitaste
+  vos: invitaste
+  ud: invitó
+  nosotros: invitamos
+  vosotros: invitasteis
+  uds: invitaron
+preterito-imperfecto:
+  yo: invitaba
+  tu: invitabas
+  vos: invitabas
+  ud: invitaba
+  nosotros: invitábamos
+  vosotros: invitabais
+  uds: invitaban
+futuro-simple:
+  yo: invitaré
+  tu: invitarás
+  vos: invitarás
+  ud: invitará
+  nosotros: invitaremos
+  vosotros: invitaréis
+  uds: invitarán
+condicional-simple:
+  yo: invitaría
+  tu: invitarías
+  vos: invitarías
+  ud: invitaría
+  nosotros: invitaríamos
+  vosotros: invitaríais
+  uds: invitarían
+presente-perfecto:
+  yo: he invitado
+  tu: has invitado
+  vos: has invitado
+  ud: ha invitado
+  nosotros: hemos invitado
+  vosotros: habéis invitado
+  uds: han invitado
+preterito-pluscuamperfecto:
+  yo: había invitado
+  tu: habías invitado
+  vos: habías invitado
+  ud: había invitado
+  nosotros: habíamos invitado
+  vosotros: habíais invitado
+  uds: habían invitado
+futuro-perfecto:
+  yo: habré invitado
+  tu: habrás invitado
+  vos: habrás invitado
+  ud: habrá invitado
+  nosotros: habremos invitado
+  vosotros: habréis invitado
+  uds: habrán invitado
+condicional-perfecto:
+  yo: habría invitado
+  tu: habrías invitado
+  vos: habrías invitado
+  ud: habría invitado
+  nosotros: habríamos invitado
+  vosotros: habríais invitado
+  uds: habrían invitado
+presente-subjuntivo:
+  yo: invite
+  tu: invites
+  vos: invites
+  ud: invite
+  nosotros: invitemos
+  vosotros: invitéis
+  uds: inviten
+preterito-perfecto-subjuntivo:
+  yo: haya invitado
+  tu: hayas invitado
+  vos: hayas invitado
+  ud: haya invitado
+  nosotros: hayamos invitado
+  vosotros: hayáis invitado
+  uds: hayan invitado
+imperfecto-subjuntivo:
+  yo:
+    - invitara
+    - invitase
+  tu:
+    - invitaras
+    - invitases
+  vos:
+    - invitaras
+    - invitases
+  ud:
+    - invitara
+    - invitase
+  nosotros:
+    - invitáramos
+    - invitásemos
+  vosotros:
+    - invitarais
+    - invitaseis
+  uds:
+    - invitaran
+    - invitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera invitado
+    - hubiese invitado
+  tu:
+    - hubieras invitado
+    - hubieses invitado
+  vos:
+    - hubieras invitado
+    - hubieses invitado
+  ud:
+    - hubiera invitado
+    - hubiese invitado
+  nosotros:
+    - hubiéramos invitado
+    - hubiésemos invitado
+  vosotros:
+    - hubierais invitado
+    - hubieseis invitado
+  uds:
+    - hubieran invitado
+    - hubiesen invitado
+imperativo:
+  tu: invita
+  vos: invitá
+  ud: invite
+  nosotros: invitemos
+  vosotros: invitad
+  uds: inviten

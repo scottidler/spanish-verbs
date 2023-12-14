@@ -1,0 +1,142 @@
+infinitivo: parlotear
+gerundio: parlotteando
+participio-pasado: parlotado
+presente-indicativo:
+  yo: parlotéo
+  tu: parloteas
+  vos: parloteas
+  ud: parlotea
+  nosotros: parloteamos
+  vosotros: parloteáis
+  uds: parlotean
+preterito-perfecto-simple:
+  yo: parloteé
+  tu: parloteaste
+  vos: parloteaste
+  ud: parloteó
+  nosotros: parloteamos
+  vosotros: parloteasteis
+  uds: parlotearon
+preterito-imperfecto:
+  yo: parloteaba
+  tu: parloteabas
+  vos: parloteabas
+  ud: parloteaba
+  nosotros: parloteábamos
+  vosotros: parloteabais
+  uds: parloteaban
+futuro-simple:
+  yo: parlotearé
+  tu: parlotearás
+  vos: parlotearás
+  ud: parloteará
+  nosotros: parlotearemos
+  vosotros: parlotearéis
+  uds: parlotearán
+condicional-simple:
+  yo: parlotearía
+  tu: parlotearías
+  vos: parlotearías
+  ud: parlotearía
+  nosotros: parlotearíamos
+  vosotros: parlotearíais
+  uds: parlotearían
+presente-perfecto:
+  yo: he parloteado
+  tu: has parloteado
+  vos: has parloteado
+  ud: ha parloteado
+  nosotros: hemos parloteado
+  vosotros: habéis parloteado
+  uds: han parloteado
+preterito-pluscuamperfecto:
+  yo: había parloteado
+  tu: habías parloteado
+  vos: habías parloteado
+  ud: había parloteado
+  nosotros: habíamos parloteado
+  vosotros: habíais parloteado
+  uds: habían parloteado
+futuro-perfecto:
+  yo: habré parloteado
+  tu: habrás parloteado
+  vos: habrás parloteado
+  ud: habrá parloteado
+  nosotros: habremos parloteado
+  vosotros: habréis parloteado
+  uds: habrán parloteado
+condicional-perfecto:
+  yo: habría parloteado
+  tu: habrías parloteado
+  vos: habrías parloteado
+  ud: habría parloteado
+  nosotros: habríamos parloteado
+  vosotros: habríais parloteado
+  uds: habrían parloteado
+presente-subjuntivo:
+  yo: parlotée
+  tu: parlotees
+  vos: parlotees
+  ud: parlotée
+  nosotros: parlotéemos
+  vosotros: parloteéis
+  uds: parloteen
+preterito-perfecto-subjuntivo:
+  yo: haya parloteado
+  tu: hayas parloteado
+  vos: hayas parloteado
+  ud: haya parloteado
+  nosotros: hayamos parloteado
+  vosotros: hayáis parloteado
+  uds: hayan parloteado
+imperfecto-subjuntivo:
+  yo:
+    - parloteara
+    - parloteara
+  tu:
+    - parlotearas
+    - parlotearas
+  vos:
+    - parlotearas
+    - parlotearas
+  ud:
+    - parloteara
+    - parloteara
+  nosotros:
+    - parloteáramos
+    - parlotéramos
+  vosotros:
+    - parlotearais
+    - parlotearais
+  uds:
+    - parlotearan
+    - parlotearan
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera parloteado
+    - hubiese parloteado
+  tu:
+    - hubieras parloteado
+    - hubieses parloteado
+  vos:
+    - hubieras parloteado
+    - hubieses parloteado
+  ud:
+    - hubiera parloteado
+    - hubiese parloteado
+  nosotros:
+    - hubiéramos parloteado
+    - hubiésemos parloteado
+  vosotros:
+    - hubierais parloteado
+    - hubieseis parloteado
+  uds:
+    - hubieran parloteado
+    - hubiesen parloteado
+imperativo:
+  tu: parlotea
+  vos: parloteá
+  ud: parlotee
+  nosotros: parlotéemos
+  vosotros: parlotead
+  uds: parloteen

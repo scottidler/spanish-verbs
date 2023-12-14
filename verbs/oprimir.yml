@@ -1,0 +1,142 @@
+infinitivo: oprimir
+gerundio: oprimiendo
+participio-pasado: oprimido
+presente-indicativo:
+  yo: oprimo
+  tu: oprimas
+  vos: oprimas
+  ud: oprime
+  nosotros: oprimimos
+  vosotros: oprimís
+  uds: oprimen
+preterito-perfecto-simple:
+  yo: oprimí
+  tu: oprimiste
+  vos: oprimiste
+  ud: oprimió
+  nosotros: oprimimos
+  vosotros: oprimisteis
+  uds: oprimieron
+preterito-imperfecto:
+  yo: oprimía
+  tu: oprimías
+  vos: oprimías
+  ud: oprimía
+  nosotros: oprimíamos
+  vosotros: oprimíais
+  uds: oprimían
+futuro-simple:
+  yo: oprimiré
+  tu: oprimirás
+  vos: oprimirás
+  ud: oprimirá
+  nosotros: oprimiremos
+  vosotros: oprimiréis
+  uds: oprimirán
+condicional-simple:
+  yo: oprimiría
+  tu: oprimirías
+  vos: oprimirías
+  ud: oprimiría
+  nosotros: oprimiríamos
+  vosotros: oprimiríais
+  uds: oprimirían
+presente-perfecto:
+  yo: he oprimido
+  tu: has oprimido
+  vos: has oprimido
+  ud: ha oprimido
+  nosotros: hemos oprimido
+  vosotros: habéis oprimido
+  uds: han oprimido
+preterito-pluscuamperfecto:
+  yo: había oprimido
+  tu: habías oprimido
+  vos: habías oprimido
+  ud: había oprimido
+  nosotros: habíamos oprimido
+  vosotros: habíais oprimido
+  uds: habían oprimido
+futuro-perfecto:
+  yo: habré oprimido
+  tu: habrás oprimido
+  vos: habrás oprimido
+  ud: habrá oprimido
+  nosotros: habremos oprimido
+  vosotros: habréis oprimido
+  uds: habrán oprimido
+condicional-perfecto:
+  yo: habría oprimido
+  tu: habrías oprimido
+  vos: habrías oprimido
+  ud: habría oprimido
+  nosotros: habríamos oprimido
+  vosotros: habríais oprimido
+  uds: habrían oprimido
+presente-subjuntivo:
+  yo: oprima
+  tu: oprimas
+  vos: oprimas
+  ud: oprima
+  nosotros: oprimamos
+  vosotros: oprimáis
+  uds: opriman
+preterito-perfecto-subjuntivo:
+  yo: haya oprimido
+  tu: hayas oprimido
+  vos: hayas oprimido
+  ud: haya oprimido
+  nosotros: hayamos oprimido
+  vosotros: hayáis oprimido
+  uds: hayan oprimido
+imperfecto-subjuntivo:
+  yo:
+    - oprimiera
+    - oprimiese
+  tu:
+    - oprimieras
+    - oprimieses
+  vos:
+    - oprimieras
+    - oprimieses
+  ud:
+    - oprimiera
+    - oprimiese
+  nosotros:
+    - oprimiéramos
+    - oprimiésemos
+  vosotros:
+    - oprimierais
+    - oprimieseis
+  uds:
+    - oprimieran
+    - oprimiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera oprimido
+    - hubiese oprimido
+  tu:
+    - hubieras oprimido
+    - hubieses oprimido
+  vos:
+    - hubieras oprimido
+    - hubieses oprimido
+  ud:
+    - hubiera oprimido
+    - hubiese oprimido
+  nosotros:
+    - hubiéramos oprimido
+    - hubiésemos oprimido
+  vosotros:
+    - hubierais oprimido
+    - hubieseis oprimido
+  uds:
+    - hubieran oprimido
+    - hubiesen oprimido
+imperativo:
+  tu: oprime
+  vos: oprime
+  ud: oprima
+  nosotros: oprimamos
+  vosotros: oprimid
+  uds: opriman

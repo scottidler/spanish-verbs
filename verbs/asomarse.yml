@@ -1,0 +1,142 @@
+infinitivo: asomarse
+gerundio: asomándose
+participio-pasado: asomado
+presente-indicativo:
+  yo: me asomo
+  tu: te asomas
+  vos: te asomás
+  ud: se asoma
+  nosotros: nos asomamos
+  vosotros: os asomáis
+  uds: se asoman
+preterito-perfecto-simple:
+  yo: me asomé
+  tu: te asomaste
+  vos: te asomaste
+  ud: se asomó
+  nosotros: nos asomamos
+  vosotros: os asomasteis
+  uds: se asomaron
+preterito-imperfecto:
+  yo: me asomaba
+  tu: te asomabas
+  vos: te asomabas
+  ud: se asomaba
+  nosotros: nos asomábamos
+  vosotros: os asomabais
+  uds: se asomaban
+futuro-simple:
+  yo: me asomaré
+  tu: te asomarás
+  vos: te asomarás
+  ud: se asomará
+  nosotros: nos asomaremos
+  vosotros: os asomaréis
+  uds: se asomarán
+condicional-simple:
+  yo: me asomaría
+  tu: te asomarías
+  vos: te asomarías
+  ud: se asomaría
+  nosotros: nos asomaríamos
+  vosotros: os asomaríais
+  uds: se asomarían
+presente-perfecto:
+  yo: me he asomado
+  tu: te has asomado
+  vos: te has asomado
+  ud: se ha asomado
+  nosotros: nos hemos asomado
+  vosotros: os habéis asomado
+  uds: se han asomado
+preterito-pluscuamperfecto:
+  yo: me había asomado
+  tu: te habías asomado
+  vos: te habías asomado
+  ud: se había asomado
+  nosotros: nos habíamos asomado
+  vosotros: os habíais asomado
+  uds: se habían asomado
+futuro-perfecto:
+  yo: me habré asomado
+  tu: te habrás asomado
+  vos: te habrás asomado
+  ud: se habrá asomado
+  nosotros: nos habremos asomado
+  vosotros: os habréis asomado
+  uds: se habrán asomado
+condicional-perfecto:
+  yo: me habría asomado
+  tu: te habrías asomado
+  vos: te habrías asomado
+  ud: se habría asomado
+  nosotros: nos habríamos asomado
+  vosotros: os habríais asomado
+  uds: se habrían asomado
+presente-subjuntivo:
+  yo: me asome
+  tu: te asomes
+  vos: te asomes
+  ud: se asome
+  nosotros: nos asomemos
+  vosotros: os asoméis
+  uds: se asomen
+preterito-perfecto-subjuntivo:
+  yo: me haya asomado
+  tu: te hayas asomado
+  vos: te hayas asomado
+  ud: se haya asomado
+  nosotros: nos hayamos asomado
+  vosotros: os hayáis asomado
+  uds: se hayan asomado
+imperfecto-subjuntivo:
+  yo:
+    - me asomara
+    - me asomase
+  tu:
+    - te asomaras
+    - te asomases
+  vos:
+    - te asomaras
+    - te asomases
+  ud:
+    - se asomara
+    - se asomase
+  nosotros:
+    - nos asomáramos
+    - nos asomásemos
+  vosotros:
+    - os asomarais
+    - os asomaseis
+  uds:
+    - se asomaran
+    - se asomasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera asomado
+    - me hubiese asomado
+  tu:
+    - te hubieras asomado
+    - te hubieses asomado
+  vos:
+    - te hubieras asomado
+    - te hubieses asomado
+  ud:
+    - se hubiera asomado
+    - se hubiese asomado
+  nosotros:
+    - nos hubiéramos asomado
+    - nos hubiésemos asomado
+  vosotros:
+    - os hubierais asomado
+    - os hubieseis asomado
+  uds:
+    - se hubieran asomado
+    - se hubiesen asomado
+imperativo:
+  tu: asómate
+  vos: asomate
+  ud: asómese
+  nosotros: asomémonos
+  vosotros: asomaos
+  uds: asómense

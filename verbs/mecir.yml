@@ -1,0 +1,142 @@
+infinitivo: mecer
+gerundio: meciendo
+participio-pasado: mecido
+presente-indicativo:
+  yo: mezo
+  tu: meces
+  vos: meces
+  ud: mece
+  nosotros: mecemos
+  vosotros: mecéis
+  uds: mecen
+preterito-perfecto-simple:
+  yo: mecí
+  tu: meciste
+  vos: meciste
+  ud: meció
+  nosotros: mecimos
+  vosotros: mecisteis
+  uds: meciendo
+preterito-imperfecto:
+  yo: mecía
+  tu: mecías
+  vos: mecías
+  ud: mecía
+  nosotros: mecíamos
+  vosotros: mecíais
+  uds: meían
+futuro-simple:
+  yo: meceré
+  tu: mecerás
+  vos: mecerás
+  ud: mecerá
+  nosotros: meceremos
+  vosotros: meceréis
+  uds: mecerán
+condicional-simple:
+  yo: mecería
+  tu: mecerías
+  vos: mecerías
+  ud: mecería
+  nosotros: meceríamos
+  vosotros: meceríais
+  uds: mecerían
+presente-perfecto:
+  yo: he mecido
+  tu: has mecido
+  vos: has mecido
+  ud: ha mecido
+  nosotros: hemos mecido
+  vosotros: habéis mecido
+  uds: han mecido
+preterito-pluscuamperfecto:
+  yo: había mecido
+  tu: habías mecido
+  vos: habías mecido
+  ud: había mecido
+  nosotros: habíamos mecido
+  vosotros: habíais mecido
+  uds: habían mecido
+futuro-perfecto:
+  yo: habré mecido
+  tu: habrás mecido
+  vos: habrás mecido
+  ud: habrá mecido
+  nosotros: habremos mecido
+  vosotros: habréis mecido
+  uds: habrán mecido
+condicional-perfecto:
+  yo: habría mecido
+  tu: habrías mecido
+  vos: habrías mecido
+  ud: habría mecido
+  nosotros: habríamos mecido
+  vosotros: habríais mecido
+  uds: habrían mecido
+presente-subjuntivo:
+  yo: meza
+  tu: mezas
+  vos: mezas
+  ud: meza
+  nosotros: mezamos
+  vosotros: mezcáis
+  uds: mezan
+preterito-perfecto-subjuntivo:
+  yo: haya mecido
+  tu: hayas mecido
+  vos: hayas mecido
+  ud: haya mecido
+  nosotros: hayamos mecido
+  vosotros: hayáis mecido
+  uds: hayan mecido
+imperfecto-subjuntivo:
+  yo:
+    - meciera
+    - meciese
+  tu:
+    - mecieras
+    - mecieses
+  vos:
+    - mecieras
+    - mecieses
+  ud:
+    - meciera
+    - meciese
+  nosotros:
+    - meciéramos
+    - meciésemos
+  vosotros:
+    - mecierais
+    - mecieseis
+  uds:
+    - mecieran
+    - meciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mecido
+    - hubiese mecido
+  tu:
+    - hubieras mecido
+    - hubieses mecido
+  vos:
+    - hubieras mecido
+    - hubieses mecido
+  ud:
+    - hubiera mecido
+    - hubiese mecido
+  nosotros:
+    - hubiéramos mecido
+    - hubiésemos mecido
+  vosotros:
+    - hubierais mecido
+    - hubieseis mecido
+  uds:
+    - hubieran mecido
+    - hubiesen mecido
+imperativo:
+  tu: mece
+  vos: mezca
+  ud: meza
+  nosotros: mezamos
+  vosotros: mesed
+  uds: mezan

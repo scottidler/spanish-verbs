@@ -1,0 +1,142 @@
+infinitivo: venger
+gerundio: vengiendo
+participio-pasado: vengido
+presente-indicativo:
+  yo: vengo
+  tu: vienes
+  vos: vienes
+  ud: viene
+  nosotros: venimos
+  vosotros: venís
+  uds: vienen
+preterito-perfecto-simple:
+  yo: vine
+  tu: viniste
+  vos: viniste
+  ud: vino
+  nosotros: vinimos
+  vosotros: vinisteis
+  uds: vinieron
+preterito-imperfecto:
+  yo: venía
+  tu: venías
+  vos: venías
+  ud: venía
+  nosotros: veníamos
+  vosotros: veníais
+  uds: venían
+futuro-simple:
+  yo: vendré
+  tu: vendrás
+  vos: vendrás
+  ud: vendrá
+  nosotros: vendremos
+  vosotros: vendréis
+  uds: vendrán
+condicional-simple:
+  yo: vendría
+  tu: vendrías
+  vos: vendrías
+  ud: vendría
+  nosotros: vendríamos
+  vosotros: vendríais
+  uds: vendrían
+presente-perfecto:
+  yo: he venido
+  tu: has venido
+  vos: has venido
+  ud: ha venido
+  nosotros: hemos venido
+  vosotros: habéis venido
+  uds: han venido
+preterito-pluscuamperfecto:
+  yo: había venido
+  tu: habías venido
+  vos: habías venido
+  ud: había venido
+  nosotros: habíamos venido
+  vosotros: habíais venido
+  uds: habían venido
+futuro-perfecto:
+  yo: habré venido
+  tu: habrás venido
+  vos: habrás venido
+  ud: habrá venido
+  nosotros: habremos venido
+  vosotros: habréis venido
+  uds: habrán venido
+condicional-perfecto:
+  yo: habría venido
+  tu: habrías venido
+  vos: habrías venido
+  ud: habría venido
+  nosotros: habríamos venido
+  vosotros: habríais venido
+  uds: habrían venido
+presente-subjuntivo:
+  yo: venga
+  tu: vengas
+  vos: vengas
+  ud: venga
+  nosotros: vengamos
+  vosotros: vengáis
+  uds: vengan
+preterito-perfecto-subjuntivo:
+  yo: haya venido
+  tu: hayas venido
+  vos: hayas venido
+  ud: haya venido
+  nosotros: hayamos venido
+  vosotros: hayáis venido
+  uds: hayan venido
+imperfecto-subjuntivo:
+  yo:
+    - viniera
+    - viniese
+  tu:
+    - vinieras
+    - vinieses
+  vos:
+    - vinieras
+    - vinieses
+  ud:
+    - viniera
+    - viniese
+  nosotros:
+    - viniéramos
+    - viniésemos
+  vosotros:
+    - vinierais
+    - vinieseis
+  uds:
+    - vinieran
+    - viniesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera venido
+    - hubiese venido
+  tu:
+    - hubieras venido
+    - hubieses venido
+  vos:
+    - hubieras venido
+    - hubieses venido
+  ud:
+    - hubiera venido
+    - hubiese venido
+  nosotros:
+    - hubiéramos venido
+    - hubiésemos venido
+  vosotros:
+    - hubierais venido
+    - hubieseis venido
+  uds:
+    - hubieran venido
+    - hubiesen venido
+imperativo:
+  tu: ven
+  vos: vení
+  ud: venga
+  nosotros: vengamos
+  vosotros: venid
+  uds: vengan

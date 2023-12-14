@@ -1,0 +1,142 @@
+infinitivo: herir
+gerundio: hiriendo
+participio-pasado: herido
+presente-indicativo:
+  yo: hiero
+  tu: hieres
+  vos: hieres
+  ud: hiere
+  nosotros: herimos
+  vosotros: herís
+  uds: hieren
+preterito-perfecto-simple:
+  yo: herí
+  tu: heriste
+  vos: heriste
+  ud: hirió
+  nosotros: herimos
+  vosotros: heristeis
+  uds: hirieron
+preterito-imperfecto:
+  yo: hería
+  tu: herías
+  vos: herías
+  ud: hería
+  nosotros: heríamos
+  vosotros: heríais
+  uds: herían
+futuro-simple:
+  yo: heriré
+  tu: herirás
+  vos: herirás
+  ud: herirá
+  nosotros: heriremos
+  vosotros: heriréis
+  uds: herirán
+condicional-simple:
+  yo: heriría
+  tu: herirías
+  vos: herirías
+  ud: heriría
+  nosotros: heriríamos
+  vosotros: heriríais
+  uds: herirían
+presente-perfecto:
+  yo: he herido
+  tu: has herido
+  vos: has herido
+  ud: ha herido
+  nosotros: hemos herido
+  vosotros: habéis herido
+  uds: han herido
+preterito-pluscuamperfecto:
+  yo: había herido
+  tu: habías herido
+  vos: habías herido
+  ud: había herido
+  nosotros: habíamos herido
+  vosotros: habíais herido
+  uds: habían herido
+futuro-perfecto:
+  yo: habré herido
+  tu: habrás herido
+  vos: habrás herido
+  ud: habrá herido
+  nosotros: habremos herido
+  vosotros: habréis herido
+  uds: habrán herido
+condicional-perfecto:
+  yo: habría herido
+  tu: habrías herido
+  vos: habrías herido
+  ud: habría herido
+  nosotros: habríamos herido
+  vosotros: habríais herido
+  uds: habrían herido
+presente-subjuntivo:
+  yo: hiera
+  tu: hieras
+  vos: hieras
+  ud: hiera
+  nosotros: hiramos
+  vosotros: hiráis
+  uds: hieran
+preterito-perfecto-subjuntivo:
+  yo: haya herido
+  tu: hayas herido
+  vos: hayas herido
+  ud: haya herido
+  nosotros: hayamos herido
+  vosotros: hayáis herido
+  uds: hayan herido
+imperfecto-subjuntivo:
+  yo:
+    - hiriera
+    - hiriese
+  tu:
+    - hieras
+    - hirieses
+  vos:
+    - hieras
+    - hirieses
+  ud:
+    - hiriera
+    - hiriese
+  nosotros:
+    - hiriéramos
+    - hiriésemos
+  vosotros:
+    - hirierais
+    - hirieseis
+  uds:
+    - hirieran
+    - hiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera herido
+    - hubiese herido
+  tu:
+    - hubieras herido
+    - hubieses herido
+  vos:
+    - hubieras herido
+    - hubieses herido
+  ud:
+    - hubiera herido
+    - hubiese herido
+  nosotros:
+    - hubiéramos herido
+    - hubiésemos herido
+  vosotros:
+    - hubierais herido
+    - hubieseis herido
+  uds:
+    - hubieran herido
+    - hubiesen herido
+imperativo:
+  tu: hiere
+  vos: hierí
+  ud: hiere
+  nosotros: hiramos
+  vosotros: herid
+  uds: hieran

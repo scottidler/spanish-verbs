@@ -1,0 +1,142 @@
+infinitivo: diferenciar
+gerundio: diferenciando
+participio-pasado: diferenciado
+presente-indicativo:
+  yo: diferencio
+  tu: diferencias
+  vos: diferencias
+  ud: diferencia
+  nosotros: diferenciamos
+  vosotros: diferenciáis
+  uds: diferencian
+preterito-perfecto-simple:
+  yo: diferencié
+  tu: diferenciaste
+  vos: diferenciaste
+  ud: diferenció
+  nosotros: diferenciamos
+  vosotros: diferenciasteis
+  uds: diferenciaron
+preterito-imperfecto:
+  yo: diferenciaba
+  tu: diferenciabas
+  vos: diferenciabas
+  ud: diferenciaba
+  nosotros: diferenciábamos
+  vosotros: diferenciabais
+  uds: diferenciaban
+futuro-simple:
+  yo: diferenciaré
+  tu: diferenciarás
+  vos: diferenciarás
+  ud: diferenciará
+  nosotros: diferenciaremos
+  vosotros: diferenciaréis
+  uds: diferenciarán
+condicional-simple:
+  yo: diferenciaría
+  tu: diferenciarías
+  vos: diferenciarías
+  ud: diferenciaría
+  nosotros: diferenciaríamos
+  vosotros: diferenciaríais
+  uds: diferenciarían
+presente-perfecto:
+  yo: he diferenciado
+  tu: has diferenciado
+  vos: has diferenciado
+  ud: ha diferenciado
+  nosotros: hemos diferenciado
+  vosotros: habéis diferenciado
+  uds: han diferenciado
+preterito-pluscuamperfecto:
+  yo: había diferenciado
+  tu: habías diferenciado
+  vos: habías diferenciado
+  ud: había diferenciado
+  nosotros: habíamos diferenciado
+  vosotros: habíais diferenciado
+  uds: habían diferenciado
+futuro-perfecto:
+  yo: habré diferenciado
+  tu: habrás diferenciado
+  vos: habrás diferenciado
+  ud: habrá diferenciado
+  nosotros: habremos diferenciado
+  vosotros: habréis diferenciado
+  uds: habrán diferenciado
+condicional-perfecto:
+  yo: habría diferenciado
+  tu: habrías diferenciado
+  vos: habrías diferenciado
+  ud: habría diferenciado
+  nosotros: habríamos diferenciado
+  vosotros: habríais diferenciado
+  uds: habrían diferenciado
+presente-subjuntivo:
+  yo: diferencie
+  tu: diferencies
+  vos: diferencies
+  ud: diferencie
+  nosotros: diferenciemos
+  vosotros: diferenciéis
+  uds: diferencien
+preterito-perfecto-subjuntivo:
+  yo: haya diferenciado
+  tu: hayas diferenciado
+  vos: hayas diferenciado
+  ud: haya diferenciado
+  nosotros: hayamos diferenciado
+  vosotros: hayáis diferenciado
+  uds: hayan diferenciado
+imperfecto-subjuntivo:
+  yo:
+    - diferenciara
+    - diferenciase
+  tu:
+    - diferenciaras
+    - diferenciases
+  vos:
+    - diferenciaras
+    - diferenciases
+  ud:
+    - diferenciara
+    - diferenciase
+  nosotros:
+    - diferenciáramos
+    - diferenciásemos
+  vosotros:
+    - diferenciarais
+    - diferenciaseis
+  uds:
+    - diferenciaran
+    - diferenciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera diferenciado
+    - hubiese diferenciado
+  tu:
+    - hubieras diferenciado
+    - hubieses diferenciado
+  vos:
+    - hubieras diferenciado
+    - hubieses diferenciado
+  ud:
+    - hubiera diferenciado
+    - hubiese diferenciado
+  nosotros:
+    - hubiéramos diferenciado
+    - hubiésemos diferenciado
+  vosotros:
+    - hubierais diferenciado
+    - hubieseis diferenciado
+  uds:
+    - hubieran diferenciado
+    - hubiesen diferenciado
+imperativo:
+  tu: diferencia
+  vos: diferenciá
+  ud: diferencie
+  nosotros: diferenciemos
+  vosotros: diferenciad
+  uds: diferencien

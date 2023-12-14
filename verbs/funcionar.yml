@@ -1,0 +1,142 @@
+infinitivo: funcionar
+gerundio: funcionando
+participio-pasado: funcionado
+presente-indicativo:
+  yo: funciono
+  tu: funcionas
+  vos: funcionás
+  ud: funciona
+  nosotros: funcionamos
+  vosotros: funcionáis
+  uds: funcionan
+preterito-perfecto-simple:
+  yo: funcioné
+  tu: funcionaste
+  vos: funcionaste
+  ud: funcionó
+  nosotros: funcionamos
+  vosotros: funcionasteis
+  uds: funcionaron
+preterito-imperfecto:
+  yo: funcionaba
+  tu: funcionabas
+  vos: funcionabas
+  ud: funcionaba
+  nosotros: funcionábamos
+  vosotros: funcionabais
+  uds: funcionaban
+futuro-simple:
+  yo: funcionaré
+  tu: funcionarás
+  vos: funcionarás
+  ud: funcionará
+  nosotros: funcionaremos
+  vosotros: funcionaréis
+  uds: funcionarán
+condicional-simple:
+  yo: funcionaría
+  tu: funcionarías
+  vos: funcionarías
+  ud: funcionaría
+  nosotros: funcionaríamos
+  vosotros: funcionaríais
+  uds: funcionarían
+presente-perfecto:
+  yo: he funcionado
+  tu: has funcionado
+  vos: has funcionado
+  ud: ha funcionado
+  nosotros: hemos funcionado
+  vosotros: habéis funcionado
+  uds: han funcionado
+preterito-pluscuamperfecto:
+  yo: había funcionado
+  tu: habías funcionado
+  vos: habías funcionado
+  ud: había funcionado
+  nosotros: habíamos funcionado
+  vosotros: habíais funcionado
+  uds: habían funcionado
+futuro-perfecto:
+  yo: habré funcionado
+  tu: habrás funcionado
+  vos: habrás funcionado
+  ud: habrá funcionado
+  nosotros: habremos funcionado
+  vosotros: habréis funcionado
+  uds: habrán funcionado
+condicional-perfecto:
+  yo: habría funcionado
+  tu: habrías funcionado
+  vos: habrías funcionado
+  ud: habría funcionado
+  nosotros: habríamos funcionado
+  vosotros: habríais funcionado
+  uds: habrían funcionado
+presente-subjuntivo:
+  yo: funcione
+  tu: funciones
+  vos: funciones
+  ud: funcione
+  nosotros: funcionemos
+  vosotros: funcionéis
+  uds: funcionen
+preterito-perfecto-subjuntivo:
+  yo: haya funcionado
+  tu: hayas funcionado
+  vos: hayas funcionado
+  ud: haya funcionado
+  nosotros: hayamos funcionado
+  vosotros: hayáis funcionado
+  uds: hayan funcionado
+imperfecto-subjuntivo:
+  yo:
+    - funcionara
+    - funcionase
+  tu:
+    - funcionaras
+    - funcionases
+  vos:
+    - funcionaras
+    - funcionases
+  ud:
+    - funcionara
+    - funcionase
+  nosotros:
+    - funcionáramos
+    - funcionásemos
+  vosotros:
+    - funcionarais
+    - funcionaseis
+  uds:
+    - funcionaran
+    - funcionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera funcionado
+    - hubiese funcionado
+  tu:
+    - hubieras funcionado
+    - hubieses funcionado
+  vos:
+    - hubieras funcionado
+    - hubieses funcionado
+  ud:
+    - hubiera funcionado
+    - hubiese funcionado
+  nosotros:
+    - hubiéramos funcionado
+    - hubiésemos funcionado
+  vosotros:
+    - hubierais funcionado
+    - hubieseis funcionado
+  uds:
+    - hubieran funcionado
+    - hubiesen funcionado
+imperativo:
+  tu: funciona
+  vos: funcioná
+  ud: funcione
+  nosotros: funcionemos
+  vosotros: funcionad
+  uds: funcionen

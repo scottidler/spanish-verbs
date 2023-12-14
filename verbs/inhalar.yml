@@ -1,0 +1,142 @@
+infinitivo: inhalar
+gerundio: inhalando
+participio-pasado: inhalado
+presente-indicativo:
+  yo: inhalo
+  tu: inhalas
+  vos: inhalas
+  ud: inhala
+  nosotros: inhalamos
+  vosotros: inhaláis
+  uds: inhalan
+preterito-perfecto-simple:
+  yo: inhalé
+  tu: inhalaste
+  vos: inhalaste
+  ud: inhaló
+  nosotros: inhalamos
+  vosotros: inhalasteis
+  uds: inhalaron
+preterito-imperfecto:
+  yo: inhalaba
+  tu: inhalabas
+  vos: inhalabas
+  ud: inhalaba
+  nosotros: inhalábamos
+  vosotros: inhalabais
+  uds: inhalaban
+futuro-simple:
+  yo: inhalaré
+  tu: inhalarás
+  vos: inhalarás
+  ud: inhalara
+  nosotros: inhalaremos
+  vosotros: inhalaréis
+  uds: inhalarán
+condicional-simple:
+  yo: inhalaría
+  tu: inhalarías
+  vos: inhalarías
+  ud: inhalaría
+  nosotros: inhalaríamos
+  vosotros: inhalaríais
+  uds: inhalarían
+presente-perfecto:
+  yo: he inhalado
+  tu: has inhalado
+  vos: has inhalado
+  ud: ha inhalado
+  nosotros: hemos inhalado
+  vosotros: habéis inhalado
+  uds: han inhalado
+preterito-pluscuamperfecto:
+  yo: había inhalado
+  tu: habías inhalado
+  vos: habías inhalado
+  ud: había inhalado
+  nosotros: habíamos inhalado
+  vosotros: habíais inhalado
+  uds: habían inhalado
+futuro-perfecto:
+  yo: habré inhalado
+  tu: habrás inhalado
+  vos: habrás inhalado
+  ud: habrá inhalado
+  nosotros: habremos inhalado
+  vosotros: habréis inhalado
+  uds: habrán inhalado
+condicional-perfecto:
+  yo: habría inhalado
+  tu: habrías inhalado
+  vos: habrías inhalado
+  ud: habría inhalado
+  nosotros: habríamos inhalado
+  vosotros: habríais inhalado
+  uds: habrían inhalado
+presente-subjuntivo:
+  yo: inhale
+  tu: inhales
+  vos: inhales
+  ud: inhale
+  nosotros: inhalamos
+  vosotros: inhaléis
+  uds: inhalen
+preterito-perfecto-subjuntivo:
+  yo: haya inhalado
+  tu: hayas inhalado
+  vos: hayas inhalado
+  ud: haya inhalado
+  nosotros: hayamos inhalado
+  vosotros: hayáis inhalado
+  uds: hayan inhalado
+imperfecto-subjuntivo:
+  yo:
+    - inhalara
+    - inhalase
+  tu:
+    - inhalaras
+    - inhalases
+  vos:
+    - inhalaras
+    - inhalases
+  ud:
+    - inhalara
+    - inhalase
+  nosotros:
+    - inhaláramos
+    - inhalásemos
+  vosotros:
+    - inhalarais
+    - inhalaseis
+  uds:
+    - inhalaran
+    - inhalasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera inhalado
+    - hubiese inhalado
+  tu:
+    - hubieras inhalado
+    - hubieses inhalado
+  vos:
+    - hubieras inhalado
+    - hubieses inhalado
+  ud:
+    - hubiera inhalado
+    - hubiese inhalado
+  nosotros:
+    - hubiéramos inhalado
+    - hubiésemos inhalado
+  vosotros:
+    - hubierais inhalado
+    - hubieseis inhalado
+  uds:
+    - hubieran inhalado
+    - hubiesen inhalado
+imperativo:
+  tu: inhala
+  vos: inhalá
+  ud: inhale
+  nosotros: inhalamos
+  vosotros: inhalad
+  uds: inhalen

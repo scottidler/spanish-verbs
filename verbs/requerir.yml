@@ -1,0 +1,142 @@
+infinitivo: requerir
+gerundio: requiriendo
+participio-pasado: requerido
+presente-indicativo:
+  yo: requiero
+  tu: requieres
+  vos: requieres
+  ud: requiere
+  nosotros: requerimos
+  vosotros: requerís
+  uds: requieren
+preterito-perfecto-simple:
+  yo: requerí
+  tu: requeriste
+  vos: requeriste
+  ud: requirió
+  nosotros: requerimos
+  vosotros: requeristeis
+  uds: requirieron
+preterito-imperfecto:
+  yo: requería
+  tu: requerías
+  vos: requerías
+  ud: requería
+  nosotros: requeríamos
+  vosotros: requeríais
+  uds: requerían
+futuro-simple:
+  yo: requeriré
+  tu: requerirás
+  vos: requerirás
+  ud: requerirá
+  nosotros: requeriremos
+  vosotros: requeriréis
+  uds: requerirán
+condicional-simple:
+  yo: requeriría
+  tu: requerirías
+  vos: requerirías
+  ud: requeriría
+  nosotros: requeriríamos
+  vosotros: requeriríais
+  uds: requerirían
+presente-perfecto:
+  yo: he requerido
+  tu: has requerido
+  vos: has requerido
+  ud: ha requerido
+  nosotros: hemos requerido
+  vosotros: habéis requerido
+  uds: han requerido
+preterito-pluscuamperfecto:
+  yo: había requerido
+  tu: habías requerido
+  vos: habías requerido
+  ud: había requerido
+  nosotros: habíamos requerido
+  vosotros: habíais requerido
+  uds: habían requerido
+futuro-perfecto:
+  yo: habré requerido
+  tu: habrás requerido
+  vos: habrás requerido
+  ud: habrá requerido
+  nosotros: habremos requerido
+  vosotros: habréis requerido
+  uds: habrán requerido
+condicional-perfecto:
+  yo: habría requerido
+  tu: habrías requerido
+  vos: habrías requerido
+  ud: habría requerido
+  nosotros: habríamos requerido
+  vosotros: habríais requerido
+  uds: habrían requerido
+presente-subjuntivo:
+  yo: requiera
+  tu: requieras
+  vos: requieras
+  ud: requiera
+  nosotros: requiramos
+  vosotros: requiráis
+  uds: requieran
+preterito-perfecto-subjuntivo:
+  yo: haya requerido
+  tu: hayas requerido
+  vos: hayas requerido
+  ud: haya requerido
+  nosotros: hayamos requerido
+  vosotros: hayáis requerido
+  uds: hayan requerido
+imperfecto-subjuntivo:
+  yo:
+    - requiriera
+    - requiriese
+  tu:
+    - requerieras
+    - requirieses
+  vos:
+    - requerieras
+    - requirieses
+  ud:
+    - requiriera
+    - requiriese
+  nosotros:
+    - requiriéramos
+    - requiriésemos
+  vosotros:
+    - requirierais
+    - requirieseis
+  uds:
+    - requirieran
+    - requiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera requerido
+    - hubiese requerido
+  tu:
+    - hubieras requerido
+    - hubieses requerido
+  vos:
+    - hubieras requerido
+    - hubieses requerido
+  ud:
+    - hubiera requerido
+    - hubiese requerido
+  nosotros:
+    - hubiéramos requerido
+    - hubiésemos requerido
+  vosotros:
+    - hubierais requerido
+    - hubieseis requerido
+  uds:
+    - hubieran requerido
+    - hubiesen requerido
+imperativo:
+  tu: requiere
+  vos: requerí
+  ud: requiera
+  nosotros: requiramos
+  vosotros: requered
+  uds: requieran

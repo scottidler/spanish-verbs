@@ -1,0 +1,142 @@
+infinitivo: déjalar
+gerundio: déjalando
+participio-pasado: déjalado
+presente-indicativo:
+  yo: déjalo
+  tu: déjalas
+  vos: déjalás
+  ud: déjala
+  nosotros: dejalamo
+  vosotros: déjalis
+  uds: déjalan
+preterito-perfecto-simple:
+  yo: dejalé
+  tu: dejalaste
+  vos: dejalaste
+  ud: dejaló
+  nosotros: dejalamos
+  vosotros: dejalasteis
+  uds: dejalaron
+preterito-imperfecto:
+  yo: dejalaba
+  tu: dejalabas
+  vos: dejalabas
+  ud: dejalaba
+  nosotros: dejalábamos
+  vosotros: dejalabais
+  uds: dejalaban
+futuro-simple:
+  yo: delaré
+  tu: delarás
+  vos: delarás
+  ud: delará
+  nosotros: delaremos
+  vosotros: delaréis
+  uds: delarán
+condicional-simple:
+  yo: delaría
+  tu: delarías
+  vos: delarías
+  ud: delaría
+  nosotros: delaríamos
+  vosotros: delaríais
+  uds: delarían
+presente-perfecto:
+  yo: he dejalado
+  tu: has dejalado
+  vos: has dejalado
+  ud: ha dejalado
+  nosotros: hemos dejalado
+  vosotros: habéis dejalado
+  uds: han dejalado
+preterito-pluscuamperfecto:
+  yo: había dejalado
+  tu: habías dejalado
+  vos: habías dejalado
+  ud: había dejalado
+  nosotros: habíamos dejalado
+  vosotros: habíais dejalado
+  uds: habían dejalado
+futuro-perfecto:
+  yo: habré dejalado
+  tu: habrás dejalado
+  vos: habrás dejalado
+  ud: habrá dejalado
+  nosotros: habremos dejalado
+  vosotros: habréis dejalado
+  uds: habrán dejalado
+condicional-perfecto:
+  yo: habría dejalado
+  tu: habrías dejalado
+  vos: habrías dejalado
+  ud: habría dejalado
+  nosotros: habríamos dejalado
+  vosotros: habríais dejalado
+  uds: habrían dejalado
+presente-subjuntivo:
+  yo: déjale
+  tu: déjales
+  vos: déjales
+  ud: déjale
+  nosotros: dejalemo
+  vosotros: déjaléis
+  uds: déjalen
+preterito-perfecto-subjuntivo:
+  yo: haya dejalado
+  tu: hayas dejalado
+  vos: hayas dejalado
+  ud: haya dejalado
+  nosotros: hayamos dejalado
+  vosotros: hayáis dejalado
+  uds: hayan dejalado
+imperfecto-subjuntivo:
+  yo:
+    - dejalara
+    - dejalase
+  tu:
+    - dejalara
+    - dejalases
+  vos:
+    - dejalara
+    - dejalases
+  ud:
+    - dejalara
+    - dejalase
+  nosotros:
+    - dejaláramos
+    - dejalásemos
+  vosotros:
+    - dejarais
+    - dejalaseis
+  uds:
+    - dejaran
+    - dejasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dejalado
+    - hubiese dejalado
+  tu:
+    - hubieras dejalado
+    - hubieses dejalado
+  vos:
+    - hubieras dejalado
+    - hubieses dejalado
+  ud:
+    - hubiera dejalado
+    - hubiese dejalado
+  nosotros:
+    - hubiéramos dejalado
+    - hubiésemos dejalado
+  vosotros:
+    - hubierais dejalado
+    - hubieseis dejalado
+  uds:
+    - hubieran dejalado
+    - hubiesen dejalado
+imperativo:
+  tu: déjala
+  vos: déjalá
+  ud: déjale
+  nosotros: dejalemo
+  vosotros: dejalad
+  uds: déjalen

@@ -1,0 +1,142 @@
+infinitivo: pestañear
+gerundio: pestañeando
+participio-pasado: pestañeado
+presente-indicativo:
+  yo: pestañeo
+  tu: pestañeas
+  vos: pestañeas
+  ud: pestañea
+  nosotros: pestañeamos
+  vosotros: pestañeáis
+  uds: pestañean
+preterito-perfecto-simple:
+  yo: pestañeé
+  tu: pestañeaste
+  vos: pestañeaste
+  ud: pestañeó
+  nosotros: pestañeamos
+  vosotros: pestañeasteis
+  uds: pestañearon
+preterito-imperfecto:
+  yo: pestañeaba
+  tu: pestañeabas
+  vos: pestañeabas
+  ud: pestañeaba
+  nosotros: pestañeábamos
+  vosotros: pestañeabais
+  uds: pestañeaban
+futuro-simple:
+  yo: pestañearé
+  tu: pestañearás
+  vos: pestañearás
+  ud: pestañeará
+  nosotros: pestañearemos
+  vosotros: pestañearéis
+  uds: pestañearán
+condicional-simple:
+  yo: pestañearía
+  tu: pestañearías
+  vos: pestañearías
+  ud: pestañearía
+  nosotros: pestañearíamos
+  vosotros: pestañearíais
+  uds: pestañearían
+presente-perfecto:
+  yo: he pestañeado
+  tu: has pestañeado
+  vos: has pestañeado
+  ud: ha pestañeado
+  nosotros: hemos pestañeado
+  vosotros: habéis pestañeado
+  uds: han pestañeado
+preterito-pluscuamperfecto:
+  yo: había pestañeado
+  tu: habías pestañeado
+  vos: habías pestañeado
+  ud: había pestañeado
+  nosotros: habíamos pestañeado
+  vosotros: habíais pestañeado
+  uds: habían pestañeado
+futuro-perfecto:
+  yo: habré pestañeado
+  tu: habrás pestañeado
+  vos: habrás pestañeado
+  ud: habrá pestañeado
+  nosotros: habremos pestañeado
+  vosotros: habréis pestañeado
+  uds: habrán pestañeado
+condicional-perfecto:
+  yo: habría pestañeado
+  tu: habrías pestañeado
+  vos: habrías pestañeado
+  ud: habría pestañeado
+  nosotros: habríamos pestañeado
+  vosotros: habríais pestañeado
+  uds: habrían pestañeado
+presente-subjuntivo:
+  yo: pestañee
+  tu: pestañees
+  vos: pestañees
+  ud: pestañee
+  nosotros: pestañeemos
+  vosotros: pestañeéis
+  uds: pestañeen
+preterito-perfecto-subjuntivo:
+  yo: haya pestañeado
+  tu: hayas pestañeado
+  vos: hayas pestañeado
+  ud: haya pestañeado
+  nosotros: hayamos pestañeado
+  vosotros: hayáis pestañeado
+  uds: hayan pestañeado
+imperfecto-subjuntivo:
+  yo:
+    - pestañeara
+    - pestañease
+  tu:
+    - pestañearas
+    - pestañeases
+  vos:
+    - pestañearas
+    - pestañeases
+  ud:
+    - pestañeara
+    - pestañease
+  nosotros:
+    - pestañeáramos
+    - pestañeásemos
+  vosotros:
+    - pestañearais
+    - pestañeaseis
+  uds:
+    - pestañearan
+    - pestañeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pestañeado
+    - hubiese pestañeado
+  tu:
+    - hubieras pestañeado
+    - hubieses pestañeado
+  vos:
+    - hubieras pestañeado
+    - hubieses pestañeado
+  ud:
+    - hubiera pestañeado
+    - hubiese pestañeado
+  nosotros:
+    - hubiéramos pestañeado
+    - hubiésemos pestañeado
+  vosotros:
+    - hubierais pestañeado
+    - hubieseis pestañeado
+  uds:
+    - hubieran pestañeado
+    - hubiesen pestañeado
+imperativo:
+  tu: pestañea
+  vos: pestañeá
+  ud: pestañee
+  nosotros: pestañeemos
+  vosotros: pestañead
+  uds: pestañeen

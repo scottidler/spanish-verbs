@@ -1,0 +1,142 @@
+infinitivo: voltearse
+gerundio: volteándose
+participio-pasado: volteado
+presente-indicativo:
+  yo: me volteo
+  tu: te volteas
+  vos: te volteas
+  ud: se voltea
+  nosotros: nos volteamos
+  vosotros: os volteáis
+  uds: se voltean
+preterito-perfecto-simple:
+  yo: me voltee
+  tu: te voltees
+  vos: te voltees
+  ud: se voltee
+  nosotros: nos volteamos
+  vosotros: os volteasteis
+  uds: se volteen
+preterito-imperfecto:
+  yo: me volteaba
+  tu: te volteabas
+  vos: te volteabas
+  ud: se volteaba
+  nosotros: nos volteábamos
+  vosotros: os volteabais
+  uds: se volteaban
+futuro-simple:
+  yo: me voltearé
+  tu: te voltearás
+  vos: te voltearás
+  ud: se volteará
+  nosotros: nos voltearemos
+  vosotros: os voltearéis
+  uds: se voltearán
+condicional-simple:
+  yo: me voltearía
+  tu: te voltearías
+  vos: te voltearías
+  ud: se voltearía
+  nosotros: nos voltearíamos
+  vosotros: os voltearíais
+  uds: se voltearían
+presente-perfecto:
+  yo: me he volteado
+  tu: te has volteado
+  vos: te has volteado
+  ud: se ha volteado
+  nosotros: nos hemos volteado
+  vosotros: os habéis volteado
+  uds: se han volteado
+preterito-pluscuamperfecto:
+  yo: me había volteado
+  tu: te habías volteado
+  vos: te habías volteado
+  ud: se había volteado
+  nosotros: nos habíamos volteado
+  vosotros: os habíais volteado
+  uds: se habían volteado
+futuro-perfecto:
+  yo: me habré volteado
+  tu: te habrás volteado
+  vos: te habrás volteado
+  ud: se habrá volteado
+  nosotros: nos habremos volteado
+  vosotros: os habréis volteado
+  uds: se habrán volteado
+condicional-perfecto:
+  yo: me habría volteado
+  tu: te habrías volteado
+  vos: te habrías volteado
+  ud: se habría volteado
+  nosotros: nos habríamos volteado
+  vosotros: os habríais volteado
+  uds: se habrían volteado
+presente-subjuntivo:
+  yo: me voltee
+  tu: te voltees
+  vos: te voltees
+  ud: se voltee
+  nosotros: nos volteenos
+  vosotros: os volteéis
+  uds: se volteen
+preterito-perfecto-subjuntivo:
+  yo: me haya volteado
+  tu: te hayas volteado
+  vos: te hayas volteado
+  ud: se haya volteado
+  nosotros: nos hayamos volteado
+  vosotros: os hayáis volteado
+  uds: se hayan volteado
+imperfecto-subjuntivo:
+  yo:
+    - me volteara
+    - me volteamos
+  tu:
+    - te voltearas
+    - te volteabas
+  vos:
+    - te voltearas
+    - te volteabas
+  ud:
+    - se volteara
+    - se voltease
+  nosotros:
+    - nos volteáramos
+    - nos volteásemos
+  vosotros:
+    - os voltearais
+    - os volteaseis
+  uds:
+    - se voltearan
+    - se volteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera volteado
+    - me hubiese volteado
+  tu:
+    - te hubieras volteado
+    - te hubieses volteado
+  vos:
+    - te hubieras volteado
+    - te hubieses volteado
+  ud:
+    - se hubiera volteado
+    - se hubiese volteado
+  nosotros:
+    - nos hubiéramos volteado
+    - nos hubiésemos volteado
+  vosotros:
+    - os hubierais volteado
+    - os hubieseis volteado
+  uds:
+    - se hubieran volteado
+    - se hubiesen volteado
+imperativo:
+  tu: voltéate
+  vos: volteáte
+  ud: voltee
+  nosotros: volteenos
+  vosotros: voltearos
+  uds: volteen

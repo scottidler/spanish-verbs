@@ -1,0 +1,142 @@
+infinitivo: sumirse
+gerundio: sumiéndose
+participio-pasado: sumido
+presente-indicativo:
+  yo: me sumerjo
+  tu: te sumerges
+  vos: te sumerges
+  ud: se sumerge
+  nosotros: nos sumergimos
+  vosotros: os sumergís
+  uds: se sumergen
+preterito-perfecto-simple:
+  yo: me sumergí
+  tu: te sumergiste
+  vos: te sumergiste
+  ud: se sumergió
+  nosotros: nos sumergimos
+  vosotros: os sumergisteis
+  uds: se sumergieron
+preterito-imperfecto:
+  yo: me sumergía
+  tu: te sumergías
+  vos: te sumergías
+  ud: se sumergía
+  nosotros: nos sumergíamos
+  vosotros: os sumergíais
+  uds: se sumergían
+futuro-simple:
+  yo: me sumergiré
+  tu: te sumergirás
+  vos: te sumergirás
+  ud: se sumergirá
+  nosotros: nos sumergiremos
+  vosotros: os sumergiréis
+  uds: se sumergirán
+condicional-simple:
+  yo: me sumergiría
+  tu: te sumergirías
+  vos: te sumergirías
+  ud: se sumergiría
+  nosotros: nos sumergiríamos
+  vosotros: os sumergiríais
+  uds: se sumergirían
+presente-perfecto:
+  yo: me he sumergido
+  tu: te has sumergido
+  vos: te has sumergido
+  ud: se ha sumergido
+  nosotros: nos hemos sumergido
+  vosotros: os habéis sumergido
+  uds: se han sumergido
+preterito-pluscuamperfecto:
+  yo: me había sumergido
+  tu: te habías sumergido
+  vos: te habías sumergido
+  ud: se había sumergido
+  nosotros: nos habíamos sumergido
+  vosotros: os habíais sumergido
+  uds: se habían sumergido
+futuro-perfecto:
+  yo: me habré sumergido
+  tu: te habrás sumergido
+  vos: te habrás sumergido
+  ud: se habrá sumergido
+  nosotros: nos habremos sumergido
+  vosotros: os habréis sumergido
+  uds: se habrán sumergido
+condicional-perfecto:
+  yo: me habría sumergido
+  tu: te habrías sumergido
+  vos: te habrías sumergido
+  ud: se habría sumergido
+  nosotros: nos habríamos sumergido
+  vosotros: os habríais sumergido
+  uds: se habrían sumergido
+presente-subjuntivo:
+  yo: me sumerja
+  tu: te sumerjas
+  vos: te sumerjas
+  ud: se sumerja
+  nosotros: nos sumerjamos
+  vosotros: os sumerjáis
+  uds: se sumerjan
+preterito-perfecto-subjuntivo:
+  yo: me haya sumergido
+  tu: te hayas sumergido
+  vos: te hayas sumergido
+  ud: se haya sumergido
+  nosotros: nos hayamos sumergido
+  vosotros: os hayáis sumergido
+  uds: se hayan sumergido
+imperfecto-subjuntivo:
+  yo:
+    - me sumergiera
+    - me sumergiese
+  tu:
+    - te sumergieras
+    - te sumergieses
+  vos:
+    - te sumergieras
+    - te sumergieses
+  ud:
+    - se sumergiera
+    - se sumergiese
+  nosotros:
+    - nos sumergiéramos
+    - nos sumergiésemos
+  vosotros:
+    - os sumergierais
+    - os sumergieseis
+  uds:
+    - se sumergieran
+    - se sumergiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera sumergido
+    - me hubiese sumergido
+  tu:
+    - te hubieras sumergido
+    - te hubieses sumergido
+  vos:
+    - te hubieras sumergido
+    - te hubieses sumergido
+  ud:
+    - se hubiera sumergido
+    - se hubiese sumergido
+  nosotros:
+    - nos hubiéramos sumergido
+    - nos hubiésemos sumergido
+  vosotros:
+    - os hubierais sumergido
+    - os hubieseis sumergido
+  uds:
+    - se hubieran sumergido
+    - se hubiesen sumergido
+imperativo:
+  tu: sumérgete
+  vos: sumergíte
+  ud: sumérjase
+  nosotros: sumerjámonos
+  vosotros: sumergíos
+  uds: sumérjanse

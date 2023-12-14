@@ -1,0 +1,142 @@
+infinitivo: ser
+gerundio: siendo
+participio-pasado: sido
+presente-indicativo:
+  yo: soy
+  tu: eres
+  vos: eres
+  ud: es
+  nosotros: somos
+  vosotros: sois
+  uds: son
+preterito-perfecto-simple:
+  yo: fui
+  tu: fuiste
+  vos: fuiste
+  ud: fue
+  nosotros: fuimos
+  vosotros: fuisteis
+  uds: fueron
+preterito-imperfecto:
+  yo: era
+  tu: eras
+  vos: eras
+  ud: era
+  nosotros: éramos
+  vosotros: erais
+  uds: eran
+futuro-simple:
+  yo: seré
+  tu: serás
+  vos: serás
+  ud: será
+  nosotros: seremos
+  vosotros: seréis
+  uds: serán
+condicional-simple:
+  yo: sería
+  tu: serías
+  vos: serías
+  ud: sería
+  nosotros: seríamos
+  vosotros: seríais
+  uds: serían
+presente-perfecto:
+  yo: he sido
+  tu: has sido
+  vos: has sido
+  ud: ha sido
+  nosotros: hemos sido
+  vosotros: habéis sido
+  uds: han sido
+preterito-pluscuamperfecto:
+  yo: había sido
+  tu: habías sido
+  vos: habías sido
+  ud: había sido
+  nosotros: habíamos sido
+  vosotros: habíais sido
+  uds: habían sido
+futuro-perfecto:
+  yo: habré sido
+  tu: habrás sido
+  vos: habrás sido
+  ud: habrá sido
+  nosotros: habremos sido
+  vosotros: habréis sido
+  uds: habrán sido
+condicional-perfecto:
+  yo: habría sido
+  tu: habrías sido
+  vos: habrías sido
+  ud: habría sido
+  nosotros: habríamos sido
+  vosotros: habríais sido
+  uds: habrían sido
+presente-subjuntivo:
+  yo: sea
+  tu: seas
+  vos: seas
+  ud: sea
+  nosotros: seamos
+  vosotros: seáis
+  uds: sean
+preterito-perfecto-subjuntivo:
+  yo: haya sido
+  tu: hayas sido
+  vos: hayas sido
+  ud: haya sido
+  nosotros: hayamos sido
+  vosotros: hayáis sido
+  uds: hayan sido
+imperfecto-subjuntivo:
+  yo:
+    - fuera
+    - fuese
+  tu:
+    - fueras
+    - fueses
+  vos:
+    - fueras
+    - fueses
+  ud:
+    - fuera
+    - fuese
+  nosotros:
+    - fuéramos
+    - fuésemos
+  vosotros:
+    - fuerais
+    - fueseis
+  uds:
+    - fueran
+    - fuesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sido
+    - hubiese sido
+  tu:
+    - hubieras sido
+    - hubieses sido
+  vos:
+    - hubieras sido
+    - hubieses sido
+  ud:
+    - hubiera sido
+    - hubiese sido
+  nosotros:
+    - hubiéramos sido
+    - hubiésemos sido
+  vosotros:
+    - hubierais sido
+    - hubieseis sido
+  uds:
+    - hubieran sido
+    - hubiesen sido
+imperativo:
+  tu: sé
+  vos: sed
+  ud: sea
+  nosotros: seamos
+  vosotros: sed
+  uds: sean

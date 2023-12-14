@@ -1,0 +1,156 @@
+infinitivo: encaminarse
+gerundio: encaminándose
+participio-pasado: encaminado
+
+presente-indicativo:
+  yo: me encamino
+  tu: te encaminas
+  vos: te encaminas
+  ud: se encamina
+  nosotros: nos encaminamos
+  vosotros: os encamináis
+  uds: se encaminan
+
+preterito-perfecto-simple:
+  yo: me encaminé
+  tu: te encaminaste
+  vos: te encaminaste
+  ud: se encaminó
+  nosotros: nos encaminamos
+  vosotros: os encaminasteis
+  uds: se encaminaron
+
+preterito-imperfecto:
+  yo: me encaminaba
+  tu: te encaminabas
+  vos: te encaminabas
+  ud: se encaminaba
+  nosotros: nos encaminábamos
+  vosotros: os encaminabais
+  uds: se encaminaban
+
+futuro-simple:
+  yo: me encaminaré
+  tu: te encaminarás
+  vos: te encaminarás
+  ud: se encaminará
+  nosotros: nos encaminaremos
+  vosotros: os encaminaréis
+  uds: se encaminarán
+
+condicional-simple:
+  yo: me encaminaría
+  tu: te encaminarías
+  vos: te encaminarías
+  ud: se encaminaría
+  nosotros: nos encaminaríamos
+  vosotros: os encaminaríais
+  uds: se encaminarían
+
+presente-perfecto:
+  yo: me he encaminado
+  tu: te has encaminado
+  vos: te has encaminado
+  ud: se ha encaminado
+  nosotros: nos hemos encaminado
+  vosotros: os habéis encaminado
+  uds: se han encaminado
+
+preterito-pluscuamperfecto:
+  yo: me había encaminado
+  tu: te habías encaminado
+  vos: te habías encaminado
+  ud: se había encaminado
+  nosotros: nos habíamos encaminado
+  vosotros: os habíais encaminado
+  uds: se habían encaminado
+
+futuro-perfecto:
+  yo: me habré encaminado
+  tu: te habrás encaminado
+  vos: te habrás encaminado
+  ud: se habrá encaminado
+  nosotros: nos habremos encaminado
+  vosotros: os habréis encaminado
+  uds: se habrán encaminado
+
+condicional-perfecto:
+  yo: me habría encaminado
+  tu: te habrías encaminado
+  vos: te habrías encaminado
+  ud: se habría encaminado
+  nosotros: nos habríamos encaminado
+  vosotros: os habríais encaminado
+  uds: se habrían encaminado
+
+presente-subjuntivo:
+  yo: me encamine
+  tu: te encamines
+  vos: te encamines
+  ud: se encamine
+  nosotros: nos encaminemos
+  vosotros: os encaminéis
+  uds: se encaminen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya encaminado
+  tu: te hayas encaminado
+  vos: te hayas encaminado
+  ud: se haya encaminado
+  nosotros: nos hayamos encaminado
+  vosotros: os hayáis encaminado
+  uds: se hayan encaminado
+
+imperfecto-subjuntivo:
+  yo:
+    - me encaminara
+    - me encaminase
+  tu:
+    - te encaminaras
+    - te encaminases
+  vos:
+    - te encaminaras
+    - te encaminases
+  ud:
+    - se encaminara
+    - se encaminase
+  nosotros:
+    - nos encamináramos
+    - nos encaminásemos
+  vosotros:
+    - os encaminarais
+    - os encaminaseis
+  uds:
+    - se encaminaran
+    - se encaminasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera encaminado
+    - me hubiese encaminado
+  tu:
+    - te hubieras encaminado
+    - te hubieses encaminado
+  vos:
+    - te hubieras encaminado
+    - te hubieses encaminado
+  ud:
+    - se hubiera encaminado
+    - se hubiese encaminado
+  nosotros:
+    - nos hubiéramos encaminado
+    - nos hubiésemos encaminado
+  vosotros:
+    - os hubierais encaminado
+    - os hubieseis encaminado
+  uds:
+    - se hubieran encaminado
+    - se hubiesen encaminado
+
+imperativo:
+  tu: encamínate
+  vos: encaminate
+  ud: encamínese
+  nosotros: encaminémonos
+  vosotros: encaminaos
+  uds: encamínense

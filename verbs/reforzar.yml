@@ -1,0 +1,142 @@
+infinitivo: reforzar
+gerundio: reforzando
+participio-pasado: reforzado
+presente-indicativo:
+  yo: refuerzo
+  tu: refuerzas
+  vos: refuerzas
+  ud: refuerza
+  nosotros: reforzamos
+  vosotros: reforzáis
+  uds: refuerzan
+preterito-perfecto-simple:
+  yo: reforcé
+  tu: reforzaste
+  vos: reforzaste
+  ud: reforzó
+  nosotros: reforzamos
+  vosotros: reforzasteis
+  uds: reforzaron
+preterito-imperfecto:
+  yo: reforzaba
+  tu: reforzabas
+  vos: reforzabas
+  ud: reforzaba
+  nosotros: reforzábamos
+  vosotros: reforzabais
+  uds: reforzaban
+futuro-simple:
+  yo: reforzaré
+  tu: reforzarás
+  vos: reforzarás
+  ud: reforzará
+  nosotros: reforzaremos
+  vosotros: reforzaréis
+  uds: reforzarán
+condicional-simple:
+  yo: reforzaría
+  tu: reforzarías
+  vos: reforzarías
+  ud: reforzaría
+  nosotros: reforzaríamos
+  vosotros: reforzaríais
+  uds: reforzarían
+presente-perfecto:
+  yo: he reforzado
+  tu: has reforzado
+  vos: has reforzado
+  ud: ha reforzado
+  nosotros: hemos reforzado
+  vosotros: habéis reforzado
+  uds: han reforzado
+preterito-pluscuamperfecto:
+  yo: había reforzado
+  tu: habías reforzado
+  vos: habías reforzado
+  ud: había reforzado
+  nosotros: habíamos reforzado
+  vosotros: habíais reforzado
+  uds: habían reforzado
+futuro-perfecto:
+  yo: habré reforzado
+  tu: habrás reforzado
+  vos: habrás reforzado
+  ud: habrá reforzado
+  nosotros: habremos reforzado
+  vosotros: habréis reforzado
+  uds: habrán reforzado
+condicional-perfecto:
+  yo: habría reforzado
+  tu: habrías reforzado
+  vos: habrías reforzado
+  ud: habría reforzado
+  nosotros: habríamos reforzado
+  vosotros: habríais reforzado
+  uds: habrían reforzado
+presente-subjuntivo:
+  yo: refuerce
+  tu: refuerces
+  vos: refuerces
+  ud: refuerce
+  nosotros: reforcemos
+  vosotros: reforcéis
+  uds: refuercen
+preterito-perfecto-subjuntivo:
+  yo: haya reforzado
+  tu: hayas reforzado
+  vos: hayas reforzado
+  ud: haya reforzado
+  nosotros: hayamos reforzado
+  vosotros: hayáis reforzado
+  uds: hayan reforzado
+imperfecto-subjuntivo:
+  yo:
+    - reforzara
+    - reforzase
+  tu:
+    - reforzaras
+    - reforzases
+  vos:
+    - reforzaras
+    - reforzases
+  ud:
+    - reforzara
+    - reforzase
+  nosotros:
+    - reforzáramos
+    - reforzásemos
+  vosotros:
+    - reforzarais
+    - reforzaseis
+  uds:
+    - reforzaran
+    - reforzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reforzado
+    - hubiese reforzado
+  tu:
+    - hubieras reforzado
+    - hubieses reforzado
+  vos:
+    - hubieras reforzado
+    - hubieses reforzado
+  ud:
+    - hubiera reforzado
+    - hubiese reforzado
+  nosotros:
+    - hubiéramos reforzado
+    - hubiésemos reforzado
+  vosotros:
+    - hubierais reforzado
+    - hubieseis reforzado
+  uds:
+    - hubieran reforzado
+    - hubiesen reforzado
+imperativo:
+  tu: refuerza
+  vos: reforzá
+  ud: refuerce
+  nosotros: reforcemos
+  vosotros: reforzad
+  uds: refuercen

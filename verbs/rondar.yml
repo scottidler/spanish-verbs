@@ -1,0 +1,142 @@
+infinitivo: rondar
+gerundio: rondando
+participio-pasado: rondado
+presente-indicativo:
+  yo: rondo
+  tu: rondas
+  vos: rondas
+  ud: ronda
+  nosotros: rondamos
+  vosotros: rondáis
+  uds: rondan
+preterito-perfecto-simple:
+  yo: rondé
+  tu: rondaste
+  vos: rondaste
+  ud: rondó
+  nosotros: rondamos
+  vosotros: rondasteis
+  uds: rondaron
+preterito-imperfecto:
+  yo: rondaba
+  tu: rondabas
+  vos: rondabas
+  ud: rondaba
+  nosotros: rondábamos
+  vosotros: rondabais
+  uds: rondaban
+futuro-simple:
+  yo: rondaré
+  tu: rondarás
+  vos: rondarás
+  ud: rondará
+  nosotros: rondaremos
+  vosotros: rondaréis
+  uds: rondarán
+condicional-simple:
+  yo: rondaría
+  tu: rondarías
+  vos: rondarías
+  ud: rondaría
+  nosotros: rondaríamos
+  vosotros: rondaríais
+  uds: rondarían
+presente-perfecto:
+  yo: he rondado
+  tu: has rondado
+  vos: has rondado
+  ud: ha rondado
+  nosotros: hemos rondado
+  vosotros: habéis rondado
+  uds: han rondado
+preterito-pluscuamperfecto:
+  yo: había rondado
+  tu: habías rondado
+  vos: habías rondado
+  ud: había rondado
+  nosotros: habíamos rondado
+  vosotros: habíais rondado
+  uds: habían rondado
+futuro-perfecto:
+  yo: habré rondado
+  tu: habrás rondado
+  vos: habrás rondado
+  ud: habrá rondado
+  nosotros: habremos rondado
+  vosotros: habréis rondado
+  uds: habrán rondado
+condicional-perfecto:
+  yo: habría rondado
+  tu: habrías rondado
+  vos: habrías rondado
+  ud: habría rondado
+  nosotros: habríamos rondado
+  vosotros: habríais rondado
+  uds: habrían rondado
+presente-subjuntivo:
+  yo: ronde
+  tu: rondes
+  vos: rondes
+  ud: ronde
+  nosotros: ronde
+  vosotros: rondéis
+  uds: ronden
+preterito-perfecto-subjuntivo:
+  yo: haya rondado
+  tu: hayas rondado
+  vos: hayas rondado
+  ud: haya rondado
+  nosotros: hayamos rondado
+  vosotros: hayáis rondado
+  uds: hayan rondado
+imperfecto-subjuntivo:
+  yo:
+    - rondara
+    - rondase
+  tu:
+    - rondaras
+    - rondases
+  vos:
+    - rondaras
+    - rondases
+  ud:
+    - rondara
+    - rondase
+  nosotros:
+    - rondáramos
+    - rondásemos
+  vosotros:
+    - rondarais
+    - rondaseis
+  uds:
+    - rondaran
+    - rondasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rondado
+    - hubiese rondado
+  tu:
+    - hubieras rondado
+    - hubieses rondado
+  vos:
+    - hubieras rondado
+    - hubieses rondado
+  ud:
+    - hubiera rondado
+    - hubiese rondado
+  nosotros:
+    - hubiéramos rondado
+    - hubiésemos rondado
+  vosotros:
+    - hubierais rondado
+    - hubieseis rondado
+  uds:
+    - hubieran rondado
+    - hubiesen rondado
+imperativo:
+  tu: ronda
+  vos: rondá
+  ud: ronde
+  nosotros: ronde
+  vosotros: rondad
+  uds: ronden

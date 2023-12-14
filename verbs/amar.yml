@@ -1,0 +1,142 @@
+infinitivo: amar
+gerundio: amando
+participio-pasado: amado
+presente-indicativo:
+  yo: amo
+  tu: amas
+  vos: amas
+  ud: ama
+  nosotros: amamos
+  vosotros: amáis
+  uds: aman
+preterito-perfecto-simple:
+  yo: amé
+  tu: amaste
+  vos: amaste
+  ud: amó
+  nosotros: amamos
+  vosotros: amasteis
+  uds: amaron
+preterito-imperfecto:
+  yo: amaba
+  tu: amabas
+  vos: amabas
+  ud: amaba
+  nosotros: amábamos
+  vosotros: amabais
+  uds: amaban
+futuro-simple:
+  yo: amaré
+  tu: amarás
+  vos: amarás
+  ud: amará
+  nosotros: amaremos
+  vosotros: amaréis
+  uds: amarán
+condicional-simple:
+  yo: amaría
+  tu: amarías
+  vos: amarías
+  ud: amaría
+  nosotros: amaríamos
+  vosotros: amaríais
+  uds: amarían
+presente-perfecto:
+  yo: he amado
+  tu: has amado
+  vos: has amado
+  ud: ha amado
+  nosotros: hemos amado
+  vosotros: habéis amado
+  uds: han amado
+preterito-pluscuamperfecto:
+  yo: había amado
+  tu: habías amado
+  vos: habías amado
+  ud: había amado
+  nosotros: habíamos amado
+  vosotros: habíais amado
+  uds: habían amado
+futuro-perfecto:
+  yo: habré amado
+  tu: habrás amado
+  vos: habrás amado
+  ud: habrá amado
+  nosotros: habremos amado
+  vosotros: habréis amado
+  uds: habrán amado
+condicional-perfecto:
+  yo: habría amado
+  tu: habrías amado
+  vos: habrías amado
+  ud: habría amado
+  nosotros: habríamos amado
+  vosotros: habríais amado
+  uds: habrían amado
+presente-subjuntivo:
+  yo: ame
+  tu: ames
+  vos: ames
+  ud: ame
+  nosotros: amemos
+  vosotros: améis
+  uds: amen
+preterito-perfecto-subjuntivo:
+  yo: haya amado
+  tu: hayas amado
+  vos: hayas amado
+  ud: haya amado
+  nosotros: hayamos amado
+  vosotros: hayáis amado
+  uds: hayan amado
+imperfecto-subjuntivo:
+  yo:
+    - amara
+    - amase
+  tu:
+    - amaras
+    - amases
+  vos:
+    - amaras
+    - amases
+  ud:
+    - amara
+    - amase
+  nosotros:
+    - amáramos
+    - amásemos
+  vosotros:
+    - amarais
+    - amaseis
+  uds:
+    - amaran
+    - amasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera amado
+    - hubiese amado
+  tu:
+    - hubieras amado
+    - hubieses amado
+  vos:
+    - hubieras amado
+    - hubieses amado
+  ud:
+    - hubiera amado
+    - hubiese amado
+  nosotros:
+    - hubiéramos amado
+    - hubiésemos amado
+  vosotros:
+    - hubierais amado
+    - hubieseis amado
+  uds:
+    - hubieran amado
+    - hubiesen amado
+imperativo:
+  tu: ama
+  vos: amá
+  ud: ame
+  nosotros: amemos
+  vosotros: amad
+  uds: amen

@@ -1,0 +1,142 @@
+infinitivo: prescindir
+gerundio: prescindiendo
+participio-pasado: prescindido
+presente-indicativo:
+  yo: prescindo
+  tu: prescindes
+  vos: prescindes
+  ud: prescinde
+  nosotros: prescindimos
+  vosotros: prescindís
+  uds: prescinden
+preterito-perfecto-simple:
+  yo: prescindí
+  tu: prescindiste
+  vos: prescindiste
+  ud: prescindió
+  nosotros: prescindimos
+  vosotros: prescindisteis
+  uds: prescindieron
+preterito-imperfecto:
+  yo: prescindía
+  tu: prescindías
+  vos: prescindías
+  ud: prescindía
+  nosotros: prescindíamos
+  vosotros: prescindíais
+  uds: prescindían
+futuro-simple:
+  yo: prescindiré
+  tu: prescindirás
+  vos: prescindirás
+  ud: prescindirá
+  nosotros: prescindiremos
+  vosotros: prescindiréis
+  uds: prescindirán
+condicional-simple:
+  yo: prescindiría
+  tu: prescindirías
+  vos: prescindirías
+  ud: prescindiría
+  nosotros: prescindiríamos
+  vosotros: prescindiríais
+  uds: prescindirían
+presente-perfecto:
+  yo: he prescindido
+  tu: has prescindido
+  vos: has prescindido
+  ud: ha prescindido
+  nosotros: hemos prescindido
+  vosotros: habéis prescindido
+  uds: han prescindido
+preterito-pluscuamperfecto:
+  yo: había prescindido
+  tu: habías prescindido
+  vos: habías prescindido
+  ud: había prescindido
+  nosotros: habíamos prescindido
+  vosotros: habíais prescindido
+  uds: habían prescindido
+futuro-perfecto:
+  yo: habré prescindido
+  tu: habrás prescindido
+  vos: habrás prescindido
+  ud: habrá prescindido
+  nosotros: habremos prescindido
+  vosotros: habréis prescindido
+  uds: habrán prescindido
+condicional-perfecto:
+  yo: habría prescindido
+  tu: habrías prescindido
+  vos: habrías prescindido
+  ud: habría prescindido
+  nosotros: habríamos prescindido
+  vosotros: habríais prescindido
+  uds: habrían prescindido
+presente-subjuntivo:
+  yo: prescinda
+  tu: prescindas
+  vos: prescindas
+  ud: prescinda
+  nosotros: prescindamos
+  vosotros: prescindáis
+  uds: prescindan
+preterito-perfecto-subjuntivo:
+  yo: haya prescindido
+  tu: hayas prescindido
+  vos: hayas prescindido
+  ud: haya prescindido
+  nosotros: hayamos prescindido
+  vosotros: hayáis prescindido
+  uds: hayan prescindido
+imperfecto-subjuntivo:
+  yo:
+    - prescindiera
+    - prescindiese
+  tu:
+    - prescindieras
+    - prescindieses
+  vos:
+    - prescindieras
+    - prescindieses
+  ud:
+    - prescindiera
+    - prescindiese
+  nosotros:
+    - prescindiéramos
+    - prescindiésemos
+  vosotros:
+    - prescindierais
+    - prescindieseis
+  uds:
+    - prescindieran
+    - prescindiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera prescindido
+    - hubiese prescindido
+  tu:
+    - hubieras prescindido
+    - hubieses prescindido
+  vos:
+    - hubieras prescindido
+    - hubieses prescindido
+  ud:
+    - hubiera prescindido
+    - hubiese prescindido
+  nosotros:
+    - hubiéramos prescindido
+    - hubiésemos prescindido
+  vosotros:
+    - hubierais prescindido
+    - hubieseis prescindido
+  uds:
+    - hubieran prescindido
+    - hubiesen prescindido
+imperativo:
+  tu: prescinde
+  vos: prescindí
+  ud: prescinda
+  nosotros: prescindamos
+  vosotros: prescindid
+  uds: prescindan

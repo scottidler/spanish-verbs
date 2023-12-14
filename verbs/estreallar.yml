@@ -1,0 +1,142 @@
+infinitivo: estreallar
+gerundio: estreallando
+participio-pasado: estreallado
+presente-indicativo:
+  yo: estreallo
+  tu: estreallas
+  vos: estreallas
+  ud: estrealla
+  nosotros: estreallamos
+  vosotros: estrealláis
+  uds: estreallan
+preterito-perfecto-simple:
+  yo: estreallé
+  tu: estreallestrealléste
+  vos: estreallestrealléste
+  ud: estrealló
+  nosotros: estreallamos
+  vosotros: estreallasteis
+  uds: estreallaron
+preterito-imperfecto:
+  yo: estreallaba
+  tu: estreallabas
+  vos: estreallabas
+  ud: estreallaba
+  nosotros: estreallábamos
+  vosotros: estreallabais
+  uds: estreallaban
+futuro-simple:
+  yo: estreallaré
+  tu: estreallarás
+  vos: estreallarás
+  ud: estreallará
+  nosotros: estreallaremos
+  vosotros: estreallaréis
+  uds: estreallarán
+condicional-simple:
+  yo: estreallaría
+  tu: estreallarías
+  vos: estreallarías
+  ud: estreallaría
+  nosotros: estreallaríamos
+  vosotros: estreallaríais
+  uds: estreallarían
+presente-perfecto:
+  yo: he estreallado
+  tu: has estreallado
+  vos: has estreallado
+  ud: ha estreallado
+  nosotros: hemos estreallado
+  vosotros: habéis estreallado
+  uds: han estreallado
+preterito-pluscuamperfecto:
+  yo: había estreallado
+  tu: habías estreallado
+  vos: habías estreallado
+  ud: había estreallado
+  nosotros: habíamos estreallado
+  vosotros: habíais estreallado
+  uds: habían estreallado
+futuro-perfecto:
+  yo: habré estreallado
+  tu: habrás estreallado
+  vos: habrás estreallado
+  ud: habrá estreallado
+  nosotros: habremos estreallado
+  vosotros: habréis estreallado
+  uds: habrán estreallado
+condicional-perfecto:
+  yo: habría estreallado
+  tu: habrías estreallado
+  vos: habrías estreallado
+  ud: habría estreallado
+  nosotros: habríamos estreallado
+  vosotros: habríais estreallado
+  uds: habrían estreallado
+presente-subjuntivo:
+  yo: estrealle
+  tu: estrealles
+  vos: estrealles
+  ud: estrealle
+  nosotros: estreallemos
+  vosotros: estrealléis
+  uds: estreallen
+preterito-perfecto-subjuntivo:
+  yo: haya estreallado
+  tu: hayas estreallado
+  vos: hayas estreallado
+  ud: haya estreallado
+  nosotros: hayamos estreallado
+  vosotros: hayáis estreallado
+  uds: hayan estreallado
+imperfecto-subjuntivo:
+  yo:
+    - estreallara
+    - estreallase
+  tu:
+    - estreallaras
+    - estreallases
+  vos:
+    - estreallaras
+    - estreallases
+  ud:
+    - estreallara
+    - estreallase
+  nosotros:
+    - estrealláramos
+    - estreallásemos
+  vosotros:
+    - estreallarais
+    - estreallaseis
+  uds:
+    - estreallaran
+    - estreallasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estreallado
+    - hubiese estreallado
+  tu:
+    - hubieras estreallado
+    - hubieses estreallado
+  vos:
+    - hubieras estreallado
+    - hubieses estreallado
+  ud:
+    - hubiera estreallado
+    - hubiese estreallado
+  nosotros:
+    - hubiéramos estreallado
+    - hubiésemos estreallado
+  vosotros:
+    - hubierais estreallado
+    - hubieseis estreallado
+  uds:
+    - hubieran estreallado
+    - hubiesen estreallado
+imperativo:
+  tu: estrealla
+  vos: estreallá
+  ud: estrealle
+  nosotros: estreallemos
+  vosotros: estreallad
+  uds: estreallen

@@ -1,0 +1,142 @@
+infinitivo: satisfacer
+gerundio: satisfaciendo
+participio-pasado: satisfecho
+presente-indicativo:
+  yo: satisfago
+  tu: satisfaces
+  vos: satisfaces
+  ud: satisface
+  nosotros: satisfacemos
+  vosotros: satisfacéis
+  uds: satisfacen
+preterito-perfecto-simple:
+  yo: satisfice
+  tu: satisficiste
+  vos: satisficiste
+  ud: satisfizo
+  nosotros: satisficimos
+  vosotros: satisficisteis
+  uds: satisficieron
+preterito-imperfecto:
+  yo: satisfacía
+  tu: satisfacías
+  vos: satisfacías
+  ud: satisfacía
+  nosotros: satisfacíamos
+  vosotros: satisfacíais
+  uds: satisfacían
+futuro-simple:
+  yo: satisfaré
+  tu: satisfarás
+  vos: satisfarás
+  ud: satisfará
+  nosotros: satisfaremos
+  vosotros: satisfaréis
+  uds: satisfarán
+condicional-simple:
+  yo: satisfaría
+  tu: satisfarías
+  vos: satisfarías
+  ud: satisfaría
+  nosotros: satisfaríamos
+  vosotros: satisfaríais
+  uds: satisfarían
+presente-perfecto:
+  yo: he satisfecho
+  tu: has satisfecho
+  vos: has satisfecho
+  ud: ha satisfecho
+  nosotros: hemos satisfecho
+  vosotros: habéis satisfecho
+  uds: han satisfecho
+preterito-pluscuamperfecto:
+  yo: había satisfecho
+  tu: habías satisfecho
+  vos: habías satisfecho
+  ud: había satisfecho
+  nosotros: habíamos satisfecho
+  vosotros: habíais satisfecho
+  uds: habían satisfecho
+futuro-perfecto:
+  yo: habré satisfecho
+  tu: habrás satisfecho
+  vos: habrás satisfecho
+  ud: habrá satisfecho
+  nosotros: habremos satisfecho
+  vosotros: habréis satisfecho
+  uds: habrán satisfecho
+condicional-perfecto:
+  yo: habría satisfecho
+  tu: habrías satisfecho
+  vos: habrías satisfecho
+  ud: habría satisfecho
+  nosotros: habríamos satisfecho
+  vosotros: habríais satisfecho
+  uds: habrían satisfecho
+presente-subjuntivo:
+  yo: satisfaga
+  tu: satisfagas
+  vos: satisfagas
+  ud: satisfaga
+  nosotros: satisfagamos
+  vosotros: satisfagáis
+  uds: satisfagan
+preterito-perfecto-subjuntivo:
+  yo: haya satisfecho
+  tu: hayas satisfecho
+  vos: hayas satisfecho
+  ud: haya satisfecho
+  nosotros: hayamos satisfecho
+  vosotros: hayáis satisfecho
+  uds: hayan satisfecho
+imperfecto-subjuntivo:
+  yo:
+    - satisfaciera
+    - satisfaciese
+  tu:
+    - satisfacieras
+    - satisfacieses
+  vos:
+    - satisfacieras
+    - satisfacieses
+  ud:
+    - satisfaciera
+    - satisfaciese
+  nosotros:
+    - satisfaciéramos
+    - satisfaciésemos
+  vosotros:
+    - satisfacierais
+    - satisfacieseis
+  uds:
+    - satisfacieran
+    - satisfaciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera satisfecho
+    - hubiese satisfecho
+  tu:
+    - hubieras satisfecho
+    - hubieses satisfecho
+  vos:
+    - hubieras satisfecho
+    - hubieses satisfecho
+  ud:
+    - hubiera satisfecho
+    - hubiese satisfecho
+  nosotros:
+    - hubiéramos satisfecho
+    - hubiésemos satisfecho
+  vosotros:
+    - hubierais satisfecho
+    - hubieseis satisfecho
+  uds:
+    - hubieran satisfecho
+    - hubiesen satisfecho
+imperativo:
+  tu: satisface
+  vos: satisface
+  ud: satisfaga
+  nosotros: satisfagamos
+  vosotros: satisfaced
+  uds: satisfagan

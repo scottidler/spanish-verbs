@@ -1,0 +1,142 @@
+infinitivo: forzar
+gerundio: forzando
+participio-pasado: forzado
+presente-indicativo:
+  yo: fuerzo
+  tu: fuerzas
+  vos: fuerzas
+  ud: fuerza
+  nosotros: forzamos
+  vosotros: forzáis
+  uds: fuerzan
+preterito-perfecto-simple:
+  yo: forcé
+  tu: forzaste
+  vos: forzaste
+  ud: forzó
+  nosotros: forzamos
+  vosotros: forzasteis
+  uds: forzaron
+preterito-imperfecto:
+  yo: forzaba
+  tu: forzabas
+  vos: forzabas
+  ud: forzaba
+  nosotros: forzábamos
+  vosotros: forzabais
+  uds: forzaban
+futuro-simple:
+  yo: forzaré
+  tu: forzarás
+  vos: forzarás
+  ud: forzará
+  nosotros: forzaremos
+  vosotros: forzaréis
+  uds: forzarán
+condicional-simple:
+  yo: forzaría
+  tu: forzarías
+  vos: forzarías
+  ud: forzaría
+  nosotros: forzaríamos
+  vosotros: forzaríais
+  uds: forzarían
+presente-perfecto:
+  yo: he forzado
+  tu: has forzado
+  vos: has forzado
+  ud: ha forzado
+  nosotros: hemos forzado
+  vosotros: habéis forzado
+  uds: han forzado
+preterito-pluscuamperfecto:
+  yo: había forzado
+  tu: habías forzado
+  vos: habías forzado
+  ud: había forzado
+  nosotros: habíamos forzado
+  vosotros: habíais forzado
+  uds: habían forzado
+futuro-perfecto:
+  yo: habré forzado
+  tu: habrás forzado
+  vos: habrás forzado
+  ud: habrá forzado
+  nosotros: habremos forzado
+  vosotros: habréis forzado
+  uds: habrán forzado
+condicional-perfecto:
+  yo: habría forzado
+  tu: habrías forzado
+  vos: habrías forzado
+  ud: habría forzado
+  nosotros: habríamos forzado
+  vosotros: habríais forzado
+  uds: habrían forzado
+presente-subjuntivo:
+  yo: fuerce
+  tu: fuerces
+  vos: fuerces
+  ud: fuerce
+  nosotros: forcemos
+  vosotros: forcéis
+  uds: fuerzen
+preterito-perfecto-subjuntivo:
+  yo: haya forzado
+  tu: hayas forzado
+  vos: hayas forzado
+  ud: haya forzado
+  nosotros: hayamos forzado
+  vosotros: hayáis forzado
+  uds: hayan forzado
+imperfecto-subjuntivo:
+  yo:
+    - forzara
+    - forzase
+  tu:
+    - forzaras
+    - forzases
+  vos:
+    - forzaras
+    - forzases
+  ud:
+    - forzara
+    - forzase
+  nosotros:
+    - forzáramos
+    - forzásemos
+  vosotros:
+    - forzarais
+    - forzaseis
+  uds:
+    - forzaran
+    - forzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera forzado
+    - hubiese forzado
+  tu:
+    - hubieras forzado
+    - hubieses forzado
+  vos:
+    - hubieras forzado
+    - hubieses forzado
+  ud:
+    - hubiera forzado
+    - hubiese forzado
+  nosotros:
+    - hubiéramos forzado
+    - hubiésemos forzado
+  vosotros:
+    - hubierais forzado
+    - hubieseis forzado
+  uds:
+    - hubieran forzado
+    - hubiesen forzado
+imperativo:
+  tu: fuerza
+  vos: forzá
+  ud: fuerce
+  nosotros: forcemos
+  vosotros: forzad
+  uds: fuerzen

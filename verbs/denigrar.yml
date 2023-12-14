@@ -1,0 +1,142 @@
+infinitivo: denigrar
+gerundio: denigrando
+participio-pasado: denigrado
+presente-indicativo:
+  yo: denigro
+  tu: denigras
+  vos: denigras
+  ud: denigra
+  nosotros: denigramos
+  vosotros: denigráis
+  uds: denigran
+preterito-perfecto-simple:
+  yo: denigré
+  tu: denigraste
+  vos: denigraste
+  ud: denigró
+  nosotros: denigramos
+  vosotros: denigrasteis
+  uds: denigraron
+preterito-imperfecto:
+  yo: denigraba
+  tu: denigrabas
+  vos: denigrabas
+  ud: denigraba
+  nosotros: denigrábamos
+  vosotros: denigrabais
+  uds: denigraban
+futuro-simple:
+  yo: denigraré
+  tu: denigrarás
+  vos: denigrarás
+  ud: denigrará
+  nosotros: denigraremos
+  vosotros: denigraréis
+  uds: denigrarán
+condicional-simple:
+  yo: denigraría
+  tu: denigrarías
+  vos: denigrarías
+  ud: denigraría
+  nosotros: denigraríamos
+  vosotros: denigraríais
+  uds: denigrarían
+presente-perfecto:
+  yo: he denigrado
+  tu: has denigrado
+  vos: has denigrado
+  ud: ha denigrado
+  nosotros: hemos denigrado
+  vosotros: habéis denigrado
+  uds: han denigrado
+preterito-pluscuamperfecto:
+  yo: había denigrado
+  tu: habías denigrado
+  vos: habías denigrado
+  ud: había denigrado
+  nosotros: habíamos denigrado
+  vosotros: habíais denigrado
+  uds: habían denigrado
+futuro-perfecto:
+  yo: habré denigrado
+  tu: habrás denigrado
+  vos: habrás denigrado
+  ud: habrá denigrado
+  nosotros: habremos denigrado
+  vosotros: habréis denigrado
+  uds: habrán denigrado
+condicional-perfecto:
+  yo: habría denigrado
+  tu: habrías denigrado
+  vos: habrías denigrado
+  ud: habría denigrado
+  nosotros: habríamos denigrado
+  vosotros: habríais denigrado
+  uds: habrían denigrado
+presente-subjuntivo:
+  yo: denigre
+  tu: denigres
+  vos: denigres
+  ud: denigre
+  nosotros: denigremos
+  vosotros: denigréis
+  uds: denigren
+preterito-perfecto-subjuntivo:
+  yo: haya denigrado
+  tu: hayas denigrado
+  vos: hayas denigrado
+  ud: haya denigrado
+  nosotros: hayamos denigrado
+  vosotros: hayáis denigrado
+  uds: hayan denigrado
+imperfecto-subjuntivo:
+  yo:
+    - denigrara
+    - denigrase
+  tu:
+    - denigraras
+    - denigrases
+  vos:
+    - denigraras
+    - denigrases
+  ud:
+    - denigrara
+    - denigrase
+  nosotros:
+    - denigráramos
+    - denigrásemos
+  vosotros:
+    - denigrarais
+    - denigraseis
+  uds:
+    - denigraran
+    - denigrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera denigrado
+    - hubiese denigrado
+  tu:
+    - hubieras denigrado
+    - hubieses denigrado
+  vos:
+    - hubieras denigrado
+    - hubieses denigrado
+  ud:
+    - hubiera denigrado
+    - hubiese denigrado
+  nosotros:
+    - hubiéramos denigrado
+    - hubiésemos denigrado
+  vosotros:
+    - hubierais denigrado
+    - hubieseis denigrado
+  uds:
+    - hubieran denigrado
+    - hubiesen denigrado
+imperativo:
+  tu: denigra
+  vos: denigrá
+  ud: denigre
+  nosotros: denigremos
+  vosotros: denigrad
+  uds: denigren

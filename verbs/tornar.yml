@@ -1,0 +1,142 @@
+infinitivo: tornar
+gerundio: tornando
+participio-pasado: tornado
+presente-indicativo:
+  yo: torno
+  tu: tornas
+  vos: tornas
+  ud: torna
+  nosotros: tornamos
+  vosotros: tornáis
+  uds: tornan
+preterito-perfecto-simple:
+  yo: torné
+  tu: tornaste
+  vos: tornaste
+  ud: tornó
+  nosotros: tornamos
+  vosotros: tornasteis
+  uds: tornaron
+preterito-imperfecto:
+  yo: tornaba
+  tu: tornabas
+  vos: tornabas
+  ud: tornaba
+  nosotros: tornábamos
+  vosotros: tornabais
+  uds: tornaban
+futuro-simple:
+  yo: tornaré
+  tu: tornarás
+  vos: tornarás
+  ud: tornará
+  nosotros: tornaremos
+  vosotros: tornaréis
+  uds: tornarán
+condicional-simple:
+  yo: tornaría
+  tu: tornarías
+  vos: tornarías
+  ud: tornaría
+  nosotros: tornaríamos
+  vosotros: tornaríais
+  uds: tornarían
+presente-perfecto:
+  yo: he tornado
+  tu: has tornado
+  vos: has tornado
+  ud: ha tornado
+  nosotros: hemos tornado
+  vosotros: habéis tornado
+  uds: han tornado
+preterito-pluscuamperfecto:
+  yo: había tornado
+  tu: habías tornado
+  vos: habías tornado
+  ud: había tornado
+  nosotros: habíamos tornado
+  vosotros: habíais tornado
+  uds: habían tornado
+futuro-perfecto:
+  yo: habré tornado
+  tu: habrás tornado
+  vos: habrás tornado
+  ud: habrá tornado
+  nosotros: habremos tornado
+  vosotros: habréis tornado
+  uds: habrán tornado
+condicional-perfecto:
+  yo: habría tornado
+  tu: habrías tornado
+  vos: habrías tornado
+  ud: habría tornado
+  nosotros: habríamos tornado
+  vosotros: habríais tornado
+  uds: habrían tornado
+presente-subjuntivo:
+  yo: torne
+  tu: tornes
+  vos: tornes
+  ud: torne
+  nosotros: tornemos
+  vosotros: tornéis
+  uds: tornen
+preterito-perfecto-subjuntivo:
+  yo: haya tornado
+  tu: hayas tornado
+  vos: hayas tornado
+  ud: haya tornado
+  nosotros: hayamos tornado
+  vosotros: hayáis tornado
+  uds: hayan tornado
+imperfecto-subjuntivo:
+  yo:
+    - tornara
+    - tornase
+  tu:
+    - tornaras
+    - tornases
+  vos:
+    - tornaras
+    - tornases
+  ud:
+    - tornara
+    - tornase
+  nosotros:
+    - tornáramos
+    - tornásemos
+  vosotros:
+    - tornarais
+    - tornaseis
+  uds:
+    - tornaran
+    - tornasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tornado
+    - hubiese tornado
+  tu:
+    - hubieras tornado
+    - hubieses tornado
+  vos:
+    - hubieras tornado
+    - hubieses tornado
+  ud:
+    - hubiera tornado
+    - hubiese tornado
+  nosotros:
+    - hubiéramos tornado
+    - hubiésemos tornado
+  vosotros:
+    - hubierais tornado
+    - hubieseis tornado
+  uds:
+    - hubieran tornado
+    - hubiesen tornado
+imperativo:
+  tu: torna
+  vos: torná
+  ud: torne
+  nosotros: tornemos
+  vosotros: tornad
+  uds: tornen

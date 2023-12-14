@@ -1,0 +1,142 @@
+infinitivo: recomponer
+gerundio: recomponiendo
+participio-pasado: recompuesto
+presente-indicativo:
+  yo: recompongo
+  tu: recompones
+  vos: recompones
+  ud: recompone
+  nosotros: reponemos
+  vosotros: reponéis
+  uds: reponen
+preterito-perfecto-simple:
+  yo: recompuse
+  tu: recompusiste
+  vos: recompusiste
+  ud: recompuso
+  nosotros: recompusimos
+  vosotros: recompusisteis
+  uds: recompusieron
+preterito-imperfecto:
+  yo: recompónia
+  tu: recompónias
+  vos: recompónias
+  ud: recompónia
+  nosotros: recompóniamos
+  vosotros: recomponíais
+  uds: recompónian
+futuro-simple:
+  yo: recompondré
+  tu: recompondrás
+  vos: recompondrás
+  ud: recompondrá
+  nosotros: recompondremos
+  vosotros: recompondréis
+  uds: recompondrán
+condicional-simple:
+  yo: recompondría
+  tu: recompondrías
+  vos: recompondrías
+  ud: recompondría
+  nosotros: recompondríamos
+  vosotros: recompondríais
+  uds: recompondrían
+presente-perfecto:
+  yo: he recompuesto
+  tu: has recompuesto
+  vos: has recompuesto
+  ud: ha recompuesto
+  nosotros: hemos recompuesto
+  vosotros: habéis recompuesto
+  uds: han recompuesto
+preterito-pluscuamperfecto:
+  yo: había recompuesto
+  tu: habías recompuesto
+  vos: habías recompuesto
+  ud: había recompuesto
+  nosotros: habíamos recompuesto
+  vosotros: habíais recompuesto
+  uds: habían recompuesto
+futuro-perfecto:
+  yo: habré recompuesto
+  tu: habrás recompuesto
+  vos: habrás recompuesto
+  ud: habrá recompuesto
+  nosotros: habremos recompuesto
+  vosotros: habréis recompuesto
+  uds: habrán recompuesto
+condicional-perfecto:
+  yo: habría recompuesto
+  tu: habrías recompuesto
+  vos: habrías recompuesto
+  ud: habría recompuesto
+  nosotros: habríamos recompuesto
+  vosotros: habríais recompuesto
+  uds: habrían recompuesto
+presente-subjuntivo:
+  yo: recomponga
+  tu: recompongas
+  vos: recompongas
+  ud: recomponga
+  nosotros: recompongamos
+  vosotros: recompongáis
+  uds: recompongan
+preterito-perfecto-subjuntivo:
+  yo: haya recompuesto
+  tu: hayas recompuesto
+  vos: hayas recompuesto
+  ud: haya recompuesto
+  nosotros: hayamos recompuesto
+  vosotros: hayáis recompuesto
+  uds: hayan recompuesto
+imperfecto-subjuntivo:
+  yo:
+    - recompusiera
+    - recomponiera
+  tu:
+    - recompusieras
+    - recomponieras
+  vos:
+    - recompusieras
+    - recomponieras
+  ud:
+    - recompusiera
+    - recomponiera
+  nosotros:
+    - recompusiéramos
+    - recompusiésemos
+  vosotros:
+    - recompusierais
+    - recomponierais
+  uds:
+    - recompusieran
+    - recomponieran
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recompuesto
+    - hubiese recompuesto
+  tu:
+    - hubieras recompuesto
+    - hubieses recompuesto
+  vos:
+    - hubieras recompuesto
+    - hubieses recompuesto
+  ud:
+    - hubiera recompuesto
+    - hubiese recompuesto
+  nosotros:
+    - hubiéramos recompuesto
+    - hubiésemos recompuesto
+  vosotros:
+    - hubierais recompuesto
+    - hubieseis recompuesto
+  uds:
+    - hubieran recompuesto
+    - hubiesen recompuesto
+imperativo:
+  tu: recompon
+  vos: recomponé
+  ud: recomponga
+  nosotros: recompongamos
+  vosotros: recomponed
+  uds: recompongan

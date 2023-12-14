@@ -1,0 +1,142 @@
+infinitivo: serenarse
+gerundio: serenándose
+participio-pasado: serenado
+presente-indicativo:
+  yo: me sereno
+  tu: te serenas
+  vos: te serenas
+  ud: se serena
+  nosotros: nos serenamos
+  vosotros: os serenáis
+  uds: se serenan
+preterito-perfecto-simple:
+  yo: me serené
+  tu: te serenaste
+  vos: te serenaste
+  ud: se serenó
+  nosotros: nos serenamos
+  vosotros: os serenasteis
+  uds: se serenaron
+preterito-imperfecto:
+  yo: me serenaba
+  tu: te serenabas
+  vos: te serenabas
+  ud: se serenaba
+  nosotros: nos serenábamos
+  vosotros: os serenabais
+  uds: se serenaban
+futuro-simple:
+  yo: me serenaré
+  tu: te serenarás
+  vos: te serenarás
+  ud: se serenará
+  nosotros: nos serenaremos
+  vosotros: os serenaréis
+  uds: se serenarán
+condicional-simple:
+  yo: me serenaría
+  tu: te serenarías
+  vos: te serenarías
+  ud: se serenaría
+  nosotros: nos serenaríamos
+  vosotros: os serenaríais
+  uds: se serenarían
+presente-perfecto:
+  yo: me he serenado
+  tu: te has serenado
+  vos: te has serenado
+  ud: se ha serenado
+  nosotros: nos hemos serenado
+  vosotros: os habéis serenado
+  uds: se han serenado
+preterito-pluscuamperfecto:
+  yo: me había serenado
+  tu: te habías serenado
+  vos: te habías serenado
+  ud: se había serenado
+  nosotros: nos habíamos serenado
+  vosotros: os habíais serenado
+  uds: se habían serenado
+futuro-perfecto:
+  yo: me habré serenado
+  tu: te habrás serenado
+  vos: te habrás serenado
+  ud: se habrá serenado
+  nosotros: nos habremos serenado
+  vosotros: os habréis serenado
+  uds: se habrán serenado
+condicional-perfecto:
+  yo: me habría serenado
+  tu: te habrías serenado
+  vos: te habrías serenado
+  ud: se habría serenado
+  nosotros: nos habríamos serenado
+  vosotros: os habríais serenado
+  uds: se habrían serenado
+presente-subjuntivo:
+  yo: me serene
+  tu: te serenes
+  vos: te serenes
+  ud: se serene
+  nosotros: nos serenemos
+  vosotros: os serenéis
+  uds: se serenen
+preterito-perfecto-subjuntivo:
+  yo: me haya serenado
+  tu: te hayas serenado
+  vos: te hayas serenado
+  ud: se haya serenado
+  nosotros: nos hayamos serenado
+  vosotros: os hayáis serenado
+  uds: se hayan serenado
+imperfecto-subjuntivo:
+  yo:
+    - me serenara
+    - me serenase
+  tu:
+    - te serenaras
+    - te serenases
+  vos:
+    - te serenaras
+    - te serenases
+  ud:
+    - se serenara
+    - se serenase
+  nosotros:
+    - nos serenáramos
+    - nos serenásemos
+  vosotros:
+    - os serenarais
+    - os serenaseis
+  uds:
+    - se serenaran
+    - se serenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera serenado
+    - me hubiese serenado
+  tu:
+    - te hubieras serenado
+    - te hubieses serenado
+  vos:
+    - te hubieras serenado
+    - te hubieses serenado
+  ud:
+    - se hubiera serenado
+    - se hubiese serenado
+  nosotros:
+    - nos hubiéramos serenado
+    - nos hubiésemos serenado
+  vosotros:
+    - os hubierais serenado
+    - os hubieseis serenado
+  uds:
+    - se hubieran serenado
+    - se hubiesen serenado
+imperativo:
+  tu: sérenate
+  vos: sérénate
+  ud: sérenese
+  nosotros: nos serenemos
+  vosotros: serenaos
+  uds: sérense

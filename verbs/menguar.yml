@@ -1,0 +1,142 @@
+infinitivo: menguar
+gerundio: menguando
+participio-pasado: menguado
+presente-indicativo:
+  yo: menguo
+  tu: menguas
+  vos: menguas
+  ud: mengua
+  nosotros: menguamos
+  vosotros: menguáis
+  uds: menguan
+preterito-perfecto-simple:
+  yo: mengüé
+  tu: menguaste
+  vos: menguaste
+  ud: menguó
+  nosotros: menguamos
+  vosotros: menguasteis
+  uds: menguaron
+preterito-imperfecto:
+  yo: menguaba
+  tu: menguabas
+  vos: menguabas
+  ud: menguaba
+  nosotros: menguábamos
+  vosotros: menguabais
+  uds: menguaban
+futuro-simple:
+  yo: menguaré
+  tu: menguarás
+  vos: menguarás
+  ud: menguará
+  nosotros: menguaremos
+  vosotros: menguaréis
+  uds: menguarán
+condicional-simple:
+  yo: menguaría
+  tu: menguarías
+  vos: menguarías
+  ud: menguaría
+  nosotros: menguaríamos
+  vosotros: menguaríais
+  uds: menguarían
+presente-perfecto:
+  yo: he menguado
+  tu: has menguado
+  vos: has menguado
+  ud: ha menguado
+  nosotros: hemos menguado
+  vosotros: habéis menguado
+  uds: han menguado
+preterito-pluscuamperfecto:
+  yo: había menguado
+  tu: habías menguado
+  vos: habías menguado
+  ud: había menguado
+  nosotros: habíamos menguado
+  vosotros: habíais menguado
+  uds: habían menguado
+futuro-perfecto:
+  yo: habré menguado
+  tu: habrás menguado
+  vos: habrás menguado
+  ud: habrá menguado
+  nosotros: habremos menguado
+  vosotros: habréis menguado
+  uds: habrán menguado
+condicional-perfecto:
+  yo: habría menguado
+  tu: habrías menguado
+  vos: habrías menguado
+  ud: habría menguado
+  nosotros: habríamos menguado
+  vosotros: habríais menguado
+  uds: habrían menguado
+presente-subjuntivo:
+  yo: mengüe
+  tu: mengües
+  vos: mengües
+  ud: mengüe
+  nosotros: menguemos
+  vosotros: menguéis
+  uds: mengüen
+preterito-perfecto-subjuntivo:
+  yo: haya menguado
+  tu: hayas menguado
+  vos: hayas menguado
+  ud: haya menguado
+  nosotros: hayamos menguado
+  vosotros: hayáis menguado
+  uds: hayan menguado
+imperfecto-subjuntivo:
+  yo:
+    - menguara
+    - menguase
+  tu:
+    - menguaras
+    - menguases
+  vos:
+    - menguaras
+    - menguases
+  ud:
+    - menguara
+    - menguase
+  nosotros:
+    - menguáramos
+    - menguásemos
+  vosotros:
+    - menguarais
+    - menguaseis
+  uds:
+    - menguaran
+    - menguasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera menguado
+    - hubiese menguado
+  tu:
+    - hubieras menguado
+    - hubieses menguado
+  vos:
+    - hubieras menguado
+    - hubieses menguado
+  ud:
+    - hubiera menguado
+    - hubiese menguado
+  nosotros:
+    - hubiéramos menguado
+    - hubiésemos menguado
+  vosotros:
+    - hubierais menguado
+    - hubieseis menguado
+  uds:
+    - hubieran menguado
+    - hubiesen menguado
+imperativo:
+  tu: mengua
+  vos: menguá
+  ud: mengüe
+  nosotros: menguemos
+  vosotros: menguad
+  uds: mengüen

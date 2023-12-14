@@ -1,0 +1,142 @@
+infinitivo: revisar
+gerundio: revisando
+participio-pasado: revisado
+presente-indicativo:
+  yo: reviso
+  tu: revisas
+  vos: revisas
+  ud: revisa
+  nosotros: revisamos
+  vosotros: revisáis
+  uds: revisan
+preterito-perfecto-simple:
+  yo: revisé
+  tu: revisaste
+  vos: revisaste
+  ud: revisó
+  nosotros: revisamos
+  vosotros: revisasteis
+  uds: revisaron
+preterito-imperfecto:
+  yo: revisaba
+  tu: revisabas
+  vos: revisabas
+  ud: revisaba
+  nosotros: revisábamos
+  vosotros: revisabais
+  uds: revisaban
+futuro-simple:
+  yo: revisaré
+  tu: revisarás
+  vos: revisarás
+  ud: revisará
+  nosotros: revisaremos
+  vosotros: revisaréis
+  uds: revisarán
+condicional-simple:
+  yo: revisaría
+  tu: revisarías
+  vos: revisarías
+  ud: revisaría
+  nosotros: revisaríamos
+  vosotros: revisaríais
+  uds: revisarían
+presente-perfecto:
+  yo: he revisado
+  tu: has revisado
+  vos: has revisado
+  ud: ha revisado
+  nosotros: hemos revisado
+  vosotros: habéis revisado
+  uds: han revisado
+preterito-pluscuamperfecto:
+  yo: había revisado
+  tu: habías revisado
+  vos: habías revisado
+  ud: había revisado
+  nosotros: habíamos revisado
+  vosotros: habíais revisado
+  uds: habían revisado
+futuro-perfecto:
+  yo: habré revisado
+  tu: habrás revisado
+  vos: habrás revisado
+  ud: habrá revisado
+  nosotros: habremos revisado
+  vosotros: habréis revisado
+  uds: habrán revisado
+condicional-perfecto:
+  yo: habría revisado
+  tu: habrías revisado
+  vos: habrías revisado
+  ud: habría revisado
+  nosotros: habríamos revisado
+  vosotros: habríais revisado
+  uds: habrían revisado
+presente-subjuntivo:
+  yo: revise
+  tu: revises
+  vos: revises
+  ud: revise
+  nosotros: revisemos
+  vosotros: reviséis
+  uds: revisen
+preterito-perfecto-subjuntivo:
+  yo: haya revisado
+  tu: hayas revisado
+  vos: hayas revisado
+  ud: haya revisado
+  nosotros: hayamos revisado
+  vosotros: hayáis revisado
+  uds: hayan revisado
+imperfecto-subjuntivo:
+  yo:
+    - revisara
+    - revisase
+  tu:
+    - revisaras
+    - revisases
+  vos:
+    - revisaras
+    - revisases
+  ud:
+    - revisara
+    - revisase
+  nosotros:
+    - revisáramos
+    - revisásemos
+  vosotros:
+    - revisarais
+    - revisaseis
+  uds:
+    - revisaran
+    - revisasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera revisado
+    - hubiese revisado
+  tu:
+    - hubieras revisado
+    - hubieses revisado
+  vos:
+    - hubieras revisado
+    - hubieses revisado
+  ud:
+    - hubiera revisado
+    - hubiese revisado
+  nosotros:
+    - hubiéramos revisado
+    - hubiésemos revisado
+  vosotros:
+    - hubierais revisado
+    - hubieseis revisado
+  uds:
+    - hubieran revisado
+    - hubiesen revisado
+imperativo:
+  tu: revisa
+  vos: revisá
+  ud: revise
+  nosotros: revisemos
+  vosotros: revisad
+  uds: revisen

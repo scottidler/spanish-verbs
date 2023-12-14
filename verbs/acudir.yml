@@ -1,0 +1,142 @@
+infinitivo: acudir
+gerundio: acudiendo
+participio-pasado: acudido
+presente-indicativo:
+  yo: acudo
+  tu: acudes
+  vos: acudes
+  ud: acude
+  nosotros: acudimos
+  vosotros: acudís
+  uds: acuden
+preterito-perfecto-simple:
+  yo: acudí
+  tu: acudiste
+  vos: acudiste
+  ud: acudió
+  nosotros: acudimos
+  vosotros: acudisteis
+  uds: acudieron
+preterito-imperfecto:
+  yo: acudía
+  tu: acudías
+  vos: acudías
+  ud: acudía
+  nosotros: acudíamos
+  vosotros: acudíais
+  uds: acudían
+futuro-simple:
+  yo: acudiré
+  tu: acudirás
+  vos: acudirás
+  ud: acudirá
+  nosotros: acudiremos
+  vosotros: acudiréis
+  uds: acudirán
+condicional-simple:
+  yo: acudiría
+  tu: acudirías
+  vos: acudirías
+  ud: acudiría
+  nosotros: acudiríamos
+  vosotros: acudiríais
+  uds: acudirían
+presente-perfecto:
+  yo: he acudido
+  tu: has acudido
+  vos: has acudido
+  ud: ha acudido
+  nosotros: hemos acudido
+  vosotros: habéis acudido
+  uds: han acudido
+preterito-pluscuamperfecto:
+  yo: había acudido
+  tu: habías acudido
+  vos: habías acudido
+  ud: había acudido
+  nosotros: habíamos acudido
+  vosotros: habíais acudido
+  uds: habían acudido
+futuro-perfecto:
+  yo: habré acudido
+  tu: habrás acudido
+  vos: habrás acudido
+  ud: habrá acudido
+  nosotros: habremos acudido
+  vosotros: habréis acudido
+  uds: habrán acudido
+condicional-perfecto:
+  yo: habría acudido
+  tu: habrías acudido
+  vos: habrías acudido
+  ud: habría acudido
+  nosotros: habríamos acudido
+  vosotros: habríais acudido
+  uds: habrían acudido
+presente-subjuntivo:
+  yo: acuda
+  tu: acudas
+  vos: acudas
+  ud: acuda
+  nosotros: acudamos
+  vosotros: acudáis
+  uds: acudan
+preterito-perfecto-subjuntivo:
+  yo: haya acudido
+  tu: hayas acudido
+  vos: hayas acudido
+  ud: haya acudido
+  nosotros: hayamos acudido
+  vosotros: hayáis acudido
+  uds: hayan acudido
+imperfecto-subjuntivo:
+  yo:
+    - acudiera
+    - acudiese
+  tu:
+    - acudieras
+    - acudieses
+  vos:
+    - acudieras
+    - acudieses
+  ud:
+    - acudiera
+    - acudiese
+  nosotros:
+    - acudiéramos
+    - acudiésemos
+  vosotros:
+    - acudierais
+    - acudieseis
+  uds:
+    - acudieran
+    - acudiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acudido
+    - hubiese acudido
+  tu:
+    - hubieras acudido
+    - hubieses acudido
+  vos:
+    - hubieras acudido
+    - hubieses acudido
+  ud:
+    - hubiera acudido
+    - hubiese acudido
+  nosotros:
+    - hubiéramos acudido
+    - hubiésemos acudido
+  vosotros:
+    - hubierais acudido
+    - hubieseis acudido
+  uds:
+    - hubieran acudido
+    - hubiesen acudido
+imperativo:
+  tu: acude
+  vos: acudí
+  ud: acuda
+  nosotros: acudamos
+  vosotros: acudid
+  uds: acudan

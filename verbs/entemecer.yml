@@ -1,0 +1,142 @@
+infinitivo: entemecer
+gerundio: entemezciendo
+participio-pasado: entemeído
+presente-indicativo:
+  yo: entemezco
+  tu: entemezces
+  vos: entemezces
+  ud: entemezce
+  nosotros: entemezcemos
+  vosotros: entemezcéis
+  uds: entemezcen
+preterito-perfecto-simple:
+  yo: entemezcí
+  tu: entemezció
+  vos: entemezció
+  ud: entemezció
+  nosotros: entemezcimos
+  vosotros: entemezcisteis
+  uds: entemezcieron
+preterito-imperfecto:
+  yo: entemezcía
+  tu: entemezcías
+  vos: entemezcías
+  ud: entemezcía
+  nosotros: entemezcíamos
+  vosotros: entemezcíais
+  uds: entemezcían
+futuro-simple:
+  yo: entemezceré
+  tu: entemezcerás
+  vos: entemezcerás
+  ud: entemezcerá
+  nosotros: entemezceremos
+  vosotros: entemezceréis
+  uds: entemezcerán
+condicional-simple:
+  yo: entemezcería
+  tu: entemezcerías
+  vos: entemezcerías
+  ud: entemezcería
+  nosotros: entemezceríamos
+  vosotros: entemezceríais
+  uds: entemezcerían
+presente-perfecto:
+  yo: he entemezcido
+  tu: has entemezcido
+  vos: has entemezcido
+  ud: ha entemezcido
+  nosotros: hemos entemezcido
+  vosotros: habéis entemezcido
+  uds: han entemezcido
+preterito-pluscuamperfecto:
+  yo: había entemezcido
+  tu: habías entemezcido
+  vos: habías entemezcido
+  ud: había entemezcido
+  nosotros: habíamos entemezcido
+  vosotros: habíais entemezcido
+  uds: habían entemezcido
+futuro-perfecto:
+  yo: habré entemezcido
+  tu: habrás entemezcido
+  vos: habrás entemezcido
+  ud: habrá entemezcido
+  nosotros: habremos entemezcido
+  vosotros: habréis entemezcido
+  uds: habrán entemezcido
+condicional-perfecto:
+  yo: habría entemezcido
+  tu: habrías entemezcido
+  vos: habrías entemezcido
+  ud: habría entemezcido
+  nosotros: habríamos entemezcido
+  vosotros: habríais entemezcido
+  uds: habrían entemezcido
+presente-subjuntivo:
+  yo: entemezca
+  tu: entemezcas
+  vos: entemezcas
+  ud: entemezca
+  nosotros: entemezcamos
+  vosotros: entemezcáis
+  uds: entemezcan
+preterito-perfecto-subjuntivo:
+  yo: haya entemezcido
+  tu: hayas entemezcido
+  vos: hayas entemezcido
+  ud: haya entemezcido
+  nosotros: hayamos entemezcido
+  vosotros: hayáis entemezcido
+  uds: hayan entemezcido
+imperfecto-subjuntivo:
+  yo:
+    - entemezciera
+    - entemezciese
+  tu:
+    - entemezcieras
+    - entemezcieses
+  vos:
+    - entemezcieras
+    - entemezcieses
+  ud:
+    - entemezciera
+    - entemezciese
+  nosotros:
+    - entemezcieramos
+    - entemezciésemos
+  vosotros:
+    - entemezcierais
+    - entemezcieseis
+  uds:
+    - entemezcieran
+    - entemezciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera entemezcido
+    - hubiese entemezcido
+  tu:
+    - hubieras entemezcido
+    - hubieses entemezcido
+  vos:
+    - hubieras entemezcido
+    - hubieses entemezcido
+  ud:
+    - hubiera entemezcido
+    - hubiese entemezcido
+  nosotros:
+    - hubiéramos entemezcido
+    - hubiésemos entemezcido
+  vosotros:
+    - hubierais entemezcido
+    - hubieseis entemezcido
+  uds:
+    - hubieran entemezcido
+    - hubiesen entemezcido
+imperativo:
+  tu: entemezce
+  vos: entemezcé
+  ud: entemezca
+  nosotros: entemezcamos
+  vosotros: entemezcid
+  uds: entemezcan

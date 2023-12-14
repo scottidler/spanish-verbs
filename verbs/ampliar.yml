@@ -1,0 +1,142 @@
+infinitivo: ampliar
+gerundio: ampliando
+participio-pasado: ampliado
+presente-indicativo:
+  yo: amplío
+  tu: amplías
+  vos: ampliás
+  ud: amplía
+  nosotros: ampliamos
+  vosotros: ampliáis
+  uds: amplían
+preterito-perfecto-simple:
+  yo: amplié
+  tu: ampliaste
+  vos: ampliaste
+  ud: amplió
+  nosotros: ampliamos
+  vosotros: ampliasteis
+  uds: ampliaron
+preterito-imperfecto:
+  yo: ampliaba
+  tu: ampliabas
+  vos: ampliabas
+  ud: ampliaba
+  nosotros: ampliábamos
+  vosotros: ampliabais
+  uds: ampliaban
+futuro-simple:
+  yo: ampliaré
+  tu: ampliarás
+  vos: ampliarás
+  ud: ampliará
+  nosotros: ampliaremos
+  vosotros: ampliaréis
+  uds: ampliarán
+condicional-simple:
+  yo: ampliaría
+  tu: ampliarías
+  vos: ampliarías
+  ud: ampliaría
+  nosotros: ampliaríamos
+  vosotros: ampliaríais
+  uds: ampliarían
+presente-perfecto:
+  yo: he ampliado
+  tu: has ampliado
+  vos: has ampliado
+  ud: ha ampliado
+  nosotros: hemos ampliado
+  vosotros: habéis ampliado
+  uds: han ampliado
+preterito-pluscuamperfecto:
+  yo: había ampliado
+  tu: habías ampliado
+  vos: habías ampliado
+  ud: había ampliado
+  nosotros: habíamos ampliado
+  vosotros: habíais ampliado
+  uds: habían ampliado
+futuro-perfecto:
+  yo: habré ampliado
+  tu: habrás ampliado
+  vos: habrás ampliado
+  ud: habrá ampliado
+  nosotros: habremos ampliado
+  vosotros: habréis ampliado
+  uds: habrán ampliado
+condicional-perfecto:
+  yo: habría ampliado
+  tu: habrías ampliado
+  vos: habrías ampliado
+  ud: habría ampliado
+  nosotros: habríamos ampliado
+  vosotros: habríais ampliado
+  uds: habrían ampliado
+presente-subjuntivo:
+  yo: amplíe
+  tu: amplíes
+  vos: amplíes
+  ud: amplíe
+  nosotros: ampliemos
+  vosotros: ampliéis
+  uds: amplíen
+preterito-perfecto-subjuntivo:
+  yo: haya ampliado
+  tu: hayas ampliado
+  vos: hayas ampliado
+  ud: haya ampliado
+  nosotros: hayamos ampliado
+  vosotros: hayáis ampliado
+  uds: hayan ampliado
+imperfecto-subjuntivo:
+  yo:
+    - ampliara
+    - ampliase
+  tu:
+    - ampliaras
+    - ampliases
+  vos:
+    - ampliaras
+    - ampliases
+  ud:
+    - ampliara
+    - ampliase
+  nosotros:
+    - ampliáramos
+    - ampliésemos
+  vosotros:
+    - ampliarais
+    - ampliaseis
+  uds:
+    - ampliaran
+    - ampliasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ampliado
+    - hubiese ampliado
+  tu:
+    - hubieras ampliado
+    - hubieses ampliado
+  vos:
+    - hubieras ampliado
+    - hubieses ampliado
+  ud:
+    - hubiera ampliado
+    - hubiese ampliado
+  nosotros:
+    - hubiéramos ampliado
+    - hubiésemos ampliado
+  vosotros:
+    - hubierais ampliado
+    - hubieseis ampliado
+  uds:
+    - hubieran ampliado
+    - hubiesen ampliado
+imperativo:
+  tu: amplía
+  vos: ampliá
+  ud: amplíe
+  nosotros: ampliemos
+  vosotros: ampliad
+  uds: amplíen

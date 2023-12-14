@@ -1,0 +1,142 @@
+infinitivo: fijar
+gerundio: fijando
+participio-pasado: fijado
+presente-indicativo:
+  yo: fijo
+  tu: fijas
+  vos: fijás
+  ud: fija
+  nosotros: fijamos
+  vosotros: fijáis
+  uds: fijan
+preterito-perfecto-simple:
+  yo: fijé
+  tu: fijaste
+  vos: fijaste
+  ud: fijó
+  nosotros: fijamos
+  vosotros: fijasteis
+  uds: fijaron
+preterito-imperfecto:
+  yo: fijaba
+  tu: fijabas
+  vos: fijabas
+  ud: fijaba
+  nosotros: fijábamos
+  vosotros: fijabais
+  uds: fijaban
+futuro-simple:
+  yo: fijaré
+  tu: fijarás
+  vos: fijarás
+  ud: fijará
+  nosotros: fijaremos
+  vosotros: fijaréis
+  uds: fijarán
+condicional-simple:
+  yo: fijaría
+  tu: fijarías
+  vos: fijarías
+  ud: fijaría
+  nosotros: fijaríamos
+  vosotros: fijaríais
+  uds: fijarían
+presente-perfecto:
+  yo: he fijado
+  tu: has fijado
+  vos: has fijado
+  ud: ha fijado
+  nosotros: hemos fijado
+  vosotros: habéis fijado
+  uds: han fijado
+preterito-pluscuamperfecto:
+  yo: había fijado
+  tu: habías fijado
+  vos: habías fijado
+  ud: había fijado
+  nosotros: habíamos fijado
+  vosotros: habíais fijado
+  uds: habían fijado
+futuro-perfecto:
+  yo: habré fijado
+  tu: habrás fijado
+  vos: habrás fijado
+  ud: habrá fijado
+  nosotros: habremos fijado
+  vosotros: habréis fijado
+  uds: habrán fijado
+condicional-perfecto:
+  yo: habría fijado
+  tu: habrías fijado
+  vos: habrías fijado
+  ud: habría fijado
+  nosotros: habríamos fijado
+  vosotros: habríais fijado
+  uds: habrían fijado
+presente-subjuntivo:
+  yo: fije
+  tu: fijes
+  vos: fijes
+  ud: fije
+  nosotros: fijemos
+  vosotros: fijéis
+  uds: fijen
+preterito-perfecto-subjuntivo:
+  yo: haya fijado
+  tu: hayas fijado
+  vos: hayas fijado
+  ud: haya fijado
+  nosotros: hayamos fijado
+  vosotros: hayáis fijado
+  uds: hayan fijado
+imperfecto-subjuntivo:
+  yo:
+    - fijara
+    - fijase
+  tu:
+    - fijaras
+    - fijases
+  vos:
+    - fijaras
+    - fijases
+  ud:
+    - fijara
+    - fijase
+  nosotros:
+    - fijáramos
+    - fijásemos
+  vosotros:
+    - fijarais
+    - fijaseis
+  uds:
+    - fijaran
+    - fijasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fijado
+    - hubiese fijado
+  tu:
+    - hubieras fijado
+    - hubieses fijado
+  vos:
+    - hubieras fijado
+    - hubieses fijado
+  ud:
+    - hubiera fijado
+    - hubiese fijado
+  nosotros:
+    - hubiéramos fijado
+    - hubiésemos fijado
+  vosotros:
+    - hubierais fijado
+    - hubieseis fijado
+  uds:
+    - hubieran fijado
+    - hubiesen fijado
+imperativo:
+  tu: fija
+  vos: fijá
+  ud: fije
+  nosotros: fijemos
+  vosotros: fijad
+  uds: fijen

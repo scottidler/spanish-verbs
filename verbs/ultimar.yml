@@ -1,0 +1,142 @@
+infinitivo: ultimar
+gerundio: ultimando
+participio-pasado: ultimado
+presente-indicativo: 
+  yo: ultimo
+  tu: ultimas
+  vos: ultimas
+  ud: ultima
+  nosotros: ultimamos
+  vosotros: ultimáis
+  uds: ultiman
+preterito-perfecto-simple: 
+  yo: ultimé
+  tu: ultimaste
+  vos: ultimaste
+  ud: ultimó
+  nosotros: ultimamos
+  vosotros: ultimasteis
+  uds: ultimaron
+preterito-imperfecto: 
+  yo: ultimaba
+  tu: ultimabas
+  vos: ultimabas
+  ud: ultimaba
+  nosotros: ultimábamos
+  vosotros: ultimabais
+  uds: ultimaban
+futuro-simple: 
+  yo: ultimaré
+  tu: ultimarás
+  vos: ultimarás
+  ud: ultimará
+  nosotros: ultimaremos
+  vosotros: ultimaréis
+  uds: ultimarán
+condicional-simple: 
+  yo: ultimaría
+  tu: ultimarías
+  vos: ultimarías
+  ud: ultimaría
+  nosotros: ultimaríamos
+  vosotros: ultimaríais
+  uds: ultimarían
+presente-perfecto: 
+  yo: he ultimado
+  tu: has ultimado
+  vos: has ultimado
+  ud: ha ultimado
+  nosotros: hemos ultimado
+  vosotros: habéis ultimado
+  uds: han ultimado
+preterito-pluscuamperfecto: 
+  yo: había ultimado
+  tu: habías ultimado
+  vos: habías ultimado
+  ud: había ultimado
+  nosotros: habíamos ultimado
+  vosotros: habíais ultimado
+  uds: habían ultimado
+futuro-perfecto: 
+  yo: habré ultimado
+  tu: habrás ultimado
+  vos: habrás ultimado
+  ud: habrá ultimado
+  nosotros: habremos ultimado
+  vosotros: habréis ultimado
+  uds: habrán ultimado
+condicional-perfecto: 
+  yo: habría ultimado
+  tu: habrías ultimado
+  vos: habrías ultimado
+  ud: habría ultimado
+  nosotros: habríamos ultimado
+  vosotros: habríais ultimado
+  uds: habrían ultimado
+presente-subjuntivo: 
+  yo: ultime
+  tu: ultimes
+  vos: ultimes
+  ud: ultime
+  nosotros: ultimemos
+  vosotros: ultiméis
+  uds: ultimen
+preterito-perfecto-subjuntivo: 
+  yo: haya ultimado
+  tu: hayas ultimado
+  vos: hayas ultimado
+  ud: haya ultimado
+  nosotros: hayamos ultimado
+  vosotros: hayáis ultimado
+  uds: hayan ultimado
+imperfecto-subjuntivo: 
+  yo:
+    - ultimara
+    - ultimase
+  tu:
+    - ultimaras
+    - ultimases
+  vos:
+    - ultimaras
+    - ultimases
+  ud:
+    - ultimara
+    - ultimase
+  nosotros:
+    - ultimáramos
+    - ultimásemos
+  vosotros:
+    - ultimarais
+    - ultimaseis
+  uds:
+    - ultimaran
+    - ultimasen
+pluscuamperfecto-subjuntivo: 
+  yo:
+    - hubiera ultimado
+    - hubiese ultimado
+  tu:
+    - hubieras ultimado
+    - hubieses ultimado
+  vos:
+    - hubieras ultimado
+    - hubieses ultimado
+  ud:
+    - hubiera ultimado
+    - hubiese ultimado
+  nosotros:
+    - hubiéramos ultimado
+    - hubiésemos ultimado
+  vosotros:
+    - hubierais ultimado
+    - hubieseis ultimado
+  uds:
+    - hubieran ultimado
+    - hubiesen ultimado
+imperativo: 
+  tu: ultima
+  vos: ultimá
+  ud: ultime
+  nosotros: ultimemos
+  vosotros: ultimad
+  uds: ultimen

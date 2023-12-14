@@ -1,0 +1,142 @@
+infinitivo: definir
+gerundio: definiendo
+participio-pasado: definido
+presente-indicativo:
+  yo: defino
+  tu: defines
+  vos: defines
+  ud: define
+  nosotros: definimos
+  vosotros: definís
+  uds: definen
+preterito-perfecto-simple:
+  yo: definí
+  tu: definiste
+  vos: definiste
+  ud: definió
+  nosotros: definimos
+  vosotros: definisteis
+  uds: definieron
+preterito-imperfecto:
+  yo: definía
+  tu: definías
+  vos: definías
+  ud: definía
+  nosotros: definíamos
+  vosotros: definíais
+  uds: definían
+futuro-simple:
+  yo: definiré
+  tu: definirás
+  vos: definirás
+  ud: definirá
+  nosotros: definiremos
+  vosotros: definiréis
+  uds: definirán
+condicional-simple:
+  yo: definiría
+  tu: definirías
+  vos: definirías
+  ud: definiría
+  nosotros: definiríamos
+  vosotros: definiríais
+  uds: definirían
+presente-perfecto:
+  yo: he definido
+  tu: has definido
+  vos: has definido
+  ud: ha definido
+  nosotros: hemos definido
+  vosotros: habéis definido
+  uds: han definido
+preterito-pluscuamperfecto:
+  yo: había definido
+  tu: habías definido
+  vos: habías definido
+  ud: había definido
+  nosotros: habíamos definido
+  vosotros: habíais definido
+  uds: habían definido
+futuro-perfecto:
+  yo: habré definido
+  tu: habrás definido
+  vos: habrás definido
+  ud: habrá definido
+  nosotros: habremos definido
+  vosotros: habréis definido
+  uds: habrán definido
+condicional-perfecto:
+  yo: habría definido
+  tu: habrías definido
+  vos: habrías definido
+  ud: habría definido
+  nosotros: habríamos definido
+  vosotros: habríais definido
+  uds: habrían definido
+presente-subjuntivo:
+  yo: defina
+  tu: definas
+  vos: definas
+  ud: defina
+  nosotros: definamos
+  vosotros: defináis
+  uds: definan
+preterito-perfecto-subjuntivo:
+  yo: haya definido
+  tu: hayas definido
+  vos: hayas definido
+  ud: haya definido
+  nosotros: hayamos definido
+  vosotros: hayáis definido
+  uds: hayan definido
+imperfecto-subjuntivo:
+  yo:
+    - definiera
+    - definiese
+  tu:
+    - definieras
+    - definieses
+  vos:
+    - definieras
+    - definieses
+  ud:
+    - definiera
+    - definiese
+  nosotros:
+    - definiéramos
+    - definiésemos
+  vosotros:
+    - definierais
+    - definieseis
+  uds:
+    - definieran
+    - definiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera definido
+    - hubiese definido
+  tu:
+    - hubieras definido
+    - hubieses definido
+  vos:
+    - hubieras definido
+    - hubieses definido
+  ud:
+    - hubiera definido
+    - hubiese definido
+  nosotros:
+    - hubiéramos definido
+    - hubiésemos definido
+  vosotros:
+    - hubierais definido
+    - hubieseis definido
+  uds:
+    - hubieran definido
+    - hubiesen definido
+imperativo:
+  tu: define
+  vos: definí
+  ud: defina
+  nosotros: definamos
+  vosotros: definid
+  uds: definan

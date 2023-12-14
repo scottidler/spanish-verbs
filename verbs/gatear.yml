@@ -1,0 +1,142 @@
+infinitivo: gatear
+gerundio: gateando
+participio-pasado: gateado
+presente-indicativo:
+  yo: gateo
+  tu: gateas
+  vos: gateas
+  ud: gatea
+  nosotros: gateamos
+  vosotros: gateáis
+  uds: gatean
+preterito-perfecto-simple:
+  yo: gateé
+  tu: gateaste
+  vos: gateaste
+  ud: gateó
+  nosotros: gateamos
+  vosotros: gateasteis
+  uds: gatearon
+preterito-imperfecto:
+  yo: gateaba
+  tu: gateabas
+  vos: gateabas
+  ud: gateaba
+  nosotros: gateábamos
+  vosotros: gateabais
+  uds: gateaban
+futuro-simple:
+  yo: gatearé
+  tu: gatearás
+  vos: gatearás
+  ud: gateará
+  nosotros: gatearemos
+  vosotros: gatearéis
+  uds: gatearán
+condicional-simple:
+  yo: gatearía
+  tu: gatearías
+  vos: gatearías
+  ud: gatearía
+  nosotros: gatearíamos
+  vosotros: gatearíais
+  uds: gatearían
+presente-perfecto:
+  yo: he gateado
+  tu: has gateado
+  vos: has gateado
+  ud: ha gateado
+  nosotros: hemos gateado
+  vosotros: habéis gateado
+  uds: han gateado
+preterito-pluscuamperfecto:
+  yo: había gateado
+  tu: habías gateado
+  vos: habías gateado
+  ud: había gateado
+  nosotros: habíamos gateado
+  vosotros: habíais gateado
+  uds: habían gateado
+futuro-perfecto:
+  yo: habré gateado
+  tu: habrás gateado
+  vos: habrás gateado
+  ud: habrá gateado
+  nosotros: habremos gateado
+  vosotros: habréis gateado
+  uds: habrán gateado
+condicional-perfecto:
+  yo: habría gateado
+  tu: habrías gateado
+  vos: habrías gateado
+  ud: habría gateado
+  nosotros: habríamos gateado
+  vosotros: habríais gateado
+  uds: habrían gateado
+presente-subjuntivo:
+  yo: gatee
+  tu: gatees
+  vos: gatees
+  ud: gatee
+  nosotros: gateemos
+  vosotros: gateéis
+  uds: gateen
+preterito-perfecto-subjuntivo:
+  yo: haya gateado
+  tu: hayas gateado
+  vos: hayas gateado
+  ud: haya gateado
+  nosotros: hayamos gateado
+  vosotros: hayáis gateado
+  uds: hayan gateado
+imperfecto-subjuntivo:
+  yo:
+    - gateara
+    - gatease
+  tu:
+    - gatearas
+    - gateases
+  vos:
+    - gatearas
+    - gateases
+  ud:
+    - gateara
+    - gatease
+  nosotros:
+    - gateáramos
+    - gateásemos
+  vosotros:
+    - gatearais
+    - gateaseis
+  uds:
+    - gatearan
+    - gateasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gateado
+    - hubiese gateado
+  tu:
+    - hubieras gateado
+    - hubieses gateado
+  vos:
+    - hubieras gateado
+    - hubieses gateado
+  ud:
+    - hubiera gateado
+    - hubiese gateado
+  nosotros:
+    - hubiéramos gateado
+    - hubiésemos gateado
+  vosotros:
+    - hubierais gateado
+    - hubieseis gateado
+  uds:
+    - hubieran gateado
+    - hubiesen gateado
+imperativo:
+  tu: gatea
+  vos: gateá
+  ud: gatee
+  nosotros: gateemos
+  vosotros: gatead
+  uds: gateen

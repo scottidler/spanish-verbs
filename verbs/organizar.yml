@@ -1,0 +1,142 @@
+infinitivo: organizar
+gerundio: organizando
+participio-pasado: organizado
+presente-indicativo:
+  yo: organizo
+  tu: organizas
+  vos: organizas
+  ud: organiza
+  nosotros: organizamos
+  vosotros: organizáis
+  uds: organizan
+preterito-perfecto-simple:
+  yo: organicé
+  tu: organizaste
+  vos: organizaste
+  ud: organizó
+  nosotros: organizamos
+  vosotros: organizasteis
+  uds: organizaron
+preterito-imperfecto:
+  yo: organizaba
+  tu: organizabas
+  vos: organizabas
+  ud: organizaba
+  nosotros: organizábamos
+  vosotros: organizabais
+  uds: organizaban
+futuro-simple:
+  yo: organizaré
+  tu: organizarás
+  vos: organizarás
+  ud: organizará
+  nosotros: organizaremos
+  vosotros: organizaréis
+  uds: organizarán
+condicional-simple:
+  yo: organizaría
+  tu: organizarías
+  vos: organizarías
+  ud: organizaría
+  nosotros: organizaríamos
+  vosotros: organizaríais
+  uds: organizarían
+presente-perfecto:
+  yo: he organizado
+  tu: has organizado
+  vos: has organizado
+  ud: ha organizado
+  nosotros: hemos organizado
+  vosotros: habéis organizado
+  uds: han organizado
+preterito-pluscuamperfecto:
+  yo: había organizado
+  tu: habías organizado
+  vos: habías organizado
+  ud: había organizado
+  nosotros: habíamos organizado
+  vosotros: habíais organizado
+  uds: habían organizado
+futuro-perfecto:
+  yo: habré organizado
+  tu: habrás organizado
+  vos: habrás organizado
+  ud: habrá organizado
+  nosotros: habremos organizado
+  vosotros: habréis organizado
+  uds: habrán organizado
+condicional-perfecto:
+  yo: habría organizado
+  tu: habrías organizado
+  vos: habrías organizado
+  ud: habría organizado
+  nosotros: habríamos organizado
+  vosotros: habríais organizado
+  uds: habrían organizado
+presente-subjuntivo:
+  yo: organice
+  tu: organices
+  vos: organices
+  ud: organice
+  nosotros: organicemos
+  vosotros: organicéis
+  uds: organicen
+preterito-perfecto-subjuntivo:
+  yo: haya organizado
+  tu: hayas organizado
+  vos: hayas organizado
+  ud: haya organizado
+  nosotros: hayamos organizado
+  vosotros: hayáis organizado
+  uds: hayan organizado
+imperfecto-subjuntivo:
+  yo:
+    - organizara
+    - organizase
+  tu:
+    - organizaras
+    - organizases
+  vos:
+    - organizaras
+    - organizases
+  ud:
+    - organizara
+    - organizase
+  nosotros:
+    - organizáramos
+    - organizásemos
+  vosotros:
+    - organizarais
+    - organizaseis
+  uds:
+    - organizaran
+    - organizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera organizado
+    - hubiese organizado
+  tu:
+    - hubieras organizado
+    - hubieses organizado
+  vos:
+    - hubieras organizado
+    - hubieses organizado
+  ud:
+    - hubiera organizado
+    - hubiese organizado
+  nosotros:
+    - hubiéramos organizado
+    - hubiésemos organizado
+  vosotros:
+    - hubierais organizado
+    - hubieseis organizado
+  uds:
+    - hubieran organizado
+    - hubiesen organizado
+imperativo:
+  tu: organiza
+  vos: organizá
+  ud: organice
+  nosotros: organicemos
+  vosotros: organizad
+  uds: organicen

@@ -1,0 +1,142 @@
+infinitivo: encarar
+gerundio: encarando
+participio-pasado: encarado
+presente-indicativo:
+  yo: encaro
+  tu: encaras
+  vos: encarás
+  ud: encara
+  nosotros: encaramos
+  vosotros: encaráis
+  uds: encaran
+preterito-perfecto-simple:
+  yo: encaré
+  tu: encaraste
+  vos: encaraste
+  ud: encaró
+  nosotros: encaramos
+  vosotros: encarasteis
+  uds: encararon
+preterito-imperfecto:
+  yo: encaraba
+  tu: encarabas
+  vos: encarabas
+  ud: encaraba
+  nosotros: encarábamos
+  vosotros: encarabais
+  uds: encaraban
+futuro-simple:
+  yo: encararé
+  tu: encararás
+  vos: encararás
+  ud: encarará
+  nosotros: encararemos
+  vosotros: encararéis
+  uds: encararán
+condicional-simple:
+  yo: encararía
+  tu: encararías
+  vos: encararías
+  ud: encararía
+  nosotros: encararíamos
+  vosotros: encararíais
+  uds: encararían
+presente-perfecto:
+  yo: he encarado
+  tu: has encarado
+  vos: has encarado
+  ud: ha encarado
+  nosotros: hemos encarado
+  vosotros: habéis encarado
+  uds: han encarado
+preterito-pluscuamperfecto:
+  yo: había encarado
+  tu: habías encarado
+  vos: habías encarado
+  ud: había encarado
+  nosotros: habíamos encarado
+  vosotros: habíais encarado
+  uds: habían encarado
+futuro-perfecto:
+  yo: habré encarado
+  tu: habrás encarado
+  vos: habrás encarado
+  ud: habrá encarado
+  nosotros: habremos encarado
+  vosotros: habréis encarado
+  uds: habrán encarado
+condicional-perfecto:
+  yo: habría encarado
+  tu: habrías encarado
+  vos: habrías encarado
+  ud: habría encarado
+  nosotros: habríamos encarado
+  vosotros: habríais encarado
+  uds: habrían encarado
+presente-subjuntivo:
+  yo: encare
+  tu: encares
+  vos: encares
+  ud: encare
+  nosotros: encaremos
+  vosotros: encaréis
+  uds: encaren
+preterito-perfecto-subjuntivo:
+  yo: haya encarado
+  tu: hayas encarado
+  vos: hayas encarado
+  ud: haya encarado
+  nosotros: hayamos encarado
+  vosotros: hayáis encarado
+  uds: hayan encarado
+imperfecto-subjuntivo:
+  yo:
+    - encarara
+    - encarase
+  tu:
+    - encararas
+    - encarases
+  vos:
+    - encararas
+    - encarases
+  ud:
+    - encarara
+    - encarase
+  nosotros:
+    - encaráramos
+    - encarásemos
+  vosotros:
+    - encararais
+    - encaraseis
+  uds:
+    - encararan
+    - encarasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encarado
+    - hubiese encarado
+  tu:
+    - hubieras encarado
+    - hubieses encarado
+  vos:
+    - hubieras encarado
+    - hubieses encarado
+  ud:
+    - hubiera encarado
+    - hubiese encarado
+  nosotros:
+    - hubiéramos encarado
+    - hubiésemos encarado
+  vosotros:
+    - hubierais encarado
+    - hubieseis encarado
+  uds:
+    - hubieran encarado
+    - hubiesen encarado
+imperativo:
+  tu: encara
+  vos: encará
+  ud: encare
+  nosotros: encaremos
+  vosotros: encarad
+  uds: encaren

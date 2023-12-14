@@ -1,0 +1,142 @@
+infinitivo: cocear
+gerundio: coceando
+participio-pasado: coceado
+presente-indicativo:
+  yo: coceo
+  tu: coceas
+  vos: coceas
+  ud: cocea
+  nosotros: coceamos
+  vosotros: coceáis
+  uds: cocean
+preterito-perfecto-simple:
+  yo: cocee
+  tu: coceaste
+  vos: coceaste
+  ud: coceó
+  nosotros: coceamos
+  vosotros: coceasteis
+  uds: cocearon
+preterito-imperfecto:
+  yo: coceaba
+  tu: coceabas
+  vos: coceabas
+  ud: coceaba
+  nosotros: coceábamos
+  vosotros: coceabais
+  uds: coceaban
+futuro-simple:
+  yo: cocearé
+  tu: cocearás
+  vos: cocearás
+  ud: coceará
+  nosotros: cocearemos
+  vosotros: cocearéis
+  uds: cocearán
+condicional-simple:
+  yo: cocearía
+  tu: cocearías
+  vos: cocearías
+  ud: cocearía
+  nosotros: cocearíamos
+  vosotros: cocearíais
+  uds: cocearían
+presente-perfecto:
+  yo: he coceado
+  tu: has coceado
+  vos: has coceado
+  ud: ha coceado
+  nosotros: hemos coceado
+  vosotros: habéis coceado
+  uds: han coceado
+preterito-pluscuamperfecto:
+  yo: había coceado
+  tu: habías coceado
+  vos: habías coceado
+  ud: había coceado
+  nosotros: habíamos coceado
+  vosotros: habíais coceado
+  uds: habían coceado
+futuro-perfecto:
+  yo: habré coceado
+  tu: habrás coceado
+  vos: habrás coceado
+  ud: habrá coceado
+  nosotros: habremos coceado
+  vosotros: habréis coceado
+  uds: habrán coceado
+condicional-perfecto:
+  yo: habría coceado
+  tu: habrías coceado
+  vos: habrías coceado
+  ud: habría coceado
+  nosotros: habríamos coceado
+  vosotros: habríais coceado
+  uds: habrían coceado
+presente-subjuntivo:
+  yo: cocee
+  tu: cocees
+  vos: cocees
+  ud: cocee
+  nosotros: coceemos
+  vosotros: coceéis
+  uds: coceen
+preterito-perfecto-subjuntivo:
+  yo: haya coceado
+  tu: hayas coceado
+  vos: hayas coceado
+  ud: haya coceado
+  nosotros: hayamos coceado
+  vosotros: hayáis coceado
+  uds: hayan coceado
+imperfecto-subjuntivo:
+  yo:
+    - coceara
+    - cociese
+  tu:
+    - cocearas
+    - cocieses
+  vos:
+    - cocearas
+    - cocieses
+  ud:
+    - coceara
+    - cociese
+  nosotros:
+    - coceáramos
+    - coceásemos
+  vosotros:
+    - cocearais
+    - cocieseis
+  uds:
+    - cocearan
+    - cociesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera coceado
+    - hubiese coceado
+  tu:
+    - hubieras coceado
+    - hubieses coceado
+  vos:
+    - hubieras coceado
+    - hubieses coceado
+  ud:
+    - hubiera coceado
+    - hubiese coceado
+  nosotros:
+    - hubiéramos coceado
+    - hubiésemos coceado
+  vosotros:
+    - hubierais coceado
+    - hubieseis coceado
+  uds:
+    - hubieran coceado
+    - hubiesen coceado
+imperativo:
+  tu: cocea
+  vos: coceá
+  ud: cocea
+  nosotros: coceemos
+  vosotros: cocead
+  uds: coceen

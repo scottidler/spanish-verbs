@@ -1,0 +1,142 @@
+infinitivo: desagradar
+gerundio: desagradando
+participio-pasado: desagradado
+presente-indicativo:
+  yo: desagrado
+  tu: desagradas
+  vos: desagradas
+  ud: desagrada
+  nosotros: desagradamos
+  vosotros: desagradáis
+  uds: desagradan
+preterito-perfecto-simple:
+  yo: desagradé
+  tu: desagradaste
+  vos: desagradaste
+  ud: desagrado
+  nosotros: desagradamos
+  vosotros: desagradasteis
+  uds: desagradaron
+preterito-imperfecto:
+  yo: desagradaba
+  tu: desagradabas
+  vos: desagradabas
+  ud: desagradaba
+  nosotros: desagradábamos
+  vosotros: desagradabais
+  uds: desagradaban
+futuro-simple:
+  yo: desagradaré
+  tu: desagradarás
+  vos: desagradarás
+  ud: desagradará
+  nosotros: desagradaremos
+  vosotros: desagradaréis
+  uds: desagradarán
+condicional-simple:
+  yo: desagradaría
+  tu: desagradarías
+  vos: desagradarías
+  ud: desagradaría
+  nosotros: desagradaríamos
+  vosotros: desagradaríais
+  uds: desagradarían
+presente-perfecto:
+  yo: he desagradado
+  tu: has desagradado
+  vos: has desagradado
+  ud: ha desagradado
+  nosotros: hemos desagradado
+  vosotros: habéis desagradado
+  uds: han desagradado
+preterito-pluscuamperfecto:
+  yo: había desagradado
+  tu: habías desagradado
+  vos: habías desagradado
+  ud: había desagradado
+  nosotros: habíamos desagradado
+  vosotros: habíais desagradado
+  uds: habían desagradado
+futuro-perfecto:
+  yo: habré desagradado
+  tu: habrás desagradado
+  vos: habrás desagradado
+  ud: habrá desagradado
+  nosotros: habremos desagradado
+  vosotros: habréis desagradado
+  uds: habrán desagradado
+condicional-perfecto:
+  yo: habría desagradado
+  tu: habrías desagradado
+  vos: habrías desagradado
+  ud: habría desagradado
+  nosotros: habríamos desagradado
+  vosotros: habríais desagradado
+  uds: habrían desagradado
+presente-subjuntivo:
+  yo: desagrade
+  tu: desagrades
+  vos: desagrades
+  ud: desagrade
+  nosotros: desagrademos
+  vosotros: desagradéis
+  uds: desagraden
+preterito-perfecto-subjuntivo:
+  yo: haya desagradado
+  tu: hayas desagradado
+  vos: hayas desagradado
+  ud: haya desagradado
+  nosotros: hayamos desagradado
+  vosotros: hayáis desagradado
+  uds: hayan desagradado
+imperfecto-subjuntivo:
+  yo:
+    - desagradara
+    - desagradase
+  tu:
+    - desagradaras
+    - desagradases
+  vos:
+    - desagradaras
+    - desagradases
+  ud:
+    - desagradara
+    - desagradase
+  nosotros:
+    - desagradáramos
+    - desagradásemos
+  vosotros:
+    - desagradarais
+    - desagradaseis
+  uds:
+    - desagradaran
+    - desagradasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desagradado
+    - hubiese desagradado
+  tu:
+    - hubieras desagradado
+    - hubieses desagradado
+  vos:
+    - hubieras desagradado
+    - hubieses desagradado
+  ud:
+    - hubiera desagradado
+    - hubiese desagradado
+  nosotros:
+    - hubiéramos desagradado
+    - hubiésemos desagradado
+  vosotros:
+    - hubierais desagradado
+    - hubieseis desagradado
+  uds:
+    - hubieran desagradado
+    - hubiesen desagradado
+imperativo:
+  tu: desagrada
+  vos: desagradá
+  ud: desagrade
+  nosotros: desagrademos
+  vosotros: desagradad
+  uds: desagraden

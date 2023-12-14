@@ -1,0 +1,156 @@
+infinitivo: dejadlar
+gerundio: dejadlando
+participio-pasado: dejadlado
+
+presente-indicativo:
+  yo: dejadlo
+  tu: dejadlas
+  vos: dejadlas
+  ud: dejadla
+  nosotros: dejadlamos
+  vosotros: dejadláis
+  uds: dejadlan
+
+preterito-perfecto-simple:
+  yo: dejadlé
+  tu: dejadlaste
+  vos: dejadlaste
+  ud: dejadló
+  nosotros: dejadlamos
+  vosotros: dejadlasteis
+  uds: dejadlaron
+
+preterito-imperfecto:
+  yo: dejadlaba
+  tu: dejadlabas
+  vos: dejadlabas
+  ud: dejadlaba
+  nosotros: dejadlábamos
+  vosotros: dejadlabais
+  uds: dejadlaban
+
+futuro-simple:
+  yo: dejadlaré
+  tu: dejadlarás
+  vos: dejadlarás
+  ud: dejadlará
+  nosotros: dejadlaremos
+  vosotros: dejadlaréis
+  uds: dejadlarán
+
+condicional-simple:
+  yo: dejadlaría
+  tu: dejadlarías
+  vos: dejadlarías
+  ud: dejadlaría
+  nosotros: dejadlaríamos
+  vosotros: dejadlaríais
+  uds: dejadlarían
+
+presente-perfecto:
+  yo: he dejadlado
+  tu: has dejadlado
+  vos: has dejadlado
+  ud: ha dejadlado
+  nosotros: hemos dejadlado
+  vosotros: habéis dejadlado
+  uds: han dejadlado
+
+preterito-pluscuamperfecto:
+  yo: había dejadlado
+  tu: habías dejadlado
+  vos: habías dejadlado
+  ud: había dejadlado
+  nosotros: habíamos dejadlado
+  vosotros: habíais dejadlado
+  uds: habían dejadlado
+
+futuro-perfecto:
+  yo: habré dejadlado
+  tu: habrás dejadlado
+  vos: habrás dejadlado
+  ud: habrá dejadlado
+  nosotros: habremos dejadlado
+  vosotros: habréis dejadlado
+  uds: habrán dejadlado
+
+condicional-perfecto:
+  yo: habría dejadlado
+  tu: habrías dejadlado
+  vos: habrías dejadlado
+  ud: habría dejadlado
+  nosotros: habríamos dejadlado
+  vosotros: habríais dejadlado
+  uds: habrían dejadlado
+
+presente-subjuntivo:
+  yo: dejadla
+  tu: dejadlas
+  vos: dejadlas
+  ud: dejadla
+  nosotros: dejadlamos
+  vosotros: dejadláis
+  uds: dejadlan
+
+preterito-perfecto-subjuntivo:
+  yo: haya dejadlado
+  tu: hayas dejadlado
+  vos: hayas dejadlado
+  ud: haya dejadlado
+  nosotros: hayamos dejadlado
+  vosotros: hayáis dejadlado
+  uds: hayan dejadlado
+
+imperfecto-subjuntivo:
+  yo:
+    - dejadlara
+    - dejadlase
+  tu:
+    - dejadlaras
+    - dejadlases
+  vos:
+    - dejadlaras
+    - dejadlases
+  ud:
+    - dejadlara
+    - dejadlase
+  nosotros:
+    - dejadláramos
+    - dejadlásemos
+  vosotros:
+    - dejadlarais
+    - dejadlaseis
+  uds:
+    - dejadlaran
+    - dejadlasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dejadlado
+    - hubiese dejadlado
+  tu:
+    - hubieras dejadlado
+    - hubieses dejadlado
+  vos:
+    - hubieras dejadlado
+    - hubieses dejadlado
+  ud:
+    - hubiera dejadlado
+    - hubiese dejadlado
+  nosotros:
+    - hubiéramos dejadlado
+    - hubiésemos dejadlado
+  vosotros:
+    - hubierais dejadlado
+    - hubieseis dejadlado
+  uds:
+    - hubieran dejadlado
+    - hubiesen dejadlado
+
+imperativo:
+  tu: dejadla
+  vos: dejadlá
+  ud: dejadla
+  nosotros: dejadlamos
+  vosotros: dejadlad
+  uds: dejadlan

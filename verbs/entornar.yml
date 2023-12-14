@@ -1,0 +1,142 @@
+infinitivo: entornar
+gerundio: entornando
+participio-pasado: entornado
+presente-indicativo:
+  yo: entorno
+  tu: entornas
+  vos: entornas
+  ud: entorna
+  nosotros: entornamos
+  vosotros: entornáis
+  uds: entornan
+preterito-perfecto-simple:
+  yo: entorné
+  tu: entornaste
+  vos: entornaste
+  ud: entornó
+  nosotros: entornamos
+  vosotros: entornasteis
+  uds: entornaron
+preterito-imperfecto:
+  yo: entornaba
+  tu: entornabas
+  vos: entornabas
+  ud: entornaba
+  nosotros: entornábamos
+  vosotros: entornabais
+  uds: entornaban
+futuro-simple:
+  yo: entornaré
+  tu: entornarás
+  vos: entornarás
+  ud: entornará
+  nosotros: entornaremos
+  vosotros: entornaréis
+  uds: entornarán
+condicional-simple:
+  yo: entornaría
+  tu: entornarías
+  vos: entornarías
+  ud: entornaría
+  nosotros: entornaríamos
+  vosotros: entornaríais
+  uds: entornarían
+presente-perfecto:
+  yo: he entornado
+  tu: has entornado
+  vos: has entornado
+  ud: ha entornado
+  nosotros: hemos entornado
+  vosotros: habéis entornado
+  uds: han entornado
+preterito-pluscuamperfecto:
+  yo: había entornado
+  tu: habías entornado
+  vos: habías entornado
+  ud: había entornado
+  nosotros: habíamos entornado
+  vosotros: habíais entornado
+  uds: habían entornado
+futuro-perfecto:
+  yo: habré entornado
+  tu: habrás entornado
+  vos: habrás entornado
+  ud: habrá entornado
+  nosotros: habremos entornado
+  vosotros: habréis entornado
+  uds: habrán entornado
+condicional-perfecto:
+  yo: habría entornado
+  tu: habrías entornado
+  vos: habrías entornado
+  ud: habría entornado
+  nosotros: habríamos entornado
+  vosotros: habríais entornado
+  uds: habrían entornado
+presente-subjuntivo:
+  yo: entorne
+  tu: entornes
+  vos: entornes
+  ud: entorne
+  nosotros: entornemos
+  vosotros: entornéis
+  uds: entornen
+preterito-perfecto-subjuntivo:
+  yo: haya entornado
+  tu: hayas entornado
+  vos: hayas entornado
+  ud: haya entornado
+  nosotros: hayamos entornado
+  vosotros: hayáis entornado
+  uds: hayan entornado
+imperfecto-subjuntivo:
+  yo:
+    - entornara
+    - entornase
+  tu:
+    - entornaras
+    - entornases
+  vos:
+    - entornaras
+    - entornases
+  ud:
+    - entornara
+    - entornase
+  nosotros:
+    - entornáramos
+    - entornásemos
+  vosotros:
+    - entornarais
+    - entornaseis
+  uds:
+    - entornaran
+    - entornasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera entornado
+    - hubiese entornado
+  tu:
+    - hubieras entornado
+    - hubieses entornado
+  vos:
+    - hubieras entornado
+    - hubieses entornado
+  ud:
+    - hubiera entornado
+    - hubiese entornado
+  nosotros:
+    - hubiéramos entornado
+    - hubiésemos entornado
+  vosotros:
+    - hubierais entornado
+    - hubieseis entornado
+  uds:
+    - hubieran entornado
+    - hubiesen entornado
+imperativo:
+  tu: entorna
+  vos: entorná
+  ud: entorne
+  nosotros: entornemos
+  vosotros: entornad
+  uds: entornen

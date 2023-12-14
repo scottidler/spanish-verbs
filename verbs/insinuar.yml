@@ -1,0 +1,142 @@
+infinitivo: insinuar
+gerundio: insinuando
+participio-pasado: insinuado
+presente-indicativo:
+  yo: insinúo
+  tu: insinúas
+  vos: insinuás
+  ud: insinúa
+  nosotros: insinuamos
+  vosotros: insinuáis
+  uds: insinúan
+preterito-perfecto-simple:
+  yo: insinué
+  tu: insinuaste
+  vos: insinuaste
+  ud: insinuó
+  nosotros: insinuamos
+  vosotros: insinuasteis
+  uds: insinuaron
+preterito-imperfecto:
+  yo: insinuaba
+  tu: insinuabas
+  vos: insinuabas
+  ud: insinuaba
+  nosotros: insinuábamos
+  vosotros: insinuabais
+  uds: insinuaban
+futuro-simple:
+  yo: insinuaré
+  tu: insinuarás
+  vos: insinuarás
+  ud: insinuará
+  nosotros: insinuaremos
+  vosotros: insinuaréis
+  uds: insinuarán
+condicional-simple:
+  yo: insinuaría
+  tu: insinuarías
+  vos: insinuarías
+  ud: insinuaría
+  nosotros: insinuaríamos
+  vosotros: insinuaríais
+  uds: insinuarían
+presente-perfecto:
+  yo: he insinuado
+  tu: has insinuado
+  vos: has insinuado
+  ud: ha insinuado
+  nosotros: hemos insinuado
+  vosotros: habéis insinuado
+  uds: han insinuado
+preterito-pluscuamperfecto:
+  yo: había insinuado
+  tu: habías insinuado
+  vos: habías insinuado
+  ud: había insinuado
+  nosotros: habíamos insinuado
+  vosotros: habíais insinuado
+  uds: habían insinuado
+futuro-perfecto:
+  yo: habré insinuado
+  tu: habrás insinuado
+  vos: habrás insinuado
+  ud: habrá insinuado
+  nosotros: habremos insinuado
+  vosotros: habréis insinuado
+  uds: habrán insinuado
+condicional-perfecto:
+  yo: habría insinuado
+  tu: habrías insinuado
+  vos: habrías insinuado
+  ud: habría insinuado
+  nosotros: habríamos insinuado
+  vosotros: habríais insinuado
+  uds: habrían insinuado
+presente-subjuntivo:
+  yo: insinúe
+  tu: insinúes
+  vos: insinúes
+  ud: insinúe
+  nosotros: insinuemos
+  vosotros: insinuéis
+  uds: insinúen
+preterito-perfecto-subjuntivo:
+  yo: haya insinuado
+  tu: hayas insinuado
+  vos: hayas insinuado
+  ud: haya insinuado
+  nosotros: hayamos insinuado
+  vosotros: hayáis insinuado
+  uds: hayan insinuado
+imperfecto-subjuntivo:
+  yo:
+    - insinuara
+    - insinuase
+  tu:
+    - insinuaras
+    - insinuases
+  vos:
+    - insinuaras
+    - insinuases
+  ud:
+    - insinuara
+    - insinuase
+  nosotros:
+    - insinuáramos
+    - insinuásemos
+  vosotros:
+    - insinuarais
+    - insinuaseis
+  uds:
+    - insinuaran
+    - insinuasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera insinuado
+    - hubiese insinuado
+  tu:
+    - hubieras insinuado
+    - hubieses insinuado
+  vos:
+    - hubieras insinuado
+    - hubieses insinuado
+  ud:
+    - hubiera insinuado
+    - hubiese insinuado
+  nosotros:
+    - hubiéramos insinuado
+    - hubiésemos insinuado
+  vosotros:
+    - hubierais insinuado
+    - hubieseis insinuado
+  uds:
+    - hubieran insinuado
+    - hubiesen insinuado
+imperativo:
+  tu: insinúa
+  vos: insinuá
+  ud: insinúe
+  nosotros: insinuemos
+  vosotros: insinuad
+  uds: insinúen

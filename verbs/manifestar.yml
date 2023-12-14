@@ -1,0 +1,142 @@
+infinitivo: manifestar
+gerundio: manifestando
+participio-pasado: manifestado
+presente-indicativo:
+  yo: manifiesto
+  tu: manifiestas
+  vos: manifiestas
+  ud: manifiesta
+  nosotros: manifestamos
+  vosotros: manifestáis
+  uds: manifiestan
+preterito-perfecto-simple:
+  yo: manifesté
+  tu: manifestaste
+  vos: manifestaste
+  ud: manifestó
+  nosotros: manifestamos
+  vosotros: manifestasteis
+  uds: manifestaron
+preterito-imperfecto:
+  yo: manifestaba
+  tu: manifestabas
+  vos: manifestabas
+  ud: manifestaba
+  nosotros: manifestábamos
+  vosotros: manifestabais
+  uds: manifestaban
+futuro-simple:
+  yo: manifestaré
+  tu: manifestarás
+  vos: manifestarás
+  ud: manifestará
+  nosotros: manifestaremos
+  vosotros: manifestaréis
+  uds: manifestarán
+condicional-simple:
+  yo: manifestaría
+  tu: manifestarías
+  vos: manifestarías
+  ud: manifestaría
+  nosotros: manifestaríamos
+  vosotros: manifestaríais
+  uds: manifestarían
+presente-perfecto:
+  yo: he manifestado
+  tu: has manifestado
+  vos: has manifestado
+  ud: ha manifestado
+  nosotros: hemos manifestado
+  vosotros: habéis manifestado
+  uds: han manifestado
+preterito-pluscuamperfecto:
+  yo: había manifestado
+  tu: habías manifestado
+  vos: habías manifestado
+  ud: había manifestado
+  nosotros: habíamos manifestado
+  vosotros: habíais manifestado
+  uds: habían manifestado
+futuro-perfecto:
+  yo: habré manifestado
+  tu: habrás manifestado
+  vos: habrás manifestado
+  ud: habrá manifestado
+  nosotros: habremos manifestado
+  vosotros: habréis manifestado
+  uds: habrán manifestado
+condicional-perfecto:
+  yo: habría manifestado
+  tu: habrías manifestado
+  vos: habrías manifestado
+  ud: habría manifestado
+  nosotros: habríamos manifestado
+  vosotros: habríais manifestado
+  uds: habrían manifestado
+presente-subjuntivo:
+  yo: manifieste
+  tu: manifiestes
+  vos: manifiestes
+  ud: manifieste
+  nosotros: manifestemos
+  vosotros: manifestéis
+  uds: manifiesten
+preterito-perfecto-subjuntivo:
+  yo: haya manifestado
+  tu: hayas manifestado
+  vos: hayas manifestado
+  ud: haya manifestado
+  nosotros: hayamos manifestado
+  vosotros: hayáis manifestado
+  uds: hayan manifestado
+imperfecto-subjuntivo:
+  yo:
+    - manifestara
+    - manifestase
+  tu:
+    - manifestaras
+    - manifestases
+  vos:
+    - manifestaras
+    - manifestases
+  ud:
+    - manifestara
+    - manifestase
+  nosotros:
+    - manifestáramos
+    - manifestásemos
+  vosotros:
+    - manifestarais
+    - manifestaseis
+  uds:
+    - manifestaran
+    - manifestasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera manifestado
+    - hubiese manifestado
+  tu:
+    - hubieras manifestado
+    - hubieses manifestado
+  vos:
+    - hubieras manifestado
+    - hubieses manifestado
+  ud:
+    - hubiera manifestado
+    - hubiese manifestado
+  nosotros:
+    - hubiéramos manifestado
+    - hubiésemos manifestado
+  vosotros:
+    - hubierais manifestado
+    - hubieseis manifestado
+  uds:
+    - hubieran manifestado
+    - hubiesen manifestado
+imperativo:
+  tu: manifiesta
+  vos: manifiestá
+  ud: manifieste
+  nosotros: manifestemos
+  vosotros: manifestad
+  uds: manifiesten

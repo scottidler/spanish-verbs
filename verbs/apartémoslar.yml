@@ -1,0 +1,142 @@
+infinitivo: apartémoslar
+gerundio: apartémoslando
+participio-pasado: apartémoslado
+presente-indicativo:
+  yo: apartémoslo
+  tu: apartémoslas
+  vos: apartémoslas
+  ud: apartémosla
+  nosotros: apartémoslamos
+  vosotros: apartémosláis
+  uds: apartémoslan
+preterito-perfecto-simple:
+  yo: apartémoslé
+  tu: apartémoslaste
+  vos: apartémoslaste
+  ud: apartémosló
+  nosotros: apartémoslamos
+  vosotros: apartémoslasteis
+  uds: apartémoslaron
+preterito-imperfecto:
+  yo: apartémoslaba
+  tu: apartémoslabas
+  vos: apartémoslabas
+  ud: apartémoslaba
+  nosotros: apartémoslábamos
+  vosotros: apartémoslabais
+  uds: apartémoslaban
+futuro-simple:
+  yo: apartémoslaré
+  tu: apartémoslarás
+  vos: apartémoslarás
+  ud: apartémoslará
+  nosotros: apartémoslaremos
+  vosotros: apartémoslaréis
+  uds: apartémoslarán
+condicional-simple:
+  yo: apartémoslaría
+  tu: apartémoslarías
+  vos: apartémoslarías
+  ud: apartémoslaría
+  nosotros: apartémoslaríamos
+  vosotros: apartémoslaríais
+  uds: apartémoslarían
+presente-perfecto:
+  yo: he apartémoslado
+  tu: has apartémoslado
+  vos: has apartémoslado
+  ud: ha apartémoslado
+  nosotros: hemos apartémoslado
+  vosotros: habéis apartémoslado
+  uds: han apartémoslado
+preterito-pluscuamperfecto:
+  yo: había apartémoslado
+  tu: habías apartémoslado
+  vos: habías apartémoslado
+  ud: había apartémoslado
+  nosotros: habíamos apartémoslado
+  vosotros: habíais apartémoslado
+  uds: habían apartémoslado
+futuro-perfecto:
+  yo: habré apartémoslado
+  tu: habrás apartémoslado
+  vos: habrás apartémoslado
+  ud: habrá apartémoslado
+  nosotros: habremos apartémoslado
+  vosotros: habréis apartémoslado
+  uds: habrán apartémoslado
+condicional-perfecto:
+  yo: habría apartémoslado
+  tu: habrías apartémoslado
+  vos: habrías apartémoslado
+  ud: habría apartémoslado
+  nosotros: habríamos apartémoslado
+  vosotros: habríais apartémoslado
+  uds: habrían apartémoslado
+presente-subjuntivo:
+  yo: apartémosle
+  tu: apartémosles
+  vos: apartémosles
+  ud: apartémosle
+  nosotros: apartémoslemos
+  vosotros: apartémosléis
+  uds: apartémoslen
+preterito-perfecto-subjuntivo:
+  yo: haya apartémoslado
+  tu: hayas apartémoslado
+  vos: hayas apartémoslado
+  ud: haya apartémoslado
+  nosotros: hayamos apartémoslado
+  vosotros: hayáis apartémoslado
+  uds: hayan apartémoslado
+imperfecto-subjuntivo:
+  yo:
+    - apartémoslara
+    - apartémoslase
+  tu:
+    - apartémoslaras
+    - apartémoslases
+  vos:
+    - apartémoslaras
+    - apartémoslases
+  ud:
+    - apartémoslara
+    - apartémoslase
+  nosotros:
+    - apartémosláramos
+    - apartémoslásemos
+  vosotros:
+    - apartémoslarais
+    - apartémoslaseis
+  uds:
+    - apartémoslaran
+    - apartémoslasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apartémoslado
+    - hubiese apartémoslado
+  tu:
+    - hubieras apartémoslado
+    - hubieses apartémoslado
+  vos:
+    - hubieras apartémoslado
+    - hubieses apartémoslado
+  ud:
+    - hubiera apartémoslado
+    - hubiese apartémoslado
+  nosotros:
+    - hubiéramos apartémoslado
+    - hubiésemos apartémoslado
+  vosotros:
+    - hubierais apartémoslado
+    - hubieseis apartémoslado
+  uds:
+    - hubieran apartémoslado
+    - hubiesen apartémoslado
+imperativo:
+  tu: apartémoslá
+  vos: apartémoslá
+  ud: apartémosle
+  nosotros: apartémoslemos
+  vosotros: apartémoslad
+  uds: apartémoslen

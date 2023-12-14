@@ -1,0 +1,142 @@
+infinitivo: descifrar
+gerundio: descifrando
+participio-pasado: descifrado
+presente-indicativo:
+  yo: descifro
+  tu: descifras
+  vos: descifras
+  ud: descifra
+  nosotros: desciframos
+  vosotros: descifrÃ¡is
+  uds: descifran
+preterito-perfecto-simple:
+  yo: descifrÃ©
+  tu: descifraste
+  vos: descifraste
+  ud: descifrÃ³
+  nosotros: desciframos
+  vosotros: descifrasteis
+  uds: descifraron
+preterito-imperfecto:
+  yo: descifraba
+  tu: descifrabas
+  vos: descifrabas
+  ud: descifraba
+  nosotros: descifrÃ¡bamos
+  vosotros: descifrabais
+  uds: descifraban
+futuro-simple:
+  yo: descifrarÃ©
+  tu: descifrarÃ¡s
+  vos: descifrarÃ¡s
+  ud: descifrarÃ¡
+  nosotros: descifraremos
+  vosotros: descifrarÃ©is
+  uds: descifrarÃ¡n
+condicional-simple:
+  yo: descifrarÃ­a
+  tu: descifrarÃ­as
+  vos: descifrarÃ­as
+  ud: descifrarÃ­a
+  nosotros: descifrarÃ­amos
+  vosotros: descifrarÃ­ais
+  uds: descifrarÃ­an
+presente-perfecto:
+  yo: he descifrado
+  tu: has descifrado
+  vos: has descifrado
+  ud: ha descifrado
+  nosotros: hemos descifrado
+  vosotros: habÃ©is descifrado
+  uds: han descifrado
+preterito-pluscuamperfecto:
+  yo: habÃ­a descifrado
+  tu: habÃ­as descifrado
+  vos: habÃ­as descifrado
+  ud: habÃ­a descifrado
+  nosotros: habÃ­amos descifrado
+  vosotros: habÃ­ais descifrado
+  uds: habÃ­an descifrado
+futuro-perfecto:
+  yo: habrÃ© descifrado
+  tu: habrÃ¡s descifrado
+  vos: habrÃ¡s descifrado
+  ud: habrÃ¡ descifrado
+  nosotros: habremos descifrado
+  vosotros: habrÃ©is descifrado
+  uds: habrÃ¡n descifrado
+condicional-perfecto:
+  yo: habrÃ­a descifrado
+  tu: habrÃ­as descifrado
+  vos: habrÃ­as descifrado
+  ud: habrÃ­a descifrado
+  nosotros: habrÃ­amos descifrado
+  vosotros: habrÃ­ais descifrado
+  uds: habrÃ­an descifrado
+presente-subjuntivo:
+  yo: descifre
+  tu: descifres
+  vos: descifres
+  ud: descifre
+  nosotros: descifremos
+  vosotros: descifrÃ©is
+  uds: descifren
+preterito-perfecto-subjuntivo:
+  yo: haya descifrado
+  tu: hayas descifrado
+  vos: hayas descifrado
+  ud: haya descifrado
+  nosotros: hayamos descifrado
+  vosotros: hayÃ¡is descifrado
+  uds: hayan descifrado
+imperfecto-subjuntivo:
+  yo:
+    - descifrara
+    - descifrase
+  tu:
+    - descifraras
+    - descifrases
+  vos:
+    - descifraras
+    - descifrases
+  ud:
+    - descifrara
+    - descifrase
+  nosotros:
+    - descifrÃ¡ramos
+    - descifrÃ¡semos
+  vosotros:
+    - descifrarais
+    - descifraseis
+  uds:
+    - descifraran
+    - descifrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera descifrado
+    - hubiese descifrado
+  tu:
+    - hubieras descifrado
+    - hubieses descifrado
+  vos:
+    - hubieras descifrado
+    - hubieses descifrado
+  ud:
+    - hubiera descifrado
+    - hubiese descifrado
+  nosotros:
+    - hubiÃ©ramos descifrado
+    - hubiÃ©semos descifrado
+  vosotros:
+    - hubierais descifrado
+    - hubieseis descifrado
+  uds:
+    - hubieran descifrado
+    - hubiesen descifrado
+imperativo:
+  tu: descifra
+  vos: descifrÃ¡
+  ud: descifre
+  nosotros: descifremos
+  vosotros: descifrad
+  uds: descifren

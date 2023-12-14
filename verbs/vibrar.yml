@@ -1,0 +1,142 @@
+infinitivo: vibrar
+gerundio: vibrando
+participio-pasado: vibrado
+presente-indicativo:
+  yo: vibro
+  tu: vibras
+  vos: vibras
+  ud: vibra
+  nosotros: vibramos
+  vosotros: vibráis
+  uds: vibran
+preterito-perfecto-simple:
+  yo: vibré
+  tu: vibraste
+  vos: vibraste
+  ud: vibró
+  nosotros: vibramos
+  vosotros: vibrasteis
+  uds: vibraron
+preterito-imperfecto:
+  yo: vibraba
+  tu: vibrabas
+  vos: vibrabas
+  ud: vibraba
+  nosotros: vibrábamos
+  vosotros: vibrabais
+  uds: vibraban
+futuro-simple:
+  yo: vibraré
+  tu: vibrarás
+  vos: vibrarás
+  ud: vibrará
+  nosotros: vibraremos
+  vosotros: vibraréis
+  uds: vibrarán
+condicional-simple:
+  yo: vibraría
+  tu: vibrarías
+  vos: vibrarías
+  ud: vibraría
+  nosotros: vibraríamos
+  vosotros: vibraríais
+  uds: vibrarían
+presente-perfecto:
+  yo: he vibrado
+  tu: has vibrado
+  vos: has vibrado
+  ud: ha vibrado
+  nosotros: hemos vibrado
+  vosotros: habéis vibrado
+  uds: han vibrado
+preterito-pluscuamperfecto:
+  yo: había vibrado
+  tu: habías vibrado
+  vos: habías vibrado
+  ud: había vibrado
+  nosotros: habíamos vibrado
+  vosotros: habíais vibrado
+  uds: habían vibrado
+futuro-perfecto:
+  yo: habré vibrado
+  tu: habrás vibrado
+  vos: habrás vibrado
+  ud: habrá vibrado
+  nosotros: habremos vibrado
+  vosotros: habréis vibrado
+  uds: habrán vibrado
+condicional-perfecto:
+  yo: habría vibrado
+  tu: habrías vibrado
+  vos: habrías vibrado
+  ud: habría vibrado
+  nosotros: habríamos vibrado
+  vosotros: habríais vibrado
+  uds: habrían vibrado
+presente-subjuntivo:
+  yo: vibre
+  tu: vibres
+  vos: vibres
+  ud: vibre
+  nosotros: vibremos
+  vosotros: vibréis
+  uds: vibren
+preterito-perfecto-subjuntivo:
+  yo: haya vibrado
+  tu: hayas vibrado
+  vos: hayas vibrado
+  ud: haya vibrado
+  nosotros: hayamos vibrado
+  vosotros: hayáis vibrado
+  uds: hayan vibrado
+imperfecto-subjuntivo:
+  yo:
+    - vibrara
+    - vibrase
+  tu:
+    - vibraras
+    - vibrases
+  vos:
+    - vibraras
+    - vibrases
+  ud:
+    - vibrara
+    - vibrase
+  nosotros:
+    - vibráramos
+    - vibrásemos
+  vosotros:
+    - vibrarais
+    - vibraseis
+  uds:
+    - vibraran
+    - vibrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vibrado
+    - hubiese vibrado
+  tu:
+    - hubieras vibrado
+    - hubieses vibrado
+  vos:
+    - hubieras vibrado
+    - hubieses vibrado
+  ud:
+    - hubiera vibrado
+    - hubiese vibrado
+  nosotros:
+    - hubiéramos vibrado
+    - hubiésemos vibrado
+  vosotros:
+    - hubierais vibrado
+    - hubieseis vibrado
+  uds:
+    - hubieran vibrado
+    - hubiesen vibrado
+imperativo:
+  tu: vibra
+  vos: vibrá
+  ud: vibre
+  nosotros: vibremos
+  vosotros: vibrad
+  uds: vibren

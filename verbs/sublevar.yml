@@ -1,0 +1,142 @@
+infinitivo: sublevar
+gerundio: sublevando
+participio-pasado: sublevado
+presente-indicativo:
+  yo: sublevo
+  tu: sublevas
+  vos: sublevas
+  ud: subleva
+  nosotros: sublevamos
+  vosotros: subleváis
+  uds: sublevan
+preterito-perfecto-simple:
+  yo: subleve
+  tu: sublevaste
+  vos: sublevaste
+  ud: sublevó
+  nosotros: sublevamos
+  vosotros: sublevasteis
+  uds: sublevaron
+preterito-imperfecto:
+  yo: sublevaba
+  tu: sublevabas
+  vos: sublevabas
+  ud: sublevaba
+  nosotros: sublevábamos
+  vosotros: sublevabais
+  uds: sublevaban
+futuro-simple:
+  yo: sublevaré
+  tu: sublevarás
+  vos: sublevarás
+  ud: sublevará
+  nosotros: sublevaremos
+  vosotros: sublevaréis
+  uds: sublevarán
+condicional-simple:
+  yo: sublevaría
+  tu: sublevarías
+  vos: sublevarías
+  ud: sublevaría
+  nosotros: sublevaríamos
+  vosotros: sublevaríais
+  uds: sublevarían
+presente-perfecto:
+  yo: he sublevado
+  tu: has sublevado
+  vos: has sublevado
+  ud: ha sublevado
+  nosotros: hemos sublevado
+  vosotros: habéis sublevado
+  uds: han sublevado
+preterito-pluscuamperfecto:
+  yo: había sublevado
+  tu: habías sublevado
+  vos: habías sublevado
+  ud: había sublevado
+  nosotros: habíamos sublevado
+  vosotros: habíais sublevado
+  uds: habían sublevado
+futuro-perfecto:
+  yo: habré sublevado
+  tu: habrás sublevado
+  vos: habrás sublevado
+  ud: habrá sublevado
+  nosotros: habremos sublevado
+  vosotros: habréis sublevado
+  uds: habrán sublevado
+condicional-perfecto:
+  yo: habría sublevado
+  tu: habrías sublevado
+  vos: habrías sublevado
+  ud: habría sublevado
+  nosotros: habríamos sublevado
+  vosotros: habríais sublevado
+  uds: habrían sublevado
+presente-subjuntivo:
+  yo: subleve
+  tu: subleves
+  vos: subleves
+  ud: subleve
+  nosotros: sublevemos
+  vosotros: sublevéis
+  uds: subleven
+preterito-perfecto-subjuntivo:
+  yo: haya sublevado
+  tu: hayas sublevado
+  vos: hayas sublevado
+  ud: haya sublevado
+  nosotros: hayamos sublevado
+  vosotros: hayáis sublevado
+  uds: hayan sublevado
+imperfecto-subjuntivo:
+  yo:
+    - sublevara
+    - sublevase
+  tu:
+    - sublevaras
+    - sublevases
+  vos:
+    - sublevaras
+    - sublevases
+  ud:
+    - sublevara
+    - sublevase
+  nosotros:
+    - subleváramos
+    - sublevásemos
+  vosotros:
+    - sublevarais
+    - sublevaseis
+  uds:
+    - sublevaran
+    - sublevasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sublevado
+    - hubiese sublevado
+  tu:
+    - hubieras sublevado
+    - hubieses sublevado
+  vos:
+    - hubieras sublevado
+    - hubieses sublevado
+  ud:
+    - hubiera sublevado
+    - hubiese sublevado
+  nosotros:
+    - hubiéramos sublevado
+    - hubiésemos sublevado
+  vosotros:
+    - hubierais sublevado
+    - hubieseis sublevado
+  uds:
+    - hubieran sublevado
+    - hubiesen sublevado
+imperativo:
+  tu: subleva
+  vos: sublevá
+  ud: subleve
+  nosotros: sublevemos
+  vosotros: sublevad
+  uds: subleven

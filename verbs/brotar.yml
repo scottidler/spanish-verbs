@@ -1,0 +1,142 @@
+infinitivo: brotar
+gerundio: brotando
+participio-pasado: brotado
+presente-indicativo:
+  yo: broto
+  tu: brotas
+  vos: brotás
+  ud: brota
+  nosotros: brotamos
+  vosotros: brotáis
+  uds: brotan
+preterito-perfecto-simple:
+  yo: broté
+  tu: brotaste
+  vos: brotaste
+  ud: brotó
+  nosotros: brotamos
+  vosotros: brotasteis
+  uds: brotaron
+preterito-imperfecto:
+  yo: brotaba
+  tu: brotabas
+  vos: brotabas
+  ud: brotaba
+  nosotros: brotábamos
+  vosotros: brotabais
+  uds: brotaban
+futuro-simple:
+  yo: brotaré
+  tu: brotarás
+  vos: brotarás
+  ud: brotará
+  nosotros: brotaremos
+  vosotros: brotaréis
+  uds: brotarán
+condicional-simple:
+  yo: brotaría
+  tu: brotarías
+  vos: brotarías
+  ud: brotaría
+  nosotros: brotaríamos
+  vosotros: brotaríais
+  uds: brotarían
+presente-perfecto:
+  yo: he brotado
+  tu: has brotado
+  vos: has brotado
+  ud: ha brotado
+  nosotros: hemos brotado
+  vosotros: habéis brotado
+  uds: han brotado
+preterito-pluscuamperfecto:
+  yo: había brotado
+  tu: habías brotado
+  vos: habías brotado
+  ud: había brotado
+  nosotros: habíamos brotado
+  vosotros: habíais brotado
+  uds: habían brotado
+futuro-perfecto:
+  yo: habré brotado
+  tu: habrás brotado
+  vos: habrás brotado
+  ud: habrá brotado
+  nosotros: habremos brotado
+  vosotros: habréis brotado
+  uds: habrán brotado
+condicional-perfecto:
+  yo: habría brotado
+  tu: habrías brotado
+  vos: habrías brotado
+  ud: habría brotado
+  nosotros: habríamos brotado
+  vosotros: habríais brotado
+  uds: habrían brotado
+presente-subjuntivo:
+  yo: brote
+  tu: brotes
+  vos: brotes
+  ud: brote
+  nosotros: brotemos
+  vosotros: brotéis
+  uds: broten
+preterito-perfecto-subjuntivo:
+  yo: haya brotado
+  tu: hayas brotado
+  vos: hayas brotado
+  ud: haya brotado
+  nosotros: hayamos brotado
+  vosotros: hayáis brotado
+  uds: hayan brotado
+imperfecto-subjuntivo:
+  yo:
+    - brotara
+    - brotase
+  tu:
+    - brotaras
+    - brotases
+  vos:
+    - brotaras
+    - brotases
+  ud:
+    - brotara
+    - brotase
+  nosotros:
+    - brotáramos
+    - brotásemos
+  vosotros:
+    - brotarais
+    - brotaseis
+  uds:
+    - brotaran
+    - brotasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera brotado
+    - hubiese brotado
+  tu:
+    - hubieras brotado
+    - hubieses brotado
+  vos:
+    - hubieras brotado
+    - hubieses brotado
+  ud:
+    - hubiera brotado
+    - hubiese brotado
+  nosotros:
+    - hubiéramos brotado
+    - hubiésemos brotado
+  vosotros:
+    - hubierais brotado
+    - hubieseis brotado
+  uds:
+    - hubieran brotado
+    - hubiesen brotado
+imperativo:
+  tu: brota
+  vos: brotá
+  ud: brote
+  nosotros: brotemos
+  vosotros: brotad
+  uds: broten

@@ -1,0 +1,156 @@
+infinitivo: internarse
+gerundio: internándose
+participio-pasado: internado
+
+presente-indicativo:
+  yo: me interno
+  tu: te internas
+  vos: te internas
+  ud: se interna
+  nosotros: nos internamos
+  vosotros: os internáis
+  uds: se internan
+
+preterito-perfecto-simple:
+  yo: me interné
+  tu: te internaste
+  vos: te internaste
+  ud: se internó
+  nosotros: nos internamos
+  vosotros: os internasteis
+  uds: se internaron
+
+preterito-imperfecto:
+  yo: me internaba
+  tu: te internabas
+  vos: te internabas
+  ud: se internaba
+  nosotros: nos internábamos
+  vosotros: os internabais
+  uds: se internaban
+
+futuro-simple:
+  yo: me internaré
+  tu: te internarás
+  vos: te internarás
+  ud: se internará
+  nosotros: nos internaremos
+  vosotros: os internaréis
+  uds: se internarán
+
+condicional-simple:
+  yo: me internaría
+  tu: te internarías
+  vos: te internarías
+  ud: se internaría
+  nosotros: nos internaríamos
+  vosotros: os internaríais
+  uds: se internarían
+
+presente-perfecto:
+  yo: me he internado
+  tu: te has internado
+  vos: te has internado
+  ud: se ha internado
+  nosotros: nos hemos internado
+  vosotros: os habéis internado
+  uds: se han internado
+
+preterito-pluscuamperfecto:
+  yo: me había internado
+  tu: te habías internado
+  vos: te habías internado
+  ud: se había internado
+  nosotros: nos habíamos internado
+  vosotros: os habíais internado
+  uds: se habían internado
+
+futuro-perfecto:
+  yo: me habré internado
+  tu: te habrás internado
+  vos: te habrás internado
+  ud: se habrá internado
+  nosotros: nos habremos internado
+  vosotros: os habréis internado
+  uds: se habrán internado
+
+condicional-perfecto:
+  yo: me habría internado
+  tu: te habrías internado
+  vos: te habrías internado
+  ud: se habría internado
+  nosotros: nos habríamos internado
+  vosotros: os habríais internado
+  uds: se habrían internado
+
+presente-subjuntivo:
+  yo: me interna
+  tu: te internas
+  vos: te internas
+  ud: se interna
+  nosotros: nos internemos
+  vosotros: os internéis
+  uds: se internen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya internado
+  tu: te hayas internado
+  vos: te hayas internado
+  ud: se haya internado
+  nosotros: nos hayamos internado
+  vosotros: os hayáis internado
+  uds: se hayan internado
+
+imperfecto-subjuntivo:
+  yo:
+    - me internara
+    - me internase
+  tu:
+    - te internaras
+    - te internases
+  vos:
+    - te internaras
+    - te internases
+  ud:
+    - se internara
+    - se internase
+  nosotros:
+    - nos internáramos
+    - nos internásemos
+  vosotros:
+    - os internarais
+    - os internaseis
+  uds:
+    - se internaran
+    - se internasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera internado
+    - me hubiese internado
+  tu:
+    - te hubieras internado
+    - te hubieses internado
+  vos:
+    - te hubieras internado
+    - te hubieses internado
+  ud:
+    - se hubiera internado
+    - se hubiese internado
+  nosotros:
+    - nos hubiéramos internado
+    - nos hubiésemos internado
+  vosotros:
+    - os hubierais internado
+    - os hubieseis internado
+  uds:
+    - se hubieran internado
+    - se hubiesen internado
+
+imperativo:
+  tu: internate
+  vos: internáte
+  ud: intérnese
+  nosotros: internémonos
+  vosotros: internaos
+  uds: internense

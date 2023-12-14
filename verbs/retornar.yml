@@ -1,0 +1,142 @@
+infinitivo: retornar
+gerundio: retornando
+participio-pasado: retornado
+presente-indicativo:
+  yo: retorno
+  tu: retornas
+  vos: retornas
+  ud: retorna
+  nosotros: retornamos
+  vosotros: retornáis
+  uds: retornan
+preterito-perfecto-simple:
+  yo: retorné
+  tu: retornaste
+  vos: retornaste
+  ud: retornó
+  nosotros: retornamos
+  vosotros: retornasteis
+  uds: retornaron
+preterito-imperfecto:
+  yo: retornaba
+  tu: retornabas
+  vos: retornabas
+  ud: retornaba
+  nosotros: retornábamos
+  vosotros: retornabais
+  uds: retornaban
+futuro-simple:
+  yo: retornaré
+  tu: retornarás
+  vos: retornarás
+  ud: retornará
+  nosotros: retornaremos
+  vosotros: retornaréis
+  uds: retornarán
+condicional-simple:
+  yo: retornaría
+  tu: retornarías
+  vos: retornarías
+  ud: retornaría
+  nosotros: retornaríamos
+  vosotros: retornaríais
+  uds: retornarían
+presente-perfecto:
+  yo: he retornado
+  tu: has retornado
+  vos: has retornado
+  ud: ha retornado
+  nosotros: hemos retornado
+  vosotros: habéis retornado
+  uds: han retornado
+preterito-pluscuamperfecto:
+  yo: había retornado
+  tu: habías retornado
+  vos: habías retornado
+  ud: había retornado
+  nosotros: habíamos retornado
+  vosotros: habíais retornado
+  uds: habían retornado
+futuro-perfecto:
+  yo: habré retornado
+  tu: habrás retornado
+  vos: habrás retornado
+  ud: habrá retornado
+  nosotros: habremos retornado
+  vosotros: habréis retornado
+  uds: habrán retornado
+condicional-perfecto:
+  yo: habría retornado
+  tu: habrías retornado
+  vos: habrías retornado
+  ud: habría retornado
+  nosotros: habríamos retornado
+  vosotros: habríais retornado
+  uds: habrían retornado
+presente-subjuntivo:
+  yo: retorne
+  tu: retornes
+  vos: retornes
+  ud: retorne
+  nosotros: retornemos
+  vosotros: retornéis
+  uds: retornen
+preterito-perfecto-subjuntivo:
+  yo: haya retornado
+  tu: hayas retornado
+  vos: hayas retornado
+  ud: haya retornado
+  nosotros: hayamos retornado
+  vosotros: hayáis retornado
+  uds: hayan retornado
+imperfecto-subjuntivo:
+  yo:
+    - retornara
+    - retornase
+  tu:
+    - retornaras
+    - retornases
+  vos:
+    - retornaras
+    - retornases
+  ud:
+    - retornara
+    - retornase
+  nosotros:
+    - retornáramos
+    - retornásemos
+  vosotros:
+    - retornarais
+    - retornaseis
+  uds:
+    - retornaran
+    - retornasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera retornado
+    - hubiese retornado
+  tu:
+    - hubieras retornado
+    - hubieses retornado
+  vos:
+    - hubieras retornado
+    - hubieses retornado
+  ud:
+    - hubiera retornado
+    - hubiese retornado
+  nosotros:
+    - hubiéramos retornado
+    - hubiésemos retornado
+  vosotros:
+    - hubierais retornado
+    - hubieseis retornado
+  uds:
+    - hubieran retornado
+    - hubiesen retornado
+imperativo:
+  tu: retorna
+  vos: retorná
+  ud: retorne
+  nosotros: retornemos
+  vosotros: retornad
+  uds: retornen

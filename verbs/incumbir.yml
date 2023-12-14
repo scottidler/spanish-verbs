@@ -1,0 +1,142 @@
+infinitivo: incumbir
+gerundio: incumbiendo
+participio-pasado: incumbido
+presente-indicativo:
+  yo: incumbo
+  tu: incumbes
+  vos: incumbís
+  ud: incumbe
+  nosotros: incumbimos
+  vosotros: incumbís
+  uds: incumben
+preterito-perfecto-simple:
+  yo: incumbí
+  tu: incumbiste
+  vos: incumbiste
+  ud: incumbió
+  nosotros: incumbimos
+  vosotros: incumbisteis
+  uds: incumbieron
+preterito-imperfecto:
+  yo: incumbía
+  tu: incumbías
+  vos: incumbías
+  ud: incumbía
+  nosotros: incumbíamos
+  vosotros: incumbíais
+  uds: incumbían
+futuro-simple:
+  yo: incumbiré
+  tu: incumbirás
+  vos: incumbirás
+  ud: incumbirá
+  nosotros: incumbiremos
+  vosotros: incumbiréis
+  uds: incumbirán
+condicional-simple:
+  yo: incumbiría
+  tu: incumbirías
+  vos: incumbirías
+  ud: incumbiría
+  nosotros: incumbiríamos
+  vosotros: incumbiríais
+  uds: incumbirían
+presente-perfecto:
+  yo: he incumbido
+  tu: has incumbido
+  vos: has incumbido
+  ud: ha incumbido
+  nosotros: hemos incumbido
+  vosotros: habéis incumbido
+  uds: han incumbido
+preterito-pluscuamperfecto:
+  yo: había incumbido
+  tu: habías incumbido
+  vos: habías incumbido
+  ud: había incumbido
+  nosotros: habíamos incumbido
+  vosotros: habíais incumbido
+  uds: habían incumbido
+futuro-perfecto:
+  yo: habré incumbido
+  tu: habrás incumbido
+  vos: habrás incumbido
+  ud: habrá incumbido
+  nosotros: habremos incumbido
+  vosotros: habréis incumbido
+  uds: habrán incumbido
+condicional-perfecto:
+  yo: habría incumbido
+  tu: habrías incumbido
+  vos: habrías incumbido
+  ud: habría incumbido
+  nosotros: habríamos incumbido
+  vosotros: habríais incumbido
+  uds: habrían incumbido
+presente-subjuntivo:
+  yo: incumba
+  tu: incumbas
+  vos: incumbas
+  ud: incumba
+  nosotros: incumbamos
+  vosotros: incumbáis
+  uds: incumban
+preterito-perfecto-subjuntivo:
+  yo: haya incumbido
+  tu: hayas incumbido
+  vos: hayas incumbido
+  ud: haya incumbido
+  nosotros: hayamos incumbido
+  vosotros: hayáis incumbido
+  uds: hayan incumbido
+imperfecto-subjuntivo:
+  yo:
+    - incumbiera
+    - incumbiese
+  tu:
+    - incumbieras
+    - incumbieses
+  vos:
+    - incumbieras
+    - incumbieses
+  ud:
+    - incumbiera
+    - incumbiese
+  nosotros:
+    - incumbiéramos
+    - incumbiésemos
+  vosotros:
+    - incumbierais
+    - incumbieseis
+  uds:
+    - incumbieran
+    - incumbiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera incumbido
+    - hubiese incumbido
+  tu:
+    - hubieras incumbido
+    - hubieses incumbido
+  vos:
+    - hubieras incumbido
+    - hubieses incumbido
+  ud:
+    - hubiera incumbido
+    - hubiese incumbido
+  nosotros:
+    - hubiéramos incumbido
+    - hubiésemos incumbido
+  vosotros:
+    - hubierais incumbido
+    - hubieseis incumbido
+  uds:
+    - hubieran incumbido
+    - hubiesen incumbido
+imperativo:
+  tu: incumbe
+  vos: incumbí
+  ud: incumba
+  nosotros: incumbamos
+  vosotros: incumbid
+  uds: incumban

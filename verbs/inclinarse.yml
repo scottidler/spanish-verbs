@@ -1,0 +1,142 @@
+infinitivo: inclinarse
+gerundio: inclinándose
+participio-pasado: inclinado
+presente-indicativo:
+  yo: me inclino
+  tu: te inclinas
+  vos: te inclinás
+  ud: se inclina
+  nosotros: nos inclinamos
+  vosotros: os inclináis
+  uds: se inclinan
+preterito-perfecto-simple:
+  yo: me incliné
+  tu: te inclinaste
+  vos: te inclinaste
+  ud: se inclinó
+  nosotros: nos inclinamos
+  vosotros: os inclinasteis
+  uds: se inclinaron
+preterito-imperfecto:
+  yo: me inclinaba
+  tu: te inclinabas
+  vos: te inclinabas
+  ud: se inclinaba
+  nosotros: nos inclinábamos
+  vosotros: os inclinabais
+  uds: se inclinaban
+futuro-simple:
+  yo: me inclinaré
+  tu: te inclinarás
+  vos: te inclinarás
+  ud: se inclinará
+  nosotros: nos inclinaremos
+  vosotros: os inclinaréis
+  uds: se inclinarán
+condicional-simple:
+  yo: me inclinaría
+  tu: te inclinarías
+  vos: te inclinarías
+  ud: se inclinaría
+  nosotros: nos inclinaríamos
+  vosotros: os inclinaríais
+  uds: se inclinarían
+presente-perfecto:
+  yo: me he inclinado
+  tu: te has inclinado
+  vos: te has inclinado
+  ud: se ha inclinado
+  nosotros: nos hemos inclinado
+  vosotros: os habéis inclinado
+  uds: se han inclinado
+preterito-pluscuamperfecto:
+  yo: me había inclinado
+  tu: te habías inclinado
+  vos: te habías inclinado
+  ud: se había inclinado
+  nosotros: nos habíamos inclinado
+  vosotros: os habíais inclinado
+  uds: se habían inclinado
+futuro-perfecto:
+  yo: me habré inclinado
+  tu: te habrás inclinado
+  vos: te habrás inclinado
+  ud: se habrá inclinado
+  nosotros: nos habremos inclinado
+  vosotros: os habréis inclinado
+  uds: se habrán inclinado
+condicional-perfecto:
+  yo: me habría inclinado
+  tu: te habrías inclinado
+  vos: te habrías inclinado
+  ud: se habría inclinado
+  nosotros: nos habríamos inclinado
+  vosotros: os habríais inclinado
+  uds: se habrían inclinado
+presente-subjuntivo:
+  yo: me incline
+  tu: te inclines
+  vos: te inclinés
+  ud: se incline
+  nosotros: nos inclinemos
+  vosotros: os inclinéis
+  uds: se inclinen
+preterito-perfecto-subjuntivo:
+  yo: me haya inclinado
+  tu: te hayas inclinado
+  vos: te hayas inclinado
+  ud: se haya inclinado
+  nosotros: nos hayamos inclinado
+  vosotros: os hayáis inclinado
+  uds: se hayan inclinado
+imperfecto-subjuntivo:
+  yo:
+    - me inclinara
+    - me inclinase
+  tu:
+    - te inclinaras
+    - te inclinases
+  vos:
+    - te inclinaras
+    - te inclinases
+  ud:
+    - se inclinara
+    - se inclinase
+  nosotros:
+    - nos inclináramos
+    - nos inclinásemos
+  vosotros:
+    - os inclinarais
+    - os inclinaseis
+  uds:
+    - se inclinaran
+    - se inclinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera inclinado
+    - me hubiese inclinado
+  tu:
+    - te hubieras inclinado
+    - te hubieses inclinado
+  vos:
+    - te hubieras inclinado
+    - te hubieses inclinado
+  ud:
+    - se hubiera inclinado
+    - se hubiese inclinado
+  nosotros:
+    - nos hubiéramos inclinado
+    - nos hubiésemos inclinado
+  vosotros:
+    - os hubierais inclinado
+    - os hubieseis inclinado
+  uds:
+    - se hubieran inclinado
+    - se hubiesen inclinado
+imperativo:
+  tu: inclínate
+  vos: inclináte
+  ud: inclínese
+  nosotros: inclinémonos
+  vosotros: inclinaos
+  uds: inclínense

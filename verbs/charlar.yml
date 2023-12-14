@@ -1,0 +1,142 @@
+infinitivo: charlar
+gerundio: charlando
+participio-pasado: charlado
+presente-indicativo:
+  yo: charlo
+  tu: charlas
+  vos: charlas
+  ud: charla
+  nosotros: charlamos
+  vosotros: charláis
+  uds: charlan
+preterito-perfecto-simple:
+  yo: charlé
+  tu: charlaste
+  vos: charlaste
+  ud: charló
+  nosotros: charlamos
+  vosotros: charlasteis
+  uds: charlaron
+preterito-imperfecto:
+  yo: charlaba
+  tu: charlabas
+  vos: charlabas
+  ud: charlaba
+  nosotros: charlábamos
+  vosotros: charlabais
+  uds: charlaban
+futuro-simple:
+  yo: charlaré
+  tu: charlarás
+  vos: charlarás
+  ud: charlará
+  nosotros: charlaremos
+  vosotros: charlaréis
+  uds: charlarán
+condicional-simple:
+  yo: charlaría
+  tu: charlarías
+  vos: charlarías
+  ud: charlaría
+  nosotros: charlaríamos
+  vosotros: charlaríais
+  uds: charlarían
+presente-perfecto:
+  yo: he charlado
+  tu: has charlado
+  vos: has charlado
+  ud: ha charlado
+  nosotros: hemos charlado
+  vosotros: habéis charlado
+  uds: han charlado
+preterito-pluscuamperfecto:
+  yo: había charlado
+  tu: habías charlado
+  vos: habías charlado
+  ud: había charlado
+  nosotros: habíamos charlado
+  vosotros: habíais charlado
+  uds: habían charlado
+futuro-perfecto:
+  yo: habré charlado
+  tu: habrás charlado
+  vos: habrás charlado
+  ud: habrá charlado
+  nosotros: habremos charlado
+  vosotros: habréis charlado
+  uds: habrán charlado
+condicional-perfecto:
+  yo: habría charlado
+  tu: habrías charlado
+  vos: habrías charlado
+  ud: habría charlado
+  nosotros: habríamos charlado
+  vosotros: habríais charlado
+  uds: habrían charlado
+presente-subjuntivo:
+  yo: hable
+  tu: hables
+  vos: hables
+  ud: hable
+  nosotros: hablemos
+  vosotros: habléis
+  uds: hablen
+preterito-perfecto-subjuntivo:
+  yo: haya charlado
+  tu: hayas charlado
+  vos: hayas charlado
+  ud: haya charlado
+  nosotros: hayamos charlado
+  vosotros: hayáis charlado
+  uds: hayan charlado
+imperfecto-subjuntivo:
+  yo:
+    - charlara
+    - charlase
+  tu:
+    - charlaras
+    - charlases
+  vos:
+    - charlaras
+    - charlases
+  ud:
+    - charlara
+    - charlase
+  nosotros:
+    - charláramos
+    - charlásemos
+  vosotros:
+    - charlarais
+    - charlaseis
+  uds:
+    - charlaran
+    - charlasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera charlado
+    - hubiese charlado
+  tu:
+    - hubieras charlado
+    - hubieses charlado
+  vos:
+    - hubieras charlado
+    - hubieses charlado
+  ud:
+    - hubiera charlado
+    - hubiese charlado
+  nosotros:
+    - hubiéramos charlado
+    - hubiésemos charlado
+  vosotros:
+    - hubierais charlado
+    - hubieseis charlado
+  uds:
+    - hubieran charlado
+    - hubiesen charlado
+imperativo:
+  tu: charla
+  vos: hablá
+  ud: hable
+  nosotros: hablemos
+  vosotros: hablad
+  uds: hablen

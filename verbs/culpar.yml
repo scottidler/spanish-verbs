@@ -1,0 +1,142 @@
+infinitivo: culpar
+gerundio: culpando
+participio-pasado: culpado
+presente-indicativo:
+  yo: culpo
+  tu: culpas
+  vos: culpas
+  ud: culpa
+  nosotros: culpamos
+  vosotros: culpáis
+  uds: culpan
+preterito-perfecto-simple:
+  yo: culpé
+  tu: culpaste
+  vos: culpaste
+  ud: culpó
+  nosotros: culpamos
+  vosotros: culpasteis
+  uds: culparon
+preterito-imperfecto:
+  yo: culpaba
+  tu: culpabas
+  vos: culpabas
+  ud: culpaba
+  nosotros: culpábamos
+  vosotros: culpabais
+  uds: culpaban
+futuro-simple:
+  yo: culparé
+  tu: culparás
+  vos: culparás
+  ud: culpará
+  nosotros: culparemos
+  vosotros: culparéis
+  uds: culparán
+condicional-simple:
+  yo: culparía
+  tu: culparías
+  vos: culparías
+  ud: culparía
+  nosotros: culparíamos
+  vosotros: culparíais
+  uds: culparían
+presente-perfecto:
+  yo: he culpado
+  tu: has culpado
+  vos: has culpado
+  ud: ha culpado
+  nosotros: hemos culpado
+  vosotros: habéis culpado
+  uds: han culpado
+preterito-pluscuamperfecto:
+  yo: había culpado
+  tu: habías culpado
+  vos: habías culpado
+  ud: había culpado
+  nosotros: habíamos culpado
+  vosotros: habíais culpado
+  uds: habían culpado
+futuro-perfecto:
+  yo: habré culpado
+  tu: habrás culpado
+  vos: habrás culpado
+  ud: habrá culpado
+  nosotros: habremos culpado
+  vosotros: habréis culpado
+  uds: habrán culpado
+condicional-perfecto:
+  yo: habría culpado
+  tu: habrías culpado
+  vos: habrías culpado
+  ud: habría culpado
+  nosotros: habríamos culpado
+  vosotros: habríais culpado
+  uds: habrían culpado
+presente-subjuntivo:
+  yo: culpe
+  tu: culpes
+  vos: culpes
+  ud: culpe
+  nosotros: culpemos
+  vosotros: culpéis
+  uds: culpen
+preterito-perfecto-subjuntivo:
+  yo: haya culpado
+  tu: hayas culpado
+  vos: hayas culpado
+  ud: haya culpado
+  nosotros: hayamos culpado
+  vosotros: hayáis culpado
+  uds: hayan culpado
+imperfecto-subjuntivo:
+  yo:
+    - culpara
+    - culpase
+  tu:
+    - culparas
+    - culpases
+  vos:
+    - culparas
+    - culpases
+  ud:
+    - culpara
+    - culpase
+  nosotros:
+    - culpáramos
+    - culpásemos
+  vosotros:
+    - culparais
+    - culpaseis
+  uds:
+    - culparan
+    - culpasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera culpado
+    - hubiese culpado
+  tu:
+    - hubieras culpado
+    - hubieses culpado
+  vos:
+    - hubieras culpado
+    - hubieses culpado
+  ud:
+    - hubiera culpado
+    - hubiese culpado
+  nosotros:
+    - hubiéramos culpado
+    - hubiésemos culpado
+  vosotros:
+    - hubierais culpado
+    - hubieseis culpado
+  uds:
+    - hubieran culpado
+    - hubiesen culpado
+imperativo:
+  tu: culpa
+  vos: culpá
+  ud: culpe
+  nosotros: culpemos
+  vosotros: culpad
+  uds: culpen

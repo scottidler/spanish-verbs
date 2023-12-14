@@ -1,0 +1,142 @@
+infinitivo: atraer
+gerundio: atrayendo
+participio-pasado: atraído
+presente-indicativo:
+  yo: atraigo
+  tu: atraes
+  vos: atraes
+  ud: atrae
+  nosotros: atraemos
+  vosotros: atraéis
+  uds: atraen
+preterito-perfecto-simple:
+  yo: atraje
+  tu: atrajiste
+  vos: atrajiste
+  ud: atrajo
+  nosotros: atrajimos
+  vosotros: atrajisteis
+  uds: atrajeron
+preterito-imperfecto:
+  yo: atraía
+  tu: atraías
+  vos: atraías
+  ud: atraía
+  nosotros: atraíamos
+  vosotros: atraíais
+  uds: atraían
+futuro-simple:
+  yo: atraeré
+  tu: atraerás
+  vos: atraerás
+  ud: atraerá
+  nosotros: atraeremos
+  vosotros: atraeréis
+  uds: atraerán
+condicional-simple:
+  yo: atraería
+  tu: atraerías
+  vos: atraerías
+  ud: atraería
+  nosotros: atraeríamos
+  vosotros: atraeríais
+  uds: atraerían
+presente-perfecto:
+  yo: he atraído
+  tu: has atraído
+  vos: has atraído
+  ud: ha atraído
+  nosotros: hemos atraído
+  vosotros: habéis atraído
+  uds: han atraído
+preterito-pluscuamperfecto:
+  yo: había atraído
+  tu: habías atraído
+  vos: habías atraído
+  ud: había atraído
+  nosotros: habíamos atraído
+  vosotros: habíais atraído
+  uds: habían atraído
+futuro-perfecto:
+  yo: habré atraído
+  tu: habrás atraído
+  vos: habrás atraído
+  ud: habrá atraído
+  nosotros: habremos atraído
+  vosotros: habréis atraído
+  uds: habrán atraído
+condicional-perfecto:
+  yo: habría atraído
+  tu: habrías atraído
+  vos: habrías atraído
+  ud: habría atraído
+  nosotros: habríamos atraído
+  vosotros: habríais atraído
+  uds: habrían atraído
+presente-subjuntivo:
+  yo: atraiga
+  tu: atraigas
+  vos: atraigas
+  ud: atraiga
+  nosotros: atraigamos
+  vosotros: atraigáis
+  uds: atraigan
+preterito-perfecto-subjuntivo:
+  yo: haya atraído
+  tu: hayas atraído
+  vos: hayas atraído
+  ud: haya atraído
+  nosotros: hayamos atraído
+  vosotros: hayáis atraído
+  uds: hayan atraído
+imperfecto-subjuntivo:
+  yo:
+    - atrajera
+    - atrajese
+  tu:
+    - atrajeras
+    - atrajeses
+  vos:
+    - atrajeras
+    - atrajeses
+  ud:
+    - atrajera
+    - atrajese
+  nosotros:
+    - atrajéramos
+    - atrajésemos
+  vosotros:
+    - atrajerais
+    - atrajeséis
+  uds:
+    - atrajeran
+    - atrajesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atraído
+    - hubiese atraído
+  tu:
+    - hubieras atraído
+    - hubieses atraído
+  vos:
+    - hubieras atraído
+    - hubieses atraído
+  ud:
+    - hubiera atraído
+    - hubiese atraído
+  nosotros:
+    - hubiéramos atraído
+    - hubiésemos atraído
+  vosotros:
+    - hubierais atraído
+    - hubieseis atraído
+  uds:
+    - hubieran atraído
+    - hubiesen atraído
+imperativo:
+  tu: atrae
+  vos: atraé
+  ud: atraiga
+  nosotros: atraigamos
+  vosotros: atraed
+  uds: atraigan

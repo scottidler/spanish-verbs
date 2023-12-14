@@ -1,0 +1,142 @@
+infinitivo: desenrollar
+gerundio: desenrollando
+participio-pasado: desenrollado
+presente-indicativo:
+  yo: desenrollo
+  tu: desenrollas
+  vos: desenrollás
+  ud: desenrolla
+  nosotros: desenrollamos
+  vosotros: desenrolláis
+  uds: desenrollan
+preterito-perfecto-simple:
+  yo: desenrollé
+  tu: desenrollaste
+  vos: desenrollaste
+  ud: desenrolló
+  nosotros: desenrollamos
+  vosotros: desenrollasteis
+  uds: desenrollaron
+preterito-imperfecto:
+  yo: desenrollaba
+  tu: desenrollabas
+  vos: desenrollabas
+  ud: desenrollaba
+  nosotros: desenrollábamos
+  vosotros: desenrollabais
+  uds: desenrollaban
+futuro-simple:
+  yo: desenrollaré
+  tu: desenrollarás
+  vos: desenrollarás
+  ud: desenrollará
+  nosotros: desenrollaremos
+  vosotros: desenrollaréis
+  uds: desenrollarán
+condicional-simple:
+  yo: desenrollaría
+  tu: desenrollarías
+  vos: desenrollarías
+  ud: desenrollaría
+  nosotros: desenrollaríamos
+  vosotros: desenrollaríais
+  uds: desenrollarían
+presente-perfecto:
+  yo: he desenrollado
+  tu: has desenrollado
+  vos: has desenrollado
+  ud: ha desenrollado
+  nosotros: hemos desenrollado
+  vosotros: habéis desenrollado
+  uds: han desenrollado
+preterito-pluscuamperfecto:
+  yo: había desenrollado
+  tu: habías desenrollado
+  vos: habías desenrollado
+  ud: había desenrollado
+  nosotros: habíamos desenrollado
+  vosotros: habíais desenrollado
+  uds: habían desenrollado
+futuro-perfecto:
+  yo: habré desenrollado
+  tu: habrás desenrollado
+  vos: habrás desenrollado
+  ud: habrá desenrollado
+  nosotros: habremos desenrollado
+  vosotros: habréis desenrollado
+  uds: habrán desenrollado
+condicional-perfecto:
+  yo: habría desenrollado
+  tu: habrías desenrollado
+  vos: habrías desenrollado
+  ud: habría desenrollado
+  nosotros: habríamos desenrollado
+  vosotros: habríais desenrollado
+  uds: habrían desenrollado
+presente-subjuntivo:
+  yo: desenrolle
+  tu: desenrolles
+  vos: desenrolles
+  ud: desenrolle
+  nosotros: desenrollemos
+  vosotros: desenrolléis
+  uds: desenrollen
+preterito-perfecto-subjuntivo:
+  yo: haya desenrollado
+  tu: hayas desenrollado
+  vos: hayas desenrollado
+  ud: haya desenrollado
+  nosotros: hayamos desenrollado
+  vosotros: hayáis desenrollado
+  uds: hayan desenrollado
+imperfecto-subjuntivo:
+  yo:
+    - desenrollara
+    - desenrollase
+  tu:
+    - desenrollaras
+    - desenrollases
+  vos:
+    - desenrollaras
+    - desenrollases
+  ud:
+    - desenrollara
+    - desenrollase
+  nosotros:
+    - desenrolláramos
+    - desenrollásemos
+  vosotros:
+    - desenrollarais
+    - desenrollaseis
+  uds:
+    - desenrollaran
+    - desenrollasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desenrollado
+    - hubiese desenrollado
+  tu:
+    - hubieras desenrollado
+    - hubieses desenrollado
+  vos:
+    - hubieras desenrollado
+    - hubieses desenrollado
+  ud:
+    - hubiera desenrollado
+    - hubiese desenrollado
+  nosotros:
+    - hubiéramos desenrollado
+    - hubiésemos desenrollado
+  vosotros:
+    - hubierais desenrollado
+    - hubieseis desenrollado
+  uds:
+    - hubieran desenrollado
+    - hubiesen desenrollado
+imperativo:
+  tu: desenrolla
+  vos: desenrollá
+  ud: desenrolle
+  nosotros: desenrollemos
+  vosotros: desenrollad
+  uds: desenrollen

@@ -1,0 +1,142 @@
+infinitivo: ramificar
+gerundio: ramificando
+participio-pasado: ramificado
+presente-indicativo:
+  yo: ramifico
+  tu: ramificas
+  vos: ramificas
+  ud: ramifica
+  nosotros: ramificamos
+  vosotros: ramificáis
+  uds: ramifican
+preterito-perfecto-simple:
+  yo: ramifiqué
+  tu: ramificaste
+  vos: ramificaste
+  ud: ramificó
+  nosotros: ramificamos
+  vosotros: ramificasteis
+  uds: ramificaron
+preterito-imperfecto:
+  yo: ramificaba
+  tu: ramificabas
+  vos: ramificabas
+  ud: ramificaba
+  nosotros: ramificábamos
+  vosotros: ramificabais
+  uds: ramificaban
+futuro-simple:
+  yo: ramificaré
+  tu: ramificarás
+  vos: ramificarás
+  ud: ramificará
+  nosotros: ramificaremos
+  vosotros: ramificaréis
+  uds: ramificarán
+condicional-simple:
+  yo: ramificaría
+  tu: ramificarías
+  vos: ramificarías
+  ud: ramificaría
+  nosotros: ramificaríamos
+  vosotros: ramificaríais
+  uds: ramificarían
+presente-perfecto:
+  yo: he ramificado
+  tu: has ramificado
+  vos: has ramificado
+  ud: ha ramificado
+  nosotros: hemos ramificado
+  vosotros: habéis ramificado
+  uds: han ramificado
+preterito-pluscuamperfecto:
+  yo: había ramificado
+  tu: habías ramificado
+  vos: habías ramificado
+  ud: había ramificado
+  nosotros: habíamos ramificado
+  vosotros: habíais ramificado
+  uds: habían ramificado
+futuro-perfecto:
+  yo: habré ramificado
+  tu: habrás ramificado
+  vos: habrás ramificado
+  ud: habrá ramificado
+  nosotros: habremos ramificado
+  vosotros: habréis ramificado
+  uds: habrán ramificado
+condicional-perfecto:
+  yo: habría ramificado
+  tu: habrías ramificado
+  vos: habrías ramificado
+  ud: habría ramificado
+  nosotros: habríamos ramificado
+  vosotros: habríais ramificado
+  uds: habrían ramificado
+presente-subjuntivo:
+  yo: ramifique
+  tu: ramifiques
+  vos: ramifiques
+  ud: ramifique
+  nosotros: ramifiquemos
+  vosotros: ramifiquéis
+  uds: ramifiquen
+preterito-perfecto-subjuntivo:
+  yo: haya ramificado
+  tu: hayas ramificado
+  vos: hayas ramificado
+  ud: haya ramificado
+  nosotros: hayamos ramificado
+  vosotros: hayáis ramificado
+  uds: hayan ramificado
+imperfecto-subjuntivo:
+  yo:
+    - ramificara
+    - ramificase
+  tu:
+    - ramificaras
+    - ramificases
+  vos:
+    - ramificaras
+    - ramificases
+  ud:
+    - ramificara
+    - ramificase
+  nosotros:
+    - ramificáramos
+    - ramificásemos
+  vosotros:
+    - ramificarais
+    - ramificaseis
+  uds:
+    - ramificaran
+    - ramificasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ramificado
+    - hubiese ramificado
+  tu:
+    - hubieras ramificado
+    - hubieses ramificado
+  vos:
+    - hubieras ramificado
+    - hubieses ramificado
+  ud:
+    - hubiera ramificado
+    - hubiese ramificado
+  nosotros:
+    - hubiéramos ramificado
+    - hubiésemos ramificado
+  vosotros:
+    - hubierais ramificado
+    - hubieseis ramificado
+  uds:
+    - hubieran ramificado
+    - hubiesen ramificado
+imperativo:
+  tu: ramifica
+  vos: ramificá
+  ud: ramifique
+  nosotros: ramifiquemos
+  vosotros: ramificad
+  uds: ramifiquen

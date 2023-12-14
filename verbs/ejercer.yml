@@ -1,0 +1,142 @@
+infinitivo: ejercer
+gerundio: ejerciendo
+participio-pasado: ejercido
+presente-indicativo:
+  yo: ejerzo
+  tu: ejerces
+  vos: ejerces
+  ud: ejerce
+  nosotros: ejercemos
+  vosotros: ejercéis
+  uds: ejercen
+preterito-perfecto-simple:
+  yo: ejercí
+  tu: ejerciste
+  vos: ejerciste
+  ud: ejerció
+  nosotros: ejercimos
+  vosotros: ejercisteis
+  uds: ejercieron
+preterito-imperfecto:
+  yo: ejercía
+  tu: ejercías
+  vos: ejercías
+  ud: ejercía
+  nosotros: ejercíamos
+  vosotros: ejercíais
+  uds: ejercían
+futuro-simple:
+  yo: ejerceré
+  tu: ejercerás
+  vos: ejercerás
+  ud: ejercerá
+  nosotros: ejerceremos
+  vosotros: ejerceréis
+  uds: ejercerán
+condicional-simple:
+  yo: ejercería
+  tu: ejercerías
+  vos: ejercerías
+  ud: ejercería
+  nosotros: ejerceríamos
+  vosotros: ejerceríais
+  uds: ejercerían
+presente-perfecto:
+  yo: he ejercido
+  tu: has ejercido
+  vos: has ejercido
+  ud: ha ejercido
+  nosotros: hemos ejercido
+  vosotros: habéis ejercido
+  uds: han ejercido
+preterito-pluscuamperfecto:
+  yo: había ejercido
+  tu: habías ejercido
+  vos: habías ejercido
+  ud: había ejercido
+  nosotros: habíamos ejercido
+  vosotros: habíais ejercido
+  uds: habían ejercido
+futuro-perfecto:
+  yo: habré ejercido
+  tu: habrás ejercido
+  vos: habrás ejercido
+  ud: habrá ejercido
+  nosotros: habremos ejercido
+  vosotros: habréis ejercido
+  uds: habrán ejercido
+condicional-perfecto:
+  yo: habría ejercido
+  tu: habrías ejercido
+  vos: habrías ejercido
+  ud: habría ejercido
+  nosotros: habríamos ejercido
+  vosotros: habríais ejercido
+  uds: habrían ejercido
+presente-subjuntivo:
+  yo: ejerza
+  tu: ejerzas
+  vos: ejerzas
+  ud: ejerza
+  nosotros: ejerzamos
+  vosotros: ejerzáis
+  uds: ejerzan
+preterito-perfecto-subjuntivo:
+  yo: haya ejercido
+  tu: hayas ejercido
+  vos: hayas ejercido
+  ud: haya ejercido
+  nosotros: hayamos ejercido
+  vosotros: hayáis ejercido
+  uds: hayan ejercido
+imperfecto-subjuntivo:
+  yo:
+    - ejerciera
+    - ejerciese
+  tu:
+    - ejercieras
+    - ejercieses
+  vos:
+    - ejercieras
+    - ejercieses
+  ud:
+    - ejerciera
+    - ejerciese
+  nosotros:
+    - ejerciéramos
+    - ejerciésemos
+  vosotros:
+    - ejercierais
+    - ejercieseis
+  uds:
+    - ejercieran
+    - ejerciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ejercido
+    - hubiese ejercido
+  tu:
+    - hubieras ejercido
+    - hubieses ejercido
+  vos:
+    - hubieras ejercido
+    - hubieses ejercido
+  ud:
+    - hubiera ejercido
+    - hubiese ejercido
+  nosotros:
+    - hubiéramos ejercido
+    - hubiésemos ejercido
+  vosotros:
+    - hubierais ejercido
+    - hubieseis ejercido
+  uds:
+    - hubieran ejercido
+    - hubiesen ejercido
+imperativo:
+  tu: ejerce
+  vos: ejercé
+  ud: ejerza
+  nosotros: ejerzamos
+  vosotros: ejerced
+  uds: ejerzan

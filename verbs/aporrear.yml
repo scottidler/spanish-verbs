@@ -1,0 +1,142 @@
+infinitivo: aporrear
+gerundio: aporreando
+participio-pasado: aporreado
+presente-indicativo:
+  yo: aporreo
+  tu: aporreas
+  vos: aporreas
+  ud: aporrea
+  nosotros: aporreamos
+  vosotros: aporreáis
+  uds: aporrean
+preterito-perfecto-simple:
+  yo: aporreé
+  tu: aporreaste
+  vos: aporreaste
+  ud: aporreó
+  nosotros: aporreamos
+  vosotros: aporreasteis
+  uds: aporrearon
+preterito-imperfecto:
+  yo: aporreaba
+  tu: aporreabas
+  vos: aporreabas
+  ud: aporreaba
+  nosotros: aporreábamos
+  vosotros: aporreabais
+  uds: aporreaban
+futuro-simple:
+  yo: aporrearé
+  tu: aporrearás
+  vos: aporrearás
+  ud: aporreará
+  nosotros: aporrearemos
+  vosotros: aporrearéis
+  uds: aporrearán
+condicional-simple:
+  yo: aporrearía
+  tu: aporrearías
+  vos: aporrearías
+  ud: aporrearía
+  nosotros: aporrearíamos
+  vosotros: aporrearíais
+  uds: aporrearían
+presente-perfecto:
+  yo: he aporreado
+  tu: has aporreado
+  vos: has aporreado
+  ud: ha aporreado
+  nosotros: hemos aporreado
+  vosotros: habéis aporreado
+  uds: han aporreado
+preterito-pluscuamperfecto:
+  yo: había aporreado
+  tu: habías aporreado
+  vos: habías aporreado
+  ud: había aporreado
+  nosotros: habíamos aporreado
+  vosotros: habíais aporreado
+  uds: habían aporreado
+futuro-perfecto:
+  yo: habré aporreado
+  tu: habrás aporreado
+  vos: habrás aporreado
+  ud: habrá aporreado
+  nosotros: habremos aporreado
+  vosotros: habréis aporreado
+  uds: habrán aporreado
+condicional-perfecto:
+  yo: habría aporreado
+  tu: habrías aporreado
+  vos: habrías aporreado
+  ud: habría aporreado
+  nosotros: habríamos aporreado
+  vosotros: habríais aporreado
+  uds: habrían aporreado
+presente-subjuntivo:
+  yo: aporree
+  tu: aporreés
+  vos: aporreés
+  ud: aporree
+  nosotros: aporreemos
+  vosotros: aporreéis
+  uds: aporreen
+preterito-perfecto-subjuntivo:
+  yo: haya aporreado
+  tu: hayas aporreado
+  vos: hayas aporreado
+  ud: haya aporreado
+  nosotros: hayamos aporreado
+  vosotros: hayáis aporreado
+  uds: hayan aporreado
+imperfecto-subjuntivo:
+  yo:
+    - aporreara
+    - aporrease
+  tu:
+    - aporrearas
+    - aporreases
+  vos:
+    - aporrearas
+    - aporreases
+  ud:
+    - aporreara
+    - aporrease
+  nosotros:
+    - aporreáramos
+    - aporreásemos
+  vosotros:
+    - aporrearais
+    - aporreaseis
+  uds:
+    - aporrearan
+    - aporreasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aporreado
+    - hubiese aporreado
+  tu:
+    - hubieras aporreado
+    - hubieses aporreado
+  vos:
+    - hubieras aporreado
+    - hubieses aporreado
+  ud:
+    - hubiera aporreado
+    - hubiese aporreado
+  nosotros:
+    - hubiéramos aporreado
+    - hubiésemos aporreado
+  vosotros:
+    - hubierais aporreado
+    - hubieseis aporreado
+  uds:
+    - hubieran aporreado
+    - hubiesen aporreado
+imperativo:
+  tu: aporrea
+  vos: aporreá
+  ud: aporree
+  nosotros: aporreemos
+  vosotros: aporread
+  uds: aporreen

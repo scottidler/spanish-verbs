@@ -1,0 +1,142 @@
+infinitivo: contagiar
+gerundio: contagiando
+participio-pasado: contagiado
+presente-indicativo:
+  yo: contagio
+  tu: contagias
+  vos: contagias
+  ud: contagia
+  nosotros: contagiamos
+  vosotros: contagiáis
+  uds: contagian
+preterito-perfecto-simple:
+  yo: contagié
+  tu: contagiste
+  vos: contagiste
+  ud: contagió
+  nosotros: contagiamos
+  vosotros: contagisteis
+  uds: contagiaron
+preterito-imperfecto:
+  yo: contagiaba
+  tu: contagiabas
+  vos: contagiabas
+  ud: contagiaba
+  nosotros: contagiábamos
+  vosotros: contagiabais
+  uds: contagiaban
+futuro-simple:
+  yo: contagiaré
+  tu: contagiarás
+  vos: contagiarás
+  ud: contagiará
+  nosotros: contagiaremos
+  vosotros: contagiaréis
+  uds: contagiarán
+condicional-simple:
+  yo: contagiaría
+  tu: contagiarías
+  vos: contagiarías
+  ud: contagiaría
+  nosotros: contagiaríamos
+  vosotros: contagiaríais
+  uds: contagiarían
+presente-perfecto:
+  yo: he contagiado
+  tu: has contagiado
+  vos: has contagiado
+  ud: ha contagiado
+  nosotros: hemos contagiado
+  vosotros: habéis contagiado
+  uds: han contagiado
+preterito-pluscuamperfecto:
+  yo: había contagiado
+  tu: habías contagiado
+  vos: habías contagiado
+  ud: había contagiado
+  nosotros: habíamos contagiado
+  vosotros: habíais contagiado
+  uds: habían contagiado
+futuro-perfecto:
+  yo: habré contagiado
+  tu: habrás contagiado
+  vos: habrás contagiado
+  ud: habrá contagiado
+  nosotros: habremos contagiado
+  vosotros: habréis contagiado
+  uds: habrán contagiado
+condicional-perfecto:
+  yo: habría contagiado
+  tu: habrías contagiado
+  vos: habrías contagiado
+  ud: habría contagiado
+  nosotros: habríamos contagiado
+  vosotros: habríais contagiado
+  uds: habrían contagiado
+presente-subjuntivo:
+  yo: contagie
+  tu: contagies
+  vos: contagies
+  ud: contagie
+  nosotros: contagiemos
+  vosotros: contagiéis
+  uds: contagien
+preterito-perfecto-subjuntivo:
+  yo: haya contagiado
+  tu: hayas contagiado
+  vos: hayas contagiado
+  ud: haya contagiado
+  nosotros: hayamos contagiado
+  vosotros: hayáis contagiado
+  uds: hayan contagiado
+imperfecto-subjuntivo:
+  yo:
+    - contagiara
+    - contagiase
+  tu:
+    - contagiaras
+    - contagiases
+  vos:
+    - contagiaras
+    - contagiases
+  ud:
+    - contagiara
+    - contagiase
+  nosotros:
+    - contagiáramos
+    - contagiásemos
+  vosotros:
+    - contagiarais
+    - contagiaséis
+  uds:
+    - contagiaran
+    - contagiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera contagiado
+    - hubiese contagiado
+  tu:
+    - hubieras contagiado
+    - hubieses contagiado
+  vos:
+    - hubieras contagiado
+    - hubieses contagiado
+  ud:
+    - hubiera contagiado
+    - hubiese contagiado
+  nosotros:
+    - hubiéramos contagiado
+    - hubiésemos contagiado
+  vosotros:
+    - hubierais contagiado
+    - hubieseis contagiado
+  uds:
+    - hubieran contagiado
+    - hubiesen contagiado
+imperativo:
+  tu: contagia
+  vos: contagia
+  ud: contagie
+  nosotros: contagiemos
+  vosotros: contagiad
+  uds: contagien

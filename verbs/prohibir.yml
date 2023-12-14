@@ -1,0 +1,142 @@
+infinitivo: prohibir
+gerundio: prohibiendo
+participio-pasado: prohibido
+presente-indicativo:
+  yo: prohíbo
+  tu: prohíbes
+  vos: prohíbes
+  ud: prohíbe
+  nosotros: prohibimos
+  vosotros: prohibís
+  uds: prohíben
+preterito-perfecto-simple:
+  yo: prohibí
+  tu: prohibiste
+  vos: prohibiste
+  ud: prohibió
+  nosotros: prohibimos
+  vosotros: prohibisteis
+  uds: prohibieron
+preterito-imperfecto:
+  yo: prohibía
+  tu: prohibías
+  vos: prohibías
+  ud: prohibía
+  nosotros: prohibíamos
+  vosotros: prohibíais
+  uds: prohibían
+futuro-simple:
+  yo: prohibiré
+  tu: prohibirás
+  vos: prohibirás
+  ud: prohibirá
+  nosotros: prohibiremos
+  vosotros: prohibiréis
+  uds: prohibirán
+condicional-simple:
+  yo: prohibiría
+  tu: prohibirías
+  vos: prohibirías
+  ud: prohibiría
+  nosotros: prohibiríamos
+  vosotros: prohibiríais
+  uds: prohibirían
+presente-perfecto:
+  yo: he prohibido
+  tu: has prohibido
+  vos: has prohibido
+  ud: ha prohibido
+  nosotros: hemos prohibido
+  vosotros: habéis prohibido
+  uds: han prohibido
+preterito-pluscuamperfecto:
+  yo: había prohibido
+  tu: habías prohibido
+  vos: habías prohibido
+  ud: había prohibido
+  nosotros: habíamos prohibido
+  vosotros: habíais prohibido
+  uds: habían prohibido
+futuro-perfecto:
+  yo: habré prohibido
+  tu: habrás prohibido
+  vos: habrás prohibido
+  ud: habrá prohibido
+  nosotros: habremos prohibido
+  vosotros: habréis prohibido
+  uds: habrán prohibido
+condicional-perfecto:
+  yo: habría prohibido
+  tu: habrías prohibido
+  vos: habrías prohibido
+  ud: habría prohibido
+  nosotros: habríamos prohibido
+  vosotros: habríais prohibido
+  uds: habrían prohibido
+presente-subjuntivo:
+  yo: prohíba
+  tu: prohibas
+  vos: prohibas
+  ud: prohíba
+  nosotros: prohibamos
+  vosotros: prohibáis
+  uds: prohiban
+preterito-perfecto-subjuntivo:
+  yo: haya prohibido
+  tu: hayas prohibido
+  vos: hayas prohibido
+  ud: haya prohibido
+  nosotros: hayamos prohibido
+  vosotros: hayáis prohibido
+  uds: hayan prohibido
+imperfecto-subjuntivo:
+  yo:
+    - prohibiera
+    - prohibiese
+  tu:
+    - prohibieras
+    - prohibieses
+  vos:
+    - prohibieras
+    - prohibieses
+  ud:
+    - prohibiera
+    - prohibiese
+  nosotros:
+    - prohibiéramos
+    - prohibiésemos
+  vosotros:
+    - prohibierais
+    - prohibieseis
+  uds:
+    - prohibieran
+    - prohibiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera prohibido
+    - hubiese prohibido
+  tu:
+    - hubieras prohibido
+    - hubieses prohibido
+  vos:
+    - hubieras prohibido
+    - hubieses prohibido
+  ud:
+    - hubiera prohibido
+    - hubiese prohibido
+  nosotros:
+    - hubiéramos prohibido
+    - hubiésemos prohibido
+  vosotros:
+    - hubierais prohibido
+    - hubieseis prohibido
+  uds:
+    - hubieran prohibido
+    - hubiesen prohibido
+imperativo:
+  tu: prohíbe
+  vos: prohibí
+  ud: prohiba
+  nosotros: prohibamos
+  vosotros: prohibid
+  uds: prohiban

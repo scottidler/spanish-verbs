@@ -1,0 +1,142 @@
+infinitivo: bésamir
+gerundio: bésamindo
+participio-pasado: bésamido
+presente-indicativo:
+  yo: bésamo
+  tu: bésames
+  vos: bésames
+  ud: bésame
+  nosotros: bésamimos
+  vosotros: bésamís
+  uds: bésamen
+preterito-perfecto-simple:
+  yo: bésamí
+  tu: bésamiste
+  vos: bésamiste
+  ud: bésamio
+  nosotros: bésamimos
+  vosotros: bésamisteis
+  uds: bésamieron
+preterito-imperfecto:
+  yo: bésamía
+  tu: bésamías
+  vos: bésamías
+  ud: bésamía
+  nosotros: bésamíamos
+  vosotros: bésamíais
+  uds: bésamían
+futuro-simple:
+  yo: bésamiré
+  tu: bésamirás
+  vos: bésamirás
+  ud: bésamirá
+  nosotros: bésamiremos
+  vosotros: bésamiréis
+  uds: bésamirán
+condicional-simple:
+  yo: bésamiría
+  tu: bésamirías
+  vos: bésamirías
+  ud: bésamiría
+  nosotros: bésamiríamos
+  vosotros: bésamiríais
+  uds: bésamirían
+presente-perfecto:
+  yo: he bésamido
+  tu: has bésamido
+  vos: has bésamido
+  ud: ha bésamido
+  nosotros: hemos bésamido
+  vosotros: habéis bésamido
+  uds: han bésamido
+preterito-pluscuamperfecto:
+  yo: había bésamido
+  tu: habías bésamido
+  vos: habías bésamido
+  ud: había bésamido
+  nosotros: habíamos bésamido
+  vosotros: habíais bésamido
+  uds: habían bésamido
+futuro-perfecto:
+  yo: habré bésamido
+  tu: habrás bésamido
+  vos: habrás bésamido
+  ud: habrá bésamido
+  nosotros: habremos bésamido
+  vosotros: habréis bésamido
+  uds: habrán bésamido
+condicional-perfecto:
+  yo: habría bésamido
+  tu: habrías bésamido
+  vos: habrías bésamido
+  ud: habría bésamido
+  nosotros: habríamos bésamido
+  vosotros: habríais bésamido
+  uds: habrían bésamido
+presente-subjuntivo:
+  yo: bésama
+  tu: bésamas
+  vos: bésamas
+  ud: bésama
+  nosotros: bésamamos
+  vosotros: bésamáis
+  uds: bésaman
+preterito-perfecto-subjuntivo:
+  yo: haya bésamido
+  tu: hayas bésamido
+  vos: hayas bésamido
+  ud: haya bésamido
+  nosotros: hayamos bésamido
+  vosotros: hayáis bésamido
+  uds: hayan bésamido
+imperfecto-subjuntivo:
+  yo:
+    - bésamara
+    - bésamase
+  tu:
+    - bésamaras
+    - bésamases
+  vos:
+    - bésamaras
+    - bésamases
+  ud:
+    - bésamara
+    - bésamase
+  nosotros:
+    - bésamáramos
+    - bésamásemos
+  vosotros:
+    - bésamarais
+    - bésamaseis
+  uds:
+    - bésamaran
+    - bésamasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bésamido
+    - hubiese bésamido
+  tu:
+    - hubieras bésamido
+    - hubieses bésamido
+  vos:
+    - hubieras bésamido
+    - hubieses bésamido
+  ud:
+    - hubiera bésamido
+    - hubiese bésamido
+  nosotros:
+    - hubiéramos bésamido
+    - hubiésemos bésamido
+  vosotros:
+    - hubierais bésamido
+    - hubieseis bésamido
+  uds:
+    - hubieran bésamido
+    - hubiesen bésamido
+imperativo:
+  tu: bésame
+  vos: bésamí
+  ud: bésame
+  nosotros: bésamamos
+  vosotros: bésamid
+  uds: bésaman

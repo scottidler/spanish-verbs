@@ -1,0 +1,142 @@
+infinitivo: retiratar
+gerundio: retiratando
+participio-pasado: retiratado
+presente-indicativo:
+  yo: retirato
+  tu: retiratas
+  vos: retiratas
+  ud: retirata
+  nosotros: retiratamos
+  vosotros: retiratáis
+  uds: retiratan
+preterito-perfecto-simple:
+  yo: retiraté
+  tu: retirataste
+  vos: retirataste
+  ud: retirató
+  nosotros: retiratamos
+  vosotros: retiratasteis
+  uds: retirataron
+preterito-imperfecto:
+  yo: retiratava
+  tu: retiratavas
+  vos: retiratavas
+  ud: retiratava
+  nosotros: retiratábamos
+  vosotros: retiratavais
+  uds: retiratavan
+futuro-simple:
+  yo: retirataré
+  tu: retiratarás
+  vos: retiratarás
+  ud: retiratará
+  nosotros: retirataremos
+  vosotros: retirataréis
+  uds: retiratarán
+condicional-simple:
+  yo: retirataría
+  tu: retiratarías
+  vos: retiratarías
+  ud: retirataría
+  nosotros: retirataríamos
+  vosotros: retirataríais
+  uds: retiratarían
+presente-perfecto:
+  yo: he retiratado
+  tu: has retiratado
+  vos: has retiratado
+  ud: ha retiratado
+  nosotros: hemos retiratado
+  vosotros: habéis retiratado
+  uds: han retiratado
+preterito-pluscuamperfecto:
+  yo: había retiratado
+  tu: habías retiratado
+  vos: habías retiratado
+  ud: había retiratado
+  nosotros: habíamos retiratado
+  vosotros: habíais retiratado
+  uds: habían retiratado
+futuro-perfecto:
+  yo: habré retiratado
+  tu: habrás retiratado
+  vos: habrás retiratado
+  ud: habrá retiratado
+  nosotros: habremos retiratado
+  vosotros: habréis retiratado
+  uds: habrán retiratado
+condicional-perfecto:
+  yo: habría retiratado
+  tu: habrías retiratado
+  vos: habrías retiratado
+  ud: habría retiratado
+  nosotros: habríamos retiratado
+  vosotros: habríais retiratado
+  uds: habrían retiratado
+presente-subjuntivo:
+  yo: retire
+  tu: retires
+  vos: retires
+  ud: retire
+  nosotros: retiremos
+  vosotros: retiréis
+  uds: retiren
+preterito-perfecto-subjuntivo:
+  yo: haya retiratado
+  tu: hayas retiratado
+  vos: hayas retiratado
+  ud: haya retiratado
+  nosotros: hayamos retiratado
+  vosotros: hayáis retiratado
+  uds: hayan retiratado
+imperfecto-subjuntivo:
+  yo:
+    - retiratara
+    - retiratase
+  tu:
+    - retirataras
+    - retiratases
+  vos:
+    - retirataras
+    - retiratases
+  ud:
+    - retiratara
+    - retiratase
+  nosotros:
+    - retiratáramos
+    - retiratásemos
+  vosotros:
+    - retiratarais
+    - retirataseis
+  uds:
+    - retirataran
+    - retiratasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera retiratado
+    - hubiese retiratado
+  tu:
+    - hubieras retiratado
+    - hubieses retiratado
+  vos:
+    - hubieras retiratado
+    - hubieses retiratado
+  ud:
+    - hubiera retiratado
+    - hubiese retiratado
+  nosotros:
+    - hubiéramos retiratado
+    - hubiésemos retiratado
+  vosotros:
+    - hubierais retiratado
+    - hubieseis retiratado
+  uds:
+    - hubieran retiratado
+    - hubiesen retiratado
+imperativo:
+  tu: retirata
+  vos: retiratá
+  ud: retire
+  nosotros: retiremos
+  vosotros: retirad
+  uds: retiren

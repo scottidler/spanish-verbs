@@ -1,0 +1,142 @@
+infinitivo: contradecir
+gerundio: contradiciendo
+participio-pasado: contradicho
+presente-indicativo:
+  yo: contradigo
+  tu: contradices
+  vos: contradices
+  ud: contradice
+  nosotros: contradecimos
+  vosotros: contradecís
+  uds: contradicen
+preterito-perfecto-simple:
+  yo: contradije
+  tu: contradijiste
+  vos: contradijiste
+  ud: contradijo
+  nosotros: contradijimos
+  vosotros: contradijisteis
+  uds: contradijeron
+preterito-imperfecto:
+  yo: contradecía
+  tu: contradecías
+  vos: contradecías
+  ud: contradecía
+  nosotros: contradecíamos
+  vosotros: contradecíais
+  uds: contradecían
+futuro-simple:
+  yo: contradiré
+  tu: contradirás
+  vos: contradirás
+  ud: contradirá
+  nosotros: contradiremos
+  vosotros: contradiréis
+  uds: contradirán
+condicional-simple:
+  yo: contradiría
+  tu: contradirías
+  vos: contradirías
+  ud: contradiría
+  nosotros: contradiríamos
+  vosotros: contradiríais
+  uds: contradirían
+presente-perfecto:
+  yo: he contradicho
+  tu: has contradicho
+  vos: has contradicho
+  ud: ha contradicho
+  nosotros: hemos contradicho
+  vosotros: habéis contradicho
+  uds: han contradicho
+preterito-pluscuamperfecto:
+  yo: había contradicho
+  tu: habías contradicho
+  vos: habías contradicho
+  ud: había contradicho
+  nosotros: habíamos contradicho
+  vosotros: habíais contradicho
+  uds: habían contradicho
+futuro-perfecto:
+  yo: habré contradicho
+  tu: habrás contradicho
+  vos: habrás contradicho
+  ud: habrá contradicho
+  nosotros: habremos contradicho
+  vosotros: habréis contradicho
+  uds: habrán contradicho
+condicional-perfecto:
+  yo: habría contradicho
+  tu: habrías contradicho
+  vos: habrías contradicho
+  ud: habría contradicho
+  nosotros: habríamos contradicho
+  vosotros: habríais contradicho
+  uds: habrían contradicho
+presente-subjuntivo:
+  yo: contradiga
+  tu: contradigas
+  vos: contradigas
+  ud: contradiga
+  nosotros: contradigamos
+  vosotros: contradigáis
+  uds: contradigan
+preterito-perfecto-subjuntivo:
+  yo: haya contradicho
+  tu: hayas contradicho
+  vos: hayas contradicho
+  ud: haya contradicho
+  nosotros: hayamos contradicho
+  vosotros: hayáis contradicho
+  uds: hayan contradicho
+imperfecto-subjuntivo:
+  yo:
+    - contradijera
+    - contradijese
+  tu:
+    - contradijeras
+    - contradijeses
+  vos:
+    - contradijeras
+    - contradijeses
+  ud:
+    - contradijera
+    - contradijese
+  nosotros:
+    - contradijéramos
+    - contradijésemos
+  vosotros:
+    - contradijerais
+    - contradijeseis
+  uds:
+    - contradijeran
+    - contradijesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera contradicho
+    - hubiese contradicho
+  tu:
+    - hubieras contradicho
+    - hubieses contradicho
+  vos:
+    - hubieras contradicho
+    - hubieses contradicho
+  ud:
+    - hubiera contradicho
+    - hubiese contradicho
+  nosotros:
+    - hubiéramos contradicho
+    - hubiésemos contradicho
+  vosotros:
+    - hubierais contradicho
+    - hubieseis contradicho
+  uds:
+    - hubieran contradicho
+    - hubiesen contradicho
+imperativo:
+  tu: contradice
+  vos: contradecí
+  ud: contradiga
+  nosotros: contradigamos
+  vosotros: contradecid
+  uds: contradigan

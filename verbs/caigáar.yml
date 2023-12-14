@@ -1,0 +1,142 @@
+infinitivo: caigáar
+gerundio: caigáando
+participio-pasado: caigáado
+presente-indicativo:
+  yo: caigáo
+  tu: caigás
+  vos: caigás
+  ud: caigá
+  nosotros: caigáamos
+  vosotros: caigáais
+  uds: caigán
+preterito-perfecto-simple:
+  yo: caigáé
+  tu: caigáaste
+  vos: caigáaste
+  ud: caigáó
+  nosotros: caigáamos
+  vosotros: caigáasteis
+  uds: caigáaron
+preterito-imperfecto:
+  yo: caigáaba
+  tu: caigáabas
+  vos: caigáabas
+  ud: caigáaba
+  nosotros: caigáábamos
+  vosotros: caigáabais
+  uds: caigáaban
+futuro-simple:
+  yo: caigáaré
+  tu: caigáarás
+  vos: caigáarás
+  ud: caigáará
+  nosotros: caigáaremos
+  vosotros: caigáaréis
+  uds: caigáarán
+condicional-simple:
+  yo: caigáaría
+  tu: caigáarías
+  vos: caigáarías
+  ud: caigáaría
+  nosotros: caigáaríamos
+  vosotros: caigáaríais
+  uds: caigáarían
+presente-perfecto:
+  yo: he caigáado
+  tu: has caigáado
+  vos: has caigáado
+  ud: ha caigáado
+  nosotros: hemos caigáado
+  vosotros: habéis caigáado
+  uds: han caigáado
+preterito-pluscuamperfecto:
+  yo: había caigáado
+  tu: habías caigáado
+  vos: habías caigáado
+  ud: había caigáado
+  nosotros: habíamos caigáado
+  vosotros: habíais caigáado
+  uds: habían caigáado
+futuro-perfecto:
+  yo: habré caigáado
+  tu: habrás caigáado
+  vos: habrás caigáado
+  ud: habrá caigáado
+  nosotros: habremos caigáado
+  vosotros: habréis caigáado
+  uds: habrán caigáado
+condicional-perfecto:
+  yo: habría caigáado
+  tu: habrías caigáado
+  vos: habrías caigáado
+  ud: habría caigáado
+  nosotros: habríamos caigáado
+  vosotros: habríais caigáado
+  uds: habrían caigáado
+presente-subjuntivo:
+  yo: caigáe
+  tu: caigás
+  vos: caigás
+  ud: caigáe
+  nosotros: caigáemos
+  vosotros: caigáeis
+  uds: caigáen
+preterito-perfecto-subjuntivo:
+  yo: haya caigáado
+  tu: hayas caigáado
+  vos: hayas caigáado
+  ud: haya caigáado
+  nosotros: hayamos caigáado
+  vosotros: hayáis caigáado
+  uds: hayan caigáado
+imperfecto-subjuntivo:
+  yo:
+    - caigáara
+    - caigáase
+  tu:
+    - caigáaras
+    - caigáases
+  vos:
+    - caigáaras
+    - caigáases
+  ud:
+    - caigáara
+    - caigáase
+  nosotros:
+    - caigáaramos
+    - caigáasemos
+  vosotros:
+    - caigáarais
+    - caigáaseis
+  uds:
+    - caigáaran
+    - caigásen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera caigáado
+    - hubiese caigáado
+  tu:
+    - hubieras caigáado
+    - hubieses caigáado
+  vos:
+    - hubieras caigáado
+    - hubieses caigáado
+  ud:
+    - hubiera caigáado
+    - hubiese caigáado
+  nosotros:
+    - hubiéramos caigáado
+    - hubiésemos caigáado
+  vosotros:
+    - hubierais caigáado
+    - hubieseis caigáado
+  uds:
+    - hubieran caigáado
+    - hubiesen caigáado
+imperativo:
+  tu: caigáa
+  vos: caigáa
+  ud: caigáa
+  nosotros: caigáamos
+  vosotros: caigáad
+  uds: caigáan

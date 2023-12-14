@@ -1,0 +1,142 @@
+infinitivo: salmodiar
+gerundio: salmodiando
+participio-pasado: salmodiado
+presente-indicativo:
+  yo: salmodio
+  tu: salmodias
+  vos: salmodias
+  ud: salmodia
+  nosotros: salmodiamos
+  vosotros: salmodiáis
+  uds: salmodian
+preterito-perfecto-simple:
+  yo: salmodié
+  tu: salmodiaste
+  vos: salmodiaste
+  ud: salmodió
+  nosotros: salmodiamos
+  vosotros: salmodiasteis
+  uds: salmodiaron
+preterito-imperfecto:
+  yo: salmodiaba
+  tu: salmodiabas
+  vos: salmodiabas
+  ud: salmodiaba
+  nosotros: salmodiábamos
+  vosotros: salmodiabais
+  uds: salmodiaban
+futuro-simple:
+  yo: salmodiaré
+  tu: salmodiarás
+  vos: salmodiarás
+  ud: salmodiará
+  nosotros: salmodiaremos
+  vosotros: salmodiaréis
+  uds: salmodiarán
+condicional-simple:
+  yo: salmodiaría
+  tu: salmodiarías
+  vos: salmodiarías
+  ud: salmodiaría
+  nosotros: salmodiaríamos
+  vosotros: salmodiaríais
+  uds: salmodiarían
+presente-perfecto:
+  yo: he salmodiado
+  tu: has salmodiado
+  vos: has salmodiado
+  ud: ha salmodiado
+  nosotros: hemos salmodiado
+  vosotros: habéis salmodiado
+  uds: han salmodiado
+preterito-pluscuamperfecto:
+  yo: había salmodiado
+  tu: habías salmodiado
+  vos: habías salmodiado
+  ud: había salmodiado
+  nosotros: habíamos salmodiado
+  vosotros: habíais salmodiado
+  uds: habían salmodiado
+futuro-perfecto:
+  yo: habré salmodiado
+  tu: habrás salmodiado
+  vos: habrás salmodiado
+  ud: habrá salmodiado
+  nosotros: habremos salmodiado
+  vosotros: habréis salmodiado
+  uds: habrán salmodiado
+condicional-perfecto:
+  yo: habría salmodiado
+  tu: habrías salmodiado
+  vos: habrías salmodiado
+  ud: habría salmodiado
+  nosotros: habríamos salmodiado
+  vosotros: habríais salmodiado
+  uds: habrían salmodiado
+presente-subjuntivo:
+  yo: salmodie
+  tu: salmodies
+  vos: salmodies
+  ud: salmodie
+  nosotros: salmodiemos
+  vosotros: salmodiéis
+  uds: salmodien
+preterito-perfecto-subjuntivo:
+  yo: haya salmodiado
+  tu: hayas salmodiado
+  vos: hayas salmodiado
+  ud: haya salmodiado
+  nosotros: hayamos salmodiado
+  vosotros: hayáis salmodiado
+  uds: hayan salmodiado
+imperfecto-subjuntivo:
+  yo:
+    - salmodiara
+    - salmodiase
+  tu:
+    - salmodiaras
+    - salmodiases
+  vos:
+    - salmodiaras
+    - salmodiases
+  ud:
+    - salmodiara
+    - salmodiase
+  nosotros:
+    - salmodiáramos
+    - salmodiésemos
+  vosotros:
+    - salmodiarais
+    - salmodiaseis
+  uds:
+    - salmodiaran
+    - salmodiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera salmodiado
+    - hubiese salmodiado
+  tu:
+    - hubieras salmodiado
+    - hubieses salmodiado
+  vos:
+    - hubieras salmodiado
+    - hubieses salmodiado
+  ud:
+    - hubiera salmodiado
+    - hubiese salmodiado
+  nosotros:
+    - hubiéramos salmodiado
+    - hubiésemos salmodiado
+  vosotros:
+    - hubierais salmodiado
+    - hubieseis salmodiado
+  uds:
+    - hubieran salmodiado
+    - hubiesen salmodiado
+imperativo:
+  tu: salmodia
+  vos: salmodiá
+  ud: salmodie
+  nosotros: salmodiemos
+  vosotros: salmodiad
+  uds: salmodien

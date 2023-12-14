@@ -1,0 +1,142 @@
+infinitivo: complicar
+gerundio: complicando
+participio-pasado: complicado
+presente-indicativo:
+  yo: complico
+  tu: complicas
+  vos: complicas
+  ud: complica
+  nosotros: complicamos
+  vosotros: complicáis
+  uds: complican
+preterito-perfecto-simple:
+  yo: compliqué
+  tu: complicaste
+  vos: complicaste
+  ud: complicó
+  nosotros: complicamos
+  vosotros: complicasteis
+  uds: complicaron
+preterito-imperfecto:
+  yo: complicaba
+  tu: complicabas
+  vos: complicabas
+  ud: complicaba
+  nosotros: complicábamos
+  vosotros: complicabais
+  uds: complicaban
+futuro-simple:
+  yo: complicaré
+  tu: complicarás
+  vos: complicarás
+  ud: complicará
+  nosotros: complicaremos
+  vosotros: complicaréis
+  uds: complicarán
+condicional-simple:
+  yo: complicaría
+  tu: complicarías
+  vos: complicarías
+  ud: complicaría
+  nosotros: complicaríamos
+  vosotros: complicaríais
+  uds: complicarían
+presente-perfecto:
+  yo: he complicado
+  tu: has complicado
+  vos: has complicado
+  ud: ha complicado
+  nosotros: hemos complicado
+  vosotros: habéis complicado
+  uds: han complicado
+preterito-pluscuamperfecto:
+  yo: había complicado
+  tu: habías complicado
+  vos: habías complicado
+  ud: había complicado
+  nosotros: habíamos complicado
+  vosotros: habíais complicado
+  uds: habían complicado
+futuro-perfecto:
+  yo: habré complicado
+  tu: habrás complicado
+  vos: habrás complicado
+  ud: habrá complicado
+  nosotros: habremos complicado
+  vosotros: habréis complicado
+  uds: habrán complicado
+condicional-perfecto:
+  yo: habría complicado
+  tu: habrías complicado
+  vos: habrías complicado
+  ud: habría complicado
+  nosotros: habríamos complicado
+  vosotros: habríais complicado
+  uds: habrían complicado
+presente-subjuntivo:
+  yo: complique
+  tu: compliques
+  vos: compliques
+  ud: complique
+  nosotros: compliquemos
+  vosotros: compliquéis
+  uds: compliquen
+preterito-perfecto-subjuntivo:
+  yo: haya complicado
+  tu: hayas complicado
+  vos: hayas complicado
+  ud: haya complicado
+  nosotros: hayamos complicado
+  vosotros: hayáis complicado
+  uds: hayan complicado
+imperfecto-subjuntivo:
+  yo:
+    - complicara
+    - complicase
+  tu:
+    - complicaras
+    - complicases
+  vos:
+    - complicaras
+    - complicases
+  ud:
+    - complicara
+    - complicase
+  nosotros:
+    - complicáramos
+    - complicásemos
+  vosotros:
+    - complicarais
+    - complicaseis
+  uds:
+    - complicaran
+    - complicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera complicado
+    - hubiese complicado
+  tu:
+    - hubieras complicado
+    - hubieses complicado
+  vos:
+    - hubieras complicado
+    - hubieses complicado
+  ud:
+    - hubiera complicado
+    - hubiese complicado
+  nosotros:
+    - hubiéramos complicado
+    - hubiésemos complicado
+  vosotros:
+    - hubierais complicado
+    - hubieseis complicado
+  uds:
+    - hubieran complicado
+    - hubiesen complicado
+imperativo:
+  tu: complica
+  vos: complicá
+  ud: complique
+  nosotros: compliquemos
+  vosotros: complicad
+  uds: compliquen

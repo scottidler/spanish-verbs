@@ -1,0 +1,142 @@
+infinitivo: verter
+gerundio: vertiendo
+participio-pasado: vertido
+presente-indicativo:
+  yo: vierto
+  tu: viertes
+  vos: viertes
+  ud: vierte
+  nosotros: vertemos
+  vosotros: vertéis
+  uds: vierten
+preterito-perfecto-simple:
+  yo: vertí
+  tu: vertiste
+  vos: vertiste
+  ud: vertió
+  nosotros: vertimos
+  vosotros: vertisteis
+  uds: vertieron
+preterito-imperfecto:
+  yo: vertía
+  tu: vertías
+  vos: vertías
+  ud: vertía
+  nosotros: vertíamos
+  vosotros: vertíais
+  uds: vertían
+futuro-simple:
+  yo: verteré
+  tu: verterás
+  vos: verterás
+  ud: verterá
+  nosotros: verteremos
+  vosotros: verteréis
+  uds: verterán
+condicional-simple:
+  yo: vertería
+  tu: verterías
+  vos: verterías
+  ud: vertería
+  nosotros: verteríamos
+  vosotros: verteríais
+  uds: verterían
+presente-perfecto:
+  yo: he vertido
+  tu: has vertido
+  vos: has vertido
+  ud: ha vertido
+  nosotros: hemos vertido
+  vosotros: habéis vertido
+  uds: han vertido
+preterito-pluscuamperfecto:
+  yo: había vertido
+  tu: habías vertido
+  vos: habías vertido
+  ud: había vertido
+  nosotros: habíamos vertido
+  vosotros: habíais vertido
+  uds: habían vertido
+futuro-perfecto:
+  yo: habré vertido
+  tu: habrás vertido
+  vos: habrás vertido
+  ud: habrá vertido
+  nosotros: habremos vertido
+  vosotros: habréis vertido
+  uds: habrán vertido
+condicional-perfecto:
+  yo: habría vertido
+  tu: habrías vertido
+  vos: habrías vertido
+  ud: habría vertido
+  nosotros: habríamos vertido
+  vosotros: habríais vertido
+  uds: habrían vertido
+presente-subjuntivo:
+  yo: vierta
+  tu: viertas
+  vos: viertas
+  ud: vierta
+  nosotros: vertamos
+  vosotros: vertáis
+  uds: viertan
+preterito-perfecto-subjuntivo:
+  yo: haya vertido
+  tu: hayas vertido
+  vos: hayas vertido
+  ud: haya vertido
+  nosotros: hayamos vertido
+  vosotros: hayáis vertido
+  uds: hayan vertido
+imperfecto-subjuntivo:
+  yo:
+    - vertiera
+    - vertiese
+  tu:
+    - vertieras
+    - vertieses
+  vos:
+    - vertieras
+    - vertieses
+  ud:
+    - vertiera
+    - vertiese
+  nosotros:
+    - vertiéramos
+    - vertiésemos
+  vosotros:
+    - vertierais
+    - vertieseis
+  uds:
+    - vertieran
+    - vertiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vertido
+    - hubiese vertido
+  tu:
+    - hubieras vertido
+    - hubieses vertido
+  vos:
+    - hubieras vertido
+    - hubieses vertido
+  ud:
+    - hubiera vertido
+    - hubiese vertido
+  nosotros:
+    - hubiéramos vertido
+    - hubiésemos vertido
+  vosotros:
+    - hubierais vertido
+    - hubieseis vertido
+  uds:
+    - hubieran vertido
+    - hubiesen vertido
+imperativo:
+  tu: vierte
+  vos: verté
+  ud: vierta
+  nosotros: vertamos
+  vosotros: verted
+  uds: viertan

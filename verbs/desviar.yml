@@ -1,0 +1,142 @@
+infinitivo: desviar
+gerundio: desviando
+participio-pasado: desviado
+presente-indicativo:
+  yo: desvío
+  tu: desvías
+  vos: desvías
+  ud: desvía
+  nosotros: desviamos
+  vosotros: desviáis
+  uds: desvían
+preterito-perfecto-simple:
+  yo: desvié
+  tu: desviaste
+  vos: desviaste
+  ud: desvió
+  nosotros: desviamos
+  vosotros: desviasteis
+  uds: desviaron
+preterito-imperfecto:
+  yo: desviaba
+  tu: desviabas
+  vos: desviabas
+  ud: desviaba
+  nosotros: desviábamos
+  vosotros: desviabais
+  uds: desviaban
+futuro-simple:
+  yo: desviaré
+  tu: desviarás
+  vos: desviarás
+  ud: desviará
+  nosotros: desviaremos
+  vosotros: desviaréis
+  uds: desviarán
+condicional-simple:
+  yo: desviaría
+  tu: desviarías
+  vos: desviarías
+  ud: desviaría
+  nosotros: desviaríamos
+  vosotros: desviaríais
+  uds: desviarían
+presente-perfecto:
+  yo: he desviado
+  tu: has desviado
+  vos: has desviado
+  ud: ha desviado
+  nosotros: hemos desviado
+  vosotros: habéis desviado
+  uds: han desviado
+preterito-pluscuamperfecto:
+  yo: había desviado
+  tu: habías desviado
+  vos: habías desviado
+  ud: había desviado
+  nosotros: habíamos desviado
+  vosotros: habíais desviado
+  uds: habían desviado
+futuro-perfecto:
+  yo: habré desviado
+  tu: habrás desviado
+  vos: habrás desviado
+  ud: habrá desviado
+  nosotros: habremos desviado
+  vosotros: habréis desviado
+  uds: habrán desviado
+condicional-perfecto:
+  yo: habría desviado
+  tu: habrías desviado
+  vos: habrías desviado
+  ud: habría desviado
+  nosotros: habríamos desviado
+  vosotros: habríais desviado
+  uds: habrían desviado
+presente-subjuntivo:
+  yo: desvíe
+  tu: desvíes
+  vos: desvíes
+  ud: desvíe
+  nosotros: desviemos
+  vosotros: desviéis
+  uds: desvíen
+preterito-perfecto-subjuntivo:
+  yo: haya desviado
+  tu: hayas desviado
+  vos: hayas desviado
+  ud: haya desviado
+  nosotros: hayamos desviado
+  vosotros: hayáis desviado
+  uds: hayan desviado
+imperfecto-subjuntivo:
+  yo:
+    - desviara
+    - desviase
+  tu:
+    - desviaras
+    - desviases
+  vos:
+    - desviaras
+    - desviases
+  ud:
+    - desviara
+    - desviase
+  nosotros:
+    - desviáramos
+    - desviésemos
+  vosotros:
+    - desviarais
+    - desviaseis
+  uds:
+    - desviaran
+    - desviasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desviado
+    - hubiese desviado
+  tu:
+    - hubieras desviado
+    - hubieses desviado
+  vos:
+    - hubieras desviado
+    - hubieses desviado
+  ud:
+    - hubiera desviado
+    - hubiese desviado
+  nosotros:
+    - hubiéramos desviado
+    - hubiésemos desviado
+  vosotros:
+    - hubierais desviado
+    - hubieseis desviado
+  uds:
+    - hubieran desviado
+    - hubiesen desviado
+imperativo:
+  tu: desvía
+  vos: desvía
+  ud: desvíe
+  nosotros: desviemos
+  vosotros: desviad
+  uds: desvíen

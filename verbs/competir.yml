@@ -1,0 +1,142 @@
+infinitivo: competir
+gerundio: compitiendo
+participio-pasado: competido
+presente-indicativo:
+  yo: compito
+  tu: compites
+  vos: compites
+  ud: compite
+  nosotros: competimos
+  vosotros: competís
+  uds: compiten
+preterito-perfecto-simple:
+  yo: competí
+  tu: competiste
+  vos: competiste
+  ud: compitió
+  nosotros: competimos
+  vosotros: competisteis
+  uds: compitieron
+preterito-imperfecto:
+  yo: competía
+  tu: competías
+  vos: competías
+  ud: competía
+  nosotros: competíamos
+  vosotros: competíais
+  uds: competían
+futuro-simple:
+  yo: competiré
+  tu: competirás
+  vos: competirás
+  ud: competirá
+  nosotros: competiremos
+  vosotros: competiréis
+  uds: competirán
+condicional-simple:
+  yo: competiría
+  tu: competirías
+  vos: competirías
+  ud: competiría
+  nosotros: competiríamos
+  vosotros: competiríais
+  uds: competirían
+presente-perfecto:
+  yo: he competido
+  tu: has competido
+  vos: has competido
+  ud: ha competido
+  nosotros: hemos competido
+  vosotros: habéis competido
+  uds: han competido
+preterito-pluscuamperfecto:
+  yo: había competido
+  tu: habías competido
+  vos: habías competido
+  ud: había competido
+  nosotros: habíamos competido
+  vosotros: habíais competido
+  uds: habían competido
+futuro-perfecto:
+  yo: habré competido
+  tu: habrás competido
+  vos: habrás competido
+  ud: habrá competido
+  nosotros: habremos competido
+  vosotros: habréis competido
+  uds: habrán competido
+condicional-perfecto:
+  yo: habría competido
+  tu: habrías competido
+  vos: habrías competido
+  ud: habría competido
+  nosotros: habríamos competido
+  vosotros: habríais competido
+  uds: habrían competido
+presente-subjuntivo:
+  yo: compita
+  tu: compitas
+  vos: compitas
+  ud: compita
+  nosotros: compitamos
+  vosotros: compitáis
+  uds: compitan
+preterito-perfecto-subjuntivo:
+  yo: haya competido
+  tu: hayas competido
+  vos: hayas competido
+  ud: haya competido
+  nosotros: hayamos competido
+  vosotros: hayáis competido
+  uds: hayan competido
+imperfecto-subjuntivo:
+  yo:
+    - compitiera
+    - compitiese
+  tu:
+    - compitieras
+    - compitieses
+  vos:
+    - compitieras
+    - compitieses
+  ud:
+    - compitiera
+    - compitiese
+  nosotros:
+    - compitiéramos
+    - compitiésemos
+  vosotros:
+    - compitierais
+    - compitieseis
+  uds:
+    - compitieran
+    - compitiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera competido
+    - hubiese competido
+  tu:
+    - hubieras competido
+    - hubieses competido
+  vos:
+    - hubieras competido
+    - hubieses competido
+  ud:
+    - hubiera competido
+    - hubiese competido
+  nosotros:
+    - hubiéramos competido
+    - hubiésemos competido
+  vosotros:
+    - hubierais competido
+    - hubieseis competido
+  uds:
+    - hubieran competido
+    - hubiesen competido
+imperativo:
+  tu: compite
+  vos: compitá
+  ud: compita
+  nosotros: compitamos
+  vosotros: competid
+  uds: compitan

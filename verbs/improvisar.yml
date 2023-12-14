@@ -1,0 +1,142 @@
+infinitivo: improvisar
+gerundio: improvisando
+participio-pasado: improvisado
+presente-indicativo:
+  yo: improviso
+  tu: improvisas
+  vos: improvisas
+  ud: improvisa
+  nosotros: improvisamos
+  vosotros: improvisáis
+  uds: improvisan
+preterito-perfecto-simple:
+  yo: improvisé
+  tu: improvisaste
+  vos: improvisaste
+  ud: improvisó
+  nosotros: improvisamos
+  vosotros: improvisasteis
+  uds: improvisaron
+preterito-imperfecto:
+  yo: improvisaba
+  tu: improvisabas
+  vos: improvisabas
+  ud: improvisaba
+  nosotros: improvisábamos
+  vosotros: improvisabais
+  uds: improvisaban
+futuro-simple:
+  yo: improvisaré
+  tu: improvisarás
+  vos: improvisarás
+  ud: improvisará
+  nosotros: improvisaremos
+  vosotros: improvisaréis
+  uds: improvisarán
+condicional-simple:
+  yo: improvisaría
+  tu: improvisarías
+  vos: improvisarías
+  ud: improvisaría
+  nosotros: improvisaríamos
+  vosotros: improvisaríais
+  uds: improvisarían
+presente-perfecto:
+  yo: he improvisado
+  tu: has improvisado
+  vos: has improvisado
+  ud: ha improvisado
+  nosotros: hemos improvisado
+  vosotros: habéis improvisado
+  uds: han improvisado
+preterito-pluscuamperfecto:
+  yo: había improvisado
+  tu: habías improvisado
+  vos: habías improvisado
+  ud: había improvisado
+  nosotros: habíamos improvisado
+  vosotros: habíais improvisado
+  uds: habían improvisado
+futuro-perfecto:
+  yo: habré improvisado
+  tu: habrás improvisado
+  vos: habrás improvisado
+  ud: habrá improvisado
+  nosotros: habremos improvisado
+  vosotros: habréis improvisado
+  uds: habrán improvisado
+condicional-perfecto:
+  yo: habría improvisado
+  tu: habrías improvisado
+  vos: habrías improvisado
+  ud: habría improvisado
+  nosotros: habríamos improvisado
+  vosotros: habríais improvisado
+  uds: habrían improvisado
+presente-subjuntivo:
+  yo: improvise
+  tu: improvises
+  vos: improvises
+  ud: improvise
+  nosotros: improvisemos
+  vosotros: improviséis
+  uds: improvisen
+preterito-perfecto-subjuntivo:
+  yo: haya improvisado
+  tu: hayas improvisado
+  vos: hayas improvisado
+  ud: haya improvisado
+  nosotros: hayamos improvisado
+  vosotros: hayáis improvisado
+  uds: hayan improvisado
+imperfecto-subjuntivo:
+  yo:
+    - improvisara
+    - improvisase
+  tu:
+    - improvisaras
+    - improvisases
+  vos:
+    - improvisaras
+    - improvisases
+  ud:
+    - improvisara
+    - improvisase
+  nosotros:
+    - improvisáramos
+    - improvisásemos
+  vosotros:
+    - improvisarais
+    - improvisaseis
+  uds:
+    - improvisaran
+    - improvisasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera improvisado
+    - hubiese improvisado
+  tu:
+    - hubieras improvisado
+    - hubieses improvisado
+  vos:
+    - hubieras improvisado
+    - hubieses improvisado
+  ud:
+    - hubiera improvisado
+    - hubiese improvisado
+  nosotros:
+    - hubiéramos improvisado
+    - hubiésemos improvisado
+  vosotros:
+    - hubierais improvisado
+    - hubieseis improvisado
+  uds:
+    - hubieran improvisado
+    - hubiesen improvisado
+imperativo:
+  tu: improvisa
+  vos: improvisá
+  ud: improvise
+  nosotros: improvisemos
+  vosotros: improvisad
+  uds: improvisen

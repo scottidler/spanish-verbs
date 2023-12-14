@@ -1,0 +1,142 @@
+infinitivo: finalizar
+gerundio: finalizando
+participio-pasado: finalizado
+presente-indicativo:
+  yo: finalizo
+  tu: finalizas
+  vos: finalizas
+  ud: finaliza
+  nosotros: finalizamos
+  vosotros: finalizáis
+  uds: finalizan
+preterito-perfecto-simple:
+  yo: finalicé
+  tu: finalizaste
+  vos: finalizaste
+  ud: finalizó
+  nosotros: finalizamos
+  vosotros: finalizasteis
+  uds: finalizaron
+preterito-imperfecto:
+  yo: finalizaba
+  tu: finalizabas
+  vos: finalizabas
+  ud: finalizaba
+  nosotros: finalizábamos
+  vosotros: finalizabais
+  uds: finalizaban
+futuro-simple:
+  yo: finalizaré
+  tu: finalizarás
+  vos: finalizarás
+  ud: finalizará
+  nosotros: finalizaremos
+  vosotros: finalizaréis
+  uds: finalizarán
+condicional-simple:
+  yo: finalizaría
+  tu: finalizarías
+  vos: finalizarías
+  ud: finalizaría
+  nosotros: finalizaríamos
+  vosotros: finalizaríais
+  uds: finalizarían
+presente-perfecto:
+  yo: he finalizado
+  tu: has finalizado
+  vos: has finalizado
+  ud: ha finalizado
+  nosotros: hemos finalizado
+  vosotros: habéis finalizado
+  uds: han finalizado
+preterito-pluscuamperfecto:
+  yo: había finalizado
+  tu: habías finalizado
+  vos: habías finalizado
+  ud: había finalizado
+  nosotros: habíamos finalizado
+  vosotros: habíais finalizado
+  uds: habían finalizado
+futuro-perfecto:
+  yo: habré finalizado
+  tu: habrás finalizado
+  vos: habrás finalizado
+  ud: habrá finalizado
+  nosotros: habremos finalizado
+  vosotros: habréis finalizado
+  uds: habrán finalizado
+condicional-perfecto:
+  yo: habría finalizado
+  tu: habrías finalizado
+  vos: habrías finalizado
+  ud: habría finalizado
+  nosotros: habríamos finalizado
+  vosotros: habríais finalizado
+  uds: habrían finalizado
+presente-subjuntivo:
+  yo: finalice
+  tu: finalices
+  vos: finalices
+  ud: finalice
+  nosotros: finalicemos
+  vosotros: finalicéis
+  uds: finalicen
+preterito-perfecto-subjuntivo:
+  yo: haya finalizado
+  tu: hayas finalizado
+  vos: hayas finalizado
+  ud: haya finalizado
+  nosotros: hayamos finalizado
+  vosotros: hayáis finalizado
+  uds: hayan finalizado
+imperfecto-subjuntivo:
+  yo:
+    - finalizara
+    - finalizase
+  tu:
+    - finalizaras
+    - finalizases
+  vos:
+    - finalizaras
+    - finalizases
+  ud:
+    - finalizara
+    - finalizase
+  nosotros:
+    - finalizáramos
+    - finalizásemos
+  vosotros:
+    - finalizarais
+    - finalizaseis
+  uds:
+    - finalizaran
+    - finalizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera finalizado
+    - hubiese finalizado
+  tu:
+    - hubieras finalizado
+    - hubieses finalizado
+  vos:
+    - hubieras finalizado
+    - hubieses finalizado
+  ud:
+    - hubiera finalizado
+    - hubiese finalizado
+  nosotros:
+    - hubiéramos finalizado
+    - hubiésemos finalizado
+  vosotros:
+    - hubierais finalizado
+    - hubieseis finalizado
+  uds:
+    - hubieran finalizado
+    - hubiesen finalizado
+imperativo:
+  tu: finaliza
+  vos: finalizá
+  ud: finalice
+  nosotros: finalicemos
+  vosotros: finalizad
+  uds: finalicen

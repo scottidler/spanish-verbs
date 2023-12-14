@@ -1,0 +1,142 @@
+infinitivo: mejorar
+gerundio: mejorando
+participio-pasado: mejorado
+presente-indicativo:
+  yo: mejoro
+  tu: mejoras
+  vos: mejoras
+  ud: mejora
+  nosotros: mejoramos
+  vosotros: mejoráis
+  uds: mejoran
+preterito-perfecto-simple:
+  yo: mejoré
+  tu: mejoraste
+  vos: mejoraste
+  ud: mejoró
+  nosotros: mejoramos
+  vosotros: mejorasteis
+  uds: mejoraron
+preterito-imperfecto:
+  yo: mejoraba
+  tu: mejorabas
+  vos: mejorabas
+  ud: mejoraba
+  nosotros: mejorábamos
+  vosotros: mejorabais
+  uds: mejoraban
+futuro-simple:
+  yo: mejoraré
+  tu: mejorarás
+  vos: mejorarás
+  ud: mejorará
+  nosotros: mejoraremos
+  vosotros: mejoraréis
+  uds: mejorarán
+condicional-simple:
+  yo: mejoraría
+  tu: mejorarías
+  vos: mejorarías
+  ud: mejoraría
+  nosotros: mejoraríamos
+  vosotros: mejoraríais
+  uds: mejorarían
+presente-perfecto:
+  yo: he mejorado
+  tu: has mejorado
+  vos: has mejorado
+  ud: ha mejorado
+  nosotros: hemos mejorado
+  vosotros: habéis mejorado
+  uds: han mejorado
+preterito-pluscuamperfecto:
+  yo: había mejorado
+  tu: habías mejorado
+  vos: habías mejorado
+  ud: había mejorado
+  nosotros: habíamos mejorado
+  vosotros: habíais mejorado
+  uds: habían mejorado
+futuro-perfecto:
+  yo: habré mejorado
+  tu: habrás mejorado
+  vos: habrás mejorado
+  ud: habrá mejorado
+  nosotros: habremos mejorado
+  vosotros: habréis mejorado
+  uds: habrán mejorado
+condicional-perfecto:
+  yo: habría mejorado
+  tu: habrías mejorado
+  vos: habrías mejorado
+  ud: habría mejorado
+  nosotros: habríamos mejorado
+  vosotros: habríais mejorado
+  uds: habrían mejorado
+presente-subjuntivo:
+  yo: mejore
+  tu: mejores
+  vos: mejores
+  ud: mejore
+  nosotros: mejoremos
+  vosotros: mejoréis
+  uds: mejoren
+preterito-perfecto-subjuntivo:
+  yo: haya mejorado
+  tu: hayas mejorado
+  vos: hayas mejorado
+  ud: haya mejorado
+  nosotros: hayamos mejorado
+  vosotros: hayáis mejorado
+  uds: hayan mejorado
+imperfecto-subjuntivo:
+  yo:
+    - mejorara
+    - mejorase
+  tu:
+    - mejoraras
+    - mejorases
+  vos:
+    - mejoraras
+    - mejorases
+  ud:
+    - mejorara
+    - mejorase
+  nosotros:
+    - mejoráramos
+    - mejorásemos
+  vosotros:
+    - mejorarais
+    - mejoraseis
+  uds:
+    - mejoraran
+    - mejorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mejorado
+    - hubiese mejorado
+  tu:
+    - hubieras mejorado
+    - hubieses mejorado
+  vos:
+    - hubieras mejorado
+    - hubieses mejorado
+  ud:
+    - hubiera mejorado
+    - hubiese mejorado
+  nosotros:
+    - hubiéramos mejorado
+    - hubiésemos mejorado
+  vosotros:
+    - hubierais mejorado
+    - hubieseis mejorado
+  uds:
+    - hubieran mejorado
+    - hubiesen mejorado
+imperativo:
+  tu: mejora
+  vos: mejorá
+  ud: mejore
+  nosotros: mejoremos
+  vosotros: mejorad
+  uds: mejoren

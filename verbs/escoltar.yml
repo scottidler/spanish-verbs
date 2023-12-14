@@ -1,0 +1,142 @@
+infinitivo: escoltar
+gerundio: escoltando
+participio-pasado: escoltado
+presente-indicativo:
+  yo: escolto
+  tu: escoltas
+  vos: escoltás
+  ud: escolta
+  nosotros: escoltamos
+  vosotros: escoltáis
+  uds: escoltan
+preterito-perfecto-simple:
+  yo: escolté
+  tu: escoltaste
+  vos: escoltaste
+  ud: escoltó
+  nosotros: escoltamos
+  vosotros: escoltasteis
+  uds: escoltaron
+preterito-imperfecto:
+  yo: escoltaba
+  tu: escoltabas
+  vos: escoltabas
+  ud: escoltaba
+  nosotros: escoltábamos
+  vosotros: escoltabais
+  uds: escoltaban
+futuro-simple:
+  yo: escoltaré
+  tu: escoltarás
+  vos: escoltarás
+  ud: escoltará
+  nosotros: escoltaremos
+  vosotros: escoltaréis
+  uds: escoltarán
+condicional-simple:
+  yo: escoltaría
+  tu: escoltarías
+  vos: escoltarías
+  ud: escoltaría
+  nosotros: escoltaríamos
+  vosotros: escoltaríais
+  uds: escoltarían
+presente-perfecto:
+  yo: he escoltado
+  tu: has escoltado
+  vos: has escoltado
+  ud: ha escoltado
+  nosotros: hemos escoltado
+  vosotros: habéis escoltado
+  uds: han escoltado
+preterito-pluscuamperfecto:
+  yo: había escoltado
+  tu: habías escoltado
+  vos: habías escoltado
+  ud: había escoltado
+  nosotros: habíamos escoltado
+  vosotros: habíais escoltado
+  uds: habían escoltado
+futuro-perfecto:
+  yo: habré escoltado
+  tu: habrás escoltado
+  vos: habrás escoltado
+  ud: habrá escoltado
+  nosotros: habremos escoltado
+  vosotros: habréis escoltado
+  uds: habrán escoltado
+condicional-perfecto:
+  yo: habría escoltado
+  tu: habrías escoltado
+  vos: habrías escoltado
+  ud: habría escoltado
+  nosotros: habríamos escoltado
+  vosotros: habríais escoltado
+  uds: habrían escoltado
+presente-subjuntivo:
+  yo: escolte
+  tu: escoltes
+  vos: escoltés
+  ud: escolte
+  nosotros: escoltemos
+  vosotros: escoltéis
+  uds: escolten
+preterito-perfecto-subjuntivo:
+  yo: haya escoltado
+  tu: hayas escoltado
+  vos: hayas escoltado
+  ud: haya escoltado
+  nosotros: hayamos escoltado
+  vosotros: hayáis escoltado
+  uds: hayan escoltado
+imperfecto-subjuntivo:
+  yo:
+    - escoltara
+    - escoltase
+  tu:
+    - escoltaras
+    - escoltases
+  vos:
+    - escoltaras
+    - escoltases
+  ud:
+    - escoltara
+    - escoltase
+  nosotros:
+    - escoltáramos
+    - escoltásemos
+  vosotros:
+    - escoltarais
+    - escoltaseis
+  uds:
+    - escoltaran
+    - escoltasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera escoltado
+    - hubiese escoltado
+  tu:
+    - hubieras escoltado
+    - hubieses escoltado
+  vos:
+    - hubieras escoltado
+    - hubieses escoltado
+  ud:
+    - hubiera escoltado
+    - hubiese escoltado
+  nosotros:
+    - hubiéramos escoltado
+    - hubiésemos escoltado
+  vosotros:
+    - hubierais escoltado
+    - hubieseis escoltado
+  uds:
+    - hubieran escoltado
+    - hubiesen escoltado
+imperativo:
+  tu: escolta
+  vos: escoltá
+  ud: escolte
+  nosotros: escoltemos
+  vosotros: escoltad
+  uds: escolten

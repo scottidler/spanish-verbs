@@ -1,0 +1,142 @@
+infinitivo: desvesar
+gerundio: desvesando
+participio-pasado: desvesado
+presente-indicativo:
+  yo: desveso
+  tu: desvesas
+  vos: desvesas
+  ud: desvesa
+  nosotros: desvesamos
+  vosotros: desvesáis
+  uds: desvesan
+preterito-perfecto-simple:
+  yo: desvesé
+  tu: desvesaste
+  vos: desvesaste
+  ud: desvesó
+  nosotros: desvesamos
+  vosotros: desvesasteis
+  uds: desvesaron
+preterito-imperfecto:
+  yo: desvesaba
+  tu: desvesabas
+  vos: desvesabas
+  ud: desvesaba
+  nosotros: desvesábamos
+  vosotros: desvesabais
+  uds: desvesaban
+futuro-simple:
+  yo: desvesaré
+  tu: desvesarás
+  vos: desvesarás
+  ud: desvesará
+  nosotros: desvesaremos
+  vosotros: desvesaréis
+  uds: desvesarán
+condicional-simple:
+  yo: desvesaría
+  tu: desvesarías
+  vos: desvesarías
+  ud: desvesaría
+  nosotros: desvesaríamos
+  vosotros: desvesaríais
+  uds: desvesarían
+presente-perfecto:
+  yo: he desvesado
+  tu: has desvesado
+  vos: has desvesado
+  ud: ha desvesado
+  nosotros: hemos desvesado
+  vosotros: habéis desvesado
+  uds: han desvesado
+preterito-pluscuamperfecto:
+  yo: había desvesado
+  tu: habías desvesado
+  vos: habías desvesado
+  ud: había desvesado
+  nosotros: habíamos desvesado
+  vosotros: habíais desvesado
+  uds: habían desvesado
+futuro-perfecto:
+  yo: habré desvesado
+  tu: habrás desvesado
+  vos: habrás desvesado
+  ud: habrá desvesado
+  nosotros: habremos desvesado
+  vosotros: habréis desvesado
+  uds: habrán desvesado
+condicional-perfecto:
+  yo: habría desvesado
+  tu: habrías desvesado
+  vos: habrías desvesado
+  ud: habría desvesado
+  nosotros: habríamos desvesado
+  vosotros: habríais desvesado
+  uds: habrían desvesado
+presente-subjuntivo:
+  yo: desvese
+  tu: desveses
+  vos: desveses
+  ud: desvese
+  nosotros: desvesemos
+  vosotros: desveséis
+  uds: desvesen
+preterito-perfecto-subjuntivo:
+  yo: haya desvesado
+  tu: hayas desvesado
+  vos: hayas desvesado
+  ud: haya desvesado
+  nosotros: hayamos desvesado
+  vosotros: hayáis desvesado
+  uds: hayan desvesado
+imperfecto-subjuntivo:
+  yo:
+    - desvesara
+    - desvesase
+  tu:
+    - desvesaras
+    - desvesases
+  vos:
+    - desvesaras
+    - desvesases
+  ud:
+    - desvesara
+    - desvesase
+  nosotros:
+    - desvesáramos
+    - desvesásemos
+  vosotros:
+    - desvesarais
+    - desvesaseis
+  uds:
+    - desvesaran
+    - desvesasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desvesado
+    - hubiese desvesado
+  tu:
+    - hubieras desvesado
+    - hubieses desvesado
+  vos:
+    - hubieras desvesado
+    - hubieses desvesado
+  ud:
+    - hubiera desvesado
+    - hubiese desvesado
+  nosotros:
+    - hubiéramos desvesado
+    - hubiésemos desvesado
+  vosotros:
+    - hubierais desvesado
+    - hubieseis desvesado
+  uds:
+    - hubieran desvesado
+    - hubiesen desvesado
+imperativo:
+  tu: desvesa
+  vos: desvesá
+  ud: desvese
+  nosotros: desvesemos
+  vosotros: desvesad
+  uds: desvesen

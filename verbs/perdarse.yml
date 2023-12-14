@@ -1,0 +1,142 @@
+infinitivo: perdarse
+gerundio: perdiéndose
+participio-pasado: perdidose
+presente-indicativo:
+  yo: me pierdo
+  tu: te pierdes
+  vos: te pierdes
+  ud: se pierde
+  nosotros: nos perdemos
+  vosotros: os perdéis
+  uds: se pierden
+preterito-perfecto-simple:
+  yo: me perdí
+  tu: te perdiste
+  vos: te perdiste
+  ud: se perdió
+  nosotros: nos perdimos
+  vosotros: os perdisteis
+  uds: se perdieron
+preterito-imperfecto:
+  yo: me perdía
+  tu: te perdías
+  vos: te perdías
+  ud: se perdía
+  nosotros: nos perdíamos
+  vosotros: os perdíais
+  uds: se perdían
+futuro-simple:
+  yo: me perderé
+  tu: te perderás
+  vos: te perderás
+  ud: se perderá
+  nosotros: nos perderemos
+  vosotros: os perderéis
+  uds: se perderán
+condicional-simple:
+  yo: me perdería
+  tu: te perderías
+  vos: te perderías
+  ud: se perdería
+  nosotros: nos perderíamos
+  vosotros: os perderíais
+  uds: se perderían
+presente-perfecto:
+  yo: me he perdido
+  tu: te has perdido
+  vos: te has perdido
+  ud: se ha perdido
+  nosotros: nos hemos perdido
+  vosotros: os habéis perdido
+  uds: se han perdido
+preterito-pluscuamperfecto:
+  yo: me había perdido
+  tu: te habías perdido
+  vos: te habías perdido
+  ud: se había perdido
+  nosotros: nos habíamos perdido
+  vosotros: os habíais perdido
+  uds: se habían perdido
+futuro-perfecto:
+  yo: me habré perdido
+  tu: te habrás perdido
+  vos: te habrás perdido
+  ud: se habrá perdido
+  nosotros: nos habremos perdido
+  vosotros: os habréis perdido
+  uds: se habrán perdido
+condicional-perfecto:
+  yo: me habría perdido
+  tu: te habrías perdido
+  vos: te habrías perdido
+  ud: se habría perdido
+  nosotros: nos habríamos perdido
+  vosotros: os habríais perdido
+  uds: se habrían perdido
+presente-subjuntivo:
+  yo: me pierda
+  tu: te pierdas
+  vos: te pierdas
+  ud: se pierda
+  nosotros: nos perdamos
+  vosotros: os perdáis
+  uds: se pierdan
+preterito-perfecto-subjuntivo:
+  yo: me haya perdido
+  tu: te hayas perdido
+  vos: te hayas perdido
+  ud: se haya perdido
+  nosotros: nos hayamos perdido
+  vosotros: os hayáis perdido
+  uds: se hayan perdido
+imperfecto-subjuntivo:
+  yo:
+    - me perdiera
+    - me perdiese
+  tu:
+    - te perdieras
+    - te perdieses
+  vos:
+    - te perdieras
+    - te perdieses
+  ud:
+    - se perdiera
+    - se perdiese
+  nosotros:
+    - nos perdiéramos
+    - nos perdiésemos
+  vosotros:
+    - os perdiérais
+    - os perdie
+  uds:
+    - se perdieran
+    - se perdiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera perdido
+    - me hubiese perdido
+  tu:
+    - te hubieras perdido
+    - te hubieses perdido
+  vos:
+    - te hubieras perdido
+    - te hubieses perdido
+  ud:
+    - se hubiera perdido
+    - se hubiese perdido
+  nosotros:
+    - nos hubiéramos perdido
+    - nos hubiésemos perdido
+  vosotros:
+    - os hubierais perdido
+    - os hubieseis perdido
+  uds:
+    - se hubieran perdido
+    - se hubiesen perdido
+imperativo:
+  tu: piérdete
+  vos: piérdesu
+  ud: pérdase
+  nosotros: nos perdamos
+  vosotros: perdeos
+  uds: pérdanse

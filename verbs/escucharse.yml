@@ -1,0 +1,142 @@
+infinitivo: escucharse
+gerundio: escuchándose
+participio-pasado: escuchado
+presente-indicativo:
+  yo: me escucho
+  tu: te escuchas
+  vos: te escuchás
+  ud: se escucha
+  nosotros: nos escuchamos
+  vosotros: os escucháis
+  uds: se escuchan
+preterito-perfecto-simple:
+  yo: me escuché
+  tu: te escuchaste
+  vos: te escuchaste
+  ud: se escuchó
+  nosotros: nos escuchamos
+  vosotros: os escuchasteis
+  uds: se escucharon
+preterito-imperfecto:
+  yo: me escuchaba
+  tu: te escuchabas
+  vos: te escuchabas
+  ud: se escuchaba
+  nosotros: nos escuchábamos
+  vosotros: os escuchabais
+  uds: se escuchaban
+futuro-simple:
+  yo: me escucharé
+  tu: te escucharás
+  vos: te escucharás
+  ud: se escuchará
+  nosotros: nos escucharemos
+  vosotros: os escucharéis
+  uds: se escucharán
+condicional-simple:
+  yo: me escucharía
+  tu: te escucharías
+  vos: te escucharías
+  ud: se escucharía
+  nosotros: nos escucharíamos
+  vosotros: os escucharíais
+  uds: se escucharían
+presente-perfecto:
+  yo: me he escuchado
+  tu: te has escuchado
+  vos: te has escuchado
+  ud: se ha escuchado
+  nosotros: nos hemos escuchado
+  vosotros: os habéis escuchado
+  uds: se han escuchado
+preterito-pluscuamperfecto:
+  yo: me había escuchado
+  tu: te habías escuchado
+  vos: te habías escuchado
+  ud: se había escuchado
+  nosotros: nos habíamos escuchado
+  vosotros: os habíais escuchado
+  uds: se habían escuchado
+futuro-perfecto:
+  yo: me habré escuchado
+  tu: te habrás escuchado
+  vos: te habrás escuchado
+  ud: se habrá escuchado
+  nosotros: nos habremos escuchado
+  vosotros: os habréis escuchado
+  uds: se habrán escuchado
+condicional-perfecto:
+  yo: me habría escuchado
+  tu: te habrías escuchado
+  vos: te habrías escuchado
+  ud: se habría escuchado
+  nosotros: nos habríamos escuchado
+  vosotros: os habríais escuchado
+  uds: se habrían escuchado
+presente-subjuntivo:
+  yo: me escuche
+  tu: te escuches
+  vos: te escuches
+  ud: se escuche
+  nosotros: nos escuchemos
+  vosotros: os escuchéis
+  uds: se escuchen
+preterito-perfecto-subjuntivo:
+  yo: me haya escuchado
+  tu: te hayas escuchado
+  vos: te hayas escuchado
+  ud: se haya escuchado
+  nosotros: nos hayamos escuchado
+  vosotros: os hayáis escuchado
+  uds: se hayan escuchado
+imperfecto-subjuntivo:
+  yo:
+    - me escuchara
+    - me escuchase
+  tu:
+    - te escucharas
+    - te escuchases
+  vos:
+    - te escucharas
+    - te escuchases
+  ud:
+    - se escuchara
+    - se escuchase
+  nosotros:
+    - nos escucháramos
+    - nos escuchásemos
+  vosotros:
+    - os escucharais
+    - os escuchaseis
+  uds:
+    - se escucharan
+    - se escuchasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera escuchado
+    - me hubiese escuchado
+  tu:
+    - te hubieras escuchado
+    - te hubieses escuchado
+  vos:
+    - te hubieras escuchado
+    - te hubieses escuchado
+  ud:
+    - se hubiera escuchado
+    - se hubiese escuchado
+  nosotros:
+    - nos hubiéramos escuchado
+    - nos hubiésemos escuchado
+  vosotros:
+    - os hubierais escuchado
+    - os hubieseis escuchado
+  uds:
+    - se hubieran escuchado
+    - se hubiesen escuchado
+imperativo:
+  tu: escúchate
+  vos: escuchate
+  ud: escúchese
+  nosotros: escuchémonos
+  vosotros: escuchaos
+  uds: escúchense

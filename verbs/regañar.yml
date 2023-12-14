@@ -1,0 +1,142 @@
+infinitivo: regañar
+gerundio: regañando
+participio-pasado: regañado
+presente-indicativo:
+  yo: regaño
+  tu: regañas
+  vos: regañas
+  ud: regaña
+  nosotros: regañamos
+  vosotros: regañáis
+  uds: regañan
+preterito-perfecto-simple:
+  yo: regañé
+  tu: regañaste
+  vos: regañaste
+  ud: regañó
+  nosotros: regañamos
+  vosotros: regañasteis
+  uds: regañaron
+preterito-imperfecto:
+  yo: regañaba
+  tu: regañabas
+  vos: regañabas
+  ud: regañaba
+  nosotros: regañábamos
+  vosotros: regañabais
+  uds: regañaban
+futuro-simple:
+  yo: regañaré
+  tu: regañarás
+  vos: regañarás
+  ud: regañará
+  nosotros: regañaremos
+  vosotros: regañaréis
+  uds: regañarán
+condicional-simple:
+  yo: regañaría
+  tu: regañarías
+  vos: regañarías
+  ud: regañaría
+  nosotros: regañaríamos
+  vosotros: regañaríais
+  uds: regañarían
+presente-perfecto:
+  yo: he regañado
+  tu: has regañado
+  vos: has regañado
+  ud: ha regañado
+  nosotros: hemos regañado
+  vosotros: habéis regañado
+  uds: han regañado
+preterito-pluscuamperfecto:
+  yo: había regañado
+  tu: habías regañado
+  vos: habías regañado
+  ud: había regañado
+  nosotros: habíamos regañado
+  vosotros: habíais regañado
+  uds: habían regañado
+futuro-perfecto:
+  yo: habré regañado
+  tu: habrás regañado
+  vos: habrás regañado
+  ud: habrá regañado
+  nosotros: habremos regañado
+  vosotros: habréis regañado
+  uds: habrán regañado
+condicional-perfecto:
+  yo: habría regañado
+  tu: habrías regañado
+  vos: habrías regañado
+  ud: habría regañado
+  nosotros: habríamos regañado
+  vosotros: habríais regañado
+  uds: habrían regañado
+presente-subjuntivo:
+  yo: regañe
+  tu: regañes
+  vos: regañes
+  ud: regañe
+  nosotros: regañemos
+  vosotros: regañéis
+  uds: regañen
+preterito-perfecto-subjuntivo:
+  yo: haya regañado
+  tu: hayas regañado
+  vos: hayas regañado
+  ud: haya regañado
+  nosotros: hayamos regañado
+  vosotros: hayáis regañado
+  uds: hayan regañado
+imperfecto-subjuntivo:
+  yo:
+    - regañara
+    - regañase
+  tu:
+    - regañaras
+    - regañases
+  vos:
+    - regañaras
+    - regañases
+  ud:
+    - regañara
+    - regañase
+  nosotros:
+    - regañáramos
+    - regañásemos
+  vosotros:
+    - regañarais
+    - regañaseis
+  uds:
+    - regañaran
+    - regañasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera regañado
+    - hubiese regañado
+  tu:
+    - hubieras regañado
+    - hubieses regañado
+  vos:
+    - hubieras regañado
+    - hubieses regañado
+  ud:
+    - hubiera regañado
+    - hubiese regañado
+  nosotros:
+    - hubiéramos regañado
+    - hubiésemos regañado
+  vosotros:
+    - hubierais regañado
+    - hubieseis regañado
+  uds:
+    - hubieran regañado
+    - hubiesen regañado
+imperativo:
+  tu: regaña
+  vos: regañá
+  ud: regañe
+  nosotros: regañemos
+  vosotros: regañad
+  uds: regañen

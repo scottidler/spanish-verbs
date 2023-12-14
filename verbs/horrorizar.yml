@@ -1,0 +1,142 @@
+infinitivo: horrorizar
+gerundio: horrorizando
+participio-pasado: horrorizado
+presente-indicativo:
+  yo: horrorizo
+  tu: horrorizas
+  vos: horrorizas
+  ud: horroriza
+  nosotros: horrorizamos
+  vosotros: horrorizáis
+  uds: horrorizan
+preterito-perfecto-simple:
+  yo: horroricé
+  tu: horrorizaste
+  vos: horrorizaste
+  ud: horrorizó
+  nosotros: horrorizamos
+  vosotros: horrorizasteis
+  uds: horrorizaron
+preterito-imperfecto:
+  yo: horrorizaba
+  tu: horrorizabas
+  vos: horrorizabas
+  ud: horrorizaba
+  nosotros: horrorizábamos
+  vosotros: horrorizabais
+  uds: horrorizaban
+futuro-simple:
+  yo: horrorizaré
+  tu: horrorizarás
+  vos: horrorizarás
+  ud: horrorizará
+  nosotros: horrorizaremos
+  vosotros: horrorizaréis
+  uds: horrorizarán
+condicional-simple:
+  yo: horrorizaría
+  tu: horrorizarías
+  vos: horrorizarías
+  ud: horrorizaría
+  nosotros: horrorizaríamos
+  vosotros: horrorizaríais
+  uds: horrorizarían
+presente-perfecto:
+  yo: he horrorizado
+  tu: has horrorizado
+  vos: has horrorizado
+  ud: ha horrorizado
+  nosotros: hemos horrorizado
+  vosotros: habéis horrorizado
+  uds: han horrorizado
+preterito-pluscuamperfecto:
+  yo: había horrorizado
+  tu: habías horrorizado
+  vos: habías horrorizado
+  ud: había horrorizado
+  nosotros: habíamos horrorizado
+  vosotros: habíais horrorizado
+  uds: habían horrorizado
+futuro-perfecto:
+  yo: habré horrorizado
+  tu: habrás horrorizado
+  vos: habrás horrorizado
+  ud: habrá horrorizado
+  nosotros: habremos horrorizado
+  vosotros: habréis horrorizado
+  uds: habrán horrorizado
+condicional-perfecto:
+  yo: habría horrorizado
+  tu: habrías horrorizado
+  vos: habrías horrorizado
+  ud: habría horrorizado
+  nosotros: habríamos horrorizado
+  vosotros: habríais horrorizado
+  uds: habrían horrorizado
+presente-subjuntivo:
+  yo: horrorice
+  tu: horrorices
+  vos: horrorices
+  ud: horrorice
+  nosotros: horroricemos
+  vosotros: horroricéis
+  uds: horroricen
+preterito-perfecto-subjuntivo:
+  yo: haya horrorizado
+  tu: hayas horrorizado
+  vos: hayas horrorizado
+  ud: haya horrorizado
+  nosotros: hayamos horrorizado
+  vosotros: hayáis horrorizado
+  uds: hayan horrorizado
+imperfecto-subjuntivo:
+  yo:
+    - horrorizara
+    - horrorizase
+  tu:
+    - horrorizaras
+    - horrorizases
+  vos:
+    - horrorizaras
+    - horrorizases
+  ud:
+    - horrorizara
+    - horrorizase
+  nosotros:
+    - horrorizáramos
+    - horrorizásemos
+  vosotros:
+    - horrorizarais
+    - horrorizaseis
+  uds:
+    - horrorizaran
+    - horrorizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera horrorizado
+    - hubiese horrorizado
+  tu:
+    - hubieras horrorizado
+    - hubieses horrorizado
+  vos:
+    - hubieras horrorizado
+    - hubieses horrorizado
+  ud:
+    - hubiera horrorizado
+    - hubiese horrorizado
+  nosotros:
+    - hubiéramos horrorizado
+    - hubiésemos horrorizado
+  vosotros:
+    - hubierais horrorizado
+    - hubieseis horrorizado
+  uds:
+    - hubieran horrorizado
+    - hubiesen horrorizado
+imperativo:
+  tu: horroriza
+  vos: horrorizá
+  ud: horrorice
+  nosotros: horroricemos
+  vosotros: horrorizad
+  uds: horroricen

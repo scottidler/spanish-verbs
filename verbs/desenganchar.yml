@@ -1,0 +1,142 @@
+infinitivo: desenganchar
+gerundio: desenganchando
+participio-pasado: desenganchado
+presente-indicativo:
+  yo: desengancho
+  tu: desenganchas
+  vos: desenganchas
+  ud: desengancha
+  nosotros: desenganchamos
+  vosotros: desengancháis
+  uds: desenganchan
+preterito-perfecto-simple:
+  yo: desenganché
+  tu: desenganchaste
+  vos: desenganchaste
+  ud: desenganchó
+  nosotros: desenganchamos
+  vosotros: desenganchasteis
+  uds: desengancharon
+preterito-imperfecto:
+  yo: desenganchaba
+  tu: desenganchabas
+  vos: desenganchabas
+  ud: desenganchaba
+  nosotros: desenganchábamos
+  vosotros: desenganchabais
+  uds: desenganchaban
+futuro-simple:
+  yo: desengancharé
+  tu: desengancharás
+  vos: desengancharás
+  ud: desenganchará
+  nosotros: desengancharemos
+  vosotros: desengancharéis
+  uds: desengancharán
+condicional-simple:
+  yo: desengancharía
+  tu: desengancharías
+  vos: desengancharías
+  ud: desengancharía
+  nosotros: desengancharíamos
+  vosotros: desengancharíais
+  uds: desengancharían
+presente-perfecto:
+  yo: he desenganchado
+  tu: has desenganchado
+  vos: has desenganchado
+  ud: ha desenganchado
+  nosotros: hemos desenganchado
+  vosotros: habéis desenganchado
+  uds: han desenganchado
+preterito-pluscuamperfecto:
+  yo: había desenganchado
+  tu: habías desenganchado
+  vos: habías desenganchado
+  ud: había desenganchado
+  nosotros: habíamos desenganchado
+  vosotros: habíais desenganchado
+  uds: habían desenganchado
+futuro-perfecto:
+  yo: habré desenganchado
+  tu: habrás desenganchado
+  vos: habrás desenganchado
+  ud: habrá desenganchado
+  nosotros: habremos desenganchado
+  vosotros: habréis desenganchado
+  uds: habrán desenganchado
+condicional-perfecto:
+  yo: habría desenganchado
+  tu: habrías desenganchado
+  vos: habrías desenganchado
+  ud: habría desenganchado
+  nosotros: habríamos desenganchado
+  vosotros: habríais desenganchado
+  uds: habrían desenganchado
+presente-subjuntivo:
+  yo: desenganche
+  tu: desenganches
+  vos: desenganches
+  ud: desenganche
+  nosotros: desenganchemos
+  vosotros: desenganchéis
+  uds: desenganchen
+preterito-perfecto-subjuntivo:
+  yo: haya desenganchado
+  tu: hayas desenganchado
+  vos: hayas desenganchado
+  ud: haya desenganchado
+  nosotros: hayamos desenganchado
+  vosotros: hayáis desenganchado
+  uds: hayan desenganchado
+imperfecto-subjuntivo:
+  yo:
+    - desenganchara
+    - desenganchase
+  tu:
+    - desengancharas
+    - desenganchases
+  vos:
+    - desengancharas
+    - desenganchases
+  ud:
+    - desenganchara
+    - desenganchase
+  nosotros:
+    - desengancháramos
+    - desenganchásemos
+  vosotros:
+    - desengancharais
+    - desenganchaseis
+  uds:
+    - desengancharan
+    - desenganchasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desenganchado
+    - hubiese desenganchado
+  tu:
+    - hubieras desenganchado
+    - hubieses desenganchado
+  vos:
+    - hubieras desenganchado
+    - hubieses desenganchado
+  ud:
+    - hubiera desenganchado
+    - hubiese desenganchado
+  nosotros:
+    - hubiéramos desenganchado
+    - hubiésemos desenganchado
+  vosotros:
+    - hubierais desenganchado
+    - hubieseis desenganchado
+  uds:
+    - hubieran desenganchado
+    - hubiesen desenganchado
+imperativo:
+  tu: desengancha
+  vos: desenganchá
+  ud: desenganche
+  nosotros: desenganchemos
+  vosotros: desenganchad
+  uds: desenganchen

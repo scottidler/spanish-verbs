@@ -1,0 +1,142 @@
+infinitivo: grabar
+gerundio: grabando
+participio-pasado: grabado
+presente-indicativo:
+  yo: grabo
+  tu: grabas
+  vos: grabas
+  ud: graba
+  nosotros: grabamos
+  vosotros: grabáis
+  uds: graban
+preterito-perfecto-simple:
+  yo: grabé
+  tu: grabaste
+  vos: grabaste
+  ud: grabó
+  nosotros: grabamos
+  vosotros: grabasteis
+  uds: grabaron
+preterito-imperfecto:
+  yo: grababa
+  tu: grababas
+  vos: grababas
+  ud: grababa
+  nosotros: grabábamos
+  vosotros: grababais
+  uds: grababan
+futuro-simple:
+  yo: grabaré
+  tu: grabarás
+  vos: grabarás
+  ud: grabará
+  nosotros: grabaremos
+  vosotros: grabaréis
+  uds: grabarán
+condicional-simple:
+  yo: grabaría
+  tu: grabarías
+  vos: grabarías
+  ud: grabaría
+  nosotros: grabaríamos
+  vosotros: grabaríais
+  uds: grabarían
+presente-perfecto:
+  yo: he grabado
+  tu: has grabado
+  vos: has grabado
+  ud: ha grabado
+  nosotros: hemos grabado
+  vosotros: habéis grabado
+  uds: han grabado
+preterito-pluscuamperfecto:
+  yo: había grabado
+  tu: habías grabado
+  vos: habías grabado
+  ud: había grabado
+  nosotros: habíamos grabado
+  vosotros: habíais grabado
+  uds: habían grabado
+futuro-perfecto:
+  yo: habré grabado
+  tu: habrás grabado
+  vos: habrás grabado
+  ud: habrá grabado
+  nosotros: habremos grabado
+  vosotros: habréis grabado
+  uds: habrán grabado
+condicional-perfecto:
+  yo: habría grabado
+  tu: habrías grabado
+  vos: habrías grabado
+  ud: habría grabado
+  nosotros: habríamos grabado
+  vosotros: habríais grabado
+  uds: habrían grabado
+presente-subjuntivo:
+  yo: grabe
+  tu: grabes
+  vos: grabes
+  ud: grabe
+  nosotros: grabemos
+  vosotros: grabéis
+  uds: graben
+preterito-perfecto-subjuntivo:
+  yo: haya grabado
+  tu: hayas grabado
+  vos: hayas grabado
+  ud: haya grabado
+  nosotros: hayamos grabado
+  vosotros: hayáis grabado
+  uds: hayan grabado
+imperfecto-subjuntivo:
+  yo:
+    - grabara
+    - grabase
+  tu:
+    - grabaras
+    - grabases
+  vos:
+    - grabaras
+    - grabases
+  ud:
+    - grabara
+    - grabase
+  nosotros:
+    - grabáramos
+    - grabásemos
+  vosotros:
+    - grabarais
+    - grabaseis
+  uds:
+    - grabaran
+    - grabasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera grabado
+    - hubiese grabado
+  tu:
+    - hubieras grabado
+    - hubieses grabado
+  vos:
+    - hubieras grabado
+    - hubieses grabado
+  ud:
+    - hubiera grabado
+    - hubiese grabado
+  nosotros:
+    - hubiéramos grabado
+    - hubiésemos grabado
+  vosotros:
+    - hubierais grabado
+    - hubieseis grabado
+  uds:
+    - hubieran grabado
+    - hubiesen grabado
+imperativo:
+  tu: graba
+  vos: graba
+  ud: grabe
+  nosotros: grabemos
+  vosotros: grabad
+  uds: graben

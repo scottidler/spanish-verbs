@@ -1,0 +1,142 @@
+infinitivo: disipar
+gerundio: disipando
+participio-pasado: disipado
+presente-indicativo:
+  yo: disipo
+  tu: disipas
+  vos: disipas
+  ud: disipa
+  nosotros: disipamos
+  vosotros: disipáis
+  uds: disipan
+preterito-perfecto-simple:
+  yo: disipé
+  tu: disipaste
+  vos: disipaste
+  ud: disipó
+  nosotros: disipamos
+  vosotros: disipasteis
+  uds: disiparon
+preterito-imperfecto:
+  yo: disipaba
+  tu: disipabas
+  vos: disipabas
+  ud: disipaba
+  nosotros: disipábamos
+  vosotros: disipabais
+  uds: disipaban
+futuro-simple:
+  yo: disiparé
+  tu: disiparás
+  vos: disiparás
+  ud: disipará
+  nosotros: disiparemos
+  vosotros: disiparéis
+  uds: disiparán
+condicional-simple:
+  yo: disiparía
+  tu: disiparías
+  vos: disiparías
+  ud: disiparía
+  nosotros: disiparíamos
+  vosotros: disiparíais
+  uds: disiparían
+presente-perfecto:
+  yo: he disipado
+  tu: has disipado
+  vos: has disipado
+  ud: ha disipado
+  nosotros: hemos disipado
+  vosotros: habéis disipado
+  uds: han disipado
+preterito-pluscuamperfecto:
+  yo: había disipado
+  tu: habías disipado
+  vos: habías disipado
+  ud: había disipado
+  nosotros: habíamos disipado
+  vosotros: habíais disipado
+  uds: habían disipado
+futuro-perfecto:
+  yo: habré disipado
+  tu: habrás disipado
+  vos: habrás disipado
+  ud: habrá disipado
+  nosotros: habremos disipado
+  vosotros: habréis disipado
+  uds: habrán disipado
+condicional-perfecto:
+  yo: habría disipado
+  tu: habrías disipado
+  vos: habrías disipado
+  ud: habría disipado
+  nosotros: habríamos disipado
+  vosotros: habríais disipado
+  uds: habrían disipado
+presente-subjuntivo:
+  yo: disipe
+  tu: disipes
+  vos: disipes
+  ud: disipe
+  nosotros: disipemos
+  vosotros: disipéis
+  uds: disipen
+preterito-perfecto-subjuntivo:
+  yo: haya disipado
+  tu: hayas disipado
+  vos: hayas disipado
+  ud: haya disipado
+  nosotros: hayamos disipado
+  vosotros: hayáis disipado
+  uds: hayan disipado
+imperfecto-subjuntivo:
+  yo:
+    - disipara
+    - disipase
+  tu:
+    - disiparas
+    - disipases
+  vos:
+    - disiparas
+    - disipases
+  ud:
+    - disipara
+    - disipase
+  nosotros:
+    - disipáramos
+    - disipásemos
+  vosotros:
+    - disiparais
+    - disipaseis
+  uds:
+    - disiparan
+    - disipasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera disipado
+    - hubiese disipado
+  tu:
+    - hubieras disipado
+    - hubieses disipado
+  vos:
+    - hubieras disipado
+    - hubieses disipado
+  ud:
+    - hubiera disipado
+    - hubiese disipado
+  nosotros:
+    - hubiéramos disipado
+    - hubiésemos disipado
+  vosotros:
+    - hubierais disipado
+    - hubieseis disipado
+  uds:
+    - hubieran disipado
+    - hubiesen disipado
+imperativo:
+  tu: disipa
+  vos: disipá
+  ud: disipe
+  nosotros: disipemos
+  vosotros: disipad
+  uds: disipen

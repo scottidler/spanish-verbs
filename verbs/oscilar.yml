@@ -1,0 +1,142 @@
+infinitivo: oscilar
+gerundio: oscilando
+participio-pasado: oscilado
+presente-indicativo:
+  yo: oscilo
+  tu: oscilas
+  vos: oscilas
+  ud: oscila
+  nosotros: oscilamos
+  vosotros: osciláis
+  uds: oscilan
+preterito-perfecto-simple:
+  yo: oscilé
+  tu: oscilaste
+  vos: oscilaste
+  ud: osciló
+  nosotros: oscilamos
+  vosotros: oscilasteis
+  uds: oscilaron
+preterito-imperfecto:
+  yo: oscilaba
+  tu: oscilabas
+  vos: oscilabas
+  ud: oscilaba
+  nosotros: oscilábamos
+  vosotros: oscilabais
+  uds: oscilaban
+futuro-simple:
+  yo: oscilaré
+  tu: oscilarás
+  vos: oscilarás
+  ud: oscilará
+  nosotros: oscilaremos
+  vosotros: oscilaréis
+  uds: oscilarán
+condicional-simple:
+  yo: oscilaría
+  tu: oscilarías
+  vos: oscilarías
+  ud: oscilaría
+  nosotros: oscilaríamos
+  vosotros: oscilaríais
+  uds: oscilarían
+presente-perfecto:
+  yo: he oscilado
+  tu: has oscilado
+  vos: has oscilado
+  ud: ha oscilado
+  nosotros: hemos oscilado
+  vosotros: habéis oscilado
+  uds: han oscilado
+preterito-pluscuamperfecto:
+  yo: había oscilado
+  tu: habías oscilado
+  vos: habías oscilado
+  ud: había oscilado
+  nosotros: habíamos oscilado
+  vosotros: habíais oscilado
+  uds: habían oscilado
+futuro-perfecto:
+  yo: habré oscilado
+  tu: habrás oscilado
+  vos: habrás oscilado
+  ud: habrá oscilado
+  nosotros: habremos oscilado
+  vosotros: habréis oscilado
+  uds: habrán oscilado
+condicional-perfecto:
+  yo: habría oscilado
+  tu: habrías oscilado
+  vos: habrías oscilado
+  ud: habría oscilado
+  nosotros: habríamos oscilado
+  vosotros: habríais oscilado
+  uds: habrían oscilado
+presente-subjuntivo:
+  yo: oscile
+  tu: osciles
+  vos: osciles
+  ud: oscile
+  nosotros: oscilemos
+  vosotros: osciléis
+  uds: oscilen
+preterito-perfecto-subjuntivo:
+  yo: haya oscilado
+  tu: hayas oscilado
+  vos: hayas oscilado
+  ud: haya oscilado
+  nosotros: hayamos oscilado
+  vosotros: hayáis oscilado
+  uds: hayan oscilado
+imperfecto-subjuntivo:
+  yo:
+    - oscilara
+    - oscilase
+  tu:
+    - oscilaras
+    - oscilases
+  vos:
+    - oscilaras
+    - oscilases
+  ud:
+    - oscilara
+    - oscilase
+  nosotros:
+    - osciláramos
+    - oscilásemos
+  vosotros:
+    - oscilarais
+    - oscilaseis
+  uds:
+    - oscilaran
+    - oscilasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera oscilado
+    - hubiese oscilado
+  tu:
+    - hubieras oscilado
+    - hubieses oscilado
+  vos:
+    - hubieras oscilado
+    - hubieses oscilado
+  ud:
+    - hubiera oscilado
+    - hubiese oscilado
+  nosotros:
+    - hubiéramos oscilado
+    - hubiésemos oscilado
+  vosotros:
+    - hubierais oscilado
+    - hubieseis oscilado
+  uds:
+    - hubieran oscilado
+    - hubiesen oscilado
+imperativo:
+  tu: oscila
+  vos: oscilá
+  ud: oscile
+  nosotros: oscilemos
+  vosotros: oscilad
+  uds: oscilen

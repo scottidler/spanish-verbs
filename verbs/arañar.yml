@@ -1,0 +1,142 @@
+infinitivo: arañar
+gerundio: arañando
+participio-pasado: arañado
+presente-indicativo:
+  yo: araño
+  tu: arañas
+  vos: arañas
+  ud: araña
+  nosotros: arañamos
+  vosotros: arañáis
+  uds: arañan
+preterito-perfecto-simple:
+  yo: arañé
+  tu: arañaste
+  vos: arañaste
+  ud: arañó
+  nosotros: arañamos
+  vosotros: arañasteis
+  uds: arañaron
+preterito-imperfecto:
+  yo: arañaba
+  tu: arañabas
+  vos: arañabas
+  ud: arañaba
+  nosotros: arañábamos
+  vosotros: arañabais
+  uds: arañaban
+futuro-simple:
+  yo: arañaré
+  tu: arañarás
+  vos: arañarás
+  ud: arañará
+  nosotros: arañaremos
+  vosotros: arañaréis
+  uds: arañarán
+condicional-simple:
+  yo: arañaría
+  tu: arañarías
+  vos: arañarías
+  ud: arañaría
+  nosotros: arañaríamos
+  vosotros: arañaríais
+  uds: arañarían
+presente-perfecto:
+  yo: he arañado
+  tu: has arañado
+  vos: has arañado
+  ud: ha arañado
+  nosotros: hemos arañado
+  vosotros: habéis arañado
+  uds: han arañado
+preterito-pluscuamperfecto:
+  yo: había arañado
+  tu: habías arañado
+  vos: habías arañado
+  ud: había arañado
+  nosotros: habíamos arañado
+  vosotros: habíais arañado
+  uds: habían arañado
+futuro-perfecto:
+  yo: habré arañado
+  tu: habrás arañado
+  vos: habrás arañado
+  ud: habrá arañado
+  nosotros: habremos arañado
+  vosotros: habréis arañado
+  uds: habrán arañado
+condicional-perfecto:
+  yo: habría arañado
+  tu: habrías arañado
+  vos: habrías arañado
+  ud: habría arañado
+  nosotros: habríamos arañado
+  vosotros: habríais arañado
+  uds: habrían arañado
+presente-subjuntivo:
+  yo: arañe
+  tu: arañes
+  vos: arañes
+  ud: arañe
+  nosotros: arañemos
+  vosotros: arañéis
+  uds: arañen
+preterito-perfecto-subjuntivo:
+  yo: haya arañado
+  tu: hayas arañado
+  vos: hayas arañado
+  ud: haya arañado
+  nosotros: hayamos arañado
+  vosotros: hayáis arañado
+  uds: hayan arañado
+imperfecto-subjuntivo:
+  yo:
+    - arañara
+    - arañase
+  tu:
+    - arañaras
+    - arañases
+  vos:
+    - arañaras
+    - arañases
+  ud:
+    - arañara
+    - arañase
+  nosotros:
+    - arañáramos
+    - arañásemos
+  vosotros:
+    - arañarais
+    - arañaseis
+  uds:
+    - arañaran
+    - arañasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arañado
+    - hubiese arañado
+  tu:
+    - hubieras arañado
+    - hubieses arañado
+  vos:
+    - hubieras arañado
+    - hubieses arañado
+  ud:
+    - hubiera arañado
+    - hubiese arañado
+  nosotros:
+    - hubiéramos arañado
+    - hubiésemos arañado
+  vosotros:
+    - hubierais arañado
+    - hubieseis arañado
+  uds:
+    - hubieran arañado
+    - hubiesen arañado
+imperativo:
+  tu: araña
+  vos: arañá
+  ud: arañe
+  nosotros: arañemos
+  vosotros: arañad
+  uds: arañen

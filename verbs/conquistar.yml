@@ -1,0 +1,142 @@
+infinitivo: conquistar
+gerundio: conquistando
+participio-pasado: conquistado
+presente-indicativo:
+  yo: conquisto
+  tu: conquistas
+  vos: conquistas
+  ud: conquista
+  nosotros: conquistamos
+  vosotros: conquistáis
+  uds: conquistan
+preterito-perfecto-simple:
+  yo: conquisté
+  tu: conquistaste
+  vos: conquistaste
+  ud: conquistó
+  nosotros: conquistamos
+  vosotros: conquistasteis
+  uds: conquistaron
+preterito-imperfecto:
+  yo: conquistaba
+  tu: conquistabas
+  vos: conquistabas
+  ud: conquistaba
+  nosotros: conquistábamos
+  vosotros: conquistabais
+  uds: conquistaban
+futuro-simple:
+  yo: conquistaré
+  tu: conquistarás
+  vos: conquistarás
+  ud: conquistará
+  nosotros: conquistaremos
+  vosotros: conquistaréis
+  uds: conquistarán
+condicional-simple:
+  yo: conquistaría
+  tu: conquistarías
+  vos: conquistarías
+  ud: conquistaría
+  nosotros: conquistaríamos
+  vosotros: conquistaríais
+  uds: conquistarían
+presente-perfecto:
+  yo: he conquistado
+  tu: has conquistado
+  vos: has conquistado
+  ud: ha conquistado
+  nosotros: hemos conquistado
+  vosotros: habéis conquistado
+  uds: han conquistado
+preterito-pluscuamperfecto:
+  yo: había conquistado
+  tu: habías conquistado
+  vos: habías conquistado
+  ud: había conquistado
+  nosotros: habíamos conquistado
+  vosotros: habíais conquistado
+  uds: habían conquistado
+futuro-perfecto:
+  yo: habré conquistado
+  tu: habrás conquistado
+  vos: habrás conquistado
+  ud: habrá conquistado
+  nosotros: habremos conquistado
+  vosotros: habréis conquistado
+  uds: habrán conquistado
+condicional-perfecto:
+  yo: habría conquistado
+  tu: habrías conquistado
+  vos: habrías conquistado
+  ud: habría conquistado
+  nosotros: habríamos conquistado
+  vosotros: habríais conquistado
+  uds: habrían conquistado
+presente-subjuntivo:
+  yo: conquiste
+  tu: conquistes
+  vos: conquistes
+  ud: conquiste
+  nosotros: conquistemos
+  vosotros: conquistéis
+  uds: conquisten
+preterito-perfecto-subjuntivo:
+  yo: haya conquistado
+  tu: hayas conquistado
+  vos: hayas conquistado
+  ud: haya conquistado
+  nosotros: hayamos conquistado
+  vosotros: hayáis conquistado
+  uds: hayan conquistado
+imperfecto-subjuntivo:
+  yo:
+    - conquistara
+    - conquistase
+  tu:
+    - conquistaras
+    - conquistases
+  vos:
+    - conquistaras
+    - conquistases
+  ud:
+    - conquistara
+    - conquistase
+  nosotros:
+    - conquistáramos
+    - conquistásemos
+  vosotros:
+    - conquistarais
+    - conquistaseis
+  uds:
+    - conquistaran
+    - conquistasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conquistado
+    - hubiese conquistado
+  tu:
+    - hubieras conquistado
+    - hubieses conquistado
+  vos:
+    - hubieras conquistado
+    - hubieses conquistado
+  ud:
+    - hubiera conquistado
+    - hubiese conquistado
+  nosotros:
+    - hubiéramos conquistado
+    - hubiésemos conquistado
+  vosotros:
+    - hubierais conquistado
+    - hubieseis conquistado
+  uds:
+    - hubieran conquistado
+    - hubiesen conquistado
+imperativo:
+  tu: conquista
+  vos: conquistá
+  ud: conquiste
+  nosotros: conquistemos
+  vosotros: conquistad
+  uds: conquisten

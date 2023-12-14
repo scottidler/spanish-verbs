@@ -1,0 +1,142 @@
+infinitivo: variar
+gerundio: variando
+participio-pasado: variado
+presente-indicativo:
+  yo: varío
+  tu: varías
+  vos: varías
+  ud: varía
+  nosotros: variamos
+  vosotros: variáis
+  uds: varían
+preterito-perfecto-simple:
+  yo: varié
+  tu: variaste
+  vos: variaste
+  ud: varió
+  nosotros: variamos
+  vosotros: variasteis
+  uds: variaron
+preterito-imperfecto:
+  yo: variaba
+  tu: variabas
+  vos: variabas
+  ud: variaba
+  nosotros: variábamos
+  vosotros: variabais
+  uds: variaban
+futuro-simple:
+  yo: variaré
+  tu: variarás
+  vos: variarás
+  ud: variará
+  nosotros: variaremos
+  vosotros: variaréis
+  uds: variarán
+condicional-simple:
+  yo: variaría
+  tu: variarías
+  vos: variarías
+  ud: variaría
+  nosotros: variaríamos
+  vosotros: variaríais
+  uds: variarían
+presente-perfecto:
+  yo: he variado
+  tu: has variado
+  vos: has variado
+  ud: ha variado
+  nosotros: hemos variado
+  vosotros: habéis variado
+  uds: han variado
+preterito-pluscuamperfecto:
+  yo: había variado
+  tu: habías variado
+  vos: habías variado
+  ud: había variado
+  nosotros: habíamos variado
+  vosotros: habíais variado
+  uds: habían variado
+futuro-perfecto:
+  yo: habré variado
+  tu: habrás variado
+  vos: habrás variado
+  ud: habrá variado
+  nosotros: habremos variado
+  vosotros: habréis variado
+  uds: habrán variado
+condicional-perfecto:
+  yo: habría variado
+  tu: habrías variado
+  vos: habrías variado
+  ud: habría variado
+  nosotros: habríamos variado
+  vosotros: habríais variado
+  uds: habrían variado
+presente-subjuntivo:
+  yo: varíe
+  tu: varíes
+  vos: varíes
+  ud: varíe
+  nosotros: variemos
+  vosotros: variéis
+  uds: varíen
+preterito-perfecto-subjuntivo:
+  yo: haya variado
+  tu: hayas variado
+  vos: hayas variado
+  ud: haya variado
+  nosotros: hayamos variado
+  vosotros: hayáis variado
+  uds: hayan variado
+imperfecto-subjuntivo:
+  yo:
+    - variara
+    - variase
+  tu:
+    - variaras
+    - variases
+  vos:
+    - variaras
+    - variases
+  ud:
+    - variara
+    - variase
+  nosotros:
+    - variáramos
+    - variásemos
+  vosotros:
+    - variarais
+    - variaseis
+  uds:
+    - variaran
+    - variasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera variado
+    - hubiese variado
+  tu:
+    - hubieras variado
+    - hubieses variado
+  vos:
+    - hubieras variado
+    - hubieses variado
+  ud:
+    - hubiera variado
+    - hubiese variado
+  nosotros:
+    - hubiéramos variado
+    - hubiésemos variado
+  vosotros:
+    - hubierais variado
+    - hubieseis variado
+  uds:
+    - hubieran variado
+    - hubiesen variado
+imperativo:
+  tu: varía
+  vos: variá
+  ud: varíe
+  nosotros: variemos
+  vosotros: variad
+  uds: varíen

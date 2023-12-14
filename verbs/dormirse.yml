@@ -1,0 +1,156 @@
+infinitivo: dormirse
+gerundio: durmiéndose
+participio-pasado: dormido
+
+presente-indicativo:
+  yo: me duermo
+  tu: te duermes
+  vos: te duermes
+  ud: se duerme
+  nosotros: nos dormimos
+  vosotros: os dormís
+  uds: se duermen
+
+preterito-perfecto-simple:
+  yo: me dormí
+  tu: te dormiste
+  vos: te dormiste
+  ud: se durmió
+  nosotros: nos dormimos
+  vosotros: os dormisteis
+  uds: se durmieron
+
+preterito-imperfecto:
+  yo: me dormía
+  tu: te dormías
+  vos: te dormías
+  ud: se dormía
+  nosotros: nos dormíamos
+  vosotros: os dormíais
+  uds: se dormían
+
+futuro-simple:
+  yo: me dormiré
+  tu: te dormirás
+  vos: te dormirás
+  ud: se dormirá
+  nosotros: nos dormiremos
+  vosotros: os dormiréis
+  uds: se dormirán
+
+condicional-simple:
+  yo: me dormiría
+  tu: te dormirías
+  vos: te dormirías
+  ud: se dormiría
+  nosotros: nos dormiríamos
+  vosotros: os dormiríais
+  uds: se dormirían
+
+presente-perfecto:
+  yo: me he dormido
+  tu: te has dormido
+  vos: te has dormido
+  ud: se ha dormido
+  nosotros: nos hemos dormido
+  vosotros: os habéis dormido
+  uds: se han dormido
+
+preterito-pluscuamperfecto:
+  yo: me había dormido
+  tu: te habías dormido
+  vos: te habías dormido
+  ud: se había dormido
+  nosotros: nos habíamos dormido
+  vosotros: os habíais dormido
+  uds: se habían dormido
+
+futuro-perfecto:
+  yo: me habré dormido
+  tu: te habrás dormido
+  vos: te habrás dormido
+  ud: se habrá dormido
+  nosotros: nos habremos dormido
+  vosotros: os habréis dormido
+  uds: se habrán dormido
+
+condicional-perfecto:
+  yo: me habría dormido
+  tu: te habrías dormido
+  vos: te habrías dormido
+  ud: se habría dormido
+  nosotros: nos habríamos dormido
+  vosotros: os habríais dormido
+  uds: se habrían dormido
+
+presente-subjuntivo:
+  yo: me duerma
+  tu: te duermas
+  vos: te duermas
+  ud: se duerma
+  nosotros: nos durmamos
+  vosotros: os durmáis
+  uds: se duerman
+
+preterito-perfecto-subjuntivo:
+  yo: me haya dormido
+  tu: te hayas dormido
+  vos: te hayas dormido
+  ud: se haya dormido
+  nosotros: nos hayamos dormido
+  vosotros: os hayáis dormido
+  uds: se hayan dormido
+
+imperfecto-subjuntivo:
+  yo:
+    - me durmiera
+    - me durmiese
+  tu:
+    - te durmieras
+    - te durmieses
+  vos:
+    - te durmieras
+    - te durmieses
+  ud:
+    - se durmiera
+    - se durmiese
+  nosotros:
+    - nos durmiéramos
+    - nos durmiésemos
+  vosotros:
+    - os durmierais
+    - os durmieseis
+  uds:
+    - se durmieran
+    - se durmiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera dormido
+    - me hubiese dormido
+  tu:
+    - te hubieras dormido
+    - te hubieses dormido
+  vos:
+    - te hubieras dormido
+    - te hubieses dormido
+  ud:
+    - se hubiera dormido
+    - se hubiese dormido
+  nosotros:
+    - nos hubiéramos dormido
+    - nos hubiésemos dormido
+  vosotros:
+    - os hubierais dormido
+    - os hubieseis dormido
+  uds:
+    - se hubieran dormido
+    - se hubiesen dormido
+
+imperativo:
+  tu: duérmete
+  vos: duérmete
+  ud: duérmasem
+  nosotros: durmámonos
+  vosotros: dormíos
+  uds: duérmanse

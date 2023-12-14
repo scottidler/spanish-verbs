@@ -1,0 +1,142 @@
+infinitivo: reponer
+gerundio: reponiendo
+participio-pasado: repuesto
+presente-indicativo:
+  yo: repongo
+  tu: repones
+  vos: repones
+  ud: repone
+  nosotros: reponemos
+  vosotros: reponéis
+  uds: reponen
+preterito-perfecto-simple:
+  yo: repuse
+  tu: repusiste
+  vos: repusiste
+  ud: repuso
+  nosotros: repusimos
+  vosotros: repusisteis
+  uds: repusieron
+preterito-imperfecto:
+  yo: reponía
+  tu: reponías
+  vos: reponías
+  ud: reponía
+  nosotros: reponíamos
+  vosotros: reponíais
+  uds: reponían
+futuro-simple:
+  yo: repondré
+  tu: repondrás
+  vos: repondrás
+  ud: repondrá
+  nosotros: repondremos
+  vosotros: repondréis
+  uds: repondrán
+condicional-simple:
+  yo: repondría
+  tu: repondrías
+  vos: repondrías
+  ud: repondría
+  nosotros: repondríamos
+  vosotros: repondríais
+  uds: repondrían
+presente-perfecto:
+  yo: he repuesto
+  tu: has repuesto
+  vos: has repuesto
+  ud: ha repuesto
+  nosotros: hemos repuesto
+  vosotros: habéis repuesto
+  uds: han repuesto
+preterito-pluscuamperfecto:
+  yo: había repuesto
+  tu: habías repuesto
+  vos: habías repuesto
+  ud: había repuesto
+  nosotros: habíamos repuesto
+  vosotros: habíais repuesto
+  uds: habían repuesto
+futuro-perfecto:
+  yo: habré repuesto
+  tu: habrás repuesto
+  vos: habrás repuesto
+  ud: habrá repuesto
+  nosotros: habremos repuesto
+  vosotros: habréis repuesto
+  uds: habrán repuesto
+condicional-perfecto:
+  yo: habría repuesto
+  tu: habrías repuesto
+  vos: habrías repuesto
+  ud: habría repuesto
+  nosotros: habríamos repuesto
+  vosotros: habríais repuesto
+  uds: habrían repuesto
+presente-subjuntivo:
+  yo: ponga
+  tu: pongas
+  vos: pongas
+  ud: ponga
+  nosotros: pongamos
+  vosotros: pongáis
+  uds: pongan
+preterito-perfecto-subjuntivo:
+  yo: haya repuesto
+  tu: hayas repuesto
+  vos: hayas repuesto
+  ud: haya repuesto
+  nosotros: hayamos repuesto
+  vosotros: hayáis repuesto
+  uds: hayan repuesto
+imperfecto-subjuntivo:
+  yo:
+    - repusiera
+    - repusiese
+  tu:
+    - repusieras
+    - repusieses
+  vos:
+    - repusieras
+    - repusieses
+  ud:
+    - repusiera
+    - repusiese
+  nosotros:
+    - repusiéramos
+    - repusiésemos
+  vosotros:
+    - repusierais
+    - repusieseis
+  uds:
+    - repusieran
+    - repusiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera repuesto
+    - hubiese repuesto
+  tu:
+    - hubieras repuesto
+    - hubieses repuesto
+  vos:
+    - hubieras repuesto
+    - hubieses repuesto
+  ud:
+    - hubiera repuesto
+    - hubiese repuesto
+  nosotros:
+    - hubiéramos repuesto
+    - hubiésemos repuesto
+  vosotros:
+    - hubierais repuesto
+    - hubieseis repuesto
+  uds:
+    - hubieran repuesto
+    - hubiesen repuesto
+imperativo:
+  tu: repón
+  vos: repón
+  ud: ponga
+  nosotros: pongamos
+  vosotros: poned
+  uds: pongan

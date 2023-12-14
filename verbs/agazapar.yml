@@ -1,0 +1,142 @@
+infinitivo: agazapar
+gerundio: agazapando
+participio-pasado: agazapado
+presente-indicativo:
+  yo: agazapo
+  tu: agazapas
+  vos: agazapas
+  ud: agazapa
+  nosotros: agazapamos
+  vosotros: agazapáis
+  uds: agazapan
+preterito-perfecto-simple:
+  yo: agazapé
+  tu: agazapaste
+  vos: agazapaste
+  ud: agazapó
+  nosotros: agazapamos
+  vosotros: agazapasteis
+  uds: agazaparon
+preterito-imperfecto:
+  yo: agazapaba
+  tu: agazapabas
+  vos: agazapabas
+  ud: agazapaba
+  nosotros: agazapábamos
+  vosotros: agazapabais
+  uds: agazapaban
+futuro-simple:
+  yo: agazaparé
+  tu: agazaparás
+  vos: agazaparás
+  ud: agazapará
+  nosotros: agazaparemos
+  vosotros: agazaparéis
+  uds: agazaparán
+condicional-simple:
+  yo: agazaparía
+  tu: agazaparías
+  vos: agazaparías
+  ud: agazaparía
+  nosotros: agazaparíamos
+  vosotros: agazaparíais
+  uds: agazaparían
+presente-perfecto:
+  yo: he agazapado
+  tu: has agazapado
+  vos: has agazapado
+  ud: ha agazapado
+  nosotros: hemos agazapado
+  vosotros: habéis agazapado
+  uds: han agazapado
+preterito-pluscuamperfecto:
+  yo: había agazapado
+  tu: habías agazapado
+  vos: habías agazapado
+  ud: había agazapado
+  nosotros: habíamos agazapado
+  vosotros: habíais agazapado
+  uds: habían agazapado
+futuro-perfecto:
+  yo: habré agazapado
+  tu: habrás agazapado
+  vos: habrás agazapado
+  ud: habrá agazapado
+  nosotros: habremos agazapado
+  vosotros: habréis agazapado
+  uds: habrán agazapado
+condicional-perfecto:
+  yo: habría agazapado
+  tu: habrías agazapado
+  vos: habrías agazapado
+  ud: habría agazapado
+  nosotros: habríamos agazapado
+  vosotros: habríais agazapado
+  uds: habrían agazapado
+presente-subjuntivo:
+  yo: agazape
+  tu: agazapes
+  vos: agazapes
+  ud: agazape
+  nosotros: agazapemos
+  vosotros: agazapéis
+  uds: agazapen
+preterito-perfecto-subjuntivo:
+  yo: haya agazapado
+  tu: hayas agazapado
+  vos: hayas agazapado
+  ud: haya agazapado
+  nosotros: hayamos agazapado
+  vosotros: hayáis agazapado
+  uds: hayan agazapado
+imperfecto-subjuntivo:
+  yo:
+    - agazapara
+    - agazapase
+  tu:
+    - agazaparas
+    - agazapases
+  vos:
+    - agazaparas
+    - agazapases
+  ud:
+    - agazapara
+    - agazapase
+  nosotros:
+    - agazapáramos
+    - agazapásemos
+  vosotros:
+    - agazaparais
+    - agazapaseis
+  uds:
+    - agazaparan
+    - agazapasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agazapado
+    - hubiese agazapado
+  tu:
+    - hubieras agazapado
+    - hubieses agazapado
+  vos:
+    - hubieras agazapado
+    - hubieses agazapado
+  ud:
+    - hubiera agazapado
+    - hubiese agazapado
+  nosotros:
+    - hubiéramos agazapado
+    - hubiésemos agazapado
+  vosotros:
+    - hubierais agazapado
+    - hubieseis agazapado
+  uds:
+    - hubieran agazapado
+    - hubiesen agazapado
+imperativo:
+  tu: agazapa
+  vos: agazapá
+  ud: agazape
+  nosotros: agazapemos
+  vosotros: agazapad
+  uds: agazapen

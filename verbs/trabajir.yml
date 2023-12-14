@@ -1,0 +1,142 @@
+infinitivo: trabajir
+gerundio: trabajiendo
+participio-pasado: trabajido
+presente-indicativo:
+  yo: trabajo
+  tu: trabajes
+  vos: trabajes
+  ud: trabaje
+  nosotros: trabajimos
+  vosotros: trabajís
+  uds: trabajen
+preterito-perfecto-simple:
+  yo: trabají
+  tu: trabajiste
+  vos: trabajiste
+  ud: trabajó
+  nosotros: trabajimos
+  vosotros: trabajisteis
+  uds: trabajieron
+preterito-imperfecto:
+  yo: trabajía
+  tu: trabajías
+  vos: trabajías
+  ud: trabajía
+  nosotros: trabajíamos
+  vosotros: trabajíais
+  uds: trabajían
+futuro-simple:
+  yo: trabajaré
+  tu: trabajarás
+  vos: trabajarás
+  ud: trabajará
+  nosotros: trabajaremos
+  vosotros: trabajaréis
+  uds: trabajarán
+condicional-simple:
+  yo: trabajaría
+  tu: trabajarías
+  vos: trabajarías
+  ud: trabajaría
+  nosotros: trabajaríamos
+  vosotros: trabajaríais
+  uds: trabajarían
+presente-perfecto:
+  yo: he trabajido
+  tu: has trabajido
+  vos: has trabajido
+  ud: ha trabajido
+  nosotros: hemos trabajido
+  vosotros: habéis trabajido
+  uds: han trabajido
+preterito-pluscuamperfecto:
+  yo: había trabajido
+  tu: habías trabajido
+  vos: habías trabajido
+  ud: había trabajido
+  nosotros: habíamos trabajido
+  vosotros: habíais trabajido
+  uds: habían trabajido
+futuro-perfecto:
+  yo: habré trabajido
+  tu: habrás trabajido
+  vos: habrás trabajido
+  ud: habrá trabajido
+  nosotros: habremos trabajido
+  vosotros: habréis trabajido
+  uds: habrán trabajido
+condicional-perfecto:
+  yo: habría trabajido
+  tu: habrías trabajido
+  vos: habrías trabajido
+  ud: habría trabajido
+  nosotros: habríamos trabajido
+  vosotros: habríais trabajido
+  uds: habrían trabajido
+presente-subjuntivo:
+  yo: trabaje
+  tu: trabajes
+  vos: trabajes
+  ud: trabaje
+  nosotros: trabajemos
+  vosotros: trabajéis
+  uds: trabajen
+preterito-perfecto-subjuntivo:
+  yo: haya trabajido
+  tu: hayas trabajido
+  vos: hayas trabajido
+  ud: haya trabajido
+  nosotros: hayamos trabajido
+  vosotros: hayáis trabajido
+  uds: hayan trabajido
+imperfecto-subjuntivo:
+  yo:
+    - trabajara
+    - trabajase
+  tu:
+    - trabajaras
+    - trabajases
+  vos:
+    - trabajaras
+    - trabajases
+  ud:
+    - trabajara
+    - trabajase
+  nosotros:
+    - trabajáramos
+    - trabajásemos
+  vosotros:
+    - trabajarais
+    - trabajaseis
+  uds:
+    - trabajaran
+    - trabajasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera trabajido
+    - hubiese trabajido
+  tu:
+    - hubieras trabajido
+    - hubieses trabajido
+  vos:
+    - hubieras trabajido
+    - hubieses trabajido
+  ud:
+    - hubiera trabajido
+    - hubiese trabajido
+  nosotros:
+    - hubiéramos trabajido
+    - hubiésemos trabajido
+  vosotros:
+    - hubierais trabajido
+    - hubieseis trabajido
+  uds:
+    - hubieran trabajido
+    - hubiesen trabajido
+imperativo:
+  tu: trabaja
+  vos: trabajá
+  ud: trabaje
+  nosotros: trabajemos
+  vosotros: trabajid
+  uds: trabajen

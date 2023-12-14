@@ -1,0 +1,142 @@
+infinitivo: enjugar
+gerundio: enjugando
+participio-pasado: enjugado
+presente-indicativo:
+  yo: enjugo
+  tu: enjugas
+  vos: enjugas
+  ud: enjuga
+  nosotros: enjugamos
+  vosotros: enjugáis
+  uds: enjugan
+preterito-perfecto-simple:
+  yo: enjugué
+  tu: enjugaste
+  vos: enjugaste
+  ud: enjugó
+  nosotros: enjugamos
+  vosotros: enjugasteis
+  uds: enjugaron
+preterito-imperfecto:
+  yo: enjugaba
+  tu: enjugabas
+  vos: enjugabas
+  ud: enjugaba
+  nosotros: enjugábamos
+  vosotros: enjugabais
+  uds: enjugaban
+futuro-simple:
+  yo: enjugaré
+  tu: enjugarás
+  vos: enjugarás
+  ud: enjugará
+  nosotros: enjugaremos
+  vosotros: enjugaréis
+  uds: enjugarán
+condicional-simple:
+  yo: enjugaría
+  tu: enjugarías
+  vos: enjugarías
+  ud: enjugaría
+  nosotros: enjugaríamos
+  vosotros: enjugaríais
+  uds: enjugarían
+presente-perfecto:
+  yo: he enjugado
+  tu: has enjugado
+  vos: has enjugado
+  ud: ha enjugado
+  nosotros: hemos enjugado
+  vosotros: habéis enjugado
+  uds: han enjugado
+preterito-pluscuamperfecto:
+  yo: había enjugado
+  tu: habías enjugado
+  vos: habías enjugado
+  ud: había enjugado
+  nosotros: habíamos enjugado
+  vosotros: habíais enjugado
+  uds: habían enjugado
+futuro-perfecto:
+  yo: habré enjugado
+  tu: habrás enjugado
+  vos: habrás enjugado
+  ud: habrá enjugado
+  nosotros: habremos enjugado
+  vosotros: habréis enjugado
+  uds: habrán enjugado
+condicional-perfecto:
+  yo: habría enjugado
+  tu: habrías enjugado
+  vos: habrías enjugado
+  ud: habría enjugado
+  nosotros: habríamos enjugado
+  vosotros: habríais enjugado
+  uds: habrían enjugado
+presente-subjuntivo:
+  yo: enjugue
+  tu: enjugues
+  vos: enjugues
+  ud: enjugue
+  nosotros: enjuguemos
+  vosotros: enjugáis
+  uds: enjuguen
+preterito-perfecto-subjuntivo:
+  yo: haya enjugado
+  tu: hayas enjugado
+  vos: hayas enjugado
+  ud: haya enjugado
+  nosotros: hayamos enjugado
+  vosotros: hayáis enjugado
+  uds: hayan enjugado
+imperfecto-subjuntivo:
+  yo:
+    - enjugara
+    - enjugase
+  tu:
+    - enjugaras
+    - enjugases
+  vos:
+    - enjugaras
+    - enjugases
+  ud:
+    - enjugara
+    - enjugase
+  nosotros:
+    - enjugáramos
+    - enjugásemos
+  vosotros:
+    - enjugarais
+    - enjugaseis
+  uds:
+    - enjugaran
+    - enjugasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enjugado
+    - hubiese enjugado
+  tu:
+    - hubieras enjugado
+    - hubieses enjugado
+  vos:
+    - hubieras enjugado
+    - hubieses enjugado
+  ud:
+    - hubiera enjugado
+    - hubiese enjugado
+  nosotros:
+    - hubiéramos enjugado
+    - hubiésemos enjugado
+  vosotros:
+    - hubierais enjugado
+    - hubieseis enjugado
+  uds:
+    - hubieran enjugado
+    - hubiesen enjugado
+imperativo:
+  tu: enjuga
+  vos: enjugá
+  ud: enjuge
+  nosotros: enjuguemos
+  vosotros: enjugad
+  uds: enjuguen

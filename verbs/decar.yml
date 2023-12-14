@@ -1,0 +1,142 @@
+infinitivo: decar
+gerundio: decando
+participio-pasado: decado
+presente-indicativo:
+  yo: decas
+  tu: decas
+  vos: decas
+  ud: deca
+  nosotros: decamos
+  vosotros: decais
+  uds: decan
+preterito-perfecto-simple:
+  yo: dequ
+  tu: dequ
+  vos: dequ
+  ud: dequ
+  nosotros: dequ
+  vosotros: dequ
+  uds: dequ
+preterito-imperfecto:
+  yo: dequi
+  tu: dequi
+  vos: dequi
+  ud: dequi
+  nosotros: dequimos
+  vosotros: dequais
+  uds: dequen
+futuro-simple:
+  yo: decare
+  tu: decare
+  vos: decare
+  ud: dequare
+  nosotros: decaremos
+  vosotros: decareis
+  uds: decaren
+condicional-simple:
+  yo: decara
+  tu: decara
+  vos: decara
+  ud: decara
+  nosotros: decaramos
+  vosotros: decarais
+  uds: decaran
+presente-perfecto:
+  yo: he dequado
+  tu: has dequado
+  vos: has dequado
+  ud: ha dequado
+  nosotros: hemos dequado
+  vosotros: habeis dequado
+  uds: han dequado
+preterito-pluscuamperfecto:
+  yo: habia dequado
+  tu: habias dequado
+  vos: habias dequado
+  ud: habia dequado
+  nosotros: habiamos dequado
+  vosotros: habiais dequado
+  uds: habian dequado
+futuro-perfecto:
+  yo: habre dequado
+  tu: habras dequado
+  vos: habras dequado
+  ud: habra dequado
+  nosotros: habremos dequado
+  vosotros: habreis dequado
+  uds: habran dequado
+condicional-perfecto:
+  yo: habria dequado
+  tu: habrias dequado
+  vos: habrias dequado
+  ud: habria dequado
+  nosotros: habriamos dequado
+  vosotros: habriais dequado
+  uds: habrian dequado
+presente-subjuntivo:
+  yo: dequa
+  tu: dequa
+  vos: dequa
+  ud: dequa
+  nosotros: dequamos
+  vosotros: deqais
+  uds: dequan
+preterito-perfecto-subjuntivo:
+  yo: haya dequado
+  tu: hayas dequado
+  vos: hayas dequado
+  ud: haya dequado
+  nosotros: hayamos dequado
+  vosotros: hayais dequado
+  uds: hayan dequado
+imperfecto-subjuntivo:
+  yo:
+    - dequara
+    - dequase
+  tu:
+    - dequaras
+    - dequases
+  vos:
+    - dequaras
+    - dequases
+  ud:
+    - dequara
+    - dequase
+  nosotros:
+    - dequaramos
+    - dequasemos
+  vosotros:
+    - dequarais
+    - deqaseis
+  uds:
+    - dequaran
+    - dequasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dequado
+    - hubiese dequado
+  tu:
+    - hubieras dequado
+    - hubieses dequado
+  vos:
+    - hubieras dequado
+    - hubieses dequado
+  ud:
+    - hubiera dequado
+    - hubiese dequado
+  nosotros:
+    - hubieramos dequado
+    - hubiesemos dequado
+  vosotros:
+    - hubierais dequado
+    - hubieseis dequado
+  uds:
+    - hubieran dequado
+    - hubiesen dequado
+imperativo:
+  tu: deca
+  vos: decá
+  ud: dequa
+  nosotros: dequamos
+  vosotros: decíd
+  uds: dequan

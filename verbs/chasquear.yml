@@ -1,0 +1,142 @@
+infinitivo: chasquear
+gerundio: chasqueando
+participio-pasado: chasqueado
+presente-indicativo:
+  yo: chasqueo
+  tu: chasqueas
+  vos: chasqueas
+  ud: chasquea
+  nosotros: chasqueamos
+  vosotros: chasqueáis
+  uds: chasquean
+preterito-perfecto-simple:
+  yo: chasqueé
+  tu: chasqueaste
+  vos: chasqueaste
+  ud: chasqueó
+  nosotros: chasqueamos
+  vosotros: chasqueasteis
+  uds: chasquearon
+preterito-imperfecto:
+  yo: chasqueaba
+  tu: chasqueabas
+  vos: chasqueabas
+  ud: chasqueaba
+  nosotros: chasqueábamos
+  vosotros: chasqueabais
+  uds: chasqueaban
+futuro-simple:
+  yo: chasquearé
+  tu: chasquearás
+  vos: chasquearás
+  ud: chasqueará
+  nosotros: chasquearemos
+  vosotros: chasquearéis
+  uds: chasquearán
+condicional-simple:
+  yo: chasquearía
+  tu: chasquearías
+  vos: chasquearías
+  ud: chasquearía
+  nosotros: chasquearíamos
+  vosotros: chasquearíais
+  uds: chasquearían
+presente-perfecto:
+  yo: he chasqueado
+  tu: has chasqueado
+  vos: has chasqueado
+  ud: ha chasqueado
+  nosotros: hemos chasqueado
+  vosotros: habéis chasqueado
+  uds: han chasqueado
+preterito-pluscuamperfecto:
+  yo: había chasqueado
+  tu: habías chasqueado
+  vos: habías chasqueado
+  ud: había chasqueado
+  nosotros: habíamos chasqueado
+  vosotros: habíais chasqueado
+  uds: habían chasqueado
+futuro-perfecto:
+  yo: habré chasqueado
+  tu: habrás chasqueado
+  vos: habrás chasqueado
+  ud: habrá chasqueado
+  nosotros: habremos chasqueado
+  vosotros: habréis chasqueado
+  uds: habrán chasqueado
+condicional-perfecto:
+  yo: habría chasqueado
+  tu: habrías chasqueado
+  vos: habrías chasqueado
+  ud: habría chasqueado
+  nosotros: habríamos chasqueado
+  vosotros: habríais chasqueado
+  uds: habrían chasqueado
+presente-subjuntivo:
+  yo: chasquee
+  tu: chasquees
+  vos: chasquees
+  ud: chasquee
+  nosotros: chasqueemos
+  vosotros: chasqueéis
+  uds: chasqueen
+preterito-perfecto-subjuntivo:
+  yo: haya chasqueado
+  tu: hayas chasqueado
+  vos: hayas chasqueado
+  ud: haya chasqueado
+  nosotros: hayamos chasqueado
+  vosotros: hayáis chasqueado
+  uds: hayan chasqueado
+imperfecto-subjuntivo:
+  yo:
+    - chasqueara
+    - chasquease
+  tu:
+    - chasquearas
+    - chasqueases
+  vos:
+    - chasquearas
+    - chasqueases
+  ud:
+    - chasqueara
+    - chasquease
+  nosotros:
+    - chasqueáramos
+    - chasqueásemos
+  vosotros:
+    - chasquearais
+    - chasqueaseis
+  uds:
+    - chasquearan
+    - chasqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera chasqueado
+    - hubiese chasqueado
+  tu:
+    - hubieras chasqueado
+    - hubieses chasqueado
+  vos:
+    - hubieras chasqueado
+    - hubieses chasqueado
+  ud:
+    - hubiera chasqueado
+    - hubiese chasqueado
+  nosotros:
+    - hubiéramos chasqueado
+    - hubiésemos chasqueado
+  vosotros:
+    - hubierais chasqueado
+    - hubieseis chasqueado
+  uds:
+    - hubieran chasqueado
+    - hubiesen chasqueado
+imperativo:
+  tu: chasquea
+  vos: chasqueá
+  ud: chasquee
+  nosotros: chasqueemos
+  vosotros: chasquead
+  uds: chasqueen

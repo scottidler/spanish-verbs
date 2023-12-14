@@ -1,0 +1,142 @@
+infinitivo: deambular
+gerundio: deambulando
+participio-pasado: deambulado
+presente-indicativo:
+  yo: deambulo
+  tu: deambulas
+  vos: deambulas
+  ud: deambula
+  nosotros: deambulamos
+  vosotros: deambuláis
+  uds: deambulan
+preterito-perfecto-simple:
+  yo: deambulé
+  tu: deambulaste
+  vos: deambulaste
+  ud: deambuló
+  nosotros: deambulamos
+  vosotros: deambulasteis
+  uds: deambularon
+preterito-imperfecto:
+  yo: deambulaba
+  tu: deambulabas
+  vos: deambulabas
+  ud: deambulaba
+  nosotros: deambulábamos
+  vosotros: deambulabais
+  uds: deambulaban
+futuro-simple:
+  yo: deambularé
+  tu: deambularás
+  vos: deambularás
+  ud: deambulará
+  nosotros: deambularemos
+  vosotros: deambularéis
+  uds: deambularán
+condicional-simple:
+  yo: deambularía
+  tu: deambularías
+  vos: deambularías
+  ud: deambularía
+  nosotros: deambularíamos
+  vosotros: deambularíais
+  uds: deambularían
+presente-perfecto:
+  yo: he deambulado
+  tu: has deambulado
+  vos: has deambulado
+  ud: ha deambulado
+  nosotros: hemos deambulado
+  vosotros: habéis deambulado
+  uds: han deambulado
+preterito-pluscuamperfecto:
+  yo: había deambulado
+  tu: habías deambulado
+  vos: habías deambulado
+  ud: había deambulado
+  nosotros: habíamos deambulado
+  vosotros: habíais deambulado
+  uds: habían deambulado
+futuro-perfecto:
+  yo: habré deambulado
+  tu: habrás deambulado
+  vos: habrás deambulado
+  ud: habrá deambulado
+  nosotros: habremos deambulado
+  vosotros: habréis deambulado
+  uds: habrán deambulado
+condicional-perfecto:
+  yo: habría deambulado
+  tu: habrías deambulado
+  vos: habrías deambulado
+  ud: habría deambulado
+  nosotros: habríamos deambulado
+  vosotros: habríais deambulado
+  uds: habrían deambulado
+presente-subjuntivo:
+  yo: deambule
+  tu: deambules
+  vos: deambules
+  ud: deambule
+  nosotros: deambulemos
+  vosotros: deambuléis
+  uds: deambulen
+preterito-perfecto-subjuntivo:
+  yo: haya deambulado
+  tu: hayas deambulado
+  vos: hayas deambulado
+  ud: haya deambulado
+  nosotros: hayamos deambulado
+  vosotros: hayáis deambulado
+  uds: hayan deambulado
+imperfecto-subjuntivo:
+  yo: 
+    - deambulara
+    - deambulase
+  tu: 
+    - deambularas
+    - deambulases
+  vos: 
+    - deambularas
+    - deambulases
+  ud: 
+    - deambulara
+    - deambulase
+  nosotros: 
+    - deambuláramos
+    - deambulásemos
+  vosotros: 
+    - deambularais
+    - deambulaseis
+  uds: 
+    - deambularan
+    - deambulasen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - hubiera deambulado
+    - hubiese deambulado
+  tu: 
+    - hubieras deambulado
+    - hubieses deambulado
+  vos: 
+    - hubieras deambulado
+    - hubieses deambulado
+  ud: 
+    - hubiera deambulado
+    - hubiese deambulado
+  nosotros: 
+    - hubiéramos deambulado
+    - hubiésemos deambulado
+  vosotros: 
+    - hubierais deambulado
+    - hubieseis deambulado
+  uds: 
+    - hubieran deambulado
+    - hubiesen deambulado
+imperativo:
+  tu: deambula
+  vos: deambulá
+  ud: deambule
+  nosotros: deambulemos
+  vosotros: deambulad
+  uds: deambulen

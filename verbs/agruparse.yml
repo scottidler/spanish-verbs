@@ -1,0 +1,142 @@
+infinitivo: agruparse
+gerundio: agrupándose
+participio-pasado: agrupado
+presente-indicativo:
+  yo: me agrupo
+  tu: te agrupas
+  vos: te agrupas
+  ud: se agrupa
+  nosotros: nos agrupamos
+  vosotros: os agrupáis
+  uds: se agrupan
+preterito-perfecto-simple:
+  yo: me agrupé
+  tu: te agrupaste
+  vos: te agrupaste
+  ud: se agrupó
+  nosotros: nos agrupamos
+  vosotros: os agrupasteis
+  uds: se agruparon
+preterito-imperfecto:
+  yo: me agrupaba
+  tu: te agrupabas
+  vos: te agrupabas
+  ud: se agrupaba
+  nosotros: nos agrupábamos
+  vosotros: os agrupabais
+  uds: se agrupaban
+futuro-simple:
+  yo: me agruparé
+  tu: te agruparás
+  vos: te agruparás
+  ud: se agrupará
+  nosotros: nos agruparemos
+  vosotros: os agruparéis
+  uds: se agruparán
+condicional-simple:
+  yo: me agruparía
+  tu: te agruparías
+  vos: te agruparías
+  ud: se agruparía
+  nosotros: nos agruparíamos
+  vosotros: os agruparíais
+  uds: se agruparían
+presente-perfecto:
+  yo: me he agrupado
+  tu: te has agrupado
+  vos: te has agrupado
+  ud: se ha agrupado
+  nosotros: nos hemos agrupado
+  vosotros: os habéis agrupado
+  uds: se han agrupado
+preterito-pluscuamperfecto:
+  yo: me había agrupado
+  tu: te habías agrupado
+  vos: te habías agrupado
+  ud: se había agrupado
+  nosotros: nos habíamos agrupado
+  vosotros: os habíais agrupado
+  uds: se habían agrupado
+futuro-perfecto:
+  yo: me habré agrupado
+  tu: te habrás agrupado
+  vos: te habrás agrupado
+  ud: se habrá agrupado
+  nosotros: nos habremos agrupado
+  vosotros: os habréis agrupado
+  uds: se habrán agrupado
+condicional-perfecto:
+  yo: me habría agrupado
+  tu: te habrías agrupado
+  vos: te habrías agrupado
+  ud: se habría agrupado
+  nosotros: nos habríamos agrupado
+  vosotros: os habríais agrupado
+  uds: se habrían agrupado
+presente-subjuntivo:
+  yo: me agrupe
+  tu: te agrupes
+  vos: te agrupes
+  ud: se agrupe
+  nosotros: nos agrupemos
+  vosotros: os agrupéis
+  uds: se agrupen
+preterito-perfecto-subjuntivo:
+  yo: me haya agrupado
+  tu: te hayas agrupado
+  vos: te hayas agrupado
+  ud: se haya agrupado
+  nosotros: nos hayamos agrupado
+  vosotros: os hayáis agrupado
+  uds: se hayan agrupado
+imperfecto-subjuntivo:
+  yo:
+    - me agrupara
+    - me agrupase
+  tu:
+    - te agruparas
+    - te agrupases
+  vos:
+    - te agruparas
+    - te agrupases
+  ud:
+    - se agrupara
+    - se agrupase
+  nosotros:
+    - nos agrupáramos
+    - nos agrupásemos
+  vosotros:
+    - os agruparais
+    - os agrupaseis
+  uds:
+    - se agruparan
+    - se agrupasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera agrupado
+    - me hubiese agrupado
+  tu:
+    - te hubieras agrupado
+    - te hubieses agrupado
+  vos:
+    - te hubieras agrupado
+    - te hubieses agrupado
+  ud:
+    - se hubiera agrupado
+    - se hubiese agrupado
+  nosotros:
+    - nos hubiéramos agrupado
+    - nos hubiésemos agrupado
+  vosotros:
+    - os hubierais agrupado
+    - os hubieseis agrupado
+  uds:
+    - se hubieran agrupado
+    - se hubiesen agrupado
+imperativo:
+  tu: agrúpate
+  vos: agrúpate
+  ud: agrúpese
+  nosotros: agrupémonos
+  vosotros: agrupaos
+  uds: agrúpense

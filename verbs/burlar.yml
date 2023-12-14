@@ -1,0 +1,142 @@
+infinitivo: burlar
+gerundio: burlando
+participio-pasado: burlado
+presente-indicativo:
+  yo: burlo
+  tu: burlas
+  vos: burlás
+  ud: burla
+  nosotros: burlamos
+  vosotros: burláis
+  uds: burlan
+preterito-perfecto-simple:
+  yo: burlé
+  tu: burlaste
+  vos: burlaste
+  ud: burló
+  nosotros: burlamos
+  vosotros: burlasteis
+  uds: burlaron
+preterito-imperfecto:
+  yo: burlaba
+  tu: burlabas
+  vos: burlabas
+  ud: burlaba
+  nosotros: burlábamos
+  vosotros: burlabais
+  uds: burlaban
+futuro-simple:
+  yo: burlaré
+  tu: burlarás
+  vos: burlarás
+  ud: burlará
+  nosotros: burlaremos
+  vosotros: burlaréis
+  uds: burlarán
+condicional-simple:
+  yo: burlaría
+  tu: burlarías
+  vos: burlarías
+  ud: burlaría
+  nosotros: burlaríamos
+  vosotros: burlaríais
+  uds: burlarían
+presente-perfecto:
+  yo: he burlado
+  tu: has burlado
+  vos: has burlado
+  ud: ha burlado
+  nosotros: hemos burlado
+  vosotros: habéis burlado
+  uds: han burlado
+preterito-pluscuamperfecto:
+  yo: había burlado
+  tu: habías burlado
+  vos: habías burlado
+  ud: había burlado
+  nosotros: habíamos burlado
+  vosotros: habíais burlado
+  uds: habían burlado
+futuro-perfecto:
+  yo: habré burlado
+  tu: habrás burlado
+  vos: habrás burlado
+  ud: habrá burlado
+  nosotros: habremos burlado
+  vosotros: habréis burlado
+  uds: habrán burlado
+condicional-perfecto:
+  yo: habría burlado
+  tu: habrías burlado
+  vos: habrías burlado
+  ud: habría burlado
+  nosotros: habríamos burlado
+  vosotros: habríais burlado
+  uds: habrían burlado
+presente-subjuntivo:
+  yo: burle
+  tu: burles
+  vos: burles
+  ud: burle
+  nosotros: burlemos
+  vosotros: burléis
+  uds: burlen
+preterito-perfecto-subjuntivo:
+  yo: haya burlado
+  tu: hayas burlado
+  vos: hayas burlado
+  ud: haya burlado
+  nosotros: hayamos burlado
+  vosotros: hayáis burlado
+  uds: hayan burlado
+imperfecto-subjuntivo:
+  yo:
+    - burlara
+    - burlase
+  tu:
+    - burlaras
+    - burlases
+  vos:
+    - burlaras
+    - burlases
+  ud:
+    - burlara
+    - burlase
+  nosotros:
+    - burláramos
+    - burlásemos
+  vosotros:
+    - burlarais
+    - burlaseis
+  uds:
+    - burlaran
+    - burlasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera burlado
+    - hubiese burlado
+  tu:
+    - hubieras burlado
+    - hubieses burlado
+  vos:
+    - hubieras burlado
+    - hubieses burlado
+  ud:
+    - hubiera burlado
+    - hubiese burlado
+  nosotros:
+    - hubiéramos burlado
+    - hubiésemos burlado
+  vosotros:
+    - hubierais burlado
+    - hubieseis burlado
+  uds:
+    - hubieran burlado
+    - hubiesen burlado
+imperativo:
+  tu: burla
+  vos: burlá
+  ud: burle
+  nosotros: burlemos
+  vosotros: burlad
+  uds: burlen

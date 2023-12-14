@@ -1,0 +1,142 @@
+infinitivo: sobresalir
+gerundio: sobresaliendo
+participio-pasado: sobresalido
+presente-indicativo:
+  yo: sobresalgo
+  tu: sobresales
+  vos: sobresalís
+  ud: sobresale
+  nosotros: sobresalimos
+  vosotros: sobresalís
+  uds: sobresalen
+preterito-perfecto-simple:
+  yo: sobresalí
+  tu: sobresaliste
+  vos: sobresaliste
+  ud: sobresalió
+  nosotros: sobresalimos
+  vosotros: sobresalisteis
+  uds: sobresalieron
+preterito-imperfecto:
+  yo: sobresalía
+  tu: sobresalías
+  vos: sobresalías
+  ud: sobresalía
+  nosotros: sobresalíamos
+  vosotros: sobresalíais
+  uds: sobresalían
+futuro-simple:
+  yo: sobresaldré
+  tu: sobresaldrás
+  vos: sobresaldrás
+  ud: sobresaldrá
+  nosotros: sobresaldremos
+  vosotros: sobresaldréis
+  uds: sobresaldrán
+condicional-simple:
+  yo: sobresaldría
+  tu: sobresaldrías
+  vos: sobresaldrías
+  ud: sobresaldría
+  nosotros: sobresaldríamos
+  vosotros: sobresaldríais
+  uds: sobresaldrían
+presente-perfecto:
+  yo: he sobresalido
+  tu: has sobresalido
+  vos: has sobresalido
+  ud: ha sobresalido
+  nosotros: hemos sobresalido
+  vosotros: habéis sobresalido
+  uds: han sobresalido
+preterito-pluscuamperfecto:
+  yo: había sobresalido
+  tu: habías sobresalido
+  vos: habías sobresalido
+  ud: había sobresalido
+  nosotros: habíamos sobresalido
+  vosotros: habíais sobresalido
+  uds: habían sobresalido
+futuro-perfecto:
+  yo: habré sobresalido
+  tu: habrás sobresalido
+  vos: habrás sobresalido
+  ud: habrá sobresalido
+  nosotros: habremos sobresalido
+  vosotros: habréis sobresalido
+  uds: habrán sobresalido
+condicional-perfecto:
+  yo: habría sobresalido
+  tu: habrías sobresalido
+  vos: habrías sobresalido
+  ud: habría sobresalido
+  nosotros: habríamos sobresalido
+  vosotros: habríais sobresalido
+  uds: habrían sobresalido
+presente-subjuntivo:
+  yo: sobresalga
+  tu: sobresalgas
+  vos: sobresalgas
+  ud: sobresalga
+  nosotros: sobresalgamos
+  vosotros: sobresaláis
+  uds: sobresalgan
+preterito-perfecto-subjuntivo:
+  yo: haya sobresalido
+  tu: hayas sobresalido
+  vos: hayas sobresalido
+  ud: haya sobresalido
+  nosotros: hayamos sobresalido
+  vosotros: hayáis sobresalido
+  uds: hayan sobresalido
+imperfecto-subjuntivo:
+  yo:
+    - sobresaliera
+    - sobresaliese
+  tu:
+    - sobresalieras
+    - sobresalieses
+  vos:
+    - sobresalieras
+    - sobresalieses
+  ud:
+    - sobresaliera
+    - sobresaliese
+  nosotros:
+    - sobresaliéramos
+    - sobresaliésemos
+  vosotros:
+    - sobresalierais
+    - sobresalieseis
+  uds:
+    - sobresalieran
+    - sobresaliesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sobresalido
+    - hubiese sobresalido
+  tu:
+    - hubieras sobresalido
+    - hubieses sobresalido
+  vos:
+    - hubieras sobresalido
+    - hubieses sobresalido
+  ud:
+    - hubiera sobresalido
+    - hubiese sobresalido
+  nosotros:
+    - hubiéramos sobresalido
+    - hubiésemos sobresalido
+  vosotros:
+    - hubierais sobresalido
+    - hubieseis sobresalido
+  uds:
+    - hubieran sobresalido
+    - hubiesen sobresalido
+imperativo:
+  tu: sobresale
+  vos: sobresalí
+  ud: sobresalga
+  nosotros: sobresalgamos
+  vosotros: sobresalid
+  uds: sobresalgan

@@ -1,0 +1,142 @@
+infinitivo: secar
+gerundio: secando
+participio-pasado: secado
+presente-indicativo:
+  yo: seco
+  tu: secas
+  vos: secás
+  ud: seca
+  nosotros: secamos
+  vosotros: secáis
+  uds: secan
+preterito-perfecto-simple:
+  yo: sequé
+  tu: secaste
+  vos: secaste
+  ud: secó
+  nosotros: secamos
+  vosotros: secasteis
+  uds: secaron
+preterito-imperfecto:
+  yo: secaba
+  tu: secabas
+  vos: secabas
+  ud: secaba
+  nosotros: secábamos
+  vosotros: secabais
+  uds: secaban
+futuro-simple:
+  yo: secaré
+  tu: secarás
+  vos: secarás
+  ud: secará
+  nosotros: secaremos
+  vosotros: secaréis
+  uds: secarán
+condicional-simple:
+  yo: secaría
+  tu: secarías
+  vos: secarías
+  ud: secaría
+  nosotros: secaríamos
+  vosotros: secaríais
+  uds: secarían
+presente-perfecto:
+  yo: he secado
+  tu: has secado
+  vos: has secado
+  ud: ha secado
+  nosotros: hemos secado
+  vosotros: habéis secado
+  uds: han secado
+preterito-pluscuamperfecto:
+  yo: había secado
+  tu: habías secado
+  vos: habías secado
+  ud: había secado
+  nosotros: habíamos secado
+  vosotros: habíais secado
+  uds: habían secado
+futuro-perfecto:
+  yo: habré secado
+  tu: habrás secado
+  vos: habrás secado
+  ud: habrá secado
+  nosotros: habremos secado
+  vosotros: habréis secado
+  uds: habrán secado
+condicional-perfecto:
+  yo: habría secado
+  tu: habrías secado
+  vos: habrías secado
+  ud: habría secado
+  nosotros: habríamos secado
+  vosotros: habríais secado
+  uds: habrían secado
+presente-subjuntivo:
+  yo: seque
+  tu: seques
+  vos: seques
+  ud: seque
+  nosotros: sequemos
+  vosotros: sequéis
+  uds: sequen
+preterito-perfecto-subjuntivo:
+  yo: haya secado
+  tu: hayas secado
+  vos: hayas secado
+  ud: haya secado
+  nosotros: hayamos secado
+  vosotros: hayáis secado
+  uds: hayan secado
+imperfecto-subjuntivo:
+  yo:
+    - secara
+    - secase
+  tu:
+    - secaras
+    - secases
+  vos:
+    - secaras
+    - secases
+  ud:
+    - secara
+    - secase
+  nosotros:
+    - secáramos
+    - secásemos
+  vosotros:
+    - secarais
+    - secaseis
+  uds:
+    - secaran
+    - secasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera secado
+    - hubiese secado
+  tu:
+    - hubieras secado
+    - hubieses secado
+  vos:
+    - hubieras secado
+    - hubieses secado
+  ud:
+    - hubiera secado
+    - hubiese secado
+  nosotros:
+    - hubiéramos secado
+    - hubiésemos secado
+  vosotros:
+    - hubierais secado
+    - hubieseis secado
+  uds:
+    - hubieran secado
+    - hubiesen secado
+imperativo:
+  tu: seca
+  vos: secá
+  ud: seque
+  nosotros: sequemos
+  vosotros: secad
+  uds: sequen

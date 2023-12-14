@@ -1,0 +1,142 @@
+infinitivo: despistar
+gerundio: despistando
+participio-pasado: despistado
+presente-indicativo:
+  yo: despisto
+  tu: despistas
+  vos: despistas
+  ud: despista
+  nosotros: despistamos
+  vosotros: despistáis
+  uds: despistan
+preterito-perfecto-simple:
+  yo: despisté
+  tu: despistaste
+  vos: despistaste
+  ud: despitó
+  nosotros: despistamos
+  vosotros: despistasteis
+  uds: despistaron
+preterito-imperfecto:
+  yo: despistaba
+  tu: despistabas
+  vos: despistabas
+  ud: despistaba
+  nosotros: despistábamos
+  vosotros: despistabais
+  uds: despistaban
+futuro-simple:
+  yo: despistaré
+  tu: despistarás
+  vos: despistarás
+  ud: despistará
+  nosotros: despistaremos
+  vosotros: despistaréis
+  uds: despistarán
+condicional-simple:
+  yo: despistaría
+  tu: despistarías
+  vos: despistarías
+  ud: despistaría
+  nosotros: despistaríamos
+  vosotros: despistaríais
+  uds: despistarían
+presente-perfecto:
+  yo: he despistado
+  tu: has despistado
+  vos: has despistado
+  ud: ha despistado
+  nosotros: hemos despistado
+  vosotros: habéis despistado
+  uds: han despistado
+preterito-pluscuamperfecto:
+  yo: había despistado
+  tu: habías despistado
+  vos: habías despistado
+  ud: había despistado
+  nosotros: habíamos despistado
+  vosotros: habíais despistado
+  uds: habían despistado
+futuro-perfecto:
+  yo: habré despistado
+  tu: habrás despistado
+  vos: habrás despistado
+  ud: habrá despistado
+  nosotros: habremos despistado
+  vosotros: habréis despistado
+  uds: habrán despistado
+condicional-perfecto:
+  yo: habría despistado
+  tu: habrías despistado
+  vos: habrías despistado
+  ud: habría despistado
+  nosotros: habríamos despistado
+  vosotros: habríais despistado
+  uds: habrían despistado
+presente-subjuntivo:
+  yo: despiste
+  tu: despistes
+  vos: despistes
+  ud: despiste
+  nosotros: despistemos
+  vosotros: despistéis
+  uds: despisten
+preterito-perfecto-subjuntivo:
+  yo: haya despistado
+  tu: hayas despistado
+  vos: hayas despistado
+  ud: haya despistado
+  nosotros: hayamos despistado
+  vosotros: hayáis despistado
+  uds: hayan despistado
+imperfecto-subjuntivo:
+  yo:
+    - despistara
+    - despistase
+  tu:
+    - despiaras
+    - despiestas
+  vos:
+    - despistaras  
+    - despiestases
+  ud:
+    - despistara
+    - despistase
+  nosotros:
+    - despistáramos
+    - despistásemos
+  vosotros:
+    - despiarais
+    - despiestaseis
+  uds:
+    - despistaran
+    - despiestasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera despistado
+    - hubiese despistado
+  tu:
+    - hubieras despistado
+    - hubieses despistado
+  vos:
+    - hubieras despistado  
+    - hubieses despistado
+  ud:
+    - hubiera despistado
+    - hubiese despistado
+  nosotros:
+    - hubiéramos despistado
+    - hubiésemos despistado
+  vosotros:
+    - hubierais despistado
+    - hubieseis despistado
+  uds:
+    - hubieran despistado
+    - hubiesen despistado
+imperativo:
+  tu: despista
+  vos: despistá
+  ud: despiste
+  nosotros: despistemos
+  vosotros: despistad
+  uds: despisten

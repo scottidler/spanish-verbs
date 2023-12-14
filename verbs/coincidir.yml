@@ -1,0 +1,142 @@
+infinitivo: coincidir
+gerundio: coincidiendo
+participio-pasado: coincidido
+presente-indicativo:
+  yo: coincido
+  tu: coincides
+  vos: coincidís
+  ud: coincide
+  nosotros: coincidimos
+  vosotros: coincidís
+  uds: coinciden
+preterito-perfecto-simple:
+  yo: coincidí
+  tu: coincidiste
+  vos: coincidiste
+  ud: coincidió
+  nosotros: coincidimos
+  vosotros: coincidisteis
+  uds: coincidieron
+preterito-imperfecto:
+  yo: coincidía
+  tu: coincidías
+  vos: coincidías
+  ud: coincidía
+  nosotros: coincidíamos
+  vosotros: coincidíais
+  uds: coincidían
+futuro-simple:
+  yo: coincidiré
+  tu: coincidirás
+  vos: coincidirás
+  ud: coincidirá
+  nosotros: coincidiremos
+  vosotros: coincidiréis
+  uds: coincidirán
+condicional-simple:
+  yo: coincidiría
+  tu: coincidirías
+  vos: coincidirías
+  ud: coincidiría
+  nosotros: coincidiríamos
+  vosotros: coincidiríais
+  uds: coincidirían
+presente-perfecto:
+  yo: he coincidido
+  tu: has coincidido
+  vos: has coincidido
+  ud: ha coincidido
+  nosotros: hemos coincidido
+  vosotros: habéis coincidido
+  uds: han coincidido
+preterito-pluscuamperfecto:
+  yo: había coincidido
+  tu: habías coincidido
+  vos: habías coincidido
+  ud: había coincidido
+  nosotros: habíamos coincidido
+  vosotros: habíais coincidido
+  uds: habían coincidido
+futuro-perfecto:
+  yo: habré coincidido
+  tu: habrás coincidido
+  vos: habrás coincidido
+  ud: habrá coincidido
+  nosotros: habremos coincidido
+  vosotros: habréis coincidido
+  uds: habrán coincidido
+condicional-perfecto:
+  yo: habría coincidido
+  tu: habrías coincidido
+  vos: habrías coincidido
+  ud: habría coincidido
+  nosotros: habríamos coincidido
+  vosotros: habríais coincidido
+  uds: habrían coincidido
+presente-subjuntivo:
+  yo: coincida
+  tu: coincidas
+  vos: coincidás
+  ud: coincida
+  nosotros: coincidamos
+  vosotros: coincidáis
+  uds: coincidan
+preterito-perfecto-subjuntivo:
+  yo: haya coincidido
+  tu: hayas coincidido
+  vos: hayas coincidido
+  ud: haya coincidido
+  nosotros: hayamos coincidido
+  vosotros: hayáis coincidido
+  uds: hayan coincidido
+imperfecto-subjuntivo:
+  yo:
+    - coincidiera
+    - coincidiese
+  tu:
+    - coincidieras
+    - coincidieses
+  vos:
+    - coincidieras
+    - coincidieses
+  ud:
+    - coincidiera
+    - coincidiese
+  nosotros:
+    - coincidiéramos
+    - coincidiésemos
+  vosotros:
+    - coincidierais
+    - coincidieseis
+  uds:
+    - coincidieran
+    - coincidiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera coincidido
+    - hubiese coincidido
+  tu:
+    - hubieras coincidido
+    - hubieses coincidido
+  vos:
+    - hubieras coincidido
+    - hubieses coincidido
+  ud:
+    - hubiera coincidido
+    - hubiese coincidido
+  nosotros:
+    - hubiéramos coincidido
+    - hubiésemos coincidido
+  vosotros:
+    - hubierais coincidido
+    - hubieseis coincidido
+  uds:
+    - hubieran coincidido
+    - hubiesen coincidido
+imperativo:
+  tu: coincide
+  vos: coincidí
+  ud: coincida
+  nosotros: coincidamos
+  vosotros: coincidid
+  uds: coincidan

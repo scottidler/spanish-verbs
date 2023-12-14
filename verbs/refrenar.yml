@@ -1,0 +1,142 @@
+infinitivo: refrenar
+gerundio: refrenando
+participio-pasado: refrenado
+presente-indicativo:
+  yo: refreno
+  tu: refrenas
+  vos: refrenas
+  ud: refrena
+  nosotros: refrenamos
+  vosotros: refrenáis
+  uds: refrenan
+preterito-perfecto-simple:
+  yo: refrené
+  tu: refrenaste
+  vos: refrenaste
+  ud: refrenó
+  nosotros: refrenamos
+  vosotros: refrenasteis
+  uds: refrenaron
+preterito-imperfecto:
+  yo: refrenaba
+  tu: refrenabas
+  vos: refrenabas
+  ud: refrenaba
+  nosotros: refrenábamos
+  vosotros: refrenabais
+  uds: refrenaban
+futuro-simple:
+  yo: refrenaré
+  tu: refrenarás
+  vos: refrenarás
+  ud: refrenará
+  nosotros: refrenaremos
+  vosotros: refrenaréis
+  uds: refrenarán
+condicional-simple:
+  yo: refrenaría
+  tu: refrenarías
+  vos: refrenarías
+  ud: refrenaría
+  nosotros: refrenaríamos
+  vosotros: refrenaríais
+  uds: refrenarían
+presente-perfecto:
+  yo: he refrenado
+  tu: has refrenado
+  vos: has refrenado
+  ud: ha refrenado
+  nosotros: hemos refrenado
+  vosotros: habéis refrenado
+  uds: han refrenado
+preterito-pluscuamperfecto:
+  yo: había refrenado
+  tu: habías refrenado
+  vos: habías refrenado
+  ud: había refrenado
+  nosotros: habíamos refrenado
+  vosotros: habíais refrenado
+  uds: habían refrenado
+futuro-perfecto:
+  yo: habré refrenado
+  tu: habrás refrenado
+  vos: habrás refrenado
+  ud: habrá refrenado
+  nosotros: habremos refrenado
+  vosotros: habréis refrenado
+  uds: habrán refrenado
+condicional-perfecto:
+  yo: habría refrenado
+  tu: habrías refrenado
+  vos: habrías refrenado
+  ud: habría refrenado
+  nosotros: habríamos refrenado
+  vosotros: habríais refrenado
+  uds: habrían refrenado
+presente-subjuntivo:
+  yo: refrene
+  tu: refrenes
+  vos: refrenes
+  ud: refrene
+  nosotros: refrenemos
+  vosotros: refrenéis
+  uds: refrenen
+preterito-perfecto-subjuntivo:
+  yo: haya refrenado
+  tu: hayas refrenado
+  vos: hayas refrenado
+  ud: haya refrenado
+  nosotros: hayamos refrenado
+  vosotros: hayáis refrenado
+  uds: hayan refrenado
+imperfecto-subjuntivo:
+  yo:
+    - refrenara
+    - refrenase
+  tu:
+    - refrenaras
+    - refrenases
+  vos:
+    - refrenaras
+    - refrenases
+  ud:
+    - refrenara
+    - refrenase
+  nosotros:
+    - refrenáramos
+    - refrenásemos
+  vosotros:
+    - refrenarais
+    - refrenaseis
+  uds:
+    - refrenaran
+    - refrenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera refrenado
+    - hubiese refrenado
+  tu:
+    - hubieras refrenado
+    - hubieses refrenado
+  vos:
+    - hubieras refrenado
+    - hubieses refrenado
+  ud:
+    - hubiera refrenado
+    - hubiese refrenado
+  nosotros:
+    - hubiéramos refrenado
+    - hubiésemos refrenado
+  vosotros:
+    - hubierais refrenado
+    - hubieseis refrenado
+  uds:
+    - hubieran refrenado
+    - hubiesen refrenado
+imperativo:
+  tu: refrena
+  vos: refrená
+  ud: refrene
+  nosotros: refrenemos
+  vosotros: refrenad
+  uds: refrenen

@@ -1,0 +1,142 @@
+infinitivo: cenar
+gerundio: cenando
+participio-pasado: cenado
+presente-indicativo:
+  yo: ceno
+  tu: cenas
+  vos: cenas
+  ud: cena
+  nosotros: cenamos
+  vosotros: cenáis
+  uds: cenan
+preterito-perfecto-simple:
+  yo: cené
+  tu: cenaste
+  vos: cenaste
+  ud: cenó
+  nosotros: cenamos
+  vosotros: cenasteis
+  uds: cenaron
+preterito-imperfecto:
+  yo: cenaba
+  tu: cenabas
+  vos: cenabas
+  ud: cenaba
+  nosotros: cenábamos
+  vosotros: cenabais
+  uds: cenaban
+futuro-simple:
+  yo: cenaré
+  tu: cenarás
+  vos: cenarás
+  ud: cenará
+  nosotros: cenaremos
+  vosotros: cenaréis
+  uds: cenarán
+condicional-simple:
+  yo: cenaría
+  tu: cenarías
+  vos: cenarías
+  ud: cenaría
+  nosotros: cenaríamos
+  vosotros: cenaríais
+  uds: cenarían
+presente-perfecto:
+  yo: he cenado
+  tu: has cenado
+  vos: has cenado
+  ud: ha cenado
+  nosotros: hemos cenado
+  vosotros: habéis cenado
+  uds: han cenado
+preterito-pluscuamperfecto:
+  yo: había cenado
+  tu: habías cenado
+  vos: habías cenado
+  ud: había cenado
+  nosotros: habíamos cenado
+  vosotros: habíais cenado
+  uds: habían cenado
+futuro-perfecto:
+  yo: habré cenado
+  tu: habrás cenado
+  vos: habrás cenado
+  ud: habrá cenado
+  nosotros: habremos cenado
+  vosotros: habréis cenado
+  uds: habrán cenado
+condicional-perfecto:
+  yo: habría cenado
+  tu: habrías cenado
+  vos: habrías cenado
+  ud: habría cenado
+  nosotros: habríamos cenado
+  vosotros: habríais cenado
+  uds: habrían cenado
+presente-subjuntivo:
+  yo: cene
+  tu: cenes
+  vos: cenes
+  ud: cene
+  nosotros: cenemos
+  vosotros: cenéis
+  uds: cenen
+preterito-perfecto-subjuntivo:
+  yo: haya cenado
+  tu: hayas cenado
+  vos: hayas cenado
+  ud: haya cenado
+  nosotros: hayamos cenado
+  vosotros: hayáis cenado
+  uds: hayan cenado
+imperfecto-subjuntivo:
+  yo:
+    - cenara
+    - cenase
+  tu:
+    - cenaras
+    - cenases
+  vos:
+    - cenaras
+    - cenases
+  ud:
+    - cenara
+    - cenase
+  nosotros:
+    - cenáramos
+    - cenásemos
+  vosotros:
+    - cenarais
+    - cenaseis
+  uds:
+    - cenaran
+    - cenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cenado
+    - hubiese cenado
+  tu:
+    - hubieras cenado
+    - hubieses cenado
+  vos:
+    - hubieras cenado
+    - hubieses cenado
+  ud:
+    - hubiera cenado
+    - hubiese cenado
+  nosotros:
+    - hubiéramos cenado
+    - hubiésemos cenado
+  vosotros:
+    - hubierais cenado
+    - hubieseis cenado
+  uds:
+    - hubieran cenado
+    - hubiesen cenado
+imperativo:
+  tu: cena
+  vos: cená
+  ud: cene
+  nosotros: cenemos
+  vosotros: cenad
+  uds: cenen

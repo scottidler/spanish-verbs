@@ -1,0 +1,142 @@
+infinitivo: rumorear
+gerundio: rumoreando
+participio-pasado: rumoreado
+presente-indicativo:
+  yo: rumoreo
+  tu: rumoreas
+  vos: rumoreas
+  ud: rumorea
+  nosotros: rumoreamos
+  vosotros: rumoreáis
+  uds: rumorean
+preterito-perfecto-simple:
+  yo: rumoreé
+  tu: rumoreaste
+  vos: rumoreaste
+  ud: rumoreó
+  nosotros: rumoreamos
+  vosotros: rumoreasteis
+  uds: rumorearon
+preterito-imperfecto:
+  yo: rumoreaba
+  tu: rumoreabas
+  vos: rumoreabas
+  ud: rumoreaba
+  nosotros: rumoreábamos
+  vosotros: rumoreabais
+  uds: rumoreaban
+futuro-simple:
+  yo: rumoraré
+  tu: rumorarás
+  vos: rumorarás
+  ud: rumorará
+  nosotros: rumoraremos
+  vosotros: rumoraréis
+  uds: rumorarán
+condicional-simple:
+  yo: rumoraría
+  tu: rumorarías
+  vos: rumorarías
+  ud: rumoraría
+  nosotros: rumoraríamos
+  vosotros: rumoraríais
+  uds: rumorarían
+presente-perfecto:
+  yo: he rumoreado
+  tu: has rumoreado
+  vos: has rumoreado
+  ud: ha rumoreado
+  nosotros: hemos rumoreado
+  vosotros: habéis rumoreado
+  uds: han rumoreado
+preterito-pluscuamperfecto:
+  yo: había rumoreado
+  tu: habías rumoreado
+  vos: habías rumoreado
+  ud: había rumoreado
+  nosotros: habíamos rumoreado
+  vosotros: habíais rumoreado
+  uds: habían rumoreado
+futuro-perfecto:
+  yo: habré rumoreado
+  tu: habrás rumoreado
+  vos: habrás rumoreado
+  ud: habrá rumoreado
+  nosotros: habremos rumoreado
+  vosotros: habréis rumoreado
+  uds: habrán rumoreado
+condicional-perfecto:
+  yo: habría rumoreado
+  tu: habrías rumoreado
+  vos: habrías rumoreado
+  ud: habría rumoreado
+  nosotros: habríamos rumoreado
+  vosotros: habríais rumoreado
+  uds: habrían rumoreado
+presente-subjuntivo:
+  yo: rumoree
+  tu: rumorees
+  vos: rumorees
+  ud: rumoree
+  nosotros: rumoreemos
+  vosotros: rumoreéis
+  uds: rumoreen
+preterito-perfecto-subjuntivo:
+  yo: haya rumoreado
+  tu: hayas rumoreado
+  vos: hayas rumoreado
+  ud: haya rumoreado
+  nosotros: hayamos rumoreado
+  vosotros: hayáis rumoreado
+  uds: hayan rumoreado
+imperfecto-subjuntivo:
+  yo:
+    - rumoreara
+    - rumorerase
+  tu:
+    - rumorearas
+    - rumoreases
+  vos:
+    - rumorearas
+    - rumoreases
+  ud:
+    - rumoreara
+    - rumorerase
+  nosotros:
+    - rumoreáramos
+    - rumoreásemos
+  vosotros:
+    - rumorearais
+    - rumoreaseis
+  uds:
+    - rumorearan
+    - rumoreasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rumoreado
+    - hubiese rumoreado
+  tu:
+    - hubieras rumoreado
+    - hubieses rumoreado
+  vos:
+    - hubieras rumoreado
+    - hubieses rumoreado
+  ud:
+    - hubiera rumoreado
+    - hubiese rumoreado
+  nosotros:
+    - hubiéramos rumoreado
+    - hubiésemos rumoreado
+  vosotros:
+    - hubierais rumoreado
+    - hubieseis rumoreado
+  uds:
+    - hubieran rumoreado
+    - hubiesen rumoreado
+imperativo:
+  tu: rumorea
+  vos: rumoreá
+  ud: rumoree
+  nosotros: rumoreemos
+  vosotros: rumoread
+  uds: rumoreen

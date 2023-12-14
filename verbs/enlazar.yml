@@ -1,0 +1,142 @@
+infinitivo: enlazar
+gerundio: enlazando
+participio-pasado: enlazado
+presente-indicativo:
+  yo: enlazo
+  tu: enlazas
+  vos: enlazas
+  ud: enlaza
+  nosotros: enlazamos
+  vosotros: enlazáis
+  uds: enlazan
+preterito-perfecto-simple:
+  yo: enlacé
+  tu: enlazaste
+  vos: enlazaste
+  ud: enlazó
+  nosotros: enlazamos
+  vosotros: enlazasteis
+  uds: enlazaron
+preterito-imperfecto:
+  yo: enlazaba
+  tu: enlazabas
+  vos: enlazabas
+  ud: enlazaba
+  nosotros: enlazábamos
+  vosotros: enlazabais
+  uds: enlazaban
+futuro-simple:
+  yo: enlazaré
+  tu: enlazarás
+  vos: enlazarás
+  ud: enlazará
+  nosotros: enlazaremos
+  vosotros: enlazaréis
+  uds: enlazarán
+condicional-simple:
+  yo: enlazaría
+  tu: enlazarías
+  vos: enlazarías
+  ud: enlazaría
+  nosotros: enlazaríamos
+  vosotros: enlazaríais
+  uds: enlazarían
+presente-perfecto:
+  yo: he enlazado
+  tu: has enlazado
+  vos: has enlazado
+  ud: ha enlazado
+  nosotros: hemos enlazado
+  vosotros: habéis enlazado
+  uds: han enlazado
+preterito-pluscuamperfecto:
+  yo: había enlazado
+  tu: habías enlazado
+  vos: habías enlazado
+  ud: había enlazado
+  nosotros: habíamos enlazado
+  vosotros: habíais enlazado
+  uds: habían enlazado
+futuro-perfecto:
+  yo: habré enlazado
+  tu: habrás enlazado
+  vos: habrás enlazado
+  ud: habrá enlazado
+  nosotros: habremos enlazado
+  vosotros: habréis enlazado
+  uds: habrán enlazado
+condicional-perfecto:
+  yo: habría enlazado
+  tu: habrías enlazado
+  vos: habrías enlazado
+  ud: habría enlazado
+  nosotros: habríamos enlazado
+  vosotros: habríais enlazado
+  uds: habrían enlazado
+presente-subjuntivo:
+  yo: enlace
+  tu: enlaces
+  vos: enlaces
+  ud: enlace
+  nosotros: enlacemos
+  vosotros: enlacéis
+  uds: enlacen
+preterito-perfecto-subjuntivo:
+  yo: haya enlazado
+  tu: hayas enlazado
+  vos: hayas enlazado
+  ud: haya enlazado
+  nosotros: hayamos enlazado
+  vosotros: hayáis enlazado
+  uds: hayan enlazado
+imperfecto-subjuntivo:
+  yo:
+    - enlazara
+    - enlazase
+  tu:
+    - enlazaras
+    - enlazases
+  vos:
+    - enlazaras
+    - enlazases
+  ud:
+    - enlazara
+    - enlazase
+  nosotros:
+    - enlazáramos
+    - enlazásemos
+  vosotros:
+    - enlazarais
+    - enlazaseis
+  uds:
+    - enlazaran
+    - enlazasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enlazado
+    - hubiese enlazado
+  tu:
+    - hubieras enlazado
+    - hubieses enlazado
+  vos:
+    - hubieras enlazado
+    - hubieses enlazado
+  ud:
+    - hubiera enlazado
+    - hubiese enlazado
+  nosotros:
+    - hubiéramos enlazado
+    - hubiésemos enlazado
+  vosotros:
+    - hubierais enlazado
+    - hubieseis enlazado
+  uds:
+    - hubieran enlazado
+    - hubiesen enlazado
+imperativo:
+  tu: enlaza
+  vos: enlazá
+  ud: enlace
+  nosotros: enlacemos
+  vosotros: enlazad
+  uds: enlacen

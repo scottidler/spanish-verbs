@@ -1,0 +1,142 @@
+infinitivo: aplicar
+gerundio: aplicando
+participio-pasado: aplicado
+presente-indicativo:
+  yo: aplico
+  tu: aplicas
+  vos: aplicas
+  ud: aplica
+  nosotros: aplicamos
+  vosotros: aplicáis
+  uds: aplican
+preterito-perfecto-simple:
+  yo: apliqué
+  tu: aplicaste
+  vos: aplicaste
+  ud: aplicó
+  nosotros: aplicamos
+  vosotros: aplicasteis
+  uds: aplicaron
+preterito-imperfecto:
+  yo: aplicaba
+  tu: aplicabas
+  vos: aplicabas
+  ud: aplicaba
+  nosotros: aplicábamos
+  vosotros: aplicabais
+  uds: aplicaban
+futuro-simple:
+  yo: aplicaré
+  tu: aplicarás
+  vos: aplicarás
+  ud: aplicará
+  nosotros: aplicaremos
+  vosotros: aplicaréis
+  uds: aplicarán
+condicional-simple:
+  yo: aplicaría
+  tu: aplicarías
+  vos: aplicarías
+  ud: aplicaría
+  nosotros: aplicaríamos
+  vosotros: aplicaríais
+  uds: aplicarían
+presente-perfecto:
+  yo: he aplicado
+  tu: has aplicado
+  vos: has aplicado
+  ud: ha aplicado
+  nosotros: hemos aplicado
+  vosotros: habéis aplicado
+  uds: han aplicado
+preterito-pluscuamperfecto:
+  yo: había aplicado
+  tu: habías aplicado
+  vos: habías aplicado
+  ud: había aplicado
+  nosotros: habíamos aplicado
+  vosotros: habíais aplicado
+  uds: habían aplicado
+futuro-perfecto:
+  yo: habré aplicado
+  tu: habrás aplicado
+  vos: habrás aplicado
+  ud: habrá aplicado
+  nosotros: habremos aplicado
+  vosotros: habréis aplicado
+  uds: habrán aplicado
+condicional-perfecto:
+  yo: habría aplicado
+  tu: habrías aplicado
+  vos: habrías aplicado
+  ud: habría aplicado
+  nosotros: habríamos aplicado
+  vosotros: habríais aplicado
+  uds: habrían aplicado
+presente-subjuntivo:
+  yo: aplique
+  tu: apliques
+  vos: apliques
+  ud: aplique
+  nosotros: apliquemos
+  vosotros: apliquéis
+  uds: apliquen
+preterito-perfecto-subjuntivo:
+  yo: haya aplicado
+  tu: hayas aplicado
+  vos: hayas aplicado
+  ud: haya aplicado
+  nosotros: hayamos aplicado
+  vosotros: hayáis aplicado
+  uds: hayan aplicado
+imperfecto-subjuntivo:
+  yo:
+    - aplicara
+    - aplicase
+  tu:
+    - aplicaras
+    - aplicases
+  vos:
+    - aplicaras
+    - aplicases
+  ud:
+    - aplicara
+    - aplicase
+  nosotros:
+    - aplicáramos
+    - aplicásemos
+  vosotros:
+    - aplicarais
+    - aplicaseis
+  uds:
+    - aplicaran
+    - aplicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aplicado
+    - hubiese aplicado
+  tu:
+    - hubieras aplicado
+    - hubieses aplicado
+  vos:
+    - hubieras aplicado
+    - hubieses aplicado
+  ud:
+    - hubiera aplicado
+    - hubiese aplicado
+  nosotros:
+    - hubiéramos aplicado
+    - hubiésemos aplicado
+  vosotros:
+    - hubierais aplicado
+    - hubieseis aplicado
+  uds:
+    - hubieran aplicado
+    - hubiesen aplicado
+imperativo:
+  tu: aplica
+  vos: aplicá
+  ud: aplique
+  nosotros: apliquemos
+  vosotros: aplicad
+  uds: apliquen

@@ -1,0 +1,142 @@
+infinitivo: vacilar
+gerundio: vacilando
+participio-pasado: vacilado
+presente-indicativo:
+  yo: vacilo
+  tu: vacilas
+  vos: vacilás
+  ud: vacila
+  nosotros: vacilamos
+  vosotros: vaciláis
+  uds: vacilan
+preterito-perfecto-simple:
+  yo: vacilé
+  tu: vacilaste
+  vos: vacilaste
+  ud: vaciló
+  nosotros: vacilamos
+  vosotros: vacilasteis
+  uds: vacilaron
+preterito-imperfecto:
+  yo: vacilaba
+  tu: vacilabas
+  vos: vacilabas
+  ud: vacilaba
+  nosotros: vacilábamos
+  vosotros: vacilabais
+  uds: vacilaban
+futuro-simple:
+  yo: vacilaré
+  tu: vacilarás
+  vos: vacilarás
+  ud: vacilará
+  nosotros: vacilaremos
+  vosotros: vacilaréis
+  uds: vacilarán
+condicional-simple:
+  yo: vacilaría
+  tu: vacilarías
+  vos: vacilarías
+  ud: vacilaría
+  nosotros: vacilaríamos
+  vosotros: vacilaríais
+  uds: vacilarían
+presente-perfecto:
+  yo: he vacilado
+  tu: has vacilado
+  vos: has vacilado
+  ud: ha vacilado
+  nosotros: hemos vacilado
+  vosotros: habéis vacilado
+  uds: han vacilado
+preterito-pluscuamperfecto:
+  yo: había vacilado
+  tu: habías vacilado
+  vos: habías vacilado
+  ud: había vacilado
+  nosotros: habíamos vacilado
+  vosotros: habíais vacilado
+  uds: habían vacilado
+futuro-perfecto:
+  yo: habré vacilado
+  tu: habrás vacilado
+  vos: habrás vacilado
+  ud: habrá vacilado
+  nosotros: habremos vacilado
+  vosotros: habréis vacilado
+  uds: habrán vacilado
+condicional-perfecto:
+  yo: habría vacilado
+  tu: habrías vacilado
+  vos: habrías vacilado
+  ud: habría vacilado
+  nosotros: habríamos vacilado
+  vosotros: habríais vacilado
+  uds: habrían vacilado
+presente-subjuntivo:
+  yo: vacile
+  tu: vaciles
+  vos: vacilés
+  ud: vacile
+  nosotros: vacilemos
+  vosotros: vaciléis
+  uds: vacilen
+preterito-perfecto-subjuntivo:
+  yo: haya vacilado
+  tu: hayas vacilado
+  vos: hayas vacilado
+  ud: haya vacilado
+  nosotros: hayamos vacilado
+  vosotros: hayáis vacilado
+  uds: hayan vacilado
+imperfecto-subjuntivo:
+  yo:
+    - vacilara
+    - vacilase
+  tu:
+    - vacilaras
+    - vacilases
+  vos:
+    - vacilaras
+    - vacilases
+  ud:
+    - vacilara
+    - vacilase
+  nosotros:
+    - vaciláramos
+    - vacilásemos
+  vosotros:
+    - vacilarais
+    - vacilaseis
+  uds:
+    - vacilaran
+    - vacilasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vacilado
+    - hubiese vacilado
+  tu:
+    - hubieras vacilado
+    - hubieses vacilado
+  vos:
+    - hubieras vacilado
+    - hubieses vacilado
+  ud:
+    - hubiera vacilado
+    - hubiese vacilado
+  nosotros:
+    - hubiéramos vacilado
+    - hubiésemos vacilado
+  vosotros:
+    - hubierais vacilado
+    - hubieseis vacilado
+  uds:
+    - hubieran vacilado
+    - hubiesen vacilado
+imperativo:
+  tu: vacila
+  vos: vacilá
+  ud: vacile
+  nosotros: vacilemos
+  vosotros: vacilad
+  uds: vacilen

@@ -1,0 +1,142 @@
+infinitivo: comprobar
+gerundio: comprobando
+participio-pasado: comprobado
+presente-indicativo:
+  yo: compruebo
+  tu: compruebas
+  vos: compruebas
+  ud: comprueba
+  nosotros: comprobamos
+  vosotros: comprobáis
+  uds: comprueban
+preterito-perfecto-simple:
+  yo: comprobé
+  tu: comprobaste
+  vos: comprobaste
+  ud: comprobó
+  nosotros: comprobamos
+  vosotros: comprobasteis
+  uds: comprobaron
+preterito-imperfecto:
+  yo: comprobaba
+  tu: comprobabas
+  vos: comprobabas
+  ud: comprobaba
+  nosotros: comprobábamos
+  vosotros: comprobabais
+  uds: comprobaban
+futuro-simple:
+  yo: comprobaré
+  tu: comprobarás
+  vos: comprobarás
+  ud: comprobará
+  nosotros: comprobaremos
+  vosotros: comprobaréis
+  uds: comprobarán
+condicional-simple:
+  yo: comprobaría
+  tu: comprobarías
+  vos: comprobarías
+  ud: comprobaría
+  nosotros: comprobaríamos
+  vosotros: comprobaríais
+  uds: comprobarían
+presente-perfecto:
+  yo: he comprobado
+  tu: has comprobado
+  vos: has comprobado
+  ud: ha comprobado
+  nosotros: hemos comprobado
+  vosotros: habéis comprobado
+  uds: han comprobado
+preterito-pluscuamperfecto:
+  yo: había comprobado
+  tu: habías comprobado
+  vos: habías comprobado
+  ud: había comprobado
+  nosotros: habíamos comprobado
+  vosotros: habíais comprobado
+  uds: habían comprobado
+futuro-perfecto:
+  yo: habré comprobado
+  tu: habrás comprobado
+  vos: habrás comprobado
+  ud: habrá comprobado
+  nosotros: habremos comprobado
+  vosotros: habréis comprobado
+  uds: habrán comprobado
+condicional-perfecto:
+  yo: habría comprobado
+  tu: habrías comprobado
+  vos: habrías comprobado
+  ud: habría comprobado
+  nosotros: habríamos comprobado
+  vosotros: habríais comprobado
+  uds: habrían comprobado
+presente-subjuntivo:
+  yo: compruebe
+  tu: compruebes
+  vos: compruebes
+  ud: compruebe
+  nosotros: comprobemos
+  vosotros: comprobéis
+  uds: comprueben
+preterito-perfecto-subjuntivo:
+  yo: haya comprobado
+  tu: hayas comprobado
+  vos: hayas comprobado
+  ud: haya comprobado
+  nosotros: hayamos comprobado
+  vosotros: hayáis comprobado
+  uds: hayan comprobado
+imperfecto-subjuntivo:
+  yo:
+    - comprobara
+    - comprobase
+  tu:
+    - comprobaras
+    - comprobases
+  vos:
+    - comprobaras
+    - comprobases
+  ud:
+    - comprobara
+    - comprobase
+  nosotros:
+    - comprobáramos
+    - comprobásemos
+  vosotros:
+    - comprobarais
+    - comprobaseis
+  uds:
+    - comprobaran
+    - comprobasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera comprobado
+    - hubiese comprobado
+  tu:
+    - hubieras comprobado
+    - hubieses comprobado
+  vos:
+    - hubieras comprobado
+    - hubieses comprobado
+  ud:
+    - hubiera comprobado
+    - hubiese comprobado
+  nosotros:
+    - hubiéramos comprobado
+    - hubiésemos comprobado
+  vosotros:
+    - hubierais comprobado
+    - hubieseis comprobado
+  uds:
+    - hubieran comprobado
+    - hubiesen comprobado
+imperativo:
+  tu: comprueba
+  vos: comprueba
+  ud: compruebe
+  nosotros: comprobemos
+  vosotros: comprobad
+  uds: comprueben

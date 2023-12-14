@@ -1,0 +1,142 @@
+infinitivo: maravillar
+gerundio: maravillando
+participio-pasado: maravillado
+presente-indicativo:
+  yo: maravillo
+  tu: maravillas
+  vos: maravillás
+  ud: maravilla
+  nosotros: maravillamos
+  vosotros: maravilláis
+  uds: maravillan
+preterito-perfecto-simple:
+  yo: maravillé
+  tu: maravillaste
+  vos: maravillaste
+  ud: maravilló
+  nosotros: maravillamos
+  vosotros: maravillasteis
+  uds: maravillaron
+preterito-imperfecto:
+  yo: maravillaba
+  tu: maravillabas
+  vos: maravillabas
+  ud: maravillaba
+  nosotros: maravillábamos
+  vosotros: maravillabais
+  uds: maravillaban
+futuro-simple:
+  yo: maravillaré
+  tu: maravillarás
+  vos: maravillarás
+  ud: maravillará
+  nosotros: maravillaremos
+  vosotros: maravillaréis
+  uds: maravillarán
+condicional-simple:
+  yo: maravillaría
+  tu: maravillarías
+  vos: maravillarías
+  ud: maravillaría
+  nosotros: maravillaríamos
+  vosotros: maravillaríais
+  uds: maravillarían
+presente-perfecto:
+  yo: he maravillado
+  tu: has maravillado
+  vos: has maravillado
+  ud: ha maravillado
+  nosotros: hemos maravillado
+  vosotros: habéis maravillado
+  uds: han maravillado
+preterito-pluscuamperfecto:
+  yo: había maravillado
+  tu: habías maravillado
+  vos: habías maravillado
+  ud: había maravillado
+  nosotros: habíamos maravillado
+  vosotros: habíais maravillado
+  uds: habían maravillado
+futuro-perfecto:
+  yo: habré maravillado
+  tu: habrás maravillado
+  vos: habrás maravillado
+  ud: habrá maravillado
+  nosotros: habremos maravillado
+  vosotros: habréis maravillado
+  uds: habrán maravillado
+condicional-perfecto:
+  yo: habría maravillado
+  tu: habrías maravillado
+  vos: habrías maravillado
+  ud: habría maravillado
+  nosotros: habríamos maravillado
+  vosotros: habríais maravillado
+  uds: habrían maravillado
+presente-subjuntivo:
+  yo: maraville
+  tu: maravilles
+  vos: maravillés
+  ud: maraville
+  nosotros: maravillemos
+  vosotros: maravilléis
+  uds: maravillen
+preterito-perfecto-subjuntivo:
+  yo: haya maravillado
+  tu: hayas maravillado
+  vos: hayas maravillado
+  ud: haya maravillado
+  nosotros: hayamos maravillado
+  vosotros: hayáis maravillado
+  uds: hayan maravillado
+imperfecto-subjuntivo:
+  yo:
+    - maravillara
+    - maravillase
+  tu:
+    - maravillaras
+    - maravillases
+  vos:
+    - maravillaras
+    - maravillases
+  ud:
+    - maravillara
+    - maravillase
+  nosotros:
+    - maravilláramos
+    - maravillásemos
+  vosotros:
+    - maravillarais
+    - maravillaseis
+  uds:
+    - maravillaran
+    - maravillasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera maravillado
+    - hubiese maravillado
+  tu:
+    - hubieras maravillado
+    - hubieses maravillado
+  vos:
+    - hubieras maravillado
+    - hubieses maravillado
+  ud:
+    - hubiera maravillado
+    - hubiese maravillado
+  nosotros:
+    - hubiéramos maravillado
+    - hubiésemos maravillado
+  vosotros:
+    - hubierais maravillado
+    - hubieseis maravillado
+  uds:
+    - hubieran maravillado
+    - hubiesen maravillado
+imperativo:
+  tu: maravilla
+  vos: maravillá
+  ud: maraville
+  nosotros: maravillemos
+  vosotros: maravillad
+  uds: maravillen

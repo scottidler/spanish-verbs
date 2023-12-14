@@ -1,0 +1,142 @@
+infinitivo: entregarse
+gerundio: entregándose
+participio-pasado: entregado
+presente-indicativo:
+  yo: me entrego
+  tu: te entregas
+  vos: te entregas
+  ud: se entrega
+  nosotros: nos entregamos
+  vosotros: os entregáis
+  uds: se entregan
+preterito-perfecto-simple:
+  yo: me entregué
+  tu: te entregaste
+  vos: te entregaste
+  ud: se entregó
+  nosotros: nos entregamos
+  vosotros: os entregasteis
+  uds: se entregaron
+preterito-imperfecto:
+  yo: me entregaba
+  tu: te entregabas
+  vos: te entregabas
+  ud: se entregaba
+  nosotros: nos entregábamos
+  vosotros: os entregabais
+  uds: se entregaban
+futuro-simple:
+  yo: me entregaré
+  tu: te entregarás
+  vos: te entregarás
+  ud: se entregará
+  nosotros: nos entregaremos
+  vosotros: os entregaréis
+  uds: se entregarán
+condicional-simple:
+  yo: me entregaría
+  tu: te entregarías
+  vos: te entregarías
+  ud: se entregaría
+  nosotros: nos entregaríamos
+  vosotros: os entregaríais
+  uds: se entregarían
+presente-perfecto:
+  yo: me he entregado
+  tu: te has entregado
+  vos: te has entregado
+  ud: se ha entregado
+  nosotros: nos hemos entregado
+  vosotros: os habéis entregado
+  uds: se han entregado
+preterito-pluscuamperfecto:
+  yo: me había entregado
+  tu: te habías entregado
+  vos: te habías entregado
+  ud: se había entregado
+  nosotros: nos habíamos entregado
+  vosotros: os habíais entregado
+  uds: se habían entregado
+futuro-perfecto:
+  yo: me habré entregado
+  tu: te habrás entregado
+  vos: te habrás entregado
+  ud: se habrá entregado
+  nosotros: nos habremos entregado
+  vosotros: os habréis entregado
+  uds: se habrán entregado
+condicional-perfecto:
+  yo: me habría entregado
+  tu: te habrías entregado
+  vos: te habrías entregado
+  ud: se habría entregado
+  nosotros: nos habríamos entregado
+  vosotros: os habríais entregado
+  uds: se habrían entregado
+presente-subjuntivo:
+  yo: me entregue
+  tu: te entregues
+  vos: te entregues
+  ud: se entregue
+  nosotros: nos entreguemos
+  vosotros: os entreguéis
+  uds: se entreguen
+preterito-perfecto-subjuntivo:
+  yo: me haya entregado
+  tu: te hayas entregado
+  vos: te hayas entregado
+  ud: se haya entregado
+  nosotros: nos hayamos entregado
+  vosotros: os hayáis entregado
+  uds: se hayan entregado
+imperfecto-subjuntivo:
+  yo:
+    - me entregara
+    - me entregase
+  tu:
+    - te entregaras
+    - te entregases
+  vos:
+    - te entregaras
+    - te entregases
+  ud:
+    - se entregara
+    - se entregase
+  nosotros:
+    - nos entregáramos
+    - nos entregásemos
+  vosotros:
+    - os entregarais
+    - os entregaseis
+  uds:
+    - se entregaran
+    - se entregasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera entregado
+    - me hubiese entregado
+  tu:
+    - te hubieras entregado
+    - te hubieses entregado
+  vos:
+    - te hubieras entregado
+    - te hubieses entregado
+  ud:
+    - se hubiera entregado
+    - se hubiese entregado
+  nosotros:
+    - nos hubiéramos entregado
+    - nos hubiésemos entregado
+  vosotros:
+    - os hubierais entregado
+    - os hubieseis entregado
+  uds:
+    - se hubieran entregado
+    - se hubiesen entregado
+imperativo:
+  tu: entrégate
+  vos: entregate
+  ud: entréguese
+  nosotros: entreguémosnos
+  vosotros: entregaos
+  uds: entréguense

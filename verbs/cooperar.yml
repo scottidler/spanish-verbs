@@ -1,0 +1,142 @@
+infinitivo: cooperar
+gerundio: colaborando
+participio-pasado: cooperado
+presente-indicativo:
+  yo: coopero
+  tu: cooperas
+  vos: cooperás
+  ud: coopera
+  nosotros: cooperamos
+  vosotros: colaboráis
+  uds: cooperan
+preterito-perfecto-simple:
+  yo: cooperé
+  tu: cooperaste
+  vos: cooperaste
+  ud: cooperó
+  nosotros: cooperamos
+  vosotros: cooperasteis
+  uds: cooperaron
+preterito-imperfecto:
+  yo: cooperaba
+  tu: cooperabas
+  vos: cooperabas
+  ud: cooperaba
+  nosotros: cooperábamos
+  vosotros: cooperabais
+  uds: cooperaban
+futuro-simple:
+  yo: cooperaré
+  tu: cooperarás
+  vos: cooperarás
+  ud: cooperará
+  nosotros: cooperaremos
+  vosotros: cooperaréis
+  uds: cooperarán
+condicional-simple:
+  yo: cooperaría
+  tu: cooperarías
+  vos: cooperarías
+  ud: cooperaría
+  nosotros: cooperaríamos
+  vosotros: cooperaríais
+  uds: cooperarían
+presente-perfecto:
+  yo: he cooperado
+  tu: has cooperado
+  vos: has cooperado
+  ud: ha cooperado
+  nosotros: hemos cooperado
+  vosotros: habéis cooperado
+  uds: han cooperado
+preterito-pluscuamperfecto:
+  yo: había cooperado
+  tu: habías cooperado
+  vos: habías cooperado
+  ud: había cooperado
+  nosotros: habíamos cooperado
+  vosotros: habíais cooperado
+  uds: habían cooperado
+futuro-perfecto:
+  yo: habré cooperado
+  tu: habrás cooperado
+  vos: habrás cooperado
+  ud: habrá cooperado
+  nosotros: habremos cooperado
+  vosotros: habréis cooperado
+  uds: habrán cooperado
+condicional-perfecto:
+  yo: habría cooperado
+  tu: habrías cooperado
+  vos: habrías cooperado
+  ud: habría cooperado
+  nosotros: habríamos cooperado
+  vosotros: habríais cooperado
+  uds: habrían cooperado
+presente-subjuntivo:
+  yo: coopere
+  tu: cooperes
+  vos: cooperes
+  ud: coopere
+  nosotros: cooperemos
+  vosotros: cooperéis
+  uds: cooperen
+preterito-perfecto-subjuntivo:
+  yo: haya cooperado
+  tu: hayas cooperado
+  vos: hayas cooperado
+  ud: haya cooperado
+  nosotros: hayamos cooperado
+  vosotros: hayáis cooperado
+  uds: hayan cooperado
+imperfecto-subjuntivo:
+  yo:
+    - cooperara
+    - cooperase
+  tu:
+    - cooperaras
+    - cooperases
+  vos:
+    - cooperaras
+    - cooperases
+  ud:
+    - cooperara
+    - cooperase
+  nosotros:
+    - cooperáramos
+    - cooperásemos
+  vosotros:
+    - cooperarais
+    - cooperaseis
+  uds:
+    - cooperaran
+    - cooperasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cooperado
+    - hubiese cooperado
+  tu:
+    - hubieras cooperado
+    - hubieses cooperado
+  vos:
+    - hubieras cooperado
+    - hubieses cooperado
+  ud:
+    - hubiera cooperado
+    - hubiese cooperado
+  nosotros:
+    - hubiéramos cooperado
+    - hubiésemos cooperado
+  vosotros:
+    - hubierais cooperado
+    - hubieseis cooperado
+  uds:
+    - hubieran cooperado
+    - hubiesen cooperado
+imperativo:
+  tu: coopera
+  vos: cooperá
+  ud: coopere
+  nosotros: cooperemos
+  vosotros: cooperad
+  uds: cooperen

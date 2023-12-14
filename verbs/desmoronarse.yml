@@ -1,0 +1,142 @@
+infinitivo: desmoronarse
+gerundio: desmoronándose
+participio-pasado: desmoronado
+presente-indicativo:
+  yo: me desmorono
+  tu: te desmoronas
+  vos: te desmoronas
+  ud: se desmorona
+  nosotros: nos desmoronamos
+  vosotros: os desmoronáis
+  uds: se desmoronan
+preterito-perfecto-simple:
+  yo: me desmoroné
+  tu: te desmoronaste
+  vos: te desmoronaste
+  ud: se desmoronó
+  nosotros: nos desmoronamos
+  vosotros: os desmoronasteis
+  uds: se desmoronaron
+preterito-imperfecto:
+  yo: me desmoronaba
+  tu: te desmoronabas
+  vos: te desmoronabas
+  ud: se desmoronaba
+  nosotros: nos desmoronábamos
+  vosotros: os desmoronabais
+  uds: se desmoronaban
+futuro-simple:
+  yo: me desmoronaré
+  tu: te desmoronarás
+  vos: te desmoronarás
+  ud: se desmoronará
+  nosotros: nos desmoronaremos
+  vosotros: os desmoronaréis
+  uds: se desmoronarán
+condicional-simple:
+  yo: me desmoronaría
+  tu: te desmoronarías
+  vos: te desmoronarías
+  ud: se desmoronaría
+  nosotros: nos desmoronaríamos
+  vosotros: os desmoronaríais
+  uds: se desmoronarían
+presente-perfecto:
+  yo: me he desmoronado
+  tu: te has desmoronado
+  vos: te has desmoronado
+  ud: se ha desmoronado
+  nosotros: nos hemos desmoronado
+  vosotros: os habéis desmoronado
+  uds: se han desmoronado
+preterito-pluscuamperfecto:
+  yo: me había desmoronado
+  tu: te habías desmoronado
+  vos: te habías desmoronado
+  ud: se había desmoronado
+  nosotros: nos habíamos desmoronado
+  vosotros: os habíais desmoronado
+  uds: se habían desmoronado
+futuro-perfecto:
+  yo: me habré desmoronado
+  tu: te habrás desmoronado
+  vos: te habrás desmoronado
+  ud: se habrá desmoronado
+  nosotros: nos habremos desmoronado
+  vosotros: os habréis desmoronado
+  uds: se habrán desmoronado
+condicional-perfecto:
+  yo: me habría desmoronado
+  tu: te habrías desmoronado
+  vos: te habrías desmoronado
+  ud: se habría desmoronado
+  nosotros: nos habríamos desmoronado
+  vosotros: os habríais desmoronado
+  uds: se habrían desmoronado
+presente-subjuntivo:
+  yo: me desmorone
+  tu: te desmorones
+  vos: te desmorones
+  ud: se desmorone
+  nosotros: nos desmoronemos
+  vosotros: os desmoronéis
+  uds: se desmoronen
+preterito-perfecto-subjuntivo:
+  yo: me haya desmoronado
+  tu: te hayas desmoronado
+  vos: te hayas desmoronado
+  ud: se haya desmoronado
+  nosotros: nos hayamos desmoronado
+  vosotros: os hayáis desmoronado
+  uds: se hayan desmoronado
+imperfecto-subjuntivo:
+  yo:
+    - me desmoronara
+    - me desmoronase
+  tu:
+    - te desmoronaras
+    - te desmoronases
+  vos:
+    - te desmoronaras
+    - te desmoronases
+  ud:
+    - se desmoronara
+    - se desmoronase
+  nosotros:
+    - nos desmoronáramos
+    - nos desmoronásemos
+  vosotros:
+    - os desmoronarais
+    - os desmoronaseis
+  uds:
+    - se desmoronaran
+    - se desmoronasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera desmoronado
+    - me hubiese desmoronado
+  tu:
+    - te hubieras desmoronado
+    - te hubieses desmoronado
+  vos:
+    - te hubieras desmoronado
+    - te hubieses desmoronado
+  ud:
+    - se hubiera desmoronado
+    - se hubiese desmoronado
+  nosotros:
+    - nos hubiéramos desmoronado
+    - nos hubiésemos desmoronado
+  vosotros:
+    - os hubierais desmoronado
+    - os hubieseis desmoronado
+  uds:
+    - se hubieran desmoronado
+    - se hubiesen desmoronado
+imperativo:
+  tu: desmórate
+  vos: desmoronate
+  ud: desmórese
+  nosotros: desmoronémonos
+  vosotros: desmoronaos
+  uds: desmóroneles

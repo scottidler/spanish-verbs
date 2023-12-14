@@ -1,0 +1,142 @@
+infinitivo: asestar
+gerundio: asestando
+participio-pasado: asestado
+presente-indicativo:
+  yo: asesto
+  tu: asestas
+  vos: asestas
+  ud: asesta
+  nosotros: asestamos
+  vosotros: asestáis
+  uds: asestan
+preterito-perfecto-simple:
+  yo: asesté
+  tu: asestaste
+  vos: asestaste
+  ud: asestó
+  nosotros: asestamos
+  vosotros: asestasteis
+  uds: asestaron
+preterito-imperfecto:
+  yo: asestaba
+  tu: asestabas
+  vos: asestabas
+  ud: asestaba
+  nosotros: asestábamos
+  vosotros: asestabais
+  uds: asestaban
+futuro-simple:
+  yo: asestaré
+  tu: asestarás
+  vos: asestarás
+  ud: asestará
+  nosotros: asestaremos
+  vosotros: asestaréis
+  uds: asestarán
+condicional-simple:
+  yo: asestaría
+  tu: asestarías
+  vos: asestarías
+  ud: asestaría
+  nosotros: asestaríamos
+  vosotros: asestaríais
+  uds: asestarían
+presente-perfecto:
+  yo: he asestado
+  tu: has asestado
+  vos: has asestado
+  ud: ha asestado
+  nosotros: hemos asestado
+  vosotros: habéis asestado
+  uds: han asestado
+preterito-pluscuamperfecto:
+  yo: había asestado
+  tu: habías asestado
+  vos: habías asestado
+  ud: había asestado
+  nosotros: habíamos asestado
+  vosotros: habíais asestado
+  uds: habían asestado
+futuro-perfecto:
+  yo: habré asestado
+  tu: habrás asestado
+  vos: habrás asestado
+  ud: habrá asestado
+  nosotros: habremos asestado
+  vosotros: habréis asestado
+  uds: habrán asestado
+condicional-perfecto:
+  yo: habría asestado
+  tu: habrías asestado
+  vos: habrías asestado
+  ud: habría asestado
+  nosotros: habríamos asestado
+  vosotros: habríais asestado
+  uds: habrían asestado
+presente-subjuntivo:
+  yo: aseste
+  tu: asestes
+  vos: asestes
+  ud: aseste
+  nosotros: asestemos
+  vosotros: asestéis
+  uds: asesten
+preterito-perfecto-subjuntivo:
+  yo: haya asestado
+  tu: hayas asestado
+  vos: hayas asestado
+  ud: haya asestado
+  nosotros: hayamos asestado
+  vosotros: hayáis asestado
+  uds: hayan asestado
+imperfecto-subjuntivo:
+  yo:
+    - asestara
+    - asestase
+  tu:
+    - asestaras
+    - asestases
+  vos:
+    - asestaras
+    - asestases
+  ud:
+    - asestara
+    - asestase
+  nosotros:
+    - asestáramos
+    - asestásemos
+  vosotros:
+    - asestarais
+    - asestaseis
+  uds:
+    - asestaran
+    - asestasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asestado
+    - hubiese asestado
+  tu:
+    - hubieras asestado
+    - hubieses asestado
+  vos:
+    - hubieras asestado
+    - hubieses asestado
+  ud:
+    - hubiera asestado
+    - hubiese asestado
+  nosotros:
+    - hubiéramos asestado
+    - hubiésemos asestado
+  vosotros:
+    - hubierais asestado
+    - hubieseis asestado
+  uds:
+    - hubieran asestado
+    - hubiesen asestado
+imperativo:
+  tu: asesta
+  vos: asestá
+  ud: aseste
+  nosotros: asestemos
+  vosotros: asestad
+  uds: asesten

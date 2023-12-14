@@ -1,0 +1,156 @@
+infinitivo: encantarse
+gerundio: encantándose
+participio-pasado: encantado
+
+presente-indicativo:
+  yo: me encanto
+  tu: te encantas
+  vos: te encantas
+  ud: se encanta
+  nosotros: nos encantamos
+  vosotros: os encantáis
+  uds: se encantan
+
+preterito-perfecto-simple:
+  yo: me encanté
+  tu: te encantaste
+  vos: te encantaste
+  ud: se encantó
+  nosotros: nos encantamos
+  vosotros: os encantasteis
+  uds: se encantaron
+
+preterito-imperfecto:
+  yo: me encantaba
+  tu: te encantabas
+  vos: te encantabas
+  ud: se encantaba
+  nosotros: nos encantábamos
+  vosotros: os encantabais
+  uds: se encantaban
+
+futuro-simple:
+  yo: me encantaré
+  tu: te encantarás
+  vos: te encantarás
+  ud: se encantará
+  nosotros: nos encantaremos
+  vosotros: os encantaréis
+  uds: se encantarán
+
+condicional-simple:
+  yo: me encantaría
+  tu: te encantarías
+  vos: te encantarías
+  ud: se encantaría
+  nosotros: nos encantaríamos
+  vosotros: os encantaríais
+  uds: se encantarían
+
+presente-perfecto:
+  yo: me he encantado
+  tu: te has encantado
+  vos: te has encantado
+  ud: se ha encantado
+  nosotros: nos hemos encantado
+  vosotros: os habéis encantado
+  uds: se han encantado
+
+preterito-pluscuamperfecto:
+  yo: me había encantado
+  tu: te habías encantado
+  vos: te habías encantado
+  ud: se había encantado
+  nosotros: nos habíamos encantado
+  vosotros: os habíais encantado
+  uds: se habían encantado
+
+futuro-perfecto:
+  yo: me habré encantado
+  tu: te habrás encantado
+  vos: te habrás encantado
+  ud: se habrá encantado
+  nosotros: nos habremos encantado
+  vosotros: os habréis encantado
+  uds: se habrán encantado
+
+condicional-perfecto:
+  yo: me habría encantado
+  tu: te habrías encantado
+  vos: te habrías encantado
+  ud: se habría encantado
+  nosotros: nos habríamos encantado
+  vosotros: os habríais encantado
+  uds: se habrían encantado
+
+presente-subjuntivo:
+  yo: me encante
+  tu: te encantes
+  vos: te encantes
+  ud: se encante
+  nosotros: nos encantemos
+  vosotros: os encantéis
+  uds: se encanten
+
+preterito-perfecto-subjuntivo:
+  yo: me haya encantado
+  tu: te hayas encantado
+  vos: te hayas encantado
+  ud: se haya encantado
+  nosotros: nos hayamos encantado
+  vosotros: os hayáis encantado
+  uds: se hayan encantado
+
+imperfecto-subjuntivo:
+  yo:
+    - me encantara
+    - me encantase
+  tu:
+    - te encantaras
+    - te encantases
+  vos:
+    - te encantaras
+    - te encantases
+  ud:
+    - se encantara
+    - se encantase
+  nosotros:
+    - nos encantáramos
+    - nos encantásemos
+  vosotros:
+    - os encantarais
+    - os encantaseis
+  uds:
+    - se encantaran
+    - se encantasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera encantado
+    - me hubiese encantado
+  tu:
+    - te hubieras encantado
+    - te hubieses encantado
+  vos:
+    - te hubieras encantado
+    - te hubieses encantado
+  ud:
+    - se hubiera encantado
+    - se hubiese encantado
+  nosotros:
+    - nos hubiéramos encantado
+    - nos hubiésemos encantado
+  vosotros:
+    - os hubierais encantado
+    - os hubieseis encantado
+  uds:
+    - se hubieran encantado
+    - se hubiesen encantado
+
+imperativo:
+  tu: encántate
+  vos: encántate
+  ud: encántese
+  nosotros: encantémonos
+  vosotros: encantaos
+  uds: encántense

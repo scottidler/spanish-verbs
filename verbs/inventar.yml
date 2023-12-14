@@ -1,0 +1,142 @@
+infinitivo: inventar
+gerundio: inventando
+participio-pasado: inventado
+presente-indicativo:
+  yo: invento
+  tu: inventas
+  vos: inventas
+  ud: inventa
+  nosotros: inventamos
+  vosotros: inventáis
+  uds: inventan
+preterito-perfecto-simple:
+  yo: inventé
+  tu: inventaste
+  vos: inventaste
+  ud: inventó
+  nosotros: inventamos
+  vosotros: inventasteis
+  uds: inventaron
+preterito-imperfecto:
+  yo: inventaba
+  tu: inventabas
+  vos: inventabas
+  ud: inventaba
+  nosotros: inventábamos
+  vosotros: inventabais
+  uds: inventaban
+futuro-simple:
+  yo: inventaré
+  tu: inventarás
+  vos: inventarás
+  ud: inventará
+  nosotros: inventaremos
+  vosotros: inventaréis
+  uds: inventarán
+condicional-simple:
+  yo: inventaría
+  tu: inventarías
+  vos: inventarías
+  ud: inventaría
+  nosotros: inventaríamos
+  vosotros: inventaríais
+  uds: inventarían
+presente-perfecto:
+  yo: he inventado
+  tu: has inventado
+  vos: has inventado
+  ud: ha inventado
+  nosotros: hemos inventado
+  vosotros: habéis inventado
+  uds: han inventado
+preterito-pluscuamperfecto:
+  yo: había inventado
+  tu: habías inventado
+  vos: habías inventado
+  ud: había inventado
+  nosotros: habíamos inventado
+  vosotros: habíais inventado
+  uds: habían inventado
+futuro-perfecto:
+  yo: habré inventado
+  tu: habrás inventado
+  vos: habrás inventado
+  ud: habrá inventado
+  nosotros: habremos inventado
+  vosotros: habréis inventado
+  uds: habrán inventado
+condicional-perfecto:
+  yo: habría inventado
+  tu: habrías inventado
+  vos: habrías inventado
+  ud: habría inventado
+  nosotros: habríamos inventado
+  vosotros: habríais inventado
+  uds: habrían inventado
+presente-subjuntivo:
+  yo: invente
+  tu: inventes
+  vos: inventes
+  ud: invente
+  nosotros: inventemos
+  vosotros: inventéis
+  uds: inventen
+preterito-perfecto-subjuntivo:
+  yo: haya inventado
+  tu: hayas inventado
+  vos: hayas inventado
+  ud: haya inventado
+  nosotros: hayamos inventado
+  vosotros: hayáis inventado
+  uds: hayan inventado
+imperfecto-subjuntivo:
+  yo:
+    - inventara
+    - inventase
+  tu:
+    - inventaras
+    - inventases
+  vos:
+    - inventaras
+    - inventases
+  ud:
+    - inventara
+    - inventase
+  nosotros:
+    - inventáramos
+    - inventásemos
+  vosotros:
+    - inventarais
+    - inventaseis
+  uds:
+    - inventaran
+    - inventasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera inventado
+    - hubiese inventado
+  tu:
+    - hubieras inventado
+    - hubieses inventado
+  vos:
+    - hubieras inventado
+    - hubieses inventado
+  ud:
+    - hubiera inventado
+    - hubiese inventado
+  nosotros:
+    - hubiéramos inventado
+    - hubiésemos inventado
+  vosotros:
+    - hubierais inventado
+    - hubieseis inventado
+  uds:
+    - hubieran inventado
+    - hubiesen inventado
+imperativo:
+  tu: inventa
+  vos: inventá
+  ud: invente
+  nosotros: inventemos
+  vosotros: inventad
+  uds: inventen

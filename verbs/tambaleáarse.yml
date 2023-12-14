@@ -1,0 +1,156 @@
+infinitivo: tambaleáarse
+gerundio: tambaleándose
+participio-pasado: tambaleado
+
+presente-indicativo:
+  yo: me tambaleo
+  tu: te tambaleas
+  vos: te tambaleás
+  ud: se tambalea
+  nosotros: nos tambaleamos
+  vosotros: os tambaleáis
+  uds: se tambalean
+
+preterito-perfecto-simple:
+  yo: me tambaleé
+  tu: te tambaleaste
+  vos: te tambaleaste
+  ud: se tambaleó
+  nosotros: nos tambaleamos
+  vosotros: os tambaleasteis
+  uds: se tambalearon
+
+preterito-imperfecto:
+  yo: me tambaleaba
+  tu: te tambaleabas
+  vos: te tambaleabas
+  ud: se tambaleaba
+  nosotros: nos tambaleábamos
+  vosotros: os tambaleabais
+  uds: se tambaleaban
+
+futuro-simple:
+  yo: me tambalearé
+  tu: te tambalearás
+  vos: te tambalearás
+  ud: se tambaleará
+  nosotros: nos tambalearemos
+  vosotros: os tambalearéis
+  uds: se tambalearán
+
+condicional-simple:
+  yo: me tambalearía
+  tu: te tambalearías
+  vos: te tambalearías
+  ud: se tambalearía
+  nosotros: nos tambalearíamos
+  vosotros: os tambalearíais
+  uds: se tambalearían
+
+presente-perfecto:
+  yo: me he tambaleado
+  tu: te has tambaleado
+  vos: te has tambaleado
+  ud: se ha tambaleado
+  nosotros: nos hemos tambaleado
+  vosotros: os habéis tambaleado
+  uds: se han tambaleado
+
+preterito-pluscuamperfecto:
+  yo: me había tambaleado
+  tu: te habías tambaleado
+  vos: te habías tambaleado
+  ud: se había tambaleado
+  nosotros: nos habíamos tambaleado
+  vosotros: os habíais tambaleado
+  uds: se habían tambaleado
+
+futuro-perfecto:
+  yo: me habré tambaleado
+  tu: te habrás tambaleado
+  vos: te habrás tambaleado
+  ud: se habrá tambaleado
+  nosotros: nos habremos tambaleado
+  vosotros: os habréis tambaleado
+  uds: se habrán tambaleado
+
+condicional-perfecto:
+  yo: me habría tambaleado
+  tu: te habrías tambaleado
+  vos: te habrías tambaleado
+  ud: se habría tambaleado
+  nosotros: nos habríamos tambaleado
+  vosotros: os habríais tambaleado
+  uds: se habrían tambaleado
+
+presente-subjuntivo:
+  yo: me tambalee
+  tu: te tambalees
+  vos: te tambalees
+  ud: se tambalee
+  nosotros: nos tambaleemos
+  vosotros: os tambaleéis
+  uds: se tambaleen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya tambaleado
+  tu: te hayas tambaleado
+  vos: te hayas tambaleado
+  ud: se haya tambaleado
+  nosotros: nos hayamos tambaleado
+  vosotros: os hayáis tambaleado
+  uds: se hayan tambaleado
+
+imperfecto-subjuntivo:
+  yo:
+    - me tambaleara
+    - me tambalease
+  tu:
+    - te tambalearas
+    - te tambaleases
+  vos:
+    - te tambalearas
+    - te tambaleases
+  ud:
+    - se tambaleara
+    - se tambalease
+  nosotros:
+    - nos tambaleáramos
+    - nos tambaleásemos
+  vosotros:
+    - os tambalearais
+    - os tambaleaseis
+  uds:
+    - se tambalearan
+    - se tambaleasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera tambaleado
+    - me hubiese tambaleado
+  tu:
+    - te hubieras tambaleado
+    - te hubieses tambaleado
+  vos:
+    - te hubieras tambaleado
+    - te hubieses tambaleado
+  ud:
+    - se hubiera tambaleado
+    - se hubiese tambaleado
+  nosotros:
+    - nos hubiéramos tambaleado
+    - nos hubiésemos tambaleado
+  vosotros:
+    - os hubierais tambaleado
+    - os hubieseis tambaleado
+  uds:
+    - se hubieran tambaleado
+    - se hubiesen tambaleado
+
+imperativo:
+  tu: tambáleate
+  vos: tambaleate
+  ud: tambalee
+  nosotros: tambaleémonos
+  vosotros: tambaleaos
+  uds: tambaleen

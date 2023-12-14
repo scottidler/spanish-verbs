@@ -1,0 +1,142 @@
+infinitivo: aliviar
+gerundio: aliviando
+participio-pasado: aliviado
+presente-indicativo:
+  yo: alivio
+  tu: alivias
+  vos: alivias
+  ud: alivia
+  nosotros: aliviamos
+  vosotros: aliviáis
+  uds: alivian
+preterito-perfecto-simple:
+  yo: alivié
+  tu: aliviaste
+  vos: aliviaste
+  ud: alivió
+  nosotros: aliviamos
+  vosotros: aliviasteis
+  uds: aliviaron
+preterito-imperfecto:
+  yo: aliviaba
+  tu: aliviabas
+  vos: aliviabas
+  ud: aliviaba
+  nosotros: aliviábamos
+  vosotros: aliviabais
+  uds: aliviaban
+futuro-simple:
+  yo: aliviaré
+  tu: aliviarás
+  vos: aliviarás
+  ud: aliviará
+  nosotros: aliviaremos
+  vosotros: aliviaréis
+  uds: aliviarán
+condicional-simple:
+  yo: aliviaría
+  tu: aliviarías
+  vos: aliviarías
+  ud: aliviaría
+  nosotros: aliviaríamos
+  vosotros: aliviaríais
+  uds: aliviarían
+presente-perfecto:
+  yo: he aliviado
+  tu: has aliviado
+  vos: has aliviado
+  ud: ha aliviado
+  nosotros: hemos aliviado
+  vosotros: habéis aliviado
+  uds: han aliviado
+preterito-pluscuamperfecto:
+  yo: había aliviado
+  tu: habías aliviado
+  vos: habías aliviado
+  ud: había aliviado
+  nosotros: habíamos aliviado
+  vosotros: habíais aliviado
+  uds: habían aliviado
+futuro-perfecto:
+  yo: habré aliviado
+  tu: habrás aliviado
+  vos: habrás aliviado
+  ud: habrá aliviado
+  nosotros: habremos aliviado
+  vosotros: habréis aliviado
+  uds: habrán aliviado
+condicional-perfecto:
+  yo: habría aliviado
+  tu: habrías aliviado
+  vos: habrías aliviado
+  ud: habría aliviado
+  nosotros: habríamos aliviado
+  vosotros: habríais aliviado
+  uds: habrían aliviado
+presente-subjuntivo:
+  yo: alivie
+  tu: alivies
+  vos: alivies
+  ud: alivie
+  nosotros: aliviemos
+  vosotros: aliviéis
+  uds: alivien
+preterito-perfecto-subjuntivo:
+  yo: haya aliviado
+  tu: hayas aliviado
+  vos: hayas aliviado
+  ud: haya aliviado
+  nosotros: hayamos aliviado
+  vosotros: hayáis aliviado
+  uds: hayan aliviado
+imperfecto-subjuntivo:
+  yo:
+    - aliviara
+    - aliviase
+  tu:
+    - aliviaras
+    - aliviases
+  vos:
+    - aliviaras
+    - aliviases
+  ud:
+    - aliviara
+    - aliviase
+  nosotros:
+    - aliviáramos
+    - aliviásemos
+  vosotros:
+    - aliviarais
+    - aliviaseis
+  uds:
+    - aliviaran
+    - aliviasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aliviado
+    - hubiese aliviado
+  tu:
+    - hubieras aliviado
+    - hubieses aliviado
+  vos:
+    - hubieras aliviado
+    - hubieses aliviado
+  ud:
+    - hubiera aliviado
+    - hubiese aliviado
+  nosotros:
+    - hubiéramos aliviado
+    - hubiésemos aliviado
+  vosotros:
+    - hubierais aliviado
+    - hubieseis aliviado
+  uds:
+    - hubieran aliviado
+    - hubiesen aliviado
+imperativo:
+  tu: alivia
+  vos: alivía
+  ud: alivie
+  nosotros: aliviemos
+  vosotros: aliviad
+  uds: alivien

@@ -1,0 +1,142 @@
+infinitivo: desistir
+gerundio: desistiendo
+participio-pasado: desistido
+presente-indicativo:
+  yo: desisto
+  tu: desistes
+  vos: desistes
+  ud: desiste
+  nosotros: desistimos
+  vosotros: desistís
+  uds: desisten
+preterito-perfecto-simple:
+  yo: desistí
+  tu: desististe
+  vos: desististe
+  ud: desistió
+  nosotros: desistimos
+  vosotros: desististeis
+  uds: desistieron
+preterito-imperfecto:
+  yo: desistía
+  tu: desistías
+  vos: desistías
+  ud: desistía
+  nosotros: desistíamos
+  vosotros: desistíais
+  uds: desistían
+futuro-simple:
+  yo: desistiré
+  tu: desistirás
+  vos: desistirás
+  ud: desistirá
+  nosotros: desistiremos
+  vosotros: desistiréis
+  uds: desistirán
+condicional-simple:
+  yo: desistiría
+  tu: desistirías
+  vos: desistirías
+  ud: desistiría
+  nosotros: desistiríamos
+  vosotros: desistiríais
+  uds: desistirían
+presente-perfecto:
+  yo: he desistido
+  tu: has desistido
+  vos: has desistido
+  ud: ha desistido
+  nosotros: hemos desistido
+  vosotros: habéis desistido
+  uds: han desistido
+preterito-pluscuamperfecto:
+  yo: había desistido
+  tu: habías desistido
+  vos: habías desistido
+  ud: había desistido
+  nosotros: habíamos desistido
+  vosotros: habíais desistido
+  uds: habían desistido
+futuro-perfecto:
+  yo: habré desistido
+  tu: habrás desistido
+  vos: habrás desistido
+  ud: habrá desistido
+  nosotros: habremos desistido
+  vosotros: habréis desistido
+  uds: habrán desistido
+condicional-perfecto:
+  yo: habría desistido
+  tu: habrías desistido
+  vos: habrías desistido
+  ud: habría desistido
+  nosotros: habríamos desistido
+  vosotros: habríais desistido
+  uds: habrían desistido
+presente-subjuntivo:
+  yo: desista
+  tu: desistas
+  vos: desistas
+  ud: desista
+  nosotros: desistamos
+  vosotros: desistáis
+  uds: desistan
+preterito-perfecto-subjuntivo:
+  yo: haya desistido
+  tu: hayas desistido
+  vos: hayas desistido
+  ud: haya desistido
+  nosotros: hayamos desistido
+  vosotros: hayáis desistido
+  uds: hayan desistido
+imperfecto-subjuntivo:
+  yo:
+    - desistiera
+    - desistiese
+  tu:
+    - desistieras
+    - desistieses
+  vos:
+    - desistieras
+    - desistieses
+  ud:
+    - desistiera
+    - desistiese
+  nosotros:
+    - desistiéramos
+    - desistiésemos
+  vosotros:
+    - desistierais
+    - desistieseis
+  uds:
+    - desistieran
+    - desistiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desistido
+    - hubiese desistido
+  tu:
+    - hubieras desistido
+    - hubieses desistido
+  vos:
+    - hubieras desistido
+    - hubieses desistido
+  ud:
+    - hubiera desistido
+    - hubiese desistido
+  nosotros:
+    - hubiéramos desistido
+    - hubiésemos desistido
+  vosotros:
+    - hubierais desistido
+    - hubieseis desistido
+  uds:
+    - hubieran desistido
+    - hubiesen desistido
+imperativo:
+  tu: desiste
+  vos: desistí
+  ud: desista
+  nosotros: desistamos
+  vosotros: desistid
+  uds: desistan

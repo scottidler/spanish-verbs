@@ -1,0 +1,142 @@
+infinitivo: recapacitar
+gerundio: recapacitando
+participio-pasado: recapacitado
+presente-indicativo:
+  yo: recapacito
+  tu: recapacitas
+  vos: recapacitas
+  ud: recapacita
+  nosotros: recapacitamos
+  vosotros: recapacitáis
+  uds: recapacitan
+preterito-perfecto-simple:
+  yo: recapacité
+  tu: recapacitaste
+  vos: recapacitaste
+  ud: recapacitó
+  nosotros: recapacitamos
+  vosotros: recapacitasteis
+  uds: recapacitaron
+preterito-imperfecto:
+  yo: recapacitaba
+  tu: recapacitabas
+  vos: recapacitabas
+  ud: recapacitaba
+  nosotros: recapacitábamos
+  vosotros: recapacitabais
+  uds: recapacitaban
+futuro-simple:
+  yo: recapacitaré
+  tu: recapacitarás
+  vos: recapacitarás
+  ud: recapacitará
+  nosotros: recapacitaremos
+  vosotros: recapacitaréis
+  uds: recapacitarán
+condicional-simple:
+  yo: recapacitaría
+  tu: recapacitarías
+  vos: recapacitarías
+  ud: recapacitaría
+  nosotros: recapacitaríamos
+  vosotros: recapacitaríais
+  uds: recapacitarían
+presente-perfecto:
+  yo: he recapacitado
+  tu: has recapacitado
+  vos: has recapacitado
+  ud: ha recapacitado
+  nosotros: hemos recapacitado
+  vosotros: habéis recapacitado
+  uds: han recapacitado
+preterito-pluscuamperfecto:
+  yo: había recapacitado
+  tu: habías recapacitado
+  vos: habías recapacitado
+  ud: había recapacitado
+  nosotros: habíamos recapacitado
+  vosotros: habíais recapacitado
+  uds: habían recapacitado
+futuro-perfecto:
+  yo: habré recapacitado
+  tu: habrás recapacitado
+  vos: habrás recapacitado
+  ud: habrá recapacitado
+  nosotros: habremos recapacitado
+  vosotros: habréis recapacitado
+  uds: habrán recapacitado
+condicional-perfecto:
+  yo: habría recapacitado
+  tu: habrías recapacitado
+  vos: habrías recapacitado
+  ud: habría recapacitado
+  nosotros: habríamos recapacitado
+  vosotros: habríais recapacitado
+  uds: habrían recapacitado
+presente-subjuntivo:
+  yo: recapacite
+  tu: recapacites
+  vos: recapacites
+  ud: recapacite
+  nosotros: recapacitemos
+  vosotros: recapacitéis
+  uds: recapaciten
+preterito-perfecto-subjuntivo:
+  yo: haya recapacitado
+  tu: hayas recapacitado
+  vos: hayas recapacitado
+  ud: haya recapacitado
+  nosotros: hayamos recapacitado
+  vosotros: hayáis recapacitado
+  uds: hayan recapacitado
+imperfecto-subjuntivo:
+  yo:
+    - recapacitara
+    - recapacitase
+  tu:
+    - recapacitaras
+    - recapacitases
+  vos:
+    - recapacitaras
+    - recapacitases
+  ud:
+    - recapacitara
+    - recapacitase
+  nosotros:
+    - recapacitáramos
+    - recapacitásemos
+  vosotros:
+    - recapacitarais
+    - recapacitaseis
+  uds:
+    - recapacitaran
+    - recapacitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recapacitado
+    - hubiese recapacitado
+  tu:
+    - hubieras recapacitado
+    - hubieses recapacitado
+  vos:
+    - hubieras recapacitado
+    - hubieses recapacitado
+  ud:
+    - hubiera recapacitado
+    - hubiese recapacitado
+  nosotros:
+    - hubiéramos recapacitado
+    - hubiésemos recapacitado
+  vosotros:
+    - hubierais recapacitado
+    - hubieseis recapacitado
+  uds:
+    - hubieran recapacitado
+    - hubiesen recapacitado
+imperativo:
+  tu: recapacita
+  vos: recapacitá
+  ud: recapacite
+  nosotros: recapacitemos
+  vosotros: recapacitad
+  uds: recapaciten

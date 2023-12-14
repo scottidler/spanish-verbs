@@ -1,0 +1,142 @@
+infinitivo: devenir
+gerundio: deveniendo
+participio-pasado: devenido
+presente-indicativo:
+  yo: devengo
+  tu: devienes
+  vos: devienes
+  ud: deviene
+  nosotros: devenimos
+  vosotros: devenís
+  uds: devienen
+preterito-perfecto-simple:
+  yo: deviní
+  tu: deviniste
+  vos: deviniste
+  ud: devino
+  nosotros: devinimos
+  vosotros: devinisteis
+  uds: devinieron
+preterito-imperfecto:
+  yo: devenía
+  tu: devenías
+  vos: devenías
+  ud: devenía
+  nosotros: deveníamos
+  vosotros: deveníais
+  uds: devenían
+futuro-simple:
+  yo: devendré
+  tu: devendrás
+  vos: devendrás
+  ud: devendrá
+  nosotros: devendremos
+  vosotros: devendréis
+  uds: devendrán
+condicional-simple:
+  yo: devendría
+  tu: devendrías
+  vos: devendrías
+  ud: devendría
+  nosotros: devendríamos
+  vosotros: devendríais
+  uds: devendrían
+presente-perfecto:
+  yo: he devenido
+  tu: has devenido
+  vos: has devenido
+  ud: ha devenido
+  nosotros: hemos devenido
+  vosotros: habéis devenido
+  uds: han devenido
+preterito-pluscuamperfecto:
+  yo: había devenido
+  tu: habías devenido
+  vos: habías devenido
+  ud: había devenido
+  nosotros: habíamos devenido
+  vosotros: habíais devenido
+  uds: habían devenido
+futuro-perfecto:
+  yo: habré devenido
+  tu: habrás devenido
+  vos: habrás devenido
+  ud: habrá devenido
+  nosotros: habremos devenido
+  vosotros: habréis devenido
+  uds: habrán devenido
+condicional-perfecto:
+  yo: habría devenido
+  tu: habrías devenido
+  vos: habrías devenido
+  ud: habría devenido
+  nosotros: habríamos devenido
+  vosotros: habríais devenido
+  uds: habrían devenido
+presente-subjuntivo:
+  yo: devenga
+  tu: devengas
+  vos: devengas
+  ud: devenga
+  nosotros: devengamos
+  vosotros: devengáis
+  uds: devengan
+preterito-perfecto-subjuntivo:
+  yo: haya devenido
+  tu: hayas devenido
+  vos: hayas devenido
+  ud: haya devenido
+  nosotros: hayamos devenido
+  vosotros: hayáis devenido
+  uds: hayan devenido
+imperfecto-subjuntivo:
+  yo:
+    - deviniera
+    - deviniese
+  tu:
+    - devinieras
+    - devinieses
+  vos:
+    - devinieras
+    - devinieses
+  ud:
+    - deviniera
+    - deviniese
+  nosotros:
+    - deviniéramos
+    - deviniésemos
+  vosotros:
+    - devinierais
+    - devinieseis
+  uds:
+    - devinieran
+    - deviniesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera devenido
+    - hubiese devenido
+  tu:
+    - hubieras devenido
+    - hubieses devenido
+  vos:
+    - hubieras devenido
+    - hubieses devenido
+  ud:
+    - hubiera devenido
+    - hubiese devenido
+  nosotros:
+    - hubiéramos devenido
+    - hubiésemos devenido
+  vosotros:
+    - hubierais devenido
+    - hubieseis devenido
+  uds:
+    - hubieran devenido
+    - hubiesen devenido
+imperativo:
+  tu: devén
+  vos: devenga
+  ud: devenga
+  nosotros: devengamos
+  vosotros: devenid
+  uds: devengan

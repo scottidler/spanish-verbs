@@ -1,0 +1,142 @@
+infinitivo: fallar
+gerundio: fallando
+participio-pasado: fallado
+presente-indicativo:
+  yo: fallo
+  tu: fallas
+  vos: fallas
+  ud: falla
+  nosotros: fallamos
+  vosotros: falláis
+  uds: fallan
+preterito-perfecto-simple:
+  yo: fallé
+  tu: fallaste
+  vos: fallaste
+  ud: falló
+  nosotros: fallamos
+  vosotros: fallasteis
+  uds: fallaron
+preterito-imperfecto:
+  yo: fallaba
+  tu: fallabas
+  vos: fallabas
+  ud: fallaba
+  nosotros: fallábamos
+  vosotros: fallabais
+  uds: fallaban
+futuro-simple:
+  yo: fallaré
+  tu: fallarás
+  vos: fallarás
+  ud: fallará
+  nosotros: fallaremos
+  vosotros: fallaréis
+  uds: fallarán
+condicional-simple:
+  yo: fallaría
+  tu: fallarías
+  vos: fallarías
+  ud: fallaría
+  nosotros: fallaríamos
+  vosotros: fallaríais
+  uds: fallarían
+presente-perfecto:
+  yo: he fallado
+  tu: has fallado
+  vos: has fallado
+  ud: ha fallado
+  nosotros: hemos fallado
+  vosotros: habéis fallado
+  uds: han fallado
+preterito-pluscuamperfecto:
+  yo: había fallado
+  tu: habías fallado
+  vos: habías fallado
+  ud: había fallado
+  nosotros: habíamos fallado
+  vosotros: habíais fallado
+  uds: habían fallado
+futuro-perfecto:
+  yo: habré fallado
+  tu: habrás fallado
+  vos: habrás fallado
+  ud: habrá fallado
+  nosotros: habremos fallado
+  vosotros: habréis fallado
+  uds: habrán fallado
+condicional-perfecto:
+  yo: habría fallado
+  tu: habrías fallado
+  vos: habrías fallado
+  ud: habría fallado
+  nosotros: habríamos fallado
+  vosotros: habríais fallado
+  uds: habrían fallado
+presente-subjuntivo:
+  yo: falle
+  tu: falles
+  vos: falles
+  ud: falle
+  nosotros: fallemos
+  vosotros: falléis
+  uds: fallen
+preterito-perfecto-subjuntivo:
+  yo: haya fallado
+  tu: hayas fallado
+  vos: hayas fallado
+  ud: haya fallado
+  nosotros: hayamos fallado
+  vosotros: hayáis fallado
+  uds: hayan fallado
+imperfecto-subjuntivo:
+  yo:
+    - fallara
+    - fallase
+  tu:
+    - fallaras
+    - fallases
+  vos:
+    - fallaras
+    - fallases
+  ud:
+    - fallara
+    - fallase
+  nosotros:
+    - falláramos
+    - fallásemos
+  vosotros:
+    - fallarais
+    - fallaseis
+  uds:
+    - fallaran
+    - fallasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fallado
+    - hubiese fallado
+  tu:
+    - hubieras fallado
+    - hubieses fallado
+  vos:
+    - hubieras fallado
+    - hubieses fallado
+  ud:
+    - hubiera fallado
+    - hubiese fallado
+  nosotros:
+    - hubiéramos fallado
+    - hubiésemos fallado
+  vosotros:
+    - hubierais fallado
+    - hubieseis fallado
+  uds:
+    - hubieran fallado
+    - hubiesen fallado
+imperativo:
+  tu: falla
+  vos: fallá
+  ud: falle
+  nosotros: fallemos
+  vosotros: fallad
+  uds: fallen

@@ -1,0 +1,142 @@
+infinitivo: trocar
+gerundio: trocando
+participio-pasado: trocado
+presente-indicativo:
+  yo: troco
+  tu: trocas
+  vos: trocas
+  ud: troca
+  nosotros: trocamos
+  vosotros: trocáis
+  uds: trocan
+preterito-perfecto-simple:
+  yo: troqué
+  tu: trocaste
+  vos: trocaste
+  ud: trocó
+  nosotros: trocamos
+  vosotros: trocasteis
+  uds: trocaron
+preterito-imperfecto:
+  yo: trocaba
+  tu: trocabas
+  vos: trocabas
+  ud: trocaba
+  nosotros: trocábamos
+  vosotros: trocabais
+  uds: trocaban
+futuro-simple:
+  yo: trocaré
+  tu: trocarás
+  vos: trocarás
+  ud: trocará
+  nosotros: trocaremos
+  vosotros: trocaréis
+  uds: trocarán
+condicional-simple:
+  yo: trocaría
+  tu: trocarías
+  vos: trocarías
+  ud: trocaría
+  nosotros: trocaríamos
+  vosotros: trocaríais
+  uds: trocarían
+presente-perfecto:
+  yo: he trocado
+  tu: has trocado
+  vos: has trocado
+  ud: ha trocado
+  nosotros: hemos trocado
+  vosotros: habéis trocado
+  uds: han trocado
+preterito-pluscuamperfecto:
+  yo: había trocado
+  tu: habías trocado
+  vos: habías trocado
+  ud: había trocado
+  nosotros: habíamos trocado
+  vosotros: habíais trocado
+  uds: habían trocado
+futuro-perfecto:
+  yo: habré trocado
+  tu: habrás trocado
+  vos: habrás trocado
+  ud: habrá trocado
+  nosotros: habremos trocado
+  vosotros: habréis trocado
+  uds: habrán trocado
+condicional-perfecto:
+  yo: habría trocado
+  tu: habrías trocado
+  vos: habrías trocado
+  ud: habría trocado
+  nosotros: habríamos trocado
+  vosotros: habríais trocado
+  uds: habrían trocado
+presente-subjuntivo:
+  yo: troque
+  tu: troques
+  vos: troques
+  ud: troque
+  nosotros: troquemos
+  vosotros: troquéis
+  uds: troquen
+preterito-perfecto-subjuntivo:
+  yo: haya trocado
+  tu: hayas trocado
+  vos: hayas trocado
+  ud: haya trocado
+  nosotros: hayamos trocado
+  vosotros: hayáis trocado
+  uds: hayan trocado
+imperfecto-subjuntivo:
+  yo:
+    - trocara
+    - trocase
+  tu:
+    - trocaras
+    - trocases
+  vos:
+    - trocaras
+    - trocases
+  ud:
+    - trocara
+    - trocase
+  nosotros:
+    - trocáramos
+    - trocásemos
+  vosotros:
+    - trocarais
+    - trocaseis
+  uds:
+    - trocaran
+    - trocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera trocado
+    - hubiese trocado
+  tu:
+    - hubieras trocado
+    - hubieses trocado
+  vos:
+    - hubieras trocado
+    - hubieses trocado
+  ud:
+    - hubiera trocado
+    - hubiese trocado
+  nosotros:
+    - hubiéramos trocado
+    - hubiésemos trocado
+  vosotros:
+    - hubierais trocado
+    - hubieseis trocado
+  uds:
+    - hubieran trocado
+    - hubiesen trocado
+imperativo:
+  tu: troca
+  vos: trocá
+  ud: troque
+  nosotros: troquemos
+  vosotros: trocad
+  uds: troquen

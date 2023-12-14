@@ -1,0 +1,142 @@
+infinitivo: perforar
+gerundio: perforando
+participio-pasado: perforado
+presente-indicativo:
+  yo: perforo
+  tu: perforas
+  vos: perforas
+  ud: perfora
+  nosotros: perforamos
+  vosotros: perforáis
+  uds: perforan
+preterito-perfecto-simple:
+  yo: perforé
+  tu: perforaste
+  vos: perforaste
+  ud: perforó
+  nosotros: perforamos
+  vosotros: perforasteis
+  uds: perforaron
+preterito-imperfecto:
+  yo: perforaba
+  tu: perforabas
+  vos: perforabas
+  ud: perforaba
+  nosotros: perforábamos
+  vosotros: perforabais
+  uds: perforaban
+futuro-simple:
+  yo: perforaré
+  tu: perforarás
+  vos: perforarás
+  ud: perforará
+  nosotros: perforaremos
+  vosotros: perforaréis
+  uds: perforarán
+condicional-simple:
+  yo: perforaría
+  tu: perforarías
+  vos: perforarías
+  ud: perforaría
+  nosotros: perforaríamos
+  vosotros: perforaríais
+  uds: perforarían
+presente-perfecto:
+  yo: he perforado
+  tu: has perforado
+  vos: has perforado
+  ud: ha perforado
+  nosotros: hemos perforado
+  vosotros: habéis perforado
+  uds: han perforado
+preterito-pluscuamperfecto:
+  yo: había perforado
+  tu: habías perforado
+  vos: habías perforado
+  ud: había perforado
+  nosotros: habíamos perforado
+  vosotros: habíais perforado
+  uds: habían perforado
+futuro-perfecto:
+  yo: habré perforado
+  tu: habrás perforado
+  vos: habrás perforado
+  ud: habrá perforado
+  nosotros: habremos perforado
+  vosotros: habréis perforado
+  uds: habrán perforado
+condicional-perfecto:
+  yo: habría perforado
+  tu: habrías perforado
+  vos: habrías perforado
+  ud: habría perforado
+  nosotros: habríamos perforado
+  vosotros: habríais perforado
+  uds: habrían perforado
+presente-subjuntivo:
+  yo: perfore
+  tu: perfores
+  vos: perfores
+  ud: perfore
+  nosotros: perforemos
+  vosotros: perforéis
+  uds: perforén
+preterito-perfecto-subjuntivo:
+  yo: haya perforado
+  tu: hayas perforado
+  vos: hayas perforado
+  ud: haya perforado
+  nosotros: hayamos perforado
+  vosotros: hayáis perforado
+  uds: hayan perforado
+imperfecto-subjuntivo:
+  yo:
+    - perforara
+    - perforase
+  tu:
+    - perforaras
+    - perforases
+  vos:
+    - perforaras
+    - perforases
+  ud:
+    - perforara
+    - perforase
+  nosotros:
+    - perforáramos
+    - perforásemos
+  vosotros:
+    - perforarais
+    - perforaseis
+  uds:
+    - perforaran
+    - perforasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera perforado
+    - hubiese perforado
+  tu:
+    - hubieras perforado
+    - hubieses perforado
+  vos:
+    - hubieras perforado
+    - hubieses perforado
+  ud:
+    - hubiera perforado
+    - hubiese perforado
+  nosotros:
+    - hubiéramos perforado
+    - hubiésemos perforado
+  vosotros:
+    - hubierais perforado
+    - hubieseis perforado
+  uds:
+    - hubieran perforado
+    - hubiesen perforado
+imperativo:
+  tu: perfora
+  vos: perfo
+  ud: perfore
+  nosotros: perforemos
+  vosotros: perforad
+  uds: perforén

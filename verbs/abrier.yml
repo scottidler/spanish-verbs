@@ -1,0 +1,142 @@
+infinitivo: abrier
+gerundio: abriendo
+participio-pasado: abierto
+presente-indicativo:
+  yo: abro
+  tu: abres
+  vos: abrís
+  ud: abre
+  nosotros: abrimos
+  vosotros: abrís
+  uds: abren
+preterito-perfecto-simple:
+  yo: abrí
+  tu: abriste
+  vos: abriste
+  ud: abrió
+  nosotros: abrimos
+  vosotros: abristeis
+  uds: abrieron
+preterito-imperfecto:
+  yo: abría
+  tu: abrías
+  vos: abrías
+  ud: abría
+  nosotros: abríamos
+  vosotros: abríais
+  uds: abrían
+futuro-simple:
+  yo: abriré
+  tu: abrirás
+  vos: abrirás
+  ud: abrirá
+  nosotros: abriremos
+  vosotros: abriréis
+  uds: abrirán
+condicional-simple:
+  yo: abriría
+  tu: abrirías
+  vos: abrirías
+  ud: abriría
+  nosotros: abriríamos
+  vosotros: abriríais
+  uds: abrirían
+presente-perfecto:
+  yo: he abierto
+  tu: has abierto
+  vos: has abierto
+  ud: ha abierto
+  nosotros: hemos abierto
+  vosotros: habéis abierto
+  uds: han abierto
+preterito-pluscuamperfecto:
+  yo: había abierto
+  tu: habías abierto
+  vos: habías abierto
+  ud: había abierto
+  nosotros: habíamos abierto
+  vosotros: habíais abierto
+  uds: habían abierto
+futuro-perfecto:
+  yo: habré abierto
+  tu: habrás abierto
+  vos: habrás abierto
+  ud: habrá abierto
+  nosotros: habremos abierto
+  vosotros: habréis abierto
+  uds: habrán abierto
+condicional-perfecto:
+  yo: habría abierto
+  tu: habrías abierto
+  vos: habrías abierto
+  ud: habría abierto
+  nosotros: habríamos abierto
+  vosotros: habríais abierto
+  uds: habrían abierto
+presente-subjuntivo:
+  yo: abra
+  tu: abras
+  vos: abras
+  ud: abra
+  nosotros: abramos
+  vosotros: abráis
+  uds: abran
+preterito-perfecto-subjuntivo:
+  yo: haya abierto
+  tu: hayas abierto
+  vos: hayas abierto
+  ud: haya abierto
+  nosotros: hayamos abierto
+  vosotros: hayáis abierto
+  uds: hayan abierto
+imperfecto-subjuntivo:
+  yo:
+    - abriera
+    - abriese
+  tu:
+    - abrieras
+    - abrieses
+  vos:
+    - abrieras
+    - abrieses
+  ud:
+    - abriera
+    - abriese
+  nosotros:
+    - abriéramos
+    - abriésemos
+  vosotros:
+    - abrierais
+    - abrieseis
+  uds:
+    - abrieran
+    - abriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera abierto
+    - hubiese abierto
+  tu:
+    - hubieras abierto
+    - hubieses abierto
+  vos:
+    - hubieras abierto
+    - hubieses abierto
+  ud:
+    - hubiera abierto
+    - hubiese abierto
+  nosotros:
+    - hubiéramos abierto
+    - hubiésemos abierto
+  vosotros:
+    - hubierais abierto
+    - hubieseis abierto
+  uds:
+    - hubieran abierto
+    - hubiesen abierto
+imperativo:
+  tu: abre
+  vos: abrí
+  ud: abra
+  nosotros: abramos
+  vosotros: abrid
+  uds: abran

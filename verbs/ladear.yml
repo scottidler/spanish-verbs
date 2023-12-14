@@ -1,0 +1,143 @@
+infinitivo: ladear
+gerundio: ladeando
+participio-pasado: ladeado
+presente-indicativo:
+  yo: ladeo
+  tu: ladeas
+  vos: ladeás
+  ud: ladea
+  nosotros: ladeamos
+  vosotros: ladeáis
+  uds: ladean
+preterito-perfecto-simple:
+  yo: ladeé
+  tu: ladeaste
+  vos: ladeaste
+  ud: ladeó
+  nosotros: ladeamos
+  vosotros: ladeasteis
+  uds: ladearon
+preterito-imperfecto:
+  yo: ladeaba
+  tu: ladeabas
+  vos: ladeabas
+  ud: ladeaba
+  nosotros: ladeábamos
+  vosotros: ladeabais
+  uds: ladeaban
+futuro-simple:
+  yo: ladearé
+  tu: ladearás
+  vos: ladearás
+  ud: ladeará
+  nosotros: ladearemos
+  vosotros: ladearéis
+  uds: ladearán
+condicional-simple:
+  yo: ladearía
+  tu: ladearías
+  vos: ladearías
+  ud: ladearía
+  nosotros: ladearíamos
+  vosotros: ladearíais
+  uds: ladearían
+presente-perfecto:
+  yo: he ladeado
+  tu: has ladeado
+  vos: has ladeado
+  ud: ha ladeado
+  nosotros: hemos ladeado
+  vosotros: habéis ladeado
+  uds: han ladeado
+preterito-pluscuamperfecto:
+  yo: había ladeado
+  tu: habías ladeado
+  vos: habías ladeado
+  ud: había ladeado
+  nosotros: habíamos ladeado
+  vosotros: habíais ladeado
+  uds: habían ladeado
+futuro-perfecto:
+  yo: habré ladeado
+  tu: habrás ladeado
+  vos: habrás ladeado
+  ud: habrá ladeado
+  nosotros: habremos ladeado
+  vosotros: habréis ladeado
+  uds: habrán ladeado
+condicional-perfecto:
+  yo: habría ladeado
+  tu: habrías ladeado
+  vos: habrías ladeado
+  ud: habría ladeado
+  nosotros: habríamos ladeado
+  vosotros: habríais ladeado
+  uds: habrían ladeado
+presente-subjuntivo:
+  yo: ladee
+  tu: ladees
+  vos: ladees
+  ud: ladee
+  nosotros: ladeemos
+  vosotros: ladeéis
+  uds: ladeen
+preterito-perfecto-subjuntivo:
+  yo: haya ladeado
+  tu: hayas ladeado
+  vos: hayas ladeado
+  ud: haya ladeado
+  nosotros: hayamos ladeado
+  vosotros: hayáis ladeado
+  uds: hayan ladeado
+imperfecto-subjuntivo:
+  yo:
+    - ladease
+    - ladeara
+  tu:
+    - ladeases
+    - ladeabas
+  vos:
+    - ladeases
+    - ladeabas
+  ud:
+    - ladease
+    - ladeara
+  nosotros:
+    - ladeásemos
+    - ladeáramos
+  vosotros:
+    - ladeaseis
+    - ladeabais
+  uds:
+    - ladeasen
+    - ladeaban
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ladeado
+    - hubiese ladeado
+  tu:
+    - hubieras ladeado
+    - hubieses ladeado
+  vos:
+    - hubieras ladeado
+    - hubieses ladeado
+  ud:
+    - hubiera ladeado
+    - hubiese ladeado
+  nosotros:
+    - hubiéramos ladeado
+    - hubiésemos ladeado
+  vosotros:
+    - hubierais ladeado
+    - hubieseis ladeado
+  uds:
+    - hubieran ladeado
+    - hubiesen ladeado
+imperativo:
+  tu: ladea
+  vos: ladeá
+  ud: ladee
+  nosotros: ladeemos
+  vosotros: ladead
+  uds: ladeen
+

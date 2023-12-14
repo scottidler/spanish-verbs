@@ -1,0 +1,142 @@
+infinitivo: pisotear
+gerundio: pisoteando
+participio-pasado: pisoteado
+presente-indicativo:
+  yo: piso!teo
+  tu: piso!teas
+  vos: piso!teas
+  ud: piso!tea
+  nosotros: piso!teamos
+  vosotros: piso!teais
+  uds: piso!tean
+preterito-perfecto-simple:
+  yo: piso!teé
+  tu: piso!teaste
+  vos: piso!teaste
+  ud: piso!teó
+  nosotros: piso!teamos
+  vosotros: piso!teasteis
+  uds: piso!tearon
+preterito-imperfecto:
+  yo: piso!teaba
+  tu: piso!teabas
+  vos: piso!teabas
+  ud: piso!teaba
+  nosotros: piso!teábamos
+  vosotros: piso!teabais
+  uds: piso!teaban
+futuro-simple:
+  yo: piso!tearé
+  tu: piso!tearás
+  vos: piso!tearás
+  ud: piso!teará
+  nosotros: piso!tearemos
+  vosotros: piso!tearéis
+  uds: piso!tearán
+condicional-simple:
+  yo: piso!tearía
+  tu: piso!tearías
+  vos: piso!tearías
+  ud: piso!tearía
+  nosotros: piso!tearíamos
+  vosotros: piso!tearíais
+  uds: piso!tearían
+presente-perfecto:
+  yo: he pisoteado
+  tu: has pisoteado
+  vos: has pisoteado
+  ud: ha pisoteado
+  nosotros: hemos pisoteado
+  vosotros: habéis pisoteado
+  uds: han pisoteado
+preterito-pluscuamperfecto:
+  yo: había pisoteado
+  tu: habías pisoteado
+  vos: habías pisoteado
+  ud: había pisoteado
+  nosotros: habíamos pisoteado
+  vosotros: habíais pisoteado
+  uds: habían pisoteado
+futuro-perfecto:
+  yo: habré pisoteado
+  tu: habrás pisoteado
+  vos: habrás pisoteado
+  ud: habrá pisoteado
+  nosotros: habremos pisoteado
+  vosotros: habréis pisoteado
+  uds: habrán pisoteado
+condicional-perfecto:
+  yo: habría pisoteado
+  tu: habrías pisoteado
+  vos: habrías pisoteado
+  ud: habría pisoteado
+  nosotros: habríamos pisoteado
+  vosotros: habríais pisoteado
+  uds: habrían pisoteado
+presente-subjuntivo:
+  yo: pise
+  tu: pises
+  vos: pises
+  ud: pise
+  nosotros: pisemos
+  vosotros: pisoteáis
+  uds: pisen
+preterito-perfecto-subjuntivo:
+  yo: haya pisoteado
+  tu: hayas pisoteado
+  vos: hayas pisoteado
+  ud: haya pisoteado
+  nosotros: hayamos pisoteado
+  vosotros: hayáis pisoteado
+  uds: hayan pisoteado
+imperfecto-subjuntivo:
+  yo:
+    - pisoteara
+    - pisotease
+  tu:
+    - pisotearas
+    - pisoteases
+  vos:
+    - pisotearas
+    - pisoteases
+  ud:
+    - pisoteara
+    - pisotease
+  nosotros:
+    - pisoteáramos
+    - pisoteásemos
+  vosotros:
+    - pisotearais
+    - pisoteaseis
+  uds:
+    - pisotearan
+    - pisoteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pisoteado
+    - hubiese pisoteado
+  tu:
+    - hubieras pisoteado
+    - hubieses pisoteado
+  vos:
+    - hubieras pisoteado
+    - hubieses pisoteado
+  ud:
+    - hubiera pisoteado
+    - hubiese pisoteado
+  nosotros:
+    - hubiéramos pisoteado
+    - hubiésemos pisoteado
+  vosotros:
+    - hubierais pisoteado
+    - hubieseis pisoteado
+  uds:
+    - hubieran pisoteado
+    - hubiesen pisoteado
+imperativo:
+  tu: pisa
+  vos: pisoteá
+  ud: pise
+  nosotros: pisemos
+  vosotros: pisotead
+  uds: pisen

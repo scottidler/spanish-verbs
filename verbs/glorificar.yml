@@ -1,0 +1,142 @@
+infinitivo: glorificar
+gerundio: glorificando
+participio-pasado: glorificado
+presente-indicativo:
+  yo: glorifico
+  tu: glorificas
+  vos: glorificas
+  ud: glorifica
+  nosotros: glorificamos
+  vosotros: glorificáis
+  uds: glorifican
+preterito-perfecto-simple:
+  yo: glorifiqué
+  tu: glorificaste
+  vos: glorificaste
+  ud: glorificó
+  nosotros: glorificamos
+  vosotros: glorificasteis
+  uds: glorificaron
+preterito-imperfecto:
+  yo: glorificaba
+  tu: glorificabas
+  vos: glorificabas
+  ud: glorificaba
+  nosotros: glorificábamos
+  vosotros: glorificabais
+  uds: glorificaban
+futuro-simple:
+  yo: glorificaré
+  tu: glorificarás
+  vos: glorificarás
+  ud: glorificará
+  nosotros: glorificaremos
+  vosotros: glorificaréis
+  uds: glorificarán
+condicional-simple:
+  yo: glorificaría
+  tu: glorificarías
+  vos: glorificarías
+  ud: glorificaría
+  nosotros: glorificaríamos
+  vosotros: glorificaríais
+  uds: glorificarían
+presente-perfecto:
+  yo: he glorificado
+  tu: has glorificado
+  vos: has glorificado
+  ud: ha glorificado
+  nosotros: hemos glorificado
+  vosotros: habéis glorificado
+  uds: han glorificado
+preterito-pluscuamperfecto:
+  yo: había glorificado
+  tu: habías glorificado
+  vos: habías glorificado
+  ud: había glorificado
+  nosotros: habíamos glorificado
+  vosotros: habíais glorificado
+  uds: habían glorificado
+futuro-perfecto:
+  yo: habré glorificado
+  tu: habrás glorificado
+  vos: habrás glorificado
+  ud: habrá glorificado
+  nosotros: habremos glorificado
+  vosotros: habréis glorificado
+  uds: habrán glorificado
+condicional-perfecto:
+  yo: habría glorificado
+  tu: habrías glorificado
+  vos: habrías glorificado
+  ud: habría glorificado
+  nosotros: habríamos glorificado
+  vosotros: habríais glorificado
+  uds: habrían glorificado
+presente-subjuntivo:
+  yo: glorifique
+  tu: glorifiques
+  vos: glorifiques
+  ud: glorifique
+  nosotros: glorifiquemos
+  vosotros: glorifiquéis
+  uds: glorifiquen
+preterito-perfecto-subjuntivo:
+  yo: haya glorificado
+  tu: hayas glorificado
+  vos: hayas glorificado
+  ud: haya glorificado
+  nosotros: hayamos glorificado
+  vosotros: hayáis glorificado
+  uds: hayan glorificado
+imperfecto-subjuntivo:
+  yo:
+    - glorificara
+    - glorificase
+  tu:
+    - glorificaras
+    - glorificases
+  vos:
+    - glorificaras
+    - glorificases
+  ud:
+    - glorificara
+    - glorificase
+  nosotros:
+    - glorificáramos
+    - glorificásemos
+  vosotros:
+    - glorificarais
+    - glorificaseis
+  uds:
+    - glorificaran
+    - glorificasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera glorificado
+    - hubiese glorificado
+  tu:
+    - hubieras glorificado
+    - hubieses glorificado
+  vos:
+    - hubieras glorificado
+    - hubieses glorificado
+  ud:
+    - hubiera glorificado
+    - hubiese glorificado
+  nosotros:
+    - hubiéramos glorificado
+    - hubiésemos glorificado
+  vosotros:
+    - hubierais glorificado
+    - hubieseis glorificado
+  uds:
+    - hubieran glorificado
+    - hubiesen glorificado
+imperativo:
+  tu: glorifica
+  vos: glorificá
+  ud: glorifique
+  nosotros: glorifiquemos
+  vosotros: glorificad
+  uds: glorifiquen

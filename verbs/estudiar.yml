@@ -1,0 +1,142 @@
+infinitivo: estudiar
+gerundio: estudiando
+participio-pasado: estudiado
+presente-indicativo:
+  yo: estudio
+  tu: estudias
+  vos: estudias
+  ud: estudia
+  nosotros: estudiamos
+  vosotros: estudiáis
+  uds: estudian
+preterito-perfecto-simple:
+  yo: estudié
+  tu: estudiaste
+  vos: estudiaste
+  ud: estudió
+  nosotros: estudiamos
+  vosotros: estudiasteis
+  uds: estudiaron
+preterito-imperfecto:
+  yo: estudiaba
+  tu: estudiabas
+  vos: estudiabas
+  ud: estudiaba
+  nosotros: estudiábamos
+  vosotros: estudiabais
+  uds: estudiaban
+futuro-simple:
+  yo: estudiaré
+  tu: estudiarás
+  vos: estudiarás
+  ud: estudiará
+  nosotros: estudiaremos
+  vosotros: estudiaréis
+  uds: estudiarán
+condicional-simple:
+  yo: estudiaría
+  tu: estudiarías
+  vos: estudiarías
+  ud: estudiaría
+  nosotros: estudiaríamos
+  vosotros: estudiaríais
+  uds: estudiarían
+presente-perfecto:
+  yo: he estudiado
+  tu: has estudiado
+  vos: has estudiado
+  ud: ha estudiado
+  nosotros: hemos estudiado
+  vosotros: habéis estudiado
+  uds: han estudiado
+preterito-pluscuamperfecto:
+  yo: había estudiado
+  tu: habías estudiado
+  vos: habías estudiado
+  ud: había estudiado
+  nosotros: habíamos estudiado
+  vosotros: habíais estudiado
+  uds: habían estudiado
+futuro-perfecto:
+  yo: habré estudiado
+  tu: habrás estudiado
+  vos: habrás estudiado
+  ud: habrá estudiado
+  nosotros: habremos estudiado
+  vosotros: habréis estudiado
+  uds: habrán estudiado
+condicional-perfecto:
+  yo: habría estudiado
+  tu: habrías estudiado
+  vos: habrías estudiado
+  ud: habría estudiado
+  nosotros: habríamos estudiado
+  vosotros: habríais estudiado
+  uds: habrían estudiado
+presente-subjuntivo:
+  yo: estudie
+  tu: estudies
+  vos: estudies
+  ud: estudie
+  nosotros: estudiemos
+  vosotros: estudiéis
+  uds: estudien
+preterito-perfecto-subjuntivo:
+  yo: haya estudiado
+  tu: hayas estudiado
+  vos: hayas estudiado
+  ud: haya estudiado
+  nosotros: hayamos estudiado
+  vosotros: hayáis estudiado
+  uds: hayan estudiado
+imperfecto-subjuntivo:
+  yo:
+    - estudiara
+    - estudiase
+  tu:
+    - estudiaras
+    - estudiases
+  vos:
+    - estudiaras
+    - estudiases
+  ud:
+    - estudiara
+    - estudiase
+  nosotros:
+    - estudiáramos
+    - estudiásemos
+  vosotros:
+    - estudiarais
+    - estudieseis
+  uds:
+    - estudiaran
+    - estudiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera estudiado
+    - hubiese estudiado
+  tu:
+    - hubieras estudiado
+    - hubieses estudiado
+  vos:
+    - hubieras estudiado
+    - hubieses estudiado
+  ud:
+    - hubiera estudiado
+    - hubiese estudiado
+  nosotros:
+    - hubiéramos estudiado
+    - hubiésemos estudiado
+  vosotros:
+    - hubierais estudiado
+    - hubieseis estudiado
+  uds:
+    - hubieran estudiado
+    - hubiesen estudiado
+imperativo:
+  tu: estudia
+  vos: estudiá
+  ud: estudie
+  nosotros: estudiemos
+  vosotros: estudiad
+  uds: estudien

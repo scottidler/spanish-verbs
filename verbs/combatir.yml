@@ -1,0 +1,142 @@
+infinitivo: combatir
+gerundio: combatiendo
+participio-pasado: combatido
+presente-indicativo:
+  yo: combato
+  tu: combates
+  vos: combates
+  ud: combate
+  nosotros: combatimos
+  vosotros: combatís
+  uds: combaten
+preterito-perfecto-simple:
+  yo: combatí
+  tu: combatiste
+  vos: combatiste
+  ud: combatió
+  nosotros: combatimos
+  vosotros: combatisteis
+  uds: combatieron
+preterito-imperfecto:
+  yo: combatía
+  tu: combatías
+  vos: combatías
+  ud: combatía
+  nosotros: combatíamos
+  vosotros: combatíais
+  uds: combatían
+futuro-simple:
+  yo: combatiré
+  tu: combatirás
+  vos: combatirás
+  ud: combatirá
+  nosotros: combatiremos
+  vosotros: combatiréis
+  uds: combatirán
+condicional-simple:
+  yo: combatiría
+  tu: combatirías
+  vos: combatirías
+  ud: combatiría
+  nosotros: combatiríamos
+  vosotros: combatiríais
+  uds: combatirían
+presente-perfecto:
+  yo: he combatido
+  tu: has combatido
+  vos: has combatido
+  ud: ha combatido
+  nosotros: hemos combatido
+  vosotros: habéis combatido
+  uds: han combatido
+preterito-pluscuamperfecto:
+  yo: había combatido
+  tu: habías combatido
+  vos: habías combatido
+  ud: había combatido
+  nosotros: habíamos combatido
+  vosotros: habíais combatido
+  uds: habían combatido
+futuro-perfecto:
+  yo: habré combatido
+  tu: habrás combatido
+  vos: habrás combatido
+  ud: habrá combatido
+  nosotros: habremos combatido
+  vosotros: habréis combatido
+  uds: habrán combatido
+condicional-perfecto:
+  yo: habría combatido
+  tu: habrías combatido
+  vos: habrías combatido
+  ud: habría combatido
+  nosotros: habríamos combatido
+  vosotros: habríais combatido
+  uds: habrían combatido
+presente-subjuntivo:
+  yo: combata
+  tu: combatas
+  vos: combatas
+  ud: combata
+  nosotros: combatamos
+  vosotros: combatáis
+  uds: combatan
+preterito-perfecto-subjuntivo:
+  yo: haya combatido
+  tu: hayas combatido
+  vos: hayas combatido
+  ud: haya combatido
+  nosotros: hayamos combatido
+  vosotros: hayáis combatido
+  uds: hayan combatido
+imperfecto-subjuntivo:
+  yo:
+    - combatiera
+    - combatiere
+  tu:
+    - combatieras
+    - combatiéres
+  vos:
+    - combatieras
+    - combatiéres
+  ud:
+    - combatiera
+    - combatiere
+  nosotros:
+    - combatiéramos
+    - combatiéremos
+  vosotros:
+    - combatierais
+    - combatiéreis
+  uds:
+    - combatieran
+    - combatieren
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera combatido
+    - hubiese combatido
+  tu:
+    - hubieras combatido
+    - hubieses combatido
+  vos:
+    - hubieras combatido
+    - hubieses combatido
+  ud:
+    - hubiera combatido
+    - hubiese combatido
+  nosotros:
+    - hubiéramos combatido
+    - hubiésemos combatido
+  vosotros:
+    - hubierais combatido
+    - hubieseis combatido
+  uds:
+    - hubieran combatido
+    - hubiesen combatido
+imperativo:
+  tu: combate
+  vos: combatí
+  ud: combata
+  nosotros: combatamos
+  vosotros: combatid
+  uds: combatan

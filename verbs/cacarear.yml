@@ -1,0 +1,142 @@
+infinitivo: cacarear
+gerundio: cacareando
+participio-pasado: cacareado
+presente-indicativo:
+  yo: cacareo
+  tu: cacareas
+  vos: cacareás
+  ud: cacarea
+  nosotros: cacareamos
+  vosotros: cacareáis
+  uds: cacarean
+preterito-perfecto-simple:
+  yo: cacareé
+  tu: cacareaste
+  vos: cacareaste
+  ud: cacareó
+  nosotros: cacareamos
+  vosotros: cacareasteis
+  uds: cacarearon
+preterito-imperfecto:
+  yo: cacareaba
+  tu: cacareabas
+  vos: cacareabas
+  ud: cacareaba
+  nosotros: cacareábamos
+  vosotros: cacareabais
+  uds: cacareaban
+futuro-simple:
+  yo: cacarearé
+  tu: cacarearás
+  vos: cacarearás
+  ud: cacareará
+  nosotros: cacarearemos
+  vosotros: cacarearéis
+  uds: cacarearán
+condicional-simple:
+  yo: cacarearía
+  tu: cacarearías
+  vos: cacarearías
+  ud: cacarearía
+  nosotros: cacarearíamos
+  vosotros: cacarearíais
+  uds: cacarearían
+presente-perfecto:
+  yo: he cacareado
+  tu: has cacareado
+  vos: has cacareado
+  ud: ha cacareado
+  nosotros: hemos cacareado
+  vosotros: habéis cacareado
+  uds: han cacareado
+preterito-pluscuamperfecto:
+  yo: había cacareado
+  tu: habías cacareado
+  vos: habías cacareado
+  ud: había cacareado
+  nosotros: habíamos cacareado
+  vosotros: habíais cacareado
+  uds: habían cacareado
+futuro-perfecto:
+  yo: habré cacareado
+  tu: habrás cacareado
+  vos: habrás cacareado
+  ud: habrá cacareado
+  nosotros: habremos cacareado
+  vosotros: habréis cacareado
+  uds: habrán cacareado
+condicional-perfecto:
+  yo: habría cacareado
+  tu: habrías cacareado
+  vos: habrías cacareado
+  ud: habría cacareado
+  nosotros: habríamos cacareado
+  vosotros: habríais cacareado
+  uds: habrían cacareado
+presente-subjuntivo:
+  yo: cacaree
+  tu: cacarees
+  vos: cacareés
+  ud: cacaree
+  nosotros: cacareemos
+  vosotros: cacareéis
+  uds: cacareen
+preterito-perfecto-subjuntivo:
+  yo: haya cacareado
+  tu: hayas cacareado
+  vos: hayas cacareado
+  ud: haya cacareado
+  nosotros: hayamos cacareado
+  vosotros: hayáis cacareado
+  uds: hayan cacareado
+imperfecto-subjuntivo:
+  yo:
+    - cacareara
+    - cacarease
+  tu:
+    - cacarearas
+    - cacareases
+  vos:
+    - cacarearas
+    - cacareases
+  ud:
+    - cacareara
+    - cacarease
+  nosotros:
+    - cacareáramos
+    - cacareásemos
+  vosotros:
+    - cacarearais
+    - cacareaseis
+  uds:
+    - cacarearan
+    - cacareasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cacareado
+    - hubiese cacareado
+  tu:
+    - hubieras cacareado
+    - hubieses cacareado
+  vos:
+    - hubieras cacareado
+    - hubieses cacareado
+  ud:
+    - hubiera cacareado
+    - hubiese cacareado
+  nosotros:
+    - hubiéramos cacareado
+    - hubiésemos cacareado
+  vosotros:
+    - hubierais cacareado
+    - hubieseis cacareado
+  uds:
+    - hubieran cacareado
+    - hubiesen cacareado
+imperativo:
+  tu: cacarea
+  vos: cacareá
+  ud: cacaree
+  nosotros: cacareemos
+  vosotros: cacaread
+  uds: cacareen

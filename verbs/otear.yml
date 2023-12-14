@@ -1,0 +1,142 @@
+infinitivo: otear
+gerundio: oteando
+participio-pasado: oteado
+presente-indicativo:
+  yo: oteo
+  tu: oteas
+  vos: oteas
+  ud: otea
+  nosotros: oteamos
+  vosotros: oteáis
+  uds: otean
+preterito-perfecto-simple:
+  yo: oteé
+  tu: oteaste
+  vos: oteaste
+  ud: oteó
+  nosotros: oteamos
+  vosotros: oteasteis
+  uds: otearon
+preterito-imperfecto:
+  yo: oteaba
+  tu: oteabas
+  vos: oteabas
+  ud: oteaba
+  nosotros: oteábamos
+  vosotros: oteabais
+  uds: oteaban
+futuro-simple:
+  yo: otearé
+  tu: otearás
+  vos: otearás
+  ud: oteará
+  nosotros: otearemos
+  vosotros: otearéis
+  uds: otearán
+condicional-simple:
+  yo: otearía
+  tu: otearías
+  vos: otearías
+  ud: otearía
+  nosotros: otearíamos
+  vosotros: otearíais
+  uds: otearían
+presente-perfecto:
+  yo: he oteado
+  tu: has oteado
+  vos: has oteado
+  ud: ha oteado
+  nosotros: hemos oteado
+  vosotros: habéis oteado
+  uds: han oteado
+preterito-pluscuamperfecto:
+  yo: había oteado
+  tu: habías oteado
+  vos: habías oteado
+  ud: había oteado
+  nosotros: habíamos oteado
+  vosotros: habíais oteado
+  uds: habían oteado
+futuro-perfecto:
+  yo: habré oteado
+  tu: habrás oteado
+  vos: habrás oteado
+  ud: habrá oteado
+  nosotros: habremos oteado
+  vosotros: habréis oteado
+  uds: habrán oteado
+condicional-perfecto:
+  yo: habría oteado
+  tu: habrías oteado
+  vos: habrías oteado
+  ud: habría oteado
+  nosotros: habríamos oteado
+  vosotros: habríais oteado
+  uds: habrían oteado
+presente-subjuntivo:
+  yo: otee
+  tu: otees
+  vos: otees
+  ud: otee
+  nosotros: oteemos
+  vosotros: oteéis
+  uds: oteen
+preterito-perfecto-subjuntivo:
+  yo: haya oteado
+  tu: hayas oteado
+  vos: hayas oteado
+  ud: haya oteado
+  nosotros: hayamos oteado
+  vosotros: hayáis oteado
+  uds: hayan oteado
+imperfecto-subjuntivo:
+  yo:
+    - oteara
+    - otease
+  tu:
+    - otearas
+    - oteases
+  vos:
+    - otearas
+    - oteases
+  ud:
+    - oteara
+    - otease
+  nosotros:
+    - oteáramos
+    - oteásemos
+  vosotros:
+    - otearais
+    - oteaseis
+  uds:
+    - otearan
+    - oteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera oteado
+    - hubiese oteado
+  tu:
+    - hubieras oteado
+    - hubieses oteado
+  vos:
+    - hubieras oteado
+    - hubieses oteado
+  ud:
+    - hubiera oteado
+    - hubiese oteado
+  nosotros:
+    - hubiéramos oteado
+    - hubiésemos oteado
+  vosotros:
+    - hubierais oteado
+    - hubieseis oteado
+  uds:
+    - hubieran oteado
+    - hubiesen oteado
+imperativo:
+  tu: otea
+  vos: oteá
+  ud: otee
+  nosotros: oteemos
+  vosotros: otead
+  uds: oteen

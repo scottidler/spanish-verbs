@@ -1,0 +1,156 @@
+infinitivo: situarse
+gerundio: situándose
+participio-pasado: situado
+
+presente-indicativo:
+  yo: me sitúo
+  tu: te sitúas
+  vos: te sitúas
+  ud: se sitúa
+  nosotros: nos situamos
+  vosotros: os situáis
+  uds: se sitúan
+  
+preterito-perfecto-simple:
+  yo: me situé
+  tu: te situaste
+  vos: te situaste
+  ud: se situó
+  nosotros: nos situamos
+  vosotros: os situasteis
+  uds: se situaron
+  
+preterito-imperfecto:
+  yo: me situaba
+  tu: te situabas
+  vos: te situabas
+  ud: se situaba
+  nosotros: nos situábamos
+  vosotros: os situabais
+  uds: se situaban
+  
+futuro-simple:
+  yo: me situaré
+  tu: te situarás
+  vos: te situarás
+  ud: se situará
+  nosotros: nos situaremos
+  vosotros: os situaréis
+  uds: se situarán
+  
+condicional-simple:
+  yo: me situaría
+  tu: te situarías
+  vos: te situarías
+  ud: se situaría
+  nosotros: nos situaríamos
+  vosotros: os situaríais
+  uds: se situarían
+  
+presente-perfecto:
+  yo: me he situado
+  tu: te has situado
+  vos: te has situado
+  ud: se ha situado
+  nosotros: nos hemos situado
+  vosotros: os habéis situado
+  uds: se han situado
+  
+preterito-pluscuamperfecto:
+  yo: me había situado
+  tu: te habías situado
+  vos: te habías situado
+  ud: se había situado
+  nosotros: nos habíamos situado
+  vosotros: os habíais situado
+  uds: se habían situado
+  
+futuro-perfecto:
+  yo: me habré situado
+  tu: te habrás situado
+  vos: te habrás situado
+  ud: se habrá situado
+  nosotros: nos habremos situado
+  vosotros: os habréis situado
+  uds: se habrán situado
+  
+condicional-perfecto:
+  yo: me habría situado
+  tu: te habrías situado
+  vos: te habrías situado
+  ud: se habría situado
+  nosotros: nos habríamos situado
+  vosotros: os habríais situado
+  uds: se habrían situado
+  
+presente-subjuntivo:
+  yo: me sitúe
+  tu: te sitúes
+  vos: te sitúes
+  ud: se sitúe
+  nosotros: nos situemos
+  vosotros: os situéis
+  uds: se sitúen
+  
+preterito-perfecto-subjuntivo:
+  yo: me haya situado
+  tu: te hayas situado
+  vos: te hayas situado
+  ud: se haya situado
+  nosotros: nos hayamos situado
+  vosotros: os hayáis situado
+  uds: se hayan situado
+  
+imperfecto-subjuntivo:
+  yo:
+    - me situara
+    - me situase
+  tu:
+    - te situaras
+    - te situases
+  vos:
+    - te situaras
+    - te situases
+  ud:
+    - se situara
+    - se situase
+  nosotros:
+    - nos situáramos
+    - nos situásemos
+  vosotros:
+    - os situarais
+    - os situaseis
+  uds:
+    - se situaran
+    - se situasen
+  
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera situado
+    - me hubiese situado
+  tu:
+    - te hubieras situado
+    - te hubieses situado
+  vos:
+    - te hubieras situado
+    - te hubieses situado
+  ud:
+    - se hubiera situado
+    - se hubiese situado
+  nosotros:
+    - nos hubiéramos situado
+    - nos hubiésemos situado
+  vosotros:
+    - os hubierais situado
+    - os hubieseis situado
+  uds:
+    - se hubieran situado
+    - se hubiesen situado
+
+imperativo:
+  tu: sitúate
+  vos: sitúate
+  ud: siéntese
+  nosotros: situémonos
+  vosotros: sitúaos
+  uds: siéntense

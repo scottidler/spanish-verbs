@@ -1,0 +1,142 @@
+infinitivo: casar
+gerundio: casando
+participio-pasado: casado
+presente-indicativo:
+  yo: caso
+  tu: casas
+  vos: casas
+  ud: casa
+  nosotros: casamos
+  vosotros: casáis
+  uds: casan
+preterito-perfecto-simple:
+  yo: casé
+  tu: casaste
+  vos: casaste
+  ud: casó
+  nosotros: casamos
+  vosotros: casasteis
+  uds: casaron
+preterito-imperfecto:
+  yo: casaba
+  tu: casabas
+  vos: casabas
+  ud: casaba
+  nosotros: casábamos
+  vosotros: casabais
+  uds: casaban
+futuro-simple:
+  yo: casaré
+  tu: casarás
+  vos: casarás
+  ud: casará
+  nosotros: casaremos
+  vosotros: casaréis
+  uds: casarán
+condicional-simple:
+  yo: casaría
+  tu: casarías
+  vos: casarías
+  ud: casaría
+  nosotros: casaríamos
+  vosotros: casaríais
+  uds: casarían
+presente-perfecto:
+  yo: he casado
+  tu: has casado
+  vos: has casado
+  ud: ha casado
+  nosotros: hemos casado
+  vosotros: habéis casado
+  uds: han casado
+preterito-pluscuamperfecto:
+  yo: había casado
+  tu: habías casado
+  vos: habías casado
+  ud: había casado
+  nosotros: habíamos casado
+  vosotros: habíais casado
+  uds: habían casado
+futuro-perfecto:
+  yo: habré casado
+  tu: habrás casado
+  vos: habrás casado
+  ud: habrá casado
+  nosotros: habremos casado
+  vosotros: habréis casado
+  uds: habrán casado
+condicional-perfecto:
+  yo: habría casado
+  tu: habrías casado
+  vos: habrías casado
+  ud: habría casado
+  nosotros: habríamos casado
+  vosotros: habríais casado
+  uds: habrían casado
+presente-subjuntivo:
+  yo: case
+  tu: cases
+  vos: cases
+  ud: case
+  nosotros: casemos
+  vosotros: caséis
+  uds: casen
+preterito-perfecto-subjuntivo:
+  yo: haya casado
+  tu: hayas casado
+  vos: hayas casado
+  ud: haya casado
+  nosotros: hayamos casado
+  vosotros: hayáis casado
+  uds: hayan casado
+imperfecto-subjuntivo:
+  yo:
+    - casara
+    - casase
+  tu:
+    - casaras
+    - casases
+  vos:
+    - casaras
+    - casases
+  ud:
+    - casara
+    - casase
+  nosotros:
+    - casáramos
+    - casásemos
+  vosotros:
+    - casarais
+    - casaseis
+  uds:
+    - casaran
+    - casasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera casado
+    - hubiese casado
+  tu:
+    - hubieras casado
+    - hubieses casado
+  vos:
+    - hubieras casado
+    - hubieses casado
+  ud:
+    - hubiera casado
+    - hubiese casado
+  nosotros:
+    - hubiéramos casado
+    - hubiésemos casado
+  vosotros:
+    - hubierais casado
+    - hubieseis casado
+  uds:
+    - hubieran casado
+    - hubiesen casado
+imperativo:
+  tu: casa
+  vos: casá
+  ud: case
+  nosotros: casemos
+  vosotros: casad
+  uds: casen

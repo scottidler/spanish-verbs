@@ -1,0 +1,142 @@
+infinitivo: chupar
+gerundio: chupando
+participio-pasado: chupado
+presente-indicativo:
+  yo: chupo
+  tu: chupas
+  vos: chupas
+  ud: chupa
+  nosotros: chupamos
+  vosotros: chupáis
+  uds: chupan
+preterito-perfecto-simple:
+  yo: chupé
+  tu: chupaste
+  vos: chupaste
+  ud: chupó
+  nosotros: chupamos
+  vosotros: chupasteis
+  uds: chuparon
+preterito-imperfecto:
+  yo: chupaba
+  tu: chupabas
+  vos: chupabas
+  ud: chupaba
+  nosotros: chupábamos
+  vosotros: chupabais
+  uds: chupaban
+futuro-simple:
+  yo: chuparé
+  tu: chuparás
+  vos: chuparás
+  ud: chupará
+  nosotros: chuparemos
+  vosotros: chuparéis
+  uds: chuparán
+condicional-simple:
+  yo: chuparía
+  tu: chuparías
+  vos: chuparías
+  ud: chuparía
+  nosotros: chuparíamos
+  vosotros: chuparíais
+  uds: chuparían
+presente-perfecto:
+  yo: he chupado
+  tu: has chupado
+  vos: has chupado
+  ud: ha chupado
+  nosotros: hemos chupado
+  vosotros: habéis chupado
+  uds: han chupado
+preterito-pluscuamperfecto:
+  yo: había chupado
+  tu: habías chupado
+  vos: habías chupado
+  ud: había chupado
+  nosotros: habíamos chupado
+  vosotros: habíais chupado
+  uds: habían chupado
+futuro-perfecto:
+  yo: habré chupado
+  tu: habrás chupado
+  vos: habrás chupado
+  ud: habrá chupado
+  nosotros: habremos chupado
+  vosotros: habréis chupado
+  uds: habrán chupado
+condicional-perfecto:
+  yo: habría chupado
+  tu: habrías chupado
+  vos: habrías chupado
+  ud: habría chupado
+  nosotros: habríamos chupado
+  vosotros: habríais chupado
+  uds: habrían chupado
+presente-subjuntivo:
+  yo: chupe
+  tu: chupes
+  vos: chupes
+  ud: chupe
+  nosotros: chupemos
+  vosotros: chupéis
+  uds: chupen
+preterito-perfecto-subjuntivo:
+  yo: haya chupado
+  tu: hayas chupado
+  vos: hayas chupado
+  ud: haya chupado
+  nosotros: hayamos chupado
+  vosotros: hayáis chupado
+  uds: hayan chupado
+imperfecto-subjuntivo:
+  yo:
+    - chupara
+    - chupase
+  tu:
+    - chuparas
+    - chupases
+  vos:
+    - chuparas
+    - chupases
+  ud:
+    - chupara
+    - chupase
+  nosotros:
+    - chupáramos
+    - chupásemos
+  vosotros:
+    - chuparais
+    - chupaseis
+  uds:
+    - chuparan
+    - chupasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera chupado
+    - hubiese chupado
+  tu:
+    - hubieras chupado
+    - hubieses chupado
+  vos:
+    - hubieras chupado
+    - hubieses chupado
+  ud:
+    - hubiera chupado
+    - hubiese chupado
+  nosotros:
+    - hubiéramos chupado
+    - hubiésemos chupado
+  vosotros:
+    - hubierais chupado
+    - hubieseis chupado
+  uds:
+    - hubieran chupado
+    - hubiesen chupado
+imperativo:
+  tu: chupa
+  vos: chupá
+  ud: chupe
+  nosotros: chupemos
+  vosotros: chupad
+  uds: chupen

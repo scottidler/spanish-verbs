@@ -1,0 +1,142 @@
+infinitivo: manchar
+gerundio: manchando
+participio-pasado: manchado
+presente-indicativo:
+  yo: mancho
+  tu: manchas
+  vos: manchas
+  ud: mancha
+  nosotros: manchamos
+  vosotros: mancháis
+  uds: manchan
+preterito-perfecto-simple:
+  yo: manché
+  tu: manchaste
+  vos: manchaste
+  ud: manchó
+  nosotros: manchamos
+  vosotros: manchasteis
+  uds: mancharon
+preterito-imperfecto:
+  yo: manchaba
+  tu: manchabas
+  vos: manchabas
+  ud: manchaba
+  nosotros: manchábamos
+  vosotros: manchabais
+  uds: manchaban
+futuro-simple:
+  yo: mancharé
+  tu: mancharás
+  vos: mancharás
+  ud: manchará
+  nosotros: mancharemos
+  vosotros: mancharéis
+  uds: mancharán
+condicional-simple:
+  yo: mancharía
+  tu: mancharías
+  vos: mancharías
+  ud: mancharía
+  nosotros: mancharíamos
+  vosotros: mancharíais
+  uds: mancharían
+presente-perfecto:
+  yo: he manchado
+  tu: has manchado
+  vos: has manchado
+  ud: ha manchado
+  nosotros: hemos manchado
+  vosotros: habéis manchado
+  uds: han manchado
+preterito-pluscuamperfecto:
+  yo: había manchado
+  tu: habías manchado
+  vos: habías manchado
+  ud: había manchado
+  nosotros: habíamos manchado
+  vosotros: habíais manchado
+  uds: habían manchado
+futuro-perfecto:
+  yo: habré manchado
+  tu: habrás manchado
+  vos: habrás manchado
+  ud: habrá manchado
+  nosotros: habremos manchado
+  vosotros: habréis manchado
+  uds: habrán manchado
+condicional-perfecto:
+  yo: habría manchado
+  tu: habrías manchado
+  vos: habrías manchado
+  ud: habría manchado
+  nosotros: habríamos manchado
+  vosotros: habríais manchado
+  uds: habrían manchado
+presente-subjuntivo:
+  yo: manche
+  tu: manches
+  vos: manches
+  ud: manche
+  nosotros: manchemos
+  vosotros: manchéis
+  uds: manchen
+preterito-perfecto-subjuntivo:
+  yo: haya manchado
+  tu: hayas manchado
+  vos: hayas manchado
+  ud: haya manchado
+  nosotros: hayamos manchado
+  vosotros: hayáis manchado
+  uds: hayan manchado
+imperfecto-subjuntivo:
+  yo:
+    - manchara
+    - manchase
+  tu:
+    - mancharas
+    - manchases
+  vos:
+    - mancharas
+    - manchases
+  ud:
+    - manchara
+    - manchase
+  nosotros:
+    - mancháramos
+    - manchásemos
+  vosotros:
+    - mancharais
+    - manchaseis
+  uds:
+    - mancharan
+    - manchasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera manchado
+    - hubiese manchado
+  tu:
+    - hubieras manchado
+    - hubieses manchado
+  vos:
+    - hubieras manchado
+    - hubieses manchado
+  ud:
+    - hubiera manchado
+    - hubiese manchado
+  nosotros:
+    - hubiéramos manchado
+    - hubiésemos manchado
+  vosotros:
+    - hubierais manchado
+    - hubieseis manchado
+  uds:
+    - hubieran manchado
+    - hubiesen manchado
+imperativo:
+  tu: mancha
+  vos: manchá
+  ud: manche
+  nosotros: manchemos
+  vosotros: manchad
+  uds: manchen

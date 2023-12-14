@@ -1,0 +1,142 @@
+infinitivo: espiar
+gerundio: espiando
+participio-pasado: espiado
+presente-indicativo:
+  yo: espío
+  tu: espías
+  vos: espías
+  ud: espía
+  nosotros: espiamos
+  vosotros: espiáis
+  uds: espían
+preterito-perfecto-simple:
+  yo: espié
+  tu: espiaste
+  vos: espiaste
+  ud: espió
+  nosotros: espiamos
+  vosotros: espiasteis
+  uds: espiaron
+preterito-imperfecto:
+  yo: espiaba
+  tu: espiabas
+  vos: espiabas
+  ud: espiaba
+  nosotros: espiábamos
+  vosotros: espiabais
+  uds: espiaban
+futuro-simple:
+  yo: espiaré
+  tu: espiarás
+  vos: espiarás
+  ud: espiará
+  nosotros: espiaremos
+  vosotros: espiaréis
+  uds: espiarán
+condicional-simple:
+  yo: espiaría
+  tu: espiarías
+  vos: espiarías
+  ud: espiaría
+  nosotros: espiaríamos
+  vosotros: espiaríais
+  uds: espiarían
+presente-perfecto:
+  yo: he espiado
+  tu: has espiado
+  vos: has espiado
+  ud: ha espiado
+  nosotros: hemos espiado
+  vosotros: habéis espiado
+  uds: han espiado
+preterito-pluscuamperfecto:
+  yo: había espiado
+  tu: habías espiado
+  vos: habías espiado
+  ud: había espiado
+  nosotros: habíamos espiado
+  vosotros: habíais espiado
+  uds: habían espiado
+futuro-perfecto:
+  yo: habré espiado
+  tu: habrás espiado
+  vos: habrás espiado
+  ud: habrá espiado
+  nosotros: habremos espiado
+  vosotros: habréis espiado
+  uds: habrán espiado
+condicional-perfecto:
+  yo: habría espiado
+  tu: habrías espiado
+  vos: habrías espiado
+  ud: habría espiado
+  nosotros: habríamos espiado
+  vosotros: habríais espiado
+  uds: habrían espiado
+presente-subjuntivo:
+  yo: espíe
+  tu: espíes
+  vos: espíes
+  ud: espíe
+  nosotros: espíemos
+  vosotros: espiéis
+  uds: espíen
+preterito-perfecto-subjuntivo:
+  yo: haya espiado
+  tu: hayas espiado
+  vos: hayas espiado
+  ud: haya espiado
+  nosotros: hayamos espiado
+  vosotros: hayáis espiado
+  uds: hayan espiado
+imperfecto-subjuntivo:
+  yo:
+    - espiara
+    - espiase
+  tu:
+    - espiaras
+    - espiases
+  vos:
+    - espiaras
+    - espiases
+  ud:
+    - espiara
+    - espiase
+  nosotros:
+    - espiáramos
+    - espiásemos
+  vosotros:
+    - espiarais
+    - espiaseis
+  uds:
+    - espiaran
+    - espiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera espiado
+    - hubiese espiado
+  tu:
+    - hubieras espiado
+    - hubieses espiado
+  vos:
+    - hubieras espiado
+    - hubieses espiado
+  ud:
+    - hubiera espiado
+    - hubiese espiado
+  nosotros:
+    - hubiéramos espiado
+    - hubiésemos espiado
+  vosotros:
+    - hubierais espiado
+    - hubieseis espiado
+  uds:
+    - hubieran espiado
+    - hubiesen espiado
+imperativo:
+  tu: espía
+  vos: espiá
+  ud: espíe
+  nosotros: espíemos
+  vosotros: espíad
+  uds: espíen

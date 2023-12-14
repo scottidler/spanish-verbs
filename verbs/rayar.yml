@@ -1,0 +1,142 @@
+infinitivo: rayar
+gerundio: rayando
+participio-pasado: rayado
+presente-indicativo:
+  yo: rayo
+  tu: rayas
+  vos: rayas
+  ud: raya
+  nosotros: rayamos
+  vosotros: rayáis
+  uds: rayan
+preterito-perfecto-simple:
+  yo: rayé
+  tu: rayaste
+  vos: rayaste
+  ud: rayó
+  nosotros: rayamos
+  vosotros: rayasteis
+  uds: rayaron
+preterito-imperfecto:
+  yo: rayaba
+  tu: rayabas
+  vos: rayabas
+  ud: rayaba
+  nosotros: rayábamos
+  vosotros: rayabais
+  uds: rayaban
+futuro-simple:
+  yo: rayaré
+  tu: rayarás
+  vos: rayarás
+  ud: rayará
+  nosotros: rayaremos
+  vosotros: rayaréis
+  uds: rayarán
+condicional-simple:
+  yo: rayaría
+  tu: rayarías
+  vos: rayarías
+  ud: rayaría
+  nosotros: rayaríamos
+  vosotros: rayaríais
+  uds: rayarían
+presente-perfecto:
+  yo: he rayado
+  tu: has rayado
+  vos: has rayado
+  ud: ha rayado
+  nosotros: hemos rayado
+  vosotros: habéis rayado
+  uds: han rayado
+preterito-pluscuamperfecto:
+  yo: había rayado
+  tu: habías rayado
+  vos: habías rayado
+  ud: había rayado
+  nosotros: habíamos rayado
+  vosotros: habíais rayado
+  uds: habían rayado
+futuro-perfecto:
+  yo: habré rayado
+  tu: habrás rayado
+  vos: habrás rayado
+  ud: habrá rayado
+  nosotros: habremos rayado
+  vosotros: habréis rayado
+  uds: habrán rayado
+condicional-perfecto:
+  yo: habría rayado
+  tu: habrías rayado
+  vos: habrías rayado
+  ud: habría rayado
+  nosotros: habríamos rayado
+  vosotros: habríais rayado
+  uds: habrían rayado
+presente-subjuntivo:
+  yo: raye
+  tu: rayes
+  vos: rayes
+  ud: raye
+  nosotros: rayemos
+  vosotros: rayéis
+  uds: rayen
+preterito-perfecto-subjuntivo:
+  yo: haya rayado
+  tu: hayas rayado
+  vos: hayas rayado
+  ud: haya rayado
+  nosotros: hayamos rayado
+  vosotros: hayáis rayado
+  uds: hayan rayado
+imperfecto-subjuntivo:
+  yo:
+    - rayara
+    - rayase
+  tu:
+    - rayaras
+    - rayases
+  vos:
+    - rayaras
+    - rayases
+  ud:
+    - rayara
+    - rayase
+  nosotros:
+    - rayáramos
+    - rayásemos
+  vosotros:
+    - rayarais
+    - rayaseis
+  uds:
+    - rayaran
+    - rayasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rayado
+    - hubiese rayado
+  tu:
+    - hubieras rayado
+    - hubieses rayado
+  vos:
+    - hubieras rayado
+    - hubieses rayado
+  ud:
+    - hubiera rayado
+    - hubiese rayado
+  nosotros:
+    - hubiéramos rayado
+    - hubiésemos rayado
+  vosotros:
+    - hubierais rayado
+    - hubieseis rayado
+  uds:
+    - hubieran rayado
+    - hubiesen rayado
+imperativo:
+  tu: raya
+  vos: rayá
+  ud: raya
+  nosotros: rayemos
+  vosotros: rayad
+  uds: rayen

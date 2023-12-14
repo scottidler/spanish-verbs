@@ -1,0 +1,142 @@
+infinitivo: resistirse
+gerundio: resistiéndose
+participio-pasado: resistido
+presente-indicativo:
+  yo: me resisto
+  tu: te resistes
+  vos: te resistes
+  ud: se resiste
+  nosotros: nos resistimos
+  vosotros: os resistís
+  uds: se resisten
+preterito-perfecto-simple:
+  yo: me resistí
+  tu: te resististe
+  vos: te resististe
+  ud: se resistió
+  nosotros: nos resistimos
+  vosotros: os resististeis
+  uds: se resistieron
+preterito-imperfecto:
+  yo: me resistía
+  tu: te resistías
+  vos: te resistías
+  ud: se resistía
+  nosotros: nos resistíamos
+  vosotros: os resistíais
+  uds: se resistían
+futuro-simple:
+  yo: me resistiré
+  tu: te resistirás
+  vos: te resistirás
+  ud: se resistirá
+  nosotros: nos resistiremos
+  vosotros: os resistiréis
+  uds: se resistirán
+condicional-simple:
+  yo: me resistiría
+  tu: te resistirías
+  vos: te resistirías
+  ud: se resistiría
+  nosotros: nos resistiríamos
+  vosotros: os resistiríais
+  uds: se resistirían
+presente-perfecto:
+  yo: me he resistido
+  tu: te has resistido
+  vos: te has resistido
+  ud: se ha resistido
+  nosotros: nos hemos resistido
+  vosotros: os habéis resistido
+  uds: se han resistido
+preterito-pluscuamperfecto:
+  yo: me había resistido
+  tu: te habías resistido
+  vos: te habías resistido
+  ud: se había resistido
+  nosotros: nos habíamos resistido
+  vosotros: os habíais resistido
+  uds: se habían resistido
+futuro-perfecto:
+  yo: me habré resistido
+  tu: te habrás resistido
+  vos: te habrás resistido
+  ud: se habrá resistido
+  nosotros: nos habremos resistido
+  vosotros: os habréis resistido
+  uds: se habrán resistido
+condicional-perfecto:
+  yo: me habría resistido
+  tu: te habrías resistido
+  vos: te habrías resistido
+  ud: se habría resistido
+  nosotros: nos habríamos resistido
+  vosotros: os habríais resistido
+  uds: se habrían resistido
+presente-subjuntivo:
+  yo: me resistah
+  tu: te resistas
+  vos: te resistas
+  ud: se resista
+  nosotros: nos resistamos
+  vosotros: os resistáis
+  uds: se resistan
+preterito-perfecto-subjuntivo:
+  yo: me haya resistido
+  tu: te hayas resistido
+  vos: te hayas resistido
+  ud: se haya resistido
+  nosotros: nos hayamos resistido
+  vosotros: os hayáis resistido
+  uds: se hayan resistido
+imperfecto-subjuntivo:
+  yo:
+    - me resistiera
+    - me resistiese
+  tu:
+    - te resistieras
+    - te resistieses
+  vos:
+    - te resistieras
+    - te resistieses
+  ud:
+    - se resistiera
+    - se resistiese
+  nosotros:
+    - nos resistiéramos
+    - nos resistiésemos
+  vosotros:
+    - os resistierais
+    - os resistieseis
+  uds:
+    - se resistieran
+    - se resistiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera resistido
+    - me hubiese resistido
+  tu:
+    - te hubieras resistido
+    - te hubieses resistido
+  vos:
+    - te hubieras resistido
+    - te hubieses resistido
+  ud:
+    - se hubiera resistido
+    - se hubiese resistido
+  nosotros:
+    - nos hubiéramos resistido
+    - nos hubiésemos resistido
+  vosotros:
+    - os hubierais resistido
+    - os hubieseis resistido
+  uds:
+    - se hubieran resistido
+    - se hubiesen resistido
+imperativo:
+  tu: resístete
+  vos: resístate
+  ud: resístase
+  nosotros: resistámonos
+  vosotros: resístios
+  uds: resístanse

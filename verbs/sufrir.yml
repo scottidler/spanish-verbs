@@ -1,0 +1,142 @@
+infinitivo: sufrir
+gerundio: sufriendo
+participio-pasado: sufrido
+presente-indicativo:
+  yo: sufro
+  tu: sufres
+  vos: sufres
+  ud: sufre
+  nosotros: sufrimos
+  vosotros: sufrís
+  uds: sufren
+preterito-perfecto-simple:
+  yo: sufrí
+  tu: sufriste
+  vos: sufriste
+  ud: sufrió
+  nosotros: sufrimos
+  vosotros: sufristeis
+  uds: sufrieron
+preterito-imperfecto:
+  yo: sufría
+  tu: sufrías
+  vos: sufrías
+  ud: sufría
+  nosotros: sufríamos
+  vosotros: sufríais
+  uds: sufrían
+futuro-simple:
+  yo: sufriré
+  tu: sufrirás
+  vos: sufrirás
+  ud: sufrirá
+  nosotros: sufriremos
+  vosotros: sufriréis
+  uds: sufrirán
+condicional-simple:
+  yo: sufriría
+  tu: sufrirías
+  vos: sufrirías
+  ud: sufriría
+  nosotros: sufriríamos
+  vosotros: sufriríais
+  uds: sufrirían
+presente-perfecto:
+  yo: he sufrido
+  tu: has sufrido
+  vos: has sufrido
+  ud: ha sufrido
+  nosotros: hemos sufrido
+  vosotros: habéis sufrido
+  uds: han sufrido
+preterito-pluscuamperfecto:
+  yo: había sufrido
+  tu: habías sufrido
+  vos: habías sufrido
+  ud: había sufrido
+  nosotros: habíamos sufrido
+  vosotros: habíais sufrido
+  uds: habían sufrido
+futuro-perfecto:
+  yo: habré sufrido
+  tu: habrás sufrido
+  vos: habrás sufrido
+  ud: habrá sufrido
+  nosotros: habremos sufrido
+  vosotros: habréis sufrido
+  uds: habrán sufrido
+condicional-perfecto:
+  yo: habría sufrido
+  tu: habrías sufrido
+  vos: habrías sufrido
+  ud: habría sufrido
+  nosotros: habríamos sufrido
+  vosotros: habríais sufrido
+  uds: habrían sufrido
+presente-subjuntivo:
+  yo: sufra
+  tu: sufras
+  vos: sufras
+  ud: sufra
+  nosotros: suframos
+  vosotros: sufráis
+  uds: sufran
+preterito-perfecto-subjuntivo:
+  yo: haya sufrido
+  tu: hayas sufrido
+  vos: hayas sufrido
+  ud: haya sufrido
+  nosotros: hayamos sufrido
+  vosotros: hayáis sufrido
+  uds: hayan sufrido
+imperfecto-subjuntivo:
+  yo:
+    - sufriera
+    - sufriese
+  tu:
+    - sufrieras
+    - sufrieses
+  vos:
+    - sufrieras
+    - sufrieses
+  ud:
+    - sufriera
+    - sufriese
+  nosotros:
+    - sufriéramos
+    - sufriésemos
+  vosotros:
+    - sufrierais
+    - sufrieseis
+  uds:
+    - sufrieran
+    - sufriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sufrido
+    - hubiese sufrido
+  tu:
+    - hubieras sufrido
+    - hubieses sufrido
+  vos:
+    - hubieras sufrido
+    - hubieses sufrido
+  ud:
+    - hubiera sufrido
+    - hubiese sufrido
+  nosotros:
+    - hubiéramos sufrido
+    - hubiésemos sufrido
+  vosotros:
+    - hubierais sufrido
+    - hubieseis sufrido
+  uds:
+    - hubieran sufrido
+    - hubiesen sufrido
+imperativo:
+  tu: sufre
+  vos: sufrí
+  ud: sufra
+  nosotros: suframos
+  vosotros: sufrid
+  uds: sufran

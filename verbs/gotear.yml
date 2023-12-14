@@ -1,0 +1,142 @@
+infinitivo: gotear
+gerundio: goteando
+participio-pasado: goteado
+presente-indicativo:
+  yo: goteo
+  tu: goteas
+  vos: goteas
+  ud: gotea
+  nosotros: goteamos
+  vosotros: goteáis
+  uds: gotean
+preterito-perfecto-simple:
+  yo: goteé
+  tu: goteaste
+  vos: goteaste
+  ud: goteó
+  nosotros: goteamos
+  vosotros: goteasteis
+  uds: gotearon
+preterito-imperfecto:
+  yo: goteaba
+  tu: goteabas
+  vos: goteabas
+  ud: goteaba
+  nosotros: goteábamos
+  vosotros: goteabais
+  uds: goteaban
+futuro-simple:
+  yo: gotearé
+  tu: gotearás
+  vos: gotearás
+  ud: goteará
+  nosotros: gotearemos
+  vosotros: gotearéis
+  uds: gotearán
+condicional-simple:
+  yo: gotearía
+  tu: gotearías
+  vos: gotearías
+  ud: gotearía
+  nosotros: gotearíamos
+  vosotros: gotearíais
+  uds: gotearían
+presente-perfecto:
+  yo: he goteado
+  tu: has goteado
+  vos: has goteado
+  ud: ha goteado
+  nosotros: hemos goteado
+  vosotros: habéis goteado
+  uds: han goteado
+preterito-pluscuamperfecto:
+  yo: había goteado
+  tu: habías goteado
+  vos: habías goteado
+  ud: había goteado
+  nosotros: habíamos goteado
+  vosotros: habíais goteado
+  uds: habían goteado
+futuro-perfecto:
+  yo: habré goteado
+  tu: habrás goteado
+  vos: habrás goteado
+  ud: habrá goteado
+  nosotros: habremos goteado
+  vosotros: habréis goteado
+  uds: habrán goteado
+condicional-perfecto:
+  yo: habría goteado
+  tu: habrías goteado
+  vos: habrías goteado
+  ud: habría goteado
+  nosotros: habríamos goteado
+  vosotros: habríais goteado
+  uds: habrían goteado
+presente-subjuntivo:
+  yo: gotee
+  tu: gotees
+  vos: gotees
+  ud: gotee
+  nosotros: goteemos
+  vosotros: gotéeis
+  uds: goteen
+preterito-perfecto-subjuntivo:
+  yo: haya goteado
+  tu: hayas goteado
+  vos: hayas goteado
+  ud: haya goteado
+  nosotros: hayamos goteado
+  vosotros: hayáis goteado
+  uds: hayan goteado
+imperfecto-subjuntivo:
+  yo:
+    - goteara
+    - gotease
+  tu:
+    - gotearas
+    - goteases
+  vos:
+    - gotearas
+    - goteases
+  ud:
+    - goteara
+    - gotease
+  nosotros:
+    - goteáramos
+    - goteásemos
+  vosotros:
+    - gotearais
+    - goteaseis
+  uds:
+    - gotearan
+    - goteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera goteado
+    - hubiese goteado
+  tu:
+    - hubieras goteado
+    - hubieses goteado
+  vos:
+    - hubieras goteado
+    - hubieses goteado
+  ud:
+    - hubiera goteado
+    - hubiese goteado
+  nosotros:
+    - hubiéramos goteado
+    - hubiésemos goteado
+  vosotros:
+    - hubierais goteado
+    - hubieseis goteado
+  uds:
+    - hubieran goteado
+    - hubiesen goteado
+imperativo:
+  tu: gotea
+  vos: goteá
+  ud: gotee
+  nosotros: goteemos
+  vosotros: gotead
+  uds: goteen

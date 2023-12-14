@@ -1,0 +1,142 @@
+infinitivo: agilizar
+gerundio: agilizando
+participio-pasado: agilizado
+presente-indicativo:
+  yo: agilizo
+  tu: agilizas
+  vos: agilizas
+  ud: agiliza
+  nosotros: agilizamos
+  vosotros: agilizáis
+  uds: agilizan
+preterito-perfecto-simple:
+  yo: agilicé
+  tu: agilizaste
+  vos: agilizaste
+  ud: agilizó
+  nosotros: agilizamos
+  vosotros: agilizasteis
+  uds: agilizaron
+preterito-imperfecto:
+  yo: agilizaba
+  tu: agilizabas
+  vos: agilizabas
+  ud: agilizaba
+  nosotros: agilizábamos
+  vosotros: agilizabais
+  uds: agilizaban
+futuro-simple:
+  yo: agilizaré
+  tu: agilizarás
+  vos: agilizarás
+  ud: agilizará
+  nosotros: agilizaremos
+  vosotros: agilizaréis
+  uds: agilizarán
+condicional-simple:
+  yo: agilizaría
+  tu: agilizarías
+  vos: agilizarías
+  ud: agilizaría
+  nosotros: agilizaríamos
+  vosotros: agilizaríais
+  uds: agilizarían
+presente-perfecto:
+  yo: he agilizado
+  tu: has agilizado
+  vos: has agilizado
+  ud: ha agilizado
+  nosotros: hemos agilizado
+  vosotros: habéis agilizado
+  uds: han agilizado
+preterito-pluscuamperfecto:
+  yo: había agilizado
+  tu: habías agilizado
+  vos: habías agilizado
+  ud: había agilizado
+  nosotros: habíamos agilizado
+  vosotros: habíais agilizado
+  uds: habían agilizado
+futuro-perfecto:
+  yo: habré agilizado
+  tu: habrás agilizado
+  vos: habrás agilizado
+  ud: habrá agilizado
+  nosotros: habremos agilizado
+  vosotros: habréis agilizado
+  uds: habrán agilizado
+condicional-perfecto:
+  yo: habría agilizado
+  tu: habrías agilizado
+  vos: habrías agilizado
+  ud: habría agilizado
+  nosotros: habríamos agilizado
+  vosotros: habríais agilizado
+  uds: habrían agilizado
+presente-subjuntivo:
+  yo: agilice
+  tu: agilices
+  vos: agilices
+  ud: agilice
+  nosotros: agilicemos
+  vosotros: agilicéis
+  uds: agilicen
+preterito-perfecto-subjuntivo:
+  yo: haya agilizado
+  tu: hayas agilizado
+  vos: hayas agilizado
+  ud: haya agilizado
+  nosotros: hayamos agilizado
+  vosotros: hayáis agilizado
+  uds: hayan agilizado
+imperfecto-subjuntivo:
+  yo:
+    - agilizara
+    - agilizase
+  tu:
+    - agilizaras
+    - agilizases
+  vos:
+    - agilizaras
+    - agilizases
+  ud:
+    - agilizara
+    - agilizase
+  nosotros:
+    - agilizáramos
+    - agilizásemos
+  vosotros:
+    - agilizarais
+    - agilizaseis
+  uds:
+    - agilizaran
+    - agilizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agilizado
+    - hubiese agilizado
+  tu:
+    - hubieras agilizado
+    - hubieses agilizado
+  vos:
+    - hubieras agilizado
+    - hubieses agilizado
+  ud:
+    - hubiera agilizado
+    - hubiese agilizado
+  nosotros:
+    - hubiéramos agilizado
+    - hubiésemos agilizado
+  vosotros:
+    - hubierais agilizado
+    - hubieseis agilizado
+  uds:
+    - hubieran agilizado
+    - hubiesen agilizado
+imperativo:
+  tu: agiliza
+  vos: agilizá
+  ud: agilice
+  nosotros: agilicemos
+  vosotros: agilizad
+  uds: agilicen

@@ -1,0 +1,142 @@
+infinitivo: memorizar
+gerundio: memorizando
+participio-pasado: memorizado
+presente-indicativo:
+  yo: memorizo
+  tu: memorizas
+  vos: memorizas
+  ud: memoriza
+  nosotros: memorizamos
+  vosotros: memorizáis
+  uds: memorizan
+preterito-perfecto-simple:
+  yo: memoricé
+  tu: memorizaste
+  vos: memorizaste
+  ud: memorizó
+  nosotros: memorizamos
+  vosotros: memorizasteis
+  uds: memorizaron
+preterito-imperfecto:
+  yo: memorizaba
+  tu: memorizabas
+  vos: memorizabas
+  ud: memorizaba
+  nosotros: memorizábamos
+  vosotros: memorizabais
+  uds: memorizaban
+futuro-simple:
+  yo: memorizaré
+  tu: memorizarás
+  vos: memorizarás
+  ud: memorizará
+  nosotros: memorizaremos
+  vosotros: memorizaréis
+  uds: memorizarán
+condicional-simple:
+  yo: memorizaría
+  tu: memorizarías
+  vos: memorizarías
+  ud: memorizaría
+  nosotros: memorizaríamos
+  vosotros: memorizaríais
+  uds: memorizarían
+presente-perfecto:
+  yo: he memorizado
+  tu: has memorizado
+  vos: has memorizado
+  ud: ha memorizado
+  nosotros: hemos memorizado
+  vosotros: habéis memorizado
+  uds: han memorizado
+preterito-pluscuamperfecto:
+  yo: había memorizado
+  tu: habías memorizado
+  vos: habías memorizado
+  ud: había memorizado
+  nosotros: habíamos memorizado
+  vosotros: habíais memorizado
+  uds: habían memorizado
+futuro-perfecto:
+  yo: habré memorizado
+  tu: habrás memorizado
+  vos: habrás memorizado
+  ud: habrá memorizado
+  nosotros: habremos memorizado
+  vosotros: habréis memorizado
+  uds: habrán memorizado
+condicional-perfecto:
+  yo: habría memorizado
+  tu: habrías memorizado
+  vos: habrías memorizado
+  ud: habría memorizado
+  nosotros: habríamos memorizado
+  vosotros: habríais memorizado
+  uds: habrían memorizado
+presente-subjuntivo:
+  yo: memorice
+  tu: memorices
+  vos: memorices
+  ud: memorice
+  nosotros: memoricemos
+  vosotros: memoricéis
+  uds: memoricen
+preterito-perfecto-subjuntivo:
+  yo: haya memorizado
+  tu: hayas memorizado
+  vos: hayas memorizado
+  ud: haya memorizado
+  nosotros: hayamos memorizado
+  vosotros: hayáis memorizado
+  uds: hayan memorizado
+imperfecto-subjuntivo:
+  yo:
+    - memorizara
+    - memorizase
+  tu:
+    - memorizaras
+    - memorizases
+  vos:
+    - memorizaras
+    - memorizases
+  ud:
+    - memorizara
+    - memorizase
+  nosotros:
+    - memorizáramos
+    - memorizásemos
+  vosotros:
+    - memorizarais
+    - memorizaseis
+  uds:
+    - memorizaran
+    - memorizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera memorizado
+    - hubiese memorizado
+  tu:
+    - hubieras memorizado
+    - hubieses memorizado
+  vos:
+    - hubieras memorizado
+    - hubieses memorizado
+  ud:
+    - hubiera memorizado
+    - hubiese memorizado
+  nosotros:
+    - hubiéramos memorizado
+    - hubiésemos memorizado
+  vosotros:
+    - hubierais memorizado
+    - hubieseis memorizado
+  uds:
+    - hubieran memorizado
+    - hubiesen memorizado
+imperativo:
+  tu: memoriza
+  vos: memorizá
+  ud: memorice
+  nosotros: memoricemos
+  vosotros: memorizad
+  uds: memoricen

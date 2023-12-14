@@ -1,0 +1,156 @@
+infinitivo: agotarse
+gerundio: agotándose
+participio-pasado: agotado
+
+presente-indicativo:
+  yo: me agoto
+  tu: te agotas
+  vos: te agotas
+  ud: se agota
+  nosotros: nos agotamos
+  vosotros: os agotáis
+  uds: se agotan
+
+preterito-perfecto-simple:
+  yo: me agoté
+  tu: te agotaste
+  vos: te agotaste
+  ud: se agotó
+  nosotros: nos agotamos
+  vosotros: os agotasteis
+  uds: se agotaron
+
+preterito-imperfecto:
+  yo: me agotaba
+  tu: te agotabas
+  vos: te agotabas
+  ud: se agotaba
+  nosotros: nos agotábamos
+  vosotros: os agotabais
+  uds: se agotaban
+
+futuro-simple:
+  yo: me agotaré
+  tu: te agotarás
+  vos: te agotarás
+  ud: se agotará
+  nosotros: nos agotaremos
+  vosotros: os agotaréis
+  uds: se agotarán
+
+condicional-simple:
+  yo: me agotaría
+  tu: te agotarías
+  vos: te agotarías
+  ud: se agotaría
+  nosotros: nos agotaríamos
+  vosotros: os agotaríais
+  uds: se agotarían
+
+presente-perfecto:
+  yo: me he agotado
+  tu: te has agotado
+  vos: te has agotado
+  ud: se ha agotado
+  nosotros: nos hemos agotado
+  vosotros: os habéis agotado
+  uds: se han agotado
+
+preterito-pluscuamperfecto:
+  yo: me había agotado
+  tu: te habías agotado
+  vos: te habías agotado
+  ud: se había agotado
+  nosotros: nos habíamos agotado
+  vosotros: os habíais agotado
+  uds: se habían agotado
+
+futuro-perfecto:
+  yo: me habré agotado
+  tu: te habrás agotado
+  vos: te habrás agotado
+  ud: se habrá agotado
+  nosotros: nos habremos agotado
+  vosotros: os habréis agotado
+  uds: se habrán agotado
+
+condicional-perfecto:
+  yo: me habría agotado
+  tu: te habrías agotado
+  vos: te habrías agotado
+  ud: se habría agotado
+  nosotros: nos habríamos agotado
+  vosotros: os habríais agotado
+  uds: se habrían agotado
+
+presente-subjuntivo:
+  yo: me agote
+  tu: te agotes
+  vos: te agotes
+  ud: se agote
+  nosotros: nos agotemos
+  vosotros: os agotéis
+  uds: se agoten
+
+preterito-perfecto-subjuntivo:
+  yo: me haya agotado
+  tu: te hayas agotado
+  vos: te hayas agotado
+  ud: se haya agotado
+  nosotros: nos hayamos agotado
+  vosotros: os hayáis agotado
+  uds: se hayan agotado
+
+imperfecto-subjuntivo:
+  yo:
+    - me agotara
+    - me agotase
+  tu:
+    - te agotaras
+    - te agotases
+  vos:
+    - te agotaras
+    - te agotases
+  ud:
+    - se agotara
+    - se agotase
+  nosotros:
+    - nos agotáramos
+    - nos agotásemos
+  vosotros:
+    - os agotarais
+    - os agotaseis
+  uds:
+    - se agotaran
+    - se agotasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera agotado
+    - me hubiese agotado
+  tu:
+    - te hubieras agotado
+    - te hubieses agotado
+  vos:
+    - te hubieras agotado
+    - te hubieses agotado
+  ud:
+    - se hubiera agotado
+    - se hubiese agotado
+  nosotros:
+    - nos hubiéramos agotado
+    - nos hubiésemos agotado
+  vosotros:
+    - os hubierais agotado
+    - os hubieseis agotado
+  uds:
+    - se hubieran agotado
+    - se hubiesen agotado
+
+imperativo:
+  tu: agotáte
+  vos: agotáte
+  ud: agótese
+  nosotros: agotémonos
+  vosotros: agotaos
+  uds: agótense

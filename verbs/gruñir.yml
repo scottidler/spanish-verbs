@@ -1,0 +1,142 @@
+infinitivo: gruñir
+gerundio: gruñendo
+participio-pasado: gruñido
+presente-indicativo:
+  yo: gruño
+  tu: gruñes
+  vos: gruñes
+  ud: gruñe
+  nosotros: gruñimos
+  vosotros: gruñís
+  uds: gruñen
+preterito-perfecto-simple:
+  yo: gruñí
+  tu: gruñiste
+  vos: gruñiste
+  ud: gruñó
+  nosotros: gruñimos
+  vosotros: gruñisteis
+  uds: gruñeron
+preterito-imperfecto:
+  yo: gruñía
+  tu: gruñías
+  vos: gruñías
+  ud: gruñía
+  nosotros: gruñíamos
+  vosotros: gruñíais
+  uds: gruñían
+futuro-simple:
+  yo: gruñiré
+  tu: gruñirás
+  vos: gruñirás
+  ud: gruñirá
+  nosotros: gruñiremos
+  vosotros: gruñiréis
+  uds: gruñirán
+condicional-simple:
+  yo: gruñiría
+  tu: gruñirías
+  vos: gruñirías
+  ud: gruñiría
+  nosotros: gruñiríamos
+  vosotros: gruñiríais
+  uds: gruñirían
+presente-perfecto:
+  yo: he gruñido
+  tu: has gruñido
+  vos: has gruñido
+  ud: ha gruñido
+  nosotros: hemos gruñido
+  vosotros: habéis gruñido
+  uds: han gruñido
+preterito-pluscuamperfecto:
+  yo: había gruñido
+  tu: habías gruñido
+  vos: habías gruñido
+  ud: había gruñido
+  nosotros: habíamos gruñido
+  vosotros: habíais gruñido
+  uds: habían gruñido
+futuro-perfecto:
+  yo: habré gruñido
+  tu: habrás gruñido
+  vos: habrás gruñido
+  ud: habrá gruñido
+  nosotros: habremos gruñido
+  vosotros: habréis gruñido
+  uds: habrán gruñido
+condicional-perfecto:
+  yo: habría gruñido
+  tu: habrías gruñido
+  vos: habrías gruñido
+  ud: habría gruñido
+  nosotros: habríamos gruñido
+  vosotros: habríais gruñido
+  uds: habrían gruñido
+presente-subjuntivo:
+  yo: gruña
+  tu: gruñas
+  vos: gruñas
+  ud: gruña
+  nosotros: gruñamos
+  vosotros: gruñáis
+  uds: gruñan
+preterito-perfecto-subjuntivo:
+  yo: haya gruñido
+  tu: hayas gruñido
+  vos: hayas gruñido
+  ud: haya gruñido
+  nosotros: hayamos gruñido
+  vosotros: hayáis gruñido
+  uds: hayan gruñido
+imperfecto-subjuntivo:
+  yo:
+    - gruñera
+    - gruñese
+  tu:
+    - gruñeras
+    - gruñeses
+  vos:
+    - gruñeras
+    - gruñeses
+  ud:
+    - gruñera
+    - gruñese
+  nosotros:
+    - gruñéramos
+    - gruñésemos
+  vosotros:
+    - gruñerais
+    - gruñeseis
+  uds:
+    - gruñeran
+    - gruñesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gruñido
+    - hubiese gruñido
+  tu:
+    - hubieras gruñido
+    - hubieses gruñido
+  vos:
+    - hubieras gruñido
+    - hubieses gruñido
+  ud:
+    - hubiera gruñido
+    - hubiese gruñido
+  nosotros:
+    - hubiéramos gruñido
+    - hubiésemos gruñido
+  vosotros:
+    - hubierais gruñido
+    - hubieseis gruñido
+  uds:
+    - hubieran gruñido
+    - hubiesen gruñido
+imperativo:
+  tu: gruñe
+  vos: gruñí
+  ud: gruña
+  nosotros: gruñamos
+  vosotros: gruñid
+  uds: gruñan

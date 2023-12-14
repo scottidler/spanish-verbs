@@ -1,0 +1,142 @@
+infinitivo: cometer
+gerundio: cometiendo
+participio-pasado: cometido
+presente-indicativo:
+  yo: cometo
+  tu: cometes
+  vos: cometes
+  ud: comete
+  nosotros: cometemos
+  vosotros: cometéis
+  uds: cometen
+preterito-perfecto-simple:
+  yo: cometí
+  tu: cometiste
+  vos: cometiste
+  ud: cometió
+  nosotros: cometimos
+  vosotros: cometisteis
+  uds: cometieron
+preterito-imperfecto:
+  yo: cometía
+  tu: cometías
+  vos: cometías
+  ud: cometía
+  nosotros: cometíamos
+  vosotros: cometíais
+  uds: cometían
+futuro-simple:
+  yo: cometeré
+  tu: cometerás
+  vos: cometerás
+  ud: cometerá
+  nosotros: cometeremos
+  vosotros: cometeréis
+  uds: cometerán
+condicional-simple:
+  yo: cometería
+  tu: cometerías
+  vos: cometerías
+  ud: cometería
+  nosotros: cometeríamos
+  vosotros: cometeríais
+  uds: cometerían
+presente-perfecto:
+  yo: he cometido
+  tu: has cometido
+  vos: has cometido
+  ud: ha cometido
+  nosotros: hemos cometido
+  vosotros: habéis cometido
+  uds: han cometido
+preterito-pluscuamperfecto:
+  yo: había cometido
+  tu: habías cometido
+  vos: habías cometido
+  ud: había cometido
+  nosotros: habíamos cometido
+  vosotros: habíais cometido
+  uds: habían cometido
+futuro-perfecto:
+  yo: habré cometido
+  tu: habrás cometido
+  vos: habrás cometido
+  ud: habrá cometido
+  nosotros: habremos cometido
+  vosotros: habréis cometido
+  uds: habrán cometido
+condicional-perfecto:
+  yo: habría cometido
+  tu: habrías cometido
+  vos: habrías cometido
+  ud: habría cometido
+  nosotros: habríamos cometido
+  vosotros: habríais cometido
+  uds: habrían cometido
+presente-subjuntivo:
+  yo: cometa
+  tu: cometas
+  vos: cometas
+  ud: cometa
+  nosotros: cometamos
+  vosotros: cometáis
+  uds: cometan
+preterito-perfecto-subjuntivo:
+  yo: haya cometido
+  tu: hayas cometido
+  vos: hayas cometido
+  ud: haya cometido
+  nosotros: hayamos cometido
+  vosotros: hayáis cometido
+  uds: hayan cometido
+imperfecto-subjuntivo:
+  yo:
+    - cometiera
+    - cometiese
+  tu:
+    - cometieras
+    - cometieses
+  vos:
+    - cometieras
+    - cometieses
+  ud:
+    - cometiera
+    - cometiese
+  nosotros:
+    - cometiéramos
+    - cometiésemos
+  vosotros:
+    - cometierais
+    - cometieseis
+  uds:
+    - cometieran
+    - cometiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cometido
+    - hubiese cometido
+  tu:
+    - hubieras cometido
+    - hubieses cometido
+  vos:
+    - hubieras cometido
+    - hubieses cometido
+  ud:
+    - hubiera cometido
+    - hubiese cometido
+  nosotros:
+    - hubiéramos cometido
+    - hubiésemos cometido
+  vosotros:
+    - hubierais cometido
+    - hubieseis cometido
+  uds:
+    - hubieran cometido
+    - hubiesen cometido
+imperativo:
+  tu: comete
+  vos: comed
+  ud: cometa
+  nosotros: cometamos
+  vosotros: comed
+  uds: cometan

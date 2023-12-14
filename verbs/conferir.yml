@@ -1,0 +1,142 @@
+infinitivo: conferir
+gerundio: confiriendo
+participio-pasado: conferido
+presente-indicativo:
+  yo: confiero
+  tu: confieres
+  vos: confieres
+  ud: confiere
+  nosotros: conferimos
+  vosotros: conferís
+  uds: confieren
+preterito-perfecto-simple:
+  yo: conferí
+  tu: conferiste
+  vos: conferiste
+  ud: confirió
+  nosotros: conferimos
+  vosotros: conferisteis
+  uds: confirieron
+preterito-imperfecto:
+  yo: confería
+  tu: conferías
+  vos: conferías
+  ud: confería
+  nosotros: conferíamos
+  vosotros: conferíais
+  uds: conferían
+futuro-simple:
+  yo: conferiré
+  tu: conferirás
+  vos: conferirás
+  ud: conferirá
+  nosotros: conferiremos
+  vosotros: conferiréis
+  uds: conferirán
+condicional-simple:
+  yo: conferiría
+  tu: conferirías
+  vos: conferirías
+  ud: conferiría
+  nosotros: conferiríamos
+  vosotros: conferiríais
+  uds: conferirían
+presente-perfecto:
+  yo: he conferido
+  tu: has conferido
+  vos: has conferido
+  ud: ha conferido
+  nosotros: hemos conferido
+  vosotros: habéis conferido
+  uds: han conferido
+preterito-pluscuamperfecto:
+  yo: había conferido
+  tu: habías conferido
+  vos: habías conferido
+  ud: había conferido
+  nosotros: habíamos conferido
+  vosotros: habíais conferido
+  uds: habían conferido
+futuro-perfecto:
+  yo: habré conferido
+  tu: habrás conferido
+  vos: habrás conferido
+  ud: habrá conferido
+  nosotros: habremos conferido
+  vosotros: habréis conferido
+  uds: habrán conferido
+condicional-perfecto:
+  yo: habría conferido
+  tu: habrías conferido
+  vos: habrías conferido
+  ud: habría conferido
+  nosotros: habríamos conferido
+  vosotros: habríais conferido
+  uds: habrían conferido
+presente-subjuntivo:
+  yo: confiera
+  tu: confieras
+  vos: confieras
+  ud: confiera
+  nosotros: confiramos
+  vosotros: confiráis
+  uds: confieran
+preterito-perfecto-subjuntivo:
+  yo: haya conferido
+  tu: hayas conferido
+  vos: hayas conferido
+  ud: haya conferido
+  nosotros: hayamos conferido
+  vosotros: hayáis conferido
+  uds: hayan conferido
+imperfecto-subjuntivo:
+  yo:
+    - confiriera
+    - confiriese
+  tu:
+    - confirieras
+    - confirieses
+  vos:
+    - confirieras
+    - confirieses
+  ud:
+    - confiriera
+    - confiriese
+  nosotros:
+    - confiriéramos
+    - confiriésemos
+  vosotros:
+    - confirierais
+    - confirieseis
+  uds:
+    - confirieran
+    - confiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conferido
+    - hubiese conferido
+  tu:
+    - hubieras conferido
+    - hubieses conferido
+  vos:
+    - hubieras conferido
+    - hubieses conferido
+  ud:
+    - hubiera conferido
+    - hubiese conferido
+  nosotros:
+    - hubiéramos conferido
+    - hubiésemos conferido
+  vosotros:
+    - hubierais conferido
+    - hubieseis conferido
+  uds:
+    - hubieran conferido
+    - hubiesen conferido
+imperativo:
+  tu: confiere
+  vos: confirí
+  ud: confiera
+  nosotros: confiramos
+  vosotros: conferred
+  uds: confieran

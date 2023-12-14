@@ -1,0 +1,156 @@
+infinitivo: salvarse
+gerundio: salvándose
+participio-pasado: salvado
+
+presente-indicativo:
+  yo: me salvo
+  tu: te salvas
+  vos: te salvas
+  ud: se salva
+  nosotros: nos salvamos
+  vosotros: os salváis
+  uds: se salvan
+
+preterito-perfecto-simple:
+  yo: me salvé
+  tu: te salvaste
+  vos: te salvaste
+  ud: se salvó
+  nosotros: nos salvamos
+  vosotros: os salvasteis
+  uds: se salvaron
+
+preterito-imperfecto:
+  yo: me salvaba
+  tu: te salvabas
+  vos: te salvabas
+  ud: se salvaba
+  nosotros: nos salvábamos
+  vosotros: os salvabais
+  uds: se salvaban
+
+futuro-simple:
+  yo: me salvaré
+  tu: te salvarás
+  vos: te salvarás
+  ud: se salvará
+  nosotros: nos salvaremos
+  vosotros: os salvaréis
+  uds: se salvarán
+
+condicional-simple:
+  yo: me salvaría
+  tu: te salvarías
+  vos: te salvarías
+  ud: se salvaría
+  nosotros: nos salvaríamos
+  vosotros: os salvaríais
+  uds: se salvarían
+
+presente-perfecto:
+  yo: me he salvado
+  tu: te has salvado
+  vos: te has salvado
+  ud: se ha salvado
+  nosotros: nos hemos salvado
+  vosotros: os habéis salvado
+  uds: se han salvado
+
+preterito-pluscuamperfecto:
+  yo: me había salvado
+  tu: te habías salvado
+  vos: te habías salvado
+  ud: se había salvado
+  nosotros: nos habíamos salvado
+  vosotros: os habíais salvado
+  uds: se habían salvado
+
+futuro-perfecto:
+  yo: me habré salvado
+  tu: te habrás salvado
+  vos: te habrás salvado
+  ud: se habrá salvado
+  nosotros: nos habremos salvado
+  vosotros: os habréis salvado
+  uds: se habrán salvado
+
+condicional-perfecto:
+  yo: me habría salvado
+  tu: te habrías salvado
+  vos: te habrías salvado
+  ud: se habría salvado
+  nosotros: nos habríamos salvado
+  vosotros: os habríais salvado
+  uds: se habrían salvado
+
+presente-subjuntivo:
+  yo: me salve
+  tu: te salves
+  vos: te salves
+  ud: se salve
+  nosotros: nos salvemos
+  vosotros: os salvéis
+  uds: se salven
+
+preterito-perfecto-subjuntivo:
+  yo: me haya salvado
+  tu: te hayas salvado
+  vos: te hayas salvado
+  ud: se haya salvado
+  nosotros: nos hayamos salvado
+  vosotros: os hayáis salvado
+  uds: se hayan salvado
+
+imperfecto-subjuntivo:
+  yo:
+    - me salvara
+    - me salvase
+  tu:
+    - te salvaras
+    - te salvases
+  vos:
+    - te salvaras
+    - te salvases
+  ud:
+    - se salvara
+    - se salvase
+  nosotros:
+    - nos salváramos
+    - nos salvásemos
+  vosotros:
+    - os salvarais
+    - os salvaseis
+  uds:
+    - se salvaran
+    - se salvasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera salvado
+    - me hubiese salvado
+  tu:
+    - te hubieras salvado
+    - te hubieses salvado
+  vos:
+    - te hubieras salvado
+    - te hubieses salvado
+  ud:
+    - se hubiera salvado
+    - se hubiese salvado
+  nosotros:
+    - nos hubiéramos salvado
+    - nos hubiésemos salvado
+  vosotros:
+    - os hubierais salvado
+    - os hubieseis salvado
+  uds:
+    - se hubieran salvado
+    - se hubiesen salvado
+
+imperativo:
+  tu: sálvate
+  vos: salvate
+  ud: sálvese
+  nosotros: salvémonos
+  vosotros: salvados
+  uds: sálvense

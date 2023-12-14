@@ -1,0 +1,142 @@
+infinitivo: incrementar
+gerundio: incrementando
+participio-pasado: incrementado
+presente-indicativo:
+  yo: incremento
+  tu: incrementas
+  vos: incrementas
+  ud: incrementa
+  nosotros: incrementamos
+  vosotros: incrementáis
+  uds: incrementan
+preterito-perfecto-simple:
+  yo: incrementé
+  tu: incrementaste
+  vos: incrementaste
+  ud: incrementó
+  nosotros: incrementamos
+  vosotros: incrementasteis
+  uds: incrementaron
+preterito-imperfecto:
+  yo: incrementaba
+  tu: incrementabas
+  vos: incrementabas
+  ud: incrementaba
+  nosotros: incrementábamos
+  vosotros: incrementabais
+  uds: incrementaban
+futuro-simple:
+  yo: incrementaré
+  tu: incrementarás
+  vos: incrementarás
+  ud: incrementará
+  nosotros: incrementaremos
+  vosotros: incrementaréis
+  uds: incrementarán
+condicional-simple:
+  yo: incrementaría
+  tu: incrementarías
+  vos: incrementarías
+  ud: incrementaría
+  nosotros: incrementaríamos
+  vosotros: incrementaríais
+  uds: incrementarían
+presente-perfecto:
+  yo: he incrementado
+  tu: has incrementado
+  vos: has incrementado
+  ud: ha incrementado
+  nosotros: hemos incrementado
+  vosotros: habéis incrementado
+  uds: han incrementado
+preterito-pluscuamperfecto:
+  yo: había incrementado
+  tu: habías incrementado
+  vos: habías incrementado
+  ud: había incrementado
+  nosotros: habíamos incrementado
+  vosotros: habíais incrementado
+  uds: habían incrementado
+futuro-perfecto:
+  yo: habré incrementado
+  tu: habrás incrementado
+  vos: habrás incrementado
+  ud: habrá incrementado
+  nosotros: habremos incrementado
+  vosotros: habréis incrementado
+  uds: habrán incrementado
+condicional-perfecto:
+  yo: habría incrementado
+  tu: habrías incrementado
+  vos: habrías incrementado
+  ud: habría incrementado
+  nosotros: habríamos incrementado
+  vosotros: habríais incrementado
+  uds: habrían incrementado
+presente-subjuntivo:
+  yo: incremente
+  tu: incrementes
+  vos: incrementes
+  ud: incremente
+  nosotros: incrementemos
+  vosotros: incrementéis
+  uds: incrementen
+preterito-perfecto-subjuntivo:
+  yo: haya incrementado
+  tu: hayas incrementado
+  vos: hayas incrementado
+  ud: haya incrementado
+  nosotros: hayamos incrementado
+  vosotros: hayáis incrementado
+  uds: hayan incrementado
+imperfecto-subjuntivo:
+  yo:
+    - incrementara
+    - incrementase
+  tu:
+    - incrementaras
+    - incrementases
+  vos:
+    - incrementaras
+    - incrementases
+  ud:
+    - incrementara
+    - incrementase
+  nosotros:
+    - incrementáramos
+    - incrementásemos
+  vosotros:
+    - incrementarais
+    - incrementaseis
+  uds:
+    - incrementaran
+    - incrementasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera incrementado
+    - hubiese incrementado
+  tu:
+    - hubieras incrementado
+    - hubieses incrementado
+  vos:
+    - hubieras incrementado
+    - hubieses incrementado
+  ud:
+    - hubiera incrementado
+    - hubiese incrementado
+  nosotros:
+    - hubiéramos incrementado
+    - hubiésemos incrementado
+  vosotros:
+    - hubierais incrementado
+    - hubieseis incrementado
+  uds:
+    - hubieran incrementado
+    - hubiesen incrementado
+imperativo:
+  tu: incrementa
+  vos: incrementá
+  ud: incremente
+  nosotros: incrementemos
+  vosotros: incrementad
+  uds: incrementen

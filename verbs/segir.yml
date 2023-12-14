@@ -1,0 +1,142 @@
+infinitivo: segir
+gerundio: segiendo
+participio-pasado: segido
+presente-indicativo:
+  yo: sigo
+  tu: sigues
+  vos: seguis
+  ud: sigue
+  nosotros: seguimos
+  vosotros: seguis
+  uds: siguen
+preterito-perfecto-simple:
+  yo: seguí
+  tu: seguiste
+  vos: seguiste
+  ud: siguió
+  nosotros: seguimos
+  vosotros: seguisteis
+  uds: siguieron
+preterito-imperfecto:
+  yo: seguía
+  tu: seguías
+  vos: seguías
+  ud: seguía
+  nosotros: seguíamos
+  vosotros: seguíais
+  uds: seguían
+futuro-simple:
+  yo: seguiré
+  tu: seguirás
+  vos: seguirás
+  ud: seguirá
+  nosotros: seguiremos
+  vosotros: seguiréis
+  uds: seguirán
+condicional-simple:
+  yo: seguiría
+  tu: seguirías
+  vos: seguirías
+  ud: seguiría
+  nosotros: seguiríamos
+  vosotros: seguiríais
+  uds: seguirían
+presente-perfecto:
+  yo: he seguido
+  tu: has seguido
+  vos: has seguido
+  ud: ha seguido
+  nosotros: hemos seguido
+  vosotros: habéis seguido
+  uds: han seguido
+preterito-pluscuamperfecto:
+  yo: había seguido
+  tu: habías seguido
+  vos: habías seguido
+  ud: había seguido
+  nosotros: habíamos seguido
+  vosotros: habíais seguido
+  uds: habían seguido
+futuro-perfecto:
+  yo: habré seguido
+  tu: habrás seguido
+  vos: habrás seguido
+  ud: habrá seguido
+  nosotros: habremos seguido
+  vosotros: habréis seguido
+  uds: habrán seguido
+condicional-perfecto:
+  yo: habría seguido
+  tu: habrías seguido
+  vos: habrías seguido
+  ud: habría seguido
+  nosotros: habríamos seguido
+  vosotros: habríais seguido
+  uds: habrían seguido
+presente-subjuntivo:
+  yo: siga
+  tu: sigas
+  vos: sigas
+  ud: siga
+  nosotros: sigamos
+  vosotros: sigáis
+  uds: sigan
+preterito-perfecto-subjuntivo:
+  yo: haya seguido
+  tu: hayas seguido
+  vos: hayas seguido
+  ud: haya seguido
+  nosotros: hayamos seguido
+  vosotros: hayáis seguido
+  uds: hayan seguido
+imperfecto-subjuntivo:
+  yo:
+    - siguiera
+    - siguiese
+  tu:
+    - siguieras
+    - siguieses
+  vos:
+    - siguieras
+    - siguieses
+  ud:
+    - siguiera
+    - siguiese
+  nosotros:
+    - siguiéramos
+    - siguiésemos
+  vosotros:
+    - siguierais
+    - siguieseis
+  uds:
+    - siguieran
+    - siguiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera seguido
+    - hubiese seguido
+  tu:
+    - hubieras seguido
+    - hubieses seguido
+  vos:
+    - hubieras seguido
+    - hubieses seguido
+  ud:
+    - hubiera seguido
+    - hubiese seguido
+  nosotros:
+    - hubiéramos seguido
+    - hubiésemos seguido
+  vosotros:
+    - hubierais seguido
+    - hubieseis seguido
+  uds:
+    - hubieran seguido
+    - hubiesen seguido
+imperativo:
+  tu: sigue
+  vos: seguí
+  ud: siga
+  nosotros: sigamos
+  vosotros: seguid
+  uds: sigan

@@ -1,0 +1,142 @@
+infinitivo: celebrar
+gerundio: celebrando
+participio-pasado: celebrado
+presente-indicativo:
+  yo: celebro
+  tu: celebras
+  vos: celebras
+  ud: celebra
+  nosotros: celebramos
+  vosotros: celebráis
+  uds: celebran
+preterito-perfecto-simple:
+  yo: celebré
+  tu: celebraste
+  vos: celebraste
+  ud: celebró
+  nosotros: celebramos
+  vosotros: celebrasteis
+  uds: celebraron
+preterito-imperfecto:
+  yo: celebraba
+  tu: celebrabas
+  vos: celebrabas
+  ud: celebraba
+  nosotros: celebrábamos
+  vosotros: celebrabais
+  uds: celebraban
+futuro-simple:
+  yo: celebraré
+  tu: celebrarás
+  vos: celebrarás
+  ud: celebrará
+  nosotros: celebraremos
+  vosotros: celebraréis
+  uds: celebrarán
+condicional-simple:
+  yo: celebraría
+  tu: celebrarías
+  vos: celebrarías
+  ud: celebraría
+  nosotros: celebraríamos
+  vosotros: celebraríais
+  uds: celebrarían
+presente-perfecto:
+  yo: he celebrado
+  tu: has celebrado
+  vos: has celebrado
+  ud: ha celebrado
+  nosotros: hemos celebrado
+  vosotros: habéis celebrado
+  uds: han celebrado
+preterito-pluscuamperfecto:
+  yo: había celebrado
+  tu: habías celebrado
+  vos: habías celebrado
+  ud: había celebrado
+  nosotros: habíamos celebrado
+  vosotros: habíais celebrado
+  uds: habían celebrado
+futuro-perfecto:
+  yo: habré celebrado
+  tu: habrás celebrado
+  vos: habrás celebrado
+  ud: habrá celebrado
+  nosotros: habremos celebrado
+  vosotros: habréis celebrado
+  uds: habrán celebrado
+condicional-perfecto:
+  yo: habría celebrado
+  tu: habrías celebrado
+  vos: habrías celebrado
+  ud: habría celebrado
+  nosotros: habríamos celebrado
+  vosotros: habríais celebrado
+  uds: habrían celebrado
+presente-subjuntivo:
+  yo: celebre
+  tu: celebres
+  vos: celebres
+  ud: celebre
+  nosotros: celebremos
+  vosotros: celebréis
+  uds: celebren
+preterito-perfecto-subjuntivo:
+  yo: haya celebrado
+  tu: hayas celebrado
+  vos: hayas celebrado
+  ud: haya celebrado
+  nosotros: hayamos celebrado
+  vosotros: hayáis celebrado
+  uds: hayan celebrado
+imperfecto-subjuntivo:
+  yo:
+    - celebrara
+    - celebrase
+  tu:
+    - celebraras
+    - celebrases
+  vos:
+    - celebraras
+    - celebrases
+  ud:
+    - celebrara
+    - celebrase
+  nosotros:
+    - celebráramos
+    - celebrásemos
+  vosotros:
+    - celebrarais
+    - celebraseis
+  uds:
+    - celebraran
+    - celebrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera celebrado
+    - hubiese celebrado
+  tu:
+    - hubieras celebrado
+    - hubieses celebrado
+  vos:
+    - hubieras celebrado
+    - hubieses celebrado
+  ud:
+    - hubiera celebrado
+    - hubiese celebrado
+  nosotros:
+    - hubiéramos celebrado
+    - hubiésemos celebrado
+  vosotros:
+    - hubierais celebrado
+    - hubieseis celebrado
+  uds:
+    - hubieran celebrado
+    - hubiesen celebrado
+imperativo:
+  tu: celebra
+  vos: celebrá
+  ud: celebre
+  nosotros: celebremos
+  vosotros: celebrad
+  uds: celebren

@@ -1,0 +1,142 @@
+infinitivo: rezongar
+gerundio: rezongando
+participio-pasado: rezongado
+presente-indicativo:
+  yo: rehóngaro
+  tu: rehóngaras
+  vos: rehóngaras
+  ud: rehóngara
+  nosotros: rehongaramos
+  vosotros: rehóngarais
+  uds: rehóngaran
+preterito-perfecto-simple:
+  yo: rezongué
+  tu: rezongaste
+  vos: rezongaste
+  ud: rezongó
+  nosotros: rezongamos
+  vosotros: rezongasteis
+  uds: rezongaron
+preterito-imperfecto:
+  yo: rezongaba
+  tu: rezongabas
+  vos: rezongabas
+  ud: rezongaba
+  nosotros: rezongábamos
+  vosotros: rezongabais
+  uds: rezongaban
+futuro-simple:
+  yo: rezongaré
+  tu: rezongarás
+  vos: rezongarás
+  ud: rezongará
+  nosotros: rezongaremos
+  vosotros: rezongaréis
+  uds: rezongarán
+condicional-simple:
+  yo: rezongaría
+  tu: rezongarías
+  vos: rezongarías
+  ud: rezongaría
+  nosotros: rezongaríamos
+  vosotros: rezongaríais
+  uds: rezongarían
+presente-perfecto:
+  yo: he rezongado
+  tu: has rezongado
+  vos: has rezongado
+  ud: ha rezongado
+  nosotros: hemos rezongado
+  vosotros: habéis rezongado
+  uds: han rezongado
+preterito-pluscuamperfecto:
+  yo: había rezongado
+  tu: habías rezongado
+  vos: habías rezongado
+  ud: había rezongado
+  nosotros: habíamos rezongado
+  vosotros: habíais rezongado
+  uds: habían rezongado
+futuro-perfecto:
+  yo: habré rezongado
+  tu: habrás rezongado
+  vos: habrás rezongado
+  ud: habrá rezongado
+  nosotros: habremos rezongado
+  vosotros: habréis rezongado
+  uds: habrán rezongado
+condicional-perfecto:
+  yo: habría rezongado
+  tu: habrías rezongado
+  vos: habrías rezongado
+  ud: habría rezongado
+  nosotros: habríamos rezongado
+  vosotros: habríais rezongado
+  uds: habrían rezongado
+presente-subjuntivo:
+  yo: rezhóngue
+  tu: rezhóngues
+  vos: rezhóngues
+  ud: rezhóngue
+  nosotros: rehonguemos
+  vosotros: rehónguéis
+  uds: rezhónguen
+preterito-perfecto-subjuntivo:
+  yo: haya rezongado
+  tu: hayas rezongado
+  vos: hayas rezongado
+  ud: haya rezongado
+  nosotros: hayamos rezongado
+  vosotros: hayáis rezongado
+  uds: hayan rezongado
+imperfecto-subjuntivo:
+  yo:
+    - rezongara
+    - rezongase
+  tu:
+    - rezongaras
+    - rezongases
+  vos:
+    - rezongaras
+    - rezongases
+  ud:
+    - rezongara
+    - rezongase
+  nosotros:
+    - rezongáramos
+    - rezongásemos
+  vosotros:
+    - rezongarais
+    - rezongaseis
+  uds:
+    - rezongaran
+    - rezongasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rezongado
+    - hubiese rezongado
+  tu:
+    - hubieras rezongado
+    - hubieses rezongado
+  vos:
+    - hubieras rezongado
+    - hubieses rezongado
+  ud:
+    - hubiera rezongado
+    - hubiese rezongado
+  nosotros:
+    - hubiéramos rezongado
+    - hubiésemos rezongado
+  vosotros:
+    - hubierais rezongado
+    - hubieseis rezongado
+  uds:
+    - hubieran rezongado
+    - hubiesen rezongado
+imperativo:
+  tu: rezhóngara
+  vos: rezhóngara
+  ud: rezhóngue
+  nosotros: rehonguemos
+  vosotros: rezhongad
+  uds: rezhónguen

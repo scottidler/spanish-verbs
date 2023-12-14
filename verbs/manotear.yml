@@ -1,0 +1,142 @@
+infinitivo: manotear
+gerundio: manoteando
+participio-pasado: manoteado
+presente-indicativo:
+  yo: manoteo
+  tu: manoteas
+  vos: manoteas
+  ud: manotea
+  nosotros: manoteamos
+  vosotros: manoteáis
+  uds: manotean
+preterito-perfecto-simple:
+  yo: manotié
+  tu: manoteaste
+  vos: manoteaste
+  ud: manoteó
+  nosotros: manoteamos
+  vosotros: manoteasteis
+  uds: manotearon
+preterito-imperfecto:
+  yo: manoteaba
+  tu: manoteabas
+  vos: manoteabas
+  ud: manoteaba
+  nosotros: manoteábamos
+  vosotros: manoteabais
+  uds: manoteaban
+futuro-simple:
+  yo: manotearé
+  tu: manotearás
+  vos: manotearás
+  ud: manoteará
+  nosotros: manotearemos
+  vosotros: manotearéis
+  uds: manotearán
+condicional-simple:
+  yo: manotearía
+  tu: manotearías
+  vos: manotearías
+  ud: manotearía
+  nosotros: manotearíamos
+  vosotros: manotearíais
+  uds: manotearían
+presente-perfecto:
+  yo: he manoteado
+  tu: has manoteado
+  vos: has manoteado
+  ud: ha manoteado
+  nosotros: hemos manoteado
+  vosotros: habéis manoteado
+  uds: han manoteado
+preterito-pluscuamperfecto:
+  yo: había manoteado
+  tu: habías manoteado
+  vos: habías manoteado
+  ud: había manoteado
+  nosotros: habíamos manoteado
+  vosotros: habíais manoteado
+  uds: habían manoteado
+futuro-perfecto:
+  yo: habré manoteado
+  tu: habrás manoteado
+  vos: habrás manoteado
+  ud: habrá manoteado
+  nosotros: habremos manoteado
+  vosotros: habréis manoteado
+  uds: habrán manoteado
+condicional-perfecto:
+  yo: habría manoteado
+  tu: habrías manoteado
+  vos: habrías manoteado
+  ud: habría manoteado
+  nosotros: habríamos manoteado
+  vosotros: habríais manoteado
+  uds: habrían manoteado
+presente-subjuntivo:
+  yo: manotee
+  tu: manotees
+  vos: manotees
+  ud: manotee
+  nosotros: manoteemos
+  vosotros: manoteéis
+  uds: manoteen
+preterito-perfecto-subjuntivo:
+  yo: haya manoteado
+  tu: hayas manoteado
+  vos: hayas manoteado
+  ud: haya manoteado
+  nosotros: hayamos manoteado
+  vosotros: hayáis manoteado
+  uds: hayan manoteado
+imperfecto-subjuntivo:
+  yo:
+    - manoteara
+    - manotease
+  tu:
+    - manotearas
+    - manoteases
+  vos:
+    - manotearas
+    - manoteases
+  ud:
+    - manoteara
+    - manotease
+  nosotros:
+    - manoteáramos
+    - manoteásemos
+  vosotros:
+    - manotearais
+    - manoteaseis
+  uds:
+    - manotearan
+    - manoteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera manoteado
+    - hubiese manoteado
+  tu:
+    - hubieras manoteado
+    - hubieses manoteado
+  vos:
+    - hubieras manoteado
+    - hubieses manoteado
+  ud:
+    - hubiera manoteado
+    - hubiese manoteado
+  nosotros:
+    - hubiéramos manoteado
+    - hubiésemos manoteado
+  vosotros:
+    - hubierais manoteado
+    - hubieseis manoteado
+  uds:
+    - hubieran manoteado
+    - hubiesen manoteado
+imperativo:
+  tu: manotea
+  vos: manoteá
+  ud: manotee
+  nosotros: manoteemos
+  vosotros: manotead
+  uds: manoteen

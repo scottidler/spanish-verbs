@@ -1,0 +1,142 @@
+infinitivo: corresponder
+gerundio: correspondiendo
+participio-pasado: correspondido
+presente-indicativo:
+  yo: correspondo
+  tu: correspondes
+  vos: correspondes
+  ud: corresponde
+  nosotros: correspondemos
+  vosotros: correspondeis
+  uds: corresponden
+preterito-perfecto-simple:
+  yo: correspondi
+  tu: correspondiste
+  vos: correspondiste
+  ud: correspondio
+  nosotros: correspondimos
+  vosotros: correspondisteis
+  uds: correspondieron
+preterito-imperfecto:
+  yo: correspondia
+  tu: correspondias
+  vos: correspondias
+  ud: correspondia
+  nosotros: correspondiamos
+  vosotros: correspondiais
+  uds: correspondian
+futuro-simple:
+  yo: correspondere
+  tu: corresponderas
+  vos: corresponderas
+  ud: correspondera
+  nosotros: responderemos
+  vosotros: corresponderais
+  uds: corresponderan
+condicional-simple:
+  yo: corresponderia
+  tu: corresponderias
+  vos: corresponderias
+  ud: corresponderia
+  nosotros: corresponderiamos
+  vosotros: corresponderiais
+  uds: corresponderian
+presente-perfecto:
+  yo: he correspondido
+  tu: has correspondido
+  vos: has correspondido
+  ud: ha correspondido
+  nosotros: hemos correspondido
+  vosotros: habeis correspondido
+  uds: han correspondido
+preterito-pluscuamperfecto:
+  yo: habia correspondido
+  tu: habias correspondido
+  vos: habias correspondido
+  ud: habia correspondido
+  nosotros: habiamos correspondido
+  vosotros: habiais correspondido
+  uds: habian correspondido
+futuro-perfecto:
+  yo: habre correspondido
+  tu: habras correspondido
+  vos: habras correspondido
+  ud: habra correspondido
+  nosotros: habremos correspondido
+  vosotros: habreis correspondido
+  uds: habran correspondido
+condicional-perfecto:
+  yo: habria correspondido
+  tu: habrias correspondido
+  vos: habrias correspondido
+  ud: habria correspondido
+  nosotros: habriamos correspondido
+  vosotros: habriais correspondido
+  uds: habrian correspondido
+presente-subjuntivo:
+  yo: corresponda
+  tu: correspondas
+  vos: correspondas
+  ud: corresponda
+  nosotros: correspondamos
+  vosotros: correspondais
+  uds: correspondan
+preterito-perfecto-subjuntivo:
+  yo: haya correspondido
+  tu: hayas correspondido
+  vos: hayas correspondido
+  ud: haya correspondido
+  nosotros: hayamos correspondido
+  vosotros: hayais correspondido
+  uds: hayan correspondido
+imperfecto-subjuntivo:
+  yo:
+    - correspondiera
+    - correspondiese
+  tu:
+    - correspondieras
+    - correspondieses
+  vos:
+    - correspondieras
+    - correspondieses
+  ud:
+    - correspondiera
+    - correspondiese
+  nosotros:
+    - correspondieramos
+    - correspondiesemos
+  vosotros:
+    - correspondierais
+    - correspondieseis
+  uds:
+    - correspondieran
+    - correspondiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera correspondido
+    - hubiese correspondido
+  tu:
+    - hubieras correspondido
+    - hubieses correspondido
+  vos:
+    - hubieras correspondido
+    - hubieses correspondido
+  ud:
+    - hubiera correspondido
+    - hubiese correspondido
+  nosotros:
+    - hubieramos correspondido
+    - hubiesemos correspondido
+  vosotros:
+    - hubierais correspondido
+    - hubieseis correspondido
+  uds:
+    - hubieran correspondido
+    - hubiesen correspondido
+imperativo:
+  tu: corresponde
+  vos: corresponda
+  ud: corresponda
+  nosotros: correspondamos
+  vosotros: responded
+  uds: correspondan

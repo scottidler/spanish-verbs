@@ -1,0 +1,142 @@
+infinitivo: retirarse
+gerundio: retirándose
+participio-pasado: retirado
+presente-indicativo:
+  yo: me retiro
+  tu: te retiras
+  vos: te retiras
+  ud: se retira
+  nosotros: nos retiramos
+  vosotros: os retiráis
+  uds: se retiran
+preterito-perfecto-simple:
+  yo: me retiré
+  tu: te retiraste
+  vos: te retiraste
+  ud: se retiró
+  nosotros: nos retiramos
+  vosotros: os retirasteis
+  uds: se retiraron
+preterito-imperfecto:
+  yo: me retiraba
+  tu: te retirabas
+  vos: te retirabas
+  ud: se retiraba
+  nosotros: nos retirábamos
+  vosotros: os retirabais
+  uds: se retiraban
+futuro-simple:
+  yo: me retiraré
+  tu: te retirarás
+  vos: te retirarás
+  ud: se retirará
+  nosotros: nos retiraremos
+  vosotros: os retiraréis
+  uds: se retirarán
+condicional-simple:
+  yo: me retiraría
+  tu: te retirarías
+  vos: te retirarías
+  ud: se retiraría
+  nosotros: nos retiraríamos
+  vosotros: os retiraríais
+  uds: se retirarían
+presente-perfecto:
+  yo: me he retirado
+  tu: te has retirado
+  vos: te has retirado
+  ud: se ha retirado
+  nosotros: nos hemos retirado
+  vosotros: os habéis retirado
+  uds: se han retirado
+preterito-pluscuamperfecto:
+  yo: me había retirado
+  tu: te habías retirado
+  vos: te habías retirado
+  ud: se había retirado
+  nosotros: nos habíamos retirado
+  vosotros: os habíais retirado
+  uds: se habían retirado
+futuro-perfecto:
+  yo: me habré retirado
+  tu: te habrás retirado
+  vos: te habrás retirado
+  ud: se habrá retirado
+  nosotros: nos habremos retirado
+  vosotros: os habréis retirado
+  uds: se habrán retirado
+condicional-perfecto:
+  yo: me habría retirado
+  tu: te habrías retirado
+  vos: te habrías retirado
+  ud: se habría retirado
+  nosotros: nos habríamos retirado
+  vosotros: os habríais retirado
+  uds: se habrían retirado
+presente-subjuntivo:
+  yo: me retire
+  tu: te retires
+  vos: te retires
+  ud: se retire
+  nosotros: nos retiremos
+  vosotros: os retiréis
+  uds: se retiren
+preterito-perfecto-subjuntivo:
+  yo: me haya retirado
+  tu: te hayas retirado
+  vos: te hayas retirado
+  ud: se haya retirado
+  nosotros: nos hayamos retirado
+  vosotros: os hayáis retirado
+  uds: se hayan retirado
+imperfecto-subjuntivo:
+  yo:
+    - me retirara
+    - me retirase
+  tu:
+    - te retiraras
+    - te retirases
+  vos:
+    - te retiraras
+    - te retirases
+  ud:
+    - se retirara
+    - se retirase
+  nosotros:
+    - nos retiráramos
+    - nos retirásemos
+  vosotros:
+    - os retirarais
+    - os retiraseis
+  uds:
+    - se retiraran
+    - se retiraran
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera retirado
+    - me hubiese retirado
+  tu:
+    - te hubieras retirado
+    - te hubieses retirado
+  vos:
+    - te hubieras retirado
+    - te hubieses retirado
+  ud:
+    - se hubiera retirado
+    - se hubiese retirado
+  nosotros:
+    - nos hubiéramos retirado
+    - nos hubiésemos retirado
+  vosotros:
+    - os hubierais retirado
+    - os hubieseis retirado
+  uds:
+    - se hubieran retirado
+    - se hubiesen retirado
+imperativo:
+  tu: retírate
+  vos: retiráte
+  ud: retírese
+  nosotros: retirémonos
+  vosotros: retiraos
+  uds: retírense

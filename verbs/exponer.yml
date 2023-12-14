@@ -1,0 +1,142 @@
+infinitivo: exponer
+gerundio: exponiendo
+participio-pasado: expuesto
+presente-indicativo:
+  yo: expongo
+  tu: expones
+  vos: exponés
+  ud: expone
+  nosotros: exponemos
+  vosotros: exponéis
+  uds: exponen
+preterito-perfecto-simple:
+  yo: expuse
+  tu: expusiste
+  vos: expusiste
+  ud: expuso
+  nosotros: expusimos
+  vosotros: expusisteis
+  uds: expusieron
+preterito-imperfecto:
+  yo: exponía
+  tu: exponías
+  vos: exponías
+  ud: exponía
+  nosotros: exponíamos
+  vosotros: exponíais
+  uds: exponían
+futuro-simple:
+  yo: expondré
+  tu: expondrás
+  vos: expondrás
+  ud: expondrá
+  nosotros: expondremos
+  vosotros: expondréis
+  uds: expondrán
+condicional-simple:
+  yo: expondría
+  tu: expondrías
+  vos: expondrías
+  ud: expondría
+  nosotros: expondríamos
+  vosotros: expondríais
+  uds: expondrían
+presente-perfecto:
+  yo: he expuesto
+  tu: has expuesto
+  vos: has expuesto
+  ud: ha expuesto
+  nosotros: hemos expuesto
+  vosotros: habéis expuesto
+  uds: han expuesto
+preterito-pluscuamperfecto:
+  yo: había expuesto
+  tu: habías expuesto
+  vos: habías expuesto
+  ud: había expuesto
+  nosotros: habíamos expuesto
+  vosotros: habíais expuesto
+  uds: habían expuesto
+futuro-perfecto:
+  yo: habré expuesto
+  tu: habrás expuesto
+  vos: habrás expuesto
+  ud: habrá expuesto
+  nosotros: habremos expuesto
+  vosotros: habréis expuesto
+  uds: habrán expuesto
+condicional-perfecto:
+  yo: habría expuesto
+  tu: habrías expuesto
+  vos: habrías expuesto
+  ud: habría expuesto
+  nosotros: habríamos expuesto
+  vosotros: habríais expuesto
+  uds: habrían expuesto
+presente-subjuntivo:
+  yo: exponga
+  tu: expongas
+  vos: expongas
+  ud: exponga
+  nosotros: expongamos
+  vosotros: expongáis
+  uds: expongan
+preterito-perfecto-subjuntivo:
+  yo: haya expuesto
+  tu: hayas expuesto
+  vos: hayas expuesto
+  ud: haya expuesto
+  nosotros: hayamos expuesto
+  vosotros: hayáis expuesto
+  uds: hayan expuesto
+imperfecto-subjuntivo:
+  yo:
+    - expusiera
+    - expusiese
+  tu:
+    - expusieras
+    - expusieses
+  vos:
+    - expusieras
+    - expusieses
+  ud:
+    - expusiera
+    - expusiese
+  nosotros:
+    - expusiéramos
+    - expusiésemos
+  vosotros:
+    - expusierais
+    - expusieseis
+  uds:
+    - expusieran
+    - expusiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera expuesto
+    - hubiese expuesto
+  tu:
+    - hubieras expuesto
+    - hubieses expuesto
+  vos:
+    - hubieras expuesto
+    - hubieses expuesto
+  ud:
+    - hubiera expuesto
+    - hubiese expuesto
+  nosotros:
+    - hubiéramos expuesto
+    - hubiésemos expuesto
+  vosotros:
+    - hubierais expuesto
+    - hubieseis expuesto
+  uds:
+    - hubieran expuesto
+    - hubiesen expuesto
+imperativo:
+  tu: expón
+  vos: exponé
+  ud: exponga
+  nosotros: expongamos
+  vosotros: exponed
+  uds: expongan

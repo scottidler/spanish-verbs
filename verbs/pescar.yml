@@ -1,0 +1,142 @@
+infinitivo: pescar
+gerundio: pescando
+participio-pasado: pescado
+presente-indicativo:
+  yo: pesco
+  tu: pescas
+  vos: pescas
+  ud: pesca
+  nosotros: pescamos
+  vosotros: pescáis
+  uds: pescan
+preterito-perfecto-simple:
+  yo: pesqué
+  tu: pescaste
+  vos: pescaste
+  ud: pescó
+  nosotros: pescamos
+  vosotros: pescasteis
+  uds: pescaron
+preterito-imperfecto:
+  yo: pescaba
+  tu: pescabas
+  vos: pescabas
+  ud: pescaba
+  nosotros: pescábamos
+  vosotros: pescabais
+  uds: pescaban
+futuro-simple:
+  yo: pescaré
+  tu: pescarás
+  vos: pescarás
+  ud: pescará
+  nosotros: pescaremos
+  vosotros: pescaréis
+  uds: pescarán
+condicional-simple:
+  yo: pescaría
+  tu: pescarías
+  vos: pescarías
+  ud: pescaría
+  nosotros: pescaríamos
+  vosotros: pescaríais
+  uds: pescarían
+presente-perfecto:
+  yo: he pescado
+  tu: has pescado
+  vos: has pescado
+  ud: ha pescado
+  nosotros: hemos pescado
+  vosotros: habéis pescado
+  uds: han pescado
+preterito-pluscuamperfecto:
+  yo: había pescado
+  tu: habías pescado
+  vos: habías pescado
+  ud: había pescado
+  nosotros: habíamos pescado
+  vosotros: habíais pescado
+  uds: habían pescado
+futuro-perfecto:
+  yo: habré pescado
+  tu: habrás pescado
+  vos: habrás pescado
+  ud: habrá pescado
+  nosotros: habremos pescado
+  vosotros: habréis pescado
+  uds: habrán pescado
+condicional-perfecto:
+  yo: habría pescado
+  tu: habrías pescado
+  vos: habrías pescado
+  ud: habría pescado
+  nosotros: habríamos pescado
+  vosotros: habríais pescado
+  uds: habrían pescado
+presente-subjuntivo:
+  yo: pesque
+  tu: pesques
+  vos: pesques
+  ud: pesque
+  nosotros: pesquemos
+  vosotros: pesquéis
+  uds: pesquen
+preterito-perfecto-subjuntivo:
+  yo: haya pescado
+  tu: hayas pescado
+  vos: hayas pescado
+  ud: haya pescado
+  nosotros: hayamos pescado
+  vosotros: hayáis pescado
+  uds: hayan pescado
+imperfecto-subjuntivo:
+  yo:
+    - pescara
+    - pescase
+  tu:
+    - pescaras
+    - pescases
+  vos:
+    - pescaras
+    - pescases
+  ud:
+    - pescara
+    - pescase
+  nosotros:
+    - pescáramos
+    - pescásemos
+  vosotros:
+    - pescarais
+    - pescaseis
+  uds:
+    - pescaran
+    - pescasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pescado
+    - hubiese pescado
+  tu:
+    - hubieras pescado
+    - hubieses pescado
+  vos:
+    - hubieras pescado
+    - hubieses pescado
+  ud:
+    - hubiera pescado
+    - hubiese pescado
+  nosotros:
+    - hubiéramos pescado
+    - hubiésemos pescado
+  vosotros:
+    - hubierais pescado
+    - hubieseis pescado
+  uds:
+    - hubieran pescado
+    - hubiesen pescado
+imperativo:
+  tu: pesca
+  vos: pescá
+  ud: pesque
+  nosotros: pesquemos
+  vosotros: pescad
+  uds: pesquen

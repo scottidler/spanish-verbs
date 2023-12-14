@@ -1,0 +1,156 @@
+infinitivo: refugiarse
+gerundio: refugiándose
+participio-pasado: refugiado
+
+presente-indicativo:
+  yo: me refugio
+  tu: te refugias
+  vos: te refugias
+  ud: se refugia
+  nosotros: nos refugiamos
+  vosotros: os refugiáis
+  uds: se refugian
+
+preterito-perfecto-simple:
+  yo: me refugié
+  tu: te refugiaste
+  vos: te refugiaste
+  ud: se refugió
+  nosotros: nos refugiamos
+  vosotros: os refugiasteis
+  uds: se refugiaron
+
+preterito-imperfecto:
+  yo: me refugiaba
+  tu: te refugiabas
+  vos: te refugiabas
+  ud: se refugiaba
+  nosotros: nos refugiábamos
+  vosotros: os refugiabais
+  uds: se refugiaban
+
+futuro-simple:
+  yo: me refugiaré
+  tu: te refugiarás
+  vos: te refugiarás
+  ud: se refugiará
+  nosotros: nos refugiaremos
+  vosotros: os refugiaréis
+  uds: se refugiarán
+
+condicional-simple:
+  yo: me refugiaría
+  tu: te refugiarías
+  vos: te refugiarías
+  ud: se refugiaría
+  nosotros: nos refugiaríamos
+  vosotros: os refugiaríais
+  uds: se refugiarían
+
+presente-perfecto:
+  yo: me he refugiado
+  tu: te has refugiado
+  vos: te has refugiado
+  ud: se ha refugiado
+  nosotros: nos hemos refugiado
+  vosotros: os habéis refugiado
+  uds: se han refugiado
+
+preterito-pluscuamperfecto:
+  yo: me había refugiado
+  tu: te habías refugiado
+  vos: te habías refugiado
+  ud: se había refugiado
+  nosotros: nos habíamos refugiado
+  vosotros: os habíais refugiado
+  uds: se habían refugiado
+
+futuro-perfecto:
+  yo: me habré refugiado
+  tu: te habrás refugiado
+  vos: te habrás refugiado
+  ud: se habrá refugiado
+  nosotros: nos habremos refugiado
+  vosotros: os habréis refugiado
+  uds: se habrán refugiado
+
+condicional-perfecto:
+  yo: me habría refugiado
+  tu: te habrías refugiado
+  vos: te habrías refugiado
+  ud: se habría refugiado
+  nosotros: nos habríamos refugiado
+  vosotros: os habríais refugiado
+  uds: se habrían refugiado
+
+presente-subjuntivo:
+  yo: me refugie
+  tu: te refugies
+  vos: te refugies
+  ud: se refugie
+  nosotros: nos refugiemos
+  vosotros: os refugiéis
+  uds: se refugien
+
+preterito-perfecto-subjuntivo:
+  yo: me haya refugiado
+  tu: te hayas refugiado
+  vos: te hayas refugiado
+  ud: se haya refugiado
+  nosotros: nos hayamos refugiado
+  vosotros: os hayáis refugiado
+  uds: se hayan refugiado
+
+imperfecto-subjuntivo:
+  yo:
+    - me refugiara
+    - me refugiase
+  tu:
+    - te refugiaras
+    - te refugiases
+  vos:
+    - te refugiaras
+    - te refugiases
+  ud:
+    - se refugiara
+    - se refugiase
+  nosotros:
+    - nos refugiáramos
+    - nos refugiásemos
+  vosotros:
+    - os refugiarais
+    - os refugiaseis
+  uds:
+    - se refugiara
+    - se refugiase
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera refugiado
+    - me hubiese refugiado
+  tu:
+    - te hubieras refugiado
+    - te hubieses refugiado
+  vos:
+    - te hubieras refugiado
+    - te hubieses refugiado
+  ud:
+    - se hubiera refugiado
+    - se hubiese refugiado
+  nosotros:
+    - nos hubiéramos refugiado
+    - nos hubiésemos refugiado
+  vosotros:
+    - os hubierais refugiado
+    - os hubieseis refugiado
+  uds:
+    - se hubieran refugiado
+    - se hubiesen refugiado
+
+imperativo:
+  tu: refúgiate
+  vos: refugiate
+  ud: refúgiese
+  nosotros: refugiémonos
+  vosotros: refugiaos
+  uds: refúgiense

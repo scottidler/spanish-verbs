@@ -1,0 +1,142 @@
+infinitivo: radicar
+gerundio: radicando
+participio-pasado: radicado
+presente-indicativo:
+  yo: radico
+  tu: radicas
+  vos: radicas
+  ud: radica
+  nosotros: radicamos
+  vosotros: radicáis
+  uds: radican
+preterito-perfecto-simple:
+  yo: radiqué
+  tu: radicaste
+  vos: radicaste
+  ud: radicó
+  nosotros: radicamos
+  vosotros: radicasteis
+  uds: radicaron
+preterito-imperfecto:
+  yo: radicaba
+  tu: radicabas
+  vos: radicabas
+  ud: radicaba
+  nosotros: radicábamos
+  vosotros: radicabais
+  uds: radicaban
+futuro-simple:
+  yo: radicaré
+  tu: radicarás
+  vos: radicarás
+  ud: radicará
+  nosotros: radicaremos
+  vosotros: radicaréis
+  uds: radicarán
+condicional-simple:
+  yo: radicaría
+  tu: radicarías
+  vos: radicarías
+  ud: radicaría
+  nosotros: radicaríamos
+  vosotros: radicaríais
+  uds: radicarían
+presente-perfecto:
+  yo: he radicado
+  tu: has radicado
+  vos: has radicado
+  ud: ha radicado
+  nosotros: hemos radicado
+  vosotros: habéis radicado
+  uds: han radicado
+preterito-pluscuamperfecto:
+  yo: había radicado
+  tu: habías radicado
+  vos: habías radicado
+  ud: había radicado
+  nosotros: habíamos radicado
+  vosotros: habíais radicado
+  uds: habían radicado
+futuro-perfecto:
+  yo: habré radicado
+  tu: habrás radicado
+  vos: habrás radicado
+  ud: habrá radicado
+  nosotros: habremos radicado
+  vosotros: habréis radicado
+  uds: habrán radicado
+condicional-perfecto:
+  yo: habría radicado
+  tu: habrías radicado
+  vos: habrías radicado
+  ud: habría radicado
+  nosotros: habríamos radicado
+  vosotros: habríais radicado
+  uds: habrían radicado
+presente-subjuntivo:
+  yo: radique
+  tu: radiques
+  vos: radiques
+  ud: radique
+  nosotros: radiquemos
+  vosotros: radiquéis
+  uds: radiquen
+preterito-perfecto-subjuntivo:
+  yo: haya radicado
+  tu: hayas radicado
+  vos: hayas radicado
+  ud: haya radicado
+  nosotros: hayamos radicado
+  vosotros: hayáis radicado
+  uds: hayan radicado
+imperfecto-subjuntivo:
+  yo:
+    - radicara
+    - radicase
+  tu:
+    - radicaras
+    - radicases
+  vos:
+    - radicaras
+    - radicases
+  ud:
+    - radicara
+    - radicase
+  nosotros:
+    - radicáramos
+    - radicásemos
+  vosotros:
+    - radicalas
+    - radicaseis
+  uds:
+    - radicaran
+    - radicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera radicado
+    - hubiese radicado
+  tu:
+    - hubieras radicado
+    - hubieses radicado
+  vos:
+    - hubieras radicado
+    - hubieses radicado
+  ud:
+    - hubiera radicado
+    - hubiese radicado
+  nosotros:
+    - hubiéramos radicado
+    - hubiésemos radicado
+  vosotros:
+    - hubierais radicado
+    - hubieseis radicado
+  uds:
+    - hubieran radicado
+    - hubiesen radicado
+imperativo:
+  tu: radica
+  vos: radicá
+  ud: radique
+  nosotros: radiquemos
+  vosotros: radicad
+  uds: radiquen

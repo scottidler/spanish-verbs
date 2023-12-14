@@ -1,0 +1,142 @@
+infinitivo: replantearse
+gerundio: replanteándose
+participio-pasado: replanteado
+presente-indicativo:
+  yo: me replanteo
+  tu: te replanteas
+  vos: te replanteás
+  ud: se replantea
+  nosotros: nos replanteamos
+  vosotros: os replanteáis
+  uds: se replantean
+preterito-perfecto-simple:
+  yo: me replanteé
+  tu: te replanteaste
+  vos: te replanteaste
+  ud: se replanteó
+  nosotros: nos replanteamos
+  vosotros: os replanteasteis
+  uds: se replantearon
+preterito-imperfecto:
+  yo: me replanteaba
+  tu: te replanteabas
+  vos: te replanteabas
+  ud: se replanteaba
+  nosotros: nos replanteábamos
+  vosotros: os replanteabais
+  uds: se replanteaban
+futuro-simple:
+  yo: me replantearé
+  tu: te replantearás
+  vos: te replantearás
+  ud: se replanteará
+  nosotros: nos replantearemos
+  vosotros: os replantearéis
+  uds: se replantearán
+condicional-simple:
+  yo: me replantearía
+  tu: te replantearías
+  vos: te replantearías
+  ud: se replantearía
+  nosotros: nos replantearíamos
+  vosotros: os replantearíais
+  uds: se replantearían
+presente-perfecto:
+  yo: me he replanteado
+  tu: te has replanteado
+  vos: te has replanteado
+  ud: se ha replanteado
+  nosotros: nos hemos replanteado
+  vosotros: os habéis replanteado
+  uds: se han replanteado
+preterito-pluscuamperfecto:
+  yo: me había replanteado
+  tu: te habías replanteado
+  vos: te habías replanteado
+  ud: se había replanteado
+  nosotros: nos habíamos replanteado
+  vosotros: os habíais replanteado
+  uds: se habían replanteado
+futuro-perfecto:
+  yo: me habré replanteado
+  tu: te habrás replanteado
+  vos: te habrás replanteado
+  ud: se habrá replanteado
+  nosotros: nos habremos replanteado
+  vosotros: os habréis replanteado
+  uds: se habrán replanteado
+condicional-perfecto:
+  yo: me habría replanteado
+  tu: te habrías replanteado
+  vos: te habrías replanteado
+  ud: se habría replanteado
+  nosotros: nos habríamos replanteado
+  vosotros: os habríais replanteado
+  uds: se habrían replanteado
+presente-subjuntivo:
+  yo: me replantee
+  tu: te replantees
+  vos: te replantees
+  ud: se replantee
+  nosotros: nos replanteemos
+  vosotros: os replanteéis
+  uds: se replanteen
+preterito-perfecto-subjuntivo:
+  yo: me haya replanteado
+  tu: te hayas replanteado
+  vos: te hayas replanteado
+  ud: se haya replanteado
+  nosotros: nos hayamos replanteado
+  vosotros: os hayáis replanteado
+  uds: se hayan replanteado
+imperfecto-subjuntivo:
+  yo:
+    - me replanteara
+    - me replantease
+  tu:
+    - te replantearas
+    - te replanteases
+  vos:
+    - te replantearas
+    - te replanteases
+  ud:
+    - se replanteara
+    - se replantease
+  nosotros:
+    - nos replanteáramos
+    - nos replanteásemos
+  vosotros:
+    - os replantearais
+    - os replanteaseis
+  uds:
+    - se replantearan
+    - se replanteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera replanteado
+    - me hubiese replanteado
+  tu:
+    - te hubieras replanteado
+    - te hubieses replanteado
+  vos:
+    - te hubieras replanteado
+    - te hubieses replanteado
+  ud:
+    - se hubiera replanteado
+    - se hubiese replanteado
+  nosotros:
+    - nos hubiéramos replanteado
+    - nos hubiésemos replanteado
+  vosotros:
+    - os hubierais replanteado
+    - os hubieseis replanteado
+  uds:
+    - se hubieran replanteado
+    - se hubiesen replanteado
+imperativo:
+  tu: replantéate
+  vos: replanteate
+  ud: replantéese
+  nosotros: replantéemonos
+  vosotros: replantaos
+  uds: replantéense

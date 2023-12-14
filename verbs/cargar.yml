@@ -1,0 +1,142 @@
+infinitivo: cargar
+gerundio: cargando
+participio-pasado: cargado
+presente-indicativo:
+  yo: cargo
+  tu: cargas
+  vos: cargas
+  ud: carga
+  nosotros: cargamos
+  vosotros: cargáis
+  uds: cargan
+preterito-perfecto-simple:
+  yo: cargué
+  tu: cargaste
+  vos: cargaste
+  ud: cargó
+  nosotros: cargamos
+  vosotros: cargasteis
+  uds: cargaron
+preterito-imperfecto:
+  yo: cargaba
+  tu: cargabas
+  vos: cargabas
+  ud: cargaba
+  nosotros: cargábamos
+  vosotros: cargabais
+  uds: cargaban
+futuro-simple:
+  yo: cargaré
+  tu: cargarás
+  vos: cargarás
+  ud: cargará
+  nosotros: cargaremos
+  vosotros: cargaréis
+  uds: cargarán
+condicional-simple:
+  yo: cargaría
+  tu: cargarías
+  vos: cargarías
+  ud: cargaría
+  nosotros: cargaríamos
+  vosotros: cargaríais
+  uds: cargarían
+presente-perfecto:
+  yo: he cargado
+  tu: has cargado
+  vos: has cargado
+  ud: ha cargado
+  nosotros: hemos cargado
+  vosotros: habéis cargado
+  uds: han cargado
+preterito-pluscuamperfecto:
+  yo: había cargado
+  tu: habías cargado
+  vos: habías cargado
+  ud: había cargado
+  nosotros: habíamos cargado
+  vosotros: habíais cargado
+  uds: habían cargado
+futuro-perfecto:
+  yo: habré cargado
+  tu: habrás cargado
+  vos: habrás cargado
+  ud: habrá cargado
+  nosotros: habremos cargado
+  vosotros: habréis cargado
+  uds: habrán cargado
+condicional-perfecto:
+  yo: habría cargado
+  tu: habrías cargado
+  vos: habrías cargado
+  ud: habría cargado
+  nosotros: habríamos cargado
+  vosotros: habríais cargado
+  uds: habrían cargado
+presente-subjuntivo:
+  yo: cargue
+  tu: cargues
+  vos: cargues
+  ud: cargue
+  nosotros: carguemos
+  vosotros: carguéis
+  uds: carguen
+preterito-perfecto-subjuntivo:
+  yo: haya cargado
+  tu: hayas cargado
+  vos: hayas cargado
+  ud: haya cargado
+  nosotros: hayamos cargado
+  vosotros: hayáis cargado
+  uds: hayan cargado
+imperfecto-subjuntivo:
+  yo:
+    - cargara
+    - cargase
+  tu:
+    - cargaras
+    - cargases
+  vos:
+    - cargaras
+    - cargases
+  ud:
+    - cargara
+    - cargase
+  nosotros:
+    - cargáramos
+    - cargásemos
+  vosotros:
+    - cargarais
+    - cargaseis
+  uds:
+    - cargaran
+    - cargasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cargado
+    - hubiese cargado
+  tu:
+    - hubieras cargado
+    - hubieses cargado
+  vos:
+    - hubieras cargado
+    - hubieses cargado
+  ud:
+    - hubiera cargado
+    - hubiese cargado
+  nosotros:
+    - hubiéramos cargado
+    - hubiésemos cargado
+  vosotros:
+    - hubierais cargado
+    - hubieseis cargado
+  uds:
+    - hubieran cargado
+    - hubiesen cargado
+imperativo:
+  tu: carga
+  vos: cargá
+  ud: cargue
+  nosotros: carguemos
+  vosotros: cargad
+  uds: carguen

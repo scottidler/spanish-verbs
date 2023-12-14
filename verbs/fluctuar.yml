@@ -1,0 +1,142 @@
+infinitivo: fluctuar
+gerundio: fluctuando
+participio-pasado: fluctuado
+presente-indicativo:
+  yo: fluctúo
+  tu: fluctúas
+  vos: fluctuás
+  ud: fluctúa
+  nosotros: fluctuamos
+  vosotros: fluctuáis
+  uds: fluctúan
+preterito-perfecto-simple:
+  yo: fluctué
+  tu: fluctuaste
+  vos: fluctuaste
+  ud: fluctuó
+  nosotros: fluctuamos
+  vosotros: fluctuasteis
+  uds: fluctuaron
+preterito-imperfecto:
+  yo: fluctuaba
+  tu: fluctuabas
+  vos: fluctuabas
+  ud: fluctuaba
+  nosotros: fluctuábamos
+  vosotros: fluctuabais
+  uds: fluctuaban
+futuro-simple:
+  yo: fluctuaré
+  tu: fluctuarás
+  vos: fluctuarás
+  ud: fluctuará
+  nosotros: fluctuaremos
+  vosotros: fluctuaréis
+  uds: fluctuarán
+condicional-simple:
+  yo: fluctuaría
+  tu: fluctuarías
+  vos: fluctuarías
+  ud: fluctuaría
+  nosotros: fluctuaríamos
+  vosotros: fluctuaríais
+  uds: fluctuarían
+presente-perfecto:
+  yo: he fluctuado
+  tu: has fluctuado
+  vos: has fluctuado
+  ud: ha fluctuado
+  nosotros: hemos fluctuado
+  vosotros: habéis fluctuado
+  uds: han fluctuado
+preterito-pluscuamperfecto:
+  yo: había fluctuado
+  tu: habías fluctuado
+  vos: habías fluctuado
+  ud: había fluctuado
+  nosotros: habíamos fluctuado
+  vosotros: habíais fluctuado
+  uds: habían fluctuado
+futuro-perfecto:
+  yo: habré fluctuado
+  tu: habrás fluctuado
+  vos: habrás fluctuado
+  ud: habrá fluctuado
+  nosotros: habremos fluctuado
+  vosotros: habréis fluctuado
+  uds: habrán fluctuado
+condicional-perfecto:
+  yo: habría fluctuado
+  tu: habrías fluctuado
+  vos: habrías fluctuado
+  ud: habría fluctuado
+  nosotros: habríamos fluctuado
+  vosotros: habríais fluctuado
+  uds: habrían fluctuado
+presente-subjuntivo:
+  yo: fluctúe
+  tu: fluctúes
+  vos: fluctúes
+  ud: fluctúe
+  nosotros: fluctuemos
+  vosotros: fluctuéis
+  uds: fluctúen
+preterito-perfecto-subjuntivo:
+  yo: haya fluctuado
+  tu: hayas fluctuado
+  vos: hayas fluctuado
+  ud: haya fluctuado
+  nosotros: hayamos fluctuado
+  vosotros: hayáis fluctuado
+  uds: hayan fluctuado
+imperfecto-subjuntivo:
+  yo:
+    - fluctuara
+    - fluctuase
+  tu:
+    - fluctuaras
+    - fluctuases
+  vos:
+    - fluctuaras
+    - fluctuases
+  ud:
+    - fluctuara
+    - fluctuase
+  nosotros:
+    - fluctuáramos
+    - fluctuásemos
+  vosotros:
+    - fluctuarais
+    - fluctuaseis
+  uds:
+    - fluctuaran
+    - fluctuasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fluctuado
+    - hubiese fluctuado
+  tu:
+    - hubieras fluctuado
+    - hubieses fluctuado
+  vos:
+    - hubieras fluctuado
+    - hubieses fluctuado
+  ud:
+    - hubiera fluctuado
+    - hubiese fluctuado
+  nosotros:
+    - hubiéramos fluctuado
+    - hubiésemos fluctuado
+  vosotros:
+    - hubierais fluctuado
+    - hubieseis fluctuado
+  uds:
+    - hubieran fluctuado
+    - hubiesen fluctuado
+imperativo:
+  tu: fluctúa
+  vos: fluctuá
+  ud: fluctúe
+  nosotros: fluctuemos
+  vosotros: fluctuad
+  uds: fluctúen

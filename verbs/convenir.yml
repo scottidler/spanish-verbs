@@ -1,0 +1,142 @@
+infinitivo: convenir
+gerundio: conviniendo
+participio-pasado: convenido
+presente-indicativo:
+  yo: convengo
+  tu: convienes
+  vos: convenís
+  ud: conviene
+  nosotros: convenimos
+  vosotros: convenís
+  uds: convienen
+preterito-perfecto-simple:
+  yo: convine
+  tu: conviniste
+  vos: conviniste
+  ud: convino
+  nosotros: convenimos
+  vosotros: convinisteis
+  uds: convinieron
+preterito-imperfecto:
+  yo: convenía
+  tu: convenías
+  vos: convenías
+  ud: convenía
+  nosotros: conveníamos
+  vosotros: conveníais
+  uds: convenían
+futuro-simple:
+  yo: convendré
+  tu: convendrás
+  vos: convendrás
+  ud: convendrá
+  nosotros: convendremos
+  vosotros: convendréis
+  uds: convendrán
+condicional-simple:
+  yo: convendría
+  tu: convendrías
+  vos: convendrías
+  ud: convendría
+  nosotros: convendríamos
+  vosotros: convendríais
+  uds: convendrían
+presente-perfecto:
+  yo: he convenido
+  tu: has convenido
+  vos: has convenido
+  ud: ha convenido
+  nosotros: hemos convenido
+  vosotros: habéis convenido
+  uds: han convenido
+preterito-pluscuamperfecto:
+  yo: había convenido
+  tu: habías convenido
+  vos: habías convenido
+  ud: había convenido
+  nosotros: habíamos convenido
+  vosotros: habíais convenido
+  uds: habían convenido
+futuro-perfecto:
+  yo: habré convenido
+  tu: habrás convenido
+  vos: habrás convenido
+  ud: habrá convenido
+  nosotros: habremos convenido
+  vosotros: habréis convenido
+  uds: habrán convenido
+condicional-perfecto:
+  yo: habría convenido
+  tu: habrías convenido
+  vos: habrías convenido
+  ud: habría convenido
+  nosotros: habríamos convenido
+  vosotros: habríais convenido
+  uds: habrían convenido
+presente-subjuntivo:
+  yo: convenga
+  tu: convengas
+  vos: convengas
+  ud: convenga
+  nosotros: convengamos
+  vosotros: convengáis
+  uds: convengan
+preterito-perfecto-subjuntivo:
+  yo: haya convenido
+  tu: hayas convenido
+  vos: hayas convenido
+  ud: haya convenido
+  nosotros: hayamos convenido
+  vosotros: hayáis convenido
+  uds: hayan convenido
+imperfecto-subjuntivo:
+  yo:
+    - conviniera
+    - conviniese
+  tu:
+    - convinieras
+    - convinieses
+  vos:
+    - convinieras
+    - convinieses
+  ud:
+    - conviniera
+    - conviniese
+  nosotros:
+    - conviniéramos
+    - conviniésemos
+  vosotros:
+    - convinierais
+    - convinieseis
+  uds:
+    - convinieran
+    - conviniesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera convenido
+    - hubiese convenido
+  tu:
+    - hubieras convenido
+    - hubieses convenido
+  vos:
+    - hubieras convenido
+    - hubieses convenido
+  ud:
+    - hubiera convenido
+    - hubiese convenido
+  nosotros:
+    - hubiéramos convenido
+    - hubiésemos convenido
+  vosotros:
+    - hubierais convenido
+    - hubieseis convenido
+  uds:
+    - hubieran convenido
+    - hubiesen convenido
+imperativo:
+  tu: convén
+  vos: convení
+  ud: convenga
+  nosotros: convengamos
+  vosotros: convenid
+  uds: convengan

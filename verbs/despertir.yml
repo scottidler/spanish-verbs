@@ -1,0 +1,142 @@
+infinitivo: despertir
+gerundio: despertiendo
+participio-pasado: despertido
+presente-indicativo:
+  yo: despierto
+  tu: despiertas
+  vos: despiertas
+  ud: despierta
+  nosotros: despertimos
+  vosotros: despertís
+  uds: despiertan
+preterito-perfecto-simple:
+  yo: despertí
+  tu: despertiste
+  vos: despertiste
+  ud: despertió
+  nosotros: despertimos
+  vosotros: despertisteis
+  uds: despertieron
+preterito-imperfecto:
+  yo: despertía
+  tu: despertías
+  vos: despertías
+  ud: despertía
+  nosotros: despertíamos
+  vosotros: despertíais
+  uds: despertían
+futuro-simple:
+  yo: despertiré
+  tu: despertirás
+  vos: despertirás
+  ud: despertirá
+  nosotros: despertiremos
+  vosotros: despertiréis
+  uds: despertirán
+condicional-simple:
+  yo: despertiría
+  tu: despertirías
+  vos: despertirías
+  ud: despertiría
+  nosotros: despertiríamos
+  vosotros: despertiríais
+  uds: despertirían
+presente-perfecto:
+  yo: he despertido
+  tu: has despertido
+  vos: has despertido
+  ud: ha despertido
+  nosotros: hemos despertido
+  vosotros: habéis despertido
+  uds: han despertido
+preterito-pluscuamperfecto:
+  yo: había despertido
+  tu: habías despertido
+  vos: habías despertido
+  ud: había despertido
+  nosotros: habíamos despertido
+  vosotros: habíais despertido
+  uds: habían despertido
+futuro-perfecto:
+  yo: habré despertido
+  tu: habrás despertido
+  vos: habrás despertido
+  ud: habrá despertido
+  nosotros: habremos despertido
+  vosotros: habréis despertido
+  uds: habrán despertido
+condicional-perfecto:
+  yo: habría despertido
+  tu: habrías despertido
+  vos: habrías despertido
+  ud: habría despertido
+  nosotros: habríamos despertido
+  vosotros: habríais despertido
+  uds: habrían despertido
+presente-subjuntivo:
+  yo: despierte
+  tu: despiertes
+  vos: despiertes
+  ud: despierte
+  nosotros: despertiremos
+  vosotros: despertiréis
+  uds: despierten
+preterito-perfecto-subjuntivo:
+  yo: haya despertido
+  tu: hayas despertido
+  vos: hayas despertido
+  ud: haya despertido
+  nosotros: hayamos despertido
+  vosotros: hayáis despertido
+  uds: hayan despertido
+imperfecto-subjuntivo:
+  yo:
+    - despertira
+    - despertiese
+  tu:
+    - despertiras
+    - despertieses
+  vos:
+    - despertiras
+    - despertieses
+  ud:
+    - despertira
+    - despertiese
+  nosotros:
+    - despertíramos
+    - despertísemos
+  vosotros:
+    - despertirais
+    - despertieseis
+  uds:
+    - despertiran
+    - despirtiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera despertido
+    - hubiese despertido
+  tu:
+    - hubieras despertido
+    - hubieses despertido
+  vos:
+    - hubieras despertido
+    - hubieses despertido
+  ud:
+    - hubiera despertido
+    - hubiese despertido
+  nosotros:
+    - hubiéramos despertido
+    - hubiésemos despertido
+  vosotros:
+    - hubierais despertido
+    - hubieseis despertido
+  uds:
+    - hubieran despertido
+    - hubiesen despertido
+imperativo:
+  tu: despierta
+  vos: despiertá
+  ud: despierte
+  nosotros: despertiremos
+  vosotros: despertid
+  uds: despierten

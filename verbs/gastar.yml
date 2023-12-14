@@ -1,0 +1,142 @@
+infinitivo: gastar
+gerundio: gastando
+participio-pasado: gastado
+presente-indicativo:
+  yo: gasto
+  tu: gastas
+  vos: gastas
+  ud: gasta
+  nosotros: gastamos
+  vosotros: gastáis
+  uds: gastan
+preterito-perfecto-simple:
+  yo: gasté
+  tu: gastaste
+  vos: gastaste
+  ud: gastó
+  nosotros: gastamos
+  vosotros: gastasteis
+  uds: gastaron
+preterito-imperfecto:
+  yo: gastaba
+  tu: gastabas
+  vos: gastabas
+  ud: gastaba
+  nosotros: gastábamos
+  vosotros: gastabais
+  uds: gastaban
+futuro-simple:
+  yo: gastaré
+  tu: gastarás
+  vos: gastarás
+  ud: gastará
+  nosotros: gastaremos
+  vosotros: gastaréis
+  uds: gastarán
+condicional-simple:
+  yo: gastaría
+  tu: gastarías
+  vos: gastarías
+  ud: gastaría
+  nosotros: gastaríamos
+  vosotros: gastaríais
+  uds: gastarían
+presente-perfecto:
+  yo: he gastado
+  tu: has gastado
+  vos: has gastado
+  ud: ha gastado
+  nosotros: hemos gastado
+  vosotros: habéis gastado
+  uds: han gastado
+preterito-pluscuamperfecto:
+  yo: había gastado
+  tu: habías gastado
+  vos: habías gastado
+  ud: había gastado
+  nosotros: habíamos gastado
+  vosotros: habíais gastado
+  uds: habían gastado
+futuro-perfecto:
+  yo: habré gastado
+  tu: habrás gastado
+  vos: habrás gastado
+  ud: habrá gastado
+  nosotros: habremos gastado
+  vosotros: habréis gastado
+  uds: habrán gastado
+condicional-perfecto:
+  yo: habría gastado
+  tu: habrías gastado
+  vos: habrías gastado
+  ud: habría gastado
+  nosotros: habríamos gastado
+  vosotros: habríais gastado
+  uds: habrían gastado
+presente-subjuntivo:
+  yo: gaste
+  tu: gastes
+  vos: gastes
+  ud: gaste
+  nosotros: gastemos
+  vosotros: gastéis
+  uds: gasten
+preterito-perfecto-subjuntivo:
+  yo: haya gastado
+  tu: hayas gastado
+  vos: hayas gastado
+  ud: haya gastado
+  nosotros: hayamos gastado
+  vosotros: hayáis gastado
+  uds: hayan gastado
+imperfecto-subjuntivo:
+  yo:
+    - gastara
+    - gastase
+  tu:
+    - gastaras
+    - gastases
+  vos:
+    - gastaras
+    - gastases
+  ud:
+    - gastara
+    - gastase
+  nosotros:
+    - gastáramos
+    - gastásemos
+  vosotros:
+    - gastarais
+    - gastaseis
+  uds:
+    - gastaran
+    - gastasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gastado
+    - hubiese gastado
+  tu:
+    - hubieras gastado
+    - hubieses gastado
+  vos:
+    - hubieras gastado
+    - hubieses gastado
+  ud:
+    - hubiera gastado
+    - hubiese gastado
+  nosotros:
+    - hubiéramos gastado
+    - hubiésemos gastado
+  vosotros:
+    - hubierais gastado
+    - hubieseis gastado
+  uds:
+    - hubieran gastado
+    - hubiesen gastado
+imperativo:
+  tu: gasta
+  vos: gastá
+  ud: gaste
+  nosotros: gastemos
+  vosotros: gastad
+  uds: gasten

@@ -1,0 +1,156 @@
+infinitivo: deshacerse
+gerundio: deshaciéndose
+participio-pasado: deshecho
+
+presente-indicativo:
+  yo: me deshago
+  tu: te deshaces
+  vos: te deshaces
+  ud: se deshace
+  nosotros: nos deshacemos
+  vosotros: os deshacéis
+  uds: se deshacen
+
+preterito-perfecto-simple:
+  yo: me deshice
+  tu: te deshiciste
+  vos: te deshiciste
+  ud: se deshizo
+  nosotros: nos deshicimos
+  vosotros: os deshicisteis
+  uds: se deshicieron
+
+preterito-imperfecto:
+  yo: me deshacía
+  tu: te deshacías
+  vos: te deshacías
+  ud: se deshacía
+  nosotros: nos deshacíamos
+  vosotros: os deshacíais
+  uds: se deshacían
+
+futuro-simple:
+  yo: me desharé
+  tu: te desharás
+  vos: te desharás
+  ud: se deshará
+  nosotros: nos desharemos
+  vosotros: os desharéis
+  uds: se desharán
+
+condicional-simple:
+  yo: me desharía
+  tu: te desharías
+  vos: te desharías
+  ud: se desharía
+  nosotros: nos desharíamos
+  vosotros: os desharíais
+  uds: se desharían
+
+presente-perfecto:
+  yo: me he deshecho
+  tu: te has deshecho
+  vos: te has deshecho
+  ud: se ha deshecho
+  nosotros: nos hemos deshecho
+  vosotros: os habéis deshecho
+  uds: se han deshecho
+
+preterito-pluscuamperfecto:
+  yo: me había deshecho
+  tu: te habías deshecho
+  vos: te habías deshecho
+  ud: se había deshecho
+  nosotros: nos habíamos deshecho
+  vosotros: os habíais deshecho
+  uds: se habían deshecho
+
+futuro-perfecto:
+  yo: me habré deshecho
+  tu: te habrás deshecho
+  vos: te habrás deshecho
+  ud: se habrá deshecho
+  nosotros: nos habremos deshecho
+  vosotros: os habréis deshecho
+  uds: se habrán deshecho
+
+condicional-perfecto:
+  yo: me habría deshecho
+  tu: te habrías deshecho
+  vos: te habrías deshecho
+  ud: se habría deshecho
+  nosotros: nos habríamos deshecho
+  vosotros: os habríais deshecho
+  uds: se habrían deshecho
+
+presente-subjuntivo:
+  yo: me deshaga
+  tu: te deshagas
+  vos: te deshagas
+  ud: se deshaga
+  nosotros: nos deshagamos
+  vosotros: os deshagáis
+  uds: se deshagan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya deshecho
+  tu: te hayas deshecho
+  vos: te hayas deshecho
+  ud: se haya deshecho
+  nosotros: nos hayamos deshecho
+  vosotros: os hayáis deshecho
+  uds: se hayan deshecho
+
+imperfecto-subjuntivo:
+  yo:
+    - me deshiciera
+    - me deshiciese
+  tu:
+    - te deshicieras
+    - te deshicieses
+  vos:
+    - te deshicieras
+    - te deshicieses
+  ud:
+    - se deshiciera
+    - se deshiciese
+  nosotros:
+    - nos deshiciéramos
+    - nos deshiciésemos
+  vosotros:
+    - os deshicierais
+    - os deshicierais
+  uds:
+    - se deshicieran
+    - se deshicieran
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera deshecho
+    - me hubiese deshecho
+  tu:
+    - te hubieras deshecho
+    - te hubieses deshecho
+  vos:
+    - te hubieras deshecho
+    - te hubieses deshecho
+  ud:
+    - se hubiera deshecho
+    - se hubiese deshecho
+  nosotros:
+    - nos hubiéramos deshecho
+    - nos hubiésemos deshecho
+  vosotros:
+    - os hubierais deshecho
+    - os hubieseis deshecho
+  uds:
+    - se hubieran deshecho
+    - se hubiesen deshecho
+
+imperativo:
+  tu: deshazte
+  vos: deshacete
+  ud: deshágase
+  nosotros: deshagámonos
+  vosotros: deshaceos
+  uds: desháganse

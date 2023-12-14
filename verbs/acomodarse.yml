@@ -1,0 +1,156 @@
+infinitivo: acomodarse
+gerundio: acomodándose
+participio-pasado: acomodado
+
+presente-indicativo:
+  yo: me acomodo
+  tu: te acomodas
+  vos: te acomodás
+  ud: se acomoda
+  nosotros: nos acomodamos
+  vosotros: os acomodáis
+  uds: se acomodan
+
+preterito-perfecto-simple:
+  yo: me acomodé
+  tu: te acomodaste
+  vos: te acomodaste
+  ud: se acomodó
+  nosotros: nos acomodamos
+  vosotros: os acomodasteis
+  uds: se acomodaron
+
+preterito-imperfecto:
+  yo: me acomodaba
+  tu: te acomodabas
+  vos: te acomodabas
+  ud: se acomodaba
+  nosotros: nos acomodábamos
+  vosotros: os acomodabais
+  uds: se acomodaban
+
+futuro-simple:
+  yo: me acomodaré
+  tu: te acomodarás
+  vos: te acomodarás
+  ud: se acomodará
+  nosotros: nos acomodaremos
+  vosotros: os acomodaréis
+  uds: se acomodarán
+
+condicional-simple:
+  yo: me acomodaría
+  tu: te acomodarías
+  vos: te acomodarías
+  ud: se acomodaría
+  nosotros: nos acomodaríamos
+  vosotros: os acomodaríais
+  uds: se acomodarían
+
+presente-perfecto:
+  yo: me he acomodado
+  tu: te has acomodado
+  vos: te has acomodado
+  ud: se ha acomodado
+  nosotros: nos hemos acomodado
+  vosotros: os habéis acomodado
+  uds: se han acomodado
+
+preterito-pluscuamperfecto:
+  yo: me había acomodado
+  tu: te habías acomodado
+  vos: te habías acomodado
+  ud: se había acomodado
+  nosotros: nos habíamos acomodado
+  vosotros: os habíais acomodado
+  uds: se habían acomodado
+
+futuro-perfecto:
+  yo: me habré acomodado
+  tu: te habrás acomodado
+  vos: te habrás acomodado
+  ud: se habrá acomodado
+  nosotros: nos habremos acomodado
+  vosotros: os habréis acomodado
+  uds: se habrán acomodado
+
+condicional-perfecto:
+  yo: me habría acomodado
+  tu: te habrías acomodado
+  vos: te habrías acomodado
+  ud: se habría acomodado
+  nosotros: nos habríamos acomodado
+  vosotros: os habríais acomodado
+  uds: se habrían acomodado
+
+presente-subjuntivo:
+  yo: me acomode
+  tu: te acomodes
+  vos: te acomodes
+  ud: se acomode
+  nosotros: nos acomodemos
+  vosotros: os acomodéis
+  uds: se acomoden
+
+preterito-perfecto-subjuntivo:
+  yo: me haya acomodado
+  tu: te hayas acomodado
+  vos: te hayas acomodado
+  ud: se haya acomodado
+  nosotros: nos hayamos acomodado
+  vosotros: os hayáis acomodado
+  uds: se hayan acomodado
+
+imperfecto-subjuntivo:
+  yo:
+    - me acomodara
+    - me acomodase
+  tu:
+    - te acomodaras
+    - te acomodases
+  vos:
+    - te acomodaras
+    - te acomodases
+  ud:
+    - se acomodara
+    - se acomodase
+  nosotros:
+    - nos acomodáramos
+    - nos acomodásemos
+  vosotros:
+    - os acomodarais
+    - os acomodaseis
+  uds:
+    - se acomodaran
+    - se acomodasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera acomodado
+    - me hubiese acomodado
+  tu:
+    - te hubieras acomodado
+    - te hubieses acomodado
+  vos:
+    - te hubieras acomodado
+    - te hubieses acomodado
+  ud:
+    - se hubiera acomodado
+    - se hubiese acomodado
+  nosotros:
+    - nos hubiéramos acomodado
+    - nos hubiésemos acomodado
+  vosotros:
+    - os hubierais acomodado
+    - os hubieseis acomodado
+  uds:
+    - se hubieran acomodado
+    - se hubiesen acomodado
+
+imperativo:
+  tu: acomódate
+  vos: acomodate
+  ud: acomódese
+  nosotros: acomodémonos
+  vosotros: acomodaos
+  uds: acomódense

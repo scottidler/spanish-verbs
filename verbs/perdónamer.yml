@@ -1,0 +1,142 @@
+infinitivo: perdónamer
+gerundio: perdónamando
+participio-pasado: perdónamado
+presente-indicativo:
+  yo: perdónamo
+  tu: perdónamas
+  vos: perdónamas
+  ud: perdónama
+  nosotros: perdónamamos
+  vosotros: perdónamáis
+  uds: perdónaman
+preterito-perfecto-simple:
+  yo: perdónamé
+  tu: perdónamaste
+  vos: perdónamaste
+  ud: perdónamó
+  nosotros: perdónamamos
+  vosotros: perdónamasteis
+  uds: perdónamaron
+preterito-imperfecto:
+  yo: perdónamaba
+  tu: perdónamabas
+  vos: perdónamabas
+  ud: perdónamaba
+  nosotros: perdónamábamos
+  vosotros: perdónamabais
+  uds: perdónamaban
+futuro-simple:
+  yo: perdónamaré
+  tu: perdónamarás
+  vos: perdónamarás
+  ud: perdónamará
+  nosotros: perdónamaremos
+  vosotros: perdónamaréis
+  uds: perdónamarán
+condicional-simple:
+  yo: perdónamaría
+  tu: perdónamarías
+  vos: perdónamarías
+  ud: perdónamaría
+  nosotros: perdónamaríamos
+  vosotros: perdónamaríais
+  uds: perdónamarían
+presente-perfecto:
+  yo: he perdónamado
+  tu: has perdónamado
+  vos: has perdónamado
+  ud: ha perdónamado
+  nosotros: hemos perdónamado
+  vosotros: habéis perdónamado
+  uds: han perdónamado
+preterito-pluscuamperfecto:
+  yo: había perdónamado
+  tu: habías perdónamado
+  vos: habías perdónamado
+  ud: había perdónamado
+  nosotros: habíamos perdónamado
+  vosotros: habíais perdónamado
+  uds: habían perdónamado
+futuro-perfecto:
+  yo: habré perdónamado
+  tu: habrás perdónamado
+  vos: habrás perdónamado
+  ud: habrá perdónamado
+  nosotros: habremos perdónamado
+  vosotros: habréis perdónamado
+  uds: habrán perdónamado
+condicional-perfecto:
+  yo: habría perdónamado
+  tu: habrías perdónamado
+  vos: habrías perdónamado
+  ud: habría perdónamado
+  nosotros: habríamos perdónamado
+  vosotros: habríais perdónamado
+  uds: habrían perdónamado
+presente-subjuntivo:
+  yo: perdóname
+  tu: perdónames
+  vos: perdónames
+  ud: perdóname
+  nosotros: perdónamemos
+  vosotros: perdónaméis
+  uds: perdónamen
+preterito-perfecto-subjuntivo:
+  yo: haya perdónamado
+  tu: hayas perdónamado
+  vos: hayas perdónamado
+  ud: haya perdónamado
+  nosotros: hayamos perdónamado
+  vosotros: hayáis perdónamado
+  uds: hayan perdónamado
+imperfecto-subjuntivo:
+  yo:
+    - perdónamara
+    - perdónamase
+  tu:
+    - perdónamaras
+    - perdónamases
+  vos:
+    - perdónamaras
+    - perdónamases
+  ud:
+    - perdónamara
+    - perdónamase
+  nosotros:
+    - perdónamáramos
+    - perdónamásemos
+  vosotros:
+    - perdónamarais
+    - perdónamaseis
+  uds:
+    - perdónamaran
+    - perdónamasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera perdónamado
+    - hubiese perdónamado
+  tu:
+    - hubieras perdónamado
+    - hubieses perdónamado
+  vos:
+    - hubieras perdónamado
+    - hubieses perdónamado
+  ud:
+    - hubiera perdónamado
+    - hubiese perdónamado
+  nosotros:
+    - hubiéramos perdónamado
+    - hubiésemos perdónamado
+  vosotros:
+    - hubierais perdónamado
+    - hubieseis perdónamado
+  uds:
+    - hubieran perdónamado
+    - hubiesen perdónamado
+imperativo:
+  tu: perdónama
+  vos: perdónamá
+  ud: perdóname
+  nosotros: perdónamemos
+  vosotros: perdónamad
+  uds: perdónamen

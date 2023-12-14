@@ -1,0 +1,142 @@
+infinitivo: fundir
+gerundio: fundiendo
+participio-pasado: fundido
+presente-indicativo:
+  yo: fundo
+  tu: fundes
+  vos: fundes
+  ud: funde
+  nosotros: fundimos
+  vosotros: fundís
+  uds: funden
+preterito-perfecto-simple:
+  yo: fundí
+  tu: fundiste
+  vos: fundiste
+  ud: fundió
+  nosotros: fundimos
+  vosotros: fundisteis
+  uds: fundieron
+preterito-imperfecto:
+  yo: fundía
+  tu: fundías
+  vos: fundías
+  ud: fundía
+  nosotros: fundíamos
+  vosotros: fundíais
+  uds: fundían
+futuro-simple:
+  yo: fundiré
+  tu: fundirás
+  vos: fundirás
+  ud: fundirá
+  nosotros: fundiremos
+  vosotros: fundiréis
+  uds: fundirán
+condicional-simple:
+  yo: fundiría
+  tu: fundirías
+  vos: fundirías
+  ud: fundiría
+  nosotros: fundiríamos
+  vosotros: fundiríais
+  uds: fundirían
+presente-perfecto:
+  yo: he fundido
+  tu: has fundido
+  vos: has fundido
+  ud: ha fundido
+  nosotros: hemos fundido
+  vosotros: habéis fundido
+  uds: han fundido
+preterito-pluscuamperfecto:
+  yo: había fundido
+  tu: habías fundido
+  vos: habías fundido
+  ud: había fundido
+  nosotros: habíamos fundido
+  vosotros: habíais fundido
+  uds: habían fundido
+futuro-perfecto:
+  yo: habré fundido
+  tu: habrás fundido
+  vos: habrás fundido
+  ud: habrá fundido
+  nosotros: habremos fundido
+  vosotros: habréis fundido
+  uds: habrán fundido
+condicional-perfecto:
+  yo: habría fundido
+  tu: habrías fundido
+  vos: habrías fundido
+  ud: habría fundido
+  nosotros: habríamos fundido
+  vosotros: habríais fundido
+  uds: habrían fundido
+presente-subjuntivo:
+  yo: funda
+  tu: fundas
+  vos: fundas
+  ud: funda
+  nosotros: fundamos
+  vosotros: fundáis
+  uds: fundan
+preterito-perfecto-subjuntivo:
+  yo: haya fundido
+  tu: hayas fundido
+  vos: hayas fundido
+  ud: haya fundido
+  nosotros: hayamos fundido
+  vosotros: hayáis fundido
+  uds: hayan fundido
+imperfecto-subjuntivo:
+  yo:
+    - fundiera
+    - fundiese
+  tu:
+    - fundieras
+    - fundieses
+  vos:
+    - fundieras
+    - fundieses
+  ud:
+    - fundiera
+    - fundiese
+  nosotros:
+    - fundiéramos
+    - fundiésemos
+  vosotros:
+    - fundierais
+    - fundieseis
+  uds:
+    - fundieran
+    - fundiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fundido
+    - hubiese fundido
+  tu:
+    - hubieras fundido
+    - hubieses fundido
+  vos:
+    - hubieras fundido
+    - hubieses fundido
+  ud:
+    - hubiera fundido
+    - hubiese fundido
+  nosotros:
+    - hubiéramos fundido
+    - hubiésemos fundido
+  vosotros:
+    - hubierais fundido
+    - hubieseis fundido
+  uds:
+    - hubieran fundido
+    - hubiesen fundido
+imperativo:
+  tu: funde
+  vos: fundí
+  ud: funda
+  nosotros: fundamos
+  vosotros: fundid
+  uds: fundan

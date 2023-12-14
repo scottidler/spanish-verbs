@@ -1,0 +1,142 @@
+infinitivo: prever
+gerundio: previendo
+participio-pasado: previsto
+presente-indicativo:
+  yo: preveo
+  tu: prevés
+  vos: prevés
+  ud: prevé
+  nosotros: prevemos
+  vosotros: preveéis
+  uds: prevén
+preterito-perfecto-simple:
+  yo: preví
+  tu: previste
+  vos: previste
+  ud: previó
+  nosotros: previmos
+  vosotros: previsteis
+  uds: previeron
+preterito-imperfecto:
+  yo: preveía
+  tu: preveías
+  vos: preveías
+  ud: preveía
+  nosotros: preveíamos
+  vosotros: preveíais
+  uds: preveían
+futuro-simple:
+  yo: preveré
+  tu: preverás
+  vos: preverás
+  ud: preverá
+  nosotros: preveremos
+  vosotros: preveréis
+  uds: preverán
+condicional-simple:
+  yo: prevería
+  tu: preverías
+  vos: preverías
+  ud: prevería
+  nosotros: preveríamos
+  vosotros: preveríais
+  uds: preverían
+presente-perfecto:
+  yo: he previsto
+  tu: has previsto
+  vos: has previsto
+  ud: ha previsto
+  nosotros: hemos previsto
+  vosotros: habéis previsto
+  uds: han previsto
+preterito-pluscuamperfecto:
+  yo: había previsto
+  tu: habías previsto
+  vos: habías previsto
+  ud: había previsto
+  nosotros: habíamos previsto
+  vosotros: habíais previsto
+  uds: habían previsto
+futuro-perfecto:
+  yo: habré previsto
+  tu: habrás previsto
+  vos: habrás previsto
+  ud: habrá previsto
+  nosotros: habremos previsto
+  vosotros: habréis previsto
+  uds: habrán previsto
+condicional-perfecto:
+  yo: habría previsto
+  tu: habrías previsto
+  vos: habrías previsto
+  ud: habría previsto
+  nosotros: habríamos previsto
+  vosotros: habríais previsto
+  uds: habrían previsto
+presente-subjuntivo:
+  yo: prevea 
+  tu: preveas
+  vos: preveas
+  ud: prevea
+  nosotros: preveamos
+  vosotros: preveáis
+  uds: prevean
+preterito-perfecto-subjuntivo:
+  yo: haya previsto
+  tu: hayas previsto
+  vos: hayas previsto
+  ud: haya previsto
+  nosotros: hayamos previsto
+  vosotros: hayáis previsto
+  uds: hayan previsto
+imperfecto-subjuntivo:
+  yo:
+    - previera
+    - previese
+  tu:
+    - previeras
+    - previeses
+  vos:
+    - previeras
+    - previeses
+  ud:
+    - previera
+    - previese
+  nosotros:
+    - previéramos
+    - previésemos
+  vosotros:
+    - previerais
+    - previeseis
+  uds:
+    - previeran
+    - previesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera previsto
+    - hubiese previsto
+  tu:
+    - hubieras previsto
+    - hubieses previsto
+  vos:
+    - hubieras previsto
+    - hubieses previsto
+  ud:
+    - hubiera previsto
+    - hubiese previsto
+  nosotros:
+    - hubiéramos previsto
+    - hubiésemos previsto
+  vosotros:
+    - hubierais previsto
+    - hubieseis previsto
+  uds:
+    - hubieran previsto
+    - hubiesen previsto
+imperativo:
+  tu: prevé
+  vos: preveé
+  ud: prevea
+  nosotros: preveamos
+  vosotros: preved
+  uds: prevean

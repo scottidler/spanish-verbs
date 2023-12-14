@@ -1,0 +1,142 @@
+infinitivo: gayar
+gerundio: gayando
+participio-pasado: gayado
+presente-indicativo:
+  yo: gayo
+  tu: gayas
+  vos: gayas
+  ud: gaya
+  nosotros: gayamos
+  vosotros: gayáis
+  uds: gayan
+preterito-perfecto-simple:
+  yo: gayé
+  tu: gayaste
+  vos: gayaste
+  ud: gayó
+  nosotros: gayamos
+  vosotros: gayasteis
+  uds: gayaron
+preterito-imperfecto:
+  yo: gayaba
+  tu: gayabas
+  vos: gayabas
+  ud: gayaba
+  nosotros: gayábamos
+  vosotros: gayabais
+  uds: gayaban
+futuro-simple:
+  yo: gayaré
+  tu: gayarás
+  vos: gayarás
+  ud: gayará
+  nosotros: gayaremos
+  vosotros: gayaréis
+  uds: gayarán
+condicional-simple:
+  yo: gayaría
+  tu: gayarías
+  vos: gayarías
+  ud: gayaría
+  nosotros: gayaríamos
+  vosotros: gayaríais
+  uds: gayarían
+presente-perfecto:
+  yo: he gayado
+  tu: has gayado
+  vos: has gayado
+  ud: ha gayado
+  nosotros: hemos gayado
+  vosotros: habéis gayado
+  uds: han gayado
+preterito-pluscuamperfecto:
+  yo: había gayado
+  tu: habías gayado
+  vos: habías gayado
+  ud: había gayado
+  nosotros: habíamos gayado
+  vosotros: habíais gayado
+  uds: habían gayado
+futuro-perfecto:
+  yo: habré gayado
+  tu: habrás gayado
+  vos: habrás gayado
+  ud: habrá gayado
+  nosotros: habremos gayado
+  vosotros: habréis gayado
+  uds: habrán gayado
+condicional-perfecto:
+  yo: habría gayado
+  tu: habrías gayado
+  vos: habrías gayado
+  ud: habría gayado
+  nosotros: habríamos gayado
+  vosotros: habríais gayado
+  uds: habrían gayado
+presente-subjuntivo:
+  yo: gaye
+  tu: gayes
+  vos: gayes
+  ud: gaye
+  nosotros: gayemos
+  vosotros: gayéis
+  uds: gayen
+preterito-perfecto-subjuntivo:
+  yo: haya gayado
+  tu: hayas gayado
+  vos: hayas gayado
+  ud: haya gayado
+  nosotros: hayamos gayado
+  vosotros: hayáis gayado
+  uds: hayan gayado
+imperfecto-subjuntivo:
+  yo:
+    - gayara
+    - gayase
+  tu:
+    - gayaras
+    - gayses
+  vos:
+    - gayaras
+    - gayses
+  ud:
+    - gayara
+    - gayase
+  nosotros:
+    - gayáramos
+    - gayésemos
+  vosotros:
+    - gayarais
+    - gayseseis
+  uds:
+    - gayaran
+    - gaysen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gayado
+    - hubiese gayado
+  tu:
+    - hubieras gayado
+    - hubieses gayado
+  vos:
+    - hubieras gayado
+    - hubieses gayado
+  ud:
+    - hubiera gayado
+    - hubiese gayado
+  nosotros:
+    - hubiéramos gayado
+    - hubiésemos gayado
+  vosotros:
+    - hubierais gayado
+    - hubieseis gayado
+  uds:
+    - hubieran gayado
+    - hubiesen gayado
+imperativo:
+  tu: gaya
+  vos: gayá
+  ud: gaye
+  nosotros: gayemos
+  vosotros: gayad
+  uds: gayen

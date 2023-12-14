@@ -1,0 +1,142 @@
+infinitivo: imitar
+gerundio: imitando
+participio-pasado: imitado
+presente-indicativo:
+  yo: imito
+  tu: imitas
+  vos: imitas
+  ud: imita
+  nosotros: imitamos
+  vosotros: imitáis
+  uds: imitan
+preterito-perfecto-simple:
+  yo: imité
+  tu: imitaste
+  vos: imitaste
+  ud: imitó
+  nosotros: imitamos
+  vosotros: imitasteis
+  uds: imitaron
+preterito-imperfecto:
+  yo: imitaba
+  tu: imitabas
+  vos: imitabas
+  ud: imitaba
+  nosotros: imitábamos
+  vosotros: imitabais
+  uds: imitaban
+futuro-simple:
+  yo: imitaré
+  tu: imitarás
+  vos: imitarás
+  ud: imitará
+  nosotros: imitaremos
+  vosotros: imitaréis
+  uds: imitarán
+condicional-simple:
+  yo: imitaría
+  tu: imitarías
+  vos: imitarías
+  ud: imitaría
+  nosotros: imitaríamos
+  vosotros: imitaríais
+  uds: imitarían
+presente-perfecto:
+  yo: he imitado
+  tu: has imitado
+  vos: has imitado
+  ud: ha imitado
+  nosotros: hemos imitado
+  vosotros: habéis imitado
+  uds: han imitado
+preterito-pluscuamperfecto:
+  yo: había imitado
+  tu: habías imitado
+  vos: habías imitado
+  ud: había imitado
+  nosotros: habíamos imitado
+  vosotros: habíais imitado
+  uds: habían imitado
+futuro-perfecto:
+  yo: habré imitado
+  tu: habrás imitado
+  vos: habrás imitado
+  ud: habrá imitado
+  nosotros: habremos imitado
+  vosotros: habréis imitado
+  uds: habrán imitado
+condicional-perfecto:
+  yo: habría imitado
+  tu: habrías imitado
+  vos: habrías imitado
+  ud: habría imitado
+  nosotros: habríamos imitado
+  vosotros: habríais imitado
+  uds: habrían imitado
+presente-subjuntivo:
+  yo: imite
+  tu: imites
+  vos: imites
+  ud: imite
+  nosotros: imitemos
+  vosotros: imitéis
+  uds: imiten
+preterito-perfecto-subjuntivo:
+  yo: haya imitado
+  tu: hayas imitado
+  vos: hayas imitado
+  ud: haya imitado
+  nosotros: hayamos imitado
+  vosotros: hayáis imitado
+  uds: hayan imitado
+imperfecto-subjuntivo:
+  yo:
+    - imitara
+    - imitase
+  tu:
+    - imitaras
+    - imitases
+  vos:
+    - imitaras
+    - imitases
+  ud:
+    - imitara
+    - imitase
+  nosotros:
+    - imitáramos
+    - imitásemos
+  vosotros:
+    - imitarais
+    - imitaseis
+  uds:
+    - imitaran
+    - imitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera imitado
+    - hubiese imitado
+  tu:
+    - hubieras imitado
+    - hubieses imitado
+  vos:
+    - hubieras imitado
+    - hubieses imitado
+  ud:
+    - hubiera imitado
+    - hubiese imitado
+  nosotros:
+    - hubiéramos imitado
+    - hubiésemos imitado
+  vosotros:
+    - hubierais imitado
+    - hubieseis imitado
+  uds:
+    - hubieran imitado
+    - hubiesen imitado
+imperativo:
+  tu: imita
+  vos: imitá
+  ud: imite
+  nosotros: imitemos
+  vosotros: imitad
+  uds: imiten

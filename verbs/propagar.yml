@@ -1,0 +1,142 @@
+infinitivo: propagar
+gerundio: propagando
+participio-pasado: propagado
+presente-indicativo:
+  yo: propago
+  tu: propagas
+  vos: propagas
+  ud: propaga
+  nosotros: propagamos
+  vosotros: propagáis
+  uds: propagan
+preterito-perfecto-simple:
+  yo: propagué
+  tu: propagaste
+  vos: propagaste
+  ud: propagó
+  nosotros: propagamos
+  vosotros: propagasteis
+  uds: propagaron
+preterito-imperfecto:
+  yo: propagaba
+  tu: propagabas
+  vos: propagabas
+  ud: propagaba
+  nosotros: propagábamos
+  vosotros: propagabais
+  uds: propagaban
+futuro-simple:
+  yo: propagaré
+  tu: propagarás
+  vos: propagarás
+  ud: propagará
+  nosotros: propagaremos
+  vosotros: propagaréis
+  uds: propagarán
+condicional-simple:
+  yo: propagaría
+  tu: propagarías
+  vos: propagarías
+  ud: propagaría
+  nosotros: propagaríamos
+  vosotros: propagaríais
+  uds: propagarían
+presente-perfecto:
+  yo: he propagado
+  tu: has propagado
+  vos: has propagado
+  ud: ha propagado
+  nosotros: hemos propagado
+  vosotros: habéis propagado
+  uds: han propagado
+preterito-pluscuamperfecto:
+  yo: había propagado
+  tu: habías propagado
+  vos: habías propagado
+  ud: había propagado
+  nosotros: habíamos propagado
+  vosotros: habíais propagado
+  uds: habían propagado
+futuro-perfecto:
+  yo: habré propagado
+  tu: habrás propagado
+  vos: habrás propagado
+  ud: habrá propagado
+  nosotros: habremos propagado
+  vosotros: habréis propagado
+  uds: habrán propagado
+condicional-perfecto:
+  yo: habría propagado
+  tu: habrías propagado
+  vos: habrías propagado
+  ud: habría propagado
+  nosotros: habríamos propagado
+  vosotros: habríais propagado
+  uds: habrían propagado
+presente-subjuntivo:
+  yo: propague
+  tu: propagues
+  vos: propagues
+  ud: propague
+  nosotros: propaguemos
+  vosotros: propaguéis
+  uds: propaguen
+preterito-perfecto-subjuntivo:
+  yo: haya propagado
+  tu: hayas propagado
+  vos: hayas propagado
+  ud: haya propagado
+  nosotros: hayamos propagado
+  vosotros: hayáis propagado
+  uds: hayan propagado
+imperfecto-subjuntivo:
+  yo:
+    - propagara
+    - propagase
+  tu:
+    - propagaras
+    - propagases
+  vos:
+    - propagaras
+    - propagases
+  ud:
+    - propagara
+    - propagase
+  nosotros:
+    - propagáramos
+    - propagásemos
+  vosotros:
+    - propagarais
+    - propagaseis
+  uds:
+    - propagaran
+    - propagasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera propagado
+    - hubiese propagado
+  tu:
+    - hubieras propagado
+    - hubieses propagado
+  vos:
+    - hubieras propagado
+    - hubieses propagado
+  ud:
+    - hubiera propagado
+    - hubiese propagado
+  nosotros:
+    - hubiéramos propagado
+    - hubiésemos propagado
+  vosotros:
+    - hubierais propagado
+    - hubieseis propagado
+  uds:
+    - hubieran propagado
+    - hubiesen propagado
+imperativo:
+  tu: propaga
+  vos: propagá
+  ud: propague
+  nosotros: propaguemos
+  vosotros: propagad
+  uds: propaguen

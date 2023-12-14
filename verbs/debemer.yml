@@ -1,0 +1,142 @@
+infinitivo: debemer
+gerundio: debemiendo
+participio-pasado: debemido
+presente-indicativo:
+  yo: decemo
+  tu: decemes
+  vos: decemes
+  ud: deceme
+  nosotros: decememos
+  vosotros: deceméis
+  uds: decemen
+preterito-perfecto-simple:
+  yo: debení
+  tu: debemiste
+  vos: debemiste
+  ud: debemío
+  nosotros: debemimos
+  vosotros: debemisteis
+  uds: debemieron
+preterito-imperfecto:
+  yo: debemía
+  tu: debemías
+  vos: debemías
+  ud: debemía
+  nosotros: debemíamos
+  vosotros: debemíais
+  uds: debemían
+futuro-simple:
+  yo: debemiré
+  tu: debemirás
+  vos: debemirás
+  ud: debemirá
+  nosotros: debemiremos
+  vosotros: debemiréis
+  uds: debemirán
+condicional-simple:
+  yo: debemiría
+  tu: debemirías
+  vos: debemirías
+  ud: debemiría
+  nosotros: debemiríamos
+  vosotros: debemiríais
+  uds: debemirían
+presente-perfecto:
+  yo: he debemido
+  tu: has debemido
+  vos: has debemido
+  ud: ha debemido
+  nosotros: hemos debemido
+  vosotros: habéis debemido
+  uds: han debemido
+preterito-pluscuamperfecto:
+  yo: había debemido
+  tu: habías debemido
+  vos: habías debemido
+  ud: había debemido
+  nosotros: habíamos debemido
+  vosotros: habíais debemido
+  uds: habían debemido
+futuro-perfecto:
+  yo: habré debemido
+  tu: habrás debemido
+  vos: habrás debemido
+  ud: habrá debemido
+  nosotros: habremos debemido
+  vosotros: habréis debemido
+  uds: habrán debemido
+condicional-perfecto:
+  yo: habría debemido
+  tu: habrías debemido
+  vos: habrías debemido
+  ud: habría debemido
+  nosotros: habríamos debemido
+  vosotros: habríais debemido
+  uds: habrían debemido
+presente-subjuntivo:
+  yo: debema
+  tu: debemas
+  vos: debemas
+  ud: debema
+  nosotros: demamos
+  vosotros: debáis
+  uds: debeman
+preterito-perfecto-subjuntivo:
+  yo: haya debemido
+  tu: hayas debemido
+  vos: hayas debemido
+  ud: haya debemido
+  nosotros: hayamos debemido
+  vosotros: hayáis debemido
+  uds: hayan debemido
+imperfecto-subjuntivo:
+  yo:
+    - debemiera
+    - debemese
+  tu:
+    - debemieras
+    - debemeses
+  vos:
+    - debemieras
+    - debemeses
+  ud:
+    - debemiera
+    - debemese
+  nosotros:
+    - debemíeramos
+    - debemésemos
+  vosotros:
+    - debemierais
+    - debemeséis
+  uds:
+    - debemieran
+    - debemesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera debemido
+    - hubiese debemido
+  tu:
+    - hubieras debemido
+    - hubieses debemido
+  vos:
+    - hubieras debemido
+    - hubieses debemido
+  ud:
+    - hubiera debemido
+    - hubiese debemido
+  nosotros:
+    - hubiéramos debemido
+    - hubiésemos debemido
+  vosotros:
+    - hubierais debemido
+    - hubieseis debemido
+  uds:
+    - hubieran debemido
+    - hubiesen debemido
+imperativo:
+  tu: deceme
+  vos: decemé
+  ud: decema
+  nosotros: demamos
+  vosotros: deced
+  uds: debeman

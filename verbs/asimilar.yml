@@ -1,0 +1,142 @@
+infinitivo: asimilar
+gerundio: asimilando
+participio-pasado: asimilado
+presente-indicativo:
+  yo: asimilo
+  tu: asimilas
+  vos: asimilas
+  ud: asimila
+  nosotros: asimilamos
+  vosotros: asimiláis
+  uds: asimilan
+preterito-perfecto-simple:
+  yo: asimilé
+  tu: asimilaste
+  vos: asimilaste
+  ud: asimiló
+  nosotros: asimilamos
+  vosotros: asimilasteis
+  uds: asimilaron
+preterito-imperfecto:
+  yo: asimilaba
+  tu: asimilabas
+  vos: asimilabas
+  ud: asimilaba
+  nosotros: asimilábamos
+  vosotros: asimilabais
+  uds: asimilaban
+futuro-simple:
+  yo: asimilaré
+  tu: asimilarás
+  vos: asimilarás
+  ud: asimilará
+  nosotros: asimilaremos
+  vosotros: asimilaréis
+  uds: asimilarán
+condicional-simple:
+  yo: asimilaría
+  tu: asimilarías
+  vos: asimilarías
+  ud: asimilaría
+  nosotros: asimilaríamos
+  vosotros: asimilaríais
+  uds: asimilarían
+presente-perfecto:
+  yo: he asimilado
+  tu: has asimilado
+  vos: has asimilado
+  ud: ha asimilado
+  nosotros: hemos asimilado
+  vosotros: habéis asimilado
+  uds: han asimilado
+preterito-pluscuamperfecto:
+  yo: había asimilado
+  tu: habías asimilado
+  vos: habías asimilado
+  ud: había asimilado
+  nosotros: habíamos asimilado
+  vosotros: habíais asimilado
+  uds: habían asimilado
+futuro-perfecto:
+  yo: habré asimilado
+  tu: habrás asimilado
+  vos: habrás asimilado
+  ud: habrá asimilado
+  nosotros: habremos asimilado
+  vosotros: habréis asimilado
+  uds: habrán asimilado
+condicional-perfecto:
+  yo: habría asimilado
+  tu: habrías asimilado
+  vos: habrías asimilado
+  ud: habría asimilado
+  nosotros: habríamos asimilado
+  vosotros: habríais asimilado
+  uds: habrían asimilado
+presente-subjuntivo:
+  yo: asimile
+  tu: asimiles
+  vos: asimiles
+  ud: asimile
+  nosotros: asimilemos
+  vosotros: asimiléis
+  uds: asimilen
+preterito-perfecto-subjuntivo:
+  yo: haya asimilado
+  tu: hayas asimilado
+  vos: hayas asimilado
+  ud: haya asimilado
+  nosotros: hayamos asimilado
+  vosotros: hayáis asimilado
+  uds: hayan asimilado
+imperfecto-subjuntivo:
+  yo:
+    - asimilara
+    - asimilase
+  tu:
+    - asimilaras
+    - asimilases
+  vos:
+    - asimilaras
+    - asimilases
+  ud:
+    - asimilara
+    - asimilase
+  nosotros:
+    - asimiláramos
+    - asimilásemos
+  vosotros:
+    - asimilarais
+    - asimilaseis
+  uds:
+    - asimilaran
+    - asimasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asimilado
+    - hubiese asimilado
+  tu:
+    - hubieras asimilado
+    - hubieses asimilado
+  vos:
+    - hubieras asimilado
+    - hubieses asimilado
+  ud:
+    - hubiera asimilado
+    - hubiese asimilado
+  nosotros:
+    - hubiéramos asimilado
+    - hubiésemos asimilado
+  vosotros:
+    - hubierais asimilado
+    - hubieseis asimilado
+  uds:
+    - hubieran asimilado
+    - hubiesen asimilado
+imperativo:
+  tu: asimila
+  vos: asimilá
+  ud: asimile
+  nosotros: asimilemos
+  vosotros: asimilad
+  uds: asimilen

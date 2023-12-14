@@ -1,0 +1,142 @@
+infinitivo: amedrentar
+gerundio: amedrentando
+participio-pasado: amedrentado
+presente-indicativo:
+  yo: amedrento
+  tu: amedrentas
+  vos: amedrentás
+  ud: amedrenta
+  nosotros: amedrentamos
+  vosotros: amedrentáis
+  uds: amedrentan
+preterito-perfecto-simple:
+  yo: amedrenté
+  tu: amedrentaste
+  vos: amedrentaste
+  ud: amedrentó
+  nosotros: amedrentamos
+  vosotros: amedrentasteis
+  uds: amedrentaron
+preterito-imperfecto:
+  yo: amedrentaba
+  tu: amedrentabas
+  vos: amedrentabas
+  ud: amedrentaba
+  nosotros: amedrentábamos
+  vosotros: amedrentabais
+  uds: amedrentaban
+futuro-simple:
+  yo: amedrentaré
+  tu: amedrentarás
+  vos: amedrentarás
+  ud: amedrentará
+  nosotros: amedrentaremos
+  vosotros: amedrentaréis
+  uds: amedrentarán
+condicional-simple:
+  yo: amedrentaría
+  tu: amedrentarías
+  vos: amedrentarías
+  ud: amedrentaría
+  nosotros: amedrentaríamos
+  vosotros: amedrentaríais
+  uds: amedrentarían
+presente-perfecto:
+  yo: he amedrentado
+  tu: has amedrentado
+  vos: has amedrentado
+  ud: ha amedrentado
+  nosotros: hemos amedrentado
+  vosotros: habéis amedrentado
+  uds: han amedrentado
+preterito-pluscuamperfecto:
+  yo: había amedrentado
+  tu: habías amedrentado
+  vos: habías amedrentado
+  ud: había amedrentado
+  nosotros: habíamos amedrentado
+  vosotros: habíais amedrentado
+  uds: habían amedrentado
+futuro-perfecto:
+  yo: habré amedrentado
+  tu: habrás amedrentado
+  vos: habrás amedrentado
+  ud: habrá amedrentado
+  nosotros: habremos amedrentado
+  vosotros: habréis amedrentado
+  uds: habrán amedrentado
+condicional-perfecto:
+  yo: habría amedrentado
+  tu: habrías amedrentado
+  vos: habrías amedrentado
+  ud: habría amedrentado
+  nosotros: habríamos amedrentado
+  vosotros: habríais amedrentado
+  uds: habrían amedrentado
+presente-subjuntivo:
+  yo: amedrente
+  tu: amedrentes
+  vos: amedrentes
+  ud: amedrente
+  nosotros: amedrentemos
+  vosotros: amedrentéis
+  uds: amedrenten
+preterito-perfecto-subjuntivo:
+  yo: haya amedrentado
+  tu: hayas amedrentado
+  vos: hayas amedrentado
+  ud: haya amedrentado
+  nosotros: hayamos amedrentado
+  vosotros: hayáis amedrentado
+  uds: hayan amedrentado
+imperfecto-subjuntivo:
+  yo:
+    - amedrentara
+    - amedrentase
+  tu:
+    - amedrentaras
+    - amedrentases
+  vos:
+    - amedrentaras
+    - amedrentases
+  ud:
+    - amedrentara
+    - amedrentase
+  nosotros:
+    - amedrentáramos
+    - amedrentásemos
+  vosotros:
+    - amedrentarais
+    - amedrentaseis
+  uds:
+    - amedrentaran
+    - amedrentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera amedrentado
+    - hubiese amedrentado
+  tu:
+    - hubieras amedrentado
+    - hubieses amedrentado
+  vos:
+    - hubieras amedrentado
+    - hubieses amedrentado
+  ud:
+    - hubiera amedrentado
+    - hubiese amedrentado
+  nosotros:
+    - hubiéramos amedrentado
+    - hubiésemos amedrentado
+  vosotros:
+    - hubierais amedrentado
+    - hubieseis amedrentado
+  uds:
+    - hubieran amedrentado
+    - hubiesen amedrentado
+imperativo:
+  tu: amedrenta
+  vos: amedrentá
+  ud: amedrente
+  nosotros: amedrentemos
+  vosotros: amedrentad
+  uds: amedrenten

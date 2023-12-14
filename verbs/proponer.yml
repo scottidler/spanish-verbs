@@ -1,0 +1,142 @@
+infinitivo: proponer
+gerundio: proponiendo
+participio-pasado: propuesto
+presente-indicativo:
+  yo: propongo
+  tu: propones
+  vos: propones
+  ud: propone
+  nosotros: proponemos
+  vosotros: proponéis
+  uds: proponen
+preterito-perfecto-simple:
+  yo: propuse
+  tu: propusiste
+  vos: propusiste
+  ud: propuso
+  nosotros: propusimos
+  vosotros: propusisteis
+  uds: propusieron
+preterito-imperfecto:
+  yo: proponía
+  tu: proponías
+  vos: proponías
+  ud: proponía
+  nosotros: proponíamos
+  vosotros: proponíais
+  uds: proponían
+futuro-simple:
+  yo: propondré
+  tu: propondrás
+  vos: propondrás
+  ud: propondrá
+  nosotros: propondremos
+  vosotros: propondréis
+  uds: propondrán
+condicional-simple:
+  yo: propondría
+  tu: propondrías
+  vos: propondrías
+  ud: propondría
+  nosotros: propondríamos
+  vosotros: propondríais
+  uds: propondrían
+presente-perfecto:
+  yo: he propuesto
+  tu: has propuesto
+  vos: has propuesto
+  ud: ha propuesto
+  nosotros: hemos propuesto
+  vosotros: habéis propuesto
+  uds: han propuesto
+preterito-pluscuamperfecto:
+  yo: había propuesto
+  tu: habías propuesto
+  vos: habías propuesto
+  ud: había propuesto
+  nosotros: habíamos propuesto
+  vosotros: habíais propuesto
+  uds: habían propuesto
+futuro-perfecto:
+  yo: habré propuesto
+  tu: habrás propuesto
+  vos: habrás propuesto
+  ud: habrá propuesto
+  nosotros: habremos propuesto
+  vosotros: habréis propuesto
+  uds: habrán propuesto
+condicional-perfecto:
+  yo: habría propuesto
+  tu: habrías propuesto
+  vos: habrías propuesto
+  ud: habría propuesto
+  nosotros: habríamos propuesto
+  vosotros: habríais propuesto
+  uds: habrían propuesto
+presente-subjuntivo:
+  yo: proponga
+  tu: propongas
+  vos: propongas
+  ud: proponga
+  nosotros: propongamos
+  vosotros: propongáis
+  uds: propongan
+preterito-perfecto-subjuntivo:
+  yo: haya propuesto
+  tu: hayas propuesto
+  vos: hayas propuesto
+  ud: haya propuesto
+  nosotros: hayamos propuesto
+  vosotros: hayáis propuesto
+  uds: hayan propuesto
+imperfecto-subjuntivo:
+  yo:
+    - propusiera
+    - propusiese
+  tu:
+    - propusieras
+    - propusieses
+  vos:
+    - propusieras
+    - propusieses
+  ud:
+    - propusiera
+    - propusiese
+  nosotros:
+    - propusiéramos
+    - propusiésemos
+  vosotros:
+    - propusierais
+    - propusieseis
+  uds:
+    - propusieran
+    - propusiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera propuesto
+    - hubiese propuesto
+  tu:
+    - hubieras propuesto
+    - hubieses propuesto
+  vos:
+    - hubieras propuesto
+    - hubieses propuesto
+  ud:
+    - hubiera propuesto
+    - hubiese propuesto
+  nosotros:
+    - hubiéramos propuesto
+    - hubiésemos propuesto
+  vosotros:
+    - hubierais propuesto
+    - hubieseis propuesto
+  uds:
+    - hubieran propuesto
+    - hubiesen propuesto
+imperativo:
+  tu: propón
+  vos: proponé
+  ud: proponga
+  nosotros: propongamos
+  vosotros: proponed
+  uds: propongan

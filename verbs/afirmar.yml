@@ -1,0 +1,142 @@
+infinitivo: afirmar
+gerundio: afirmando
+participio-pasado: afirmado
+presente-indicativo:
+  yo: afirmo
+  tu: afirmas
+  vos: afirmas
+  ud: afirma
+  nosotros: afirmamos
+  vosotros: afirmáis
+  uds: afirman
+preterito-perfecto-simple:
+  yo: afirmé
+  tu: afirmaste
+  vos: afirmaste
+  ud: afirmó
+  nosotros: afirmamos
+  vosotros: afirmasteis
+  uds: afirmaron
+preterito-imperfecto:
+  yo: afirmaba
+  tu: afirmabas
+  vos: afirmabas
+  ud: afirmaba
+  nosotros: afirmábamos
+  vosotros: afirmabais
+  uds: afirmaban
+futuro-simple:
+  yo: afirmaré
+  tu: afirmarás
+  vos: afirmarás
+  ud: afirmará
+  nosotros: afirmaremos
+  vosotros: afirmaréis
+  uds: afirmarán
+condicional-simple:
+  yo: afirmaría
+  tu: afirmarías
+  vos: afirmarías
+  ud: afirmaría
+  nosotros: afirmaríamos
+  vosotros: afirmaríais
+  uds: afirmarían
+presente-perfecto:
+  yo: he afirmado
+  tu: has afirmado
+  vos: has afirmado
+  ud: ha afirmado
+  nosotros: hemos afirmado
+  vosotros: habéis afirmado
+  uds: han afirmado
+preterito-pluscuamperfecto:
+  yo: había afirmado
+  tu: habías afirmado
+  vos: habías afirmado
+  ud: había afirmado
+  nosotros: habíamos afirmado
+  vosotros: habíais afirmado
+  uds: habían afirmado
+futuro-perfecto:
+  yo: habré afirmado
+  tu: habrás afirmado
+  vos: habrás afirmado
+  ud: habrá afirmado
+  nosotros: habremos afirmado
+  vosotros: habréis afirmado
+  uds: habrán afirmado
+condicional-perfecto:
+  yo: habría afirmado
+  tu: habrías afirmado
+  vos: habrías afirmado
+  ud: habría afirmado
+  nosotros: habríamos afirmado
+  vosotros: habríais afirmado
+  uds: habrían afirmado
+presente-subjuntivo:
+  yo: afirme
+  tu: afirmes
+  vos: afirmes
+  ud: afirme
+  nosotros: afirmemos
+  vosotros: afirméis
+  uds: afirmen
+preterito-perfecto-subjuntivo:
+  yo: haya afirmado
+  tu: hayas afirmado
+  vos: hayas afirmado
+  ud: haya afirmado
+  nosotros: hayamos afirmado
+  vosotros: hayáis afirmado
+  uds: hayan afirmado
+imperfecto-subjuntivo:
+  yo:
+    - afirmara
+    - afirmase
+  tu:
+    - afirmaras
+    - afirmases
+  vos:
+    - afirmaras
+    - afirmases
+  ud:
+    - afirmara
+    - afirmase
+  nosotros:
+    - afirmáramos
+    - afirmásemos
+  vosotros:
+    - afirmarais
+    - afirmaseis
+  uds:
+    - afirmaran
+    - afirmasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera afirmado
+    - hubiese afirmado
+  tu:
+    - hubieras afirmado
+    - hubieses afirmado
+  vos:
+    - hubieras afirmado
+    - hubieses afirmado
+  ud:
+    - hubiera afirmado
+    - hubiese afirmado
+  nosotros:
+    - hubiéramos afirmado
+    - hubiésemos afirmado
+  vosotros:
+    - hubierais afirmado
+    - hubieseis afirmado
+  uds:
+    - hubieran afirmado
+    - hubiesen afirmado
+imperativo:
+  tu: afirma
+  vos: afirma
+  ud: afirme
+  nosotros: afirmemos
+  vosotros: afirmad
+  uds: afirmen

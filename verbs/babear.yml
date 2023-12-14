@@ -1,0 +1,142 @@
+infinitivo: babear
+gerundio: babeando
+participio-pasado: babeado
+presente-indicativo:
+  yo: babeo
+  tu: babees
+  vos: babees
+  ud: babea
+  nosotros: babeamos
+  vosotros: babeáis
+  uds: babean
+preterito-perfecto-simple:
+  yo: babeé
+  tu: babeaste
+  vos: babeaste
+  ud: babeó
+  nosotros: babeamos
+  vosotros: babeasteis
+  uds: babearon
+preterito-imperfecto:
+  yo: babeaba
+  tu: babeabas
+  vos: babeabas
+  ud: babeaba
+  nosotros: babeábamos
+  vosotros: babeabais
+  uds: babeaban
+futuro-simple:
+  yo: babearé
+  tu: babearás
+  vos: babearás
+  ud: babeará
+  nosotros: babearemos
+  vosotros: babearéis
+  uds: babearán
+condicional-simple:
+  yo: babearía
+  tu: babearías
+  vos: babearías
+  ud: babearía
+  nosotros: babearíamos
+  vosotros: babearíais
+  uds: babearían
+presente-perfecto:
+  yo: he babeado
+  tu: has babeado
+  vos: has babeado
+  ud: ha babeado
+  nosotros: hemos babeado
+  vosotros: habéis babeado
+  uds: han babeado
+preterito-pluscuamperfecto:
+  yo: había babeado
+  tu: habías babeado
+  vos: habías babeado
+  ud: había babeado
+  nosotros: habíamos babeado
+  vosotros: habíais babeado
+  uds: habían babeado
+futuro-perfecto:
+  yo: habré babeado
+  tu: habrás babeado
+  vos: habrás babeado
+  ud: habrá babeado
+  nosotros: habremos babeado
+  vosotros: habréis babeado
+  uds: habrán babeado
+condicional-perfecto:
+  yo: habría babeado
+  tu: habrías babeado
+  vos: habrías babeado
+  ud: habría babeado
+  nosotros: habríamos babeado
+  vosotros: habríais babeado
+  uds: habrían babeado
+presente-subjuntivo:
+  yo: babeé
+  tu: babees
+  vos: babees
+  ud: babeé
+  nosotros: babeemos
+  vosotros: babeéis
+  uds: babeen
+preterito-perfecto-subjuntivo:
+  yo: haya babeado
+  tu: hayas babeado
+  vos: hayas babeado
+  ud: haya babeado
+  nosotros: hayamos babeado
+  vosotros: hayáis babeado
+  uds: hayan babeado
+imperfecto-subjuntivo:
+  yo:
+    - babease
+    - babease
+  tu:
+    - babeases
+    - babeases
+  vos:
+    - babeases
+    - babeases
+  ud:
+    - babease
+    - babease
+  nosotros:
+    - babeásemos
+    - babeásemos
+  vosotros:
+    - babeaseis
+    - babeaseis
+  uds:
+    - babeasen
+    - babeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera babeado
+    - hubiese babeado
+  tu:
+    - hubieras babeado
+    - hubieses babeado
+  vos:
+    - hubieras babeado
+    - hubieses babeado
+  ud:
+    - hubiera babeado
+    - hubiese babeado
+  nosotros:
+    - hubiéramos babeado
+    - hubiésemos babeado
+  vosotros:
+    - hubierais babeado
+    - hubieseis babeado
+  uds:
+    - hubieran babeado
+    - hubiesen babeado
+imperativo:
+  tu: babea
+  vos: babeá
+  ud: babea
+  nosotros: babeemos
+  vosotros: bead
+  uds: babeen

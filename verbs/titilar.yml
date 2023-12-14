@@ -1,0 +1,142 @@
+infinitivo: titilar
+gerundio: titilando
+participio-pasado: titilado
+presente-indicativo:
+  yo: titilo
+  tu: titilas
+  vos: titilas
+  ud: titila
+  nosotros: titilamos
+  vosotros: titiláis
+  uds: titilan
+preterito-perfecto-simple:
+  yo: titilé
+  tu: titilaste
+  vos: titilaste
+  ud: titiló
+  nosotros: titilamos
+  vosotros: titilasteis
+  uds: titilaron
+preterito-imperfecto:
+  yo: titilaba
+  tu: titilabas
+  vos: titilabas
+  ud: titilaba
+  nosotros: titilábamos
+  vosotros: titilabais
+  uds: titilaban
+futuro-simple:
+  yo: titilaré
+  tu: titularás
+  vos: titularás
+  ud: titulará
+  nosotros: titilaremos
+  vosotros: titularéis
+  uds: titularán
+condicional-simple:
+  yo: titularía
+  tu: titularías
+  vos: titularías
+  ud: titularía
+  nosotros: titularíamos
+  vosotros: titularíais
+  uds: titularían
+presente-perfecto:
+  yo: he titilado
+  tu: has titilado
+  vos: has titilado
+  ud: ha titilado
+  nosotros: hemos titilado
+  vosotros: habéis titilado
+  uds: han titilado
+preterito-pluscuamperfecto:
+  yo: había titilado
+  tu: habías titilado
+  vos: habías titilado
+  ud: había titilado
+  nosotros: habíamos titilado
+  vosotros: habíais titilado
+  uds: habían titilado
+futuro-perfecto:
+  yo: habré titilado
+  tu: habrás titilado
+  vos: habrás titilado
+  ud: habrá titilado
+  nosotros: habremos titilado
+  vosotros: habréis titilado
+  uds: habrán titilado
+condicional-perfecto:
+  yo: habría titilado
+  tu: habrías titilado
+  vos: habrías titilado
+  ud: habría titilado
+  nosotros: habríamos titilado
+  vosotros: habríais titilado
+  uds: habrían titilado
+presente-subjuntivo:
+  yo: titile
+  tu: titiles
+  vos: titiles
+  ud: titile
+  nosotros: titilemos
+  vosotros: titiléis
+  uds: titilen
+preterito-perfecto-subjuntivo:
+  yo: haya titilado
+  tu: hayas titilado
+  vos: hayas titilado
+  ud: haya titilado
+  nosotros: hayamos titilado
+  vosotros: hayáis titilado
+  uds: hayan titilado
+imperfecto-subjuntivo:
+  yo:
+    - titilara
+    - titilase
+  tu:
+    - titularas
+    - titilases
+  vos:
+    - titularas
+    - titilases
+  ud:
+    - titilara
+    - titilase
+  nosotros:
+    - titiláramos
+    - titilásemos
+  vosotros:
+    - titularais
+    - titilaseis
+  uds:
+    - titilaran
+    - titilasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera titilado
+    - hubiese titilado
+  tu:
+    - hubieras titilado
+    - hubieses titilado
+  vos:
+    - hubieras titilado
+    - hubieses titilado
+  ud:
+    - hubiera titilado
+    - hubiese titilado
+  nosotros:
+    - hubiéramos titilado
+    - hubiésemos titilado
+  vosotros:
+    - hubierais titilado
+    - hubieseis titilado
+  uds:
+    - hubieran titilado
+    - hubiesen titilado
+imperativo:
+  tu: titila
+  vos: titilá
+  ud: titile
+  nosotros: titilemos
+  vosotros: titilad
+  uds: titilen

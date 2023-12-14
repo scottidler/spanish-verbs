@@ -1,0 +1,142 @@
+infinitivo: apuñalar
+gerundio: apuñalando
+participio-pasado: apuñalado
+presente-indicativo:
+  yo: apuñalo
+  tu: apuñalas
+  vos: apuñalás
+  ud: apuñala
+  nosotros: apuñalamos
+  vosotros: apuñaláis
+  uds: apuñalan
+preterito-perfecto-simple:
+  yo: apuñalé
+  tu: apuñalaste
+  vos: apuñalaste
+  ud: apuñaló
+  nosotros: apuñalamos
+  vosotros: apuñalasteis
+  uds: apuñalaron
+preterito-imperfecto:
+  yo: apuñalaba
+  tu: apuñalabas
+  vos: apuñalabas
+  ud: apuñalaba
+  nosotros: apuñalábamos
+  vosotros: apuñalabais
+  uds: apuñalaban
+futuro-simple:
+  yo: apuñalaré
+  tu: apuñalarás
+  vos: apuñalarás
+  ud: apuñalará
+  nosotros: apuñalaremos
+  vosotros: apuñalaréis
+  uds: apuñalarán
+condicional-simple:
+  yo: apuñalaría
+  tu: apuñalarías
+  vos: apuñalarías
+  ud: apuñalaría
+  nosotros: apuñalaríamos
+  vosotros: apuñalaríais
+  uds: apuñalarían
+presente-perfecto:
+  yo: he apuñalado
+  tu: has apuñalado
+  vos: has apuñalado
+  ud: ha apuñalado
+  nosotros: hemos apuñalado
+  vosotros: habéis apuñalado
+  uds: han apuñalado
+preterito-pluscuamperfecto:
+  yo: había apuñalado
+  tu: habías apuñalado
+  vos: habías apuñalado
+  ud: había apuñalado
+  nosotros: habíamos apuñalado
+  vosotros: habíais apuñalado
+  uds: habían apuñalado
+futuro-perfecto:
+  yo: habré apuñalado
+  tu: habrás apuñalado
+  vos: habrás apuñalado
+  ud: habrá apuñalado
+  nosotros: habremos apuñalado
+  vosotros: habréis apuñalado
+  uds: habrán apuñalado
+condicional-perfecto:
+  yo: habría apuñalado
+  tu: habrías apuñalado
+  vos: habrías apuñalado
+  ud: habría apuñalado
+  nosotros: habríamos apuñalado
+  vosotros: habríais apuñalado
+  uds: habrían apuñalado
+presente-subjuntivo:
+  yo: apuñale
+  tu: apuñales
+  vos: apuñales
+  ud: apuñale
+  nosotros: apuñalemos
+  vosotros: apuñaléis
+  uds: apuñalen
+preterito-perfecto-subjuntivo:
+  yo: haya apuñalado
+  tu: hayas apuñalado
+  vos: hayas apuñalado
+  ud: haya apuñalado
+  nosotros: hayamos apuñalado
+  vosotros: hayáis apuñalado
+  uds: hayan apuñalado
+imperfecto-subjuntivo:
+  yo:
+    - apuñalara
+    - apuñalase
+  tu:
+    - apuñalaras
+    - apuñalases
+  vos:
+    - apuñalaras
+    - apuñalases
+  ud:
+    - apuñalara
+    - apuñalase
+  nosotros:
+    - apuñaláramos
+    - apuñalásemos
+  vosotros:
+    - apuñalarais
+    - apuñalaseis
+  uds:
+    - apuñalaran
+    - apuñalasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apuñalado
+    - hubiese apuñalado
+  tu:
+    - hubieras apuñalado
+    - hubieses apuñalado
+  vos:
+    - hubieras apuñalado
+    - hubieses apuñalado
+  ud:
+    - hubiera apuñalado
+    - hubiese apuñalado
+  nosotros:
+    - hubiéramos apuñalado
+    - hubiésemos apuñalado
+  vosotros:
+    - hubierais apuñalado
+    - hubieseis apuñalado
+  uds:
+    - hubieran apuñalado
+    - hubiesen apuñalado
+imperativo:
+  tu: apuñala
+  vos: apuñalá
+  ud: apuñale
+  nosotros: apuñalemos
+  vosotros: apuñalad
+  uds: apuñalen

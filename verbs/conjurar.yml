@@ -1,0 +1,142 @@
+infinitivo: conjurar
+gerundio: conjurando
+participio-pasado: conjurado
+presente-indicativo:
+  yo: conjuro
+  tu: conjuras
+  vos: conjuras
+  ud: conjura
+  nosotros: conjuramos
+  vosotros: conjuráis
+  uds: conjuran
+preterito-perfecto-simple:
+  yo: conjuré
+  tu: conjuraste
+  vos: conjuraste
+  ud: conjuró
+  nosotros: conjuramos
+  vosotros: conjurasteis
+  uds: conjuraron
+preterito-imperfecto:
+  yo: conjuraba
+  tu: conjurabas
+  vos: conjurabas
+  ud: conjuraba
+  nosotros: conjurábamos
+  vosotros: conjurabais
+  uds: conjuraban
+futuro-simple:
+  yo: conjuraré
+  tu: conjurarás
+  vos: conjurarás
+  ud: conjurará
+  nosotros: conjuraremos
+  vosotros: conjuraréis
+  uds: conjurarán
+condicional-simple:
+  yo: conjuraría
+  tu: conjurarías
+  vos: conjurarías
+  ud: conjuraría
+  nosotros: conjuraríamos
+  vosotros: conjuraríais
+  uds: conjurarían
+presente-perfecto:
+  yo: he conjurado
+  tu: has conjurado
+  vos: has conjurado
+  ud: ha conjurado
+  nosotros: hemos conjurado
+  vosotros: habéis conjurado
+  uds: han conjurado
+preterito-pluscuamperfecto:
+  yo: había conjurado
+  tu: habías conjurado
+  vos: habías conjurado
+  ud: había conjurado
+  nosotros: habíamos conjurado
+  vosotros: habíais conjurado
+  uds: habían conjurado
+futuro-perfecto:
+  yo: habré conjurado
+  tu: habrás conjurado
+  vos: habrás conjurado
+  ud: habrá conjurado
+  nosotros: habremos conjurado
+  vosotros: habréis conjurado
+  uds: habrán conjurado
+condicional-perfecto:
+  yo: habría conjurado
+  tu: habrías conjurado
+  vos: habrías conjurado
+  ud: habría conjurado
+  nosotros: habríamos conjurado
+  vosotros: habríais conjurado
+  uds: habrían conjurado
+presente-subjuntivo:
+  yo: conjure
+  tu: conjures
+  vos: conjures
+  ud: conjure
+  nosotros: conjuremos
+  vosotros: conjuréis
+  uds: conjuren
+preterito-perfecto-subjuntivo:
+  yo: haya conjurado
+  tu: hayas conjurado
+  vos: hayas conjurado
+  ud: haya conjurado
+  nosotros: hayamos conjurado
+  vosotros: hayáis conjurado
+  uds: hayan conjurado
+imperfecto-subjuntivo:
+  yo:
+    - conjurara
+    - conjurase
+  tu:
+    - conjuraras
+    - conjurases
+  vos:
+    - conjuraras
+    - conjurases
+  ud:
+    - conjurara
+    - conjurase
+  nosotros:
+    - conjuráramos
+    - conjurásemos
+  vosotros:
+    - conjurarais
+    - conjuraseis
+  uds:
+    - conjuraran
+    - conjurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conjurado
+    - hubiese conjurado
+  tu:
+    - hubieras conjurado
+    - hubieses conjurado
+  vos:
+    - hubieras conjurado
+    - hubieses conjurado
+  ud:
+    - hubiera conjurado
+    - hubiese conjurado
+  nosotros:
+    - hubiéramos conjurado
+    - hubiésemos conjurado
+  vosotros:
+    - hubierais conjurado
+    - hubieseis conjurado
+  uds:
+    - hubieran conjurado
+    - hubiesen conjurado
+imperativo:
+  tu: conjura
+  vos: conjurá
+  ud: conjure
+  nosotros: conjuremos
+  vosotros: conjurad
+  uds: conjuren

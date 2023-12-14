@@ -1,0 +1,142 @@
+infinitivo: ceder
+gerundio: cediendo
+participio-pasado: cedido
+presente-indicativo:
+  yo: cedo
+  tu: cedes
+  vos: cedes
+  ud: cede
+  nosotros: cedemos
+  vosotros: cedéis
+  uds: ceden
+preterito-perfecto-simple:
+  yo: cedí
+  tu: cediste
+  vos: cediste
+  ud: cedió
+  nosotros: cedimos
+  vosotros: cedisteis
+  uds: cedieron
+preterito-imperfecto:
+  yo: cedía
+  tu: cedías
+  vos: cedías
+  ud: cedía
+  nosotros: cedíamos
+  vosotros: cedíais
+  uds: cedían
+futuro-simple:
+  yo: cederé
+  tu: cederás
+  vos: cederás
+  ud: cederá
+  nosotros: cederemos
+  vosotros: cederéis
+  uds: cederán
+condicional-simple:
+  yo: cedería
+  tu: cederías
+  vos: cederías
+  ud: cedería
+  nosotros: cederíamos
+  vosotros: cederíais
+  uds: cederían
+presente-perfecto:
+  yo: he cedido
+  tu: has cedido
+  vos: has cedido
+  ud: ha cedido
+  nosotros: hemos cedido
+  vosotros: habéis cedido
+  uds: han cedido
+preterito-pluscuamperfecto:
+  yo: había cedido
+  tu: habías cedido
+  vos: habías cedido
+  ud: había cedido
+  nosotros: habíamos cedido
+  vosotros: habíais cedido
+  uds: habían cedido
+futuro-perfecto:
+  yo: habré cedido
+  tu: habrás cedido
+  vos: habrás cedido
+  ud: habrá cedido
+  nosotros: habremos cedido
+  vosotros: habréis cedido
+  uds: habrán cedido
+condicional-perfecto:
+  yo: habría cedido
+  tu: habrías cedido
+  vos: habrías cedido
+  ud: habría cedido
+  nosotros: habríamos cedido
+  vosotros: habríais cedido
+  uds: habrían cedido
+presente-subjuntivo:
+  yo: ceda
+  tu: cedas
+  vos: cedas
+  ud: ceda
+  nosotros: cedamos
+  vosotros: cedáis
+  uds: cedan
+preterito-perfecto-subjuntivo:
+  yo: haya cedido
+  tu: hayas cedido
+  vos: hayas cedido
+  ud: haya cedido
+  nosotros: hayamos cedido
+  vosotros: hayáis cedido
+  uds: hayan cedido
+imperfecto-subjuntivo:
+  yo:
+    - cediera
+    - cediese
+  tu:
+    - cedieras
+    - cedieses
+  vos:
+    - cedieras
+    - cedieses
+  ud:
+    - cediera
+    - cediese
+  nosotros:
+    - cediéramos
+    - cediésemos
+  vosotros:
+    - cedierais
+    - cedieseis
+  uds:
+    - cedieran
+    - cediesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cedido
+    - hubiese cedido
+  tu:
+    - hubieras cedido
+    - hubieses cedido
+  vos:
+    - hubieras cedido
+    - hubieses cedido
+  ud:
+    - hubiera cedido
+    - hubiese cedido
+  nosotros:
+    - hubiéramos cedido
+    - hubiésemos cedido
+  vosotros:
+    - hubierais cedido
+    - hubieseis cedido
+  uds:
+    - hubieran cedido
+    - hubiesen cedido
+imperativo:
+  tu: cede
+  vos: cedé
+  ud: ceda
+  nosotros: cedamos
+  vosotros: ceded
+  uds: cedan

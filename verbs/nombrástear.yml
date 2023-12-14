@@ -1,0 +1,142 @@
+infinitivo: nombrástear
+gerundio: nombrástando
+participio-pasado: nombrástado
+presente-indicativo:
+  yo: nombrastéo
+  tu: nombrastéas
+  vos: nombrastéas
+  ud: nombrastéa
+  nosotros: nombrastéamos
+  vosotros: nombrastéáis
+  uds: nombrastéan
+preterito-perfecto-simple:
+  yo: nombrasteé
+  tu: nombrasteaste
+  vos: nombrasteaste
+  ud: nombrasteó
+  nosotros: nombrasteamos
+  vosotros: nombrasteasteis
+  uds: nombrastearon
+preterito-imperfecto:
+  yo: nombrasteaba
+  tu: nombrasteabas
+  vos: nombrasteabas
+  ud: nombrasteaba
+  nosotros: nombrasteábamos
+  vosotros: nombrasteabais
+  uds: nombrasteaban
+futuro-simple:
+  yo: nombrastearé
+  tu: nombrastearás
+  vos: nombrastearás
+  ud: nombrasteará
+  nosotros: nombrastearemos
+  vosotros: nombrastearéis
+  uds: nombrastearán
+condicional-simple:
+  yo: nombrastearía
+  tu: nombrastearías
+  vos: nombrastearías
+  ud: nombrastearía
+  nosotros: nombrastearíamos
+  vosotros: nombrastearíais
+  uds: nombrastearían
+presente-perfecto:
+  yo: he nombrasteado
+  tu: has nombrasteado
+  vos: has nombrasteado
+  ud: ha nombrasteado
+  nosotros: hemos nombrasteado
+  vosotros: habéis nombrasteado
+  uds: han nombrasteado
+preterito-pluscuamperfecto:
+  yo: había nombrasteado
+  tu: habías nombrasteado
+  vos: habías nombrasteado
+  ud: había nombrasteado
+  nosotros: habíamos nombrasteado
+  vosotros: habíais nombrasteado
+  uds: habían nombrasteado
+futuro-perfecto:
+  yo: habré nombrasteado
+  tu: habrás nombrasteado
+  vos: habrás nombrasteado
+  ud: habrá nombrasteado
+  nosotros: habremos nombrasteado
+  vosotros: habréis nombrasteado
+  uds: habrán nombrasteado
+condicional-perfecto:
+  yo: habría nombrasteado
+  tu: habrías nombrasteado
+  vos: habrías nombrasteado
+  ud: habría nombrasteado
+  nosotros: habríamos nombrasteado
+  vosotros: habríais nombrasteado
+  uds: habrían nombrasteado
+presente-subjuntivo:
+  yo: nombrastee
+  tu: nombrastees
+  vos: nombrastees
+  ud: nombrastee
+  nosotros: nombrasteemos
+  vosotros: nombrasteeáis
+  uds: nombrasteen
+preterito-perfecto-subjuntivo:
+  yo: haya nombrasteado
+  tu: hayas nombrasteado
+  vos: hayas nombrasteado
+  ud: haya nombrasteado
+  nosotros: hayamos nombrasteado
+  vosotros: hayáis nombrasteado
+  uds: hayan nombrasteado
+imperfecto-subjuntivo:
+  yo:
+    - nombrasteara
+    - nombrastease
+  tu:
+    - nombrastearas
+    - nombrasteases
+  vos:
+    - nombrastearas
+    - nombrasteases
+  ud:
+    - nombrasteara
+    - nombrastease
+  nosotros:
+    - nombrasteáramos
+    - nombrasteásemos
+  vosotros:
+    - nombrastearais
+    - nombrasteaseis
+  uds:
+    - nombrastearan
+    - nombrasteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera nombrasteado
+    - hubiese nombrasteado
+  tu:
+    - hubieras nombrasteado
+    - hubieses nombrasteado
+  vos:
+    - hubieras nombrasteado
+    - hubieses nombrasteado
+  ud:
+    - hubiera nombrasteado
+    - hubiese nombrasteado
+  nosotros:
+    - hubiéramos nombrasteado
+    - hubiésemos nombrasteado
+  vosotros:
+    - hubierais nombrasteado
+    - hubieseis nombrasteado
+  uds:
+    - hubieran nombrasteado
+    - hubiesen nombrasteado
+imperativo:
+  tu: nombrastea
+  vos: nombrastéa
+  ud: nombrastée
+  nosotros: nombrasteemos
+  vosotros: nombrastead
+  uds: nombrasteen

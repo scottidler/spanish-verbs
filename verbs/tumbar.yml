@@ -1,0 +1,142 @@
+infinitivo: tumbar
+gerundio: tumbando
+participio-pasado: tumbado
+presente-indicativo:
+  yo: tumb
+  tu: tumbas
+  vos: tumbas
+  ud: tumba
+  nosotros: tumbamos
+  vosotros: tumbáis
+  uds: tumban
+preterito-perfecto-simple:
+  yo: tumbé
+  tu: tumbaste
+  vos: tumbaste
+  ud: tumbó
+  nosotros: tumbamos
+  vosotros: tumbasteis
+  uds: tumbaron
+preterito-imperfecto:
+  yo: tumbaba
+  tu: tumbabas
+  vos: tumbabas
+  ud: tumbaba
+  nosotros: tumbábamos
+  vosotros: tumbabais
+  uds: tumbaban
+futuro-simple:
+  yo: tumbaré
+  tu: tumbarás
+  vos: tumbarás
+  ud: tumbará
+  nosotros: tumbaremos
+  vosotros: tumbaréis
+  uds: tumbarán
+condicional-simple:
+  yo: tumbaría
+  tu: tumbarías
+  vos: tumbarías
+  ud: tumbaría
+  nosotros: tumbaríamos
+  vosotros: tumbaríais
+  uds: tumbarían
+presente-perfecto:
+  yo: he tumbado
+  tu: has tumbado
+  vos: has tumbado
+  ud: ha tumbado
+  nosotros: hemos tumbado
+  vosotros: habéis tumbado
+  uds: han tumbado
+preterito-pluscuamperfecto:
+  yo: había tumbado
+  tu: habías tumbado
+  vos: habías tumbado
+  ud: había tumbado
+  nosotros: habíamos tumbado
+  vosotros: habíais tumbado
+  uds: habían tumbado
+futuro-perfecto:
+  yo: habré tumbado
+  tu: habrás tumbado
+  vos: habrás tumbado
+  ud: habrá tumbado
+  nosotros: habremos tumbado
+  vosotros: habréis tumbado
+  uds: habrán tumbado
+condicional-perfecto:
+  yo: habría tumbado
+  tu: habrías tumbado
+  vos: habrías tumbado
+  ud: habría tumbado
+  nosotros: habríamos tumbado
+  vosotros: habríais tumbado
+  uds: habrían tumbado
+presente-subjuntivo:
+  yo: tumbe
+  tu: tumbes
+  vos: tumbes
+  ud: tumbe
+  nosotros: tumbemos
+  vosotros: tumbéis
+  uds: tumben
+preterito-perfecto-subjuntivo:
+  yo: haya tumbado
+  tu: hayas tumbado
+  vos: hayas tumbado
+  ud: haya tumbado
+  nosotros: hayamos tumbado
+  vosotros: hayáis tumbado
+  uds: hayan tumbado
+imperfecto-subjuntivo:
+  yo:
+    - tumbara
+    - tumbase
+  tu:
+    - tumbaras
+    - tumbases
+  vos:
+    - tumbaras
+    - tumbases
+  ud:
+    - tumbara
+    - tumbase
+  nosotros:
+    - tumbáramos
+    - tumbásemos
+  vosotros:
+    - tumbarais
+    - tumbaseis
+  uds:
+    - tumbaran
+    - tumbasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tumbado
+    - hubiese tumbado
+  tu:
+    - hubieras tumbado
+    - hubieses tumbado
+  vos:
+    - hubieras tumbado
+    - hubieses tumbado
+  ud:
+    - hubiera tumbado
+    - hubiese tumbado
+  nosotros:
+    - hubiéramos tumbado
+    - hubiésemos tumbado
+  vosotros:
+    - hubierais tumbado
+    - hubieseis tumbado
+  uds:
+    - hubieran tumbado
+    - hubiesen tumbado
+imperativo:
+  tu: tumba
+  vos: tumbá
+  ud: tumbe
+  nosotros: tumbemos
+  vosotros: tumbad
+  uds: tumben

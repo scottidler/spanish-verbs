@@ -1,0 +1,142 @@
+infinitivo: acusar
+gerundio: acusando
+participio-pasado: acusado
+presente-indicativo:
+  yo: acuso
+  tu: acusas
+  vos: acusas
+  ud: acusa
+  nosotros: acusamos
+  vosotros: acusáis
+  uds: acusan
+preterito-perfecto-simple:
+  yo: acusé
+  tu: acusaste
+  vos: acusaste
+  ud: acusó
+  nosotros: acusamos
+  vosotros: acusasteis
+  uds: acusaron
+preterito-imperfecto:
+  yo: acusaba
+  tu: acusabas
+  vos: acusabas
+  ud: acusaba
+  nosotros: acusábamos
+  vosotros: acusabais
+  uds: acusaban
+futuro-simple:
+  yo: acusaré
+  tu: acusarás
+  vos: acusarás
+  ud: acusará
+  nosotros: acusaremos
+  vosotros: acusaréis
+  uds: acusarán
+condicional-simple:
+  yo: acusaría
+  tu: acusarías
+  vos: acusarías
+  ud: acusaría
+  nosotros: acusaríamos
+  vosotros: acusaríais
+  uds: acusarían
+presente-perfecto:
+  yo: he acusado
+  tu: has acusado
+  vos: has acusado
+  ud: ha acusado
+  nosotros: hemos acusado
+  vosotros: habéis acusado
+  uds: han acusado
+preterito-pluscuamperfecto:
+  yo: había acusado
+  tu: habías acusado
+  vos: habías acusado
+  ud: había acusado
+  nosotros: habíamos acusado
+  vosotros: habíais acusado
+  uds: habían acusado
+futuro-perfecto:
+  yo: habré acusado
+  tu: habrás acusado
+  vos: habrás acusado
+  ud: habrá acusado
+  nosotros: habremos acusado
+  vosotros: habréis acusado
+  uds: habrán acusado
+condicional-perfecto:
+  yo: habría acusado
+  tu: habrías acusado
+  vos: habrías acusado
+  ud: habría acusado
+  nosotros: habríamos acusado
+  vosotros: habríais acusado
+  uds: habrían acusado
+presente-subjuntivo:
+  yo: acuse
+  tu: acuses
+  vos: acuses
+  ud: acuse
+  nosotros: acusemos
+  vosotros: acuséis
+  uds: acusen
+preterito-perfecto-subjuntivo:
+  yo: haya acusado
+  tu: hayas acusado
+  vos: hayas acusado
+  ud: haya acusado
+  nosotros: hayamos acusado
+  vosotros: hayáis acusado
+  uds: hayan acusado
+imperfecto-subjuntivo:
+  yo:
+    - acusara
+    - acusase
+  tu:
+    - acusaras
+    - acusases
+  vos:
+    - acusaras
+    - acusases
+  ud:
+    - acusara
+    - acusase
+  nosotros:
+    - acusáramos
+    - acusásemos
+  vosotros:
+    - acusarais
+    - acusaseis
+  uds:
+    - acusaran
+    - acusasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acusado
+    - hubiese acusado
+  tu:
+    - hubieras acusado
+    - hubieses acusado
+  vos:
+    - hubieras acusado
+    - hubieses acusado
+  ud:
+    - hubiera acusado
+    - hubiese acusado
+  nosotros:
+    - hubiéramos acusado
+    - hubiésemos acusado
+  vosotros:
+    - hubierais acusado
+    - hubieseis acusado
+  uds:
+    - hubieran acusado
+    - hubiesen acusado
+imperativo:
+  tu: acusa
+  vos: acusá
+  ud: acuse
+  nosotros: acusemos
+  vosotros: acusad
+  uds: acusen

@@ -1,0 +1,142 @@
+infinitivo: llover
+gerundio: lloviendo
+participio-pasado: llovido
+presente-indicativo:
+  yo: lluevo
+  tu: llueves
+  vos: llueves
+  ud: llueve
+  nosotros: llovemos
+  vosotros: llovéis
+  uds: llueven
+preterito-perfecto-simple:
+  yo: llovió
+  tu: lloviste
+  vos: lloviste
+  ud: llovió
+  nosotros: llovimos
+  vosotros: llovisteis
+  uds: llovieron
+preterito-imperfecto:
+  yo: llovía
+  tu: llovías
+  vos: llovías
+  ud: llovía
+  nosotros: llovíamos
+  vosotros: llovíais
+  uds: llovían
+futuro-simple:
+  yo: lloveré
+  tu: lloverás
+  vos: lloverás
+  ud: lloverá
+  nosotros: lloveremos
+  vosotros: lloveréis
+  uds: lloverán
+condicional-simple:
+  yo: llovería
+  tu: lloverías
+  vos: lloverías
+  ud: llovería
+  nosotros: lloveríamos
+  vosotros: lloveríais
+  uds: lloverían
+presente-perfecto:
+  yo: he llovido
+  tu: has llovido
+  vos: has llovido
+  ud: ha llovido
+  nosotros: hemos llovido
+  vosotros: habéis llovido
+  uds: han llovido
+preterito-pluscuamperfecto:
+  yo: había llovido
+  tu: habías llovido
+  vos: habías llovido
+  ud: había llovido
+  nosotros: habíamos llovido
+  vosotros: habíais llovido
+  uds: habían llovido
+futuro-perfecto:
+  yo: habré llovido
+  tu: habrás llovido
+  vos: habrás llovido
+  ud: habrá llovido
+  nosotros: habremos llovido
+  vosotros: habréis llovido
+  uds: habrán llovido
+condicional-perfecto:
+  yo: habría llovido
+  tu: habrías llovido
+  vos: habrías llovido
+  ud: habría llovido
+  nosotros: habríamos llovido
+  vosotros: habríais llovido
+  uds: habrían llovido
+presente-subjuntivo:
+  yo: llueva
+  tu: lluevas
+  vos: lluevas
+  ud: llueva
+  nosotros: llovamos
+  vosotros: lluváis
+  uds: lluevan
+preterito-perfecto-subjuntivo:
+  yo: haya llovido
+  tu: hayas llovido
+  vos: hayas llovido
+  ud: haya llovido
+  nosotros: hayamos llovido
+  vosotros: hayáis llovido
+  uds: hayan llovido
+imperfecto-subjuntivo:
+  yo:
+    - lloviera
+    - lloviese
+  tu:
+    - llovieras
+    - llovieses
+  vos:
+    - llovieras
+    - llovieses
+  ud:
+    - lloviera
+    - lloviese
+  nosotros:
+    - lloviéramos
+    - lloviésemos
+  vosotros:
+    - llovierais
+    - llovieseis
+  uds:
+    - llovieran
+    - lloviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llovido
+    - hubiese llovido
+  tu:
+    - hubieras llovido
+    - hubieses llovido
+  vos:
+    - hubieras llovido
+    - hubieses llovido
+  ud:
+    - hubiera llovido
+    - hubiese llovido
+  nosotros:
+    - hubiéramos llovido
+    - hubiésemos llovido
+  vosotros:
+    - hubierais llovido
+    - hubieseis llovido
+  uds:
+    - hubieran llovido
+    - hubiesen llovido
+imperativo:
+  tu: llueve
+  vos: llueve
+  ud: llueva
+  nosotros: llovamos
+  vosotros: lloved
+  uds: lluevan

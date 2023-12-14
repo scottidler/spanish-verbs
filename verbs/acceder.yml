@@ -1,0 +1,142 @@
+infinitivo: acceder
+gerundio: accediendo
+participio-pasado: accedido
+presente-indicativo:
+  yo: accedo
+  tu: accedes
+  vos: accedes
+  ud: accede
+  nosotros: accedemos
+  vosotros: accedéis
+  uds: acceden
+preterito-perfecto-simple:
+  yo: accedí
+  tu: accediste
+  vos: accediste
+  ud: accedió
+  nosotros: accedimos
+  vosotros: accedisteis
+  uds: accedieron
+preterito-imperfecto:
+  yo: accedía
+  tu: accedías
+  vos: accedías
+  ud: accedía
+  nosotros: accedíamos
+  vosotros: accedíais
+  uds: accedían
+futuro-simple:
+  yo: accederé
+  tu: accederás
+  vos: accederás
+  ud: accederá
+  nosotros: accederemos
+  vosotros: accederéis
+  uds: accederán
+condicional-simple:
+  yo: accedería
+  tu: accederías
+  vos: accederías
+  ud: accedería
+  nosotros: accederíamos
+  vosotros: accederíais
+  uds: accederían
+presente-perfecto:
+  yo: he accedido
+  tu: has accedido
+  vos: has accedido
+  ud: ha accedido
+  nosotros: hemos accedido
+  vosotros: habéis accedido
+  uds: han accedido
+preterito-pluscuamperfecto:
+  yo: había accedido
+  tu: habías accedido
+  vos: habías accedido
+  ud: había accedido
+  nosotros: habíamos accedido
+  vosotros: habíais accedido
+  uds: habían accedido
+futuro-perfecto:
+  yo: habré accedido
+  tu: habrás accedido
+  vos: habrás accedido
+  ud: habrá accedido
+  nosotros: habremos accedido
+  vosotros: habréis accedido
+  uds: habrán accedido
+condicional-perfecto:
+  yo: habría accedido
+  tu: habrías accedido
+  vos: habrías accedido
+  ud: habría accedido
+  nosotros: habríamos accedido
+  vosotros: habríais accedido
+  uds: habrían accedido
+presente-subjuntivo:
+  yo: acceda
+  tu: accedas
+  vos: accedas
+  ud: acceda
+  nosotros: accedamos
+  vosotros: accedáis
+  uds: accedan
+preterito-perfecto-subjuntivo:
+  yo: haya accedido
+  tu: hayas accedido
+  vos: hayas accedido
+  ud: haya accedido
+  nosotros: hayamos accedido
+  vosotros: hayáis accedido
+  uds: hayan accedido
+imperfecto-subjuntivo:
+  yo:
+    - accediera
+    - accediese
+  tu:
+    - accedieras
+    - accedieses
+  vos:
+    - accedieras
+    - accedieses
+  ud:
+    - accediera
+    - accediese
+  nosotros:
+    - accediéramos
+    - accediésemos
+  vosotros:
+    - accedierais
+    - accedieseis
+  uds:
+    - accedieran
+    - accediesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera accedido
+    - hubiese accedido
+  tu:
+    - hubieras accedido
+    - hubieses accedido
+  vos:
+    - hubieras accedido
+    - hubieses accedido
+  ud:
+    - hubiera accedido
+    - hubiese accedido
+  nosotros:
+    - hubiéramos accedido
+    - hubiésemos accedido
+  vosotros:
+    - hubierais accedido
+    - hubieseis accedido
+  uds:
+    - hubieran accedido
+    - hubiesen accedido
+imperativo:
+  tu: accede
+  vos: accedé
+  ud: acceda
+  nosotros: accedamos
+  vosotros: acceded
+  uds: accedan

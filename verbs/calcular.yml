@@ -1,0 +1,142 @@
+infinitivo: calcular
+gerundio: calculando
+participio-pasado: calculado
+presente-indicativo:
+  yo: calculo
+  tu: calculas
+  vos: calculas
+  ud: calcula
+  nosotros: calculamos
+  vosotros: calculáis
+  uds: calculan
+preterito-perfecto-simple:
+  yo: calculé
+  tu: calculaste
+  vos: calculaste
+  ud: calculó
+  nosotros: calculamos
+  vosotros: calculasteis
+  uds: calcularon
+preterito-imperfecto:
+  yo: calculaba
+  tu: calculabas
+  vos: calculabas
+  ud: calculaba
+  nosotros: calculábamos
+  vosotros: calculabais
+  uds: calculaban
+futuro-simple:
+  yo: calcularé
+  tu: calcularás
+  vos: calcularás
+  ud: calculará
+  nosotros: calcularemos
+  vosotros: calcularéis
+  uds: calcularán
+condicional-simple:
+  yo: calcularía
+  tu: calcularías
+  vos: calcularías
+  ud: calcularía
+  nosotros: calcularíamos
+  vosotros: calcularíais
+  uds: calcularían
+presente-perfecto:
+  yo: he calculado
+  tu: has calculado
+  vos: has calculado
+  ud: ha calculado
+  nosotros: hemos calculado
+  vosotros: habéis calculado
+  uds: han calculado
+preterito-pluscuamperfecto:
+  yo: había calculado
+  tu: habías calculado
+  vos: habías calculado
+  ud: había calculado
+  nosotros: habíamos calculado
+  vosotros: habíais calculado
+  uds: habían calculado
+futuro-perfecto:
+  yo: habré calculado
+  tu: habrás calculado
+  vos: habrás calculado
+  ud: habrá calculado
+  nosotros: habremos calculado
+  vosotros: habréis calculado
+  uds: habrán calculado
+condicional-perfecto:
+  yo: habría calculado
+  tu: habrías calculado
+  vos: habrías calculado
+  ud: habría calculado
+  nosotros: habríamos calculado
+  vosotros: habríais calculado
+  uds: habrían calculado
+presente-subjuntivo:
+  yo: calcule
+  tu: calcules
+  vos: calcules
+  ud: calcule
+  nosotros: calculamos
+  vosotros: calculéis
+  uds: calculen
+preterito-perfecto-subjuntivo:
+  yo: haya calculado
+  tu: hayas calculado
+  vos: hayas calculado
+  ud: haya calculado
+  nosotros: hayamos calculado
+  vosotros: hayáis calculado
+  uds: hayan calculado
+imperfecto-subjuntivo:
+  yo:
+    - calculara
+    - calculase
+  tu:
+    - calcularas
+    - calculases
+  vos:
+    - calcularas
+    - calculases
+  ud:
+    - calculara
+    - calculase
+  nosotros:
+    - calculáramos
+    - calculásemos
+  vosotros:
+    - calcularais
+    - calculaseis
+  uds:
+    - calcularan
+    - calculasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera calculado
+    - hubiese calculado
+  tu:
+    - hubieras calculado
+    - hubieses calculado
+  vos:
+    - hubieras calculado
+    - hubieses calculado
+  ud:
+    - hubiera calculado
+    - hubiese calculado
+  nosotros:
+    - hubiéramos calculado
+    - hubiésemos calculado
+  vosotros:
+    - hubierais calculado
+    - hubieseis calculado
+  uds:
+    - hubieran calculado
+    - hubiesen calculado
+imperativo:
+  tu: calcula
+  vos: calculá
+  ud: calcule
+  nosotros: calculemos
+  vosotros: calculad
+  uds: calculen

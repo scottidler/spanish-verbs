@@ -1,0 +1,142 @@
+infinitivo: subirse
+gerundio: subiéndose
+participio-pasado: subido
+presente-indicativo:
+  yo: me subo
+  tu: te subes
+  vos: te subís
+  ud: se sube
+  nosotros: nos subimos
+  vosotros: os subís
+  uds: se suben
+preterito-perfecto-simple:
+  yo: me subí
+  tu: te subiste
+  vos: te subiste
+  ud: se subió
+  nosotros: nos subimos
+  vosotros: os subisteis
+  uds: se subieron
+preterito-imperfecto:
+  yo: me subía
+  tu: te subías
+  vos: te subías
+  ud: se subía
+  nosotros: nos subíamos
+  vosotros: os subíais
+  uds: se subían
+futuro-simple:
+  yo: me subiré
+  tu: te subirás
+  vos: te subirás
+  ud: se subirá
+  nosotros: nos subiremos
+  vosotros: os subiréis
+  uds: se subirán
+condicional-simple:
+  yo: me subiría
+  tu: te subirías
+  vos: te subirías
+  ud: se subiría
+  nosotros: nos subiríamos
+  vosotros: os subiríais
+  uds: se subirían
+presente-perfecto:
+  yo: me he subido
+  tu: te has subido
+  vos: te has subido
+  ud: se ha subido
+  nosotros: nos hemos subido
+  vosotros: os habéis subido
+  uds: se han subido
+preterito-pluscuamperfecto:
+  yo: me había subido
+  tu: te habías subido
+  vos: te habías subido
+  ud: se había subido
+  nosotros: nos habíamos subido
+  vosotros: os habíais subido
+  uds: se habían subido
+futuro-perfecto:
+  yo: me habré subido
+  tu: te habrás subido
+  vos: te habrás subido
+  ud: se habrá subido
+  nosotros: nos habremos subido
+  vosotros: os habréis subido
+  uds: se habrán subido
+condicional-perfecto:
+  yo: me habría subido
+  tu: te habrías subido
+  vos: te habrías subido
+  ud: se habría subido
+  nosotros: nos habríamos subido
+  vosotros: os habríais subido
+  uds: se habrían subido
+presente-subjuntivo:
+  yo: me suba
+  tu: te subas
+  vos: te subas
+  ud: se suba 
+  nosotros: nos subamos
+  vosotros: os subáis
+  uds: se suban
+preterito-perfecto-subjuntivo:
+  yo: me haya subido
+  tu: te hayas subido
+  vos: te hayas subido
+  ud: se haya subido
+  nosotros: nos hayamos subido
+  vosotros: os hayáis subido
+  uds: se hayan subido
+imperfecto-subjuntivo:
+  yo:
+    - me subiera
+    - me subiese
+  tu:
+    - te subieras
+    - te subieses
+  vos:
+    - te subieras
+    - te subieses
+  ud:
+    - se subiera
+    - se subiese
+  nosotros:
+    - nos subiéramos
+    - nos subiésemos
+  vosotros:
+    - os subierais
+    - os subieseis
+  uds:
+    - se subieran
+    - se subiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera subido
+    - me hubiese subido
+  tu:
+    - te hubieras subido
+    - te hubieses subido
+  vos:
+    - te hubieras subido
+    - te hubieses subido
+  ud:
+    - se hubiera subido
+    - se hubiese subido
+  nosotros:
+    - nos hubiéramos subido
+    - nos hubiésemos subido
+  vosotros:
+    - os hubierais subido
+    - os hubieseis subido
+  uds:
+    - se hubieran subido
+    - se hubiesen subido
+imperativo:
+  tu: súbete
+  vos: subíte
+  ud: súbase
+  nosotros: subámonos
+  vosotros: subíos
+  uds: súbanse

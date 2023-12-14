@@ -1,0 +1,142 @@
+infinitivo: machacar
+gerundio: machacando
+participio-pasado: machacado
+presente-indicativo:
+  yo: machaco
+  tu: machacas
+  vos: machacas
+  ud: machaca
+  nosotros: machacamos
+  vosotros: machacáis
+  uds: machacan
+preterito-perfecto-simple:
+  yo: machaqué
+  tu: machacaste
+  vos: machacaste
+  ud: machacó
+  nosotros: machacamos
+  vosotros: machacasteis
+  uds: machacaron
+preterito-imperfecto:
+  yo: machacaba
+  tu: machacabas
+  vos: machacabas
+  ud: machacaba
+  nosotros: machacábamos
+  vosotros: machacabais
+  uds: machacaban
+futuro-simple:
+  yo: machacaré
+  tu: machacarás
+  vos: machacarás
+  ud: machacará
+  nosotros: machacaremos
+  vosotros: machacaréis
+  uds: machacarán
+condicional-simple:
+  yo: machacaría
+  tu: machacarías
+  vos: machacarías
+  ud: machacaría
+  nosotros: machacaríamos
+  vosotros: machacaríais
+  uds: machacarían
+presente-perfecto:
+  yo: he machacado
+  tu: has machacado
+  vos: has machacado
+  ud: ha machacado
+  nosotros: hemos machacado
+  vosotros: habéis machacado
+  uds: han machacado
+preterito-pluscuamperfecto:
+  yo: había machacado
+  tu: habías machacado
+  vos: habías machacado
+  ud: había machacado
+  nosotros: habíamos machacado
+  vosotros: habíais machacado
+  uds: habían machacado
+futuro-perfecto:
+  yo: habré machacado
+  tu: habrás machacado
+  vos: habrás machacado
+  ud: habrá machacado
+  nosotros: habremos machacado
+  vosotros: habréis machacado
+  uds: habrán machacado
+condicional-perfecto:
+  yo: habría machacado
+  tu: habrías machacado
+  vos: habrías machacado
+  ud: habría machacado
+  nosotros: habríamos machacado
+  vosotros: habríais machacado
+  uds: habrían machacado
+presente-subjuntivo:
+  yo: machaque
+  tu: machaques
+  vos: machaques
+  ud: machaque
+  nosotros: machaquemos
+  vosotros: machaquéis
+  uds: machaquen
+preterito-perfecto-subjuntivo:
+  yo: haya machacado
+  tu: hayas machacado
+  vos: hayas machacado
+  ud: haya machacado
+  nosotros: hayamos machacado
+  vosotros: hayáis machacado
+  uds: hayan machacado
+imperfecto-subjuntivo:
+  yo:
+    - machacara
+    - machacase
+  tu:
+    - machacaras
+    - machacases
+  vos:
+    - machacaras
+    - machacases
+  ud:
+    - machacara
+    - machacase
+  nosotros:
+    - machacáramos
+    - machacásemos
+  vosotros:
+    - machacarais
+    - machacaseis
+  uds:
+    - machacaran
+    - machacasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera machacado
+    - hubiese machacado
+  tu:
+    - hubieras machacado
+    - hubieses machacado
+  vos:
+    - hubieras machacado
+    - hubieses machacado
+  ud:
+    - hubiera machacado
+    - hubiese machacado
+  nosotros:
+    - hubiéramos machacado
+    - hubiésemos machacado
+  vosotros:
+    - hubierais machacado
+    - hubieseis machacado
+  uds:
+    - hubieran machacado
+    - hubiesen machacado
+imperativo:
+  tu: machaca
+  vos: machacá
+  ud: machaque
+  nosotros: machaquemos
+  vosotros: machacad
+  uds: machaquen

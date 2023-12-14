@@ -1,0 +1,142 @@
+infinitivo: encadenar
+gerundio: encadenando
+participio-pasado: encadenado
+presente-indicativo:
+  yo: encadeno
+  tu: encadenas
+  vos: encadenas
+  ud: encadena
+  nosotros: encadenamos
+  vosotros: encadenáis
+  uds: encadenan
+preterito-perfecto-simple:
+  yo: encadené
+  tu: encadenaste
+  vos: encadenaste
+  ud: encadenó
+  nosotros: encadenamos
+  vosotros: encadenasteis
+  uds: encadenaron
+preterito-imperfecto:
+  yo: encadenaba
+  tu: encadenabas
+  vos: encadenabas
+  ud: encadenaba
+  nosotros: encadenábamos
+  vosotros: encadenabais
+  uds: encadenaban
+futuro-simple:
+  yo: encadenaré
+  tu: encadenarás
+  vos: encadenarás
+  ud: encadenará
+  nosotros: encadenaremos
+  vosotros: encadenaréis
+  uds: encadenarán
+condicional-simple:
+  yo: encadenaría
+  tu: encadenarías
+  vos: encadenarías
+  ud: encadenaría
+  nosotros: encadenaríamos
+  vosotros: encadenaríais
+  uds: encadenarían
+presente-perfecto:
+  yo: he encadenado
+  tu: has encadenado
+  vos: has encadenado
+  ud: ha encadenado
+  nosotros: hemos encadenado
+  vosotros: habéis encadenado
+  uds: han encadenado
+preterito-pluscuamperfecto:
+  yo: había encadenado
+  tu: habías encadenado
+  vos: habías encadenado
+  ud: había encadenado
+  nosotros: habíamos encadenado
+  vosotros: habíais encadenado
+  uds: habían encadenado
+futuro-perfecto:
+  yo: habré encadenado
+  tu: habrás encadenado
+  vos: habrás encadenado
+  ud: habrá encadenado
+  nosotros: habremos encadenado
+  vosotros: habréis encadenado
+  uds: habrán encadenado
+condicional-perfecto:
+  yo: habría encadenado
+  tu: habrías encadenado
+  vos: habrías encadenado
+  ud: habría encadenado
+  nosotros: habríamos encadenado
+  vosotros: habríais encadenado
+  uds: habrían encadenado
+presente-subjuntivo:
+  yo: encadene
+  tu: encadenes
+  vos: encadenes
+  ud: encadene
+  nosotros: encadenemos
+  vosotros: encadenéis
+  uds: encadenen
+preterito-perfecto-subjuntivo:
+  yo: haya encadenado
+  tu: hayas encadenado
+  vos: hayas encadenado
+  ud: haya encadenado
+  nosotros: hayamos encadenado
+  vosotros: hayáis encadenado
+  uds: hayan encadenado
+imperfecto-subjuntivo:
+  yo:
+    - encadenara
+    - encadenase
+  tu:
+    - encadenaras
+    - encadenases
+  vos:
+    - encadenaras
+    - encadenases
+  ud:
+    - encadenara
+    - encadenase
+  nosotros:
+    - encadenáramos
+    - encadenásemos
+  vosotros:
+    - encadenarais
+    - encadenaseis
+  uds:
+    - encadenaran
+    - encadenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encadenado
+    - hubiese encadenado
+  tu:
+    - hubieras encadenado
+    - hubieses encadenado
+  vos:
+    - hubieras encadenado
+    - hubieses encadenado
+  ud:
+    - hubiera encadenado
+    - hubiese encadenado
+  nosotros:
+    - hubiéramos encadenado
+    - hubiésemos encadenado
+  vosotros:
+    - hubierais encadenado
+    - hubieseis encadenado
+  uds:
+    - hubieran encadenado
+    - hubiesen encadenado
+imperativo:
+  tu: encadena
+  vos: encadená
+  ud: encadene
+  nosotros: encadenemos
+  vosotros: encadenad
+  uds: encadenen

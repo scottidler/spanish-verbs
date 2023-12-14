@@ -1,0 +1,142 @@
+infinitivo: arriesgar
+gerundio: arriesgando
+participio-pasado: arriesgado
+presente-indicativo:
+  yo: arriesgo
+  tu: arriesgas
+  vos: arriesgas
+  ud: arriesga
+  nosotros: arriesgamos
+  vosotros: arriesgáis
+  uds: arriesgan
+preterito-perfecto-simple:
+  yo: arriesgué
+  tu: arriesgaste
+  vos: arriesgaste
+  ud: arriesgó
+  nosotros: arriesgamos
+  vosotros: arriesgasteis
+  uds: arriesgaron
+preterito-imperfecto:
+  yo: arriesgaba
+  tu: arriesgabas
+  vos: arriesgabas
+  ud: arriesgaba
+  nosotros: arriesgábamos
+  vosotros: arriesgabais
+  uds: arriesgaban
+futuro-simple:
+  yo: arriesgaré
+  tu: arriesgarás
+  vos: arriesgarás
+  ud: arriesgará
+  nosotros: arriesgaremos
+  vosotros: arriesgaréis
+  uds: arriesgarán
+condicional-simple:
+  yo: arriesgaría
+  tu: arriesgarías
+  vos: arriesgarías
+  ud: arriesgaría
+  nosotros: arriesgaríamos
+  vosotros: arriesgaríais
+  uds: arriesgarían
+presente-perfecto:
+  yo: he arriesgado
+  tu: has arriesgado
+  vos: has arriesgado
+  ud: ha arriesgado
+  nosotros: hemos arriesgado
+  vosotros: habéis arriesgado
+  uds: han arriesgado
+preterito-pluscuamperfecto:
+  yo: había arriesgado
+  tu: habías arriesgado
+  vos: habías arriesgado
+  ud: había arriesgado
+  nosotros: habíamos arriesgado
+  vosotros: habíais arriesgado
+  uds: habían arriesgado
+futuro-perfecto:
+  yo: habré arriesgado
+  tu: habrás arriesgado
+  vos: habrás arriesgado
+  ud: habrá arriesgado
+  nosotros: habremos arriesgado
+  vosotros: habréis arriesgado
+  uds: habrán arriesgado
+condicional-perfecto:
+  yo: habría arriesgado
+  tu: habrías arriesgado
+  vos: habrías arriesgado
+  ud: habría arriesgado
+  nosotros: habríamos arriesgado
+  vosotros: habríais arriesgado
+  uds: habrían arriesgado
+presente-subjuntivo:
+  yo: arriesgue
+  tu: arriesgues
+  vos: arriesgues
+  ud: arriesgue
+  nosotros: arriesguemos
+  vosotros: arriesguéis
+  uds: arriesguen
+preterito-perfecto-subjuntivo:
+  yo: haya arriesgado
+  tu: hayas arriesgado
+  vos: hayas arriesgado
+  ud: haya arriesgado
+  nosotros: hayamos arriesgado
+  vosotros: hayáis arriesgado
+  uds: hayan arriesgado
+imperfecto-subjuntivo:
+  yo:
+    - arriesgara
+    - arriesgase
+  tu:
+    - arriesgaras
+    - arriesgases
+  vos:
+    - arriesgaras
+    - arriesgases
+  ud:
+    - arriesgara
+    - arriesgase
+  nosotros:
+    - arriesgáramos
+    - arriesgásemos
+  vosotros:
+    - arriesgarais
+    - arriesgaseis
+  uds:
+    - arriesgaran
+    - arriesgasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arriesgado
+    - hubiese arriesgado
+  tu:
+    - hubieras arriesgado
+    - hubieses arriesgado
+  vos:
+    - hubieras arriesgado
+    - hubieses arriesgado
+  ud:
+    - hubiera arriesgado
+    - hubiese arriesgado
+  nosotros:
+    - hubiéramos arriesgado
+    - hubiésemos arriesgado
+  vosotros:
+    - hubierais arriesgado
+    - hubieseis arriesgado
+  uds:
+    - hubieran arriesgado
+    - hubiesen arriesgado
+imperativo:
+  tu: arriesga
+  vos: arriesgá
+  ud: arriesgue
+  nosotros: arriesguemos
+  vosotros: arriesgad
+  uds: arriesguen

@@ -1,0 +1,142 @@
+infinitivo: meditar
+gerundio: meditando
+participio-pasado: meditado
+presente-indicativo:
+  yo: medito
+  tu: meditas
+  vos: meditas
+  ud: medita
+  nosotros: meditamos
+  vosotros: meditáis
+  uds: meditan
+preterito-perfecto-simple:
+  yo: medité
+  tu: meditaste
+  vos: meditaste
+  ud: meditó
+  nosotros: meditamos
+  vosotros: meditasteis
+  uds: meditaron
+preterito-imperfecto:
+  yo: meditaba
+  tu: meditabas
+  vos: meditabas
+  ud: meditaba
+  nosotros: meditábamos
+  vosotros: meditabais
+  uds: meditaban
+futuro-simple:
+  yo: meditaré
+  tu: meditarás
+  vos: meditarás
+  ud: meditará
+  nosotros: meditaremos
+  vosotros: meditaréis
+  uds: meditarán
+condicional-simple:
+  yo: meditaría
+  tu: meditarías
+  vos: meditarías
+  ud: meditaría
+  nosotros: meditaríamos
+  vosotros: meditaríais
+  uds: meditarían
+presente-perfecto:
+  yo: he meditado
+  tu: has meditado
+  vos: has meditado
+  ud: ha meditado
+  nosotros: hemos meditado
+  vosotros: habéis meditado
+  uds: han meditado
+preterito-pluscuamperfecto:
+  yo: había meditado
+  tu: habías meditado
+  vos: habías meditado
+  ud: había meditado
+  nosotros: habíamos meditado
+  vosotros: habíais meditado
+  uds: habían meditado
+futuro-perfecto:
+  yo: habré meditado
+  tu: habrás meditado
+  vos: habrás meditado
+  ud: habrá meditado
+  nosotros: habremos meditado
+  vosotros: habréis meditado
+  uds: habrán meditado
+condicional-perfecto:
+  yo: habría meditado
+  tu: habrías meditado
+  vos: habrías meditado
+  ud: habría meditado
+  nosotros: habríamos meditado
+  vosotros: habríais meditado
+  uds: habrían meditado
+presente-subjuntivo:
+  yo: medite
+  tu: medites
+  vos: medites
+  ud: medite
+  nosotros: meditemos
+  vosotros: meditéis
+  uds: mediten
+preterito-perfecto-subjuntivo:
+  yo: haya meditado
+  tu: hayas meditado
+  vos: hayas meditado
+  ud: haya meditado
+  nosotros: hayamos meditado
+  vosotros: hayáis meditado
+  uds: hayan meditado
+imperfecto-subjuntivo:
+  yo:
+    - meditara
+    - meditase
+  tu:
+    - meditaras
+    - meditases
+  vos:
+    - meditaras
+    - meditases
+  ud:
+    - meditara
+    - meditase
+  nosotros:
+    - meditáramos
+    - meditásemos
+  vosotros:
+    - meditarais
+    - meditaseis
+  uds:
+    - meditaran
+    - meditasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera meditado
+    - hubiese meditado
+  tu:
+    - hubieras meditado
+    - hubieses meditado
+  vos:
+    - hubieras meditado
+    - hubieses meditado
+  ud:
+    - hubiera meditado
+    - hubiese meditado
+  nosotros:
+    - hubiéramos meditado
+    - hubiésemos meditado
+  vosotros:
+    - hubierais meditado
+    - hubieseis meditado
+  uds:
+    - hubieran meditado
+    - hubiesen meditado
+imperativo:
+  tu: medita
+  vos: meditá
+  ud: medite
+  nosotros: meditemos
+  vosotros: meditad
+  uds: mediten

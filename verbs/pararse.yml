@@ -1,0 +1,142 @@
+infinitivo: pararse
+gerundio: parándose
+participio-pasado: parado
+presente-indicativo:
+  yo: me paro
+  tu: te paras
+  vos: te paras
+  ud: se para
+  nosotros: nos paramos
+  vosotros: os paráis
+  uds: se paran
+preterito-perfecto-simple:
+  yo: me paré
+  tu: te paraste
+  vos: te paraste
+  ud: se paró
+  nosotros: nos paramos
+  vosotros: os parasteis
+  uds: se pararon
+preterito-imperfecto:
+  yo: me paraba
+  tu: te parabas
+  vos: te parabas
+  ud: se paraba
+  nosotros: nos parábamos
+  vosotros: os parabais
+  uds: se paraban
+futuro-simple:
+  yo: me pararé
+  tu: te pararás
+  vos: te pararás
+  ud: se parará
+  nosotros: nos pararemos
+  vosotros: os pararéis
+  uds: se pararán
+condicional-simple:
+  yo: me pararía
+  tu: te pararías
+  vos: te pararías
+  ud: se pararía
+  nosotros: nos pararíamos
+  vosotros: os pararíais
+  uds: se pararían
+presente-perfecto:
+  yo: me he parado
+  tu: te has parado
+  vos: te has parado
+  ud: se ha parado
+  nosotros: nos hemos parado
+  vosotros: os habéis parado
+  uds: se han parado
+preterito-pluscuamperfecto:
+  yo: me había parado
+  tu: te habías parado
+  vos: te habías parado
+  ud: se había parado
+  nosotros: nos habíamos parado
+  vosotros: os habíais parado
+  uds: se habían parado
+futuro-perfecto:
+  yo: me habré parado
+  tu: te habrás parado
+  vos: te habrás parado
+  ud: se habrá parado
+  nosotros: nos habremos parado
+  vosotros: os habréis parado
+  uds: se habrán parado
+condicional-perfecto:
+  yo: me habría parado
+  tu: te habrías parado
+  vos: te habrías parado
+  ud: se habría parado
+  nosotros: nos habríamos parado
+  vosotros: os habríais parado
+  uds: se habrían parado
+presente-subjuntivo:
+  yo: me pare
+  tu: te pares
+  vos: te pares
+  ud: se pare
+  nosotros: nos paremos
+  vosotros: os paréis
+  uds: se paren
+preterito-perfecto-subjuntivo:
+  yo: me haya parado
+  tu: te hayas parado
+  vos: te hayas parado
+  ud: se haya parado
+  nosotros: nos hayamos parado
+  vosotros: os hayáis parado
+  uds: se hayan parado
+imperfecto-subjuntivo:
+  yo:
+    - me parara
+    - me parase
+  tu:
+    - pararas
+    - parases
+  vos:
+    - pararas
+    - parases
+  ud:
+    - parara
+    - parase
+  nosotros:
+    - paráramos
+    - parásemos
+  vosotros:
+    - pararais
+    - paraseis
+  uds:
+    - pararan
+    - parasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera parado
+    - me hubiese parado
+  tu:
+    - hubieras parado
+    - hubieses parado
+  vos:
+    - hubieras parado
+    - hubieses parado
+  ud:
+    - hubiera parado
+    - hubiese parado
+  nosotros:
+    - hubiéramos parado
+    - hubiésemos parado
+  vosotros:
+    - hubierais parado
+    - hubieseis parado
+  uds:
+    - hubieran parado
+    - hubiesen parado
+imperativo:
+  tu: para
+  vos: parate
+  ud: pare
+  nosotros: paremos
+  vosotros: parad
+  uds: paren

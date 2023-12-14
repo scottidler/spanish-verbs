@@ -1,0 +1,142 @@
+infinitivo: deportar
+gerundio: deportando
+participio-pasado: deportado
+presente-indicativo:
+  yo: deporto
+  tu: deportas
+  vos: deportas
+  ud: deporta
+  nosotros: deportamos
+  vosotros: deportáis
+  uds: deportan
+preterito-perfecto-simple:
+  yo: deporté
+  tu: deportaste
+  vos: deportaste
+  ud: deportó
+  nosotros: deportamos
+  vosotros: deportasteis
+  uds: deportaron
+preterito-imperfecto:
+  yo: deportaba
+  tu: deportabas
+  vos: deportabas
+  ud: deportaba
+  nosotros: deportábamos
+  vosotros: deportabais
+  uds: deportaban
+futuro-simple:
+  yo: deportaré
+  tu: deportarás
+  vos: deportarás
+  ud: deportará
+  nosotros: deportaremos
+  vosotros: deportaréis
+  uds: deportarán
+condicional-simple:
+  yo: deportaría
+  tu: deportarías
+  vos: deportarías
+  ud: deportaría
+  nosotros: deportaríamos
+  vosotros: deportaríais
+  uds: deportarían
+presente-perfecto:
+  yo: he deportado
+  tu: has deportado
+  vos: has deportado
+  ud: ha deportado
+  nosotros: hemos deportado
+  vosotros: habéis deportado
+  uds: han deportado
+preterito-pluscuamperfecto:
+  yo: había deportado
+  tu: habías deportado
+  vos: habías deportado
+  ud: había deportado
+  nosotros: habíamos deportado
+  vosotros: habíais deportado
+  uds: habían deportado
+futuro-perfecto:
+  yo: habré deportado
+  tu: habrás deportado
+  vos: habrás deportado
+  ud: habrá deportado
+  nosotros: habremos deportado
+  vosotros: habréis deportado
+  uds: habrán deportado
+condicional-perfecto:
+  yo: habría deportado
+  tu: habrías deportado
+  vos: habrías deportado
+  ud: habría deportado
+  nosotros: habríamos deportado
+  vosotros: habríais deportado
+  uds: habrían deportado
+presente-subjuntivo:
+  yo: deporte
+  tu: deportes
+  vos: deportes
+  ud: deporte
+  nosotros: deportemos
+  vosotros: deportéis
+  uds: deporten
+preterito-perfecto-subjuntivo:
+  yo: haya deportado
+  tu: hayas deportado
+  vos: hayas deportado
+  ud: haya deportado
+  nosotros: hayamos deportado
+  vosotros: hayáis deportado
+  uds: hayan deportado
+imperfecto-subjuntivo:
+  yo:
+    - deportara
+    - deportase
+  tu:
+    - deportaras
+    - deportases
+  vos:
+    - deportaras
+    - deportases
+  ud:
+    - deportara
+    - deportase
+  nosotros:
+    - deportáramos
+    - deportásemos
+  vosotros:
+    - deportarais
+    - deportaseis
+  uds:
+    - deportaran
+    - deportasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera deportado
+    - hubiese deportado
+  tu:
+    - hubieras deportado
+    - hubieses deportado
+  vos:
+    - hubieras deportado
+    - hubieses deportado
+  ud:
+    - hubiera deportado
+    - hubiese deportado
+  nosotros:
+    - hubiéramos deportado
+    - hubiésemos deportado
+  vosotros:
+    - hubierais deportado
+    - hubieseis deportado
+  uds:
+    - hubieran deportado
+    - hubiesen deportado
+imperativo:
+  tu: deporta
+  vos: deportá
+  ud: deporte
+  nosotros: deportemos
+  vosotros: deportad
+  uds: deporten

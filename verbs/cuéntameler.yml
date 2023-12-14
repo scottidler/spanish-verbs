@@ -1,0 +1,142 @@
+infinitivo: cuéntameler
+gerundio: cuéntamelnado
+participio-pasado: cuéntamelnado
+presente-indicativo:
+  yo: cuéntamelo
+  tu: cuéntamelas
+  vos: cuéntamelas
+  ud: cuéntamela
+  nosotros: cuéntamelamos
+  vosotros: cuéntameláis
+  uds: cuéntamelan
+preterito-perfecto-simple:
+  yo: cuéntamelé
+  tu: cuéntamelaste
+  vos: cuéntamelaste
+  ud: cuéntamela
+  nosotros: cuéntamelamos
+  vosotros: cuéntamelasteis
+  uds: cuéntamelaron
+preterito-imperfecto:
+  yo: cuéntamelaba
+  tu: cuéntamelabas
+  vos: cuéntamelabas
+  ud: cuéntamelaba
+  nosotros: cuéntamelábamos
+  vosotros: cuéntamelabais
+  uds: cuéntamelaban
+futuro-simple:
+  yo: cuéntamelaré
+  tu: cuéntamelarás
+  vos: cuéntamelarás
+  ud: cuéntamelará
+  nosotros: cuéntamelaremos
+  vosotros: cuéntamelaréis
+  uds: cuéntamelarán
+condicional-simple:
+  yo: cuéntamelería
+  tu: cuéntamelerías
+  vos: cuéntamelerías
+  ud: cuéntamelería
+  nosotros: cuéntameleríamos
+  vosotros: cuéntameleríais
+  uds: cuéntamelerían
+presente-perfecto:
+  yo: he cuéntamelnado
+  tu: has cuéntamelnado
+  vos: has cuéntamelnado
+  ud: ha cuéntamelnado
+  nosotros: hemos cuéntamelnado
+  vosotros: habéis cuéntamelnado
+  uds: han cuéntamelnado
+preterito-pluscuamperfecto:
+  yo: había cuéntamelnado
+  tu: habías cuéntamelnado
+  vos: habías cuéntamelnado
+  ud: había cuéntamelnado
+  nosotros: habíamos cuéntamelnado
+  vosotros: habíais cuéntamelnado
+  uds: habían cuéntamelnado
+futuro-perfecto:
+  yo: habré cuéntamelnado
+  tu: habrás cuéntamelnado
+  vos: habrás cuéntamelnado
+  ud: habrá cuéntamelnado
+  nosotros: habremos cuéntamelnado
+  vosotros: habréis cuéntamelnado
+  uds: habrán cuéntamelnado
+condicional-perfecto:
+  yo: habría cuéntamelnado
+  tu: habrías cuéntamelnado
+  vos: habrías cuéntamelnado
+  ud: habría cuéntamelnado
+  nosotros: habríamos cuéntamelnado
+  vosotros: habríais cuéntamelnado
+  uds: habrían cuéntamelnado
+presente-subjuntivo:
+  yo: cuéntamelar
+  tu: cuéntamelares
+  vos: cuéntamelares
+  ud: cuéntamelare
+  nosotros: cuéntameléramos
+  vosotros: cuéntamelareis
+  uds: cuéntamelaren
+preterito-perfecto-subjuntivo:
+  yo: haya cuéntamelnado
+  tu: hayas cuéntamelnado
+  vos: hayas cuéntamelnado
+  ud: haya cuéntamelnado
+  nosotros: hayamos cuéntamelnado
+  vosotros: hayáis cuéntamelnado
+  uds: hayan cuéntamelnado
+imperfecto-subjuntivo:
+  yo:
+    - cuéntamelara
+    - cuéntamlease
+  tu:
+    - cuéntamelaras
+    - cuéntamleases
+  vos:
+    - cuéntamelaras
+    - cuéntamleases
+  ud:
+    - cuéntamelara
+    - cuéntamlease
+  nosotros:
+    - cuéntameláramos
+    - cuéntamelásemos
+  vosotros:
+    - cuéntamelarais
+    - cuéntamleaseis
+  uds:
+    - cuéntamelaran
+    - cuéntamleasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cuéntamelnado
+    - hubiese cuéntamelnado
+  tu:
+    - hubieras cuéntamelnado
+    - hubieses cuéntamelnado
+  vos:
+    - hubieras cuéntamelnado
+    - hubieses cuéntamelnado
+  ud:
+    - hubiera cuéntamelnado
+    - hubiese cuéntamelnado
+  nosotros:
+    - hubiéramos cuéntamelnado
+    - hubiésemos cuéntamelnado
+  vosotros:
+    - hubierais cuéntamelnado
+    - hubieseis cuéntamelnado
+  uds:
+    - hubieran cuéntamelnado
+    - hubiesen cuéntamelnado
+imperativo:
+  tu: cuéntamelon
+  vos: cuéntamelá
+  ud: cuéntamelen
+  nosotros: cuéntamélemon
+  vosotros: cuéntamelnad
+  uds: cuéntamelen

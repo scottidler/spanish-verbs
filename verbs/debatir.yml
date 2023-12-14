@@ -1,0 +1,142 @@
+infinitivo: debatir
+gerundio: debatiendo
+participio-pasado: debatido
+presente-indicativo:
+  yo: debate
+  tu: debates
+  vos: debates
+  ud: debate
+  nosotros: debatimos
+  vosotros: debatís
+  uds: debaten
+preterito-perfecto-simple:
+  yo: debatí
+  tu: debatiste
+  vos: debatiste
+  ud: debatió
+  nosotros: debatimos
+  vosotros: debatisteis
+  uds: debatieron
+preterito-imperfecto:
+  yo: debatía
+  tu: debatías
+  vos: debatías
+  ud: debatía
+  nosotros: debatíamos
+  vosotros: debatíais
+  uds: debatían
+futuro-simple:
+  yo: debatiré
+  tu: debatirás
+  vos: debatirás
+  ud: debatirá
+  nosotros: debatiremos
+  vosotros: debatiréis
+  uds: debatirán
+condicional-simple:
+  yo: debatiría
+  tu: debatirías
+  vos: debatirías
+  ud: debatiría
+  nosotros: debatiríamos
+  vosotros: debatiríais
+  uds: debatirían
+presente-perfecto:
+  yo: he debatido
+  tu: has debatido
+  vos: has debatido
+  ud: ha debatido
+  nosotros: hemos debatido
+  vosotros: habéis debatido
+  uds: han debatido
+preterito-pluscuamperfecto:
+  yo: había debatido
+  tu: habías debatido
+  vos: habías debatido
+  ud: había debatido
+  nosotros: habíamos debatido
+  vosotros: habíais debatido
+  uds: habían debatido
+futuro-perfecto:
+  yo: habré debatido
+  tu: habrás debatido
+  vos: habrás debatido
+  ud: habrá debatido
+  nosotros: habremos debatido
+  vosotros: habréis debatido
+  uds: habrán debatido
+condicional-perfecto:
+  yo: habría debatido
+  tu: habrías debatido
+  vos: habrías debatido
+  ud: habría debatido
+  nosotros: habríamos debatido
+  vosotros: habríais debatido
+  uds: habrían debatido
+presente-subjuntivo:
+  yo: debata
+  tu: debatas
+  vos: debatas
+  ud: debata
+  nosotros: debatamos
+  vosotros: debatáis
+  uds: debatan
+preterito-perfecto-subjuntivo:
+  yo: haya debatido
+  tu: hayas debatido
+  vos: hayas debatido
+  ud: haya debatido
+  nosotros: hayamos debatido
+  vosotros: hayáis debatido
+  uds: hayan debatido
+imperfecto-subjuntivo:
+  yo:
+    - debatiera
+    - debatiese
+  tu:
+    - debatieras
+    - debatieses
+  vos:
+    - debatieras
+    - debatieses
+  ud:
+    - debatiera
+    - debatiese
+  nosotros:
+    - debatiéramos
+    - debatiésemos
+  vosotros:
+    - debatierais
+    - debatieseis
+  uds:
+    - debatieran
+    - debatiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera debatido
+    - hubiese debatido
+  tu:
+    - hubieras debatido
+    - hubieses debatido
+  vos:
+    - hubieras debatido
+    - hubieses debatido
+  ud:
+    - hubiera debatido
+    - hubiese debatido
+  nosotros:
+    - hubiéramos debatido
+    - hubiésemos debatido
+  vosotros:
+    - hubierais debatido
+    - hubieseis debatido
+  uds:
+    - hubieran debatido
+    - hubiesen debatido
+imperativo:
+  tu: debate
+  vos: debatí
+  ud: debata
+  nosotros: debatamos
+  vosotros: debatid
+  uds: debatan

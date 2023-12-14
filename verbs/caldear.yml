@@ -1,0 +1,142 @@
+infinitivo: caldear
+gerundio: caldeando
+participio-pasado: caldeado
+presente-indicativo:
+  yo: caldeo
+  tu: caldeas
+  vos: caldeas
+  ud: caldea
+  nosotros: caldeamos
+  vosotros: caldeáis
+  uds: caldean
+preterito-perfecto-simple:
+  yo: caldeé
+  tu: caldeaste
+  vos: caldeaste
+  ud: caldeó
+  nosotros: caldeamos
+  vosotros: caldeasteis
+  uds: caldearon
+preterito-imperfecto:
+  yo: caldeaba
+  tu: caldeabas
+  vos: caldeabas
+  ud: caldeaba
+  nosotros: caldeábamos
+  vosotros: caldeabais
+  uds: caldeaban
+futuro-simple:
+  yo: caldearé
+  tu: caldearás
+  vos: caldearás
+  ud: caldeará
+  nosotros: caldearemos
+  vosotros: caldearéis
+  uds: caldearán
+condicional-simple:
+  yo: caldearía
+  tu: caldearías
+  vos: caldearías
+  ud: caldearía
+  nosotros: caldearíamos
+  vosotros: caldearíais
+  uds: caldearían
+presente-perfecto:
+  yo: he caldeado
+  tu: has caldeado
+  vos: has caldeado
+  ud: ha caldeado
+  nosotros: hemos caldeado
+  vosotros: habéis caldeado
+  uds: han caldeado
+preterito-pluscuamperfecto:
+  yo: había caldeado
+  tu: habías caldeado
+  vos: habías caldeado
+  ud: había caldeado
+  nosotros: habíamos caldeado
+  vosotros: habíais caldeado
+  uds: habían caldeado
+futuro-perfecto:
+  yo: habré caldeado
+  tu: habrás caldeado
+  vos: habrás caldeado
+  ud: habrá caldeado
+  nosotros: habremos caldeado
+  vosotros: habréis caldeado
+  uds: habrán caldeado
+condicional-perfecto:
+  yo: habría caldeado
+  tu: habrías caldeado
+  vos: habrías caldeado
+  ud: habría caldeado
+  nosotros: habríamos caldeado
+  vosotros: habríais caldeado
+  uds: habrían caldeado
+presente-subjuntivo:
+  yo: caldee
+  tu: caldees
+  vos: caldees
+  ud: caldee
+  nosotros: caldeemos
+  vosotros: caldeéis
+  uds: caldeen
+preterito-perfecto-subjuntivo:
+  yo: haya caldeado
+  tu: hayas caldeado
+  vos: hayas caldeado
+  ud: haya caldeado
+  nosotros: hayamos caldeado
+  vosotros: hayáis caldeado
+  uds: hayan caldeado
+imperfecto-subjuntivo:
+  yo:
+    - caldeara
+    - caldease
+  tu:
+    - caldearas
+    - caldeases
+  vos:
+    - caldearas
+    - caldeases
+  ud:
+    - caldeara
+    - caldease
+  nosotros:
+    - caldeáramos
+    - caldeásemos
+  vosotros:
+    - caldearais
+    - caldeaseis
+  uds:
+    - caldearan
+    - caldeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera caldeado
+    - hubiese caldeado
+  tu:
+    - hubieras caldeado
+    - hubieses caldeado
+  vos:
+    - hubieras caldeado
+    - hubieses caldeado
+  ud:
+    - hubiera caldeado
+    - hubiese caldeado
+  nosotros:
+    - hubiéramos caldeado
+    - hubiésemos caldeado
+  vosotros:
+    - hubierais caldeado
+    - hubieseis caldeado
+  uds:
+    - hubieran caldeado
+    - hubiesen caldeado
+imperativo:
+  tu: caldea
+  vos: caldeá
+  ud: caldee
+  nosotros: caldeemos
+  vosotros: caldead
+  uds: caldeen

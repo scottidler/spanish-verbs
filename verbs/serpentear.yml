@@ -1,0 +1,142 @@
+infinitivo: serpentear
+gerundio: serpentenado
+participio-pasado: serpentado
+presente-indicativo:
+  yo: serpenteo
+  tu: serpentas
+  vos: serpentas
+  ud: serpenta
+  nosotros: serpentamos
+  vosotros: serpentáis
+  uds: serpentan
+preterito-perfecto-simple:
+  yo: serpentee
+  tu: serpenteaste
+  vos: serpenteaste
+  ud: serpentó
+  nosotros: serpentamos
+  vosotros: serpenteasteis
+  uds: serpentaron
+preterito-imperfecto:
+  yo: serpentaba
+  tu: serpentabas
+  vos: serpentabas
+  ud: serpentaba
+  nosotros: serpentábamos
+  vosotros: serpentabais
+  uds: serpentaban
+futuro-simple:
+  yo: serpentearé
+  tu: serpentearás
+  vos: serpentearás
+  ud: serpenteará
+  nosotros: serpentaremos
+  vosotros: serpentearéis
+  uds: serpentearán
+condicional-simple:
+  yo: serpentearía
+  tu: serpentearías
+  vos: serpentearías
+  ud: serpentearía
+  nosotros: serpentearíamos
+  vosotros: serpentearíais
+  uds: serpentearían
+presente-perfecto:
+  yo: he serpentado
+  tu: has serpentado
+  vos: has serpentado
+  ud: ha serpentado
+  nosotros: hemos serpentado
+  vosotros: habéis serpentado
+  uds: han serpentado
+preterito-pluscuamperfecto:
+  yo: había serpentado
+  tu: habías serpentado
+  vos: habías serpentado
+  ud: había serpentado
+  nosotros: habíamos serpentado
+  vosotros: habíais serpentado
+  uds: habían serpentado
+futuro-perfecto:
+  yo: habré serpentado
+  tu: habrás serpentado
+  vos: habrás serpentado
+  ud: habrá serpentado
+  nosotros: habremos serpentado
+  vosotros: habréis serpentado
+  uds: habrán serpentado
+condicional-perfecto:
+  yo: habría serpentado
+  tu: habrías serpentado
+  vos: habrías serpentado
+  ud: habría serpentado
+  nosotros: habríamos serpentado
+  vosotros: habríais serpentado
+  uds: habrían serpentado
+presente-subjuntivo:
+  yo: serpenteé
+  tu: serpentees
+  vos: serpentees
+  ud: serpenteé
+  nosotros: serpenteemos
+  vosotros: serpenteeis
+  uds: serpenteen
+preterito-perfecto-subjuntivo:
+  yo: haya serpentado
+  tu: hayas serpentado
+  vos: hayas serpentado
+  ud: haya serpentado
+  nosotros: hayamos serpentado
+  vosotros: hayáis serpentado
+  uds: hayan serpentado
+imperfecto-subjuntivo:
+  yo:
+    - serpentara
+    - serpentase
+  tu:
+    - serpentaras
+    - serpentases
+  vos:
+    - serpentaras
+    - serpentases
+  ud:
+    - serpentara
+    - serpentase
+  nosotros:
+    - serpentáramos
+    - serpentásemos
+  vosotros:
+    - serpentarais
+    - serpentaseis
+  uds:
+    - serpentaran
+    - serpantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera serpentado
+    - hubiese serpentado
+  tu:
+    - hubieras serpentado
+    - hubieses serpentado
+  vos:
+    - hubieras serpentado
+    - hubieses serpentado
+  ud:
+    - hubiera serpentado
+    - hubiese serpentado
+  nosotros:
+    - hubiéramos serpentado
+    - hubiésemos serpentado
+  vosotros:
+    - hubierais serpentado
+    - hubieseis serpentado
+  uds:
+    - hubieran serpentado
+    - hubiesen serpentado
+imperativo:
+  tu: serpentéa
+  vos: serpentéa
+  ud: serpenteé
+  nosotros: serpenteemos
+  vosotros: serpentead
+  uds: serpenteen

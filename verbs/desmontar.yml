@@ -1,0 +1,142 @@
+infinitivo: desmontar
+gerundio: desmontando
+participio-pasado: desmontado
+presente-indicativo:
+  yo: desmonto
+  tu: desmontas
+  vos: desmontas
+  ud: desmonta
+  nosotros: desmontamos
+  vosotros: desmontáis
+  uds: desmontan
+preterito-perfecto-simple:
+  yo: desmonté
+  tu: desmontaste
+  vos: desmontaste
+  ud: desmontó
+  nosotros: desmontamos
+  vosotros: desmontasteis
+  uds: desmontaron
+preterito-imperfecto:
+  yo: desmontaba
+  tu: desmontabas
+  vos: desmontabas
+  ud: desmontaba
+  nosotros: desmontábamos
+  vosotros: desmontabais
+  uds: desmontaban
+futuro-simple:
+  yo: desmontaré
+  tu: desmontarás
+  vos: desmontarás
+  ud: desmontará
+  nosotros: desmontaremos
+  vosotros: desmontaréis
+  uds: desmontarán
+condicional-simple:
+  yo: desmontaría
+  tu: desmontarías
+  vos: desmontarías
+  ud: desmontaría
+  nosotros: desmontaríamos
+  vosotros: desmontaríais
+  uds: desmontarían
+presente-perfecto:
+  yo: he desmontado
+  tu: has desmontado
+  vos: has desmontado
+  ud: ha desmontado
+  nosotros: hemos desmontado
+  vosotros: habéis desmontado
+  uds: han desmontado
+preterito-pluscuamperfecto:
+  yo: había desmontado
+  tu: habías desmontado
+  vos: habías desmontado
+  ud: había desmontado
+  nosotros: habíamos desmontado
+  vosotros: habíais desmontado
+  uds: habían desmontado
+futuro-perfecto:
+  yo: habré desmontado
+  tu: habrás desmontado
+  vos: habrás desmontado
+  ud: habrá desmontado
+  nosotros: habremos desmontado
+  vosotros: habréis desmontado
+  uds: habrán desmontado
+condicional-perfecto:
+  yo: habría desmontado
+  tu: habrías desmontado
+  vos: habrías desmontado
+  ud: habría desmontado
+  nosotros: habríamos desmontado
+  vosotros: habríais desmontado
+  uds: habrían desmontado
+presente-subjuntivo:
+  yo: desmonte
+  tu: desmontes
+  vos: desmontes
+  ud: desmonte
+  nosotros: desmontemos
+  vosotros: desmontéis
+  uds: desmonten
+preterito-perfecto-subjuntivo:
+  yo: haya desmontado
+  tu: hayas desmontado
+  vos: hayas desmontado
+  ud: haya desmontado
+  nosotros: hayamos desmontado
+  vosotros: hayáis desmontado
+  uds: hayan desmontado
+imperfecto-subjuntivo:
+  yo:
+    - desmontara
+    - desmontase
+  tu:
+    - desmontaras
+    - desmontases
+  vos:
+    - desmontaras
+    - desmontases
+  ud:
+    - desmontara
+    - desmontase
+  nosotros:
+    - desmontáramos
+    - desmontásemos
+  vosotros:
+    - desmontarais
+    - desmontaseis
+  uds:
+    - desmontaran
+    - desmontasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desmontado
+    - hubiese desmontado
+  tu:
+    - hubieras desmontado
+    - hubieses desmontado
+  vos:
+    - hubieras desmontado
+    - hubieses desmontado
+  ud:
+    - hubiera desmontado
+    - hubiese desmontado
+  nosotros:
+    - hubiéramos desmontado
+    - hubiésemos desmontado
+  vosotros:
+    - hubierais desmontado
+    - hubieseis desmontado
+  uds:
+    - hubieran desmontado
+    - hubiesen desmontado
+imperativo:
+  tu: desmonta
+  vos: desmontá
+  ud: desmonte
+  nosotros: desmontemos
+  vosotros: desmontad
+  uds: desmonten

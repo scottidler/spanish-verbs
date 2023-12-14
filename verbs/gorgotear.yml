@@ -1,0 +1,142 @@
+infinitivo: gorgotear
+gerundio: gorgotendo
+participio-pasado: gorgotado
+presente-indicativo:
+  yo: gorgotéo
+  tu: gorgotéas
+  vos: gorgotéas
+  ud: gorgotéa
+  nosotros: gorgotéamos
+  vosotros: gorgotéáis
+  uds: gorgotéan
+preterito-perfecto-simple:
+  yo: gorgotée
+  tu: gorgotéaste
+  vos: gorgotéaste
+  ud: gorgotéó
+  nosotros: gorgotéamos
+  vosotros: gorgotéasteis
+  uds: gorgotéaron
+preterito-imperfecto:
+  yo: gorgoteaba
+  tu: gorgoteabas
+  vos: gorgoteabas
+  ud: gorgoteaba
+  nosotros: gorgoteábamos
+  vosotros: gorgoteabais
+  uds: gorgoteaban
+futuro-simple:
+  yo: gorgotearé
+  tu: gorgotearás
+  vos: gorgotearás
+  ud: gorgoteará
+  nosotros: gorgotearemos
+  vosotros: gorgotearéis
+  uds: gorgotearán
+condicional-simple:
+  yo: gorgotearía
+  tu: gorgotearías
+  vos: gorgotearías
+  ud: gorgotearía
+  nosotros: gorgotearíamos
+  vosotros: gorgotearíais
+  uds: gorgotearían
+presente-perfecto:
+  yo: he gorgotado
+  tu: has gorgotado
+  vos: has gorgotado
+  ud: ha gorgotado
+  nosotros: hemos gorgotado
+  vosotros: habéis gorgotado
+  uds: han gorgotado
+preterito-pluscuamperfecto:
+  yo: había gorgotado
+  tu: habías gorgotado
+  vos: habías gorgotado
+  ud: había gorgotado
+  nosotros: habíamos gorgotado
+  vosotros: habíais gorgotado
+  uds: habían gorgotado
+futuro-perfecto:
+  yo: habré gorgotado
+  tu: habrás gorgotado
+  vos: habrás gorgotado
+  ud: habrá gorgotado
+  nosotros: habremos gorgotado
+  vosotros: habréis gorgotado
+  uds: habrán gorgotado
+condicional-perfecto:
+  yo: habría gorgotado
+  tu: habrías gorgotado
+  vos: habrías gorgotado
+  ud: habría gorgotado
+  nosotros: habríamos gorgotado
+  vosotros: habríais gorgotado
+  uds: habrían gorgotado
+presente-subjuntivo:
+  yo: gorgotee
+  tu: gorgotees
+  vos: gorgotees
+  ud: gorgotee
+  nosotros: gorgotemos
+  vosotros: gorgotéis
+  uds: gorgoteen
+preterito-perfecto-subjuntivo:
+  yo: haya gorgotado
+  tu: hayas gorgotado
+  vos: hayas gorgotado
+  ud: haya gorgotado
+  nosotros: hayamos gorgotado
+  vosotros: hayáis gorgotado
+  uds: hayan gorgotado
+imperfecto-subjuntivo:
+  yo:
+    - gorgoteara
+    - gorgotease
+  tu:
+    - gorgotearas
+    - gorgoteases
+  vos:
+    - gorgotearas
+    - gorgoteases
+  ud:
+    - gorgoteara
+    - gorgotease
+  nosotros:
+    - gorgotearámos
+    - gorgoteásemos
+  vosotros:
+    - gorgotearais
+    - gorgoteaseis
+  uds:
+    - gorgotearan
+    - gorgoteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gorgotado
+    - hubiese gorgotado
+  tu:
+    - hubieras gorgotado
+    - hubieses gorgotado
+  vos:
+    - hubieras gorgotado
+    - hubieses gorgotado
+  ud:
+    - hubiera gorgotado
+    - hubiese gorgotado
+  nosotros:
+    - hubiéramos gorgotado
+    - hubiésemos gorgotado
+  vosotros:
+    - hubierais gorgotado
+    - hubieseis gorgotado
+  uds:
+    - hubieran gorgotado
+    - hubiesen gorgotado
+imperativo:
+  tu: gorgotéa
+  vos: gorgotéa
+  ud: gorgotée
+  nosotros: gorgotemos
+  vosotros: gorgotead
+  uds: gorgoteen

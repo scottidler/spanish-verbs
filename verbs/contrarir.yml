@@ -1,0 +1,142 @@
+infinitivo: contrariar
+gerundio: contrariando
+participio-pasado: contrariado
+presente-indicativo:
+  yo: contrarío
+  tu: contrarías
+  vos: contrarís
+  ud: contraría
+  nosotros: contrariamos
+  vosotros: contrariáis
+  uds: contrarían
+preterito-perfecto-simple:
+  yo: contrarié
+  tu: contrariaste
+  vos: contrariaste
+  ud: contrarió
+  nosotros: contrariamos
+  vosotros: contrariasteis
+  uds: contrariaron
+preterito-imperfecto:
+  yo: contrariaba
+  tu: contrariabas
+  vos: contrariabas
+  ud: contrariaba
+  nosotros: contrariábamos
+  vosotros: contrariabais
+  uds: contrariaban
+futuro-simple:
+  yo: contrariaré
+  tu: contrararás
+  vos: contrararás
+  ud: contrariará
+  nosotros: contrariaremos
+  vosotros: contrariaréis
+  uds: contrararán
+condicional-simple:
+  yo: contrariaría
+  tu: contrarías
+  vos: contrarías
+  ud: contrariaría
+  nosotros: contraríamos
+  vosotros: contraríais
+  uds: contrarían
+presente-perfecto:
+  yo: he contrariado
+  tu: has contrariado
+  vos: has contrariado
+  ud: ha contrariado
+  nosotros: hemos contrariado
+  vosotros: habéis contrariado
+  uds: han contrariado
+preterito-pluscuamperfecto:
+  yo: había contrariado
+  tu: habías contrariado
+  vos: habías contrariado
+  ud: había contrariado
+  nosotros: habíamos contrariado
+  vosotros: habíais contrariado
+  uds: habían contrariado
+futuro-perfecto:
+  yo: habré contrariado
+  tu: habrás contrariado
+  vos: habrás contrariado
+  ud: habrá contrariado
+  nosotros: habremos contrariado
+  vosotros: habréis contrariado
+  uds: habrán contrariado
+condicional-perfecto:
+  yo: habría contrariado
+  tu: habrías contrariado
+  vos: habrías contrariado
+  ud: habría contrariado
+  nosotros: habríamos contrariado
+  vosotros: habríais contrariado
+  uds: habrían contrariado
+presente-subjuntivo:
+  yo: contraríe
+  tu: contraríes
+  vos: contraríes
+  ud: contraríe
+  nosotros: contrariemos
+  vosotros: contrariéis
+  uds: contraríen
+preterito-perfecto-subjuntivo:
+  yo: haya contrariado
+  tu: hayas contrariado
+  vos: hayas contrariado
+  ud: haya contrariado
+  nosotros: hayamos contrariado
+  vosotros: hayáis contrariado
+  uds: hayan contrariado
+imperfecto-subjuntivo:
+  yo:
+    - contrariara
+    - contrariase
+  tu:
+    - contrariaras
+    - contrariases
+  vos:
+    - contrariaras
+    - contrariases
+  ud:
+    - contrariara
+    - contrariase
+  nosotros:
+    - contrariáramos
+    - contrariásemos
+  vosotros:
+    - contrariarais
+    - contrariaseis
+  uds:
+    - contrariaran
+    - contrariasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera contrariado
+    - hubiese contrariado
+  tu:
+    - hubieras contrariado
+    - hubieses contrariado
+  vos:
+    - hubieras contrariado
+    - hubieses contrariado
+  ud:
+    - hubiera contrariado
+    - hubiese contrariado
+  nosotros:
+    - hubiéramos contrariado
+    - hubiésemos contrariado
+  vosotros:
+    - hubierais contrariado
+    - hubieseis contrariado
+  uds:
+    - hubieran contrariado
+    - hubiesen contrariado
+imperativo:
+  tu: contraría
+  vos: contrarí
+  ud: contraríe
+  nosotros: contrariemos
+  vosotros: contrariad
+  uds: contraríen

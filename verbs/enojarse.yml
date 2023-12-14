@@ -1,0 +1,156 @@
+infinitivo: enojarse
+gerundio: enojándose
+participio-pasado: enojado
+
+presente-indicativo:
+  yo: me enojo
+  tu: te enojas
+  vos: te enojas
+  ud: se enoja
+  nosotros: nos enojamos
+  vosotros: os enojáis
+  uds: se enojan
+  
+preterito-perfecto-simple:
+  yo: me enojé
+  tu: te enojaste
+  vos: te enojaste
+  ud: se enojó
+  nosotros: nos enojamos
+  vosotros: os enojasteis
+  uds: se enojaron
+
+preterito-imperfecto:
+  yo: me enojaba
+  tu: te enojabas
+  vos: te enojabas
+  ud: se enojaba
+  nosotros: nos enojábamos
+  vosotros: os enojabais
+  uds: se enojaban
+
+futuro-simple:
+  yo: me enojaré
+  tu: te enojarás
+  vos: te enojarás
+  ud: se enojará
+  nosotros: nos enojaremos
+  vosotros: os enojaréis
+  uds: se enojarán
+
+condicional-simple:
+  yo: me enojaría
+  tu: te enojarías
+  vos: te enojarías
+  ud: se enojaría
+  nosotros: nos enojaríamos
+  vosotros: os enojaríais
+  uds: se enojarían
+
+presente-perfecto:
+  yo: me he enojado
+  tu: te has enojado
+  vos: te has enojado
+  ud: se ha enojado
+  nosotros: nos hemos enojado
+  vosotros: os habéis enojado
+  uds: se han enojado
+
+preterito-pluscuamperfecto:
+  yo: me había enojado
+  tu: te habías enojado
+  vos: te habías enojado
+  ud: se había enojado
+  nosotros: nos habíamos enojado
+  vosotros: os habíais enojado
+  uds: se habían enojado
+
+futuro-perfecto:
+  yo: me habré enojado
+  tu: te habrás enojado
+  vos: te habrás enojado
+  ud: se habrá enojado
+  nosotros: nos habremos enojado
+  vosotros: os habréis enojado
+  uds: se habrán enojado
+
+condicional-perfecto:
+  yo: me habría enojado
+  tu: te habrías enojado
+  vos: te habrías enojado
+  ud: se habría enojado
+  nosotros: nos habríamos enojado
+  vosotros: os habríais enojado
+  uds: se habrían enojado
+
+presente-subjuntivo:
+  yo: me enoje
+  tu: te enojes
+  vos: te enojes
+  ud: se enoje
+  nosotros: nos enojemos
+  vosotros: os enojéis
+  uds: se enojen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya enojado
+  tu: te hayas enojado
+  vos: te hayas enojado
+  ud: se haya enojado
+  nosotros: nos hayamos enojado
+  vosotros: os hayáis enojado
+  uds: se hayan enojado
+
+imperfecto-subjuntivo:
+  yo:
+    - me enojara
+    - me enojase
+  tu:
+    - te enojaras
+    - te enojases
+  vos:
+    - te enojaras
+    - te enojases
+  ud:
+    - se enojara
+    - se enojase
+  nosotros:
+    - nos enojáramos
+    - nos enojásemos
+  vosotros:
+    - os enojarais
+    - os enojaseis
+  uds:
+    - se enojaran
+    - se enojasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera enojado
+    - me hubiese enojado
+  tu:
+    - te hubieras enojado
+    - te hubieses enojado
+  vos:
+    - te hubieras enojado
+    - te hubieses enojado
+  ud:
+    - se hubiera enojado
+    - se hubiese enojado
+  nosotros:
+    - nos hubiéramos enojado
+    - nos hubiésemos enojado
+  vosotros:
+    - os hubierais enojado
+    - os hubieseis enojado
+  uds:
+    - se hubieran enojado
+    - se hubiesen enojado
+
+imperativo:
+  tu: enójate
+  vos: enojate
+  ud: enójese
+  nosotros: enojémonos
+  vosotros: enojaos
+  uds: enójense

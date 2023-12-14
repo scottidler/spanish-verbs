@@ -1,0 +1,142 @@
+infinitivo: atemorizar
+gerundio: atemorizando
+participio-pasado: atemorizado
+presente-indicativo:
+  yo: atemorizo
+  tu: atemorizas
+  vos: atemorizas
+  ud: atemoriza
+  nosotros: atemorizamos
+  vosotros: atemorizáis
+  uds: atemorizan
+preterito-perfecto-simple:
+  yo: atemoricé
+  tu: atemorizaste
+  vos: atemorizaste
+  ud: atemorizó
+  nosotros: atemorizamos
+  vosotros: atemorizasteis
+  uds: atemorizaron
+preterito-imperfecto:
+  yo: atemorizaba
+  tu: atemorizabas
+  vos: atemorizabas
+  ud: atemorizaba
+  nosotros: atemorizábamos
+  vosotros: atemorizabais
+  uds: atemorizaban
+futuro-simple:
+  yo: atemorizaré
+  tu: atemorizarás
+  vos: atemorizarás
+  ud: atemorizará
+  nosotros: atemorizaremos
+  vosotros: atemorizaréis
+  uds: atemorizarán
+condicional-simple:
+  yo: atemorizaría
+  tu: atemorizarías
+  vos: atemorizarías
+  ud: atemorizaría
+  nosotros: atemorizaríamos
+  vosotros: atemorizaríais
+  uds: atemorizarían
+presente-perfecto:
+  yo: he atemorizado
+  tu: has atemorizado
+  vos: has atemorizado
+  ud: ha atemorizado
+  nosotros: hemos atemorizado
+  vosotros: habéis atemorizado
+  uds: han atemorizado
+preterito-pluscuamperfecto:
+  yo: había atemorizado
+  tu: habías atemorizado
+  vos: habías atemorizado
+  ud: había atemorizado
+  nosotros: habíamos atemorizado
+  vosotros: habíais atemorizado
+  uds: habían atemorizado
+futuro-perfecto:
+  yo: habré atemorizado
+  tu: habrás atemorizado
+  vos: habrás atemorizado
+  ud: habrá atemorizado
+  nosotros: habremos atemorizado
+  vosotros: habréis atemorizado
+  uds: habrán atemorizado
+condicional-perfecto:
+  yo: habría atemorizado
+  tu: habrías atemorizado
+  vos: habrías atemorizado
+  ud: habría atemorizado
+  nosotros: habríamos atemorizado
+  vosotros: habríais atemorizado
+  uds: habrían atemorizado
+presente-subjuntivo:
+  yo: atemorice
+  tu: atemorices
+  vos: atemorices
+  ud: atemorice
+  nosotros: atemoricemos
+  vosotros: atemoricéis
+  uds: atemoricen
+preterito-perfecto-subjuntivo:
+  yo: haya atemorizado
+  tu: hayas atemorizado
+  vos: hayas atemorizado
+  ud: haya atemorizado
+  nosotros: hayamos atemorizado
+  vosotros: hayáis atemorizado
+  uds: hayan atemorizado
+imperfecto-subjuntivo:
+  yo:
+    - atemorizara
+    - atemorizase
+  tu:
+    - atemorizaras
+    - atemorizases
+  vos:
+    - atemorizaras
+    - atemorizases
+  ud:
+    - atemorizara
+    - atemorizase
+  nosotros:
+    - atemorizáramos
+    - atemorizásemos
+  vosotros:
+    - atemorizarais
+    - atemorizaseis
+  uds:
+    - atemorizaran
+    - atemorizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atemorizado
+    - hubiese atemorizado
+  tu:
+    - hubieras atemorizado
+    - hubieses atemorizado
+  vos:
+    - hubieras atemorizado
+    - hubieses atemorizado
+  ud:
+    - hubiera atemorizado
+    - hubiese atemorizado
+  nosotros:
+    - hubiéramos atemorizado
+    - hubiésemos atemorizado
+  vosotros:
+    - hubierais atemorizado
+    - hubieseis atemorizado
+  uds:
+    - hubieran atemorizado
+    - hubiesen atemorizado
+imperativo:
+  tu: atemoriza
+  vos: atemorizá
+  ud: atemorice
+  nosotros: atemoricemos
+  vosotros: atemorizad
+  uds: atemoricen

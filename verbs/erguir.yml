@@ -1,0 +1,142 @@
+infinitivo: erguir
+gerundio: erguiendo
+participio-pasado: erguido
+presente-indicativo:
+  yo: irgo
+  tu: irgues
+  vos: irgues
+  ud: irgue
+  nosotros: erguimos
+  vosotros: erguís
+  uds: irguen
+preterito-perfecto-simple:
+  yo: erguí
+  tu: erguiste
+  vos: erguiste
+  ud: erguió
+  nosotros: erguimos
+  vosotros: erguisteis
+  uds: erguieron
+preterito-imperfecto:
+  yo: erguía
+  tu: erguías
+  vos: erguías
+  ud: erguía
+  nosotros: erguíamos
+  vosotros: erguíais
+  uds: erguían
+futuro-simple:
+  yo: erguiré
+  tu: erguirás
+  vos: erguirás
+  ud: erguirá
+  nosotros: erguiremos
+  vosotros: erguiréis
+  uds: erguirán
+condicional-simple:
+  yo: erguiría
+  tu: erguirías
+  vos: erguirías
+  ud: erguiría
+  nosotros: erguiríamos
+  vosotros: erguiríais
+  uds: erguirían
+presente-perfecto:
+  yo: he erguido
+  tu: has erguido
+  vos: has erguido
+  ud: ha erguido
+  nosotros: hemos erguido
+  vosotros: habéis erguido
+  uds: han erguido
+preterito-pluscuamperfecto:
+  yo: había erguido
+  tu: habías erguido
+  vos: habías erguido
+  ud: había erguido
+  nosotros: habíamos erguido
+  vosotros: habíais erguido
+  uds: habían erguido
+futuro-perfecto:
+  yo: habré erguido
+  tu: habrás erguido
+  vos: habrás erguido
+  ud: habrá erguido
+  nosotros: habremos erguido
+  vosotros: habréis erguido
+  uds: habrán erguido
+condicional-perfecto:
+  yo: habría erguido
+  tu: habrías erguido
+  vos: habrías erguido
+  ud: habría erguido
+  nosotros: habríamos erguido
+  vosotros: habríais erguido
+  uds: habrían erguido
+presente-subjuntivo:
+  yo: irga
+  tu: irgas
+  vos: irgas
+  ud: irga
+  nosotros: irgamos
+  vosotros: irgáis
+  uds: irgan
+preterito-perfecto-subjuntivo:
+  yo: haya erguido
+  tu: hayas erguido
+  vos: hayas erguido
+  ud: haya erguido
+  nosotros: hayamos erguido
+  vosotros: hayáis erguido
+  uds: hayan erguido
+imperfecto-subjuntivo:
+  yo:
+    - erguiera
+    - erguiese
+  tu:
+    - erguieras
+    - erguieses
+  vos:
+    - erguieras
+    - erguieses
+  ud:
+    - erguiera
+    - erguiese
+  nosotros:
+    - erguiéramos
+    - erguiésemos
+  vosotros:
+    - erguierais
+    - erguieseis
+  uds:
+    - erguieran
+    - erguiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera erguido
+    - hubiese erguido
+  tu:
+    - hubieras erguido
+    - hubieses erguido
+  vos:
+    - hubieras erguido
+    - hubieses erguido
+  ud:
+    - hubiera erguido
+    - hubiese erguido
+  nosotros:
+    - hubiéramos erguido
+    - hubiésemos erguido
+  vosotros:
+    - hubierais erguido
+    - hubieseis erguido
+  uds:
+    - hubieran erguido
+    - hubiesen erguido
+imperativo:
+  tu: irgue
+  vos: irguí
+  ud: irga
+  nosotros: irgamos
+  vosotros: erguid
+  uds: irgan

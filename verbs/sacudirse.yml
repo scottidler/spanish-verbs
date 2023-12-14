@@ -1,0 +1,142 @@
+infinitivo: sacudirse
+gerundio: sacudiéndose
+participio-pasado: sacudido
+presente-indicativo:
+  yo: me sacudo
+  tu: te sacudes
+  vos: te sacudes
+  ud: se sacude
+  nosotros: nos sacudimos
+  vosotros: os sacudís
+  uds: se sacuden
+preterito-perfecto-simple:
+  yo: me sacudí
+  tu: te sacudiste
+  vos: te sacudiste
+  ud: se sacudió
+  nosotros: nos sacudimos
+  vosotros: os sacudisteis
+  uds: se sacudieron
+preterito-imperfecto:
+  yo: me sacudía
+  tu: te sacudías
+  vos: te sacudías
+  ud: se sacudía
+  nosotros: nos sacudíamos
+  vosotros: os sacudíais
+  uds: se sacudían
+futuro-simple:
+  yo: me sacudiré
+  tu: te sacudirás
+  vos: te sacudirás
+  ud: se sacudirá
+  nosotros: nos sacudiremos
+  vosotros: os sacudiréis
+  uds: se sacudirán
+condicional-simple:
+  yo: me sacudiría
+  tu: te sacudirías
+  vos: te sacudirías
+  ud: se sacudiría
+  nosotros: nos sacudiríamos
+  vosotros: os sacudiríais
+  uds: se sacudirían
+presente-perfecto:
+  yo: me he sacudido
+  tu: te has sacudido
+  vos: te has sacudido
+  ud: se ha sacudido
+  nosotros: nos hemos sacudido
+  vosotros: os habéis sacudido
+  uds: se han sacudido
+preterito-pluscuamperfecto:
+  yo: me había sacudido
+  tu: te habías sacudido
+  vos: te habías sacudido
+  ud: se había sacudido
+  nosotros: nos habíamos sacudido
+  vosotros: os habíais sacudido
+  uds: se habían sacudido
+futuro-perfecto:
+  yo: me habré sacudido
+  tu: te habrás sacudido
+  vos: te habrás sacudido
+  ud: se habrá sacudido
+  nosotros: nos habremos sacudido
+  vosotros: os habréis sacudido
+  uds: se habrán sacudido
+condicional-perfecto:
+  yo: me habría sacudido
+  tu: te habrías sacudido
+  vos: te habrías sacudido
+  ud: se habría sacudido
+  nosotros: nos habríamos sacudido
+  vosotros: os habríais sacudido
+  uds: se habrían sacudido
+presente-subjuntivo:
+  yo: me sacuda
+  tu: te sacudas
+  vos: te sacudas
+  ud: se sacuda
+  nosotros: nos sacudamos
+  vosotros: os sacudáis
+  uds: se sacudan
+preterito-perfecto-subjuntivo:
+  yo: me haya sacudido
+  tu: te hayas sacudido
+  vos: te hayas sacudido
+  ud: se haya sacudido
+  nosotros: nos hayamos sacudido
+  vosotros: os hayáis sacudido
+  uds: se hayan sacudido
+imperfecto-subjuntivo:
+  yo:
+    - me sacudiera
+    - me sacudiese
+  tu:
+    - te sacudieras
+    - te sacudieses
+  vos:
+    - te sacudieras
+    - te sacudieses
+  ud:
+    - se sacudiera
+    - se sacudiese
+  nosotros:
+    - nos sacudiéramos
+    - nos sacudiésemos
+  vosotros:
+    - os sacudierais
+    - os sacudieseis
+  uds:
+    - se sacudieran
+    - se sacudiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera sacudido
+    - me hubiese sacudido
+  tu:
+    - te hubieras sacudido
+    - te hubieses sacudido
+  vos:
+    - te hubieras sacudido
+    - te hubieses sacudido
+  ud:
+    - se hubiera sacudido
+    - se hubiese sacudido
+  nosotros:
+    - nos hubiéramos sacudido
+    - nos hubiésemos sacudido
+  vosotros:
+    - os hubierais sacudido
+    - os hubieseis sacudido
+  uds:
+    - se hubieran sacudido
+    - se hubiesen sacudido
+imperativo:
+  tu: sacúdete
+  vos: sacudíte
+  ud: sacúdase
+  nosotros: sacudámonos
+  vosotros: sacudíos
+  uds: sacúdense

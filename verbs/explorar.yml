@@ -1,0 +1,142 @@
+infinitivo: explorar
+gerundio: explorando
+participio-pasado: explorado
+presente-indicativo:
+  yo: exploro
+  tu: exploras
+  vos: exploras
+  ud: explora
+  nosotros: exploramos
+  vosotros: exploráis
+  uds: exploran
+preterito-perfecto-simple:
+  yo: exploré
+  tu: exploraste
+  vos: exploraste
+  ud: exploró
+  nosotros: exploramos
+  vosotros: explorasteis
+  uds: exploraron
+preterito-imperfecto:
+  yo: exploraba
+  tu: explorabas
+  vos: explorabas
+  ud: exploraba
+  nosotros: explorábamos
+  vosotros: explorabais
+  uds: exploraban
+futuro-simple:
+  yo: exploraré
+  tu: explorarás
+  vos: explorarás
+  ud: explorará
+  nosotros: exploraremos
+  vosotros: exploraréis
+  uds: explorarán
+condicional-simple:
+  yo: exploraría
+  tu: explorarías
+  vos: explorarías
+  ud: exploraría
+  nosotros: exploraríamos
+  vosotros: exploraríais
+  uds: explorarían
+presente-perfecto:
+  yo: he explorado
+  tu: has explorado
+  vos: has explorado
+  ud: ha explorado
+  nosotros: hemos explorado
+  vosotros: habéis explorado
+  uds: han explorado
+preterito-pluscuamperfecto:
+  yo: había explorado
+  tu: habías explorado
+  vos: habías explorado
+  ud: había explorado
+  nosotros: habíamos explorado
+  vosotros: habíais explorado
+  uds: habían explorado
+futuro-perfecto:
+  yo: habré explorado
+  tu: habrás explorado
+  vos: habrás explorado
+  ud: habrá explorado
+  nosotros: habremos explorado
+  vosotros: habréis explorado
+  uds: habrán explorado
+condicional-perfecto:
+  yo: habría explorado
+  tu: habrías explorado
+  vos: habrías explorado
+  ud: habría explorado
+  nosotros: habríamos explorado
+  vosotros: habríais explorado
+  uds: habrían explorado
+presente-subjuntivo:
+  yo: explore
+  tu: explores
+  vos: explores
+  ud: explore
+  nosotros: exploremos
+  vosotros: exploréis
+  uds: exploren
+preterito-perfecto-subjuntivo:
+  yo: haya explorado
+  tu: hayas explorado
+  vos: hayas explorado
+  ud: haya explorado
+  nosotros: hayamos explorado
+  vosotros: hayáis explorado
+  uds: hayan explorado
+imperfecto-subjuntivo:
+  yo:
+    - explorara
+    - explorase
+  tu:
+    - exploraras
+    - explorases
+  vos:
+    - exploraras
+    - explorases
+  ud:
+    - explorara
+    - explorase
+  nosotros:
+    - exploráramos
+    - explorásemos
+  vosotros:
+    - explorarais
+    - exploraseis
+  uds:
+    - exploraran
+    - explorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera explorado
+    - hubiese explorado
+  tu:
+    - hubieras explorado
+    - hubieses explorado
+  vos:
+    - hubieras explorado
+    - hubieses explorado
+  ud:
+    - hubiera explorado
+    - hubiese explorado
+  nosotros:
+    - hubiéramos explorado
+    - hubiésemos explorado
+  vosotros:
+    - hubierais explorado
+    - hubieseis explorado
+  uds:
+    - hubieran explorado
+    - hubiesen explorado
+imperativo:
+  tu: explora
+  vos: explorá
+  ud: explore
+  nosotros: exploremos
+  vosotros: explorad
+  uds: exploren

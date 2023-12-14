@@ -1,0 +1,142 @@
+infinitivo: bostezar
+gerundio: bostezando
+participio-pasado: bostezado
+presente-indicativo:
+  yo: bostezo
+  tu: bostezas
+  vos: bostezas
+  ud: bosteza
+  nosotros: bostezamos
+  vosotros: bostezáis
+  uds: bostezan
+preterito-perfecto-simple:
+  yo: bostecé
+  tu: bosteaste
+  vos: bosteaste
+  ud: bostezó
+  nosotros: bostezamos
+  vosotros: bosteasteis
+  uds: bostezaron
+preterito-imperfecto:
+  yo: bostezaba
+  tu: bostezabas
+  vos: bostezabas
+  ud: bostezaba
+  nosotros: bostezábamos
+  vosotros: bostezabais
+  uds: bostezaban
+futuro-simple:
+  yo: bostezaré
+  tu: bostezarás
+  vos: bostezarás
+  ud: bostezará
+  nosotros: bostezaremos
+  vosotros: bostezaréis
+  uds: bostezarán
+condicional-simple:
+  yo: bostezaría
+  tu: bostezarías
+  vos: bostezarías
+  ud: bostezaría
+  nosotros: bostezaríamos
+  vosotros: bostezaríais
+  uds: bostezarían
+presente-perfecto:
+  yo: he bostezado
+  tu: has bostezado
+  vos: has bostezado
+  ud: ha bostezado
+  nosotros: hemos bostezado
+  vosotros: habéis bostezado
+  uds: han bostezado
+preterito-pluscuamperfecto:
+  yo: había bostezado
+  tu: habías bostezado
+  vos: habías bostezado
+  ud: había bostezado
+  nosotros: habíamos bostezado
+  vosotros: habíais bostezado
+  uds: habían bostezado
+futuro-perfecto:
+  yo: habré bostezado
+  tu: habrás bostezado
+  vos: habrás bostezado
+  ud: habrá bostezado
+  nosotros: habremos bostezado
+  vosotros: habréis bostezado
+  uds: habrán bostezado
+condicional-perfecto:
+  yo: habría bostezado
+  tu: habrías bostezado
+  vos: habrías bostezado
+  ud: habría bostezado
+  nosotros: habríamos bostezado
+  vosotros: habríais bostezado
+  uds: habrían bostezado
+presente-subjuntivo:
+  yo: bostece
+  tu: bosteces
+  vos: bosteces
+  ud: bostece
+  nosotros: bostecemos
+  vosotros: bostecéis
+  uds: bostecen
+preterito-perfecto-subjuntivo:
+  yo: haya bostezado
+  tu: hayas bostezado
+  vos: hayas bostezado
+  ud: haya bostezado
+  nosotros: hayamos bostezado
+  vosotros: hayáis bostezado
+  uds: hayan bostezado
+imperfecto-subjuntivo:
+  yo:
+    - bostezara
+    - bostezase
+  tu:
+    - bostezaras
+    - bostezases
+  vos:
+    - bostezaras
+    - bostezases
+  ud:
+    - bostezara
+    - bostezase
+  nosotros:
+    - bostezáramos
+    - bostezásemos
+  vosotros:
+    - bostezarais
+    - bostezaseis
+  uds:
+    - bostezaran
+    - bostezasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bostezado
+    - hubiese bostezado
+  tu:
+    - hubieras bostezado
+    - hubieses bostezado
+  vos:
+    - hubieras bostezado
+    - hubieses bostezado
+  ud:
+    - hubiera bostezado
+    - hubiese bostezado
+  nosotros:
+    - hubiéramos bostezado
+    - hubiésemos bostezado
+  vosotros:
+    - hubierais bostezado
+    - hubieseis bostezado
+  uds:
+    - hubieran bostezado
+    - hubiesen bostezado
+imperativo:
+  tu: bosteza
+  vos: bostezá
+  ud: bostece
+  nosotros: bostecemos
+  vosotros: bostezad
+  uds: bostecen

@@ -1,0 +1,142 @@
+infinitivo: diluirse
+gerundio: diluyéndose
+participio-pasado: diluido
+presente-indicativo:
+  yo: me diluyo
+  tu: te diluyes
+  vos: te diluís
+  ud: se diluye
+  nosotros: nos diluimos
+  vosotros: os diluís
+  uds: se diluyen
+preterito-perfecto-simple:
+  yo: me diluí
+  tu: te diluiste
+  vos: te diluiste
+  ud: se diluyó
+  nosotros: nos diluimos
+  vosotros: os diluisteis
+  uds: se diluyeron
+preterito-imperfecto:
+  yo: me diluía
+  tu: te diluías
+  vos: te diluías
+  ud: se diluía
+  nosotros: nos diluíamos
+  vosotros: os diluíais
+  uds: se diluían
+futuro-simple:
+  yo: me diluiré
+  tu: te diluirás
+  vos: te diluirás
+  ud: se diluirá
+  nosotros: nos diluiremos
+  vosotros: os diluiréis
+  uds: se diluirán
+condicional-simple:
+  yo: me diluiría
+  tu: te diluirías
+  vos: te diluirías
+  ud: se diluiría
+  nosotros: nos diluiríamos
+  vosotros: os diluiríais
+  uds: se diluirían
+presente-perfecto:
+  yo: me he diluido
+  tu: te has diluido
+  vos: te has diluido
+  ud: se ha diluido
+  nosotros: nos hemos diluido
+  vosotros: os habéis diluido
+  uds: se han diluido
+preterito-pluscuamperfecto:
+  yo: me había diluido
+  tu: te habías diluido
+  vos: te habías diluido
+  ud: se había diluido
+  nosotros: nos habíamos diluido
+  vosotros: os habíais diluido
+  uds: se habían diluido
+futuro-perfecto:
+  yo: me habré diluido
+  tu: te habrás diluido
+  vos: te habrás diluido
+  ud: se habrá diluido
+  nosotros: nos habremos diluido
+  vosotros: os habréis diluido
+  uds: se habrán diluido
+condicional-perfecto:
+  yo: me habría diluido
+  tu: te habrías diluido
+  vos: te habrías diluido
+  ud: se habría diluido
+  nosotros: nos habríamos diluido
+  vosotros: os habríais diluido
+  uds: se habrían diluido
+presente-subjuntivo:
+  yo: me diluya
+  tu: te diluyas
+  vos: te diluyas
+  ud: se diluya
+  nosotros: nos diluyamos
+  vosotros: os diluyáis
+  uds: se diluyan
+preterito-perfecto-subjuntivo:
+  yo: me haya diluido
+  tu: te hayas diluido
+  vos: te hayas diluido
+  ud: se haya diluido
+  nosotros: nos hayamos diluido
+  vosotros: os hayáis diluido
+  uds: se hayan diluido
+imperfecto-subjuntivo:
+  yo:
+    - me diluyera
+    - me diluyese
+  tu:
+    - te diluyeras
+    - te diluyeses
+  vos:
+    - te diluyeras
+    - te diluyeses
+  ud:
+    - se diluyera
+    - se diluyese
+  nosotros:
+    - nos diluyéramos
+    - nos diluyésemos
+  vosotros:
+    - os diluyerais
+    - os diluyeseis
+  uds:
+    - se diluyeran
+    - se diluyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera diluido
+    - me hubiese diluido
+  tu:
+    - te hubieras diluido
+    - te hubieses diluido
+  vos:
+    - te hubieras diluido
+    - te hubieses diluido
+  ud:
+    - se hubiera diluido
+    - se hubiese diluido
+  nosotros:
+    - nos hubiéramos diluido
+    - nos hubiésemos diluido
+  vosotros:
+    - os hubierais diluido
+    - os hubieseis diluido
+  uds:
+    - se hubieran diluido
+    - se hubiesen diluido
+imperativo:
+  tu: dilúyete
+  vos: diluíte
+  ud: dilúyase
+  nosotros: diluyámonos
+  vosotros: diluíos
+  uds: dilúyanse

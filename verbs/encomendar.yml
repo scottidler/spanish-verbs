@@ -1,0 +1,142 @@
+infinitivo: encomendar
+gerundio: encomendando
+participio-pasado: encomendado
+presente-indicativo:
+  yo: encomiendo
+  tu: encomiendas
+  vos: encomendás
+  ud: encomienda
+  nosotros: encomendamos
+  vosotros: encomendáis
+  uds: encomiendan
+preterito-perfecto-simple:
+  yo: encomendé
+  tu: encomendaste
+  vos: encomendaste
+  ud: encomendó
+  nosotros: encomendamos
+  vosotros: encomendasteis
+  uds: encomendaron
+preterito-imperfecto:
+  yo: encomendaba
+  tu: encomendabas
+  vos: encomendabas
+  ud: encomendaba
+  nosotros: encomendábamos
+  vosotros: encomendabais
+  uds: encomendaban
+futuro-simple:
+  yo: encomendaré
+  tu: encomendarás
+  vos: encomendarás
+  ud: encomendará
+  nosotros: encomendaremos
+  vosotros: encomendaréis
+  uds: encomendarán
+condicional-simple:
+  yo: encomendaría
+  tu: encomendarías
+  vos: encomendarías
+  ud: encomendaría
+  nosotros: encomendaríamos
+  vosotros: encomendaríais
+  uds: encomendarían
+presente-perfecto:
+  yo: he encomendado
+  tu: has encomendado
+  vos: has encomendado
+  ud: ha encomendado
+  nosotros: hemos encomendado
+  vosotros: habéis encomendado
+  uds: han encomendado
+preterito-pluscuamperfecto:
+  yo: había encomendado
+  tu: habías encomendado
+  vos: habías encomendado
+  ud: había encomendado
+  nosotros: habíamos encomendado
+  vosotros: habíais encomendado
+  uds: habían encomendado
+futuro-perfecto:
+  yo: habré encomendado
+  tu: habrás encomendado
+  vos: habrás encomendado
+  ud: habrá encomendado
+  nosotros: habremos encomendado
+  vosotros: habréis encomendado
+  uds: habrán encomendado
+condicional-perfecto:
+  yo: habría encomendado
+  tu: habrías encomendado
+  vos: habrías encomendado
+  ud: habría encomendado
+  nosotros: habríamos encomendado
+  vosotros: habríais encomendado
+  uds: habrían encomendado
+presente-subjuntivo:
+  yo: encomiende
+  tu: encomiendes
+  vos: encomiendes
+  ud: encomiende
+  nosotros: encomendemos
+  vosotros: encomendéis
+  uds: encomienden
+preterito-perfecto-subjuntivo:
+  yo: haya encomendado
+  tu: hayas encomendado
+  vos: hayas encomendado
+  ud: haya encomendado
+  nosotros: hayamos encomendado
+  vosotros: hayáis encomendado
+  uds: hayan encomendado
+imperfecto-subjuntivo:
+  yo:
+    - encomendara
+    - encomendase
+  tu:
+    - encomendaras
+    - encomendases
+  vos:
+    - encomendaras
+    - encomendases
+  ud:
+    - encomendara
+    - encomendase
+  nosotros:
+    - encomendáramos
+    - encomendásemos
+  vosotros:
+    - encomendarais
+    - encomendaseis
+  uds:
+    - encomendaran
+    - encomendasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encomendado
+    - hubiese encomendado
+  tu:
+    - hubieras encomendado
+    - hubieses encomendado
+  vos:
+    - hubieras encomendado
+    - hubieses encomendado
+  ud:
+    - hubiera encomendado
+    - hubiese encomendado
+  nosotros:
+    - hubiéramos encomendado
+    - hubiésemos encomendado
+  vosotros:
+    - hubierais encomendado
+    - hubieseis encomendado
+  uds:
+    - hubieran encomendado
+    - hubiesen encomendado
+imperativo:
+  tu: encomienda
+  vos: encomendá
+  ud: encomiende
+  nosotros: encomendemos
+  vosotros: encomendad
+  uds: encomienden

@@ -1,0 +1,142 @@
+infinitivo: jurar
+gerundio: jurando
+participio-pasado: jurado
+presente-indicativo:
+  yo: juro
+  tu: juras
+  vos: juras
+  ud: jura
+  nosotros: juramos
+  vosotros: juráis
+  uds: juran
+preterito-perfecto-simple:
+  yo: juré
+  tu: juraste
+  vos: juraste
+  ud: juró
+  nosotros: juramos
+  vosotros: jurasteis
+  uds: juraron
+preterito-imperfecto:
+  yo: juraba
+  tu: jurabas
+  vos: jurabas
+  ud: juraba
+  nosotros: jurábamos
+  vosotros: jurabais
+  uds: juraban
+futuro-simple:
+  yo: juraré
+  tu: jurarás
+  vos: jurarás
+  ud: jurará
+  nosotros: juraremos
+  vosotros: juraréis
+  uds: jurarán
+condicional-simple:
+  yo: juraría
+  tu: jurarías
+  vos: jurarías
+  ud: juraría
+  nosotros: juraríamos
+  vosotros: juraríais
+  uds: jurarían
+presente-perfecto:
+  yo: he jurado
+  tu: has jurado
+  vos: has jurado
+  ud: ha jurado
+  nosotros: hemos jurado
+  vosotros: habéis jurado
+  uds: han jurado
+preterito-pluscuamperfecto:
+  yo: había jurado
+  tu: habías jurado
+  vos: habías jurado
+  ud: había jurado
+  nosotros: habíamos jurado
+  vosotros: habíais jurado
+  uds: habían jurado
+futuro-perfecto:
+  yo: habré jurado
+  tu: habrás jurado
+  vos: habrás jurado
+  ud: habrá jurado
+  nosotros: habremos jurado
+  vosotros: habréis jurado
+  uds: habrán jurado
+condicional-perfecto:
+  yo: habría jurado
+  tu: habrías jurado
+  vos: habrías jurado
+  ud: habría jurado
+  nosotros: habríamos jurado
+  vosotros: habríais jurado
+  uds: habrían jurado
+presente-subjuntivo:
+  yo: jure
+  tu: jures
+  vos: jures
+  ud: jure
+  nosotros: juremos
+  vosotros: juréis
+  uds: juren
+preterito-perfecto-subjuntivo:
+  yo: haya jurado
+  tu: hayas jurado
+  vos: hayas jurado
+  ud: haya jurado
+  nosotros: hayamos jurado
+  vosotros: hayáis jurado
+  uds: hayan jurado
+imperfecto-subjuntivo:
+  yo:
+    - jurara
+    - jurase
+  tu:
+    - juraras
+    - jurases
+  vos:
+    - juraras
+    - jurases
+  ud:
+    - jurara
+    - jurase
+  nosotros:
+    - juráramos
+    - jurásemos
+  vosotros:
+    - jurarais
+    - juraseis
+  uds:
+    - juraran
+    - jurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera jurado
+    - hubiese jurado
+  tu:
+    - hubieras jurado
+    - hubieses jurado
+  vos:
+    - hubieras jurado
+    - hubieses jurado
+  ud:
+    - hubiera jurado
+    - hubiese jurado
+  nosotros:
+    - hubiéramos jurado
+    - hubiésemos jurado
+  vosotros:
+    - hubierais jurado
+    - hubieseis jurado
+  uds:
+    - hubieran jurado
+    - hubiesen jurado
+imperativo:
+  tu: jura
+  vos: jurá
+  ud: jure
+  nosotros: juremos
+  vosotros: jurad
+  uds: juren

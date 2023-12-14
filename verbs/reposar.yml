@@ -1,0 +1,142 @@
+infinitivo: reposar
+gerundio: reposando
+participio-pasado: reposado
+presente-indicativo:
+  yo: reposo
+  tu: reposas
+  vos: reposas
+  ud: reposa
+  nosotros: reposamos
+  vosotros: reposáis
+  uds: reposan
+preterito-perfecto-simple:
+  yo: reposé
+  tu: reposaste
+  vos: reposaste
+  ud: reposó
+  nosotros: reposamos
+  vosotros: reposasteis
+  uds: reposaron
+preterito-imperfecto:
+  yo: reposaba
+  tu: reposabas
+  vos: reposabas
+  ud: reposaba
+  nosotros: reposábamos
+  vosotros: reposabais
+  uds: reposaban
+futuro-simple:
+  yo: reposaré
+  tu: reposarás
+  vos: reposarás
+  ud: reposará
+  nosotros: reposaremos
+  vosotros: reposaréis
+  uds: reposarán
+condicional-simple:
+  yo: reposaría
+  tu: reposarías
+  vos: reposarías
+  ud: reposaría
+  nosotros: reposaríamos
+  vosotros: reposaríais
+  uds: reposarían
+presente-perfecto:
+  yo: he reposado
+  tu: has reposado
+  vos: has reposado
+  ud: ha reposado
+  nosotros: hemos reposado
+  vosotros: habéis reposado
+  uds: han reposado
+preterito-pluscuamperfecto:
+  yo: había reposado
+  tu: habías reposado
+  vos: habías reposado
+  ud: había reposado
+  nosotros: habíamos reposado
+  vosotros: habíais reposado
+  uds: habían reposado
+futuro-perfecto:
+  yo: habré reposado
+  tu: habrás reposado
+  vos: habrás reposado
+  ud: habrá reposado
+  nosotros: habremos reposado
+  vosotros: habréis reposado
+  uds: habrán reposado
+condicional-perfecto:
+  yo: habría reposado
+  tu: habrías reposado
+  vos: habrías reposado
+  ud: habría reposado
+  nosotros: habríamos reposado
+  vosotros: habríais reposado
+  uds: habrían reposado
+presente-subjuntivo:
+  yo: repose
+  tu: reposes
+  vos: reposes
+  ud: repose
+  nosotros: reposemos
+  vosotros: reposéis
+  uds: reposen
+preterito-perfecto-subjuntivo:
+  yo: haya reposado
+  tu: hayas reposado
+  vos: hayas reposado
+  ud: haya reposado
+  nosotros: hayamos reposado
+  vosotros: hayáis reposado
+  uds: hayan reposado
+imperfecto-subjuntivo:
+  yo:
+    - reposara
+    - reposase
+  tu:
+    - reposaras
+    - reposases
+  vos:
+    - reposaras
+    - reposases
+  ud:
+    - reposara
+    - reposase
+  nosotros:
+    - reposáramos
+    - reposásemos
+  vosotros:
+    - reposarais
+    - reposaseis
+  uds:
+    - reposaran
+    - reposasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reposado
+    - hubiese reposado
+  tu:
+    - hubieras reposado
+    - hubieses reposado
+  vos:
+    - hubieras reposado
+    - hubieses reposado
+  ud:
+    - hubiera reposado
+    - hubiese reposado
+  nosotros:
+    - hubiéramos reposado
+    - hubiésemos reposado
+  vosotros:
+    - hubierais reposado
+    - hubieseis reposado
+  uds:
+    - hubieran reposado
+    - hubiesen reposado
+imperativo:
+  tu: reposa
+  vos: reposá
+  ud: repose
+  nosotros: reposemos
+  vosotros: reposad
+  uds: reposen

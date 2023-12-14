@@ -1,0 +1,142 @@
+infinitivo: supersar
+gerundio: supersando
+participio-pasado: supersado
+presente-indicativo:
+  yo: superso
+  tu: supersas
+  vos: supersas
+  ud: superesa
+  nosotros: supersamos
+  vosotros: supersáis
+  uds: supersan
+preterito-perfecto-simple:
+  yo: superse
+  tu: supersaste
+  vos: supersaste
+  ud: supersó
+  nosotros: supersamos
+  vosotros: supersasteis
+  uds: supersaron
+preterito-imperfecto:
+  yo: supersaba
+  tu: supersabas
+  vos: supersabas
+  ud: supersaba
+  nosotros: supersábamos
+  vosotros: supersabais
+  uds: supersaban
+futuro-simple:
+  yo: superé
+  tu: superás
+  vos: superás
+  ud: supersá
+  nosotros: superemos
+  vosotros: superéis
+  uds: superán
+condicional-simple:
+  yo: suppería
+  tu: supperías
+  vos: supperías
+  ud: suppería
+  nosotros: supperíamos
+  vosotros: supperíais
+  uds: supperían
+presente-perfecto:
+  yo: he supersado
+  tu: has supersado
+  vos: has supersado
+  ud: ha supersado
+  nosotros: hemos supersado
+  vosotros: habéis supersado
+  uds: han supersado
+preterito-pluscuamperfecto:
+  yo: había supersado
+  tu: habías supersado
+  vos: habías supersado
+  ud: había supersado
+  nosotros: habíamos supersado
+  vosotros: habíais supersado
+  uds: habían supersado
+futuro-perfecto:
+  yo: habré supersado
+  tu: habrás supersado
+  vos: habrás supersado
+  ud: habrá supersado
+  nosotros: habremos supersado
+  vosotros: habréis supersado
+  uds: habrán supersado
+condicional-perfecto:
+  yo: habría supersado
+  tu: habrías supersado
+  vos: habrías supersado
+  ud: habría supersado
+  nosotros: habríamos supersado
+  vosotros: habríais supersado
+  uds: habrían supersado
+presente-subjuntivo:
+  yo: supersa
+  tu: supersas
+  vos: supersas
+  ud: superesa
+  nosotros: supersemos
+  vosotros: supersed
+  uds: supersan
+preterito-perfecto-subjuntivo:
+  yo: haya supersado
+  tu: hayas supersado
+  vos: hayas supersado
+  ud: haya supersado
+  nosotros: hayamos supersado
+  vosotros: hayáis supersado
+  uds: hayan supersado
+imperfecto-subjuntivo:
+  yo:
+    - superviera
+    - superviese
+  tu:
+    - supervieras
+    - supervieses
+  vos:
+    - supervieras
+    - supervieses
+  ud:
+    - superviera
+    - superviese
+  nosotros:
+    - superviéramos
+    - superviésemos
+  vosotros:
+    - supervierais
+    - supervieseis
+  uds:
+    - supervieran
+    - superviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera supersado
+    - hubiese supersado
+  tu:
+    - hubieras supersado
+    - hubieses supersado
+  vos:
+    - hubieras supersado
+    - hubieses supersado
+  ud:
+    - hubiera supersado
+    - hubiese supersado
+  nosotros:
+    - hubiéramos supersado
+    - hubiésemos supersado
+  vosotros:
+    - hubierais supersado
+    - hubieseis supersado
+  uds:
+    - hubieran supersado
+    - hubiesen supersado
+imperativo:
+  tu: supersa
+  vos: supersá
+  ud: superesa
+  nosotros: supersemos
+  vosotros: supersed
+  uds: supersan

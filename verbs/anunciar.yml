@@ -1,0 +1,142 @@
+infinitivo: anunciar
+gerundio: anunciando
+participio-pasado: anunciado
+presente-indicativo:
+  yo: anuncio
+  tu: anuncias
+  vos: anuncias
+  ud: anuncia
+  nosotros: anunciamos
+  vosotros: anunciáis
+  uds: anuncian
+preterito-perfecto-simple:
+  yo: anuncié
+  tu: anunciaste
+  vos: anunciaste
+  ud: anunció
+  nosotros: anunciamos
+  vosotros: anunciasteis
+  uds: anunciaron
+preterito-imperfecto:
+  yo: anunciaba
+  tu: anunciabas
+  vos: anunciabas
+  ud: anunciaba
+  nosotros: anunciábamos
+  vosotros: anunciabais
+  uds: anunciaban
+futuro-simple:
+  yo: anunciaré
+  tu: anunciarás
+  vos: anunciarás
+  ud: anunciará
+  nosotros: anunciaremos
+  vosotros: anunciaréis
+  uds: anunciarán
+condicional-simple:
+  yo: anunciaría
+  tu: anunciarías
+  vos: anunciarías
+  ud: anunciaría
+  nosotros: anunciaríamos
+  vosotros: anunciaríais
+  uds: anunciarían
+presente-perfecto:
+  yo: he anunciado
+  tu: has anunciado
+  vos: has anunciado
+  ud: ha anunciado
+  nosotros: hemos anunciado
+  vosotros: habéis anunciado
+  uds: han anunciado
+preterito-pluscuamperfecto:
+  yo: había anunciado
+  tu: habías anunciado
+  vos: habías anunciado
+  ud: había anunciado
+  nosotros: habíamos anunciado
+  vosotros: habíais anunciado
+  uds: habían anunciado
+futuro-perfecto:
+  yo: habré anunciado
+  tu: habrás anunciado
+  vos: habrás anunciado
+  ud: habrá anunciado
+  nosotros: habremos anunciado
+  vosotros: habréis anunciado
+  uds: habrán anunciado
+condicional-perfecto:
+  yo: habría anunciado
+  tu: habrías anunciado
+  vos: habrías anunciado
+  ud: habría anunciado
+  nosotros: habríamos anunciado
+  vosotros: habríais anunciado
+  uds: habrían anunciado
+presente-subjuntivo:
+  yo: anuncie
+  tu: anuncies
+  vos: anuncies
+  ud: anuncie
+  nosotros: anunciemos
+  vosotros: anunciéis
+  uds: anuncien
+preterito-perfecto-subjuntivo:
+  yo: haya anunciado
+  tu: hayas anunciado
+  vos: hayas anunciado
+  ud: haya anunciado
+  nosotros: hayamos anunciado
+  vosotros: hayáis anunciado
+  uds: hayan anunciado
+imperfecto-subjuntivo:
+  yo:
+    - anunciara
+    - anunciese
+  tu:
+    - anunciaras
+    - anuncieses
+  vos:
+    - anunciaras
+    - anuncieses
+  ud:
+    - anunciara
+    - anunciese
+  nosotros:
+    - anunciáramos
+    - anunciésemos
+  vosotros:
+    - anunciarais
+    - anuncieseis
+  uds:
+    - anunciaran
+    - anunciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera anunciado
+    - hubiese anunciado
+  tu:
+    - hubieras anunciado
+    - hubieses anunciado
+  vos:
+    - hubieras anunciado
+    - hubieses anunciado
+  ud:
+    - hubiera anunciado
+    - hubiese anunciado
+  nosotros:
+    - hubiéramos anunciado
+    - hubiésemos anunciado
+  vosotros:
+    - hubierais anunciado
+    - hubieseis anunciado
+  uds:
+    - hubieran anunciado
+    - hubiesen anunciado
+imperativo:
+  tu: anuncia
+  vos: anunciá
+  ud: anuncie
+  nosotros: anunciemos
+  vosotros: anunciad
+  uds: anuncien

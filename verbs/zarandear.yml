@@ -1,0 +1,142 @@
+infinitivo: zarandear
+gerundio: zarandeando
+participio-pasado: zarandeado
+presente-indicativo:
+  yo: zarandeo
+  tu: zarandeas
+  vos: zarandeas
+  ud: zarandea
+  nosotros: zarandeamos
+  vosotros: zarandeáis
+  uds: zarandean
+preterito-perfecto-simple:
+  yo: zarandeé
+  tu: zarandeaste
+  vos: zarandeaste
+  ud: zarandeó
+  nosotros: zarandeamos
+  vosotros: zarandeasteis
+  uds: zarandearon
+preterito-imperfecto:
+  yo: zarandeaba
+  tu: zarandeabas
+  vos: zarandeabas
+  ud: zarandeaba
+  nosotros: zarandeábamos
+  vosotros: zarandeabais
+  uds: zarandeaban
+futuro-simple:
+  yo: zarandearé
+  tu: zarandearás
+  vos: zarandearás
+  ud: zarandeará
+  nosotros: zarandearemos
+  vosotros: zarandearéis
+  uds: zarandearán
+condicional-simple:
+  yo: zarandearía
+  tu: zarandearías
+  vos: zarandearías
+  ud: zarandearía
+  nosotros: zarandearíamos
+  vosotros: zarandearíais
+  uds: zarandearían
+presente-perfecto:
+  yo: he zarandeado
+  tu: has zarandeado
+  vos: has zarandeado
+  ud: ha zarandeado
+  nosotros: hemos zarandeado
+  vosotros: habéis zarandeado
+  uds: han zarandeado
+preterito-pluscuamperfecto:
+  yo: había zarandeado
+  tu: habías zarandeado
+  vos: habías zarandeado
+  ud: había zarandeado
+  nosotros: habíamos zarandeado
+  vosotros: habíais zarandeado
+  uds: habían zarandeado
+futuro-perfecto:
+  yo: habré zarandeado
+  tu: habrás zarandeado
+  vos: habrás zarandeado
+  ud: habrá zarandeado
+  nosotros: habremos zarandeado
+  vosotros: habréis zarandeado
+  uds: habrán zarandeado
+condicional-perfecto:
+  yo: habría zarandeado
+  tu: habrías zarandeado
+  vos: habrías zarandeado
+  ud: habría zarandeado
+  nosotros: habríamos zarandeado
+  vosotros: habríais zarandeado
+  uds: habrían zarandeado
+presente-subjuntivo:
+  yo: zarandee
+  tu: zarandees
+  vos: zarandees
+  ud: zarandee
+  nosotros: zarandeemos
+  vosotros: zarandeéis
+  uds: zarandeen
+preterito-perfecto-subjuntivo:
+  yo: haya zarandeado
+  tu: hayas zarandeado
+  vos: hayas zarandeado
+  ud: haya zarandeado
+  nosotros: hayamos zarandeado
+  vosotros: hayáis zarandeado
+  uds: hayan zarandeado
+imperfecto-subjuntivo:
+  yo:
+    - zarandeara
+    - zarandease
+  tu:
+    - zarandearas
+    - zarandeases
+  vos:
+    - zarandearas
+    - zarandeases
+  ud:
+    - zarandeara
+    - zarandease
+  nosotros:
+    - zarandeáramos
+    - zarandeásemos
+  vosotros:
+    - zarandearais
+    - zarandeaseis
+  uds:
+    - zarandearan
+    - zarandeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera zarandeado
+    - hubiese zarandeado
+  tu:
+    - hubieras zarandeado
+    - hubieses zarandeado
+  vos:
+    - hubieras zarandeado
+    - hubieses zarandeado
+  ud:
+    - hubiera zarandeado
+    - hubiese zarandeado
+  nosotros:
+    - hubiéramos zarandeado
+    - hubiésemos zarandeado
+  vosotros:
+    - hubierais zarandeado
+    - hubieseis zarandeado
+  uds:
+    - hubieran zarandeado
+    - hubiesen zarandeado
+imperativo:
+  tu: zarandea
+  vos: zarandeá
+  ud: zarandea
+  nosotros: zarandeeamos
+  vosotros: zarandead
+  uds: zarandeen

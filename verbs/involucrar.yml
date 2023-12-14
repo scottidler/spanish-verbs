@@ -1,0 +1,142 @@
+infinitivo: involucrar
+gerundio: involucrando
+participio-pasado: involucrado
+presente-indicativo:
+  yo: involucro
+  tu: involucras
+  vos: involucrás
+  ud: involucra
+  nosotros: involucramos
+  vosotros: involucráis
+  uds: involucran
+preterito-perfecto-simple:
+  yo: involucré
+  tu: involucraste
+  vos: involucraste
+  ud: involucró
+  nosotros: involucramos
+  vosotros: involucrasteis
+  uds: involucraron
+preterito-imperfecto:
+  yo: involucraba
+  tu: involucrabas
+  vos: involucrabas
+  ud: involucraba
+  nosotros: involucrábamos
+  vosotros: involucrabais
+  uds: involucraban
+futuro-simple:
+  yo: involucraré
+  tu: involucrarás
+  vos: involucrarás
+  ud: involucrará
+  nosotros: involucraremos
+  vosotros: involucraréis
+  uds: involucrarán
+condicional-simple:
+  yo: involucraría
+  tu: involucrarías
+  vos: involucrarías
+  ud: involucraría
+  nosotros: involucraríamos
+  vosotros: involucraríais
+  uds: involucrarían
+presente-perfecto:
+  yo: he involucrado
+  tu: has involucrado
+  vos: has involucrado
+  ud: ha involucrado
+  nosotros: hemos involucrado
+  vosotros: habéis involucrado
+  uds: han involucrado
+preterito-pluscuamperfecto:
+  yo: había involucrado
+  tu: habías involucrado
+  vos: habías involucrado
+  ud: había involucrado
+  nosotros: habíamos involucrado
+  vosotros: habíais involucrado
+  uds: habían involucrado
+futuro-perfecto:
+  yo: habré involucrado
+  tu: habrás involucrado
+  vos: habrás involucrado
+  ud: habrá involucrado
+  nosotros: habremos involucrado
+  vosotros: habréis involucrado
+  uds: habrán involucrado
+condicional-perfecto:
+  yo: habría involucrado
+  tu: habrías involucrado
+  vos: habrías involucrado
+  ud: habría involucrado
+  nosotros: habríamos involucrado
+  vosotros: habríais involucrado
+  uds: habrían involucrado
+presente-subjuntivo:
+  yo: involucre
+  tu: involucres
+  vos: involucres
+  ud: involucre
+  nosotros: involucremos
+  vosotros: involucréis
+  uds: involucren
+preterito-perfecto-subjuntivo:
+  yo: haya involucrado
+  tu: hayas involucrado
+  vos: hayas involucrado
+  ud: haya involucrado
+  nosotros: hayamos involucrado
+  vosotros: hayáis involucrado
+  uds: hayan involucrado
+imperfecto-subjuntivo:
+  yo:
+    - involucrara
+    - involucrase
+  tu:
+    - involucraras
+    - involucrases
+  vos:
+    - involucraras
+    - involucrases
+  ud:
+    - involucrara
+    - involucrase
+  nosotros:
+    - involucráramos
+    - involucrásemos
+  vosotros:
+    - involucrarais
+    - involucraseis
+  uds:
+    - involucraran
+    - involucrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera involucrado
+    - hubiese involucrado
+  tu:
+    - hubieras involucrado
+    - hubieses involucrado
+  vos:
+    - hubieras involucrado
+    - hubieses involucrado
+  ud:
+    - hubiera involucrado
+    - hubiese involucrado
+  nosotros:
+    - hubiéramos involucrado
+    - hubiésemos involucrado
+  vosotros:
+    - hubierais involucrado
+    - hubieseis involucrado
+  uds:
+    - hubieran involucrado
+    - hubiesen involucrado
+imperativo:
+  tu: involucra
+  vos: involucrá
+  ud: involucre
+  nosotros: involucremos
+  vosotros: involucrad
+  uds: involucren

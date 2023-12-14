@@ -1,0 +1,142 @@
+infinitivo: contraer
+gerundio: contrayendo
+participio-pasado: contraído
+presente-indicativo:
+  yo: contraigo
+  tu: contrahes
+  vos: contrahes
+  ud: contrae
+  nosotros: contraemos
+  vosotros: contraéis
+  uds: contraen
+preterito-perfecto-simple:
+  yo: contraje
+  tu: contrajiste
+  vos: contrajiste
+  ud: contrajo
+  nosotros: contrajimos
+  vosotros: contrajisteis
+  uds: contrajeron
+preterito-imperfecto:
+  yo: contraía
+  tu: contraías
+  vos: contraías
+  ud: contraía
+  nosotros: contraíamos
+  vosotros: contraíais
+  uds: contraían
+futuro-simple:
+  yo: contraeré
+  tu: contraerás
+  vos: contraerás
+  ud: contraerá
+  nosotros: contraeremos
+  vosotros: contraeréis
+  uds: contraerán
+condicional-simple:
+  yo: contraería
+  tu: contraerías
+  vos: contraerías
+  ud: contraería
+  nosotros: contraeríamos
+  vosotros: contraeríais
+  uds: contraerían
+presente-perfecto:
+  yo: he contraído
+  tu: has contraído
+  vos: has contraído
+  ud: ha contraído
+  nosotros: hemos contraído
+  vosotros: habéis contraído
+  uds: han contraído
+preterito-pluscuamperfecto:
+  yo: había contraído
+  tu: habías contraído
+  vos: habías contraído
+  ud: había contraído
+  nosotros: habíamos contraído
+  vosotros: habíais contraído
+  uds: habían contraído
+futuro-perfecto:
+  yo: habré contraído
+  tu: habrás contraído
+  vos: habrás contraído
+  ud: habrá contraído
+  nosotros: habremos contraído
+  vosotros: habréis contraído
+  uds: habrán contraído
+condicional-perfecto:
+  yo: habría contraído
+  tu: habrías contraído
+  vos: habrías contraído
+  ud: habría contraído
+  nosotros: habríamos contraído
+  vosotros: habríais contraído
+  uds: habrían contraído
+presente-subjuntivo:
+  yo: contraiga
+  tu: contraigas
+  vos: contraigas
+  ud: contraiga
+  nosotros: contraijamos
+  vosotros: contrajáis
+  uds: contraigan
+preterito-perfecto-subjuntivo:
+  yo: haya contraído
+  tu: hayas contraído
+  vos: hayas contraído
+  ud: haya contraído
+  nosotros: hayamos contraído
+  vosotros: hayáis contraído
+  uds: hayan contraído
+imperfecto-subjuntivo:
+  yo:
+    - contrajera
+    - contrajese
+  tu:
+    - contrajeras
+    - contrajeses
+  vos:
+    - contrajeras
+    - contrajeses
+  ud:
+    - contrajera
+    - contrajese
+  nosotros:
+    - contrajéramos
+    - contrajésemos
+  vosotros:
+    - contrajerais
+    - contrajeseis
+  uds:
+    - contrajeran
+    - contrajesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera contraído
+    - hubiese contraído
+  tu:
+    - hubieras contraído
+    - hubieses contraído
+  vos:
+    - hubieras contraído
+    - hubieses contraído
+  ud:
+    - hubiera contraído
+    - hubiese contraído
+  nosotros:
+    - hubiéramos contraído
+    - hubiésemos contraído
+  vosotros:
+    - hubierais contraído
+    - hubieseis contraído
+  uds:
+    - hubieran contraído
+    - hubiesen contraído
+imperativo:
+  tu: contrae
+  vos: contraé
+  ud: contraiga
+  nosotros: contraijamos
+  vosotros: contraed
+  uds: contraigan

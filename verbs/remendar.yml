@@ -1,0 +1,142 @@
+infinitivo: remendar
+gerundio: remendando
+participio-pasado: remendado
+presente-indicativo:
+  yo: remiendo
+  tu: remiendas
+  vos: remiendas
+  ud: remienda
+  nosotros: remendamos
+  vosotros: remendáis
+  uds: remiendan
+preterito-perfecto-simple:
+  yo: remendé
+  tu: remendaste
+  vos: remendaste
+  ud: remendó
+  nosotros: remendamos
+  vosotros: remendasteis
+  uds: remendaron
+preterito-imperfecto:
+  yo: remendaba
+  tu: remendabas
+  vos: remendabas
+  ud: remendaba
+  nosotros: remendábamos
+  vosotros: remendabais
+  uds: remendaban
+futuro-simple:
+  yo: remendaré
+  tu: remendarás
+  vos: remendarás
+  ud: remendará
+  nosotros: remendaremos
+  vosotros: remendaréis
+  uds: remendarán
+condicional-simple:
+  yo: remendaría
+  tu: remendarías
+  vos: remendarías
+  ud: remendaría
+  nosotros: remendaríamos
+  vosotros: remendaríais
+  uds: remendarían
+presente-perfecto:
+  yo: he remendado
+  tu: has remendado
+  vos: has remendado
+  ud: ha remendado
+  nosotros: hemos remendado
+  vosotros: habéis remendado
+  uds: han remendado
+preterito-pluscuamperfecto:
+  yo: había remendado
+  tu: habías remendado
+  vos: habías remendado
+  ud: había remendado
+  nosotros: habíamos remendado
+  vosotros: habíais remendado
+  uds: habían remendado
+futuro-perfecto:
+  yo: habré remendado
+  tu: habrás remendado
+  vos: habrás remendado
+  ud: habrá remendado
+  nosotros: habremos remendado
+  vosotros: habréis remendado
+  uds: habrán remendado
+condicional-perfecto:
+  yo: habría remendado
+  tu: habrías remendado
+  vos: habrías remendado
+  ud: habría remendado
+  nosotros: habríamos remendado
+  vosotros: habríais remendado
+  uds: habrían remendado
+presente-subjuntivo:
+  yo: remiende
+  tu: remiendes
+  vos: remiendes
+  ud: remiende
+  nosotros: remendemos
+  vosotros: remendéis
+  uds: remienden
+preterito-perfecto-subjuntivo:
+  yo: haya remendado
+  tu: hayas remendado
+  vos: hayas remendado
+  ud: haya remendado
+  nosotros: hayamos remendado
+  vosotros: hayáis remendado
+  uds: hayan remendado
+imperfecto-subjuntivo:
+  yo:
+    - remendara
+    - remendase
+  tu:
+    - remendaras
+    - remendases
+  vos:
+    - remendaras
+    - remendases
+  ud:
+    - remendara
+    - remendase
+  nosotros:
+    - remendáramos
+    - remendásemos
+  vosotros:
+    - remendarais
+    - remendaseis
+  uds:
+    - remendaran
+    - remendasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera remendado
+    - hubiese remendado
+  tu:
+    - hubieras remendado
+    - hubieses remendado
+  vos:
+    - hubieras remendado
+    - hubieses remendado
+  ud:
+    - hubiera remendado
+    - hubiese remendado
+  nosotros:
+    - hubiéramos remendado
+    - hubiésemos remendado
+  vosotros:
+    - hubierais remendado
+    - hubieseis remendado
+  uds:
+    - hubieran remendado
+    - hubiesen remendado
+imperativo:
+  tu: remienda
+  vos: remendá
+  ud: remienda
+  nosotros: remendemos
+  vosotros: remendad
+  uds: remienden

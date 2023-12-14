@@ -1,0 +1,156 @@
+infinitivo: presentirse
+gerundio: presentiéndose
+participio-pasado: presentido
+
+presente-indicativo:
+  yo: me presento
+  tu: te presentas
+  vos: te presentas
+  ud: se presenta
+  nosotros: nos presentamos
+  vosotros: os presentáis
+  uds: se presentan
+
+preterito-perfecto-simple:
+  yo: me presentí
+  tu: te presentiste
+  vos: te presentiste
+  ud: se presentió
+  nosotros: nos presentimos
+  vosotros: os presentisteis
+  uds: se presentieron
+
+preterito-imperfecto:
+  yo: me presentía
+  tu: te presentías
+  vos: te presentías
+  ud: se presentía
+  nosotros: nos presentíamos
+  vosotros: os presentíais
+  uds: se presentían
+
+futuro-simple:
+  yo: me presentiré
+  tu: te presentirás
+  vos: te presentirás
+  ud: se presentirá
+  nosotros: nos presentiremos
+  vosotros: os presentiréis
+  uds: se presentirán
+
+condicional-simple:
+  yo: me presentiría
+  tu: te presentirías
+  vos: te presentirías
+  ud: se presentiría
+  nosotros: nos presentiríamos
+  vosotros: os presentiríais
+  uds: se presentirían
+
+presente-perfecto:
+  yo: me he presentido
+  tu: te has presentido
+  vos: te has presentido
+  ud: se ha presentido
+  nosotros: nos hemos presentido
+  vosotros: os habéis presentido
+  uds: se han presentido
+
+preterito-pluscuamperfecto:
+  yo: me había presentido
+  tu: te habías presentido
+  vos: te habías presentido
+  ud: se había presentido
+  nosotros: nos habíamos presentido
+  vosotros: os habíais presentido
+  uds: se habían presentido
+
+futuro-perfecto:
+  yo: me habré presentido
+  tu: te habrás presentido
+  vos: te habrás presentido
+  ud: se habrá presentido
+  nosotros: nos habremos presentido
+  vosotros: os habréis presentido
+  uds: se habrán presentido
+
+condicional-perfecto:
+  yo: me habría presentido
+  tu: te habrías presentido
+  vos: te habrías presentido
+  ud: se habría presentido
+  nosotros: nos habríamos presentido
+  vosotros: os habríais presentido
+  uds: se habrían presentido
+
+presente-subjuntivo:
+  yo: me presente
+  tu: te presentes
+  vos: te presentes
+  ud: se presente
+  nosotros: nos presentemos
+  vosotros: os presentéis
+  uds: se presenten
+
+preterito-perfecto-subjuntivo:
+  yo: me haya presentido
+  tu: te hayas presentido
+  vos: te hayas presentido
+  ud: se haya presentido
+  nosotros: nos hayamos presentido
+  vosotros: os hayáis presentido
+  uds: se hayan presentido
+
+imperfecto-subjuntivo:
+  yo:
+    - me presentiera
+    - me presentiese
+  tu:
+    - te presentieras
+    - te presentieses
+  vos:
+    - te presentieras
+    - te presentieses
+  ud:
+    - se presentiera
+    - se presentiese
+  nosotros:
+    - nos presentiéramos
+    - nos presentiésemos
+  vosotros:
+    - os presentierais
+    - os presentieseis
+  uds:
+    - se presentieran
+    - se presentiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera presentido
+    - me hubiese presentido
+  tu:
+    - te hubieras presentido
+    - te hubieses presentido
+  vos:
+    - te hubieras presentido
+    - te hubieses presentido
+  ud:
+    - se hubiera presentido
+    - se hubiese presentido
+  nosotros:
+    - nos hubiéramos presentido
+    - nos hubiésemos presentido
+  vosotros:
+    - os hubierais presentido
+    - os hubieseis presentido
+  uds:
+    - se hubieran presentido
+    - se hubiesen presentido
+
+imperativo:
+  tu: preséntate
+  vos: presentáte
+  ud: preséntese
+  nosotros: presentémonos
+  vosotros: presentaos
+  uds: preséntense

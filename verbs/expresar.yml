@@ -1,0 +1,142 @@
+infinitivo: expresar
+gerundio: expresando
+participio-pasado: expresado
+presente-indicativo:
+  yo: expreso
+  tu: expresas
+  vos: expresás
+  ud: expresa
+  nosotros: expresamos
+  vosotros: expresáis
+  uds: expresan
+preterito-perfecto-simple:
+  yo: expresé
+  tu: expresaste
+  vos: expresaste
+  ud: expresó
+  nosotros: expresamos
+  vosotros: expresasteis
+  uds: expresaron
+preterito-imperfecto:
+  yo: expresaba
+  tu: expresabas
+  vos: expresabas
+  ud: expresaba
+  nosotros: expresábamos
+  vosotros: expresabais
+  uds: expresaban
+futuro-simple:
+  yo: expresaré
+  tu: expresarás
+  vos: expresarás
+  ud: expresará
+  nosotros: expresaremos
+  vosotros: expresaréis
+  uds: expresarán
+condicional-simple:
+  yo: expresaría
+  tu: expresarías
+  vos: expresarías
+  ud: expresaría
+  nosotros: expresaríamos
+  vosotros: expresaríais
+  uds: expresarían
+presente-perfecto:
+  yo: he expresado
+  tu: has expresado
+  vos: has expresado
+  ud: ha expresado
+  nosotros: hemos expresado
+  vosotros: habéis expresado
+  uds: han expresado
+preterito-pluscuamperfecto:
+  yo: había expresado
+  tu: habías expresado
+  vos: habías expresado
+  ud: había expresado
+  nosotros: habíamos expresado
+  vosotros: habíais expresado
+  uds: habían expresado
+futuro-perfecto:
+  yo: habré expresado
+  tu: habrás expresado
+  vos: habrás expresado
+  ud: habrá expresado
+  nosotros: habremos expresado
+  vosotros: habréis expresado
+  uds: habrán expresado
+condicional-perfecto:
+  yo: habría expresado
+  tu: habrías expresado
+  vos: habrías expresado
+  ud: habría expresado
+  nosotros: habríamos expresado
+  vosotros: habríais expresado
+  uds: habrían expresado
+presente-subjuntivo:
+  yo: exprese
+  tu: expreses
+  vos: expreses
+  ud: exprese
+  nosotros: expresemos
+  vosotros: expreséis
+  uds: expresen
+preterito-perfecto-subjuntivo:
+  yo: haya expresado
+  tu: hayas expresado
+  vos: hayas expresado
+  ud: haya expresado
+  nosotros: hayamos expresado
+  vosotros: hayáis expresado
+  uds: hayan expresado
+imperfecto-subjuntivo:
+  yo:
+    - expresara
+    - expresase
+  tu:
+    - expresaras
+    - expresases
+  vos:
+    - expresaras
+    - expresases
+  ud:
+    - expresara
+    - expresase
+  nosotros:
+    - expresáramos
+    - expresásemos
+  vosotros:
+    - expresarais
+    - expresaseis
+  uds:
+    - expresaran
+    - expresasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera expresado
+    - hubiese expresado
+  tu:
+    - hubieras expresado
+    - hubieses expresado
+  vos:
+    - hubieras expresado
+    - hubieses expresado
+  ud:
+    - hubiera expresado
+    - hubiese expresado
+  nosotros:
+    - hubiéramos expresado
+    - hubiésemos expresado
+  vosotros:
+    - hubierais expresado
+    - hubieseis expresado
+  uds:
+    - hubieran expresado
+    - hubiesen expresado
+imperativo:
+  tu: expresa
+  vos: expresá
+  ud: exprese
+  nosotros: expresemos
+  vosotros: expresad
+  uds: expresen

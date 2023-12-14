@@ -1,0 +1,142 @@
+infinitivo: regresir
+gerundio: regresiendo
+participio-pasado: regresido
+presente-indicativo:
+  yo: regreso
+  tu: regresas
+  vos: regresís
+  ud: regresa
+  nosotros: regresamos
+  vosotros: regresáis
+  uds: regresan
+preterito-perfecto-simple:
+  yo: regresí
+  tu: regresiste
+  vos: regresiste
+  ud: regresió
+  nosotros: regresimos
+  vosotros: regresisteis
+  uds: regresieron
+preterito-imperfecto:
+  yo: regresía
+  tu: regresías
+  vos: regresías
+  ud: regresía
+  nosotros: regresíamos
+  vosotros: regresíais
+  uds: regresían
+futuro-simple:
+  yo: regresiré
+  tu: regresirás
+  vos: regresirás
+  ud: regresirá
+  nosotros: regresiremos
+  vosotros: regresiréis
+  uds: regresirán
+condicional-simple:
+  yo: regresiría
+  tu: regresirías
+  vos: regresirías
+  ud: regresiría
+  nosotros: regresiríamos
+  vosotros: regresiríais
+  uds: regresirían
+presente-perfecto:
+  yo: he regresido
+  tu: has regresido
+  vos: has regresido
+  ud: ha regresido
+  nosotros: hemos regresido
+  vosotros: habéis regresido
+  uds: han regresido
+preterito-pluscuamperfecto:
+  yo: había regresido
+  tu: habías regresido
+  vos: habías regresido
+  ud: había regresido
+  nosotros: habíamos regresido
+  vosotros: habíais regresido
+  uds: habían regresido
+futuro-perfecto:
+  yo: habré regresido
+  tu: habrás regresido
+  vos: habrás regresido
+  ud: habrá regresido
+  nosotros: habremos regresido
+  vosotros: habréis regresido
+  uds: habrán regresido
+condicional-perfecto:
+  yo: habría regresido
+  tu: habrías regresido
+  vos: habrías regresido
+  ud: habría regresido
+  nosotros: habríamos regresido
+  vosotros: habríais regresido
+  uds: habrían regresido
+presente-subjuntivo:
+  yo: regresa
+  tu: regresas
+  vos: regresas
+  ud: regresa
+  nosotros: regresamos
+  vosotros: regresáis
+  uds: regresan
+preterito-perfecto-subjuntivo:
+  yo: haya regresido
+  tu: hayas regresido
+  vos: hayas regresido
+  ud: haya regresido
+  nosotros: hayamos regresido
+  vosotros: hayáis regresido
+  uds: hayan regresido
+imperfecto-subjuntivo:
+  yo:
+    - regresiera
+    - regresiese
+  tu:
+    - regresieras
+    - regresieses
+  vos:
+    - regresieras
+    - regresieses
+  ud:
+    - regresiera
+    - regresiese
+  nosotros:
+    - regresiéramos
+    - regresiésemos
+  vosotros:
+    - regresierais
+    - regresieseis
+  uds:
+    - regresieran
+    - regresiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera regresido
+    - hubiese regresido
+  tu:
+    - hubieras regresido
+    - hubieses regresido
+  vos:
+    - hubieras regresido
+    - hubieses regresido
+  ud:
+    - hubiera regresido
+    - hubiese regresido
+  nosotros:
+    - hubiéramos regresido
+    - hubiésemos regresido
+  vosotros:
+    - hubierais regresido
+    - hubieseis regresido
+  uds:
+    - hubieran regresido
+    - hubiesen regresido
+imperativo:
+  tu: regrese
+  vos: regresí
+  ud: regrese
+  nosotros: regresemos
+  vosotros: regresad
+  uds: regresen

@@ -1,0 +1,142 @@
+infinitivo: trabar
+gerundio: trabando
+participio-pasado: trabado
+presente-indicativo:
+  yo: trabo
+  tu: trabas
+  vos: trabas
+  ud: traba
+  nosotros: trabamos
+  vosotros: trabáis
+  uds: traban
+preterito-perfecto-simple:
+  yo: trabé
+  tu: trabaste
+  vos: trabaste
+  ud: trabó
+  nosotros: trabamos
+  vosotros: trabasteis
+  uds: trabaron
+preterito-imperfecto:
+  yo: trababa
+  tu: trababas
+  vos: trababas
+  ud: trababa
+  nosotros: trabábamos
+  vosotros: trababais
+  uds: trababan
+futuro-simple:
+  yo: trabaré
+  tu: trabarás
+  vos: trabarás
+  ud: trabará
+  nosotros: trabaremos
+  vosotros: trabaréis
+  uds: trabarán
+condicional-simple:
+  yo: trabaría
+  tu: trabarías
+  vos: trabarías
+  ud: trabaría
+  nosotros: trabaríamos
+  vosotros: trabaríais
+  uds: trabarían
+presente-perfecto:
+  yo: he trabado
+  tu: has trabado
+  vos: has trabado
+  ud: ha trabado
+  nosotros: hemos trabado
+  vosotros: habéis trabado
+  uds: han trabado
+preterito-pluscuamperfecto:
+  yo: había trabado
+  tu: habías trabado
+  vos: habías trabado
+  ud: había trabado
+  nosotros: habíamos trabado
+  vosotros: habíais trabado
+  uds: habían trabado
+futuro-perfecto:
+  yo: habré trabado
+  tu: habrás trabado
+  vos: habrás trabado
+  ud: habrá trabado
+  nosotros: habremos trabado
+  vosotros: habréis trabado
+  uds: habrán trabado
+condicional-perfecto:
+  yo: habría trabado
+  tu: habrías trabado
+  vos: habrías trabado
+  ud: habría trabado
+  nosotros: habríamos trabado
+  vosotros: habríais trabado
+  uds: habrían trabado
+presente-subjuntivo:
+  yo: trabe
+  tu: trabes
+  vos: trabes
+  ud: trabe
+  nosotros: trabemos
+  vosotros: trabéis
+  uds: traben
+preterito-perfecto-subjuntivo:
+  yo: haya trabado
+  tu: hayas trabado
+  vos: hayas trabado
+  ud: haya trabado
+  nosotros: hayamos trabado
+  vosotros: hayáis trabado
+  uds: hayan trabado
+imperfecto-subjuntivo:
+  yo:
+    - trabara
+    - trabase
+  tu:
+    - trabaras
+    - trabases
+  vos:
+    - trabaras
+    - trabases
+  ud:
+    - trabara
+    - trabase
+  nosotros:
+    - trabáramos
+    - trabásemos
+  vosotros:
+    - trabarais
+    - trabaseis
+  uds:
+    - trabaran
+    - trabasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera trabado
+    - hubiese trabado
+  tu:
+    - hubieras trabado
+    - hubieses trabado
+  vos:
+    - hubieras trabado
+    - hubieses trabado
+  ud:
+    - hubiera trabado
+    - hubiese trabado
+  nosotros:
+    - hubiéramos trabado
+    - hubiésemos trabado
+  vosotros:
+    - hubierais trabado
+    - hubieseis trabado
+  uds:
+    - hubieran trabado
+    - hubiesen trabado
+imperativo:
+  tu: traba
+  vos: trabá
+  ud: trabe
+  nosotros: trabemos
+  vosotros: trabad
+  uds: traben

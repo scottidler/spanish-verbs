@@ -1,0 +1,142 @@
+infinitivo: acelerar
+gerundio: acelerando
+participio-pasado: acelerado
+presente-indicativo:
+  yo: acelero
+  tu: aceleras
+  vos: aceleras
+  ud: acelera
+  nosotros: aceleramos
+  vosotros: aceleráis
+  uds: aceleran
+preterito-perfecto-simple:
+  yo: aceleré
+  tu: aceleraste
+  vos: aceleraste
+  ud: aceleró
+  nosotros: aceleramos
+  vosotros: acelerasteis
+  uds: aceleraron
+preterito-imperfecto:
+  yo: aceleraba
+  tu: acelerabas
+  vos: acelerabas
+  ud: aceleraba
+  nosotros: acelerábamos
+  vosotros: acelerabais
+  uds: aceleraban
+futuro-simple:
+  yo: aceleraré
+  tu: acelerarás
+  vos: acelerarás
+  ud: acelerará
+  nosotros: aceleraremos
+  vosotros: aceleraréis
+  uds: acelerarán
+condicional-simple:
+  yo: aceleraría
+  tu: acelerarías
+  vos: acelerarías
+  ud: aceleraría
+  nosotros: aceleraríamos
+  vosotros: aceleraríais
+  uds: acelerarían
+presente-perfecto:
+  yo: he acelerado
+  tu: has acelerado
+  vos: has acelerado
+  ud: ha acelerado
+  nosotros: hemos acelerado
+  vosotros: habéis acelerado
+  uds: han acelerado
+preterito-pluscuamperfecto:
+  yo: había acelerado
+  tu: habías acelerado
+  vos: habías acelerado
+  ud: había acelerado
+  nosotros: habíamos acelerado
+  vosotros: habíais acelerado
+  uds: habían acelerado
+futuro-perfecto:
+  yo: habré acelerado
+  tu: habrás acelerado
+  vos: habrás acelerado
+  ud: habrá acelerado
+  nosotros: habremos acelerado
+  vosotros: habréis acelerado
+  uds: habrán acelerado
+condicional-perfecto:
+  yo: habría acelerado
+  tu: habrías acelerado
+  vos: habrías acelerado
+  ud: habría acelerado
+  nosotros: habríamos acelerado
+  vosotros: habríais acelerado
+  uds: habrían acelerado
+presente-subjuntivo:
+  yo: acelere
+  tu: aceleres
+  vos: aceleres
+  ud: acelere
+  nosotros: aceleremos
+  vosotros: aceleréis
+  uds: aceleren
+preterito-perfecto-subjuntivo:
+  yo: haya acelerado
+  tu: hayas acelerado
+  vos: hayas acelerado
+  ud: haya acelerado
+  nosotros: hayamos acelerado
+  vosotros: hayáis acelerado
+  uds: hayan acelerado
+imperfecto-subjuntivo:
+  yo:
+    - acelerara
+    - acelerase
+  tu:
+    - aceleraras
+    - acelerases
+  vos:
+    - aceleraras
+    - acelerases
+  ud:
+    - acelerara
+    - acelerase
+  nosotros:
+    - aceleráramos
+    - acelerásemos
+  vosotros:
+    - acelerarais
+    - aceleraseis
+  uds:
+    - aceleraran
+    - acelerasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acelerado
+    - hubiese acelerado
+  tu:
+    - hubieras acelerado
+    - hubieses acelerado
+  vos:
+    - hubieras acelerado
+    - hubieses acelerado
+  ud:
+    - hubiera acelerado
+    - hubiese acelerado
+  nosotros:
+    - hubiéramos acelerado
+    - hubiésemos acelerado
+  vosotros:
+    - hubierais acelerado
+    - hubieseis acelerado
+  uds:
+    - hubieran acelerado
+    - hubiesen acelerado
+imperativo:
+  tu: acelera
+  vos: acelerá
+  ud: acelere
+  nosotros: aceleremos
+  vosotros: acelerad
+  uds: aceleren

@@ -1,0 +1,142 @@
+infinitivo: cegar
+gerundio: cegando
+participio-pasado: cegado
+presente-indicativo:
+  yo: ciego
+  tu: ciegas
+  vos: cegas
+  ud: ciega
+  nosotros: cegamos
+  vosotros: cegáis
+  uds: ciegan
+preterito-perfecto-simple:
+  yo: cegué
+  tu: cegaste
+  vos: cegaste
+  ud: cegó
+  nosotros: cegamos
+  vosotros: cegasteis
+  uds: cegaron
+preterito-imperfecto:
+  yo: cegaba
+  tu: cegabas
+  vos: cegabas
+  ud: cegaba
+  nosotros: cegábamos
+  vosotros: cegabais
+  uds: cegaban
+futuro-simple:
+  yo: cegaré
+  tu: cegarás
+  vos: cegarás
+  ud: cegará
+  nosotros: cegaremos
+  vosotros: cegaréis
+  uds: cegarán
+condicional-simple:
+  yo: cegaría
+  tu: cegarías
+  vos: cegarías
+  ud: cegaría
+  nosotros: cegaríamos
+  vosotros: cegaríais
+  uds: cegarían
+presente-perfecto:
+  yo: he cegado
+  tu: has cegado
+  vos: has cegado
+  ud: ha cegado
+  nosotros: hemos cegado
+  vosotros: habéis cegado
+  uds: han cegado
+preterito-pluscuamperfecto:
+  yo: había cegado
+  tu: habías cegado
+  vos: habías cegado
+  ud: había cegado
+  nosotros: habíamos cegado
+  vosotros: habíais cegado
+  uds: habían cegado
+futuro-perfecto:
+  yo: habré cegado
+  tu: habrás cegado
+  vos: habrás cegado
+  ud: habrá cegado
+  nosotros: habremos cegado
+  vosotros: habréis cegado
+  uds: habrán cegado
+condicional-perfecto:
+  yo: habría cegado
+  tu: habrías cegado
+  vos: habrías cegado
+  ud: habría cegado
+  nosotros: habríamos cegado
+  vosotros: habríais cegado
+  uds: habrían cegado
+presente-subjuntivo:
+  yo: ciegue
+  tu: ciegues
+  vos: ciegues
+  ud: ciegue
+  nosotros: ceguemos
+  vosotros: ceguéis
+  uds: cieguen
+preterito-perfecto-subjuntivo:
+  yo: haya cegado
+  tu: hayas cegado
+  vos: hayas cegado
+  ud: haya cegado
+  nosotros: hayamos cegado
+  vosotros: hayáis cegado
+  uds: hayan cegado
+imperfecto-subjuntivo:
+  yo:
+    - cegara
+    - cegase
+  tu:
+    - cegaras
+    - cegases
+  vos:
+    - cegaras
+    - cegases
+  ud:
+    - cegara
+    - cegase
+  nosotros:
+    - cegáramos
+    - cegásemos
+  vosotros:
+    - cegarais
+    - cegaseis
+  uds:
+    - cegaran
+    - cegasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cegado
+    - hubiese cegado
+  tu:
+    - hubieras cegado
+    - hubieses cegado
+  vos:
+    - hubieras cegado
+    - hubieses cegado
+  ud:
+    - hubiera cegado
+    - hubiese cegado
+  nosotros:
+    - hubiéramos cegado
+    - hubiésemos cegado
+  vosotros:
+    - hubierais cegado
+    - hubieseis cegado
+  uds:
+    - hubieran cegado
+    - hubiesen cegado
+imperativo:
+  tu: ciega
+  vos: cegá
+  ud: ciegue
+  nosotros: ceguemos
+  vosotros: cegad
+  uds: cieguen

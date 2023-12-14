@@ -1,0 +1,142 @@
+infinitivo: perdonadmir
+gerundio: perdonadmindo
+participio-pasado: perdonadmirado
+presente-indicativo:
+  yo: perdonadmiro
+  tu: perdonadmiras
+  vos: perdonadmiras
+  ud: perdonadmira
+  nosotros: perdonadmirmos
+  vosotros: perdonadmiráis
+  uds: perdonadmiran
+preterito-perfecto-simple:
+  yo: perdonadmí
+  tu: perdonadmiriste
+  vos: perdonadmiriste
+  ud: perdonadmirtió
+  nosotros: perdonadmitimos
+  vosotros: perdonadmiristeis
+  uds: perdonadmirtieron
+preterito-imperfecto:
+  yo: perdonadmiraba
+  tu: perdonadmirabas
+  vos: perdonadmirabas
+  ud: perdonadmiraba
+  nosotros: perdonadmirábamos
+  vosotros: perdonadmirabais
+  uds: perdonadmiraban
+futuro-simple:
+  yo: perdonadmiraré
+  tu: perdonadmirarás
+  vos: perdonadmirarás
+  ud: perdonadmirará
+  nosotros: perdonadmiraremos
+  vosotros: perdonadmiraréis
+  uds: perdonadmirarán
+condicional-simple:
+  yo: perdonadmiraría
+  tu: perdonadmirarías
+  vos: perdonadmirarías
+  ud: perdonadmiraría
+  nosotros: perdonadmiraríamos
+  vosotros: perdonadmiraríais
+  uds: perdonadmirarían
+presente-perfecto:
+  yo: he perdonadmirado
+  tu: has perdonadmirado
+  vos: has perdonadmirado
+  ud: ha perdonadmirado
+  nosotros: hemos perdonadmirado
+  vosotros: habéis perdonadmirado
+  uds: han perdonadmirado
+preterito-pluscuamperfecto:
+  yo: había perdonadmirado
+  tu: habías perdonadmirado
+  vos: habías perdonadmirado
+  ud: había perdonadmirado
+  nosotros: habíamos perdonadmirado
+  vosotros: habíais perdonadmirado
+  uds: habían perdonadmirado
+futuro-perfecto:
+  yo: habré perdonadmirado
+  tu: habrás perdonadmirado
+  vos: habrás perdonadmirado
+  ud: habrá perdonadmirado
+  nosotros: habremos perdonadmirado
+  vosotros: habréis perdonadmirado
+  uds: habrán perdonadmirado
+condicional-perfecto:
+  yo: habría perdonadmirado
+  tu: habrías perdonadmirado
+  vos: habrías perdonadmirado
+  ud: habría perdonadmirado
+  nosotros: habríamos perdonadmirado
+  vosotros: habríais perdonadmirado
+  uds: habrían perdonadmirado
+presente-subjuntivo:
+  yo: perdonadmire
+  tu: perdonadmires
+  vos: perdonadmires
+  ud: perdonadmire
+  nosotros: perdonadmirimos
+  vosotros: perdonadmiréis
+  uds: perdonadmiren
+preterito-perfecto-subjuntivo:
+  yo: haya perdonadmirado
+  tu: hayas perdonadmirado
+  vos: hayas perdonadmirado
+  ud: haya perdonadmirado
+  nosotros: hayamos perdonadmirado
+  vosotros: hayáis perdonadmirado
+  uds: hayan perdonadmirado
+imperfecto-subjuntivo:
+  yo:
+    - perdonadmirara
+    - perdonadmira
+  tu:
+    - perdonadmiraras
+    - perdonadmirases
+  vos:
+    - perdonadmiraras
+    - perdonadmirases
+  ud:
+    - perdonadmirara
+    - perdonadmira
+  nosotros:
+    - perdonadmiráramos
+    - perdonadmirásemos
+  vosotros:
+    - perdonadmirarais
+    - perdonadmiraseis
+  uds:
+    - perdonadmiraran
+    - perdonadmirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera perdonadmirado
+    - hubiese perdonadmirado
+  tu:
+    - hubieras perdonadmirado
+    - hubieses perdonadmirado
+  vos:
+    - hubieras perdonadmirado
+    - hubieses perdonadmirado
+  ud:
+    - hubiera perdonadmirado
+    - hubiese perdonadmirado
+  nosotros:
+    - hubiéramos perdonadmirado
+    - hubiésemos perdonadmirado
+  vosotros:
+    - hubierais perdonadmirado
+    - hubieseis perdonadmirado
+  uds:
+    - hubieran perdonadmirado
+    - hubiesen perdonadmirado
+imperativo:
+  tu: perdonadmí
+  vos: perdoná
+  ud: perdonadmire
+  nosotros: perdonadmiramos
+  vosotros: perdonadmirad
+  uds: perdonadmiren

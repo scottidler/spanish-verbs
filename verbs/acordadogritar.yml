@@ -1,0 +1,142 @@
+infinitivo: acordadogritar
+gerundio: acordadogritando
+participio-pasado: acordadogritado
+presente-indicativo:
+  yo: acordadogrito
+  tu: acordadogritas
+  vos: acordadogritas
+  ud: acordadogrita
+  nosotros: acordadogritamos
+  vosotros: acordadogritáis
+  uds: acordadogritan
+preterito-perfecto-simple:
+  yo: acordadogrité
+  tu: acordadogritaste
+  vos: acordadogritaste
+  ud: acordadogritó
+  nosotros: acordadogritamos
+  vosotros: acordadogritasteis
+  uds: acordadogritaron
+preterito-imperfecto:
+  yo: acordadogritaba
+  tu: acordadogritabas
+  vos: acordadogritabas
+  ud: acordadogritaba
+  nosotros: acordadogritábamos
+  vosotros: acordadogritabais
+  uds: acordadogritaban
+futuro-simple:
+  yo: acordadogritaré
+  tu: acordadogritarás
+  vos: acordadogritarás
+  ud: acordadogritará
+  nosotros: acordadogritaremos
+  vosotros: acordadogritaréis
+  uds: acordadogritarán
+condicional-simple:
+  yo: acordadogritaría
+  tu: acordadogritarías
+  vos: acordadogritarías
+  ud: acordadogritaría
+  nosotros: acordadogritaríamos
+  vosotros: acordadogritaríais
+  uds: acordadogritarían
+presente-perfecto:
+  yo: he acordadogritado
+  tu: has acordadogritado
+  vos: has acordadogritado
+  ud: ha acordadogritado
+  nosotros: hemos acordadogritado
+  vosotros: habéis acordadogritado
+  uds: han acordadogritado
+preterito-pluscuamperfecto:
+  yo: había acordadogritado
+  tu: habías acordadogritado
+  vos: habías acordadogritado
+  ud: había acordadogritado
+  nosotros: habíamos acordadogritado
+  vosotros: habíais acordadogritado
+  uds: habían acordadogritado
+futuro-perfecto:
+  yo: habré acordadogritado
+  tu: habrás acordadogritado
+  vos: habrás acordadogritado
+  ud: habrá acordadogritado
+  nosotros: habremos acordadogritado
+  vosotros: habréis acordadogritado
+  uds: habrán acordadogritado
+condicional-perfecto:
+  yo: habría acordadogritado
+  tu: habrías acordadogritado
+  vos: habrías acordadogritado
+  ud: habría acordadogritado
+  nosotros: habríamos acordadogritado
+  vosotros: habríais acordadogritado
+  uds: habrían acordadogritado
+presente-subjuntivo:
+  yo: acordadogrite
+  tu: acordadogrites
+  vos: acordadogrites
+  ud: acordadogrite
+  nosotros: acordadogritemos
+  vosotros: acordadogritéis
+  uds: acordadogriten
+preterito-perfecto-subjuntivo:
+  yo: haya acordadogritado
+  tu: hayas acordadogritado
+  vos: hayas acordadogritado
+  ud: haya acordadogritado
+  nosotros: hayamos acordadogritado
+  vosotros: hayáis acordadogritado
+  uds: hayan acordadogritado
+imperfecto-subjuntivo:
+  yo:
+    - acordadogritara
+    - acordadogritase
+  tu:
+    - acordadogritaras
+    - acordadogritases
+  vos:
+    - acordadogritaras
+    - acordadogritases
+  ud:
+    - acordadogritara
+    - acordadogritase
+  nosotros:
+    - acordadogritáramos
+    - acordadogritásemos
+  vosotros:
+    - acordadogritarais
+    - acordadogritaseis
+  uds:
+    - acordadogritaran
+    - acordadogritasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acordadogritado
+    - hubiese acordadogritado
+  tu:
+    - hubieras acordadogritado
+    - hubieses acordadogritado
+  vos:
+    - hubieras acordadogritado
+    - hubieses acordadogritado
+  ud:
+    - hubiera acordadogritado
+    - hubiese acordadogritado
+  nosotros:
+    - hubiéramos acordadogritado
+    - hubiésemos acordadogritado
+  vosotros:
+    - hubierais acordadogritado
+    - hubieseis acordadogritado
+  uds:
+    - hubieran acordadogritado
+    - hubiesen acordadogritado
+imperativo:
+  tu: acordadogrita
+  vos: acordadogritá
+  ud: acordadogrite
+  nosotros: acordadogritemos
+  vosotros: acordadogritad
+  uds: acordadogriten

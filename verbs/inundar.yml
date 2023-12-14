@@ -1,0 +1,142 @@
+infinitivo: inundar
+gerundio: inundando
+participio-pasado: inundado
+presente-indicativo:
+  yo: inundo
+  tu: inundas
+  vos: inundas
+  ud: inunda
+  nosotros: inundamos
+  vosotros: inundáis
+  uds: inundan
+preterito-perfecto-simple:
+  yo: inundé
+  tu: inundaste
+  vos: inundaste
+  ud: inundó
+  nosotros: inundamos
+  vosotros: inundasteis
+  uds: inundaron
+preterito-imperfecto:
+  yo: inundaba
+  tu: inundabas
+  vos: inundabas
+  ud: inundaba
+  nosotros: inundábamos
+  vosotros: inundabais
+  uds: inundaban
+futuro-simple:
+  yo: inundaré
+  tu: inundarás
+  vos: inundarás
+  ud: inundará
+  nosotros: inundaremos
+  vosotros: inundaréis
+  uds: inundarán
+condicional-simple:
+  yo: inundaría
+  tu: inundarías
+  vos: inundarías
+  ud: inundaría
+  nosotros: inundaríamos
+  vosotros: inundaríais
+  uds: inundarían
+presente-perfecto:
+  yo: he inundado
+  tu: has inundado
+  vos: has inundado
+  ud: ha inundado
+  nosotros: hemos inundado
+  vosotros: habéis inundado
+  uds: han inundado
+preterito-pluscuamperfecto:
+  yo: había inundado
+  tu: habías inundado
+  vos: habías inundado
+  ud: había inundado
+  nosotros: habíamos inundado
+  vosotros: habíais inundado
+  uds: habían inundado
+futuro-perfecto:
+  yo: habré inundado
+  tu: habrás inundado
+  vos: habrás inundado
+  ud: habrá inundado
+  nosotros: habremos inundado
+  vosotros: habréis inundado
+  uds: habrán inundado
+condicional-perfecto:
+  yo: habría inundado
+  tu: habrías inundado
+  vos: habrías inundado
+  ud: habría inundado
+  nosotros: habríamos inundado
+  vosotros: habríais inundado
+  uds: habrían inundado
+presente-subjuntivo:
+  yo: inunde
+  tu: inundes
+  vos: inundes
+  ud: inunde
+  nosotros: inundemos
+  vosotros: inundéis
+  uds: inunden
+preterito-perfecto-subjuntivo:
+  yo: haya inundado
+  tu: hayas inundado
+  vos: hayas inundado
+  ud: haya inundado
+  nosotros: hayamos inundado
+  vosotros: hayáis inundado
+  uds: hayan inundado
+imperfecto-subjuntivo:
+  yo:
+    - inundara
+    - inundase
+  tu:
+    - inundaras
+    - inundases
+  vos:
+    - inundaras
+    - inundases
+  ud:
+    - inundara
+    - inundase
+  nosotros:
+    - inundáramos
+    - inundásemos
+  vosotros:
+    - inundarais
+    - inundaseis
+  uds:
+    - inundaran
+    - inundasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera inundado
+    - hubiese inundado
+  tu:
+    - hubieras inundado
+    - hubieses inundado
+  vos:
+    - hubieras inundado
+    - hubieses inundado
+  ud:
+    - hubiera inundado
+    - hubiese inundado
+  nosotros:
+    - hubiéramos inundado
+    - hubiésemos inundado
+  vosotros:
+    - hubierais inundado
+    - hubieseis inundado
+  uds:
+    - hubieran inundado
+    - hubiesen inundado
+imperativo:
+  tu: inunda
+  vos: inundá
+  ud: inunde
+  nosotros: inundemos
+  vosotros: inundad
+  uds: inunden

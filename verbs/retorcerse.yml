@@ -1,0 +1,156 @@
+infinitivo: retorcerse
+gerundio: retorciéndose
+participio-pasado: retorcido
+
+presente-indicativo:
+  yo: me retuerso
+  tu: te retuerses
+  vos: te retorcés
+  ud: se retuerce
+  nosotros: nos retorcemos
+  vosotros: os retorcéis
+  uds: se retuercen
+
+preterito-perfecto-simple:
+  yo: me retorsí
+  tu: te retorsiste
+  vos: te retorciste
+  ud: se retorció
+  nosotros: nos retorcimos
+  vosotros: os retorcisteis
+  uds: se retorcieron
+
+preterito-imperfecto:
+  yo: me retorcía
+  tu: te retorcías
+  vos: te retorcías
+  ud: se retorcía
+  nosotros: nos retorcíamos
+  vosotros: os retorcíais
+  uds: se retorcían
+
+futuro-simple:
+  yo: me retorceré
+  tu: te retorcerás
+  vos: te retorcerás
+  ud: se retorcerá
+  nosotros: nos retorceremos
+  vosotros: os retorceréis
+  uds: se retorcerán
+
+condicional-simple:
+  yo: me retorcería
+  tu: te retorcerías
+  vos: te retorcerías
+  ud: se retorcería
+  nosotros: nos retorceríamos
+  vosotros: os retorceríais
+  uds: se retorcerían
+
+presente-perfecto:
+  yo: me he retorcido
+  tu: te has retorcido
+  vos: te has retorcido
+  ud: se ha retorcido
+  nosotros: nos hemos retorcido
+  vosotros: os habéis retorcido
+  uds: se han retorcido
+
+preterito-pluscuamperfecto:
+  yo: me había retorcido
+  tu: te habías retorcido
+  vos: te habías retorcido
+  ud: se había retorcido
+  nosotros: nos habíamos retorcido
+  vosotros: os habíais retorcido
+  uds: se habían retorcido
+
+futuro-perfecto:
+  yo: me habré retorcido
+  tu: te habrás retorcido
+  vos: te habrás retorcido
+  ud: se habrá retorcido
+  nosotros: nos habremos retorcido
+  vosotros: os habréis retorcido
+  uds: se habrán retorcido
+
+condicional-perfecto:
+  yo: me habría retorcido
+  tu: te habrías retorcido
+  vos: te habrías retorcido
+  ud: se habría retorcido
+  nosotros: nos habríamos retorcido
+  vosotros: os habríais retorcido
+  uds: se habrían retorcido
+
+presente-subjuntivo:
+  yo: me retuerza
+  tu: te retuerzas
+  vos: te retuerzas
+  ud: se retuerza
+  nosotros: nos retorzamos
+  vosotros: os retorcáis
+  uds: se retuerzan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya retorcido
+  tu: te hayas retorcido
+  vos: te hayas retorcido
+  ud: se haya retorcido
+  nosotros: nos hayamos retorcido
+  vosotros: os hayáis retorcido
+  uds: se hayan retorcido
+
+imperfecto-subjuntivo:
+  yo:
+    - me retorciera
+    - me retorciese
+  tu:
+    - te retorcieras
+    - te retorcieses
+  vos:
+    - te retorcieras
+    - te retorcieses
+  ud:
+    - se retorciera
+    - se retorciese
+  nosotros:
+    - nos retorciéramos
+    - nos retorciésemos
+  vosotros:
+    - os retorcierais
+    - os retorcieseis
+  uds:
+    - se retorcieran
+    - se retorciesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera retorcido
+    - me hubiese retorcido
+  tu:
+    - te hubieras retorcido
+    - te hubieses retorcido
+  vos:
+    - te hubieras retorcido
+    - te hubieses retorcido
+  ud:
+    - se hubiera retorcido
+    - se hubiese retorcido
+  nosotros:
+    - nos hubiéramos retorcido
+    - nos hubiésemos retorcido
+  vosotros:
+    - os hubierais retorcido
+    - os hubieseis retorcido
+  uds:
+    - se hubieran retorcido
+    - se hubiesen retorcido
+
+imperativo:
+  tu: retuércete
+  vos: retorcéte
+  ud: retuérzase
+  nosotros: retorcámonos
+  vosotros: retorced
+  uds: retuércense

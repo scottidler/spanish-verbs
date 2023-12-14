@@ -1,0 +1,142 @@
+infinitivo: ridiculizar
+gerundio: ridiculizando
+participio-pasado: ridiculizado
+presente-indicativo:
+  yo: ridiculizo
+  tu: ridiculizas
+  vos: ridiculizas
+  ud: ridiculiza
+  nosotros: ridiculizamos
+  vosotros: ridiculizáis
+  uds: ridiculizan
+preterito-perfecto-simple:
+  yo: ridiculicé
+  tu: ridiculizaste
+  vos: ridiculizaste
+  ud: ridiculizó
+  nosotros: ridiculizamos
+  vosotros: ridiculizasteis
+  uds: ridiculizaron
+preterito-imperfecto:
+  yo: ridiculizaba
+  tu: ridiculizabas
+  vos: ridiculizabas
+  ud: ridiculizaba
+  nosotros: ridiculizábamos
+  vosotros: ridiculizabais
+  uds: ridiculizaban
+futuro-simple:
+  yo: ridiculizaré
+  tu: ridiculizarás
+  vos: ridiculizarás
+  ud: ridiculizará
+  nosotros: ridiculizaremos
+  vosotros: ridiculizaréis
+  uds: ridiculizarán
+condicional-simple:
+  yo: ridiculizaría
+  tu: ridiculizarías
+  vos: ridiculizarías
+  ud: ridiculizaría
+  nosotros: ridiculizaríamos
+  vosotros: ridiculizaríais
+  uds: ridiculizarían
+presente-perfecto:
+  yo: he ridiculizado
+  tu: has ridiculizado
+  vos: has ridiculizado
+  ud: ha ridiculizado
+  nosotros: hemos ridiculizado
+  vosotros: habéis ridiculizado
+  uds: han ridiculizado
+preterito-pluscuamperfecto:
+  yo: había ridiculizado
+  tu: habías ridiculizado
+  vos: habías ridiculizado
+  ud: había ridiculizado
+  nosotros: habíamos ridiculizado
+  vosotros: habíais ridiculizado
+  uds: habían ridiculizado
+futuro-perfecto:
+  yo: habré ridiculizado
+  tu: habrás ridiculizado
+  vos: habrás ridiculizado
+  ud: habrá ridiculizado
+  nosotros: habremos ridiculizado
+  vosotros: habréis ridiculizado
+  uds: habrán ridiculizado
+condicional-perfecto:
+  yo: habría ridiculizado
+  tu: habrías ridiculizado
+  vos: habrías ridiculizado
+  ud: habría ridiculizado
+  nosotros: habríamos ridiculizado
+  vosotros: habríais ridiculizado
+  uds: habrían ridiculizado
+presente-subjuntivo:
+  yo: ridiculice
+  tu: ridiculices
+  vos: ridiculices
+  ud: ridiculice
+  nosotros: ridiculicemos
+  vosotros: ridiculicéis
+  uds: ridiculicen
+preterito-perfecto-subjuntivo:
+  yo: haya ridiculizado
+  tu: hayas ridiculizado
+  vos: hayas ridiculizado
+  ud: haya ridiculizado
+  nosotros: hayamos ridiculizado
+  vosotros: hayáis ridiculizado
+  uds: hayan ridiculizado
+imperfecto-subjuntivo:
+  yo:
+    - ridiculizara
+    - ridiculizase
+  tu:
+    - ridiculizaras
+    - ridiculizases
+  vos:
+    - ridiculizaras
+    - ridiculizases
+  ud:
+    - ridiculizara
+    - ridiculizase
+  nosotros:
+    - ridiculizáramos
+    - ridiculizásemos
+  vosotros:
+    - ridiculizarais
+    - ridiculizaseis
+  uds:
+    - ridiculizaran
+    - ridiculizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ridiculizado
+    - hubiese ridiculizado
+  tu:
+    - hubieras ridiculizado
+    - hubieses ridiculizado
+  vos:
+    - hubieras ridiculizado
+    - hubieses ridiculizado
+  ud:
+    - hubiera ridiculizado
+    - hubiese ridiculizado
+  nosotros:
+    - hubiéramos ridiculizado
+    - hubiésemos ridiculizado
+  vosotros:
+    - hubierais ridiculizado
+    - hubieseis ridiculizado
+  uds:
+    - hubieran ridiculizado
+    - hubiesen ridiculizado
+imperativo:
+  tu: ridiculiza
+  vos: ridiculizá
+  ud: ridiculice
+  nosotros: ridiculicemos
+  vosotros: ridiculizad
+  uds: ridiculicen

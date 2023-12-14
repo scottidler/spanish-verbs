@@ -1,0 +1,142 @@
+infinitivo: enfocar
+gerundio: enfocando
+participio-pasado: enfocado
+presente-indicativo:
+  yo: enfoco
+  tu: enfocas
+  vos: enfocas
+  ud: enfoca
+  nosotros: enfocamos
+  vosotros: enfocáis
+  uds: enfocan
+preterito-perfecto-simple:
+  yo: enfoqué
+  tu: enfoquaste
+  vos: enfoquaste
+  ud: enfocó
+  nosotros: enfocamos
+  vosotros: enfoquasteis
+  uds: enfocaron
+preterito-imperfecto:
+  yo: enfocaba
+  tu: enfocabas
+  vos: enfocabas
+  ud: enfocaba
+  nosotros: enfocábamos
+  vosotros: enfocabais
+  uds: enfocaban
+futuro-simple:
+  yo: enfocaré
+  tu: enfocarás
+  vos: enfocarás
+  ud: enfocará
+  nosotros: enfocaremos
+  vosotros: enfocaréis
+  uds: enfocarán
+condicional-simple:
+  yo: enfocaría
+  tu: enfocarías
+  vos: enfocarías
+  ud: enfocaría
+  nosotros: enfocaríamos
+  vosotros: enfocaríais
+  uds: enfocarían
+presente-perfecto:
+  yo: he enfocado
+  tu: has enfocado
+  vos: has enfocado
+  ud: ha enfocado
+  nosotros: hemos enfocado
+  vosotros: habéis enfocado
+  uds: han enfocado
+preterito-pluscuamperfecto:
+  yo: había enfocado
+  tu: habías enfocado
+  vos: habías enfocado
+  ud: había enfocado
+  nosotros: habíamos enfocado
+  vosotros: habíais enfocado
+  uds: habían enfocado
+futuro-perfecto:
+  yo: habré enfocado
+  tu: habrás enfocado
+  vos: habrás enfocado
+  ud: habrá enfocado
+  nosotros: habremos enfocado
+  vosotros: habréis enfocado
+  uds: habrán enfocado
+condicional-perfecto:
+  yo: habría enfocado
+  tu: habrías enfocado
+  vos: habrías enfocado
+  ud: habría enfocado
+  nosotros: habríamos enfocado
+  vosotros: habríais enfocado
+  uds: habrían enfocado
+presente-subjuntivo:
+  yo: enfoque
+  tu: enfoques
+  vos: enfoques
+  ud: enfoque
+  nosotros: enfoquemos
+  vosotros: enfocéis
+  uds: enfoquen
+preterito-perfecto-subjuntivo:
+  yo: haya enfocado
+  tu: hayas enfocado
+  vos: hayas enfocado
+  ud: haya enfocado
+  nosotros: hayamos enfocado
+  vosotros: hayáis enfocado
+  uds: hayan enfocado
+imperfecto-subjuntivo:
+  yo:
+    - enfocara
+    - enfocase
+  tu:
+    - enfocaras
+    - enfocases
+  vos:
+    - enfocaras
+    - enfocases
+  ud:
+    - enfocara
+    - enfocase
+  nosotros:
+    - enfocáramos
+    - enfocásemos
+  vosotros:
+    - enfocarais
+    - enfocaseis
+  uds:
+    - enfocaran
+    - enfocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enfocado
+    - hubiese enfocado
+  tu:
+    - hubieras enfocado
+    - hubieses enfocado
+  vos:
+    - hubieras enfocado
+    - hubieses enfocado
+  ud:
+    - hubiera enfocado
+    - hubiese enfocado
+  nosotros:
+    - hubiéramos enfocado
+    - hubiésemos enfocado
+  vosotros:
+    - hubierais enfocado
+    - hubieseis enfocado
+  uds:
+    - hubieran enfocado
+    - hubiesen enfocado
+imperativo:
+  tu: enfoca
+  vos: enfocá
+  ud: enfoque
+  nosotros: enfoquemos
+  vosotros: enfocad
+  uds: enfoquen

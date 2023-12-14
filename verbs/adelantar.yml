@@ -1,0 +1,142 @@
+infinitivo: adelantar
+gerundio: adelantando
+participio-pasado: adelantado
+presente-indicativo:
+  yo: adelanto
+  tu: adelantas
+  vos: adelantas
+  ud: adelanta
+  nosotros: adelantamos
+  vosotros: adelantáis
+  uds: adelantan
+preterito-perfecto-simple:
+  yo: adelanté
+  tu: adelantaste
+  vos: adelantaste
+  ud: adelantó
+  nosotros: adelantamos
+  vosotros: adelantasteis
+  uds: adelantaron
+preterito-imperfecto:
+  yo: adelantaba
+  tu: adelantabas
+  vos: adelantabas
+  ud: adelantaba
+  nosotros: adelantábamos
+  vosotros: adelantabais
+  uds: adelantaban
+futuro-simple:
+  yo: adelantaré
+  tu: adelantarás
+  vos: adelantarás
+  ud: adelantará
+  nosotros: adelantaremos
+  vosotros: adelantaréis
+  uds: adelantarán
+condicional-simple:
+  yo: adelantaría
+  tu: adelantarías
+  vos: adelantarías
+  ud: adelantaría
+  nosotros: adelantaríamos
+  vosotros: adelantaríais
+  uds: adelantarían
+presente-perfecto:
+  yo: he adelantado
+  tu: has adelantado
+  vos: has adelantado
+  ud: ha adelantado
+  nosotros: hemos adelantado
+  vosotros: habéis adelantado
+  uds: han adelantado
+preterito-pluscuamperfecto:
+  yo: había adelantado
+  tu: habías adelantado
+  vos: habías adelantado
+  ud: había adelantado
+  nosotros: habíamos adelantado
+  vosotros: habíais adelantado
+  uds: habían adelantado
+futuro-perfecto:
+  yo: habré adelantado
+  tu: habrás adelantado
+  vos: habrás adelantado
+  ud: habrá adelantado
+  nosotros: habremos adelantado
+  vosotros: habréis adelantado
+  uds: habrán adelantado
+condicional-perfecto:
+  yo: habría adelantado
+  tu: habrías adelantado
+  vos: habrías adelantado
+  ud: habría adelantado
+  nosotros: habríamos adelantado
+  vosotros: habríais adelantado
+  uds: habrían adelantado
+presente-subjuntivo:
+  yo: adelante
+  tu: adelantes
+  vos: adelantes
+  ud: adelante
+  nosotros: adelantemos
+  vosotros: adelantéis
+  uds: adelanten
+preterito-perfecto-subjuntivo:
+  yo: haya adelantado
+  tu: hayas adelantado
+  vos: hayas adelantado
+  ud: haya adelantado
+  nosotros: hayamos adelantado
+  vosotros: hayáis adelantado
+  uds: hayan adelantado
+imperfecto-subjuntivo:
+  yo:
+    - adelantara
+    - adelantase
+  tu:
+    - adelantaras
+    - adelantases
+  vos:
+    - adelantaras
+    - adelantases
+  ud:
+    - adelantara
+    - adelantase
+  nosotros:
+    - adelantáramos
+    - adelantásemos
+  vosotros:
+    - adelantarais
+    - adelantaseis
+  uds:
+    - adelantaran
+    - adelantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera adelantado
+    - hubiese adelantado
+  tu:
+    - hubieras adelantado
+    - hubieses adelantado
+  vos:
+    - hubieras adelantado
+    - hubieses adelantado
+  ud:
+    - hubiera adelantado
+    - hubiese adelantado
+  nosotros:
+    - hubiéramos adelantado
+    - hubiésemos adelantado
+  vosotros:
+    - hubierais adelantado
+    - hubieseis adelantado
+  uds:
+    - hubieran adelantado
+    - hubiesen adelantado
+imperativo:
+  tu: adelanta
+  vos: adelantá
+  ud: adelante
+  nosotros: adelantemos
+  vosotros: adelantad
+  uds: adelanten

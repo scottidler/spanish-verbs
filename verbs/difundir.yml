@@ -1,0 +1,142 @@
+infinitivo: difundir
+gerundio: difundiendo
+participio-pasado: difundido
+presente-indicativo:
+  yo: difundo
+  tu: difundes
+  vos: difundís
+  ud: difunde
+  nosotros: difundimos
+  vosotros: difundís
+  uds: difunden
+preterito-perfecto-simple:
+  yo: difundí
+  tu: difundiste
+  vos: difundiste
+  ud: difundió
+  nosotros: difundimos
+  vosotros: difundisteis
+  uds: difundieron
+preterito-imperfecto:
+  yo: difundía
+  tu: difundías
+  vos: difundías
+  ud: difundía
+  nosotros: difundíamos
+  vosotros: difundíais
+  uds: difundían
+futuro-simple:
+  yo: difundiré
+  tu: difundirás
+  vos: difundirás
+  ud: difundirá
+  nosotros: difundiremos
+  vosotros: difundiréis
+  uds: difundirán
+condicional-simple:
+  yo: difundiría
+  tu: difundirías
+  vos: difundirías
+  ud: difundiría
+  nosotros: difundiríamos
+  vosotros: difundiríais
+  uds: difundirían
+presente-perfecto:
+  yo: he difundido
+  tu: has difundido
+  vos: has difundido
+  ud: ha difundido
+  nosotros: hemos difundido
+  vosotros: habéis difundido
+  uds: han difundido
+preterito-pluscuamperfecto:
+  yo: había difundido
+  tu: habías difundido
+  vos: habías difundido
+  ud: había difundido
+  nosotros: habíamos difundido
+  vosotros: habíais difundido
+  uds: habían difundido
+futuro-perfecto:
+  yo: habré difundido
+  tu: habrás difundido
+  vos: habrás difundido
+  ud: habrá difundido
+  nosotros: habremos difundido
+  vosotros: habréis difundido
+  uds: habrán difundido
+condicional-perfecto:
+  yo: habría difundido
+  tu: habrías difundido
+  vos: habrías difundido
+  ud: habría difundido
+  nosotros: habríamos difundido
+  vosotros: habríais difundido
+  uds: habrían difundido
+presente-subjuntivo:
+  yo: difunda
+  tu: difundas
+  vos: difundas
+  ud: difunda
+  nosotros: difundamos
+  vosotros: difundáis
+  uds: difundan
+preterito-perfecto-subjuntivo:
+  yo: haya difundido
+  tu: hayas difundido
+  vos: hayas difundido
+  ud: haya difundido
+  nosotros: hayamos difundido
+  vosotros: hayáis difundido
+  uds: hayan difundido
+imperfecto-subjuntivo:
+  yo:
+    - difundiera
+    - difundiese
+  tu:
+    - difundieras
+    - difundieses
+  vos:
+    - difundieras
+    - difundieses
+  ud:
+    - difundiera
+    - difundiese
+  nosotros:
+    - difundiéramos
+    - difundiésemos
+  vosotros:
+    - difundierais
+    - difundieseis
+  uds:
+    - difundieran
+    - difundiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera difundido
+    - hubiese difundido
+  tu:
+    - hubieras difundido
+    - hubieses difundido
+  vos:
+    - hubieras difundido
+    - hubieses difundido
+  ud:
+    - hubiera difundido
+    - hubiese difundido
+  nosotros:
+    - hubiéramos difundido
+    - hubiésemos difundido
+  vosotros:
+    - hubierais difundido
+    - hubieseis difundido
+  uds:
+    - hubieran difundido
+    - hubiesen difundido
+imperativo:
+  tu: difunde
+  vos: difundí
+  ud: difunda
+  nosotros: difundamos
+  vosotros: difundid
+  uds: difundan

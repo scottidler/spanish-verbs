@@ -1,0 +1,142 @@
+infinitivo: instar
+gerundio: instando
+participio-pasado: instado
+presente-indicativo:
+  yo: insto
+  tu: instas
+  vos: instas
+  ud: insta
+  nosotros: instamos
+  vosotros: instáis
+  uds: instan
+preterito-perfecto-simple:
+  yo: insté
+  tu: instaste
+  vos: instaste
+  ud: instó
+  nosotros: instamos
+  vosotros: instasteis
+  uds: instaron
+preterito-imperfecto:
+  yo: instaba
+  tu: instabas
+  vos: instabas
+  ud: instaba
+  nosotros: instábamos
+  vosotros: instabais
+  uds: instaban
+futuro-simple:
+  yo: instaré
+  tu: instarás
+  vos: instarás
+  ud: instará
+  nosotros: instaremos
+  vosotros: instaréis
+  uds: instarán
+condicional-simple:
+  yo: instaría
+  tu: instarías
+  vos: instarías
+  ud: instaría
+  nosotros: instaríamos
+  vosotros: instaríais
+  uds: instarían
+presente-perfecto:
+  yo: he instado
+  tu: has instado
+  vos: has instado
+  ud: ha instado
+  nosotros: hemos instado
+  vosotros: habéis instado
+  uds: han instado
+preterito-pluscuamperfecto:
+  yo: había instado
+  tu: habías instado
+  vos: habías instado
+  ud: había instado
+  nosotros: habíamos instado
+  vosotros: habíais instado
+  uds: habían instado
+futuro-perfecto:
+  yo: habré instado
+  tu: habrás instado
+  vos: habrás instado
+  ud: habrá instado
+  nosotros: habremos instado
+  vosotros: habréis instado
+  uds: habrán instado
+condicional-perfecto:
+  yo: habría instado
+  tu: habrías instado
+  vos: habrías instado
+  ud: habría instado
+  nosotros: habríamos instado
+  vosotros: habríais instado
+  uds: habrían instado
+presente-subjuntivo:
+  yo: inste
+  tu: instes
+  vos: instes
+  ud: inste
+  nosotros: instemos
+  vosotros: instéis
+  uds: insten
+preterito-perfecto-subjuntivo:
+  yo: haya instado
+  tu: hayas instado
+  vos: hayas instado
+  ud: haya instado
+  nosotros: hayamos instado
+  vosotros: hayáis instado
+  uds: hayan instado
+imperfecto-subjuntivo:
+  yo:
+    - instara
+    - instase
+  tu:
+    - instaras
+    - instases
+  vos:
+    - instaras
+    - instases
+  ud:
+    - instara
+    - instase
+  nosotros:
+    - instáramos
+    - instásemos
+  vosotros:
+    - instarais
+    - instaseis
+  uds:
+    - instaran
+    - instasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera instado
+    - hubiese instado
+  tu:
+    - hubieras instado
+    - hubieses instado
+  vos:
+    - hubieras instado
+    - hubieses instado
+  ud:
+    - hubiera instado
+    - hubiese instado
+  nosotros:
+    - hubiéramos instado
+    - hubiésemos instado
+  vosotros:
+    - hubierais instado
+    - hubieseis instado
+  uds:
+    - hubieran instado
+    - hubiesen instado
+imperativo:
+  tu: insta
+  vos: instá
+  ud: inste
+  nosotros: instemos
+  vosotros: instad
+  uds: insten

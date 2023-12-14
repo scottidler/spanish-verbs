@@ -1,0 +1,142 @@
+infinitivo: descartar
+gerundio: descartando
+participio-pasado: descartado
+presente-indicativo:
+  yo: descarto
+  tu: descartas
+  vos: descartas
+  ud: descarta
+  nosotros: descartamos
+  vosotros: descartáis
+  uds: descartan
+preterito-perfecto-simple:
+  yo: descarté
+  tu: descartaste
+  vos: descartaste
+  ud: descartó
+  nosotros: descartamos
+  vosotros: descartasteis
+  uds: descartaron
+preterito-imperfecto:
+  yo: descartaba
+  tu: descartabas
+  vos: descartabas
+  ud: descartaba
+  nosotros: descartábamos
+  vosotros: descartabais
+  uds: descartaban
+futuro-simple:
+  yo: descartaré
+  tu: descartarás
+  vos: descartarás
+  ud: descartará
+  nosotros: descartaremos
+  vosotros: descartaréis
+  uds: descartarán
+condicional-simple:
+  yo: descartaría
+  tu: descartarías
+  vos: descartarías
+  ud: descartaría
+  nosotros: descartaríamos
+  vosotros: descartaríais
+  uds: descartarían
+presente-perfecto:
+  yo: he descartado
+  tu: has descartado
+  vos: has descartado
+  ud: ha descartado
+  nosotros: hemos descartado
+  vosotros: habéis descartado
+  uds: han descartado
+preterito-pluscuamperfecto:
+  yo: había descartado
+  tu: habías descartado
+  vos: habías descartado
+  ud: había descartado
+  nosotros: habíamos descartado
+  vosotros: habíais descartado
+  uds: habían descartado
+futuro-perfecto:
+  yo: habré descartado
+  tu: habrás descartado
+  vos: habrás descartado
+  ud: habrá descartado
+  nosotros: habremos descartado
+  vosotros: habréis descartado
+  uds: habrán descartado
+condicional-perfecto:
+  yo: habría descartado
+  tu: habrías descartado
+  vos: habrías descartado
+  ud: habría descartado
+  nosotros: habríamos descartado
+  vosotros: habríais descartado
+  uds: habrían descartado
+presente-subjuntivo:
+  yo: descarte
+  tu: descartes
+  vos: descartes
+  ud: descarte
+  nosotros: descartemos
+  vosotros: descartéis
+  uds: descarten
+preterito-perfecto-subjuntivo:
+  yo: haya descartado
+  tu: hayas descartado
+  vos: hayas descartado
+  ud: haya descartado
+  nosotros: hayamos descartado
+  vosotros: hayáis descartado
+  uds: hayan descartado
+imperfecto-subjuntivo:
+  yo:
+    - descartara
+    - descartase
+  tu:
+    - descartaras
+    - descartases
+  vos:
+    - descartaras
+    - descartases
+  ud:
+    - descartara
+    - descartase
+  nosotros:
+    - descartáramos
+    - descartásemos
+  vosotros:
+    - descartarais
+    - descartaseis
+  uds:
+    - descartaran
+    - descartasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera descartado
+    - hubiese descartado
+  tu:
+    - hubieras descartado
+    - hubieses descartado
+  vos:
+    - hubieras descartado
+    - hubieses descartado
+  ud:
+    - hubiera descartado
+    - hubiese descartado
+  nosotros:
+    - hubiéramos descartado
+    - hubiésemos descartado
+  vosotros:
+    - hubierais descartado
+    - hubieseis descartado
+  uds:
+    - hubieran descartado
+    - hubiesen descartado
+imperativo:
+  tu: descarta
+  vos: descartá
+  ud: descarte
+  nosotros: descartemos
+  vosotros: descartad
+  uds: descarten

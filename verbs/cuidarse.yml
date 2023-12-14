@@ -1,0 +1,156 @@
+infinitivo: cuidarse
+gerundio: cuidándose
+participio-pasado: cuidado
+
+presente-indicativo:
+  yo: me cuido
+  tu: te cuidas
+  vos: te cuidas
+  ud: se cuida
+  nosotros: nos cuidamos
+  vosotros: os cuidáis
+  uds: se cuidan
+
+preterito-perfecto-simple:
+  yo: me cuidé
+  tu: te cuidaste
+  vos: te cuidaste
+  ud: se cuidó
+  nosotros: nos cuidamos
+  vosotros: os cuidasteis
+  uds: se cuidaron
+
+preterito-imperfecto:
+  yo: me cuidaba
+  tu: te cuidabas
+  vos: te cuidabas
+  ud: se cuidaba
+  nosotros: nos cuidábamos
+  vosotros: os cuidabais
+  uds: se cuidaban
+
+futuro-simple:
+  yo: me cuidaré
+  tu: te cuidarás
+  vos: te cuidarás
+  ud: se cuidará
+  nosotros: nos cuidaremos
+  vosotros: os cuidaréis
+  uds: se cuidarán
+
+condicional-simple:
+  yo: me cuidaría
+  tu: te cuidarías
+  vos: te cuidarías
+  ud: se cuidaría
+  nosotros: nos cuidaríamos
+  vosotros: os cuidaríais
+  uds: se cuidarían
+
+presente-perfecto:
+  yo: me he cuidado
+  tu: te has cuidado
+  vos: te has cuidado
+  ud: se ha cuidado
+  nosotros: nos hemos cuidado
+  vosotros: os habéis cuidado
+  uds: se han cuidado
+
+preterito-pluscuamperfecto:
+  yo: me había cuidado
+  tu: te habías cuidado
+  vos: te habías cuidado
+  ud: se había cuidado
+  nosotros: nos habíamos cuidado
+  vosotros: os habíais cuidado
+  uds: se habían cuidado
+
+futuro-perfecto:
+  yo: me habré cuidado
+  tu: te habrás cuidado
+  vos: te habrás cuidado
+  ud: se habrá cuidado
+  nosotros: nos habremos cuidado
+  vosotros: os habréis cuidado
+  uds: se habrán cuidado
+
+condicional-perfecto:
+  yo: me habría cuidado
+  tu: te habrías cuidado
+  vos: te habrías cuidado
+  ud: se habría cuidado
+  nosotros: nos habríamos cuidado
+  vosotros: os habríais cuidado
+  uds: se habrían cuidado
+
+presente-subjuntivo:
+  yo: me cuide
+  tu: te cuides
+  vos: te cuides
+  ud: se cuide
+  nosotros: nos cuidemos
+  vosotros: os cuidéis
+  uds: se cuiden
+
+preterito-perfecto-subjuntivo:
+  yo: me haya cuidado
+  tu: te hayas cuidado
+  vos: te hayas cuidado
+  ud: se haya cuidado
+  nosotros: nos hayamos cuidado
+  vosotros: os hayáis cuidado
+  uds: se hayan cuidado
+
+imperfecto-subjuntivo:
+  yo:
+    - me cuidara
+    - me cuidase
+  tu:
+    - te cuidaras
+    - te cuidases
+  vos:
+    - te cuidaras
+    - te cuidases
+  ud:
+    - se cuidara
+    - se cuidase
+  nosotros:
+    - nos cuidáramos
+    - nos cuidásemos
+  vosotros:
+    - os cuidarais
+    - os cuidaseis
+  uds:
+    - se cuidaran
+    - se cuidasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera cuidado
+    - me hubiese cuidado
+  tu:
+    - te hubieras cuidado
+    - te hubieses cuidado
+  vos:
+    - te hubieras cuidado
+    - te hubieses cuidado
+  ud:
+    - se hubiera cuidado
+    - se hubiese cuidado
+  nosotros:
+    - nos hubiéramos cuidado
+    - nos hubiésemos cuidado
+  vosotros:
+    - os hubierais cuidado
+    - os hubieseis cuidado
+  uds:
+    - se hubieran cuidado
+    - se hubiesen cuidado
+
+imperativo:
+  tu: cuídate
+  vos: cuídate
+  ud: cuídese
+  nosotros: cuidémonos
+  vosotros: cuidaos
+  uds: cuídense

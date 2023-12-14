@@ -1,0 +1,142 @@
+infinitivo: referirse
+gerundio: refiriéndose
+participio-pasado: referido
+presente-indicativo:
+  yo: me refiero
+  tu: te refieres
+  vos: te refieres
+  ud: se refiere
+  nosotros: nos referimos
+  vosotros: os referís
+  uds: se refieren
+preterito-perfecto-simple:
+  yo: me referí
+  tu: te referiste
+  vos: te referiste
+  ud: se refirió
+  nosotros: nos referimos
+  vosotros: os referisteis
+  uds: se refirieron
+preterito-imperfecto:
+  yo: me refería
+  tu: te referías
+  vos: te referías
+  ud: se refería
+  nosotros: nos referíamos
+  vosotros: os referíais
+  uds: se referían
+futuro-simple:
+  yo: me referiré
+  tu: te referirás
+  vos: te referirás
+  ud: se referirá
+  nosotros: nos referiremos
+  vosotros: os referiréis
+  uds: se referirán
+condicional-simple:
+  yo: me referiría
+  tu: te referirías
+  vos: te referirías
+  ud: se referiría
+  nosotros: nos referiríamos
+  vosotros: os referiríais
+  uds: se referirían
+presente-perfecto:
+  yo: me he referido
+  tu: te has referido
+  vos: te has referido
+  ud: se ha referido
+  nosotros: nos hemos referido
+  vosotros: os habéis referido
+  uds: se han referido
+preterito-pluscuamperfecto:
+  yo: me había referido
+  tu: te habías referido
+  vos: te habías referido
+  ud: se había referido
+  nosotros: nos habíamos referido
+  vosotros: os habíais referido
+  uds: se habían referido
+futuro-perfecto:
+  yo: me habré referido
+  tu: te habrás referido
+  vos: te habrás referido
+  ud: se habrá referido
+  nosotros: nos habremos referido
+  vosotros: os habréis referido
+  uds: se habrán referido
+condicional-perfecto:
+  yo: me habría referido
+  tu: te habrías referido
+  vos: te habrías referido
+  ud: se habría referido
+  nosotros: nos habríamos referido
+  vosotros: os habríais referido
+  uds: se habrían referido
+presente-subjuntivo:
+  yo: me refiera
+  tu: te refieras
+  vos: te refieras
+  ud: se refiera
+  nosotros: nos refiramos
+  vosotros: os refiráis
+  uds: se refieran
+preterito-perfecto-subjuntivo:
+  yo: me haya referido
+  tu: te hayas referido
+  vos: te hayas referido
+  ud: se haya referido
+  nosotros: nos hayamos referido
+  vosotros: os hayáis referido
+  uds: se hayan referido
+imperfecto-subjuntivo:
+  yo:
+    - me refiriera
+    - me refiriese
+  tu:
+    - te refirieras
+    - te refirieses
+  vos:
+    - te refirieras
+    - te refirieses
+  ud:
+    - se refiriera
+    - se refiriese
+  nosotros:
+    - nos refiriéramos
+    - nos refiriésemos
+  vosotros:
+    - os refirierais
+    - os refirieseis
+  uds:
+    - se refirieran
+    - se refiriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera referido
+    - me hubiese referido
+  tu:
+    - te hubieras referido
+    - te hubieses referido
+  vos:
+    - te hubieras referido
+    - te hubieses referido
+  ud:
+    - se hubiera referido
+    - se hubiese referido
+  nosotros:
+    - nos hubiéramos referido
+    - nos hubiésemos referido
+  vosotros:
+    - os hubierais referido
+    - os hubieseis referido
+  uds:
+    - se hubieran referido
+    - se hubiesen referido
+imperativo:
+  tu: refiérete
+  vos: referíte
+  ud: réferase
+  nosotros: refirámonos
+  vosotros: referíos
+  uds: réferanse

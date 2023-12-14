@@ -1,0 +1,142 @@
+infinitivo: retener
+gerundio: reteniendo
+participio-pasado: retenido
+presente-indicativo:
+  yo: retengo
+  tu: retienes
+  vos: retienes
+  ud: retiene
+  nosotros: retenemos
+  vosotros: retenéis
+  uds: retienen
+preterito-perfecto-simple:
+  yo: retuve
+  tu: retuviste
+  vos: retuviste
+  ud: retuvo
+  nosotros: retuvimos
+  vosotros: retuvisteis
+  uds: retuvieron
+preterito-imperfecto:
+  yo: retenía
+  tu: retenías
+  vos: retenías
+  ud: retenía
+  nosotros: reteníamos
+  vosotros: reteníais
+  uds: retenían
+futuro-simple:
+  yo: retendré
+  tu: retendrás
+  vos: retendrás
+  ud: retendrá
+  nosotros: retendremos
+  vosotros: retendréis
+  uds: retendrán
+condicional-simple:
+  yo: retendría
+  tu: retendrías
+  vos: retendrías
+  ud: retendría
+  nosotros: retendríamos
+  vosotros: retendríais
+  uds: retendrían
+presente-perfecto:
+  yo: he retenido
+  tu: has retenido
+  vos: has retenido
+  ud: ha retenido
+  nosotros: hemos retenido
+  vosotros: habéis retenido
+  uds: han retenido
+preterito-pluscuamperfecto:
+  yo: había retenido
+  tu: habías retenido
+  vos: habías retenido
+  ud: había retenido
+  nosotros: habíamos retenido
+  vosotros: habíais retenido
+  uds: habían retenido
+futuro-perfecto:
+  yo: habré retenido
+  tu: habrás retenido
+  vos: habrás retenido
+  ud: habrá retenido
+  nosotros: habremos retenido
+  vosotros: habréis retenido
+  uds: habrán retenido
+condicional-perfecto:
+  yo: habría retenido
+  tu: habrías retenido
+  vos: habrías retenido
+  ud: habría retenido
+  nosotros: habríamos retenido
+  vosotros: habríais retenido
+  uds: habrían retenido
+presente-subjuntivo:
+  yo: retenga
+  tu: retengas
+  vos: retengas
+  ud: retenga
+  nosotros: retengamos
+  vosotros: retengáis
+  uds: retengan
+preterito-perfecto-subjuntivo:
+  yo: haya retenido
+  tu: hayas retenido
+  vos: hayas retenido
+  ud: haya retenido
+  nosotros: hayamos retenido
+  vosotros: hayáis retenido
+  uds: hayan retenido
+imperfecto-subjuntivo:
+  yo:
+    - retuviera
+    - retuviese
+  tu:
+    - retuvieras
+    - retuvieses
+  vos:
+    - retuvieras
+    - retuvieses
+  ud:
+    - retuviera
+    - retuviese
+  nosotros:
+    - retuviéramos
+    - retuviésemos
+  vosotros:
+    - retuvierais
+    - retuvieseis
+  uds:
+    - retuvieran
+    - retuviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera retenido
+    - hubiese retenido
+  tu:
+    - hubieras retenido
+    - hubieses retenido
+  vos:
+    - hubieras retenido
+    - hubieses retenido
+  ud:
+    - hubiera retenido
+    - hubiese retenido
+  nosotros:
+    - hubiéramos retenido
+    - hubiésemos retenido
+  vosotros:
+    - hubierais retenido
+    - hubieseis retenido
+  uds:
+    - hubieran retenido
+    - hubiesen retenido
+imperativo:
+  tu: retén
+  vos: retené
+  ud: retenga
+  nosotros: retengamos
+  vosotros: retained
+  uds: retengan

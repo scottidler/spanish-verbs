@@ -1,0 +1,142 @@
+infinitivo: desconchar
+gerundio: desconchando
+participio-pasado: desconchado
+presente-indicativo:
+  yo: desconcho
+  tu: desconchas
+  vos: desconchas
+  ud: desconcha
+  nosotros: desconchamos
+  vosotros: desconcháis
+  uds: desconchan
+preterito-perfecto-simple:
+  yo: desconché
+  tu: desconchaste
+  vos: desconchaste
+  ud: desconchó
+  nosotros: desconchamos
+  vosotros: desconchasteis
+  uds: desconcharon
+preterito-imperfecto:
+  yo: desconchaba
+  tu: desconchabas
+  vos: desconchabas
+  ud: desconchaba
+  nosotros: desconchábamos
+  vosotros: desconchabais
+  uds: desconchaban
+futuro-simple:
+  yo: desconcharé
+  tu: desconcharás
+  vos: desconcharás
+  ud: desconchará
+  nosotros: desconcharemos
+  vosotros: desconcharéis
+  uds: desconcharán
+condicional-simple:
+  yo: desconcharía
+  tu: desconcharías
+  vos: desconcharías
+  ud: desconcharía
+  nosotros: desconcharíamos
+  vosotros: desconcharíais
+  uds: desconcharían
+presente-perfecto:
+  yo: he desconchado
+  tu: has desconchado
+  vos: has desconchado
+  ud: ha desconchado
+  nosotros: hemos desconchado
+  vosotros: habéis desconchado
+  uds: han desconchado
+preterito-pluscuamperfecto:
+  yo: había desconchado
+  tu: habías desconchado
+  vos: habías desconchado
+  ud: había desconchado
+  nosotros: habíamos desconchado
+  vosotros: habíais desconchado
+  uds: habían desconchado
+futuro-perfecto:
+  yo: habré desconchado
+  tu: habrás desconchado
+  vos: habrás desconchado
+  ud: habrá desconchado
+  nosotros: habremos desconchado
+  vosotros: habréis desconchado
+  uds: habrán desconchado
+condicional-perfecto:
+  yo: habría desconchado
+  tu: habrías desconchado
+  vos: habrías desconchado
+  ud: habría desconchado
+  nosotros: habríamos desconchado
+  vosotros: habríais desconchado
+  uds: habrían desconchado
+presente-subjuntivo:
+  yo: desconche
+  tu: desconches
+  vos: desconches
+  ud: desconche
+  nosotros: desconchemos
+  vosotros: desconchéis
+  uds: desconchen
+preterito-perfecto-subjuntivo:
+  yo: haya desconchado
+  tu: hayas desconchado
+  vos: hayas desconchado
+  ud: haya desconchado
+  nosotros: hayamos desconchado
+  vosotros: hayáis desconchado
+  uds: hayan desconchado
+imperfecto-subjuntivo:
+  yo:
+    - desconchara
+    - desconchase
+  tu:
+    - desconcharas
+    - desconchases
+  vos:
+    - desconcharas
+    - desconchases
+  ud:
+    - desconchara
+    - desconchase
+  nosotros:
+    - desconcháramos
+    - desconchásemos
+  vosotros:
+    - desconcharais
+    - desconchaseis
+  uds:
+    - desconcharan
+    - desconchasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desconchado
+    - hubiese desconchado
+  tu:
+    - hubieras desconchado
+    - hubieses desconchado
+  vos:
+    - hubieras desconchado
+    - hubieses desconchado
+  ud:
+    - hubiera desconchado
+    - hubiese desconchado
+  nosotros:
+    - hubiéramos desconchado
+    - hubiésemos desconchado
+  vosotros:
+    - hubierais desconchado
+    - hubieseis desconchado
+  uds:
+    - hubieran desconchado
+    - hubiesen desconchado
+imperativo:
+  tu: desconcha
+  vos: desconchá
+  ud: desconche
+  nosotros: desconchemos
+  vosotros: desconchad
+  uds: desconchen

@@ -1,0 +1,156 @@
+infinitivo: decidmar
+gerundio: decidiendo
+
+participio-pasado: decido
+presente-indicativo:
+  yo: decido
+  tu: decides
+  vos: decides
+  ud: decide
+  nosotros: decidimos
+  vosotros: decidís
+  uds: deciden
+
+preterito-perfecto-simple:
+  yo: decidí
+  tu: decidiste
+  vos: decidiste
+  ud: decidió
+  nosotros: decidimos
+  vosotros: decidisteis
+  uds: decidieron
+
+preterito-imperfecto:
+  yo: decidía
+  tu: decidías
+  vos: decidías
+  ud: decidía
+  nosotros: decidíamos
+  vosotros: decidíais
+  uds: decidían
+
+futuro-simple:
+  yo: decidiré
+  tu: decidirás
+  vos: decidirás
+  ud: decidirá
+  nosotros: decidiremos
+  vosotros: decidiréis
+  uds: decidirán
+
+condicional-simple:
+  yo: decidiría
+  tu: decidirías
+  vos: decidirías
+  ud: decidiría
+  nosotros: decidiríamos
+  vosotros: decidiríais
+  uds: decidirían
+
+presente-perfecto:
+  yo: he decidido
+  tu: has decidido
+  vos: has decidido
+  ud: ha decidido
+  nosotros: hemos decidido
+  vosotros: habéis decidido
+  uds: han decidido
+
+preterito-pluscuamperfecto:
+  yo: había decidido
+  tu: habías decidido
+  vos: habías decidido
+  ud: había decidido
+  nosotros: habíamos decidido
+  vosotros: habíais decidido
+  uds: habían decidido
+
+futuro-perfecto:
+  yo: habré decidido
+  tu: habrás decidido
+  vos: habrás decidido
+  ud: habrá decidido
+  nosotros: habremos decidido
+  vosotros: habréis decidido
+  uds: habrán decidido
+
+condicional-perfecto:
+  yo: habría decidido
+  tu: habrías decidido
+  vos: habrías decidido
+  ud: habría decidido
+  nosotros: habríamos decidido
+  vosotros: habríais decidido
+  uds: habrían decidido
+
+presente-subjuntivo:
+  yo: decida
+  tu: decidas
+  vos: decidas
+  ud: decida
+  nosotros: decidamos
+  vosotros: decidáis
+  uds: decidan
+
+preterito-perfecto-subjuntivo:
+  yo: haya decidido
+  tu: hayas decidido
+  vos: hayas decidido
+  ud: haya decidido
+  nosotros: hayamos decidido
+  vosotros: hayáis decidido
+  uds: hayan decidido
+
+imperfecto-subjuntivo:
+  yo:
+    - decidiera
+    - decidiese
+  tu:
+    - decidieras
+    - decidieses
+  vos:
+    - decidieras
+    - decidieses
+  ud:
+    - decidiera
+    - decidiese
+  nosotros:
+    - decidiéramos
+    - decidiésemos
+  vosotros:
+    - decidierais
+    - decidieseis
+  uds:
+    - decidieran
+    - decidiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera decidido
+    - hubiese decidido
+  tu:
+    - hubieras decidido
+    - hubieses decidido
+  vos:
+    - hubieras decidido
+    - hubieses decidido
+  ud:
+    - hubiera decidido
+    - hubiese decidido
+  nosotros:
+    - hubiéramos decidido
+    - hubiésemos decidido
+  vosotros:
+    - hubierais decidido
+    - hubieseis decidido
+  uds:
+    - hubieran decidido
+    - hubiesen decidido
+
+imperativo:
+  tu: decide
+  vos: decidí
+  ud: decida
+  nosotros: decidamos
+  vosotros: decidid
+  uds: decidan

@@ -1,0 +1,142 @@
+infinitivo: enmarcar
+gerundio: enmarcando
+participio-pasado: enmarcado
+presente-indicativo:
+  yo: enmarco
+  tu: enmarcas
+  vos: enmarcas
+  ud: enmarca
+  nosotros: enmarcamos
+  vosotros: enmarcáis
+  uds: enmarcan
+preterito-perfecto-simple:
+  yo: enmarqué
+  tu: enmarcaste
+  vos: enmarcaste
+  ud: enmarcó
+  nosotros: enmarcamos
+  vosotros: enmarcasteis
+  uds: enmarcaron
+preterito-imperfecto:
+  yo: enmarcaba
+  tu: enmarcabas
+  vos: enmarcabas
+  ud: enmarcaba
+  nosotros: enmarcábamos
+  vosotros: enmarcabais
+  uds: enmarcaban
+futuro-simple:
+  yo: enmarcaré
+  tu: enmarcarás
+  vos: enmarcarás
+  ud: enmarcará
+  nosotros: enmarcaremos
+  vosotros: enmarcaréis
+  uds: enmarcarán
+condicional-simple:
+  yo: enmarcaría
+  tu: enmarcarías
+  vos: enmarcarías
+  ud: enmarcaría
+  nosotros: enmarcaríamos
+  vosotros: enmarcaríais
+  uds: enmarcarían
+presente-perfecto:
+  yo: he enmarcado
+  tu: has enmarcado
+  vos: has enmarcado
+  ud: ha enmarcado
+  nosotros: hemos enmarcado
+  vosotros: habéis enmarcado
+  uds: han enmarcado
+preterito-pluscuamperfecto:
+  yo: había enmarcado
+  tu: habías enmarcado
+  vos: habías enmarcado
+  ud: había enmarcado
+  nosotros: habíamos enmarcado
+  vosotros: habíais enmarcado
+  uds: habían enmarcado
+futuro-perfecto:
+  yo: habré enmarcado
+  tu: habrás enmarcado
+  vos: habrás enmarcado
+  ud: habrá enmarcado
+  nosotros: habremos enmarcado
+  vosotros: habréis enmarcado
+  uds: habrán enmarcado
+condicional-perfecto:
+  yo: habría enmarcado
+  tu: habrías enmarcado
+  vos: habrías enmarcado
+  ud: habría enmarcado
+  nosotros: habríamos enmarcado
+  vosotros: habríais enmarcado
+  uds: habrían enmarcado
+presente-subjuntivo:
+  yo: enmarque
+  tu: enmarques
+  vos: enmarques
+  ud: enmarque
+  nosotros: enmarquemos
+  vosotros: enmarquéis
+  uds: enmarquen
+preterito-perfecto-subjuntivo:
+  yo: haya enmarcado
+  tu: hayas enmarcado
+  vos: hayas enmarcado
+  ud: haya enmarcado
+  nosotros: hayamos enmarcado
+  vosotros: hayáis enmarcado
+  uds: hayan enmarcado
+imperfecto-subjuntivo:
+  yo:
+    - enmarcara
+    - enmarcase
+  tu:
+    - enmarcaras
+    - enmarcases
+  vos:
+    - enmarcaras
+    - enmarcases
+  ud:
+    - enmarcara
+    - enmarcase
+  nosotros:
+    - enmarcáramos
+    - enmarcásemos
+  vosotros:
+    - enmarcarais
+    - enmarcaseis
+  uds:
+    - enmarcaran
+    - enmarcasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enmarcado
+    - hubiese enmarcado
+  tu:
+    - hubieras enmarcado
+    - hubieses enmarcado
+  vos:
+    - hubieras enmarcado
+    - hubieses enmarcado
+  ud:
+    - hubiera enmarcado
+    - hubiese enmarcado
+  nosotros:
+    - hubiéramos enmarcado
+    - hubiésemos enmarcado
+  vosotros:
+    - hubierais enmarcado
+    - hubieseis enmarcado
+  uds:
+    - hubieran enmarcado
+    - hubiesen enmarcado
+imperativo:
+  tu: enmarca
+  vos: enmarcá
+  ud: enmarque
+  nosotros: enmarquemos
+  vosotros: enmarcad
+  uds: enmarquen

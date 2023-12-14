@@ -1,0 +1,142 @@
+infinitivo: fabricar
+gerundio: fabricando
+participio-pasado: fabricado
+presente-indicativo:
+  yo: fabrico
+  tu: fabricas
+  vos: fabricás
+  ud: fabrica
+  nosotros: fabricamos
+  vosotros: fabricáis
+  uds: fabrican
+preterito-perfecto-simple:
+  yo: fabriqué
+  tu: fabricaste
+  vos: fabricaste
+  ud: fabricó
+  nosotros: fabricamos
+  vosotros: fabricasteis
+  uds: fabricaron
+preterito-imperfecto:
+  yo: fabricaba
+  tu: fabricabas
+  vos: fabricabas
+  ud: fabricaba
+  nosotros: fabricábamos
+  vosotros: fabricabais
+  uds: fabricaban
+futuro-simple:
+  yo: fabricaré
+  tu: fabricarás
+  vos: fabricarás
+  ud: fabricará
+  nosotros: fabricaremos
+  vosotros: fabricaréis
+  uds: fabricarán
+condicional-simple:
+  yo: fabricaría
+  tu: fabricarías
+  vos: fabricarías
+  ud: fabricaría
+  nosotros: fabricaríamos
+  vosotros: fabricaríais
+  uds: fabricarían
+presente-perfecto:
+  yo: he fabricado
+  tu: has fabricado
+  vos: has fabricado
+  ud: ha fabricado
+  nosotros: hemos fabricado
+  vosotros: habéis fabricado
+  uds: han fabricado
+preterito-pluscuamperfecto:
+  yo: había fabricado
+  tu: habías fabricado
+  vos: habías fabricado
+  ud: había fabricado
+  nosotros: habíamos fabricado
+  vosotros: habíais fabricado
+  uds: habían fabricado
+futuro-perfecto:
+  yo: habré fabricado
+  tu: habrás fabricado
+  vos: habrás fabricado
+  ud: habrá fabricado
+  nosotros: habremos fabricado
+  vosotros: habréis fabricado
+  uds: habrán fabricado
+condicional-perfecto:
+  yo: habría fabricado
+  tu: habrías fabricado
+  vos: habrías fabricado
+  ud: habría fabricado
+  nosotros: habríamos fabricado
+  vosotros: habríais fabricado
+  uds: habrían fabricado
+presente-subjuntivo:
+  yo: fabrique
+  tu: fabriques
+  vos: fabriques
+  ud: fabrique
+  nosotros: fabriquemos
+  vosotros: fabriquéis
+  uds: fabriquen
+preterito-perfecto-subjuntivo:
+  yo: haya fabricado
+  tu: hayas fabricado
+  vos: hayas fabricado
+  ud: haya fabricado
+  nosotros: hayamos fabricado
+  vosotros: hayáis fabricado
+  uds: hayan fabricado
+imperfecto-subjuntivo:
+  yo:
+    - fabricara
+    - fabricase
+  tu:
+    - fabricaras
+    - fabricases
+  vos:
+    - fabricaras
+    - fabricases
+  ud:
+    - fabricara
+    - fabricase
+  nosotros:
+    - fabricáramos
+    - fabricásemos
+  vosotros:
+    - fabricarais
+    - fabricaseis
+  uds:
+    - fabricaran
+    - fabricasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fabricado
+    - hubiese fabricado
+  tu:
+    - hubieras fabricado
+    - hubieses fabricado
+  vos:
+    - hubieras fabricado
+    - hubieses fabricado
+  ud:
+    - hubiera fabricado
+    - hubiese fabricado
+  nosotros:
+    - hubiéramos fabricado
+    - hubiésemos fabricado
+  vosotros:
+    - hubierais fabricado
+    - hubieseis fabricado
+  uds:
+    - hubieran fabricado
+    - hubiesen fabricado
+imperativo:
+  tu: fabrica
+  vos: fabricá
+  ud: fabrique
+  nosotros: fabriquemos
+  vosotros: fabricad
+  uds: fabriquen

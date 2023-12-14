@@ -1,0 +1,142 @@
+infinitivo: encargar
+gerundio: encargando
+participio-pasado: encargado
+presente-indicativo:
+  yo: encargo
+  tu: encargas
+  vos: encargas
+  ud: encarga
+  nosotros: encargamos
+  vosotros: encargáis
+  uds: encargan
+preterito-perfecto-simple:
+  yo: encargué
+  tu: encargaste
+  vos: encargaste
+  ud: encargó
+  nosotros: encargamos
+  vosotros: encargasteis
+  uds: encargaron
+preterito-imperfecto:
+  yo: encargaba
+  tu: encargabas
+  vos: encargabas
+  ud: encargaba
+  nosotros: encargábamos
+  vosotros: encargabais
+  uds: encargaban
+futuro-simple:
+  yo: encargaré
+  tu: encargarás
+  vos: encargarás
+  ud: encargará
+  nosotros: encargaremos
+  vosotros: encargaréis
+  uds: encargarán
+condicional-simple:
+  yo: encargaría
+  tu: encargarías
+  vos: encargarías
+  ud: encargaría
+  nosotros: encargaríamos
+  vosotros: encargaríais
+  uds: encargarían
+presente-perfecto:
+  yo: he encargado
+  tu: has encargado
+  vos: has encargado
+  ud: ha encargado
+  nosotros: hemos encargado
+  vosotros: habéis encargado
+  uds: han encargado
+preterito-pluscuamperfecto:
+  yo: había encargado
+  tu: habías encargado
+  vos: habías encargado
+  ud: había encargado
+  nosotros: habíamos encargado
+  vosotros: habíais encargado
+  uds: habían encargado
+futuro-perfecto:
+  yo: habré encargado
+  tu: habrás encargado
+  vos: habrás encargado
+  ud: habrá encargado
+  nosotros: habremos encargado
+  vosotros: habréis encargado
+  uds: habrán encargado
+condicional-perfecto:
+  yo: habría encargado
+  tu: habrías encargado
+  vos: habrías encargado
+  ud: habría encargado
+  nosotros: habríamos encargado
+  vosotros: habríais encargado
+  uds: habrían encargado
+presente-subjuntivo:
+  yo: encargue
+  tu: encargues
+  vos: encargues
+  ud: encargue
+  nosotros: encarguemos
+  vosotros: encarguéis
+  uds: encarguen
+preterito-perfecto-subjuntivo:
+  yo: haya encargado
+  tu: hayas encargado
+  vos: hayas encargado
+  ud: haya encargado
+  nosotros: hayamos encargado
+  vosotros: hayáis encargado
+  uds: hayan encargado
+imperfecto-subjuntivo:
+  yo:
+    - encargara
+    - encargase
+  tu:
+    - encargaras
+    - encargases
+  vos:
+    - encargaras
+    - encargases
+  ud:
+    - encargara
+    - encargase
+  nosotros:
+    - encargáramos
+    - encargásemos
+  vosotros:
+    - encargarais
+    - encargaseis
+  uds:
+    - encargaran
+    - encargasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encargado
+    - hubiese encargado
+  tu:
+    - hubieras encargado
+    - hubieses encargado
+  vos:
+    - hubieras encargado
+    - hubieses encargado
+  ud:
+    - hubiera encargado
+    - hubiese encargado
+  nosotros:
+    - hubiéramos encargado
+    - hubiésemos encargado
+  vosotros:
+    - hubierais encargado
+    - hubieseis encargado
+  uds:
+    - hubieran encargado
+    - hubiesen encargado
+imperativo:
+  tu: encarga
+  vos: encargá
+  ud: encargue
+  nosotros: encarguemos
+  vosotros: encargad
+  uds: encarguen

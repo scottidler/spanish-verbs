@@ -1,0 +1,142 @@
+infinitivo: afeitar
+gerundio: afeitando
+participio-pasado: afeitado
+presente-indicativo:
+  yo: afeito
+  tu: afeitas
+  vos: afeitas
+  ud: afeita
+  nosotros: afeitamos
+  vosotros: afeitáis
+  uds: afeitan
+preterito-perfecto-simple:
+  yo: afeité
+  tu: afeitaste
+  vos: afeitaste
+  ud: afeitó
+  nosotros: afeitamos
+  vosotros: afeitasteis
+  uds: afeitaron
+preterito-imperfecto:
+  yo: afeitaba
+  tu: afeitabas
+  vos: afeitabas
+  ud: afeitaba
+  nosotros: afeitábamos
+  vosotros: afeitabais
+  uds: afeitaban
+futuro-simple:
+  yo: afeitaré
+  tu: afeitarás
+  vos: afeitarás
+  ud: afeitará
+  nosotros: afeitaremos
+  vosotros: afeitaréis
+  uds: afeitarán
+condicional-simple:
+  yo: afeitaría
+  tu: afeitarías
+  vos: afeitarías
+  ud: afeitaría
+  nosotros: afeitaríamos
+  vosotros: afeitaríais
+  uds: afeitarían
+presente-perfecto:
+  yo: he afeitado
+  tu: has afeitado
+  vos: has afeitado
+  ud: ha afeitado
+  nosotros: hemos afeitado
+  vosotros: habéis afeitado
+  uds: han afeitado
+preterito-pluscuamperfecto:
+  yo: había afeitado
+  tu: habías afeitado
+  vos: habías afeitado
+  ud: había afeitado
+  nosotros: habíamos afeitado
+  vosotros: habíais afeitado
+  uds: habían afeitado
+futuro-perfecto:
+  yo: habré afeitado
+  tu: habrás afeitado
+  vos: habrás afeitado
+  ud: habrá afeitado
+  nosotros: habremos afeitado
+  vosotros: habréis afeitado
+  uds: habrán afeitado
+condicional-perfecto:
+  yo: habría afeitado
+  tu: habrías afeitado
+  vos: habrías afeitado
+  ud: habría afeitado
+  nosotros: habríamos afeitado
+  vosotros: habríais afeitado
+  uds: habrían afeitado
+presente-subjuntivo:
+  yo: afeite
+  tu: afeites
+  vos: afeites
+  ud: afeite
+  nosotros: afeitemos
+  vosotros: afeitéis
+  uds: afeiten
+preterito-perfecto-subjuntivo:
+  yo: haya afeitado
+  tu: hayas afeitado
+  vos: hayas afeitado
+  ud: haya afeitado
+  nosotros: hayamos afeitado
+  vosotros: hayáis afeitado
+  uds: hayan afeitado
+imperfecto-subjuntivo:
+  yo:
+    - afeitara
+    - afeitase
+  tu:
+    - afeitaras
+    - afeitases
+  vos:
+    - afeitaras
+    - afeitases
+  ud:
+    - afeitara
+    - afeitase
+  nosotros:
+    - afeitáramos
+    - afeitásemos
+  vosotros:
+    - afeitarais
+    - afeitaseis
+  uds:
+    - afeitaran
+    - afeitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera afeitado
+    - hubiese afeitado
+  tu:
+    - hubieras afeitado
+    - hubieses afeitado
+  vos:
+    - hubieras afeitado
+    - hubieses afeitado
+  ud:
+    - hubiera afeitado
+    - hubiese afeitado
+  nosotros:
+    - hubiéramos afeitado
+    - hubiésemos afeitado
+  vosotros:
+    - hubierais afeitado
+    - hubieseis afeitado
+  uds:
+    - hubieran afeitado
+    - hubiesen afeitado
+imperativo:
+  tu: afeita
+  vos: afeitá
+  ud: afeite
+  nosotros: afeitemos
+  vosotros: afeitad
+  uds: afeiten

@@ -1,0 +1,142 @@
+infinitivo: vomitar
+gerundio: vomitando
+participio-pasado: vomitado
+presente-indicativo:
+  yo: vomito
+  tu: vomitas
+  vos: vomitas
+  ud: vomita
+  nosotros: vomitamos
+  vosotros: vomitáis
+  uds: vomitan
+preterito-perfecto-simple:
+  yo: vomité
+  tu: vomitaste
+  vos: vomitaste
+  ud: vomitó
+  nosotros: vomitamos
+  vosotros: vomitasteis
+  uds: vomitaron
+preterito-imperfecto:
+  yo: vomitaba
+  tu: vomitabas
+  vos: vomitabas
+  ud: vomitaba
+  nosotros: vomitábamos
+  vosotros: vomitabais
+  uds: vomitaban
+futuro-simple:
+  yo: vomitaré
+  tu: vomitarás
+  vos: vomitarás
+  ud: vomitará
+  nosotros: vomitaremos
+  vosotros: vomitaréis
+  uds: vomitarán
+condicional-simple:
+  yo: vomitaría
+  tu: vomitarías
+  vos: vomitarías
+  ud: vomitaría
+  nosotros: vomitaríamos
+  vosotros: vomitaríais
+  uds: vomitarían
+presente-perfecto:
+  yo: he vomitado
+  tu: has vomitado
+  vos: has vomitado
+  ud: ha vomitado
+  nosotros: hemos vomitado
+  vosotros: habéis vomitado
+  uds: han vomitado
+preterito-pluscuamperfecto:
+  yo: había vomitado
+  tu: habías vomitado
+  vos: habías vomitado
+  ud: había vomitado
+  nosotros: habíamos vomitado
+  vosotros: habíais vomitado
+  uds: habían vomitado
+futuro-perfecto:
+  yo: habré vomitado
+  tu: habrás vomitado
+  vos: habrás vomitado
+  ud: habrá vomitado
+  nosotros: habremos vomitado
+  vosotros: habréis vomitado
+  uds: habrán vomitado
+condicional-perfecto:
+  yo: habría vomitado
+  tu: habrías vomitado
+  vos: habrías vomitado
+  ud: habría vomitado
+  nosotros: habríamos vomitado
+  vosotros: habríais vomitado
+  uds: habrían vomitado
+presente-subjuntivo:
+  yo: vomite
+  tu: vomites
+  vos: vomites
+  ud: vomite
+  nosotros: vomitemos
+  vosotros: vomitéis
+  uds: vomiten
+preterito-perfecto-subjuntivo:
+  yo: haya vomitado
+  tu: hayas vomitado
+  vos: hayas vomitado
+  ud: haya vomitado
+  nosotros: hayamos vomitado
+  vosotros: hayáis vomitado
+  uds: hayan vomitado
+imperfecto-subjuntivo:
+  yo:
+    - vomitara
+    - vomitase
+  tu:
+    - vomitaras
+    - vomitases
+  vos:
+    - vomitaras
+    - vomitases
+  ud:
+    - vomitara
+    - vomitase
+  nosotros:
+    - vomitáramos
+    - vomitásemos
+  vosotros:
+    - vomitarais
+    - vomitaseis
+  uds:
+    - vomitaran
+    - vomitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vomitado
+    - hubiese vomitado
+  tu:
+    - hubieras vomitado
+    - hubieses vomitado
+  vos:
+    - hubieras vomitado
+    - hubieses vomitado
+  ud:
+    - hubiera vomitado
+    - hubiese vomitado
+  nosotros:
+    - hubiéramos vomitado
+    - hubiésemos vomitado
+  vosotros:
+    - hubierais vomitado
+    - hubieseis vomitado
+  uds:
+    - hubieran vomitado
+    - hubiesen vomitado
+imperativo:
+  tu: vomita
+  vos: vomitá
+  ud: vomite
+  nosotros: vomitemos
+  vosotros: vomitad
+  uds: vomiten

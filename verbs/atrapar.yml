@@ -1,0 +1,142 @@
+infinitivo: atrapar
+gerundio: atrapando
+participio-pasado: atrapado
+presente-indicativo:
+  yo: atrapo
+  tu: atrapas
+  vos: atrapás
+  ud: atrapa
+  nosotros: atrapamos
+  vosotros: atrapáis
+  uds: atrapan
+preterito-perfecto-simple:
+  yo: atrapé
+  tu: atrapaste
+  vos: atrapaste
+  ud: atrapó
+  nosotros: atrapamos
+  vosotros: atrapasteis
+  uds: atraparon
+preterito-imperfecto:
+  yo: atrapaba
+  tu: atrapabas
+  vos: atrapabas
+  ud: atrapaba
+  nosotros: atrapábamos
+  vosotros: atrapabais
+  uds: atrapaban
+futuro-simple:
+  yo: atraparé
+  tu: atraparás
+  vos: atraparás
+  ud: atrapará
+  nosotros: atraparemos
+  vosotros: atraparéis
+  uds: atraparán
+condicional-simple:
+  yo: atraparía
+  tu: atraparías
+  vos: atraparías
+  ud: atraparía
+  nosotros: atraparíamos
+  vosotros: atraparíais
+  uds: atraparían
+presente-perfecto:
+  yo: he atrapado
+  tu: has atrapado
+  vos: has atrapado
+  ud: ha atrapado
+  nosotros: hemos atrapado
+  vosotros: habéis atrapado
+  uds: han atrapado
+preterito-pluscuamperfecto:
+  yo: había atrapado
+  tu: habías atrapado
+  vos: habías atrapado
+  ud: había atrapado
+  nosotros: habíamos atrapado
+  vosotros: habíais atrapado
+  uds: habían atrapado
+futuro-perfecto:
+  yo: habré atrapado
+  tu: habrás atrapado
+  vos: habrás atrapado
+  ud: habrá atrapado
+  nosotros: habremos atrapado
+  vosotros: habréis atrapado
+  uds: habrán atrapado
+condicional-perfecto:
+  yo: habría atrapado
+  tu: habrías atrapado
+  vos: habrías atrapado
+  ud: habría atrapado
+  nosotros: habríamos atrapado
+  vosotros: habríais atrapado
+  uds: habrían atrapado
+presente-subjuntivo:
+  yo: atrape
+  tu: atrapes
+  vos: atrapes
+  ud: atrape
+  nosotros: atrapemos
+  vosotros: atrapéis
+  uds: atrapen
+preterito-perfecto-subjuntivo:
+  yo: haya atrapado
+  tu: hayas atrapado
+  vos: hayas atrapado
+  ud: haya atrapado
+  nosotros: hayamos atrapado
+  vosotros: hayáis atrapado
+  uds: hayan atrapado
+imperfecto-subjuntivo:
+  yo:
+    - atrapara
+    - atrapase
+  tu:
+    - atraparas
+    - atrapases
+  vos:
+    - atraparas
+    - atrapases
+  ud:
+    - atrapara
+    - atrapase
+  nosotros:
+    - atrapáramos
+    - atrapásemos
+  vosotros:
+    - atraparais
+    - atrapaseis
+  uds:
+    - atraparan
+    - atrapasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atrapado
+    - hubiese atrapado
+  tu:
+    - hubieras atrapado
+    - hubieses atrapado
+  vos:
+    - hubieras atrapado
+    - hubieses atrapado
+  ud:
+    - hubiera atrapado
+    - hubiese atrapado
+  nosotros:
+    - hubiéramos atrapado
+    - hubiésemos atrapado
+  vosotros:
+    - hubierais atrapado
+    - hubieseis atrapado
+  uds:
+    - hubieran atrapado
+    - hubiesen atrapado
+imperativo:
+  tu: atrapa
+  vos: atrapá
+  ud: atrape
+  nosotros: atrapemos
+  vosotros: atrapad
+  uds: atrapen

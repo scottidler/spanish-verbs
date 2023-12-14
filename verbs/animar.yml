@@ -1,0 +1,142 @@
+infinitivo: animar
+gerundio: animando
+participio-pasado: animado
+presente-indicativo:
+  yo: animo
+  tu: animas
+  vos: animas
+  ud: anima
+  nosotros: animamos
+  vosotros: animáis
+  uds: animan
+preterito-perfecto-simple:
+  yo: animé
+  tu: animaste
+  vos: animaste
+  ud: animó
+  nosotros: animamos
+  vosotros: animasteis
+  uds: animaron
+preterito-imperfecto:
+  yo: animaba
+  tu: animabas
+  vos: animabas
+  ud: animaba
+  nosotros: animábamos
+  vosotros: animabais
+  uds: animaban
+futuro-simple:
+  yo: animaré
+  tu: animarás
+  vos: animarás
+  ud: animará
+  nosotros: animaremos
+  vosotros: animaréis
+  uds: animarán
+condicional-simple:
+  yo: animaría
+  tu: animarías
+  vos: animarías
+  ud: animaría
+  nosotros: animaríamos
+  vosotros: animaríais
+  uds: animarían
+presente-perfecto:
+  yo: he animado
+  tu: has animado
+  vos: has animado
+  ud: ha animado
+  nosotros: hemos animado
+  vosotros: habéis animado
+  uds: han animado
+preterito-pluscuamperfecto:
+  yo: había animado
+  tu: habías animado
+  vos: habías animado
+  ud: había animado
+  nosotros: habíamos animado
+  vosotros: habíais animado
+  uds: habían animado
+futuro-perfecto:
+  yo: habré animado
+  tu: habrás animado
+  vos: habrás animado
+  ud: habrá animado
+  nosotros: habremos animado
+  vosotros: habréis animado
+  uds: habrán animado
+condicional-perfecto:
+  yo: habría animado
+  tu: habrías animado
+  vos: habrías animado
+  ud: habría animado
+  nosotros: habríamos animado
+  vosotros: habríais animado
+  uds: habrían animado
+presente-subjuntivo:
+  yo: anime
+  tu: animes
+  vos: animes
+  ud: anime
+  nosotros: animemos
+  vosotros: animéis
+  uds: animen
+preterito-perfecto-subjuntivo:
+  yo: haya animado
+  tu: hayas animado
+  vos: hayas animado
+  ud: haya animado
+  nosotros: hayamos animado
+  vosotros: hayáis animado
+  uds: hayan animado
+imperfecto-subjuntivo:
+  yo:
+    - animara
+    - animase
+  tu:
+    - animaras
+    - animases
+  vos:
+    - animaras
+    - animases
+  ud:
+    - animara
+    - animase
+  nosotros:
+    - animáramos
+    - animásemos
+  vosotros:
+    - animarais
+    - animaseis
+  uds:
+    - animaran
+    - animasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera animado
+    - hubiese animado
+  tu:
+    - hubieras animado
+    - hubieses animado
+  vos:
+    - hubieras animado
+    - hubieses animado
+  ud:
+    - hubiera animado
+    - hubiese animado
+  nosotros:
+    - hubiéramos animado
+    - hubiésemos animado
+  vosotros:
+    - hubierais animado
+    - hubieseis animado
+  uds:
+    - hubieran animado
+    - hubiesen animado
+imperativo:
+  tu: anima
+  vos: animá
+  ud: anime
+  nosotros: animemos
+  vosotros: animad
+  uds: animen

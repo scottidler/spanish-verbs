@@ -1,0 +1,156 @@
+infinitivo: atreverse
+gerundio: atreviéndose
+participio-pasado: atrevido
+
+presente-indicativo:
+  yo: me atrevo
+  tu: te atreves
+  vos: te atreves
+  ud: se atreve
+  nosotros: nos atrevemos
+  vosotros: os atrevéis
+  uds: se atreven
+
+preterito-perfecto-simple:
+  yo: me atreví
+  tu: te atreviste
+  vos: te atreviste
+  ud: se atrevió
+  nosotros: nos atrevimos
+  vosotros: os atrevisteis
+  uds: se atrevieron
+
+preterito-imperfecto:
+  yo: me atrevía
+  tu: te atrevías
+  vos: te atrevías
+  ud: se atrevía
+  nosotros: nos atrevíamos
+  vosotros: os atrevíais
+  uds: se atrevían
+
+futuro-simple:
+  yo: me atreveré
+  tu: te atreverás
+  vos: te atreverás
+  ud: se atreverá
+  nosotros: nos atreveremos
+  vosotros: os atreveréis
+  uds: se atreverán
+
+condicional-simple:
+  yo: me atrevería
+  tu: te atreverías
+  vos: te atreverías
+  ud: se atrevería
+  nosotros: nos atreveríamos
+  vosotros: os atreveríais
+  uds: se atreverían
+
+presente-perfecto:
+  yo: me he atrevido
+  tu: te has atrevido
+  vos: te has atrevido
+  ud: se ha atrevido
+  nosotros: nos hemos atrevido
+  vosotros: os habéis atrevido
+  uds: se han atrevido
+
+preterito-pluscuamperfecto:
+  yo: me había atrevido
+  tu: te habías atrevido
+  vos: te habías atrevido
+  ud: se había atrevido
+  nosotros: nos habíamos atrevido
+  vosotros: os habíais atrevido
+  uds: se habían atrevido
+
+futuro-perfecto:
+  yo: me habré atrevido
+  tu: te habrás atrevido
+  vos: te habrás atrevido
+  ud: se habrá atrevido
+  nosotros: nos habremos atrevido
+  vosotros: os habréis atrevido
+  uds: se habrán atrevido
+
+condicional-perfecto:
+  yo: me habría atrevido
+  tu: te habrías atrevido
+  vos: te habrías atrevido
+  ud: se habría atrevido
+  nosotros: nos habríamos atrevido
+  vosotros: os habríais atrevido
+  uds: se habrían atrevido
+
+presente-subjuntivo:
+  yo: me atreva
+  tu: te atrevas
+  vos: te atrevas
+  ud: se atreva
+  nosotros: nos atrevamos
+  vosotros: os atreváis
+  uds: se atrevan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya atrevido
+  tu: te hayas atrevido
+  vos: te hayas atrevido
+  ud: se haya atrevido
+  nosotros: nos hayamos atrevido
+  vosotros: os hayáis atrevido
+  uds: se hayan atrevido
+
+imperfecto-subjuntivo:
+  yo:
+    - me atreviera
+    - me atreviese
+  tu:
+    - te atrevieras
+    - te atrevieses
+  vos:
+    - te atrevieras
+    - te atrevieses
+  ud:
+    - se atreviera
+    - se atreviese
+  nosotros:
+    - nos atreviéramos
+    - nos atreviésemos
+  vosotros:
+    - os atrevierais
+    - os atrevieseis
+  uds:
+    - se atrevieran
+    - se atreviesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera atrevido
+    - me hubiese atrevido
+  tu:
+    - te hubieras atrevido
+    - te hubieses atrevido
+  vos:
+    - te hubieras atrevido
+    - te hubieses atrevido
+  ud:
+    - se hubiera atrevido
+    - se hubiese atrevido
+  nosotros:
+    - nos hubiéramos atrevido
+    - nos hubiésemos atrevido
+  vosotros:
+    - os hubierais atrevido
+    - os hubieseis atrevido
+  uds:
+    - se hubieran atrevido
+    - se hubiesen atrevido
+
+imperativo:
+  tu: atrévete
+  vos: atrévete
+  ud: atrévase
+  nosotros: atrevámonos
+  vosotros: atreved
+  uds: atrévanse

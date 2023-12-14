@@ -1,0 +1,142 @@
+infinitivo: abristir
+gerundio: abristiendo
+participio-pasado: abristido
+presente-indicativo:
+  yo: abristo
+  tu: abristes
+  vos: abristes
+  ud: abriste
+  nosotros: abristimos
+  vosotros: abristéis
+  uds: abristen
+preterito-perfecto-simple:
+  yo: abristí
+  tu: abrististe
+  vos: abrististe
+  ud: abristió
+  nosotros: abristimos
+  vosotros: abrististeis
+  uds: abristieron
+preterito-imperfecto:
+  yo: abristía
+  tu: abristías
+  vos: abristías
+  ud: abristía
+  nosotros: abristíamos
+  vosotros: abristíais
+  uds: abristían
+futuro-simple:
+  yo: abristiré
+  tu: abristirás
+  vos: abristirás
+  ud: abristirá
+  nosotros: abristiremos
+  vosotros: abristiréis
+  uds: abristirán
+condicional-simple:
+  yo: abristiría
+  tu: abristirías
+  vos: abristirías
+  ud: abristiría
+  nosotros: abristiríamos
+  vosotros: abristiríais
+  uds: abristirían
+presente-perfecto:
+  yo: he abristido
+  tu: has abristido
+  vos: has abristido
+  ud: ha abristido
+  nosotros: hemos abristido
+  vosotros: habéis abristido
+  uds: han abristido
+preterito-pluscuamperfecto:
+  yo: había abristido
+  tu: habías abristido
+  vos: habías abristido
+  ud: había abristido
+  nosotros: habíamos abristido
+  vosotros: habíais abristido
+  uds: habían abristido
+futuro-perfecto:
+  yo: habré abristido
+  tu: habrás abristido
+  vos: habrás abristido
+  ud: habrá abristido
+  nosotros: habremos abristido
+  vosotros: habréis abristido
+  uds: habrán abristido
+condicional-perfecto:
+  yo: habría abristido
+  tu: habrías abristido
+  vos: habrías abristido
+  ud: habría abristido
+  nosotros: habríamos abristido
+  vosotros: habríais abristido
+  uds: habrían abristido
+presente-subjuntivo:
+  yo: abrista
+  tu: abristas
+  vos: abristas
+  ud: abrista
+  nosotros: abristamos
+  vosotros: abristáis
+  uds: abristan
+preterito-perfecto-subjuntivo:
+  yo: haya abristido
+  tu: hayas abristido
+  vos: hayas abristido
+  ud: haya abristido
+  nosotros: hayamos abristido
+  vosotros: hayáis abristido
+  uds: hayan abristido
+imperfecto-subjuntivo:
+  yo:
+    - abristara
+    - abristase
+  tu:
+    - abristaras
+    - abristases
+  vos:
+    - abristaras
+    - abristases
+  ud:
+    - abristara
+    - abristase
+  nosotros:
+    - abriéramos
+    - abriésemos
+  vosotros:
+    - abristarais
+    - abristeseis
+  uds:
+    - abristaran
+    - abristasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera abristido
+    - hubiese abristido
+  tu:
+    - hubieras abristido
+    - hubieses abristido
+  vos:
+    - hubieras abristido
+    - hubieses abristido
+  ud:
+    - hubiera abristido
+    - hubiese abristido
+  nosotros:
+    - hubiéramos abristido
+    - hubiésemos abristido
+  vosotros:
+    - hubierais abristido
+    - hubieseis abristido
+  uds:
+    - hubieran abristido
+    - hubiesen abristido
+imperativo:
+  tu: abriste
+  vos: abristí
+  ud: abrista
+  nosotros: abristamos
+  vosotros: abristid
+  uds: abristan

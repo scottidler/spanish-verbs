@@ -1,0 +1,142 @@
+infinitivo: aletear
+gerundio: aleteando
+participio-pasado: aleteado
+presente-indicativo:
+  yo: aleteo
+  tu: aleteas
+  vos: aleteas
+  ud: aletea
+  nosotros: aleteamos
+  vosotros: aleteáis
+  uds: aletean
+preterito-perfecto-simple:
+  yo: aleteé
+  tu: aleteaste
+  vos: aleteaste
+  ud: aleteó
+  nosotros: aleteamos
+  vosotros: aleteasteis
+  uds: aletearon
+preterito-imperfecto:
+  yo: aleteaba
+  tu: aleteabas
+  vos: aleteabas
+  ud: aleteaba
+  nosotros: aleteábamos
+  vosotros: aleteabais
+  uds: aleteaban
+futuro-simple:
+  yo: aleteré
+  tu: aleterás
+  vos: aleterás
+  ud: aleterá
+  nosotros: aleteremos
+  vosotros: aleteréis
+  uds: aleterán
+condicional-simple:
+  yo: aletería
+  tu: aleterías
+  vos: aleterías
+  ud: aletería
+  nosotros: aleteríamos
+  vosotros: aleteríais
+  uds: aleterían
+presente-perfecto:
+  yo: he aleteado
+  tu: has aleteado
+  vos: has aleteado
+  ud: ha aleteado
+  nosotros: hemos aleteado
+  vosotros: habéis aleteado
+  uds: han aleteado
+preterito-pluscuamperfecto:
+  yo: había aleteado
+  tu: habías aleteado
+  vos: habías aleteado
+  ud: había aleteado
+  nosotros: habíamos aleteado
+  vosotros: habíais aleteado
+  uds: habían aleteado
+futuro-perfecto:
+  yo: habré aleteado
+  tu: habrás aleteado
+  vos: habrás aleteado
+  ud: habrá aleteado
+  nosotros: habremos aleteado
+  vosotros: habréis aleteado
+  uds: habrán aleteado
+condicional-perfecto:
+  yo: habría aleteado
+  tu: habrías aleteado
+  vos: habrías aleteado
+  ud: habría aleteado
+  nosotros: habríamos aleteado
+  vosotros: habríais aleteado
+  uds: habrían aleteado
+presente-subjuntivo:
+  yo: aletee
+  tu: aletees
+  vos: aletees
+  ud: aletee
+  nosotros: aleteemos
+  vosotros: aleteéis
+  uds: aleteen
+preterito-perfecto-subjuntivo:
+  yo: haya aleteado
+  tu: hayas aleteado
+  vos: hayas aleteado
+  ud: haya aleteado
+  nosotros: hayamos aleteado
+  vosotros: hayáis aleteado
+  uds: hayan aleteado
+imperfecto-subjuntivo:
+  yo:
+    - aleteara
+    - aletease
+  tu:
+    - aletearas
+    - aleteases
+  vos:
+    - aletearas
+    - aleteases
+  ud:
+    - aleteara
+    - aletease
+  nosotros:
+    - aleteáramos
+    - aleteásemos
+  vosotros:
+    - aletearais
+    - aleteaseis
+  uds:
+    - aletearan
+    - aleteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aleteado
+    - hubiese aleteado
+  tu:
+    - hubieras aleteado
+    - hubieses aleteado
+  vos:
+    - hubieras aleteado
+    - hubieses aleteado
+  ud:
+    - hubiera aleteado
+    - hubiese aleteado
+  nosotros:
+    - hubiéramos aleteado
+    - hubiésemos aleteado
+  vosotros:
+    - hubierais aleteado
+    - hubieseis aleteado
+  uds:
+    - hubieran aleteado
+    - hubiesen aleteado
+imperativo:
+  tu: aletea
+  vos: aleteá
+  ud: aletee
+  nosotros: aleteemos
+  vosotros: aletead
+  uds: aleteen

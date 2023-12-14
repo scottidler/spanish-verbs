@@ -1,0 +1,142 @@
+infinitivo: acampar
+gerundio: acampando
+participio-pasado: acampado
+presente-indicativo:
+  yo: acampo
+  tu: acampas
+  vos: acampás
+  ud: acampa
+  nosotros: acampamos
+  vosotros: acampáis
+  uds: acampan
+preterito-perfecto-simple:
+  yo: acampé
+  tu: acampaste
+  vos: acampaste
+  ud: acampó
+  nosotros: acampamos
+  vosotros: acampasteis
+  uds: acamparon
+preterito-imperfecto:
+  yo: acampaba
+  tu: acampabas
+  vos: acampabas
+  ud: acampaba
+  nosotros: acampábamos
+  vosotros: acampabais
+  uds: acampaban
+futuro-simple:
+  yo: acamparé
+  tu: acamparás
+  vos: acamparás
+  ud: acampará
+  nosotros: acamparemos
+  vosotros: acamparéis
+  uds: acamparán
+condicional-simple:
+  yo: acamparía
+  tu: acamparías
+  vos: acamparías
+  ud: acamparía
+  nosotros: acamparíamos
+  vosotros: acamparíais
+  uds: acamparían
+presente-perfecto:
+  yo: he acampado
+  tu: has acampado
+  vos: has acampado
+  ud: ha acampado
+  nosotros: hemos acampado
+  vosotros: habéis acampado
+  uds: han acampado
+preterito-pluscuamperfecto:
+  yo: había acampado
+  tu: habías acampado
+  vos: habías acampado
+  ud: había acampado
+  nosotros: habíamos acampado
+  vosotros: habíais acampado
+  uds: habían acampado
+futuro-perfecto:
+  yo: habré acampado
+  tu: habrás acampado
+  vos: habrás acampado
+  ud: habrá acampado
+  nosotros: habremos acampado
+  vosotros: habréis acampado
+  uds: habrán acampado
+condicional-perfecto:
+  yo: habría acampado
+  tu: habrías acampado
+  vos: habrías acampado
+  ud: habría acampado
+  nosotros: habríamos acampado
+  vosotros: habríais acampado
+  uds: habrían acampado
+presente-subjuntivo:
+  yo: acampe
+  tu: acampes
+  vos: acampes
+  ud: acampe
+  nosotros: acampemos
+  vosotros: acampéis
+  uds: acampen
+preterito-perfecto-subjuntivo:
+  yo: haya acampado
+  tu: hayas acampado
+  vos: hayas acampado
+  ud: haya acampado
+  nosotros: hayamos acampado
+  vosotros: hayáis acampado
+  uds: hayan acampado
+imperfecto-subjuntivo:
+  yo:
+    - acampara
+    - acampase
+  tu:
+    - acamparas
+    - acampases
+  vos:
+    - acamparas
+    - acampases
+  ud:
+    - acampara
+    - acampase
+  nosotros:
+    - acampáramos
+    - acampásemos
+  vosotros:
+    - acamparais
+    - acampaseis
+  uds:
+    - acamparan
+    - acampasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acampado
+    - hubiese acampado
+  tu:
+    - hubieras acampado
+    - hubieses acampado
+  vos:
+    - hubieras acampado
+    - hubieses acampado
+  ud:
+    - hubiera acampado
+    - hubiese acampado
+  nosotros:
+    - hubiéramos acampado
+    - hubiésemos acampado
+  vosotros:
+    - hubierais acampado
+    - hubieseis acampado
+  uds:
+    - hubieran acampado
+    - hubiesen acampado
+imperativo:
+  tu: acampa
+  vos: acampá
+  ud: acampe
+  nosotros: acampemos
+  vosotros: acampad
+  uds: acampen

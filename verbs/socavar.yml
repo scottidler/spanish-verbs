@@ -1,0 +1,142 @@
+infinitivo: socavar
+gerundio: socavando
+participio-pasado: socavado
+presente-indicativo:
+  yo: socavo
+  tu: socavas
+  vos: socavas
+  ud: socava
+  nosotros: socavamos
+  vosotros: socaváis
+  uds: socavan
+preterito-perfecto-simple:
+  yo: socavé
+  tu: socavaste
+  vos: socavaste
+  ud: socavó
+  nosotros: socavamos
+  vosotros: socavasteis
+  uds: socavaron
+preterito-imperfecto:
+  yo: socavaba
+  tu: socavabas
+  vos: socavabas
+  ud: socavaba
+  nosotros: socavábamos
+  vosotros: socavabais
+  uds: socavaban
+futuro-simple:
+  yo: socavaré
+  tu: socavarás
+  vos: socavarás
+  ud: socavará
+  nosotros: socavaremos
+  vosotros: socavaréis
+  uds: socavarán
+condicional-simple:
+  yo: socavaría
+  tu: socavarías
+  vos: socavarías
+  ud: socavaría
+  nosotros: socavaríamos
+  vosotros: socavaríais
+  uds: socavarían
+presente-perfecto:
+  yo: he socavado
+  tu: has socavado
+  vos: has socavado
+  ud: ha socavado
+  nosotros: hemos socavado
+  vosotros: habéis socavado
+  uds: han socavado
+preterito-pluscuamperfecto:
+  yo: había socavado
+  tu: habías socavado
+  vos: habías socavado
+  ud: había socavado
+  nosotros: habíamos socavado
+  vosotros: habíais socavado
+  uds: habían socavado
+futuro-perfecto:
+  yo: habré socavado
+  tu: habrás socavado
+  vos: habrás socavado
+  ud: habrá socavado
+  nosotros: habremos socavado
+  vosotros: habréis socavado
+  uds: habrán socavado
+condicional-perfecto:
+  yo: habría socavado
+  tu: habrías socavado
+  vos: habrías socavado
+  ud: habría socavado
+  nosotros: habríamos socavado
+  vosotros: habríais socavado
+  uds: habrían socavado
+presente-subjuntivo:
+  yo: socave
+  tu: socaves
+  vos: socaves
+  ud: socave
+  nosotros: socavemos
+  vosotros: socavéis
+  uds: socaven
+preterito-perfecto-subjuntivo:
+  yo: haya socavado
+  tu: hayas socavado
+  vos: hayas socavado
+  ud: haya socavado
+  nosotros: hayamos socavado
+  vosotros: hayáis socavado
+  uds: hayan socavado
+imperfecto-subjuntivo:
+  yo:
+    - socavara
+    - socavase
+  tu:
+    - socavaras
+    - socavases
+  vos:
+    - socavaras
+    - socavases
+  ud:
+    - socavara
+    - socavase
+  nosotros:
+    - socaváramos
+    - socavásemos
+  vosotros:
+    - socavarais
+    - socavaseis
+  uds:
+    - socavaran
+    - socavasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera socavado
+    - hubiese socavado
+  tu:
+    - hubieras socavado
+    - hubieses socavado
+  vos:
+    - hubieras socavado
+    - hubieses socavado
+  ud:
+    - hubiera socavado
+    - hubiese socavado
+  nosotros:
+    - hubiéramos socavado
+    - hubiésemos socavado
+  vosotros:
+    - hubierais socavado
+    - hubieseis socavado
+  uds:
+    - hubieran socavado
+    - hubiesen socavado
+imperativo:
+  tu: socava
+  vos: socavá
+  ud: socave
+  nosotros: socavemos
+  vosotros: socavad
+  uds: socaven

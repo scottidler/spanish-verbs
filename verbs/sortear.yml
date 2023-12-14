@@ -1,0 +1,142 @@
+infinitivo: sortear
+gerundio: sorteando
+participio-pasado: sorteado
+presente-indicativo:
+  yo: sorteo
+  tu: sorteas
+  vos: sorteas
+  ud: sortea
+  nosotros: sorteamos
+  vosotros: sorteáis
+  uds: sortean
+preterito-perfecto-simple:
+  yo: sortée
+  tu: sorteaste
+  vos: sortearte
+  ud: sorteó
+  nosotros: sorteamos
+  vosotros: sorteasteis
+  uds: sortearon
+preterito-imperfecto:
+  yo: sorteaba
+  tu: sorteabas
+  vos: sorteabas
+  ud: sorteaba
+  nosotros: sorteábamos
+  vosotros: sorteabais
+  uds: sorteaban
+futuro-simple:
+  yo: sortearé
+  tu: sortearás
+  vos: sortearás
+  ud: sorteará
+  nosotros: sortearemos
+  vosotros: sortearéis
+  uds: sortearán
+condicional-simple:
+  yo: sortearía
+  tu: sortearías
+  vos: sortearías
+  ud: sortearía
+  nosotros: sortearíamos
+  vosotros: sortearíais
+  uds: sortearían
+presente-perfecto:
+  yo: he sorteado
+  tu: has sorteado
+  vos: has sorteado
+  ud: ha sorteado
+  nosotros: hemos sorteado
+  vosotros: habéis sorteado
+  uds: han sorteado
+preterito-pluscuamperfecto:
+  yo: había sorteado
+  tu: habías sorteado
+  vos: habías sorteado
+  ud: había sorteado
+  nosotros: habíamos sorteado
+  vosotros: habíais sorteado
+  uds: habían sorteado
+futuro-perfecto:
+  yo: habré sorteado
+  tu: habrás sorteado
+  vos: habrás sorteado
+  ud: habrá sorteado
+  nosotros: habremos sorteado
+  vosotros: habréis sorteado
+  uds: habrán sorteado
+condicional-perfecto:
+  yo: habría sorteado
+  tu: habrías sorteado
+  vos: habrías sorteado
+  ud: habría sorteado
+  nosotros: habríamos sorteado
+  vosotros: habríais sorteado
+  uds: habrían sorteado
+presente-subjuntivo:
+  yo: sortee
+  tu: sortees
+  vos: sortees
+  ud: sortee
+  nosotros: sorteemos
+  vosotros: sorteéis
+  uds: sorteen
+preterito-perfecto-subjuntivo:
+  yo: haya sorteado
+  tu: hayas sorteado
+  vos: hayas sorteado
+  ud: haya sorteado
+  nosotros: hayamos sorteado
+  vosotros: hayáis sorteado
+  uds: hayan sorteado
+imperfecto-subjuntivo:
+  yo:
+    - sorteara
+    - sortease
+  tu:
+    - sortearas
+    - sorteases
+  vos:
+    - sortearas
+    - sorteases
+  ud:
+    - sorteara
+    - sortease
+  nosotros:
+    - sorteáramos
+    - sorteásemos
+  vosotros:
+    - sortearais
+    - sorteaseis
+  uds:
+    - sortearan
+    - sorteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sorteado
+    - hubiese sorteado
+  tu:
+    - hubieras sorteado
+    - hubieses sorteado
+  vos:
+    - hubieras sorteado
+    - hubieses sorteado
+  ud:
+    - hubiera sorteado
+    - hubiese sorteado
+  nosotros:
+    - hubiéramos sorteado
+    - hubiésemos sorteado
+  vosotros:
+    - hubierais sorteado
+    - hubieseis sorteado
+  uds:
+    - hubieran sorteado
+    - hubiesen sorteado
+imperativo:
+  tu: sortea
+  vos: sorteá
+  ud: sortee
+  nosotros: sorteemos
+  vosotros: sortead
+  uds: sorteen

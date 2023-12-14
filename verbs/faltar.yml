@@ -1,0 +1,142 @@
+infinitivo: faltar
+gerundio: faltando
+participio-pasado: faltado
+presente-indicativo:
+  yo: falto
+  tu: faltas
+  vos: faltás
+  ud: falta
+  nosotros: faltamos
+  vosotros: faltáis
+  uds: faltan
+preterito-perfecto-simple:
+  yo: falté
+  tu: faltaste
+  vos: faltaste
+  ud: faltó
+  nosotros: faltamos
+  vosotros: faltasteis
+  uds: faltaron
+preterito-imperfecto:
+  yo: faltaba
+  tu: faltabas
+  vos: faltabas
+  ud: faltaba
+  nosotros: faltábamos
+  vosotros: faltabais
+  uds: faltaban
+futuro-simple:
+  yo: faltaré
+  tu: faltarás
+  vos: faltarás
+  ud: faltará
+  nosotros: faltaremos
+  vosotros: faltaréis
+  uds: faltarán
+condicional-simple:
+  yo: faltaría
+  tu: faltarías
+  vos: faltarías
+  ud: faltaría
+  nosotros: faltaríamos
+  vosotros: faltaríais
+  uds: faltarían
+presente-perfecto:
+  yo: he faltado
+  tu: has faltado
+  vos: has faltado
+  ud: ha faltado
+  nosotros: hemos faltado
+  vosotros: habéis faltado
+  uds: han faltado
+preterito-pluscuamperfecto:
+  yo: había faltado
+  tu: habías faltado
+  vos: habías faltado
+  ud: había faltado
+  nosotros: habíamos faltado
+  vosotros: habíais faltado
+  uds: habían faltado
+futuro-perfecto:
+  yo: habré faltado
+  tu: habrás faltado
+  vos: habrás faltado
+  ud: habrá faltado
+  nosotros: habremos faltado
+  vosotros: habréis faltado
+  uds: habrán faltado
+condicional-perfecto:
+  yo: habría faltado
+  tu: habrías faltado
+  vos: habrías faltado
+  ud: habría faltado
+  nosotros: habríamos faltado
+  vosotros: habríais faltado
+  uds: habrían faltado
+presente-subjuntivo:
+  yo: falte
+  tu: faltes
+  vos: faltes
+  ud: falte
+  nosotros: faltemos
+  vosotros: faltéis
+  uds: falten
+preterito-perfecto-subjuntivo:
+  yo: haya faltado
+  tu: hayas faltado
+  vos: hayas faltado
+  ud: haya faltado
+  nosotros: hayamos faltado
+  vosotros: hayáis faltado
+  uds: hayan faltado
+imperfecto-subjuntivo:
+  yo:
+    - faltara
+    - faltase
+  tu:
+    - faltaras
+    - faltases
+  vos:
+    - faltaras
+    - faltases
+  ud:
+    - faltara
+    - faltase
+  nosotros:
+    - faltáramos
+    - faltásemos
+  vosotros:
+    - faltarais
+    - faltaseis
+  uds:
+    - faltaran
+    - faltasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera faltado
+    - hubiese faltado
+  tu:
+    - hubieras faltado
+    - hubieses faltado
+  vos:
+    - hubieras faltado
+    - hubieses faltado
+  ud:
+    - hubiera faltado
+    - hubiese faltado
+  nosotros:
+    - hubiéramos faltado
+    - hubiésemos faltado
+  vosotros:
+    - hubierais faltado
+    - hubieseis faltado
+  uds:
+    - hubieran faltado
+    - hubiesen faltado
+imperativo:
+  tu: falta
+  vos: faltá
+  ud: falte
+  nosotros: faltemos
+  vosotros: faltad
+  uds: falten

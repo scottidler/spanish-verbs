@@ -1,0 +1,142 @@
+infinitivo: soltarse
+gerundio: soltándose
+participio-pasado: soltado
+presente-indicativo:
+  yo: me suelto
+  tu: te sueltas
+  vos: te sueltas
+  ud: se suelta
+  nosotros: nos soltamos
+  vosotros: os soltáis
+  uds: se sueltan
+preterito-perfecto-simple:
+  yo: me solté
+  tu: te soltaste
+  vos: te soltaste
+  ud: se soltó
+  nosotros: nos soltamos
+  vosotros: os soltasteis
+  uds: se soltaron
+preterito-imperfecto:
+  yo: me soltaba
+  tu: te soltabas
+  vos: te soltabas
+  ud: se soltaba
+  nosotros: nos soltábamos
+  vosotros: os soltabais
+  uds: se soltaban
+futuro-simple:
+  yo: me soltaré
+  tu: te soltarás
+  vos: te soltarás
+  ud: se soltará
+  nosotros: nos soltaremos
+  vosotros: os soltaréis
+  uds: se soltarán
+condicional-simple:
+  yo: me soltaría
+  tu: te soltarías
+  vos: te soltarías
+  ud: se soltaría
+  nosotros: nos soltaríamos
+  vosotros: os soltaríais
+  uds: se soltarían
+presente-perfecto:
+  yo: me he soltado
+  tu: te has soltado
+  vos: te has soltado
+  ud: se ha soltado
+  nosotros: nos hemos soltado
+  vosotros: os habéis soltado
+  uds: se han soltado
+preterito-pluscuamperfecto:
+  yo: me había soltado
+  tu: te habías soltado
+  vos: te habías soltado
+  ud: se había soltado
+  nosotros: nos habíamos soltado
+  vosotros: os habíais soltado
+  uds: se habían soltado
+futuro-perfecto:
+  yo: me habré soltado
+  tu: te habrás soltado
+  vos: te habrás soltado
+  ud: se habrá soltado
+  nosotros: nos habremos soltado
+  vosotros: os habréis soltado
+  uds: se habrán soltado
+condicional-perfecto:
+  yo: me habría soltado
+  tu: te habrías soltado
+  vos: te habrías soltado
+  ud: se habría soltado
+  nosotros: nos habríamos soltado
+  vosotros: os habríais soltado
+  uds: se habrían soltado
+presente-subjuntivo:
+  yo: me suelte
+  tu: te sueltes
+  vos: te sueltes
+  ud: se suelte
+  nosotros: nos soltemos
+  vosotros: os soltéis
+  uds: se suelten
+preterito-perfecto-subjuntivo:
+  yo: me haya soltado
+  tu: te hayas soltado
+  vos: te hayas soltado
+  ud: se haya soltado
+  nosotros: nos hayamos soltado
+  vosotros: os hayáis soltado
+  uds: se hayan soltado
+imperfecto-subjuntivo:
+  yo:
+    - me soltara
+    - me soltase
+  tu:
+    - te soltaras
+    - te soltases
+  vos:
+    - te soltaras
+    - te soltases
+  ud:
+    - se soltara
+    - se soltase
+  nosotros:
+    - nos soltáramos
+    - nos soltásemos
+  vosotros:
+    - os soltarais
+    - os soltaseis
+  uds:
+    - se soltaran
+    - se soltasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera soltado
+    - me hubiese soltado
+  tu:
+    - te hubieras soltado
+    - te hubieses soltado
+  vos:
+    - te hubieras soltado
+    - te hubieses soltado
+  ud:
+    - se hubiera soltado
+    - se hubiese soltado
+  nosotros:
+    - nos hubiéramos soltado
+    - nos hubiésemos soltado
+  vosotros:
+    - os hubierais soltado
+    - os hubieseis soltado
+  uds:
+    - se hubieran soltado
+    - se hubiesen soltado
+imperativo:
+  tu: suéltate
+  vos: suéltate
+  ud: suéltese
+  nosotros: soltémonos
+  vosotros: soltaos
+  uds: suéltese

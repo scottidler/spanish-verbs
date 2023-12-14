@@ -1,0 +1,142 @@
+infinitivo: establecer
+gerundio: estableciendo
+participio-pasado: establecido
+presente-indicativo:
+  yo: establezco
+  tu: estableces
+  vos: estableces
+  ud: establece
+  nosotros: establecemos
+  vosotros: establecéis
+  uds: establecen
+preterito-perfecto-simple:
+  yo: establecí
+  tu: estableciste
+  vos: estableciste
+  ud: estableció
+  nosotros: establecimos
+  vosotros: establecisteis
+  uds: establecieron
+preterito-imperfecto:
+  yo: establecía
+  tu: establecías
+  vos: establecías
+  ud: establecía
+  nosotros: establecíamos
+  vosotros: establecíais
+  uds: establecían
+futuro-simple:
+  yo: estableceré
+  tu: establecerás
+  vos: establecerás
+  ud: establecerá
+  nosotros: estableceremos
+  vosotros: estableceréis
+  uds: establecerán
+condicional-simple:
+  yo: establecería
+  tu: establecerías
+  vos: establecerías
+  ud: establecería
+  nosotros: estableceríamos
+  vosotros: estableceríais
+  uds: establecerían
+presente-perfecto:
+  yo: he establecido
+  tu: has establecido
+  vos: has establecido
+  ud: ha establecido
+  nosotros: hemos establecido
+  vosotros: habéis establecido
+  uds: han establecido
+preterito-pluscuamperfecto:
+  yo: había establecido
+  tu: habías establecido
+  vos: habías establecido
+  ud: había establecido
+  nosotros: habíamos establecido
+  vosotros: habíais establecido
+  uds: habían establecido
+futuro-perfecto:
+  yo: habré establecido
+  tu: habrás establecido
+  vos: habrás establecido
+  ud: habrá establecido
+  nosotros: habremos establecido
+  vosotros: habréis establecido
+  uds: habrán establecido
+condicional-perfecto:
+  yo: habría establecido
+  tu: habrías establecido
+  vos: habrías establecido
+  ud: habría establecido
+  nosotros: habríamos establecido
+  vosotros: habríais establecido
+  uds: habrían establecido
+presente-subjuntivo:
+  yo: establezca
+  tu: establezcas
+  vos: establezcas
+  ud: establezca
+  nosotros: establezcamos
+  vosotros: establezcáis
+  uds: establezcan
+preterito-perfecto-subjuntivo:
+  yo: haya establecido
+  tu: hayas establecido
+  vos: hayas establecido
+  ud: haya establecido
+  nosotros: hayamos establecido
+  vosotros: hayáis establecido
+  uds: hayan establecido
+imperfecto-subjuntivo:
+  yo:
+    - estableciera
+    - estableciese
+  tu:
+    - establecieras
+    - establecieses
+  vos:
+    - establecieras
+    - establecieses
+  ud:
+    - estableciera
+    - estableciese
+  nosotros:
+    - estableciéramos
+    - estableciésemos
+  vosotros:
+    - establecierais
+    - establecieseis
+  uds:
+    - establecieran
+    - estableciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera establecido
+    - hubiese establecido
+  tu:
+    - hubieras establecido
+    - hubieses establecido
+  vos:
+    - hubieras establecido
+    - hubieses establecido
+  ud:
+    - hubiera establecido
+    - hubiese establecido
+  nosotros:
+    - hubiéramos establecido
+    - hubiésemos establecido
+  vosotros:
+    - hubierais establecido
+    - hubieseis establecido
+  uds:
+    - hubieran establecido
+    - hubiesen establecido
+imperativo:
+  tu: establece
+  vos: establecé
+  ud: establezca
+  nosotros: establezcamos
+  vosotros: estableced
+  uds: establezcan

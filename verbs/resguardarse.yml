@@ -1,0 +1,142 @@
+infinitivo: resguardarse
+gerundio: resguardándose
+participio-pasado: resguardado
+presente-indicativo:
+  yo: me resguardo
+  tu: te resguardas
+  vos: te resguardas
+  ud: se resguarda
+  nosotros: nos resguardamos
+  vosotros: os resguardáis
+  uds: se resguardan
+preterito-perfecto-simple:
+  yo: me resguardé
+  tu: te resguardaste
+  vos: te resguardaste
+  ud: se resguardó
+  nosotros: nos resguardamos
+  vosotros: os resguardasteis
+  uds: se resguardaron
+preterito-imperfecto:
+  yo: me resguardaba
+  tu: te resguardabas
+  vos: te resguardabas
+  ud: se resguardaba
+  nosotros: nos resguardábamos
+  vosotros: os resguardabais
+  uds: se resguardaban
+futuro-simple:
+  yo: me resguardaré
+  tu: te resguardarás
+  vos: te resguardarás
+  ud: se resguardará
+  nosotros: nos resguardaremos
+  vosotros: os resguardaréis
+  uds: se resguardarán
+condicional-simple:
+  yo: me resguardaría
+  tu: te resguardarías
+  vos: te resguardarías
+  ud: se resguardaría
+  nosotros: nos resguardaríamos
+  vosotros: os resguardaríais
+  uds: se resguardarían
+presente-perfecto:
+  yo: me he resguardado
+  tu: te has resguardado
+  vos: te has resguardado
+  ud: se ha resguardado
+  nosotros: nos hemos resguardado
+  vosotros: os habéis resguardado
+  uds: se han resguardado
+preterito-pluscuamperfecto:
+  yo: me había resguardado
+  tu: te habías resguardado
+  vos: te habías resguardado
+  ud: se había resguardado
+  nosotros: nos habíamos resguardado
+  vosotros: os habíais resguardado
+  uds: se habían resguardado
+futuro-perfecto:
+  yo: me habré resguardado
+  tu: te habrás resguardado
+  vos: te habrás resguardado
+  ud: se habrá resguardado
+  nosotros: nos habremos resguardado
+  vosotros: os habréis resguardado
+  uds: se habrán resguardado
+condicional-perfecto:
+  yo: me habría resguardado
+  tu: te habrías resguardado
+  vos: te habrías resguardado
+  ud: se habría resguardado
+  nosotros: nos habríamos resguardado
+  vosotros: os habríais resguardado
+  uds: se habrían resguardado
+presente-subjuntivo:
+  yo: me resguarde
+  tu: te resguardes
+  vos: te resguardes
+  ud: se resguarde
+  nosotros: nos resguardemos
+  vosotros: os resguardéis
+  uds: se resguarden
+preterito-perfecto-subjuntivo:
+  yo: me haya resguardado
+  tu: te hayas resguardado
+  vos: te hayas resguardado
+  ud: se haya resguardado
+  nosotros: nos hayamos resguardado
+  vosotros: os hayáis resguardado
+  uds: se hayan resguardado
+imperfecto-subjuntivo:
+  yo:
+    - me resguardara
+    - me resguardase
+  tu:
+    - te resguardaras
+    - te resguardases
+  vos:
+    - te resguardaras
+    - te resguardases
+  ud:
+    - se resguardara
+    - se resguardase
+  nosotros:
+    - nos resguardáramos
+    - nos resguardásemos
+  vosotros:
+    - os resguardarais
+    - os resguardaseis
+  uds:
+    - se resguardaran
+    - se resguardasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera resguardado
+    - me hubiese resguardado
+  tu:
+    - te hubieras resguardado
+    - te hubieses resguardado
+  vos:
+    - te hubieras resguardado
+    - te hubieses resguardado
+  ud:
+    - se hubiera resguardado
+    - se hubiese resguardado
+  nosotros:
+    - nos hubiéramos resguardado
+    - nos hubiésemos resguardado
+  vosotros:
+    - os hubierais resguardado
+    - os hubieseis resguardado
+  uds:
+    - se hubieran resguardado
+    - se hubiesen resguardado
+imperativo:
+  tu: resguárdese
+  vos: resguardáte
+  ud: resguárdesese
+  nosotros: resguardémonos
+  vosotros: resguardaos
+  uds: resguárdense

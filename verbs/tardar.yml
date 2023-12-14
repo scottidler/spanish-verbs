@@ -1,0 +1,142 @@
+infinitivo: tardar
+gerundio: tardando
+participio-pasado: tardado
+presente-indicativo:
+  yo: tardo
+  tu: tardas
+  vos: tardas
+  ud: tarda
+  nosotros: tardamos
+  vosotros: tardáis
+  uds: tardan
+preterito-perfecto-simple:
+  yo: tardé
+  tu: tardaste
+  vos: tardaste
+  ud: tardó
+  nosotros: tardamos
+  vosotros: tardasteis
+  uds: tardaron
+preterito-imperfecto:
+  yo: tardaba
+  tu: tardabas
+  vos: tardabas
+  ud: tardaba
+  nosotros: tardábamos
+  vosotros: tardabais
+  uds: tardaban
+futuro-simple:
+  yo: tardaré
+  tu: tardarás
+  vos: tardarás
+  ud: tardará
+  nosotros: tardaremos
+  vosotros: tardaréis
+  uds: tardarán
+condicional-simple:
+  yo: tardaría
+  tu: tardarías
+  vos: tardarías
+  ud: tardaría
+  nosotros: tardaríamos
+  vosotros: tardaríais
+  uds: tardarían
+presente-perfecto:
+  yo: he tardado
+  tu: has tardado
+  vos: has tardado
+  ud: ha tardado
+  nosotros: hemos tardado
+  vosotros: habéis tardado
+  uds: han tardado
+preterito-pluscuamperfecto:
+  yo: había tardado
+  tu: habías tardado
+  vos: habías tardado
+  ud: había tardado
+  nosotros: habíamos tardado
+  vosotros: habíais tardado
+  uds: habían tardado
+futuro-perfecto:
+  yo: habré tardado
+  tu: habrás tardado
+  vos: habrás tardado
+  ud: habrá tardado
+  nosotros: habremos tardado
+  vosotros: habréis tardado
+  uds: habrán tardado
+condicional-perfecto:
+  yo: habría tardado
+  tu: habrías tardado
+  vos: habrías tardado
+  ud: habría tardado
+  nosotros: habríamos tardado
+  vosotros: habríais tardado
+  uds: habrían tardado
+presente-subjuntivo:
+  yo: tarde
+  tu: tardes
+  vos: tardes
+  ud: tarde
+  nosotros: tardemos
+  vosotros: tardéis
+  uds: tarden
+preterito-perfecto-subjuntivo:
+  yo: haya tardado
+  tu: hayas tardado
+  vos: hayas tardado
+  ud: haya tardado
+  nosotros: hayamos tardado
+  vosotros: hayáis tardado
+  uds: hayan tardado
+imperfecto-subjuntivo:
+  yo:
+    - tardara
+    - tardase
+  tu:
+    - tardaras
+    - tardases
+  vos:
+    - tardaras
+    - tardases
+  ud:
+    - tardara
+    - tardase
+  nosotros:
+    - tardáramos
+    - tardásemos
+  vosotros:
+    - tardarais
+    - tardaseis
+  uds:
+    - tardaran
+    - tardasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tardado
+    - hubiese tardado
+  tu:
+    - hubieras tardado
+    - hubieses tardado
+  vos:
+    - hubieras tardado
+    - hubieses tardado
+  ud:
+    - hubiera tardado
+    - hubiese tardado
+  nosotros:
+    - hubiéramos tardado
+    - hubiésemos tardado
+  vosotros:
+    - hubierais tardado
+    - hubieseis tardado
+  uds:
+    - hubieran tardado
+    - hubiesen tardado
+imperativo:
+  tu: tarda
+  vos: tardá
+  ud: tarde
+  nosotros: tardemos
+  vosotros: tardad
+  uds: tarden

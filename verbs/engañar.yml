@@ -1,0 +1,142 @@
+infinitivo: engañar
+gerundio: engañando
+participio-pasado: engañado
+presente-indicativo:
+  yo: engaño
+  tu: engañas
+  vos: engañas
+  ud: engaña
+  nosotros: engañamos
+  vosotros: engañáis
+  uds: engañan
+preterito-perfecto-simple:
+  yo: engañé
+  tu: engañaste
+  vos: engañaste
+  ud: engañó
+  nosotros: engañamos
+  vosotros: engañasteis
+  uds: engañaron
+preterito-imperfecto:
+  yo: engañaba
+  tu: engañabas
+  vos: engañabas
+  ud: engañaba
+  nosotros: engañábamos
+  vosotros: engañabais
+  uds: engañaban
+futuro-simple:
+  yo: engañaré
+  tu: engañarás
+  vos: engañarás
+  ud: engañará
+  nosotros: engañaremos
+  vosotros: engañaréis
+  uds: engañarán
+condicional-simple:
+  yo: engañaría
+  tu: engañarías
+  vos: engañarías
+  ud: engañaría
+  nosotros: engañaríamos
+  vosotros: engañaríais
+  uds: engañarían
+presente-perfecto:
+  yo: he engañado
+  tu: has engañado
+  vos: has engañado
+  ud: ha engañado
+  nosotros: hemos engañado
+  vosotros: habéis engañado
+  uds: han engañado
+preterito-pluscuamperfecto:
+  yo: había engañado
+  tu: habías engañado
+  vos: habías engañado
+  ud: había engañado
+  nosotros: habíamos engañado
+  vosotros: habíais engañado
+  uds: habían engañado
+futuro-perfecto:
+  yo: habré engañado
+  tu: habrás engañado
+  vos: habrás engañado
+  ud: habrá engañado
+  nosotros: habremos engañado
+  vosotros: habréis engañado
+  uds: habrán engañado
+condicional-perfecto:
+  yo: habría engañado
+  tu: habrías engañado
+  vos: habrías engañado
+  ud: habría engañado
+  nosotros: habríamos engañado
+  vosotros: habríais engañado
+  uds: habrían engañado
+presente-subjuntivo:
+  yo: engañe
+  tu: engañes
+  vos: engañes
+  ud: engañe
+  nosotros: engañemos
+  vosotros: engañéis
+  uds: engañen
+preterito-perfecto-subjuntivo:
+  yo: haya engañado
+  tu: hayas engañado
+  vos: hayas engañado
+  ud: haya engañado
+  nosotros: hayamos engañado
+  vosotros: hayáis engañado
+  uds: hayan engañado
+imperfecto-subjuntivo:
+  yo:
+    - engañara
+    - engañase
+  tu:
+    - engañaras
+    - engañases
+  vos:
+    - engañaras
+    - engañases
+  ud:
+    - engañara
+    - engañase
+  nosotros:
+    - engañáramos
+    - engañásemos
+  vosotros:
+    - engañarais
+    - engañaseis
+  uds:
+    - engañaran
+    - engañasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera engañado
+    - hubiese engañado
+  tu:
+    - hubieras engañado
+    - hubieses engañado
+  vos:
+    - hubieras engañado
+    - hubieses engañado
+  ud:
+    - hubiera engañado
+    - hubiese engañado
+  nosotros:
+    - hubiéramos engañado
+    - hubiésemos engañado
+  vosotros:
+    - hubierais engañado
+    - hubieseis engañado
+  uds:
+    - hubieran engañado
+    - hubiesen engañado
+imperativo:
+  tu: engaña
+  vos: engañá
+  ud: engañe
+  nosotros: engañemos
+  vosotros: engañad
+  uds: engañen

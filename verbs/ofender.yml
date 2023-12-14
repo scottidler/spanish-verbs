@@ -1,0 +1,142 @@
+infinitivo: ofender
+gerundio: ofendiendo
+participio-pasado: ofendido
+presente-indicativo:
+  yo: ofendo
+  tu: ofendes
+  vos: ofendes
+  ud: ofende
+  nosotros: ofendemos
+  vosotros: ofendéis
+  uds: ofenden
+preterito-perfecto-simple:
+  yo: ofendí
+  tu: ofendiste
+  vos: ofendiste
+  ud: ofendió
+  nosotros: ofendimos
+  vosotros: ofendisteis
+  uds: ofendieron
+preterito-imperfecto:
+  yo: ofendía
+  tu: ofendías
+  vos: ofendías
+  ud: ofendía
+  nosotros: ofendíamos
+  vosotros: ofendíais
+  uds: ofendían
+futuro-simple:
+  yo: ofenderé
+  tu: ofenderás
+  vos: ofenderás
+  ud: ofenderá
+  nosotros: ofenderemos
+  vosotros: ofenderéis
+  uds: ofenderán
+condicional-simple:
+  yo: ofendería
+  tu: ofenderías
+  vos: ofenderías
+  ud: ofendería
+  nosotros: ofenderíamos
+  vosotros: ofenderíais
+  uds: ofenderían
+presente-perfecto:
+  yo: he ofendido
+  tu: has ofendido
+  vos: has ofendido
+  ud: ha ofendido
+  nosotros: hemos ofendido
+  vosotros: habéis ofendido
+  uds: han ofendido
+preterito-pluscuamperfecto:
+  yo: había ofendido
+  tu: habías ofendido
+  vos: habías ofendido
+  ud: había ofendido
+  nosotros: habíamos ofendido
+  vosotros: habíais ofendido
+  uds: habían ofendido
+futuro-perfecto:
+  yo: habré ofendido
+  tu: habrás ofendido
+  vos: habrás ofendido
+  ud: habrá ofendido
+  nosotros: habremos ofendido
+  vosotros: habréis ofendido
+  uds: habrán ofendido
+condicional-perfecto:
+  yo: habría ofendido
+  tu: habrías ofendido
+  vos: habrías ofendido
+  ud: habría ofendido
+  nosotros: habríamos ofendido
+  vosotros: habríais ofendido
+  uds: habrían ofendido
+presente-subjuntivo:
+  yo: ofenda
+  tu: ofendas
+  vos: ofendas
+  ud: ofenda
+  nosotros: ofendamos
+  vosotros: ofendáis
+  uds: ofendan
+preterito-perfecto-subjuntivo:
+  yo: haya ofendido
+  tu: hayas ofendido
+  vos: hayas ofendido
+  ud: haya ofendido
+  nosotros: hayamos ofendido
+  vosotros: hayáis ofendido
+  uds: hayan ofendido
+imperfecto-subjuntivo:
+  yo:
+    - ofendiera
+    - ofendiese
+  tu:
+    - ofendieras
+    - ofendieses
+  vos:
+    - ofendieras
+    - ofendieses
+  ud:
+    - ofendiera
+    - ofendiese
+  nosotros:
+    - ofendiéramos
+    - ofendiésemos
+  vosotros:
+    - ofendierais
+    - ofendieseis
+  uds:
+    - ofendieran
+    - ofendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera ofendido
+    - hubiese ofendido
+  tu:
+    - hubieras ofendido
+    - hubieses ofendido
+  vos:
+    - hubieras ofendido
+    - hubieses ofendido
+  ud:
+    - hubiera ofendido
+    - hubiese ofendido
+  nosotros:
+    - hubiéramos ofendido
+    - hubiésemos ofendido
+  vosotros:
+    - hubierais ofendido
+    - hubieseis ofendido
+  uds:
+    - hubieran ofendido
+    - hubiesen ofendido
+imperativo:
+  tu: ofende
+  vos: ofendé
+  ud: ofenda
+  nosotros: ofendamos
+  vosotros: ofended
+  uds: ofendan

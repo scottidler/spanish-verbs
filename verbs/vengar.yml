@@ -1,0 +1,142 @@
+infinitivo: vengar
+gerundio: vengando
+participio-pasado: vengado
+presente-indicativo:
+  yo: vengo
+  tu: vienes
+  vos: venís
+  ud: viene
+  nosotros: venimos
+  vosotros: venís
+  uds: vienen
+preterito-perfecto-simple:
+  yo: vengué
+  tu: vengaste
+  vos: vengaste
+  ud: vengó
+  nosotros: vengamos
+  vosotros: vengasteis
+  uds: vengaron
+preterito-imperfecto:
+  yo: vengaba
+  tu: vengabas
+  vos: vengabas
+  ud: vengaba
+  nosotros: vengábamos
+  vosotros: vengabais
+  uds: vengaban
+futuro-simple:
+  yo: vengaré
+  tu: vengarás
+  vos: vengarás
+  ud: vengará
+  nosotros: vengaremos
+  vosotros: vengaréis
+  uds: vengarán
+condicional-simple:
+  yo: vengaría
+  tu: vengarías
+  vos: vengarías
+  ud: vengaría
+  nosotros: vengaríamos
+  vosotros: vengaríais
+  uds: vengarían
+presente-perfecto:
+  yo: he vengado
+  tu: has vengado
+  vos: has vengado
+  ud: ha vengado
+  nosotros: hemos vengado
+  vosotros: habéis vengado
+  uds: han vengado
+preterito-pluscuamperfecto:
+  yo: había vengado
+  tu: habías vengado
+  vos: habías vengado
+  ud: había vengado
+  nosotros: habíamos vengado
+  vosotros: habíais vengado
+  uds: habían vengado
+futuro-perfecto:
+  yo: habré vengado
+  tu: habrás vengado
+  vos: habrás vengado
+  ud: habrá vengado
+  nosotros: habremos vengado
+  vosotros: habréis vengado
+  uds: habrán vengado
+condicional-perfecto:
+  yo: habría vengado
+  tu: habrías vengado
+  vos: habrías vengado
+  ud: habría vengado
+  nosotros: habríamos vengado
+  vosotros: habríais vengado
+  uds: habrían vengado
+presente-subjuntivo:
+  yo: vengue
+  tu: vengues
+  vos: vengues
+  ud: vengue
+  nosotros: venguemos
+  vosotros: venguéis
+  uds: venguen
+preterito-perfecto-subjuntivo:
+  yo: haya vengado
+  tu: hayas vengado
+  vos: hayas vengado
+  ud: haya vengado
+  nosotros: hayamos vengado
+  vosotros: hayáis vengado
+  uds: hayan vengado
+imperfecto-subjuntivo:
+  yo:
+    - vengara
+    - vengase
+  tu:
+    - vengaras
+    - vengases
+  vos:
+    - vengaras
+    - vengases
+  ud:
+    - vengara
+    - vengase
+  nosotros:
+    - vengáramos
+    - vengásemos
+  vosotros:
+    - vengarais
+    - vengaseis
+  uds:
+    - vengaran
+    - vengasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vengado
+    - hubiese vengado
+  tu:
+    - hubieras vengado
+    - hubieses vengado
+  vos:
+    - hubieras vengado
+    - hubieses vengado
+  ud:
+    - hubiera vengado
+    - hubiese vengado
+  nosotros:
+    - hubiéramos vengado
+    - hubiésemos vengado
+  vosotros:
+    - hubierais vengado
+    - hubieseis vengado
+  uds:
+    - hubieran vengado
+    - hubiesen vengado
+imperativo:
+  tu: venga
+  vos: vení
+  ud: venga
+  nosotros: vengamos
+  vosotros: vengad
+  uds: vengan

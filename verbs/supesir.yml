@@ -1,0 +1,142 @@
+infinitivo: supesir
+gerundio: supesiendo
+participio-pasado: supedido
+presente-indicativo:
+  yo: supesgo
+  tu: supesges
+  vos: supesges
+  ud: supesge
+  nosotros: supesgimos
+  vosotros: supesgís
+  uds: supesgen
+preterito-perfecto-simple:
+  yo: supesí
+  tu: supesiste
+  vos: supesiste
+  ud: supesió
+  nosotros: supesimos
+  vosotros: supesisteis
+  uds: supesieron
+preterito-imperfecto:
+  yo: supesía
+  tu: supesías
+  vos: supesías
+  ud: supesía
+  nosotros: supesíamos
+  vosotros: supesíais
+  uds: supesían
+futuro-simple:
+  yo: supesiré
+  tu: supesirás
+  vos: supesirás
+  ud: supesirá
+  nosotros: supesiremos
+  vosotros: supesiréis
+  uds: supesirán
+condicional-simple:
+  yo: supesiría
+  tu: supesirías
+  vos: supesirías
+  ud: supesiría
+  nosotros: supesiríamos
+  vosotros: supesiríais
+  uds: supesirían
+presente-perfecto:
+  yo: he supedido
+  tu: has supedido
+  vos: has supedido
+  ud: ha supedido
+  nosotros: hemos supedido
+  vosotros: habéis supedido
+  uds: han supedido
+preterito-pluscuamperfecto:
+  yo: había supedido
+  tu: habías supedido
+  vos: habías supedido
+  ud: había supedido
+  nosotros: habíamos supedido
+  vosotros: habíais supedido
+  uds: habían supedido
+futuro-perfecto:
+  yo: habré supedido
+  tu: habrás supedido
+  vos: habrás supedido
+  ud: habrá supedido
+  nosotros: habremos supedido
+  vosotros: habréis supedido
+  uds: habrán supedido
+condicional-perfecto:
+  yo: habría supedido
+  tu: habrías supedido
+  vos: habrías supedido
+  ud: habría supedido
+  nosotros: habríamos supedido
+  vosotros: habríais supedido
+  uds: habrían supedido
+presente-subjuntivo:
+  yo: supesga
+  tu: supesgas
+  vos: supesgas
+  ud: supesga
+  nosotros: supesgamos
+  vosotros: supesgáis
+  uds: supesgan
+preterito-perfecto-subjuntivo:
+  yo: haya supedido
+  tu: hayas supedido
+  vos: hayas supedido
+  ud: haya supedido
+  nosotros: hayamos supedido
+  vosotros: hayáis supedido
+  uds: hayan supedido
+imperfecto-subjuntivo:
+  yo:
+    - supesiera
+    - supesiese
+  tu:
+    - supesieras
+    - supesieses
+  vos:
+    - supesieras
+    - supesieses
+  ud:
+    - supesiera
+    - supesiese
+  nosotros:
+    - supesiéramos
+    - supesiésemos
+  vosotros:
+    - supesierais
+    - supesieseis
+  uds:
+    - supesieran
+    - supesiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera supedido
+    - hubiese supedido
+  tu:
+    - hubieras supedido
+    - hubieses supedido
+  vos:
+    - hubieras supedido
+    - hubieses supedido
+  ud:
+    - hubiera supedido
+    - hubiese supedido
+  nosotros:
+    - hubiéramos supedido
+    - hubiésemos supedido
+  vosotros:
+    - hubierais supedido
+    - hubieseis supedido
+  uds:
+    - hubieran supedido
+    - hubiesen supedido
+imperativo:
+  tu: supes
+  vos: supesí
+  ud: supesga
+  nosotros: supesgamos
+  vosotros: supeded
+  uds: supesgan

@@ -1,0 +1,142 @@
+infinitivo: experimentar
+gerundio: experimentando
+participio-pasado: experimentado
+presente-indicativo:
+  yo: experimento
+  tu: experimentas
+  vos: experimentas
+  ud: experimenta
+  nosotros: experimentamos
+  vosotros: experimentáis
+  uds: experimentan
+preterito-perfecto-simple:
+  yo: experimenté
+  tu: experimentaste
+  vos: experimentaste
+  ud: experimentó
+  nosotros: experimentamos
+  vosotros: experimentasteis
+  uds: experimentaron
+preterito-imperfecto:
+  yo: experimentaba
+  tu: experimentabas
+  vos: experimentabas
+  ud: experimentaba
+  nosotros: experimentábamos
+  vosotros: experimentabais
+  uds: experimentaban
+futuro-simple:
+  yo: experimentaré
+  tu: experimentarás
+  vos: experimentarás
+  ud: experimentará
+  nosotros: experimentaremos
+  vosotros: experimentaréis
+  uds: experimentarán
+condicional-simple:
+  yo: experimentaría
+  tu: experimentarías
+  vos: experimentarías
+  ud: experimentaría
+  nosotros: experimentaríamos
+  vosotros: experimentaríais
+  uds: experimentarían
+presente-perfecto:
+  yo: he experimentado
+  tu: has experimentado
+  vos: has experimentado
+  ud: ha experimentado
+  nosotros: hemos experimentado
+  vosotros: habéis experimentado
+  uds: han experimentado
+preterito-pluscuamperfecto:
+  yo: había experimentado
+  tu: habías experimentado
+  vos: habías experimentado
+  ud: había experimentado
+  nosotros: habíamos experimentado
+  vosotros: habíais experimentado
+  uds: habían experimentado
+futuro-perfecto:
+  yo: habré experimentado
+  tu: habrás experimentado
+  vos: habrás experimentado
+  ud: habrá experimentado
+  nosotros: habremos experimentado
+  vosotros: habréis experimentado
+  uds: habrán experimentado
+condicional-perfecto:
+  yo: habría experimentado
+  tu: habrías experimentado
+  vos: habrías experimentado
+  ud: habría experimentado
+  nosotros: habríamos experimentado
+  vosotros: habríais experimentado
+  uds: habrían experimentado
+presente-subjuntivo:
+  yo: experimente
+  tu: experimentes
+  vos: experimentes
+  ud: experimente
+  nosotros: experimentemos
+  vosotros: experimentéis
+  uds: experimenten
+preterito-perfecto-subjuntivo:
+  yo: haya experimentado
+  tu: hayas experimentado
+  vos: hayas experimentado
+  ud: haya experimentado
+  nosotros: hayamos experimentado
+  vosotros: hayáis experimentado
+  uds: hayan experimentado
+imperfecto-subjuntivo:
+  yo:
+    - experimentara
+    - experimentase
+  tu:
+    - experimentaras
+    - experimentases
+  vos:
+    - experimentaras
+    - experimentases
+  ud:
+    - experimentara
+    - experimentase
+  nosotros:
+    - experimentáramos
+    - experimentásemos
+  vosotros:
+    - experimentarais
+    - experimentaseis
+  uds:
+    - experimentaran
+    - experimentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera experimentado
+    - hubiese experimentado
+  tu:
+    - hubieras experimentado
+    - hubieses experimentado
+  vos:
+    - hubieras experimentado
+    - hubieses experimentado
+  ud:
+    - hubiera experimentado
+    - hubiese experimentado
+  nosotros:
+    - hubiéramos experimentado
+    - hubiésemos experimentado
+  vosotros:
+    - hubierais experimentado
+    - hubieseis experimentado
+  uds:
+    - hubieran experimentado
+    - hubiesen experimentado
+imperativo:
+  tu: experimenta
+  vos: experimentá
+  ud: experimente
+  nosotros: experimentemos
+  vosotros: experimentad
+  uds: experimenten

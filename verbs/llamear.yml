@@ -1,0 +1,142 @@
+infinitivo: llamear
+gerundio: llameando
+participio-pasado: llameado
+presente-indicativo:
+  yo: llameo
+  tu: llameas
+  vos: llameas
+  ud: llamea
+  nosotros: llameamos
+  vosotros: llameáis
+  uds: llamean
+preterito-perfecto-simple:
+  yo: llameé
+  tu: llameaste
+  vos: llameaste
+  ud: llameó
+  nosotros: llameamos
+  vosotros: llameasteis
+  uds: llamearon
+preterito-imperfecto:
+  yo: llameaba
+  tu: llameabas
+  vos: llameabas
+  ud: llameaba
+  nosotros: llameábamos
+  vosotros: llameabais
+  uds: llameaban
+futuro-simple:
+  yo: llamearé
+  tu: llamearás
+  vos: llamearás
+  ud: llameará
+  nosotros: llamearemos
+  vosotros: llamearéis
+  uds: llamearán
+condicional-simple:
+  yo: llamearía
+  tu: llamearías
+  vos: llamearías
+  ud: llamearía
+  nosotros: llamearíamos
+  vosotros: llamearíais
+  uds: llamearían
+presente-perfecto:
+  yo: he llameado
+  tu: has llameado
+  vos: has llameado
+  ud: ha llameado
+  nosotros: hemos llameado
+  vosotros: habéis llameado
+  uds: han llameado
+preterito-pluscuamperfecto:
+  yo: había llameado
+  tu: habías llameado
+  vos: habías llameado
+  ud: había llameado
+  nosotros: habíamos llameado
+  vosotros: habíais llameado
+  uds: habían llameado
+futuro-perfecto:
+  yo: habré llameado
+  tu: habrás llameado
+  vos: habrás llameado
+  ud: habrá llameado
+  nosotros: habremos llameado
+  vosotros: habréis llameado
+  uds: habrán llameado
+condicional-perfecto:
+  yo: habría llameado
+  tu: habrías llameado
+  vos: habrías llameado
+  ud: habría llameado
+  nosotros: habríamos llameado
+  vosotros: habríais llameado
+  uds: habrían llameado
+presente-subjuntivo:
+  yo: llamee
+  tu: llamees
+  vos: llamees
+  ud: llamee
+  nosotros: llameemos
+  vosotros: llameéis
+  uds: llameen
+preterito-perfecto-subjuntivo:
+  yo: haya llameado
+  tu: hayas llameado
+  vos: hayas llameado
+  ud: haya llameado
+  nosotros: hayamos llameado
+  vosotros: hayáis llameado
+  uds: hayan llameado
+imperfecto-subjuntivo:
+  yo:
+    - llameara
+    - llamease
+  tu:
+    - llamearas
+    - llameases
+  vos:
+    - llamearas
+    - llameases
+  ud:
+    - llameara
+    - llamease
+  nosotros:
+    - llameáramos
+    - llameásemos
+  vosotros:
+    - llamearais
+    - llameaseis
+  uds:
+    - llamearan
+    - llameasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llameado
+    - hubiese llameado
+  tu:
+    - hubieras llameado
+    - hubieses llameado
+  vos:
+    - hubieras llameado
+    - hubieses llameado
+  ud:
+    - hubiera llameado
+    - hubiese llameado
+  nosotros:
+    - hubiéramos llameado
+    - hubiésemos llameado
+  vosotros:
+    - hubierais llameado
+    - hubieseis llameado
+  uds:
+    - hubieran llameado
+    - hubiesen llameado
+imperativo:
+  tu: llamea
+  vos: llameá
+  ud: llamee
+  nosotros: llameemos
+  vosotros: llamead
+  uds: llameen

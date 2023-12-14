@@ -1,0 +1,142 @@
+infinitivo: inspirar
+gerundio: inspirando
+participio-pasado: inspirado
+presente-indicativo:
+  yo: inspiro
+  tu: inspiras
+  vos: inspiras
+  ud: inspira
+  nosotros: inspiramos
+  vosotros: inspiráis
+  uds: inspiran
+preterito-perfecto-simple:
+  yo: inspiré
+  tu: inspiraste
+  vos: inspiraste
+  ud: inspiró
+  nosotros: inspiramos
+  vosotros: inspirasteis
+  uds: inspiraron
+preterito-imperfecto:
+  yo: inspiraba
+  tu: inspirabas
+  vos: inspirabas
+  ud: inspiraba
+  nosotros: inspirábamos
+  vosotros: inspirabais
+  uds: inspiraban
+futuro-simple:
+  yo: inspiraré
+  tu: inspirarás
+  vos: inspirarás
+  ud: inspirará
+  nosotros: inspiraremos
+  vosotros: inspiraréis
+  uds: inspirarán
+condicional-simple:
+  yo: inspiraría
+  tu: inspirarías
+  vos: inspirarías
+  ud: inspiraría
+  nosotros: inspiraríamos
+  vosotros: inspiraríais
+  uds: inspirarían
+presente-perfecto:
+  yo: he inspirado
+  tu: has inspirado
+  vos: has inspirado
+  ud: ha inspirado
+  nosotros: hemos inspirado
+  vosotros: habéis inspirado
+  uds: han inspirado
+preterito-pluscuamperfecto:
+  yo: había inspirado
+  tu: habías inspirado
+  vos: habías inspirado
+  ud: había inspirado
+  nosotros: habíamos inspirado
+  vosotros: habíais inspirado
+  uds: habían inspirado
+futuro-perfecto:
+  yo: habré inspirado
+  tu: habrás inspirado
+  vos: habrás inspirado
+  ud: habrá inspirado
+  nosotros: habremos inspirado
+  vosotros: habréis inspirado
+  uds: habrán inspirado
+condicional-perfecto:
+  yo: habría inspirado
+  tu: habrías inspirado
+  vos: habrías inspirado
+  ud: habría inspirado
+  nosotros: habríamos inspirado
+  vosotros: habríais inspirado
+  uds: habrían inspirado
+presente-subjuntivo:
+  yo: inspire
+  tu: inspires
+  vos: inspires
+  ud: inspire
+  nosotros: inspiremos
+  vosotros: inspiréis
+  uds: inspiren
+preterito-perfecto-subjuntivo:
+  yo: haya inspirado
+  tu: hayas inspirado
+  vos: hayas inspirado
+  ud: haya inspirado
+  nosotros: hayamos inspirado
+  vosotros: hayáis inspirado
+  uds: hayan inspirado
+imperfecto-subjuntivo:
+  yo:
+    - inspirara
+    - inspirase
+  tu:
+    - inspiraras
+    - inspirases
+  vos:
+    - inspiraras
+    - inspirases
+  ud:
+    - inspirara
+    - inspirase
+  nosotros:
+    - inspiráramos
+    - inspirásemos
+  vosotros:
+    - inspirarais
+    - inspiraseis
+  uds:
+    - inspiraran
+    - inspirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera inspirado
+    - hubiese inspirado
+  tu:
+    - hubieras inspirado
+    - hubieses inspirado
+  vos:
+    - hubieras inspirado
+    - hubieses inspirado
+  ud:
+    - hubiera inspirado
+    - hubiese inspirado
+  nosotros:
+    - hubiéramos inspirado
+    - hubiésemos inspirado
+  vosotros:
+    - hubierais inspirado
+    - hubieseis inspirado
+  uds:
+    - hubieran inspirado
+    - hubiesen inspirado
+imperativo:
+  tu: inspira
+  vos: inspirá
+  ud: inspire
+  nosotros: inspiremos
+  vosotros: inspirad
+  uds: inspiren

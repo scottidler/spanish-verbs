@@ -1,0 +1,142 @@
+infinitivo: respectar
+gerundio: respectando
+participio-pasado: respetado
+presente-indicativo:
+  yo: respeto
+  tu: respetas
+  vos: respetas
+  ud: respeta
+  nosotros: respetamos
+  vosotros: respetáis
+  uds: respetan
+preterito-perfecto-simple:
+  yo: respeté
+  tu: respetaste
+  vos: respetaste
+  ud: respetó
+  nosotros: respetamos
+  vosotros: respetasteis
+  uds: respetaron
+preterito-imperfecto:
+  yo: respetaba
+  tu: respetabas
+  vos: respetabas
+  ud: respetaba
+  nosotros: respetábamos
+  vosotros: respetabais
+  uds: respetaban
+futuro-simple:
+  yo: respetaré
+  tu: respetarás
+  vos: respetarás
+  ud: respetará
+  nosotros: respetaremos
+  vosotros: respetaréis
+  uds: respetarán
+condicional-simple:
+  yo: respetaría
+  tu: respetarías
+  vos: respetarías
+  ud: respetaría
+  nosotros: respetaríamos
+  vosotros: respetaríais
+  uds: respetarían
+presente-perfecto:
+  yo: he respetado
+  tu: has respetado
+  vos: has respetado
+  ud: ha respetado
+  nosotros: hemos respetado
+  vosotros: habéis respetado
+  uds: han respetado
+preterito-pluscuamperfecto:
+  yo: había respetado
+  tu: habías respetado
+  vos: habías respetado
+  ud: había respetado
+  nosotros: habíamos respetado
+  vosotros: habíais respetado
+  uds: habían respetado
+futuro-perfecto:
+  yo: habré respetado
+  tu: habrás respetado
+  vos: habrás respetado
+  ud: habrá respetado
+  nosotros: habremos respetado
+  vosotros: habréis respetado
+  uds: habrán respetado
+condicional-perfecto:
+  yo: habría respetado
+  tu: habrías respetado
+  vos: habrías respetado
+  ud: habría respetado
+  nosotros: habríamos respetado
+  vosotros: habríais respetado
+  uds: habrían respetado
+presente-subjuntivo:
+  yo: respete
+  tu: respetes
+  vos: respetes
+  ud: respete
+  nosotros: respetemos
+  vosotros: respetéis
+  uds: respeten
+preterito-perfecto-subjuntivo:
+  yo: haya respetado
+  tu: hayas respetado
+  vos: hayas respetado
+  ud: haya respetado
+  nosotros: hayamos respetado
+  vosotros: hayáis respetado
+  uds: hayan respetado
+imperfecto-subjuntivo:
+  yo:
+    - respetara
+    - respetase
+  tu:
+    - respetaras
+    - respetases
+  vos:
+    - respetaras
+    - respetases
+  ud:
+    - respetara
+    - respetase
+  nosotros:
+    - respetáramos
+    - respetásemos
+  vosotros:
+    - respetarais
+    - respetaseis
+  uds:
+    - respetaran
+    - respetasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera respetado
+    - hubiese respetado
+  tu:
+    - hubieras respetado
+    - hubieses respetado
+  vos:
+    - hubieras respetado
+    - hubieses respetado
+  ud:
+    - hubiera respetado
+    - hubiese respetado
+  nosotros:
+    - hubiéramos respetado
+    - hubiésemos respetado
+  vosotros:
+    - hubierais respetado
+    - hubieseis respetado
+  uds:
+    - hubieran respetado
+    - hubiesen respetado
+imperativo:
+  tu: respeta
+  vos: respetá
+  ud: respete
+  nosotros: respetemos
+  vosotros: respetad
+  uds: respeten

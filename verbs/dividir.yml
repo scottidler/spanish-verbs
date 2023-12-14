@@ -1,0 +1,142 @@
+infinitivo: dividir
+gerundio: dividiendo
+participio-pasado: dividido
+presente-indicativo:
+  yo: divido
+  tu: divides
+  vos: divides
+  ud: divide
+  nosotros: dividimos
+  vosotros: dividís
+  uds: dividen
+preterito-perfecto-simple:
+  yo: dividí
+  tu: dividiste
+  vos: dividiste
+  ud: dividió
+  nosotros: dividimos
+  vosotros: dividisteis
+  uds: dividieron
+preterito-imperfecto:
+  yo: dividía
+  tu: dividías
+  vos: dividías
+  ud: dividía
+  nosotros: dividíamos
+  vosotros: dividíais
+  uds: dividían
+futuro-simple:
+  yo: dividiré
+  tu: dividirás
+  vos: dividirás
+  ud: dividirá
+  nosotros: dividiremos
+  vosotros: dividiréis
+  uds: dividirán
+condicional-simple:
+  yo: dividiría
+  tu: dividirías
+  vos: dividirías
+  ud: dividiría
+  nosotros: dividiríamos
+  vosotros: dividiríais
+  uds: dividirían
+presente-perfecto:
+  yo: he dividido
+  tu: has dividido
+  vos: has dividido
+  ud: ha dividido
+  nosotros: hemos dividido
+  vosotros: habéis dividido
+  uds: han dividido
+preterito-pluscuamperfecto:
+  yo: había dividido
+  tu: habías dividido
+  vos: habías dividido
+  ud: había dividido
+  nosotros: habíamos dividido
+  vosotros: habíais dividido
+  uds: habían dividido
+futuro-perfecto:
+  yo: habré dividido
+  tu: habrás dividido
+  vos: habrás dividido
+  ud: habrá dividido
+  nosotros: habremos dividido
+  vosotros: habréis dividido
+  uds: habrán dividido
+condicional-perfecto:
+  yo: habría dividido
+  tu: habrías dividido
+  vos: habrías dividido
+  ud: habría dividido
+  nosotros: habríamos dividido
+  vosotros: habríais dividido
+  uds: habrían dividido
+presente-subjuntivo:
+  yo: divida
+  tu: dividas
+  vos: dividas
+  ud: divida
+  nosotros: dividamos
+  vosotros: dividáis
+  uds: dividan
+preterito-perfecto-subjuntivo:
+  yo: haya dividido
+  tu: hayas dividido
+  vos: hayas dividido
+  ud: haya dividido
+  nosotros: hayamos dividido
+  vosotros: hayáis dividido
+  uds: hayan dividido
+imperfecto-subjuntivo:
+  yo:
+    - dividiera
+    - dividiese
+  tu:
+    - dividieras
+    - dividieses
+  vos:
+    - dividieras
+    - dividieses
+  ud:
+    - dividiera
+    - dividiese
+  nosotros:
+    - dividiéramos
+    - dividiésemos
+  vosotros:
+    - dividierais
+    - dividieseis
+  uds:
+    - dividieran
+    - dividiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dividido
+    - hubiese dividido
+  tu:
+    - hubieras dividido
+    - hubieses dividido
+  vos:
+    - hubieras dividido
+    - hubieses dividido
+  ud:
+    - hubiera dividido
+    - hubiese dividido
+  nosotros:
+    - hubiéramos dividido
+    - hubiésemos dividido
+  vosotros:
+    - hubierais dividido
+    - hubieseis dividido
+  uds:
+    - hubieran dividido
+    - hubiesen dividido
+imperativo:
+  tu: divide
+  vos: dividí
+  ud: divida
+  nosotros: dividamos
+  vosotros: dividid
+  uds: dividan

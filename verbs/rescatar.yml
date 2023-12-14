@@ -1,0 +1,142 @@
+infinitivo: rescatar
+gerundio: rescatando
+participio-pasado: rescatado
+presente-indicativo:
+  yo: rescato
+  tu: rescatas
+  vos: rescatas
+  ud: rescata
+  nosotros: rescatamos
+  vosotros: rescatáis
+  uds: rescatan
+preterito-perfecto-simple:
+  yo: rescaté
+  tu: rescataste
+  vos: rescataste
+  ud: rescató
+  nosotros: rescatamos
+  vosotros: rescasteis
+  uds: rescataron
+preterito-imperfecto:
+  yo: rescataba
+  tu: rescatabas
+  vos: rescatabas
+  ud: rescataba
+  nosotros: rescatábamos
+  vosotros: rescatabais
+  uds: rescataban
+futuro-simple:
+  yo: rescataré
+  tu: rescatarás
+  vos: rescatarás
+  ud: rescatará
+  nosotros: rescataremos
+  vosotros: rescataréis
+  uds: rescatarán
+condicional-simple:
+  yo: rescataría
+  tu: rescatarías
+  vos: rescatarías
+  ud: rescataría
+  nosotros: rescataríamos
+  vosotros: rescataríais
+  uds: rescatarían
+presente-perfecto:
+  yo: he rescatado
+  tu: has rescatado
+  vos: has rescatado
+  ud: ha rescatado
+  nosotros: hemos rescatado
+  vosotros: habéis rescatado
+  uds: han rescatado
+preterito-pluscuamperfecto:
+  yo: había rescatado
+  tu: habías rescatado
+  vos: habías rescatado
+  ud: había rescatado
+  nosotros: habíamos rescatado
+  vosotros: habíais rescatado
+  uds: habían rescatado
+futuro-perfecto:
+  yo: habré rescatado
+  tu: habrás rescatado
+  vos: habrás rescatado
+  ud: habrá rescatado
+  nosotros: habremos rescatado
+  vosotros: habréis rescatado
+  uds: habrán rescatado
+condicional-perfecto:
+  yo: habría rescatado
+  tu: habrías rescatado
+  vos: habrías rescatado
+  ud: habría rescatado
+  nosotros: habríamos rescatado
+  vosotros: habríais rescatado
+  uds: habrían rescatado
+presente-subjuntivo:
+  yo: rescate
+  tu: rescates
+  vos: rescates
+  ud: rescate
+  nosotros: rescatemos
+  vosotros: rescatéis
+  uds: rescaten
+preterito-perfecto-subjuntivo:
+  yo: haya rescatado
+  tu: hayas rescatado
+  vos: hayas rescatado
+  ud: haya rescatado
+  nosotros: hayamos rescatado
+  vosotros: hayáis rescatado
+  uds: hayan rescatado
+imperfecto-subjuntivo:
+  yo:
+    - rescatara
+    - rescatase
+  tu:
+    - rescataras
+    - rescatases
+  vos:
+    - rescataras
+    - rescatases
+  ud:
+    - rescatara
+    - rescatase
+  nosotros:
+    - rescatáramos
+    - rescatásemos
+  vosotros:
+    - rescatarais
+    - rescataseis
+  uds:
+    - rescataran
+    - rescatasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rescatado
+    - hubiese rescatado
+  tu:
+    - hubieras rescatado
+    - hubieses rescatado
+  vos:
+    - hubieras rescatado
+    - hubieses rescatado
+  ud:
+    - hubiera rescatado
+    - hubiese rescatado
+  nosotros:
+    - hubiéramos rescatado
+    - hubiésemos rescatado
+  vosotros:
+    - hubierais rescatado
+    - hubieseis rescatado
+  uds:
+    - hubieran rescatado
+    - hubiesen rescatado
+imperativo:
+  tu: rescata
+  vos: rescatá
+  ud: rescate
+  nosotros: rescatemos
+  vosotros: rescatad
+  uds: rescaten

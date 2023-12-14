@@ -1,0 +1,142 @@
+infinitivo: escupir
+gerundio: escupiendo
+participio-pasado: escupido
+presente-indicativo:
+  yo: escupo
+  tu: escupes
+  vos: escupís
+  ud: escupe
+  nosotros: escupimos
+  vosotros: escupís
+  uds: escupen
+preterito-perfecto-simple:
+  yo: escupí
+  tu: escupiste
+  vos: escupiste
+  ud: escupió
+  nosotros: escupimos
+  vosotros: escupisteis
+  uds: escupieron
+preterito-imperfecto:
+  yo: escupía
+  tu: escupías
+  vos: escupías
+  ud: escupía
+  nosotros: escupíamos
+  vosotros: escupíais
+  uds: escupían
+futuro-simple:
+  yo: escupiré
+  tu: escupirás
+  vos: escupirás
+  ud: escupirá
+  nosotros: escupiremos
+  vosotros: escupiréis
+  uds: escupirán
+condicional-simple:
+  yo: escupiría
+  tu: escupirías
+  vos: escupirías
+  ud: escupiría
+  nosotros: escupiríamos
+  vosotros: escupiríais
+  uds: escupirían
+presente-perfecto:
+  yo: he escupido
+  tu: has escupido
+  vos: has escupido
+  ud: ha escupido
+  nosotros: hemos escupido
+  vosotros: habéis escupido
+  uds: han escupido
+preterito-pluscuamperfecto:
+  yo: había escupido
+  tu: habías escupido
+  vos: habías escupido
+  ud: había escupido
+  nosotros: habíamos escupido
+  vosotros: habíais escupido
+  uds: habían escupido
+futuro-perfecto:
+  yo: habré escupido
+  tu: habrás escupido
+  vos: habrás escupido
+  ud: habrá escupido
+  nosotros: habremos escupido
+  vosotros: habréis escupido
+  uds: habrán escupido
+condicional-perfecto:
+  yo: habría escupido
+  tu: habrías escupido
+  vos: habrías escupido
+  ud: habría escupido
+  nosotros: habríamos escupido
+  vosotros: habríais escupido
+  uds: habrían escupido
+presente-subjuntivo:
+  yo: escupa
+  tu: escupas
+  vos: escupas
+  ud: escupa
+  nosotros: escupamos
+  vosotros: escupáis
+  uds: escupan
+preterito-perfecto-subjuntivo:
+  yo: haya escupido
+  tu: hayas escupido
+  vos: hayas escupido
+  ud: haya escupido
+  nosotros: hayamos escupido
+  vosotros: hayáis escupido
+  uds: hayan escupido
+imperfecto-subjuntivo:
+  yo:
+    - escupiera
+    - escupiese
+  tu:
+    - escupieras
+    - escupieses
+  vos:
+    - escupieras
+    - escupieses
+  ud:
+    - escupiera
+    - escupiese
+  nosotros:
+    - escupiéramos
+    - escupiésemos
+  vosotros:
+    - escupierais
+    - escupieseis
+  uds:
+    - escupieran
+    - escupiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera escupido
+    - hubiese escupido
+  tu:
+    - hubieras escupido
+    - hubieses escupido
+  vos:
+    - hubieras escupido
+    - hubieses escupido
+  ud:
+    - hubiera escupido
+    - hubiese escupido
+  nosotros:
+    - hubiéramos escupido
+    - hubiésemos escupido
+  vosotros:
+    - hubierais escupido
+    - hubieseis escupido
+  uds:
+    - hubieran escupido
+    - hubiesen escupido
+imperativo:
+  tu: escupe
+  vos: escupí
+  ud: escupa
+  nosotros: escupamos
+  vosotros: escupid
+  uds: escupan

@@ -1,0 +1,142 @@
+infinitivo: enjuagar
+gerundio: enjuagando
+participio-pasado: enjuagado
+presente-indicativo:
+  yo: enjuago
+  tu: enjuagas
+  vos: enjuagas
+  ud: enjuaga
+  nosotros: enjuagamos
+  vosotros: enjuagáis
+  uds: enjuagan
+preterito-perfecto-simple:
+  yo: enjuagué
+  tu: enjuagaste
+  vos: enjuagaste
+  ud: enjuagó
+  nosotros: enjuagamos
+  vosotros: enjuagasteis
+  uds: enjuagaron
+preterito-imperfecto:
+  yo: enjuagaba
+  tu: enjuagabas
+  vos: enjuagabas
+  ud: enjuagaba
+  nosotros: enjuagábamos
+  vosotros: enjuagabais
+  uds: enjuagaban
+futuro-simple:
+  yo: enjuagaré
+  tu: enjuagarás
+  vos: enjuagarás
+  ud: enjuagará
+  nosotros: enjuagaremos
+  vosotros: enjuagaréis
+  uds: enjuagarán
+condicional-simple:
+  yo: enjuagaría
+  tu: enjuagarías
+  vos: enjuagarías
+  ud: enjuagaría
+  nosotros: enjuagaríamos
+  vosotros: enjuagaríais
+  uds: enjuagarían
+presente-perfecto:
+  yo: he enjuagado
+  tu: has enjuagado
+  vos: has enjuagado
+  ud: ha enjuagado
+  nosotros: hemos enjuagado
+  vosotros: habéis enjuagado
+  uds: han enjuagado
+preterito-pluscuamperfecto:
+  yo: había enjuagado
+  tu: habías enjuagado
+  vos: habías enjuagado
+  ud: había enjuagado
+  nosotros: habíamos enjuagado
+  vosotros: habíais enjuagado
+  uds: habían enjuagado
+futuro-perfecto:
+  yo: habré enjuagado
+  tu: habrás enjuagado
+  vos: habrás enjuagado
+  ud: habrá enjuagado
+  nosotros: habremos enjuagado
+  vosotros: habréis enjuagado
+  uds: habrán enjuagado
+condicional-perfecto:
+  yo: habría enjuagado
+  tu: habrías enjuagado
+  vos: habrías enjuagado
+  ud: habría enjuagado
+  nosotros: habríamos enjuagado
+  vosotros: habríais enjuagado
+  uds: habrían enjuagado
+presente-subjuntivo:
+  yo: enjuague
+  tu: enjuagues
+  vos: enjuagues
+  ud: enjuague
+  nosotros: enjuaguemos
+  vosotros: enjuaguéis
+  uds: enjuaguen
+preterito-perfecto-subjuntivo:
+  yo: haya enjuagado
+  tu: hayas enjuagado
+  vos: hayas enjuagado
+  ud: haya enjuagado
+  nosotros: hayamos enjuagado
+  vosotros: hayáis enjuagado
+  uds: hayan enjuagado
+imperfecto-subjuntivo:
+  yo:
+    - enjuagara
+    - enjuagase
+  tu:
+    - enjuagaras
+    - enjuagases
+  vos:
+    - enjuagaras
+    - enjuagases
+  ud:
+    - enjuagara
+    - enjuagase
+  nosotros:
+    - enjuagáramos
+    - enjuagásemos
+  vosotros:
+    - enjuagarais
+    - enjuagaseis
+  uds:
+    - enjuagaran
+    - enjuagasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enjuagado
+    - hubiese enjuagado
+  tu:
+    - hubieras enjuagado
+    - hubieses enjuagado
+  vos:
+    - hubieras enjuagado
+    - hubieses enjuagado
+  ud:
+    - hubiera enjuagado
+    - hubiese enjuagado
+  nosotros:
+    - hubiéramos enjuagado
+    - hubiésemos enjuagado
+  vosotros:
+    - hubierais enjuagado
+    - hubieseis enjuagado
+  uds:
+    - hubieran enjuagado
+    - hubiesen enjuagado
+imperativo:
+  tu: enjuaga
+  vos: enjuagá
+  ud: enjuague
+  nosotros: enjuaguemos
+  vosotros: enjuagad
+  uds: enjuaguen

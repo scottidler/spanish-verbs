@@ -1,0 +1,142 @@
+infinitivo: expiar
+gerundio: expiando
+participio-pasado: expiado
+presente-indicativo:
+  yo: expío
+  tu: expías
+  vos: expías
+  ud: expía
+  nosotros: expiamos
+  vosotros: expiáis
+  uds: expían
+preterito-perfecto-simple:
+  yo: expié
+  tu: expiaste
+  vos: expiaste
+  ud: expió
+  nosotros: expiamos
+  vosotros: expiasteis
+  uds: expiaron
+preterito-imperfecto:
+  yo: expiaba
+  tu: expiabas
+  vos: expiabas
+  ud: expiaba
+  nosotros: expiábamos
+  vosotros: expiabais
+  uds: expiaban
+futuro-simple:
+  yo: expiaré
+  tu: expiarás
+  vos: expiarás
+  ud: expiará
+  nosotros: expiaremos
+  vosotros: expiaréis
+  uds: expiarán
+condicional-simple:
+  yo: expiaría
+  tu: expiarías
+  vos: expiarías
+  ud: expiaría
+  nosotros: expiaríamos
+  vosotros: expiaríais
+  uds: expiarían
+presente-perfecto:
+  yo: he expiado
+  tu: has expiado
+  vos: has expiado
+  ud: ha expiado
+  nosotros: hemos expiado
+  vosotros: habéis expiado
+  uds: han expiado
+preterito-pluscuamperfecto:
+  yo: había expiado
+  tu: habías expiado
+  vos: habías expiado
+  ud: había expiado
+  nosotros: habíamos expiado
+  vosotros: habíais expiado
+  uds: habían expiado
+futuro-perfecto:
+  yo: habré expiado
+  tu: habrás expiado
+  vos: habrás expiado
+  ud: habrá expiado
+  nosotros: habremos expiado
+  vosotros: habréis expiado
+  uds: habrán expiado
+condicional-perfecto:
+  yo: habría expiado
+  tu: habrías expiado
+  vos: habrías expiado
+  ud: habría expiado
+  nosotros: habríamos expiado
+  vosotros: habríais expiado
+  uds: habrían expiado
+presente-subjuntivo:
+  yo: expíe
+  tu: expíes
+  vos: expíes
+  ud: expíe
+  nosotros: expiemos
+  vosotros: expiéis
+  uds: expíen
+preterito-perfecto-subjuntivo:
+  yo: haya expiado
+  tu: hayas expiado
+  vos: hayas expiado
+  ud: haya expiado
+  nosotros: hayamos expiado
+  vosotros: hayáis expiado
+  uds: hayan expiado
+imperfecto-subjuntivo:
+  yo:
+    - expiara
+    - expiase
+  tu:
+    - expiaras
+    - expiases
+  vos:
+    - expiaras
+    - expiases
+  ud:
+    - expiara
+    - expiase
+  nosotros:
+    - expiáramos
+    - expiésemos
+  vosotros:
+    - expiarais
+    - expiaseis
+  uds:
+    - expiaran
+    - expiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera expiado
+    - hubiese expiado
+  tu:
+    - hubieras expiado
+    - hubieses expiado
+  vos:
+    - hubieras expiado
+    - hubieses expiado
+  ud:
+    - hubiera expiado
+    - hubiese expiado
+  nosotros:
+    - hubiéramos expiado
+    - hubiésemos expiado
+  vosotros:
+    - hubierais expiado
+    - hubieseis expiado
+  uds:
+    - hubieran expiado
+    - hubiesen expiado
+imperativo:
+  tu: expía
+  vos: expiá
+  ud: expíe
+  nosotros: expiemos
+  vosotros: expiad
+  uds: expíen

@@ -1,0 +1,142 @@
+infinitivo: desordenar
+gerundio: desordenando
+participio-pasado: desordenado
+presente-indicativo:
+  yo: desordeno
+  tu: desordenas
+  vos: desordenas
+  ud: desordena
+  nosotros: desordenamos
+  vosotros: desordenáis
+  uds: desordenan
+preterito-perfecto-simple:
+  yo: desordené
+  tu: desordenaste
+  vos: desordenaste
+  ud: desordenó
+  nosotros: desordenamos
+  vosotros: desordenasteis
+  uds: desordenaron
+preterito-imperfecto:
+  yo: desordenaba
+  tu: desordenabas
+  vos: desordenabas
+  ud: desordenaba
+  nosotros: desordenábamos
+  vosotros: desordenabais
+  uds: desordenaban
+futuro-simple:
+  yo: desordenaré
+  tu: desordenarás
+  vos: desordenarás
+  ud: desordenará
+  nosotros: desordenaremos
+  vosotros: desordenaréis
+  uds: desordenarán
+condicional-simple:
+  yo: desordenaría
+  tu: desordenarías
+  vos: desordenarías
+  ud: desordenaría
+  nosotros: desordenaríamos
+  vosotros: desordenaríais
+  uds: desordenarían
+presente-perfecto:
+  yo: he desordenado
+  tu: has desordenado
+  vos: has desordenado
+  ud: ha desordenado
+  nosotros: hemos desordenado
+  vosotros: habéis desordenado
+  uds: han desordenado
+preterito-pluscuamperfecto:
+  yo: había desordenado
+  tu: habías desordenado
+  vos: habías desordenado
+  ud: había desordenado
+  nosotros: habíamos desordenado
+  vosotros: habíais desordenado
+  uds: habían desordenado
+futuro-perfecto:
+  yo: habré desordenado
+  tu: habrás desordenado
+  vos: habrás desordenado
+  ud: habrá desordenado
+  nosotros: habremos desordenado
+  vosotros: habréis desordenado
+  uds: habrán desordenado
+condicional-perfecto:
+  yo: habría desordenado
+  tu: habrías desordenado
+  vos: habrías desordenado
+  ud: habría desordenado
+  nosotros: habríamos desordenado
+  vosotros: habríais desordenado
+  uds: habrían desordenado
+presente-subjuntivo:
+  yo: desordene
+  tu: desordenes
+  vos: desordenes
+  ud: desordene
+  nosotros: desordenemos
+  vosotros: desordenéis
+  uds: desordenen
+preterito-perfecto-subjuntivo:
+  yo: haya desordenado
+  tu: hayas desordenado
+  vos: hayas desordenado
+  ud: haya desordenado
+  nosotros: hayamos desordenado
+  vosotros: hayáis desordenado
+  uds: hayan desordenado
+imperfecto-subjuntivo:
+  yo:
+    - desordenara
+    - desordenase
+  tu:
+    - desordenaras
+    - desordenases
+  vos:
+    - desordenaras
+    - desordenases
+  ud:
+    - desordenara
+    - desordenase
+  nosotros:
+    - desordenáramos
+    - desordenásemos
+  vosotros:
+    - desordenarais
+    - desordenaseis
+  uds:
+    - desordenaran
+    - desordenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desordenado
+    - hubiese desordenado
+  tu:
+    - hubieras desordenado
+    - hubieses desordenado
+  vos:
+    - hubieras desordenado
+    - hubieses desordenado
+  ud:
+    - hubiera desordenado
+    - hubiese desordenado
+  nosotros:
+    - hubiéramos desordenado
+    - hubiésemos desordenado
+  vosotros:
+    - hubierais desordenado
+    - hubieseis desordenado
+  uds:
+    - hubieran desordenado
+    - hubiesen desordenado
+imperativo:
+  tu: desordena
+  vos: desordená
+  ud: desordene
+  nosotros: desordenemos
+  vosotros: desordenad
+  uds: desordenen

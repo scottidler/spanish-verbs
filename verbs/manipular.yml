@@ -1,0 +1,142 @@
+infinitivo: manipular
+gerundio: manipulando
+participio-pasado: manipulado
+presente-indicativo:
+  yo: manipulo
+  tu: manipulas
+  vos: manipulas
+  ud: manipula
+  nosotros: manipulamos
+  vosotros: manipuláis
+  uds: manipulan
+preterito-perfecto-simple:
+  yo: manipulé
+  tu: manipulaste
+  vos: manipulaste
+  ud: manipuló
+  nosotros: manipulamos
+  vosotros: manipulasteis
+  uds: manipularon
+preterito-imperfecto:
+  yo: manipulaba
+  tu: manipulabas
+  vos: manipulabas
+  ud: manipulaba
+  nosotros: manipulábamos
+  vosotros: manipulabais
+  uds: manipulaban
+futuro-simple:
+  yo: manipularé
+  tu: manipularás
+  vos: manipularás
+  ud: manipulará
+  nosotros: manipularemos
+  vosotros: manipularéis
+  uds: manipularán
+condicional-simple:
+  yo: manipularía
+  tu: manipularías
+  vos: manipularías
+  ud: manipularía
+  nosotros: manipularíamos
+  vosotros: manipularíais
+  uds: manipularían
+presente-perfecto:
+  yo: he manipulado
+  tu: has manipulado
+  vos: has manipulado
+  ud: ha manipulado
+  nosotros: hemos manipulado
+  vosotros: habéis manipulado
+  uds: han manipulado
+preterito-pluscuamperfecto:
+  yo: había manipulado
+  tu: habías manipulado
+  vos: habías manipulado
+  ud: había manipulado
+  nosotros: habíamos manipulado
+  vosotros: habíais manipulado
+  uds: habían manipulado
+futuro-perfecto:
+  yo: habré manipulado
+  tu: habrás manipulado
+  vos: habrás manipulado
+  ud: habrá manipulado
+  nosotros: habremos manipulado
+  vosotros: habréis manipulado
+  uds: habrán manipulado
+condicional-perfecto:
+  yo: habría manipulado
+  tu: habrías manipulado
+  vos: habrías manipulado
+  ud: habría manipulado
+  nosotros: habríamos manipulado
+  vosotros: habríais manipulado
+  uds: habrían manipulado
+presente-subjuntivo:
+  yo: manipule
+  tu: manipules
+  vos: manipules
+  ud: manipule
+  nosotros: manipulemos
+  vosotros: manipuléis
+  uds: manipulen
+preterito-perfecto-subjuntivo:
+  yo: haya manipulado
+  tu: hayas manipulado
+  vos: hayas manipulado
+  ud: haya manipulado
+  nosotros: hayamos manipulado
+  vosotros: hayáis manipulado
+  uds: hayan manipulado
+imperfecto-subjuntivo:
+  yo:
+    - manipulara
+    - manipulase
+  tu:
+    - manipularas
+    - manipulases
+  vos:
+    - manipularas
+    - manipulases
+  ud:
+    - manipulara
+    - manipulase
+  nosotros:
+    - manipuláramos
+    - manipulásemos
+  vosotros:
+    - manipularais
+    - manipulaseis
+  uds:
+    - manipularan
+    - manipulasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera manipulado
+    - hubiese manipulado
+  tu:
+    - hubieras manipulado
+    - hubieses manipulado
+  vos:
+    - hubieras manipulado
+    - hubieses manipulado
+  ud:
+    - hubiera manipulado
+    - hubiese manipulado
+  nosotros:
+    - hubiéramos manipulado
+    - hubiésemos manipulado
+  vosotros:
+    - hubierais manipulado
+    - hubieseis manipulado
+  uds:
+    - hubieran manipulado
+    - hubiesen manipulado
+imperativo:
+  tu: manipula
+  vos: manipulá
+  ud: manipule
+  nosotros: manipulemos
+  vosotros: manipulad
+  uds: manipulen

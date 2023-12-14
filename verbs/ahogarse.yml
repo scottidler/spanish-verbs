@@ -1,0 +1,156 @@
+infinitivo: ahogarse
+gerundio: ahogándose
+participio-pasado: ahogado
+
+presente-indicativo:
+  yo: me ahogo
+  tu: te ahogas
+  vos: te ahogas
+  ud: se ahoga
+  nosotros: nos ahogamos
+  vosotros: os ahogáis
+  uds: se ahogan
+
+preterito-perfecto-simple:
+  yo: me ahogué
+  tu: te ahogaste
+  vos: te ahogaste
+  ud: se ahogó
+  nosotros: nos ahogamos
+  vosotros: os ahogasteis
+  uds: se ahogaron
+
+preterito-imperfecto:
+  yo: me ahogaba
+  tu: te ahogabas
+  vos: te ahogabas
+  ud: se ahogaba
+  nosotros: nos ahogábamos
+  vosotros: os ahogabais
+  uds: se ahogaban
+
+futuro-simple:
+  yo: me ahogaré
+  tu: te ahogarás
+  vos: te ahogarás
+  ud: se ahogará
+  nosotros: nos ahogaremos
+  vosotros: os ahogaréis
+  uds: se ahogarán
+
+condicional-simple:
+  yo: me ahogaría
+  tu: te ahogarías
+  vos: te ahogarías
+  ud: se ahogaría
+  nosotros: nos ahogaríamos
+  vosotros: os ahogaríais
+  uds: se ahogarían
+
+presente-perfecto:
+  yo: me he ahogado
+  tu: te has ahogado
+  vos: te has ahogado
+  ud: se ha ahogado
+  nosotros: nos hemos ahogado
+  vosotros: os habéis ahogado
+  uds: se han ahogado
+
+preterito-pluscuamperfecto:
+  yo: me había ahogado
+  tu: te habías ahogado
+  vos: te habías ahogado
+  ud: se había ahogado
+  nosotros: nos habíamos ahogado
+  vosotros: os habíais ahogado
+  uds: se habían ahogado
+
+futuro-perfecto:
+  yo: me habré ahogado
+  tu: te habrás ahogado
+  vos: te habrás ahogado
+  ud: se habrá ahogado
+  nosotros: nos habremos ahogado
+  vosotros: os habréis ahogado
+  uds: se habrán ahogado
+
+condicional-perfecto:
+  yo: me habría ahogado
+  tu: te habrías ahogado
+  vos: te habrías ahogado
+  ud: se habría ahogado
+  nosotros: nos habríamos ahogado
+  vosotros: os habríais ahogado
+  uds: se habrían ahogado
+
+presente-subjuntivo:
+  yo: me ahogue
+  tu: te ahogues
+  vos: te ahogues
+  ud: se ahogue
+  nosotros: nos ahoguemos
+  vosotros: os ahoguéis
+  uds: se ahoguen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya ahogado
+  tu: te hayas ahogado
+  vos: te hayas ahogado
+  ud: se haya ahogado
+  nosotros: nos hayamos ahogado
+  vosotros: os hayáis ahogado
+  uds: se hayan ahogado
+
+imperfecto-subjuntivo:
+  yo:
+    - me ahogara
+    - me ahogase
+  tu:
+    - te ahogaras
+    - te ahogases
+  vos:
+    - te ahogaras
+    - te ahogases
+  ud:
+    - se ahogara
+    - se ahogase
+  nosotros:
+    - nos ahogáramos
+    - nos ahogásemos
+  vosotros:
+    - os ahogarais
+    - os ahogaseis
+  uds:
+    - se ahogaran
+    - se ahogasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera ahogado
+    - me hubiese ahogado
+  tu:
+    - te hubieras ahogado
+    - te hubieses ahogado
+  vos:
+    - te hubieras ahogado
+    - te hubieses ahogado
+  ud:
+    - se hubiera ahogado
+    - se hubiese ahogado
+  nosotros:
+    - nos hubiéramos ahogado
+    - nos hubiésemos ahogado
+  vosotros:
+    - os hubierais ahogado
+    - os hubieseis ahogado
+  uds:
+    - se hubieran ahogado
+    - se hubiesen ahogado
+
+imperativo:
+  tu: ahógate
+  vos: ahogáte
+  ud: ahóguese
+  nosotros: ahoguémosnos
+  vosotros: ahogaos
+  uds: ahógense

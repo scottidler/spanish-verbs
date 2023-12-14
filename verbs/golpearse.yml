@@ -1,0 +1,156 @@
+infinitivo: golpearse
+gerundio: golpeándose
+participio-pasado: golpeado
+
+presente-indicativo:
+  yo: me golpeo
+  tu: te golpeas
+  vos: te golpeas
+  ud: se golpea
+  nosotros: nos golpeamos
+  vosotros: os golpeáis
+  uds: se golpean
+
+preterito-perfecto-simple:
+  yo: me golpeé
+  tu: te golpeaste
+  vos: te golpeaste
+  ud: se golpeó
+  nosotros: nos golpeamos
+  vosotros: os golpeasteis
+  uds: se golpearon
+
+preterito-imperfecto:
+  yo: me golpeaba
+  tu: te golpeabas
+  vos: te golpeabas
+  ud: se golpeaba
+  nosotros: nos golpeábamos
+  vosotros: os golpeabais
+  uds: se golpeaban
+
+futuro-simple:
+  yo: me golpearé
+  tu: te golpearás
+  vos: te golpearás
+  ud: se golpeará
+  nosotros: nos golpearemos
+  vosotros: os golpearéis
+  uds: se golpearán
+
+condicional-simple:
+  yo: me golpearía
+  tu: te golpearías
+  vos: te golpearías
+  ud: se golpearía
+  nosotros: nos golpearíamos
+  vosotros: os golpearíais
+  uds: se golpearían
+
+presente-perfecto:
+  yo: me he golpeado
+  tu: te has golpeado
+  vos: te has golpeado
+  ud: se ha golpeado
+  nosotros: nos hemos golpeado
+  vosotros: os habéis golpeado
+  uds: se han golpeado
+
+preterito-pluscuamperfecto:
+  yo: me había golpeado
+  tu: te habías golpeado
+  vos: te habías golpeado
+  ud: se había golpeado
+  nosotros: nos habíamos golpeado
+  vosotros: os habíais golpeado
+  uds: se habían golpeado
+
+futuro-perfecto:
+  yo: me habré golpeado
+  tu: te habrás golpeado
+  vos: te habrás golpeado
+  ud: se habrá golpeado
+  nosotros: nos habremos golpeado
+  vosotros: os habréis golpeado
+  uds: se habrán golpeado
+
+condicional-perfecto:
+  yo: me habría golpeado
+  tu: te habrías golpeado
+  vos: te habrías golpeado
+  ud: se habría golpeado
+  nosotros: nos habríamos golpeado
+  vosotros: os habríais golpeado
+  uds: se habrían golpeado
+
+presente-subjuntivo:
+  yo: me golpee
+  tu: te golpees
+  vos: te golpees
+  ud: se golpee
+  nosotros: nos golpeemos
+  vosotros: os golpeéis
+  uds: se golpeen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya golpeado
+  tu: te hayas golpeado
+  vos: te hayas golpeado
+  ud: se haya golpeado
+  nosotros: nos hayamos golpeado
+  vosotros: os hayáis golpeado
+  uds: se hayan golpeado
+
+imperfecto-subjuntivo:
+  yo:
+    - me golpeara
+    - me golpease
+  tu:
+    - te golpearas
+    - te golpeases
+  vos:
+    - te golpearas
+    - te golpeases
+  ud:
+    - se golpeara
+    - se golpease
+  nosotros:
+    - nos golpeáramos
+    - nos golpeásemos
+  vosotros:
+    - os golpearais
+    - os golpeaseis
+  uds:
+    - se golpearan
+    - se golpeasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera golpeado
+    - me hubiese golpeado
+  tu:
+    - te hubieras golpeado
+    - te hubieses golpeado
+  vos:
+    - te hubieras golpeado
+    - te hubieses golpeado
+  ud:
+    - se hubiera golpeado
+    - se hubiese golpeado
+  nosotros:
+    - nos hubiéramos golpeado
+    - nos hubiésemos golpeado
+  vosotros:
+    - os hubierais golpeado
+    - os hubieseis golpeado
+  uds:
+    - se hubieran golpeado
+    - se hubiesen golpeado
+
+imperativo:
+  tu: golpéate
+  vos: golpeate
+  ud: golpéese
+  nosotros: golpémonos
+  vosotros: golpeaos
+  uds: golpéense

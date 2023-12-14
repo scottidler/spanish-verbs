@@ -1,0 +1,142 @@
+infinitivo: infligir
+gerundio: infligiendo
+participio-pasado: infligido
+presente-indicativo:
+  yo: inflijo
+  tu: infliges
+  vos: infliges
+  ud: inflige
+  nosotros: infligimos
+  vosotros: infligís
+  uds: infligen
+preterito-perfecto-simple:
+  yo: infligí
+  tu: infligiste
+  vos: infligiste
+  ud: infligió
+  nosotros: infligimos
+  vosotros: infligisteis
+  uds: infligieron
+preterito-imperfecto:
+  yo: infligía
+  tu: infligías
+  vos: infligías
+  ud: infligía
+  nosotros: infligíamos
+  vosotros: infligíais
+  uds: infligían
+futuro-simple:
+  yo: infligiré
+  tu: infligirás
+  vos: infligirás
+  ud: infligirá
+  nosotros: infligiremos
+  vosotros: infligiréis
+  uds: infligirán
+condicional-simple:
+  yo: infligiría
+  tu: infligirías
+  vos: infligirías
+  ud: infligiría
+  nosotros: infligiríamos
+  vosotros: infligiríais
+  uds: infligirían
+presente-perfecto:
+  yo: he infligido
+  tu: has infligido
+  vos: has infligido
+  ud: ha infligido
+  nosotros: hemos infligido
+  vosotros: habéis infligido
+  uds: han infligido
+preterito-pluscuamperfecto:
+  yo: había infligido
+  tu: habías infligido
+  vos: habías infligido
+  ud: había infligido
+  nosotros: habíamos infligido
+  vosotros: habíais infligido
+  uds: habían infligido
+futuro-perfecto:
+  yo: habré infligido
+  tu: habrás infligido
+  vos: habrás infligido
+  ud: habrá infligido
+  nosotros: habremos infligido
+  vosotros: habréis infligido
+  uds: habrán infligido
+condicional-perfecto:
+  yo: habría infligido
+  tu: habrías infligido
+  vos: habrías infligido
+  ud: habría infligido
+  nosotros: habríamos infligido
+  vosotros: habríais infligido
+  uds: habrían infligido
+presente-subjuntivo:
+  yo: inflija
+  tu: inflijas
+  vos: inflijas
+  ud: inflija
+  nosotros: inflijamos
+  vosotros: infligáis
+  uds: inflijan
+preterito-perfecto-subjuntivo:
+  yo: haya infligido
+  tu: hayas infligido
+  vos: hayas infligido
+  ud: haya infligido
+  nosotros: hayamos infligido
+  vosotros: hayáis infligido
+  uds: hayan infligido
+imperfecto-subjuntivo:
+  yo:
+    - infligiera
+    - infligiese
+  tu:
+    - infringieras
+    - infringieses
+  vos:
+    - infringieras
+    - infringieses
+  ud:
+    - infligiera
+    - infligiese
+  nosotros:
+    - infligiéramos
+    - infligiésemos
+  vosotros:
+    - infringierais
+    - infringieseis
+  uds:
+    - infligieran
+    - infligiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera infligido
+    - hubiese infligido
+  tu:
+    - hubieras infligido
+    - hubieses infligido
+  vos:
+    - hubieras infligido
+    - hubieses infligido
+  ud:
+    - hubiera infligido
+    - hubiese infligido
+  nosotros:
+    - hubiéramos infligido
+    - hubiésemos infligido
+  vosotros:
+    - hubierais infligido
+    - hubieseis infligido
+  uds:
+    - hubieran infligido
+    - hubiesen infligido
+imperativo:
+  tu: inflige
+  vos: infligí
+  ud: inflija
+  nosotros: inflijamos
+  vosotros: infligid
+  uds: inflijan

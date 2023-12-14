@@ -1,0 +1,142 @@
+infinitivo: contrastar
+gerundio: contrastando
+participio-pasado: contrastado
+presente-indicativo:
+  yo: contrasto
+  tu: contrastas
+  vos: contrastas
+  ud: contrasta
+  nosotros: contrastamos
+  vosotros: contrastáis
+  uds: contrastan
+preterito-perfecto-simple:
+  yo: contrasté
+  tu: contrastaste
+  vos: contrastaste
+  ud: contrastó
+  nosotros: contrastamos
+  vosotros: contrastasteis
+  uds: contrastaron
+preterito-imperfecto:
+  yo: contrastaba
+  tu: contrastabas
+  vos: contrastabas
+  ud: contrastaba
+  nosotros: contrastábamos
+  vosotros: contrastabais
+  uds: contrastaban
+futuro-simple:
+  yo: contrastaré
+  tu: contrastarás
+  vos: contrastarás
+  ud: contrastará
+  nosotros: contrastaremos
+  vosotros: contrastaréis
+  uds: contrastarán
+condicional-simple:
+  yo: contrastaría
+  tu: contrastarías
+  vos: contrastarías
+  ud: contrastaría
+  nosotros: contrastaríamos
+  vosotros: contrastaríais
+  uds: contrastarían
+presente-perfecto:
+  yo: he contrastado
+  tu: has contrastado
+  vos: has contrastado
+  ud: ha contrastado
+  nosotros: hemos contrastado
+  vosotros: habéis contrastado
+  uds: han contrastado
+preterito-pluscuamperfecto:
+  yo: había contrastado
+  tu: habías contrastado
+  vos: habías contrastado
+  ud: había contrastado
+  nosotros: habíamos contrastado
+  vosotros: habíais contrastado
+  uds: habían contrastado
+futuro-perfecto:
+  yo: habré contrastado
+  tu: habrás contrastado
+  vos: habrás contrastado
+  ud: habrá contrastado
+  nosotros: habremos contrastado
+  vosotros: habréis contrastado
+  uds: habrán contrastado
+condicional-perfecto:
+  yo: habría contrastado
+  tu: habrías contrastado
+  vos: habrías contrastado
+  ud: habría contrastado
+  nosotros: habríamos contrastado
+  vosotros: habríais contrastado
+  uds: habrían contrastado
+presente-subjuntivo:
+  yo: contraste
+  tu: contrastes
+  vos: contrastes
+  ud: contraste
+  nosotros: contrastemos
+  vosotros: contrastéis
+  uds: contrasten
+preterito-perfecto-subjuntivo:
+  yo: haya contrastado
+  tu: hayas contrastado
+  vos: hayas contrastado
+  ud: haya contrastado
+  nosotros: hayamos contrastado
+  vosotros: hayáis contrastado
+  uds: hayan contrastado
+imperfecto-subjuntivo:
+  yo:
+    - contrastara
+    - contrastase
+  tu:
+    - contrastaras
+    - contrastases
+  vos:
+    - contrastaras
+    - contrastases
+  ud:
+    - contrastara
+    - contrastase
+  nosotros:
+    - contrastáramos
+    - contrastásemos
+  vosotros:
+    - contrastarais
+    - contrastaseis
+  uds:
+    - contrastaran
+    - contrastasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera contrastado
+    - hubiese contrastado
+  tu:
+    - hubieras contrastado
+    - hubieses contrastado
+  vos:
+    - hubieras contrastado
+    - hubieses contrastado
+  ud:
+    - hubiera contrastado
+    - hubiese contrastado
+  nosotros:
+    - hubiéramos contrastado
+    - hubiésemos contrastado
+  vosotros:
+    - hubierais contrastado
+    - hubieseis contrastado
+  uds:
+    - hubieran contrastado
+    - hubiesen contrastado
+imperativo:
+  tu: contrasta
+  vos: contrastá
+  ud: contraste
+  nosotros: contrastemos
+  vosotros: contrastad
+  uds: contrasten

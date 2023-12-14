@@ -1,0 +1,142 @@
+infinitivo: aconsejar
+gerundio: aconsejando
+participio-pasado: aconsejado
+presente-indicativo:
+  yo: aconsejo
+  tu: aconsejas
+  vos: aconsejás
+  ud: aconseja
+  nosotros: aconsejamos
+  vosotros: aconsejáis
+  uds: aconsejan
+preterito-perfecto-simple:
+  yo: aconsejé
+  tu: aconsejaste
+  vos: aconsejaste
+  ud: aconsejó
+  nosotros: aconsejamos
+  vosotros: aconsejasteis
+  uds: aconsejaron
+preterito-imperfecto:
+  yo: aconsejaba
+  tu: aconsejabas
+  vos: aconsejabas
+  ud: aconsejaba
+  nosotros: aconsejábamos
+  vosotros: aconsejabais
+  uds: aconsejaban
+futuro-simple:
+  yo: aconsejaré
+  tu: aconsejarás
+  vos: aconsejarás
+  ud: aconsejará
+  nosotros: aconsejaremos
+  vosotros: aconsejaréis
+  uds: aconsejarán
+condicional-simple:
+  yo: aconsejaría
+  tu: aconsejarías
+  vos: aconsejarías
+  ud: aconsejaría
+  nosotros: aconsejaríamos
+  vosotros: aconsejaríais
+  uds: aconsejarían
+presente-perfecto:
+  yo: he aconsejado
+  tu: has aconsejado
+  vos: has aconsejado
+  ud: ha aconsejado
+  nosotros: hemos aconsejado
+  vosotros: habéis aconsejado
+  uds: han aconsejado
+preterito-pluscuamperfecto:
+  yo: había aconsejado
+  tu: habías aconsejado
+  vos: habías aconsejado
+  ud: había aconsejado
+  nosotros: habíamos aconsejado
+  vosotros: habíais aconsejado
+  uds: habían aconsejado
+futuro-perfecto:
+  yo: habré aconsejado
+  tu: habrás aconsejado
+  vos: habrás aconsejado
+  ud: habrá aconsejado
+  nosotros: habremos aconsejado
+  vosotros: habréis aconsejado
+  uds: habrán aconsejado
+condicional-perfecto:
+  yo: habría aconsejado
+  tu: habrías aconsejado
+  vos: habrías aconsejado
+  ud: habría aconsejado
+  nosotros: habríamos aconsejado
+  vosotros: habríais aconsejado
+  uds: habrían aconsejado
+presente-subjuntivo:
+  yo: aconseje
+  tu: aconsejes
+  vos: aconsejes
+  ud: aconseje
+  nosotros: aconsejemos
+  vosotros: aconsejéis
+  uds: aconsejen
+preterito-perfecto-subjuntivo:
+  yo: haya aconsejado
+  tu: hayas aconsejado
+  vos: hayas aconsejado
+  ud: haya aconsejado
+  nosotros: hayamos aconsejado
+  vosotros: hayáis aconsejado
+  uds: hayan aconsejado
+imperfecto-subjuntivo:
+  yo:
+    - aconsejara
+    - aconsejase
+  tu:
+    - aconsejaras
+    - aconsejases
+  vos:
+    - aconsejaras
+    - aconsejases
+  ud:
+    - aconsejara
+    - aconsejase
+  nosotros:
+    - aconsejáramos
+    - aconsejásemos
+  vosotros:
+    - aconsejarais
+    - aconsejaseis
+  uds:
+    - aconsejaran
+    - aconsejasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aconsejado
+    - hubiese aconsejado
+  tu:
+    - hubieras aconsejado
+    - hubieses aconsejado
+  vos:
+    - hubieras aconsejado
+    - hubieses aconsejado
+  ud:
+    - hubiera aconsejado
+    - hubiese aconsejado
+  nosotros:
+    - hubiéramos aconsejado
+    - hubiésemos aconsejado
+  vosotros:
+    - hubierais aconsejado
+    - hubieseis aconsejado
+  uds:
+    - hubieran aconsejado
+    - hubiesen aconsejado
+imperativo:
+  tu: aconseja
+  vos: aconsejá
+  ud: aconseje
+  nosotros: aconsejemos
+  vosotros: aconsejad
+  uds: aconsejen

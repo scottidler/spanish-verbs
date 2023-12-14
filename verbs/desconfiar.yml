@@ -1,0 +1,142 @@
+infinitivo: desconfiar
+gerundio: desconfiando
+participio-pasado: desconfiado
+presente-indicativo:
+  yo: desconfío
+  tu: desconfías
+  vos: desconfiás
+  ud: desconfía
+  nosotros: desconfiamos
+  vosotros: desconfiáis
+  uds: desconfían
+preterito-perfecto-simple:
+  yo: desconfié
+  tu: desconfiaste
+  vos: desconfiaste
+  ud: desconfió
+  nosotros: desconfiamos
+  vosotros: desconfiasteis
+  uds: desconfiaron
+preterito-imperfecto:
+  yo: desconfiaba
+  tu: desconfiabas
+  vos: desconfiabas
+  ud: desconfiaba
+  nosotros: desconfiábamos
+  vosotros: desconfiabais
+  uds: desconfiaban
+futuro-simple:
+  yo: desconfiaré
+  tu: desconfiarás
+  vos: desconfiarás
+  ud: desconfiará
+  nosotros: desconfiaremos
+  vosotros: desconfiaréis
+  uds: desconfiarán
+condicional-simple:
+  yo: desconfiaría
+  tu: desconfiarías
+  vos: desconfiarías
+  ud: desconfiaría
+  nosotros: desconfiaríamos
+  vosotros: desconfiaríais
+  uds: desconfiarían
+presente-perfecto:
+  yo: he desconfiado
+  tu: has desconfiado
+  vos: has desconfiado
+  ud: ha desconfiado
+  nosotros: hemos desconfiado
+  vosotros: habéis desconfiado
+  uds: han desconfiado
+preterito-pluscuamperfecto:
+  yo: había desconfiado
+  tu: habías desconfiado
+  vos: habías desconfiado
+  ud: había desconfiado
+  nosotros: habíamos desconfiado
+  vosotros: habíais desconfiado
+  uds: habían desconfiado
+futuro-perfecto:
+  yo: habré desconfiado
+  tu: habrás desconfiado
+  vos: habrás desconfiado
+  ud: habrá desconfiado
+  nosotros: habremos desconfiado
+  vosotros: habréis desconfiado
+  uds: habrán desconfiado
+condicional-perfecto:
+  yo: habría desconfiado
+  tu: habrías desconfiado
+  vos: habrías desconfiado
+  ud: habría desconfiado
+  nosotros: habríamos desconfiado
+  vosotros: habríais desconfiado
+  uds: habrían desconfiado
+presente-subjuntivo:
+  yo: desconfíe
+  tu: desconfíes
+  vos: desconfíes
+  ud: desconfíe
+  nosotros: desconfiemos
+  vosotros: desconfiéis
+  uds: desconfíen
+preterito-perfecto-subjuntivo:
+  yo: haya desconfiado
+  tu: hayas desconfiado
+  vos: hayas desconfiado
+  ud: haya desconfiado
+  nosotros: hayamos desconfiado
+  vosotros: hayáis desconfiado
+  uds: hayan desconfiado
+imperfecto-subjuntivo:
+  yo:
+    - desconfiara
+    - desconfiase
+  tu:
+    - desconfiaras
+    - desconfiases
+  vos:
+    - desconfiaras
+    - desconfiases
+  ud:
+    - desconfiara
+    - desconfiase
+  nosotros:
+    - desconfiáramos
+    - desconfiásemos
+  vosotros:
+    - desconfiarais
+    - desconfiaseis
+  uds:
+    - desconfiaran
+    - desconfiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desconfiado
+    - hubiese desconfiado
+  tu:
+    - hubieras desconfiado
+    - hubieses desconfiado
+  vos:
+    - hubieras desconfiado
+    - hubieses desconfiado
+  ud:
+    - hubiera desconfiado
+    - hubiese desconfiado
+  nosotros:
+    - hubiéramos desconfiado
+    - hubiésemos desconfiado
+  vosotros:
+    - hubierais desconfiado
+    - hubieseis desconfiado
+  uds:
+    - hubieran desconfiado
+    - hubiesen desconfiado
+imperativo:
+  tu: desconfía
+  vos: desconfiá
+  ud: desconfíe
+  nosotros: desconfiemos
+  vosotros: desconfiad
+  uds: desconfíen

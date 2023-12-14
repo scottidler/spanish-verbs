@@ -1,0 +1,142 @@
+infinitivo: cuidir
+gerundio: cuidiendo
+participio-pasado: cuidido
+presente-indicativo:
+  yo: cuido
+  tu: cuides
+  vos: cuides
+  ud: cuida
+  nosotros: cuidemos
+  vosotros: cuidéis
+  uds: cuiden
+preterito-perfecto-simple:
+  yo: cuidí
+  tu: cuidiste
+  vos: cuidiste
+  ud: cuidió
+  nosotros: cuidimos
+  vosotros: cuidisteis
+  uds: cuidieron
+preterito-imperfecto:
+  yo: cuidía
+  tu: cuidías
+  vos: cuidías
+  ud: cuidía
+  nosotros: cuidíamos
+  vosotros: cuidíais
+  uds: cuidían
+futuro-simple:
+  yo: cuidiré
+  tu: cuidirás
+  vos: cuidirás
+  ud: cuidirá
+  nosotros: cuidiremos
+  vosotros: cuidiréis
+  uds: cuidirán
+condicional-simple:
+  yo: cuidiría
+  tu: cuidirías
+  vos: cuidirías
+  ud: cuidiría
+  nosotros: cuidiríamos
+  vosotros: cuidiríais
+  uds: cuidirían
+presente-perfecto:
+  yo: he cuidido
+  tu: has cuidido
+  vos: has cuidido
+  ud: ha cuidido
+  nosotros: hemos cuidido
+  vosotros: habéis cuidido
+  uds: han cuidido
+preterito-pluscuamperfecto:
+  yo: había cuidido
+  tu: habías cuidido
+  vos: habías cuidido
+  ud: había cuidido
+  nosotros: habíamos cuidido
+  vosotros: habíais cuidido
+  uds: habían cuidido
+futuro-perfecto:
+  yo: habré cuidido
+  tu: habrás cuidido
+  vos: habrás cuidido
+  ud: habrá cuidido
+  nosotros: habremos cuidido
+  vosotros: habréis cuidido
+  uds: habrán cuidido
+condicional-perfecto:
+  yo: habría cuidido
+  tu: habrías cuidido
+  vos: habrías cuidido
+  ud: habría cuidido
+  nosotros: habríamos cuidido
+  vosotros: habríais cuidido
+  uds: habrían cuidido
+presente-subjuntivo:
+  yo: cuide
+  tu: cuides
+  vos: cuides
+  ud: cuide
+  nosotros: cuidemos
+  vosotros: cuidéis
+  uds: cuiden
+preterito-perfecto-subjuntivo:
+  yo: haya cuidido
+  tu: hayas cuidido
+  vos: hayas cuidido
+  ud: haya cuidido
+  nosotros: hayamos cuidido
+  vosotros: hayáis cuidido
+  uds: hayan cuidido
+imperfecto-subjuntivo:
+  yo:
+    - cuidiera
+    - cuidiese
+  tu:
+    - cuidieras
+    - cuidieses
+  vos:
+    - cuidieras
+    - cuidieses
+  ud:
+    - cuidiera
+    - cuidiese
+  nosotros:
+    - cuidiéramos
+    - cuidiésemos
+  vosotros:
+    - cuidierais
+    - cuidieseis
+  uds:
+    - cuidieran
+    - cuidiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cuidido
+    - hubiese cuidido
+  tu:
+    - hubieras cuidido
+    - hubieses cuidido
+  vos:
+    - hubieras cuidido
+    - hubieses cuidido
+  ud:
+    - hubiera cuidido
+    - hubiese cuidido
+  nosotros:
+    - hubiéramos cuidido
+    - hubiésemos cuidido
+  vosotros:
+    - hubierais cuidido
+    - hubieseis cuidido
+  uds:
+    - hubieran cuidido
+    - hubiesen cuidido
+imperativo:
+  tu: cuidi
+  vos: cuide
+  ud: cuide
+  nosotros: cuidemos
+  vosotros: cuidid
+  uds: cuiden

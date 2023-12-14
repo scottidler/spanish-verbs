@@ -1,0 +1,142 @@
+infinitivo: patear
+gerundio: pateando
+participio-pasado: pateado
+presente-indicativo:
+  yo: pateo
+  tu: pateas
+  vos: pateas
+  ud: patea
+  nosotros: pateamos
+  vosotros: pateáis
+  uds: patean
+preterito-perfecto-simple:
+  yo: pateé
+  tu: pateaste
+  vos: pateaste
+  ud: pateó
+  nosotros: pateamos
+  vosotros: pateasteis
+  uds: patearon
+preterito-imperfecto:
+  yo: pateaba
+  tu: pateabas
+  vos: pateabas
+  ud: pateaba
+  nosotros: pateábamos
+  vosotros: pateabais
+  uds: pateaban
+futuro-simple:
+  yo: patearé
+  tu: patearás
+  vos: patearás
+  ud: pateará
+  nosotros: patearemos
+  vosotros: patearéis
+  uds: patearán
+condicional-simple:
+  yo: patearía
+  tu: patearías
+  vos: patearías
+  ud: patearía
+  nosotros: patearíamos
+  vosotros: patearíais
+  uds: patearían
+presente-perfecto:
+  yo: he pateado
+  tu: has pateado
+  vos: has pateado
+  ud: ha pateado
+  nosotros: hemos pateado
+  vosotros: habéis pateado
+  uds: han pateado
+preterito-pluscuamperfecto:
+  yo: había pateado
+  tu: habías pateado
+  vos: habías pateado
+  ud: había pateado
+  nosotros: habíamos pateado
+  vosotros: habíais pateado
+  uds: habían pateado
+futuro-perfecto:
+  yo: habré pateado
+  tu: habrás pateado
+  vos: habrás pateado
+  ud: habrá pateado
+  nosotros: habremos pateado
+  vosotros: habréis pateado
+  uds: habrán pateado
+condicional-perfecto:
+  yo: habría pateado
+  tu: habrías pateado
+  vos: habrías pateado
+  ud: habría pateado
+  nosotros: habríamos pateado
+  vosotros: habríais pateado
+  uds: habrían pateado
+presente-subjuntivo:
+  yo: patee
+  tu: patees
+  vos: patees
+  ud: patee
+  nosotros: pateemos
+  vosotros: pateéis
+  uds: pateen
+preterito-perfecto-subjuntivo:
+  yo: haya pateado
+  tu: hayas pateado
+  vos: hayas pateado
+  ud: haya pateado
+  nosotros: hayamos pateado
+  vosotros: hayáis pateado
+  uds: hayan pateado
+imperfecto-subjuntivo:
+  yo:
+    - pateara
+    - patease
+  tu:
+    - patearas
+    - pateases
+  vos:
+    - patearas
+    - pateases
+  ud:
+    - pateara
+    - patease
+  nosotros:
+    - pateáramos
+    - pateásemos
+  vosotros:
+    - patearais
+    - pateaseis
+  uds:
+    - patearan
+    - pateasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pateado
+    - hubiese pateado
+  tu:
+    - hubieras pateado
+    - hubieses pateado
+  vos:
+    - hubieras pateado
+    - hubieses pateado
+  ud:
+    - hubiera pateado
+    - hubiese pateado
+  nosotros:
+    - hubiéramos pateado
+    - hubiésemos pateado
+  vosotros:
+    - hubierais pateado
+    - hubieseis pateado
+  uds:
+    - hubieran pateado
+    - hubiesen pateado
+imperativo:
+  tu: patea
+  vos: pateá
+  ud: patee
+  nosotros: pateemos
+  vosotros: patead
+  uds: pateen

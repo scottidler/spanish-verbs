@@ -1,0 +1,142 @@
+infinitivo: igualar
+gerundio: igualando
+participio-pasado: igualado
+presente-indicativo:
+  yo: igualo
+  tu: igualas
+  vos: igualás
+  ud: iguala
+  nosotros: igualamos
+  vosotros: igualáis
+  uds: igualan
+preterito-perfecto-simple:
+  yo: igualé
+  tu: igualaste
+  vos: igualaste
+  ud: igualó
+  nosotros: igualamos
+  vosotros: igualasteis
+  uds: igualaron
+preterito-imperfecto:
+  yo: igualaba
+  tu: igualabas
+  vos: igualabas
+  ud: igualaba
+  nosotros: igualábamos
+  vosotros: igualabais
+  uds: igualaban
+futuro-simple:
+  yo: igualaré
+  tu: igualarás
+  vos: igualarás
+  ud: igualará
+  nosotros: igualaremos
+  vosotros: igualaréis
+  uds: igualarán
+condicional-simple:
+  yo: igualaría
+  tu: igualarías
+  vos: igualarías
+  ud: igualaría
+  nosotros: igualaríamos
+  vosotros: igualaríais
+  uds: igualarían
+presente-perfecto:
+  yo: he igualado
+  tu: has igualado
+  vos: has igualado
+  ud: ha igualado
+  nosotros: hemos igualado
+  vosotros: habéis igualado
+  uds: han igualado
+preterito-pluscuamperfecto:
+  yo: había igualado
+  tu: habías igualado
+  vos: habías igualado
+  ud: había igualado
+  nosotros: habíamos igualado
+  vosotros: habíais igualado
+  uds: habían igualado
+futuro-perfecto:
+  yo: habré igualado
+  tu: habrás igualado
+  vos: habrás igualado
+  ud: habrá igualado
+  nosotros: habremos igualado
+  vosotros: habréis igualado
+  uds: habrán igualado
+condicional-perfecto:
+  yo: habría igualado
+  tu: habrías igualado
+  vos: habrías igualado
+  ud: habría igualado
+  nosotros: habríamos igualado
+  vosotros: habríais igualado
+  uds: habrían igualado
+presente-subjuntivo:
+  yo: iguale
+  tu: iguales
+  vos: iguales
+  ud: iguale
+  nosotros: igualemos
+  vosotros: igualéis
+  uds: igualen
+preterito-perfecto-subjuntivo:
+  yo: haya igualado
+  tu: hayas igualado
+  vos: hayas igualado
+  ud: haya igualado
+  nosotros: hayamos igualado
+  vosotros: hayáis igualado
+  uds: hayan igualado
+imperfecto-subjuntivo:
+  yo:
+    - igualara
+    - igualase
+  tu:
+    - igualaras
+    - igualases
+  vos:
+    - igualaras
+    - igualases
+  ud:
+    - igualara
+    - igualase
+  nosotros:
+    - igualáramos
+    - igualásemos
+  vosotros:
+    - igualarais
+    - igualaseis
+  uds:
+    - igualaran
+    - igualasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera igualado
+    - hubiese igualado
+  tu:
+    - hubieras igualado
+    - hubieses igualado
+  vos:
+    - hubieras igualado
+    - hubieses igualado
+  ud:
+    - hubiera igualado
+    - hubiese igualado
+  nosotros:
+    - hubiéramos igualado
+    - hubiésemos igualado
+  vosotros:
+    - hubierais igualado
+    - hubieseis igualado
+  uds:
+    - hubieran igualado
+    - hubiesen igualado
+imperativo:
+  tu: iguala
+  vos: igualá
+  ud: iguale
+  nosotros: igualemos
+  vosotros: igualad
+  uds: igualen

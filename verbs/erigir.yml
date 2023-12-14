@@ -1,0 +1,142 @@
+infinitivo: erigir
+gerundio: erigiendo
+participio-pasado: erigido
+presente-indicativo:
+  yo: erijo
+  tu: eriges
+  vos: erigís
+  ud: erige
+  nosotros: erigimos
+  vosotros: erigís
+  uds: erigen
+preterito-perfecto-simple:
+  yo: erigí
+  tu: erigiste
+  vos: erigiste
+  ud: erigió
+  nosotros: erigimos
+  vosotros: erigisteis
+  uds: erigieron
+preterito-imperfecto:
+  yo: erigía
+  tu: erigías
+  vos: erigías
+  ud: erigía
+  nosotros: erigíamos
+  vosotros: erigíais
+  uds: erigían
+futuro-simple:
+  yo: erigiré
+  tu: erigirás
+  vos: erigirás
+  ud: erigirá
+  nosotros: erigiremos
+  vosotros: erigiréis
+  uds: erigirán
+condicional-simple:
+  yo: erigiría
+  tu: erigirías
+  vos: erigirías
+  ud: erigiría
+  nosotros: erigiríamos
+  vosotros: erigiríais
+  uds: erigirían
+presente-perfecto:
+  yo: he erigido
+  tu: has erigido
+  vos: has erigido
+  ud: ha erigido
+  nosotros: hemos erigido
+  vosotros: habéis erigido
+  uds: han erigido
+preterito-pluscuamperfecto:
+  yo: había erigido
+  tu: habías erigido
+  vos: habías erigido
+  ud: había erigido
+  nosotros: habíamos erigido
+  vosotros: habíais erigido
+  uds: habían erigido
+futuro-perfecto:
+  yo: habré erigido
+  tu: habrás erigido
+  vos: habrás erigido
+  ud: habrá erigido
+  nosotros: habremos erigido
+  vosotros: habréis erigido
+  uds: habrán erigido
+condicional-perfecto:
+  yo: habría erigido
+  tu: habrías erigido
+  vos: habrías erigido
+  ud: habría erigido
+  nosotros: habríamos erigido
+  vosotros: habríais erigido
+  uds: habrían erigido
+presente-subjuntivo:
+  yo: erija
+  tu: erijas
+  vos: erijas
+  ud: erija
+  nosotros: erijamos
+  vosotros: erijáis
+  uds: erijan
+preterito-perfecto-subjuntivo:
+  yo: haya erigido
+  tu: hayas erigido
+  vos: hayas erigido
+  ud: haya erigido
+  nosotros: hayamos erigido
+  vosotros: hayáis erigido
+  uds: hayan erigido
+imperfecto-subjuntivo:
+  yo:
+    - erigiera
+    - erigiese
+  tu:
+    - erigieras
+    - erigieses
+  vos:
+    - erigieras
+    - erigieses
+  ud:
+    - erigiera
+    - erigiese
+  nosotros:
+    - erigiéramos
+    - erigiésemos
+  vosotros:
+    - erigierais
+    - erigieseis
+  uds:
+    - erigieran
+    - erigiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera erigido
+    - hubiese erigido
+  tu:
+    - hubieras erigido
+    - hubieses erigido
+  vos:
+    - hubieras erigido
+    - hubieses erigido
+  ud:
+    - hubiera erigido
+    - hubiese erigido
+  nosotros:
+    - hubiéramos erigido
+    - hubiésemos erigido
+  vosotros:
+    - hubierais erigido
+    - hubieseis erigido
+  uds:
+    - hubieran erigido
+    - hubiesen erigido
+imperativo:
+  tu: erige
+  vos: erigí
+  ud: erija
+  nosotros: erijamos
+  vosotros: erigid
+  uds: erijan

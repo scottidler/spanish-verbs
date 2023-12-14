@@ -1,0 +1,142 @@
+infinitivo: tratarse
+gerundio: tratándose
+participio-pasado: tratado
+presente-indicativo:
+  yo: me trato
+  tu: te tratas
+  vos: te tratas
+  ud: se trata
+  nosotros: nos tratamos
+  vosotros: os tratáis
+  uds: se tratan
+preterito-perfecto-simple:
+  yo: me traté
+  tu: te trataste
+  vos: te trataste
+  ud: se trató
+  nosotros: nos tratamos
+  vosotros: os tratasteis
+  uds: se trataron
+preterito-imperfecto:
+  yo: me trataba
+  tu: te tratabas
+  vos: te tratabas
+  ud: se trataba
+  nosotros: nos tratábamos
+  vosotros: os tratabais
+  uds: se trataban
+futuro-simple:
+  yo: me trataré
+  tu: te tratarás
+  vos: te tratarás
+  ud: se tratará
+  nosotros: nos trataremos
+  vosotros: os trataréis
+  uds: se tratarán
+condicional-simple:
+  yo: me trataría
+  tu: te tratarías
+  vos: te tratarías
+  ud: se trataría
+  nosotros: nos trataríamos
+  vosotros: os trataríais
+  uds: se tratarían
+presente-perfecto:
+  yo: me he tratado
+  tu: te has tratado
+  vos: te has tratado
+  ud: se ha tratado
+  nosotros: nos hemos tratado
+  vosotros: os habéis tratado
+  uds: se han tratado
+preterito-pluscuamperfecto:
+  yo: me había tratado
+  tu: te habías tratado
+  vos: te habías tratado
+  ud: se había tratado
+  nosotros: nos habíamos tratado
+  vosotros: os habíais tratado
+  uds: se habían tratado
+futuro-perfecto:
+  yo: me habré tratado
+  tu: te habrás tratado
+  vos: te habrás tratado
+  ud: se habrá tratado
+  nosotros: nos habremos tratado
+  vosotros: os habréis tratado
+  uds: se habrán tratado
+condicional-perfecto:
+  yo: me habría tratado
+  tu: te habrías tratado
+  vos: te habrías tratado
+  ud: se habría tratado
+  nosotros: nos habríamos tratado
+  vosotros: os habríais tratado
+  uds: se habrían tratado
+presente-subjuntivo:
+  yo: me trate
+  tu: te trates
+  vos: te trates
+  ud: se trate
+  nosotros: nos tratemos
+  vosotros: os tratéis
+  uds: se traten
+preterito-perfecto-subjuntivo:
+  yo: me haya tratado
+  tu: te hayas tratado
+  vos: te hayas tratado
+  ud: se haya tratado
+  nosotros: nos hayamos tratado
+  vosotros: os hayáis tratado
+  uds: se hayan tratado
+imperfecto-subjuntivo:
+  yo:
+    - me tratara
+    - me tratase
+  tu:
+    - trataras
+    - tratables
+  vos:
+    - trataras
+    - tratables
+  ud:
+    - tratara
+    - tratase
+  nosotros:
+    - tratáramos
+    - tratásemos 
+  vosotros:
+    - tratarais
+    - tratarais
+  uds:
+    - trataran
+    - tratasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera tratado
+    - me hubiese tratado
+  tu:
+    - hubieras tratado
+    - hubieses tratado
+  vos:
+    - hubieras tratado
+    - hubieses tratado
+  ud:
+    - hubiera tratado
+    - hubiese tratado
+  nosotros:
+    - hubiéramos tratado
+    - hubiésemos tratado
+  vosotros:
+    - hubierais tratado
+    - hubieseis tratado
+  uds:
+    - hubieran tratado
+    - hubiesen tratado
+imperativo:
+  tu: trátate
+  vos: tratáte
+  ud: trátase
+  nosotros: tratémonos
+  vosotros: trataos
+  uds: trátense

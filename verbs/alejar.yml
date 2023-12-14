@@ -1,0 +1,142 @@
+infinitivo: alejar
+gerundio: alejando
+participio-pasado: alejado
+presente-indicativo:
+  yo: alejo
+  tu: alejas
+  vos: alejas
+  ud: aleja
+  nosotros: alejamos
+  vosotros: alejáis
+  uds: alejan
+preterito-perfecto-simple:
+  yo: alejé
+  tu: alejaste
+  vos: alejaste
+  ud: alejó
+  nosotros: alejamos
+  vosotros: alejasteis
+  uds: alejaron
+preterito-imperfecto:
+  yo: alejaba
+  tu: alejabas
+  vos: alejabas
+  ud: alejaba
+  nosotros: alejábamos
+  vosotros: alejabais
+  uds: alejaban
+futuro-simple:
+  yo: alejaré
+  tu: alejarás
+  vos: alejarás
+  ud: alejará
+  nosotros: alejaremos
+  vosotros: alejaréis
+  uds: alejarán
+condicional-simple:
+  yo: alejaría
+  tu: alejarías
+  vos: alejarías
+  ud: alejaría
+  nosotros: alejaríamos
+  vosotros: alejaríais
+  uds: alejarían
+presente-perfecto:
+  yo: he alejado
+  tu: has alejado
+  vos: has alejado
+  ud: ha alejado
+  nosotros: hemos alejado
+  vosotros: habéis alejado
+  uds: han alejado
+preterito-pluscuamperfecto:
+  yo: había alejado
+  tu: habías alejado
+  vos: habías alejado
+  ud: había alejado
+  nosotros: habíamos alejado
+  vosotros: habíais alejado
+  uds: habían alejado
+futuro-perfecto:
+  yo: habré alejado
+  tu: habrás alejado
+  vos: habrás alejado
+  ud: habrá alejado
+  nosotros: habremos alejado
+  vosotros: habréis alejado
+  uds: habrán alejado
+condicional-perfecto:
+  yo: habría alejado
+  tu: habrías alejado
+  vos: habrías alejado
+  ud: habría alejado
+  nosotros: habríamos alejado
+  vosotros: habríais alejado
+  uds: habrían alejado
+presente-subjuntivo:
+  yo: aleje
+  tu: alejes
+  vos: alejes
+  ud: aleje
+  nosotros: alejemos
+  vosotros: alejéis
+  uds: alejen
+preterito-perfecto-subjuntivo:
+  yo: haya alejado
+  tu: hayas alejado
+  vos: hayas alejado
+  ud: haya alejado
+  nosotros: hayamos alejado
+  vosotros: hayáis alejado
+  uds: hayan alejado
+imperfecto-subjuntivo:
+  yo:
+    - alejara
+    - alejase
+  tu:
+    - alejaras
+    - alejases
+  vos:
+    - alejaras
+    - alejases
+  ud:
+    - alejara
+    - alejase
+  nosotros:
+    - alejáramos
+    - alejásemos
+  vosotros:
+    - alejarais
+    - alejaseis
+  uds:
+    - alejaran
+    - alejasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alejado
+    - hubiese alejado
+  tu:
+    - hubieras alejado
+    - hubieses alejado
+  vos:
+    - hubieras alejado
+    - hubieses alejado
+  ud:
+    - hubiera alejado
+    - hubiese alejado
+  nosotros:
+    - hubiéramos alejado
+    - hubiésemos alejado
+  vosotros:
+    - hubierais alejado
+    - hubieseis alejado
+  uds:
+    - hubieran alejado
+    - hubiesen alejado
+imperativo:
+  tu: aleja
+  vos: alejá
+  ud: aleje
+  nosotros: alejemos
+  vosotros: alejad
+  uds: alejen

@@ -1,0 +1,142 @@
+infinitivo: mezclar
+gerundio: mezclando
+participio-pasado: mezclado
+presente-indicativo:
+  yo: mezclo
+  tu: mezclas
+  vos: mezclas
+  ud: mezcla
+  nosotros: mezclamos
+  vosotros: mezcláis
+  uds: mezclan
+preterito-perfecto-simple:
+  yo: mezclé
+  tu: mezclaste
+  vos: mezclaste
+  ud: mezcló
+  nosotros: mezclamos
+  vosotros: mezclasteis
+  uds: mezclaron
+preterito-imperfecto:
+  yo: mezclaba
+  tu: mezclabas
+  vos: mezclabas
+  ud: mezclaba
+  nosotros: mezclábamos
+  vosotros: mezclabais
+  uds: mezclaban
+futuro-simple:
+  yo: mezclaré
+  tu: mezclarás
+  vos: mezclarás
+  ud: mezclará
+  nosotros: mezclaremos
+  vosotros: mezclaréis
+  uds: mezclarán
+condicional-simple:
+  yo: mezclaría
+  tu: mezclarías
+  vos: mezclarías
+  ud: mezclaría
+  nosotros: mezclaríamos
+  vosotros: mezclaríais
+  uds: mezclarían
+presente-perfecto:
+  yo: he mezclado
+  tu: has mezclado
+  vos: has mezclado
+  ud: ha mezclado
+  nosotros: hemos mezclado
+  vosotros: habéis mezclado
+  uds: han mezclado
+preterito-pluscuamperfecto:
+  yo: había mezclado
+  tu: habías mezclado
+  vos: habías mezclado
+  ud: había mezclado
+  nosotros: habíamos mezclado
+  vosotros: habíais mezclado
+  uds: habían mezclado
+futuro-perfecto:
+  yo: habré mezclado
+  tu: habrás mezclado
+  vos: habrás mezclado
+  ud: habrá mezclado
+  nosotros: habremos mezclado
+  vosotros: habréis mezclado
+  uds: habrán mezclado
+condicional-perfecto:
+  yo: habría mezclado
+  tu: habrías mezclado
+  vos: habrías mezclado
+  ud: habría mezclado
+  nosotros: habríamos mezclado
+  vosotros: habríais mezclado
+  uds: habrían mezclado
+presente-subjuntivo:
+  yo: mezcle
+  tu: mezcles
+  vos: mezcles
+  ud: mezcle
+  nosotros: mezclemos
+  vosotros: mezcléis
+  uds: mezclen
+preterito-perfecto-subjuntivo:
+  yo: haya mezclado
+  tu: hayas mezclado
+  vos: hayas mezclado
+  ud: haya mezclado
+  nosotros: hayamos mezclado
+  vosotros: hayáis mezclado
+  uds: hayan mezclado
+imperfecto-subjuntivo:
+  yo:
+    - mezclara
+    - mezclase
+  tu:
+    - mezclaras
+    - mezclases
+  vos:
+    - mezclaras
+    - mezclases
+  ud:
+    - mezclara
+    - mezclase
+  nosotros:
+    - mezcláramos
+    - mezclásemos
+  vosotros:
+    - mezclarais
+    - mezclaseis
+  uds:
+    - mezclaran
+    - mezclasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera mezclado
+    - hubiese mezclado
+  tu:
+    - hubieras mezclado
+    - hubieses mezclado
+  vos:
+    - hubieras mezclado
+    - hubieses mezclado
+  ud:
+    - hubiera mezclado
+    - hubiese mezclado
+  nosotros:
+    - hubiéramos mezclado
+    - hubiésemos mezclado
+  vosotros:
+    - hubierais mezclado
+    - hubieseis mezclado
+  uds:
+    - hubieran mezclado
+    - hubiesen mezclado
+imperativo:
+  tu: mezcla
+  vos: mezclá
+  ud: mezcle
+  nosotros: mezclemos
+  vosotros: mezclad
+  uds: mezclen

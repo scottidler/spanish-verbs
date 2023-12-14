@@ -1,0 +1,142 @@
+infinitivo: sepáir
+gerundio: sepáiendo
+participio-pasado: sepáido
+presente-indicativo:
+  yo: sépao
+  tu: sépaes
+  vos: sépaes
+  ud: sépae
+  nosotros: sépaemos
+  vosotros: sépaéis
+  uds: sépaen
+preterito-perfecto-simple:
+  yo: sépaí
+  tu: sépaiste
+  vos: sépaiste
+  ud: sépao
+  nosotros: sépaemos
+  vosotros: sépaisteis
+  uds: sépaieron
+preterito-imperfecto:
+  yo: sépaa
+  tu: sépaas
+  vos: sépaas
+  ud: sépaa
+  nosotros: sépaamos
+  vosotros: sépaabais
+  uds: sépaan
+futuro-simple:
+  yo: sepáiré
+  tu: sepáiras
+  vos: sepáiras
+  ud: sepáira
+  nosotros: sepáiremos
+  vosotros: sepáiréis
+  uds: sepáiran
+condicional-simple:
+  yo: sepáiría
+  tu: sepáirías
+  vos: sepáirías
+  ud: sepáiría
+  nosotros: sepáiríamos
+  vosotros: sepáiríais
+  uds: sepáirían
+presente-perfecto:
+  yo: he sepáido
+  tu: has sepáido
+  vos: has sepáido
+  ud: ha sepáido
+  nosotros: hemos sepáido
+  vosotros: habéis sepáido
+  uds: han sepáido
+preterito-pluscuamperfecto:
+  yo: había sepáido
+  tu: habías sepáido
+  vos: habías sepáido
+  ud: había sepáido
+  nosotros: habíamos sepáido
+  vosotros: habíais sepáido
+  uds: habían sepáido
+futuro-perfecto:
+  yo: habré sepáido
+  tu: habrás sepáido
+  vos: habrás sepáido
+  ud: habrá sepáido
+  nosotros: habremos sepáido
+  vosotros: habréis sepáido
+  uds: habrán sepáido
+condicional-perfecto:
+  yo: habría sepáido
+  tu: habrías sepáido
+  vos: habrías sepáido
+  ud: habría sepáido
+  nosotros: habríamos sepáido
+  vosotros: habríais sepáido
+  uds: habrían sepáido
+presente-subjuntivo:
+  yo: sépaa
+  tu: sépaas
+  vos: sépaas
+  ud: sépaa
+  nosotros: sépaamos
+  vosotros: sépaáis
+  uds: sépaan
+preterito-perfecto-subjuntivo:
+  yo: haya sepáido
+  tu: hayas sepáido
+  vos: hayas sepáido
+  ud: haya sepáido
+  nosotros: hayamos sepáido
+  vosotros: hayáis sepáido
+  uds: hayan sepáido
+imperfecto-subjuntivo:
+  yo:
+    - sepáiera
+    - sepáiese
+  tu:
+    - sepáieras
+    - sepáieses
+  vos:
+    - sepáieras
+    - sepáieses
+  ud:
+    - sepáiera
+    - sepáiese
+  nosotros:
+    - sepáieramos
+    - sepáiésemos
+  vosotros:
+    - sepáierais
+    - sepáieseis
+  uds:
+    - sepáieran
+    - sepáiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sepáido
+    - hubiese sepáido
+  tu:
+    - hubieras sepáido
+    - hubieses sepáido
+  vos:
+    - hubieras sepáido
+    - hubieses sepáido
+  ud:
+    - hubiera sepáido
+    - hubiese sepáido
+  nosotros:
+    - hubiéramos sepáido
+    - hubiésemos sepáido
+  vosotros:
+    - hubierais sepáido
+    - hubieseis sepáido
+  uds:
+    - hubieran sepáido
+    - hubiesen sepáido
+imperativo:
+  tu: sépae
+  vos: sépae
+  ud: sépae
+  nosotros: sépaemos
+  vosotros: sepáid
+  uds: sépaen

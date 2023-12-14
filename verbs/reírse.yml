@@ -1,0 +1,142 @@
+infinitivo: reírse
+gerundio: riéndose
+participio-pasado: reído
+presente-indicativo:
+  yo: me río
+  tu: te ríes
+  vos: te reís
+  ud: se ríe
+  nosotros: nos reímos
+  vosotros: os reís
+  uds: se ríen
+preterito-perfecto-simple:
+  yo: me reí
+  tu: te reíste
+  vos: te reíste
+  ud: se rió
+  nosotros: nos reímos
+  vosotros: os reísteis
+  uds: se rieron
+preterito-imperfecto:
+  yo: me reía
+  tu: te reías
+  vos: te reías
+  ud: se reía
+  nosotros: nos reíamos
+  vosotros: os reíais
+  uds: se reían
+futuro-simple:
+  yo: me reiré
+  tu: te reirás
+  vos: te reirás
+  ud: se reirá
+  nosotros: nos reiremos
+  vosotros: os reiréis
+  uds: se reirán
+condicional-simple:
+  yo: me reiría
+  tu: te reirías
+  vos: te reirías
+  ud: se reiría
+  nosotros: nos reiríamos
+  vosotros: os reiríais
+  uds: se reirían
+presente-perfecto:
+  yo: me he reído
+  tu: te has reído
+  vos: te has reído
+  ud: se ha reído
+  nosotros: nos hemos reído
+  vosotros: os habéis reído
+  uds: se han reído
+preterito-pluscuamperfecto:
+  yo: me había reído
+  tu: te habías reído
+  vos: te habías reído
+  ud: se había reído
+  nosotros: nos habíamos reído
+  vosotros: os habíais reído
+  uds: se habían reído
+futuro-perfecto:
+  yo: me habré reído
+  tu: te habrás reído
+  vos: te habrás reído
+  ud: se habrá reído
+  nosotros: nos habremos reído
+  vosotros: os habréis reído
+  uds: se habrán reído
+condicional-perfecto:
+  yo: me habría reído
+  tu: te habrías reído
+  vos: te habrías reído
+  ud: se habría reído
+  nosotros: nos habríamos reído
+  vosotros: os habríais reído
+  uds: se habrían reído
+presente-subjuntivo:
+  yo: me ría
+  tu: te rías
+  vos: te rías
+  ud: se ría
+  nosotros: nos riamos
+  vosotros: os riáis
+  uds: se rían
+preterito-perfecto-subjuntivo:
+  yo: me haya reído
+  tu: te hayas reído
+  vos: te hayas reído
+  ud: se haya reído
+  nosotros: nos hayamos reído
+  vosotros: os hayáis reído
+  uds: se hayan reído
+imperfecto-subjuntivo:
+  yo:
+    - me riera
+    - me riese
+  tu:
+    - te rieras
+    - te rieses
+  vos:
+    - te rieras
+    - te rieses
+  ud:
+    - se riera
+    - se riese
+  nosotros:
+    - nos riéramos
+    - nos riésemos
+  vosotros:
+    - os rierais
+    - os rieseis
+  uds:
+    - se rieran
+    - se riesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera reído
+    - me hubiese reído
+  tu:
+    - te hubieras reído
+    - te hubieses reído
+  vos:
+    - te hubieras reído
+    - te hubieses reído
+  ud:
+    - se hubiera reído
+    - se hubiese reído
+  nosotros:
+    - nos hubiéramos reído
+    - nos hubiésemos reído
+  vosotros:
+    - os hubierais reído
+    - os hubieseis reído
+  uds:
+    - se hubieran reído
+    - se hubiesen reído
+imperativo:
+  tu: ríete
+  vos: reíte
+  ud: ríase
+  nosotros: riamonos
+  vosotros: reíos
+  uds: ríanse

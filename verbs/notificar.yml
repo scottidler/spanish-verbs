@@ -1,0 +1,142 @@
+infinitivo: notificar
+gerundio: notificando
+participio-pasado: notificado
+presente-indicativo:
+  yo: notifico
+  tu: notificas
+  vos: notificas
+  ud: notifica
+  nosotros: notificamos
+  vosotros: notificáis
+  uds: notifican
+preterito-perfecto-simple:
+  yo: notifiqué
+  tu: notificaste
+  vos: notificaste
+  ud: notificó
+  nosotros: notificamos
+  vosotros: notificasteis
+  uds: notificaron
+preterito-imperfecto:
+  yo: notificaba
+  tu: notificabas
+  vos: notificabas
+  ud: notificaba
+  nosotros: notificábamos
+  vosotros: notificabais
+  uds: notificaban
+futuro-simple:
+  yo: notificaré
+  tu: notificarás
+  vos: notificarás
+  ud: notificará
+  nosotros: notificaremos
+  vosotros: notificaréis
+  uds: notificarán
+condicional-simple:
+  yo: notificaría
+  tu: notificarías
+  vos: notificarías
+  ud: notificaría
+  nosotros: notificaríamos
+  vosotros: notificaríais
+  uds: notificarían
+presente-perfecto:
+  yo: he notificado
+  tu: has notificado
+  vos: has notificado
+  ud: ha notificado
+  nosotros: hemos notificado
+  vosotros: habéis notificado
+  uds: han notificado
+preterito-pluscuamperfecto:
+  yo: había notificado
+  tu: habías notificado
+  vos: habías notificado
+  ud: había notificado
+  nosotros: habíamos notificado
+  vosotros: habíais notificado
+  uds: habían notificado
+futuro-perfecto:
+  yo: habré notificado
+  tu: habrás notificado
+  vos: habrás notificado
+  ud: habrá notificado
+  nosotros: habremos notificado
+  vosotros: habréis notificado
+  uds: habrán notificado
+condicional-perfecto:
+  yo: habría notificado
+  tu: habrías notificado
+  vos: habrías notificado
+  ud: habría notificado
+  nosotros: habríamos notificado
+  vosotros: habríais notificado
+  uds: habrían notificado
+presente-subjuntivo:
+  yo: notifique
+  tu: notifiques
+  vos: notifiques
+  ud: notifique
+  nosotros: notifiquemos
+  vosotros: notifiquéis
+  uds: notifiquen
+preterito-perfecto-subjuntivo:
+  yo: haya notificado
+  tu: hayas notificado
+  vos: hayas notificado
+  ud: haya notificado
+  nosotros: hayamos notificado
+  vosotros: hayáis notificado
+  uds: hayan notificado
+imperfecto-subjuntivo:
+  yo:
+    - notificara
+    - notificase
+  tu:
+    - notificaras
+    - notificases
+  vos:
+    - notificaras
+    - notificases
+  ud:
+    - notificara
+    - notificase
+  nosotros:
+    - notificáramos
+    - notificásemos
+  vosotros:
+    - notificarais
+    - notificaseis
+  uds:
+    - notificaran
+    - notificasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera notificado
+    - hubiese notificado
+  tu:
+    - hubieras notificado
+    - hubieses notificado
+  vos:
+    - hubieras notificado
+    - hubieses notificado
+  ud:
+    - hubiera notificado
+    - hubiese notificado
+  nosotros:
+    - hubiéramos notificado
+    - hubiésemos notificado
+  vosotros:
+    - hubierais notificado
+    - hubieseis notificado
+  uds:
+    - hubieran notificado
+    - hubiesen notificado
+imperativo:
+  tu: notifca
+  vos: notificá
+  ud: notifique
+  nosotros: notifiquemos
+  vosotros: notificad
+  uds: notifiquen

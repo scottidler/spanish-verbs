@@ -1,0 +1,142 @@
+infinitivo: asustar
+gerundio: asustando
+participio-pasado: asustado
+presente-indicativo:
+  yo: asusto
+  tu: asustas
+  vos: asustas
+  ud: asusta
+  nosotros: asustamos
+  vosotros: asustáis
+  uds: asustan
+preterito-perfecto-simple:
+  yo: asusté
+  tu: asustaste
+  vos: asustaste
+  ud: asustó
+  nosotros: asustamos
+  vosotros: asustasteis
+  uds: asustaron
+preterito-imperfecto:
+  yo: asustaba
+  tu: asustabas
+  vos: asustabas
+  ud: asustaba
+  nosotros: asustábamos
+  vosotros: asustabais
+  uds: asustaban
+futuro-simple:
+  yo: asustaré
+  tu: asustarás
+  vos: asustarás
+  ud: asustará
+  nosotros: asustaremos
+  vosotros: asustaréis
+  uds: asustarán
+condicional-simple:
+  yo: asustaría
+  tu: asustarías
+  vos: asustarías
+  ud: asustaría
+  nosotros: asustaríamos
+  vosotros: asustaríais
+  uds: asustarían
+presente-perfecto:
+  yo: he asustado
+  tu: has asustado
+  vos: has asustado
+  ud: ha asustado
+  nosotros: hemos asustado
+  vosotros: habéis asustado
+  uds: han asustado
+preterito-pluscuamperfecto:
+  yo: había asustado
+  tu: habías asustado
+  vos: habías asustado
+  ud: había asustado
+  nosotros: habíamos asustado
+  vosotros: habíais asustado
+  uds: habían asustado
+futuro-perfecto:
+  yo: habré asustado
+  tu: habrás asustado
+  vos: habrás asustado
+  ud: habrá asustado
+  nosotros: habremos asustado
+  vosotros: habréis asustado
+  uds: habrán asustado
+condicional-perfecto:
+  yo: habría asustado
+  tu: habrías asustado
+  vos: habrías asustado
+  ud: habría asustado
+  nosotros: habríamos asustado
+  vosotros: habríais asustado
+  uds: habrían asustado
+presente-subjuntivo:
+  yo: asuste
+  tu: asustes
+  vos: asustes
+  ud: asuste
+  nosotros: asustemos
+  vosotros: asustéis
+  uds: asusten
+preterito-perfecto-subjuntivo:
+  yo: haya asustado
+  tu: hayas asustado
+  vos: hayas asustado
+  ud: haya asustado
+  nosotros: hayamos asustado
+  vosotros: hayáis asustado
+  uds: hayan asustado
+imperfecto-subjuntivo:
+  yo:
+    - asustara
+    - asustase
+  tu:
+    - asustaras
+    - asustases
+  vos:
+    - asustaras
+    - asustases
+  ud:
+    - asustara
+    - asustase
+  nosotros:
+    - asustáramos
+    - asustásemos
+  vosotros:
+    - asustarais
+    - asustaseis
+  uds:
+    - asustaran
+    - asustasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asustado
+    - hubiese asustado
+  tu:
+    - hubieras asustado
+    - hubieses asustado
+  vos:
+    - hubieras asustado
+    - hubieses asustado
+  ud:
+    - hubiera asustado
+    - hubiese asustado
+  nosotros:
+    - hubiéramos asustado
+    - hubiésemos asustado
+  vosotros:
+    - hubierais asustado
+    - hubieseis asustado
+  uds:
+    - hubieran asustado
+    - hubiesen asustado
+imperativo:
+  tu: asusta
+  vos: asustá
+  ud: asuste
+  nosotros: asustemos
+  vosotros: asustad
+  uds: asusten

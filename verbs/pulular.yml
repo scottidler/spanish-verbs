@@ -1,0 +1,142 @@
+infinitivo: pulular
+gerundio: pululando
+participio-pasado: pululado
+presente-indicativo:
+  yo: pululo
+  tu: pululas
+  vos: pululas
+  ud: pulula
+  nosotros: pululamos
+  vosotros: pululáis
+  uds: pululan
+preterito-perfecto-simple:
+  yo: pululé
+  tu: pululaste
+  vos: pululaste
+  ud: pululó
+  nosotros: pululamos
+  vosotros: pululasteis
+  uds: pulularon
+preterito-imperfecto:
+  yo: pululaba
+  tu: pululabas
+  vos: pululabas
+  ud: pululaba
+  nosotros: pululábamos
+  vosotros: pululabais
+  uds: pululaban
+futuro-simple:
+  yo: pulularé
+  tu: pulularás
+  vos: pulularás
+  ud: pululará
+  nosotros: pulularemos
+  vosotros: pulularéis
+  uds: pulularán
+condicional-simple:
+  yo: pulularía
+  tu: pulularías
+  vos: pulularías
+  ud: pulularía
+  nosotros: pulularíamos
+  vosotros: pulularíais
+  uds: pulularían
+presente-perfecto:
+  yo: he pululado
+  tu: has pululado
+  vos: has pululado
+  ud: ha pululado
+  nosotros: hemos pululado
+  vosotros: habéis pululado
+  uds: han pululado
+preterito-pluscuamperfecto:
+  yo: había pululado
+  tu: habías pululado
+  vos: habías pululado
+  ud: había pululado
+  nosotros: habíamos pululado
+  vosotros: habíais pululado
+  uds: habían pululado
+futuro-perfecto:
+  yo: habré pululado
+  tu: habrás pululado
+  vos: habrás pululado
+  ud: habrá pululado
+  nosotros: habremos pululado
+  vosotros: habréis pululado
+  uds: habrán pululado
+condicional-perfecto:
+  yo: habría pululado
+  tu: habrías pululado
+  vos: habrías pululado
+  ud: habría pululado
+  nosotros: habríamos pululado
+  vosotros: habríais pululado
+  uds: habrían pululado
+presente-subjuntivo:
+  yo: pulule
+  tu: pulules
+  vos: pulules
+  ud: pulule
+  nosotros: pululemos
+  vosotros: pululéis
+  uds: pululen
+preterito-perfecto-subjuntivo:
+  yo: haya pululado
+  tu: hayas pululado
+  vos: hayas pululado
+  ud: haya pululado
+  nosotros: hayamos pululado
+  vosotros: hayáis pululado
+  uds: hayan pululado
+imperfecto-subjuntivo:
+  yo:
+    - pululara
+    - pululase
+  tu:
+    - pulularas
+    - pululases
+  vos:
+    - pulularas
+    - pululases
+  ud:
+    - pululara
+    - pululase
+  nosotros:
+    - pululáramos
+    - pululásemos
+  vosotros:
+    - pulularais
+    - pululaseis
+  uds:
+    - pulularan
+    - pululasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pululado
+    - hubiese pululado
+  tu:
+    - hubieras pululado
+    - hubieses pululado
+  vos:
+    - hubieras pululado
+    - hubieses pululado
+  ud:
+    - hubiera pululado
+    - hubiese pululado
+  nosotros:
+    - hubiéramos pululado
+    - hubiésemos pululado
+  vosotros:
+    - hubierais pululado
+    - hubieseis pululado
+  uds:
+    - hubieran pululado
+    - hubiesen pululado
+imperativo:
+  tu: pulula
+  vos: pululá
+  ud: pulule
+  nosotros: pululemos
+  vosotros: pululad
+  uds: pululen

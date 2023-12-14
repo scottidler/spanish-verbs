@@ -1,0 +1,142 @@
+infinitivo: aventurar
+gerundio: aventurando
+participio-pasado: aventurado
+presente-indicativo:
+  yo: aventuro
+  tu: aventuras
+  vos: aventuras
+  ud: aventura
+  nosotros: aventuramos
+  vosotros: aventuráis
+  uds: aventuran
+preterito-perfecto-simple:
+  yo: aventuré
+  tu: aventuraste
+  vos: aventuraste
+  ud: aventuró
+  nosotros: aventuramos
+  vosotros: aventurasteis
+  uds: aventuraron
+preterito-imperfecto:
+  yo: aventuraba
+  tu: aventurabas
+  vos: aventurabas
+  ud: aventuraba
+  nosotros: aventurábamos
+  vosotros: aventurabais
+  uds: aventuraban
+futuro-simple:
+  yo: aventuraré
+  tu: aventurarás
+  vos: aventurarás
+  ud: aventurará
+  nosotros: aventuraremos
+  vosotros: aventuraréis
+  uds: aventurarán
+condicional-simple:
+  yo: aventuraría
+  tu: aventurarías
+  vos: aventurarías
+  ud: aventuraría
+  nosotros: aventuraríamos
+  vosotros: aventuraríais
+  uds: aventurarían
+presente-perfecto:
+  yo: he aventurado
+  tu: has aventurado
+  vos: has aventurado
+  ud: ha aventurado
+  nosotros: hemos aventurado
+  vosotros: habéis aventurado
+  uds: han aventurado
+preterito-pluscuamperfecto:
+  yo: había aventurado
+  tu: habías aventurado
+  vos: habías aventurado
+  ud: había aventurado
+  nosotros: habíamos aventurado
+  vosotros: habíais aventurado
+  uds: habían aventurado
+futuro-perfecto:
+  yo: habré aventurado
+  tu: habrás aventurado
+  vos: habrás aventurado
+  ud: habrá aventurado
+  nosotros: habremos aventurado
+  vosotros: habréis aventurado
+  uds: habrán aventurado
+condicional-perfecto:
+  yo: habría aventurado
+  tu: habrías aventurado
+  vos: habrías aventurado
+  ud: habría aventurado
+  nosotros: habríamos aventurado
+  vosotros: habríais aventurado
+  uds: habrían aventurado
+presente-subjuntivo:
+  yo: aventure
+  tu: aventures
+  vos: aventures
+  ud: aventure
+  nosotros: aventuremos
+  vosotros: aventuréis
+  uds: aventuren
+preterito-perfecto-subjuntivo:
+  yo: haya aventurado
+  tu: hayas aventurado
+  vos: hayas aventurado
+  ud: haya aventurado
+  nosotros: hayamos aventurado
+  vosotros: hayáis aventurado
+  uds: hayan aventurado
+imperfecto-subjuntivo:
+  yo:
+    - aventurara
+    - aventurase
+  tu:
+    - aventuraras
+    - aventurases
+  vos:
+    - aventuraras
+    - aventurases
+  ud:
+    - aventurara
+    - aventurase
+  nosotros:
+    - aventuráramos
+    - aventurásemos
+  vosotros:
+    - aventurarais
+    - aventuraseis
+  uds:
+    - aventuraran
+    - aventurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aventurado
+    - hubiese aventurado
+  tu:
+    - hubieras aventurado
+    - hubieses aventurado
+  vos:
+    - hubieras aventurado
+    - hubieses aventurado
+  ud:
+    - hubiera aventurado
+    - hubiese aventurado
+  nosotros:
+    - hubiéramos aventurado
+    - hubiésemos aventurado
+  vosotros:
+    - hubierais aventurado
+    - hubieseis aventurado
+  uds:
+    - hubieran aventurado
+    - hubiesen aventurado
+imperativo:
+  tu: aventura
+  vos: aventurá
+  ud: aventure
+  nosotros: aventuremos
+  vosotros: aventurad
+  uds: aventuren

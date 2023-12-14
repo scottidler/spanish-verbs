@@ -1,0 +1,142 @@
+infinitivo: sepultar
+gerundio: sepultando
+participio-pasado: sepultado
+presente-indicativo:
+  yo: sepulto
+  tu: sepultas
+  vos: sepultas
+  ud: sepulta
+  nosotros: sepultamos
+  vosotros: sepultáis
+  uds: sepultan
+preterito-perfecto-simple:
+  yo: sepulté
+  tu: sepultaste
+  vos: sepultaste
+  ud: sepultó
+  nosotros: sepultamos
+  vosotros: sepultasteis
+  uds: sepultaron
+preterito-imperfecto:
+  yo: sepultaba
+  tu: sepultabas
+  vos: sepultabas
+  ud: sepultaba
+  nosotros: sepultábamos
+  vosotros: sepultabais
+  uds: sepultaban
+futuro-simple:
+  yo: sepultaré
+  tu: sepultarás
+  vos: sepultarás
+  ud: sepultará
+  nosotros: sepultaremos
+  vosotros: sepultaréis
+  uds: sepultarán
+condicional-simple:
+  yo: sepultaría
+  tu: sepultarías
+  vos: sepultarías
+  ud: sepultaría
+  nosotros: sepultaríamos
+  vosotros: sepultaríais
+  uds: sepultarían
+presente-perfecto:
+  yo: he sepultado
+  tu: has sepultado
+  vos: has sepultado
+  ud: ha sepultado
+  nosotros: hemos sepultado
+  vosotros: habéis sepultado
+  uds: han sepultado
+preterito-pluscuamperfecto:
+  yo: había sepultado
+  tu: habías sepultado
+  vos: habías sepultado
+  ud: había sepultado
+  nosotros: habíamos sepultado
+  vosotros: habíais sepultado
+  uds: habían sepultado
+futuro-perfecto:
+  yo: habré sepultado
+  tu: habrás sepultado
+  vos: habrás sepultado
+  ud: habrá sepultado
+  nosotros: habremos sepultado
+  vosotros: habréis sepultado
+  uds: habrán sepultado
+condicional-perfecto:
+  yo: habría sepultado
+  tu: habrías sepultado
+  vos: habrías sepultado
+  ud: habría sepultado
+  nosotros: habríamos sepultado
+  vosotros: habríais sepultado
+  uds: habrían sepultado
+presente-subjuntivo:
+  yo: sepulte
+  tu: sepultes
+  vos: sepultes
+  ud: sepulte
+  nosotros: sepultemos
+  vosotros: sepultéis
+  uds: sepulten
+preterito-perfecto-subjuntivo:
+  yo: haya sepultado
+  tu: hayas sepultado
+  vos: hayas sepultado
+  ud: haya sepultado
+  nosotros: hayamos sepultado
+  vosotros: hayáis sepultado
+  uds: hayan sepultado
+imperfecto-subjuntivo:
+  yo:
+    - sepultara
+    - sepultase
+  tu:
+    - sepultaras
+    - sepultases
+  vos:
+    - sepultaras
+    - sepultases
+  ud:
+    - sepultara
+    - sepultase
+  nosotros:
+    - sepultáramos
+    - sepultásemos
+  vosotros:
+    - sepultarais
+    - sepultaseis
+  uds:
+    - sepultaran
+    - sepultasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sepultado
+    - hubiese sepultado
+  tu:
+    - hubieras sepultado
+    - hubieses sepultado
+  vos:
+    - hubieras sepultado
+    - hubieses sepultado
+  ud:
+    - hubiera sepultado
+    - hubiese sepultado
+  nosotros:
+    - hubiéramos sepultado
+    - hubiésemos sepultado
+  vosotros:
+    - hubierais sepultado
+    - hubieseis sepultado
+  uds:
+    - hubieran sepultado
+    - hubiesen sepultado
+imperativo:
+  tu: sepulta
+  vos: sepultá
+  ud: sepulte
+  nosotros: sepultemos
+  vosotros: sepultad
+  uds: sepulten

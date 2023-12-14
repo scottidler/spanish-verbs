@@ -1,0 +1,142 @@
+infinitivo: enderezar
+gerundio: enderezando
+participio-pasado: enderezado
+presente-indicativo:
+  yo: enderezo
+  tu: enderezas
+  vos: enderezas
+  ud: endereza
+  nosotros: enderezamos
+  vosotros: enderezáis
+  uds: enderezan
+preterito-perfecto-simple:
+  yo: enderecé
+  tu: enderezaste
+  vos: enderezaste
+  ud: enderezó
+  nosotros: enderezamos
+  vosotros: enderezasteis
+  uds: enderezaron
+preterito-imperfecto:
+  yo: enderezaba
+  tu: enderezabas
+  vos: enderezabas
+  ud: enderezaba
+  nosotros: enderezábamos
+  vosotros: enderezabais
+  uds: enderezaban
+futuro-simple:
+  yo: enderezaré
+  tu: enderezarás
+  vos: enderezarás
+  ud: enderezará
+  nosotros: enderezaremos
+  vosotros: enderezaréis
+  uds: enderezarán
+condicional-simple:
+  yo: enderezaría
+  tu: enderezarías
+  vos: enderezarías
+  ud: enderezaría
+  nosotros: enderezaríamos
+  vosotros: enderezaríais
+  uds: enderezarían
+presente-perfecto:
+  yo: he enderezado
+  tu: has enderezado
+  vos: has enderezado
+  ud: ha enderezado
+  nosotros: hemos enderezado
+  vosotros: habéis enderezado
+  uds: han enderezado
+preterito-pluscuamperfecto:
+  yo: había enderezado
+  tu: habías enderezado
+  vos: habías enderezado
+  ud: había enderezado
+  nosotros: habíamos enderezado
+  vosotros: habíais enderezado
+  uds: habían enderezado
+futuro-perfecto:
+  yo: habré enderezado
+  tu: habrás enderezado
+  vos: habrás enderezado
+  ud: habrá enderezado
+  nosotros: habremos enderezado
+  vosotros: habréis enderezado
+  uds: habrán enderezado
+condicional-perfecto:
+  yo: habría enderezado
+  tu: habrías enderezado
+  vos: habrías enderezado
+  ud: habría enderezado
+  nosotros: habríamos enderezado
+  vosotros: habríais enderezado
+  uds: habrían enderezado
+presente-subjuntivo:
+  yo: enderece
+  tu: endereces
+  vos: endereces
+  ud: enderece
+  nosotros: enderecemos
+  vosotros: enderecéis
+  uds: enderecen
+preterito-perfecto-subjuntivo:
+  yo: haya enderezado
+  tu: hayas enderezado
+  vos: hayas enderezado
+  ud: haya enderezado
+  nosotros: hayamos enderezado
+  vosotros: hayáis enderezado
+  uds: hayan enderezado
+imperfecto-subjuntivo:
+  yo:
+    - enderezara
+    - enderezase
+  tu:
+    - enderezaras
+    - enderezases
+  vos:
+    - enderezaras
+    - enderezases
+  ud:
+    - enderezara
+    - enderezase
+  nosotros:
+    - enderezáramos
+    - enderezásemos
+  vosotros:
+    - enderezarais
+    - enderezaseis
+  uds:
+    - enderezaran
+    - enderezasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enderezado
+    - hubiese enderezado
+  tu:
+    - hubieras enderezado
+    - hubieses enderezado
+  vos:
+    - hubieras enderezado
+    - hubieses enderezado
+  ud:
+    - hubiera enderezado
+    - hubiese enderezado
+  nosotros:
+    - hubiéramos enderezado
+    - hubiésemos enderezado
+  vosotros:
+    - hubierais enderezado
+    - hubieseis enderezado
+  uds:
+    - hubieran enderezado
+    - hubiesen enderezado
+imperativo:
+  tu: endereza
+  vos: enderezá
+  ud: enderece
+  nosotros: enderecemos
+  vosotros: enderezad
+  uds: enderecen

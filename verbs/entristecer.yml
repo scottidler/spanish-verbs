@@ -1,0 +1,142 @@
+infinitivo: entristecer
+gerundio: entristeciendo
+participio-pasado: entristecido
+presente-indicativo:
+  yo: entristezco
+  tu: entristeces
+  vos: entristeces
+  ud: entristece
+  nosotros: entristecemos
+  vosotros: entristecéis
+  uds: entristecen
+preterito-perfecto-simple:
+  yo: entristecí
+  tu: entristeciste
+  vos: entristeciste
+  ud: entristeció
+  nosotros: entristecimos
+  vosotros: entristecisteis
+  uds: entristecieron
+preterito-imperfecto:
+  yo: entristecía
+  tu: entristecías
+  vos: entristecías
+  ud: entristecía
+  nosotros: entristecíamos
+  vosotros: entristecíais
+  uds: entristecían
+futuro-simple:
+  yo: entristeceré
+  tu: entristecerás
+  vos: entristecerás
+  ud: entristecerá
+  nosotros: entristeceremos
+  vosotros: entristeceréis
+  uds: entristecerán
+condicional-simple:
+  yo: entristecería
+  tu: entristecerías
+  vos: entristecerías
+  ud: entristecería
+  nosotros: entristeceríamos
+  vosotros: entristeceríais
+  uds: entristecerían
+presente-perfecto:
+  yo: he entristecido
+  tu: has entristecido
+  vos: has entristecido
+  ud: ha entristecido
+  nosotros: hemos entristecido
+  vosotros: habéis entristecido
+  uds: han entristecido
+preterito-pluscuamperfecto:
+  yo: había entristecido
+  tu: habías entristecido
+  vos: habías entristecido
+  ud: había entristecido
+  nosotros: habíamos entristecido
+  vosotros: habíais entristecido
+  uds: habían entristecido
+futuro-perfecto:
+  yo: habré entristecido
+  tu: habrás entristecido
+  vos: habrás entristecido
+  ud: habrá entristecido
+  nosotros: habremos entristecido
+  vosotros: habréis entristecido
+  uds: habrán entristecido
+condicional-perfecto:
+  yo: habría entristecido
+  tu: habrías entristecido
+  vos: habrías entristecido
+  ud: habría entristecido
+  nosotros: habríamos entristecido
+  vosotros: habríais entristecido
+  uds: habrían entristecido
+presente-subjuntivo:
+  yo: entristezca
+  tu: entristezcas
+  vos: entristezcas
+  ud: entristezca
+  nosotros: entristezcamos
+  vosotros: entristezcáis
+  uds: entristezcan
+preterito-perfecto-subjuntivo:
+  yo: haya entristecido
+  tu: hayas entristecido
+  vos: hayas entristecido
+  ud: haya entristecido
+  nosotros: hayamos entristecido
+  vosotros: hayáis entristecido
+  uds: hayan entristecido
+imperfecto-subjuntivo:
+  yo:
+    - entristeciera
+    - entristeciese
+  tu:
+    - entristecieras
+    - entristecieses
+  vos:
+    - entristecieras
+    - entristecieses
+  ud:
+    - entristeciera
+    - entristeciese
+  nosotros:
+    - entristeciéramos
+    - entristeciésemos
+  vosotros:
+    - entristecierais
+    - entristecieseis
+  uds:
+    - entristecieran
+    - entristeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera entristecido
+    - hubiese entristecido
+  tu:
+    - hubieras entristecido
+    - hubieses entristecido
+  vos:
+    - hubieras entristecido
+    - hubieses entristecido
+  ud:
+    - hubiera entristecido
+    - hubiese entristecido
+  nosotros:
+    - hubiéramos entristecido
+    - hubiésemos entristecido
+  vosotros:
+    - hubierais entristecido
+    - hubieseis entristecido
+  uds:
+    - hubieran entristecido
+    - hubiesen entristecido
+imperativo:
+  tu: entristece
+  vos: entristece
+  ud: entristezca
+  nosotros: entristezcamos
+  vosotros: entristeced
+  uds: entristezcan

@@ -1,0 +1,142 @@
+infinitivo: captar
+gerundio: captando
+participio-pasado: captado
+presente-indicativo:
+  yo: capto
+  tu: captas
+  vos: captás
+  ud: capta
+  nosotros: captamos
+  vosotros: captáis
+  uds: captan
+preterito-perfecto-simple:
+  yo: capté
+  tu: captaste
+  vos: captaste
+  ud: captó
+  nosotros: captamos
+  vosotros: captasteis
+  uds: captaron
+preterito-imperfecto:
+  yo: captaba
+  tu: captabas
+  vos: captabas
+  ud: captaba
+  nosotros: captábamos
+  vosotros: captabais
+  uds: captaban
+futuro-simple:
+  yo: captaré
+  tu: captarás
+  vos: captarás
+  ud: captará
+  nosotros: captaremos
+  vosotros: captaréis
+  uds: captarán
+condicional-simple:
+  yo: captaría
+  tu: captarías
+  vos: captarías
+  ud: captaría
+  nosotros: captaríamos
+  vosotros: captaríais
+  uds: captarían
+presente-perfecto:
+  yo: he captado
+  tu: has captado
+  vos: has captado
+  ud: ha captado
+  nosotros: hemos captado
+  vosotros: habéis captado
+  uds: han captado
+preterito-pluscuamperfecto:
+  yo: había captado
+  tu: habías captado
+  vos: habías captado
+  ud: había captado
+  nosotros: habíamos captado
+  vosotros: habíais captado
+  uds: habían captado
+futuro-perfecto:
+  yo: habré captado
+  tu: habrás captado
+  vos: habrás captado
+  ud: habrá captado
+  nosotros: habremos captado
+  vosotros: habréis captado
+  uds: habrán captado
+condicional-perfecto:
+  yo: habría captado
+  tu: habrías captado
+  vos: habrías captado
+  ud: habría captado
+  nosotros: habríamos captado
+  vosotros: habríais captado
+  uds: habrían captado
+presente-subjuntivo:
+  yo: capte
+  tu: captes
+  vos: captes
+  ud: capte
+  nosotros: captemos
+  vosotros: captéis
+  uds: capten
+preterito-perfecto-subjuntivo:
+  yo: haya captado
+  tu: hayas captado
+  vos: hayas captado
+  ud: haya captado
+  nosotros: hayamos captado
+  vosotros: hayáis captado
+  uds: hayan captado
+imperfecto-subjuntivo:
+  yo:
+    - captara
+    - captase
+  tu:
+    - captaras
+    - captases
+  vos:
+    - captaras
+    - captases
+  ud:
+    - captara
+    - captase
+  nosotros:
+    - captáramos
+    - captásemos
+  vosotros:
+    - captarais
+    - captaseis
+  uds:
+    - captaran
+    - captasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera captado
+    - hubiese captado
+  tu:
+    - hubieras captado
+    - hubieses captado
+  vos:
+    - hubieras captado
+    - hubieses captado
+  ud:
+    - hubiera captado
+    - hubiese captado
+  nosotros:
+    - hubiéramos captado
+    - hubiésemos captado
+  vosotros:
+    - hubierais captado
+    - hubieseis captado
+  uds:
+    - hubieran captado
+    - hubiesen captado
+imperativo:
+  tu: capta
+  vos: captá
+  ud: capte
+  nosotros: captemos
+  vosotros: captad
+  uds: capten

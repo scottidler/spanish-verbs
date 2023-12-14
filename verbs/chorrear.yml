@@ -1,0 +1,142 @@
+infinitivo: chorrear
+gerundio: chorreando
+participio-pasado: chorreado
+presente-indicativo:
+  yo: chorreo
+  tu: chorreas
+  vos: chorreas
+  ud: chorrea
+  nosotros: chorrearemos
+  vosotros: chorreáis
+  uds: chorrean
+preterito-perfecto-simple:
+  yo: chorreé
+  tu: chorreaste
+  vos: chorreaste
+  ud: chorreó
+  nosotros: chorreamos
+  vosotros: chorreasteis
+  uds: chorrearon
+preterito-imperfecto:
+  yo: chorreaba
+  tu: chorreabas
+  vos: chorreabas
+  ud: chorreaba
+  nosotros: chorreábamos
+  vosotros: chorreabais
+  uds: chorreaban
+futuro-simple:
+  yo: chorrearé
+  tu: chorrearás
+  vos: chorrearás
+  ud: chorreará
+  nosotros: chorrearemos
+  vosotros: chorrearéis
+  uds: chorrearán
+condicional-simple:
+  yo: chorrearía
+  tu: chorrearías
+  vos: chorrearías
+  ud: chorrearía
+  nosotros: chorrearíamos
+  vosotros: chorrearíais
+  uds: chorrearían
+presente-perfecto:
+  yo: he chorreado
+  tu: has chorreado
+  vos: has chorreado
+  ud: ha chorreado
+  nosotros: hemos chorreado
+  vosotros: habéis chorreado
+  uds: han chorreado
+preterito-pluscuamperfecto:
+  yo: había chorreado
+  tu: habías chorreado
+  vos: habías chorreado
+  ud: había chorreado
+  nosotros: habíamos chorreado
+  vosotros: habíais chorreado
+  uds: habían chorreado
+futuro-perfecto:
+  yo: habré chorreado
+  tu: habrás chorreado
+  vos: habrás chorreado
+  ud: habrá chorreado
+  nosotros: habremos chorreado
+  vosotros: habréis chorreado
+  uds: habrán chorreado
+condicional-perfecto:
+  yo: habría chorreado
+  tu: habrías chorreado
+  vos: habrías chorreado
+  ud: habría chorreado
+  nosotros: habríamos chorreado
+  vosotros: habríais chorreado
+  uds: habrían chorreado
+presente-subjuntivo:
+  yo: chorree
+  tu: chorrees
+  vos: chorrees
+  ud: chorree
+  nosotros: chorreemos
+  vosotros: chorreéis
+  uds: chorreen
+preterito-perfecto-subjuntivo:
+  yo: haya chorreado
+  tu: hayas chorreado
+  vos: hayas chorreado
+  ud: haya chorreado
+  nosotros: hayamos chorreado
+  vosotros: hayáis chorreado
+  uds: hayan chorreado
+imperfecto-subjuntivo:
+  yo:
+    - chorreara
+    - chorrease
+  tu:
+    - chorrearas
+    - chorreases
+  vos:
+    - chorrearas
+    - chorreases
+  ud:
+    - chorreara
+    - chorrease
+  nosotros:
+    - chorreáramos
+    - chorreásemos
+  vosotros:
+    - chorrearais
+    - chorreaseis
+  uds:
+    - chorrearan
+    - chorreasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera chorreado
+    - hubiese chorreado
+  tu:
+    - hubieras chorreado
+    - hubieses chorreado
+  vos:
+    - hubieras chorreado
+    - hubieses chorreado
+  ud:
+    - hubiera chorreado
+    - hubiese chorreado
+  nosotros:
+    - hubiéramos chorreado
+    - hubiésemos chorreado
+  vosotros:
+    - hubierais chorreado
+    - hubieseis chorreado
+  uds:
+    - hubieran chorreado
+    - hubiesen chorreado
+imperativo:
+  tu: chorrea
+  vos: chorreá
+  ud: chorree
+  nosotros: chorreemos
+  vosotros: chorread
+  uds: chorreen

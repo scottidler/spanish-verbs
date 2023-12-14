@@ -1,0 +1,142 @@
+infinitivo: asignar
+gerundio: asignando
+participio-pasado: asignado
+presente-indicativo:
+  yo: asigno
+  tu: asignas
+  vos: asignas
+  ud: asigna
+  nosotros: asignamos
+  vosotros: asignáis
+  uds: asignan
+preterito-perfecto-simple:
+  yo: asigné
+  tu: asignaste
+  vos: asignaste
+  ud: asignó
+  nosotros: asignamos
+  vosotros: asignasteis
+  uds: asignaron
+preterito-imperfecto:
+  yo: asignaba
+  tu: asignabas
+  vos: asignabas
+  ud: asignaba
+  nosotros: asignábamos
+  vosotros: asignabais
+  uds: asignaban
+futuro-simple:
+  yo: asignaré
+  tu: asignarás
+  vos: asignarás
+  ud: asignará
+  nosotros: asignaremos
+  vosotros: asignaréis
+  uds: asignarán
+condicional-simple:
+  yo: asignaría
+  tu: asignarías
+  vos: asignarías
+  ud: asignaría
+  nosotros: asignaríamos
+  vosotros: asignaríais
+  uds: asignarían
+presente-perfecto:
+  yo: he asignado
+  tu: has asignado
+  vos: has asignado
+  ud: ha asignado
+  nosotros: hemos asignado
+  vosotros: habéis asignado
+  uds: han asignado
+preterito-pluscuamperfecto:
+  yo: había asignado
+  tu: habías asignado
+  vos: habías asignado
+  ud: había asignado
+  nosotros: habíamos asignado
+  vosotros: habíais asignado
+  uds: habían asignado
+futuro-perfecto:
+  yo: habré asignado
+  tu: habrás asignado
+  vos: habrás asignado
+  ud: habrá asignado
+  nosotros: habremos asignado
+  vosotros: habréis asignado
+  uds: habrán asignado
+condicional-perfecto:
+  yo: habría asignado
+  tu: habrías asignado
+  vos: habrías asignado
+  ud: habría asignado
+  nosotros: habríamos asignado
+  vosotros: habríais asignado
+  uds: habrían asignado
+presente-subjuntivo:
+  yo: asigne
+  tu: asignes
+  vos: asignes
+  ud: asigne
+  nosotros: asignemos
+  vosotros: asignéis
+  uds: asignen
+preterito-perfecto-subjuntivo:
+  yo: haya asignado
+  tu: hayas asignado
+  vos: hayas asignado
+  ud: haya asignado
+  nosotros: hayamos asignado
+  vosotros: hayáis asignado
+  uds: hayan asignado
+imperfecto-subjuntivo:
+  yo:
+    - asignara
+    - asignase
+  tu:
+    - asignaras
+    - asignases
+  vos:
+    - asignaras
+    - asignases
+  ud:
+    - asignara
+    - asignase
+  nosotros:
+    - asignáramos
+    - asignásemos
+  vosotros:
+    - asignarais
+    - asignaseis
+  uds:
+    - asignaran
+    - asignasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asignado
+    - hubiese asignado
+  tu:
+    - hubieras asignado
+    - hubieses asignado
+  vos:
+    - hubieras asignado
+    - hubieses asignado
+  ud:
+    - hubiera asignado
+    - hubiese asignado
+  nosotros:
+    - hubiéramos asignado
+    - hubiésemos asignado
+  vosotros:
+    - hubierais asignado
+    - hubieseis asignado
+  uds:
+    - hubieran asignado
+    - hubiesen asignado
+imperativo:
+  tu: asigna
+  vos: asigná
+  ud: asigne
+  nosotros: asignemos
+  vosotros: asignad
+  uds: asignen

@@ -1,0 +1,142 @@
+infinitivo: conmover
+gerundio: conmoviendo
+participio-pasado: conmovido
+presente-indicativo:
+  yo: conmuevo
+  tu: conmueves
+  vos: conmueves
+  ud: conmueve
+  nosotros: conmovemos
+  vosotros: conmovéis
+  uds: conmueven
+preterito-perfecto-simple:
+  yo: conmoví
+  tu: conmoviste
+  vos: conmoviste
+  ud: conmovió
+  nosotros: conmovimos
+  vosotros: conmovisteis
+  uds: conmovieron
+preterito-imperfecto:
+  yo: conmovía
+  tu: conmovías
+  vos: conmovías
+  ud: conmovía
+  nosotros: conmovíamos
+  vosotros: conmovíais
+  uds: conmovían
+futuro-simple:
+  yo: conmoveré
+  tu: conmoverás
+  vos: conmoverás
+  ud: conmoverá
+  nosotros: conmoveremos
+  vosotros: conmoveréis
+  uds: conmoverán
+condicional-simple:
+  yo: conmovería
+  tu: conmoverías
+  vos: conmoverías
+  ud: conmovería
+  nosotros: conmoveríamos
+  vosotros: conmoveríais
+  uds: conmoverían
+presente-perfecto:
+  yo: he conmovido
+  tu: has conmovido
+  vos: has conmovido
+  ud: ha conmovido
+  nosotros: hemos conmovido
+  vosotros: habéis conmovido
+  uds: han conmovido
+preterito-pluscuamperfecto:
+  yo: había conmovido
+  tu: habías conmovido
+  vos: habías conmovido
+  ud: había conmovido
+  nosotros: habíamos conmovido
+  vosotros: habíais conmovido
+  uds: habían conmovido
+futuro-perfecto:
+  yo: habré conmovido
+  tu: habrás conmovido
+  vos: habrás conmovido
+  ud: habrá conmovido
+  nosotros: habremos conmovido
+  vosotros: habréis conmovido
+  uds: habrán conmovido
+condicional-perfecto:
+  yo: habría conmovido
+  tu: habrías conmovido
+  vos: habrías conmovido
+  ud: habría conmovido
+  nosotros: habríamos conmovido
+  vosotros: habríais conmovido
+  uds: habrían conmovido
+presente-subjuntivo:
+  yo: conmueva
+  tu: conmuevas
+  vos: conmuevas
+  ud: conmueva
+  nosotros: conmovamos
+  vosotros: conmováis
+  uds: conmuevan
+preterito-perfecto-subjuntivo:
+  yo: haya conmovido
+  tu: hayas conmovido
+  vos: hayas conmovido
+  ud: haya conmovido
+  nosotros: hayamos conmovido
+  vosotros: hayáis conmovido
+  uds: hayan conmovido
+imperfecto-subjuntivo:
+  yo:
+    - conmoviera
+    - conmoviese
+  tu:
+    - conmovieras
+    - conmovieses
+  vos:
+    - conmovieras
+    - conmovieses
+  ud:
+    - conmoviera
+    - conmoviese
+  nosotros:
+    - conmoviéramos
+    - conmoviésemos
+  vosotros:
+    - conmovierais
+    - conmovieseis
+  uds:
+    - conmovieran
+    - conmoviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conmovido
+    - hubiese conmovido
+  tu:
+    - hubieras conmovido
+    - hubieses conmovido
+  vos:
+    - hubieras conmovido
+    - hubieses conmovido
+  ud:
+    - hubiera conmovido
+    - hubiese conmovido
+  nosotros:
+    - hubiéramos conmovido
+    - hubiésemos conmovido
+  vosotros:
+    - hubierais conmovido
+    - hubieseis conmovido
+  uds:
+    - hubieran conmovido
+    - hubiesen conmovido
+imperativo:
+  tu: conmueve
+  vos: conmueve
+  ud: conmueva
+  nosotros: conmovamos
+  vosotros: conmoved
+  uds: conmuevan

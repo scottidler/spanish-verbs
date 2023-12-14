@@ -1,0 +1,142 @@
+infinitivo: agregar
+gerundio: agregando
+participio-pasado: agregado
+presente-indicativo:
+  yo: agrego
+  tu: agregas
+  vos: agregas
+  ud: agrega
+  nosotros: agregamos
+  vosotros: agregáis
+  uds: agregan
+preterito-perfecto-simple:
+  yo: agregué
+  tu: agregaste
+  vos: agregaste
+  ud: agregó
+  nosotros: agregamos
+  vosotros: agregasteis
+  uds: agregaron
+preterito-imperfecto:
+  yo: agregaba
+  tu: agregabas
+  vos: agregabas
+  ud: agregaba
+  nosotros: agregábamos
+  vosotros: agregabais
+  uds: agregaban
+futuro-simple:
+  yo: agregaré
+  tu: agregarás
+  vos: agregarás
+  ud: agregará
+  nosotros: agregaremos
+  vosotros: agregaréis
+  uds: agregarán
+condicional-simple:
+  yo: agregaría
+  tu: agregarías
+  vos: agregarías
+  ud: agregaría
+  nosotros: agregaríamos
+  vosotros: agregaríais
+  uds: agregarían
+presente-perfecto:
+  yo: he agregado
+  tu: has agregado
+  vos: has agregado
+  ud: ha agregado
+  nosotros: hemos agregado
+  vosotros: habéis agregado
+  uds: han agregado
+preterito-pluscuamperfecto:
+  yo: había agregado
+  tu: habías agregado
+  vos: habías agregado
+  ud: había agregado
+  nosotros: habíamos agregado
+  vosotros: habíais agregado
+  uds: habían agregado
+futuro-perfecto:
+  yo: habré agregado
+  tu: habrás agregado
+  vos: habrás agregado
+  ud: habrá agregado
+  nosotros: habremos agregado
+  vosotros: habréis agregado
+  uds: habrán agregado
+condicional-perfecto:
+  yo: habría agregado
+  tu: habrías agregado
+  vos: habrías agregado
+  ud: habría agregado
+  nosotros: habríamos agregado
+  vosotros: habríais agregado
+  uds: habrían agregado
+presente-subjuntivo:
+  yo: agregue
+  tu: agregues
+  vos: agregues
+  ud: agregue
+  nosotros: agreguemos
+  vosotros: agreguéis
+  uds: agreguen
+preterito-perfecto-subjuntivo:
+  yo: haya agregado
+  tu: hayas agregado
+  vos: hayas agregado
+  ud: haya agregado
+  nosotros: hayamos agregado
+  vosotros: hayáis agregado
+  uds: hayan agregado
+imperfecto-subjuntivo:
+  yo:
+    - agregara
+    - agregase
+  tu:
+    - agregaras
+    - agregases
+  vos:
+    - agregaras
+    - agregases
+  ud:
+    - agregara
+    - agregase
+  nosotros:
+    - agregáramos
+    - agregásemos
+  vosotros:
+    - agregarais
+    - agregaseis
+  uds:
+    - agregaran
+    - agregasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agregado
+    - hubiese agregado
+  tu:
+    - hubieras agregado
+    - hubieses agregado
+  vos:
+    - hubieras agregado
+    - hubieses agregado
+  ud:
+    - hubiera agregado
+    - hubiese agregado
+  nosotros:
+    - hubiéramos agregado
+    - hubiésemos agregado
+  vosotros:
+    - hubierais agregado
+    - hubieseis agregado
+  uds:
+    - hubieran agregado
+    - hubiesen agregado
+imperativo:
+  tu: agrega
+  vos: agregá
+  ud: agregue
+  nosotros: agreguemos
+  vosotros: agregad
+  uds: agreguen

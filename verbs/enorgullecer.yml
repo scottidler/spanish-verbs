@@ -1,0 +1,142 @@
+infinitivo: enorgullecer
+gerundio: enorgulleciendo
+participio-pasado: enorgullecido
+presente-indicativo:
+  yo: enorgullezco
+  tu: enorgulleces
+  vos: enorgulleces
+  ud: enorgullece
+  nosotros: enorgullecemos
+  vosotros: enorgullecéis
+  uds: enorgullecen
+preterito-perfecto-simple:
+  yo: enorgullecí
+  tu: enorgulleciste
+  vos: enorgulleciste
+  ud: enorgulleció
+  nosotros: enorgullecimos
+  vosotros: enorgullecisteis
+  uds: enorgullecieron
+preterito-imperfecto:
+  yo: enorgullecía
+  tu: enorgullecías
+  vos: enorgullecías
+  ud: enorgullecía
+  nosotros: enorgullecíamos
+  vosotros: enorgullecíais
+  uds: enorgullecían
+futuro-simple:
+  yo: enorgulleceré
+  tu: enorgullecerás
+  vos: enorgullecerás
+  ud: enorgullecerá
+  nosotros: enorgulleceremos
+  vosotros: enorgulleceréis
+  uds: enorgullecerán
+condicional-simple:
+  yo: enorgullecería
+  tu: enorgullecerías
+  vos: enorgullecerías
+  ud: enorgullecería
+  nosotros: enorgulleceríamos
+  vosotros: enorgulleceríais
+  uds: enorgullecerían
+presente-perfecto:
+  yo: he enorgullecido
+  tu: has enorgullecido
+  vos: has enorgullecido
+  ud: ha enorgullecido
+  nosotros: hemos enorgullecido
+  vosotros: habéis enorgullecido
+  uds: han enorgullecido
+preterito-pluscuamperfecto:
+  yo: había enorgullecido
+  tu: habías enorgullecido
+  vos: habías enorgullecido
+  ud: había enorgullecido
+  nosotros: habíamos enorgullecido
+  vosotros: habíais enorgullecido
+  uds: habían enorgullecido
+futuro-perfecto:
+  yo: habré enorgullecido
+  tu: habrás enorgullecido
+  vos: habrás enorgullecido
+  ud: habrá enorgullecido
+  nosotros: habremos enorgullecido
+  vosotros: habréis enorgullecido
+  uds: habrán enorgullecido
+condicional-perfecto:
+  yo: habría enorgullecido
+  tu: habrías enorgullecido
+  vos: habrías enorgullecido
+  ud: habría enorgullecido
+  nosotros: habríamos enorgullecido
+  vosotros: habríais enorgullecido
+  uds: habrían enorgullecido
+presente-subjuntivo:
+  yo: enorgullezca
+  tu: enorgullezcas
+  vos: enorgullezcas
+  ud: enorgullezca
+  nosotros: enorgullezcamos
+  vosotros: enorgullezcáis
+  uds: enorgullezcan
+preterito-perfecto-subjuntivo:
+  yo: haya enorgullecido
+  tu: hayas enorgullecido
+  vos: hayas enorgullecido
+  ud: haya enorgullecido
+  nosotros: hayamos enorgullecido
+  vosotros: hayáis enorgullecido
+  uds: hayan enorgullecido
+imperfecto-subjuntivo:
+  yo:
+    - enorgulleciera
+    - enorgulleciese
+  tu:
+    - enorgullecieras
+    - enorgullecieses
+  vos:
+    - enorgullecieras
+    - enorgullecieses
+  ud:
+    - enorgulleciera
+    - enorgulleciese
+  nosotros:
+    - enorgulleciéramos
+    - enorgulleciésemos
+  vosotros:
+    - enorgullecierais
+    - enorgullecieseis
+  uds:
+    - enorgullecieran
+    - enorgulleciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enorgullecido
+    - hubiese enorgullecido
+  tu:
+    - hubieras enorgullecido
+    - hubieses enorgullecido
+  vos:
+    - hubieras enorgullecido
+    - hubieses enorgullecido
+  ud:
+    - hubiera enorgullecido
+    - hubiese enorgullecido
+  nosotros:
+    - hubiéramos enorgullecido
+    - hubiésemos enorgullecido
+  vosotros:
+    - hubierais enorgullecido
+    - hubieseis enorgullecido
+  uds:
+    - hubieran enorgullecido
+    - hubiesen enorgullecido
+imperativo:
+  tu: enorgullece
+  vos: enorgullecé
+  ud: enorgullezca
+  nosotros: enorgullezcamos
+  vosotros: enorgulleced
+  uds: enorgullezcan

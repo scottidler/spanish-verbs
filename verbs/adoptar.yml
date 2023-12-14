@@ -1,0 +1,142 @@
+infinitivo: adoptar
+gerundio: adoptando
+participio-pasado: adoptado
+presente-indicativo:
+  yo: adopto
+  tu: adoptas
+  vos: adoptas
+  ud: adopta
+  nosotros: adoptamos
+  vosotros: adoptáis
+  uds: adoptan
+preterito-perfecto-simple:
+  yo: adopté
+  tu: adoptaste
+  vos: adoptaste
+  ud: adoptó
+  nosotros: adoptamos
+  vosotros: adoptasteis
+  uds: adoptaron
+preterito-imperfecto:
+  yo: adoptaba
+  tu: adoptabas
+  vos: adoptabas
+  ud: adoptaba
+  nosotros: adoptábamos
+  vosotros: adoptabais
+  uds: adoptaban
+futuro-simple:
+  yo: adoptaré
+  tu: adoptarás
+  vos: adoptarás
+  ud: adoptará
+  nosotros: adoptaremos
+  vosotros: adoptaréis
+  uds: adoptarán
+condicional-simple:
+  yo: adoptaría
+  tu: adoptarías
+  vos: adoptarías
+  ud: adoptaría
+  nosotros: adoptaríamos
+  vosotros: adoptaríais
+  uds: adoptarían
+presente-perfecto:
+  yo: he adoptado
+  tu: has adoptado
+  vos: has adoptado
+  ud: ha adoptado
+  nosotros: hemos adoptado
+  vosotros: habéis adoptado
+  uds: han adoptado
+preterito-pluscuamperfecto:
+  yo: había adoptado
+  tu: habías adoptado
+  vos: habías adoptado
+  ud: había adoptado
+  nosotros: habíamos adoptado
+  vosotros: habíais adoptado
+  uds: habían adoptado
+futuro-perfecto:
+  yo: habré adoptado
+  tu: habrás adoptado
+  vos: habrás adoptado
+  ud: habrá adoptado
+  nosotros: habremos adoptado
+  vosotros: habréis adoptado
+  uds: habrán adoptado
+condicional-perfecto:
+  yo: habría adoptado
+  tu: habrías adoptado
+  vos: habrías adoptado
+  ud: habría adoptado
+  nosotros: habríamos adoptado
+  vosotros: habríais adoptado
+  uds: habrían adoptado
+presente-subjuntivo:
+  yo: adopte
+  tu: adoptes
+  vos: adoptes
+  ud: adopte
+  nosotros: adoptemos
+  vosotros: adoptéis
+  uds: adopten
+preterito-perfecto-subjuntivo:
+  yo: haya adoptado
+  tu: hayas adoptado
+  vos: hayas adoptado
+  ud: haya adoptado
+  nosotros: hayamos adoptado
+  vosotros: hayáis adoptado
+  uds: hayan adoptado
+imperfecto-subjuntivo:
+  yo:
+    - adoptara
+    - adoptase
+  tu:
+    - adoptaras
+    - adoptases
+  vos:
+    - adoptaras
+    - adoptases
+  ud:
+    - adoptara
+    - adoptase
+  nosotros:
+    - adoptáramos
+    - adoptásemos
+  vosotros:
+    - adoptarais
+    - adoptaseis
+  uds:
+    - adoptaran
+    - adoptasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera adoptado
+    - hubiese adoptado
+  tu:
+    - hubieras adoptado
+    - hubieses adoptado
+  vos:
+    - hubieras adoptado
+    - hubieses adoptado
+  ud:
+    - hubiera adoptado
+    - hubiese adoptado
+  nosotros:
+    - hubiéramos adoptado
+    - hubiésemos adoptado
+  vosotros:
+    - hubierais adoptado
+    - hubieseis adoptado
+  uds:
+    - hubieran adoptado
+    - hubiesen adoptado
+imperativo:
+  tu: adopta
+  vos: adoptá
+  ud: adopte
+  nosotros: adoptemos
+  vosotros: adoptad
+  uds: adopten

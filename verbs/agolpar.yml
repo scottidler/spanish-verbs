@@ -1,0 +1,142 @@
+infinitivo: agolpar
+gerundio: agolpando
+participio-pasado: agolpado
+presente-indicativo:
+  yo: agolpo
+  tu: agolpas
+  vos: agolpas
+  ud: agolpa
+  nosotros: agolpamos
+  vosotros: agolpáis
+  uds: agolpan
+preterito-perfecto-simple:
+  yo: agolpé
+  tu: agolpaste
+  vos: agolpaste
+  ud: agolpó
+  nosotros: agolpamos
+  vosotros: agolpasteis
+  uds: agolparon
+preterito-imperfecto:
+  yo: agolpaba
+  tu: agolpabas
+  vos: agolpabas
+  ud: agolpaba
+  nosotros: agolpábamos
+  vosotros: agolpabais
+  uds: agolpaban
+futuro-simple:
+  yo: agolparé
+  tu: agolparás
+  vos: agolparás
+  ud: agolpará
+  nosotros: agolparemos
+  vosotros: agolparéis
+  uds: agolparán
+condicional-simple:
+  yo: agolparía
+  tu: agolparías
+  vos: agolparías
+  ud: agolparía
+  nosotros: agolparíamos
+  vosotros: agolparíais
+  uds: agolparían
+presente-perfecto:
+  yo: he agolpado
+  tu: has agolpado
+  vos: has agolpado
+  ud: ha agolpado
+  nosotros: hemos agolpado
+  vosotros: habéis agolpado
+  uds: han agolpado
+preterito-pluscuamperfecto:
+  yo: había agolpado
+  tu: habías agolpado
+  vos: habías agolpado
+  ud: había agolpado
+  nosotros: habíamos agolpado
+  vosotros: habíais agolpado
+  uds: habían agolpado
+futuro-perfecto:
+  yo: habré agolpado
+  tu: habrás agolpado
+  vos: habrás agolpado
+  ud: habrá agolpado
+  nosotros: habremos agolpado
+  vosotros: habréis agolpado
+  uds: habrán agolpado
+condicional-perfecto:
+  yo: habría agolpado
+  tu: habrías agolpado
+  vos: habrías agolpado
+  ud: habría agolpado
+  nosotros: habríamos agolpado
+  vosotros: habríais agolpado
+  uds: habrían agolpado
+presente-subjuntivo:
+  yo: agolpe
+  tu: agar agolpes
+  vos: ames agolpes
+  ud: agolpe
+  nosotros: agolpemos
+  vosotros: agolpéis
+  uds: agolpen
+preterito-perfecto-subjuntivo:
+  yo: haya agolpado
+  tu: hayas agolpado
+  vos: hayas agolpado
+  ud: haya agolpado
+  nosotros: hayamos agolpado
+  vosotros: hayáis agolpado
+  uds: hayan agolpado
+imperfecto-subjuntivo:
+  yo:
+    - agolpara
+    - agolpase
+  tu:
+    - agolparas
+    - agolpases
+  vos:
+    - agolparas
+    - agolpases
+  ud:
+    - agolpara
+    - agolpase
+  nosotros:
+    - agolpáramos
+    - agolpásemos
+  vosotros:
+    - agolparais
+    - agolpaseis
+  uds:
+    - agolparan
+    - agolpasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agolpado
+    - hubiese agolpado
+  tu:
+    - hubieras agolpado
+    - hubieses agolpado
+  vos:
+    - hubieras agolpado
+    - hubieses agolpado
+  ud:
+    - hubiera agolpado
+    - hubiese agolpado
+  nosotros:
+    - hubiéramos agolpado
+    - hubiésemos agolpado
+  vosotros:
+    - hubierais agolpado
+    - hubieseis agolpado
+  uds:
+    - hubieran agolpado
+    - hubiesen agolpado
+imperativo:
+  tu: agolpa
+  vos: agolpá
+  ud: agolpe
+  nosotros: agolpemos
+  vosotros: agolpad
+  uds: agolpen

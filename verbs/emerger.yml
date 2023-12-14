@@ -1,0 +1,142 @@
+infinitivo: emerger
+gerundio: emergiendo
+participio-pasado: emergido
+presente-indicativo:
+  yo: surjo
+  tu: surges
+  vos: surges
+  ud: surge
+  nosotros: surgimos
+  vosotros: surgís
+  uds: surgen
+preterito-perfecto-simple:
+  yo: emergí
+  tu: emergiste
+  vos: emergiste
+  ud: emergió
+  nosotros: emergimos
+  vosotros: emergisteis
+  uds: emergieron
+preterito-imperfecto:
+  yo: emergía
+  tu: emergías
+  vos: emergías
+  ud: emergía
+  nosotros: emergíamos
+  vosotros: emergíais
+  uds: emergían
+futuro-simple:
+  yo: emergeré
+  tu: surgirás
+  vos: surgirás
+  ud: surgirá
+  nosotros: surgiremos
+  vosotros: surgiréis
+  uds: surgirán
+condicional-simple:
+  yo: surgiría
+  tu: surgirías
+  vos: surgirías
+  ud: surgiría
+  nosotros: surgiríamos
+  vosotros: surgiríais
+  uds: surgirían
+presente-perfecto:
+  yo: he surgido
+  tu: has surgido
+  vos: has surgido
+  ud: ha surgido
+  nosotros: hemos surgido
+  vosotros: habéis surgido
+  uds: han surgido
+preterito-pluscuamperfecto:
+  yo: había surgido
+  tu: habías surgido
+  vos: habías surgido
+  ud: había surgido
+  nosotros: habíamos surgido
+  vosotros: habíais surgido
+  uds: habían surgido
+futuro-perfecto:
+  yo: habré surgido
+  tu: habrás surgido
+  vos: habrás surgido
+  ud: habrá surgido
+  nosotros: habremos surgido
+  vosotros: habréis surgido
+  uds: habrán surgido
+condicional-perfecto:
+  yo: habría surgido
+  tu: habrías surgido
+  vos: habrías surgido
+  ud: habría surgido
+  nosotros: habríamos surgido
+  vosotros: habríais surgido
+  uds: habrían surgido
+presente-subjuntivo:
+  yo: surja
+  tu: surjas
+  vos: surjas
+  ud: surja
+  nosotros: surjamos
+  vosotros: surjáis
+  uds: surjan
+preterito-perfecto-subjuntivo:
+  yo: haya surgido
+  tu: hayas surgido
+  vos: hayas surgido
+  ud: haya surgido
+  nosotros: hayamos surgido
+  vosotros: hayáis surgido
+  uds: hayan surgido
+imperfecto-subjuntivo:
+  yo:
+    - surgiera
+    - surgiese
+  tu:
+    - surgieras
+    - surgieses
+  vos:
+    - surgieras
+    - surgieses
+  ud:
+    - surgiera
+    - surgiese
+  nosotros:
+    - surgieramos
+    - surgiesemos
+  vosotros:
+    - surgierais
+    - surgieseis
+  uds:
+    - surgieran
+    - surgiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera surgido
+    - hubiese surgido
+  tu:
+    - hubieras surgido
+    - hubieses surgido
+  vos:
+    - hubieras surgido
+    - hubieses surgido
+  ud:
+    - hubiera surgido
+    - hubiese surgido
+  nosotros:
+    - hubiéramos surgido
+    - hubiésemos surgido
+  vosotros:
+    - hubierais surgido
+    - hubieseis surgido
+  uds:
+    - hubieran surgido
+    - hubiesen surgido
+imperativo:
+  tu: surge
+  vos: surja
+  ud: surja
+  nosotros: surjamos
+  vosotros: surgid
+  uds: surjan

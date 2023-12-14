@@ -1,0 +1,142 @@
+infinitivo: rielar
+gerundio: rielando
+participio-pasado: rielado
+presente-indicativo:
+  yo: rielo
+  tu: rielas
+  vos: rielas
+  ud: riela
+  nosotros: rielamos
+  vosotros: rieláis
+  uds: rielan
+preterito-perfecto-simple:
+  yo: rielé
+  tu: rielaste
+  vos: rielaste
+  ud: rieló
+  nosotros: rielamos
+  vosotros: rielasteis
+  uds: rielaron
+preterito-imperfecto:
+  yo: rielaba
+  tu: rielabas
+  vos: rielabas
+  ud: rielaba
+  nosotros: rielábamos
+  vosotros: rielabais
+  uds: rielaban
+futuro-simple:
+  yo: rielaré
+  tu: rielarás
+  vos: rielarás
+  ud: rielará
+  nosotros: rielaremos
+  vosotros: rielaréis
+  uds: rielarán
+condicional-simple:
+  yo: rielaría
+  tu: rielarías
+  vos: rielarías
+  ud: rielaría
+  nosotros: rielaríamos
+  vosotros: rielaríais
+  uds: rielarían
+presente-perfecto:
+  yo: he rielado
+  tu: has rielado
+  vos: has rielado
+  ud: ha rielado
+  nosotros: hemos rielado
+  vosotros: habéis rielado
+  uds: han rielado
+preterito-pluscuamperfecto:
+  yo: había rielado
+  tu: habías rielado
+  vos: habías rielado
+  ud: había rielado
+  nosotros: habíamos rielado
+  vosotros: habíais rielado
+  uds: habían rielado
+futuro-perfecto:
+  yo: habré rielado
+  tu: habrás rielado
+  vos: habrás rielado
+  ud: habrá rielado
+  nosotros: habremos rielado
+  vosotros: habréis rielado
+  uds: habrán rielado
+condicional-perfecto:
+  yo: habría rielado
+  tu: habrías rielado
+  vos: habrías rielado
+  ud: habría rielado
+  nosotros: habríamos rielado
+  vosotros: habríais rielado
+  uds: habrían rielado
+presente-subjuntivo:
+  yo: riele
+  tu: rieles
+  vos: rieles
+  ud: riele
+  nosotros: rielemos
+  vosotros: rieléis
+  uds: rielan
+preterito-perfecto-subjuntivo:
+  yo: haya rielado
+  tu: hayas rielado
+  vos: hayas rielado
+  ud: haya rielado
+  nosotros: hayamos rielado
+  vosotros: hayáis rielado
+  uds: hayan rielado
+imperfecto-subjuntivo:
+  yo:
+    - rielara
+    - rielase
+  tu:
+    - rielaras
+    - rielases
+  vos:
+    - rielaras
+    - rielases
+  ud:
+    - rielara
+    - rielase
+  nosotros:
+    - rieláramos
+    - rielásemos
+  vosotros:
+    - rielarais
+    - rielaseis
+  uds:
+    - rielaran
+    - rielasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rielado
+    - hubiese rielado
+  tu:
+    - hubieras rielado
+    - hubieses rielado
+  vos:
+    - hubieras rielado
+    - hubieses rielado
+  ud:
+    - hubiera rielado
+    - hubiese rielado
+  nosotros:
+    - hubiéramos rielado
+    - hubiésemos rielado
+  vosotros:
+    - hubierais rielado
+    - hubieseis rielado
+  uds:
+    - hubieran rielado
+    - hubiesen rielado
+imperativo:
+  tu: riega
+  vos: rielá
+  ud: riele
+  nosotros: rielemos
+  vosotros: rielad
+  uds: rielen

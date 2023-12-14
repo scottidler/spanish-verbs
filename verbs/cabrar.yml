@@ -1,0 +1,142 @@
+infinitivo: cabrar
+gerundio: cabrando
+participio-pasado: cabrado
+presente-indicativo:
+  yo: cabro
+  tu: cabras
+  vos: cabrás
+  ud: cabra
+  nosotros: cabramos
+  vosotros: cabráis
+  uds: cabran
+preterito-perfecto-simple:
+  yo: cabré
+  tu: cabraste
+  vos: cabraste
+  ud: cabró
+  nosotros: cabramos
+  vosotros: cabrasteis
+  uds: cabraron
+preterito-imperfecto:
+  yo: cabraba
+  tu: cabrabas
+  vos: cabrabas
+  ud: cabraba
+  nosotros: cabrábamos
+  vosotros: cabrabais
+  uds: cabraban
+futuro-simple:
+  yo: cabraré
+  tu: cabrarás
+  vos: cabrarás
+  ud: cabrará
+  nosotros: cabraremos
+  vosotros: cabraréis
+  uds: cabrarán
+condicional-simple:
+  yo: cabraría
+  tu: cabrarías
+  vos: cabrarías
+  ud: cabraría
+  nosotros: cabraríamos
+  vosotros: cabraríais
+  uds: cabrarían
+presente-perfecto:
+  yo: he cabrado
+  tu: has cabrado
+  vos: has cabrado
+  ud: ha cabrado
+  nosotros: hemos cabrado
+  vosotros: habéis cabrado
+  uds: han cabrado
+preterito-pluscuamperfecto:
+  yo: había cabrado
+  tu: habías cabrado
+  vos: habías cabrado
+  ud: había cabrado
+  nosotros: habíamos cabrado
+  vosotros: habíais cabrado
+  uds: habían cabrado
+futuro-perfecto:
+  yo: habré cabrado
+  tu: habrás cabrado
+  vos: habrás cabrado
+  ud: habrá cabrado
+  nosotros: habremos cabrado
+  vosotros: habréis cabrado
+  uds: habrán cabrado
+condicional-perfecto:
+  yo: habría cabrado
+  tu: habrías cabrado
+  vos: habrías cabrado
+  ud: habría cabrado
+  nosotros: habríamos cabrado
+  vosotros: habríais cabrado
+  uds: habrían cabrado
+presente-subjuntivo:
+  yo: cabre
+  tu: cabres
+  vos: cabres
+  ud: cabre
+  nosotros: cabremos
+  vosotros: cabréis
+  uds: cabren
+preterito-perfecto-subjuntivo:
+  yo: haya cabrado
+  tu: hayas cabrado
+  vos: hayas cabrado
+  ud: haya cabrado
+  nosotros: hayamos cabrado
+  vosotros: hayáis cabrado
+  uds: hayan cabrado
+imperfecto-subjuntivo:
+  yo:
+    - cabrara
+    - cabrase
+  tu:
+    - cabraras
+    - cabrases
+  vos:
+    - cabraras
+    - cabrases
+  ud:
+    - cabrara
+    - cabrase
+  nosotros:
+    - cabráramos
+    - cabrásemos
+  vosotros:
+    - cabrarais
+    - cabraseis
+  uds:
+    - cabraran
+    - cabrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cabrado
+    - hubiese cabrado
+  tu:
+    - hubieras cabrado
+    - hubieses cabrado
+  vos:
+    - hubieras cabrado
+    - hubieses cabrado
+  ud:
+    - hubiera cabrado
+    - hubiese cabrado
+  nosotros:
+    - hubiéramos cabrado
+    - hubiésemos cabrado
+  vosotros:
+    - hubierais cabrado
+    - hubieseis cabrado
+  uds:
+    - hubieran cabrado
+    - hubiesen cabrado
+imperativo:
+  tu: cabra
+  vos: cabré
+  ud: cabre
+  nosotros: cabremos
+  vosotros: cabrad
+  uds: cabren

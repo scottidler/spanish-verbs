@@ -1,0 +1,142 @@
+infinitivo: afectar
+gerundio: afectando
+participio-pasado: afectado
+presente-indicativo:
+  yo: afecto
+  tu: afectas
+  vos: afectas
+  ud: afecta
+  nosotros: afectamos
+  vosotros: afectáis
+  uds: afectan
+preterito-perfecto-simple:
+  yo: afecté
+  tu: afectaste
+  vos: afectaste
+  ud: afectó
+  nosotros: afectamos
+  vosotros: afectasteis
+  uds: afectaron
+preterito-imperfecto:
+  yo: afectaba
+  tu: afectabas
+  vos: afectabas
+  ud: afectaba
+  nosotros: afectábamos
+  vosotros: afectabais
+  uds: afectaban
+futuro-simple:
+  yo: afectaré
+  tu: afectarás
+  vos: afectarás
+  ud: afectará
+  nosotros: afectaremos
+  vosotros: afectaréis
+  uds: afectarán
+condicional-simple:
+  yo: afectaría
+  tu: afectarías
+  vos: afectarías
+  ud: afectaría
+  nosotros: afectaríamos
+  vosotros: afectaríais
+  uds: afectarían
+presente-perfecto:
+  yo: he afectado
+  tu: has afectado
+  vos: has afectado
+  ud: ha afectado
+  nosotros: hemos afectado
+  vosotros: habéis afectado
+  uds: han afectado
+preterito-pluscuamperfecto:
+  yo: había afectado
+  tu: habías afectado
+  vos: habías afectado
+  ud: había afectado
+  nosotros: habíamos afectado
+  vosotros: habíais afectado
+  uds: habían afectado
+futuro-perfecto:
+  yo: habré afectado
+  tu: habrás afectado
+  vos: habrás afectado
+  ud: habrá afectado
+  nosotros: habremos afectado
+  vosotros: habréis afectado
+  uds: habrán afectado
+condicional-perfecto:
+  yo: habría afectado
+  tu: habrías afectado
+  vos: habrías afectado
+  ud: habría afectado
+  nosotros: habríamos afectado
+  vosotros: habríais afectado
+  uds: habrían afectado
+presente-subjuntivo:
+  yo: afecte
+  tu: afectes
+  vos: afectes
+  ud: afecte
+  nosotros: afectemos
+  vosotros: afectéis
+  uds: afecten
+preterito-perfecto-subjuntivo:
+  yo: haya afectado
+  tu: hayas afectado
+  vos: hayas afectado
+  ud: haya afectado
+  nosotros: hayamos afectado
+  vosotros: hayáis afectado
+  uds: hayan afectado
+imperfecto-subjuntivo:
+  yo:
+    - afectara
+    - afectase
+  tu:
+    - afectaras
+    - afectases
+  vos:
+    - afectaras
+    - afectases
+  ud:
+    - afectara
+    - afectase
+  nosotros:
+    - afectáramos
+    - afectásemos
+  vosotros:
+    - afectarais
+    - afectaseis
+  uds:
+    - afectaran
+    - afectasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera afectado
+    - hubiese afectado
+  tu:
+    - hubieras afectado
+    - hubieses afectado
+  vos:
+    - hubieras afectado
+    - hubieses afectado
+  ud:
+    - hubiera afectado
+    - hubiese afectado
+  nosotros:
+    - hubiéramos afectado
+    - hubiésemos afectado
+  vosotros:
+    - hubierais afectado
+    - hubieseis afectado
+  uds:
+    - hubieran afectado
+    - hubiesen afectado
+imperativo:
+  tu: afecta
+  vos: afectá
+  ud: afecte
+  nosotros: afectemos
+  vosotros: afectad
+  uds: afecten

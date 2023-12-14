@@ -1,0 +1,142 @@
+infinitivo: esconder
+gerundio: escondiendo
+participio-pasado: escondido
+presente-indicativo:
+  yo: escondo
+  tu: escondes
+  vos: escondes
+  ud: esconde
+  nosotros: escondemos
+  vosotros: escondéis
+  uds: esconden
+preterito-perfecto-simple:
+  yo: escondí
+  tu: escondiste
+  vos: escondiste
+  ud: escondió
+  nosotros: escondimos
+  vosotros: escondisteis
+  uds: escondieron
+preterito-imperfecto:
+  yo: escondía
+  tu: escondías
+  vos: escondías
+  ud: escondía
+  nosotros: escondíamos
+  vosotros: escondíais
+  uds: escondían
+futuro-simple:
+  yo: esconderé
+  tu: esconderás
+  vos: esconderás
+  ud: esconderá
+  nosotros: esconderemos
+  vosotros: esconderéis
+  uds: esconderán
+condicional-simple:
+  yo: escondería
+  tu: esconderías
+  vos: esconderías
+  ud: escondería
+  nosotros: esconderíamos
+  vosotros: esconderíais
+  uds: esconderían
+presente-perfecto:
+  yo: he escondido
+  tu: has escondido
+  vos: has escondido
+  ud: ha escondido
+  nosotros: hemos escondido
+  vosotros: habéis escondido
+  uds: han escondido
+preterito-pluscuamperfecto:
+  yo: había escondido
+  tu: habías escondido
+  vos: habías escondido
+  ud: había escondido
+  nosotros: habíamos escondido
+  vosotros: habíais escondido
+  uds: habían escondido
+futuro-perfecto:
+  yo: habré escondido
+  tu: habrás escondido
+  vos: habrás escondido
+  ud: habrá escondido
+  nosotros: habremos escondido
+  vosotros: habréis escondido
+  uds: habrán escondido
+condicional-perfecto:
+  yo: habría escondido
+  tu: habrías escondido
+  vos: habrías escondido
+  ud: habría escondido
+  nosotros: habríamos escondido
+  vosotros: habríais escondido
+  uds: habrían escondido
+presente-subjuntivo:
+  yo: esconda
+  tu: escondas
+  vos: escondas
+  ud: esconda
+  nosotros: escondamos
+  vosotros: escondáis
+  uds: escondan
+preterito-perfecto-subjuntivo:
+  yo: haya escondido
+  tu: hayas escondido
+  vos: hayas escondido
+  ud: haya escondido
+  nosotros: hayamos escondido
+  vosotros: hayáis escondido
+  uds: hayan escondido
+imperfecto-subjuntivo:
+  yo:
+    - escondiera
+    - escondiese
+  tu:
+    - escondieras
+    - escondieses
+  vos:
+    - escondieras
+    - escondieses
+  ud:
+    - escondiera
+    - escondiese
+  nosotros:
+    - escondiéramos
+    - escondiésemos
+  vosotros:
+    - escondierais
+    - escondieseis
+  uds:
+    - escondieran
+    - escondiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera escondido
+    - hubiese escondido
+  tu:
+    - hubieras escondido
+    - hubieses escondido
+  vos:
+    - hubieras escondido
+    - hubieses escondido
+  ud:
+    - hubiera escondido
+    - hubiese escondido
+  nosotros:
+    - hubiéramos escondido
+    - hubiésemos escondido
+  vosotros:
+    - hubierais escondido
+    - hubieseis escondido
+  uds:
+    - hubieran escondido
+    - hubiesen escondido
+imperativo:
+  tu: esconde
+  vos: escondé
+  ud: esconda
+  nosotros: escondamos
+  vosotros: esconded
+  uds: escondan

@@ -1,0 +1,142 @@
+infinitivo: transmitir
+gerundio: transmitiendo
+participio-pasado: transmitido
+presente-indicativo:
+  yo: transmito
+  tu: transmites
+  vos: transmites
+  ud: transmite
+  nosotros: transmitimos
+  vosotros: transmitís
+  uds: transmiten
+preterito-perfecto-simple:
+  yo: transmití
+  tu: transmitiste
+  vos: transmitiste
+  ud: transmitió
+  nosotros: transmitimos
+  vosotros: transmitisteis
+  uds: transmitieron
+preterito-imperfecto:
+  yo: transmitía
+  tu: transmitías
+  vos: transmitías
+  ud: transmitía
+  nosotros: transmitíamos
+  vosotros: transmitíais
+  uds: transmitían
+futuro-simple:
+  yo: transmitiré
+  tu: transmitirás
+  vos: transmitirás
+  ud: transmitirá
+  nosotros: transmitiremos
+  vosotros: transmitiréis
+  uds: transmitirán
+condicional-simple:
+  yo: transmitiría
+  tu: transmitirías
+  vos: transmitirías
+  ud: transmitiría
+  nosotros: transmitiríamos
+  vosotros: transmitiríais
+  uds: transmitirían
+presente-perfecto:
+  yo: he transmitido
+  tu: has transmitido
+  vos: has transmitido
+  ud: ha transmitido
+  nosotros: hemos transmitido
+  vosotros: habéis transmitido
+  uds: han transmitido
+preterito-pluscuamperfecto:
+  yo: había transmitido
+  tu: habías transmitido
+  vos: habías transmitido
+  ud: había transmitido
+  nosotros: habíamos transmitido
+  vosotros: habíais transmitido
+  uds: habían transmitido
+futuro-perfecto:
+  yo: habré transmitido
+  tu: habrás transmitido
+  vos: habrás transmitido
+  ud: habrá transmitido
+  nosotros: habremos transmitido
+  vosotros: habréis transmitido
+  uds: habrán transmitido
+condicional-perfecto:
+  yo: habría transmitido
+  tu: habrías transmitido
+  vos: habrías transmitido
+  ud: habría transmitido
+  nosotros: habríamos transmitido
+  vosotros: habríais transmitido
+  uds: habrían transmitido
+presente-subjuntivo:
+  yo: transmita
+  tu: transmitas
+  vos: transmitas
+  ud: transmita
+  nosotros: transmitamos
+  vosotros: transmitáis
+  uds: transmitan
+preterito-perfecto-subjuntivo:
+  yo: haya transmitido
+  tu: hayas transmitido
+  vos: hayas transmitido
+  ud: haya transmitido
+  nosotros: hayamos transmitido
+  vosotros: hayáis transmitido
+  uds: hayan transmitido
+imperfecto-subjuntivo:
+  yo:
+    - transmitiera
+    - transmitiese
+  tu:
+    - transmitieras
+    - transmitieses
+  vos:
+    - transmitieras
+    - transmitieses
+  ud:
+    - transmitiera
+    - transmitiese
+  nosotros:
+    - transmitiéramos
+    - transmitiésemos
+  vosotros:
+    - transmitierais
+    - transmitieseis
+  uds:
+    - transmitieran
+    - transmitiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera transmitido
+    - hubiese transmitido
+  tu:
+    - hubieras transmitido
+    - hubieses transmitido
+  vos:
+    - hubieras transmitido
+    - hubieses transmitido
+  ud:
+    - hubiera transmitido
+    - hubiese transmitido
+  nosotros:
+    - hubiéramos transmitido
+    - hubiésemos transmitido
+  vosotros:
+    - hubierais transmitido
+    - hubieseis transmitido
+  uds:
+    - hubieran transmitido
+    - hubiesen transmitido
+imperativo:
+  tu: transmite
+  vos: transmití
+  ud: transmita
+  nosotros: transmitamos
+  vosotros: transmitid
+  uds: transmitan

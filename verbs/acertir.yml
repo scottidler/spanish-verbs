@@ -1,0 +1,142 @@
+infinitivo: acertir
+gerundio: acertiendo
+participio-pasado: acertido
+presente-indicativo:
+  yo: acierto
+  tu: aciertas
+  vos: acertís
+  ud: acierta
+  nosotros: acertimos
+  vosotros: acertís
+  uds: aciertan
+preterito-perfecto-simple:
+  yo: acertí
+  tu: acertiste
+  vos: acertiste
+  ud: acertió
+  nosotros: acertimos
+  vosotros: acertisteis
+  uds: acertieron
+preterito-imperfecto:
+  yo: acertía
+  tu: acertías
+  vos: acertías
+  ud: acertía
+  nosotros: acertíamos
+  vosotros: acertíais
+  uds: acertían
+futuro-simple:
+  yo: acertiré
+  tu: acertirás
+  vos: acertirás
+  ud: acertirá
+  nosotros: acertiremos
+  vosotros: acertiréis
+  uds: acertirán
+condicional-simple:
+  yo: acertiría
+  tu: acertirías
+  vos: acertirías
+  ud: acertiría
+  nosotros: acertiríamos
+  vosotros: acertiríais
+  uds: acertirían
+presente-perfecto:
+  yo: he acertido
+  tu: has acertido
+  vos: has acertido
+  ud: ha acertido
+  nosotros: hemos acertido
+  vosotros: habéis acertido
+  uds: han acertido
+preterito-pluscuamperfecto:
+  yo: había acertido
+  tu: habías acertido
+  vos: habías acertido
+  ud: había acertido
+  nosotros: habíamos acertido
+  vosotros: habíais acertido
+  uds: habían acertido
+futuro-perfecto:
+  yo: habré acertido
+  tu: habrás acertido
+  vos: habrás acertido
+  ud: habrá acertido
+  nosotros: habremos acertido
+  vosotros: habréis acertido
+  uds: habrán acertido
+condicional-perfecto:
+  yo: habría acertido
+  tu: habrías acertido
+  vos: habrías acertido
+  ud: habría acertido
+  nosotros: habríamos acertido
+  vosotros: habríais acertido
+  uds: habrían acertido
+presente-subjuntivo:
+  yo: acierte
+  tu: aciertes
+  vos: aciertes
+  ud: acierte
+  nosotros: acertamos
+  vosotros: acertís
+  uds: acierten
+preterito-perfecto-subjuntivo:
+  yo: haya acertido
+  tu: hayas acertido
+  vos: hayas acertido
+  ud: haya acertido
+  nosotros: hayamos acertido
+  vosotros: hayáis acertido
+  uds: hayan acertido
+imperfecto-subjuntivo:
+  yo:
+    - acertirara
+    - acertirase
+  tu:
+    - acertiraras
+    - acertirases
+  vos:
+    - acertiraras
+    - acertirases
+  ud:
+    - acertirara
+    - acertirase
+  nosotros:
+    - acertiráramos
+    - acertíramos
+  vosotros:
+    - acertirarais
+    - acertiraseis
+  uds:
+    - acertiraran
+    - acertirasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acertido
+    - hubiese acertido
+  tu:
+    - hubieras acertido
+    - hubieses acertido
+  vos:
+    - hubieras acertido
+    - hubieses acertido
+  ud:
+    - hubiera acertido
+    - hubiese acertido
+  nosotros:
+    - hubiéramos acertido
+    - hubiésemos acertido
+  vosotros:
+    - hubierais acertido
+    - hubieseis acertido
+  uds:
+    - hubieran acertido
+    - hubiesen acertido
+imperativo:
+  tu: acierte
+  vos: acertí
+  ud: acierte
+  nosotros: acertamos
+  vosotros: acertid
+  uds: acierten

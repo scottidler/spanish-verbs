@@ -1,0 +1,142 @@
+infinitivo: agravar
+gerundio: agravando
+participio-pasado: agravado
+presente-indicativo:
+  yo: agravo
+  tu: agravas
+  vos: agravas
+  ud: agrava
+  nosotros: agravamos
+  vosotros: agraváis
+  uds: agravan
+preterito-perfecto-simple:
+  yo: agravé
+  tu: agravaste
+  vos: agravaste
+  ud: agravó
+  nosotros: agravamos
+  vosotros: agravasteis
+  uds: agravaron
+preterito-imperfecto:
+  yo: agravaba
+  tu: agravabas
+  vos: agravabas
+  ud: agravaba
+  nosotros: agravábamos
+  vosotros: agravabais
+  uds: agravaban
+futuro-simple:
+  yo: agravaré
+  tu: agravarás
+  vos: agravarás
+  ud: agravará
+  nosotros: agravaremos
+  vosotros: agravaréis
+  uds: agravarán
+condicional-simple:
+  yo: agravaría
+  tu: agravarías
+  vos: agravarías
+  ud: agravaría
+  nosotros: agravaríamos
+  vosotros: agravaríais
+  uds: agravarían
+presente-perfecto:
+  yo: he agravado
+  tu: has agravado
+  vos: has agravado
+  ud: ha agravado
+  nosotros: hemos agravado
+  vosotros: habéis agravado
+  uds: han agravado
+preterito-pluscuamperfecto:
+  yo: había agravado
+  tu: habías agravado
+  vos: habías agravado
+  ud: había agravado
+  nosotros: habíamos agravado
+  vosotros: habíais agravado
+  uds: habían agravado
+futuro-perfecto:
+  yo: habré agravado
+  tu: habrás agravado
+  vos: habrás agravado
+  ud: habrá agravado
+  nosotros: habremos agravado
+  vosotros: habréis agravado
+  uds: habrán agravado
+condicional-perfecto:
+  yo: habría agravado
+  tu: habrías agravado
+  vos: habrías agravado
+  ud: habría agravado
+  nosotros: habríamos agravado
+  vosotros: habríais agravado
+  uds: habrían agravado
+presente-subjuntivo:
+  yo: agrave
+  tu: agraves
+  vos: agraves
+  ud: agrave
+  nosotros: agravemos
+  vosotros: agravéis
+  uds: agraven
+preterito-perfecto-subjuntivo:
+  yo: haya agravado
+  tu: hayas agravado
+  vos: hayas agravado
+  ud: haya agravado
+  nosotros: hayamos agravado
+  vosotros: hayáis agravado
+  uds: hayan agravado
+imperfecto-subjuntivo:
+  yo:
+    - agravara
+    - agravase
+  tu:
+    - agravaras
+    - agravases
+  vos:
+    - agravaras
+    - agravases
+  ud:
+    - agravara
+    - agravase
+  nosotros:
+    - agraváramos
+    - agravásemos
+  vosotros:
+    - agravarais
+    - agravaseis
+  uds:
+    - agravaran
+    - agravasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agravado
+    - hubiese agravado
+  tu:
+    - hubieras agravado
+    - hubieses agravado
+  vos:
+    - hubieras agravado
+    - hubieses agravado
+  ud:
+    - hubiera agravado
+    - hubiese agravado
+  nosotros:
+    - hubiéramos agravado
+    - hubiésemos agravado
+  vosotros:
+    - hubierais agravado
+    - hubieseis agravado
+  uds:
+    - hubieran agravado
+    - hubiesen agravado
+imperativo:
+  tu: agrava
+  vos: agravá
+  ud: agrave
+  nosotros: agravemos
+  vosotros: agravad
+  uds: agraven

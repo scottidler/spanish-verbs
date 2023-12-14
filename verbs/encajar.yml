@@ -1,0 +1,142 @@
+infinitivo: encajar
+gerundio: encajando
+participio-pasado: encajado
+presente-indicativo:
+  yo: encajo
+  tu: encajas
+  vos: encajás
+  ud: encaja
+  nosotros: encajamos
+  vosotros: encajáis
+  uds: encajan
+preterito-perfecto-simple:
+  yo: encajé
+  tu: encajaste
+  vos: encajaste
+  ud: encajó
+  nosotros: encajamos
+  vosotros: encajasteis
+  uds: encajaron
+preterito-imperfecto:
+  yo: encajaba
+  tu: encajabas
+  vos: encajabas
+  ud: encajaba
+  nosotros: encajábamos
+  vosotros: encajabais
+  uds: encajaban
+futuro-simple:
+  yo: encajaré
+  tu: encajarás
+  vos: encajarás
+  ud: encajará
+  nosotros: encajaremos
+  vosotros: encajaréis
+  uds: encajarán
+condicional-simple:
+  yo: encajaría
+  tu: encajarías
+  vos: encajarías
+  ud: encajaría
+  nosotros: encajaríamos
+  vosotros: encajaríais
+  uds: encajarían
+presente-perfecto:
+  yo: he encajado
+  tu: has encajado
+  vos: has encajado
+  ud: ha encajado
+  nosotros: hemos encajado
+  vosotros: habéis encajado
+  uds: han encajado
+preterito-pluscuamperfecto:
+  yo: había encajado
+  tu: habías encajado
+  vos: habías encajado
+  ud: había encajado
+  nosotros: habíamos encajado
+  vosotros: habíais encajado
+  uds: habían encajado
+futuro-perfecto:
+  yo: habré encajado
+  tu: habrás encajado
+  vos: habrás encajado
+  ud: habrá encajado
+  nosotros: habremos encajado
+  vosotros: habréis encajado
+  uds: habrán encajado
+condicional-perfecto:
+  yo: habría encajado
+  tu: habrías encajado
+  vos: habrías encajado
+  ud: habría encajado
+  nosotros: habríamos encajado
+  vosotros: habríais encajado
+  uds: habrían encajado
+presente-subjuntivo:
+  yo: encaje
+  tu: encajes
+  vos: encajes
+  ud: encaje
+  nosotros: encajemos
+  vosotros: encajéis
+  uds: encajen
+preterito-perfecto-subjuntivo:
+  yo: haya encajado
+  tu: hayas encajado
+  vos: hayas encajado
+  ud: haya encajado
+  nosotros: hayamos encajado
+  vosotros: hayáis encajado
+  uds: hayan encajado
+imperfecto-subjuntivo:
+  yo:
+    - encajara
+    - encajase
+  tu:
+    - encajaras
+    - encajases
+  vos:
+    - encajaras
+    - encajases
+  ud:
+    - encajara
+    - encajase
+  nosotros:
+    - encajáramos
+    - encajásemos
+  vosotros:
+    - encajarais
+    - encajaseis
+  uds:
+    - encajaran
+    - encajasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encajado
+    - hubiese encajado
+  tu:
+    - hubieras encajado
+    - hubieses encajado
+  vos:
+    - hubieras encajado
+    - hubieses encajado
+  ud:
+    - hubiera encajado
+    - hubiese encajado
+  nosotros:
+    - hubiéramos encajado
+    - hubiésemos encajado
+  vosotros:
+    - hubierais encajado
+    - hubieseis encajado
+  uds:
+    - hubieran encajado
+    - hubiesen encajado
+imperativo:
+  tu: encaja
+  vos: encajá
+  ud: encaje
+  nosotros: encajemos
+  vosotros: encajad
+  uds: encajen

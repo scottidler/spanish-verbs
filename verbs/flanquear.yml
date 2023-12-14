@@ -1,0 +1,142 @@
+infinitivo: flanquear
+gerundio: flanqueando
+participio-pasado: flanqueado
+presente-indicativo:
+  yo: flanqueo
+  tu: flanqueas
+  vos: flanqueás
+  ud: flanquea
+  nosotros: flanqueamos
+  vosotros: flanqueáis
+  uds: flanquean
+preterito-perfecto-simple:
+  yo: flanqueé
+  tu: flanqueaste
+  vos: flanqueaste
+  ud: flanqueó
+  nosotros: flanqueamos
+  vosotros: flanqueasteis
+  uds: flanquearon
+preterito-imperfecto:
+  yo: flanqueaba
+  tu: flanqueabas
+  vos: flanqueabas
+  ud: flanqueaba
+  nosotros: flanqueábamos
+  vosotros: flanqueabais
+  uds: flanqueaban
+futuro-simple:
+  yo: flanquearé
+  tu: flanquearás
+  vos: flanquearás
+  ud: flanqueará
+  nosotros: flanquearemos
+  vosotros: flanquearéis
+  uds: flanquearán
+condicional-simple:
+  yo: flanquearía
+  tu: flanquearías
+  vos: flanquearías
+  ud: flanquearía
+  nosotros: flanquearíamos
+  vosotros: flanquearíais
+  uds: flanquearían
+presente-perfecto:
+  yo: he flanqueado
+  tu: has flanqueado
+  vos: has flanqueado
+  ud: ha flanqueado
+  nosotros: hemos flanqueado
+  vosotros: habéis flanqueado
+  uds: han flanqueado
+preterito-pluscuamperfecto:
+  yo: había flanqueado
+  tu: habías flanqueado
+  vos: habías flanqueado
+  ud: había flanqueado
+  nosotros: habíamos flanqueado
+  vosotros: habíais flanqueado
+  uds: habían flanqueado
+futuro-perfecto:
+  yo: habré flanqueado
+  tu: habrás flanqueado
+  vos: habrás flanqueado
+  ud: habrá flanqueado
+  nosotros: habremos flanqueado
+  vosotros: habréis flanqueado
+  uds: habrán flanqueado
+condicional-perfecto:
+  yo: habría flanqueado
+  tu: habrías flanqueado
+  vos: habrías flanqueado
+  ud: habría flanqueado
+  nosotros: habríamos flanqueado
+  vosotros: habríais flanqueado
+  uds: habrían flanqueado
+presente-subjuntivo:
+  yo: flanquee
+  tu: flanquees
+  vos: flanqueés
+  ud: flanquee
+  nosotros: flanqueemos
+  vosotros: flanqueéis
+  uds: flanqueen
+preterito-perfecto-subjuntivo:
+  yo: haya flanqueado
+  tu: hayas flanqueado
+  vos: hayas flanqueado
+  ud: haya flanqueado
+  nosotros: hayamos flanqueado
+  vosotros: hayáis flanqueado
+  uds: hayan flanqueado
+imperfecto-subjuntivo:
+  yo:
+    - flanqueara
+    - flanquease
+  tu:
+    - flanquearas
+    - flanqueases
+  vos:
+    - flanquearas
+    - flanqueases
+  ud:
+    - flanqueara
+    - flanquease
+  nosotros:
+    - flanqueáramos
+    - flanqueásemos
+  vosotros:
+    - flanquearais
+    - flanqueaseis
+  uds:
+    - flanquearan
+    - flanqueasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera flanqueado
+    - hubiese flanqueado
+  tu:
+    - hubieras flanqueado
+    - hubieses flanqueado
+  vos:
+    - hubieras flanqueado
+    - hubieses flanqueado
+  ud:
+    - hubiera flanqueado
+    - hubiese flanqueado
+  nosotros:
+    - hubiéramos flanqueado
+    - hubiésemos flanqueado
+  vosotros:
+    - hubierais flanqueado
+    - hubieseis flanqueado
+  uds:
+    - hubieran flanqueado
+    - hubiesen flanqueado
+imperativo:
+  tu: flanquea
+  vos: flanqueá
+  ud: flanquee
+  nosotros: flanqueemos
+  vosotros: flanquead
+  uds: flanqueen

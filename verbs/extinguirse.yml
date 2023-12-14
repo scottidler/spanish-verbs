@@ -1,0 +1,142 @@
+infinitivo: extinguirse
+gerundio: extinguiéndose
+participio-pasado: extinguido
+presente-indicativo:
+  yo: me extingo
+  tu: te extingues
+  vos: te extingues
+  ud: se extingue
+  nosotros: nos extinguimos
+  vosotros: os extinguís
+  uds: se extinguen
+preterito-perfecto-simple:
+  yo: me extinguí
+  tu: te extinguiste
+  vos: te extinguiste
+  ud: se extinguió
+  nosotros: nos extinguimos
+  vosotros: os extinguisteis
+  uds: se extinguieron
+preterito-imperfecto:
+  yo: me extinguía
+  tu: te extinguías
+  vos: te extinguías
+  ud: se extinguía
+  nosotros: nos extinguíamos
+  vosotros: os extinguíais
+  uds: se extinguían
+futuro-simple:
+  yo: me extinguiré
+  tu: te extinguirás
+  vos: te extinguirás
+  ud: se extinguirá
+  nosotros: nos extinguiremos
+  vosotros: os extinguiréis
+  uds: se extinguirán
+condicional-simple:
+  yo: me extinguiría
+  tu: te extinguirías
+  vos: te extinguirías
+  ud: se extinguiría
+  nosotros: nos extinguiríamos
+  vosotros: os extinguiríais
+  uds: se extinguirían
+presente-perfecto:
+  yo: me he extinguido
+  tu: te has extinguido
+  vos: te has extinguido
+  ud: se ha extinguido
+  nosotros: nos hemos extinguido
+  vosotros: os habéis extinguido
+  uds: se han extinguido
+preterito-pluscuamperfecto:
+  yo: me había extinguido
+  tu: te habías extinguido
+  vos: te habías extinguido
+  ud: se había extinguido
+  nosotros: nos habíamos extinguido
+  vosotros: os habíais extinguido
+  uds: se habían extinguido
+futuro-perfecto:
+  yo: me habré extinguido
+  tu: te habrás extinguido
+  vos: te habrás extinguido
+  ud: se habrá extinguido
+  nosotros: nos habremos extinguido
+  vosotros: os habréis extinguido
+  uds: se habrán extinguido
+condicional-perfecto:
+  yo: me habría extinguido
+  tu: te habrías extinguido
+  vos: te habrías extinguido
+  ud: se habría extinguido
+  nosotros: nos habríamos extinguido
+  vosotros: os habríais extinguido
+  uds: se habrían extinguido
+presente-subjuntivo:
+  yo: me extinga
+  tu: te extingas
+  vos: te extingas
+  ud: se extinga
+  nosotros: nos extingamos
+  vosotros: os extingáis
+  uds: se extingan
+preterito-perfecto-subjuntivo:
+  yo: me haya extinguido
+  tu: te hayas extinguido
+  vos: te hayas extinguido
+  ud: se haya extinguido
+  nosotros: nos hayamos extinguido
+  vosotros: os hayáis extinguido
+  uds: se hayan extinguido
+imperfecto-subjuntivo:
+  yo:
+    - me extinguiera
+    - me extinguiese
+  tu:
+    - te extinguieras
+    - te extinguieses
+  vos:
+    - te extinguieras
+    - te extinguieses
+  ud:
+    - se extinguiera
+    - se extinguiese
+  nosotros:
+    - nos extinguiéramos
+    - nos extinguiésemos
+  vosotros:
+    - os extinguierais
+    - os extinguieseis
+  uds:
+    - se extinguieran
+    - se extinguiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera extinguido
+    - me hubiese extinguido
+  tu:
+    - te hubieras extinguido
+    - te hubieses extinguido
+  vos:
+    - te hubieras extinguido
+    - te hubieses extinguido
+  ud:
+    - se hubiera extinguido
+    - se hubiese extinguido
+  nosotros:
+    - nos hubiéramos extinguido
+    - nos hubiésemos extinguido
+  vosotros:
+    - os hubierais extinguido
+    - os hubieseis extinguido
+  uds:
+    - se hubieran extinguido
+    - se hubiesen extinguido
+imperativo:
+  tu: extínguete
+  vos: extinguíte
+  ud: extíngase
+  nosotros: extingámonos
+  vosotros: extinguíos
+  uds: extínganse

@@ -1,0 +1,142 @@
+infinitivo: prover
+gerundio: proviendo
+participio-pasado: provisto
+presente-indicativo:
+  yo: provengo
+  tu: provienes
+  vos: provienes
+  ud: provee
+  nosotros: provenimos
+  vosotros: proveéis
+  uds: provienen
+preterito-perfecto-simple:
+  yo: provine
+  tu: proviniste
+  vos: proviniste
+  ud: proveyó
+  nosotros: provinimos
+  vosotros: provinisteis
+  uds: proveyeron
+preterito-imperfecto:
+  yo: provenía
+  tu: provenías
+  vos: provenías
+  ud: provenía
+  nosotros: proveníamos
+  vosotros: proveníais
+  uds: provenían
+futuro-simple:
+  yo: provendré
+  tu: provendrás
+  vos: provendrás
+  ud: provendrá
+  nosotros: provendremos
+  vosotros: provendréis
+  uds: provendrán
+condicional-simple:
+  yo: provendría
+  tu: provendrías
+  vos: provendrías
+  ud: provendría
+  nosotros: provendríamos
+  vosotros: provendríais
+  uds: provendrían
+presente-perfecto:
+  yo: he provenido
+  tu: has provenido
+  vos: has provenido
+  ud: ha provenido
+  nosotros: hemos provenido
+  vosotros: habéis provenido
+  uds: han provenido
+preterito-pluscuamperfecto:
+  yo: había provenido
+  tu: habías provenido
+  vos: habías provenido
+  ud: había provenido
+  nosotros: habíamos provenido
+  vosotros: habíais provenido
+  uds: habían provenido
+futuro-perfecto:
+  yo: habré provenido
+  tu: habrás provenido
+  vos: habrás provenido
+  ud: habrá provenido
+  nosotros: habremos provenido
+  vosotros: habréis provenido
+  uds: habrán provenido
+condicional-perfecto:
+  yo: habría provenido
+  tu: habrías provenido
+  vos: habrías provenido
+  ud: habría provenido
+  nosotros: habríamos provenido
+  vosotros: habríais provenido
+  uds: habrían provenido
+presente-subjuntivo:
+  yo: provenga
+  tu: provengas
+  vos: provengas
+  ud: provenga
+  nosotros: provengamos
+  vosotros: provengáis
+  uds: provengan
+preterito-perfecto-subjuntivo:
+  yo: haya provenido
+  tu: hayas provenido
+  vos: hayas provenido
+  ud: haya provenido
+  nosotros: hayamos provenido
+  vosotros: hayáis provenido
+  uds: hayan provenido
+imperfecto-subjuntivo:
+  yo:
+    - proveyera
+    - proveyese
+  tu:
+    - proveyeras
+    - proveyeses
+  vos:
+    - proveyeras
+    - proveyeses
+  ud:
+    - proveyera
+    - proveyese
+  nosotros:
+    - proveyéramos
+    - proveyésemos
+  vosotros:
+    - proveyerais
+    - proveyeseis
+  uds:
+    - proveyeran
+    - proveyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera provenido
+    - hubiese provenido
+  tu:
+    - hubieras provenido
+    - hubieses provenido
+  vos:
+    - hubieras provenido
+    - hubieses provenido
+  ud:
+    - hubiera provenido
+    - hubiese provenido
+  nosotros:
+    - hubiéramos provenido
+    - hubiésemos provenido
+  vosotros:
+    - hubierais provenido
+    - hubieseis provenido
+  uds:
+    - hubieran provenido
+    - hubiesen provenido
+imperativo:
+  tu: prove
+  vos: prové
+  ud: provea
+  nosotros: provengamos
+  vosotros: proveed
+  uds: provengan

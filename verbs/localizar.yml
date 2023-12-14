@@ -1,0 +1,142 @@
+infinitivo: localizar
+gerundio: localizando
+participio-pasado: localizado
+presente-indicativo:
+  yo: localizo
+  tu: localizas
+  vos: localizas
+  ud: localiza
+  nosotros: localizamos
+  vosotros: localizáis
+  uds: localizan
+preterito-perfecto-simple:
+  yo: localicé
+  tu: localizaste
+  vos: localizaste
+  ud: localizó
+  nosotros: localizamos
+  vosotros: localizasteis
+  uds: localizaron
+preterito-imperfecto:
+  yo: localizaba
+  tu: localizabas
+  vos: localizabas
+  ud: localizaba
+  nosotros: localizábamos
+  vosotros: localizabais
+  uds: localizaban
+futuro-simple:
+  yo: localizaré
+  tu: localizarás
+  vos: localizarás
+  ud: localizará
+  nosotros: localizaremos
+  vosotros: localizaréis
+  uds: localizarán
+condicional-simple:
+  yo: localizaría
+  tu: localizarías
+  vos: localizarías
+  ud: localizaría
+  nosotros: localizaríamos
+  vosotros: localizaríais
+  uds: localizarían
+presente-perfecto:
+  yo: he localizado
+  tu: has localizado
+  vos: has localizado
+  ud: ha localizado
+  nosotros: hemos localizado
+  vosotros: habéis localizado
+  uds: han localizado
+preterito-pluscuamperfecto:
+  yo: había localizado
+  tu: habías localizado
+  vos: habías localizado
+  ud: había localizado
+  nosotros: habíamos localizado
+  vosotros: habíais localizado
+  uds: habían localizado
+futuro-perfecto:
+  yo: habré localizado
+  tu: habrás localizado
+  vos: habrás localizado
+  ud: habrá localizado
+  nosotros: habremos localizado
+  vosotros: habréis localizado
+  uds: habrán localizado
+condicional-perfecto:
+  yo: habría localizado
+  tu: habrías localizado
+  vos: habrías localizado
+  ud: habría localizado
+  nosotros: habríamos localizado
+  vosotros: habríais localizado
+  uds: habrían localizado
+presente-subjuntivo:
+  yo: localice
+  tu: localices
+  vos: localices
+  ud: localice
+  nosotros: localicemos
+  vosotros: localicéis
+  uds: localicen
+preterito-perfecto-subjuntivo:
+  yo: haya localizado
+  tu: hayas localizado
+  vos: hayas localizado
+  ud: haya localizado
+  nosotros: hayamos localizado
+  vosotros: hayáis localizado
+  uds: hayan localizado
+imperfecto-subjuntivo:
+  yo:
+    - localizara
+    - localizase
+  tu:
+    - localizaras
+    - localizases
+  vos:
+    - localizaras
+    - localizases
+  ud:
+    - localizara
+    - localizase
+  nosotros:
+    - localizáramos
+    - localizásemos
+  vosotros:
+    - localizarais
+    - localizaseis
+  uds:
+    - localizaran
+    - localizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera localizado
+    - hubiese localizado
+  tu:
+    - hubieras localizado
+    - hubieses localizado
+  vos:
+    - hubieras localizado
+    - hubieses localizado
+  ud:
+    - hubiera localizado
+    - hubiese localizado
+  nosotros:
+    - hubiéramos localizado
+    - hubiésemos localizado
+  vosotros:
+    - hubierais localizado
+    - hubieseis localizado
+  uds:
+    - hubieran localizado
+    - hubiesen localizado
+imperativo:
+  tu: localiza
+  vos: localizá
+  ud: localice
+  nosotros: localicemos
+  vosotros: localizad
+  uds: localicen

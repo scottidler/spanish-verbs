@@ -1,0 +1,156 @@
+infinitivo: estremecerse
+gerundio: estremeciéndose
+participio-pasado: estremecido
+
+presente-indicativo:
+  yo: me estremezco
+  tu: te estremeces
+  vos: te estremeces
+  ud: se estremece
+  nosotros: nos estremecemos
+  vosotros: os estremeceis
+  uds: se estremecen
+
+preterito-perfecto-simple:
+  yo: me estremecí
+  tu: te estremeciste
+  vos: te estremeciste
+  ud: se estremeció
+  nosotros: nos estremecimos
+  vosotros: os estremecisteis
+  uds: se estremecieron
+
+preterito-imperfecto:
+  yo: me estremecía
+  tu: te estremecías
+  vos: te estremecías
+  ud: se estremecía
+  nosotros: nos estremecíamos
+  vosotros: os estremecíais
+  uds: se estremecían
+
+futuro-simple:
+  yo: me estremeceré
+  tu: te estremecerás
+  vos: te estremecerás
+  ud: se estremecerá
+  nosotros: nos estremeceremos
+  vosotros: os estremeceréis
+  uds: se estremecerán
+
+condicional-simple:
+  yo: me estremecería
+  tu: te estremecerías
+  vos: te estremecerías
+  ud: se estremecería
+  nosotros: nos estremeceríamos
+  vosotros: os estremeceríais
+  uds: se estremecerían
+
+presente-perfecto:
+  yo: me he estremecido
+  tu: te has estremecido
+  vos: te has estremecido
+  ud: se ha estremecido
+  nosotros: nos hemos estremecido
+  vosotros: os habéis estremecido
+  uds: se han estremecido
+
+preterito-pluscuamperfecto:
+  yo: me había estremecido
+  tu: te habías estremecido
+  vos: te habías estremecido
+  ud: se había estremecido
+  nosotros: nos habíamos estremecido
+  vosotros: os habíais estremecido
+  uds: se habían estremecido
+
+futuro-perfecto:
+  yo: me habré estremecido
+  tu: te habrás estremecido
+  vos: te habrás estremecido
+  ud: se habrá estremecido
+  nosotros: nos habremos estremecido
+  vosotros: os habréis estremecido
+  uds: se habrán estremecido
+
+condicional-perfecto:
+  yo: me habría estremecido
+  tu: te habrías estremecido
+  vos: te habrías estremecido
+  ud: se habría estremecido
+  nosotros: nos habríamos estremecido
+  vosotros: os habríais estremecido
+  uds: se habrían estremecido
+
+presente-subjuntivo:
+  yo: me estremezca
+  tu: te estremezcas
+  vos: te estremezcas
+  ud: se estremezca
+  nosotros: nos estremezcamos
+  vosotros: os estremezcáis
+  uds: se estremezcan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya estremecido
+  tu: te hayas estremecido
+  vos: te hayas estremecido
+  ud: se haya estremecido
+  nosotros: nos hayamos estremecido
+  vosotros: os hayáis estremecido
+  uds: se hayan estremecido
+
+imperfecto-subjuntivo:
+  yo:
+    - me estremeciera
+    - me estremeciese
+  tu:
+    - te estremecieras
+    - te estremecieses
+  vos:
+    - te estremecieras
+    - te estremecieses
+  ud:
+    - se estremeciera
+    - se estremeciese
+  nosotros:
+    - nos estremeciéramos
+    - nos estremeciésemos
+  vosotros:
+    - os estremecierais
+    - os estremecieseis
+  uds:
+    - se estremecieran
+    - se estremeciesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera estremecido
+    - me hubiese estremecido
+  tu:
+    - te hubieras estremecido
+    - te hubieses estremecido
+  vos:
+    - te hubieras estremecido
+    - te hubieses estremecido
+  ud:
+    - se hubiera estremecido
+    - se hubiese estremecido
+  nosotros:
+    - nos hubiéramos estremecido
+    - nos hubiésemos estremecido
+  vosotros:
+    - os hubierais estremecido
+    - os hubieseis estremecido
+  uds:
+    - se hubieran estremecido
+    - se hubiesen estremecido
+
+imperativo:
+  tu: estremece
+  vos: estremece
+  ud: estremezca
+  nosotros: estremezcamos
+  vosotros: estremeceos
+  uds: estremezcan

@@ -1,0 +1,142 @@
+infinitivo: revivir
+gerundio: reviviendo
+participio-pasado: revivido
+presente-indicativo:
+  yo: revivo
+  tu: revives
+  vos: revivís
+  ud: revive
+  nosotros: revivimos
+  vosotros: revivís
+  uds: reviven
+preterito-perfecto-simple:
+  yo: reviví
+  tu: reviviste
+  vos: reviviste
+  ud: revivió
+  nosotros: revivimos
+  vosotros: revivisteis
+  uds: revivieron
+preterito-imperfecto:
+  yo: revivía
+  tu: revivías
+  vos: revivías
+  ud: revivía
+  nosotros: revivíamos
+  vosotros: revivíais
+  uds: revivían
+futuro-simple:
+  yo: reviviré
+  tu: revivirás
+  vos: revivirás
+  ud: revivirá
+  nosotros: reviviremos
+  vosotros: reviviréis
+  uds: revivirán
+condicional-simple:
+  yo: reviviría
+  tu: revivirías
+  vos: revivirías
+  ud: reviviría
+  nosotros: reviviríamos
+  vosotros: reviviríais
+  uds: revivirían
+presente-perfecto:
+  yo: he revivido
+  tu: has revivido
+  vos: has revivido
+  ud: ha revivido
+  nosotros: hemos revivido
+  vosotros: habéis revivido
+  uds: han revivido
+preterito-pluscuamperfecto:
+  yo: había revivido
+  tu: habías revivido
+  vos: habías revivido
+  ud: había revivido
+  nosotros: habíamos revivido
+  vosotros: habíais revivido
+  uds: habían revivido
+futuro-perfecto:
+  yo: habré revivido
+  tu: habrás revivido
+  vos: habrás revivido
+  ud: habrá revivido
+  nosotros: habremos revivido
+  vosotros: habréis revivido
+  uds: habrán revivido
+condicional-perfecto:
+  yo: habría revivido
+  tu: habrías revivido
+  vos: habrías revivido
+  ud: habría revivido
+  nosotros: habríamos revivido
+  vosotros: habríais revivido
+  uds: habrían revivido
+presente-subjuntivo:
+  yo: reviva
+  tu: revivas
+  vos: revivas
+  ud: reviva
+  nosotros: revivamos
+  vosotros: reviváis
+  uds: revivan
+preterito-perfecto-subjuntivo:
+  yo: haya revivido
+  tu: hayas revivido
+  vos: hayas revivido
+  ud: haya revivido
+  nosotros: hayamos revivido
+  vosotros: hayáis revivido
+  uds: hayan revivido
+imperfecto-subjuntivo:
+  yo:
+    - reviviera
+    - reviviese
+  tu:
+    - revivieras
+    - revivieses
+  vos:
+    - revivieras
+    - revivieses
+  ud:
+    - reviviera
+    - reviviese
+  nosotros:
+    - reviviéramos
+    - reviviésemos
+  vosotros:
+    - revivierais
+    - revivieseis
+  uds:
+    - revivieran
+    - reviviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera revivido
+    - hubiese revivido
+  tu:
+    - hubieras revivido
+    - hubieses revivido
+  vos:
+    - hubieras revivido
+    - hubieses revivido
+  ud:
+    - hubiera revivido
+    - hubiese revivido
+  nosotros:
+    - hubiéramos revivido
+    - hubiésemos revivido
+  vosotros:
+    - hubierais revivido
+    - hubieseis revivido
+  uds:
+    - hubieran revivido
+    - hubiesen revivido
+imperativo:
+  tu: revive
+  vos: reviví
+  ud: reviva
+  nosotros: revivamos
+  vosotros: revivid
+  uds: revivan

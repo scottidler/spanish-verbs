@@ -1,0 +1,142 @@
+infinitivo: garantizar
+gerundio: garantizando
+participio-pasado: garantizado
+presente-indicativo:
+  yo: garantizo
+  tu: garantizas
+  vos: garantizas
+  ud: garantiza
+  nosotros: garantizamos
+  vosotros: garantizáis
+  uds: garantizan
+preterito-perfecto-simple:
+  yo: garanticé
+  tu: garantizaste
+  vos: garantizaste
+  ud: garantizó
+  nosotros: garantizamos
+  vosotros: garantizasteis
+  uds: garantizaron
+preterito-imperfecto:
+  yo: garantizaba
+  tu: garantizabas
+  vos: garantizabas
+  ud: garantizaba
+  nosotros: garantizábamos
+  vosotros: garantizabais
+  uds: garantizaban
+futuro-simple:
+  yo: garantizaré
+  tu: garantizarás
+  vos: garantizarás
+  ud: garantizará
+  nosotros: garantizaremos
+  vosotros: garantizaréis
+  uds: garantizarán
+condicional-simple:
+  yo: garantizaría
+  tu: garantizarías
+  vos: garantizarías
+  ud: garantizaría
+  nosotros: garantizaríamos
+  vosotros: garantizaríais
+  uds: garantizarían
+presente-perfecto:
+  yo: he garantizado
+  tu: has garantizado
+  vos: has garantizado
+  ud: ha garantizado
+  nosotros: hemos garantizado
+  vosotros: habéis garantizado
+  uds: han garantizado
+preterito-pluscuamperfecto:
+  yo: había garantizado
+  tu: habías garantizado
+  vos: habías garantizado
+  ud: había garantizado
+  nosotros: habíamos garantizado
+  vosotros: habíais garantizado
+  uds: habían garantizado
+futuro-perfecto:
+  yo: habré garantizado
+  tu: habrás garantizado
+  vos: habrás garantizado
+  ud: habrá garantizado
+  nosotros: habremos garantizado
+  vosotros: habréis garantizado
+  uds: habrán garantizado
+condicional-perfecto:
+  yo: habría garantizado
+  tu: habrías garantizado
+  vos: habrías garantizado
+  ud: habría garantizado
+  nosotros: habríamos garantizado
+  vosotros: habríais garantizado
+  uds: habrían garantizado
+presente-subjuntivo:
+  yo: garantice
+  tu: garantices
+  vos: garantices
+  ud: garantice
+  nosotros: garanticemos
+  vosotros: garanticéis
+  uds: garanticen
+preterito-perfecto-subjuntivo:
+  yo: haya garantizado
+  tu: hayas garantizado
+  vos: hayas garantizado
+  ud: haya garantizado
+  nosotros: hayamos garantizado
+  vosotros: hayáis garantizado
+  uds: hayan garantizado
+imperfecto-subjuntivo:
+  yo:
+    - garantizara
+    - garantizase
+  tu:
+    - garantizaras
+    - garantizases
+  vos:
+    - garantizaras
+    - garantizases
+  ud:
+    - garantizara
+    - garantizase
+  nosotros:
+    - garantizáramos
+    - garantizásemos
+  vosotros:
+    - garantizarais
+    - garantizaseis
+  uds:
+    - garantizaran
+    - garantizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera garantizado
+    - hubiese garantizado
+  tu:
+    - hubieras garantizado
+    - hubieses garantizado
+  vos:
+    - hubieras garantizado
+    - hubieses garantizado
+  ud:
+    - hubiera garantizado
+    - hubiese garantizado
+  nosotros:
+    - hubiéramos garantizado
+    - hubiésemos garantizado
+  vosotros:
+    - hubierais garantizado
+    - hubieseis garantizado
+  uds:
+    - hubieran garantizado
+    - hubiesen garantizado
+imperativo:
+  tu: garantiza
+  vos: garantizá
+  ud: garantice
+  nosotros: garanticemos
+  vosotros: garantizad
+  uds: garanticen

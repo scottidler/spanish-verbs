@@ -1,0 +1,142 @@
+infinitivo: arrebatarse
+gerundio: arrebatándose
+participio-pasado: arrebatado
+presente-indicativo:
+  yo: me arrebato
+  tu: te arrebatas
+  vos: te arrebatás
+  ud: se arrebata
+  nosotros: nos arrebatamos
+  vosotros: os arrebatais
+  uds: se arrebatan
+preterito-perfecto-simple:
+  yo: me arrebaté
+  tu: te arrebataste
+  vos: te arrebataste
+  ud: se arrebató
+  nosotros: nos arrebatamos
+  vosotros: os arrebatasteis
+  uds: se arrebataron
+preterito-imperfecto:
+  yo: me arrebataba
+  tu: te arrebatabas
+  vos: te arrebatabas
+  ud: se arrebataba
+  nosotros: nos arrebatabamos
+  vosotros: os arrebatabais
+  uds: se arrebataban
+futuro-simple:
+  yo: me arrebataré
+  tu: te arrebatarás
+  vos: te arrebatarás
+  ud: se arrebatará
+  nosotros: nos arrebataremos
+  vosotros: os arrebataréis
+  uds: se arrebatarán
+condicional-simple:
+  yo: me arrebataría
+  tu: te arrebatarías
+  vos: te arrebatarías
+  ud: se arrebataría
+  nosotros: nos arrebataríamos
+  vosotros: os arrebataríais
+  uds: se arrebatarían
+presente-perfecto:
+  yo: me he arrebatado
+  tu: te has arrebatado
+  vos: te has arrebatado
+  ud: se ha arrebatado
+  nosotros: nos hemos arrebatado
+  vosotros: os habéis arrebatado
+  uds: se han arrebatado
+preterito-pluscuamperfecto:
+  yo: me había arrebatado
+  tu: te habías arrebatado
+  vos: te habías arrebatado
+  ud: se había arrebatado
+  nosotros: nos habíamos arrebatado
+  vosotros: os habíais arrebatado
+  uds: se habían arrebatado
+futuro-perfecto:
+  yo: me habré arrebatado
+  tu: te habrás arrebatado
+  vos: te habrás arrebatado
+  ud: se habrá arrebatado
+  nosotros: nos habremos arrebatado
+  vosotros: os habréis arrebatado
+  uds: se habrán arrebatado
+condicional-perfecto:
+  yo: me habría arrebatado
+  tu: te habrías arrebatado
+  vos: te habrías arrebatado
+  ud: se habría arrebatado
+  nosotros: nos habríamos arrebatado
+  vosotros: os habríais arrebatado
+  uds: se habrían arrebatado
+presente-subjuntivo:
+  yo: me arrebate
+  tu: te arrebates
+  vos: te arrebates
+  ud: se arrebate
+  nosotros: nos arrebatemos
+  vosotros: os arrebateis
+  uds: se arrebaten
+preterito-perfecto-subjuntivo:
+  yo: me haya arrebatado
+  tu: te hayas arrebatado
+  vos: te hayas arrebatado
+  ud: se haya arrebatado
+  nosotros: nos hayamos arrebatado
+  vosotros: os hayáis arrebatado
+  uds: se hayan arrebatado
+imperfecto-subjuntivo:
+  yo:
+    - me arrebatara
+    - me arrebatase
+  tu:
+    - te arrebataras
+    - te arrebataras
+  vos:
+    - te arrebatara
+    - te arrebataras
+  ud:
+    - se arrebatara
+    - se arrebatase
+  nosotros:
+    - nos arrebatáramos
+    - nos arrebatásemos
+  vosotros:
+    - os arrebatarais
+    - os arrebataseis
+  uds:
+    - se arrebataran
+    - se arrebatasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera arrebatado
+    - me hubiese arrebatado
+  tu:
+    - te hubieras arrebatado
+    - te hubieses arrebatado
+  vos:
+    - te hubieras arrebatado
+    - te hubieses arrebatado
+  ud:
+    - se hubiera arrebatado
+    - se hubiese arrebatado
+  nosotros:
+    - nos hubiéramos arrebatado
+    - nos hubiésemos arrebatado
+  vosotros:
+    - os hubierais arrebatado
+    - os hubieseis arrebatado
+  uds:
+    - se hubieran arrebatado
+    - se hubiesen arrebatado
+imperativo:
+  tu: arrebátate
+  vos: arrebatáte
+  ud: arrebátase
+  nosotros: arrebatémonos
+  vosotros: arrebatáos
+  uds: arrebátense

@@ -1,0 +1,156 @@
+infinitivo: echarse
+gerundio: echándose
+participio-pasado: echado
+
+presente-indicativo:
+  yo: me echo
+  tu: te echas
+  vos: te echas
+  ud: se echa
+  nosotros: nos echamos
+  vosotros: os echáis
+  uds: se echan
+
+preterito-perfecto-simple:
+  yo: me eché
+  tu: te echaste
+  vos: te echaste
+  ud: se echó
+  nosotros: nos echamos
+  vosotros: os echasteis
+  uds: se echaron
+
+preterito-imperfecto:
+  yo: me echaba
+  tu: te echabas
+  vos: te echabas
+  ud: se echaba
+  nosotros: nos echábamos
+  vosotros: os echabais
+  uds: se echaban
+
+futuro-simple:
+  yo: me echaré
+  tu: te echarás
+  vos: te echarás
+  ud: se echará
+  nosotros: nos echaremos
+  vosotros: os echaréis
+  uds: se echarán
+
+condicional-simple:
+  yo: me echaría
+  tu: te echarías
+  vos: te echarías
+  ud: se echaría
+  nosotros: nos echaríamos
+  vosotros: os echaríais
+  uds: se echarían
+
+presente-perfecto:
+  yo: me he echado
+  tu: te has echado
+  vos: te has echado
+  ud: se ha echado
+  nosotros: nos hemos echado
+  vosotros: os habéis echado
+  uds: se han echado
+
+preterito-pluscuamperfecto:
+  yo: me había echado
+  tu: te habías echado
+  vos: te habías echado
+  ud: se había echado
+  nosotros: nos habíamos echado
+  vosotros: os habíais echado
+  uds: se habían echado
+
+futuro-perfecto:
+  yo: me habré echado
+  tu: te habrás echado
+  vos: te habrás echado
+  ud: se habrá echado
+  nosotros: nos habremos echado
+  vosotros: os habréis echado
+  uds: se habrán echado
+
+condicional-perfecto:
+  yo: me habría echado
+  tu: te habrías echado
+  vos: te habrías echado
+  ud: se habría echado
+  nosotros: nos habríamos echado
+  vosotros: os habríais echado
+  uds: se habrían echado
+
+presente-subjuntivo:
+  yo: me eche
+  tu: te eches
+  vos: te eches
+  ud: se eche
+  nosotros: nos echemos
+  vosotros: os echéis
+  uds: se echen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya echado
+  tu: te hayas echado
+  vos: te hayas echado
+  ud: se haya echado
+  nosotros: nos hayamos echado
+  vosotros: os hayáis echado
+  uds: se hayan echado
+
+imperfecto-subjuntivo:
+  yo:
+    - me echara
+    - me echase
+  tu:
+    - te echaras
+    - te echases
+  vos:
+    - te echaras
+    - te echases
+  ud:
+    - se echara
+    - se echase
+  nosotros:
+    - nos echáramos
+    - nos echásemos
+  vosotros:
+    - os echarais
+    - os echaseis
+  uds:
+    - se echaran
+    - se echasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera echado
+    - me hubiese echado
+  tu:
+    - te hubieras echado
+    - te hubieses echado
+  vos:
+    - te hubieras echado
+    - te hubieses echado
+  ud:
+    - se hubiera echado
+    - se hubiese echado
+  nosotros:
+    - nos hubiéramos echado
+    - nos hubiésemos echado
+  vosotros:
+    - os hubierais echado
+    - os hubieseis echado
+  uds:
+    - se hubieran echado
+    - se hubiesen echado
+
+imperativo:
+  tu: échate
+  vos: échate
+  ud: échese
+  nosotros: echemos
+  vosotros: echad
+  uds: échense

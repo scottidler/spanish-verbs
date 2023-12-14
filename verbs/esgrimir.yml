@@ -1,0 +1,156 @@
+infinitivo: esgrimir
+gerundio: esgrimiendo
+participio-pasado: esgrimido
+
+presente-indicativo:
+  yo: esgrimo
+  tu: esgrimes
+  vos: esgrimes
+  ud: esgrime
+  nosotros: esgrimimos
+  vosotros: esgrimís
+  uds: esgrimen
+
+preterito-perfecto-simple:
+  yo: esgrimí
+  tu: esgrimiste
+  vos: esgrimiste
+  ud: esgrimió
+  nosotros: esgrimimos
+  vosotros: esgrimisteis
+  uds: esgrimieron
+
+preterito-imperfecto:
+  yo: esgrimía
+  tu: esgrimías
+  vos: esgrimías
+  ud: esgrimía
+  nosotros: esgrimíamos
+  vosotros: esgrimíais
+  uds: esgrimían
+
+futuro-simple:
+  yo: esgrimiré
+  tu: esgrimirás
+  vos: esgrimirás
+  ud: esgrimirá
+  nosotros: esgrimiremos
+  vosotros: esgrimiréis
+  uds: esgrimirán
+
+condicional-simple:
+  yo: esgrimiría
+  tu: esgrimirías
+  vos: esgrimirías
+  ud: esgrimiría
+  nosotros: esgrimiríamos
+  vosotros: esgrimiríais
+  uds: esgrimirían
+
+presente-perfecto:
+  yo: he esgrimido
+  tu: has esgrimido
+  vos: has esgrimido
+  ud: ha esgrimido
+  nosotros: hemos esgrimido
+  vosotros: habéis esgrimido
+  uds: han esgrimido
+
+preterito-pluscuamperfecto:
+  yo: había esgrimido
+  tu: habías esgrimido
+  vos: habías esgrimido
+  ud: había esgrimido
+  nosotros: habíamos esgrimido
+  vosotros: habíais esgrimido
+  uds: habían esgrimido
+
+futuro-perfecto:
+  yo: habré esgrimido
+  tu: habrás esgrimido
+  vos: habrás esgrimido
+  ud: habrá esgrimido
+  nosotros: habremos esgrimido
+  vosotros: habréis esgrimido
+  uds: habrán esgrimido
+
+condicional-perfecto:
+  yo: habría esgrimido
+  tu: habrías esgrimido
+  vos: habrías esgrimido
+  ud: habría esgrimido
+  nosotros: habríamos esgrimido
+  vosotros: habríais esgrimido
+  uds: habrían esgrimido
+
+presente-subjuntivo:
+  yo: esgrima
+  tu: esgrimas
+  vos: esgrimas
+  ud: esgrima
+  nosotros: esgrimamos
+  vosotros: esgráis
+  uds: esgriman
+
+preterito-perfecto-subjuntivo:
+  yo: haya esgrimido
+  tu: hayas esgrimido
+  vos: hayas esgrimido
+  ud: haya esgrimido
+  nosotros: hayamos esgrimido
+  vosotros: hayáis esgrimido
+  uds: hayan esgrimido
+
+imperfecto-subjuntivo:
+  yo:
+    - esgrimiera
+    - esgrimiese
+  tu:
+    - esgrimieras
+    - esgrimieses
+  vos:
+    - esgrimieras
+    - esgrimieses
+  ud:
+    - esgrimiera
+    - esgrimiese
+  nosotros:
+    - esgrimiéramos
+    - esgrimiésemos
+  vosotros:
+    - esgrimierais
+    - esgrimieseis
+  uds:
+    - esgrimieran
+    - esgrimiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera esgrimido
+    - hubiese esgrimido
+  tu:
+    - hubieras esgrimido
+    - hubieses esgrimido
+  vos:
+    - hubieras esgrimido
+    - hubieses esgrimido
+  ud:
+    - hubiera esgrimido
+    - hubiese esgrimido
+  nosotros:
+    - hubiéramos esgrimido
+    - hubiésemos esgrimido
+  vosotros:
+    - hubierais esgrimido
+    - hubieseis esgrimido
+  uds:
+    - hubieran esgrimido
+    - hubiesen esgrimido
+
+imperativo:
+  tu: esgrime
+  vos: esgrimí
+  ud: esgrima
+  nosotros: esgrimamos
+  vosotros: esgrimid
+  uds: esgriman

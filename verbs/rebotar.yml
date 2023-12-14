@@ -1,0 +1,142 @@
+infinitivo: rebotar
+gerundio: rebotando
+participio-pasado: rebotado
+presente-indicativo:
+  yo: reboto
+  tu: rebotas
+  vos: rebotas
+  ud: rebota
+  nosotros: rebotamos
+  vosotros: rebotáis
+  uds: rebotan
+preterito-perfecto-simple:
+  yo: reboté
+  tu: rebotaste
+  vos: rebotaste
+  ud: rebotó
+  nosotros: rebotamos
+  vosotros: rebotasteis
+  uds: rebotaron
+preterito-imperfecto:
+  yo: rebotaba
+  tu: rebotabas
+  vos: rebotabas
+  ud: rebotaba
+  nosotros: rebotábamos
+  vosotros: rebotabais
+  uds: rebotaban
+futuro-simple:
+  yo: rebotaré
+  tu: rebotarás
+  vos: rebotarás
+  ud: rebotará
+  nosotros: rebotaremos
+  vosotros: rebotaréis
+  uds: rebotarán
+condicional-simple:
+  yo: rebotaría
+  tu: rebotarías
+  vos: rebotarías
+  ud: rebotaría
+  nosotros: rebotaríamos
+  vosotros: rebotaríais
+  uds: rebotarían
+presente-perfecto:
+  yo: he rebotado
+  tu: has rebotado
+  vos: has rebotado
+  ud: ha rebotado
+  nosotros: hemos rebotado
+  vosotros: habéis rebotado
+  uds: han rebotado
+preterito-pluscuamperfecto:
+  yo: había rebotado
+  tu: habías rebotado
+  vos: habías rebotado
+  ud: había rebotado
+  nosotros: habíamos rebotado
+  vosotros: habíais rebotado
+  uds: habían rebotado
+futuro-perfecto:
+  yo: habré rebotado
+  tu: habrás rebotado
+  vos: habrás rebotado
+  ud: habrá rebotado
+  nosotros: habremos rebotado
+  vosotros: habréis rebotado
+  uds: habrán rebotado
+condicional-perfecto:
+  yo: habría rebotado
+  tu: habrías rebotado
+  vos: habrías rebotado
+  ud: habría rebotado
+  nosotros: habríamos rebotado
+  vosotros: habríais rebotado
+  uds: habrían rebotado
+presente-subjuntivo:
+  yo: rebote
+  tu: rebotes
+  vos: rebotes
+  ud: rebote
+  nosotros: rebotemos
+  vosotros: rebotéis
+  uds: reboten
+preterito-perfecto-subjuntivo:
+  yo: haya rebotado
+  tu: hayas rebotado
+  vos: hayas rebotado
+  ud: haya rebotado
+  nosotros: hayamos rebotado
+  vosotros: hayáis rebotado
+  uds: hayan rebotado
+imperfecto-subjuntivo:
+  yo:
+    - rebotara
+    - rebotase
+  tu:
+    - rebotaras
+    - rebotases
+  vos:
+    - rebotaras
+    - rebotases
+  ud:
+    - rebotara
+    - rebotase
+  nosotros:
+    - rebotáramos
+    - rebotásemos
+  vosotros:
+    - rebotarais
+    - rebotaseis
+  uds:
+    - rebotaran
+    - rebotasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rebotado
+    - hubiese rebotado
+  tu:
+    - hubieras rebotado
+    - hubieses rebotado
+  vos:
+    - hubieras rebotado
+    - hubieses rebotado
+  ud:
+    - hubiera rebotado
+    - hubiese rebotado
+  nosotros:
+    - hubiéramos rebotado
+    - hubiésemos rebotado
+  vosotros:
+    - hubierais rebotado
+    - hubieseis rebotado
+  uds:
+    - hubieran rebotado
+    - hubiesen rebotado
+imperativo:
+  tu: rebota
+  vos: rebota
+  ud: rebote
+  nosotros: rebotemos
+  vosotros: rebotad
+  uds: reboten

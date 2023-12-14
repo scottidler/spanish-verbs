@@ -1,0 +1,142 @@
+infinitivo: engordar
+gerundio: engordando
+participio-pasado: engordado
+presente-indicativo:
+  yo: engordo
+  tu: engordas
+  vos: engordas
+  ud: engorda
+  nosotros: engordamos
+  vosotros: engordáis
+  uds: engordan
+preterito-perfecto-simple:
+  yo: engordé
+  tu: engordaste
+  vos: engordaste
+  ud: engordó
+  nosotros: engordamos
+  vosotros: engordasteis
+  uds: engordaron
+preterito-imperfecto:
+  yo: engordaba
+  tu: engordabas
+  vos: engordabas
+  ud: engordaba
+  nosotros: engordábamos
+  vosotros: engordabais
+  uds: engordaban
+futuro-simple:
+  yo: engordaré
+  tu: engordarás
+  vos: engordarás
+  ud: engordará
+  nosotros: engordaremos
+  vosotros: engordaréis
+  uds: engordarán
+condicional-simple:
+  yo: engordaría
+  tu: engordarías
+  vos: engordarías
+  ud: engordaría
+  nosotros: engordaríamos
+  vosotros: engordaríais
+  uds: engordarían
+presente-perfecto:
+  yo: he engordado
+  tu: has engordado
+  vos: has engordado
+  ud: ha engordado
+  nosotros: hemos engordado
+  vosotros: habéis engordado
+  uds: han engordado
+preterito-pluscuamperfecto:
+  yo: había engordado
+  tu: habías engordado
+  vos: habías engordado
+  ud: había engordado
+  nosotros: habíamos engordado
+  vosotros: habíais engordado
+  uds: habían engordado
+futuro-perfecto:
+  yo: habré engordado
+  tu: habrás engordado
+  vos: habrás engordado
+  ud: habrá engordado
+  nosotros: habremos engordado
+  vosotros: habréis engordado
+  uds: habrán engordado
+condicional-perfecto:
+  yo: habría engordado
+  tu: habrías engordado
+  vos: habrías engordado
+  ud: habría engordado
+  nosotros: habríamos engordado
+  vosotros: habríais engordado
+  uds: habrían engordado
+presente-subjuntivo:
+  yo: engorde
+  tu: engordes
+  vos: engordes
+  ud: engorde
+  nosotros: engordemos
+  vosotros: engordéis
+  uds: engorden
+preterito-perfecto-subjuntivo:
+  yo: haya engordado
+  tu: hayas engordado
+  vos: hayas engordado
+  ud: haya engordado
+  nosotros: hayamos engordado
+  vosotros: hayáis engordado
+  uds: hayan engordado
+imperfecto-subjuntivo:
+  yo:
+    - engordara
+    - engordase
+  tu:
+    - engordaras
+    - engordases
+  vos:
+    - engordaras
+    - engordases
+  ud:
+    - engordara
+    - engordase
+  nosotros:
+    - engordáramos
+    - engordásemos
+  vosotros:
+    - engordarais
+    - engordaseis
+  uds:
+    - engordaran
+    - engordasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera engordado
+    - hubiese engordado
+  tu:
+    - hubieras engordado
+    - hubieses engordado
+  vos:
+    - hubieras engordado
+    - hubieses engordado
+  ud:
+    - hubiera engordado
+    - hubiese engordado
+  nosotros:
+    - hubiéramos engordado
+    - hubiésemos engordado
+  vosotros:
+    - hubierais engordado
+    - hubieseis engordado
+  uds:
+    - hubieran engordado
+    - hubiesen engordado
+imperativo:
+  tu: engorda
+  vos: engordá
+  ud: engorde
+  nosotros: engordemos
+  vosotros: engordad
+  uds: engorden

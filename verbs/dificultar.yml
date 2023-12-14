@@ -1,0 +1,142 @@
+infinitivo: dificultar
+gerundio: dificultando
+participio-pasado: dificultado
+presente-indicativo:
+  yo: dificulto
+  tu: dificultas
+  vos: dificultas
+  ud: dificulta
+  nosotros: dificultamos
+  vosotros: dificultáis
+  uds: dificultan
+preterito-perfecto-simple:
+  yo: dificulté
+  tu: dificultaste
+  vos: dificultaste
+  ud: dificultó
+  nosotros: dificultamos
+  vosotros: dificultasteis
+  uds: dificultaron
+preterito-imperfecto:
+  yo: dificultaba
+  tu: dificultabas
+  vos: dificultabas
+  ud: dificultaba
+  nosotros: dificultábamos
+  vosotros: dificultabais
+  uds: dificultaban
+futuro-simple:
+  yo: dificultaré
+  tu: dificultarás
+  vos: dificultarás
+  ud: dificultará
+  nosotros: dificultaremos
+  vosotros: dificultaréis
+  uds: dificultarán
+condicional-simple:
+  yo: dificultaría
+  tu: dificultarías
+  vos: dificultarías
+  ud: dificultaría
+  nosotros: dificultaríamos
+  vosotros: dificultaríais
+  uds: dificultarían
+presente-perfecto:
+  yo: he dificultado
+  tu: has dificultado
+  vos: has dificultado
+  ud: ha dificultado
+  nosotros: hemos dificultado
+  vosotros: habéis dificultado
+  uds: han dificultado
+preterito-pluscuamperfecto:
+  yo: había dificultado
+  tu: habías dificultado
+  vos: habías dificultado
+  ud: había dificultado
+  nosotros: habíamos dificultado
+  vosotros: habíais dificultado
+  uds: habían dificultado
+futuro-perfecto:
+  yo: habré dificultado
+  tu: habrás dificultado
+  vos: habrás dificultado
+  ud: habrá dificultado
+  nosotros: habremos dificultado
+  vosotros: habréis dificultado
+  uds: habrán dificultado
+condicional-perfecto:
+  yo: habría dificultado
+  tu: habrías dificultado
+  vos: habrías dificultado
+  ud: habría dificultado
+  nosotros: habríamos dificultado
+  vosotros: habríais dificultado
+  uds: habrían dificultado
+presente-subjuntivo:
+  yo: dificulte
+  tu: dificultes
+  vos: dificultes
+  ud: dificulte
+  nosotros: dificultemos
+  vosotros: dificultéis
+  uds: dificulten
+preterito-perfecto-subjuntivo:
+  yo: haya dificultado
+  tu: hayas dificultado
+  vos: hayas dificultado
+  ud: haya dificultado
+  nosotros: hayamos dificultado
+  vosotros: hayáis dificultado
+  uds: hayan dificultado
+imperfecto-subjuntivo:
+  yo:
+    - dificultara
+    - dificultase
+  tu:
+    - dificultaras
+    - dificultases
+  vos:
+    - dificultaras
+    - dificultases
+  ud:
+    - dificultara
+    - dificultase
+  nosotros:
+    - dificultáramos
+    - dificultásemos
+  vosotros:
+    - dificultarais
+    - dificultaseis
+  uds:
+    - dificultaran
+    - dificultasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera dificultado
+    - hubiese dificultado
+  tu:
+    - hubieras dificultado
+    - hubieses dificultado
+  vos:
+    - hubieras dificultado
+    - hubieses dificultado
+  ud:
+    - hubiera dificultado
+    - hubiese dificultado
+  nosotros:
+    - hubiéramos dificultado
+    - hubiésemos dificultado
+  vosotros:
+    - hubierais dificultado
+    - hubieseis dificultado
+  uds:
+    - hubieran dificultado
+    - hubiesen dificultado
+imperativo:
+  tu: dificulta
+  vos: dificultá
+  ud: dificulte
+  nosotros: dificultemos
+  vosotros: dificultad
+  uds: dificulten

@@ -1,0 +1,142 @@
+infinitivo: circular
+gerundio: circulando
+participio-pasado: circulado
+presente-indicativo:
+  yo: circulo
+  tu: circulas
+  vos: circulas
+  ud: circula
+  nosotros: circulamos
+  vosotros: circuláis
+  uds: circulan
+preterito-perfecto-simple:
+  yo: circulé
+  tu: circulaste
+  vos: circulaste
+  ud: circuló
+  nosotros: circulamos
+  vosotros: circulasteis
+  uds: circularon
+preterito-imperfecto:
+  yo: circulaba
+  tu: circulabas
+  vos: circulabas
+  ud: circulaba
+  nosotros: circulábamos
+  vosotros: circulabais
+  uds: circulaban
+futuro-simple:
+  yo: circularé
+  tu: circularás
+  vos: circularás
+  ud: circulará
+  nosotros: circularemos
+  vosotros: circularéis
+  uds: circularán
+condicional-simple:
+  yo: circularía
+  tu: circularías
+  vos: circularías
+  ud: circularía
+  nosotros: circularíamos
+  vosotros: circularíais
+  uds: circularían
+presente-perfecto:
+  yo: he circulado
+  tu: has circulado
+  vos: has circulado
+  ud: ha circulado
+  nosotros: hemos circulado
+  vosotros: habéis circulado
+  uds: han circulado
+preterito-pluscuamperfecto:
+  yo: había circulado
+  tu: habías circulado
+  vos: habías circulado
+  ud: había circulado
+  nosotros: habíamos circulado
+  vosotros: habíais circulado
+  uds: habían circulado
+futuro-perfecto:
+  yo: habré circulado
+  tu: habrás circulado
+  vos: habrás circulado
+  ud: habrá circulado
+  nosotros: habremos circulado
+  vosotros: habréis circulado
+  uds: habrán circulado
+condicional-perfecto:
+  yo: habría circulado
+  tu: habrías circulado
+  vos: habrías circulado
+  ud: habría circulado
+  nosotros: habríamos circulado
+  vosotros: habríais circulado
+  uds: habrían circulado
+presente-subjuntivo:
+  yo: circule
+  tu: circules
+  vos: circules
+  ud: circule
+  nosotros: circulemos
+  vosotros: circuléis
+  uds: circulen
+preterito-perfecto-subjuntivo:
+  yo: haya circulado
+  tu: hayas circulado
+  vos: hayas circulado
+  ud: haya circulado
+  nosotros: hayamos circulado
+  vosotros: hayáis circulado
+  uds: hayan circulado
+imperfecto-subjuntivo:
+  yo:
+    - circulara
+    - circulase
+  tu:
+    - circularas
+    - circulases
+  vos:
+    - circularas
+    - circulases
+  ud:
+    - circulara
+    - circulase
+  nosotros:
+    - circuláramos
+    - circulásemos
+  vosotros:
+    - circularais
+    - circulaseis
+  uds:
+    - circularan
+    - circulasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera circulado
+    - hubiese circulado
+  tu:
+    - hubieras circulado
+    - hubieses circulado
+  vos:
+    - hubieras circulado
+    - hubieses circulado
+  ud:
+    - hubiera circulado
+    - hubiese circulado
+  nosotros:
+    - hubiéramos circulado
+    - hubiésemos circulado
+  vosotros:
+    - hubierais circulado
+    - hubieseis circulado
+  uds:
+    - hubieran circulado
+    - hubiesen circulado
+imperativo:
+  tu: circula
+  vos: circulá
+  ud: circule
+  nosotros: circulemos
+  vosotros: circulad
+  uds: circulen

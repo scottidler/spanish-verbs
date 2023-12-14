@@ -1,0 +1,142 @@
+infinitivo: inspeccionar
+gerundio: inspeccionando
+participio-pasado: inspeccionado
+presente-indicativo:
+  yo: inspecciono
+  tu: inspeccionas
+  vos: inspeccionas
+  ud: inspecciona
+  nosotros: inspeccionamos
+  vosotros: inspeccionáis
+  uds: inspeccionan
+preterito-perfecto-simple:
+  yo: inspeccioné
+  tu: inspeccionaste
+  vos: inspeccionaste
+  ud: inspeccionó
+  nosotros: inspeccionamos
+  vosotros: inspeccionasteis
+  uds: inspeccionaron
+preterito-imperfecto:
+  yo: inspeccionaba
+  tu: inspeccionabas
+  vos: inspeccionabas
+  ud: inspeccionaba
+  nosotros: inspeccionábamos
+  vosotros: inspeccionabais
+  uds: inspeccionaban
+futuro-simple:
+  yo: inspeccionaré
+  tu: inspeccionarás
+  vos: inspeccionarás
+  ud: inspeccionará
+  nosotros: inspeccionaremos
+  vosotros: inspeccionaréis
+  uds: inspeccionarán
+condicional-simple:
+  yo: inspeccionaría
+  tu: inspeccionarías
+  vos: inspeccionarías
+  ud: inspeccionaría
+  nosotros: inspeccionaríamos
+  vosotros: inspeccionaríais
+  uds: inspeccionarían
+presente-perfecto:
+  yo: he inspeccionado
+  tu: has inspeccionado
+  vos: has inspeccionado
+  ud: ha inspeccionado
+  nosotros: hemos inspeccionado
+  vosotros: habéis inspeccionado
+  uds: han inspeccionado
+preterito-pluscuamperfecto:
+  yo: había inspeccionado
+  tu: habías inspeccionado
+  vos: habías inspeccionado
+  ud: había inspeccionado
+  nosotros: habíamos inspeccionado
+  vosotros: habíais inspeccionado
+  uds: habían inspeccionado
+futuro-perfecto:
+  yo: habré inspeccionado
+  tu: habrás inspeccionado
+  vos: habrás inspeccionado
+  ud: habrá inspeccionado
+  nosotros: habremos inspeccionado
+  vosotros: habréis inspeccionado
+  uds: habrán inspeccionado
+condicional-perfecto:
+  yo: habría inspeccionado
+  tu: habrías inspeccionado
+  vos: habrías inspeccionado
+  ud: habría inspeccionado
+  nosotros: habríamos inspeccionado
+  vosotros: habríais inspeccionado
+  uds: habrían inspeccionado
+presente-subjuntivo:
+  yo: inspeccione
+  tu: inspecciones
+  vos: inspecciones
+  ud: inspeccione
+  nosotros: inspeccionemos
+  vosotros: inspeccionéis
+  uds: inspeccionen
+preterito-perfecto-subjuntivo:
+  yo: haya inspeccionado
+  tu: hayas inspeccionado
+  vos: hayas inspeccionado
+  ud: haya inspeccionado
+  nosotros: hayamos inspeccionado
+  vosotros: hayáis inspeccionado
+  uds: hayan inspeccionado
+imperfecto-subjuntivo:
+  yo:
+    - inspeccionara
+    - inspeccionase
+  tu:
+    - inspeccionaras
+    - inspeccionases
+  vos:
+    - inspeccionaras
+    - inspeccionases
+  ud:
+    - inspeccionara
+    - inspeccionase
+  nosotros:
+    - inspeccionáramos
+    - inspeccionásemos
+  vosotros:
+    - inspeccionarais
+    - inspeccionaseis
+  uds:
+    - inspeccionaran
+    - inspeccionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera inspeccionado
+    - hubiese inspeccionado
+  tu:
+    - hubieras inspeccionado
+    - hubieses inspeccionado
+  vos:
+    - hubieras inspeccionado
+    - hubieses inspeccionado
+  ud:
+    - hubiera inspeccionado
+    - hubiese inspeccionado
+  nosotros:
+    - hubiéramos inspeccionado
+    - hubiésemos inspeccionado
+  vosotros:
+    - hubierais inspeccionado
+    - hubieseis inspeccionado
+  uds:
+    - hubieran inspeccionado
+    - hubiesen inspeccionado
+imperativo:
+  tu: inspecciona
+  vos: inspeccioná
+  ud: inspeccione
+  nosotros: inspeccionemos
+  vosotros: inspeccionad
+  uds: inspeccionen

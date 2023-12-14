@@ -1,0 +1,142 @@
+infinitivo: exterminar
+gerundio: exterminando
+participio-pasado: exterminado
+presente-indicativo:
+  yo: extermino
+  tu: exterminas
+  vos: exterminas
+  ud: extermina
+  nosotros: exterminamos
+  vosotros: extermináis
+  uds: exterminan
+preterito-perfecto-simple:
+  yo: exterminé
+  tu: exterminaste
+  vos: exterminaste
+  ud: exterminó
+  nosotros: exterminamos
+  vosotros: exterminasteis
+  uds: exterminaron
+preterito-imperfecto:
+  yo: exterminaba
+  tu: exterminabas
+  vos: exterminabas
+  ud: exterminaba
+  nosotros: exterminábamos
+  vosotros: exterminabais
+  uds: exterminaban
+futuro-simple:
+  yo: exterminaré
+  tu: exterminarás
+  vos: exterminarás
+  ud: exterminará
+  nosotros: exterminaremos
+  vosotros: exterminaréis
+  uds: exterminarán
+condicional-simple:
+  yo: exterminaría
+  tu: exterminarías
+  vos: exterminarías
+  ud: exterminaría
+  nosotros: exterminaríamos
+  vosotros: exterminaríais
+  uds: exterminarían
+presente-perfecto:
+  yo: he exterminado
+  tu: has exterminado
+  vos: has exterminado
+  ud: ha exterminado
+  nosotros: hemos exterminado
+  vosotros: habéis exterminado
+  uds: han exterminado
+preterito-pluscuamperfecto:
+  yo: había exterminado
+  tu: habías exterminado
+  vos: habías exterminado
+  ud: había exterminado
+  nosotros: habíamos exterminado
+  vosotros: habíais exterminado
+  uds: habían exterminado
+futuro-perfecto:
+  yo: habré exterminado
+  tu: habrás exterminado
+  vos: habrás exterminado
+  ud: habrá exterminado
+  nosotros: habremos exterminado
+  vosotros: habréis exterminado
+  uds: habrán exterminado
+condicional-perfecto:
+  yo: habría exterminado
+  tu: habrías exterminado
+  vos: habrías exterminado
+  ud: habría exterminado
+  nosotros: habríamos exterminado
+  vosotros: habríais exterminado
+  uds: habrían exterminado
+presente-subjuntivo:
+  yo: extermine
+  tu: extermines
+  vos: extermines
+  ud: extermine
+  nosotros: exterminemos
+  vosotros: exterminéis
+  uds: exterminen
+preterito-perfecto-subjuntivo:
+  yo: haya exterminado
+  tu: hayas exterminado
+  vos: hayas exterminado
+  ud: haya exterminado
+  nosotros: hayamos exterminado
+  vosotros: hayáis exterminado
+  uds: hayan exterminado
+imperfecto-subjuntivo:
+  yo:
+    - exterminara
+    - exterminase
+  tu:
+    - exterminaras
+    - exterminases
+  vos:
+    - exterminaras
+    - exterminases
+  ud:
+    - exterminara
+    - exterminase
+  nosotros:
+    - extermináramos
+    - exterminásemos
+  vosotros:
+    - exterminarais
+    - exterminaseis
+  uds:
+    - exterminaran
+    - exterminasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera exterminado
+    - hubiese exterminado
+  tu:
+    - hubieras exterminado
+    - hubieses exterminado
+  vos:
+    - hubieras exterminado
+    - hubieses exterminado
+  ud:
+    - hubiera exterminado
+    - hubiese exterminado
+  nosotros:
+    - hubiéramos exterminado
+    - hubiésemos exterminado
+  vosotros:
+    - hubierais exterminado
+    - hubieseis exterminado
+  uds:
+    - hubieran exterminado
+    - hubiesen exterminado
+imperativo:
+  tu: extermina
+  vos: exterminá
+  ud: extermine
+  nosotros: exterminemos
+  vosotros: exterminad
+  uds: exterminen

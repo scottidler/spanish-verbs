@@ -1,0 +1,142 @@
+infinitivo: perdonar
+gerundio: perdonando
+participio-pasado: perdonado
+presente-indicativo:
+  yo: perdono
+  tu: perdonas
+  vos: perdonás
+  ud: perdona
+  nosotros: perdonamos
+  vosotros: perdonáis
+  uds: perdonan
+preterito-perfecto-simple:
+  yo: perdoné
+  tu: perdonaste
+  vos: perdonaste
+  ud: perdonó
+  nosotros: perdonamos
+  vosotros: perdonasteis
+  uds: perdonaron
+preterito-imperfecto:
+  yo: perdonaba
+  tu: perdonabas
+  vos: perdonabas
+  ud: perdonaba
+  nosotros: perdonábamos
+  vosotros: perdonabais
+  uds: perdonaban
+futuro-simple:
+  yo: perdonaré
+  tu: perdonarás
+  vos: perdonarás
+  ud: perdonará
+  nosotros: perdonaremos
+  vosotros: perdonaréis
+  uds: perdonarán
+condicional-simple:
+  yo: perdonaría
+  tu: perdonarías
+  vos: perdonarías
+  ud: perdonaría
+  nosotros: perdonaríamos
+  vosotros: perdonaríais
+  uds: perdonarían
+presente-perfecto:
+  yo: he perdonado
+  tu: has perdonado
+  vos: has perdonado
+  ud: ha perdonado
+  nosotros: hemos perdonado
+  vosotros: habéis perdonado
+  uds: han perdonado
+preterito-pluscuamperfecto:
+  yo: había perdonado
+  tu: habías perdonado
+  vos: habías perdonado
+  ud: había perdonado
+  nosotros: habíamos perdonado
+  vosotros: habíais perdonado
+  uds: habían perdonado
+futuro-perfecto:
+  yo: habré perdonado
+  tu: habrás perdonado
+  vos: habrás perdonado
+  ud: habrá perdonado
+  nosotros: habremos perdonado
+  vosotros: habréis perdonado
+  uds: habrán perdonado
+condicional-perfecto:
+  yo: habría perdonado
+  tu: habrías perdonado
+  vos: habrías perdonado
+  ud: habría perdonado
+  nosotros: habríamos perdonado
+  vosotros: habríais perdonado
+  uds: habrían perdonado
+presente-subjuntivo:
+  yo: perdone
+  tu: perdones
+  vos: perdones
+  ud: perdone
+  nosotros: perdonemos
+  vosotros: perdonéis
+  uds: perdonen
+preterito-perfecto-subjuntivo:
+  yo: haya perdonado
+  tu: hayas perdonado
+  vos: hayas perdonado
+  ud: haya perdonado
+  nosotros: hayamos perdonado
+  vosotros: hayáis perdonado
+  uds: hayan perdonado
+imperfecto-subjuntivo:
+  yo:
+    - perdonara
+    - perdonase
+  tu:
+    - perdonaras
+    - perdonases
+  vos:
+    - perdonaras
+    - perdonases
+  ud:
+    - perdonara
+    - perdonase
+  nosotros:
+    - perdonáramos
+    - perdonásemos
+  vosotros:
+    - perdonarais
+    - perdonaseis
+  uds:
+    - perdonaran
+    - perdonasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera perdonado
+    - hubiese perdonado
+  tu:
+    - hubieras perdonado
+    - hubieses perdonado
+  vos:
+    - hubieras perdonado
+    - hubieses perdonado
+  ud:
+    - hubiera perdonado
+    - hubiese perdonado
+  nosotros:
+    - hubiéramos perdonado
+    - hubiésemos perdonado
+  vosotros:
+    - hubierais perdonado
+    - hubieseis perdonado
+  uds:
+    - hubieran perdonado
+    - hubiesen perdonado
+imperativo:
+  tu: perdona
+  vos: perdoná
+  ud: perdone
+  nosotros: perdonemos
+  vosotros: perdonad
+  uds: perdonen

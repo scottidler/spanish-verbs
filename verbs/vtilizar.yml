@@ -1,0 +1,142 @@
+infinitivo: vtilizar
+gerundio: vtilizando
+participio-pasado: vtilizado
+presente-indicativo:
+  yo: utilizo
+  tu: utilizas
+  vos: utilizas
+  ud: utiliza
+  nosotros: utilizamos
+  vosotros: utilizáis
+  uds: utilizan
+preterito-perfecto-simple:
+  yo: utilicé
+  tu: utilizaste
+  vos: utilizaste
+  ud: utilizó
+  nosotros: utilizamos
+  vosotros: utilizasteis
+  uds: utilizaron
+preterito-imperfecto:
+  yo: utilizaba
+  tu: utilizabas
+  vos: utilizabas
+  ud: utilizaba
+  nosotros: utilizábamos
+  vosotros: utilizabais
+  uds: utilizaban
+futuro-simple:
+  yo: utilizaré
+  tu: utilizarás
+  vos: utilizarás
+  ud: utilizará
+  nosotros: utilizaremos
+  vosotros: utilizaréis
+  uds: utilizarán
+condicional-simple:
+  yo: utilizaría
+  tu: utilizarías
+  vos: utilizarías
+  ud: utilizaría
+  nosotros: utilizaríamos
+  vosotros: utilizaríais
+  uds: utilizarían
+presente-perfecto:
+  yo: he utilizado
+  tu: has utilizado
+  vos: has utilizado
+  ud: ha utilizado
+  nosotros: hemos utilizado
+  vosotros: habéis utilizado
+  uds: han utilizado
+preterito-pluscuamperfecto:
+  yo: había utilizado
+  tu: habías utilizado
+  vos: habías utilizado
+  ud: había utilizado
+  nosotros: habíamos utilizado
+  vosotros: habíais utilizado
+  uds: habían utilizado
+futuro-perfecto:
+  yo: habré utilizado
+  tu: habrás utilizado
+  vos: habrás utilizado
+  ud: habrá utilizado
+  nosotros: habremos utilizado
+  vosotros: habréis utilizado
+  uds: habrán utilizado
+condicional-perfecto:
+  yo: habría utilizado
+  tu: habrías utilizado
+  vos: habrías utilizado
+  ud: habría utilizado
+  nosotros: habríamos utilizado
+  vosotros: habríais utilizado
+  uds: habrían utilizado
+presente-subjuntivo:
+  yo: utilice
+  tu: utilices
+  vos: utilices
+  ud: utilice
+  nosotros: utilicemos
+  vosotros: utilicéis
+  uds: utilicen
+preterito-perfecto-subjuntivo:
+  yo: haya utilizado
+  tu: hayas utilizado
+  vos: hayas utilizado
+  ud: haya utilizado
+  nosotros: hayamos utilizado
+  vosotros: hayáis utilizado
+  uds: hayan utilizado
+imperfecto-subjuntivo:
+  yo:
+    - utilizara
+    - utilizase
+  tu:
+    - utilizaras
+    - utilizases
+  vos:
+    - utilizaras
+    - utilizases
+  ud:
+    - utilizara
+    - utilizase
+  nosotros:
+    - utilizáramos
+    - utilizásemos
+  vosotros:
+    - utilizarais
+    - utilizaseis
+  uds:
+    - utilizaran
+    - utilizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera utilizado
+    - hubiese utilizado
+  tu:
+    - hubieras utilizado
+    - hubieses utilizado
+  vos:
+    - hubieras utilizado
+    - hubieses utilizado
+  ud:
+    - hubiera utilizado
+    - hubiese utilizado
+  nosotros:
+    - hubiéramos utilizado
+    - hubiésemos utilizado
+  vosotros:
+    - hubierais utilizado
+    - hubieseis utilizado
+  uds:
+    - hubieran utilizado
+    - hubiesen utilizado
+imperativo:
+  tu: utiliza
+  vos: utilizá
+  ud: utilice
+  nosotros: utilicemos
+  vosotros: utilizad
+  uds: utilicen

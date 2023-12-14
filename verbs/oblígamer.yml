@@ -1,0 +1,156 @@
+infinitivo: obligarme
+gerundio: obligándome
+participio-pasado: obligado
+
+presente-indicativo:
+  yo: me obligo
+  tu: te obligas
+  vos: te obligas
+  ud: se obliga
+  nosotros: nos obligamos
+  vosotros: os obligáis
+  uds: se obligan
+
+preterito-perfecto-simple:
+  yo: me obligué
+  tu: te obligaste
+  vos: te obligaste
+  ud: se obligó
+  nosotros: nos obligamos
+  vosotros: os obligasteis
+  uds: se obligaron
+
+preterito-imperfecto:
+  yo: me obligaba
+  tu: te obligabas
+  vos: te obligabas
+  ud: se obligaba
+  nosotros: nos obligábamos
+  vosotros: os obligabais
+  uds: se obligaban
+
+futuro-simple:
+  yo: me obligaré
+  tu: te obligarás
+  vos: te obligarás
+  ud: se obligará
+  nosotros: nos obligaremos
+  vosotros: os obligaréis
+  uds: se obligarán
+
+condicional-simple:
+  yo: me obligaría
+  tu: te obligarías
+  vos: te obligarías
+  ud: se obligaría
+  nosotros: nos obligaríamos
+  vosotros: os obligaríais
+  uds: se obligarían
+
+presente-perfecto:
+  yo: me he obligado
+  tu: te has obligado
+  vos: te has obligado
+  ud: se ha obligado
+  nosotros: nos hemos obligado
+  vosotros: os habéis obligado
+  uds: se han obligado
+
+preterito-pluscuamperfecto:
+  yo: me había obligado
+  tu: te habías obligado
+  vos: te habías obligado
+  ud: se había obligado
+  nosotros: nos habíamos obligado
+  vosotros: os habíais obligado
+  uds: se habían obligado
+
+futuro-perfecto:
+  yo: me habré obligado
+  tu: te habrás obligado
+  vos: te habrás obligado
+  ud: se habrá obligado
+  nosotros: nos habremos obligado
+  vosotros: os habréis obligado
+  uds: se habrán obligado
+
+condicional-perfecto:
+  yo: me habría obligado
+  tu: te habrías obligado
+  vos: te habrías obligado
+  ud: se habría obligado
+  nosotros: nos habríamos obligado
+  vosotros: os habríais obligado
+  uds: se habrían obligado
+
+presente-subjuntivo:
+  yo: me obligue
+  tu: te obligues
+  vos: te obligues
+  ud: se obligue
+  nosotros: nos obliguemos
+  vosotros: os obliguéis
+  uds: se obliguen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya obligado
+  tu: te hayas obligado
+  vos: te hayas obligado
+  ud: se haya obligado
+  nosotros: nos hayamos obligado
+  vosotros: os hayáis obligado
+  uds: se hayan obligado
+
+imperfecto-subjuntivo:
+  yo:
+    - me obligara
+    - me obligase
+  tu:
+    - te obligaras
+    - te obligases
+  vos:
+    - te obligaras
+    - te obligases
+  ud:
+    - se obligara
+    - se obligase
+  nosotros:
+    - nos obligáramos
+    - nos obligásemos
+  vosotros:
+    - os obligarais
+    - os obligaseis
+  uds:
+    - se obligaran
+    - se obligasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera obligado
+    - me hubiese obligado
+  tu:
+    - te hubieras obligado
+    - te hubieses obligado
+  vos:
+    - te hubieras obligado
+    - te hubieses obligado
+  ud:
+    - se hubiera obligado
+    - se hubiese obligado
+  nosotros:
+    - nos hubiéramos obligado
+    - nos hubiésemos obligado
+  vosotros:
+    - os hubierais obligado
+    - os hubieseis obligado
+  uds:
+    - se hubieran obligado
+    - se hubiesen obligado
+
+imperativo:
+  tu: oblígame
+  vos: obligate
+  ud: óbliguese
+  nosotros: obliguémonos
+  vosotros: obligaos
+  uds: óbligense

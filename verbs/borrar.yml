@@ -1,0 +1,142 @@
+infinitivo: borrar
+gerundio: borrando
+participio-pasado: borrado
+presente-indicativo:
+  yo: borro
+  tu: borras
+  vos: borras
+  ud: borra
+  nosotros: borramos
+  vosotros: borráis
+  uds: borran
+preterito-perfecto-simple:
+  yo: borré
+  tu: borraste
+  vos: borraste
+  ud: borró
+  nosotros: borramos
+  vosotros: borrasteis
+  uds: borraron
+preterito-imperfecto:
+  yo: borraba
+  tu: borrabas
+  vos: borrabas
+  ud: borraba
+  nosotros: borrábamos
+  vosotros: borrabais
+  uds: borraban
+futuro-simple:
+  yo: borraré
+  tu: borrarás
+  vos: borrarás
+  ud: borrará
+  nosotros: borraremos
+  vosotros: borraréis
+  uds: borrarán
+condicional-simple:
+  yo: borraría
+  tu: borrarías
+  vos: borrarías
+  ud: borraría
+  nosotros: borraríamos
+  vosotros: borraríais
+  uds: borrarían
+presente-perfecto:
+  yo: he borrado
+  tu: has borrado
+  vos: has borrado
+  ud: ha borrado
+  nosotros: hemos borrado
+  vosotros: habéis borrado
+  uds: han borrado
+preterito-pluscuamperfecto:
+  yo: había borrado
+  tu: habías borrado
+  vos: habías borrado
+  ud: había borrado
+  nosotros: habíamos borrado
+  vosotros: habíais borrado
+  uds: habían borrado
+futuro-perfecto:
+  yo: habré borrado
+  tu: habrás borrado
+  vos: habrás borrado
+  ud: habrá borrado
+  nosotros: habremos borrado
+  vosotros: habréis borrado
+  uds: habrán borrado
+condicional-perfecto:
+  yo: habría borrado
+  tu: habrías borrado
+  vos: habrías borrado
+  ud: habría borrado
+  nosotros: habríamos borrado
+  vosotros: habríais borrado
+  uds: habrían borrado
+presente-subjuntivo:
+  yo: borre
+  tu: borres
+  vos: borres
+  ud: borre
+  nosotros: borremos
+  vosotros: borréis
+  uds: borren
+preterito-perfecto-subjuntivo:
+  yo: haya borrado
+  tu: hayas borrado
+  vos: hayas borrado
+  ud: haya borrado
+  nosotros: hayamos borrado
+  vosotros: hayáis borrado
+  uds: hayan borrado
+imperfecto-subjuntivo:
+  yo:
+    - borrara
+    - borrase
+  tu:
+    - borraras
+    - borrases
+  vos:
+    - borraras
+    - borrases
+  ud:
+    - borrara
+    - borrase
+  nosotros:
+    - borráramos
+    - borrásemos
+  vosotros:
+    - borrarais
+    - borraseis
+  uds:
+    - borraran
+    - borrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera borrado
+    - hubiese borrado
+  tu:
+    - hubieras borrado
+    - hubieses borrado
+  vos:
+    - hubieras borrado
+    - hubieses borrado
+  ud:
+    - hubiera borrado
+    - hubiese borrado
+  nosotros:
+    - hubiéramos borrado
+    - hubiésemos borrado
+  vosotros:
+    - hubierais borrado
+    - hubieseis borrado
+  uds:
+    - hubieran borrado
+    - hubiesen borrado
+imperativo:
+  tu: borra
+  vos: borrá
+  ud: borre
+  nosotros: borremos
+  vosotros: borrad
+  uds: borren

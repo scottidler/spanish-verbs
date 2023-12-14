@@ -1,0 +1,142 @@
+infinitivo: disminuir
+gerundio: disminuyendo
+participio-pasado: disminuido
+presente-indicativo:
+  yo: disminuyo
+  tu: disminuyes
+  vos: disminuís
+  ud: disminuye
+  nosotros: disminuimos
+  vosotros: disminuís
+  uds: disminuyen
+preterito-perfecto-simple:
+  yo: disminuí
+  tu: disminuiste
+  vos: disminuiste
+  ud: disminuyó
+  nosotros: disminuimos
+  vosotros: disminuisteis
+  uds: disminuyeron
+preterito-imperfecto:
+  yo: disminuía
+  tu: disminuías
+  vos: disminuías
+  ud: disminuía
+  nosotros: disminuíamos
+  vosotros: disminuíais
+  uds: disminuían
+futuro-simple:
+  yo: disminuiré
+  tu: disminuirás
+  vos: disminuirás
+  ud: disminuirá
+  nosotros: disminuiremos
+  vosotros: disminuiréis
+  uds: disminuirán
+condicional-simple:
+  yo: disminuiría
+  tu: disminuirías
+  vos: disminuirías
+  ud: disminuiría
+  nosotros: disminuiríamos
+  vosotros: disminuiríais
+  uds: disminuirían
+presente-perfecto:
+  yo: he disminuido
+  tu: has disminuido
+  vos: has disminuido
+  ud: ha disminuido
+  nosotros: hemos disminuido
+  vosotros: habéis disminuido
+  uds: han disminuido
+preterito-pluscuamperfecto:
+  yo: había disminuido
+  tu: habías disminuido
+  vos: habías disminuido
+  ud: había disminuido
+  nosotros: habíamos disminuido
+  vosotros: habíais disminuido
+  uds: habían disminuido
+futuro-perfecto:
+  yo: habré disminuido
+  tu: habrás disminuido
+  vos: habrás disminuido
+  ud: habrá disminuido
+  nosotros: habremos disminuido
+  vosotros: habréis disminuido
+  uds: habrán disminuido
+condicional-perfecto:
+  yo: habría disminuido
+  tu: habrías disminuido
+  vos: habrías disminuido
+  ud: habría disminuido
+  nosotros: habríamos disminuido
+  vosotros: habríais disminuido
+  uds: habrían disminuido
+presente-subjuntivo:
+  yo: disminuya
+  tu: disminuyas
+  vos: disminuyas
+  ud: disminuya
+  nosotros: disminuyamos
+  vosotros: disminuyáis
+  uds: disminuyan
+preterito-perfecto-subjuntivo:
+  yo: haya disminuido
+  tu: hayas disminuido
+  vos: hayas disminuido
+  ud: haya disminuido
+  nosotros: hayamos disminuido
+  vosotros: hayáis disminuido
+  uds: hayan disminuido
+imperfecto-subjuntivo:
+  yo:
+    - disminuyera
+    - disminuyese
+  tu:
+    - disminuyeras
+    - disminuyeses
+  vos:
+    - disminuyeras
+    - disminuyeses
+  ud:
+    - disminuyera
+    - disminuyese
+  nosotros:
+    - disminuyéramos
+    - disminuyésemos
+  vosotros:
+    - disminuyerais
+    - disminuyeseis
+  uds:
+    - disminuyeran
+    - disminuyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera disminuido
+    - hubiese disminuido
+  tu:
+    - hubieras disminuido
+    - hubieses disminuido
+  vos:
+    - hubieras disminuido
+    - hubieses disminuido
+  ud:
+    - hubiera disminuido
+    - hubiese disminuido
+  nosotros:
+    - hubiéramos disminuido
+    - hubiésemos disminuido
+  vosotros:
+    - hubierais disminuido
+    - hubieseis disminuido
+  uds:
+    - hubieran disminuido
+    - hubiesen disminuido
+imperativo:
+  tu: disminuye
+  vos: disminuí
+  ud: disminuya
+  nosotros: disminuyamos
+  vosotros: disminuid
+  uds: disminuyan

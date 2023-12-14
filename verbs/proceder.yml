@@ -1,0 +1,142 @@
+infinitivo: proceder
+gerundio: procediendo
+participio-pasado: procedido
+presente-indicativo:
+  yo: procedo
+  tu: procedes
+  vos: procedes
+  ud: procede
+  nosotros: procedemos
+  vosotros: procedéis
+  uds: proceden
+preterito-perfecto-simple:
+  yo: procedí
+  tu: procediste
+  vos: procediste
+  ud: procedió
+  nosotros: procedimos
+  vosotros: procedisteis
+  uds: procedieron
+preterito-imperfecto:
+  yo: procedía
+  tu: procedías
+  vos: procedías
+  ud: procedía
+  nosotros: procedíamos
+  vosotros: procedíais
+  uds: procedían
+futuro-simple:
+  yo: procederé
+  tu: procederás
+  vos: procederás
+  ud: procederá
+  nosotros: procederemos
+  vosotros: procederéis
+  uds: procederán
+condicional-simple:
+  yo: procedería
+  tu: procederías
+  vos: procederías
+  ud: procedería
+  nosotros: procederíamos
+  vosotros: procederíais
+  uds: procederían
+presente-perfecto:
+  yo: he procedido
+  tu: has procedido
+  vos: has procedido
+  ud: ha procedido
+  nosotros: hemos procedido
+  vosotros: habéis procedido
+  uds: han procedido
+preterito-pluscuamperfecto:
+  yo: había procedido
+  tu: habías procedido
+  vos: habías procedido
+  ud: había procedido
+  nosotros: habíamos procedido
+  vosotros: habíais procedido
+  uds: habían procedido
+futuro-perfecto:
+  yo: habré procedido
+  tu: habrás procedido
+  vos: habrás procedido
+  ud: habrá procedido
+  nosotros: habremos procedido
+  vosotros: habréis procedido
+  uds: habrán procedido
+condicional-perfecto:
+  yo: habría procedido
+  tu: habrías procedido
+  vos: habrías procedido
+  ud: habría procedido
+  nosotros: habríamos procedido
+  vosotros: habríais procedido
+  uds: habrían procedido
+presente-subjuntivo:
+  yo: proceda
+  tu: procedas
+  vos: procedas
+  ud: proceda
+  nosotros: procedamos
+  vosotros: procedáis
+  uds: procedan
+preterito-perfecto-subjuntivo:
+  yo: haya procedido
+  tu: hayas procedido
+  vos: hayas procedido
+  ud: haya procedido
+  nosotros: hayamos procedido
+  vosotros: hayáis procedido
+  uds: hayan procedido
+imperfecto-subjuntivo:
+  yo:
+    - procediera
+    - procediese
+  tu:
+    - procedieras
+    - procedieses
+  vos:
+    - procedieras
+    - procedieses
+  ud:
+    - procediera
+    - procediese
+  nosotros:
+    - procediéramos
+    - procediésemos
+  vosotros:
+    - procedierais
+    - procedieseis
+  uds:
+    - procedieran
+    - procediesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera procedido
+    - hubiese procedido
+  tu:
+    - hubieras procedido
+    - hubieses procedido
+  vos:
+    - hubieras procedido
+    - hubieses procedido
+  ud:
+    - hubiera procedido
+    - hubiese procedido
+  nosotros:
+    - hubiéramos procedido
+    - hubiésemos procedido
+  vosotros:
+    - hubierais procedido
+    - hubieseis procedido
+  uds:
+    - hubieran procedido
+    - hubiesen procedido
+imperativo:
+  tu: procede
+  vos: procedé
+  ud: proceda
+  nosotros: procedamos
+  vosotros: proceded
+  uds: procedan

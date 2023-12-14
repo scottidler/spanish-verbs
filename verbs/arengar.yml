@@ -1,0 +1,142 @@
+infinitivo: arengar
+gerundio: arengando
+participio-pasado: arengado
+presente-indicativo:
+  yo: arengo
+  tu: arengas
+  vos: arengas
+  ud: arenga
+  nosotros: arengamos
+  vosotros: arengáis
+  uds: arengan
+preterito-perfecto-simple:
+  yo: arengué
+  tu: arengaste
+  vos: arengaste
+  ud: arengó
+  nosotros: arengamos
+  vosotros: arengasteis
+  uds: arengaron
+preterito-imperfecto:
+  yo: arengaba
+  tu: arengabas
+  vos: arengabas
+  ud: arengaba
+  nosotros: arengábamos
+  vosotros: arengabais
+  uds: arengaban
+futuro-simple:
+  yo: arengaré
+  tu: arengarás
+  vos: arengarás
+  ud: arengará
+  nosotros: arengaremos
+  vosotros: arengaréis
+  uds: arengarán
+condicional-simple:
+  yo: arengaría
+  tu: arengarías
+  vos: arengarías
+  ud: arengaría
+  nosotros: arengaríamos
+  vosotros: arengaríais
+  uds: arengarían
+presente-perfecto:
+  yo: he arengado
+  tu: has arengado
+  vos: has arengado
+  ud: ha arengado
+  nosotros: hemos arengado
+  vosotros: habéis arengado
+  uds: han arengado
+preterito-pluscuamperfecto:
+  yo: había arengado
+  tu: habías arengado
+  vos: habías arengado
+  ud: había arengado
+  nosotros: habíamos arengado
+  vosotros: habíais arengado
+  uds: habían arengado
+futuro-perfecto:
+  yo: habré arengado
+  tu: habrás arengado
+  vos: habrás arengado
+  ud: habrá arengado
+  nosotros: habremos arengado
+  vosotros: habréis arengado
+  uds: habrán arengado
+condicional-perfecto:
+  yo: habría arengado
+  tu: habrías arengado
+  vos: habrías arengado
+  ud: habría arengado
+  nosotros: habríamos arengado
+  vosotros: habríais arengado
+  uds: habrían arengado
+presente-subjuntivo:
+  yo: arengue
+  tu: arengues
+  vos: arengues
+  ud: arengue
+  nosotros: arenguemos
+  vosotros: arenguéis
+  uds: arenguen
+preterito-perfecto-subjuntivo:
+  yo: haya arengado
+  tu: hayas arengado
+  vos: hayas arengado
+  ud: haya arengado
+  nosotros: hayamos arengado
+  vosotros: hayáis arengado
+  uds: hayan arengado
+imperfecto-subjuntivo:
+  yo:
+    - arengara
+    - arengase
+  tu:
+    - arengaras
+    - arengases
+  vos:
+    - arengaras
+    - arengases
+  ud:
+    - arengara
+    - arengase
+  nosotros:
+    - arengáramos
+    - arengásemos
+  vosotros:
+    - arengarais
+    - arengaseis
+  uds:
+    - arengaran
+    - arengasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arengado
+    - hubiese arengado
+  tu:
+    - hubieras arengado
+    - hubieses arengado
+  vos:
+    - hubieras arengado
+    - hubieses arengado
+  ud:
+    - hubiera arengado
+    - hubiese arengado
+  nosotros:
+    - hubiéramos arengado
+    - hubiésemos arengado
+  vosotros:
+    - hubierais arengado
+    - hubieseis arengado
+  uds:
+    - hubieran arengado
+    - hubiesen arengado
+imperativo:
+  tu: arenga
+  vos: arengá
+  ud: arengue
+  nosotros: arenguemos
+  vosotros: arengad
+  uds: arenguen

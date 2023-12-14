@@ -1,0 +1,142 @@
+infinitivo: arrebatar
+gerundio: arrebatando
+participio-pasado: arrebatado
+presente-indicativo:
+  yo: arrebato
+  tu: arrebatas
+  vos: arrebatas
+  ud: arrebata
+  nosotros: arrebatamos
+  vosotros: arrebatáis
+  uds: arrebatan
+preterito-perfecto-simple:
+  yo: arrebaté
+  tu: arrebataste
+  vos: arrebataste
+  ud: arrebató
+  nosotros: arrebatamos
+  vosotros: arrebatasteis
+  uds: arrebataron
+preterito-imperfecto:
+  yo: arrebataba
+  tu: arrebatabas
+  vos: arrebatabas
+  ud: arrebataba
+  nosotros: arrebatabamos
+  vosotros: arrebatabais
+  uds: arrebataban
+futuro-simple:
+  yo: arrebataré
+  tu: arrebatarás
+  vos: arrebatarás
+  ud: arrebatará
+  nosotros: arrebataremos
+  vosotros: arrebataréis
+  uds: arrebatarán
+condicional-simple:
+  yo: arrebataría
+  tu: arrebatarías
+  vos: arrebatarías
+  ud: arrebataría
+  nosotros: arrebataríamos
+  vosotros: arrebataríais
+  uds: arrebatarían
+presente-perfecto:
+  yo: he arrebatado
+  tu: has arrebatado
+  vos: has arrebatado
+  ud: ha arrebatado
+  nosotros: hemos arrebatado
+  vosotros: habéis arrebatado
+  uds: han arrebatado
+preterito-pluscuamperfecto:
+  yo: había arrebatado
+  tu: habías arrebatado
+  vos: habías arrebatado
+  ud: había arrebatado
+  nosotros: habíamos arrebatado
+  vosotros: habíais arrebatado
+  uds: habían arrebatado
+futuro-perfecto:
+  yo: habré arrebatado
+  tu: habrás arrebatado
+  vos: habrás arrebatado
+  ud: habrá arrebatado
+  nosotros: habremos arrebatado
+  vosotros: habréis arrebatado
+  uds: habrán arrebatado
+condicional-perfecto:
+  yo: habría arrebatado
+  tu: habrías arrebatado
+  vos: habrías arrebatado
+  ud: habría arrebatado
+  nosotros: habríamos arrebatado
+  vosotros: habríais arrebatado
+  uds: habrían arrebatado
+presente-subjuntivo:
+  yo: arrebate
+  tu: arrebates
+  vos: arrebates
+  ud: arrebate
+  nosotros: arrebatemos
+  vosotros: arrebateis
+  uds: arrebaten
+preterito-perfecto-subjuntivo:
+  yo: haya arrebatado
+  tu: hayas arrebatado
+  vos: hayas arrebatado
+  ud: haya arrebatado
+  nosotros: hayamos arrebatado
+  vosotros: hayáis arrebatado
+  uds: hayan arrebatado
+imperfecto-subjuntivo:
+  yo:
+    - arrebatara
+    - arrebatase
+  tu:
+    - arrebataras
+    - arrebatases
+  vos:
+    - arrebatara
+    - arrebatase
+  ud:
+    - arrebatara
+    - arrebatase
+  nosotros:
+    - arrebatáramos
+    - arrebatásemos
+  vosotros:
+    - arrebatarais
+    - arrebataseis
+  uds:
+    - arrebataran
+    - arrebatasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arrebatado
+    - hubiese arrebatado
+  tu:
+    - hubieras arrebatado
+    - hubieses arrebatado
+  vos:
+    - hubieras arrebatado
+    - hubieses arrebatado
+  ud:
+    - hubiera arrebatado
+    - hubiese arrebatado
+  nosotros:
+    - hubiéramos arrebatado
+    - hubiésemos arrebatado
+  vosotros:
+    - hubierais arrebatado
+    - hubieseis arrebatado
+  uds:
+    - hubieran arrebatado
+    - hubiesen arrebatado
+imperativo:
+  tu: arrebata
+  vos: arrebata
+  ud: arrebate
+  nosotros: arrebatemos
+  vosotros: arrebataos
+  uds: arrebaten

@@ -1,0 +1,142 @@
+infinitivo: encantar
+gerundio: encantando
+participio-pasado: encantado
+presente-indicativo:
+  yo: encanto
+  tu: encantas
+  vos: encantas
+  ud: encanta
+  nosotros: encantamos
+  vosotros: encantáis
+  uds: encantan
+preterito-perfecto-simple:
+  yo: encanté
+  tu: encantaste
+  vos: encantaste
+  ud: encantó
+  nosotros: encantamos
+  vosotros: encantasteis
+  uds: encantaron
+preterito-imperfecto:
+  yo: encantaba
+  tu: encantabas
+  vos: encantabas
+  ud: encantaba
+  nosotros: encantábamos
+  vosotros: encantabais
+  uds: encantaban
+futuro-simple:
+  yo: encantaré
+  tu: encantarás
+  vos: encantarás
+  ud: encantará
+  nosotros: encantaremos
+  vosotros: encantaréis
+  uds: encantarán
+condicional-simple:
+  yo: encantaría
+  tu: encantarías
+  vos: encantarías
+  ud: encantaría
+  nosotros: encantaríamos
+  vosotros: encantaríais
+  uds: encantarían
+presente-perfecto:
+  yo: he encantado
+  tu: has encantado
+  vos: has encantado
+  ud: ha encantado
+  nosotros: hemos encantado
+  vosotros: habéis encantado
+  uds: han encantado
+preterito-pluscuamperfecto:
+  yo: había encantado
+  tu: habías encantado
+  vos: habías encantado
+  ud: había encantado
+  nosotros: habíamos encantado
+  vosotros: habíais encantado
+  uds: habían encantado
+futuro-perfecto:
+  yo: habré encantado
+  tu: habrás encantado
+  vos: habrás encantado
+  ud: habrá encantado
+  nosotros: habremos encantado
+  vosotros: habréis encantado
+  uds: habrán encantado
+condicional-perfecto:
+  yo: habría encantado
+  tu: habrías encantado
+  vos: habrías encantado
+  ud: habría encantado
+  nosotros: habríamos encantado
+  vosotros: habríais encantado
+  uds: habrían encantado
+presente-subjuntivo:
+  yo: encante
+  tu: encantes
+  vos: encantes
+  ud: encante
+  nosotros: encantemos
+  vosotros: encantéis
+  uds: encanten
+preterito-perfecto-subjuntivo:
+  yo: haya encantado
+  tu: hayas encantado
+  vos: hayas encantado
+  ud: haya encantado
+  nosotros: hayamos encantado
+  vosotros: hayáis encantado
+  uds: hayan encantado
+imperfecto-subjuntivo:
+  yo:
+    - encantara
+    - encantase
+  tu:
+    - encantaras
+    - encantases
+  vos:
+    - encantaras
+    - encantases
+  ud:
+    - encantara
+    - encantase
+  nosotros:
+    - encantáramos
+    - encantásemos
+  vosotros:
+    - encantarais
+    - encantaseis
+  uds:
+    - encantaran
+    - encantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encantado
+    - hubiese encantado
+  tu:
+    - hubieras encantado
+    - hubieses encantado
+  vos:
+    - hubieras encantado
+    - hubieses encantado
+  ud:
+    - hubiera encantado
+    - hubiese encantado
+  nosotros:
+    - hubiéramos encantado
+    - hubiésemos encantado
+  vosotros:
+    - hubierais encantado
+    - hubieseis encantado
+  uds:
+    - hubieran encantado
+    - hubiesen encantado
+imperativo:
+  tu: encanta
+  vos: encantá
+  ud: encante
+  nosotros: encantemos
+  vosotros: encantad
+  uds: encanten

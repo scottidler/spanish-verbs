@@ -1,0 +1,142 @@
+infinitivo: arrestar
+gerundio: arrestando
+participio-pasado: arrestado
+presente-indicativo:
+  yo: arresto
+  tu: arrestas
+  vos: arrestás
+  ud: arresta
+  nosotros: arrestamos
+  vosotros: arrestáis
+  uds: arrestan
+preterito-perfecto-simple:
+  yo: arresté
+  tu: arrestaste
+  vos: arrestaste
+  ud: arrestó
+  nosotros: arrestamos
+  vosotros: arrestasteis
+  uds: arrestaron
+preterito-imperfecto:
+  yo: arrestaba
+  tu: arrestabas
+  vos: arrestabas
+  ud: arrestaba
+  nosotros: arrestábamos
+  vosotros: arrestabais
+  uds: arrestaban
+futuro-simple:
+  yo: arrestaré
+  tu: arrestarás
+  vos: arrestarás
+  ud: arrestará
+  nosotros: arrestaremos
+  vosotros: arrestaréis
+  uds: arrestarán
+condicional-simple:
+  yo: arrestaría
+  tu: arrestarías
+  vos: arrestarías
+  ud: arrestaría
+  nosotros: arrestaríamos
+  vosotros: arrestaríais
+  uds: arrestarían
+presente-perfecto:
+  yo: he arrestado
+  tu: has arrestado
+  vos: has arrestado
+  ud: ha arrestado
+  nosotros: hemos arrestado
+  vosotros: habéis arrestado
+  uds: han arrestado
+preterito-pluscuamperfecto:
+  yo: había arrestado
+  tu: habías arrestado
+  vos: habías arrestado
+  ud: había arrestado
+  nosotros: habíamos arrestado
+  vosotros: habíais arrestado
+  uds: habían arrestado
+futuro-perfecto:
+  yo: habré arrestado
+  tu: habrás arrestado
+  vos: habrás arrestado
+  ud: habrá arrestado
+  nosotros: habremos arrestado
+  vosotros: habréis arrestado
+  uds: habrán arrestado
+condicional-perfecto:
+  yo: habría arrestado
+  tu: habrías arrestado
+  vos: habrías arrestado
+  ud: habría arrestado
+  nosotros: habríamos arrestado
+  vosotros: habríais arrestado
+  uds: habrían arrestado
+presente-subjuntivo:
+  yo: arreste
+  tu: arrestes
+  vos: arrestes
+  ud: arreste
+  nosotros: arrestemos
+  vosotros: arrestéis
+  uds: arresten
+preterito-perfecto-subjuntivo:
+  yo: haya arrestado
+  tu: hayas arrestado
+  vos: hayas arrestado
+  ud: haya arrestado
+  nosotros: hayamos arrestado
+  vosotros: hayáis arrestado
+  uds: hayan arrestado
+imperfecto-subjuntivo:
+  yo:
+    - arrestara
+    - arrestase
+  tu:
+    - arrestaras
+    - arrestases
+  vos:
+    - arrestaras
+    - arrestases
+  ud:
+    - arrestara
+    - arrestase
+  nosotros:
+    - arrestáramos
+    - arrestásemos
+  vosotros:
+    - arrestarais
+    - arrestaseis
+  uds:
+    - arrestaran
+    - arrestasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arrestado
+    - hubiese arrestado
+  tu:
+    - hubieras arrestado
+    - hubieses arrestado
+  vos:
+    - hubieras arrestado
+    - hubieses arrestado
+  ud:
+    - hubiera arrestado
+    - hubiese arrestado
+  nosotros:
+    - hubiéramos arrestado
+    - hubiésemos arrestado
+  vosotros:
+    - hubierais arrestado
+    - hubieseis arrestado
+  uds:
+    - hubieran arrestado
+    - hubiesen arrestado
+imperativo:
+  tu: arresta
+  vos: arrestá
+  ud: arreste
+  nosotros: arrestemos
+  vosotros: arrestad
+  uds: arresten

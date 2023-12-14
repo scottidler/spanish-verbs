@@ -1,0 +1,142 @@
+infinitivo: entonar
+gerundio: entonando
+participio-pasado: entonado
+presente-indicativo:
+  yo: entono
+  tu: entonas
+  vos: entonas
+  ud: entona
+  nosotros: entonamos
+  vosotros: entonáis
+  uds: entonan
+preterito-perfecto-simple:
+  yo: entoné
+  tu: entonaste
+  vos: entonaste
+  ud: entonó
+  nosotros: entonamos
+  vosotros: entonasteis
+  uds: entonaron
+preterito-imperfecto:
+  yo: entonaba
+  tu: entonabas
+  vos: entonabas
+  ud: entonaba
+  nosotros: entonábamos
+  vosotros: entonabais
+  uds: entonaban
+futuro-simple:
+  yo: entonaré
+  tu: entonarás
+  vos: entonarás
+  ud: entonará
+  nosotros: entonaremos
+  vosotros: entonaréis
+  uds: entonarán
+condicional-simple:
+  yo: entonaría
+  tu: entonarías
+  vos: entonarías
+  ud: entonaría
+  nosotros: entonaríamos
+  vosotros: entonaríais
+  uds: entonarían
+presente-perfecto:
+  yo: he entonado
+  tu: has entonado
+  vos: has entonado
+  ud: ha entonado
+  nosotros: hemos entonado
+  vosotros: habéis entonado
+  uds: han entonado
+preterito-pluscuamperfecto:
+  yo: había entonado
+  tu: habías entonado
+  vos: habías entonado
+  ud: había entonado
+  nosotros: habíamos entonado
+  vosotros: habíais entonado
+  uds: habían entonado
+futuro-perfecto:
+  yo: habré entonado
+  tu: habrás entonado
+  vos: habrás entonado
+  ud: habrá entonado
+  nosotros: habremos entonado
+  vosotros: habréis entonado
+  uds: habrán entonado
+condicional-perfecto:
+  yo: habría entonado
+  tu: habrías entonado
+  vos: habrías entonado
+  ud: habría entonado
+  nosotros: habríamos entonado
+  vosotros: habríais entonado
+  uds: habrían entonado
+presente-subjuntivo:
+  yo: entone
+  tu: entones
+  vos: entones
+  ud: entone
+  nosotros: entonemos
+  vosotros: entonéis
+  uds: entonen
+preterito-perfecto-subjuntivo:
+  yo: haya entonado
+  tu: hayas entonado
+  vos: hayas entonado
+  ud: haya entonado
+  nosotros: hayamos entonado
+  vosotros: hayáis entonado
+  uds: hayan entonado
+imperfecto-subjuntivo:
+  yo:
+    - entonara
+    - entonase
+  tu:
+    - entonaras
+    - entonases
+  vos:
+    - entonaras
+    - entonases
+  ud:
+    - entonara
+    - entonase
+  nosotros:
+    - entonáramos
+    - entonásemos
+  vosotros:
+    - entonarais
+    - entonaseis
+  uds:
+    - entonaran
+    - entonasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera entonado
+    - hubiese entonado
+  tu:
+    - hubieras entonado
+    - hubieses entonado
+  vos:
+    - hubieras entonado
+    - hubieses entonado
+  ud:
+    - hubiera entonado
+    - hubiese entonado
+  nosotros:
+    - hubiéramos entonado
+    - hubiésemos entonado
+  vosotros:
+    - hubierais entonado
+    - hubieseis entonado
+  uds:
+    - hubieran entonado
+    - hubiesen entonado
+imperativo:
+  tu: entona
+  vos: entoná
+  ud: entone
+  nosotros: entonemos
+  vosotros: entonad
+  uds: entonen

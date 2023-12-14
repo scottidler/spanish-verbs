@@ -1,0 +1,142 @@
+infinitivo: apostar
+gerundio: apostando
+participio-pasado: apostado
+presente-indicativo:
+  yo: apuesto
+  tu: apuestas
+  vos: apuestas
+  ud: apuesta
+  nosotros: apostamos
+  vosotros: apostáis
+  uds: apuestan
+preterito-perfecto-simple:
+  yo: aposté
+  tu: apostaste
+  vos: apostaste
+  ud: apostó
+  nosotros: apostamos
+  vosotros: apostasteis
+  uds: apostaron
+preterito-imperfecto:
+  yo: apostaba
+  tu: apostabas
+  vos: apostabas
+  ud: apostaba
+  nosotros: apostábamos
+  vosotros: apostabais
+  uds: apostaban
+futuro-simple:
+  yo: apostaré
+  tu: apostarás
+  vos: apostarás
+  ud: apostará
+  nosotros: apostaremos
+  vosotros: apostaréis
+  uds: apostarán
+condicional-simple:
+  yo: apostaría
+  tu: apostarías
+  vos: apostarías
+  ud: apostaría
+  nosotros: apostaríamos
+  vosotros: apostaríais
+  uds: apostarían
+presente-perfecto:
+  yo: he apostado
+  tu: has apostado
+  vos: has apostado
+  ud: ha apostado
+  nosotros: hemos apostado
+  vosotros: habéis apostado
+  uds: han apostado
+preterito-pluscuamperfecto:
+  yo: había apostado
+  tu: habías apostado
+  vos: habías apostado
+  ud: había apostado
+  nosotros: habíamos apostado
+  vosotros: habíais apostado
+  uds: habían apostado
+futuro-perfecto:
+  yo: habré apostado
+  tu: habrás apostado
+  vos: habrás apostado
+  ud: habrá apostado
+  nosotros: habremos apostado
+  vosotros: habréis apostado
+  uds: habrán apostado
+condicional-perfecto:
+  yo: habría apostado
+  tu: habrías apostado
+  vos: habrías apostado
+  ud: habría apostado
+  nosotros: habríamos apostado
+  vosotros: habríais apostado
+  uds: habrían apostado
+presente-subjuntivo:
+  yo: apueste
+  tu: apuestes
+  vos: apuestes
+  ud: apueste
+  nosotros: apostemos
+  vosotros: apostéis
+  uds: apuesten
+preterito-perfecto-subjuntivo:
+  yo: haya apostado
+  tu: hayas apostado
+  vos: hayas apostado
+  ud: haya apostado
+  nosotros: hayamos apostado
+  vosotros: hayáis apostado
+  uds: hayan apostado
+imperfecto-subjuntivo:
+  yo:
+    - apostara
+    - apostase
+  tu:
+    - apostaras
+    - apostases
+  vos:
+    - apostaras
+    - apostases
+  ud:
+    - apostara
+    - apostase
+  nosotros:
+    - apostáramos
+    - apostásemos
+  vosotros:
+    - apostarais
+    - apostaseis
+  uds:
+    - apostaran
+    - apostasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apostado
+    - hubiese apostado
+  tu:
+    - hubieras apostado
+    - hubieses apostado
+  vos:
+    - hubieras apostado
+    - hubieses apostado
+  ud:
+    - hubiera apostado
+    - hubiese apostado
+  nosotros:
+    - hubiéramos apostado
+    - hubiésemos apostado
+  vosotros:
+    - hubierais apostado
+    - hubieseis apostado
+  uds:
+    - hubieran apostado
+    - hubiesen apostado
+imperativo:
+  tu: apuesta
+  vos: apostá
+  ud: apueste
+  nosotros: apostemos
+  vosotros: apostad
+  uds: apuesten

@@ -1,0 +1,142 @@
+infinitivo: reaparecer
+gerundio: reapareciendo
+participio-pasado: reaparecido
+presente-indicativo:
+  yo: reaparezco
+  tu: reapareces
+  vos: reapareces
+  ud: reaparece
+  nosotros: reaparecemos
+  vosotros: reaparecéis
+  uds: reaparecen
+preterito-perfecto-simple:
+  yo: reaparecí
+  tu: reapareciste
+  vos: reapareciste
+  ud: reapareció
+  nosotros: reaparecimos
+  vosotros: reaparecisteis
+  uds: reaparecieron
+preterito-imperfecto:
+  yo: reaparecía
+  tu: reaparecías
+  vos: reaparecías
+  ud: reaparecía
+  nosotros: reaparecíamos
+  vosotros: reaparecíais
+  uds: reaparecían
+futuro-simple:
+  yo: reapareceré
+  tu: reaparecerás
+  vos: reaparecerás
+  ud: reaparecerá
+  nosotros: reapareceremos
+  vosotros: reapareceréis
+  uds: reaparecerán
+condicional-simple:
+  yo: reaparecería
+  tu: reaparecerías
+  vos: reaparecerías
+  ud: reaparecería
+  nosotros: reapareceríamos
+  vosotros: reapareceríais
+  uds: reaparecerían
+presente-perfecto:
+  yo: he reaparecido
+  tu: has reaparecido
+  vos: has reaparecido
+  ud: ha reaparecido
+  nosotros: hemos reaparecido
+  vosotros: habéis reaparecido
+  uds: han reaparecido
+preterito-pluscuamperfecto:
+  yo: había reaparecido
+  tu: habías reaparecido
+  vos: habías reaparecido
+  ud: había reaparecido
+  nosotros: habíamos reaparecido
+  vosotros: habíais reaparecido
+  uds: habían reaparecido
+futuro-perfecto:
+  yo: habré reaparecido
+  tu: habrás reaparecido
+  vos: habrás reaparecido
+  ud: habrá reaparecido
+  nosotros: habremos reaparecido
+  vosotros: habréis reaparecido
+  uds: habrán reaparecido
+condicional-perfecto:
+  yo: habría reaparecido
+  tu: habrías reaparecido
+  vos: habrías reaparecido
+  ud: habría reaparecido
+  nosotros: habríamos reaparecido
+  vosotros: habríais reaparecido
+  uds: habrían reaparecido
+presente-subjuntivo:
+  yo: reaparezca
+  tu: reaparezcas
+  vos: reaparezcas
+  ud: reaparezca
+  nosotros: reaparezcamos
+  vosotros: reaparezcáis
+  uds: reaparezcan
+preterito-perfecto-subjuntivo:
+  yo: haya reaparecido
+  tu: hayas reaparecido
+  vos: hayas reaparecido
+  ud: haya reaparecido
+  nosotros: hayamos reaparecido
+  vosotros: hayáis reaparecido
+  uds: hayan reaparecido
+imperfecto-subjuntivo:
+  yo:
+    - reapareciera
+    - reapareciese
+  tu:
+    - reaparecieras
+    - reaparecieses
+  vos:
+    - reaparecieras
+    - reaparecieses
+  ud:
+    - reapareciera
+    - reapareciese
+  nosotros:
+    - reapareciéramos
+    - reapareciésemos
+  vosotros:
+    - reaparecierais
+    - reaparecieseis
+  uds:
+    - reaparecieran
+    - reapareciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reaparecido
+    - hubiese reaparecido
+  tu:
+    - hubieras reaparecido
+    - hubieses reaparecido
+  vos:
+    - hubieras reaparecido
+    - hubieses reaparecido
+  ud:
+    - hubiera reaparecido
+    - hubiese reaparecido
+  nosotros:
+    - hubiéramos reaparecido
+    - hubiésemos reaparecido
+  vosotros:
+    - hubierais reaparecido
+    - hubieseis reaparecido
+  uds:
+    - hubieran reaparecido
+    - hubiesen reaparecido
+imperativo:
+  tu: reaparece
+  vos: reaparecé
+  ud: reaparezca
+  nosotros: reaparezcamos
+  vosotros: reapareced
+  uds: reaparezcan

@@ -1,0 +1,142 @@
+infinitivo: actuar
+gerundio: actuando
+participio-pasado: actuado
+presente-indicativo:
+  yo: actúo
+  tu: actúas
+  vos: actúas
+  ud: actúa
+  nosotros: actuamos
+  vosotros: actuáis
+  uds: actúan
+preterito-perfecto-simple:
+  yo: actué
+  tu: actuaste
+  vos: actuaste
+  ud: actuó
+  nosotros: actuamos
+  vosotros: actuasteis
+  uds: actuaron
+preterito-imperfecto:
+  yo: actuaba
+  tu: actuabas
+  vos: actuabas
+  ud: actuaba
+  nosotros: actuábamos
+  vosotros: actuabais
+  uds: actuaban
+futuro-simple:
+  yo: actuaré
+  tu: actuarás
+  vos: actuarás
+  ud: actuará
+  nosotros: actuaremos
+  vosotros: actuaréis
+  uds: actuarán
+condicional-simple:
+  yo: actuaría
+  tu: actuarías
+  vos: actuarías
+  ud: actuaría
+  nosotros: actuaríamos
+  vosotros: actuaríais
+  uds: actuarían
+presente-perfecto:
+  yo: he actuado
+  tu: has actuado
+  vos: has actuado
+  ud: ha actuado
+  nosotros: hemos actuado
+  vosotros: habéis actuado
+  uds: han actuado
+preterito-pluscuamperfecto:
+  yo: había actuado
+  tu: habías actuado
+  vos: habías actuado
+  ud: había actuado
+  nosotros: habíamos actuado
+  vosotros: habíais actuado
+  uds: habían actuado
+futuro-perfecto:
+  yo: habré actuado
+  tu: habrás actuado
+  vos: habrás actuado
+  ud: habrá actuado
+  nosotros: habremos actuado
+  vosotros: habréis actuado
+  uds: habrán actuado
+condicional-perfecto:
+  yo: habría actuado
+  tu: habrías actuado
+  vos: habrías actuado
+  ud: habría actuado
+  nosotros: habríamos actuado
+  vosotros: habríais actuado
+  uds: habrían actuado
+presente-subjuntivo:
+  yo: actúe
+  tu: actúes
+  vos: actúes
+  ud: actúe
+  nosotros: actuemos
+  vosotros: actuéis
+  uds: actúen
+preterito-perfecto-subjuntivo:
+  yo: haya actuado
+  tu: hayas actuado
+  vos: hayas actuado
+  ud: haya actuado
+  nosotros: hayamos actuado
+  vosotros: hayáis actuado
+  uds: hayan actuado
+imperfecto-subjuntivo:
+  yo:
+    - actuara
+    - actuase
+  tu:
+    - actuaras
+    - actuases
+  vos:
+    - actuaras
+    - actuases
+  ud:
+    - actuara
+    - actuase
+  nosotros:
+    - actuáramos
+    - actuásemos
+  vosotros:
+    - actuarais
+    - actuaseis
+  uds:
+    - actuaran
+    - actuaran
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera actuado
+    - hubiese actuado
+  tu:
+    - hubieras actuado
+    - hubieses actuado
+  vos:
+    - hubieras actuado
+    - hubieses actuado
+  ud:
+    - hubiera actuado
+    - hubiese actuado
+  nosotros:
+    - hubiéramos actuado
+    - hubiésemos actuado
+  vosotros:
+    - hubierais actuado
+    - hubieseis actuado
+  uds:
+    - hubieran actuado
+    - hubiesen actuado
+imperativo:
+  tu: actúa
+  vos: actúa
+  ud: actúe
+  nosotros: actuemos
+  vosotros: actuad
+  uds: actúen

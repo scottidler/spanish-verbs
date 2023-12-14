@@ -1,0 +1,142 @@
+infinitivo: espesar
+gerundio: espesando
+participio-pasado: espesado
+presente-indicativo:
+  yo: espeso
+  tu: espesas
+  vos: espesas
+  ud: espesa
+  nosotros: espesamos
+  vosotros: espesáis
+  uds: espesan
+preterito-perfecto-simple:
+  yo: espesé
+  tu: espesaste
+  vos: espesaste
+  ud: espesó
+  nosotros: espesamos
+  vosotros: espesasteis
+  uds: espesaron
+preterito-imperfecto:
+  yo: espesaba
+  tu: espesabas
+  vos: espesabas
+  ud: espesaba
+  nosotros: espesábamos
+  vosotros: espesabais
+  uds: espesaban
+futuro-simple:
+  yo: espesaré
+  tu: espesarás
+  vos: espesarás
+  ud: espesará
+  nosotros: espesaremos
+  vosotros: espesaréis
+  uds: espesarán
+condicional-simple:
+  yo: espesaría
+  tu: espesarías
+  vos: espesarías
+  ud: espesaría
+  nosotros: espesaríamos
+  vosotros: espesaríais
+  uds: espesarían
+presente-perfecto:
+  yo: he espesado
+  tu: has espesado
+  vos: has espesado
+  ud: ha espesado
+  nosotros: hemos espesado
+  vosotros: habéis espesado
+  uds: han espesado
+preterito-pluscuamperfecto:
+  yo: había espesado
+  tu: habías espesado
+  vos: habías espesado
+  ud: había espesado
+  nosotros: habíamos espesado
+  vosotros: habíais espesado
+  uds: habían espesado
+futuro-perfecto:
+  yo: habré espesado
+  tu: habrás espesado
+  vos: habrás espesado
+  ud: habrá espesado
+  nosotros: habremos espesado
+  vosotros: habréis espesado
+  uds: habrán espesado
+condicional-perfecto:
+  yo: habría espesado
+  tu: habrías espesado
+  vos: habrías espesado
+  ud: habría espesado
+  nosotros: habríamos espesado
+  vosotros: habríais espesado
+  uds: habrían espesado
+presente-subjuntivo:
+  yo: espese
+  tu: espeses
+  vos: espeses
+  ud: espese
+  nosotros: espesemos
+  vosotros: espeséis
+  uds: espesen
+preterito-perfecto-subjuntivo:
+  yo: haya espesado
+  tu: hayas espesado
+  vos: hayas espesado
+  ud: haya espesado
+  nosotros: hayamos espesado
+  vosotros: hayáis espesado
+  uds: hayan espesado
+imperfecto-subjuntivo:
+  yo:
+    - espesara
+    - espesase
+  tu:
+    - espesaras
+    - espesases
+  vos:
+    - espesaras
+    - espesases
+  ud:
+    - espesara
+    - espesase
+  nosotros:
+    - espesáramos
+    - espesásemos
+  vosotros:
+    - espesarais
+    - espesaseis
+  uds:
+    - espesaran
+    - espesasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera espesado
+    - hubiese espesado
+  tu:
+    - hubieras espesado
+    - hubieses espesado
+  vos:
+    - hubieras espesado
+    - hubieses espesado
+  ud:
+    - hubiera espesado
+    - hubiese espesado
+  nosotros:
+    - hubiéramos espesado
+    - hubiésemos espesado
+  vosotros:
+    - hubierais espesado
+    - hubieseis espesado
+  uds:
+    - hubieran espesado
+    - hubiesen espesado
+imperativo:
+  tu: espesa
+  vos: espesá
+  ud: espese
+  nosotros: espesemos
+  vosotros: espesad
+  uds: espesen

@@ -1,0 +1,142 @@
+infinitivo: espetar
+gerundio: espetando
+participio-pasado: espetado
+presente-indicativo:
+  yo: espeto
+  tu: espetas
+  vos: espetas
+  ud: espetas
+  nosotros: espetamos
+  vosotros: espetáis
+  uds: espetan
+preterito-perfecto-simple:
+  yo: espeté
+  tu: espetaste
+  vos: espetaste
+  ud: espetó
+  nosotros: espetamos
+  vosotros: espetasteis
+  uds: espetaron
+preterito-imperfecto:
+  yo: espetaba
+  tu: espetabas
+  vos: espetabas
+  ud: espetaba
+  nosotros: espetábamos
+  vosotros: espetabais
+  uds: espetaban
+futuro-simple:
+  yo: espetaré
+  tu: espetarás
+  vos: espetarás
+  ud: espetará
+  nosotros: espetaremos
+  vosotros: espetaréis
+  uds: espetarán
+condicional-simple:
+  yo: espetaría
+  tu: espetarías
+  vos: espetarías
+  ud: espetaría
+  nosotros: espetaríamos
+  vosotros: espetaríais
+  uds: espetarían
+presente-perfecto:
+  yo: he espetado
+  tu: has espetado
+  vos: has espetado
+  ud: ha espetado
+  nosotros: hemos espetado
+  vosotros: habéis espetado
+  uds: han espetado
+preterito-pluscuamperfecto:
+  yo: había espetado
+  tu: habías espetado
+  vos: habías espetado
+  ud: había espetado
+  nosotros: habíamos espetado
+  vosotros: habíais espetado
+  uds: habían espetado
+futuro-perfecto:
+  yo: habré espetado
+  tu: habrás espetado
+  vos: habrás espetado
+  ud: habrá espetado
+  nosotros: habremos espetado
+  vosotros: habréis espetado
+  uds: habrán espetado
+condicional-perfecto:
+  yo: habría espetado
+  tu: habrías espetado
+  vos: habrías espetado
+  ud: habría espetado
+  nosotros: habríamos espetado
+  vosotros: habríais espetado
+  uds: habrían espetado
+presente-subjuntivo:
+  yo: espete
+  tu: espetes
+  vos: espetes
+  ud: espete
+  nosotros: espetemos
+  vosotros: espetéis
+  uds: espeten
+preterito-perfecto-subjuntivo:
+  yo: haya espetado
+  tu: hayas espetado
+  vos: hayas espetado
+  ud: haya espetado
+  nosotros: hayamos espetado
+  vosotros: hayáis espetado
+  uds: hayan espetado
+imperfecto-subjuntivo:
+  yo:
+    - espetara
+    - espetase
+  tu:
+    - espetaras
+    - espetases
+  vos:
+    - espetaras
+    - espetases
+  ud:
+    - espetara
+    - espetase
+  nosotros:
+    - espetáramos
+    - espetásemos
+  vosotros:
+    - espetarais
+    - espetaseis
+  uds:
+    - espetaran
+    - espetasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera espetado
+    - hubiese espetado
+  tu:
+    - hubieras espetado
+    - hubieses espetado
+  vos:
+    - hubieras espetado
+    - hubieses espetado
+  ud:
+    - hubiera espetado
+    - hubiese espetado
+  nosotros:
+    - hubiéramos espetado
+    - hubiésemos espetado
+  vosotros:
+    - hubierais espetado
+    - hubieseis espetado
+  uds:
+    - hubieran espetado
+    - hubiesen espetado
+imperativo:
+  tu: espieta
+  vos: espietá
+  ud: espete
+  nosotros: espetemos
+  vosotros: espetad
+  uds: espeten

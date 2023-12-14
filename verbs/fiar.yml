@@ -1,0 +1,142 @@
+infinitivo: fiar
+gerundio: fiando
+participio-pasado: fiado
+presente-indicativo:
+  yo: fío
+  tu: fías
+  vos: fás
+  ud: fía
+  nosotros: fiamos
+  vosotros: fiáis
+  uds: fían
+preterito-perfecto-simple:
+  yo: fié
+  tu: fiaste
+  vos: fiaste
+  ud: fió
+  nosotros: fiamos
+  vosotros: fiasteis
+  uds: fiaron
+preterito-imperfecto:
+  yo: fiaba
+  tu: fiabas
+  vos: fiabas
+  ud: fiaba
+  nosotros: fiábamos
+  vosotros: fiabais
+  uds: fiaban
+futuro-simple:
+  yo: fiaré
+  tu: fiarás
+  vos: fiarás
+  ud: fiará
+  nosotros: fiaremos
+  vosotros: fiaréis
+  uds: fiarán
+condicional-simple:
+  yo: fiaría
+  tu: fiarías
+  vos: fiarías
+  ud: fiaría
+  nosotros: fiaríamos
+  vosotros: fiaríais
+  uds: fiarían
+presente-perfecto:
+  yo: he fiado
+  tu: has fiado
+  vos: has fiado
+  ud: ha fiado
+  nosotros: hemos fiado
+  vosotros: habéis fiado
+  uds: han fiado
+preterito-pluscuamperfecto:
+  yo: había fiado
+  tu: habías fiado
+  vos: habías fiado
+  ud: había fiado
+  nosotros: habíamos fiado
+  vosotros: habíais fiado
+  uds: habían fiado
+futuro-perfecto:
+  yo: habré fiado
+  tu: habrás fiado
+  vos: habrás fiado
+  ud: habrá fiado
+  nosotros: habremos fiado
+  vosotros: habréis fiado
+  uds: habrán fiado
+condicional-perfecto:
+  yo: habría fiado
+  tu: habrías fiado
+  vos: habrías fiado
+  ud: habría fiado
+  nosotros: habríamos fiado
+  vosotros: habríais fiado
+  uds: habrían fiado
+presente-subjuntivo:
+  yo: fíe
+  tu: fíes
+  vos: fíes
+  ud: fíe
+  nosotros: fiemos
+  vosotros: fiéis
+  uds: fíen
+preterito-perfecto-subjuntivo:
+  yo: haya fiado
+  tu: hayas fiado
+  vos: hayas fiado
+  ud: haya fiado
+  nosotros: hayamos fiado
+  vosotros: hayáis fiado
+  uds: hayan fiado
+imperfecto-subjuntivo:
+  yo:
+    - fiara
+    - fiase
+  tu:
+    - fiaras
+    - fiases
+  vos:
+    - fiaras
+    - fiases
+  ud:
+    - fiara
+    - fiase
+  nosotros:
+    - fiáramos
+    - fiésemos
+  vosotros:
+    - fiarais
+    - fiaseis
+  uds:
+    - fiaran
+    - fiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fiado
+    - hubiese fiado
+  tu:
+    - hubieras fiado
+    - hubieses fiado
+  vos:
+    - hubieras fiado
+    - hubieses fiado
+  ud:
+    - hubiera fiado
+    - hubiese fiado
+  nosotros:
+    - hubiéramos fiado
+    - hubiésemos fiado
+  vosotros:
+    - hubierais fiado
+    - hubieseis fiado
+  uds:
+    - hubieran fiado
+    - hubiesen fiado
+imperativo:
+  tu: fía
+  vos: fíá
+  ud: fíe
+  nosotros: fiemos
+  vosotros: fiad
+  uds: fíen

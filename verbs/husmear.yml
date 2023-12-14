@@ -1,0 +1,142 @@
+infinitivo: husmear
+gerundio: husmeando
+participio-pasado: husmeado
+presente-indicativo:
+  yo: husmeo
+  tu: husmeas
+  vos: husmeas
+  ud: husmea
+  nosotros: husmeamos
+  vosotros: husmeáis
+  uds: husmean
+preterito-perfecto-simple:
+  yo: husmeé
+  tu: husmeaste
+  vos: husmeaste
+  ud: husmeó
+  nosotros: husmeamos
+  vosotros: husmeasteis
+  uds: husmearon
+preterito-imperfecto:
+  yo: husmeaba
+  tu: husmeabas
+  vos: husmeabas
+  ud: husmeaba
+  nosotros: husmeábamos
+  vosotros: husmeabais
+  uds: husmeaban
+futuro-simple:
+  yo: husmearé
+  tu: husmearás
+  vos: husmearás
+  ud: husmeará
+  nosotros: husmearemos
+  vosotros: husmearéis
+  uds: husmearán
+condicional-simple:
+  yo: husmearía
+  tu: husmearías
+  vos: husmearías
+  ud: husmearía
+  nosotros: husmearíamos
+  vosotros: husmearíais
+  uds: husmearían
+presente-perfecto:
+  yo: he husmeado
+  tu: has husmeado
+  vos: has husmeado
+  ud: ha husmeado
+  nosotros: hemos husmeado
+  vosotros: habéis husmeado
+  uds: han husmeado
+preterito-pluscuamperfecto:
+  yo: había husmeado
+  tu: habías husmeado
+  vos: habías husmeado
+  ud: había husmeado
+  nosotros: habíamos husmeado
+  vosotros: habíais husmeado
+  uds: habían husmeado
+futuro-perfecto:
+  yo: habré husmeado
+  tu: habrás husmeado
+  vos: habrás husmeado
+  ud: habrá husmeado
+  nosotros: habremos husmeado
+  vosotros: habréis husmeado
+  uds: habrán husmeado
+condicional-perfecto:
+  yo: habría husmeado
+  tu: habrías husmeado
+  vos: habrías husmeado
+  ud: habría husmeado
+  nosotros: habríamos husmeado
+  vosotros: habríais husmeado
+  uds: habrían husmeado
+presente-subjuntivo:
+  yo: husmee
+  tu: husmees
+  vos: husmees
+  ud: husmee
+  nosotros: husmeemos
+  vosotros: husmeéis
+  uds: husmeen
+preterito-perfecto-subjuntivo:
+  yo: haya husmeado
+  tu: hayas husmeado
+  vos: hayas husmeado
+  ud: haya husmeado
+  nosotros: hayamos husmeado
+  vosotros: hayáis husmeado
+  uds: hayan husmeado
+imperfecto-subjuntivo:
+  yo:
+    - husmeara
+    - husmease
+  tu:
+    - husmearas
+    - husmeases
+  vos:
+    - husmearas
+    - husmeases
+  ud:
+    - husmeara
+    - husmease
+  nosotros:
+    - husmeáramos
+    - husmeásemos
+  vosotros:
+    - husmearais
+    - husmeaseis
+  uds:
+    - husmearan
+    - husmeasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera husmeado
+    - hubiese husmeado
+  tu:
+    - hubieras husmeado
+    - hubieses husmeado
+  vos:
+    - hubieras husmeado
+    - hubieses husmeado
+  ud:
+    - hubiera husmeado
+    - hubiese husmeado
+  nosotros:
+    - hubiéramos husmeado
+    - hubiésemos husmeado
+  vosotros:
+    - hubierais husmeado
+    - hubieseis husmeado
+  uds:
+    - hubieran husmeado
+    - hubiesen husmeado
+imperativo:
+  tu: husmea
+  vos: husmeá
+  ud: husmee
+  nosotros: husmeemos
+  vosotros: husmead
+  uds: husmeen

@@ -1,0 +1,142 @@
+infinitivo: inmovilizar
+gerundio: inmovilizando
+participio-pasado: inmovilizado
+presente-indicativo:
+  yo: inmovilizo
+  tu: inmovilizas
+  vos: inmovilizas
+  ud: inmoviliza
+  nosotros: inmovilizamos
+  vosotros: inmovilizáis
+  uds: inmovilizan
+preterito-perfecto-simple:
+  yo: inmovilicé
+  tu: inmovilizaste
+  vos: inmovilizaste
+  ud: inmovilizó
+  nosotros: inmovilizamos
+  vosotros: inmovilizasteis
+  uds: inmovilizaron
+preterito-imperfecto:
+  yo: inmovilizaba
+  tu: inmovilizabas
+  vos: inmovilizabas
+  ud: inmovilizaba
+  nosotros: inmovilizábamos
+  vosotros: inmovilizabais
+  uds: inmovilizaban
+futuro-simple:
+  yo: inmovilizaré
+  tu: inmovilizarás
+  vos: inmovilizarás
+  ud: inmovilizará
+  nosotros: inmovilizaremos
+  vosotros: inmovilizaréis
+  uds: inmovilizarán
+condicional-simple:
+  yo: inmovilizaría
+  tu: inmovilizarías
+  vos: inmovilizarías
+  ud: inmovilizaría
+  nosotros: inmovilizaríamos
+  vosotros: inmovilizaríais
+  uds: inmovilizarían
+presente-perfecto:
+  yo: he inmovilizado
+  tu: has inmovilizado
+  vos: has inmovilizado
+  ud: ha inmovilizado
+  nosotros: hemos inmovilizado
+  vosotros: habéis inmovilizado
+  uds: han inmovilizado
+preterito-pluscuamperfecto:
+  yo: había inmovilizado
+  tu: habías inmovilizado
+  vos: habías inmovilizado
+  ud: había inmovilizado
+  nosotros: habíamos inmovilizado
+  vosotros: habíais inmovilizado
+  uds: habían inmovilizado
+futuro-perfecto:
+  yo: habré inmovilizado
+  tu: habrás inmovilizado
+  vos: habrás inmovilizado
+  ud: habrá inmovilizado
+  nosotros: habremos inmovilizado
+  vosotros: habréis inmovilizado
+  uds: habrán inmovilizado
+condicional-perfecto:
+  yo: habría inmovilizado
+  tu: habrías inmovilizado
+  vos: habrías inmovilizado
+  ud: habría inmovilizado
+  nosotros: habríamos inmovilizado
+  vosotros: habríais inmovilizado
+  uds: habrían inmovilizado
+presente-subjuntivo:
+  yo: inmovilice
+  tu: inmovilices
+  vos: inmovilices
+  ud: inmovilice
+  nosotros: inmovilicemos
+  vosotros: inmovilicéis
+  uds: inmovilicen
+preterito-perfecto-subjuntivo:
+  yo: haya inmovilizado
+  tu: hayas inmovilizado
+  vos: hayas inmovilizado
+  ud: haya inmovilizado
+  nosotros: hayamos inmovilizado
+  vosotros: hayáis inmovilizado
+  uds: hayan inmovilizado
+imperfecto-subjuntivo:
+  yo:
+    - inmovilizara
+    - inmovilizase
+  tu:
+    - inmovilizaras
+    - inmovilizases
+  vos:
+    - inmovilizaras
+    - inmovilizases
+  ud:
+    - inmovilizara
+    - inmovilizase
+  nosotros:
+    - inmovilizáramos
+    - inmovilizásemos
+  vosotros:
+    - inmovilizarais
+    - inmovilizaseis
+  uds:
+    - inmovilizaran
+    - inmovilizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera inmovilizado
+    - hubiese inmovilizado
+  tu:
+    - hubieras inmovilizado
+    - hubieses inmovilizado
+  vos:
+    - hubieras inmovilizado
+    - hubieses inmovilizado
+  ud:
+    - hubiera inmovilizado
+    - hubiese inmovilizado
+  nosotros:
+    - hubiéramos inmovilizado
+    - hubiésemos inmovilizado
+  vosotros:
+    - hubierais inmovilizado
+    - hubieseis inmovilizado
+  uds:
+    - hubieran inmovilizado
+    - hubiesen inmovilizado
+imperativo:
+  tu: inmoviliza
+  vos: inmovilizá
+  ud: inmovilice
+  nosotros: inmovilicemos
+  vosotros: inmovilizad
+  uds: inmovilicen

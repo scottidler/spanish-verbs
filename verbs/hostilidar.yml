@@ -1,0 +1,142 @@
+infinitivo: hostilidar
+gerundio: hostilidando
+participio-pasado: hostilidado
+presente-indicativo:
+  yo: hostilido
+  tu: hostilidas
+  vos: hostilidas
+  ud: hostilida
+  nosotros: hostilidamos
+  vosotros: hostilidáis
+  uds: hostilidan
+preterito-perfecto-simple:
+  yo: hostilidé
+  tu: hostilidaste
+  vos: hostilidaste
+  ud: hostilidó
+  nosotros: hostilidamos
+  vosotros: hostilidasteis
+  uds: hostilidaron
+preterito-imperfecto:
+  yo: hostilidaba
+  tu: hostilidabas
+  vos: hostilidabas
+  ud: hostilidaba
+  nosotros: hostilidábamos
+  vosotros: hostilidabais
+  uds: hostilidaban
+futuro-simple:
+  yo: hostilidaré
+  tu: hostilidarás
+  vos: hostilidarás
+  ud: hostilidará
+  nosotros: hostilidaremos
+  vosotros: hostilidaréis
+  uds: hostilidarán
+condicional-simple:
+  yo: hostilidaría
+  tu: hostilidarías
+  vos: hostilidarías
+  ud: hostilidaría
+  nosotros: hostilidaríamos
+  vosotros: hostilidaríais
+  uds: hostilidarían
+presente-perfecto:
+  yo: he hostilidado
+  tu: has hostilidado
+  vos: has hostilidado
+  ud: ha hostilidado
+  nosotros: hemos hostilidado
+  vosotros: habéis hostilidado
+  uds: han hostilidado
+preterito-pluscuamperfecto:
+  yo: había hostilidado
+  tu: habías hostilidado
+  vos: habías hostilidado
+  ud: había hostilidado
+  nosotros: habíamos hostilidado
+  vosotros: habíais hostilidado
+  uds: habían hostilidado
+futuro-perfecto:
+  yo: habré hostilidado
+  tu: habrás hostilidado
+  vos: habrás hostilidado
+  ud: habrá hostilidado
+  nosotros: habremos hostilidado
+  vosotros: habréis hostilidado
+  uds: habrán hostilidado
+condicional-perfecto:
+  yo: habría hostilidado
+  tu: habrías hostilidado
+  vos: habrías hostilidado
+  ud: habría hostilidado
+  nosotros: habríamos hostilidado
+  vosotros: habríais hostilidado
+  uds: habrían hostilidado
+presente-subjuntivo:
+  yo: hostilide
+  tu: hostilides
+  vos: hostilides
+  ud: hostilide
+  nosotros: hostilidemos
+  vosotros: hostilidéis
+  uds: hostiliden
+preterito-perfecto-subjuntivo:
+  yo: haya hostilidado
+  tu: hayas hostilidado
+  vos: hayas hostilidado
+  ud: haya hostilidado
+  nosotros: hayamos hostilidado
+  vosotros: hayáis hostilidado
+  uds: hayan hostilidado
+imperfecto-subjuntivo:
+  yo:
+    - hostilidara
+    - hostilidase
+  tu:
+    - hostilidaras
+    - hostilidases
+  vos:
+    - hostilidaras
+    - hostilidases
+  ud:
+    - hostilidara
+    - hostilidase
+  nosotros:
+    - hostilidáramos
+    - hostilidásemos
+  vosotros:
+    - hostilidarais
+    - hostilidaseis
+  uds:
+    - hostilidaran
+    - hostilidasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera hostilidado
+    - hubiese hostilidado
+  tu:
+    - hubieras hostilidado
+    - hubieses hostilidado
+  vos:
+    - hubieras hostilidado
+    - hubieses hostilidado
+  ud:
+    - hubiera hostilidado
+    - hubiese hostilidado
+  nosotros:
+    - hubiéramos hostilidado
+    - hubiésemos hostilidado
+  vosotros:
+    - hubierais hostilidado
+    - hubieseis hostilidado
+  uds:
+    - hubieran hostilidado
+    - hubiesen hostilidado
+imperativo:
+  tu: hostilida
+  vos: hostilidá
+  ud: hostilide
+  nosotros: hostilidemos
+  vosotros: hostilidAd
+  uds: hostiliden

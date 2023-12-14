@@ -1,0 +1,142 @@
+infinitivo: rellenar
+gerundio: rellenando
+participio-pasado: rellenado
+presente-indicativo:
+  yo: relleno
+  tu: rellenas
+  vos: rellenas
+  ud: rellena
+  nosotros: rellenamos
+  vosotros: rellenáis
+  uds: rellenan
+preterito-perfecto-simple:
+  yo: rellené
+  tu: rellenaste
+  vos: rellenaste
+  ud: rellenó
+  nosotros: rellenamos
+  vosotros: rellenasteis
+  uds: rellenaron
+preterito-imperfecto:
+  yo: rellenaba
+  tu: rellenabas
+  vos: rellenabas
+  ud: rellenaba
+  nosotros: rellenábamos
+  vosotros: rellenabais
+  uds: rellenaban
+futuro-simple:
+  yo: rellenaré
+  tu: rellenarás
+  vos: rellenarás
+  ud: rellenará
+  nosotros: rellenaremos
+  vosotros: rellenaréis
+  uds: rellenarán
+condicional-simple:
+  yo: rellenaría
+  tu: rellenarías
+  vos: rellenarías
+  ud: rellenaría
+  nosotros: rellenaríamos
+  vosotros: rellenaríais
+  uds: rellenarían
+presente-perfecto:
+  yo: he rellenado
+  tu: has rellenado
+  vos: has rellenado
+  ud: ha rellenado
+  nosotros: hemos rellenado
+  vosotros: habéis rellenado
+  uds: han rellenado
+preterito-pluscuamperfecto:
+  yo: había rellenado
+  tu: habías rellenado
+  vos: habías rellenado
+  ud: había rellenado
+  nosotros: habíamos rellenado
+  vosotros: habíais rellenado
+  uds: habían rellenado
+futuro-perfecto:
+  yo: habré rellenado
+  tu: habrás rellenado
+  vos: habrás rellenado
+  ud: habrá rellenado
+  nosotros: habremos rellenado
+  vosotros: habréis rellenado
+  uds: habrán rellenado
+condicional-perfecto:
+  yo: habría rellenado
+  tu: habrías rellenado
+  vos: habrías rellenado
+  ud: habría rellenado
+  nosotros: habríamos rellenado
+  vosotros: habríais rellenado
+  uds: habrían rellenado
+presente-subjuntivo:
+  yo: rellene
+  tu: rellenes
+  vos: rellenes
+  ud: rellene
+  nosotros: rellenemos
+  vosotros: rellenéis
+  uds: rellenen
+preterito-perfecto-subjuntivo:
+  yo: haya rellenado
+  tu: hayas rellenado
+  vos: hayas rellenado
+  ud: haya rellenado
+  nosotros: hayamos rellenado
+  vosotros: hayáis rellenado
+  uds: hayan rellenado
+imperfecto-subjuntivo:
+  yo:
+    - rellenara
+    - rellenase
+  tu:
+    - rellenaras
+    - rellenas
+  vos:
+    - rellenaras
+    - rellenes
+  ud:
+    - rellenara
+    - rellenase
+  nosotros:
+    - rellenáramos
+    - rellenásemos
+  vosotros:
+    - rellenarais
+    - rellenaseis
+  uds:
+    - rellenaran
+    - rellenasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rellenado
+    - hubiese rellenado
+  tu:
+    - hubieras rellenado
+    - hubieses rellenado
+  vos:
+    - hubieras rellenado
+    - hubieses rellenado
+  ud:
+    - hubiera rellenado
+    - hubiese rellenado
+  nosotros:
+    - hubiéramos rellenado
+    - hubiésemos rellenado
+  vosotros:
+    - hubierais rellenado
+    - hubieseis rellenado
+  uds:
+    - hubieran rellenado
+    - hubiesen rellenado
+imperativo:
+  tu: rellena
+  vos: rellená
+  ud: rellene
+  nosotros: rellenemos
+  vosotros: rellenad
+  uds: rellenen

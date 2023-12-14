@@ -1,0 +1,142 @@
+infinitivo: saciar
+gerundio: saciando
+participio-pasado: saciado
+presente-indicativo:
+  yo: sacio
+  tu: sacias
+  vos: sacias
+  ud: sacia
+  nosotros: saciamos
+  vosotros: saciáis
+  uds: sacian
+preterito-perfecto-simple:
+  yo: sacié
+  tu: saciaste
+  vos: saciaste
+  ud: sació
+  nosotros: saciamos
+  vosotros: saciasteis
+  uds: saciaron
+preterito-imperfecto:
+  yo: saciaba
+  tu: saciabas
+  vos: saciabas
+  ud: saciaba
+  nosotros: saciábamos
+  vosotros: saciabais
+  uds: saciaban
+futuro-simple:
+  yo: saciaré
+  tu: saciarás
+  vos: saciarás
+  ud: saciará
+  nosotros: saciaremos
+  vosotros: saciaréis
+  uds: saciarán
+condicional-simple:
+  yo: saciaría
+  tu: saciarías
+  vos: saciarías
+  ud: saciaría
+  nosotros: saciaríamos
+  vosotros: saciaríais
+  uds: saciarían
+presente-perfecto:
+  yo: he saciado
+  tu: has saciado
+  vos: has saciado
+  ud: ha saciado
+  nosotros: hemos saciado
+  vosotros: habéis saciado
+  uds: han saciado
+preterito-pluscuamperfecto:
+  yo: había saciado
+  tu: habías saciado
+  vos: habías saciado
+  ud: había saciado
+  nosotros: habíamos saciado
+  vosotros: habíais saciado
+  uds: habían saciado
+futuro-perfecto:
+  yo: habré saciado
+  tu: habrás saciado
+  vos: habrás saciado
+  ud: habrá saciado
+  nosotros: habremos saciado
+  vosotros: habréis saciado
+  uds: habrán saciado
+condicional-perfecto:
+  yo: habría saciado
+  tu: habrías saciado
+  vos: habrías saciado
+  ud: habría saciado
+  nosotros: habríamos saciado
+  vosotros: habríais saciado
+  uds: habrían saciado
+presente-subjuntivo:
+  yo: sacie
+  tu: sacies
+  vos: sacies
+  ud: sacie
+  nosotros: saciemos
+  vosotros: saciéis
+  uds: sacien
+preterito-perfecto-subjuntivo:
+  yo: haya saciado
+  tu: hayas saciado
+  vos: hayas saciado
+  ud: haya saciado
+  nosotros: hayamos saciado
+  vosotros: hayáis saciado
+  uds: hayan saciado
+imperfecto-subjuntivo:
+  yo:
+    - saciara
+    - saciase
+  tu:
+    - saciaras
+    - saciases
+  vos:
+    - saciaras
+    - saciases
+  ud:
+    - saciara
+    - saciase
+  nosotros:
+    - saciáramos
+    - saciásemos
+  vosotros:
+    - saciarais
+    - saciaseis
+  uds:
+    - saciaran
+    - saciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera saciado
+    - hubiese saciado
+  tu:
+    - hubieras saciado
+    - hubieses saciado
+  vos:
+    - hubieras saciado
+    - hubieses saciado
+  ud:
+    - hubiera saciado
+    - hubiese saciado
+  nosotros:
+    - hubiéramos saciado
+    - hubiésemos saciado
+  vosotros:
+    - hubierais saciado
+    - hubieseis saciado
+  uds:
+    - hubieran saciado
+    - hubiesen saciado
+imperativo:
+  tu: sacia
+  vos: saciá
+  ud: sacie
+  nosotros: saciemos
+  vosotros: saciad
+  uds: sacien

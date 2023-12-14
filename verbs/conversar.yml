@@ -1,0 +1,142 @@
+infinitivo: conversar
+gerundio: conversando
+participio-pasado: conversado
+presente-indicativo:
+  yo: converso
+  tu: conversas
+  vos: conversas
+  ud: conversa
+  nosotros: conversamos
+  vosotros: conversáis
+  uds: conversan
+preterito-perfecto-simple:
+  yo: conversé
+  tu: conversaste
+  vos: conversaste
+  ud: conversó
+  nosotros: conversamos
+  vosotros: conversasteis
+  uds: conversaron
+preterito-imperfecto:
+  yo: conversaba
+  tu: conversabas
+  vos: conversabas
+  ud: conversaba
+  nosotros: conversábamos
+  vosotros: conversabais
+  uds: conversaban
+futuro-simple:
+  yo: conversaré
+  tu: conversarás
+  vos: conversarás
+  ud: conversará
+  nosotros: conversaremos
+  vosotros: conversaréis
+  uds: conversarán
+condicional-simple:
+  yo: conversaría
+  tu: conversarías
+  vos: conversarías
+  ud: conversaría
+  nosotros: conversaríamos
+  vosotros: conversaríais
+  uds: conversarían
+presente-perfecto:
+  yo: he conversado
+  tu: has conversado
+  vos: has conversado
+  ud: ha conversado
+  nosotros: hemos conversado
+  vosotros: habéis conversado
+  uds: han conversado
+preterito-pluscuamperfecto:
+  yo: había conversado
+  tu: habías conversado
+  vos: habías conversado
+  ud: había conversado
+  nosotros: habíamos conversado
+  vosotros: habíais conversado
+  uds: habían conversado
+futuro-perfecto:
+  yo: habré conversado
+  tu: habrás conversado
+  vos: habrás conversado
+  ud: habrá conversado
+  nosotros: habremos conversado
+  vosotros: habréis conversado
+  uds: habrán conversado
+condicional-perfecto:
+  yo: habría conversado
+  tu: habrías conversado
+  vos: habrías conversado
+  ud: habría conversado
+  nosotros: habríamos conversado
+  vosotros: habríais conversado
+  uds: habrían conversado
+presente-subjuntivo:
+  yo: converse
+  tu: converses
+  vos: converses
+  ud: converse
+  nosotros: conversemos
+  vosotros: converséis
+  uds: conversen
+preterito-perfecto-subjuntivo:
+  yo: haya conversado
+  tu: hayas conversado
+  vos: hayas conversado
+  ud: haya conversado
+  nosotros: hayamos conversado
+  vosotros: hayáis conversado
+  uds: hayan conversado
+imperfecto-subjuntivo:
+  yo:
+    - conversara
+    - conversase
+  tu:
+    - conversaras
+    - conversases
+  vos:
+    - conversaras
+    - conversases
+  ud:
+    - conversara
+    - conversase
+  nosotros:
+    - conversáramos
+    - conversásemos
+  vosotros:
+    - conversarais
+    - conversaseis
+  uds:
+    - conversaran
+    - conversasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera conversado
+    - hubiese conversado
+  tu:
+    - hubieras conversado
+    - hubieses conversado
+  vos:
+    - hubieras conversado
+    - hubieses conversado
+  ud:
+    - hubiera conversado
+    - hubiese conversado
+  nosotros:
+    - hubiéramos conversado
+    - hubiésemos conversado
+  vosotros:
+    - hubierais conversado
+    - hubieseis conversado
+  uds:
+    - hubieran conversado
+    - hubiesen conversado
+imperativo:
+  tu: conversa
+  vos: conversá
+  ud: converse
+  nosotros: conversemos
+  vosotros: conversad
+  uds: conversen

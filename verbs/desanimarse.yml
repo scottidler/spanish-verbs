@@ -1,0 +1,142 @@
+infinitivo: desanimarse
+gerundio: desanimándose
+participio-pasado: desanimado
+presente-indicativo:
+  yo: me desanimo
+  tu: te desanimas
+  vos: te desanimás
+  ud: se desanima
+  nosotros: nos desanimamos
+  vosotros: os desanimáis
+  uds: se desaniman
+preterito-perfecto-simple:
+  yo: me desanimé
+  tu: te desanimaste
+  vos: te desanimaste
+  ud: se desanimó
+  nosotros: nos desanimamos
+  vosotros: os desanimasteis
+  uds: se desanimaron
+preterito-imperfecto:
+  yo: me desanimaba
+  tu: te desanimabas
+  vos: te desanimabas
+  ud: se desanimaba
+  nosotros: nos desanimábamos
+  vosotros: os desanimabais
+  uds: se desanimaban
+futuro-simple:
+  yo: me desanimaré
+  tu: te desanimarás
+  vos: te desanimarás
+  ud: se desanimará
+  nosotros: nos desanimaremos
+  vosotros: os desanimaréis
+  uds: se desanimarán
+condicional-simple:
+  yo: me desanimaría
+  tu: te desanimarías
+  vos: te desanimarías
+  ud: se desanimaría
+  nosotros: nos desanimaríamos
+  vosotros: os desanimaríais
+  uds: se desanimarían
+presente-perfecto:
+  yo: me he desanimado
+  tu: te has desanimado
+  vos: te has desanimado
+  ud: se ha desanimado
+  nosotros: nos hemos desanimado
+  vosotros: os habéis desanimado
+  uds: se han desanimado
+preterito-pluscuamperfecto:
+  yo: me había desanimado
+  tu: te habías desanimado
+  vos: te habías desanimado
+  ud: se había desanimado
+  nosotros: nos habíamos desanimado
+  vosotros: os habíais desanimado
+  uds: se habían desanimado
+futuro-perfecto:
+  yo: me habré desanimado
+  tu: te habrás desanimado
+  vos: te habrás desanimado
+  ud: se habrá desanimado
+  nosotros: nos habremos desanimado
+  vosotros: os habréis desanimado
+  uds: se habrán desanimado
+condicional-perfecto:
+  yo: me habría desanimado
+  tu: te habrías desanimado
+  vos: te habrías desanimado
+  ud: se habría desanimado
+  nosotros: nos habríamos desanimado
+  vosotros: os habríais desanimado
+  uds: se habrían desanimado
+presente-subjuntivo:
+  yo: me desanime
+  tu: te desanimes
+  vos: te desanimes
+  ud: se desanime
+  nosotros: nos desanimemos
+  vosotros: os desaniméis
+  uds: se desanimen
+preterito-perfecto-subjuntivo:
+  yo: me haya desanimado
+  tu: te hayas desanimado
+  vos: te hayas desanimado
+  ud: se haya desanimado
+  nosotros: nos hayamos desanimado
+  vosotros: os hayáis desanimado
+  uds: se hayan desanimado
+imperfecto-subjuntivo:
+  yo:
+    - me desanimara
+    - me desanimase
+  tu:
+    - te desanimaras
+    - te desanimases
+  vos:
+    - te desanimaras
+    - te desanimases
+  ud:
+    - se desanimara
+    - se desanimase
+  nosotros:
+    - nos desanimáramos
+    - nos desanimásemos
+  vosotros:
+    - os desanimarais
+    - os desanimaseis
+  uds:
+    - se desanimaran
+    - se desanimasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera desanimado
+    - me hubiese desanimado
+  tu:
+    - te hubieras desanimado
+    - te hubieses desanimado
+  vos:
+    - te hubieras desanimado
+    - te hubieses desanimado
+  ud:
+    - se hubiera desanimado
+    - se hubiese desanimado
+  nosotros:
+    - nos hubiéramos desanimado
+    - nos hubiésemos desanimado
+  vosotros:
+    - os hubierais desanimado
+    - os hubieseis desanimado
+  uds:
+    - se hubieran desanimado
+    - se hubiesen desanimado
+imperativo:
+  tu: desanímate
+  vos: desanimáte
+  ud: desanímese
+  nosotros: desanimémonos
+  vosotros: desanimaos
+  uds: desanímense

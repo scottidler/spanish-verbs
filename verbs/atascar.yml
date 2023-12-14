@@ -1,0 +1,142 @@
+infinitivo: atascar
+gerundio: atascando
+participio-pasado: atascado
+presente-indicativo:
+  yo: atasco
+  tu: atascas
+  vos: atascas
+  ud: ata
+  nosotros: atascamos
+  vosotros: atascáis
+  uds: atan
+preterito-perfecto-simple:
+  yo: atasqué
+  tu: atascaste
+  vos: atascaste
+  ud: atascó
+  nosotros: atascamos
+  vosotros: atascasteis
+  uds: atascaron
+preterito-imperfecto:
+  yo: atascaba
+  tu: atascabas
+  vos: atascabas
+  ud: atascaba
+  nosotros: atascábamos
+  vosotros: atascabais
+  uds: atascaban
+futuro-simple:
+  yo: atascaré
+  tu: atascarás
+  vos: atascarás
+  ud: atascará
+  nosotros: atascaremos
+  vosotros: atascaréis
+  uds: atascarán
+condicional-simple:
+  yo: atascaría
+  tu: atascarías
+  vos: atascarías
+  ud: atascaría
+  nosotros: atascaríamos
+  vosotros: atascaríais
+  uds: atascarían
+presente-perfecto:
+  yo: he atascado
+  tu: has atascado
+  vos: has atascado
+  ud: ha atascado
+  nosotros: hemos atascado
+  vosotros: habéis atascado
+  uds: han atascado
+preterito-pluscuamperfecto:
+  yo: había atascado
+  tu: habías atascado
+  vos: habías atascado
+  ud: había atascado
+  nosotros: habíamos atascado
+  vosotros: habíais atascado
+  uds: habían atascado
+futuro-perfecto:
+  yo: habré atascado
+  tu: habrás atascado
+  vos: habrás atascado
+  ud: habrá atascado
+  nosotros: habremos atascado
+  vosotros: habréis atascado
+  uds: habrán atascado
+condicional-perfecto:
+  yo: habría atascado
+  tu: habrías atascado
+  vos: habrías atascado
+  ud: habría atascado
+  nosotros: habríamos atascado
+  vosotros: habríais atascado
+  uds: habrían atascado
+presente-subjuntivo:
+  yo: atasque
+  tu: atasques
+  vos: atasques
+  ud: atasque
+  nosotros: atasquemos
+  vosotros: atasquéis
+  uds: ataquen
+preterito-perfecto-subjuntivo:
+  yo: haya atascado
+  tu: hayas atascado
+  vos: hayas atascado
+  ud: haya atascado
+  nosotros: hayamos atascado
+  vosotros: hayáis atascado
+  uds: hayan atascado
+imperfecto-subjuntivo:
+  yo:
+    - atascara
+    - atascase
+  tu:
+    - atascaras
+    - atascases
+  vos:
+    - atascaras
+    - atascases
+  ud:
+    - atascara
+    - atascase
+  nosotros:
+    - atascáramos
+    - atascásemos
+  vosotros:
+    - atascarais
+    - atascaseis
+  uds:
+    - atascaran
+    - atascasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atascado
+    - hubiese atascado
+  tu:
+    - hubieras atascado
+    - hubieses atascado
+  vos:
+    - hubieras atascado
+    - hubieses atascado
+  ud:
+    - hubiera atascado
+    - hubiese atascado
+  nosotros:
+    - hubiéramos atascado
+    - hubiésemos atascado
+  vosotros:
+    - hubierais atascado
+    - hubieseis atascado
+  uds:
+    - hubieran atascado
+    - hubiesen atascado
+imperativo:
+  tu: atasca
+  vos: atascá
+  ud: atasque
+  nosotros: atasquemos
+  vosotros: atascad
+  uds: ataquen

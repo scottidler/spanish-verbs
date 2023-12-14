@@ -1,0 +1,142 @@
+infinitivo: despejar
+gerundio: despejando
+participio-pasado: despejado
+presente-indicativo:
+  yo: despejo
+  tu: despejas
+  vos: despejas
+  ud: despeja
+  nosotros: despejamos
+  vosotros: despejáis
+  uds: despejan
+preterito-perfecto-simple:
+  yo: despejé
+  tu: despejaste
+  vos: despejaste
+  ud: despejó
+  nosotros: despejamos
+  vosotros: despejasteis
+  uds: despejaron
+preterito-imperfecto:
+  yo: despejaba
+  tu: despejabas
+  vos: despejabas
+  ud: despejaba
+  nosotros: despejábamos
+  vosotros: despejabais
+  uds: despejaban
+futuro-simple:
+  yo: despejaré
+  tu: despejarás
+  vos: despejarás
+  ud: despejará
+  nosotros: despejaremos
+  vosotros: despejaréis
+  uds: despejarán
+condicional-simple:
+  yo: despejaría
+  tu: despejarías
+  vos: despejarías
+  ud: despejaría
+  nosotros: despejaríamos
+  vosotros: despejaríais
+  uds: despejarían
+presente-perfecto:
+  yo: he despejado
+  tu: has despejado
+  vos: has despejado
+  ud: ha despejado
+  nosotros: hemos despejado
+  vosotros: habéis despejado
+  uds: han despejado
+preterito-pluscuamperfecto:
+  yo: había despejado
+  tu: habías despejado
+  vos: habías despejado
+  ud: había despejado
+  nosotros: habíamos despejado
+  vosotros: habíais despejado
+  uds: habían despejado
+futuro-perfecto:
+  yo: habré despejado
+  tu: habrás despejado
+  vos: habrás despejado
+  ud: habrá despejado
+  nosotros: habremos despejado
+  vosotros: habréis despejado
+  uds: habrán despejado
+condicional-perfecto:
+  yo: habría despejado
+  tu: habrías despejado
+  vos: habrías despejado
+  ud: habría despejado
+  nosotros: habríamos despejado
+  vosotros: habríais despejado
+  uds: habrían despejado
+presente-subjuntivo:
+  yo: despeje
+  tu: despejes
+  vos: despejes
+  ud: despeje
+  nosotros: despejemos
+  vosotros: despejéis
+  uds: despejen
+preterito-perfecto-subjuntivo:
+  yo: haya despejado
+  tu: hayas despejado
+  vos: hayas despejado
+  ud: haya despejado
+  nosotros: hayamos despejado
+  vosotros: hayáis despejado
+  uds: hayan despejado
+imperfecto-subjuntivo:
+  yo:
+    - despejara
+    - despejase
+  tu:
+    - despejaras
+    - despejases
+  vos:
+    - despejaras
+    - despejases
+  ud:
+    - despejara
+    - despejase
+  nosotros:
+    - despejáramos
+    - despejásemos
+  vosotros:
+    - despejarais
+    - despejaseis
+  uds:
+    - despejaran
+    - despejasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera despejado
+    - hubiese despejado
+  tu:
+    - hubieras despejado
+    - hubieses despejado
+  vos:
+    - hubieras despejado
+    - hubieses despejado
+  ud:
+    - hubiera despejado
+    - hubiese despejado
+  nosotros:
+    - hubiéramos despejado
+    - hubiésemos despejado
+  vosotros:
+    - hubierais despejado
+    - hubieseis despejado
+  uds:
+    - hubieran despejado
+    - hubiesen despejado
+imperativo:
+  tu: despeja
+  vos: despejá
+  ud: despeje
+  nosotros: despejemos
+  vosotros: despejad
+  uds: despejen

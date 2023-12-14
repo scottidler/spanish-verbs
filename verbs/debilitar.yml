@@ -1,0 +1,142 @@
+infinitivo: debilitar
+gerundio: debilitando
+participio-pasado: debilitado
+presente-indicativo:
+  yo: debilito
+  tu: debilitas
+  vos: debilitas
+  ud: debilita
+  nosotros: debilitamos
+  vosotros: debilitáis
+  uds: debilitan
+preterito-perfecto-simple:
+  yo: debilité
+  tu: debilitaste
+  vos: debilitaste
+  ud: debilitó
+  nosotros: debilitamos
+  vosotros: debilitasteis
+  uds: debilitaron
+preterito-imperfecto:
+  yo: debilitaba
+  tu: debilitabas
+  vos: debilitabas
+  ud: debilitaba
+  nosotros: debilitábamos
+  vosotros: debilitabais
+  uds: debilitaban
+futuro-simple:
+  yo: debilitaré
+  tu: debilitarás
+  vos: debilitarás
+  ud: debilitará
+  nosotros: debilitaremos
+  vosotros: debilitaréis
+  uds: debilitarán
+condicional-simple:
+  yo: debilitaría
+  tu: debilitarías
+  vos: debilitarías
+  ud: debilitaría
+  nosotros: debilitaríamos
+  vosotros: debilitaríais
+  uds: debilitarían
+presente-perfecto:
+  yo: he debilitado
+  tu: has debilitado
+  vos: has debilitado
+  ud: ha debilitado
+  nosotros: hemos debilitado
+  vosotros: habéis debilitado
+  uds: han debilitado
+preterito-pluscuamperfecto:
+  yo: había debilitado
+  tu: habías debilitado
+  vos: habías debilitado
+  ud: había debilitado
+  nosotros: habíamos debilitado
+  vosotros: habíais debilitado
+  uds: habían debilitado
+futuro-perfecto:
+  yo: habré debilitado
+  tu: habrás debilitado
+  vos: habrás debilitado
+  ud: habrá debilitado
+  nosotros: habremos debilitado
+  vosotros: habréis debilitado
+  uds: habrán debilitado
+condicional-perfecto:
+  yo: habría debilitado
+  tu: habrías debilitado
+  vos: habrías debilitado
+  ud: habría debilitado
+  nosotros: habríamos debilitado
+  vosotros: habríais debilitado
+  uds: habrían debilitado
+presente-subjuntivo:
+  yo: debilite
+  tu: debilites
+  vos: debilites
+  ud: debilite
+  nosotros: debilitemos
+  vosotros: debilitéis
+  uds: debiliten
+preterito-perfecto-subjuntivo:
+  yo: haya debilitado
+  tu: hayas debilitado
+  vos: hayas debilitado
+  ud: haya debilitado
+  nosotros: hayamos debilitado
+  vosotros: hayáis debilitado
+  uds: hayan debilitado
+imperfecto-subjuntivo:
+  yo:
+    - debilitara
+    - debilitase
+  tu:
+    - debilitaras
+    - debilitases
+  vos:
+    - debilitaras
+    - debilitases
+  ud:
+    - debilitara
+    - debilitase
+  nosotros:
+    - debilitáramos
+    - debilitásemos
+  vosotros:
+    - debilitarais
+    - debilitaseis
+  uds:
+    - debilitaran
+    - debilitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera debilitado
+    - hubiese debilitado
+  tu:
+    - hubieras debilitado
+    - hubieses debilitado
+  vos:
+    - hubieras debilitado
+    - hubieses debilitado
+  ud:
+    - hubiera debilitado
+    - hubiese debilitado
+  nosotros:
+    - hubiéramos debilitado
+    - hubiésemos debilitado
+  vosotros:
+    - hubierais debilitado
+    - hubieseis debilitado
+  uds:
+    - hubieran debilitado
+    - hubiesen debilitado
+imperativo:
+  tu: debilita
+  vos: debilitá
+  ud: debilite
+  nosotros: debilitemos
+  vosotros: debilitad
+  uds: debiliten

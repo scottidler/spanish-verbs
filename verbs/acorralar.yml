@@ -1,0 +1,142 @@
+infinitivo: acorralar
+gerundio: acorralando
+participio-pasado: acorralado
+presente-indicativo:
+  yo: acorralo
+  tu: acorralas
+  vos: acorralas
+  ud: acorrala
+  nosotros: acorralamos
+  vosotros: acorraláis
+  uds: acorralan
+preterito-perfecto-simple:
+  yo: acorralé
+  tu: acorralaste
+  vos: acorralaste
+  ud: acorraló
+  nosotros: acorralamos
+  vosotros: acorralasteis
+  uds: acorralaron
+preterito-imperfecto:
+  yo: acorralaba
+  tu: acorralabas
+  vos: acorralabas
+  ud: acorralaba
+  nosotros: acorralábamos
+  vosotros: acorralabais
+  uds: acorralaban
+futuro-simple:
+  yo: acorralaré
+  tu: acorralarás
+  vos: acorralarás
+  ud: acorralará
+  nosotros: acorralaremos
+  vosotros: acorralaréis
+  uds: acorralarán
+condicional-simple:
+  yo: acorralaría
+  tu: acorralarías
+  vos: acorralarías
+  ud: acorralaría
+  nosotros: acorralaríamos
+  vosotros: acorralaríais
+  uds: acorralarían
+presente-perfecto:
+  yo: he acorralado
+  tu: has acorralado
+  vos: has acorralado
+  ud: ha acorralado
+  nosotros: hemos acorralado
+  vosotros: habéis acorralado
+  uds: han acorralado
+preterito-pluscuamperfecto:
+  yo: había acorralado
+  tu: habías acorralado
+  vos: habías acorralado
+  ud: había acorralado
+  nosotros: habíamos acorralado
+  vosotros: habíais acorralado
+  uds: habían acorralado
+futuro-perfecto:
+  yo: habré acorralado
+  tu: habrás acorralado
+  vos: habrás acorralado
+  ud: habrá acorralado
+  nosotros: habremos acorralado
+  vosotros: habréis acorralado
+  uds: habrán acorralado
+condicional-perfecto:
+  yo: habría acorralado
+  tu: habrías acorralado
+  vos: habrías acorralado
+  ud: habría acorralado
+  nosotros: habríamos acorralado
+  vosotros: habríais acorralado
+  uds: habrían acorralado
+presente-subjuntivo:
+  yo: acorrale
+  tu: acorrales
+  vos: acorrales
+  ud: acorrale
+  nosotros: acorralemos
+  vosotros: acorraléis
+  uds: acorralen
+preterito-perfecto-subjuntivo:
+  yo: haya acorralado
+  tu: hayas acorralado
+  vos: hayas acorralado
+  ud: haya acorralado
+  nosotros: hayamos acorralado
+  vosotros: hayáis acorralado
+  uds: hayan acorralado
+imperfecto-subjuntivo:
+  yo:
+    - acorralara
+    - acorralase
+  tu:
+    - acorralaras
+    - acorralases
+  vos:
+    - acorralaras
+    - acorralases
+  ud:
+    - acorralara
+    - acorralase
+  nosotros:
+    - acorraláramos
+    - acorralásemos
+  vosotros:
+    - acorralarais
+    - acorralaseis
+  uds:
+    - acorralaran
+    - acorralasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acorralado
+    - hubiese acorralado
+  tu:
+    - hubieras acorralado
+    - hubieses acorralado
+  vos:
+    - hubieras acorralado
+    - hubieses acorralado
+  ud:
+    - hubiera acorralado
+    - hubiese acorralado
+  nosotros:
+    - hubiéramos acorralado
+    - hubiésemos acorralado
+  vosotros:
+    - hubierais acorralado
+    - hubieseis acorralado
+  uds:
+    - hubieran acorralado
+    - hubiesen acorralado
+imperativo:
+  tu: acorrala
+  vos: acorralá
+  ud: acorrale
+  nosotros: acorralamos
+  vosotros: acorralad
+  uds: acorralen

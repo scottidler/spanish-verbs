@@ -1,0 +1,142 @@
+infinitivo: maquinar
+gerundio: maquinando
+participio-pasado: maquinado
+presente-indicativo:
+  yo: maquino
+  tu: maquinas
+  vos: maquinas
+  ud: maquina
+  nosotros: maquinamos
+  vosotros: maquináis
+  uds: maquinan
+preterito-perfecto-simple:
+  yo: maquiné
+  tu: maquinaste
+  vos: maquinaste
+  ud: maquinó
+  nosotros: maquinamos
+  vosotros: maquinasteis
+  uds: maquinaron
+preterito-imperfecto:
+  yo: maquinaba
+  tu: maquinabas
+  vos: maquinabas
+  ud: maquinaba
+  nosotros: maquinábamos
+  vosotros: maquinabais
+  uds: maquinaban
+futuro-simple:
+  yo: maquinaré
+  tu: maquinarás
+  vos: maquinarás
+  ud: maquinará
+  nosotros: maquinaremos
+  vosotros: maquinaréis
+  uds: maquinarán
+condicional-simple:
+  yo: maquinaría
+  tu: maquinarías
+  vos: maquinarías
+  ud: maquinaría
+  nosotros: maquinaríamos
+  vosotros: maquinaríais
+  uds: maquinarían
+presente-perfecto:
+  yo: he maquinado
+  tu: has maquinado
+  vos: has maquinado
+  ud: ha maquinado
+  nosotros: hemos maquinado
+  vosotros: habéis maquinado
+  uds: han maquinado
+preterito-pluscuamperfecto:
+  yo: había maquinado
+  tu: habías maquinado
+  vos: habías maquinado
+  ud: había maquinado
+  nosotros: habíamos maquinado
+  vosotros: habíais maquinado
+  uds: habían maquinado
+futuro-perfecto:
+  yo: habré maquinado
+  tu: habrás maquinado
+  vos: habrás maquinado
+  ud: habrá maquinado
+  nosotros: habremos maquinado
+  vosotros: habréis maquinado
+  uds: habrán maquinado
+condicional-perfecto:
+  yo: habría maquinado
+  tu: habrías maquinado
+  vos: habrías maquinado
+  ud: habría maquinado
+  nosotros: habríamos maquinado
+  vosotros: habríais maquinado
+  uds: habrían maquinado
+presente-subjuntivo:
+  yo: maquine
+  tu: maquines
+  vos: maquines
+  ud: maquine
+  nosotros: maquinemos
+  vosotros: maquinéis
+  uds: maquinen
+preterito-perfecto-subjuntivo:
+  yo: haya maquinado
+  tu: hayas maquinado
+  vos: hayas maquinado
+  ud: haya maquinado
+  nosotros: hayamos maquinado
+  vosotros: hayáis maquinado
+  uds: hayan maquinado
+imperfecto-subjuntivo:
+  yo:
+    - maquinara
+    - maquinase
+  tu:
+    - maquinaras
+    - maquinases
+  vos:
+    - maquinaras
+    - maquinases
+  ud:
+    - maquinara
+    - maquinase
+  nosotros:
+    - maquináramos
+    - maquinásemos
+  vosotros:
+    - maquinarais
+    - maquinaseis
+  uds:
+    - maquinaran
+    - maquinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera maquinado
+    - hubiese maquinado
+  tu:
+    - hubieras maquinado
+    - hubieses maquinado
+  vos:
+    - hubieras maquinado
+    - hubieses maquinado
+  ud:
+    - hubiera maquinado
+    - hubiese maquinado
+  nosotros:
+    - hubiéramos maquinado
+    - hubiésemos maquinado
+  vosotros:
+    - hubierais maquinado
+    - hubieseis maquinado
+  uds:
+    - hubieran maquinado
+    - hubiesen maquinado
+imperativo:
+  tu: maquina
+  vos: maquiná
+  ud: maquine
+  nosotros: maquinemos
+  vosotros: maquinad
+  uds: maquinen

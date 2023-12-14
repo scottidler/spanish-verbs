@@ -1,0 +1,142 @@
+infinitivo: portar
+gerundio: portando
+participio-pasado: portado
+presente-indicativo:
+  yo: porto
+  tu: portas
+  vos: portas
+  ud: porta
+  nosotros: portamos
+  vosotros: portáis
+  uds: portan
+preterito-perfecto-simple:
+  yo: porté
+  tu: portaste
+  vos: portaste
+  ud: portó
+  nosotros: portamos
+  vosotros: portasteis
+  uds: portaron
+preterito-imperfecto:
+  yo: portaba
+  tu: portabas
+  vos: portabas
+  ud: portaba
+  nosotros: portábamos
+  vosotros: portabais
+  uds: portaban
+futuro-simple:
+  yo: portaré
+  tu: portarás
+  vos: portarás
+  ud: portará
+  nosotros: portaremos
+  vosotros: portaréis
+  uds: portarán
+condicional-simple:
+  yo: portaría
+  tu: portarías
+  vos: portarías
+  ud: portaría
+  nosotros: portaríamos
+  vosotros: portaríais
+  uds: portarían
+presente-perfecto:
+  yo: he portado
+  tu: has portado
+  vos: has portado
+  ud: ha portado
+  nosotros: hemos portado
+  vosotros: habéis portado
+  uds: han portado
+preterito-pluscuamperfecto:
+  yo: había portado
+  tu: habías portado
+  vos: habías portado
+  ud: había portado
+  nosotros: habíamos portado
+  vosotros: habíais portado
+  uds: habían portado
+futuro-perfecto:
+  yo: habré portado
+  tu: habrás portado
+  vos: habrás portado
+  ud: habrá portado
+  nosotros: habremos portado
+  vosotros: habréis portado
+  uds: habrán portado
+condicional-perfecto:
+  yo: habría portado
+  tu: habrías portado
+  vos: habrías portado
+  ud: habría portado
+  nosotros: habríamos portado
+  vosotros: habríais portado
+  uds: habrían portado
+presente-subjuntivo:
+  yo: porte
+  tu: portes
+  vos: portes
+  ud: porte
+  nosotros: portemos
+  vosotros: portéis
+  uds: porten
+preterito-perfecto-subjuntivo:
+  yo: haya portado
+  tu: hayas portado
+  vos: hayas portado
+  ud: haya portado
+  nosotros: hayamos portado
+  vosotros: hayáis portado
+  uds: hayan portado
+imperfecto-subjuntivo:
+  yo:
+    - portara
+    - portase
+  tu:
+    - portaras
+    - portases
+  vos:
+    - portaras
+    - portases
+  ud:
+    - portara
+    - portase
+  nosotros:
+    - portáramos
+    - portásemos
+  vosotros:
+    - portarais
+    - portaseis
+  uds:
+    - portaran
+    - portasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera portado
+    - hubiese portado
+  tu:
+    - hubieras portado
+    - hubieses portado
+  vos:
+    - hubieras portado
+    - hubieses portado
+  ud:
+    - hubiera portado
+    - hubiese portado
+  nosotros:
+    - hubiéramos portado
+    - hubiésemos portado
+  vosotros:
+    - hubierais portado
+    - hubieseis portado
+  uds:
+    - hubieran portado
+    - hubiesen portado
+imperativo:
+  tu: porta
+  vos: portá
+  ud: porte
+  nosotros: portemos
+  vosotros: portad
+  uds: porten

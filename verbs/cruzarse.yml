@@ -1,0 +1,156 @@
+infinitivo: cruzarse
+gerundio: cruzándose
+participio-pasado: cruzado
+
+presente-indicativo:
+  yo: me cruzo
+  tu: te cruzas
+  vos: te cruzas
+  ud: se cruza
+  nosotros: nos cruzamos
+  vosotros: os cruzáis
+  uds: se cruzan
+
+preterito-perfecto-simple:
+  yo: me crucé
+  tu: te cruzaste
+  vos: te cruzaste
+  ud: se cruzó
+  nosotros: nos cruzamos
+  vosotros: os cruzasteis
+  uds: se cruzaron
+
+preterito-imperfecto:
+  yo: me cruzaba
+  tu: te cruzabas
+  vos: te cruzabas
+  ud: se cruzaba
+  nosotros: nos cruzábamos
+  vosotros: os cruzabais
+  uds: se cruzaban
+
+futuro-simple:
+  yo: me cruzaré
+  tu: te cruzarás
+  vos: te cruzarás
+  ud: se cruzará
+  nosotros: nos cruzaremos
+  vosotros: os cruzaréis
+  uds: se cruzarán
+
+condicional-simple:
+  yo: me cruzaría
+  tu: te cruzarías
+  vos: te cruzarías
+  ud: se cruzaría
+  nosotros: nos cruzaríamos
+  vosotros: os cruzaríais
+  uds: se cruzarían
+
+presente-perfecto:
+  yo: me he cruzado
+  tu: te has cruzado
+  vos: te has cruzado
+  ud: se ha cruzado
+  nosotros: nos hemos cruzado
+  vosotros: os habéis cruzado
+  uds: se han cruzado
+
+preterito-pluscuamperfecto:
+  yo: me había cruzado
+  tu: te habías cruzado
+  vos: te habías cruzado
+  ud: se había cruzado
+  nosotros: nos habíamos cruzado
+  vosotros: os habíais cruzado
+  uds: se habían cruzado
+
+futuro-perfecto:
+  yo: me habré cruzado
+  tu: te habrás cruzado
+  vos: te habrás cruzado
+  ud: se habrá cruzado
+  nosotros: nos habremos cruzado
+  vosotros: os habréis cruzado
+  uds: se habrán cruzado
+
+condicional-perfecto:
+  yo: me habría cruzado
+  tu: te habrías cruzado
+  vos: te habrías cruzado
+  ud: se habría cruzado
+  nosotros: nos habríamos cruzado
+  vosotros: os habríais cruzado
+  uds: se habrían cruzado
+
+presente-subjuntivo:
+  yo: me cruce
+  tu: te cruces
+  vos: te cruces
+  ud: se cruce
+  nosotros: nos crucemos
+  vosotros: os crucéis
+  uds: se crucen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya cruzado
+  tu: te hayas cruzado
+  vos: te hayas cruzado
+  ud: se haya cruzado
+  nosotros: nos hayamos cruzado
+  vosotros: os hayáis cruzado
+  uds: se hayan cruzado
+
+imperfecto-subjuntivo:
+  yo:
+    - me cruzara
+    - me cruzase
+  tu:
+    - te cruzaras
+    - te cruzases
+  vos:
+    - te cruzaras
+    - te cruzases
+  ud:
+    - se cruzara
+    - se cruzase
+  nosotros:
+    - nos cruzáramos
+    - nos cruzásemos
+  vosotros:
+    - os cruzarais
+    - os cruzaseis
+  uds:
+    - se cruzaran
+    - se cruzasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera cruzado
+    - me hubiese cruzado
+  tu:
+    - te hubieras cruzado
+    - te hubieses cruzado
+  vos:
+    - te hubieras cruzado
+    - te hubieses cruzado
+  ud:
+    - se hubiera cruzado
+    - se hubiese cruzado
+  nosotros:
+    - nos hubiéramos cruzado
+    - nos hubiésemos cruzado
+  vosotros:
+    - os hubierais cruzado
+    - os hubieseis cruzado
+  uds:
+    - se hubieran cruzado
+    - se hubiesen cruzado
+
+imperativo:
+  tu: crúzate
+  vos: crúzate
+  ud: crúcese
+  nosotros: crucémonos
+  vosotros: cruzados
+  uds: crúcense

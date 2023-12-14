@@ -1,0 +1,142 @@
+infinitivo: venerar
+gerundio: venerando
+participio-pasado: venerado
+presente-indicativo:
+  yo: venero
+  tu: veneras
+  vos: veneras
+  ud: venera
+  nosotros: veneramos
+  vosotros: veneráis
+  uds: veneran
+preterito-perfecto-simple:
+  yo: veneré
+  tu: veneraste
+  vos: veneraste
+  ud: veneró
+  nosotros: veneramos
+  vosotros: venerasteis
+  uds: veneraron
+preterito-imperfecto:
+  yo: veneraba
+  tu: venerabas
+  vos: venerabas
+  ud: veneraba
+  nosotros: venerábamos
+  vosotros: venerabais
+  uds: veneraban
+futuro-simple:
+  yo: veneraré
+  tu: venerarás
+  vos: venerarás
+  ud: venerará
+  nosotros: veneraremos
+  vosotros: veneraréis
+  uds: venerarán
+condicional-simple:
+  yo: veneraría
+  tu: venerarías
+  vos: venerarías
+  ud: veneraría
+  nosotros: veneraríamos
+  vosotros: veneraríais
+  uds: venerarían
+presente-perfecto:
+  yo: he venerado
+  tu: has venerado
+  vos: has venerado
+  ud: ha venerado
+  nosotros: hemos venerado
+  vosotros: habéis venerado
+  uds: han venerado
+preterito-pluscuamperfecto:
+  yo: había venerado
+  tu: habías venerado
+  vos: habías venerado
+  ud: había venerado
+  nosotros: habíamos venerado
+  vosotros: habíais venerado
+  uds: habían venerado
+futuro-perfecto:
+  yo: habré venerado
+  tu: habrás venerado
+  vos: habrás venerado
+  ud: habrá venerado
+  nosotros: habremos venerado
+  vosotros: habréis venerado
+  uds: habrán venerado
+condicional-perfecto:
+  yo: habría venerado
+  tu: habrías venerado
+  vos: habrías venerado
+  ud: habría venerado
+  nosotros: habríamos venerado
+  vosotros: habríais venerado
+  uds: habrían venerado
+presente-subjuntivo:
+  yo: veneere
+  tu: veneeres
+  vos: veneeres
+  ud: veneere
+  nosotros: veneeremos
+  vosotros: veneeréis
+  uds: veneeren
+preterito-perfecto-subjuntivo:
+  yo: haya venerado
+  tu: hayas venerado
+  vos: hayas venerado
+  ud: haya venerado
+  nosotros: hayamos venerado
+  vosotros: hayáis venerado
+  uds: hayan venerado
+imperfecto-subjuntivo:
+  yo:
+    - venerara
+    - venerase
+  tu:
+    - veneraras
+    - venerases
+  vos:
+    - veneraras
+    - venerases
+  ud:
+    - venerara
+    - venerase
+  nosotros:
+    - veneráramos
+    - venerásemos
+  vosotros:
+    - venerarais
+    - veneraseis
+  uds:
+    - veneraran
+    - venerasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera venerado
+    - hubiese venerado
+  tu:
+    - hubieras venerado
+    - hubieses venerado
+  vos:
+    - hubieras venerado
+    - hubieses venerado
+  ud:
+    - hubiera venerado
+    - hubiese venerado
+  nosotros:
+    - hubiéramos venerado
+    - hubiésemos venerado
+  vosotros:
+    - hubierais venerado
+    - hubieseis venerado
+  uds:
+    - hubieran venerado
+    - hubiesen venerado
+imperativo:
+  tu: venera
+  vos: venerá
+  ud: venere
+  nosotros: veneeramos
+  vosotros: venerad
+  uds: veneeren

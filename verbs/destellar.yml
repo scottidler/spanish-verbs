@@ -1,0 +1,142 @@
+infinitivo: destellar
+gerundio: destellando
+participio-pasado: destellado
+presente-indicativo:
+  yo: destello
+  tu: destellas
+  vos: destellás
+  ud: destella
+  nosotros: destellamos
+  vosotros: destelláis
+  uds: destellan
+preterito-perfecto-simple:
+  yo: destellé
+  tu: destellaste
+  vos: destellaste
+  ud: destelló
+  nosotros: destellamos
+  vosotros: destellasteis
+  uds: destellaron
+preterito-imperfecto:
+  yo: destellaba
+  tu: destellabas
+  vos: destellabas
+  ud: destellaba
+  nosotros: destellábamos
+  vosotros: destellabais
+  uds: destellaban
+futuro-simple:
+  yo: destellaré
+  tu: destellarás
+  vos: destellarás
+  ud: destellará
+  nosotros: destellaremos
+  vosotros: destellaréis
+  uds: destellarán
+condicional-simple:
+  yo: destellaría
+  tu: destellarías
+  vos: destellarías
+  ud: destellaría
+  nosotros: destellaríamos
+  vosotros: destellaríais
+  uds: destellarían
+presente-perfecto:
+  yo: he destellado
+  tu: has destellado
+  vos: has destellado
+  ud: ha destellado
+  nosotros: hemos destellado
+  vosotros: habéis destellado
+  uds: han destellado
+preterito-pluscuamperfecto:
+  yo: había destellado
+  tu: habías destellado
+  vos: habías destellado
+  ud: había destellado
+  nosotros: habíamos destellado
+  vosotros: habíais destellado
+  uds: habían destellado
+futuro-perfecto:
+  yo: habré destellado
+  tu: habrás destellado
+  vos: habrás destellado
+  ud: habrá destellado
+  nosotros: habremos destellado
+  vosotros: habréis destellado
+  uds: habrán destellado
+condicional-perfecto:
+  yo: habría destellado
+  tu: habrías destellado
+  vos: habrías destellado
+  ud: habría destellado
+  nosotros: habríamos destellado
+  vosotros: habríais destellado
+  uds: habrían destellado
+presente-subjuntivo:
+  yo: destelle
+  tu: destelles
+  vos: destelles
+  ud: destelle
+  nosotros: destellemos
+  vosotros: destelléis
+  uds: destellen
+preterito-perfecto-subjuntivo:
+  yo: haya destellado
+  tu: hayas destellado
+  vos: hayas destellado
+  ud: haya destellado
+  nosotros: hayamos destellado
+  vosotros: hayáis destellado
+  uds: hayan destellado
+imperfecto-subjuntivo:
+  yo:
+    - destellara
+    - destellase
+  tu:
+    - destellaras
+    - destellases
+  vos:
+    - destellaras
+    - destellases
+  ud:
+    - destellara
+    - destellase
+  nosotros:
+    - destelláramos
+    - destellemos
+  vosotros:
+    - destellarais
+    - destellaseis
+  uds:
+    - destellaran
+    - destellasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera destellado
+    - hubiese destellado
+  tu:
+    - hubieras destellado
+    - hubieses destellado
+  vos:
+    - hubieras destellado
+    - hubieses destellado
+  ud:
+    - hubiera destellado
+    - hubiese destellado
+  nosotros:
+    - hubiéramos destellado
+    - hubiésemos destellado
+  vosotros:
+    - hubierais destellado
+    - hubieseis destellado
+  uds:
+    - hubieran destellado
+    - hubiesen destellado
+imperativo:
+  tu: destella
+  vos: destellá
+  ud: destelle
+  nosotros: destellemos
+  vosotros: destellad
+  uds: destellen

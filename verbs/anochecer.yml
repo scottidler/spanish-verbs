@@ -1,0 +1,142 @@
+infinitivo: anochecer
+gerundio: anocheciendo
+participio-pasado: anochecido
+presente-indicativo:
+  yo: anochezco
+  tu: anocheces
+  vos: anocheces
+  ud: anochece
+  nosotros: anochecemos
+  vosotros: anochecéis
+  uds: anochecen
+preterito-perfecto-simple:
+  yo: anochecí
+  tu: anocheciste
+  vos: anocheciste
+  ud: anocheció
+  nosotros: anochecimos
+  vosotros: anochecisteis
+  uds: anochecieron
+preterito-imperfecto:
+  yo: anochecía
+  tu: anochecías
+  vos: anochecías
+  ud: anochecía
+  nosotros: anochecíamos
+  vosotros: anochecíais
+  uds: anochecían
+futuro-simple:
+  yo: anocheceré
+  tu: anochecerás
+  vos: anochecerás
+  ud: anochecerá
+  nosotros: anocheceremos
+  vosotros: anocheceréis
+  uds: anochecerán
+condicional-simple:
+  yo: anochecería
+  tu: anochecerías
+  vos: anochecerías
+  ud: anochecería
+  nosotros: anocheceríamos
+  vosotros: anocheceríais
+  uds: anochecerían
+presente-perfecto:
+  yo: he anochecido
+  tu: has anochecido
+  vos: has anochecido
+  ud: ha anochecido
+  nosotros: hemos anochecido
+  vosotros: habéis anochecido
+  uds: han anochecido
+preterito-pluscuamperfecto:
+  yo: había anochecido
+  tu: habías anochecido
+  vos: habías anochecido
+  ud: había anochecido
+  nosotros: habíamos anochecido
+  vosotros: habíais anochecido
+  uds: habían anochecido
+futuro-perfecto:
+  yo: habré anochecido
+  tu: habrás anochecido
+  vos: habrás anochecido
+  ud: habrá anochecido
+  nosotros: habremos anochecido
+  vosotros: habréis anochecido
+  uds: habrán anochecido
+condicional-perfecto:
+  yo: habría anochecido
+  tu: habrías anochecido
+  vos: habrías anochecido
+  ud: habría anochecido
+  nosotros: habríamos anochecido
+  vosotros: habríais anochecido
+  uds: habrían anochecido
+presente-subjuntivo:
+  yo: anochezca
+  tu: anochezcas
+  vos: anochezcas
+  ud: anochezca
+  nosotros: anochezcamos
+  vosotros: anochezcáis
+  uds: anochezcan
+preterito-perfecto-subjuntivo:
+  yo: haya anochecido
+  tu: hayas anochecido
+  vos: hayas anochecido
+  ud: haya anochecido
+  nosotros: hayamos anochecido
+  vosotros: hayáis anochecido
+  uds: hayan anochecido
+imperfecto-subjuntivo:
+  yo:
+    - anocheciera
+    - anocheciese
+  tu:
+    - anochecieras
+    - anochecieses
+  vos:
+    - anochecieras
+    - anochecieses
+  ud:
+    - anocheciera
+    - anocheciese
+  nosotros:
+    - anocheciéramos
+    - anocheciésemos
+  vosotros:
+    - anochecierais
+    - anochecieseis
+  uds:
+    - anochecieran
+    - anocheciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera anochecido
+    - hubiese anochecido
+  tu:
+    - hubieras anochecido
+    - hubieses anochecido
+  vos:
+    - hubieras anochecido
+    - hubieses anochecido
+  ud:
+    - hubiera anochecido
+    - hubiese anochecido
+  nosotros:
+    - hubiéramos anochecido
+    - hubiésemos anochecido
+  vosotros:
+    - hubierais anochecido
+    - hubieseis anochecido
+  uds:
+    - hubieran anochecido
+    - hubiesen anochecido
+imperativo:
+  tu: anochéce
+  vos: anochezcé
+  ud: anochezca
+  nosotros: anochezcamos
+  vosotros: anocheced
+  uds: anochezcan

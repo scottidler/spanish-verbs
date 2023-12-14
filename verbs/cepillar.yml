@@ -1,0 +1,142 @@
+infinitivo: cepillar
+gerundio: cepillando
+participio-pasado: cepillado
+presente-indicativo:
+  yo: cepillo
+  tu: cepillas
+  vos: cepillas
+  ud: cepilla
+  nosotros: cepillamos
+  vosotros: cepilláis
+  uds: cepillan
+preterito-perfecto-simple:
+  yo: cepillé
+  tu: cepillaste
+  vos: cepillaste
+  ud: cepilló
+  nosotros: cepillamos
+  vosotros: cepillasteis
+  uds: cepillaron
+preterito-imperfecto:
+  yo: cepillaba
+  tu: cepillabas
+  vos: cepillabas
+  ud: cepillaba
+  nosotros: cepillábamos
+  vosotros: cepillabais
+  uds: cepillaban
+futuro-simple:
+  yo: cepillaré
+  tu: cepillarás
+  vos: cepillarás
+  ud: cepillará
+  nosotros: cepillaremos
+  vosotros: cepillaréis
+  uds: cepillarán
+condicional-simple:
+  yo: cepillaría
+  tu: cepillarías
+  vos: cepillarías
+  ud: cepillaría
+  nosotros: cepillaríamos
+  vosotros: cepillaríais
+  uds: cepillarían
+presente-perfecto:
+  yo: he cepillado
+  tu: has cepillado
+  vos: has cepillado
+  ud: ha cepillado
+  nosotros: hemos cepillado
+  vosotros: habéis cepillado
+  uds: han cepillado
+preterito-pluscuamperfecto:
+  yo: había cepillado
+  tu: habías cepillado
+  vos: habías cepillado
+  ud: había cepillado
+  nosotros: habíamos cepillado
+  vosotros: habíais cepillado
+  uds: habían cepillado
+futuro-perfecto:
+  yo: habré cepillado
+  tu: habrás cepillado
+  vos: habrás cepillado
+  ud: habrá cepillado
+  nosotros: habremos cepillado
+  vosotros: habréis cepillado
+  uds: habrán cepillado
+condicional-perfecto:
+  yo: habría cepillado
+  tu: habrías cepillado
+  vos: habrías cepillado
+  ud: habría cepillado
+  nosotros: habríamos cepillado
+  vosotros: habríais cepillado
+  uds: habrían cepillado
+presente-subjuntivo:
+  yo: cepille
+  tu: cepilles
+  vos: cepilles
+  ud: cepille
+  nosotros: cepillemos
+  vosotros: cepilléis
+  uds: cepillen
+preterito-perfecto-subjuntivo:
+  yo: haya cepillado
+  tu: hayas cepillado
+  vos: hayas cepillado
+  ud: haya cepillado
+  nosotros: hayamos cepillado
+  vosotros: hayáis cepillado
+  uds: hayan cepillado
+imperfecto-subjuntivo:
+  yo:
+    - cepillara
+    - cepillase
+  tu:
+    - cepillaras
+    - cepillases
+  vos:
+    - cepillaras
+    - cepillases
+  ud:
+    - cepillara
+    - cepillase
+  nosotros:
+    - cepilláramos
+    - cepillásemos
+  vosotros:
+    - cepillarais
+    - cepillaseis
+  uds:
+    - cepillaran
+    - cepillasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cepillado
+    - hubiese cepillado
+  tu:
+    - hubieras cepillado
+    - hubieses cepillado
+  vos:
+    - hubieras cepillado
+    - hubieses cepillado
+  ud:
+    - hubiera cepillado
+    - hubiese cepillado
+  nosotros:
+    - hubiéramos cepillado
+    - hubiésemos cepillado
+  vosotros:
+    - hubierais cepillado
+    - hubieseis cepillado
+  uds:
+    - hubieran cepillado
+    - hubiesen cepillado
+imperativo:
+  tu: cepilla
+  vos: cepillá
+  ud: cepille
+  nosotros: cepillemos
+  vosotros: cepillad
+  uds: cepillen

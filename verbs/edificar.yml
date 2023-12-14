@@ -1,0 +1,142 @@
+infinitivo: edificar
+gerundio: edificando
+participio-pasado: edificado
+presente-indicativo:
+  yo: edifico
+  tu: edificas
+  vos: edificas
+  ud: edifica
+  nosotros: edificamos
+  vosotros: edificáis
+  uds: edifican
+preterito-perfecto-simple:
+  yo: edifiqué
+  tu: edificaste
+  vos: edificaste
+  ud: edificó
+  nosotros: edificamos
+  vosotros: edificasteis
+  uds: edificaron
+preterito-imperfecto:
+  yo: edificaba
+  tu: edificabas
+  vos: edificabas
+  ud: edificaba
+  nosotros: edificábamos
+  vosotros: edificabais
+  uds: edificaban
+futuro-simple:
+  yo: edificaré
+  tu: edificarás
+  vos: edificarás
+  ud: edificará
+  nosotros: edificaremos
+  vosotros: edificaréis
+  uds: edificarán
+condicional-simple:
+  yo: edificaría
+  tu: edificarías
+  vos: edificarías
+  ud: edificaría
+  nosotros: edificaríamos
+  vosotros: edificaríais
+  uds: edificarían
+presente-perfecto:
+  yo: he edificado
+  tu: has edificado
+  vos: has edificado
+  ud: ha edificado
+  nosotros: hemos edificado
+  vosotros: habéis edificado
+  uds: han edificado
+preterito-pluscuamperfecto:
+  yo: había edificado
+  tu: habías edificado
+  vos: habías edificado
+  ud: había edificado
+  nosotros: habíamos edificado
+  vosotros: habíais edificado
+  uds: habían edificado
+futuro-perfecto:
+  yo: habré edificado
+  tu: habrás edificado
+  vos: habrás edificado
+  ud: habrá edificado
+  nosotros: habremos edificado
+  vosotros: habréis edificado
+  uds: habrán edificado
+condicional-perfecto:
+  yo: habría edificado
+  tu: habrías edificado
+  vos: habrías edificado
+  ud: habría edificado
+  nosotros: habríamos edificado
+  vosotros: habríais edificado
+  uds: habrían edificado
+presente-subjuntivo:
+  yo: edifique
+  tu: edifiques
+  vos: edifiques
+  ud: edifique
+  nosotros: edifiquemos
+  vosotros: edifiquéis
+  uds: edifiquen
+preterito-perfecto-subjuntivo:
+  yo: haya edificado
+  tu: hayas edificado
+  vos: hayas edificado
+  ud: haya edificado
+  nosotros: hayamos edificado
+  vosotros: hayáis edificado
+  uds: hayan edificado
+imperfecto-subjuntivo:
+  yo:
+    - edificara
+    - edificase
+  tu:
+    - edificaras
+    - edificases
+  vos:
+    - edificaras
+    - edificases
+  ud:
+    - edificara
+    - edificase
+  nosotros:
+    - edificáramos
+    - edificásemos
+  vosotros:
+    - edificarais
+    - edificaseis
+  uds:
+    - edificaran
+    - edificasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera edificado
+    - hubiese edificado
+  tu:
+    - hubieras edificado
+    - hubieses edificado
+  vos:
+    - hubieras edificado
+    - hubieses edificado
+  ud:
+    - hubiera edificado
+    - hubiese edificado
+  nosotros:
+    - hubiéramos edificado
+    - hubiésemos edificado
+  vosotros:
+    - hubierais edificado
+    - hubieseis edificado
+  uds:
+    - hubieran edificado
+    - hubiesen edificado
+imperativo:
+  tu: edifica
+  vos: edificá
+  ud: edifique
+  nosotros: edifiquemos
+  vosotros: edificad
+  uds: edifiquen

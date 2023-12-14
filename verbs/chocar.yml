@@ -1,0 +1,142 @@
+infinitivo: chocar
+gerundio: chocando
+participio-pasado: chocado
+presente-indicativo:
+  yo: choco
+  tu: chocas
+  vos: chocás
+  ud: choca
+  nosotros: chocamos
+  vosotros: chocáis
+  uds: chocan
+preterito-perfecto-simple:
+  yo: choqué
+  tu: chocaste
+  vos: chocaste
+  ud: chocó
+  nosotros: chocamos
+  vosotros: chocasteis
+  uds: chocaron
+preterito-imperfecto:
+  yo: chocaba
+  tu: chocabas
+  vos: chocabas
+  ud: chocaba
+  nosotros: chocábamos
+  vosotros: chocabais
+  uds: chocaban
+futuro-simple:
+  yo: chocaré
+  tu: chocarás
+  vos: chocarás
+  ud: chocará
+  nosotros: chocaremos
+  vosotros: chocaréis
+  uds: chocarán
+condicional-simple:
+  yo: chocaría
+  tu: chocarías
+  vos: chocarías
+  ud: chocaría
+  nosotros: chocaríamos
+  vosotros: chocaríais
+  uds: chocarían
+presente-perfecto:
+  yo: he chocado
+  tu: has chocado
+  vos: has chocado
+  ud: ha chocado
+  nosotros: hemos chocado
+  vosotros: habéis chocado
+  uds: han chocado
+preterito-pluscuamperfecto:
+  yo: había chocado
+  tu: habías chocado
+  vos: habías chocado
+  ud: había chocado
+  nosotros: habíamos chocado
+  vosotros: habíais chocado
+  uds: habían chocado
+futuro-perfecto:
+  yo: habré chocado
+  tu: habrás chocado
+  vos: habrás chocado
+  ud: habrá chocado
+  nosotros: habremos chocado
+  vosotros: habréis chocado
+  uds: habrán chocado
+condicional-perfecto:
+  yo: habría chocado
+  tu: habrías chocado
+  vos: habrías chocado
+  ud: habría chocado
+  nosotros: habríamos chocado
+  vosotros: habríais chocado
+  uds: habrían chocado
+presente-subjuntivo:
+  yo: choque
+  tu: choques
+  vos: choques
+  ud: choque
+  nosotros: choquemos
+  vosotros: choquéis
+  uds: choquen
+preterito-perfecto-subjuntivo:
+  yo: haya chocado
+  tu: hayas chocado
+  vos: hayas chocado
+  ud: haya chocado
+  nosotros: hayamos chocado
+  vosotros: hayáis chocado
+  uds: hayan chocado
+imperfecto-subjuntivo:
+  yo:
+    - chocara
+    - chocase
+  tu:
+    - chocaras
+    - chocases
+  vos:
+    - chocaras
+    - chocases
+  ud:
+    - chocara
+    - chocase
+  nosotros:
+    - chocáramos
+    - chocásemos
+  vosotros:
+    - chocarais
+    - chocaseis
+  uds:
+    - chocaran
+    - chocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera chocado
+    - hubiese chocado
+  tu:
+    - hubieras chocado
+    - hubieses chocado
+  vos:
+    - hubieras chocado
+    - hubieses chocado
+  ud:
+    - hubiera chocado
+    - hubiese chocado
+  nosotros:
+    - hubiéramos chocado
+    - hubiésemos chocado
+  vosotros:
+    - hubierais chocado
+    - hubieseis chocado
+  uds:
+    - hubieran chocado
+    - hubiesen chocado
+imperativo:
+  tu: choca
+  vos: chocá
+  ud: choque
+  nosotros: choquemos
+  vosotros: chocad
+  uds: choquen

@@ -1,0 +1,156 @@
+infinitivo: sostenerse
+gerundio: sosteniéndose
+participio-pasado: sostenido
+
+presente-indicativo:
+  yo: me sostengo
+  tu: te sostienes
+  vos: te sostienes
+  ud: se sostiene
+  nosotros: nos sostenemos
+  vosotros: os sostenéis
+  uds: se sostienen
+
+preterito-perfecto-simple:
+  yo: me sostuve
+  tu: te sostuviste
+  vos: te sostuviste
+  ud: se sostuvo
+  nosotros: nos sostuvimos
+  vosotros: os sostuvisteis
+  uds: se sostuvieron
+
+preterito-imperfecto:
+  yo: me sostenía
+  tu: te sostenías
+  vos: te sostenías
+  ud: se sostenía
+  nosotros: nos sosteníamos
+  vosotros: os sosteníais
+  uds: se sostenían
+
+futuro-simple:
+  yo: me sostendré
+  tu: te sostendrás
+  vos: te sostendrás
+  ud: se sostendrá
+  nosotros: nos sostendremos
+  vosotros: os sostendréis
+  uds: se sostendrán
+
+condicional-simple:
+  yo: me sostendría
+  tu: te sostendrías
+  vos: te sostendrías
+  ud: se sostendría
+  nosotros: nos sostendríamos
+  vosotros: os sostendríais
+  uds: se sostendrían
+
+presente-perfecto:
+  yo: me he sostenido
+  tu: te has sostenido
+  vos: te has sostenido
+  ud: se ha sostenido
+  nosotros: nos hemos sostenido
+  vosotros: os habéis sostenido
+  uds: se han sostenido
+
+preterito-pluscuamperfecto:
+  yo: me había sostenido
+  tu: te habías sostenido
+  vos: te habías sostenido
+  ud: se había sostenido
+  nosotros: nos habíamos sostenido
+  vosotros: os habíais sostenido
+  uds: se habían sostenido
+
+futuro-perfecto:
+  yo: me habré sostenido
+  tu: te habrás sostenido
+  vos: te habrás sostenido
+  ud: se habrá sostenido
+  nosotros: nos habremos sostenido
+  vosotros: os habréis sostenido
+  uds: se habrán sostenido
+
+condicional-perfecto:
+  yo: me habría sostenido
+  tu: te habrías sostenido
+  vos: te habrías sostenido
+  ud: se habría sostenido
+  nosotros: nos habríamos sostenido
+  vosotros: os habríais sostenido
+  uds: se habrían sostenido
+
+presente-subjuntivo:
+  yo: me sostenga
+  tu: te sostengas
+  vos: te sostengas
+  ud: se sostenga
+  nosotros: nos sostengamos
+  vosotros: os sostengáis
+  uds: se sostengan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya sostenido
+  tu: te hayas sostenido
+  vos: te hayas sostenido
+  ud: se haya sostenido
+  nosotros: nos hayamos sostenido
+  vosotros: os hayáis sostenido
+  uds: se hayan sostenido
+
+imperfecto-subjuntivo:
+  yo:
+    - me sostuviera
+    - me sostuviese
+  tu:
+    - te sostuvieras
+    - te sostuvieses
+  vos:
+    - te sostuvieras
+    - te sostuvieses
+  ud:
+    - se sostuviera
+    - se sostuviese
+  nosotros:
+    - nos sostuviéramos
+    - nos sostuviésemos
+  vosotros:
+    - os sostuvierais
+    - os sostuvieseis
+  uds:
+    - se sostuvieran
+    - se sostuviesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera sostenido
+    - me hubiese sostenido
+  tu:
+    - te hubieras sostenido
+    - te hubieses sostenido
+  vos:
+    - te hubieras sostenido
+    - te hubieses sostenido
+  ud:
+    - se hubiera sostenido
+    - se hubiese sostenido
+  nosotros:
+    - nos hubiéramos sostenido
+    - nos hubiésemos sostenido
+  vosotros:
+    - os hubierais sostenido
+    - os hubieseis sostenido
+  uds:
+    - se hubieran sostenido
+    - se hubiesen sostenido
+
+imperativo:
+  tu: sostenete
+  vos: sostenete
+  ud: sosténgase
+  nosotros: sostengámonos
+  vosotros: sosteneos
+  uds: sosténganse

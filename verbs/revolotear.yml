@@ -1,0 +1,142 @@
+infinitivo: revolotear
+gerundio: revoloteando
+participio-pasado: revoloteado
+presente-indicativo:
+  yo: revoloteo
+  tu: revoloteas
+  vos: revoloteas
+  ud: revolotea
+  nosotros: revoloteamos
+  vosotros: revoloteáis
+  uds: revolotean
+preterito-perfecto-simple:
+  yo: revoloteé
+  tu: revoloteaste
+  vos: revoloteaste
+  ud: revoloteó
+  nosotros: revoloteamos
+  vosotros: revoloteasteis
+  uds: revolotearon
+preterito-imperfecto:
+  yo: revoloteaba
+  tu: revoloteabas
+  vos: revoloteabas
+  ud: revoloteaba
+  nosotros: revoloteábamos
+  vosotros: revoloteabais
+  uds: revoloteaban
+futuro-simple:
+  yo: revolotearé
+  tu: revolotearás
+  vos: revolotearás
+  ud: revoloteará
+  nosotros: revolotearemos
+  vosotros: revolotearéis
+  uds: revolotearán
+condicional-simple:
+  yo: revolotearía
+  tu: revolotearías
+  vos: revolotearías
+  ud: revolotearía
+  nosotros: revolotearíamos
+  vosotros: revolotearíais
+  uds: revolotearían
+presente-perfecto:
+  yo: he revoloteado
+  tu: has revoloteado
+  vos: has revoloteado
+  ud: ha revoloteado
+  nosotros: hemos revoloteado
+  vosotros: habéis revoloteado
+  uds: han revoloteado
+preterito-pluscuamperfecto:
+  yo: había revoloteado
+  tu: habías revoloteado
+  vos: habías revoloteado
+  ud: había revoloteado
+  nosotros: habíamos revoloteado
+  vosotros: habíais revoloteado
+  uds: habían revoloteado
+futuro-perfecto:
+  yo: habré revoloteado
+  tu: habrás revoloteado
+  vos: habrás revoloteado
+  ud: habrá revoloteado
+  nosotros: habremos revoloteado
+  vosotros: habréis revoloteado
+  uds: habrán revoloteado
+condicional-perfecto:
+  yo: habría revoloteado
+  tu: habrías revoloteado
+  vos: habrías revoloteado
+  ud: habría revoloteado
+  nosotros: habríamos revoloteado
+  vosotros: habríais revoloteado
+  uds: habrían revoloteado
+presente-subjuntivo:
+  yo: revolotee
+  tu: revolotees
+  vos: revolotees
+  ud: revolotee
+  nosotros: revoloteemos
+  vosotros: revoloteéis
+  uds: revoloteen
+preterito-perfecto-subjuntivo:
+  yo: haya revoloteado
+  tu: hayas revoloteado
+  vos: hayas revoloteado
+  ud: haya revoloteado
+  nosotros: hayamos revoloteado
+  vosotros: hayáis revoloteado
+  uds: hayan revoloteado
+imperfecto-subjuntivo:
+  yo:
+    - revoloteara
+    - revolotearase
+  tu:
+    - revolotearas
+    - revolotearases
+  vos:
+    - revolotearas
+    - revolotearases
+  ud:
+    - revoloteara
+    - revolotearase
+  nosotros:
+    - revoloteáramos
+    - revoloteásemos
+  vosotros:
+    - revolotearais
+    - revolotearaseis
+  uds:
+    - revolotearan
+    - revolotearasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera revoloteado
+    - hubiese revoloteado
+  tu:
+    - hubieras revoloteado
+    - hubieses revoloteado
+  vos:
+    - hubieras revoloteado
+    - hubieses revoloteado
+  ud:
+    - hubiera revoloteado
+    - hubiese revoloteado
+  nosotros:
+    - hubiéramos revoloteado
+    - hubiésemos revoloteado
+  vosotros:
+    - hubierais revoloteado
+    - hubieseis revoloteado
+  uds:
+    - hubieran revoloteado
+    - hubiesen revoloteado
+imperativo:
+  tu: revolotea
+  vos: revoloteá
+  ud: revolotee
+  nosotros: revoloteemos
+  vosotros: revolotead
+  uds: revoloteen

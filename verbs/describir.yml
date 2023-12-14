@@ -1,0 +1,142 @@
+infinitivo: describir
+gerundio: describiendo
+participio-pasado: descrito
+presente-indicativo:
+  yo: describo
+  tu: describes
+  vos: describís
+  ud: describe
+  nosotros: describimos
+  vosotros: describís
+  uds: describen
+preterito-perfecto-simple:
+  yo: describí
+  tu: describiste
+  vos: describiste
+  ud: describió
+  nosotros: describimos
+  vosotros: describisteis
+  uds: describieron
+preterito-imperfecto:
+  yo: describía
+  tu: describías
+  vos: describías
+  ud: describía
+  nosotros: describíamos
+  vosotros: describíais
+  uds: describían
+futuro-simple:
+  yo: describiré
+  tu: describirás
+  vos: describirás
+  ud: describirá
+  nosotros: describiremos
+  vosotros: describiréis
+  uds: describirán
+condicional-simple:
+  yo: describiría
+  tu: describirías
+  vos: describirías
+  ud: describiría
+  nosotros: describiríamos
+  vosotros: describiríais
+  uds: describirían
+presente-perfecto:
+  yo: he descrito
+  tu: has descrito
+  vos: has descrito
+  ud: ha descrito
+  nosotros: hemos descrito
+  vosotros: habéis descrito
+  uds: han descrito
+preterito-pluscuamperfecto:
+  yo: había descrito
+  tu: habías descrito
+  vos: habías descrito
+  ud: había descrito
+  nosotros: habíamos descrito
+  vosotros: habíais descrito
+  uds: habían descrito
+futuro-perfecto:
+  yo: habré descrito
+  tu: habrás descrito
+  vos: habrás descrito
+  ud: habrá descrito
+  nosotros: habremos descrito
+  vosotros: habréis descrito
+  uds: habrán descrito
+condicional-perfecto:
+  yo: habría descrito
+  tu: habrías descrito
+  vos: habrías descrito
+  ud: habría descrito
+  nosotros: habríamos descrito
+  vosotros: habríais descrito
+  uds: habrían descrito
+presente-subjuntivo:
+  yo: describa
+  tu: describas
+  vos: describas
+  ud: describa
+  nosotros: describamos
+  vosotros: describáis
+  uds: describan
+preterito-perfecto-subjuntivo:
+  yo: haya descrito
+  tu: hayas descrito
+  vos: hayas descrito
+  ud: haya descrito
+  nosotros: hayamos descrito
+  vosotros: hayáis descrito
+  uds: hayan descrito
+imperfecto-subjuntivo:
+  yo:
+    - describiera
+    - describiese
+  tu:
+    - describieras
+    - describieses
+  vos:
+    - describieras
+    - describieses
+  ud:
+    - describiera
+    - describiese
+  nosotros:
+    - describiéramos
+    - describiésemos
+  vosotros:
+    - describierais
+    - describieseis
+  uds:
+    - describieran
+    - describiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera descrito
+    - hubiese descrito
+  tu:
+    - hubieras descrito
+    - hubieses descrito
+  vos:
+    - hubieras descrito
+    - hubieses descrito
+  ud:
+    - hubiera descrito
+    - hubiese descrito
+  nosotros:
+    - hubiéramos descrito
+    - hubiésemos descrito
+  vosotros:
+    - hubierais descrito
+    - hubieseis descrito
+  uds:
+    - hubieran descrito
+    - hubiesen descrito
+imperativo:
+  tu: describe
+  vos: describí
+  ud: describa
+  nosotros: describamos
+  vosotros: describid
+  uds: describan

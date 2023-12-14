@@ -1,0 +1,142 @@
+infinitivo: aborrecer
+gerundio: aborreciendo
+participio-pasado: aborrecido
+presente-indicativo:
+  yo: aborrezco
+  tu: aborreces
+  vos: aborrecés
+  ud: aborrece
+  nosotros: aborrecemos
+  vosotros: aborrecéis
+  uds: aborrecen
+preterito-perfecto-simple:
+  yo: aborrecí
+  tu: aborreciste
+  vos: aborreciste
+  ud: aborreció
+  nosotros: aborrecimos
+  vosotros: aborrecisteis
+  uds: aborrecieron
+preterito-imperfecto:
+  yo: aborrecía
+  tu: aborrecías
+  vos: aborrecías
+  ud: aborrecía
+  nosotros: aborrecíamos
+  vosotros: aborrecíais
+  uds: aborrecían
+futuro-simple:
+  yo: aborreceré
+  tu: aborrecerás
+  vos: aborrecerás
+  ud: aborrecerá
+  nosotros: aborreceremos
+  vosotros: aborreceréis
+  uds: aborrecerán
+condicional-simple:
+  yo: aborrecería
+  tu: aborrecerías
+  vos: aborrecerías
+  ud: aborrecería
+  nosotros: aborreceríamos
+  vosotros: aborreceríais
+  uds: aborrecerían
+presente-perfecto:
+  yo: he aborrecido
+  tu: has aborrecido
+  vos: has aborrecido
+  ud: ha aborrecido
+  nosotros: hemos aborrecido
+  vosotros: habéis aborrecido
+  uds: han aborrecido
+preterito-pluscuamperfecto:
+  yo: había aborrecido
+  tu: habías aborrecido
+  vos: habías aborrecido
+  ud: había aborrecido
+  nosotros: habíamos aborrecido
+  vosotros: habíais aborrecido
+  uds: habían aborrecido
+futuro-perfecto:
+  yo: habré aborrecido
+  tu: habrás aborrecido
+  vos: habrás aborrecido
+  ud: habrá aborrecido
+  nosotros: habremos aborrecido
+  vosotros: habréis aborrecido
+  uds: habrán aborrecido
+condicional-perfecto:
+  yo: habría aborrecido
+  tu: habrías aborrecido
+  vos: habrías aborrecido
+  ud: habría aborrecido
+  nosotros: habríamos aborrecido
+  vosotros: habríais aborrecido
+  uds: habrían aborrecido
+presente-subjuntivo:
+  yo: aborrezca
+  tu: aborrezcas
+  vos: aborrezcas
+  ud: aborrezca
+  nosotros: aborrezcamos
+  vosotros: aborrezcáis
+  uds: aborrezcan
+preterito-perfecto-subjuntivo:
+  yo: haya aborrecido
+  tu: hayas aborrecido
+  vos: hayas aborrecido
+  ud: haya aborrecido
+  nosotros: hayamos aborrecido
+  vosotros: hayáis aborrecido
+  uds: hayan aborrecido
+imperfecto-subjuntivo:
+  yo:
+    - aborreciera
+    - aborreciese
+  tu:
+    - aborrecieras
+    - aborrecieses
+  vos:
+    - aborrecieras
+    - aborrecieses
+  ud:
+    - aborreciera
+    - aborreciese
+  nosotros:
+    - aborreciéramos
+    - aborreciésemos
+  vosotros:
+    - aborrecierais
+    - aborrecieseis
+  uds:
+    - aborrecieran
+    - aborreciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aborrecido
+    - hubiese aborrecido
+  tu:
+    - hubieras aborrecido
+    - hubieses aborrecido
+  vos:
+    - hubieras aborrecido
+    - hubieses aborrecido
+  ud:
+    - hubiera aborrecido
+    - hubiese aborrecido
+  nosotros:
+    - hubiéramos aborrecido
+    - hubiésemos aborrecido
+  vosotros:
+    - hubierais aborrecido
+    - hubieseis aborrecido
+  uds:
+    - hubieran aborrecido
+    - hubiesen aborrecido
+imperativo:
+  tu: aborrece
+  vos: aborrecé
+  ud: aborrezca
+  nosotros: aborrezcamos
+  vosotros: aborreced
+  uds: aborrezcan

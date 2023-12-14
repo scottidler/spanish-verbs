@@ -1,0 +1,156 @@
+infinitivo: tocarse
+gerundio: tocándose
+participio-pasado: tocado
+
+presente-indicativo:
+  yo: me toco
+  tu: te tocas
+  vos: te tocas
+  ud: se toca
+  nosotros: nos tocamos
+  vosotros: os tocáis
+  uds: se tocan
+
+preterito-perfecto-simple:
+  yo: me toqué
+  tu: te tocaste
+  vos: te tocaste
+  ud: se tocó
+  nosotros: nos tocamos
+  vosotros: os tocasteis
+  uds: se tocaron
+
+preterito-imperfecto:
+  yo: me tocaba
+  tu: te tocabas
+  vos: te tocabas
+  ud: se tocaba
+  nosotros: nos tocábamos
+  vosotros: os tocabais
+  uds: se tocaban
+
+futuro-simple:
+  yo: me tocaré
+  tu: te tocarás
+  vos: te tocarás
+  ud: se tocará
+  nosotros: nos tocaremos
+  vosotros: os tocaréis
+  uds: se tocarán
+
+condicional-simple:
+  yo: me tocaría
+  tu: te tocarías
+  vos: te tocarías
+  ud: se tocaría
+  nosotros: nos tocaríamos
+  vosotros: os tocaríais
+  uds: se tocarían
+
+presente-perfecto:
+  yo: me he tocado
+  tu: te has tocado
+  vos: te has tocado
+  ud: se ha tocado
+  nosotros: nos hemos tocado
+  vosotros: os habéis tocado
+  uds: se han tocado
+
+preterito-pluscuamperfecto:
+  yo: me había tocado
+  tu: te habías tocado
+  vos: te habías tocado
+  ud: se había tocado
+  nosotros: nos habíamos tocado
+  vosotros: os habíais tocado
+  uds: se habían tocado
+
+futuro-perfecto:
+  yo: me habré tocado
+  tu: te habrás tocado
+  vos: te habrás tocado
+  ud: se habrá tocado
+  nosotros: nos habremos tocado
+  vosotros: os habréis tocado
+  uds: se habrán tocado
+
+condicional-perfecto:
+  yo: me habría tocado
+  tu: te habrías tocado
+  vos: te habrías tocado
+  ud: se habría tocado
+  nosotros: nos habríamos tocado
+  vosotros: os habríais tocado
+  uds: se habrían tocado
+
+presente-subjuntivo:
+  yo: me toque
+  tu: te toques
+  vos: te toques
+  ud: se toque
+  nosotros: nos toquemos
+  vosotros: os toquéis
+  uds: se toquen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya tocado
+  tu: te hayas tocado
+  vos: te hayas tocado
+  ud: se haya tocado
+  nosotros: nos hayamos tocado
+  vosotros: os hayáis tocado
+  uds: se hayan tocado
+
+imperfecto-subjuntivo:
+  yo:
+    - me tocara
+    - me tocase
+  tu:
+    - te tocaras
+    - te tocases
+  vos:
+    - te tocaras
+    - te tocases
+  ud:
+    - se tocara
+    - se tocase
+  nosotros:
+    - nos tocáramos
+    - nos tocásemos
+  vosotros:
+    - os tocarais
+    - os tocaseis
+  uds:
+    - se tocaran
+    - se tocasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera tocado
+    - me hubiese tocado
+  tu:
+    - te hubieras tocado
+    - te hubieses tocado
+  vos:
+    - te hubieras tocado
+    - te hubieses tocado
+  ud:
+    - se hubiera tocado
+    - se hubiese tocado
+  nosotros:
+    - nos hubiéramos tocado
+    - nos hubiésemos tocado
+  vosotros:
+    - os hubierais tocado
+    - os hubieseis tocado
+  uds:
+    - se hubieran tocado
+    - se hubiesen tocado
+
+imperativo:
+  tu: tocate
+  vos: tocáte
+  ud: tóquese
+  nosotros: toquémonos
+  vosotros: tocaos
+  uds: tóquense

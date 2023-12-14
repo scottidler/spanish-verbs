@@ -1,0 +1,142 @@
+infinitivo: investigar
+gerundio: investigando
+participio-pasado: investigado
+presente-indicativo:
+  yo: investigo
+  tu: investigas
+  vos: investigas
+  ud: investiga
+  nosotros: investigamos
+  vosotros: investigáis
+  uds: investigan
+preterito-perfecto-simple:
+  yo: investigué
+  tu: investigaste
+  vos: investigaste
+  ud: investigó
+  nosotros: investigamos
+  vosotros: investigasteis
+  uds: investigaron
+preterito-imperfecto:
+  yo: investigaba
+  tu: investigabas
+  vos: investigabas
+  ud: investigaba
+  nosotros: investigábamos
+  vosotros: investigabais
+  uds: investigaban
+futuro-simple:
+  yo: investigaré
+  tu: investigarás
+  vos: investigarás
+  ud: investigará
+  nosotros: investigaremos
+  vosotros: investigaréis
+  uds: investigarán
+condicional-simple:
+  yo: investigaría
+  tu: investigarías
+  vos: investigarías
+  ud: investigaría
+  nosotros: investigaríamos
+  vosotros: investigaríais
+  uds: investigarían
+presente-perfecto:
+  yo: he investigado
+  tu: has investigado
+  vos: has investigado
+  ud: ha investigado
+  nosotros: hemos investigado
+  vosotros: habéis investigado
+  uds: han investigado
+preterito-pluscuamperfecto:
+  yo: había investigado
+  tu: habías investigado
+  vos: habías investigado
+  ud: había investigado
+  nosotros: habíamos investigado
+  vosotros: habíais investigado
+  uds: habían investigado
+futuro-perfecto:
+  yo: habré investigado
+  tu: habrás investigado
+  vos: habrás investigado
+  ud: habrá investigado
+  nosotros: habremos investigado
+  vosotros: habréis investigado
+  uds: habrán investigado
+condicional-perfecto:
+  yo: habría investigado
+  tu: habrías investigado
+  vos: habrías investigado
+  ud: habría investigado
+  nosotros: habríamos investigado
+  vosotros: habríais investigado
+  uds: habrían investigado
+presente-subjuntivo:
+  yo: investigue
+  tu: investigues
+  vos: investigues
+  ud: investigue
+  nosotros: investiguemos
+  vosotros: investiguéis
+  uds: investiguen
+preterito-perfecto-subjuntivo:
+  yo: haya investigado
+  tu: hayas investigado
+  vos: hayas investigado
+  ud: haya investigado
+  nosotros: hayamos investigado
+  vosotros: hayáis investigado
+  uds: hayan investigado
+imperfecto-subjuntivo:
+  yo:
+    - investigara
+    - investigase
+  tu:
+    - investigaras
+    - investigases
+  vos:
+    - investigaras
+    - investigases
+  ud:
+    - investigara
+    - investigase
+  nosotros:
+    - investigáramos
+    - investigásemos
+  vosotros:
+    - investigarais
+    - investigaseis
+  uds:
+    - investigaran
+    - investigasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera investigado
+    - hubiese investigado
+  tu:
+    - hubieras investigado
+    - hubieses investigado
+  vos:
+    - hubieras investigado
+    - hubieses investigado
+  ud:
+    - hubiera investigado
+    - hubiese investigado
+  nosotros:
+    - hubiéramos investigado
+    - hubiésemos investigado
+  vosotros:
+    - hubierais investigado
+    - hubieseis investigado
+  uds:
+    - hubieran investigado
+    - hubiesen investigado
+imperativo:
+  tu: investiga
+  vos: investigá
+  ud: investigue
+  nosotros: investiguemos
+  vosotros: investigad
+  uds: investiguen

@@ -1,0 +1,142 @@
+infinitivo: sustituir
+gerundio: sustituyendo
+participio-pasado: sustituido
+presente-indicativo:
+  yo: sustituyo
+  tu: sustituyes
+  vos: sustituyes
+  ud: sustituye
+  nosotros: sustituimos
+  vosotros: sustituís
+  uds: sustituyen
+preterito-perfecto-simple:
+  yo: sustituí
+  tu: sustituiste
+  vos: sustituiste
+  ud: sustituyó
+  nosotros: sustituimos
+  vosotros: sustituisteis
+  uds: sustituyeron
+preterito-imperfecto:
+  yo: sustituía
+  tu: sustituías
+  vos: sustituías
+  ud: sustituía
+  nosotros: sustituíamos
+  vosotros: sustituíais
+  uds: sustituían
+futuro-simple:
+  yo: sustituiré
+  tu: sustituirás
+  vos: sustituirás
+  ud: sustituirá
+  nosotros: sustituiremos
+  vosotros: sustituiréis
+  uds: sustituirán
+condicional-simple:
+  yo: sustituiría
+  tu: sustituirías
+  vos: sustituirías
+  ud: sustituiría
+  nosotros: sustituiríamos
+  vosotros: sustituiríais
+  uds: sustituirían
+presente-perfecto:
+  yo: he sustituido
+  tu: has sustituido
+  vos: has sustituido
+  ud: ha sustituido
+  nosotros: hemos sustituido
+  vosotros: habéis sustituido
+  uds: han sustituido
+preterito-pluscuamperfecto:
+  yo: había sustituido
+  tu: habías sustituido
+  vos: habías sustituido
+  ud: había sustituido
+  nosotros: habíamos sustituido
+  vosotros: habíais sustituido
+  uds: habían sustituido
+futuro-perfecto:
+  yo: habré sustituido
+  tu: habrás sustituido
+  vos: habrás sustituido
+  ud: habrá sustituido
+  nosotros: habremos sustituido
+  vosotros: habréis sustituido
+  uds: habrán sustituido
+condicional-perfecto:
+  yo: habría sustituido
+  tu: habrías sustituido
+  vos: habrías sustituido
+  ud: habría sustituido
+  nosotros: habríamos sustituido
+  vosotros: habríais sustituido
+  uds: habrían sustituido
+presente-subjuntivo:
+  yo: sustituya
+  tu: sustituyas
+  vos: sustituyas
+  ud: sustituya
+  nosotros: sustituyamos
+  vosotros: sustituyáis
+  uds: sustituyan
+preterito-perfecto-subjuntivo:
+  yo: haya sustituido
+  tu: hayas sustituido
+  vos: hayas sustituido
+  ud: haya sustituido
+  nosotros: hayamos sustituido
+  vosotros: hayáis sustituido
+  uds: hayan sustituido
+imperfecto-subjuntivo:
+  yo:
+    - sustituyera
+    - sustituyese
+  tu:
+    - sustituyeras
+    - sustituyeses
+  vos:
+    - sustituyeras
+    - sustituyeses
+  ud:
+    - sustituyera
+    - sustituyese
+  nosotros:
+    - sustituyéramos
+    - sustituyésemos
+  vosotros:
+    - sustituyerais
+    - sustituyeseis
+  uds:
+    - sustituyeran
+    - sustituyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sustituido
+    - hubiese sustituido
+  tu:
+    - hubieras sustituido
+    - hubieses sustituido
+  vos:
+    - hubieras sustituido
+    - hubieses sustituido
+  ud:
+    - hubiera sustituido
+    - hubiese sustituido
+  nosotros:
+    - hubiéramos sustituido
+    - hubiésemos sustituido
+  vosotros:
+    - hubierais sustituido
+    - hubieseis sustituido
+  uds:
+    - hubieran sustituido
+    - hubiesen sustituido
+imperativo:
+  tu: sustituye
+  vos: sustituí
+  ud: sustituya
+  nosotros: sustituyamos
+  vosotros: sustituid
+  uds: sustituyan

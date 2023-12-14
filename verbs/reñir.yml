@@ -1,0 +1,156 @@
+infinitivo: reñir
+gerundio: riendo
+participio-pasado: riñendo
+
+presente-indicativo:
+  yo: riño
+  tu: riñes
+  vos: riñes
+  ud: riñe
+  nosotros: reñimos
+  vosotros: reñís
+  uds: riñen
+
+preterito-perfecto-simple:
+  yo: reñí
+  tu: reñiste
+  vos: reñiste
+  ud: reñó
+  nosotros: reñimos
+  vosotros: reñisteis
+  uds: riñeron
+
+preterito-imperfecto:
+  yo: reñía
+  tu: reñías
+  vos: reñías
+  ud: reñía
+  nosotros: reñíamos
+  vosotros: reñíais
+  uds: reñían
+
+futuro-simple:
+  yo: reñiré
+  tu: reñirás
+  vos: reñirás
+  ud: reñirá
+  nosotros: reñiremos
+  vosotros: reñiréis
+  uds: reñirán
+
+condicional-simple:
+  yo: reñiría
+  tu: reñirías
+  vos: reñirías
+  ud: reñiría
+  nosotros: reñiríamos
+  vosotros: reñiríais
+  uds: reñirían
+
+presente-perfecto:
+  yo: he reñido
+  tu: has reñido
+  vos: has reñido
+  ud: ha reñido
+  nosotros: hemos reñido
+  vosotros: habéis reñido
+  uds: han reñido
+
+preterito-pluscuamperfecto:
+  yo: había reñido
+  tu: habías reñido
+  vos: habías reñido
+  ud: había reñido
+  nosotros: habíamos reñido
+  vosotros: habíais reñido
+  uds: habían reñido
+
+futuro-perfecto:
+  yo: habré reñido
+  tu: habrás reñido
+  vos: habrás reñido
+  ud: habrá reñido
+  nosotros: habremos reñido
+  vosotros: habréis reñido
+  uds: habrán reñido
+
+condicional-perfecto:
+  yo: habría reñido
+  tu: habrías reñido
+  vos: habrías reñido
+  ud: habría reñido
+  nosotros: habríamos reñido
+  vosotros: habríais reñido
+  uds: habrían reñido
+
+presente-subjuntivo:
+  yo: ría
+  tu: rías
+  vos: rías
+  ud: ría
+  nosotros: riamos
+  vosotros: riáis
+  uds: rían
+
+preterito-perfecto-subjuntivo:
+  yo: haya reñido
+  tu: hayas reñido
+  vos: hayas reñido
+  ud: haya reñido
+  nosotros: hayamos reñido
+  vosotros: hayáis reñido
+  uds: hayan reñido
+
+imperfecto-subjuntivo:
+  yo:
+    - riñera
+    - riñese
+  tu:
+    - riñeras
+    - riñeses
+  vos:
+    - riñeras
+    - riñeses
+  ud:
+    - riñera
+    - riñese
+  nosotros:
+    - riñéramos
+    - riñésemos
+  vosotros:
+    - riñerais
+    - riñeseis
+  uds:
+    - riñeran
+    - riñesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reñido
+    - hubiese reñido
+  tu:
+    - hubieras reñido
+    - hubieses reñido
+  vos:
+    - hubieras reñido
+    - hubieses reñido
+  ud:
+    - hubiera reñido
+    - hubiese reñido
+  nosotros:
+    - hubiéramos reñido
+    - hubiésemos reñido
+  vosotros:
+    - hubierais reñido
+    - hubieseis reñido
+  uds:
+    - hubieran reñido
+    - hubiesen reñido
+
+imperativo:
+  tu: riñe
+  vos: riñe
+  ud: riña
+  nosotros: riñamos
+  vosotros: reñid
+  uds: riñan

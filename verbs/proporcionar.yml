@@ -1,0 +1,142 @@
+infinitivo: proporcionar
+gerundio: proporcionando
+participio-pasado: proporcionado
+presente-indicativo:
+  yo: proporciono
+  tu: proporcionas
+  vos: proporcionas
+  ud: proporciona
+  nosotros: proporcionamos
+  vosotros: proporcionáis
+  uds: proporcionan
+preterito-perfecto-simple:
+  yo: proporcioné
+  tu: proporcionaste
+  vos: proporcionaste
+  ud: proporcionó
+  nosotros: proporcionamos
+  vosotros: proporcionasteis
+  uds: proporcionaron
+preterito-imperfecto:
+  yo: proporcionaba
+  tu: proporcionabas
+  vos: proporcionabas
+  ud: proporcionaba
+  nosotros: proporcionábamos
+  vosotros: proporcionabais
+  uds: proporcionaban
+futuro-simple:
+  yo: proporcionaré
+  tu: proporcionarás
+  vos: proporcionarás
+  ud: proporcionará
+  nosotros: proporcionaremos
+  vosotros: proporcionaréis
+  uds: proporcionarán
+condicional-simple:
+  yo: proporcionaría
+  tu: proporcionarías
+  vos: proporcionarías
+  ud: proporcionaría
+  nosotros: proporcionaríamos
+  vosotros: proporcionaríais
+  uds: proporcionarían
+presente-perfecto:
+  yo: he proporcionado
+  tu: has proporcionado
+  vos: has proporcionado
+  ud: ha proporcionado
+  nosotros: hemos proporcionado
+  vosotros: habéis proporcionado
+  uds: han proporcionado
+preterito-pluscuamperfecto:
+  yo: había proporcionado
+  tu: habías proporcionado
+  vos: habías proporcionado
+  ud: había proporcionado
+  nosotros: habíamos proporcionado
+  vosotros: habíais proporcionado
+  uds: habían proporcionado
+futuro-perfecto:
+  yo: habré proporcionado
+  tu: habrás proporcionado
+  vos: habrás proporcionado
+  ud: habrá proporcionado
+  nosotros: habremos proporcionado
+  vosotros: habréis proporcionado
+  uds: habrán proporcionado
+condicional-perfecto:
+  yo: habría proporcionado
+  tu: habrías proporcionado
+  vos: habrías proporcionado
+  ud: habría proporcionado
+  nosotros: habríamos proporcionado
+  vosotros: habríais proporcionado
+  uds: habrían proporcionado
+presente-subjuntivo:
+  yo: proporcione
+  tu: proporciones
+  vos: proporciones
+  ud: proporcione
+  nosotros: proporcionemos
+  vosotros: proporcionéis
+  uds: proporcionen
+preterito-perfecto-subjuntivo:
+  yo: haya proporcionado
+  tu: hayas proporcionado
+  vos: hayas proporcionado
+  ud: haya proporcionado
+  nosotros: hayamos proporcionado
+  vosotros: hayáis proporcionado
+  uds: hayan proporcionado
+imperfecto-subjuntivo:
+  yo:
+    - proporcionara
+    - proporcionase
+  tu:
+    - proporcionaras
+    - proporcionases
+  vos:
+    - proporcionaras
+    - proporcionases
+  ud:
+    - proporcionara
+    - proporcionase
+  nosotros:
+    - proporcionáramos
+    - proporcionásemos
+  vosotros:
+    - proporcionarais
+    - proporcionaseis
+  uds:
+    - proporcionaran
+    - proporcionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera proporcionado
+    - hubiese proporcionado
+  tu:
+    - hubieras proporcionado
+    - hubieses proporcionado
+  vos:
+    - hubieras proporcionado
+    - hubieses proporcionado
+  ud:
+    - hubiera proporcionado
+    - hubiese proporcionado
+  nosotros:
+    - hubiéramos proporcionado
+    - hubiésemos proporcionado
+  vosotros:
+    - hubierais proporcionado
+    - hubieseis proporcionado
+  uds:
+    - hubieran proporcionado
+    - hubiesen proporcionado
+imperativo:
+  tu: proporciona
+  vos: proporcioná
+  ud: proporcione
+  nosotros: proporcionemos
+  vosotros: proporcionad
+  uds: proporcionen

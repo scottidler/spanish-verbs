@@ -1,0 +1,142 @@
+infinitivo: incluir
+gerundio: incluyendo
+participio-pasado: incluido
+presente-indicativo:
+  yo: incluyo
+  tu: incluyes
+  vos: incluís
+  ud: incluye
+  nosotros: incluimos
+  vosotros: incluís
+  uds: incluyen
+preterito-perfecto-simple:
+  yo: incluí
+  tu: incluiste
+  vos: incluiste
+  ud: incluyó
+  nosotros: incluimos
+  vosotros: incluisteis
+  uds: incluyeron
+preterito-imperfecto:
+  yo: incluía
+  tu: incluías
+  vos: incluías
+  ud: incluía
+  nosotros: incluíamos
+  vosotros: incluíais
+  uds: incluían
+futuro-simple:
+  yo: incluiré
+  tu: incluirás
+  vos: incluirás
+  ud: incluirá
+  nosotros: incluiremos
+  vosotros: incluiréis
+  uds: incluirán
+condicional-simple:
+  yo: incluiría
+  tu: incluirías
+  vos: incluirías
+  ud: incluiría
+  nosotros: incluiríamos
+  vosotros: incluiríais
+  uds: incluirían
+presente-perfecto:
+  yo: he incluido
+  tu: has incluido
+  vos: has incluido
+  ud: ha incluido
+  nosotros: hemos incluido
+  vosotros: habéis incluido
+  uds: han incluido
+preterito-pluscuamperfecto:
+  yo: había incluido
+  tu: habías incluido
+  vos: habías incluido
+  ud: había incluido
+  nosotros: habíamos incluido
+  vosotros: habíais incluido
+  uds: habían incluido
+futuro-perfecto:
+  yo: habré incluido
+  tu: habrás incluido
+  vos: habrás incluido
+  ud: habrá incluido
+  nosotros: habremos incluido
+  vosotros: habréis incluido
+  uds: habrán incluido
+condicional-perfecto:
+  yo: habría incluido
+  tu: habrías incluido
+  vos: habrías incluido
+  ud: habría incluido
+  nosotros: habríamos incluido
+  vosotros: habríais incluido
+  uds: habrían incluido
+presente-subjuntivo:
+  yo: incluya
+  tu: incluyas
+  vos: incluyas
+  ud: incluya
+  nosotros: incluyamos
+  vosotros: incluyáis
+  uds: incluyan
+preterito-perfecto-subjuntivo:
+  yo: haya incluido
+  tu: hayas incluido
+  vos: hayas incluido
+  ud: haya incluido
+  nosotros: hayamos incluido
+  vosotros: hayáis incluido
+  uds: hayan incluido
+imperfecto-subjuntivo:
+  yo:
+    - incluyera
+    - incluyese
+  tu:
+    - incluyeras
+    - incluyeses
+  vos:
+    - incluyeras
+    - incluyeses
+  ud:
+    - incluyera
+    - incluyese
+  nosotros:
+    - incluyéramos
+    - incluyésemos
+  vosotros:
+    - incluyerais
+    - incluyeseis
+  uds:
+    - incluyeran
+    - incluyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera incluido
+    - hubiese incluido
+  tu:
+    - hubieras incluido
+    - hubieses incluido
+  vos:
+    - hubieras incluido
+    - hubieses incluido
+  ud:
+    - hubiera incluido
+    - hubiese incluido
+  nosotros:
+    - hubiéramos incluido
+    - hubiésemos incluido
+  vosotros:
+    - hubierais incluido
+    - hubieseis incluido
+  uds:
+    - hubieran incluido
+    - hubiesen incluido
+imperativo:
+  tu: incluye
+  vos: incluí
+  ud: incluya
+  nosotros: incluyamos
+  vosotros: incluid
+  uds: incluyan

@@ -1,0 +1,142 @@
+infinitivo: decepcionar
+gerundio: decepcionando
+participio-pasado: decepcionado
+presente-indicativo:
+  yo: decepciono
+  tu: decepcionas
+  vos: decepcionas
+  ud: decepciona
+  nosotros: decepcionamos
+  vosotros: decepcionáis
+  uds: decepcionan
+preterito-perfecto-simple:
+  yo: decepcioné
+  tu: decepcionaste
+  vos: decepcionaste
+  ud: decepcionó
+  nosotros: decepcionamos
+  vosotros: decepcionasteis
+  uds: decepcionaron
+preterito-imperfecto:
+  yo: decepcionaba
+  tu: decepcionabas
+  vos: decepcionabas
+  ud: decepcionaba
+  nosotros: decepcionábamos
+  vosotros: decepcionabais
+  uds: decepcionaban
+futuro-simple:
+  yo: decepcionaré
+  tu: decepcionarás
+  vos: decepcionarás
+  ud: decepcionará
+  nosotros: decepcionaremos
+  vosotros: decepcionaréis
+  uds: decepcionarán
+condicional-simple:
+  yo: decepcionaría
+  tu: decepcionarías
+  vos: decepcionarías
+  ud: decepcionaría
+  nosotros: decepcionaríamos
+  vosotros: decepcionaríais
+  uds: decepcionarían
+presente-perfecto:
+  yo: he decepcionado
+  tu: has decepcionado
+  vos: has decepcionado
+  ud: ha decepcionado
+  nosotros: hemos decepcionado
+  vosotros: habéis decepcionado
+  uds: han decepcionado
+preterito-pluscuamperfecto:
+  yo: había decepcionado
+  tu: habías decepcionado
+  vos: habías decepcionado
+  ud: había decepcionado
+  nosotros: habíamos decepcionado
+  vosotros: habíais decepcionado
+  uds: habían decepcionado
+futuro-perfecto:
+  yo: habré decepcionado
+  tu: habrás decepcionado
+  vos: habrás decepcionado
+  ud: habrá decepcionado
+  nosotros: habremos decepcionado
+  vosotros: habréis decepcionado
+  uds: habrán decepcionado
+condicional-perfecto:
+  yo: habría decepcionado
+  tu: habrías decepcionado
+  vos: habrías decepcionado
+  ud: habría decepcionado
+  nosotros: habríamos decepcionado
+  vosotros: habríais decepcionado
+  uds: habrían decepcionado
+presente-subjuntivo:
+  yo: decepcione
+  tu: decepciones
+  vos: decepciones
+  ud: decepcione
+  nosotros: decepcionemos
+  vosotros: decepcionéis
+  uds: decepcionen
+preterito-perfecto-subjuntivo:
+  yo: haya decepcionado
+  tu: hayas decepcionado
+  vos: hayas decepcionado
+  ud: haya decepcionado
+  nosotros: hayamos decepcionado
+  vosotros: hayáis decepcionado
+  uds: hayan decepcionado
+imperfecto-subjuntivo:
+  yo:
+    - decepcionara
+    - decepcionase
+  tu:
+    - decepcionaras
+    - decepcionases
+  vos:
+    - decepcionaras
+    - decepcionases
+  ud:
+    - decepcionara
+    - decepcionase
+  nosotros:
+    - decepcionáramos
+    - decepcionásemos
+  vosotros:
+    - decepcionarais
+    - decepcionaseis
+  uds:
+    - decepcionaran
+    - decepcionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera decepcionado
+    - hubiese decepcionado
+  tu:
+    - hubieras decepcionado
+    - hubieses decepcionado
+  vos:
+    - hubieras decepcionado
+    - hubieses decepcionado
+  ud:
+    - hubiera decepcionado
+    - hubiese decepcionado
+  nosotros:
+    - hubiéramos decepcionado
+    - hubiésemos decepcionado
+  vosotros:
+    - hubierais decepcionado
+    - hubieseis decepcionado
+  uds:
+    - hubieran decepcionado
+    - hubiesen decepcionado
+imperativo:
+  tu: decepciona
+  vos: decepcioná
+  ud: decepcione
+  nosotros: decepcionemos
+  vosotros: decepcionad
+  uds: decepcionen

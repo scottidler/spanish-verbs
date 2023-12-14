@@ -1,0 +1,142 @@
+infinitivo: reclamaser
+gerundio: reclamasendo
+participio-pasado: reclamasado
+presente-indicativo:
+  yo: reclamaso
+  tu: reclamases
+  vos: reclamases
+  ud: reclamase
+  nosotros: reclamasemos
+  vosotros: reclamaséis
+  uds: reclamasen
+preterito-perfecto-simple:
+  yo: reclamase
+  tu: reclamaseste
+  vos: reclamaseste
+  ud: reclamase
+  nosotros: reclamamos
+  vosotros: reclamasesteis
+  uds: reclamasen
+preterito-imperfecto:
+  yo: reclamasaba
+  tu: reclamasabas
+  vos: reclamasabas
+  ud: reclamasaba
+  nosotros: reclamasábamos
+  vosotros: reclamasabais
+  uds: reclamasaban
+futuro-simple:
+  yo: reclamasaré
+  tu: reclamasarás
+  vos: reclamasarás
+  ud: reclamasará
+  nosotros: reclamasaremos
+  vosotros: reclamasaréis
+  uds: reclamasarán
+condicional-simple:
+  yo: reclamasaría
+  tu: reclamasarías
+  vos: reclamasarías
+  ud: reclamasaría
+  nosotros: reclamasaríamos
+  vosotros: reclamasaríais
+  uds: reclamasarían
+presente-perfecto:
+  yo: he reclamasado
+  tu: has reclamasado
+  vos: has reclamasado
+  ud: ha reclamasado
+  nosotros: hemos reclamasado
+  vosotros: habéis reclamasado
+  uds: han reclamasado
+preterito-pluscuamperfecto:
+  yo: había reclamasado
+  tu: habías reclamasado
+  vos: habías reclamasado
+  ud: había reclamasado
+  nosotros: habíamos reclamasado
+  vosotros: habíais reclamasado
+  uds: habían reclamasado
+futuro-perfecto:
+  yo: habré reclamasado
+  tu: habrás reclamasado
+  vos: habrás reclamasado
+  ud: habrá reclamasado
+  nosotros: habremos reclamasado
+  vosotros: habréis reclamasado
+  uds: habrán reclamasado
+condicional-perfecto:
+  yo: habría reclamasado
+  tu: habrías reclamasado
+  vos: habrías reclamasado
+  ud: habría reclamasado
+  nosotros: habríamos reclamasado
+  vosotros: habríais reclamasado
+  uds: habrían reclamasado
+presente-subjuntivo:
+  yo: reclamase
+  tu: reclamases
+  vos: reclamases
+  ud: reclamase
+  nosotros: reclamasemos
+  vosotros: reclamaséis
+  uds: reclamasen
+preterito-perfecto-subjuntivo:
+  yo: haya reclamasado
+  tu: hayas reclamasado
+  vos: hayas reclamasado
+  ud: haya reclamasado
+  nosotros: hayamos reclamasado
+  vosotros: hayáis reclamasado
+  uds: hayan reclamasado
+imperfecto-subjuntivo:
+  yo:
+    - reclamasara
+    - reclamase
+  tu:
+    - reclamaras
+    - reclamases
+  vos:
+    - reclamaras
+    - reclamases
+  ud:
+    - reclamara
+    - reclamase
+  nosotros:
+    - reclamáramos
+    - reclamásemos
+  vosotros:
+    - reclamarais
+    - reclamaseis
+  uds:
+    - reclamaran
+    - reclamasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reclamasado
+    - hubiese reclamasado
+  tu:
+    - hubieras reclamasado
+    - hubieses reclamasado
+  vos:
+    - hubieras reclamasado
+    - hubieses reclamasado
+  ud:
+    - hubiera reclamasado
+    - hubiese reclamasado
+  nosotros:
+    - hubiéramos reclamasado
+    - hubiésemos reclamasado
+  vosotros:
+    - hubierais reclamasado
+    - hubieseis reclamasado
+  uds:
+    - hubieran reclamasado
+    - hubiesen reclamasado
+imperativo:
+  tu: reclamasa
+  vos: reclamá
+  ud: reclamase
+  nosotros: reclamasemos
+  vosotros: reclamasad
+  uds: reclamasen

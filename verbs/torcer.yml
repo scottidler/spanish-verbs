@@ -1,0 +1,142 @@
+infinitivo: torcer
+gerundio: torciendo
+participio-pasado: torcido
+presente-indicativo:
+  yo: tuerzo
+  tu: tuerces
+  vos: tuerces
+  ud: tuerce
+  nosotros: torcemos
+  vosotros: torcéis
+  uds: tuercen
+preterito-perfecto-simple:
+  yo: torcí
+  tu: torciste
+  vos: torciste
+  ud: torció
+  nosotros: torcimos
+  vosotros: torcisteis
+  uds: torcieron
+preterito-imperfecto:
+  yo: torcía
+  tu: torcías
+  vos: torcías
+  ud: torcía
+  nosotros: torcíamos
+  vosotros: torcíais
+  uds: torcían
+futuro-simple:
+  yo: torceré
+  tu: torcerás
+  vos: torcerás
+  ud: torcerá
+  nosotros: torceremos
+  vosotros: torceréis
+  uds: torcerán
+condicional-simple:
+  yo: torcería
+  tu: torcerías
+  vos: torcerías
+  ud: torcería
+  nosotros: torceríamos
+  vosotros: torceríais
+  uds: torcerían
+presente-perfecto:
+  yo: he torcido
+  tu: has torcido
+  vos: has torcido
+  ud: ha torcido
+  nosotros: hemos torcido
+  vosotros: habéis torcido
+  uds: han torcido
+preterito-pluscuamperfecto:
+  yo: había torcido
+  tu: habías torcido
+  vos: habías torcido
+  ud: había torcido
+  nosotros: habíamos torcido
+  vosotros: habíais torcido
+  uds: habían torcido
+futuro-perfecto:
+  yo: habré torcido
+  tu: habrás torcido
+  vos: habrás torcido
+  ud: habrá torcido
+  nosotros: habremos torcido
+  vosotros: habréis torcido
+  uds: habrán torcido
+condicional-perfecto:
+  yo: habría torcido
+  tu: habrías torcido
+  vos: habrías torcido
+  ud: habría torcido
+  nosotros: habríamos torcido
+  vosotros: habríais torcido
+  uds: habrían torcido
+presente-subjuntivo:
+  yo: tuerza
+  tu: tuerzas
+  vos: tuerzas
+  ud: tuerza
+  nosotros: tuerzamos
+  vosotros: torzáis
+  uds: tuerzan
+preterito-perfecto-subjuntivo:
+  yo: haya torcido
+  tu: hayas torcido
+  vos: hayas torcido
+  ud: haya torcido
+  nosotros: hayamos torcido
+  vosotros: hayáis torcido
+  uds: hayan torcido
+imperfecto-subjuntivo:
+  yo:
+    - torciera
+    - torciese
+  tu:
+    - torcieras
+    - torcieses
+  vos:
+    - torcieras
+    - torcieses
+  ud:
+    - torciera
+    - torciese
+  nosotros:
+    - torciéramos
+    - torciésemos
+  vosotros:
+    - torcierais
+    - torcieseis
+  uds:
+    - torcieran
+    - torciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera torcido
+    - hubiese torcido
+  tu:
+    - hubieras torcido
+    - hubieses torcido
+  vos:
+    - hubieras torcido
+    - hubieses torcido
+  ud:
+    - hubiera torcido
+    - hubiese torcido
+  nosotros:
+    - hubiéramos torcido
+    - hubiésemos torcido
+  vosotros:
+    - hubierais torcido
+    - hubieseis torcido
+  uds:
+    - hubieran torcido
+    - hubiesen torcido
+imperativo:
+  tu: tuerce
+  vos: tuez
+  ud: tuerza
+  nosotros: tuerzamos
+  vosotros: torced
+  uds: tuerzan

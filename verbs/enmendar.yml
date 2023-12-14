@@ -1,0 +1,142 @@
+infinitivo: enmendar
+gerundio: enmendando
+participio-pasado: enmendado
+presente-indicativo:
+  yo: enmiendo
+  tu: enmiendas
+  vos: enmiendas
+  ud: enmienda
+  nosotros: enmendamos
+  vosotros: enmendáis
+  uds: enmiendan
+preterito-perfecto-simple:
+  yo: enmendé
+  tu: enmendaste
+  vos: enmendaste
+  ud: enmendó
+  nosotros: enmendamos
+  vosotros: enmendasteis
+  uds: enmendaron
+preterito-imperfecto:
+  yo: enmendaba
+  tu: enmendabas
+  vos: enmendabas
+  ud: enmendaba
+  nosotros: enmendábamos
+  vosotros: enmendabais
+  uds: enmendaban
+futuro-simple:
+  yo: enmendaré
+  tu: enmendarás
+  vos: enmendarás
+  ud: enmendará
+  nosotros: enmendaremos
+  vosotros: enmendaréis
+  uds: enmendarán
+condicional-simple:
+  yo: enmendaría
+  tu: enmendarías
+  vos: enmendarías
+  ud: enmendaría
+  nosotros: enmendaríamos
+  vosotros: enmendaríais
+  uds: enmendarían
+presente-perfecto:
+  yo: he enmendado
+  tu: has enmendado
+  vos: has enmendado
+  ud: ha enmendado
+  nosotros: hemos enmendado
+  vosotros: habéis enmendado
+  uds: han enmendado
+preterito-pluscuamperfecto:
+  yo: había enmendado
+  tu: habías enmendado
+  vos: habías enmendado
+  ud: había enmendado
+  nosotros: habíamos enmendado
+  vosotros: habíais enmendado
+  uds: habían enmendado
+futuro-perfecto:
+  yo: habré enmendado
+  tu: habrás enmendado
+  vos: habrás enmendado
+  ud: habrá enmendado
+  nosotros: habremos enmendado
+  vosotros: habréis enmendado
+  uds: habrán enmendado
+condicional-perfecto:
+  yo: habría enmendado
+  tu: habrías enmendado
+  vos: habrías enmendado
+  ud: habría enmendado
+  nosotros: habríamos enmendado
+  vosotros: habríais enmendado
+  uds: habrían enmendado
+presente-subjuntivo:
+  yo: enmiende
+  tu: enmendes
+  vos: enmendes
+  ud: enmiende
+  nosotros: enmendemos
+  vosotros: enmendéis
+  uds: enmienden
+preterito-perfecto-subjuntivo:
+  yo: haya enmendado
+  tu: hayas enmendado
+  vos: hayas enmendado
+  ud: haya enmendado
+  nosotros: hayamos enmendado
+  vosotros: hayáis enmendado
+  uds: hayan enmendado
+imperfecto-subjuntivo:
+  yo:
+    - enmendara
+    - enmendase
+  tu:
+    - enmendaras
+    - enmendases
+  vos:
+    - enmendaras
+    - enmendases
+  ud:
+    - enmendara
+    - enmendase
+  nosotros:
+    - enmendáramos
+    - enmendásemos
+  vosotros:
+    - enmendarais
+    - enmendaseis
+  uds:
+    - enmendaran
+    - enmendasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera enmendado
+    - hubiese enmendado
+  tu:
+    - hubieras enmendado
+    - hubieses enmendado
+  vos:
+    - hubieras enmendado
+    - hubieses enmendado
+  ud:
+    - hubiera enmendado
+    - hubiese enmendado
+  nosotros:
+    - hubiéramos enmendado
+    - hubiésemos enmendado
+  vosotros:
+    - hubierais enmendado
+    - hubieseis enmendado
+  uds:
+    - hubieran enmendado
+    - hubiesen enmendado
+imperativo:
+  tu: enmienda
+  vos: enmendá
+  ud: enmiende
+  nosotros: enmendemos
+  vosotros: enmendad
+  uds: enmienden

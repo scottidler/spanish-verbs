@@ -1,0 +1,142 @@
+infinitivo: rascabar
+gerundio: rascando
+participio-pasado: rascado
+presente-indicativo:
+  yo: rasco
+  tu: rascas
+  vos: rascás
+  ud: rasca
+  nosotros: rascamos
+  vosotros: rascáis
+  uds: rascan
+preterito-perfecto-simple:
+  yo: rascabé
+  tu: rascaste
+  vos: rascaste
+  ud: rascó
+  nosotros: rascamos
+  vosotros: rascasteis
+  uds: rascaron
+preterito-imperfecto:
+  yo: rascaba
+  tu: rascabas
+  vos: rascabas
+  ud: rascaba
+  nosotros: rascábamos
+  vosotros: rascabais
+  uds: rascaban
+futuro-simple:
+  yo: rascabaré
+  tu: rascabarás
+  vos: rascabarás
+  ud: rascabará
+  nosotros: rascabaremos
+  vosotros: rascabaréis
+  uds: rascabarán
+condicional-simple:
+  yo: rascabaría
+  tu: rascabarías
+  vos: rascabarías
+  ud: rascabaría
+  nosotros: rascabaríamos
+  vosotros: rascabaríais
+  uds: rascabarían
+presente-perfecto:
+  yo: he rascado
+  tu: has rascado
+  vos: has rascado
+  ud: ha rascado
+  nosotros: hemos rascado
+  vosotros: habéis rascado
+  uds: han rascado
+preterito-pluscuamperfecto:
+  yo: había rascado
+  tu: habías rascado
+  vos: habías rascado
+  ud: había rascado
+  nosotros: habíamos rascado
+  vosotros: habíais rascado
+  uds: habían rascado
+futuro-perfecto:
+  yo: habré rascado
+  tu: habrás rascado
+  vos: habrás rascado
+  ud: habrá rascado
+  nosotros: habremos rascado
+  vosotros: habréis rascado
+  uds: habrán rascado
+condicional-perfecto:
+  yo: habría rascado
+  tu: habrías rascado
+  vos: habrías rascado
+  ud: habría rascado
+  nosotros: habríamos rascado
+  vosotros: habríais rascado
+  uds: habrían rascado
+presente-subjuntivo:
+  yo: rasque
+  tu: rasques
+  vos: rasques
+  ud: rasque
+  nosotros: rasquemos
+  vosotros: rasquéis
+  uds: rasquen
+preterito-perfecto-subjuntivo:
+  yo: haya rascado
+  tu: hayas rascado
+  vos: hayas rascado
+  ud: haya rascado
+  nosotros: hayamos rascado
+  vosotros: hayáis rascado
+  uds: hayan rascado
+imperfecto-subjuntivo:
+  yo:
+    - rascara
+    - rascase
+  tu:
+    - rascaras
+    - rascases
+  vos:
+    - rascaras
+    - rascases
+  ud:
+    - rascara
+    - rascase
+  nosotros:
+    - rascáramos
+    - rascásemos
+  vosotros:
+    - rascarais
+    - rascaseis
+  uds:
+    - rascaran
+    - rascasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rascado
+    - hubiese rascado
+  tu:
+    - hubieras rascado
+    - hubieses rascado
+  vos:
+    - hubieras rascado
+    - hubieses rascado
+  ud:
+    - hubiera rascado
+    - hubiese rascado
+  nosotros:
+    - hubiéramos rascado
+    - hubiésemos rascado
+  vosotros:
+    - hubierais rascado
+    - hubieseis rascado
+  uds:
+    - hubieran rascado
+    - hubiesen rascado
+imperativo:
+  tu: rasca
+  vos: rascá
+  ud: rasque
+  nosotros: rasquemos
+  vosotros: rascad
+  uds: rasquen

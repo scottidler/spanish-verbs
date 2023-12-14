@@ -1,0 +1,156 @@
+infinitivo: enterarse
+gerundio: enterándose
+participio-pasado: enterado
+
+presente-indicativo:
+  yo: me entero
+  tu: te enteras
+  vos: te enteras
+  ud: se entera
+  nosotros: nos enteramos
+  vosotros: os enteráis
+  uds: se enteran
+
+preterito-perfecto-simple:
+  yo: me enteré
+  tu: te enteraste
+  vos: te enteraste
+  ud: se enteró
+  nosotros: nos enteramos
+  vosotros: os enterasteis
+  uds: se enteraron
+
+preterito-imperfecto:
+  yo: me enteraba
+  tu: te enterabas
+  vos: te enterabas
+  ud: se enteraba
+  nosotros: nos enterábamos
+  vosotros: os enterabais
+  uds: se enteraban
+
+futuro-simple:
+  yo: me enteraré
+  tu: te enterarás
+  vos: te enterarás
+  ud: se enterará
+  nosotros: nos enteraremos
+  vosotros: os enteraréis
+  uds: se enterarán
+
+condicional-simple:
+  yo: me enteraría
+  tu: te enterarías
+  vos: te enterarías
+  ud: se enteraría
+  nosotros: nos enteraríamos
+  vosotros: os enteraríais
+  uds: se enterarían
+
+presente-perfecto:
+  yo: me he enterado
+  tu: te has enterado
+  vos: te has enterado
+  ud: se ha enterado
+  nosotros: nos hemos enterado
+  vosotros: os habéis enterado
+  uds: se han enterado
+
+preterito-pluscuamperfecto:
+  yo: me había enterado
+  tu: te habías enterado
+  vos: te habías enterado
+  ud: se había enterado
+  nosotros: nos habíamos enterado
+  vosotros: os habíais enterado
+  uds: se habían enterado
+
+futuro-perfecto:
+  yo: me habré enterado
+  tu: te habrás enterado
+  vos: te habrás enterado
+  ud: se habrá enterado
+  nosotros: nos habremos enterado
+  vosotros: os habréis enterado
+  uds: se habrán enterado
+
+condicional-perfecto:
+  yo: me habría enterado
+  tu: te habrías enterado
+  vos: te habrías enterado
+  ud: se habría enterado
+  nosotros: nos habríamos enterado
+  vosotros: os habríais enterado
+  uds: se habrían enterado
+
+presente-subjuntivo:
+  yo: me entere
+  tu: te enteres
+  vos: te enteres
+  ud: se entere
+  nosotros: nos enteremos
+  vosotros: os enteréis
+  uds: se enteren
+
+preterito-perfecto-subjuntivo:
+  yo: me haya enterado
+  tu: te hayas enterado
+  vos: te hayas enterado
+  ud: se haya enterado
+  nosotros: nos hayamos enterado
+  vosotros: os hayáis enterado
+  uds: se hayan enterado
+
+imperfecto-subjuntivo:
+  yo: 
+    - me enterara
+    - me enterase
+  tu: 
+    - te enteraras
+    - te enterases
+  vos: 
+    - te enteraras
+    - te enterases
+  ud: 
+    - se enterara
+    - se enterase
+  nosotros: 
+    - nos enteráramos
+    - nos enterásemos
+  vosotros: 
+    - os enterarais
+    - os enteraseis
+  uds: 
+    - se enteraran
+    - se enterasen
+
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - me hubiera enterado
+    - me hubiese enterado
+  tu: 
+    - te hubieras enterado
+    - te hubieses enterado
+  vos: 
+    - te hubieras enterado
+    - te hubieses enterado
+  ud: 
+    - se hubiera enterado
+    - se hubiese enterado
+  nosotros: 
+    - nos hubiéramos enterado
+    - nos hubiésemos enterado
+  vosotros: 
+    - os hubierais enterado
+    - os hubieseis enterado
+  uds: 
+    - se hubieran enterado
+    - se hubiesen enterado
+
+imperativo:
+  tu: entérate
+  vos: entérate
+  ud: entérese
+  nosotros: enterémonos
+  vosotros: enteraros
+  uds: entérense

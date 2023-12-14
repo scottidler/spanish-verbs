@@ -1,0 +1,142 @@
+infinitivo: tergiversar
+gerundio: tergiversando
+participio-pasado: tergiversado
+presente-indicativo:
+  yo: tergiverso
+  tu: tergiversas
+  vos: tergiversas
+  ud: tergiversa
+  nosotros: tergiversamos
+  vosotros: tergiversáis
+  uds: tergiversan
+preterito-perfecto-simple:
+  yo: tergiversé
+  tu: tergiversaste
+  vos: tergiversaste
+  ud: tergiversó
+  nosotros: tergiversamos
+  vosotros: tergiversasteis
+  uds: tergiversaron
+preterito-imperfecto:
+  yo: tergiversaba
+  tu: tergiversabas
+  vos: tergiversabas
+  ud: tergiversaba
+  nosotros: tergiversábamos
+  vosotros: tergiversabais
+  uds: tergiversaban
+futuro-simple:
+  yo: tergiversaré
+  tu: tergiversarás
+  vos: tergiversarás
+  ud: tergiversará
+  nosotros: tergiversaremos
+  vosotros: tergiversaréis
+  uds: tergiversarán
+condicional-simple:
+  yo: tergiversaría
+  tu: tergiversarías
+  vos: tergiversarías
+  ud: tergiversaría
+  nosotros: tergiversaríamos
+  vosotros: tergiversaríais
+  uds: tergiversarían
+presente-perfecto:
+  yo: he tergiversado
+  tu: has tergiversado
+  vos: has tergiversado
+  ud: ha tergiversado
+  nosotros: hemos tergiversado
+  vosotros: habéis tergiversado
+  uds: han tergiversado
+preterito-pluscuamperfecto:
+  yo: había tergiversado
+  tu: habías tergiversado
+  vos: habías tergiversado
+  ud: había tergiversado
+  nosotros: habíamos tergiversado
+  vosotros: habíais tergiversado
+  uds: habían tergiversado
+futuro-perfecto:
+  yo: habré tergiversado
+  tu: habrás tergiversado
+  vos: habrás tergiversado
+  ud: habrá tergiversado
+  nosotros: habremos tergiversado
+  vosotros: habréis tergiversado
+  uds: habrán tergiversado
+condicional-perfecto:
+  yo: habría tergiversado
+  tu: habrías tergiversado
+  vos: habrías tergiversado
+  ud: habría tergiversado
+  nosotros: habríamos tergiversado
+  vosotros: habríais tergiversado
+  uds: habrían tergiversado
+presente-subjuntivo:
+  yo: tergiverse
+  tu: tergiverses
+  vos: tergiverses
+  ud: tergiverse
+  nosotros: tergiversemos
+  vosotros: tergiverséis
+  uds: tergiversen
+preterito-perfecto-subjuntivo:
+  yo: haya tergiversado
+  tu: hayas tergiversado
+  vos: hayas tergiversado
+  ud: haya tergiversado
+  nosotros: hayamos tergiversado
+  vosotros: hayáis tergiversado
+  uds: hayan tergiversado
+imperfecto-subjuntivo:
+  yo:
+    - tergiversara
+    - tergiversase
+  tu:
+    - tergiversaras
+    - tergiversases
+  vos:
+    - tergiversaras
+    - tergiversases
+  ud:
+    - tergiversara
+    - tergiversase
+  nosotros:
+    - tergiversáramos
+    - tergiversásemos
+  vosotros:
+    - tergiversarais
+    - tergiversaseis
+  uds:
+    - tergiversaran
+    - tergiversasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tergiversado
+    - hubiese tergiversado
+  tu:
+    - hubieras tergiversado
+    - hubieses tergiversado
+  vos:
+    - hubieras tergiversado
+    - hubieses tergiversado
+  ud:
+    - hubiera tergiversado
+    - hubiese tergiversado
+  nosotros:
+    - hubiéramos tergiversado
+    - hubiésemos tergiversado
+  vosotros:
+    - hubierais tergiversado
+    - hubieseis tergiversado
+  uds:
+    - hubieran tergiversado
+    - hubiesen tergiversado
+imperativo:
+  tu: tergiversa
+  vos: tergiversá
+  ud: tergiverse
+  nosotros: tergiversemos
+  vosotros: tergiversad
+  uds: tergiversen

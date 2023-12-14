@@ -1,0 +1,142 @@
+infinitivo: emular
+gerundio: emulando
+participio-pasado: emulado
+presente-indicativo:
+  yo: emulo
+  tu: emulas
+  vos: emulas
+  ud: emula
+  nosotros: emulamos
+  vosotros: emuláis
+  uds: emulan
+preterito-perfecto-simple:
+  yo: emulé
+  tu: emulaste
+  vos: emulaste
+  ud: emuló
+  nosotros: emulamos
+  vosotros: emulasteis
+  uds: emularon
+preterito-imperfecto:
+  yo: emulaba
+  tu: emulabas
+  vos: emulabas
+  ud: emulaba
+  nosotros: emulábamos
+  vosotros: emulabais
+  uds: emulaban
+futuro-simple:
+  yo: emularé
+  tu: emularás
+  vos: emularás
+  ud: emulará
+  nosotros: emularemos
+  vosotros: emularéis
+  uds: emularán
+condicional-simple:
+  yo: emularía
+  tu: emularías
+  vos: emularías
+  ud: emularía
+  nosotros: emularíamos
+  vosotros: emularíais
+  uds: emularían
+presente-perfecto:
+  yo: he emulado
+  tu: has emulado
+  vos: has emulado
+  ud: ha emulado
+  nosotros: hemos emulado
+  vosotros: habéis emulado
+  uds: han emulado
+preterito-pluscuamperfecto:
+  yo: había emulado
+  tu: habías emulado
+  vos: habías emulado
+  ud: había emulado
+  nosotros: habíamos emulado
+  vosotros: habíais emulado
+  uds: habían emulado
+futuro-perfecto:
+  yo: habré emulado
+  tu: habrás emulado
+  vos: habrás emulado
+  ud: habrá emulado
+  nosotros: habremos emulado
+  vosotros: habréis emulado
+  uds: habrán emulado
+condicional-perfecto:
+  yo: habría emulado
+  tu: habrías emulado
+  vos: habrías emulado
+  ud: habría emulado
+  nosotros: habríamos emulado
+  vosotros: habríais emulado
+  uds: habrían emulado
+presente-subjuntivo:
+  yo: emule
+  tu: emules
+  vos: emules
+  ud: emule
+  nosotros: emulemos
+  vosotros: emuléis
+  uds: emulen
+preterito-perfecto-subjuntivo:
+  yo: haya emulado
+  tu: hayas emulado
+  vos: hayas emulado
+  ud: haya emulado
+  nosotros: hayamos emulado
+  vosotros: hayáis emulado
+  uds: hayan emulado
+imperfecto-subjuntivo:
+  yo:
+    - emulara
+    - emulase
+  tu:
+    - emularas
+    - emulases
+  vos:
+    - emularas
+    - emulases
+  ud:
+    - emulara
+    - emulase
+  nosotros:
+    - emuláramos
+    - emulásemos
+  vosotros:
+    - emularais
+    - emulaseis
+  uds:
+    - emularan
+    - emulasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera emulado
+    - hubiese emulado
+  tu:
+    - hubieras emulado
+    - hubieses emulado
+  vos:
+    - hubieras emulado
+    - hubieses emulado
+  ud:
+    - hubiera emulado
+    - hubiese emulado
+  nosotros:
+    - hubiéramos emulado
+    - hubiésemos emulado
+  vosotros:
+    - hubierais emulado
+    - hubieseis emulado
+  uds:
+    - hubieran emulado
+    - hubiesen emulado
+imperativo:
+  tu: emula
+  vos: emulá
+  ud: emule
+  nosotros: emulemos
+  vosotros: emulad
+  uds: emulen

@@ -1,0 +1,142 @@
+infinitivo: incitar
+gerundio: incitando
+participio-pasado: incitado
+presente-indicativo:
+  yo: incito
+  tu: incitas
+  vos: incitas
+  ud: incita
+  nosotros: incitamos
+  vosotros: incitáis
+  uds: incitan
+preterito-perfecto-simple:
+  yo: incité
+  tu: incitaste
+  vos: incitaste
+  ud: incitó
+  nosotros: incitamos
+  vosotros: incitasteis
+  uds: incitaron
+preterito-imperfecto:
+  yo: incitaba
+  tu: incitabas
+  vos: incitabas
+  ud: incitaba
+  nosotros: incitábamos
+  vosotros: incitabais
+  uds: incitaban
+futuro-simple:
+  yo: incitaré
+  tu: incitarás
+  vos: incitarás
+  ud: incitará
+  nosotros: incitaremos
+  vosotros: incitaréis
+  uds: incitarán
+condicional-simple:
+  yo: incitaría
+  tu: incitarías
+  vos: incitarías
+  ud: incitaría
+  nosotros: incitaríamos
+  vosotros: incitaríais
+  uds: incitarían
+presente-perfecto:
+  yo: he incitado
+  tu: has incitado
+  vos: has incitado
+  ud: ha incitado
+  nosotros: hemos incitado
+  vosotros: habéis incitado
+  uds: han incitado
+preterito-pluscuamperfecto:
+  yo: había incitado
+  tu: habías incitado
+  vos: habías incitado
+  ud: había incitado
+  nosotros: habíamos incitado
+  vosotros: habíais incitado
+  uds: habían incitado
+futuro-perfecto:
+  yo: habré incitado
+  tu: habrás incitado
+  vos: habrás incitado
+  ud: habrá incitado
+  nosotros: habremos incitado
+  vosotros: habréis incitado
+  uds: habrán incitado
+condicional-perfecto:
+  yo: habría incitado
+  tu: habrías incitado
+  vos: habrías incitado
+  ud: habría incitado
+  nosotros: habríamos incitado
+  vosotros: habríais incitado
+  uds: habrían incitado
+presente-subjuntivo:
+  yo: incite
+  tu: incites
+  vos: incites
+  ud: incite
+  nosotros: incitemos
+  vosotros: incitéis
+  uds: inciten
+preterito-perfecto-subjuntivo:
+  yo: haya incitado
+  tu: hayas incitado
+  vos: hayas incitado
+  ud: haya incitado
+  nosotros: hayamos incitado
+  vosotros: hayáis incitado
+  uds: hayan incitado
+imperfecto-subjuntivo:
+  yo:
+    - incitara
+    - incitase
+  tu:
+    - incitaras
+    - incitases
+  vos:
+    - incitaras
+    - incitases
+  ud:
+    - incitara
+    - incitase
+  nosotros:
+    - incitáramos
+    - incitásemos
+  vosotros:
+    - incitarais
+    - incitaseis
+  uds:
+    - incitaran
+    - incitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera incitado
+    - hubiese incitado
+  tu:
+    - hubieras incitado
+    - hubieses incitado
+  vos:
+    - hubieras incitado
+    - hubieses incitado
+  ud:
+    - hubiera incitado
+    - hubiese incitado
+  nosotros:
+    - hubiéramos incitado
+    - hubiésemos incitado
+  vosotros:
+    - hubierais incitado
+    - hubieseis incitado
+  uds:
+    - hubieran incitado
+    - hubiesen incitado
+imperativo:
+  tu: incita
+  vos: incitá
+  ud: incite
+  nosotros: incitemos
+  vosotros: incitad
+  uds: inciten

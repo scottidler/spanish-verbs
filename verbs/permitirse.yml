@@ -1,0 +1,142 @@
+infinitivo: permitirse
+gerundio: permitiéndose
+participio-pasado: permitido
+presente-indicativo:
+  yo: me permito
+  tu: te permites
+  vos: te permites
+  ud: se permite
+  nosotros: nos permitimos
+  vosotros: os permitís
+  uds: se permiten
+preterito-perfecto-simple:
+  yo: me permití
+  tu: te permitiste
+  vos: te permitiste
+  ud: se permitió
+  nosotros: nos permitimos
+  vosotros: os permitisteis
+  uds: se permitieron
+preterito-imperfecto:
+  yo: me permitía
+  tu: te permitías
+  vos: te permitías
+  ud: se permitía
+  nosotros: nos permitíamos
+  vosotros: os permitíais
+  uds: se permitían
+futuro-simple:
+  yo: me permitiré
+  tu: te permitirás
+  vos: te permitirás
+  ud: se permitirá
+  nosotros: nos permitiremos
+  vosotros: os permitiréis
+  uds: se permitirán
+condicional-simple:
+  yo: me permitiría
+  tu: te permitirías
+  vos: te permitirías
+  ud: se permitiría
+  nosotros: nos permitiríamos
+  vosotros: os permitiríais
+  uds: se permitirían
+presente-perfecto:
+  yo: me he permitido
+  tu: te has permitido
+  vos: te has permitido
+  ud: se ha permitido
+  nosotros: nos hemos permitido
+  vosotros: os habéis permitido
+  uds: se han permitido
+preterito-pluscuamperfecto:
+  yo: me había permitido
+  tu: te habías permitido
+  vos: te habías permitido
+  ud: se había permitido
+  nosotros: nos habíamos permitido
+  vosotros: os habíais permitido
+  uds: se habían permitido
+futuro-perfecto:
+  yo: me habré permitido
+  tu: te habrás permitido
+  vos: te habrás permitido
+  ud: se habrá permitido
+  nosotros: nos habremos permitido
+  vosotros: os habréis permitido
+  uds: se habrán permitido
+condicional-perfecto:
+  yo: me habría permitido
+  tu: te habrías permitido
+  vos: te habrías permitido
+  ud: se habría permitido
+  nosotros: nos habríamos permitido
+  vosotros: os habríais permitido
+  uds: se habrían permitido
+presente-subjuntivo:
+  yo: me permita
+  tu: te permitas
+  vos: te permitas
+  ud: se permita
+  nosotros: nos permitamos
+  vosotros: os permitáis
+  uds: se permitan
+preterito-perfecto-subjuntivo:
+  yo: me haya permitido
+  tu: te hayas permitido
+  vos: te hayas permitido
+  ud: se haya permitido
+  nosotros: nos hayamos permitido
+  vosotros: os hayáis permitido
+  uds: se hayan permitido
+imperfecto-subjuntivo:
+  yo:
+    - me permitiera
+    - me permitiese
+  tu:
+    - permitieras
+    - permitieses
+  vos:
+    - permitieras
+    - permitieses
+  ud:
+    - permitiera
+    - permitiese
+  nosotros:
+    - permitiéramos
+    - permitiésemos
+  vosotros:
+    - permitierais
+    - permitieseis
+  uds:
+    - permitieran
+    - permitiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera permitido
+    - me hubiese permitido
+  tu:
+    - hubieras permitido
+    - hubieses permitido
+  vos:
+    - hubieras permitido
+    - hubieses permitido
+  ud:
+    - hubiera permitido
+    - hubiese permitido
+  nosotros:
+    - hubiéramos permitido
+    - hubiésemos permitido
+  vosotros:
+    - hubierais permitido
+    - hubieseis permitido
+  uds:
+    - hubieran permitido
+    - hubiesen permitido
+imperativo:
+  tu: permítete
+  vos: permítete
+  ud: permítase
+  nosotros: permitámonos
+  vosotros: permitíos
+  uds: permítanse

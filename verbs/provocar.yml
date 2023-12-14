@@ -1,0 +1,142 @@
+infinitivo: provocar
+gerundio: provocando
+participio-pasado: provocado
+presente-indicativo:
+  yo: provoco
+  tu: provocas
+  vos: provocás
+  ud: provoca
+  nosotros: provocamos
+  vosotros: provocáis
+  uds: provocan
+preterito-perfecto-simple:
+  yo: provoqué
+  tu: provocaste
+  vos: provocaste
+  ud: provocó
+  nosotros: provocamos
+  vosotros: provocasteis
+  uds: provocaron
+preterito-imperfecto:
+  yo: provocaba
+  tu: provocabas
+  vos: provocabas
+  ud: provocaba
+  nosotros: provocábamos
+  vosotros: provocabais
+  uds: provocaban
+futuro-simple:
+  yo: provocaré
+  tu: provocarás
+  vos: provocarás
+  ud: provocará
+  nosotros: provocaremos
+  vosotros: provocaréis
+  uds: provocarán
+condicional-simple:
+  yo: provocaría
+  tu: provocarías
+  vos: provocarías
+  ud: provocaría
+  nosotros: provocaríamos
+  vosotros: provocaríais
+  uds: provocarían
+presente-perfecto:
+  yo: he provocado
+  tu: has provocado
+  vos: has provocado
+  ud: ha provocado
+  nosotros: hemos provocado
+  vosotros: habéis provocado
+  uds: han provocado
+preterito-pluscuamperfecto:
+  yo: había provocado
+  tu: habías provocado
+  vos: habías provocado
+  ud: había provocado
+  nosotros: habíamos provocado
+  vosotros: habíais provocado
+  uds: habían provocado
+futuro-perfecto:
+  yo: habré provocado
+  tu: habrás provocado
+  vos: habrás provocado
+  ud: habrá provocado
+  nosotros: habremos provocado
+  vosotros: habréis provocado
+  uds: habrán provocado
+condicional-perfecto:
+  yo: habría provocado
+  tu: habrías provocado
+  vos: habrías provocado
+  ud: habría provocado
+  nosotros: habríamos provocado
+  vosotros: habríais provocado
+  uds: habrían provocado
+presente-subjuntivo:
+  yo: provoque
+  tu: provoques
+  vos: provoques
+  ud: provoque
+  nosotros: provoquemos
+  vosotros: provoquéis
+  uds: provoquen
+preterito-perfecto-subjuntivo:
+  yo: haya provocado
+  tu: hayas provocado
+  vos: hayas provocado
+  ud: haya provocado
+  nosotros: hayamos provocado
+  vosotros: hayáis provocado
+  uds: hayan provocado
+imperfecto-subjuntivo:
+  yo:
+    - provocara
+    - provocase
+  tu:
+    - provocaras
+    - provocases
+  vos:
+    - provocaras
+    - provocases
+  ud:
+    - provocara
+    - provocase
+  nosotros:
+    - provocáramos
+    - provocásemos
+  vosotros:
+    - provocarais
+    - provocaseis
+  uds:
+    - provocaran
+    - provocasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera provocado
+    - hubiese provocado
+  tu:
+    - hubieras provocado
+    - hubieses provocado
+  vos:
+    - hubieras provocado
+    - hubieses provocado
+  ud:
+    - hubiera provocado
+    - hubiese provocado
+  nosotros:
+    - hubiéramos provocado
+    - hubiésemos provocado
+  vosotros:
+    - hubierais provocado
+    - hubieseis provocado
+  uds:
+    - hubieran provocado
+    - hubiesen provocado
+imperativo:
+  tu: provoca
+  vos: provocá
+  ud: provoque
+  nosotros: provoquemos
+  vosotros: provocad
+  uds: provoquen

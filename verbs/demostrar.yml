@@ -1,0 +1,142 @@
+infinitivo: demostrar
+gerundio: demostrando
+participio-pasado: demostrado
+presente-indicativo:
+  yo: demuestro
+  tu: demuestras
+  vos: demostras
+  ud: demuestra
+  nosotros: demostramos
+  vosotros: demostráis
+  uds: demuestran
+preterito-perfecto-simple:
+  yo: demostré
+  tu: demostraste
+  vos: demostraste
+  ud: demostró
+  nosotros: demostramos
+  vosotros: demostrasteis
+  uds: demostraron
+preterito-imperfecto:
+  yo: demostraba
+  tu: demostrabas
+  vos: demostrabas
+  ud: demostraba
+  nosotros: demostrábamos
+  vosotros: demostrabais
+  uds: demostraban
+futuro-simple:
+  yo: demostraré
+  tu: demostrarás
+  vos: demostrarás
+  ud: demostrará
+  nosotros: demostraremos
+  vosotros: demostraréis
+  uds: demostrarán
+condicional-simple:
+  yo: demostraría
+  tu: demostrarías
+  vos: demostrarías
+  ud: demostraría
+  nosotros: demostraríamos
+  vosotros: demostraríais
+  uds: demostrarían
+presente-perfecto:
+  yo: he demostrado
+  tu: has demostrado
+  vos: has demostrado
+  ud: ha demostrado
+  nosotros: hemos demostrado
+  vosotros: habéis demostrado
+  uds: han demostrado
+preterito-pluscuamperfecto:
+  yo: había demostrado
+  tu: habías demostrado
+  vos: habías demostrado
+  ud: había demostrado
+  nosotros: habíamos demostrado
+  vosotros: habíais demostrado
+  uds: habían demostrado
+futuro-perfecto:
+  yo: habré demostrado
+  tu: habrás demostrado
+  vos: habrás demostrado
+  ud: habrá demostrado
+  nosotros: habremos demostrado
+  vosotros: habréis demostrado
+  uds: habrán demostrado
+condicional-perfecto:
+  yo: habría demostrado
+  tu: habrías demostrado
+  vos: habrías demostrado
+  ud: habría demostrado
+  nosotros: habríamos demostrado
+  vosotros: habríais demostrado
+  uds: habrían demostrado
+presente-subjuntivo:
+  yo: demuestre
+  tu: demuestres
+  vos: demuestres
+  ud: demuestre
+  nosotros: demostremos
+  vosotros: demostréis
+  uds: demuestren
+preterito-perfecto-subjuntivo:
+  yo: haya demostrado
+  tu: hayas demostrado
+  vos: hayas demostrado
+  ud: haya demostrado
+  nosotros: hayamos demostrado
+  vosotros: hayáis demostrado
+  uds: hayan demostrado
+imperfecto-subjuntivo:
+  yo:
+    - demostrara
+    - demostrase
+  tu:
+    - demostraras
+    - demostrases
+  vos:
+    - demostraras
+    - demostrases
+  ud:
+    - demostrara
+    - demostrase
+  nosotros:
+    - demostráramos
+    - demostrásemos
+  vosotros:
+    - demostrarais
+    - demostraseis
+  uds:
+    - demostraran
+    - demostrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera demostrado
+    - hubiese demostrado
+  tu:
+    - hubieras demostrado
+    - hubieses demostrado
+  vos:
+    - hubieras demostrado
+    - hubieses demostrado
+  ud:
+    - hubiera demostrado
+    - hubiese demostrado
+  nosotros:
+    - hubiéramos demostrado
+    - hubiésemos demostrado
+  vosotros:
+    - hubierais demostrado
+    - hubieseis demostrado
+  uds:
+    - hubieran demostrado
+    - hubiesen demostrado
+imperativo:
+  tu: demuestra
+  vos: demostrá
+  ud: demuestre
+  nosotros: mostremos
+  vosotros: demostrad
+  uds: demuestren

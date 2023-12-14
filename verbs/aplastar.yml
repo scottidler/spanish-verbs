@@ -1,0 +1,142 @@
+infinitivo: aplastar
+gerundio: aplastando
+participio-pasado: aplastado
+presente-indicativo:
+  yo: aplasto
+  tu: aplastas
+  vos: aplastas
+  ud: aplasta
+  nosotros: aplastamos
+  vosotros: aplastáis
+  uds: aplastan
+preterito-perfecto-simple:
+  yo: aplasté
+  tu: aplastaste
+  vos: aplastaste
+  ud: aplastó
+  nosotros: aplastamos
+  vosotros: aplastasteis
+  uds: aplastaron
+preterito-imperfecto:
+  yo: aplastaba
+  tu: aplastabas
+  vos: aplastabas
+  ud: aplastaba
+  nosotros: aplastábamos
+  vosotros: aplastabais
+  uds: aplastaban
+futuro-simple:
+  yo: aplastaré
+  tu: aplastarás
+  vos: aplastarás
+  ud: aplastará
+  nosotros: aplastaremos
+  vosotros: aplastaréis
+  uds: aplastarán
+condicional-simple:
+  yo: aplastaría
+  tu: aplastarías
+  vos: aplastarías
+  ud: aplastaría
+  nosotros: aplastaríamos
+  vosotros: aplastaríais
+  uds: aplastarían
+presente-perfecto:
+  yo: he aplastado
+  tu: has aplastado
+  vos: has aplastado
+  ud: ha aplastado
+  nosotros: hemos aplastado
+  vosotros: habéis aplastado
+  uds: han aplastado
+preterito-pluscuamperfecto:
+  yo: había aplastado
+  tu: habías aplastado
+  vos: habías aplastado
+  ud: había aplastado
+  nosotros: habíamos aplastado
+  vosotros: habíais aplastado
+  uds: habían aplastado
+futuro-perfecto:
+  yo: habré aplastado
+  tu: habrás aplastado
+  vos: habrás aplastado
+  ud: habrá aplastado
+  nosotros: habremos aplastado
+  vosotros: habréis aplastado
+  uds: habrán aplastado
+condicional-perfecto:
+  yo: habría aplastado
+  tu: habrías aplastado
+  vos: habrías aplastado
+  ud: habría aplastado
+  nosotros: habríamos aplastado
+  vosotros: habríais aplastado
+  uds: habrían aplastado
+presente-subjuntivo:
+  yo: aplaste
+  tu: aplastes
+  vos: aplastes
+  ud: aplaste
+  nosotros: aplastemos
+  vosotros: aplastéis
+  uds: aplasten
+preterito-perfecto-subjuntivo:
+  yo: haya aplastado
+  tu: hayas aplastado
+  vos: hayas aplastado
+  ud: haya aplastado
+  nosotros: hayamos aplastado
+  vosotros: hayáis aplastado
+  uds: hayan aplastado
+imperfecto-subjuntivo:
+  yo:
+    - aplastara
+    - aplastase
+  tu:
+    - aplastaras
+    - aplastases
+  vos:
+    - aplastaras
+    - aplastases
+  ud:
+    - aplastara
+    - aplastase
+  nosotros:
+    - aplastáramos
+    - aplastásemos
+  vosotros:
+    - aplastarais
+    - aplastaseis
+  uds:
+    - aplastaran
+    - aplastasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aplastado
+    - hubiese aplastado
+  tu:
+    - hubieras aplastado
+    - hubieses aplastado
+  vos:
+    - hubieras aplastado
+    - hubieses aplastado
+  ud:
+    - hubiera aplastado
+    - hubiese aplastado
+  nosotros:
+    - hubiéramos aplastado
+    - hubiésemos aplastado
+  vosotros:
+    - hubierais aplastado
+    - hubieseis aplastado
+  uds:
+    - hubieran aplastado
+    - hubiesen aplastado
+imperativo:
+  tu: aplasta
+  vos: aplastá
+  ud: aplaste
+  nosotros: aplastemos
+  vosotros: aplastad
+  uds: aplasten

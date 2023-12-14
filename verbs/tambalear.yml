@@ -1,0 +1,142 @@
+infinitivo: tambalear
+gerundio: tambaleando
+participio-pasado: tambaleado
+presente-indicativo:
+  yo: tambaleo
+  tu: tambaleas
+  vos: tambaleas
+  ud: tambalea
+  nosotros: tambaleamos
+  vosotros: tambaleáis
+  uds: tambalean
+preterito-perfecto-simple:
+  yo: tambaleé
+  tu: tambaleaste
+  vos: tambaleaste
+  ud: tambaleó
+  nosotros: tambaleamos
+  vosotros: tambaleasteis
+  uds: tambalearon
+preterito-imperfecto:
+  yo: tambaleaba
+  tu: tambaleabas
+  vos: tambaleabas
+  ud: tambaleaba
+  nosotros: tambaleábamos
+  vosotros: tambaleabais
+  uds: tambaleaban
+futuro-simple:
+  yo: tambalearé
+  tu: tambalearás
+  vos: tambalearás
+  ud: tambaleará
+  nosotros: tambalearemos
+  vosotros: tambalearéis
+  uds: tambalearán
+condicional-simple:
+  yo: tambalearía
+  tu: tambalearías
+  vos: tambalearías
+  ud: tambalearía
+  nosotros: tambalearíamos
+  vosotros: tambalearíais
+  uds: tambalearían
+presente-perfecto:
+  yo: he tambaleado
+  tu: has tambaleado
+  vos: has tambaleado
+  ud: ha tambaleado
+  nosotros: hemos tambaleado
+  vosotros: habéis tambaleado
+  uds: han tambaleado
+preterito-pluscuamperfecto:
+  yo: había tambaleado
+  tu: habías tambaleado
+  vos: habías tambaleado
+  ud: había tambaleado
+  nosotros: habíamos tambaleado
+  vosotros: habíais tambaleado
+  uds: habían tambaleado
+futuro-perfecto:
+  yo: habré tambaleado
+  tu: habrás tambaleado
+  vos: habrás tambaleado
+  ud: habrá tambaleado
+  nosotros: habremos tambaleado
+  vosotros: habréis tambaleado
+  uds: habrán tambaleado
+condicional-perfecto:
+  yo: habría tambaleado
+  tu: habrías tambaleado
+  vos: habrías tambaleado
+  ud: habría tambaleado
+  nosotros: habríamos tambaleado
+  vosotros: habríais tambaleado
+  uds: habrían tambaleado
+presente-subjuntivo:
+  yo: tambalee
+  tu: tambalees
+  vos: tambalees
+  ud: tambalee
+  nosotros: tambaleemos
+  vosotros: tambaleéis
+  uds: tambaleen
+preterito-perfecto-subjuntivo:
+  yo: haya tambaleado
+  tu: hayas tambaleado
+  vos: hayas tambaleado
+  ud: haya tambaleado
+  nosotros: hayamos tambaleado
+  vosotros: hayáis tambaleado
+  uds: hayan tambaleado
+imperfecto-subjuntivo:
+  yo:
+    - tambaleara
+    - tambalease
+  tu:
+    - tambalearas
+    - tambaleases
+  vos:
+    - tambalearas
+    - tambaleases
+  ud:
+    - tambaleara
+    - tambalease
+  nosotros:
+    - tambaleáramos
+    - tambaleásemos
+  vosotros:
+    - tambalearais
+    - tambaleaseis
+  uds:
+    - tambalearan
+    - tambaleasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tambaleado
+    - hubiese tambaleado
+  tu:
+    - hubieras tambaleado
+    - hubieses tambaleado
+  vos:
+    - hubieras tambaleado
+    - hubieses tambaleado
+  ud:
+    - hubiera tambaleado
+    - hubiese tambaleado
+  nosotros:
+    - hubiéramos tambaleado
+    - hubiésemos tambaleado
+  vosotros:
+    - hubierais tambaleado
+    - hubieseis tambaleado
+  uds:
+    - hubieran tambaleado
+    - hubiesen tambaleado
+imperativo:
+  tu: tambalea
+  vos: tambaleá
+  ud: tambalee
+  nosotros: tambaleemos
+  vosotros: tambalead
+  uds: tambaleen

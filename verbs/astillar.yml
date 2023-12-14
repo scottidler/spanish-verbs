@@ -1,0 +1,142 @@
+infinitivo: astillar
+gerundio: astillando
+participio-pasado: astillado
+presente-indicativo:
+  yo: astillo
+  tu: astillas
+  vos: astillas
+  ud: astilla
+  nosotros: astillamos
+  vosotros: astilláis
+  uds: astillan
+preterito-perfecto-simple:
+  yo: astillé
+  tu: astillaste
+  vos: astillaste
+  ud: astilló
+  nosotros: astillamos
+  vosotros: astillasteis
+  uds: astillaron
+preterito-imperfecto:
+  yo: astillaba
+  tu: astillabas
+  vos: astillabas
+  ud: astillaba
+  nosotros: astillábamos
+  vosotros: astillabais
+  uds: astillaban
+futuro-simple:
+  yo: astillaré
+  tu: astillarás
+  vos: astillarás
+  ud: astillará
+  nosotros: astillaremos
+  vosotros: astillaréis
+  uds: astillarán
+condicional-simple:
+  yo: astillaría
+  tu: astillarías
+  vos: astillarías
+  ud: astillaría
+  nosotros: astillaríamos
+  vosotros: astillaríais
+  uds: astillarían
+presente-perfecto:
+  yo: he astillado
+  tu: has astillado
+  vos: has astillado
+  ud: ha astillado
+  nosotros: hemos astillado
+  vosotros: habéis astillado
+  uds: han astillado
+preterito-pluscuamperfecto:
+  yo: había astillado
+  tu: habías astillado
+  vos: habías astillado
+  ud: había astillado
+  nosotros: habíamos astillado
+  vosotros: habíais astillado
+  uds: habían astillado
+futuro-perfecto:
+  yo: habré astillado
+  tu: habrás astillado
+  vos: habrás astillado
+  ud: habrá astillado
+  nosotros: habremos astillado
+  vosotros: habréis astillado
+  uds: habrán astillado
+condicional-perfecto:
+  yo: habría astillado
+  tu: habrías astillado
+  vos: habrías astillado
+  ud: habría astillado
+  nosotros: habríamos astillado
+  vosotros: habríais astillado
+  uds: habrían astillado
+presente-subjuntivo:
+  yo: astille
+  tu: astilles
+  vos: astilles
+  ud: astille
+  nosotros: astillemos
+  vosotros: astilléis
+  uds: astillen
+preterito-perfecto-subjuntivo:
+  yo: haya astillado
+  tu: hayas astillado
+  vos: hayas astillado
+  ud: haya astillado
+  nosotros: hayamos astillado
+  vosotros: hayáis astillado
+  uds: hayan astillado
+imperfecto-subjuntivo:
+  yo:
+    - astillara
+    - astillase
+  tu:
+    - astillaras
+    - astillases
+  vos:
+    - astillaras
+    - astillases
+  ud:
+    - astillara
+    - astillase
+  nosotros:
+    - astilláramos
+    - astillásemos
+  vosotros:
+    - astillarais
+    - astillaseis
+  uds:
+    - astillaran
+    - astillasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera astillado
+    - hubiese astillado
+  tu:
+    - hubieras astillado
+    - hubieses astillado
+  vos:
+    - hubieras astillado
+    - hubieses astillado
+  ud:
+    - hubiera astillado
+    - hubiese astillado
+  nosotros:
+    - hubiéramos astillado
+    - hubiésemos astillado
+  vosotros:
+    - hubierais astillado
+    - hubieseis astillado
+  uds:
+    - hubieran astillado
+    - hubiesen astillado
+imperativo:
+  tu: astilla
+  vos: astillá
+  ud: astille
+  nosotros: astillemos
+  vosotros: astillad
+  uds: astillen

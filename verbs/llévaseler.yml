@@ -1,0 +1,142 @@
+infinitivo: llévaseler
+gerundio: llévaselendo
+participio-pasado: llévaselido
+presente-indicativo:
+  yo: llévaselo
+  tu: llévaselas
+  vos: llévaselas
+  ud: llévasela
+  nosotros: llévaselamos
+  vosotros: llévaseláis
+  uds: llévaselan
+preterito-perfecto-simple:
+  yo: llévaselé
+  tu: llévaselaste
+  vos: llévaselaste
+  ud: llévaseló
+  nosotros: llévaselamos
+  vosotros: llévaselasteis
+  uds: llévaselaron
+preterito-imperfecto:
+  yo: llévaselaba
+  tu: llévaselabas
+  vos: llévaselabas
+  ud: llévaselaba
+  nosotros: llévaselábamos
+  vosotros: llévaselabais
+  uds: llévaselaban
+futuro-simple:
+  yo: llévaselaré
+  tu: llévaselarás
+  vos: llévaselarás
+  ud: llévaselará
+  nosotros: llévaselaremos
+  vosotros: llévaselaréis
+  uds: llévaselarán
+condicional-simple:
+  yo: llévaselaría
+  tu: llévaselarías
+  vos: llévaselarías
+  ud: llévaselaría
+  nosotros: llévaselaríamos
+  vosotros: llévaselaríais
+  uds: llévaselarían
+presente-perfecto:
+  yo: he llévaselado
+  tu: has llévaselado
+  vos: has llévaselado
+  ud: ha llévaselado
+  nosotros: hemos llévaselado
+  vosotros: habéis llévaselado
+  uds: han llévaselado
+preterito-pluscuamperfecto:
+  yo: había llévaselado
+  tu: habías llévaselado
+  vos: habías llévaselado
+  ud: había llévaselado
+  nosotros: habíamos llévaselado
+  vosotros: habíais llévaselado
+  uds: habían llévaselado
+futuro-perfecto:
+  yo: habré llévaselado
+  tu: habrás llévaselado
+  vos: habrás llévaselado
+  ud: habrá llévaselado
+  nosotros: habremos llévaselado
+  vosotros: habréis llévaselado
+  uds: habrán llévaselado
+condicional-perfecto:
+  yo: habría llévaselado
+  tu: habrías llévaselado
+  vos: habrías llévaselado
+  ud: habría llévaselado
+  nosotros: habríamos llévaselado
+  vosotros: habríais llévaselado
+  uds: habrían llévaselado
+presente-subjuntivo:
+  yo: llévasele
+  tu: llévaseles
+  vos: llévaseles
+  ud: llévasele
+  nosotros: llévaseleamos
+  vosotros: llévaseleáis
+  uds: llévaselen
+preterito-perfecto-subjuntivo:
+  yo: haya llévaselado
+  tu: hayas llévaselado
+  vos: hayas llévaselado
+  ud: haya llévaselado
+  nosotros: hayamos llévaselado
+  vosotros: hayáis llévaselado
+  uds: hayan llévaselado
+imperfecto-subjuntivo:
+  yo:
+    - llévaselara
+    - llévaselase
+  tu:
+    - llévaselaras
+    - llévaselases
+  vos:
+    - llévaselaras
+    - llévaselases
+  ud:
+    - llévaselara
+    - llévaselase
+  nosotros:
+    - llévaseláramos
+    - llévaselásemos
+  vosotros:
+    - llévaselarais
+    - llévaselaseis
+  uds:
+    - llévaselaran
+    - llévaselasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera llévaselado
+    - hubiese llévaselado
+  tu:
+    - hubieras llévaselado
+    - hubieses llévaselado
+  vos:
+    - hubieras llévaselado
+    - hubieses llévaselado
+  ud:
+    - hubiera llévaselado
+    - hubiese llévaselado
+  nosotros:
+    - hubiéramos llévaselado
+    - hubiésemos llévaselado
+  vosotros:
+    - hubierais llévaselado
+    - hubieseis llévaselado
+  uds:
+    - hubieran llévaselado
+    - hubiesen llévaselado
+imperativo:
+  tu: llévaselo
+  vos: llévaselo
+  ud: llévasela
+  nosotros: llévaselamos
+  vosotros: llévaselaos
+  uds: llévaselan

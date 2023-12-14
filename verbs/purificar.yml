@@ -1,0 +1,142 @@
+infinitivo: purificar
+gerundio: purificando
+participio-pasado: purificado
+presente-indicativo:
+  yo: purifico
+  tu: purificas
+  vos: purificas
+  ud: purifica
+  nosotros: purificamos
+  vosotros: purificáis
+  uds: purifican
+preterito-perfecto-simple:
+  yo: purifiqué
+  tu: purificaste
+  vos: purificaste
+  ud: purificó
+  nosotros: purificamos
+  vosotros: purificasteis
+  uds: purificaron
+preterito-imperfecto:
+  yo: purificaba
+  tu: purificabas
+  vos: purificabas
+  ud: purificaba
+  nosotros: purificábamos
+  vosotros: purificabais
+  uds: purificaban
+futuro-simple:
+  yo: purificaré
+  tu: purificarás
+  vos: purificarás
+  ud: purificará
+  nosotros: purificaremos
+  vosotros: purificaréis
+  uds: purificarán
+condicional-simple:
+  yo: purificaría
+  tu: purificarías
+  vos: purificarías
+  ud: purificaría
+  nosotros: purificaríamos
+  vosotros: purificaríais
+  uds: purificarían
+presente-perfecto:
+  yo: he purificado
+  tu: has purificado
+  vos: has purificado
+  ud: ha purificado
+  nosotros: hemos purificado
+  vosotros: habéis purificado
+  uds: han purificado
+preterito-pluscuamperfecto:
+  yo: había purificado
+  tu: habías purificado
+  vos: habías purificado
+  ud: había purificado
+  nosotros: habíamos purificado
+  vosotros: habíais purificado
+  uds: habían purificado
+futuro-perfecto:
+  yo: habré purificado
+  tu: habrás purificado
+  vos: habrás purificado
+  ud: habrá purificado
+  nosotros: habremos purificado
+  vosotros: habréis purificado
+  uds: habrán purificado
+condicional-perfecto:
+  yo: habría purificado
+  tu: habrías purificado
+  vos: habrías purificado
+  ud: habría purificado
+  nosotros: habríamos purificado
+  vosotros: habríais purificado
+  uds: habrían purificado
+presente-subjuntivo:
+  yo: purifique
+  tu: purifiques
+  vos: purifiques
+  ud: purifique
+  nosotros: purifiquemos
+  vosotros: purifiquéis
+  uds: purifiquen
+preterito-perfecto-subjuntivo:
+  yo: haya purificado
+  tu: hayas purificado
+  vos: hayas purificado
+  ud: haya purificado
+  nosotros: hayamos purificado
+  vosotros: hayáis purificado
+  uds: hayan purificado
+imperfecto-subjuntivo:
+  yo:
+    - purificara
+    - purificase
+  tu:
+    - purificaras
+    - purificases
+  vos:
+    - purificaras
+    - purificases
+  ud:
+    - purificara
+    - purificase
+  nosotros:
+    - purificáramos
+    - purificásemos
+  vosotros:
+    - purificarais
+    - purificaseis
+  uds:
+    - purificaran
+    - purificasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera purificado
+    - hubiese purificado
+  tu:
+    - hubieras purificado
+    - hubieses purificado
+  vos:
+    - hubieras purificado
+    - hubieses purificado
+  ud:
+    - hubiera purificado
+    - hubiese purificado
+  nosotros:
+    - hubiéramos purificado
+    - hubiésemos purificado
+  vosotros:
+    - hubierais purificado
+    - hubieseis purificado
+  uds:
+    - hubieran purificado
+    - hubiesen purificado
+imperativo:
+  tu: purifica
+  vos: purificá
+  ud: purifique
+  nosotros: purifiquemos
+  vosotros: purificad
+  uds: purifiquen

@@ -1,0 +1,142 @@
+infinitivo: atenuar
+gerundio: atenuando
+participio-pasado: atenuado
+presente-indicativo:
+  yo: atenúo
+  tu: atenúas
+  vos: atenuás
+  ud: atenúa
+  nosotros: atenuamos
+  vosotros: atenuáis
+  uds: atenúan
+preterito-perfecto-simple:
+  yo: atenué
+  tu: atenuaste
+  vos: atenuaste
+  ud: atenuó
+  nosotros: atenuamos
+  vosotros: atenuasteis
+  uds: atenuaron
+preterito-imperfecto:
+  yo: atenuaba
+  tu: atenuabas
+  vos: atenuabas
+  ud: atenuaba
+  nosotros: atenuábamos
+  vosotros: atenuabais
+  uds: atenuaban
+futuro-simple:
+  yo: atenuaré
+  tu: atenuarás
+  vos: atenuarás
+  ud: atenuará
+  nosotros: atenuaremos
+  vosotros: atenuaréis
+  uds: atenuarán
+condicional-simple:
+  yo: atenuaría
+  tu: atenuarías
+  vos: atenuarías
+  ud: atenuaría
+  nosotros: atenuaríamos
+  vosotros: atenuaríais
+  uds: atenuarían
+presente-perfecto:
+  yo: he atenuado
+  tu: has atenuado
+  vos: has atenuado
+  ud: ha atenuado
+  nosotros: hemos atenuado
+  vosotros: habéis atenuado
+  uds: han atenuado
+preterito-pluscuamperfecto:
+  yo: había atenuado
+  tu: habías atenuado
+  vos: habías atenuado
+  ud: había atenuado
+  nosotros: habíamos atenuado
+  vosotros: habíais atenuado
+  uds: habían atenuado
+futuro-perfecto:
+  yo: habré atenuado
+  tu: habrás atenuado
+  vos: habrás atenuado
+  ud: habrá atenuado
+  nosotros: habremos atenuado
+  vosotros: habréis atenuado
+  uds: habrán atenuado
+condicional-perfecto:
+  yo: habría atenuado
+  tu: habrías atenuado
+  vos: habrías atenuado
+  ud: habría atenuado
+  nosotros: habríamos atenuado
+  vosotros: habríais atenuado
+  uds: habrían atenuado
+presente-subjuntivo:
+  yo: atenúe
+  tu: atenúes
+  vos: atenúes
+  ud: atenúe
+  nosotros: atenuemos
+  vosotros: atenuéis
+  uds: atenúen
+preterito-perfecto-subjuntivo:
+  yo: haya atenuado
+  tu: hayas atenuado
+  vos: hayas atenuado
+  ud: haya atenuado
+  nosotros: hayamos atenuado
+  vosotros: hayáis atenuado
+  uds: hayan atenuado
+imperfecto-subjuntivo:
+  yo:
+    - atenuara
+    - atenuase
+  tu:
+    - atenuaras
+    - atenuases
+  vos:
+    - atenuaras
+    - atenuases
+  ud:
+    - atenuara
+    - atenuase
+  nosotros:
+    - atenuáramos
+    - atenuásemos
+  vosotros:
+    - atenuarais
+    - atenuaseis
+  uds:
+    - atenuaran
+    - atenuasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atenuado
+    - hubiese atenuado
+  tu:
+    - hubieras atenuado
+    - hubieses atenuado
+  vos:
+    - hubieras atenuado
+    - hubieses atenuado
+  ud:
+    - hubiera atenuado
+    - hubiese atenuado
+  nosotros:
+    - hubiéramos atenuado
+    - hubiésemos atenuado
+  vosotros:
+    - hubierais atenuado
+    - hubieseis atenuado
+  uds:
+    - hubieran atenuado
+    - hubiesen atenuado
+imperativo:
+  tu: atenúa
+  vos: atenuá
+  ud: atenúe
+  nosotros: atenuemos
+  vosotros: atenuad
+  uds: atenúen

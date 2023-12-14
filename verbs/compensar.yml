@@ -1,0 +1,142 @@
+infinitivo: compensar
+gerundio: compensando
+participio-pasado: compensado
+presente-indicativo:
+  yo: compenso
+  tu: compensas
+  vos: compensas
+  ud: compensa
+  nosotros: compensamos
+  vosotros: compensáis
+  uds: compensan
+preterito-perfecto-simple:
+  yo: compensé
+  tu: compensaste
+  vos: compensaste
+  ud: compensó
+  nosotros: compensamos
+  vosotros: compensasteis
+  uds: compensaron
+preterito-imperfecto:
+  yo: compensaba
+  tu: compensabas
+  vos: compensabas
+  ud: compensaba
+  nosotros: compensábamos
+  vosotros: compensabais
+  uds: compensaban
+futuro-simple:
+  yo: compensaré
+  tu: compensarás
+  vos: compensarás
+  ud: compensará
+  nosotros: compensaremos
+  vosotros: compensaréis
+  uds: compensarán
+condicional-simple:
+  yo: compensaría
+  tu: compensarías
+  vos: compensarías
+  ud: compensaría
+  nosotros: compensaríamos
+  vosotros: compensaríais
+  uds: compensarían
+presente-perfecto:
+  yo: he compensado
+  tu: has compensado
+  vos: has compensado
+  ud: ha compensado
+  nosotros: hemos compensado
+  vosotros: habéis compensado
+  uds: han compensado
+preterito-pluscuamperfecto:
+  yo: había compensado
+  tu: habías compensado
+  vos: habías compensado
+  ud: había compensado
+  nosotros: habíamos compensado
+  vosotros: habíais compensado
+  uds: habían compensado
+futuro-perfecto:
+  yo: habré compensado
+  tu: habrás compensado
+  vos: habrás compensado
+  ud: habrá compensado
+  nosotros: habremos compensado
+  vosotros: habréis compensado
+  uds: habrán compensado
+condicional-perfecto:
+  yo: habría compensado
+  tu: habrías compensado
+  vos: habrías compensado
+  ud: habría compensado
+  nosotros: habríamos compensado
+  vosotros: habríais compensado
+  uds: habrían compensado
+presente-subjuntivo:
+  yo: compense
+  tu: compenses
+  vos: compenses
+  ud: compense
+  nosotros: compensemos
+  vosotros: compenséis
+  uds: compensen
+preterito-perfecto-subjuntivo:
+  yo: haya compensado
+  tu: hayas compensado
+  vos: hayas compensado
+  ud: haya compensado
+  nosotros: hayamos compensado
+  vosotros: hayáis compensado
+  uds: hayan compensado
+imperfecto-subjuntivo:
+  yo:
+    - compensara
+    - compensase
+  tu:
+    - compensaras
+    - compensases
+  vos:
+    - compensaras
+    - compensases
+  ud:
+    - compensara
+    - compensase
+  nosotros:
+    - compensáramos
+    - compensásemos
+  vosotros:
+    - compensarais
+    - compensaseis
+  uds:
+    - compensaran
+    - compensasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera compensado
+    - hubiese compensado
+  tu:
+    - hubieras compensado
+    - hubieses compensado
+  vos:
+    - hubieras compensado
+    - hubieses compensado
+  ud:
+    - hubiera compensado
+    - hubiese compensado
+  nosotros:
+    - hubiéramos compensado
+    - hubiésemos compensado
+  vosotros:
+    - hubierais compensado
+    - hubieseis compensado
+  uds:
+    - hubieran compensado
+    - hubiesen compensado
+imperativo:
+  tu: compensa
+  vos: compensá
+  ud: compense
+  nosotros: compensemos
+  vosotros: compensad
+  uds: compensen

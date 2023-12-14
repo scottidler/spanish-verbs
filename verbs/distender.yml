@@ -1,0 +1,142 @@
+infinitivo: distender
+gerundio: distendiendo
+participio-pasado: distendido
+presente-indicativo:
+  yo: distiendo
+  tu: distiendes
+  vos: distiendes
+  ud: distiende
+  nosotros: distendemos
+  vosotros: distendéis
+  uds: distienden
+preterito-perfecto-simple:
+  yo: distendí
+  tu: distendiste
+  vos: distendiste
+  ud: distendió
+  nosotros: distendimos
+  vosotros: distendisteis
+  uds: distendieron
+preterito-imperfecto:
+  yo: distendía
+  tu: distendías
+  vos: distendías
+  ud: distendía
+  nosotros: distendíamos
+  vosotros: distendíais
+  uds: distendían
+futuro-simple:
+  yo: distenderé
+  tu: distenderás
+  vos: distenderás
+  ud: distenderá
+  nosotros: distenderemos
+  vosotros: distenderéis
+  uds: distenderán
+condicional-simple:
+  yo: distendería
+  tu: distenderías
+  vos: distenderías
+  ud: distendería
+  nosotros: distenderíamos
+  vosotros: distenderíais
+  uds: distenderían
+presente-perfecto:
+  yo: he distendido
+  tu: has distendido
+  vos: has distendido
+  ud: ha distendido
+  nosotros: hemos distendido
+  vosotros: habéis distendido
+  uds: han distendido
+preterito-pluscuamperfecto:
+  yo: había distendido
+  tu: habías distendido
+  vos: habías distendido
+  ud: había distendido
+  nosotros: habíamos distendido
+  vosotros: habíais distendido
+  uds: habían distendido
+futuro-perfecto:
+  yo: habré distendido
+  tu: habrás distendido
+  vos: habrás distendido
+  ud: habrá distendido
+  nosotros: habremos distendido
+  vosotros: habréis distendido
+  uds: habrán distendido
+condicional-perfecto:
+  yo: habría distendido
+  tu: habrías distendido
+  vos: habrías distendido
+  ud: habría distendido
+  nosotros: habríamos distendido
+  vosotros: habríais distendido
+  uds: habrían distendido
+presente-subjuntivo:
+  yo: distienda
+  tu: distiendas
+  vos: distiendas
+  ud: distienda
+  nosotros: distendamos
+  vosotros: distendáis
+  uds: distiendan
+preterito-perfecto-subjuntivo:
+  yo: haya distendido
+  tu: hayas distendido
+  vos: hayas distendido
+  ud: haya distendido
+  nosotros: hayamos distendido
+  vosotros: hayáis distendido
+  uds: hayan distendido
+imperfecto-subjuntivo:
+  yo:
+    - distendiera
+    - distendiese
+  tu:
+    - distendieras
+    - distendieses
+  vos:
+    - distendieras
+    - distendieses
+  ud:
+    - distendiera
+    - distendiese
+  nosotros:
+    - distendiéramos
+    - distendiésemos
+  vosotros:
+    - distendierais
+    - distendieseis
+  uds:
+    - distendieran
+    - distendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera distendido
+    - hubiese distendido
+  tu:
+    - hubieras distendido
+    - hubieses distendido
+  vos:
+    - hubieras distendido
+    - hubieses distendido
+  ud:
+    - hubiera distendido
+    - hubiese distendido
+  nosotros:
+    - hubiéramos distendido
+    - hubiésemos distendido
+  vosotros:
+    - hubierais distendido
+    - hubieseis distendido
+  uds:
+    - hubieran distendido
+    - hubiesen distendido
+imperativo:
+  tu: distiende
+  vos: distendé
+  ud: distienda
+  nosotros: distendamos
+  vosotros: distended
+  uds: distiendan

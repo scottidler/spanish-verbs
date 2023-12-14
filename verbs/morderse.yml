@@ -1,0 +1,156 @@
+infinitivo: morderse
+gerundio: mordiéndose
+participio-pasado: mordido
+
+presente-indicativo:
+  yo: me muerdo
+  tu: te muerdes
+  vos: te muerdes
+  ud: se muerde
+  nosotros: nos mordemos
+  vosotros: os mordéis
+  uds: se muerden
+
+preterito-perfecto-simple:
+  yo: me mordí
+  tu: te mordiste
+  vos: te mordiste
+  ud: se mordió
+  nosotros: nos mordimos
+  vosotros: os mordisteis
+  uds: se mordieron
+
+preterito-imperfecto:
+  yo: me mordía
+  tu: te mordías
+  vos: te mordías
+  ud: se mordía
+  nosotros: nos mordíamos
+  vosotros: os mordíais
+  uds: se mordían
+
+futuro-simple:
+  yo: me morderé
+  tu: te morderás
+  vos: te morderás
+  ud: se morderá
+  nosotros: nos morderemos
+  vosotros: os morderéis
+  uds: se morderán
+
+condicional-simple:
+  yo: me mordería
+  tu: te morderías
+  vos: te morderías
+  ud: se mordería
+  nosotros: nos morderíamos
+  vosotros: os morderíais
+  uds: se morderían
+
+presente-perfecto:
+  yo: me he mordido
+  tu: te has mordido
+  vos: te has mordido
+  ud: se ha mordido
+  nosotros: nos hemos mordido
+  vosotros: os habéis mordido
+  uds: se han mordido
+
+preterito-pluscuamperfecto:
+  yo: me había mordido
+  tu: te habías mordido
+  vos: te habías mordido
+  ud: se había mordido
+  nosotros: nos habíamos mordido
+  vosotros: os habíais mordido
+  uds: se habían mordido
+
+futuro-perfecto:
+  yo: me habré mordido
+  tu: te habrás mordido
+  vos: te habrás mordido
+  ud: se habrá mordido
+  nosotros: nos habremos mordido
+  vosotros: os habréis mordido
+  uds: se habrán mordido
+
+condicional-perfecto:
+  yo: me habría mordido
+  tu: te habrías mordido
+  vos: te habrías mordido
+  ud: se habría mordido
+  nosotros: nos habríamos mordido
+  vosotros: os habríais mordido
+  uds: se habrían mordido
+
+presente-subjuntivo:
+  yo: me muerda
+  tu: te muerdas
+  vos: te muerdas
+  ud: se muerda
+  nosotros: nos mordamos
+  vosotros: os mordáis
+  uds: se muerdan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya mordido
+  tu: te hayas mordido
+  vos: te hayas mordido
+  ud: se haya mordido
+  nosotros: nos hayamos mordido
+  vosotros: os hayáis mordido
+  uds: se hayan mordido
+
+imperfecto-subjuntivo:
+  yo:
+    - me mordiera
+    - me mordiese
+  tu:
+    - te mordieras
+    - te mordieses
+  vos:
+    - te mordieras
+    - te mordieses
+  ud:
+    - se mordiera
+    - se mordiese
+  nosotros:
+    - nos mordiéramos
+    - nos mordiésemos
+  vosotros:
+    - os mordierais
+    - os mordieseis
+  uds:
+    - se mordieran
+    - se mordiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera mordido
+    - me hubiese mordido
+  tu:
+    - te hubieras mordido
+    - te hubieses mordido
+  vos:
+    - te hubieras mordido
+    - te hubieses mordido
+  ud:
+    - se hubiera mordido
+    - se hubiese mordido
+  nosotros:
+    - nos hubiéramos mordido
+    - nos hubiésemos mordido
+  vosotros:
+    - os hubierais mordido
+    - os hubieseis mordido
+  uds:
+    - se hubieran mordido
+    - se hubiesen mordido
+
+imperativo:
+  tu: muerde
+  vos: mordete
+  ud: muerda
+  nosotros: mordámonos
+  vosotros: mordéos
+  uds: muerdan

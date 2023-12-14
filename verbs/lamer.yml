@@ -1,0 +1,142 @@
+infinitivo: lamer
+gerundio: lamiendo
+participio-pasado: lamido
+presente-indicativo:
+  yo: lamo
+  tu: lames
+  vos: lames
+  ud: lame
+  nosotros: lamemos
+  vosotros: laméis
+  uds: lamen
+preterito-perfecto-simple:
+  yo: lamí
+  tu: lamiste
+  vos: lamiste
+  ud: lamió
+  nosotros: lamimos
+  vosotros: lamisteis
+  uds: lamieron
+preterito-imperfecto:
+  yo: lamía
+  tu: lamías
+  vos: lamías
+  ud: lamía
+  nosotros: lamíamos
+  vosotros: lamíais
+  uds: lamían
+futuro-simple:
+  yo: lameré
+  tu: lamerás
+  vos: lamerás
+  ud: lamerá
+  nosotros: lameremos
+  vosotros: lameréis
+  uds: lamerán
+condicional-simple:
+  yo: lamería
+  tu: lamerías
+  vos: lamerías
+  ud: lamería
+  nosotros: lameríamos
+  vosotros: lameríais
+  uds: lamerían
+presente-perfecto:
+  yo: he lamido
+  tu: has lamido
+  vos: has lamido
+  ud: ha lamido
+  nosotros: hemos lamido
+  vosotros: habéis lamido
+  uds: han lamido
+preterito-pluscuamperfecto:
+  yo: había lamido
+  tu: habías lamido
+  vos: habías lamido
+  ud: había lamido
+  nosotros: habíamos lamido
+  vosotros: habíais lamido
+  uds: habían lamido
+futuro-perfecto:
+  yo: habré lamido
+  tu: habrás lamido
+  vos: habrás lamido
+  ud: habrá lamido
+  nosotros: habremos lamido
+  vosotros: habréis lamido
+  uds: habrán lamido
+condicional-perfecto:
+  yo: habría lamido
+  tu: habrías lamido
+  vos: habrías lamido
+  ud: habría lamido
+  nosotros: habríamos lamido
+  vosotros: habríais lamido
+  uds: habrían lamido
+presente-subjuntivo:
+  yo: lame
+  tu: lames
+  vos: lames
+  ud: lame
+  nosotros: lamemos
+  vosotros: lamed
+  uds: lamen
+preterito-perfecto-subjuntivo:
+  yo: haya lamido
+  tu: hayas lamido
+  vos: hayas lamido
+  ud: haya lamido
+  nosotros: hayamos lamido
+  vosotros: hayáis lamido
+  uds: hayan lamido
+imperfecto-subjuntivo:
+  yo:
+    - lamiera
+    - lamiese
+  tu:
+    - lamieras
+    - lamieses
+  vos:
+    - lamieras
+    - lamieses
+  ud:
+    - lamiera
+    - lamiese
+  nosotros:
+    - lamiéramos
+    - lamiésemos
+  vosotros:
+    - lamierais
+    - lamieseis
+  uds:
+    - lamieran
+    - lamiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera lamido
+    - hubiese lamido
+  tu:
+    - hubieras lamido
+    - hubieses lamido
+  vos:
+    - hubieras lamido
+    - hubieses lamido
+  ud:
+    - hubiera lamido
+    - hubiese lamido
+  nosotros:
+    - hubiéramos lamido
+    - hubiésemos lamido
+  vosotros:
+    - hubierais lamido
+    - hubieseis lamido
+  uds:
+    - hubieran lamido
+    - hubiesen lamido
+imperativo:
+  tu: lame
+  vos: lamé
+  ud: lame
+  nosotros: lamemos
+  vosotros: lamid
+  uds: lamen

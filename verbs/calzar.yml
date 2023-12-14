@@ -1,0 +1,142 @@
+infinitivo: calzar
+gerundio: calzando
+participio-pasado: calzado
+presente-indicativo:
+  yo: calzo
+  tu: calzas
+  vos: calzas
+  ud: calza
+  nosotros: calzamos
+  vosotros: calzáis
+  uds: calzan
+preterito-perfecto-simple:
+  yo: calcé
+  tu: calzaste
+  vos: calzaste
+  ud: calzó
+  nosotros: calzamos
+  vosotros: calzasteis
+  uds: calzaron
+preterito-imperfecto:
+  yo: calzaba
+  tu: calzabas
+  vos: calzabas
+  ud: calzaba
+  nosotros: calzábamos
+  vosotros: calzabais
+  uds: calzaban
+futuro-simple:
+  yo: calzaré
+  tu: calzarás
+  vos: calzarás
+  ud: calzará
+  nosotros: calzaremos
+  vosotros: calzaréis
+  uds: calzarán
+condicional-simple:
+  yo: calzaría
+  tu: calzarías
+  vos: calzarías
+  ud: calzaría
+  nosotros: calzaríamos
+  vosotros: calzaríais
+  uds: calzarían
+presente-perfecto:
+  yo: he calzado
+  tu: has calzado
+  vos: has calzado
+  ud: ha calzado
+  nosotros: hemos calzado
+  vosotros: habéis calzado
+  uds: han calzado
+preterito-pluscuamperfecto:
+  yo: había calzado
+  tu: habías calzado
+  vos: habías calzado
+  ud: había calzado
+  nosotros: habíamos calzado
+  vosotros: habíais calzado
+  uds: habían calzado
+futuro-perfecto:
+  yo: habré calzado
+  tu: habrás calzado
+  vos: habrás calzado
+  ud: habrá calzado
+  nosotros: habremos calzado
+  vosotros: habréis calzado
+  uds: habrán calzado
+condicional-perfecto:
+  yo: habría calzado
+  tu: habrías calzado
+  vos: habrías calzado
+  ud: habría calzado
+  nosotros: habríamos calzado
+  vosotros: habríais calzado
+  uds: habrían calzado
+presente-subjuntivo:
+  yo: calce
+  tu: calces
+  vos: calces
+  ud: calce
+  nosotros: calcemos
+  vosotros: calcéis
+  uds: calcen
+preterito-perfecto-subjuntivo:
+  yo: haya calzado
+  tu: hayas calzado
+  vos: hayas calzado
+  ud: haya calzado
+  nosotros: hayamos calzado
+  vosotros: hayáis calzado
+  uds: hayan calzado
+imperfecto-subjuntivo:
+  yo:
+    - calzara
+    - calzase
+  tu:
+    - calzaras
+    - calzases
+  vos:
+    - calzaras
+    - calzases
+  ud:
+    - calzara
+    - calzase
+  nosotros:
+    - calzáramos
+    - calzásemos
+  vosotros:
+    - calzarais
+    - calzaseis
+  uds:
+    - calzaran
+    - calzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera calzado
+    - hubiese calzado
+  tu:
+    - hubieras calzado
+    - hubieses calzado
+  vos:
+    - hubieras calzado
+    - hubieses calzado
+  ud:
+    - hubiera calzado
+    - hubiese calzado
+  nosotros:
+    - hubiéramos calzado
+    - hubiésemos calzado
+  vosotros:
+    - hubierais calzado
+    - hubieseis calzado
+  uds:
+    - hubieran calzado
+    - hubiesen calzado
+imperativo:
+  tu: calza
+  vos: calzá
+  ud: calce
+  nosotros: calcemos
+  vosotros: calzad
+  uds: calcen

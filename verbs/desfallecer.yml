@@ -1,0 +1,142 @@
+infinitivo: desfallecer
+gerundio: desfalleciendo
+participio-pasado: desfallecido
+presente-indicativo:
+  yo: desfallezco
+  tu: desfalleces
+  vos: desfalleces
+  ud: desfallece
+  nosotros: desfallecemos
+  vosotros: desfallecéis
+  uds: desfallecen
+preterito-perfecto-simple:
+  yo: desfallecí
+  tu: desfalleciste
+  vos: desfalleciste
+  ud: desfalleció
+  nosotros: desfallecimos
+  vosotros: desfallecisteis
+  uds: desfallecieron
+preterito-imperfecto:
+  yo: desfallecía
+  tu: desfallecías
+  vos: desfallecías
+  ud: desfallecía
+  nosotros: desfallecíamos
+  vosotros: desfallecíais
+  uds: desfallecían
+futuro-simple:
+  yo: desfalleceré
+  tu: desfallecerás
+  vos: desfallecerás
+  ud: desfallecerá
+  nosotros: desfalleceremos
+  vosotros: desfalleceréis
+  uds: desfallecerán
+condicional-simple:
+  yo: desfallecería
+  tu: desfallecerías
+  vos: desfallecerías
+  ud: desfallecería
+  nosotros: desfalleceríamos
+  vosotros: desfalleceríais
+  uds: desfallecerían
+presente-perfecto:
+  yo: he desfallecido
+  tu: has desfallecido
+  vos: has desfallecido
+  ud: ha desfallecido
+  nosotros: hemos desfallecido
+  vosotros: habéis desfallecido
+  uds: han desfallecido
+preterito-pluscuamperfecto:
+  yo: había desfallecido
+  tu: habías desfallecido
+  vos: habías desfallecido
+  ud: había desfallecido
+  nosotros: habíamos desfallecido
+  vosotros: habíais desfallecido
+  uds: habían desfallecido
+futuro-perfecto:
+  yo: habré desfallecido
+  tu: habrás desfallecido
+  vos: habrás desfallecido
+  ud: habrá desfallecido
+  nosotros: habremos desfallecido
+  vosotros: habréis desfallecido
+  uds: habrán desfallecido
+condicional-perfecto:
+  yo: habría desfallecido
+  tu: habrías desfallecido
+  vos: habrías desfallecido
+  ud: habría desfallecido
+  nosotros: habríamos desfallecido
+  vosotros: habríais desfallecido
+  uds: habrían desfallecido
+presente-subjuntivo:
+  yo: desfallezca
+  tu: desfallezcas
+  vos: desfallezcas
+  ud: desfallezca
+  nosotros: desfallezcamos
+  vosotros: desfallezcáis
+  uds: desfallezcan
+preterito-perfecto-subjuntivo:
+  yo: haya desfallecido
+  tu: hayas desfallecido
+  vos: hayas desfallecido
+  ud: haya desfallecido
+  nosotros: hayamos desfallecido
+  vosotros: hayáis desfallecido
+  uds: hayan desfallecido
+imperfecto-subjuntivo:
+  yo:
+    - desfalleciera
+    - desfalleciese
+  tu:
+    - desfallecieras
+    - desfallecieses
+  vos:
+    - desfallecieras
+    - desfallecieses
+  ud:
+    - desfalleciera
+    - desfalleciese
+  nosotros:
+    - desfalleciéramos
+    - desfalleciésemos
+  vosotros:
+    - desfallecierais
+    - desfallecieseis
+  uds:
+    - desfallecieran
+    - desfalleciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desfallecido
+    - hubiese desfallecido
+  tu:
+    - hubieras desfallecido
+    - hubieses desfallecido
+  vos:
+    - hubieras desfallecido
+    - hubieses desfallecido
+  ud:
+    - hubiera desfallecido
+    - hubiese desfallecido
+  nosotros:
+    - hubiéramos desfallecido
+    - hubiésemos desfallecido
+  vosotros:
+    - hubierais desfallecido
+    - hubieseis desfallecido
+  uds:
+    - hubieran desfallecido
+    - hubiesen desfallecido
+imperativo:
+  tu: desfallece
+  vos: desfallecé
+  ud: desfallezca
+  nosotros: desfallezcamos
+  vosotros: desfalleced
+  uds: desfallezcan

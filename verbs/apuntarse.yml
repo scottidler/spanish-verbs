@@ -1,0 +1,142 @@
+infinitivo: apuntarse
+gerundio: apuntándose
+participio-pasado: apuntado
+presente-indicativo:
+  yo: me apunto
+  tu: te apuntas
+  vos: te apuntás
+  ud: se apunta
+  nosotros: nos apuntamos
+  vosotros: os apuntáis
+  uds: se apuntan
+preterito-perfecto-simple:
+  yo: me apunté
+  tu: te apuntaste
+  vos: te apuntaste
+  ud: se apuntó
+  nosotros: nos apuntamos
+  vosotros: os apuntasteis
+  uds: se apuntaron
+preterito-imperfecto:
+  yo: me apuntaba
+  tu: te apuntabas
+  vos: te apuntabas
+  ud: se apuntaba
+  nosotros: nos apuntábamos
+  vosotros: os apuntabais
+  uds: se apuntaban
+futuro-simple:
+  yo: me apuntaré
+  tu: te apuntarás
+  vos: te apuntarás
+  ud: se apuntará
+  nosotros: nos apuntaremos
+  vosotros: os apuntaréis
+  uds: se apuntarán
+condicional-simple:
+  yo: me apuntaría
+  tu: te apuntarías
+  vos: te apuntarías
+  ud: se apuntaría
+  nosotros: nos apuntaríamos
+  vosotros: os apuntaríais
+  uds: se apuntarían
+presente-perfecto:
+  yo: me he apuntado
+  tu: te has apuntado
+  vos: te has apuntado
+  ud: se ha apuntado
+  nosotros: nos hemos apuntado
+  vosotros: os habéis apuntado
+  uds: se han apuntado
+preterito-pluscuamperfecto:
+  yo: me había apuntado
+  tu: te habías apuntado
+  vos: te habías apuntado
+  ud: se había apuntado
+  nosotros: nos habíamos apuntado
+  vosotros: os habíais apuntado
+  uds: se habían apuntado
+futuro-perfecto:
+  yo: me habré apuntado
+  tu: te habrás apuntado
+  vos: te habrás apuntado
+  ud: se habrá apuntado
+  nosotros: nos habremos apuntado
+  vosotros: os habréis apuntado
+  uds: se habrán apuntado
+condicional-perfecto:
+  yo: me habría apuntado
+  tu: te habrías apuntado
+  vos: te habrías apuntado
+  ud: se habría apuntado
+  nosotros: nos habríamos apuntado
+  vosotros: os habríais apuntado
+  uds: se habrían apuntado
+presente-subjuntivo:
+  yo: me apunte
+  tu: te apuntes
+  vos: te apuntes
+  ud: se apunte
+  nosotros: nos apuntemos
+  vosotros: os apuntéis
+  uds: se apunten
+preterito-perfecto-subjuntivo:
+  yo: me haya apuntado
+  tu: te hayas apuntado
+  vos: te hayas apuntado
+  ud: se haya apuntado
+  nosotros: nos hayamos apuntado
+  vosotros: os hayáis apuntado
+  uds: se hayan apuntado
+imperfecto-subjuntivo:
+  yo:
+    - me apuntara
+    - me apuntase
+  tu:
+    - te apuntaras
+    - te apuntases
+  vos:
+    - te apuntaras
+    - te apuntases
+  ud:
+    - se apuntara
+    - se apuntase
+  nosotros:
+    - nos apuntáramos
+    - nos apuntásemos
+  vosotros:
+    - os apuntarais
+    - os apuntaseis
+  uds:
+    - se apuntaran
+    - se apuntasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera apuntado
+    - me hubiese apuntado
+  tu:
+    - te hubieras apuntado
+    - te hubieses apuntado
+  vos:
+    - te hubieras apuntado
+    - te hubieses apuntado
+  ud:
+    - se hubiera apuntado
+    - se hubiese apuntado
+  nosotros:
+    - nos hubiéramos apuntado
+    - nos hubiésemos apuntado
+  vosotros:
+    - os hubierais apuntado
+    - os hubieseis apuntado
+  uds:
+    - se hubieran apuntado
+    - se hubiesen apuntado
+imperativo:
+  tu: apúntate
+  vos: apuntate
+  ud: apúntese
+  nosotros: apuntémonos
+  vosotros: apuntaos
+  uds: apúntense

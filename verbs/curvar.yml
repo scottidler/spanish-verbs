@@ -1,0 +1,142 @@
+infinitivo: curvar
+gerundio: curvando
+participio-pasado: curvado
+presente-indicativo:
+  yo: curvo
+  tu: curvas
+  vos: curvás
+  ud: curva
+  nosotros: curvamos
+  vosotros: curváis
+  uds: curvan
+preterito-perfecto-simple:
+  yo: curvé
+  tu: curvaste
+  vos: curvaste
+  ud: curvó
+  nosotros: curvamos
+  vosotros: curvasteis
+  uds: curvaron
+preterito-imperfecto:
+  yo: curvaba
+  tu: curvabas
+  vos: curvabas
+  ud: curvaba
+  nosotros: curvábamos
+  vosotros: curvabais
+  uds: curvaban
+futuro-simple:
+  yo: curvaré
+  tu: curvarás
+  vos: curvarás
+  ud: curvará
+  nosotros: curvaremos
+  vosotros: curvaréis
+  uds: curvarán
+condicional-simple:
+  yo: curvaría
+  tu: curvarías
+  vos: curvarías
+  ud: curvaría
+  nosotros: curvaríamos
+  vosotros: curvaríais
+  uds: curvarían
+presente-perfecto:
+  yo: he curvado
+  tu: has curvado
+  vos: has curvado
+  ud: ha curvado
+  nosotros: hemos curvado
+  vosotros: habéis curvado
+  uds: han curvado
+preterito-pluscuamperfecto:
+  yo: había curvado
+  tu: habías curvado
+  vos: habías curvado
+  ud: había curvado
+  nosotros: habíamos curvado
+  vosotros: habíais curvado
+  uds: habían curvado
+futuro-perfecto:
+  yo: habré curvado
+  tu: habrás curvado
+  vos: habrás curvado
+  ud: habrá curvado
+  nosotros: habremos curvado
+  vosotros: habréis curvado
+  uds: habrán curvado
+condicional-perfecto:
+  yo: habría curvado
+  tu: habrías curvado
+  vos: habrías curvado
+  ud: habría curvado
+  nosotros: habríamos curvado
+  vosotros: habríais curvado
+  uds: habrían curvado
+presente-subjuntivo:
+  yo: curve
+  tu: curves
+  vos: curves
+  ud: curve
+  nosotros: curvemos
+  vosotros: curvéis
+  uds: curven
+preterito-perfecto-subjuntivo:
+  yo: haya curvado
+  tu: hayas curvado
+  vos: hayas curvado
+  ud: haya curvado
+  nosotros: hayamos curvado
+  vosotros: hayáis curvado
+  uds: hayan curvado
+imperfecto-subjuntivo:
+  yo:
+    - curvara
+    - curvase
+  tu:
+    - curvaras
+    - curvases
+  vos:
+    - curvaras
+    - curvases
+  ud:
+    - curvara
+    - curvase
+  nosotros:
+    - curváramos
+    - curvásemos
+  vosotros:
+    - curvarais
+    - curvaseis
+  uds:
+    - curvaran
+    - curvasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera curvado
+    - hubiese curvado
+  tu:
+    - hubieras curvado
+    - hubieses curvado
+  vos:
+    - hubieras curvado
+    - hubieses curvado
+  ud:
+    - hubiera curvado
+    - hubiese curvado
+  nosotros:
+    - hubiéramos curvado
+    - hubiésemos curvado
+  vosotros:
+    - hubierais curvado
+    - hubieseis curvado
+  uds:
+    - hubieran curvado
+    - hubiesen curvado
+imperativo:
+  tu: curva
+  vos: curvá
+  ud: curve
+  nosotros: curvemos
+  vosotros: curvad
+  uds: curven

@@ -1,0 +1,142 @@
+infinitivo: irradiar
+gerundio: irradiando
+participio-pasado: irradiado
+presente-indicativo:
+  yo: irrado
+  tu: irradias
+  vos: irradias
+  ud: irradia
+  nosotros: irradiamos
+  vosotros: irradiáis
+  uds: irradian
+preterito-perfecto-simple:
+  yo: irradié
+  tu: irradiaste
+  vos: irradiaste
+  ud: irradió
+  nosotros: irradiamos
+  vosotros: irradiasteis
+  uds: irradiaron
+preterito-imperfecto:
+  yo: irradiaba
+  tu: irradiabas
+  vos: irradiabas
+  ud: irradiaba
+  nosotros: irradiábamos
+  vosotros: irradiabais
+  uds: irradiaban
+futuro-simple:
+  yo: irradiaré
+  tu: irradiarás
+  vos: irradiarás
+  ud: irradiará
+  nosotros: irradiaremos
+  vosotros: irradiaréis
+  uds: irradiarán
+condicional-simple:
+  yo: irradiaría
+  tu: irradiarías
+  vos: irradiarías
+  ud: irradiaría
+  nosotros: irradiaríamos
+  vosotros: irradiaríais
+  uds: irradiarían
+presente-perfecto:
+  yo: he irradiado
+  tu: has irradiado
+  vos: has irradiado
+  ud: ha irradiado
+  nosotros: hemos irradiado
+  vosotros: habéis irradiado
+  uds: han irradiado
+preterito-pluscuamperfecto:
+  yo: había irradiado
+  tu: habías irradiado
+  vos: habías irradiado
+  ud: había irradiado
+  nosotros: habíamos irradiado
+  vosotros: habíais irradiado
+  uds: habían irradiado
+futuro-perfecto:
+  yo: habré irradiado
+  tu: habrás irradiado
+  vos: habrás irradiado
+  ud: habrá irradiado
+  nosotros: habremos irradiado
+  vosotros: habréis irradiado
+  uds: habrán irradiado
+condicional-perfecto:
+  yo: habría irradiado
+  tu: habrías irradiado
+  vos: habrías irradiado
+  ud: habría irradiado
+  nosotros: habríamos irradiado
+  vosotros: habríais irradiado
+  uds: habrían irradiado
+presente-subjuntivo:
+  yo: irradie
+  tu: irradies
+  vos: irradies
+  ud: irradie
+  nosotros: irradiemos
+  vosotros: irradiéis
+  uds: irradien
+preterito-perfecto-subjuntivo:
+  yo: haya irradiado
+  tu: hayas irradiado
+  vos: hayas irradiado
+  ud: haya irradiado
+  nosotros: hayamos irradiado
+  vosotros: hayáis irradiado
+  uds: hayan irradiado
+imperfecto-subjuntivo:
+  yo:
+    - irradiara
+    - irradiase
+  tu:
+    - irradiaras
+    - irradiases
+  vos:
+    - irradiaras
+    - irradiases
+  ud:
+    - irradiara
+    - irradiase
+  nosotros:
+    - irradiáramos
+    - irradiásemos
+  vosotros:
+    - irradiarais
+    - irradiaseis
+  uds:
+    - irradiaran
+    - irradiasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera irradiado
+    - hubiese irradiado
+  tu:
+    - hubieras irradiado
+    - hubieses irradiado
+  vos:
+    - hubieras irradiado
+    - hubieses irradiado
+  ud:
+    - hubiera irradiado
+    - hubiese irradiado
+  nosotros:
+    - hubiéramos irradiado
+    - hubiésemos irradiado
+  vosotros:
+    - hubierais irradiado
+    - hubieseis irradiado
+  uds:
+    - hubieran irradiado
+    - hubiesen irradiado
+imperativo:
+  tu: irradia
+  vos: irradá
+  ud: irradie
+  nosotros: irradiemos
+  vosotros: irradiad
+  uds: irradien

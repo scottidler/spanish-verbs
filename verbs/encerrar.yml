@@ -1,0 +1,142 @@
+infinitivo: encerrar
+gerundio: encerrando
+participio-pasado: encerrado
+presente-indicativo:
+  yo: encierro
+  tu: encierras
+  vos: encierras
+  ud: encierra
+  nosotros: encerramos
+  vosotros: encerráis
+  uds: encierran
+preterito-perfecto-simple:
+  yo: encerré
+  tu: encerraste
+  vos: encerraste
+  ud: encerró
+  nosotros: encerramos
+  vosotros: encerrasteis
+  uds: encerraron
+preterito-imperfecto:
+  yo: encerraba
+  tu: encerrabas
+  vos: encerrabas
+  ud: encerraba
+  nosotros: encerrábamos
+  vosotros: encerrabais
+  uds: encerraban
+futuro-simple:
+  yo: encerraré
+  tu: encerrarás
+  vos: encerrarás
+  ud: encerrará
+  nosotros: encerraremos
+  vosotros: encerraréis
+  uds: encerrarán
+condicional-simple:
+  yo: encerraría
+  tu: encerrarías
+  vos: encerrarías
+  ud: encerraría
+  nosotros: encerraríamos
+  vosotros: encerraríais
+  uds: encerrarían
+presente-perfecto:
+  yo: he encerrado
+  tu: has encerrado
+  vos: has encerrado
+  ud: ha encerrado
+  nosotros: hemos encerrado
+  vosotros: habéis encerrado
+  uds: han encerrado
+preterito-pluscuamperfecto:
+  yo: había encerrado
+  tu: habías encerrado
+  vos: habías encerrado
+  ud: había encerrado
+  nosotros: habíamos encerrado
+  vosotros: habíais encerrado
+  uds: habían encerrado
+futuro-perfecto:
+  yo: habré encerrado
+  tu: habrás encerrado
+  vos: habrás encerrado
+  ud: habrá encerrado
+  nosotros: habremos encerrado
+  vosotros: habréis encerrado
+  uds: habrán encerrado
+condicional-perfecto:
+  yo: habría encerrado
+  tu: habrías encerrado
+  vos: habrías encerrado
+  ud: habría encerrado
+  nosotros: habríamos encerrado
+  vosotros: habríais encerrado
+  uds: habrían encerrado
+presente-subjuntivo:
+  yo: encierre
+  tu: encierres
+  vos: encierres
+  ud: encierre
+  nosotros: encerremos
+  vosotros: encerréis
+  uds: encierren
+preterito-perfecto-subjuntivo:
+  yo: haya encerrado
+  tu: hayas encerrado
+  vos: hayas encerrado
+  ud: haya encerrado
+  nosotros: hayamos encerrado
+  vosotros: hayáis encerrado
+  uds: hayan encerrado
+imperfecto-subjuntivo:
+  yo:
+    - encerrara
+    - encerrase
+  tu:
+    - encerraras
+    - encerrases
+  vos:
+    - encerraras
+    - encerrases
+  ud:
+    - encerrara
+    - encerrase
+  nosotros:
+    - encerráramos
+    - encerrásemos
+  vosotros:
+    - encerrarais
+    - encerraseis
+  uds:
+    - encerraran
+    - encerrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera encerrado
+    - hubiese encerrado
+  tu:
+    - hubieras encerrado
+    - hubieses encerrado
+  vos:
+    - hubieras encerrado
+    - hubieses encerrado
+  ud:
+    - hubiera encerrado
+    - hubiese encerrado
+  nosotros:
+    - hubiéramos encerrado
+    - hubiésemos encerrado
+  vosotros:
+    - hubierais encerrado
+    - hubieseis encerrado
+  uds:
+    - hubieran encerrado
+    - hubiesen encerrado
+imperativo:
+  tu: encierra
+  vos: encerrá
+  ud: encierre
+  nosotros: cerremos
+  vosotros: cerrad
+  uds: encierren

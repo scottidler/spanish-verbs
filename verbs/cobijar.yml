@@ -1,0 +1,142 @@
+infinitivo: cobijar
+gerundio: cobijando
+participio-pasado: cobijado
+presente-indicativo:
+  yo: cobijo
+  tu: cobijas
+  vos: cobijas
+  ud: cobija
+  nosotros: cobijamos
+  vosotros: cobijáis
+  uds: cobijan
+preterito-perfecto-simple:
+  yo: cobijé
+  tu: cobijaste
+  vos: cobijaste
+  ud: cobijó
+  nosotros: cobijamos
+  vosotros: cobijasteis
+  uds: cobijaron
+preterito-imperfecto:
+  yo: cobijaba
+  tu: cobijabas
+  vos: cobijabas
+  ud: cobijaba
+  nosotros: cobijábamos
+  vosotros: cobijabais
+  uds: cobijaban
+futuro-simple:
+  yo: cobijaré
+  tu: cobijarás
+  vos: cobijarás
+  ud: cobijará
+  nosotros: cobijaremos
+  vosotros: cobijaréis
+  uds: cobijarán
+condicional-simple:
+  yo: cobijaría
+  tu: cobijarías
+  vos: cobijarías
+  ud: cobijaría
+  nosotros: cobijaríamos
+  vosotros: cobijaríais
+  uds: cobijarían
+presente-perfecto:
+  yo: he cobijado
+  tu: has cobijado
+  vos: has cobijado
+  ud: ha cobijado
+  nosotros: hemos cobijado
+  vosotros: habéis cobijado
+  uds: han cobijado
+preterito-pluscuamperfecto:
+  yo: había cobijado
+  tu: habías cobijado
+  vos: habías cobijado
+  ud: había cobijado
+  nosotros: habíamos cobijado
+  vosotros: habíais cobijado
+  uds: habían cobijado
+futuro-perfecto:
+  yo: habré cobijado
+  tu: habrás cobijado
+  vos: habrás cobijado
+  ud: habrá cobijado
+  nosotros: habremos cobijado
+  vosotros: habréis cobijado
+  uds: habrán cobijado
+condicional-perfecto:
+  yo: habría cobijado
+  tu: habrías cobijado
+  vos: habrías cobijado
+  ud: habría cobijado
+  nosotros: habríamos cobijado
+  vosotros: habríais cobijado
+  uds: habrían cobijado
+presente-subjuntivo:
+  yo: cobije
+  tu: cobijes
+  vos: cobijes
+  ud: cobije
+  nosotros: cobijemos
+  vosotros: cobijéis
+  uds: cobijen
+preterito-perfecto-subjuntivo:
+  yo: haya cobijado
+  tu: hayas cobijado
+  vos: hayas cobijado
+  ud: haya cobijado
+  nosotros: hayamos cobijado
+  vosotros: hayáis cobijado
+  uds: hayan cobijado
+imperfecto-subjuntivo:
+  yo:
+    - cobijara
+    - cobijase
+  tu:
+    - cobijaras
+    - cobijases
+  vos:
+    - cobijaras
+    - cobijases
+  ud:
+    - cobijara
+    - cobijase
+  nosotros:
+    - cobijáramos
+    - cobijásemos
+  vosotros:
+    - cobijarais
+    - cobijaseis
+  uds:
+    - cobijaran
+    - cobijasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cobijado
+    - hubiese cobijado
+  tu:
+    - hubieras cobijado
+    - hubieses cobijado
+  vos:
+    - hubieras cobijado
+    - hubieses cobijado
+  ud:
+    - hubiera cobijado
+    - hubiese cobijado
+  nosotros:
+    - hubiéramos cobijado
+    - hubiésemos cobijado
+  vosotros:
+    - hubierais cobijado
+    - hubieseis cobijado
+  uds:
+    - hubieran cobijado
+    - hubiesen cobijado
+imperativo:
+  tu: cobija
+  vos: cobijá
+  ud: cobije
+  nosotros: cobijemos
+  vosotros: cobijad
+  uds: cobijen

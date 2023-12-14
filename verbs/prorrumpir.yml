@@ -1,0 +1,142 @@
+infinitivo: prorrumpir
+gerundio: prorrumpiendo
+participio-pasado: prorrumpido
+presente-indicativo:
+  yo: prorrumbo
+  tu: prorrumpe
+  vos: prorrumpe
+  ud: prorrumpe
+  nosotros: prorrompemos
+  vosotros: prorrumpeis
+  uds: prorrumpen
+preterito-perfecto-simple:
+  yo: prorrompi
+  tu: prorrompiste
+  vos: prorrompiste
+  ud: prorrompio
+  nosotros: prorrompimos
+  vosotros: prorrompisteis
+  uds: prorrumpieron
+preterito-imperfecto:
+  yo: prorrompia
+  tu: prorrompias
+  vos: prorrompias
+  ud: prorrompia
+  nosotros: prorrompiamos
+  vosotros: prorrompiáis
+  uds: prorrompian
+futuro-simple:
+  yo: prorrompere
+  tu: prorromperas
+  vos: prorromperas
+  ud: prorrompera
+  nosotros: prorromperemos
+  vosotros: prorrompereis
+  uds: prorromperan
+condicional-simple:
+  yo: prorromperia
+  tu: prorromperias
+  vos: prorromperias
+  ud: prorromperia
+  nosotros: prorromperiamos
+  vosotros: prorromperíais
+  uds: prorromperian
+presente-perfecto:
+  yo: he prorrumpido
+  tu: has prorrumpido
+  vos: has prorrumpido
+  ud: ha prorrumpido
+  nosotros: hemos prorrumpido
+  vosotros: habéis prorrumpido
+  uds: han prorrumpido
+preterito-pluscuamperfecto:
+  yo: habia prorrumpido
+  tu: habías prorrumpido
+  vos: habías prorrumpido
+  ud: habia prorrumpido
+  nosotros: habíamos prorrumpido
+  vosotros: habíais prorrumpido
+  uds: habían prorrumpido
+futuro-perfecto:
+  yo: habré prorrumpido
+  tu: habrás prorrumpido
+  vos: habrás prorrumpido
+  ud: habrá prorrumpido
+  nosotros: habremos prorrumpido
+  vosotros: habréis prorrumpido
+  uds: habrán prorrumpido
+condicional-perfecto:
+  yo: habría prorrumpido
+  tu: habrías prorrumpido
+  vos: habrías prorrumpido
+  ud: habría prorrumpido
+  nosotros: habríamos prorrumpido
+  vosotros: habríais prorrumpido
+  uds: habrían prorrumpido
+presente-subjuntivo:
+  yo: prorrumpa
+  tu: prorrumpas
+  vos: prorrumpas
+  ud: prorrumpa
+  nosotros: prorrumapmos
+  vosotros: prorrumapais
+  uds: prorrumpan
+preterito-perfecto-subjuntivo:
+  yo: haya prorrumpido
+  tu: hayas prorrumpido
+  vos: hayas prorrumpido
+  ud: haya prorrumpido
+  nosotros: hayamos prorrumpido
+  vosotros: hayáis prorrumpido
+  uds: hayan prorrumpido
+imperfecto-subjuntivo:
+  yo:
+    - prorrumpliera
+    - prorrumpliese
+  tu:
+    - prorrumplieras
+    - prorrumplieses
+  vos:
+    - prorrumplieras
+    - prorrumplieses
+  ud:
+    - prorrumpliera
+    - prorrumpliese
+  nosotros:
+    - prorrumpliéramos
+    - prorrumpliésemos
+  vosotros:
+    - prorrumplierais
+    - prorrumplieseis
+  uds:
+    - prorrumplieran
+    - prorrumpliesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera prorrumpido
+    - hubiese prorrumpido
+  tu:
+    - hubieras prorrumpido
+    - hubieses prorrumpido
+  vos:
+    - hubieras prorrumpido
+    - hubieses prorrumpido
+  ud:
+    - hubiera prorrumpido
+    - hubiese prorrumpido
+  nosotros:
+    - hubiéramos prorrumpido
+    - hubiésemos prorrumpido
+  vosotros:
+    - hubierais prorrumpido
+    - hubieseis prorrumpido
+  uds:
+    - hubieran prorrumpido
+    - hubiesen prorrumpido
+imperativo:
+  tu: prorrumpa
+  vos: prorrumpe
+  ud: prorrumpa
+  nosotros: prorrumppamos
+  vosotros: prorromped
+  uds: prorrumpan

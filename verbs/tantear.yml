@@ -1,0 +1,142 @@
+infinitivo: tantear
+gerundio: tanteando
+participio-pasado: tanteado
+presente-indicativo:
+  yo: tantéo
+  tu: tanteas
+  vos: tanteás
+  ud: tantea
+  nosotros: tanteamos
+  vosotros: tanteáis
+  uds: tantean
+preterito-perfecto-simple:
+  yo: tanteé
+  tu: tanteaste
+  vos: tanteaste
+  ud: tanteó
+  nosotros: tanteamos
+  vosotros: tanteasteis
+  uds: tantearon
+preterito-imperfecto:
+  yo: tanteaba
+  tu: tanteabas
+  vos: tanteabas
+  ud: tanteaba
+  nosotros: tanteábamos
+  vosotros: tanteabais
+  uds: tanteaban
+futuro-simple:
+  yo: tantearé
+  tu: tantearás
+  vos: tantearás
+  ud: tanteará
+  nosotros: tantearemos
+  vosotros: tantearéis
+  uds: tantearán
+condicional-simple:
+  yo: tantearía
+  tu: tantearías
+  vos: tantearías
+  ud: tantearía
+  nosotros: tantearíamos
+  vosotros: tantearíais
+  uds: tantearían
+presente-perfecto:
+  yo: he tanteado
+  tu: has tanteado
+  vos: has tanteado
+  ud: ha tanteado
+  nosotros: hemos tanteado
+  vosotros: habéis tanteado
+  uds: han tanteado
+preterito-pluscuamperfecto:
+  yo: había tanteado
+  tu: habías tanteado
+  vos: habías tanteado
+  ud: había tanteado
+  nosotros: habíamos tanteado
+  vosotros: habíais tanteado
+  uds: habían tanteado
+futuro-perfecto:
+  yo: habré tanteado
+  tu: habrás tanteado
+  vos: habrás tanteado
+  ud: habrá tanteado
+  nosotros: habremos tanteado
+  vosotros: habréis tanteado
+  uds: habrán tanteado
+condicional-perfecto:
+  yo: habría tanteado
+  tu: habrías tanteado
+  vos: habrías tanteado
+  ud: habría tanteado
+  nosotros: habríamos tanteado
+  vosotros: habríais tanteado
+  uds: habrían tanteado
+presente-subjuntivo:
+  yo: tantee
+  tu: tantees
+  vos: tantees
+  ud: tantee
+  nosotros: tanteemos
+  vosotros: tanteéis
+  uds: tanteen
+preterito-perfecto-subjuntivo:
+  yo: haya tanteado
+  tu: hayas tanteado
+  vos: hayas tanteado
+  ud: haya tanteado
+  nosotros: hayamos tanteado
+  vosotros: hayáis tanteado
+  uds: hayan tanteado
+imperfecto-subjuntivo:
+  yo:
+    - tanteara
+    - tantease
+  tu:
+    - tantearas
+    - tanteases
+  vos:
+    - tantearas
+    - tanteases
+  ud:
+    - tanteara
+    - tantease
+  nosotros:
+    - tanteáramos
+    - tanteásemos
+  vosotros:
+    - tantearais
+    - tanteaseis
+  uds:
+    - tantearan
+    - tanteasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tanteado
+    - hubiese tanteado
+  tu:
+    - hubieras tanteado
+    - hubieses tanteado
+  vos:
+    - hubieras tanteado
+    - hubieses tanteado
+  ud:
+    - hubiera tanteado
+    - hubiese tanteado
+  nosotros:
+    - hubiéramos tanteado
+    - hubiésemos tanteado
+  vosotros:
+    - hubierais tanteado
+    - hubieseis tanteado
+  uds:
+    - hubieran tanteado
+    - hubiesen tanteado
+imperativo:
+  tu: tantea
+  vos: tanteá
+  ud: tantee
+  nosotros: tanteemos
+  vosotros: tantead
+  uds: tanteen

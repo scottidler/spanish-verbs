@@ -1,0 +1,142 @@
+infinitivo: complacer
+gerundio: complaciendo
+participio-pasado: complacido
+presente-indicativo:
+  yo: complazco
+  tu: complaces
+  vos: complaces
+  ud: complace
+  nosotros: complacemos
+  vosotros: complacéis
+  uds: complacen
+preterito-perfecto-simple:
+  yo: complací
+  tu: complaciste
+  vos: complaciste
+  ud: complació
+  nosotros: complacimos
+  vosotros: complacisteis
+  uds: complacieron
+preterito-imperfecto:
+  yo: complacía
+  tu: complacías
+  vos: complacías
+  ud: complacía
+  nosotros: complacíamos
+  vosotros: complacíais
+  uds: complacían
+futuro-simple:
+  yo: complaceré
+  tu: complacerás
+  vos: complacerás
+  ud: complacerá
+  nosotros: complaceremos
+  vosotros: complaceréis
+  uds: complacerán
+condicional-simple:
+  yo: complacería
+  tu: complacerías
+  vos: complacerías
+  ud: complacería
+  nosotros: complaceríamos
+  vosotros: complaceríais
+  uds: complacerían
+presente-perfecto:
+  yo: he complacido
+  tu: has complacido
+  vos: has complacido
+  ud: ha complacido
+  nosotros: hemos complacido
+  vosotros: habéis complacido
+  uds: han complacido
+preterito-pluscuamperfecto:
+  yo: había complacido
+  tu: habías complacido
+  vos: habías complacido
+  ud: había complacido
+  nosotros: habíamos complacido
+  vosotros: habíais complacido
+  uds: habían complacido
+futuro-perfecto:
+  yo: habré complacido
+  tu: habrás complacido
+  vos: habrás complacido
+  ud: habrá complacido
+  nosotros: habremos complacido
+  vosotros: habréis complacido
+  uds: habrán complacido
+condicional-perfecto:
+  yo: habría complacido
+  tu: habrías complacido
+  vos: habrías complacido
+  ud: habría complacido
+  nosotros: habríamos complacido
+  vosotros: habríais complacido
+  uds: habrían complacido
+presente-subjuntivo:
+  yo: complazca
+  tu: complazcas
+  vos: complazcas
+  ud: complazca
+  nosotros: complazcamos
+  vosotros: complazcáis
+  uds: complazcan
+preterito-perfecto-subjuntivo:
+  yo: haya complacido
+  tu: hayas complacido
+  vos: hayas complacido
+  ud: haya complacido
+  nosotros: hayamos complacido
+  vosotros: hayáis complacido
+  uds: hayan complacido
+imperfecto-subjuntivo:
+  yo:
+    - complaciera
+    - complaciese
+  tu:
+    - complacieras
+    - complacieses
+  vos:
+    - complacieras
+    - complacieses
+  ud:
+    - complaciera
+    - complaciese
+  nosotros:
+    - complaciéramos
+    - complaciésemos
+  vosotros:
+    - complacierais
+    - complacieseis
+  uds:
+    - complacieran
+    - complaciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera complacido
+    - hubiese complacido
+  tu:
+    - hubieras complacido
+    - hubieses complacido
+  vos:
+    - hubieras complacido
+    - hubieses complacido
+  ud:
+    - hubiera complacido
+    - hubiese complacido
+  nosotros:
+    - hubiéramos complacido
+    - hubiésemos complacido
+  vosotros:
+    - hubierais complacido
+    - hubieseis complacido
+  uds:
+    - hubieran complacido
+    - hubiesen complacido
+imperativo:
+  tu: complace
+  vos: complacé
+  ud: complazca
+  nosotros: complazcamos
+  vosotros: complaced
+  uds: complazcan

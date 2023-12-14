@@ -1,0 +1,142 @@
+infinitivo: impresionar
+gerundio: impresionando
+participio-pasado: impresionado
+presente-indicativo:
+  yo: impresiono
+  tu: impresionas
+  vos: impresionas
+  ud: impresiona
+  nosotros: impresionamos
+  vosotros: impresionáis
+  uds: impresionan
+preterito-perfecto-simple:
+  yo: impresioné
+  tu: impresionaste
+  vos: impresionaste
+  ud: impresionó
+  nosotros: impresionamos
+  vosotros: impresionasteis
+  uds: impresionaron
+preterito-imperfecto:
+  yo: impresionaba
+  tu: impresionabas
+  vos: impresionabas
+  ud: impresionaba
+  nosotros: impresionábamos
+  vosotros: impresionabais
+  uds: impresionaban
+futuro-simple:
+  yo: impresionaré
+  tu: impresionarás
+  vos: impresionarás
+  ud: impresionará
+  nosotros: impresionaremos
+  vosotros: impresionaréis
+  uds: impresionarán
+condicional-simple:
+  yo: impresionaría
+  tu: impresionarías
+  vos: impresionarías
+  ud: impresionaría
+  nosotros: impresionaríamos
+  vosotros: impresionaríais
+  uds: impresionarían
+presente-perfecto:
+  yo: he impresionado
+  tu: has impresionado
+  vos: has impresionado
+  ud: ha impresionado
+  nosotros: hemos impresionado
+  vosotros: habéis impresionado
+  uds: han impresionado
+preterito-pluscuamperfecto:
+  yo: había impresionado
+  tu: habías impresionado
+  vos: habías impresionado
+  ud: había impresionado
+  nosotros: habíamos impresionado
+  vosotros: habíais impresionado
+  uds: habían impresionado
+futuro-perfecto:
+  yo: habré impresionado
+  tu: habrás impresionado
+  vos: habrás impresionado
+  ud: habrá impresionado
+  nosotros: habremos impresionado
+  vosotros: habréis impresionado
+  uds: habrán impresionado
+condicional-perfecto:
+  yo: habría impresionado
+  tu: habrías impresionado
+  vos: habrías impresionado
+  ud: habría impresionado
+  nosotros: habríamos impresionado
+  vosotros: habríais impresionado
+  uds: habrían impresionado
+presente-subjuntivo:
+  yo: impresione
+  tu: impresiones
+  vos: impresiones
+  ud: impresione
+  nosotros: impresionemos
+  vosotros: impresionéis
+  uds: impresionen
+preterito-perfecto-subjuntivo:
+  yo: haya impresionado
+  tu: hayas impresionado
+  vos: hayas impresionado
+  ud: haya impresionado
+  nosotros: hayamos impresionado
+  vosotros: hayáis impresionado
+  uds: hayan impresionado
+imperfecto-subjuntivo:
+  yo:
+    - impresionara
+    - impresionase
+  tu:
+    - impresionaras
+    - impresionases
+  vos:
+    - impresionaras
+    - impresionases
+  ud:
+    - impresionara
+    - impresionase
+  nosotros:
+    - impresionáramos
+    - impresionásemos
+  vosotros:
+    - impresionarais
+    - impresionaseis
+  uds:
+    - impresionaran
+    - impresionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera impresionado
+    - hubiese impresionado
+  tu:
+    - hubieras impresionado
+    - hubieses impresionado
+  vos:
+    - hubieras impresionado
+    - hubieses impresionado
+  ud:
+    - hubiera impresionado
+    - hubiese impresionado
+  nosotros:
+    - hubiéramos impresionado
+    - hubiésemos impresionado
+  vosotros:
+    - hubierais impresionado
+    - hubieseis impresionado
+  uds:
+    - hubieran impresionado
+    - hubiesen impresionado
+imperativo:
+  tu: impresiona
+  vos: impresioná
+  ud: impresione
+  nosotros: impresionemos
+  vosotros: impresionad
+  uds: impresionen

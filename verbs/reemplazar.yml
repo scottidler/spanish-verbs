@@ -1,0 +1,142 @@
+infinitivo: reemplazar
+gerundio: reemplazando
+participio-pasado: reemplazado
+presente-indicativo:
+  yo: reemplazo
+  tu: reemplazas
+  vos: reemplazas
+  ud: reemplaza
+  nosotros: reemplazamos
+  vosotros: reemplazáis
+  uds: reemplazan
+preterito-perfecto-simple:
+  yo: reemplacé
+  tu: reemplazaste
+  vos: reemplazaste
+  ud: reemplazó
+  nosotros: reemplazamos
+  vosotros: reemplazasteis
+  uds: reemplazaron
+preterito-imperfecto:
+  yo: reemplazaba
+  tu: reemplazabas
+  vos: reemplazabas
+  ud: reemplazaba
+  nosotros: reemplazábamos
+  vosotros: reemplazabais
+  uds: reemplazaban
+futuro-simple:
+  yo: reemplazaré
+  tu: reemplazarás
+  vos: reemplazarás
+  ud: reemplazará
+  nosotros: reemplazaremos
+  vosotros: reemplazaréis
+  uds: reemplazarán
+condicional-simple:
+  yo: reemplazaría
+  tu: reemplazarías
+  vos: reemplazarías
+  ud: reemplazaría
+  nosotros: reemplazaríamos
+  vosotros: reemplazaríais
+  uds: reemplazarían
+presente-perfecto:
+  yo: he reemplazado
+  tu: has reemplazado
+  vos: has reemplazado
+  ud: ha reemplazado
+  nosotros: hemos reemplazado
+  vosotros: habéis reemplazado
+  uds: han reemplazado
+preterito-pluscuamperfecto:
+  yo: había reemplazado
+  tu: habías reemplazado
+  vos: habías reemplazado
+  ud: había reemplazado
+  nosotros: habíamos reemplazado
+  vosotros: habíais reemplazado
+  uds: habían reemplazado
+futuro-perfecto:
+  yo: habré reemplazado
+  tu: habrás reemplazado
+  vos: habrás reemplazado
+  ud: habrá reemplazado
+  nosotros: habremos reemplazado
+  vosotros: habréis reemplazado
+  uds: habrán reemplazado
+condicional-perfecto:
+  yo: habría reemplazado
+  tu: habrías reemplazado
+  vos: habrías reemplazado
+  ud: habría reemplazado
+  nosotros: habríamos reemplazado
+  vosotros: habríais reemplazado
+  uds: habrían reemplazado
+presente-subjuntivo:
+  yo: reemplace
+  tu: reemplaces
+  vos: reemplaces
+  ud: reemplace
+  nosotros: reemplacemos
+  vosotros: reemplacéis
+  uds: reemplacen
+preterito-perfecto-subjuntivo:
+  yo: haya reemplazado
+  tu: hayas reemplazado
+  vos: hayas reemplazado
+  ud: haya reemplazado
+  nosotros: hayamos reemplazado
+  vosotros: hayáis reemplazado
+  uds: hayan reemplazado
+imperfecto-subjuntivo:
+  yo:
+    - reemplazara
+    - reemplazase
+  tu:
+    - reemplazaras
+    - reemplazases
+  vos:
+    - reemplazaras
+    - reemplazases
+  ud:
+    - reemplazara
+    - reemplazase
+  nosotros:
+    - reemplazáramos
+    - reemplazásemos
+  vosotros:
+    - reemplazarais
+    - reemplazaseis
+  uds:
+    - reemplazaran
+    - reemplazasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reemplazado
+    - hubiese reemplazado
+  tu:
+    - hubieras reemplazado
+    - hubieses reemplazado
+  vos:
+    - hubieras reemplazado
+    - hubieses reemplazado
+  ud:
+    - hubiera reemplazado
+    - hubiese reemplazado
+  nosotros:
+    - hubiéramos reemplazado
+    - hubiésemos reemplazado
+  vosotros:
+    - hubierais reemplazado
+    - hubieseis reemplazado
+  uds:
+    - hubieran reemplazado
+    - hubiesen reemplazado
+imperativo:
+  tu: reemplaza
+  vos: reemplazá
+  ud: reemplace
+  nosotros: reemplacemos
+  vosotros: reemplazad
+  uds: reemplacen

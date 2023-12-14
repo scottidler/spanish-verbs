@@ -1,0 +1,142 @@
+infinitivo: largar
+gerundio: largando
+participio-pasado: largado
+presente-indicativo:
+  yo: largo
+  tu: largas
+  vos: largás
+  ud: larga
+  nosotros: largamos
+  vosotros: largáis
+  uds: largan
+preterito-perfecto-simple:
+  yo: largué
+  tu: largaste
+  vos: largaste
+  ud: largó
+  nosotros: largamos
+  vosotros: largasteis
+  uds: largaron
+preterito-imperfecto:
+  yo: largaba
+  tu: largabas
+  vos: largabas
+  ud: largaba
+  nosotros: largábamos
+  vosotros: largabais
+  uds: largaban
+futuro-simple:
+  yo: largaré
+  tu: largarás
+  vos: largarás
+  ud: largará
+  nosotros: largaremos
+  vosotros: largaréis
+  uds: largarán
+condicional-simple:
+  yo: largaría
+  tu: largarías
+  vos: largarías
+  ud: largaría
+  nosotros: largaríamos
+  vosotros: largaríais
+  uds: largarían
+presente-perfecto:
+  yo: he largado
+  tu: has largado
+  vos: has largado
+  ud: ha largado
+  nosotros: hemos largado
+  vosotros: habéis largado
+  uds: han largado
+preterito-pluscuamperfecto:
+  yo: había largado
+  tu: habías largado
+  vos: habías largado
+  ud: había largado
+  nosotros: habíamos largado
+  vosotros: habíais largado
+  uds: habían largado
+futuro-perfecto:
+  yo: habré largado
+  tu: habrás largado
+  vos: habrás largado
+  ud: habrá largado
+  nosotros: habremos largado
+  vosotros: habréis largado
+  uds: habrán largado
+condicional-perfecto:
+  yo: habría largado
+  tu: habrías largado
+  vos: habrías largado
+  ud: habría largado
+  nosotros: habríamos largado
+  vosotros: habríais largado
+  uds: habrían largado
+presente-subjuntivo:
+  yo: largue
+  tu: largues
+  vos: largues
+  ud: largue
+  nosotros: larguemos
+  vosotros: larguéis
+  uds: larguen
+preterito-perfecto-subjuntivo:
+  yo: haya largado
+  tu: hayas largado
+  vos: hayas largado
+  ud: haya largado
+  nosotros: hayamos largado
+  vosotros: hayáis largado
+  uds: hayan largado
+imperfecto-subjuntivo:
+  yo:
+    - largara
+    - largase
+  tu:
+    - largaras
+    - largases
+  vos:
+    - largaras
+    - largases
+  ud:
+    - largara
+    - largase
+  nosotros:
+    - largáramos
+    - largásemos
+  vosotros:
+    - largarais
+    - largaseis
+  uds:
+    - largaran
+    - largasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera largado
+    - hubiese largado
+  tu:
+    - hubieras largado
+    - hubieses largado
+  vos:
+    - hubieras largado
+    - hubieses largado
+  ud:
+    - hubiera largado
+    - hubiese largado
+  nosotros:
+    - hubiéramos largado
+    - hubiésemos largado
+  vosotros:
+    - hubierais largado
+    - hubieseis largado
+  uds:
+    - hubieran largado
+    - hubiesen largado
+imperativo:
+  tu: larga
+  vos: largá
+  ud: largue
+  nosotros: larguemos
+  vosotros: largad
+  uds: larguen

@@ -1,0 +1,142 @@
+infinitivo: recortar
+gerundio: recortando
+participio-pasado: recortado
+presente-indicativo:
+  yo: recorto
+  tu: recortas
+  vos: recortas
+  ud: recorta
+  nosotros: recortamos
+  vosotros: recortáis
+  uds: recortan
+preterito-perfecto-simple:
+  yo: recorté
+  tu: recortaste
+  vos: recortaste
+  ud: recortó
+  nosotros: recortamos
+  vosotros: recortasteis
+  uds: recortaron
+preterito-imperfecto:
+  yo: recortaba
+  tu: recortabas
+  vos: recortabas
+  ud: recortaba
+  nosotros: recortábamos
+  vosotros: recortabais
+  uds: recortaban
+futuro-simple:
+  yo: recortaré
+  tu: recortarás
+  vos: recortarás
+  ud: recortará
+  nosotros: recortaremos
+  vosotros: recortaréis
+  uds: recortarán
+condicional-simple:
+  yo: recortaría
+  tu: recortarías
+  vos: recortarías
+  ud: recortaría
+  nosotros: recortaríamos
+  vosotros: recortaríais
+  uds: recortarían
+presente-perfecto:
+  yo: he recortado
+  tu: has recortado
+  vos: has recortado
+  ud: ha recortado
+  nosotros: hemos recortado
+  vosotros: habéis recortado
+  uds: han recortado
+preterito-pluscuamperfecto:
+  yo: había recortado
+  tu: habías recortado
+  vos: habías recortado
+  ud: había recortado
+  nosotros: habíamos recortado
+  vosotros: habíais recortado
+  uds: habían recortado
+futuro-perfecto:
+  yo: habré recortado
+  tu: habrás recortado
+  vos: habrás recortado
+  ud: habrá recortado
+  nosotros: habremos recortado
+  vosotros: habréis recortado
+  uds: habrán recortado
+condicional-perfecto:
+  yo: habría recortado
+  tu: habrías recortado
+  vos: habrías recortado
+  ud: habría recortado
+  nosotros: habríamos recortado
+  vosotros: habríais recortado
+  uds: habrían recortado
+presente-subjuntivo:
+  yo: recorte
+  tu: recortes
+  vos: recortes
+  ud: recorte
+  nosotros: recortemos
+  vosotros: recortéis
+  uds: recorten
+preterito-perfecto-subjuntivo:
+  yo: haya recortado
+  tu: hayas recortado
+  vos: hayas recortado
+  ud: haya recortado
+  nosotros: hayamos recortado
+  vosotros: hayáis recortado
+  uds: hayan recortado
+imperfecto-subjuntivo:
+  yo:
+    - recortara
+    - recortase
+  tu:
+    - recortaras
+    - recortases
+  vos:
+    - recortaras
+    - recortases
+  ud:
+    - recortara
+    - recortase
+  nosotros:
+    - recortáramos
+    - recortásemos
+  vosotros:
+    - recortarais
+    - recortaseis
+  uds:
+    - recortaran
+    - recortasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera recortado
+    - hubiese recortado
+  tu:
+    - hubieras recortado
+    - hubieses recortado
+  vos:
+    - hubieras recortado
+    - hubieses recortado
+  ud:
+    - hubiera recortado
+    - hubiese recortado
+  nosotros:
+    - hubiéramos recortado
+    - hubiésemos recortado
+  vosotros:
+    - hubierais recortado
+    - hubieseis recortado
+  uds:
+    - hubieran recortado
+    - hubiesen recortado
+imperativo:
+  tu: recorta
+  vos: recortá
+  ud: recorte
+  nosotros: recortemos
+  vosotros: recortad
+  uds: recorten

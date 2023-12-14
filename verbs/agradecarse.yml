@@ -1,0 +1,142 @@
+infinitivo: agradecarse
+gerundio: agradeciéndose
+participio-pasado: agradecido
+presente-indicativo:
+  yo: me agradezco
+  tu: te agradeces
+  vos: te agradeces
+  ud: se agradece
+  nosotros: nos agradecemos
+  vosotros: os agradecéis
+  uds: se agradecen
+preterito-perfecto-simple:
+  yo: me agradecí
+  tu: te agradeciste
+  vos: te agradeciste
+  ud: se agradeció
+  nosotros: nos agradecimos
+  vosotros: os agradecisteis
+  uds: se agradecieron
+preterito-imperfecto:
+  yo: me agradecía
+  tu: te agradecías
+  vos: te agradecías
+  ud: se agradecía
+  nosotros: nos agradecíamos
+  vosotros: os agradecíais
+  uds: se agradecían
+futuro-simple:
+  yo: me agradeceré
+  tu: te agradecerás
+  vos: te agradecerás
+  ud: se agradecerá
+  nosotros: nos agradeceremos
+  vosotros: os agradeceréis
+  uds: se agradecerán
+condicional-simple:
+  yo: me agradecería
+  tu: te agradecerías
+  vos: te agradecerías
+  ud: se agradecería
+  nosotros: nos agradeceríamos
+  vosotros: os agradeceríais
+  uds: se agradecerían
+presente-perfecto:
+  yo: me he agradecido
+  tu: te has agradecido
+  vos: te has agradecido
+  ud: se ha agradecido
+  nosotros: nos hemos agradecido
+  vosotros: os habéis agradecido
+  uds: se han agradecido
+preterito-pluscuamperfecto:
+  yo: me había agradecido
+  tu: te habías agradecido
+  vos: te habías agradecido
+  ud: se había agradecido
+  nosotros: nos habíamos agradecido
+  vosotros: os habíais agradecido
+  uds: se habían agradecido
+futuro-perfecto:
+  yo: me habré agradecido
+  tu: te habrás agradecido
+  vos: te habrás agradecido
+  ud: se habrá agradecido
+  nosotros: nos habremos agradecido
+  vosotros: os habréis agradecido
+  uds: se habrán agradecido
+condicional-perfecto:
+  yo: me habría agradecido
+  tu: te habrías agradecido
+  vos: te habrías agradecido
+  ud: se habría agradecido
+  nosotros: nos habríamos agradecido
+  vosotros: os habríais agradecido
+  uds: se habrían agradecido
+presente-subjuntivo:
+  yo: me agradezca
+  tu: te agradezcas
+  vos: te agradezcas
+  ud: se agradezca
+  nosotros: nos agradezcamos
+  vosotros: os agradezcáis
+  uds: se agradezcan
+preterito-perfecto-subjuntivo:
+  yo: me haya agradecido
+  tu: te hayas agradecido
+  vos: te hayas agradecido
+  ud: se haya agradecido
+  nosotros: nos hayamos agradecido
+  vosotros: os hayáis agradecido
+  uds: se hayan agradecido
+imperfecto-subjuntivo:
+  yo:
+    - me agradeciera
+    - me agradeciese
+  tu:
+    - te agradecieras
+    - te agradecieses
+  vos:
+    - te agradecieras
+    - te agradecieses
+  ud:
+    - se agradeciera
+    - se agradeciese
+  nosotros:
+    - nos agradeciéramos
+    - nos agradeciésemos
+  vosotros:
+    - os agradecierais
+    - os agradecieseis
+  uds:
+    - se agradecieran
+    - se agradeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera agradecido
+    - me hubiese agradecido
+  tu:
+    - te hubieras agradecido
+    - te hubieses agradecido
+  vos:
+    - te hubieras agradecido
+    - te hubieses agradecido
+  ud:
+    - se hubiera agradecido
+    - se hubiese agradecido
+  nosotros:
+    - nos hubiéramos agradecido
+    - nos hubiésemos agradecido
+  vosotros:
+    - os hubierais agradecido
+    - os hubieseis agradecido
+  uds:
+    - se hubieran agradecido
+    - se hubiesen agradecido
+imperativo:
+  tu: agradécete
+  vos: agradeceos
+  ud: agradézcase
+  nosotros: agradezcámonos
+  vosotros: agradeced
+  uds: agradézcanse

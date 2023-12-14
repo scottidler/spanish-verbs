@@ -1,0 +1,156 @@
+infinitivo: prepararse
+gerundio: preparándose
+participio-pasado: preparado/preparada
+
+presente-indicativo:
+  yo: me preparo
+  tu: te preparas
+  vos: te preparás
+  ud: se prepara
+  nosotros: nos preparamos
+  vosotros: os preparáis
+  uds: se preparan
+
+preterito-perfecto-simple:
+  yo: me preparé
+  tu: te preparaste
+  vos: te preparaste
+  ud: se preparó
+  nosotros: nos preparamos
+  vosotros: os preparasteis
+  uds: se prepararon
+
+preterito-imperfecto:
+  yo: me preparaba
+  tu: te preparabas
+  vos: te preparabas
+  ud: se preparaba
+  nosotros: nos preparábamos
+  vosotros: os preparabais
+  uds: se preparaban
+
+futuro-simple:
+  yo: me prepararé
+  tu: te prepararás
+  vos: te prepararás
+  ud: se preparará
+  nosotros: nos prepararemos
+  vosotros: os prepararéis
+  uds: se prepararán
+
+condicional-simple:
+  yo: me prepararía
+  tu: te prepararías
+  vos: te prepararías
+  ud: se prepararía
+  nosotros: nos prepararíamos
+  vosotros: os prepararíais
+  uds: se prepararían
+
+presente-perfecto:
+  yo: me he preparado
+  tu: te has preparado
+  vos: te has preparado
+  ud: se ha preparado
+  nosotros: nos hemos preparado
+  vosotros: os habéis preparado
+  uds: se han preparado
+
+preterito-pluscuamperfecto:
+  yo: me había preparado
+  tu: te habías preparado
+  vos: te habías preparado
+  ud: se había preparado
+  nosotros: nos habíamos preparado
+  vosotros: os habíais preparado
+  uds: se habían preparado
+
+futuro-perfecto:
+  yo: me habré preparado
+  tu: te habrás preparado
+  vos: te habrás preparado
+  ud: se habrá preparado
+  nosotros: nos habremos preparado
+  vosotros: os habréis preparado
+  uds: se habrán preparado
+
+condicional-perfecto:
+  yo: me habría preparado
+  tu: te habrías preparado
+  vos: te habrías preparado
+  ud: se habría preparado
+  nosotros: nos habríamos preparado
+  vosotros: os habríais preparado
+  uds: se habrían preparado
+
+presente-subjuntivo:
+  yo: me prepare
+  tu: te prepares
+  vos: te prepares
+  ud: se prepare
+  nosotros: nos preparemos
+  vosotros: os preparéis
+  uds: se preparen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya preparado
+  tu: te hayas preparado
+  vos: te hayas preparado
+  ud: se haya preparado
+  nosotros: nos hayamos preparado
+  vosotros: os hayáis preparado
+  uds: se hayan preparado
+
+imperfecto-subjuntivo:
+  yo:
+    - me preparara
+    - me preparase
+  tu:
+    - te prepararas
+    - te preparases
+  vos:
+    - te prepararas
+    - te preparases
+  ud:
+    - se preparara
+    - se preparase
+  nosotros:
+    - nos preparáramos
+    - nos preparásemos
+  vosotros:
+    - os prepararais
+    - os preparaseis
+  uds:
+    - se prepararan
+    - se preparasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera preparado
+    - me hubiese preparado
+  tu:
+    - te hubieras preparado
+    - te hubieses preparado
+  vos:
+    - te hubieras preparado
+    - te hubieses preparado
+  ud:
+    - se hubiera preparado
+    - se hubiese preparado
+  nosotros:
+    - nos hubiéramos preparado
+    - nos hubiésemos preparado
+  vosotros:
+    - os hubierais preparado
+    - os hubieseis preparado
+  uds:
+    - se hubieran preparado
+    - se hubiesen preparado
+
+imperativo:
+  tu: prepárate
+  vos: preparate
+  ud: prepárese
+  nosotros: preparémonos
+  vosotros: preparaos
+  uds: prepárense

@@ -1,0 +1,142 @@
+infinitivo: vaciar
+gerundio: vaciando
+participio-pasado: vaciado
+presente-indicativo:
+  yo: vacío
+  tu: vacías
+  vos: vaciás
+  ud: vacía
+  nosotros: vaciamos
+  vosotros: vaciáis
+  uds: vacían
+preterito-perfecto-simple:
+  yo: vacié
+  tu: vaciaste
+  vos: vaciaste
+  ud: vació
+  nosotros: vaciamos
+  vosotros: vaciasteis
+  uds: vaciaron
+preterito-imperfecto:
+  yo: vaciaba
+  tu: vaciabas
+  vos: vaciabas
+  ud: vaciaba
+  nosotros: vaciábamos
+  vosotros: vaciabais
+  uds: vaciaban
+futuro-simple:
+  yo: vaciaré
+  tu: vaciarás
+  vos: vaciarás
+  ud: vaciará
+  nosotros: vaciaremos
+  vosotros: vaciaréis
+  uds: vaciarán
+condicional-simple:
+  yo: vaciaría
+  tu: vaciarías
+  vos: vaciarías
+  ud: vaciaría
+  nosotros: vaciaríamos
+  vosotros: vaciaríais
+  uds: vaciarían
+presente-perfecto:
+  yo: he vaciado
+  tu: has vaciado
+  vos: has vaciado
+  ud: ha vaciado
+  nosotros: hemos vaciado
+  vosotros: habéis vaciado
+  uds: han vaciado
+preterito-pluscuamperfecto:
+  yo: había vaciado
+  tu: habías vaciado
+  vos: habías vaciado
+  ud: había vaciado
+  nosotros: habíamos vaciado
+  vosotros: habíais vaciado
+  uds: habían vaciado
+futuro-perfecto:
+  yo: habré vaciado
+  tu: habrás vaciado
+  vos: habrás vaciado
+  ud: habrá vaciado
+  nosotros: habremos vaciado
+  vosotros: habréis vaciado
+  uds: habrán vaciado
+condicional-perfecto:
+  yo: habría vaciado
+  tu: habrías vaciado
+  vos: habrías vaciado
+  ud: habría vaciado
+  nosotros: habríamos vaciado
+  vosotros: habríais vaciado
+  uds: habrían vaciado
+presente-subjuntivo:
+  yo: vacíe
+  tu: vacíes
+  vos: vacíes
+  ud: vacíe
+  nosotros: vaciemos
+  vosotros: vaciéis
+  uds: vacíen
+preterito-perfecto-subjuntivo:
+  yo: haya vaciado
+  tu: hayas vaciado
+  vos: hayas vaciado
+  ud: haya vaciado
+  nosotros: hayamos vaciado
+  vosotros: hayáis vaciado
+  uds: hayan vaciado
+imperfecto-subjuntivo:
+  yo:
+    - vaciara
+    - vaciase
+  tu:
+    - vaciaras
+    - vaciases
+  vos:
+    - vaciaras
+    - vaciases
+  ud:
+    - vaciara
+    - vaciase
+  nosotros:
+    - vaciáramos
+    - vaciésemos
+  vosotros:
+    - vaciarais
+    - vaciaseis
+  uds:
+    - vaciaran
+    - vaciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera vaciado
+    - hubiese vaciado
+  tu:
+    - hubieras vaciado
+    - hubieses vaciado
+  vos:
+    - hubieras vaciado
+    - hubieses vaciado
+  ud:
+    - hubiera vaciado
+    - hubiese vaciado
+  nosotros:
+    - hubiéramos vaciado
+    - hubiésemos vaciado
+  vosotros:
+    - hubierais vaciado
+    - hubieseis vaciado
+  uds:
+    - hubieran vaciado
+    - hubiesen vaciado
+imperativo:
+  tu: vacía
+  vos: vaciá
+  ud: vacíe
+  nosotros: vaciemos
+  vosotros: vaciad
+  uds: vacíen

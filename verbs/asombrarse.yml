@@ -1,0 +1,142 @@
+infinitivo: asombrarse
+gerundio: asombrándose
+participio-pasado: asombrado
+presente-indicativo:
+  yo: me asombro
+  tu: te asombras
+  vos: te asombras
+  ud: se asombra
+  nosotros: nos asombramos
+  vosotros: os asombráis
+  uds: se asombran
+preterito-perfecto-simple:
+  yo: me asombré
+  tu: te asombraste
+  vos: te asombraste
+  ud: se asombró
+  nosotros: nos asombramos
+  vosotros: os asombrasteis
+  uds: se asombraron
+preterito-imperfecto:
+  yo: me asombraba
+  tu: te asombrabas
+  vos: te asombrabas
+  ud: se asombraba
+  nosotros: nos asombrábamos
+  vosotros: os asombrabais
+  uds: se asombraban
+futuro-simple:
+  yo: me asombraré
+  tu: te asombrarás
+  vos: te asombrarás
+  ud: se asombrará
+  nosotros: nos asombraremos
+  vosotros: os asombraréis
+  uds: se asombrarán
+condicional-simple:
+  yo: me asombraría
+  tu: te asombrarías
+  vos: te asombrarías
+  ud: se asombraría
+  nosotros: nos asombraríamos
+  vosotros: os asombraríais
+  uds: se asombrarían
+presente-perfecto:
+  yo: me he asombrado
+  tu: te has asombrado
+  vos: te has asombrado
+  ud: se ha asombrado
+  nosotros: nos hemos asombrado
+  vosotros: os habéis asombrado
+  uds: se han asombrado
+preterito-pluscuamperfecto:
+  yo: me había asombrado
+  tu: te habías asombrado
+  vos: te habías asombrado
+  ud: se había asombrado
+  nosotros: nos habíamos asombrado
+  vosotros: os habíais asombrado
+  uds: se habían asombrado
+futuro-perfecto:
+  yo: me habré asombrado
+  tu: te habrás asombrado
+  vos: te habrás asombrado
+  ud: se habrá asombrado
+  nosotros: nos habremos asombrado
+  vosotros: os habréis asombrado
+  uds: se habrán asombrado
+condicional-perfecto:
+  yo: me habría asombrado
+  tu: te habrías asombrado
+  vos: te habrías asombrado
+  ud: se habría asombrado
+  nosotros: nos habríamos asombrado
+  vosotros: os habríais asombrado
+  uds: se habrían asombrado
+presente-subjuntivo:
+  yo: me asombre
+  tu: te asombres
+  vos: te asombres
+  ud: se asombre
+  nosotros: nos asombremos
+  vosotros: os asombréis
+  uds: se asombren
+preterito-perfecto-subjuntivo:
+  yo: me haya asombrado
+  tu: te hayas asombrado
+  vos: te hayas asombrado
+  ud: se haya asombrado
+  nosotros: nos hayamos asombrado
+  vosotros: os hayáis asombrado
+  uds: se hayan asombrado
+imperfecto-subjuntivo:
+  yo:
+    - me asombrara
+    - me asombrase
+  tu:
+    - te asombraras
+    - te asombrases
+  vos:
+    - te asombraras
+    - te asombrases
+  ud:
+    - se asombrara
+    - se asombrase
+  nosotros:
+    - nos asombráramos
+    - nos asombrásemos
+  vosotros:
+    - os asombrarais
+    - os asombraseis
+  uds:
+    - se asombraran
+    - se asombrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera asombrado
+    - me hubiese asombrado
+  tu:
+    - te hubieras asombrado
+    - te hubieses asombrado
+  vos:
+    - te hubieras asombrado
+    - te hubieses asombrado
+  ud:
+    - se hubiera asombrado
+    - se hubiese asombrado
+  nosotros:
+    - nos hubiéramos asombrado
+    - nos hubiésemos asombrado
+  vosotros:
+    - os hubierais asombrado
+    - os hubieseis asombrado
+  uds:
+    - se hubieran asombrado
+    - se hubiesen asombrado
+imperativo:
+  tu: asómate
+  vos: asómate
+  ud: ásombrese
+  nosotros: asombrémonos
+  vosotros: asombraros
+  uds: asómbrense

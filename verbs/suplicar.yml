@@ -1,0 +1,142 @@
+infinitivo: suplicar
+gerundio: suplicando
+participio-pasado: suplicado
+presente-indicativo:
+  yo: suplico
+  tu: suplicas
+  vos: suplicas
+  ud: suplica
+  nosotros: suplicamos
+  vosotros: suplicáis
+  uds: suplican
+preterito-perfecto-simple:
+  yo: supliqué
+  tu: suplicaste
+  vos: suplicaste
+  ud: suplicó
+  nosotros: suplicamos
+  vosotros: suplicasteis
+  uds: suplicaron
+preterito-imperfecto:
+  yo: suplicaba
+  tu: suplicabas
+  vos: suplicabas
+  ud: suplicaba
+  nosotros: suplicábamos
+  vosotros: suplicabais
+  uds: suplicaban
+futuro-simple:
+  yo: suplicaré
+  tu: suplicarás
+  vos: suplicarás
+  ud: suplicará
+  nosotros: suplicaremos
+  vosotros: suplicaréis
+  uds: suplicarán
+condicional-simple:
+  yo: suplicaría
+  tu: suplicarías
+  vos: suplicarías
+  ud: suplicaría
+  nosotros: suplicaríamos
+  vosotros: suplicaríais
+  uds: suplicarían
+presente-perfecto:
+  yo: he suplicado
+  tu: has suplicado
+  vos: has suplicado
+  ud: ha suplicado
+  nosotros: hemos suplicado
+  vosotros: habéis suplicado
+  uds: han suplicado
+preterito-pluscuamperfecto:
+  yo: había suplicado
+  tu: habías suplicado
+  vos: habías suplicado
+  ud: había suplicado
+  nosotros: habíamos suplicado
+  vosotros: habíais suplicado
+  uds: habían suplicado
+futuro-perfecto:
+  yo: habré suplicado
+  tu: habrás suplicado
+  vos: habrás suplicado
+  ud: habrá suplicado
+  nosotros: habremos suplicado
+  vosotros: habréis suplicado
+  uds: habrán suplicado
+condicional-perfecto:
+  yo: habría suplicado
+  tu: habrías suplicado
+  vos: habrías suplicado
+  ud: habría suplicado
+  nosotros: habríamos suplicado
+  vosotros: habríais suplicado
+  uds: habrían suplicado
+presente-subjuntivo:
+  yo: suplique
+  tu: supliques
+  vos: supliques
+  ud: suplique
+  nosotros: supliquemos
+  vosotros: supliquéis
+  uds: supliquen
+preterito-perfecto-subjuntivo:
+  yo: haya suplicado
+  tu: hayas suplicado
+  vos: hayas suplicado
+  ud: haya suplicado
+  nosotros: hayamos suplicado
+  vosotros: hayáis suplicado
+  uds: hayan suplicado
+imperfecto-subjuntivo:
+  yo:
+    - suplicara
+    - suplicase
+  tu:
+    - suplicaras
+    - suplicases
+  vos:
+    - suplicaras
+    - suplicases
+  ud:
+    - suplicara
+    - suplicase
+  nosotros:
+    - suplicáramos
+    - suplicásemos
+  vosotros:
+    - suplicarais
+    - suplicaseis
+  uds:
+    - suplicaran
+    - suplicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera suplicado
+    - hubiese suplicado
+  tu:
+    - hubieras suplicado
+    - hubieses suplicado
+  vos:
+    - hubieras suplicado
+    - hubieses suplicado
+  ud:
+    - hubiera suplicado
+    - hubiese suplicado
+  nosotros:
+    - hubiéramos suplicado
+    - hubiésemos suplicado
+  vosotros:
+    - hubierais suplicado
+    - hubieseis suplicado
+  uds:
+    - hubieran suplicado
+    - hubiesen suplicado
+imperativo:
+  tu: suplica
+  vos: suplicá
+  ud: suplique
+  nosotros: supliquemos
+  vosotros: suplicad
+  uds: supliquen

@@ -1,0 +1,142 @@
+infinitivo: comportarse
+gerundio: comportándose
+participio-pasado: comportado
+presente-indicativo:
+  yo: me comporto
+  tu: te comportas
+  vos: te comportas
+  ud: se comporta
+  nosotros: nos comportamos
+  vosotros: os comportáis
+  uds: se comportan
+preterito-perfecto-simple:
+  yo: me comporté
+  tu: te comportaste
+  vos: te comportaste
+  ud: se comportó
+  nosotros: nos comportamos
+  vosotros: os comportasteis
+  uds: se comportaron
+preterito-imperfecto:
+  yo: me comportaba
+  tu: te comportabas
+  vos: te comportabas
+  ud: se comportaba
+  nosotros: nos comportábamos
+  vosotros: os comportabais
+  uds: se comportaban
+futuro-simple:
+  yo: me comportaré
+  tu: te comportarás
+  vos: te comportarás
+  ud: se comportará
+  nosotros: nos comportaremos
+  vosotros: os comportaréis
+  uds: se comportarán
+condicional-simple:
+  yo: me comportaría
+  tu: te comportarías
+  vos: te comportarías
+  ud: se comportaría
+  nosotros: nos comportaríamos
+  vosotros: os comportaríais
+  uds: se comportarían
+presente-perfecto:
+  yo: he comportado
+  tu: has comportado
+  vos: has comportado
+  ud: ha comportado
+  nosotros: hemos comportado
+  vosotros: habéis comportado
+  uds: han comportado
+preterito-pluscuamperfecto:
+  yo: me había comportado
+  tu: te habías comportado
+  vos: te habías comportado
+  ud: se había comportado
+  nosotros: nos habíamos comportado
+  vosotros: os habíais comportado
+  uds: se habían comportado
+futuro-perfecto:
+  yo: me habré comportado
+  tu: te habrás comportado
+  vos: te habrás comportado
+  ud: se habrá comportado
+  nosotros: nos habremos comportado
+  vosotros: os habréis comportado
+  uds: se habrán comportado
+condicional-perfecto:
+  yo: me habría comportado
+  tu: te habrías comportado
+  vos: te habrías comportado
+  ud: se habría comportado
+  nosotros: nos habríamos comportado
+  vosotros: os habríais comportado
+  uds: se habrían comportado
+presente-subjuntivo:
+  yo: me comporte
+  tu: te comportes
+  vos: te comportes
+  ud: se comporte
+  nosotros: nos comportemos
+  vosotros: os comportéis
+  uds: se comporten
+preterito-perfecto-subjuntivo:
+  yo: me haya comportado
+  tu: te hayas comportado
+  vos: te hayas comportado
+  ud: se haya comportado
+  nosotros: nos hayamos comportado
+  vosotros: os hayáis comportado
+  uds: se hayan comportado
+imperfecto-subjuntivo:
+  yo:
+    - me comportara
+    - me comportase
+  tu:
+    - te comportaras
+    - te comportases
+  vos:
+    - te comportaras
+    - te comportases
+  ud:
+    - se comportara
+    - se comportase
+  nosotros:
+    - nos comportáramos
+    - nos comportásemos
+  vosotros:
+    - os comportarais
+    - os comportaseis
+  uds:
+    - se comportaran
+    - se comportasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera comportado
+    - me hubiese comportado
+  tu:
+    - te hubieras comportado
+    - te hubieses comportado
+  vos:
+    - te hubieras comportado
+    - te hubieses comportado
+  ud:
+    - se hubiera comportado
+    - se hubiese comportado
+  nosotros:
+    - nos hubiéramos comportado
+    - nos hubiésemos comportado
+  vosotros:
+    - os hubierais comportado
+    - os hubieseis comportado
+  uds:
+    - se hubieran comportado
+    - se hubiesen comportado
+imperativo:
+  tu: comporta-te
+  vos: comportate
+  ud: compórtese
+  nosotros: comportémonos
+  vosotros: compórtaos
+  uds: cómportense

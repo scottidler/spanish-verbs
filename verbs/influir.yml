@@ -1,0 +1,142 @@
+infinitivo: influir
+gerundio: influyendo
+participio-pasado: influido
+presente-indicativo:
+  yo: influyo
+  tu: influyes
+  vos: influis
+  ud: influye
+  nosotros: influimos
+  vosotros: influís
+  uds: influyen
+preterito-perfecto-simple:
+  yo: influí
+  tu: influiste
+  vos: influiste
+  ud: influyó
+  nosotros: influimos
+  vosotros: influisteis
+  uds: influyeron
+preterito-imperfecto:
+  yo: influía
+  tu: influías
+  vos: influías
+  ud: influía
+  nosotros: influíamos
+  vosotros: influíais
+  uds: influían
+futuro-simple:
+  yo: influiré
+  tu: influirás
+  vos: influirás
+  ud: influirá
+  nosotros: influiremos
+  vosotros: influiréis
+  uds: influirán
+condicional-simple:
+  yo: influiría
+  tu: influirías
+  vos: influirías
+  ud: influiría
+  nosotros: influiríamos
+  vosotros: influiríais
+  uds: influirían
+presente-perfecto:
+  yo: he influido
+  tu: has influido
+  vos: has influido
+  ud: ha influido
+  nosotros: hemos influido
+  vosotros: habéis influido
+  uds: han influido
+preterito-pluscuamperfecto:
+  yo: había influido
+  tu: habías influido
+  vos: habías influido
+  ud: había influido
+  nosotros: habíamos influido
+  vosotros: habíais influido
+  uds: habían influido
+futuro-perfecto:
+  yo: habré influido
+  tu: habrás influido
+  vos: habrás influido
+  ud: habrá influido
+  nosotros: habremos influido
+  vosotros: habréis influido
+  uds: habrán influido
+condicional-perfecto:
+  yo: habría influido
+  tu: habrías influido
+  vos: habrías influido
+  ud: habría influido
+  nosotros: habríamos influido
+  vosotros: habríais influido
+  uds: habrían influido
+presente-subjuntivo:
+  yo: influya
+  tu: influyas
+  vos: influyas
+  ud: influya
+  nosotros: influyamos
+  vosotros: influyáis
+  uds: influyan
+preterito-perfecto-subjuntivo:
+  yo: haya influido
+  tu: hayas influido
+  vos: hayas influido
+  ud: haya influido
+  nosotros: hayamos influido
+  vosotros: hayáis influido
+  uds: hayan influido
+imperfecto-subjuntivo:
+  yo:
+    - influyera
+    - influyese
+  tu:
+    - influvieras
+    - influyeses
+  vos:
+    - influvieras
+    - influyeses
+  ud:
+    - influyera
+    - influyese
+  nosotros:
+    - influyéramos
+    - influyésemos
+  vosotros:
+    - influvierais
+    - influyeseis
+  uds:
+    - influyeran
+    - influyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera influido
+    - hubiese influido
+  tu:
+    - hubieras influido
+    - hubieses influido
+  vos:
+    - hubieras influido
+    - hubieses influido
+  ud:
+    - hubiera influido
+    - hubiese influido
+  nosotros:
+    - hubiéramos influido
+    - hubiésemos influido
+  vosotros:
+    - hubierais influido
+    - hubieseis influido
+  uds:
+    - hubieran influido
+    - hubiesen influido
+imperativo:
+  tu: influye
+  vos: influí
+  ud: influya
+  nosotros: influyamos
+  vosotros: influid
+  uds: influyan

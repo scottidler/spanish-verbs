@@ -1,0 +1,142 @@
+infinitivo: movilizar
+gerundio: movilizando
+participio-pasado: movilizado
+presente-indicativo:
+  yo: movilizo
+  tu: movilizas
+  vos: movilizas
+  ud: moviliza
+  nosotros: movilizamos
+  vosotros: movilizáis
+  uds: movilizan
+preterito-perfecto-simple:
+  yo: movilicé
+  tu: movilizaste
+  vos: movilizaste
+  ud: movilizó
+  nosotros: movilizamos
+  vosotros: movilizasteis
+  uds: movilizaron
+preterito-imperfecto:
+  yo: movilizaba
+  tu: movilizabas
+  vos: movilizabas
+  ud: movilizaba
+  nosotros: movilizábamos
+  vosotros: movilizabais
+  uds: movilizaban
+futuro-simple:
+  yo: movilizaré
+  tu: movilizarás
+  vos: movilizarás
+  ud: movilizará
+  nosotros: movilizaremos
+  vosotros: movilizaréis
+  uds: movilizarán
+condicional-simple:
+  yo: movilizaría
+  tu: movilizarías
+  vos: movilizarías
+  ud: movilizaría
+  nosotros: movilizaríamos
+  vosotros: movilizaríais
+  uds: movilizarían
+presente-perfecto:
+  yo: he movilizado
+  tu: has movilizado
+  vos: has movilizado
+  ud: ha movilizado
+  nosotros: hemos movilizado
+  vosotros: habéis movilizado
+  uds: han movilizado
+preterito-pluscuamperfecto:
+  yo: había movilizado
+  tu: habías movilizado
+  vos: habías movilizado
+  ud: había movilizado
+  nosotros: habíamos movilizado
+  vosotros: habíais movilizado
+  uds: habían movilizado
+futuro-perfecto:
+  yo: habré movilizado
+  tu: habrás movilizado
+  vos: habrás movilizado
+  ud: habrá movilizado
+  nosotros: habremos movilizado
+  vosotros: habréis movilizado
+  uds: habrán movilizado
+condicional-perfecto:
+  yo: habría movilizado
+  tu: habrías movilizado
+  vos: habrías movilizado
+  ud: habría movilizado
+  nosotros: habríamos movilizado
+  vosotros: habríais movilizado
+  uds: habrían movilizado
+presente-subjuntivo:
+  yo: movilice
+  tu: movilices
+  vos: movilices
+  ud: movilice
+  nosotros: movilicemos
+  vosotros: movilicéis
+  uds: movilicen
+preterito-perfecto-subjuntivo:
+  yo: haya movilizado
+  tu: hayas movilizado
+  vos: hayas movilizado
+  ud: haya movilizado
+  nosotros: hayamos movilizado
+  vosotros: hayáis movilizado
+  uds: hayan movilizado
+imperfecto-subjuntivo:
+  yo:
+    - movilizara
+    - movilizase
+  tu:
+    - movilizaras
+    - movilizases
+  vos:
+    - movilizaras
+    - movilizases
+  ud:
+    - movilizara
+    - movilizase
+  nosotros:
+    - movilizáramos
+    - movilizásemos
+  vosotros:
+    - movilizarais
+    - movilizaseis
+  uds:
+    - movilizaran
+    - movilizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera movilizado
+    - hubiese movilizado
+  tu:
+    - hubieras movilizado
+    - hubieses movilizado
+  vos:
+    - hubieras movilizado
+    - hubieses movilizado
+  ud:
+    - hubiera movilizado
+    - hubiese movilizado
+  nosotros:
+    - hubiéramos movilizado
+    - hubiésemos movilizado
+  vosotros:
+    - hubierais movilizado
+    - hubieseis movilizado
+  uds:
+    - hubieran movilizado
+    - hubiesen movilizado
+imperativo:
+  tu: moviliza
+  vos: movilizá
+  ud: movilice
+  nosotros: movilicemos
+  vosotros: movilizad
+  uds: movilicen

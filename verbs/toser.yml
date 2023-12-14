@@ -1,0 +1,142 @@
+infinitivo: toser
+gerundio: tosiendo
+participio-pasado: tosido
+presente-indicativo:
+  yo: toso
+  tu: toses
+  vos: toses
+  ud: tose
+  nosotros: tosemos
+  vosotros: toséis
+  uds: tosen
+preterito-perfecto-simple:
+  yo: tosí
+  tu: tosiste
+  vos: tosiste
+  ud: tosió
+  nosotros: tosimos
+  vosotros: tosisteis
+  uds: tosieron
+preterito-imperfecto:
+  yo: tosía
+  tu: tosías
+  vos: tosías
+  ud: tosía
+  nosotros: tosíamos
+  vosotros: tosíais
+  uds: tosían
+futuro-simple:
+  yo: toseré
+  tu: toserás
+  vos: toserás
+  ud: toserá
+  nosotros: toseremos
+  vosotros: toseréis
+  uds: toserán
+condicional-simple:
+  yo: tosería
+  tu: toserías
+  vos: toserías
+  ud: tosería
+  nosotros: toseríamos
+  vosotros: toseríais
+  uds: toserían
+presente-perfecto:
+  yo: he tosido
+  tu: has tosido
+  vos: has tosido
+  ud: ha tosido
+  nosotros: hemos tosido
+  vosotros: habéis tosido
+  uds: han tosido
+preterito-pluscuamperfecto:
+  yo: había tosido
+  tu: habías tosido
+  vos: habías tosido
+  ud: había tosido
+  nosotros: habíamos tosido
+  vosotros: habíais tosido
+  uds: habían tosido
+futuro-perfecto:
+  yo: habré tosido
+  tu: habrás tosido
+  vos: habrás tosido
+  ud: habrá tosido
+  nosotros: habremos tosido
+  vosotros: habréis tosido
+  uds: habrán tosido
+condicional-perfecto:
+  yo: habría tosido
+  tu: habrías tosido
+  vos: habrías tosido
+  ud: habría tosido
+  nosotros: habríamos tosido
+  vosotros: habríais tosido
+  uds: habrían tosido
+presente-subjuntivo:
+  yo: tosa
+  tu: tosas
+  vos: tosas
+  ud: tosa
+  nosotros: tosamos
+  vosotros: tosáis
+  uds: tosan
+preterito-perfecto-subjuntivo:
+  yo: haya tosido
+  tu: hayas tosido
+  vos: hayas tosido
+  ud: haya tosido
+  nosotros: hayamos tosido
+  vosotros: hayáis tosido
+  uds: hayan tosido
+imperfecto-subjuntivo:
+  yo:
+    - tosiera
+    - tosiese
+  tu:
+    - tosieras
+    - tosieses
+  vos:
+    - tisieras
+    - tisieses
+  ud:
+    - tosiera
+    - tosiese
+  nosotros:
+    - tosiéramos
+    - tosiésemos
+  vosotros:
+    - tosierais
+    - tosieseis
+  uds:
+    - tosieran
+    - tosiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tosido
+    - hubiese tosido
+  tu:
+    - hubieras tosido
+    - hubieses tosido
+  vos:
+    - hubieras tosido
+    - hubieses tosido
+  ud:
+    - hubiera tosido
+    - hubiese tosido
+  nosotros:
+    - hubiéramos tosido
+    - hubiésemos tosido
+  vosotros:
+    - hubierais tosido
+    - hubieseis tosido
+  uds:
+    - hubieran tosido
+    - hubiesen tosido
+imperativo:
+  tu: tose
+  vos: tosé
+  ud: tose
+  nosotros: tosamos
+  vosotros: tosed
+  uds: tosan

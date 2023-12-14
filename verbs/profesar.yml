@@ -1,0 +1,158 @@
+infinitivo: profesar
+
+gerundio: profesando
+
+participio-pasado: profesado
+
+presente-indicativo:
+  yo: profeso
+  tu: profesas
+  vos: profesas
+  ud: profesa
+  nosotros: profesamos
+  vosotros: profesáis
+  uds: profesan
+
+preterito-perfecto-simple:
+  yo: profesé
+  tu: profesaste
+  vos: profesaste
+  ud: profeso
+  nosotros: profesamos
+  vosotros: profesasteis
+  uds: profesaron
+
+preterito-imperfecto:
+  yo: profesaba
+  tu: profesabas
+  vos: profesabas
+  ud: profesaba
+  nosotros: profesábamos
+  vosotros: profesabais
+  uds: profesaban
+
+futuro-simple:
+  yo: profesaré
+  tu: profesarás
+  vos: profesarás
+  ud: profesará
+  nosotros: profesaremos
+  vosotros: profesaréis
+  uds: profesarán
+
+condicional-simple:
+  yo: profesaría
+  tu: profesarías
+  vos: profesarías
+  ud: profesaría
+  nosotros: profesaríamos
+  vosotros: profesaríais
+  uds: profesarían
+
+presente-perfecto:
+  yo: he profesado
+  tu: has profesado
+  vos: has profesado
+  ud: ha profesado
+  nosotros: hemos profesado
+  vosotros: habéis profesado
+  uds: han profesado
+
+preterito-pluscuamperfecto:
+  yo: había profesado
+  tu: habías profesado
+  vos: habías profesado
+  ud: había profesado
+  nosotros: habíamos profesado
+  vosotros: habíais profesado
+  uds: habían profesado
+
+futuro-perfecto:
+  yo: habré profesado
+  tu: habrás profesado
+  vos: habrás profesado
+  ud: habrá profesado
+  nosotros: habremos profesado
+  vosotros: habréis profesado
+  uds: habrán profesado
+
+condicional-perfecto:
+  yo: habría profesado
+  tu: habrías profesado
+  vos: habrías profesado
+  ud: habría profesado
+  nosotros: habríamos profesado
+  vosotros: habríais profesado
+  uds: habrían profesado
+
+presente-subjuntivo:
+  yo: profese
+  tu: profeses
+  vos: profeses
+  ud: profese
+  nosotros: profesemos
+  vosotros: profeséis
+  uds: profesen
+
+preterito-perfecto-subjuntivo:
+  yo: haya profesado
+  tu: hayas profesado
+  vos: hayas profesado
+  ud: haya profesado
+  nosotros: hayamos profesado
+  vosotros: hayáis profesado
+  uds: hayan profesado
+
+imperfecto-subjuntivo:
+  yo:
+    - profesara
+    - profesase
+  tu:
+    - profesaras
+    - profesases
+  vos:
+    - profesaras
+    - profesases
+  ud:
+    - profesara
+    - profesase
+  nosotros:
+    - profesáramos
+    - profesásemos
+  vosotros:
+    - profesarais
+    - profesaseis
+  uds:
+    - profesaran
+    - profesasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera profesado
+    - hubiese profesado
+  tu:
+    - hubieras profesado
+    - hubieses profesado
+  vos:
+    - hubieras profesado
+    - hubieses profesado
+  ud:
+    - hubiera profesado
+    - hubiese profesado
+  nosotros:
+    - hubiéramos profesado
+    - hubiésemos profesado
+  vosotros:
+    - hubierais profesado
+    - hubieseis profesado
+  uds:
+    - hubieran profesado
+    - hubiesen profesado
+
+imperativo:
+  tu: profesa
+  vos: profesá
+  ud: profese
+  nosotros: profesemos
+  vosotros: profesad
+  uds: profesen

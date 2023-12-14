@@ -1,0 +1,142 @@
+infinitivo: surcar
+gerundio: surcando
+participio-pasado: surcado
+presente-indicativo:
+  yo: surco
+  tu: surcas
+  vos: surcas
+  ud: surca
+  nosotros: surcamos
+  vosotros: surcáis
+  uds: surcan
+preterito-perfecto-simple:
+  yo: surqué
+  tu: surcaste
+  vos: surcaste
+  ud: surcó
+  nosotros: surcamos
+  vosotros: surcasteis
+  uds: surcaron
+preterito-imperfecto:
+  yo: surcaba
+  tu: surcabas
+  vos: surcabas
+  ud: surcaba
+  nosotros: surcábamos
+  vosotros: surcabais
+  uds: surcaban
+futuro-simple:
+  yo: surcaré
+  tu: surcarás
+  vos: surcarás
+  ud: surcará
+  nosotros: surcaremos
+  vosotros: surcaréis
+  uds: surcarán
+condicional-simple:
+  yo: surcaría
+  tu: surcarías
+  vos: surcarías
+  ud: surcaría
+  nosotros: surcaríamos
+  vosotros: surcaríais
+  uds: surcarían
+presente-perfecto:
+  yo: he surcado
+  tu: has surcado
+  vos: has surcado
+  ud: ha surcado
+  nosotros: hemos surcado
+  vosotros: habéis surcado
+  uds: han surcado
+preterito-pluscuamperfecto:
+  yo: había surcado
+  tu: habías surcado
+  vos: habías surcado
+  ud: había surcado
+  nosotros: habíamos surcado
+  vosotros: habíais surcado
+  uds: habían surcado
+futuro-perfecto:
+  yo: habré surcado
+  tu: habrás surcado
+  vos: habrás surcado
+  ud: habrá surcado
+  nosotros: habremos surcado
+  vosotros: habréis surcado
+  uds: habrán surcado
+condicional-perfecto:
+  yo: habría surcado
+  tu: habrías surcado
+  vos: habrías surcado
+  ud: habría surcado
+  nosotros: habríamos surcado
+  vosotros: habríais surcado
+  uds: habrían surcado
+presente-subjuntivo:
+  yo: surque
+  tu: surques
+  vos: surques
+  ud: surque
+  nosotros: surquemos
+  vosotros: surquéis
+  uds: surquen
+preterito-perfecto-subjuntivo:
+  yo: haya surcado
+  tu: hayas surcado
+  vos: hayas surcado
+  ud: haya surcado
+  nosotros: hayamos surcado
+  vosotros: hayáis surcado
+  uds: hayan surcado
+imperfecto-subjuntivo:
+  yo:
+    - surcara
+    - surcase
+  tu:
+    - surcaras
+    - surcases
+  vos:
+    - surcaras
+    - surcases
+  ud:
+    - surcara
+    - surcase
+  nosotros:
+    - surcáramos
+    - surcásemos
+  vosotros:
+    - surcarais
+    - surcaseis
+  uds:
+    - surcaran
+    - surcasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera surcado
+    - hubiese surcado
+  tu:
+    - hubieras surcado
+    - hubieses surcado
+  vos:
+    - hubieras surcado
+    - hubieses surcado
+  ud:
+    - hubiera surcado
+    - hubiese surcado
+  nosotros:
+    - hubiéramos surcado
+    - hubiésemos surcado
+  vosotros:
+    - hubierais surcado
+    - hubieseis surcado
+  uds:
+    - hubieran surcado
+    - hubiesen surcado
+imperativo:
+  tu: surca
+  vos: surcá
+  ud: surque
+  nosotros: surquemos
+  vosotros: surcad
+  uds: surquen

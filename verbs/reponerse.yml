@@ -1,0 +1,156 @@
+infinitivo: reponerse
+gerundio: reponiéndose
+participio-pasado: repuesto
+
+presente-indicativo:
+  yo: me repongo
+  tu: te repones
+  vos: te repones
+  ud: se repone
+  nosotros: nos reponemos
+  vosotros: os reponéis
+  uds: se reponen
+
+preterito-perfecto-simple:
+  yo: me repuse
+  tu: te repusiste
+  vos: te repusiste
+  ud: se repuso
+  nosotros: nos repusimos
+  vosotros: os repusisteis
+  uds: se repusieron
+
+preterito-imperfecto:
+  yo: me reponía
+  tu: te reponías
+  vos: te reponías
+  ud: se reponía
+  nosotros: nos reponíamos
+  vosotros: os reponíais
+  uds: se reponían
+
+futuro-simple:
+  yo: me repondré
+  tu: te repondrás
+  vos: te repondrás
+  ud: se repondrá
+  nosotros: nos repondremos
+  vosotros: os repondréis
+  uds: se repondrán
+
+condicional-simple:
+  yo: me repondría
+  tu: te repondrías
+  vos: te repondrías
+  ud: se repondría
+  nosotros: nos repondríamos
+  vosotros: os repondríais
+  uds: se repondrían
+
+presente-perfecto:
+  yo: me he repuesto
+  tu: te has repuesto
+  vos: te has repuesto
+  ud: se ha repuesto
+  nosotros: nos hemos repuesto
+  vosotros: os habéis repuesto
+  uds: se han repuesto
+
+preterito-pluscuamperfecto:
+  yo: me había repuesto
+  tu: te habías repuesto
+  vos: te habías repuesto
+  ud: se había repuesto
+  nosotros: nos habíamos repuesto
+  vosotros: os habíais repuesto
+  uds: se habían repuesto
+
+futuro-perfecto:
+  yo: me habré repuesto
+  tu: te habrás repuesto
+  vos: te habrás repuesto
+  ud: se habrá repuesto
+  nosotros: nos habremos repuesto
+  vosotros: os habréis repuesto
+  uds: se habrán repuesto
+
+condicional-perfecto:
+  yo: me habría repuesto
+  tu: te habrías repuesto
+  vos: te habrías repuesto
+  ud: se habría repuesto
+  nosotros: nos habríamos repuesto
+  vosotros: os habríais repuesto
+  uds: se habrían repuesto
+
+presente-subjuntivo:
+  yo: me reponga
+  tu: te repongas
+  vos: te repongas
+  ud: se reponga
+  nosotros: nos repongamos
+  vosotros: os repongáis
+  uds: se repongan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya repuesto
+  tu: te hayas repuesto
+  vos: te hayas repuesto
+  ud: se haya repuesto
+  nosotros: nos hayamos repuesto
+  vosotros: os hayáis repuesto
+  uds: se hayan repuesto
+
+imperfecto-subjuntivo:
+  yo:
+    - me repusiera
+    - me repusiese
+  tu:
+    - te repusieras
+    - te repusieses
+  vos:
+    - te repusieras
+    - te repusieses
+  ud:
+    - se repusiera
+    - se repusiese
+  nosotros:
+    - nos repusiéramos
+    - nos repusiésemos
+  vosotros:
+    - os repusierais
+    - os repusieseis
+  uds:
+    - se repusieran
+    - se repusiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera repuesto
+    - me hubiese repuesto
+  tu:
+    - te hubieras repuesto
+    - te hubieses repuesto
+  vos:
+    - te hubieras repuesto
+    - te hubieses repuesto
+  ud:
+    - se hubiera repuesto
+    - se hubiese repuesto
+  nosotros:
+    - nos hubiéramos repuesto
+    - nos hubiésemos repuesto
+  vosotros:
+    - os hubierais repuesto
+    - os hubieseis repuesto
+  uds:
+    - se hubieran repuesto
+    - se hubiesen repuesto
+
+imperativo:
+  tu: reponete
+  vos: reponete
+  ud: reponga
+  nosotros: pongámonos
+  vosotros: poneos
+  uds: ponganse

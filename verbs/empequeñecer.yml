@@ -1,0 +1,142 @@
+infinitivo: empequeñecer
+gerundio: empequeñeciendo
+participio-pasado: empequeñecido
+presente-indicativo:
+  yo: empequeñezco
+  tu: empequeñeces
+  vos: empequeñeces
+  ud: empequeñece
+  nosotros: empequeñecemos
+  vosotros: empequeñecéis
+  uds: empequeñecen
+preterito-perfecto-simple:
+  yo: empequeñecí
+  tu: empequeñeciste
+  vos: empequeñeciste
+  ud: empequeñeció
+  nosotros: empequeñecimos
+  vosotros: empequeñecisteis
+  uds: empequeñecieron
+preterito-imperfecto:
+  yo: empequeñecía
+  tu: empequeñecías
+  vos: empequeñecías
+  ud: empequeñecía
+  nosotros: empequeñecíamos
+  vosotros: empequeñecíais
+  uds: empequeñecían
+futuro-simple:
+  yo: empequeñeceré
+  tu: empequeñecerás
+  vos: empequeñecerás
+  ud: empequeñecerá
+  nosotros: empequeñeceremos
+  vosotros: empequeñeceréis
+  uds: empequeñecerán
+condicional-simple:
+  yo: empequeñecería
+  tu: empequeñecerías
+  vos: empequeñecerías
+  ud: empequeñecería
+  nosotros: empequeñeceríamos
+  vosotros: empequeñeceríais
+  uds: empequeñecerían
+presente-perfecto:
+  yo: he empequeñecido
+  tu: has empequeñecido
+  vos: has empequeñecido
+  ud: ha empequeñecido
+  nosotros: hemos empequeñecido
+  vosotros: habéis empequeñecido
+  uds: han empequeñecido
+preterito-pluscuamperfecto:
+  yo: había empequeñecido
+  tu: habías empequeñecido
+  vos: habías empequeñecido
+  ud: había empequeñecido
+  nosotros: habíamos empequeñecido
+  vosotros: habíais empequeñecido
+  uds: habían empequeñecido
+futuro-perfecto:
+  yo: habré empequeñecido
+  tu: habrás empequeñecido
+  vos: habrás empequeñecido
+  ud: habrá empequeñecido
+  nosotros: habremos empequeñecido
+  vosotros: habréis empequeñecido
+  uds: habrán empequeñecido
+condicional-perfecto:
+  yo: habría empequeñecido
+  tu: habrías empequeñecido
+  vos: habrías empequeñecido
+  ud: habría empequeñecido
+  nosotros: habríamos empequeñecido
+  vosotros: habríais empequeñecido
+  uds: habrían empequeñecido
+presente-subjuntivo:
+  yo: empequeñezca
+  tu: empequeñezcas
+  vos: empequeñezcas
+  ud: empequeñezca
+  nosotros: empequeñezcamos
+  vosotros: empequeñezcáis
+  uds: empequeñezcan
+preterito-perfecto-subjuntivo:
+  yo: haya empequeñecido
+  tu: hayas empequeñecido
+  vos: hayas empequeñecido
+  ud: haya empequeñecido
+  nosotros: hayamos empequeñecido
+  vosotros: hayáis empequeñecido
+  uds: hayan empequeñecido
+imperfecto-subjuntivo:
+  yo:
+    - empequeñeciera
+    - empequeñeciese
+  tu:
+    - empequeñecieras
+    - empequeñecieses
+  vos:
+    - empequeñecieras
+    - empequeñecieses
+  ud:
+    - empequeñeciera
+    - empequeñeciese
+  nosotros:
+    - empequeñeciéramos
+    - empequeñeciésemos
+  vosotros:
+    - empequeñecierais
+    - empequeñecieseis
+  uds:
+    - empequeñecieran
+    - empequeñeciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera empequeñecido
+    - hubiese empequeñecido
+  tu:
+    - hubieras empequeñecido
+    - hubieses empequeñecido
+  vos:
+    - hubieras empequeñecido
+    - hubieses empequeñecido
+  ud:
+    - hubiera empequeñecido
+    - hubiese empequeñecido
+  nosotros:
+    - hubiéramos empequeñecido
+    - hubiésemos empequeñecido
+  vosotros:
+    - hubierais empequeñecido
+    - hubieseis empequeñecido
+  uds:
+    - hubieran empequeñecido
+    - hubiesen empequeñecido
+imperativo:
+  tu: empequeñece
+  vos: empequeñece
+  ud: empequeñezca
+  nosotros: empequeñezcamos
+  vosotros: empequeñeced
+  uds: empequeñezcan

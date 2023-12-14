@@ -1,0 +1,142 @@
+infinitivo: abollar
+gerundio: abollando
+participio-pasado: abollado
+presente-indicativo:
+  yo: aboyo
+  tu: abollas
+  vos: abollas
+  ud: abolla
+  nosotros: abollamos
+  vosotros: abolláis
+  uds: abollan
+preterito-perfecto-simple:
+  yo: abollé
+  tu: abollaste
+  vos: abollaste
+  ud: abolló
+  nosotros: abollamos
+  vosotros: abollasteis
+  uds: abollaron
+preterito-imperfecto:
+  yo: abollaba
+  tu: abollabas
+  vos: abollabas
+  ud: abollaba
+  nosotros: abollábamos
+  vosotros: abollabais
+  uds: abollaban
+futuro-simple:
+  yo: abollaré
+  tu: abollarás
+  vos: abollarás
+  ud: abollará
+  nosotros: abollaremos
+  vosotros: abollaréis
+  uds: abollarán
+condicional-simple:
+  yo: abollaría
+  tu: abollarías
+  vos: abollarías
+  ud: abollaría
+  nosotros: abollaríamos
+  vosotros: abollaríais
+  uds: abollarían
+presente-perfecto:
+  yo: he abollado
+  tu: has abollado
+  vos: has abollado
+  ud: ha abollado
+  nosotros: hemos abollado
+  vosotros: habéis abollado
+  uds: han abollado
+preterito-pluscuamperfecto:
+  yo: había abollado
+  tu: habías abollado
+  vos: habías abollado
+  ud: había abollado
+  nosotros: habíamos abollado
+  vosotros: habíais abollado
+  uds: habían abollado
+futuro-perfecto:
+  yo: habré abollado
+  tu: habrás abollado
+  vos: habrás abollado
+  ud: habrá abollado
+  nosotros: habremos abollado
+  vosotros: habréis abollado
+  uds: habrán abollado
+condicional-perfecto:
+  yo: habría abollado
+  tu: habrías abollado
+  vos: habrías abollado
+  ud: habría abollado
+  nosotros: habríamos abollado
+  vosotros: habríais abollado
+  uds: habrían abollado
+presente-subjuntivo:
+  yo: abolla
+  tu: abollas
+  vos: abollas
+  ud: abolla
+  nosotros: abollamos
+  vosotros: abolláis
+  uds: abollan
+preterito-perfecto-subjuntivo:
+  yo: haya abollado
+  tu: hayas abollado
+  vos: hayas abollado
+  ud: haya abollado
+  nosotros: hayamos abollado
+  vosotros: hayáis abollado
+  uds: hayan abollado
+imperfecto-subjuntivo:
+  yo:
+    - abollara
+    - abollase
+  tu:
+    - abollaras
+    - abollases
+  vos:
+    - abollaras
+    - abollases
+  ud:
+    - abollara
+    - abollase
+  nosotros:
+    - abolláramos
+    - abollásemos
+  vosotros:
+    - abollarais
+    - abollaseis
+  uds:
+    - abollaran
+    - abollasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera abollado
+    - hubiese abollado
+  tu:
+    - hubieras abollado
+    - hubieses abollado
+  vos:
+    - hubieras abollado
+    - hubieses abollado
+  ud:
+    - hubiera abollado
+    - hubiese abollado
+  nosotros:
+    - hubiéramos abollado
+    - hubiésemos abollado
+  vosotros:
+    - hubierais abollado
+    - hubieseis abollado
+  uds:
+    - hubieran abollado
+    - hubiesen abollado
+imperativo:
+  tu: abolla
+  vos: abollá
+  ud: abolla
+  nosotros: abollamos
+  vosotros: abollad
+  uds: abollan

@@ -1,0 +1,142 @@
+infinitivo: sobrevivir
+gerundio: sobreviviendo
+participio-pasado: sobrevivido
+presente-indicativo:
+  yo: sobrevivo
+  tu: sobrevives
+  vos: sobrevives
+  ud: sobrevive
+  nosotros: sobrevivimos
+  vosotros: sobrevivís
+  uds: sobreviven
+preterito-perfecto-simple:
+  yo: sobreviví
+  tu: sobreviviste
+  vos: sobreviviste
+  ud: sobrevivió
+  nosotros: sobrevivimos
+  vosotros: sobrevivisteis
+  uds: sobrevivieron
+preterito-imperfecto:
+  yo: sobrevivía
+  tu: sobrevivías
+  vos: sobrevivías
+  ud: sobrevivía
+  nosotros: sobrevivíamos
+  vosotros: sobrevivíais
+  uds: sobrevivían
+futuro-simple:
+  yo: sobreviviré
+  tu: sobrevivirás
+  vos: sobrevivirás
+  ud: sobrevivirá
+  nosotros: sobreviviremos
+  vosotros: sobreviviréis
+  uds: sobrevivirán
+condicional-simple:
+  yo: sobreviviría
+  tu: sobrevivirías
+  vos: sobrevivirías
+  ud: sobreviviría
+  nosotros: sobreviviríamos
+  vosotros: sobreviviríais
+  uds: sobrevivirían
+presente-perfecto:
+  yo: he sobrevivido
+  tu: has sobrevivido
+  vos: has sobrevivido
+  ud: ha sobrevivido
+  nosotros: hemos sobrevivido
+  vosotros: habéis sobrevivido
+  uds: han sobrevivido
+preterito-pluscuamperfecto:
+  yo: había sobrevivido
+  tu: habías sobrevivido
+  vos: habías sobrevivido
+  ud: había sobrevivido
+  nosotros: habíamos sobrevivido
+  vosotros: habíais sobrevivido
+  uds: habían sobrevivido
+futuro-perfecto:
+  yo: habré sobrevivido
+  tu: habrás sobrevivido
+  vos: habrás sobrevivido
+  ud: habrá sobrevivido
+  nosotros: habremos sobrevivido
+  vosotros: habréis sobrevivido
+  uds: habrán sobrevivido
+condicional-perfecto:
+  yo: habría sobrevivido
+  tu: habrías sobrevivido
+  vos: habrías sobrevivido
+  ud: habría sobrevivido
+  nosotros: habríamos sobrevivido
+  vosotros: habríais sobrevivido
+  uds: habrían sobrevivido
+presente-subjuntivo:
+  yo: sobreviva
+  tu: sobrevivas
+  vos: sobrevivas
+  ud: sobreviva
+  nosotros: sobrevivamos
+  vosotros: sobreviváis
+  uds: sobrevivan
+preterito-perfecto-subjuntivo:
+  yo: haya sobrevivido
+  tu: hayas sobrevivido
+  vos: hayas sobrevivido
+  ud: haya sobrevivido
+  nosotros: hayamos sobrevivido
+  vosotros: hayáis sobrevivido
+  uds: hayan sobrevivido
+imperfecto-subjuntivo:
+  yo:
+    - sobreviviera
+    - sobreviviese
+  tu:
+    - sobrevivieras
+    - sobrevivieses
+  vos:
+    - sobrevivieras
+    - sobrevivieses
+  ud:
+    - sobreviviera
+    - sobreviviese
+  nosotros:
+    - sobreviviéramos
+    - sobreviviésemos
+  vosotros:
+    - sobrevivierais
+    - sobrevivieseis
+  uds:
+    - sobrevivieran
+    - sobreviviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sobrevivido
+    - hubiese sobrevivido
+  tu:
+    - hubieras sobrevivido
+    - hubieses sobrevivido
+  vos:
+    - hubieras sobrevivido
+    - hubieses sobrevivido
+  ud:
+    - hubiera sobrevivido
+    - hubiese sobrevivido
+  nosotros:
+    - hubiéramos sobrevivido
+    - hubiésemos sobrevivido
+  vosotros:
+    - hubierais sobrevivido
+    - hubieseis sobrevivido
+  uds:
+    - hubieran sobrevivido
+    - hubiesen sobrevivido
+imperativo:
+  tu: sobrevive
+  vos: sobreviví
+  ud: sobreviva
+  nosotros: sobrevivamos
+  vosotros: sobrevivid
+  uds: sobrevivan

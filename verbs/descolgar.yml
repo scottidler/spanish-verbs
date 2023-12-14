@@ -1,0 +1,142 @@
+infinitivo: descolgar
+gerundio: descolgando
+participio-pasado: descolgado
+presente-indicativo:
+  yo: descolgo
+  tu: descolgas
+  vos: descolgás
+  ud: descolga
+  nosotros: descolgamos
+  vosotros: descolgáis
+  uds: descolgan
+preterito-perfecto-simple:
+  yo: descolgué
+  tu: descolgaste
+  vos: descolgaste
+  ud: descolgó
+  nosotros: descolgamos
+  vosotros: descolgasteis
+  uds: descolgaron
+preterito-imperfecto:
+  yo: descolgaba
+  tu: descolgabas
+  vos: descolgabas
+  ud: descolgaba
+  nosotros: descolgábamos
+  vosotros: descolgabais
+  uds: descolgaban
+futuro-simple:
+  yo: descolgaré
+  tu: descolgarás
+  vos: descolgarás
+  ud: descolgará
+  nosotros: descolgaremos
+  vosotros: descolgaréis
+  uds: descolgarán
+condicional-simple:
+  yo: descolgaría
+  tu: descolgarías
+  vos: descolgarías
+  ud: descolgaría
+  nosotros: descolgaríamos
+  vosotros: descolgaríais
+  uds: descolgarían
+presente-perfecto:
+  yo: he descolgado
+  tu: has descolgado
+  vos: has descolgado
+  ud: ha descolgado
+  nosotros: hemos descolgado
+  vosotros: habéis descolgado
+  uds: han descolgado
+preterito-pluscuamperfecto:
+  yo: había descolgado
+  tu: habías descolgado
+  vos: habías descolgado
+  ud: había descolgado
+  nosotros: habíamos descolgado
+  vosotros: habíais descolgado
+  uds: habían descolgado
+futuro-perfecto:
+  yo: habré descolgado
+  tu: habrás descolgado
+  vos: habrás descolgado
+  ud: habrá descolgado
+  nosotros: habremos descolgado
+  vosotros: habréis descolgado
+  uds: habrán descolgado
+condicional-perfecto:
+  yo: habría descolgado
+  tu: habrías descolgado
+  vos: habrías descolgado
+  ud: habría descolgado
+  nosotros: habríamos descolgado
+  vosotros: habríais descolgado
+  uds: habrían descolgado
+presente-subjuntivo:
+  yo: descolgue
+  tu: descolgues
+  vos: descolgues
+  ud: descolgue
+  nosotros: descolguemos
+  vosotros: descolguéis
+  uds: descolguen
+preterito-perfecto-subjuntivo:
+  yo: haya descolgado
+  tu: hayas descolgado
+  vos: hayas descolgado
+  ud: haya descolgado
+  nosotros: hayamos descolgado
+  vosotros: hayáis descolgado
+  uds: hayan descolgado
+imperfecto-subjuntivo:
+  yo:
+    - descolgara
+    - descolgase
+  tu:
+    - descolgaras
+    - descolgases
+  vos:
+    - descolgaras
+    - descolgases
+  ud:
+    - descolgara
+    - descolgase
+  nosotros:
+    - descolgáramos
+    - descolgásemos
+  vosotros:
+    - descolgarais
+    - descolgaseis
+  uds:
+    - descolgaran
+    - descolgasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera descolgado
+    - hubiese descolgado
+  tu:
+    - hubieras descolgado
+    - hubieses descolgado
+  vos:
+    - hubieras descolgado
+    - hubieses descolgado
+  ud:
+    - hubiera descolgado
+    - hubiese descolgado
+  nosotros:
+    - hubiéramos descolgado
+    - hubiésemos descolgado
+  vosotros:
+    - hubierais descolgado
+    - hubieseis descolgado
+  uds:
+    - hubieran descolgado
+    - hubiesen descolgado
+imperativo:
+  tu: descolga
+  vos: descolgá
+  ud: descolgue
+  nosotros: descolguemos
+  vosotros: descolgad
+  uds: descolguen

@@ -1,0 +1,142 @@
+infinitivo: inquietar
+gerundio: inquietando
+participio-pasado: inquietado
+presente-indicativo:
+  yo: inquieto
+  tu: inquietas
+  vos: inquietás
+  ud: inquieta
+  nosotros: inquietamos
+  vosotros: inquietáis
+  uds: inquietan
+preterito-perfecto-simple:
+  yo: inquieté
+  tu: inquietaste
+  vos: inquietaste
+  ud: inquietó
+  nosotros: inquietamos
+  vosotros: inquietasteis
+  uds: inquietaron
+preterito-imperfecto:
+  yo: inquietaba
+  tu: inquietabas
+  vos: inquietabas
+  ud: inquietaba
+  nosotros: inquietábamos
+  vosotros: inquietabais
+  uds: inquietaban
+futuro-simple:
+  yo: inquietaré
+  tu: inquietarás
+  vos: inquietarás
+  ud: inquietará
+  nosotros: inquietaremos
+  vosotros: inquietaréis
+  uds: inquietarán
+condicional-simple:
+  yo: inquietaría
+  tu: inquietarías
+  vos: inquietarías
+  ud: inquietaría
+  nosotros: inquietaríamos
+  vosotros: inquietaríais
+  uds: inquietarían
+presente-perfecto:
+  yo: he inquietado
+  tu: has inquietado
+  vos: has inquietado
+  ud: ha inquietado
+  nosotros: hemos inquietado
+  vosotros: habéis inquietado
+  uds: han inquietado
+preterito-pluscuamperfecto:
+  yo: había inquietado
+  tu: habías inquietado
+  vos: habías inquietado
+  ud: había inquietado
+  nosotros: habíamos inquietado
+  vosotros: habíais inquietado
+  uds: habían inquietado
+futuro-perfecto:
+  yo: habré inquietado
+  tu: habrás inquietado
+  vos: habrás inquietado
+  ud: habrá inquietado
+  nosotros: habremos inquietado
+  vosotros: habréis inquietado
+  uds: habrán inquietado
+condicional-perfecto:
+  yo: habría inquietado
+  tu: habrías inquietado
+  vos: habrías inquietado
+  ud: habría inquietado
+  nosotros: habríamos inquietado
+  vosotros: habríais inquietado
+  uds: habrían inquietado
+presente-subjuntivo:
+  yo: inquiete
+  tu: inquietes
+  vos: inquietes
+  ud: inquiete
+  nosotros: inquietemos
+  vosotros: inquietéis
+  uds: inquieten
+preterito-perfecto-subjuntivo:
+  yo: haya inquietado
+  tu: hayas inquietado
+  vos: hayas inquietado
+  ud: haya inquietado
+  nosotros: hayamos inquietado
+  vosotros: hayáis inquietado
+  uds: hayan inquietado
+imperfecto-subjuntivo:
+  yo:
+    - inquietara
+    - inquietase
+  tu:
+    - inquietaras
+    - inquietases
+  vos:
+    - inquietaras
+    - inquietases
+  ud:
+    - inquietara
+    - inquietase
+  nosotros:
+    - inquietáramos
+    - inquietásemos
+  vosotros:
+    - inquietarais
+    - inquietaseis
+  uds:
+    - inquietaran
+    - inquietasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera inquietado
+    - hubiese inquietado
+  tu:
+    - hubieras inquietado
+    - hubieses inquietado
+  vos:
+    - hubieras inquietado
+    - hubieses inquietado
+  ud:
+    - hubiera inquietado
+    - hubiese inquietado
+  nosotros:
+    - hubiéramos inquietado
+    - hubiésemos inquietado
+  vosotros:
+    - hubierais inquietado
+    - hubieseis inquietado
+  uds:
+    - hubieran inquietado
+    - hubiesen inquietado
+imperativo:
+  tu: inquieta
+  vos: inquietá
+  ud: inquiete
+  nosotros: inquietemos
+  vosotros: inquietad
+  uds: inquieten

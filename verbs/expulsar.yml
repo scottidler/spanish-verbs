@@ -1,0 +1,142 @@
+infinitivo: expulsar
+gerundio: expulsando
+participio-pasado: expulsado
+presente-indicativo:
+  yo: expulso
+  tu: expulsas
+  vos: expulsás
+  ud: expulsa
+  nosotros: expulsamos
+  vosotros: expulsáis
+  uds: expulsan
+preterito-perfecto-simple:
+  yo: expulsé
+  tu: expulsaste
+  vos: expulsaste
+  ud: expulsó
+  nosotros: expulsamos
+  vosotros: expulsasteis
+  uds: expulsaron
+preterito-imperfecto:
+  yo: expulsaba
+  tu: expulsabas
+  vos: expulsabas
+  ud: expulsaba
+  nosotros: expulsábamos
+  vosotros: expulsabais
+  uds: expulsaban
+futuro-simple:
+  yo: expulsaré
+  tu: expulsarás
+  vos: expulsarás
+  ud: expulsará
+  nosotros: expulsaremos
+  vosotros: expulsaréis
+  uds: expulsarán
+condicional-simple:
+  yo: expulsaría
+  tu: expulsarías
+  vos: expulsarías
+  ud: expulsaría
+  nosotros: expulsaríamos
+  vosotros: expulsaríais
+  uds: expulsarían
+presente-perfecto:
+  yo: he expulsado
+  tu: has expulsado
+  vos: has expulsado
+  ud: ha expulsado
+  nosotros: hemos expulsado
+  vosotros: habéis expulsado
+  uds: han expulsado
+preterito-pluscuamperfecto:
+  yo: había expulsado
+  tu: habías expulsado
+  vos: habías expulsado
+  ud: había expulsado
+  nosotros: habíamos expulsado
+  vosotros: habíais expulsado
+  uds: habían expulsado
+futuro-perfecto:
+  yo: habré expulsado
+  tu: habrás expulsado
+  vos: habrás expulsado
+  ud: habrá expulsado
+  nosotros: habremos expulsado
+  vosotros: habréis expulsado
+  uds: habrán expulsado
+condicional-perfecto:
+  yo: habría expulsado
+  tu: habrías expulsado
+  vos: habrías expulsado
+  ud: habría expulsado
+  nosotros: habríamos expulsado
+  vosotros: habríais expulsado
+  uds: habrían expulsado
+presente-subjuntivo:
+  yo: expulse
+  tu: expulses
+  vos: expulses
+  ud: expulse
+  nosotros: expulsemos
+  vosotros: expulséis
+  uds: expulsen
+preterito-perfecto-subjuntivo:
+  yo: haya expulsado
+  tu: hayas expulsado
+  vos: hayas expulsado
+  ud: haya expulsado
+  nosotros: hayamos expulsado
+  vosotros: hayáis expulsado
+  uds: hayan expulsado
+imperfecto-subjuntivo:
+  yo:
+    - expulsara
+    - expulsase
+  tu:
+    - expulsaras
+    - expulsases
+  vos:
+    - expulsaras
+    - expulsases
+  ud:
+    - expulsara
+    - expulsase
+  nosotros:
+    - expulsáramos
+    - expulsásemos
+  vosotros:
+    - expulsarais
+    - expulsaseis
+  uds:
+    - expulsaran
+    - expulsasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera expulsado
+    - hubiese expulsado
+  tu:
+    - hubieras expulsado
+    - hubieses expulsado
+  vos:
+    - hubieras expulsado
+    - hubieses expulsado
+  ud:
+    - hubiera expulsado
+    - hubiese expulsado
+  nosotros:
+    - hubiéramos expulsado
+    - hubiésemos expulsado
+  vosotros:
+    - hubierais expulsado
+    - hubieseis expulsado
+  uds:
+    - hubieran expulsado
+    - hubiesen expulsado
+imperativo:
+  tu: expulsa
+  vos: expulsá
+  ud: expulse
+  nosotros: expulsemos
+  vosotros: expulsad
+  uds: expulsen

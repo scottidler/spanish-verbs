@@ -1,0 +1,142 @@
+infinitivo: apiadar
+gerundio: apiadando
+participio-pasado: apiadado
+presente-indicativo:
+  yo: apiedo
+  tu: apiedas
+  vos: apiedás
+  ud: apieda
+  nosotros: apiadamos
+  vosotros: apiedáis
+  uds: apiedan
+preterito-perfecto-simple:
+  yo: apiadé
+  tu: apiadaste
+  vos: apiadaste
+  ud: apiadó
+  nosotros: apiadamos
+  vosotros: apiadasteis
+  uds: apiadaron
+preterito-imperfecto:
+  yo: apiadaba
+  tu: apiadabas
+  vos: apiadabas
+  ud: apiadaba
+  nosotros: apiadábamos
+  vosotros: apiadabais
+  uds: apiadaban
+futuro-simple:
+  yo: apiadaré
+  tu: apiadarás
+  vos: apiadarás
+  ud: apiadará
+  nosotros: apiadaremos
+  vosotros: apiadaréis
+  uds: apiadarán
+condicional-simple:
+  yo: apiadaría
+  tu: apiadarías
+  vos: apiadarías
+  ud: apiadaría
+  nosotros: apiadaríamos
+  vosotros: apiadaríais
+  uds: apiadarían
+presente-perfecto:
+  yo: he apiadado
+  tu: has apiadado
+  vos: has apiadado
+  ud: ha apiadado
+  nosotros: hemos apiadado
+  vosotros: habéis apiadado
+  uds: han apiadado
+preterito-pluscuamperfecto:
+  yo: había apiadado
+  tu: habías apiadado
+  vos: habías apiadado
+  ud: había apiadado
+  nosotros: habíamos apiadado
+  vosotros: habíais apiadado
+  uds: habían apiadado
+futuro-perfecto:
+  yo: habré apiadado
+  tu: habrás apiadado
+  vos: habrás apiadado
+  ud: habrá apiadado
+  nosotros: habremos apiadado
+  vosotros: habréis apiadado
+  uds: habrán apiadado
+condicional-perfecto:
+  yo: habría apiadado
+  tu: habrías apiadado
+  vos: habrías apiadado
+  ud: habría apiadado
+  nosotros: habríamos apiadado
+  vosotros: habríais apiadado
+  uds: habrían apiadado
+presente-subjuntivo:
+  yo: apiede
+  tu: apiedes
+  vos: apiedes
+  ud: apiede
+  nosotros: apiademos
+  vosotros: apiadéis
+  uds: apieden
+preterito-perfecto-subjuntivo:
+  yo: haya apiadado
+  tu: hayas apiadado
+  vos: hayas apiadado
+  ud: haya apiadado
+  nosotros: hayamos apiadado
+  vosotros: hayáis apiadado
+  uds: hayan apiadado
+imperfecto-subjuntivo:
+  yo:
+    - apiadara
+    - apiadase
+  tu:
+    - apiadaras
+    - apiadases
+  vos:
+    - apiadaras
+    - apiadases
+  ud:
+    - apiadara
+    - apiadase
+  nosotros:
+    - apiadáramos
+    - apiadásemos
+  vosotros:
+    - apiadarais
+    - apiadaseis
+  uds:
+    - apiadaran
+    - apiadasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera apiadado
+    - hubiese apiadado
+  tu:
+    - hubieras apiadado
+    - hubieses apiadado
+  vos:
+    - hubieras apiadado
+    - hubieses apiadado
+  ud:
+    - hubiera apiadado
+    - hubiese apiadado
+  nosotros:
+    - hubiéramos apiadado
+    - hubiésemos apiadado
+  vosotros:
+    - hubierais apiadado
+    - hubieseis apiadado
+  uds:
+    - hubieran apiadado
+    - hubiesen apiadado
+imperativo:
+  tu: apieda
+  vos: apiedá
+  ud: apiede
+  nosotros: apiademos
+  vosotros: apiadad
+  uds: apieden

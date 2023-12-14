@@ -1,0 +1,142 @@
+infinitivo: retumbar
+gerundio: retumbando
+participio-pasado: retumbado
+presente-indicativo:
+  yo: retumbo
+  tu: retumbas
+  vos: retumbas
+  ud: retumba
+  nosotros: retumbamos
+  vosotros: retumbáis
+  uds: retumban
+preterito-perfecto-simple:
+  yo: retumbé
+  tu: retumbaste
+  vos: retumbaste
+  ud: retumbó
+  nosotros: retumbamos
+  vosotros: retumbasteis
+  uds: retumbaron
+preterito-imperfecto:
+  yo: retumbaba
+  tu: retumabas
+  vos: retumabas
+  ud: retumbaba
+  nosotros: retumbábamos
+  vosotros: retumabais
+  uds: retumbaban
+futuro-simple:
+  yo: retumbaré
+  tu: retumbarás
+  vos: retumbarás
+  ud: retumbará
+  nosotros: retumbaremos
+  vosotros: retumbaréis
+  uds: retumbarán
+condicional-simple:
+  yo: retumbaría
+  tu: retumbarías
+  vos: retumbarías
+  ud: retumbaría
+  nosotros: retumbaríamos
+  vosotros: retumbaríais
+  uds: retumbarían
+presente-perfecto:
+  yo: he retumbado
+  tu: has retumbado
+  vos: has retumbado
+  ud: ha retumbado
+  nosotros: hemos retumbado
+  vosotros: habéis retumbado
+  uds: han retumbado
+preterito-pluscuamperfecto:
+  yo: había retumbado
+  tu: habías retumbado
+  vos: habías retumbado
+  ud: había retumbado
+  nosotros: habíamos retumbado
+  vosotros: habíais retumbado
+  uds: habían retumbado
+futuro-perfecto:
+  yo: habré retumbado
+  tu: habrás retumbado
+  vos: habrás retumbado
+  ud: habrá retumbado
+  nosotros: habremos retumbado
+  vosotros: habréis retumbado
+  uds: habrán retumbado
+condicional-perfecto:
+  yo: habría retumbado
+  tu: habrías retumbado
+  vos: habrías retumbado
+  ud: habría retumbado
+  nosotros: habríamos retumbado
+  vosotros: habríais retumbado
+  uds: habrían retumbado
+presente-subjuntivo:
+  yo: retumbe
+  tu: retumbes
+  vos: retumbes
+  ud: retumbe
+  nosotros: retumbemos
+  vosotros: retumbéis
+  uds: retumben
+preterito-perfecto-subjuntivo:
+  yo: haya retumbado
+  tu: hayas retumbado
+  vos: hayas retumbado
+  ud: haya retumbado
+  nosotros: hayamos retumbado
+  vosotros: hayáis retumbado
+  uds: hayan retumbado
+imperfecto-subjuntivo:
+  yo:
+    - retumbara
+    - retumbase
+  tu:
+    - retumbaras
+    - retumbase
+  vos:
+    - retumbaras
+    - retumbase
+  ud:
+    - retumbara
+    - retumbase
+  nosotros:
+    - retumbáramos
+    - retumbásemos
+  vosotros:
+    - retumbarais
+    - retumbaseis
+  uds:
+    - retumbaran
+    - retumbrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera retumbado
+    - hubiese retumbado
+  tu:
+    - hubieras retumbado
+    - hubieses retumbado
+  vos:
+    - hubieras retumbado
+    - hubieses retumbado
+  ud:
+    - hubiera retumbado
+    - hubiese retumbado
+  nosotros:
+    - hubiéramos retumbado
+    - hubiésemos retumbado
+  vosotros:
+    - hubierais retumbado
+    - hubieseis retumbado
+  uds:
+    - hubieran retumbado
+    - hubiesen retumbado
+imperativo:
+  tu: retumba
+  vos: retumbá
+  ud: retumbe
+  nosotros: retumbemos
+  vosotros: retumbad
+  uds: retumben

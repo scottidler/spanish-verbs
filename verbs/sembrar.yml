@@ -1,0 +1,142 @@
+infinitivo: sembrar
+gerundio: sembrando
+participio-pasado: sembrado
+presente-indicativo:
+  yo: siembro
+  tu: siembras
+  vos: siembras
+  ud: siembra
+  nosotros: sembramos
+  vosotros: sembráis
+  uds: siembran
+preterito-perfecto-simple:
+  yo: sembré
+  tu: sembraste
+  vos: sembraste
+  ud: sembró
+  nosotros: sembramos
+  vosotros: sembrasteis
+  uds: sembraron
+preterito-imperfecto:
+  yo: sembraba
+  tu: sembrabas
+  vos: sembrabas
+  ud: sembraba
+  nosotros: sembrábamos
+  vosotros: sembrabais
+  uds: sembraban
+futuro-simple:
+  yo: sembraré
+  tu: sembrarás
+  vos: sembrarás
+  ud: sembrará
+  nosotros: sembraremos
+  vosotros: sembraréis
+  uds: sembrarán
+condicional-simple:
+  yo: sembraría
+  tu: sembrarías
+  vos: sembrarías
+  ud: sembraría
+  nosotros: sembraríamos
+  vosotros: sembraríais
+  uds: sembrarían
+presente-perfecto:
+  yo: he sembrado
+  tu: has sembrado
+  vos: has sembrado
+  ud: ha sembrado
+  nosotros: hemos sembrado
+  vosotros: habéis sembrado
+  uds: han sembrado
+preterito-pluscuamperfecto:
+  yo: había sembrado
+  tu: habías sembrado
+  vos: habías sembrado
+  ud: había sembrado
+  nosotros: habíamos sembrado
+  vosotros: habíais sembrado
+  uds: habían sembrado
+futuro-perfecto:
+  yo: habré sembrado
+  tu: habrás sembrado
+  vos: habrás sembrado
+  ud: habrá sembrado
+  nosotros: habremos sembrado
+  vosotros: habréis sembrado
+  uds: habrán sembrado
+condicional-perfecto:
+  yo: habría sembrado
+  tu: habrías sembrado
+  vos: habrías sembrado
+  ud: habría sembrado
+  nosotros: habríamos sembrado
+  vosotros: habríais sembrado
+  uds: habrían sembrado
+presente-subjuntivo:
+  yo: siembre
+  tu: siembres
+  vos: siembres
+  ud: siembre
+  nosotros: sembremos
+  vosotros: sembréis
+  uds: siembren
+preterito-perfecto-subjuntivo:
+  yo: haya sembrado
+  tu: hayas sembrado
+  vos: hayas sembrado
+  ud: haya sembrado
+  nosotros: hayamos sembrado
+  vosotros: hayáis sembrado
+  uds: hayan sembrado
+imperfecto-subjuntivo:
+  yo:
+    - sembrara
+    - sembrase
+  tu:
+    - sembraras
+    - sembrases
+  vos:
+    - sembraras
+    - sembrases
+  ud:
+    - sembrara
+    - sembrase
+  nosotros:
+    - sembráramos
+    - sembrásemos
+  vosotros:
+    - sembrarais
+    - sembraseis
+  uds:
+    - sembraran
+    - sembrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera sembrado
+    - hubiese sembrado
+  tu:
+    - hubieras sembrado
+    - hubieses sembrado
+  vos:
+    - hubieras sembrado
+    - hubieses sembrado
+  ud:
+    - hubiera sembrado
+    - hubiese sembrado
+  nosotros:
+    - hubiéramos sembrado
+    - hubiésemos sembrado
+  vosotros:
+    - hubierais sembrado
+    - hubieseis sembrado
+  uds:
+    - hubieran sembrado
+    - hubiesen sembrado
+imperativo:
+  tu: siembra
+  vos: siembra
+  ud: siembre
+  nosotros: sembremos
+  vosotros: sembrad
+  uds: siembren

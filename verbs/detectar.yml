@@ -1,0 +1,142 @@
+infinitivo: detectar
+gerundio: detectando
+participio-pasado: detectado
+presente-indicativo:
+  yo: detecto
+  tu: detectas
+  vos: detectas
+  ud: detecta
+  nosotros: detectamos
+  vosotros: detectáis
+  uds: detectan
+preterito-perfecto-simple:
+  yo: detecté
+  tu: detectaste
+  vos: detectaste
+  ud: detectó
+  nosotros: detectamos
+  vosotros: detectasteis
+  uds: detectaron
+preterito-imperfecto:
+  yo: detectaba
+  tu: detectabas
+  vos: detectabas
+  ud: detectaba
+  nosotros: detectábamos
+  vosotros: detectabais
+  uds: detectaban
+futuro-simple:
+  yo: detectaré
+  tu: detectarás
+  vos: detectarás
+  ud: detectará
+  nosotros: detectaremos
+  vosotros: detectaréis
+  uds: detectarán
+condicional-simple:
+  yo: detectaría
+  tu: detectarías
+  vos: detectarías
+  ud: detectaría
+  nosotros: detectaríamos
+  vosotros: detectaríais
+  uds: detectarían
+presente-perfecto:
+  yo: he detectado
+  tu: has detectado
+  vos: has detectado
+  ud: ha detectado
+  nosotros: hemos detectado
+  vosotros: habéis detectado
+  uds: han detectado
+preterito-pluscuamperfecto:
+  yo: había detectado
+  tu: habías detectado
+  vos: habías detectado
+  ud: había detectado
+  nosotros: habíamos detectado
+  vosotros: habíais detectado
+  uds: habían detectado
+futuro-perfecto:
+  yo: habré detectado
+  tu: habrás detectado
+  vos: habrás detectado
+  ud: habrá detectado
+  nosotros: habremos detectado
+  vosotros: habréis detectado
+  uds: habrán detectado
+condicional-perfecto:
+  yo: habría detectado
+  tu: habrías detectado
+  vos: habrías detectado
+  ud: habría detectado
+  nosotros: habríamos detectado
+  vosotros: habríais detectado
+  uds: habrían detectado
+presente-subjuntivo:
+  yo: detecte
+  tu: detectes
+  vos: detectes
+  ud: detecte
+  nosotros: detectemos
+  vosotros: detectéis
+  uds: detecten
+preterito-perfecto-subjuntivo:
+  yo: haya detectado
+  tu: hayas detectado
+  vos: hayas detectado
+  ud: haya detectado
+  nosotros: hayamos detectado
+  vosotros: hayáis detectado
+  uds: hayan detectado
+imperfecto-subjuntivo:
+  yo:
+    - detectara
+    - detectase
+  tu:
+    - detectaras
+    - detectases
+  vos:
+    - detectaras
+    - detectases
+  ud:
+    - detectara
+    - detectase
+  nosotros:
+    - detectáramos
+    - detectásemos
+  vosotros:
+    - detectarais
+    - detectaseis
+  uds:
+    - detectaran
+    - detectasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera detectado
+    - hubiese detectado
+  tu:
+    - hubieras detectado
+    - hubieses detectado
+  vos:
+    - hubieras detectado
+    - hubieses detectado
+  ud:
+    - hubiera detectado
+    - hubiese detectado
+  nosotros:
+    - hubiéramos detectado
+    - hubiésemos detectado
+  vosotros:
+    - hubierais detectado
+    - hubieseis detectado
+  uds:
+    - hubieran detectado
+    - hubiesen detectado
+imperativo:
+  tu: detecta
+  vos: detectá
+  ud: detecte
+  nosotros: detectemos
+  vosotros: detectad
+  uds: detecten

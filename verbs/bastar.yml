@@ -1,0 +1,142 @@
+infinitivo: bastar
+gerundio: bastando
+participio-pasado: bastado
+presente-indicativo:
+  yo: basto
+  tu: bastas
+  vos: bastas
+  ud: basta
+  nosotros: bastamos
+  vosotros: bastáis
+  uds: bastan
+preterito-perfecto-simple:
+  yo: basté
+  tu: bastaste
+  vos: bastaste
+  ud: bastó
+  nosotros: bastamos
+  vosotros: bastasteis
+  uds: bastaron
+preterito-imperfecto:
+  yo: bastaba
+  tu: bastabas
+  vos: bastabas
+  ud: bastaba
+  nosotros: bastábamos
+  vosotros: bastabais
+  uds: bastaban
+futuro-simple:
+  yo: bastaré
+  tu: bastarás
+  vos: bastarás
+  ud: bastará
+  nosotros: bastaremos
+  vosotros: bastaréis
+  uds: bastarán
+condicional-simple:
+  yo: bastaría
+  tu: bastarías
+  vos: bastarías
+  ud: bastaría
+  nosotros: bastaríamos
+  vosotros: bastaríais
+  uds: bastarían
+presente-perfecto:
+  yo: he bastado
+  tu: has bastado
+  vos: has bastado
+  ud: ha bastado
+  nosotros: hemos bastado
+  vosotros: habéis bastado
+  uds: han bastado
+preterito-pluscuamperfecto:
+  yo: había bastado
+  tu: habías bastado
+  vos: habías bastado
+  ud: había bastado
+  nosotros: habíamos bastado
+  vosotros: habíais bastado
+  uds: habían bastado
+futuro-perfecto:
+  yo: habré bastado
+  tu: habrás bastado
+  vos: habrás bastado
+  ud: habrá bastado
+  nosotros: habremos bastado
+  vosotros: habréis bastado
+  uds: habrán bastado
+condicional-perfecto:
+  yo: habría bastado
+  tu: habrías bastado
+  vos: habrías bastado
+  ud: habría bastado
+  nosotros: habríamos bastado
+  vosotros: habríais bastado
+  uds: habrían bastado
+presente-subjuntivo:
+  yo: baste
+  tu: bastes
+  vos: bastes
+  ud: baste
+  nosotros: bastemos
+  vosotros: bastéis
+  uds: basten
+preterito-perfecto-subjuntivo:
+  yo: haya bastado
+  tu: hayas bastado
+  vos: hayas bastado
+  ud: haya bastado
+  nosotros: hayamos bastado
+  vosotros: hayáis bastado
+  uds: hayan bastado
+imperfecto-subjuntivo:
+  yo: 
+    - bastara
+    - bastase
+  tu: 
+    - bastaras
+    - bastases
+  vos: 
+    - bastaras
+    - bastases
+  ud: 
+    - bastara
+    - bastase
+  nosotros: 
+    - bastáramos
+    - bastásemos
+  vosotros: 
+    - bastarais
+    - bastaseis
+  uds: 
+    - bastaran
+    - bastasen
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - hubiera bastado
+    - hubiese bastado
+  tu: 
+    - hubieras bastado
+    - hubieses bastado
+  vos: 
+    - hubieras bastado
+    - hubieses bastado
+  ud: 
+    - hubiera bastado
+    - hubiese bastado
+  nosotros: 
+    - hubiéramos bastado
+    - hubiésemos bastado
+  vosotros: 
+    - hubierais bastado
+    - hubieseis bastado
+  uds: 
+    - hubieran bastado
+    - hubiesen bastado
+imperativo:
+  tu: basta
+  vos: bastá
+  ud: baste
+  nosotros: bastemos
+  vosotros: bastad
+  uds: basten

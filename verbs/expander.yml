@@ -1,0 +1,142 @@
+infinitivo: expander
+gerundio: expandiendo
+participio-pasado: expandido
+presente-indicativo:
+  yo: expando
+  tu: expandes
+  vos: expandes
+  ud: expande
+  nosotros: expandemos
+  vosotros: expandéis
+  uds: expanden
+preterito-perfecto-simple:
+  yo: expandí
+  tu: expandiste
+  vos: expandiste
+  ud: expandió
+  nosotros: expandimos
+  vosotros: expandisteis
+  uds: expandieron
+preterito-imperfecto:
+  yo: expandía
+  tu: expandías
+  vos: expandías
+  ud: expandía
+  nosotros: expandíamos
+  vosotros: expandíais
+  uds: expandían
+futuro-simple:
+  yo: expandiré
+  tu: expandirás
+  vos: expandirás
+  ud: expandirá
+  nosotros: expandiremos
+  vosotros: expandiréis
+  uds: expandirán
+condicional-simple:
+  yo: expandiría
+  tu: expandirías
+  vos: expandirías
+  ud: expandiría
+  nosotros: expandiríamos
+  vosotros: expandiríais
+  uds: expandirían
+presente-perfecto:
+  yo: he expandido
+  tu: has expandido
+  vos: has expandido
+  ud: ha expandido
+  nosotros: hemos expandido
+  vosotros: habéis expandido
+  uds: han expandido
+preterito-pluscuamperfecto:
+  yo: había expandido
+  tu: habías expandido
+  vos: habías expandido
+  ud: había expandido
+  nosotros: habíamos expandido
+  vosotros: habíais expandido
+  uds: habían expandido
+futuro-perfecto:
+  yo: habré expandido
+  tu: habrás expandido
+  vos: habrás expandido
+  ud: habrá expandido
+  nosotros: habremos expandido
+  vosotros: habréis expandido
+  uds: habrán expandido
+condicional-perfecto:
+  yo: habría expandido
+  tu: habrías expandido
+  vos: habrías expandido
+  ud: habría expandido
+  nosotros: habríamos expandido
+  vosotros: habríais expandido
+  uds: habrían expandido
+presente-subjuntivo:
+  yo: expanda
+  tu: expandas
+  vos: expandas
+  ud: expanda
+  nosotros: expandamos
+  vosotros: expandáis
+  uds: expandan
+preterito-perfecto-subjuntivo:
+  yo: haya expandido
+  tu: hayas expandido
+  vos: hayas expandido
+  ud: haya expandido
+  nosotros: hayamos expandido
+  vosotros: hayáis expandido
+  uds: hayan expandido
+imperfecto-subjuntivo:
+  yo:
+    - expandiera
+    - expandiese
+  tu:
+    - expandieras
+    - expandieses
+  vos:
+    - expandieras
+    - expandieses
+  ud:
+    - expandiera
+    - expandiese
+  nosotros:
+    - expandiéramos
+    - expandiésemos
+  vosotros:
+    - expandierais
+    - expandieseis
+  uds:
+    - expandieran
+    - expandiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera expandido
+    - hubiese expandido
+  tu:
+    - hubieras expandido
+    - hubieses expandido
+  vos:
+    - hubieras expandido
+    - hubieses expandido
+  ud:
+    - hubiera expandido
+    - hubiese expandido
+  nosotros:
+    - hubiéramos expandido
+    - hubiésemos expandido
+  vosotros:
+    - hubierais expandido
+    - hubieseis expandido
+  uds:
+    - hubieran expandido
+    - hubiesen expandido
+imperativo:
+  tu: expande
+  vos: expandé
+  ud: expanda
+  nosotros: expandamos
+  vosotros: expandid
+  uds: expandan

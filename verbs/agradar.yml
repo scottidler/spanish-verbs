@@ -1,0 +1,142 @@
+infinitivo: agradar
+gerundio: agradando
+participio-pasado: agradado
+presente-indicativo:
+  yo: agrado
+  tu: agradas
+  vos: agradas
+  ud: agrada
+  nosotros: agradamos
+  vosotros: agradáis
+  uds: agradan
+preterito-perfecto-simple:
+  yo: agradé
+  tu: agradaste
+  vos: agradaste
+  ud: agradó
+  nosotros: agradamos
+  vosotros: agradasteis
+  uds: agradaron
+preterito-imperfecto:
+  yo: agradaba
+  tu: agradabas
+  vos: agradabas
+  ud: agradaba
+  nosotros: agradábamos
+  vosotros: agradabais
+  uds: agradaban
+futuro-simple:
+  yo: agradaré
+  tu: agradarás
+  vos: agradarás
+  ud: agradará
+  nosotros: agradaremos
+  vosotros: agradaréis
+  uds: agradarán
+condicional-simple:
+  yo: agradaría
+  tu: agradarías
+  vos: agradarías
+  ud: agradaría
+  nosotros: agradaríamos
+  vosotros: agradaríais
+  uds: agradarían
+presente-perfecto:
+  yo: he agradado
+  tu: has agradado
+  vos: has agradado
+  ud: ha agradado
+  nosotros: hemos agradado
+  vosotros: habéis agradado
+  uds: han agradado
+preterito-pluscuamperfecto:
+  yo: había agradado
+  tu: habías agradado
+  vos: habías agradado
+  ud: había agradado
+  nosotros: habíamos agradado
+  vosotros: habíais agradado
+  uds: habían agradado
+futuro-perfecto:
+  yo: habré agradado
+  tu: habrás agradado
+  vos: habrás agradado
+  ud: habrá agradado
+  nosotros: habremos agradado
+  vosotros: habréis agradado
+  uds: habrán agradado
+condicional-perfecto:
+  yo: habría agradado
+  tu: habrías agradado
+  vos: habrías agradado
+  ud: habría agradado
+  nosotros: habríamos agradado
+  vosotros: habríais agradado
+  uds: habrían agradado
+presente-subjuntivo:
+  yo: agrade
+  tu: agrades
+  vos: agrades
+  ud: agrade
+  nosotros: agrade
+  vosotros: agradéis
+  uds: agraden
+preterito-perfecto-subjuntivo:
+  yo: haya agradado
+  tu: hayas agradado
+  vos: hayas agradado
+  ud: haya agradado
+  nosotros: hayamos agradado
+  vosotros: hayáis agradado
+  uds: hayan agradado
+imperfecto-subjuntivo:
+  yo:
+    - agradara
+    - agradase
+  tu:
+    - agradaras
+    - agradares
+  vos:
+    - agradaras
+    - agradares
+  ud:
+    - agradara
+    - agradase
+  nosotros:
+    - agradáramos
+    - agradásemos
+  vosotros:
+    - agradarais
+    - agradares
+  uds:
+    - agradaran
+    - agradasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera agradado
+    - hubiese agradado
+  tu:
+    - hubieras agradado
+    - hubieses agradado
+  vos:
+    - hubieras agradado
+    - hubieses agradado
+  ud:
+    - hubiera agradado
+    - hubiese agradado
+  nosotros:
+    - hubiéramos agradado
+    - hubiésemos agradado
+  vosotros:
+    - hubierais agradado
+    - hubieseis agradado
+  uds:
+    - hubieran agradado
+    - hubiesen agradado
+imperativo:
+  tu: agrada
+  vos: agradá
+  ud: agrade
+  nosotros: agrade
+  vosotros: agradad
+  uds: agraden

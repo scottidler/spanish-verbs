@@ -1,0 +1,156 @@
+infinitivo: escribirse
+gerundio: escribiéndose
+participio-pasado: escrito
+
+presente-indicativo:
+  yo: me escribo
+  tu: te escribes
+  vos: te escribes
+  ud: se escribe
+  nosotros: nos escribimos
+  vosotros: os escribís
+  uds: se escriben
+
+preterito-perfecto-simple:
+  yo: me escribí
+  tu: te escribiste
+  vos: te escribiste
+  ud: se escribió
+  nosotros: nos escribimos
+  vosotros: os escribisteis
+  uds: se escribieron
+
+preterito-imperfecto:
+  yo: me escribía
+  tu: te escribías
+  vos: te escribías
+  ud: se escribía
+  nosotros: nos escribíamos
+  vosotros: os escribíais
+  uds: se escribían
+
+futuro-simple:
+  yo: me escribiré
+  tu: te escribirás
+  vos: te escribirás
+  ud: se escribirá
+  nosotros: nos escribiremos
+  vosotros: os escribiréis
+  uds: se escribirán
+
+condicional-simple:
+  yo: me escribiría
+  tu: te escribirías
+  vos: te escribirías
+  ud: se escribiría
+  nosotros: nos escribiríamos
+  vosotros: os escribiríais
+  uds: se escribirían
+
+presente-perfecto:
+  yo: me he escrito
+  tu: te has escrito
+  vos: te has escrito
+  ud: se ha escrito
+  nosotros: nos hemos escrito
+  vosotros: os habéis escrito
+  uds: se han escrito
+
+preterito-pluscuamperfecto:
+  yo: me había escrito
+  tu: te habías escrito
+  vos: te habías escrito
+  ud: se había escrito
+  nosotros: nos habíamos escrito
+  vosotros: os habíais escrito
+  uds: se habían escrito
+
+futuro-perfecto:
+  yo: me habré escrito
+  tu: te habrás escrito
+  vos: te habrás escrito
+  ud: se habrá escrito
+  nosotros: nos habremos escrito
+  vosotros: os habréis escrito
+  uds: se habrán escrito
+
+condicional-perfecto:
+  yo: me habría escrito
+  tu: te habrías escrito
+  vos: te habrías escrito
+  ud: se habría escrito
+  nosotros: nos habríamos escrito
+  vosotros: os habríais escrito
+  uds: se habrían escrito
+
+presente-subjuntivo:
+  yo: me escriba
+  tu: te escribas
+  vos: te escribas
+  ud: se escriba
+  nosotros: nos escribamos
+  vosotros: os escribáis
+  uds: se escriban
+
+preterito-perfecto-subjuntivo:
+  yo: me haya escrito
+  tu: te hayas escrito
+  vos: te hayas escrito
+  ud: se haya escrito
+  nosotros: nos hayamos escrito
+  vosotros: os hayáis escrito
+  uds: se hayan escrito
+
+imperfecto-subjuntivo:
+  yo:
+    - me escribiera
+    - me escribiese
+  tu:
+    - te escribieras
+    - te escribieses
+  vos:
+    - te escribieras
+    - te escribieses
+  ud:
+    - se escribiera
+    - se escribiese
+  nosotros:
+    - nos escribiéramos
+    - nos escribiésemos
+  vosotros:
+    - os escribierais
+    - os escribieseis
+  uds:
+    - se escribieran
+    - se escribiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera escrito
+    - me hubiese escrito
+  tu:
+    - te hubieras escrito
+    - te hubieses escrito
+  vos:
+    - te hubieras escrito
+    - te hubieses escrito
+  ud:
+    - se hubiera escrito
+    - se hubiese escrito
+  nosotros:
+    - nos hubiéramos escrito
+    - nos hubiésemos escrito
+  vosotros:
+    - os hubierais escrito
+    - os hubieseis escrito
+  uds:
+    - se hubieran escrito
+    - se hubiesen escrito
+
+imperativo:
+  tu: escribe
+  vos: escribí
+  ud: escriba
+  nosotros: escribámonos
+  vosotros: escribid
+  uds: escriban

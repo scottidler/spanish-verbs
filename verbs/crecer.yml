@@ -1,0 +1,142 @@
+infinitivo: crecer
+gerundio: creciendo
+participio-pasado: crecido
+presente-indicativo:
+  yo: crezco
+  tu: creces
+  vos: creces
+  ud: crece
+  nosotros: crecemos
+  vosotros: crecéis
+  uds: crecen
+preterito-perfecto-simple:
+  yo: crecí
+  tu: creciste
+  vos: creciste
+  ud: creció
+  nosotros: crecimos
+  vosotros: crecisteis
+  uds: crecieron
+preterito-imperfecto:
+  yo: crecía
+  tu: crecías
+  vos: crecías
+  ud: crecía
+  nosotros: crecíamos
+  vosotros: crecíais
+  uds: crecían
+futuro-simple:
+  yo: creceré
+  tu: crecerás
+  vos: crecerás
+  ud: crecerá
+  nosotros: creceremos
+  vosotros: creceréis
+  uds: crecerán
+condicional-simple:
+  yo: crecería
+  tu: crecerías
+  vos: crecerías
+  ud: crecería
+  nosotros: creceríamos
+  vosotros: creceríais
+  uds: crecerían
+presente-perfecto:
+  yo: he crecido
+  tu: has crecido
+  vos: has crecido
+  ud: ha crecido
+  nosotros: hemos crecido
+  vosotros: habéis crecido
+  uds: han crecido
+preterito-pluscuamperfecto:
+  yo: había crecido
+  tu: habías crecido
+  vos: habías crecido
+  ud: había crecido
+  nosotros: habíamos crecido
+  vosotros: habíais crecido
+  uds: habían crecido
+futuro-perfecto:
+  yo: habré crecido
+  tu: habrás crecido
+  vos: habrás crecido
+  ud: habrá crecido
+  nosotros: habremos crecido
+  vosotros: habréis crecido
+  uds: habrán crecido
+condicional-perfecto:
+  yo: habría crecido
+  tu: habrías crecido
+  vos: habrías crecido
+  ud: habría crecido
+  nosotros: habríamos crecido
+  vosotros: habríais crecido
+  uds: habrían crecido
+presente-subjuntivo:
+  yo: crezca
+  tu: crezcas
+  vos: crezcas
+  ud: crezca
+  nosotros: crezcamos
+  vosotros: crezcáis
+  uds: crezcan
+preterito-perfecto-subjuntivo:
+  yo: haya crecido
+  tu: hayas crecido
+  vos: hayas crecido
+  ud: haya crecido
+  nosotros: hayamos crecido
+  vosotros: hayáis crecido
+  uds: hayan crecido
+imperfecto-subjuntivo:
+  yo:
+    - creciera
+    - creciese
+  tu:
+    - crecieras
+    - crecieses
+  vos:
+    - crecieras
+    - crecieses
+  ud:
+    - creciera
+    - creciese
+  nosotros:
+    - creciéramos
+    - creciésemos
+  vosotros:
+    - crecierais
+    - crecieseis
+  uds:
+    - crecieran
+    - creciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera crecido
+    - hubiese crecido
+  tu:
+    - hubieras crecido
+    - hubieses crecido
+  vos:
+    - hubieras crecido
+    - hubieses crecido
+  ud:
+    - hubiera crecido
+    - hubiese crecido
+  nosotros:
+    - hubiéramos crecido
+    - hubiésemos crecido
+  vosotros:
+    - hubierais crecido
+    - hubieseis crecido
+  uds:
+    - hubieran crecido
+    - hubiesen crecido
+imperativo:
+  tu: crece
+  vos: crecé
+  ud: crezca
+  nosotros: crezcamos
+  vosotros: creced
+  uds: crezcan

@@ -1,0 +1,156 @@
+infinitivo: contenerse
+gerundio: conteniéndose
+participio-pasado: contenido
+
+presente-indicativo:
+  yo: me contengo
+  tu: te contienes
+  vos: te contienes
+  ud: se contiene
+  nosotros: nos contamos
+  vosotros: os contenéis
+  uds: se contienen
+
+preterito-perfecto-simple:
+  yo: me contuve
+  tu: te contuviste
+  vos: te contuviste
+  ud: se contuvo
+  nosotros: nos contuvimos
+  vosotros: os contuvisteis
+  uds: se contuvieron
+
+preterito-imperfecto:
+  yo: me contenía
+  tu: te contenías
+  vos: te contenías
+  ud: se contenía
+  nosotros: nos conteníamos
+  vosotros: os conteníais
+  uds: se contenían
+
+futuro-simple:
+  yo: me contendré
+  tu: te contendrás
+  vos: te contendrás
+  ud: se contendrá
+  nosotros: nos contendremos
+  vosotros: os contendréis
+  uds: se contendrán
+
+condicional-simple:
+  yo: me contaría
+  tu: te contarías
+  vos: te contarías
+  ud: se contaría
+  nosotros: nos contaríamos
+  vosotros: os contaríais
+  uds: se contarían
+
+presente-perfecto:
+  yo: me he contenido
+  tu: te has contenido
+  vos: te has contenido
+  ud: se ha contenido
+  nosotros: nos hemos contenido
+  vosotros: os habéis contenido
+  uds: se han contenido
+
+preterito-pluscuamperfecto:
+  yo: me había contenido
+  tu: te habías contenido
+  vos: te habías contenido
+  ud: se había contenido
+  nosotros: nos habíamos contenido
+  vosotros: os habíais contenido
+  uds: se habían contenido
+
+futuro-perfecto:
+  yo: me habré contenido
+  tu: te habrás contenido
+  vos: te habrás contenido
+  ud: se habrá contenido
+  nosotros: nos habremos contenido
+  vosotros: os habréis contenido
+  uds: se habrán contenido
+
+condicional-perfecto:
+  yo: me habría contenido
+  tu: te habrías contenido
+  vos: te habrías contenido
+  ud: se habría contenido
+  nosotros: nos habríamos contenido
+  vosotros: os habríais contenido
+  uds: se habrían contenido
+
+presente-subjuntivo:
+  yo: me contenga
+  tu: te contengas
+  vos: te contengas
+  ud: se contenga
+  nosotros: nos contengamos
+  vosotros: os contengáis
+  uds: se contengan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya contenido
+  tu: te hayas contenido
+  vos: te hayas contenido
+  ud: se haya contenido
+  nosotros: nos hayamos contenido
+  vosotros: os hayáis contenido
+  uds: se hayan contenido
+
+imperfecto-subjuntivo:
+  yo:
+    - me contuviera
+    - me contuviese
+  tu:
+    - te contuvieras
+    - te contuvieses
+  vos:
+    - te contuvieras
+    - te contuvieses
+  ud:
+    - se contuviera
+    - se contuviese
+  nosotros:
+    - nos contuviéramos
+    - nos contuviésemos
+  vosotros:
+    - os contuvierais
+    - os contuvieseis
+  uds:
+    - se contuvieran
+    - se contuviesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera contenido
+    - me hubiese contenido
+  tu:
+    - te hubieras contenido
+    - te hubieses contenido
+  vos:
+    - te hubieras contenido
+    - te hubieses contenido
+  ud:
+    - se hubiera contenido
+    - se hubiese contenido
+  nosotros:
+    - nos hubiéramos contenido
+    - nos hubiésemos contenido
+  vosotros:
+    - os hubierais contenido
+    - os hubieseis contenido
+  uds:
+    - se hubieran contenido
+    - se hubiesen contenido
+
+imperativo:
+  tu: contén
+  vos: contenete
+  ud: conténgase
+  nosotros: contengámonos
+  vosotros: contenéos
+  uds: conténganse

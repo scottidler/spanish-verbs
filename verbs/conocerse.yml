@@ -1,0 +1,142 @@
+infinitivo: conocerse
+gerundio: conociéndose
+participio-pasado: conocido
+presente-indicativo:
+  yo: me conozco
+  tu: te conoces
+  vos: te conoces
+  ud: se conoce
+  nosotros: nos conocemos
+  vosotros: os conocéis
+  uds: se conocen
+preterito-perfecto-simple:
+  yo: me conocí
+  tu: te conociste
+  vos: te conociste
+  ud: se conoció
+  nosotros: nos conocimos
+  vosotros: os conocisteis
+  uds: se conocieron
+preterito-imperfecto:
+  yo: me conocía
+  tu: te conocías
+  vos: te conocías
+  ud: se conocía
+  nosotros: nos conocíamos
+  vosotros: os conocíais
+  uds: se conocían
+futuro-simple:
+  yo: me conoceré
+  tu: te conocerás
+  vos: te conocerás
+  ud: se conocerá
+  nosotros: nos conoceremos
+  vosotros: os conoceréis
+  uds: se conocerán
+condicional-simple:
+  yo: me conocería
+  tu: te conocerías
+  vos: te conocerías
+  ud: se conocería
+  nosotros: nos conoceríamos
+  vosotros: os conoceríais
+  uds: se conocerían
+presente-perfecto:
+  yo: me he conocido
+  tu: te has conocido
+  vos: te has conocido
+  ud: se ha conocido
+  nosotros: nos hemos conocido
+  vosotros: os habéis conocido
+  uds: se han conocido
+preterito-pluscuamperfecto:
+  yo: me había conocido
+  tu: te habías conocido
+  vos: te habías conocido
+  ud: se había conocido
+  nosotros: nos habíamos conocido
+  vosotros: os habíais conocido
+  uds: se habían conocido
+futuro-perfecto:
+  yo: me habré conocido
+  tu: te habrás conocido
+  vos: te habrás conocido
+  ud: se habrá conocido
+  nosotros: nos habremos conocido
+  vosotros: os habréis conocido
+  uds: se habrán conocido
+condicional-perfecto:
+  yo: me habría conocido
+  tu: te habrías conocido
+  vos: te habrías conocido
+  ud: se habría conocido
+  nosotros: nos habríamos conocido
+  vosotros: os habríais conocido
+  uds: se habrían conocido
+presente-subjuntivo:
+  yo: me conozca
+  tu: te conozcas
+  vos: te conozcas
+  ud: se conozca
+  nosotros: nos conozcamos
+  vosotros: os conozcáis
+  uds: se conozcan
+preterito-perfecto-subjuntivo:
+  yo: me haya conocido
+  tu: te hayas conocido
+  vos: te hayas conocido
+  ud: se haya conocido
+  nosotros: nos hayamos conocido
+  vosotros: os hayáis conocido
+  uds: se hayan conocido
+imperfecto-subjuntivo:
+  yo:
+    - me conociera
+    - me conociese
+  tu:
+    - te conocieras
+    - te conocieses
+  vos:
+    - te conocieras
+    - te conocieses
+  ud:
+    - se conociera
+    - se conociese
+  nosotros:
+    - nos conociéramos
+    - nos conociésemos
+  vosotros:
+    - os conocierais
+    - os conocieseis
+  uds:
+    - se conocieran
+    - se conociesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera conocido
+    - me hubiese conocido
+  tu:
+    - te hubieras conocido
+    - te hubieses conocido
+  vos:
+    - te hubieras conocido
+    - te hubieses conocido
+  ud:
+    - se hubiera conocido
+    - se hubiese conocido
+  nosotros:
+    - nos hubiéramos conocido
+    - nos hubiésemos conocido
+  vosotros:
+    - os hubierais conocido
+    - os hubieseis conocido
+  uds:
+    - se hubieran conocido
+    - se hubiesen conocido
+imperativo:
+  tu: conócete
+  vos: conócete
+  ud: conózcase
+  nosotros: conozcámonos
+  vosotros: conoced
+  uds: conózcanse

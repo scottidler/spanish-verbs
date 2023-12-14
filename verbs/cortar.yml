@@ -1,0 +1,142 @@
+infinitivo: cortar
+gerundio: cortando
+participio-pasado: cortado
+presente-indicativo:
+  yo: corto
+  tu: cortas
+  vos: cortas
+  ud: corta
+  nosotros: cortamos
+  vosotros: cortáis
+  uds: cortan
+preterito-perfecto-simple:
+  yo: corté
+  tu: cortaste
+  vos: cortaste
+  ud: cortó
+  nosotros: cortamos
+  vosotros: cortasteis
+  uds: cortaron
+preterito-imperfecto:
+  yo: cortaba
+  tu: cortabas
+  vos: cortabas
+  ud: cortaba
+  nosotros: cortábamos
+  vosotros: cortabais
+  uds: cortaban
+futuro-simple:
+  yo: cortaré
+  tu: cortarás
+  vos: cortarás
+  ud: cortará
+  nosotros: cortaremos
+  vosotros: cortaréis
+  uds: cortarán
+condicional-simple:
+  yo: cortaría
+  tu: cortarías
+  vos: cortarías
+  ud: cortaría
+  nosotros: cortaríamos
+  vosotros: cortaríais
+  uds: cortarían
+presente-perfecto:
+  yo: he cortado
+  tu: has cortado
+  vos: has cortado
+  ud: ha cortado
+  nosotros: hemos cortado
+  vosotros: habéis cortado
+  uds: han cortado
+preterito-pluscuamperfecto:
+  yo: había cortado
+  tu: habías cortado
+  vos: habías cortado
+  ud: había cortado
+  nosotros: habíamos cortado
+  vosotros: habíais cortado
+  uds: habían cortado
+futuro-perfecto:
+  yo: habré cortado
+  tu: habrás cortado
+  vos: habrás cortado
+  ud: habrá cortado
+  nosotros: habremos cortado
+  vosotros: habréis cortado
+  uds: habrán cortado
+condicional-perfecto:
+  yo: habría cortado
+  tu: habrías cortado
+  vos: habrías cortado
+  ud: habría cortado
+  nosotros: habríamos cortado
+  vosotros: habríais cortado
+  uds: habrían cortado
+presente-subjuntivo:
+  yo: corte
+  tu: cortes
+  vos: cortes
+  ud: corte
+  nosotros: cortemos
+  vosotros: cortéis
+  uds: corten
+preterito-perfecto-subjuntivo:
+  yo: haya cortado
+  tu: hayas cortado
+  vos: hayas cortado
+  ud: haya cortado
+  nosotros: hayamos cortado
+  vosotros: hayáis cortado
+  uds: hayan cortado
+imperfecto-subjuntivo:
+  yo:
+    - cortara
+    - cortase
+  tu:
+    - cortaras
+    - cortases
+  vos:
+    - cortaras
+    - cortases
+  ud:
+    - cortara
+    - cortase
+  nosotros:
+    - cortáramos
+    - cortásemos
+  vosotros:
+    - cortarais
+    - cortaseis
+  uds:
+    - cortaran
+    - cortasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera cortado
+    - hubiese cortado
+  tu:
+    - hubieras cortado
+    - hubieses cortado
+  vos:
+    - hubieras cortado
+    - hubieses cortado
+  ud:
+    - hubiera cortado
+    - hubiese cortado
+  nosotros:
+    - hubiéramos cortado
+    - hubiésemos cortado
+  vosotros:
+    - hubierais cortado
+    - hubieseis cortado
+  uds:
+    - hubieran cortado
+    - hubiesen cortado
+imperativo:
+  tu: corta
+  vos: cortá
+  ud: corte
+  nosotros: cortemos
+  vosotros: cortad
+  uds: corten

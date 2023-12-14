@@ -1,0 +1,142 @@
+infinitivo: asar
+gerundio: asando
+participio-pasado: asado
+presente-indicativo:
+  yo: aso
+  tu: asas
+  vos: asás
+  ud: asa
+  nosotros: asamos
+  vosotros: asáis
+  uds: asan
+preterito-perfecto-simple:
+  yo: asé
+  tu: asaste
+  vos: asaste
+  ud: asó
+  nosotros: asamos
+  vosotros: asasteis
+  uds: asaron
+preterito-imperfecto:
+  yo: asaba
+  tu: asabas
+  vos: asabas
+  ud: asaba
+  nosotros: asábamos
+  vosotros: asabais
+  uds: asaban
+futuro-simple:
+  yo: asaré
+  tu: asarás
+  vos: asarás
+  ud: asará
+  nosotros: asaremos
+  vosotros: asaréis
+  uds: asarán
+condicional-simple:
+  yo: asaría
+  tu: asarías
+  vos: asarías
+  ud: asaría
+  nosotros: asaríamos
+  vosotros: asaríais
+  uds: asarían
+presente-perfecto:
+  yo: he asado
+  tu: has asado
+  vos: has asado
+  ud: ha asado
+  nosotros: hemos asado
+  vosotros: habéis asado
+  uds: han asado
+preterito-pluscuamperfecto:
+  yo: había asado
+  tu: habías asado
+  vos: habías asado
+  ud: había asado
+  nosotros: habíamos asado
+  vosotros: habíais asado
+  uds: habían asado
+futuro-perfecto:
+  yo: habré asado
+  tu: habrás asado
+  vos: habrás asado
+  ud: habrá asado
+  nosotros: habremos asado
+  vosotros: habréis asado
+  uds: habrán asado
+condicional-perfecto:
+  yo: habría asado
+  tu: habrías asado
+  vos: habrías asado
+  ud: habría asado
+  nosotros: habríamos asado
+  vosotros: habríais asado
+  uds: habrían asado
+presente-subjuntivo:
+  yo: ase
+  tu: ases
+  vos: ases
+  ud: ase
+  nosotros: asemos
+  vosotros: aséis
+  uds: asen
+preterito-perfecto-subjuntivo:
+  yo: haya asado
+  tu: hayas asado
+  vos: hayas asado
+  ud: haya asado
+  nosotros: hayamos asado
+  vosotros: hayáis asado
+  uds: hayan asado
+imperfecto-subjuntivo:
+  yo:
+    - asara
+    - asase
+  tu:
+    - asaras
+    - asases
+  vos:
+    - asaras
+    - asases
+  ud:
+    - asara
+    - asase
+  nosotros:
+    - asáramos
+    - asásemos
+  vosotros:
+    - asarais
+    - asaseis
+  uds:
+    - asaran
+    - asasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asado
+    - hubiese asado
+  tu:
+    - hubieras asado
+    - hubieses asado
+  vos:
+    - hubieras asado
+    - hubieses asado
+  ud:
+    - hubiera asado
+    - hubiese asado
+  nosotros:
+    - hubiéramos asado
+    - hubiésemos asado
+  vosotros:
+    - hubierais asado
+    - hubieseis asado
+  uds:
+    - hubieran asado
+    - hubiesen asado
+imperativo:
+  tu: asa
+  vos: asá
+  ud: ase
+  nosotros: asemos
+  vosotros: asad
+  uds: asen

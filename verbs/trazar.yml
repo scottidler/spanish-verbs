@@ -1,0 +1,142 @@
+infinitivo: trazar
+gerundio: trazando
+participio-pasado: trazado
+presente-indicativo:
+  yo: trazo
+  tu: trazas
+  vos: trazas
+  ud: traza
+  nosotros: trazamos
+  vosotros: trazáis
+  uds: trazan
+preterito-perfecto-simple:
+  yo: tracé
+  tu: trazaste
+  vos: trazaste
+  ud: trazó
+  nosotros: trazamos
+  vosotros: trazasteis
+  uds: trazaron
+preterito-imperfecto:
+  yo: trazaba
+  tu: trazabas
+  vos: trazabas
+  ud: trazaba
+  nosotros: trazábamos
+  vosotros: trazabais
+  uds: trazaban
+futuro-simple:
+  yo: trazaré
+  tu: trazarás
+  vos: trazarás
+  ud: trazará
+  nosotros: trazaremos
+  vosotros: trazaréis
+  uds: trazarán
+condicional-simple:
+  yo: trazaría
+  tu: trazarías
+  vos: trazarías
+  ud: trazaría
+  nosotros: trazaríamos
+  vosotros: trazaríais
+  uds: trazarían
+presente-perfecto:
+  yo: he trazado
+  tu: has trazado
+  vos: has trazado
+  ud: ha trazado
+  nosotros: hemos trazado
+  vosotros: habéis trazado
+  uds: han trazado
+preterito-pluscuamperfecto:
+  yo: había trazado
+  tu: habías trazado
+  vos: habías trazado
+  ud: había trazado
+  nosotros: habíamos trazado
+  vosotros: habíais trazado
+  uds: habían trazado
+futuro-perfecto:
+  yo: habré trazado
+  tu: habrás trazado
+  vos: habrás trazado
+  ud: habrá trazado
+  nosotros: habremos trazado
+  vosotros: habréis trazado
+  uds: habrán trazado
+condicional-perfecto:
+  yo: habría trazado
+  tu: habrías trazado
+  vos: habrías trazado
+  ud: habría trazado
+  nosotros: habríamos trazado
+  vosotros: habríais trazado
+  uds: habrían trazado
+presente-subjuntivo:
+  yo: trace
+  tu: traces
+  vos: traces
+  ud: trace
+  nosotros: tracemos
+  vosotros: tracéis
+  uds: tracen
+preterito-perfecto-subjuntivo:
+  yo: haya trazado
+  tu: hayas trazado
+  vos: hayas trazado
+  ud: haya trazado
+  nosotros: hayamos trazado
+  vosotros: hayáis trazado
+  uds: hayan trazado
+imperfecto-subjuntivo:
+  yo:
+    - trazara
+    - trazase
+  tu:
+    - trazaras
+    - trazases
+  vos:
+    - trazaras
+    - trazases
+  ud:
+    - trazara
+    - trazase
+  nosotros:
+    - trazáramos
+    - trazásemos
+  vosotros:
+    - trazarais
+    - trazaseis
+  uds:
+    - trazaran
+    - trazasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera trazado
+    - hubiese trazado
+  tu:
+    - hubieras trazado
+    - hubieses trazado
+  vos:
+    - hubieras trazado
+    - hubieses trazado
+  ud:
+    - hubiera trazado
+    - hubiese trazado
+  nosotros:
+    - hubiéramos trazado
+    - hubiésemos trazado
+  vosotros:
+    - hubierais trazado
+    - hubieseis trazado
+  uds:
+    - hubieran trazado
+    - hubiesen trazado
+imperativo:
+  tu: traza
+  vos: trazá
+  ud: trace
+  nosotros: tracemos
+  vosotros: trazad
+  uds: tracen

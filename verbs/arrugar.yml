@@ -1,0 +1,142 @@
+infinitivo: arrugar
+gerundio: arrugando
+participio-pasado: arrugado
+presente-indicativo:
+  yo: arrugo
+  tu: arrugas
+  vos: arrugas
+  ud: arruga
+  nosotros: arrugamos
+  vosotros: arrugáis
+  uds: arrugan
+preterito-perfecto-simple:
+  yo: arrugué
+  tu: arrugaste
+  vos: arrugaste
+  ud: arrugó
+  nosotros: arrugamos
+  vosotros: arrugasteis
+  uds: arrugaron
+preterito-imperfecto:
+  yo: arrugaba
+  tu: arrugabas
+  vos: arrugabas
+  ud: arrugaba
+  nosotros: arrugábamos
+  vosotros: arrugabais
+  uds: arrugaban
+futuro-simple:
+  yo: arrugaré
+  tu: arrugarás
+  vos: arrugarás
+  ud: arrugará
+  nosotros: arrugaremos
+  vosotros: arrugaréis
+  uds: arrugarán
+condicional-simple:
+  yo: arrugaría
+  tu: arrugarías
+  vos: arrugarías
+  ud: arrugaría
+  nosotros: arrugaríamos
+  vosotros: arrugaríais
+  uds: arrugarían
+presente-perfecto:
+  yo: he arrugado
+  tu: has arrugado
+  vos: has arrugado
+  ud: ha arrugado
+  nosotros: hemos arrugado
+  vosotros: habéis arrugado
+  uds: han arrugado
+preterito-pluscuamperfecto:
+  yo: había arrugado
+  tu: habías arrugado
+  vos: habías arrugado
+  ud: había arrugado
+  nosotros: habíamos arrugado
+  vosotros: habíais arrugado
+  uds: habían arrugado
+futuro-perfecto:
+  yo: habré arrugado
+  tu: habrás arrugado
+  vos: habrás arrugado
+  ud: habrá arrugado
+  nosotros: habremos arrugado
+  vosotros: habréis arrugado
+  uds: habrán arrugado
+condicional-perfecto:
+  yo: habría arrugado
+  tu: habrías arrugado
+  vos: habrías arrugado
+  ud: habría arrugado
+  nosotros: habríamos arrugado
+  vosotros: habríais arrugado
+  uds: habrían arrugado
+presente-subjuntivo:
+  yo: arrugue
+  tu: arrugues
+  vos: arrugues
+  ud: arrugue
+  nosotros: arruguemos
+  vosotros: arruguéis
+  uds: arruguen
+preterito-perfecto-subjuntivo:
+  yo: haya arrugado
+  tu: hayas arrugado
+  vos: hayas arrugado
+  ud: haya arrugado
+  nosotros: hayamos arrugado
+  vosotros: hayáis arrugado
+  uds: hayan arrugado
+imperfecto-subjuntivo:
+  yo:
+    - arrugara
+    - arrugase
+  tu:
+    - arrugaras
+    - arrugases
+  vos:
+    - arrugaras
+    - arrugases
+  ud:
+    - arrugara
+    - arrugase
+  nosotros:
+    - arrugáramos
+    - arrugásemos
+  vosotros:
+    - arrugarais
+    - arrugaseis
+  uds:
+    - arrugaran
+    - arrugasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arrugado
+    - hubiese arrugado
+  tu:
+    - hubieras arrugado
+    - hubieses arrugado
+  vos:
+    - hubieras arrugado
+    - hubieses arrugado
+  ud:
+    - hubiera arrugado
+    - hubiese arrugado
+  nosotros:
+    - hubiéramos arrugado
+    - hubiésemos arrugado
+  vosotros:
+    - hubierais arrugado
+    - hubieseis arrugado
+  uds:
+    - hubieran arrugado
+    - hubiesen arrugado
+imperativo:
+  tu: arruga
+  vos: arrugá
+  ud: arrugue
+  nosotros: arruguemos
+  vosotros: arrugad
+  uds: arruguen

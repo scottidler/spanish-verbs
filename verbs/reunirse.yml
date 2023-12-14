@@ -1,0 +1,142 @@
+infinitivo: reunirse
+gerundio: reuniéndose
+participio-pasado: reunido
+presente-indicativo:
+  yo: me reúno
+  tu: te reúnes
+  vos: te reúnes
+  ud: se reúne
+  nosotros: nos reunimos
+  vosotros: os reunís
+  uds: se reúnen
+preterito-perfecto-simple:
+  yo: me reuní
+  tu: te reuniste
+  vos: te reuniste
+  ud: se reunió
+  nosotros: nos reunimos
+  vosotros: os reunisteis
+  uds: se reunieron
+preterito-imperfecto:
+  yo: me reunía
+  tu: te reunías
+  vos: te reunías
+  ud: se reunía
+  nosotros: nos reuníamos
+  vosotros: os reuníais
+  uds: se reunían
+futuro-simple:
+  yo: me reuniré
+  tu: te reunirás
+  vos: te reunirás
+  ud: se reunirá
+  nosotros: nos reuniremos
+  vosotros: os reuniréis
+  uds: se reunirán
+condicional-simple:
+  yo: me reuniría
+  tu: te reunirías
+  vos: te reunirías
+  ud: se reuniría
+  nosotros: nos reuniríamos
+  vosotros: os reuniríais
+  uds: se reunirían
+presente-perfecto:
+  yo: me he reunido
+  tu: te has reunido
+  vos: te has reunido
+  ud: se ha reunido
+  nosotros: nos hemos reunido
+  vosotros: os habéis reunido
+  uds: se han reunido
+preterito-pluscuamperfecto:
+  yo: me había reunido
+  tu: te habías reunido
+  vos: te habías reunido
+  ud: se había reunido
+  nosotros: nos habíamos reunido
+  vosotros: os habíais reunido
+  uds: se habían reunido
+futuro-perfecto:
+  yo: me habré reunido
+  tu: te habrás reunido
+  vos: te habrás reunido
+  ud: se habrá reunido
+  nosotros: nos habremos reunido
+  vosotros: os habréis reunido
+  uds: se habrán reunido
+condicional-perfecto:
+  yo: me habría reunido
+  tu: te habrías reunido
+  vos: te habrías reunido
+  ud: se habría reunido
+  nosotros: nos habríamos reunido
+  vosotros: os habríais reunido
+  uds: se habrían reunido
+presente-subjuntivo:
+  yo: me reúna
+  tu: te reúnas
+  vos: te reúnas
+  ud: se reúna
+  nosotros: nos reunamos
+  vosotros: os reunáis
+  uds: se reúnan
+preterito-perfecto-subjuntivo:
+  yo: me haya reunido
+  tu: te hayas reunido
+  vos: te hayas reunido
+  ud: se haya reunido
+  nosotros: nos hayamos reunido
+  vosotros: os hayáis reunido
+  uds: se hayan reunido
+imperfecto-subjuntivo:
+  yo:
+    - me reuniera
+    - me reuniese
+  tu:
+    - te reunieras
+    - te reunieses
+  vos:
+    - te reunieras
+    - te reunieses
+  ud:
+    - se reuniera
+    - se reuniese
+  nosotros:
+    - nos reuniéramos
+    - nos reuniésemos
+  vosotros:
+    - os reuniérais
+    - os reunieseis
+  uds:
+    - se reunieran
+    - se reuniesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera reunido
+    - me hubiese reunido
+  tu:
+    - te hubieras reunido
+    - te hubieses reunido
+  vos:
+    - te hubieras reunido
+    - te hubieses reunido
+  ud:
+    - se hubiera reunido
+    - se hubiese reunido
+  nosotros:
+    - nos hubiéramos reunido
+    - nos hubiésemos reunido
+  vosotros:
+    - os hubierais reunido
+    - os hubieseis reunido
+  uds:
+    - se hubieran reunido
+    - se hubiesen reunido
+imperativo:
+  tu: reúnete
+  vos: reúnite
+  ud: reúna
+  nosotros: reunámonos
+  vosotros: reuníos
+  uds: reúnan

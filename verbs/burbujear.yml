@@ -1,0 +1,142 @@
+infinitivo: burbujear
+gerundio: burbujeando
+participio-pasado: burbujeado
+presente-indicativo:
+  yo: burbujeo
+  tu: burbujeas
+  vos: burbujeas
+  ud: burbujea
+  nosotros: burbujeamos
+  vosotros: burbujeáis
+  uds: burbujean
+preterito-perfecto-simple:
+  yo: burbujeé
+  tu: burbujeaste
+  vos: burbujeaste
+  ud: burbujeó
+  nosotros: burbujeamos
+  vosotros: burbujeasteis
+  uds: burbujearon
+preterito-imperfecto:
+  yo: burbujeaba
+  tu: burbujeabas
+  vos: burbujeabas
+  ud: burbujeaba
+  nosotros: burbujeábamos
+  vosotros: burbujeabais
+  uds: burbujeaban
+futuro-simple:
+  yo: burbujearé
+  tu: burbujearás
+  vos: burbujearás
+  ud: burbujeará
+  nosotros: burbujearemos
+  vosotros: burbujearéis
+  uds: burbujearán
+condicional-simple:
+  yo: burbujearía
+  tu: burbujearías
+  vos: burbujearías
+  ud: burbujearía
+  nosotros: burbujearíamos
+  vosotros: burbujearíais
+  uds: burbujearían
+presente-perfecto:
+  yo: he burbujeado
+  tu: has burbujeado
+  vos: has burbujeado
+  ud: ha burbujeado
+  nosotros: hemos burbujeado
+  vosotros: habéis burbujeado
+  uds: han burbujeado
+preterito-pluscuamperfecto:
+  yo: había burbujeado
+  tu: habías burbujeado
+  vos: habías burbujeado
+  ud: había burbujeado
+  nosotros: habíamos burbujeado
+  vosotros: habíais burbujeado
+  uds: habían burbujeado
+futuro-perfecto:
+  yo: habré burbujeado
+  tu: habrás burbujeado
+  vos: habrás burbujeado
+  ud: habrá burbujeado
+  nosotros: habremos burbujeado
+  vosotros: habréis burbujeado
+  uds: habrán burbujeado
+condicional-perfecto:
+  yo: habría burbujeado
+  tu: habrías burbujeado
+  vos: habrías burbujeado
+  ud: habría burbujeado
+  nosotros: habríamos burbujeado
+  vosotros: habríais burbujeado
+  uds: habrían burbujeado
+presente-subjuntivo:
+  yo: burbujee
+  tu: burbujees
+  vos: burbujees
+  ud: burbujee
+  nosotros: burbujemos
+  vosotros: burbujéis
+  uds: burbujen
+preterito-perfecto-subjuntivo:
+  yo: haya burbujeado
+  tu: hayas burbujeado
+  vos: hayas burbujeado
+  ud: haya burbujeado
+  nosotros: hayamos burbujeado
+  vosotros: hayáis burbujeado
+  uds: hayan burbujeado
+imperfecto-subjuntivo:
+  yo:
+    - burbujebara
+    - burbujebase
+  tu:
+    - burbujebaras
+    - burbujebases
+  vos:
+    - burbujebaras
+    - burbujebases
+  ud:
+    - burbujebara
+    - burbujebase
+  nosotros:
+    - burbujebáramos
+    - burbujebásemos
+  vosotros:
+    - burbujebarais
+    - burbujebaseis
+  uds:
+    - burbujebaran
+    - burbujebasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera burbujeado
+    - hubiese burbujeado
+  tu:
+    - hubieras burbujeado
+    - hubieses burbujeado
+  vos:
+    - hubieras burbujeado
+    - hubieses burbujeado
+  ud:
+    - hubiera burbujeado
+    - hubiese burbujeado
+  nosotros:
+    - hubiéramos burbujeado
+    - hubiésemos burbujeado
+  vosotros:
+    - hubierais burbujeado
+    - hubieseis burbujeado
+  uds:
+    - hubieran burbujeado
+    - hubiesen burbujeado
+imperativo:
+  tu: burbujea
+  vos: burbujeá
+  ud: burbujee
+  nosotros: burbujemos
+  vosotros: burbujead
+  uds: burbujen

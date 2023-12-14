@@ -1,0 +1,156 @@
+infinitivo: protegerse
+gerundio: protegiéndose
+participio-pasado: protegido
+
+presente-indicativo:
+  yo: me protejo
+  tu: te proteges
+  vos: te proteges
+  ud: se protege
+  nosotros: nos protegemos
+  vosotros: os protegéis
+  uds: se protegen
+
+preterito-perfecto-simple:
+  yo: me protegí
+  tu: te protegiste
+  vos: te protegiste
+  ud: se protegió
+  nosotros: nos protegimos
+  vosotros: os protegisteis
+  uds: se protegieron
+
+preterito-imperfecto:
+  yo: me protegía
+  tu: te protegías
+  vos: te protegías
+  ud: se protegía
+  nosotros: nos protegíamos
+  vosotros: os protegíais
+  uds: se protegían
+
+futuro-simple:
+  yo: me protegeré
+  tu: te protegerás
+  vos: te protegerás
+  ud: se protegerá
+  nosotros: nos protegeremos
+  vosotros: os protegeréis
+  uds: se protegerán
+
+condicional-simple:
+  yo: me protegería
+  tu: te protegerías
+  vos: te protegerías
+  ud: se protegería
+  nosotros: nos protegeríamos
+  vosotros: os protegeríais
+  uds: se protegerían
+
+presente-perfecto:
+  yo: me he protegido
+  tu: te has protegido
+  vos: te has protegido
+  ud: se ha protegido
+  nosotros: nos hemos protegido
+  vosotros: os habéis protegido
+  uds: se han protegido
+
+preterito-pluscuamperfecto:
+  yo: me había protegido
+  tu: te habías protegido
+  vos: te habías protegido
+  ud: se había protegido
+  nosotros: nos habíamos protegido
+  vosotros: os habíais protegido
+  uds: se habían protegido
+
+futuro-perfecto:
+  yo: me habré protegido
+  tu: te habrás protegido
+  vos: te habrás protegido
+  ud: se habrá protegido
+  nosotros: nos habremos protegido
+  vosotros: os habréis protegido
+  uds: se habrán protegido
+
+condicional-perfecto:
+  yo: me habría protegido
+  tu: te habrías protegido
+  vos: te habrías protegido
+  ud: se habría protegido
+  nosotros: nos habríamos protegido
+  vosotros: os habríais protegido
+  uds: se habrían protegido
+
+presente-subjuntivo:
+  yo: me proteja
+  tu: te protejas
+  vos: te protejas
+  ud: se proteja
+  nosotros: nos protejamos
+  vosotros: os protejáis
+  uds: se protejan
+
+preterito-perfecto-subjuntivo:
+  yo: me haya protegido
+  tu: te hayas protegido
+  vos: te hayas protegido
+  ud: se haya protegido
+  nosotros: nos hayamos protegido
+  vosotros: os hayáis protegido
+  uds: se hayan protegido
+
+imperfecto-subjuntivo:
+  yo:
+    - me protegiera
+    - me protegiese
+  tu:
+    - te protegieras
+    - te protegieses
+  vos:
+    - te protegieras
+    - te protegieses
+  ud:
+    - se protegiera
+    - se protegiese
+  nosotros:
+    - nos protegiéramos
+    - nos protegiésemos
+  vosotros:
+    - os protegierais
+    - os protegieseis
+  uds:
+    - se protegieran
+    - se protegiesen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera protegido
+    - me hubiese protegido
+  tu:
+    - te hubieras protegido
+    - te hubieses protegido
+  vos:
+    - te hubieras protegido
+    - te hubieses protegido
+  ud:
+    - se hubiera protegido
+    - se hubiese protegido
+  nosotros:
+    - nos hubiéramos protegido
+    - nos hubiésemos protegido
+  vosotros:
+    - os hubierais protegido
+    - os hubieseis protegido
+  uds:
+    - se hubieran protegido
+    - se hubiesen protegido
+
+imperativo:
+  tu: protégete
+  vos: protegete
+  ud: protéjase
+  nosotros: protejámonos
+  vosotros: protegeos
+  uds: protéjanse

@@ -1,0 +1,142 @@
+infinitivo: integrar
+gerundio: integrando
+participio-pasado: integrado
+presente-indicativo:
+  yo: integro
+  tu: integras
+  vos: integrás
+  ud: integra
+  nosotros: integramos
+  vosotros: integráis
+  uds: integran
+preterito-perfecto-simple:
+  yo: integré
+  tu: integraste
+  vos: integraste
+  ud: integró
+  nosotros: integramos
+  vosotros: integrasteis
+  uds: integraron
+preterito-imperfecto:
+  yo: integraba
+  tu: integrabas
+  vos: integrabas
+  ud: integraba
+  nosotros: integrábamos
+  vosotros: integrabais
+  uds: integraban
+futuro-simple:
+  yo: integraré
+  tu: integrarás
+  vos: integrarás
+  ud: integrará
+  nosotros: integraremos
+  vosotros: integraréis
+  uds: integrarán
+condicional-simple:
+  yo: integraría
+  tu: integrarías
+  vos: integrarías
+  ud: integraría
+  nosotros: integraríamos
+  vosotros: integraríais
+  uds: integrarían
+presente-perfecto:
+  yo: he integrado
+  tu: has integrado
+  vos: has integrado
+  ud: ha integrado
+  nosotros: hemos integrado
+  vosotros: habéis integrado
+  uds: han integrado
+preterito-pluscuamperfecto:
+  yo: había integrado
+  tu: habías integrado
+  vos: habías integrado
+  ud: había integrado
+  nosotros: habíamos integrado
+  vosotros: habíais integrado
+  uds: habían integrado
+futuro-perfecto:
+  yo: habré integrado
+  tu: habrás integrado
+  vos: habrás integrado
+  ud: habrá integrado
+  nosotros: habremos integrado
+  vosotros: habréis integrado
+  uds: habrán integrado
+condicional-perfecto:
+  yo: habría integrado
+  tu: habrías integrado
+  vos: habrías integrado
+  ud: habría integrado
+  nosotros: habríamos integrado
+  vosotros: habríais integrado
+  uds: habrían integrado
+presente-subjuntivo:
+  yo: integre
+  tu: integres
+  vos: integres
+  ud: integre
+  nosotros: integremos
+  vosotros: integréis
+  uds: integren
+preterito-perfecto-subjuntivo:
+  yo: haya integrado
+  tu: hayas integrado
+  vos: hayas integrado
+  ud: haya integrado
+  nosotros: hayamos integrado
+  vosotros: hayáis integrado
+  uds: hayan integrado
+imperfecto-subjuntivo:
+  yo:
+    - integrara
+    - integrase
+  tu:
+    - integraras
+    - integrases
+  vos:
+    - integraras
+    - integrases
+  ud:
+    - integrara
+    - integrase
+  nosotros:
+    - integráramos
+    - integrásemos
+  vosotros:
+    - integrarais
+    - integraseis
+  uds:
+    - integraran
+    - integrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera integrado
+    - hubiese integrado
+  tu:
+    - hubieras integrado
+    - hubieses integrado
+  vos:
+    - hubieras integrado
+    - hubieses integrado
+  ud:
+    - hubiera integrado
+    - hubiese integrado
+  nosotros:
+    - hubiéramos integrado
+    - hubiésemos integrado
+  vosotros:
+    - hubierais integrado
+    - hubieseis integrado
+  uds:
+    - hubieran integrado
+    - hubiesen integrado
+imperativo:
+  tu: integra
+  vos: integrá
+  ud: integre
+  nosotros: integremos
+  vosotros: integrad
+  uds: integren

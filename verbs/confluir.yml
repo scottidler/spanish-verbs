@@ -1,0 +1,142 @@
+infinitivo: confluir
+gerundio: confluyendo
+participio-pasado: confluido
+presente-indicativo:
+  yo: confluyo
+  tu: confluyes
+  vos: confluis
+  ud: confluye
+  nosotros: confluimos
+  vosotros: confluis
+  uds: confluyen
+preterito-perfecto-simple:
+  yo: confluí
+  tu: confluyiste
+  vos: confluyiste
+  ud: confluyó
+  nosotros: confluimos
+  vosotros: confluisteis
+  uds: confluyeron
+preterito-imperfecto:
+  yo: confluía
+  tu: confluías
+  vos: confluías
+  ud: confluía
+  nosotros: confluíamos
+  vosotros: confluíais
+  uds: confluían
+futuro-simple:
+  yo: confluiré
+  tu: confluirás
+  vos: confluirás
+  ud: confluirá
+  nosotros: confluiremos
+  vosotros: confluiréis
+  uds: confluirán
+condicional-simple:
+  yo: confluiría
+  tu: confluirías
+  vos: confluirías
+  ud: confluiría
+  nosotros: confluiríamos
+  vosotros: confluiríais
+  uds: confluirían
+presente-perfecto:
+  yo: he confluido
+  tu: has confluido
+  vos: has confluido
+  ud: ha confluido
+  nosotros: hemos confluido
+  vosotros: habéis confluido
+  uds: han confluido
+preterito-pluscuamperfecto:
+  yo: había confluido
+  tu: habías confluido
+  vos: habías confluido
+  ud: había confluido
+  nosotros: habíamos confluido
+  vosotros: habíais confluido
+  uds: habían confluido
+futuro-perfecto:
+  yo: habré confluido
+  tu: habrás confluido
+  vos: habrás confluido
+  ud: habrá confluido
+  nosotros: habremos confluido
+  vosotros: habréis confluido
+  uds: habrán confluido
+condicional-perfecto:
+  yo: habría confluido
+  tu: habrías confluido
+  vos: habrías confluido
+  ud: habría confluido
+  nosotros: habríamos confluido
+  vosotros: habríais confluido
+  uds: habrían confluido
+presente-subjuntivo:
+  yo: confluya
+  tu: confluyas
+  vos: confluyas
+  ud: confluya
+  nosotros: confluyamos
+  vosotros: confluyáis
+  uds: confluyan
+preterito-perfecto-subjuntivo:
+  yo: haya confluido
+  tu: hayas confluido
+  vos: hayas confluido
+  ud: haya confluido
+  nosotros: hayamos confluido
+  vosotros: hayáis confluido
+  uds: hayan confluido
+imperfecto-subjuntivo:
+  yo:
+    - confluyera
+    - confluyese
+  tu:
+    - confluyeras
+    - confluyeses
+  vos:
+    - confluyeras
+    - confluyeses
+  ud:
+    - confluyera
+    - confluyese
+  nosotros:
+    - confluyéramos
+    - confluyésemos
+  vosotros:
+    - confluyerais
+    - confluyeseis
+  uds:
+    - confluyeran
+    - confluyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera confluido
+    - hubiese confluido
+  tu:
+    - hubieras confluido
+    - hubieses confluido
+  vos:
+    - hubieras confluido
+    - hubieses confluido
+  ud:
+    - hubiera confluido
+    - hubiese confluido
+  nosotros:
+    - hubiéramos confluido
+    - hubiésemos confluido
+  vosotros:
+    - hubierais confluido
+    - hubieseis confluido
+  uds:
+    - hubieran confluido
+    - hubiesen confluido
+imperativo:
+  tu: confluye
+  vos: confluí
+  ud: confluya
+  nosotros: confluyamos
+  vosotros: confluid
+  uds: confluyan

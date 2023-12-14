@@ -1,0 +1,142 @@
+infinitivo: bendecir
+gerundio: bendiciendo
+participio-pasado: bendecido
+presente-indicativo:
+  yo: bendigo
+  tu: bendices
+  vos: bendices
+  ud: bendice
+  nosotros: bendecimos
+  vosotros: bendecís
+  uds: bendicen
+preterito-perfecto-simple:
+  yo: bendije
+  tu: bendijiste
+  vos: bendijiste
+  ud: bendijo
+  nosotros: bendijimos
+  vosotros: bendijisteis
+  uds: bendijeron
+preterito-imperfecto:
+  yo: bendecía
+  tu: bendecías
+  vos: bendecías
+  ud: bendecía
+  nosotros: bendecíamos
+  vosotros: bendecíais
+  uds: bendecían
+futuro-simple:
+  yo: bendeciré
+  tu: bendecirás
+  vos: bendecirás
+  ud: bendecirá
+  nosotros: bendeciremos
+  vosotros: bendeciréis
+  uds: bendecirán
+condicional-simple:
+  yo: bendeciría
+  tu: bendecirías
+  vos: bendecirías
+  ud: bendeciría
+  nosotros: bendeciríamos
+  vosotros: bendeciríais
+  uds: bendecirían
+presente-perfecto:
+  yo: he bendecido
+  tu: has bendecido
+  vos: has bendecido
+  ud: ha bendecido
+  nosotros: hemos bendecido
+  vosotros: habéis bendecido
+  uds: han bendecido
+preterito-pluscuamperfecto:
+  yo: había bendecido
+  tu: habías bendecido
+  vos: habías bendecido
+  ud: había bendecido
+  nosotros: habíamos bendecido
+  vosotros: habíais bendecido
+  uds: habían bendecido
+futuro-perfecto:
+  yo: habré bendecido
+  tu: habrás bendecido
+  vos: habrás bendecido
+  ud: habrá bendecido
+  nosotros: habremos bendecido
+  vosotros: habréis bendecido
+  uds: habrán bendecido
+condicional-perfecto:
+  yo: habría bendecido
+  tu: habrías bendecido
+  vos: habrías bendecido
+  ud: habría bendecido
+  nosotros: habríamos bendecido
+  vosotros: habríais bendecido
+  uds: habrían bendecido
+presente-subjuntivo:
+  yo: bendiga
+  tu: bendigas
+  vos: bendigas
+  ud: bendiga
+  nosotros: bendigamos
+  vosotros: bendigáis
+  uds: bendigan
+preterito-perfecto-subjuntivo:
+  yo: haya bendecido
+  tu: hayas bendecido
+  vos: hayas bendecido
+  ud: haya bendecido
+  nosotros: hayamos bendecido
+  vosotros: hayáis bendecido
+  uds: hayan bendecido
+imperfecto-subjuntivo:
+  yo: 
+    - bendijera
+    - bendiciera
+  tu: 
+    - bendijeras
+    - bendicieras
+  vos: 
+    - bendijeras
+    - bendicieras
+  ud: 
+    - bendijera
+    - bendiciera
+  nosotros: 
+    - bendijéramos
+    - bendiciéramos
+  vosotros: 
+    - bendijerais
+    - bendicierais
+  uds: 
+    - bendijeran
+    - bendicieran
+pluscuamperfecto-subjuntivo:
+  yo: 
+    - hubiera bendecido
+    - hubiese bendecido
+  tu: 
+    - hubieras bendecido
+    - hubieses bendecido
+  vos: 
+    - hubieras bendecido
+    - hubieses bendecido
+  ud: 
+    - hubiera bendecido
+    - hubiese bendecido
+  nosotros: 
+    - hubiéramos bendecido
+    - hubiésemos bendecido
+  vosotros: 
+    - hubierais bendecido
+    - hubieseis bendecido
+  uds: 
+    - hubieran bendecido
+    - hubiesen bendecido
+imperativo:
+  tu: bendice
+  vos: bendecí
+  ud: bendiga
+  nosotros: bendigamos
+  vosotros: bendecid
+  uds: bendigan

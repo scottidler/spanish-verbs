@@ -1,0 +1,142 @@
+infinitivo: irmir
+gerundio: irmiendo
+participio-pasado: irmito
+presente-indicativo:
+  yo: irmo
+  tu: irmes
+  vos: irmes
+  ud: irme
+  nosotros: irmimos
+  vosotros: irmís
+  uds: irmen
+preterito-perfecto-simple:
+  yo: irmí
+  tu: irmiste
+  vos: irmiste
+  ud: irmió
+  nosotros: irmimos
+  vosotros: irmisteis
+  uds: irmieron
+preterito-imperfecto:
+  yo: irmía
+  tu: irmías
+  vos: irmías
+  ud: irmía
+  nosotros: irmíamos
+  vosotros: irmíais
+  uds: irmían
+futuro-simple:
+  yo: irmiré
+  tu: irmirás
+  vos: irmirás
+  ud: irmirá
+  nosotros: irmiremos
+  vosotros: irmiréis
+  uds: irmirán
+condicional-simple:
+  yo: irmiría
+  tu: irmirías
+  vos: irmirías
+  ud: irmiría
+  nosotros: irmiríamos
+  vosotros: irmiríais
+  uds: irmirían
+presente-perfecto:
+  yo: he irmido
+  tu: has irmido
+  vos: has irmido
+  ud: ha irmido
+  nosotros: hemos irmido
+  vosotros: habéis irmido
+  uds: han irmido
+preterito-pluscuamperfecto:
+  yo: había irmido
+  tu: habías irmido
+  vos: habías irmido
+  ud: había irmido
+  nosotros: habíamos irmido
+  vosotros: habíais irmido
+  uds: habían irmido
+futuro-perfecto:
+  yo: habré irmido
+  tu: habrás irmido
+  vos: habrás irmido
+  ud: habrá irmido
+  nosotros: habremos irmido
+  vosotros: habréis irmido
+  uds: habrán irmido
+condicional-perfecto:
+  yo: habría irmido
+  tu: habrías irmido
+  vos: habrías irmido
+  ud: habría irmido
+  nosotros: habríamos irmido
+  vosotros: habríais irmido
+  uds: habrían irmido
+presente-subjuntivo:
+  yo: irma
+  tu: irmas
+  vos: irmas
+  ud: irma
+  nosotros: irmamos
+  vosotros: irmáis
+  uds: irman
+preterito-perfecto-subjuntivo:
+  yo: haya irmido
+  tu: hayas irmido
+  vos: hayas irmido
+  ud: haya irmido
+  nosotros: hayamos irmido
+  vosotros: hayáis irmido
+  uds: hayan irmido
+imperfecto-subjuntivo:
+  yo:
+    - iramira
+    - iramiese
+  tu:
+    - iramiras
+    - iramieses
+  vos:
+    - iramiras
+    - iramieses
+  ud:
+    - iramira
+    - iramiese
+  nosotros:
+    - iramiramos
+    - iramiesemos
+  vosotros:
+    - iramirais
+    - iramieseis
+  uds:
+    - iramieran
+    - iramiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera irmido
+    - hubiese irmido
+  tu:
+    - hubieras irmido
+    - hubieses irmido
+  vos:
+    - hubieras irmido
+    - hubieses irmido
+  ud:
+    - hubiera irmido
+    - hubiese irmido
+  nosotros:
+    - hubiéramos irmido
+    - hubiésemos irmido
+  vosotros:
+    - hubierais irmido
+    - hubieseis irmido
+  uds:
+    - hubieran irmido
+    - hubiesen irmido
+imperativo:
+  tu: irme
+  vos: irme
+  ud: irma
+  nosotros: irmamos
+  vosotros: irmid
+  uds: irman

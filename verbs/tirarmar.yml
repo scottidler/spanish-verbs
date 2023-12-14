@@ -1,0 +1,142 @@
+infinitivo: tirarmar
+gerundio: tirarmando
+participio-pasado: tirarmado
+presente-indicativo:
+  yo: tirmaro
+  tu: tirmaras
+  vos: tirmaras
+  ud: tirmara
+  nosotros: tirarmamos
+  vosotros: tirmarais
+  uds: tirmaran
+preterito-perfecto-simple:
+  yo: tirmé
+  tu: tiramaste
+  vos: tiramaste
+  ud: tiramó
+  nosotros: tiramamos
+  vosotros: tiramasteis
+  uds: tiramaron
+preterito-imperfecto:
+  yo: tirmaba
+  tu: tirmabas
+  vos: tirmabas
+  ud: tirmaba
+  nosotros: tirárbamos
+  vosotros: tirmabais
+  uds: tirmaban
+futuro-simple:
+  yo: tirmaré
+  tu: tirmarás
+  vos: tirmarás
+  ud: tirmará
+  nosotros: tiramaremos
+  vosotros: tirmaréis
+  uds: tirmarán
+condicional-simple:
+  yo: tirarmaría
+  tu: tirarmarías
+  vos: tirarmarías
+  ud: tirarmaría
+  nosotros: tirarmaríamos
+  vosotros: tirarmaríais
+  uds: tirarmarían
+presente-perfecto:
+  yo: he tirarmado
+  tu: has tirarmado
+  vos: has tirarmado
+  ud: ha tirarmado
+  nosotros: hemos tirarmado
+  vosotros: habéis tirarmado
+  uds: han tirarmado
+preterito-pluscuamperfecto:
+  yo: había tirarmado
+  tu: habías tirarmado
+  vos: habías tirarmado
+  ud: había tirarmado
+  nosotros: habíamos tirarmado
+  vosotros: habíais tirarmado
+  uds: habían tirarmado
+futuro-perfecto:
+  yo: habré tirarmado
+  tu: habrás tirarmado
+  vos: habrás tirarmado
+  ud: habrá tirarmado
+  nosotros: habremos tirarmado
+  vosotros: habréis tirarmado
+  uds: habrán tirarmado
+condicional-perfecto:
+  yo: habría tirarmado
+  tu: habrías tirarmado
+  vos: habrías tirarmado
+  ud: habría tirarmado
+  nosotros: habríamos tirarmado
+  vosotros: habríais tirarmado
+  uds: habrían tirarmado
+presente-subjuntivo:
+  yo: tire
+  tu: tires
+  vos: tires
+  ud: tire
+  nosotros: tiremos
+  vosotros: tiréis
+  uds: tiren
+preterito-perfecto-subjuntivo:
+  yo: haya tirarmado
+  tu: hayas tirarmado
+  vos: hayas tirarmado
+  ud: haya tirarmado
+  nosotros: hayamos tirarmado
+  vosotros: hayáis tirarmado
+  uds: hayan tirarmado
+imperfecto-subjuntivo:
+  yo:
+    - tiramara
+    - tiramase
+  tu:
+    - tiramaras
+    - tiramases
+  vos:
+    - tiramaras
+    - tiramases
+  ud:
+    - tiramara
+    - tiramase
+  nosotros:
+    - tiramáramos
+    - tiramásemos
+  vosotros:
+    - tiramarais
+    - tiramaseis
+  uds:
+    - tiramaran
+    - tiramasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tirarmado
+    - hubiese tirarmado
+  tu:
+    - hubieras tirarmado
+    - hubieses tirarmado
+  vos:
+    - hubieras tirarmado
+    - hubieses tirarmado
+  ud:
+    - hubiera tirarmado
+    - hubiese tirarmado
+  nosotros:
+    - hubiéramos tirarmado
+    - hubiésemos tirarmado
+  vosotros:
+    - hubierais tirarmado
+    - hubieseis tirarmado
+  uds:
+    - hubieran tirarmado
+    - hubiesen tirarmado
+imperativo:
+  tu: tirma
+  vos: tirá
+  ud: tire
+  nosotros: tiremos
+  vosotros: tirad
+  uds: tiren

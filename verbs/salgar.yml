@@ -1,0 +1,142 @@
+infinitivo: salgar
+gerundio: salgando
+participio-pasado: salgado
+presente-indicativo:
+  yo: salgo
+  tu: sales
+  vos: sales
+  ud: sale
+  nosotros: salimos
+  vosotros: salís
+  uds: salen
+preterito-perfecto-simple:
+  yo: salgué
+  tu: salgaste
+  vos: salgaste
+  ud: salgó
+  nosotros: salimos
+  vosotros: salgasteis
+  uds: salieron
+preterito-imperfecto:
+  yo: salgaba
+  tu: salgabas
+  vos: salgabas
+  ud: salgaba
+  nosotros: salgábamos
+  vosotros: salgabais
+  uds: salgaban
+futuro-simple:
+  yo: saldré
+  tu: saldrás
+  vos: saldrás
+  ud: saldrá
+  nosotros: saldremos
+  vosotros: saldréis
+  uds: saldrán
+condicional-simple:
+  yo: saldría
+  tu: saldrías
+  vos: saldrías
+  ud: saldría
+  nosotros: saldríamos
+  vosotros: saldríais
+  uds: saldrían
+presente-perfecto:
+  yo: he salgado
+  tu: has salgado
+  vos: has salgado
+  ud: ha salgado
+  nosotros: hemos salgado
+  vosotros: habéis salgado
+  uds: han salgado
+preterito-pluscuamperfecto:
+  yo: había salgado
+  tu: habías salgado
+  vos: habías salgado
+  ud: había salgado
+  nosotros: habíamos salgado
+  vosotros: habíais salgado
+  uds: habían salgado
+futuro-perfecto:
+  yo: habré salgado
+  tu: habrás salgado
+  vos: habrás salgado
+  ud: habrá salgado
+  nosotros: habremos salgado
+  vosotros: habréis salgado
+  uds: habrán salgado
+condicional-perfecto:
+  yo: habría salgado
+  tu: habrías salgado
+  vos: habrías salgado
+  ud: habría salgado
+  nosotros: habríamos salgado
+  vosotros: habríais salgado
+  uds: habrían salgado
+presente-subjuntivo:
+  yo: salga
+  tu: salgas
+  vos: salgas
+  ud: salga
+  nosotros: salgamos
+  vosotros: salgáis
+  uds: salgan
+preterito-perfecto-subjuntivo:
+  yo: haya salgado
+  tu: hayas salgado
+  vos: hayas salgado
+  ud: haya salgado
+  nosotros: hayamos salgado
+  vosotros: hayáis salgado
+  uds: hayan salgado
+imperfecto-subjuntivo:
+  yo:
+    - salgara
+    - salgase
+  tu:
+    - salgaras
+    - salgases
+  vos:
+    - salgaras
+    - salgases
+  ud:
+    - salgara
+    - salgase
+  nosotros:
+    - salgáramos
+    - salgásemos
+  vosotros:
+    - salgarais
+    - salgaseis
+  uds:
+    - salgaran
+    - salgasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera salgado
+    - hubiese salgado
+  tu:
+    - hubieras salgado
+    - hubieses salgado
+  vos:
+    - hubieras salgado
+    - hubieses salgado
+  ud:
+    - hubiera salgado
+    - hubiese salgado
+  nosotros:
+    - hubiéramos salgado
+    - hubiésemos salgado
+  vosotros:
+    - hubierais salgado
+    - hubieseis salgado
+  uds:
+    - hubieran salgado
+    - hubiesen salgado
+imperativo:
+  tu: sal
+  vos: salgá
+  ud: salga
+  nosotros: salgamos
+  vosotros: salid
+  uds: salgan

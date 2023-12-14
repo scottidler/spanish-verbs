@@ -1,0 +1,142 @@
+infinitivo: prolongar
+gerundio: prolongando
+participio-pasado: prolongado
+presente-indicativo:
+  yo: prolongo
+  tu: prolongas
+  vos: prolongas
+  ud: prolonga
+  nosotros: prolongamos
+  vosotros: prolongáis
+  uds: prolongan
+preterito-perfecto-simple:
+  yo: prolongué
+  tu: prolongaste
+  vos: prolongaste
+  ud: prolongó
+  nosotros: prolongamos
+  vosotros: prolongasteis
+  uds: prolongaron
+preterito-imperfecto:
+  yo: prolongaba
+  tu: prolongabas
+  vos: prolongabas
+  ud: prolongaba
+  nosotros: prolongábamos
+  vosotros: prolongabais
+  uds: prolongaban
+futuro-simple:
+  yo: prolongaré
+  tu: prolongarás
+  vos: prolongarás
+  ud: prolongará
+  nosotros: prolongaremos
+  vosotros: prolongaréis
+  uds: prolongarán
+condicional-simple:
+  yo: prolongaría
+  tu: prolongarías
+  vos: prolongarías
+  ud: prolongaría
+  nosotros: prolongaríamos
+  vosotros: prolongaríais
+  uds: prolongarían
+presente-perfecto:
+  yo: he prolongado
+  tu: has prolongado
+  vos: has prolongado
+  ud: ha prolongado
+  nosotros: hemos prolongado
+  vosotros: habéis prolongado
+  uds: han prolongado
+preterito-pluscuamperfecto:
+  yo: había prolongado
+  tu: habías prolongado
+  vos: habías prolongado
+  ud: había prolongado
+  nosotros: habíamos prolongado
+  vosotros: habíais prolongado
+  uds: habían prolongado
+futuro-perfecto:
+  yo: habré prolongado
+  tu: habrás prolongado
+  vos: habrás prolongado
+  ud: habrá prolongado
+  nosotros: habremos prolongado
+  vosotros: habréis prolongado
+  uds: habrán prolongado
+condicional-perfecto:
+  yo: habría prolongado
+  tu: habrías prolongado
+  vos: habrías prolongado
+  ud: habría prolongado
+  nosotros: habríamos prolongado
+  vosotros: habríais prolongado
+  uds: habrían prolongado
+presente-subjuntivo:
+  yo: prolongue
+  tu: prolongues
+  vos: prolongues
+  ud: prolongue
+  nosotros: prolonguemos
+  vosotros: prolonguéis
+  uds: prolonguen
+preterito-perfecto-subjuntivo:
+  yo: haya prolongado
+  tu: hayas prolongado
+  vos: hayas prolongado
+  ud: haya prolongado
+  nosotros: hayamos prolongado
+  vosotros: hayáis prolongado
+  uds: hayan prolongado
+imperfecto-subjuntivo:
+  yo:
+    - prolongara
+    - prolongase
+  tu:
+    - prolongaras
+    - prolongases
+  vos:
+    - prolongaras
+    - prolongases
+  ud:
+    - prolongara
+    - prolongase
+  nosotros:
+    - prolongáramos
+    - prolongásemos
+  vosotros:
+    - prolongarais
+    - prolongaseis
+  uds:
+    - prolongaran
+    - prolongasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera prolongado
+    - hubiese prolongado
+  tu:
+    - hubieras prolongado
+    - hubieses prolongado
+  vos:
+    - hubieras prolongado
+    - hubieses prolongado
+  ud:
+    - hubiera prolongado
+    - hubiese prolongado
+  nosotros:
+    - hubiéramos prolongado
+    - hubiésemos prolongado
+  vosotros:
+    - hubierais prolongado
+    - hubieseis prolongado
+  uds:
+    - hubieran prolongado
+    - hubiesen prolongado
+imperativo:
+  tu: prolonga
+  vos: prolongá
+  ud: prolongue
+  nosotros: prolonguemos
+  vosotros: prolongad
+  uds: prolonguen

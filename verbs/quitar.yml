@@ -1,0 +1,142 @@
+infinitivo: quitar
+gerundio: quitando
+participio-pasado: quitado
+presente-indicativo:
+  yo: quito
+  tu: quitas
+  vos: quitás
+  ud: quita
+  nosotros: quitamos
+  vosotros: quitáis
+  uds: quitan
+preterito-perfecto-simple:
+  yo: quité
+  tu: quitaste
+  vos: quitaste
+  ud: quitó
+  nosotros: quitamos
+  vosotros: quitasteis
+  uds: quitaron
+preterito-imperfecto:
+  yo: quitaba
+  tu: quitabas
+  vos: quitabas
+  ud: quitaba
+  nosotros: quitábamos
+  vosotros: quitabais
+  uds: quitaban
+futuro-simple:
+  yo: quitaré
+  tu: quitarás
+  vos: quitarás
+  ud: quitará
+  nosotros: quitaremos
+  vosotros: quitaréis
+  uds: quitarán
+condicional-simple:
+  yo: quitaría
+  tu: quitarías
+  vos: quitarías
+  ud: quitaría
+  nosotros: quitaríamos
+  vosotros: quitaríais
+  uds: quitarían
+presente-perfecto:
+  yo: he quitado
+  tu: has quitado
+  vos: has quitado
+  ud: ha quitado
+  nosotros: hemos quitado
+  vosotros: habéis quitado
+  uds: han quitado
+preterito-pluscuamperfecto:
+  yo: había quitado
+  tu: habías quitado
+  vos: habías quitado
+  ud: había quitado
+  nosotros: habíamos quitado
+  vosotros: habíais quitado
+  uds: habían quitado
+futuro-perfecto:
+  yo: habré quitado
+  tu: habrás quitado
+  vos: habrás quitado
+  ud: habrá quitado
+  nosotros: habremos quitado
+  vosotros: habréis quitado
+  uds: habrán quitado
+condicional-perfecto:
+  yo: habría quitado
+  tu: habrías quitado
+  vos: habrías quitado
+  ud: habría quitado
+  nosotros: habríamos quitado
+  vosotros: habríais quitado
+  uds: habrían quitado
+presente-subjuntivo:
+  yo: quite
+  tu: quites
+  vos: quites
+  ud: quite
+  nosotros: quitemos
+  vosotros: quitéis
+  uds: quiten
+preterito-perfecto-subjuntivo:
+  yo: haya quitado
+  tu: hayas quitado
+  vos: hayas quitado
+  ud: haya quitado
+  nosotros: hayamos quitado
+  vosotros: hayáis quitado
+  uds: hayan quitado
+imperfecto-subjuntivo:
+  yo:
+    - quitara
+    - quitase
+  tu:
+    - quitaras
+    - quitases
+  vos:
+    - quitaras
+    - quitases
+  ud:
+    - quitara
+    - quitase
+  nosotros:
+    - quitáramos
+    - quitásemos
+  vosotros:
+    - quitarais
+    - quitaseis
+  uds:
+    - quitaran
+    - quitasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera quitado
+    - hubiese quitado
+  tu:
+    - hubieras quitado
+    - hubieses quitado
+  vos:
+    - hubieras quitado
+    - hubieses quitado
+  ud:
+    - hubiera quitado
+    - hubiese quitado
+  nosotros:
+    - hubiéramos quitado
+    - hubiésemos quitado
+  vosotros:
+    - hubierais quitado
+    - hubieseis quitado
+  uds:
+    - hubieran quitado
+    - hubiesen quitado
+imperativo:
+  tu: quita
+  vos: quitá
+  ud: quite
+  nosotros: quitemos
+  vosotros: quitad
+  uds: quiten

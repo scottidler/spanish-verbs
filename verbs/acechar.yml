@@ -1,0 +1,142 @@
+infinitivo: acechar
+gerundio: acechando
+participio-pasado: acechado
+presente-indicativo:
+  yo: acecho
+  tu: acechas
+  vos: acechas
+  ud: acecha
+  nosotros: acechamos
+  vosotros: acecháis
+  uds: acechan
+preterito-perfecto-simple:
+  yo: aceché
+  tu: acechaste
+  vos: acechaste
+  ud: acechó
+  nosotros: acechamos
+  vosotros: acechasteis
+  uds: acecharon
+preterito-imperfecto:
+  yo: acechaba
+  tu: acechabas
+  vos: acechabas
+  ud: acechaba
+  nosotros: acechábamos
+  vosotros: acechabais
+  uds: acechaban
+futuro-simple:
+  yo: acecharé
+  tu: acecharás
+  vos: acecharás
+  ud: acechará
+  nosotros: acecharemos
+  vosotros: acecharéis
+  uds: acecharán
+condicional-simple:
+  yo: acecharía
+  tu: acecharías
+  vos: acecharías
+  ud: acecharía
+  nosotros: acecharíamos
+  vosotros: acecharíais
+  uds: acecharían
+presente-perfecto:
+  yo: he acechado
+  tu: has acechado
+  vos: has acechado
+  ud: ha acechado
+  nosotros: hemos acechado
+  vosotros: habéis acechado
+  uds: han acechado
+preterito-pluscuamperfecto:
+  yo: había acechado
+  tu: habías acechado
+  vos: habías acechado
+  ud: había acechado
+  nosotros: habíamos acechado
+  vosotros: habíais acechado
+  uds: habían acechado
+futuro-perfecto:
+  yo: habré acechado
+  tu: habrás acechado
+  vos: habrás acechado
+  ud: habrá acechado
+  nosotros: habremos acechado
+  vosotros: habréis acechado
+  uds: habrán acechado
+condicional-perfecto:
+  yo: habría acechado
+  tu: habrías acechado
+  vos: habrías acechado
+  ud: habría acechado
+  nosotros: habríamos acechado
+  vosotros: habríais acechado
+  uds: habrían acechado
+presente-subjuntivo:
+  yo: aceche
+  tu: aceches
+  vos: aceches
+  ud: aceche
+  nosotros: acechemos
+  vosotros: acechéis
+  uds: acechen
+preterito-perfecto-subjuntivo:
+  yo: haya acechado
+  tu: hayas acechado
+  vos: hayas acechado
+  ud: haya acechado
+  nosotros: hayamos acechado
+  vosotros: hayáis acechado
+  uds: hayan acechado
+imperfecto-subjuntivo:
+  yo:
+    - acechara
+    - acechase
+  tu:
+    - acecharas
+    - acechases
+  vos:
+    - acecharas
+    - acechases
+  ud:
+    - acechara
+    - acechase
+  nosotros:
+    - acecháramos
+    - acechásemos
+  vosotros:
+    - acecharais
+    - acechaseis
+  uds:
+    - acecharan
+    - acechasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera acechado
+    - hubiese acechado
+  tu:
+    - hubieras acechado
+    - hubieses acechado
+  vos:
+    - hubieras acechado
+    - hubieses acechado
+  ud:
+    - hubiera acechado
+    - hubiese acechado
+  nosotros:
+    - hubiéramos acechado
+    - hubiésemos acechado
+  vosotros:
+    - hubierais acechado
+    - hubieseis acechado
+  uds:
+    - hubieran acechado
+    - hubiesen acechado
+imperativo:
+  tu: acecha
+  vos: aceché
+  ud: aceche
+  nosotros: acechemos
+  vosotros: acechad
+  uds: acechen

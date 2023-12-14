@@ -1,0 +1,142 @@
+infinitivo: tensar
+gerundio: tensando
+participio-pasado: tensado
+presente-indicativo:
+  yo: tenso
+  tu: tensas
+  vos: tensas
+  ud: tensa
+  nosotros: tensamos
+  vosotros: tensáis
+  uds: tensan
+preterito-perfecto-simple:
+  yo: tensé
+  tu: tensaste
+  vos: tensaste
+  ud: tensó
+  nosotros: tensamos
+  vosotros: tensasteis
+  uds: tensaron
+preterito-imperfecto:
+  yo: tensaba
+  tu: tensabas
+  vos: tensabas
+  ud: tensaba
+  nosotros: tensábamos
+  vosotros: tensabais
+  uds: tensaban
+futuro-simple:
+  yo: tensaré
+  tu: tensarás
+  vos: tensarás
+  ud: tensará
+  nosotros: tensaremos
+  vosotros: tensaréis
+  uds: tensarán
+condicional-simple:
+  yo: tensaría
+  tu: tensarías
+  vos: tensarías
+  ud: tensaría
+  nosotros: tensaríamos
+  vosotros: tensaríais
+  uds: tensarían
+presente-perfecto:
+  yo: he tensado
+  tu: has tensado
+  vos: has tensado
+  ud: ha tensado
+  nosotros: hemos tensado
+  vosotros: habéis tensado
+  uds: han tensado
+preterito-pluscuamperfecto:
+  yo: había tensado
+  tu: habías tensado
+  vos: habías tensado
+  ud: había tensado
+  nosotros: habíamos tensado
+  vosotros: habíais tensado
+  uds: habían tensado
+futuro-perfecto:
+  yo: habré tensado
+  tu: habrás tensado
+  vos: habrás tensado
+  ud: habrá tensado
+  nosotros: habremos tensado
+  vosotros: habréis tensado
+  uds: habrán tensado
+condicional-perfecto:
+  yo: habría tensado
+  tu: habrías tensado
+  vos: habrías tensado
+  ud: habría tensado
+  nosotros: habríamos tensado
+  vosotros: habríais tensado
+  uds: habrían tensado
+presente-subjuntivo:
+  yo: tense
+  tu: tenas
+  vos: tenas
+  ud: tense
+  nosotros: tensemos
+  vosotros: tenséis
+  uds: tensen
+preterito-perfecto-subjuntivo:
+  yo: haya tensado
+  tu: hayas tensado
+  vos: hayas tensado
+  ud: haya tensado
+  nosotros: hayamos tensado
+  vosotros: hayáis tensado
+  uds: hayan tensado
+imperfecto-subjuntivo:
+  yo:
+    - tensara
+    - tensase
+  tu:
+    - tensaras
+    - tensases
+  vos:
+    - tensaras
+    - tensases
+  ud:
+    - tensara
+    - tensase
+  nosotros:
+    - tensáramos
+    - tensásemos
+  vosotros:
+    - tensarais
+    - tensaseis
+  uds:
+    - tensaran
+    - tensasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tensado
+    - hubiese tensado
+  tu:
+    - hubieras tensado
+    - hubieses tensado
+  vos:
+    - hubieras tensado
+    - hubieses tensado
+  ud:
+    - hubiera tensado
+    - hubiese tensado
+  nosotros:
+    - hubiéramos tensado
+    - hubiésemos tensado
+  vosotros:
+    - hubierais tensado
+    - hubieseis tensado
+  uds:
+    - hubieran tensado
+    - hubiesen tensado
+imperativo:
+  tu: tensa
+  vos: tensá
+  ud: tense
+  nosotros: tensemos
+  vosotros: tensad
+  uds: tensen

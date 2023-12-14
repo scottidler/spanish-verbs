@@ -1,0 +1,142 @@
+infinitivo: trasladar
+gerundio: trasladando
+participio-pasado: trasladado
+presente-indicativo:
+  yo: traslado
+  tu: trasladas
+  vos: trasladas
+  ud: traslada
+  nosotros: trasladamos
+  vosotros: trasladáis
+  uds: trasladan
+preterito-perfecto-simple:
+  yo: trasladé
+  tu: trasladaste
+  vos: trasladaste
+  ud: trasladó
+  nosotros: trasladamos
+  vosotros: trasladasteis
+  uds: trasladaron
+preterito-imperfecto:
+  yo: trasladaba
+  tu: trasladabas
+  vos: trasladabas
+  ud: trasladaba
+  nosotros: trasladábamos
+  vosotros: trasladabais
+  uds: trasladaban
+futuro-simple:
+  yo: trasladaré
+  tu: trasladarás
+  vos: trasladarás
+  ud: trasladará
+  nosotros: trasladaremos
+  vosotros: trasladaréis
+  uds: trasladarán
+condicional-simple:
+  yo: trasladaría
+  tu: trasladarías
+  vos: trasladarías
+  ud: trasladaría
+  nosotros: trasladaríamos
+  vosotros: trasladaríais
+  uds: trasladarían
+presente-perfecto:
+  yo: he trasladado
+  tu: has trasladado
+  vos: has trasladado
+  ud: ha trasladado
+  nosotros: hemos trasladado
+  vosotros: habéis trasladado
+  uds: han trasladado
+preterito-pluscuamperfecto:
+  yo: había trasladado
+  tu: habías trasladado
+  vos: habías trasladado
+  ud: había trasladado
+  nosotros: habíamos trasladado
+  vosotros: habíais trasladado
+  uds: habían trasladado
+futuro-perfecto:
+  yo: habré trasladado
+  tu: habrás trasladado
+  vos: habrás trasladado
+  ud: habrá trasladado
+  nosotros: habremos trasladado
+  vosotros: habréis trasladado
+  uds: habrán trasladado
+condicional-perfecto:
+  yo: habría trasladado
+  tu: habrías trasladado
+  vos: habrías trasladado
+  ud: habría trasladado
+  nosotros: habríamos trasladado
+  vosotros: habríais trasladado
+  uds: habrían trasladado
+presente-subjuntivo:
+  yo: traslade
+  tu: traslades
+  vos: traslades
+  ud: traslade
+  nosotros: traslademos
+  vosotros: trasladéis
+  uds: trasladen
+preterito-perfecto-subjuntivo:
+  yo: haya trasladado
+  tu: hayas trasladado
+  vos: hayas trasladado
+  ud: haya trasladado
+  nosotros: hayamos trasladado
+  vosotros: hayáis trasladado
+  uds: hayan trasladado
+imperfecto-subjuntivo:
+  yo:
+    - trasladara
+    - trasladase
+  tu:
+    - trasladaras
+    - trasladasen
+  vos:
+    - trasladaras
+    - trasladases
+  ud:
+    - trasladara
+    - trasladase
+  nosotros:
+    - trasladáramos
+    - trasladásemos
+  vosotros:
+    - trasladarais
+    - trasladaseis
+  uds:
+    - trasladaran
+    - trasladasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera trasladado
+    - hubiese trasladado
+  tu:
+    - hubieras trasladado
+    - hubieses trasladado
+  vos:
+    - hubieras trasladado
+    - hubieses trasladado
+  ud:
+    - hubiera trasladado
+    - hubiese trasladado
+  nosotros:
+    - hubiéramos trasladado
+    - hubiésemos trasladado
+  vosotros:
+    - hubierais trasladado
+    - hubieseis trasladado
+  uds:
+    - hubieran trasladado
+    - hubiesen trasladado
+imperativo:
+  tu: traslada
+  vos: trasladá
+  ud: traslade
+  nosotros: traslademos
+  vosotros: trasladad
+  uds: trasladen

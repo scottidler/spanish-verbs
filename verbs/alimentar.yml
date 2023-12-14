@@ -1,0 +1,142 @@
+infinitivo: alimentar
+gerundio: alimentando
+participio-pasado: alimentado
+presente-indicativo:
+  yo: alimento
+  tu: alimentas
+  vos: alimentas
+  ud: alimenta
+  nosotros: alimentamos
+  vosotros: alimentáis
+  uds: alimentan
+preterito-perfecto-simple:
+  yo: alimenté
+  tu: alimentaste
+  vos: alimentaste
+  ud: alimentó
+  nosotros: alimentamos
+  vosotros: alimentasteis
+  uds: alimentaron
+preterito-imperfecto:
+  yo: alimentaba
+  tu: alimentabas
+  vos: alimentabas
+  ud: alimentaba
+  nosotros: alimentábamos
+  vosotros: alimentabais
+  uds: alimentaban
+futuro-simple:
+  yo: alimentaré
+  tu: alimentarás
+  vos: alimentarás
+  ud: alimentará
+  nosotros: alimentaremos
+  vosotros: alimentaréis
+  uds: alimentarán
+condicional-simple:
+  yo: alimentaría
+  tu: alimentarías
+  vos: alimentarías
+  ud: alimentaría
+  nosotros: alimentaríamos
+  vosotros: alimentaríais
+  uds: alimentarían
+presente-perfecto:
+  yo: he alimentado
+  tu: has alimentado
+  vos: has alimentado
+  ud: ha alimentado
+  nosotros: hemos alimentado
+  vosotros: habéis alimentado
+  uds: han alimentado
+preterito-pluscuamperfecto:
+  yo: había alimentado
+  tu: habías alimentado
+  vos: habías alimentado
+  ud: había alimentado
+  nosotros: habíamos alimentado
+  vosotros: habíais alimentado
+  uds: habían alimentado
+futuro-perfecto:
+  yo: habré alimentado
+  tu: habrás alimentado
+  vos: habrás alimentado
+  ud: habrá alimentado
+  nosotros: habremos alimentado
+  vosotros: habréis alimentado
+  uds: habrán alimentado
+condicional-perfecto:
+  yo: habría alimentado
+  tu: habrías alimentado
+  vos: habrías alimentado
+  ud: habría alimentado
+  nosotros: habríamos alimentado
+  vosotros: habríais alimentado
+  uds: habrían alimentado
+presente-subjuntivo:
+  yo: alimente
+  tu: alimentes
+  vos: alimentes
+  ud: alimente
+  nosotros: alimentemos
+  vosotros: alimentéis
+  uds: alimenten
+preterito-perfecto-subjuntivo:
+  yo: haya alimentado
+  tu: hayas alimentado
+  vos: hayas alimentado
+  ud: haya alimentado
+  nosotros: hayamos alimentado
+  vosotros: hayáis alimentado
+  uds: hayan alimentado
+imperfecto-subjuntivo:
+  yo:
+    - alimentara
+    - alimentase
+  tu:
+    - alimentaras
+    - alimentases
+  vos:
+    - alimentaras
+    - alimentases
+  ud:
+    - alimentara
+    - alimentase
+  nosotros:
+    - alimentáramos
+    - alimentásemos
+  vosotros:
+    - alimentarais
+    - alimentaseis
+  uds:
+    - alimentaran
+    - alimentasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alimentado
+    - hubiese alimentado
+  tu:
+    - hubieras alimentado
+    - hubieses alimentado
+  vos:
+    - hubieras alimentado
+    - hubieses alimentado
+  ud:
+    - hubiera alimentado
+    - hubiese alimentado
+  nosotros:
+    - hubiéramos alimentado
+    - hubiésemos alimentado
+  vosotros:
+    - hubierais alimentado
+    - hubieseis alimentado
+  uds:
+    - hubieran alimentado
+    - hubiesen alimentado
+imperativo:
+  tu: alimenta
+  vos: alimentá
+  ud: alimente
+  nosotros: alimentemos
+  vosotros: alimentad
+  uds: alimenten

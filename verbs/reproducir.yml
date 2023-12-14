@@ -1,0 +1,142 @@
+infinitivo: reproducir
+gerundio: reproduciendo
+participio-pasado: reproducido
+presente-indicativo:
+  yo: reproduzco
+  tu: reproduces
+  vos: reproduces
+  ud: reproduce
+  nosotros: reproducimos
+  vosotros: reproducís
+  uds: reproducen
+preterito-perfecto-simple:
+  yo: reproduje
+  tu: reproduciste
+  vos: reproduciste
+  ud: reprodujo
+  nosotros: reproducimos
+  vosotros: reproducisteis
+  uds: reprodujeron
+preterito-imperfecto:
+  yo: reproducía
+  tu: reproducías
+  vos: reproducías
+  ud: reproducía
+  nosotros: reproducíamos
+  vosotros: reproducíais
+  uds: reproducían
+futuro-simple:
+  yo: reproduciré
+  tu: reproducirás
+  vos: reproducirás
+  ud: reproducirá
+  nosotros: reproduciremos
+  vosotros: reproduciréis
+  uds: reproducirán
+condicional-simple:
+  yo: reproduciría
+  tu: reproducirías
+  vos: reproducirías
+  ud: reproduciría
+  nosotros: reproduciríamos
+  vosotros: reproduciríais
+  uds: reproducirían
+presente-perfecto:
+  yo: he reproducido
+  tu: has reproducido
+  vos: has reproducido
+  ud: ha reproducido
+  nosotros: hemos reproducido
+  vosotros: habéis reproducido
+  uds: han reproducido
+preterito-pluscuamperfecto:
+  yo: había reproducido
+  tu: habías reproducido
+  vos: habías reproducido
+  ud: había reproducido
+  nosotros: habíamos reproducido
+  vosotros: habíais reproducido
+  uds: habían reproducido
+futuro-perfecto:
+  yo: habré reproducido
+  tu: habrás reproducido
+  vos: habrás reproducido
+  ud: habrá reproducido
+  nosotros: habremos reproducido
+  vosotros: habréis reproducido
+  uds: habrán reproducido
+condicional-perfecto:
+  yo: habría reproducido
+  tu: habrías reproducido
+  vos: habrías reproducido
+  ud: habría reproducido
+  nosotros: habríamos reproducido
+  vosotros: habríais reproducido
+  uds: habrían reproducido
+presente-subjuntivo:
+  yo: reproduzca
+  tu: reproduzcas
+  vos: reproduzcas
+  ud: reproduzca
+  nosotros: reproduzcamos
+  vosotros: reproduzcáis
+  uds: reproduzcan
+preterito-perfecto-subjuntivo:
+  yo: haya reproducido
+  tu: hayas reproducido
+  vos: hayas reproducido
+  ud: haya reproducido
+  nosotros: hayamos reproducido
+  vosotros: hayáis reproducido
+  uds: hayan reproducido
+imperfecto-subjuntivo:
+  yo:
+    - reprodujera
+    - reprodujese
+  tu:
+    - reprodujeras
+    - reprodujeses
+  vos:
+    - reprodujeras
+    - reprodujeses
+  ud:
+    - reprodujera
+    - reprodujese
+  nosotros:
+    - reprodujéramos
+    - reprodujésemos
+  vosotros:
+    - reprodujerais
+    - reprodujeseis
+  uds:
+    - reprodujeran
+    - reprodujesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reproducido
+    - hubiese reproducido
+  tu:
+    - hubieras reproducido
+    - hubieses reproducido
+  vos:
+    - hubieras reproducido
+    - hubieses reproducido
+  ud:
+    - hubiera reproducido
+    - hubiese reproducido
+  nosotros:
+    - hubiéramos reproducido
+    - hubiésemos reproducido
+  vosotros:
+    - hubierais reproducido
+    - hubieseis reproducido
+  uds:
+    - hubieran reproducido
+    - hubiesen reproducido
+imperativo:
+  tu: reproduce
+  vos: reproducí
+  ud: reproduzca
+  nosotros: reproduzcamos
+  vosotros: reproducid
+  uds: reproduzcan

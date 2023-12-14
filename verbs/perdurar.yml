@@ -1,0 +1,142 @@
+infinitivo: perdurar
+gerundio: perdurando
+participio-pasado: perdurado
+presente-indicativo:
+  yo: pervivo
+  tu: pervives
+  vos: pervivís
+  ud: pervive
+  nosotros: pervivimos
+  vosotros: pervivís
+  uds: perviven
+preterito-perfecto-simple:
+  yo: perecí
+  tu: pereciste
+  vos: perecisteis
+  ud: pereció
+  nosotros: perecimos
+  vosotros: perecisteis
+  uds: perecieron
+preterito-imperfecto:
+  yo: perduraba
+  tu: perdurabas
+  vos: perdurabas
+  ud: perduraba
+  nosotros: perdurábamos
+  vosotros: perdurabais
+  uds: perduraban
+futuro-simple:
+  yo: perviviré
+  tu: pervivirás
+  vos: pervivirás
+  ud: pervivirá
+  nosotros: perviviremos
+  vosotros: perviviréis
+  uds: pervivirán
+condicional-simple:
+  yo: perviviría
+  tu: pervivirías
+  vos: pervivirías
+  ud: perviviría
+  nosotros: perviviríamos
+  vosotros: perviviríais
+  uds: pervivirían
+presente-perfecto:
+  yo: he pervivido
+  tu: has pervivido
+  vos: habéis pervivido
+  ud: ha pervivido
+  nosotros: hemos pervivido
+  vosotros: habéis pervivido
+  uds: han pervivido
+preterito-pluscuamperfecto:
+  yo: había pervivido
+  tu: habías pervivido
+  vos: habías pervivido
+  ud: había pervivido
+  nosotros: habíamos pervivido
+  vosotros: habíais pervivido
+  uds: habían pervivido
+futuro-perfecto:
+  yo: habré pervivido
+  tu: habrás pervivido
+  vos: habrás pervivido
+  ud: habrá pervivido
+  nosotros: habremos pervivido
+  vosotros: habréis pervivido
+  uds: habrán pervivido
+condicional-perfecto:
+  yo: habría pervivido
+  tu: habrías pervivido
+  vos: habrías pervivido
+  ud: habría pervivido
+  nosotros: habríamos pervivido
+  vosotros: habríais pervivido
+  uds: habrían pervivido
+presente-subjuntivo:
+  yo: perviva
+  tu: pervivas
+  vos: pervivas
+  ud: perviva
+  nosotros: pervivamos
+  vosotros: perviváis
+  uds: pervivan
+preterito-perfecto-subjuntivo:
+  yo: haya pervivido
+  tu: hayas pervivido
+  vos: hayas pervivido
+  ud: haya pervivido
+  nosotros: hayamos pervivido
+  vosotros: hayáis pervivido
+  uds: hayan pervivido
+imperfecto-subjuntivo:
+  yo:
+    - perviviera
+    - perviviese
+  tu:
+    - pervivieras
+    - pervivieses
+  vos:
+    - pervivieras
+    - pervivieses
+  ud:
+    - perviviera
+    - perviviese
+  nosotros:
+    - perviviéramos
+    - perviviésemos
+  vosotros:
+    - pervivierais
+    - pervivieseis
+  uds:
+    - pervivieran
+    - perviviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pervivido
+    - hubiese pervivido
+  tu:
+    - hubieras pervivido
+    - hubieses pervivido
+  vos:
+    - hubieras pervivido
+    - hubieses pervivido
+  ud:
+    - hubiera pervivido
+    - hubiese pervivido
+  nosotros:
+    - hubiéramos pervivido
+    - hubiésemos pervivido
+  vosotros:
+    - hubierais pervivido
+    - hubieseis pervivido
+  uds:
+    - hubieran pervivido
+    - hubiesen pervivido
+imperativo:
+  tu: pervive
+  vos: pervive
+  ud: perviva
+  nosotros: pervivamos
+  vosotros: pervivid
+  uds: pervivan

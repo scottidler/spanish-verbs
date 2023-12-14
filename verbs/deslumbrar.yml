@@ -1,0 +1,142 @@
+infinitivo: deslumbrar
+gerundio: deslumbrando
+participio-pasado: deslumbrado
+presente-indicativo:
+  yo: deslumbro
+  tu: deslumbras
+  vos: deslumbras
+  ud: deslumbra
+  nosotros: deslumbramos
+  vosotros: deslumbráis
+  uds: deslumbran
+preterito-perfecto-simple:
+  yo: deslumbré
+  tu: deslumbraste
+  vos: deslumbraste
+  ud: deslumbró
+  nosotros: deslumbramos
+  vosotros: deslumbrasteis
+  uds: deslumbraron
+preterito-imperfecto:
+  yo: deslumbraba
+  tu: deslumbrabas
+  vos: deslumbrabas
+  ud: deslumbraba
+  nosotros: deslumbrábamos
+  vosotros: deslumbrabais
+  uds: deslumbraban
+futuro-simple:
+  yo: deslumbraré
+  tu: deslumbrarás
+  vos: deslumbrarás
+  ud: deslumbrará
+  nosotros: deslumbraremos
+  vosotros: deslumbraréis
+  uds: deslumbrarán
+condicional-simple:
+  yo: deslumbraría
+  tu: deslumbrarías
+  vos: deslumbrarías
+  ud: deslumbraría
+  nosotros: deslumbraríamos
+  vosotros: deslumbraríais
+  uds: deslumbrarían
+presente-perfecto:
+  yo: he deslumbrado
+  tu: has deslumbrado
+  vos: has deslumbrado
+  ud: ha deslumbrado
+  nosotros: hemos deslumbrado
+  vosotros: habéis deslumbrado
+  uds: han deslumbrado
+preterito-pluscuamperfecto:
+  yo: había deslumbrado
+  tu: habías deslumbrado
+  vos: habías deslumbrado
+  ud: había deslumbrado
+  nosotros: habíamos deslumbrado
+  vosotros: habíais deslumbrado
+  uds: habían deslumbrado
+futuro-perfecto:
+  yo: habré deslumbrado
+  tu: habrás deslumbrado
+  vos: habrás deslumbrado
+  ud: habrá deslumbrado
+  nosotros: habremos deslumbrado
+  vosotros: habréis deslumbrado
+  uds: habrán deslumbrado
+condicional-perfecto:
+  yo: habría deslumbrado
+  tu: habrías deslumbrado
+  vos: habrías deslumbrado
+  ud: habría deslumbrado
+  nosotros: habríamos deslumbrado
+  vosotros: habríais deslumbrado
+  uds: habrían deslumbrado
+presente-subjuntivo:
+  yo: deslumbre
+  tu: deslumbres
+  vos: deslumbres
+  ud: deslumbre
+  nosotros: deslumbremos
+  vosotros: deslumbréis
+  uds: deslumbren
+preterito-perfecto-subjuntivo:
+  yo: haya deslumbrado
+  tu: hayas deslumbrado
+  vos: hayas deslumbrado
+  ud: haya deslumbrado
+  nosotros: hayamos deslumbrado
+  vosotros: hayáis deslumbrado
+  uds: hayan deslumbrado
+imperfecto-subjuntivo:
+  yo:
+    - deslumbrara
+    - deslumbrase
+  tu:
+    - deslumbraras
+    - deslumbrases
+  vos:
+    - deslumbraras
+    - deslumbrases
+  ud:
+    - deslumbrara
+    - deslumbrase
+  nosotros:
+    - deslumbráramos
+    - deslumbrásemos
+  vosotros:
+    - deslumbrarais
+    - deslumbraseis
+  uds:
+    - deslumbraran
+    - deslumbrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera deslumbrado
+    - hubiese deslumbrado
+  tu:
+    - hubieras deslumbrado
+    - hubieses deslumbrado
+  vos:
+    - hubieras deslumbrado
+    - hubieses deslumbrado
+  ud:
+    - hubiera deslumbrado
+    - hubiese deslumbrado
+  nosotros:
+    - hubiéramos deslumbrado
+    - hubiésemos deslumbrado
+  vosotros:
+    - hubierais deslumbrado
+    - hubieseis deslumbrado
+  uds:
+    - hubieran deslumbrado
+    - hubiesen deslumbrado
+imperativo:
+  tu: deslumbra
+  vos: deslumbrá
+  ud: deslumbre
+  nosotros: deslumbremos
+  vosotros: deslumbrad
+  uds: deslumbren

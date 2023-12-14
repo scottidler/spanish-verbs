@@ -1,0 +1,142 @@
+infinitivo: traspasar
+gerundio: traspasando
+participio-pasado: traspasado
+presente-indicativo:
+  yo: traspaso
+  tu: traspasas
+  vos: traspasas
+  ud: traspasa
+  nosotros: traspasamos
+  vosotros: traspasáis
+  uds: traspasan
+preterito-perfecto-simple:
+  yo: traspasé
+  tu: traspasaste
+  vos: traspasaste
+  ud: traspasó
+  nosotros: traspasamos
+  vosotros: traspasasteis
+  uds: traspasaron
+preterito-imperfecto:
+  yo: traspasaba
+  tu: traspasabas
+  vos: traspasabas
+  ud: traspasaba
+  nosotros: traspasábamos
+  vosotros: traspasabais
+  uds: traspasaban
+futuro-simple:
+  yo: traspasaré
+  tu: traspasarás
+  vos: traspasarás
+  ud: traspasará
+  nosotros: traspasaremos
+  vosotros: traspasaréis
+  uds: traspasarán
+condicional-simple:
+  yo: traspasaría
+  tu: traspasarías
+  vos: traspasarías
+  ud: traspasaría
+  nosotros: traspasaríamos
+  vosotros: traspasaríais
+  uds: traspasarían
+presente-perfecto:
+  yo: he traspasado
+  tu: has traspasado
+  vos: has traspasado
+  ud: ha traspasado
+  nosotros: hemos traspasado
+  vosotros: habéis traspasado
+  uds: han traspasado
+preterito-pluscuamperfecto:
+  yo: había traspasado
+  tu: habías traspasado
+  vos: habías traspasado
+  ud: había traspasado
+  nosotros: habíamos traspasado
+  vosotros: habíais traspasado
+  uds: habían traspasado
+futuro-perfecto:
+  yo: habré traspasado
+  tu: habrás traspasado
+  vos: habrás traspasado
+  ud: habrá traspasado
+  nosotros: habremos traspasado
+  vosotros: habréis traspasado
+  uds: habrán traspasado
+condicional-perfecto:
+  yo: habría traspasado
+  tu: habrías traspasado
+  vos: habrías traspasado
+  ud: habría traspasado
+  nosotros: habríamos traspasado
+  vosotros: habríais traspasado
+  uds: habrían traspasado
+presente-subjuntivo:
+  yo: traspase
+  tu: traspases
+  vos: traspases
+  ud: traspase
+  nosotros: traspasemos
+  vosotros: traspaséis
+  uds: traspasen
+preterito-perfecto-subjuntivo:
+  yo: haya traspasado
+  tu: hayas traspasado
+  vos: hayas traspasado
+  ud: haya traspasado
+  nosotros: hayamos traspasado
+  vosotros: hayáis traspasado
+  uds: hayan traspasado
+imperfecto-subjuntivo:
+  yo:
+    - traspasara
+    - traspasase
+  tu:
+    - traspasaras
+    - traspasases
+  vos:
+    - traspasaras
+    - traspasases
+  ud:
+    - traspasara
+    - traspasase
+  nosotros:
+    - traspasáramos
+    - traspasásemos
+  vosotros:
+    - traspasarais
+    - traspasaseis
+  uds:
+    - traspasaran
+    - traspasasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera traspasado
+    - hubiese traspasado
+  tu:
+    - hubieras traspasado
+    - hubieses traspasado
+  vos:
+    - hubieras traspasado
+    - hubieses traspasado
+  ud:
+    - hubiera traspasado
+    - hubiese traspasado
+  nosotros:
+    - hubiéramos traspasado
+    - hubiésemos traspasado
+  vosotros:
+    - hubierais traspasado
+    - hubieseis traspasado
+  uds:
+    - hubieran traspasado
+    - hubiesen traspasado
+imperativo:
+  tu: traspasa
+  vos: traspasá
+  ud: traspase
+  nosotros: traspasemos
+  vosotros: traspasad
+  uds: traspasen

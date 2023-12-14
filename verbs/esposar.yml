@@ -1,0 +1,142 @@
+infinitivo: esposar
+gerundio: esposando
+participio-pasado: esposado
+presente-indicativo:
+  yo: esposo
+  tu: esposas
+  vos: esposas
+  ud: esposa
+  nosotros: esposamos
+  vosotros: esposáis
+  uds: esposan
+preterito-perfecto-simple:
+  yo: esposé
+  tu: esposaste
+  vos: esposaste
+  ud: esposó
+  nosotros: esposamos
+  vosotros: esposasteis
+  uds: esposaron
+preterito-imperfecto:
+  yo: esposaba
+  tu: esposabas
+  vos: esposabas
+  ud: esposaba
+  nosotros: esposábamos
+  vosotros: esposabais
+  uds: esposaban
+futuro-simple:
+  yo: esposaré
+  tu: esposarás
+  vos: esposarás
+  ud: esposará
+  nosotros: esposaremos
+  vosotros: esposaréis
+  uds: esposarán
+condicional-simple:
+  yo: esposaría
+  tu: esposarías
+  vos: esposarías
+  ud: esposaría
+  nosotros: esposaríamos
+  vosotros: esposaríais
+  uds: esposarían
+presente-perfecto:
+  yo: he esposado
+  tu: has esposado
+  vos: has esposado
+  ud: ha esposado
+  nosotros: hemos esposado
+  vosotros: habéis esposado
+  uds: han esposado
+preterito-pluscuamperfecto:
+  yo: había esposado
+  tu: habías esposado
+  vos: habías esposado
+  ud: había esposado
+  nosotros: habíamos esposado
+  vosotros: habíais esposado
+  uds: habían esposado
+futuro-perfecto:
+  yo: habré esposado
+  tu: habrás esposado
+  vos: habrás esposado
+  ud: habrá esposado
+  nosotros: habremos esposado
+  vosotros: habréis esposado
+  uds: habrán esposado
+condicional-perfecto:
+  yo: habría esposado
+  tu: habrías esposado
+  vos: habrías esposado
+  ud: habría esposado
+  nosotros: habríamos esposado
+  vosotros: habríais esposado
+  uds: habrían esposado
+presente-subjuntivo:
+  yo: espose
+  tu: esposes
+  vos: esposes
+  ud: espose
+  nosotros: esposemos
+  vosotros: esposéis
+  uds: espoquen
+preterito-perfecto-subjuntivo:
+  yo: haya esposado
+  tu: hayas esposado
+  vos: hayas esposado
+  ud: haya esposado
+  nosotros: hayamos esposado
+  vosotros: hayáis esposado
+  uds: hayan esposado
+imperfecto-subjuntivo:
+  yo:
+    - esposara
+    - esposase
+  tu:
+    - esposaras
+    - esposases
+  vos:
+    - esposaras
+    - esposases
+  ud:
+    - esposara
+    - esposase
+  nosotros:
+    - esposáramos
+    - esposásemos
+  vosotros:
+    - esposarais
+    - esposaseis
+  uds:
+    - esposaran
+    - esposasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera esposado
+    - hubiese esposado
+  tu:
+    - hubieras esposado
+    - hubieses esposado
+  vos:
+    - hubieras esposado
+    - hubieses esposado
+  ud:
+    - hubiera esposado
+    - hubiese esposado
+  nosotros:
+    - hubiéramos esposado
+    - hubiésemos esposado
+  vosotros:
+    - hubierais esposado
+    - hubieseis esposado
+  uds:
+    - hubieran esposado
+    - hubiesen esposado
+imperativo:
+  tu: espose
+  vos: esposá
+  ud: espose
+  nosotros: esposamos
+  vosotros: esposad
+  uds: espoquen

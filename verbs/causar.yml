@@ -1,0 +1,142 @@
+infinitivo: causar
+gerundio: causando
+participio-pasado: causado
+presente-indicativo:
+  yo: causo
+  tu: causas
+  vos: causas
+  ud: causa
+  nosotros: causamos
+  vosotros: causáis
+  uds: causan
+preterito-perfecto-simple:
+  yo: causé
+  tu: causaste
+  vos: causaste
+  ud: causó
+  nosotros: causamos
+  vosotros: causasteis
+  uds: causaron
+preterito-imperfecto:
+  yo: causaba
+  tu: causabas
+  vos: causabas
+  ud: causaba
+  nosotros: causábamos
+  vosotros: causabais
+  uds: causaban
+futuro-simple:
+  yo: causaré
+  tu: causarás
+  vos: causarás
+  ud: causará
+  nosotros: causaremos
+  vosotros: causaréis
+  uds: causarán
+condicional-simple:
+  yo: causaría
+  tu: causarías
+  vos: causarías
+  ud: causaría
+  nosotros: causaríamos
+  vosotros: causaríais
+  uds: causarían
+presente-perfecto:
+  yo: he causado
+  tu: has causado
+  vos: has causado
+  ud: ha causado
+  nosotros: hemos causado
+  vosotros: habéis causado
+  uds: han causado
+preterito-pluscuamperfecto:
+  yo: había causado
+  tu: habías causado
+  vos: habías causado
+  ud: había causado
+  nosotros: habíamos causado
+  vosotros: habíais causado
+  uds: habían causado
+futuro-perfecto:
+  yo: habré causado
+  tu: habrás causado
+  vos: habrás causado
+  ud: habrá causado
+  nosotros: habremos causado
+  vosotros: habréis causado
+  uds: habrán causado
+condicional-perfecto:
+  yo: habría causado
+  tu: habrías causado
+  vos: habrías causado
+  ud: habría causado
+  nosotros: habríamos causado
+  vosotros: habríais causado
+  uds: habrían causado
+presente-subjuntivo:
+  yo: cause
+  tu: causes
+  vos: causes
+  ud: cause
+  nosotros: causemos
+  vosotros: causéis
+  uds: causen
+preterito-perfecto-subjuntivo:
+  yo: haya causado
+  tu: hayas causado
+  vos: hayas causado
+  ud: haya causado
+  nosotros: hayamos causado
+  vosotros: hayáis causado
+  uds: hayan causado
+imperfecto-subjuntivo:
+  yo:
+    - causara
+    - causase
+  tu:
+    - causaras
+    - causases
+  vos:
+    - causaras
+    - causases
+  ud:
+    - causara
+    - causase
+  nosotros:
+    - causáramos
+    - causásemos
+  vosotros:
+    - causarais
+    - causaseis
+  uds:
+    - causaran
+    - causasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera causado
+    - hubiese causado
+  tu:
+    - hubieras causado
+    - hubieses causado
+  vos:
+    - hubieras causado
+    - hubieses causado
+  ud:
+    - hubiera causado
+    - hubiese causado
+  nosotros:
+    - hubiéramos causado
+    - hubiésemos causado
+  vosotros:
+    - hubierais causado
+    - hubieseis causado
+  uds:
+    - hubieran causado
+    - hubiesen causado
+imperativo:
+  tu: causa
+  vos: causá
+  ud: cause
+  nosotros: causemos
+  vosotros: causad
+  uds: causen

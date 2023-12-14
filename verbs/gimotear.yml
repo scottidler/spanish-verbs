@@ -1,0 +1,142 @@
+infinitivo: gimotear
+gerundio: gimoteando
+participio-pasado: gimoteado
+presente-indicativo:
+  yo: gimoteo
+  tu: gimoteas
+  vos: gimoteas
+  ud: gimotea
+  nosotros: gimoteamos
+  vosotros: gimoteáis
+  uds: gimotean
+preterito-perfecto-simple:
+  yo: gimoteé
+  tu: gimoteaste
+  vos: gimoteaste
+  ud: gimoteó
+  nosotros: gimoteamos
+  vosotros: gimoteasteis
+  uds: gimotearon
+preterito-imperfecto:
+  yo: gimoteaba
+  tu: gimoteabas
+  vos: gimoteabas
+  ud: gimoteaba
+  nosotros: gimoteábamos
+  vosotros: gimoteabais
+  uds: gimoteaban
+futuro-simple:
+  yo: gimotearé
+  tu: gimotearás
+  vos: gimotearás
+  ud: gimoteará
+  nosotros: gimotearemos
+  vosotros: gimotearéis
+  uds: gimotearán
+condicional-simple:
+  yo: gimotearía
+  tu: gimotearías
+  vos: gimotearías
+  ud: gimotearía
+  nosotros: gimotearíamos
+  vosotros: gimotearíais
+  uds: gimotearían
+presente-perfecto:
+  yo: he gimoteado
+  tu: has gimoteado
+  vos: has gimoteado
+  ud: ha gimoteado
+  nosotros: hemos gimoteado
+  vosotros: habéis gimoteado
+  uds: han gimoteado
+preterito-pluscuamperfecto:
+  yo: había gimoteado
+  tu: habías gimoteado
+  vos: habías gimoteado
+  ud: había gimoteado
+  nosotros: habíamos gimoteado
+  vosotros: habíais gimoteado
+  uds: habían gimoteado
+futuro-perfecto:
+  yo: habré gimoteado
+  tu: habrás gimoteado
+  vos: habrás gimoteado
+  ud: habrá gimoteado
+  nosotros: habremos gimoteado
+  vosotros: habréis gimoteado
+  uds: habrán gimoteado
+condicional-perfecto:
+  yo: habría gimoteado
+  tu: habrías gimoteado
+  vos: habrías gimoteado
+  ud: habría gimoteado
+  nosotros: habríamos gimoteado
+  vosotros: habríais gimoteado
+  uds: habrían gimoteado
+presente-subjuntivo:
+  yo: gimotee
+  tu: gimotees
+  vos: gimotees
+  ud: gimotee
+  nosotros: gimoteemos
+  vosotros: gimoteéis
+  uds: gimoteen
+preterito-perfecto-subjuntivo:
+  yo: haya gimoteado
+  tu: hayas gimoteado
+  vos: hayas gimoteado
+  ud: haya gimoteado
+  nosotros: hayamos gimoteado
+  vosotros: hayáis gimoteado
+  uds: hayan gimoteado
+imperfecto-subjuntivo:
+  yo:
+    - gimoteara
+    - gimotearase
+  tu:
+    - gimotearas
+    - gimotearases
+  vos:
+    - gimotearas
+    - gimotearases
+  ud:
+    - gimoteara
+    - gimotearase
+  nosotros:
+    - gimoteáramos
+    - gimoteásemos
+  vosotros:
+    - gimotearais
+    - gimotearaseis
+  uds:
+    - gimotearan
+    - gimotearasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera gimoteado
+    - hubiese gimoteado
+  tu:
+    - hubieras gimoteado
+    - hubieses gimoteado
+  vos:
+    - hubieras gimoteado
+    - hubieses gimoteado
+  ud:
+    - hubiera gimoteado
+    - hubiese gimoteado
+  nosotros:
+    - hubiéramos gimoteado
+    - hubiésemos gimoteado
+  vosotros:
+    - hubierais gimoteado
+    - hubieseis gimoteado
+  uds:
+    - hubieran gimoteado
+    - hubiesen gimoteado
+imperativo:
+  tu: gimotea
+  vos: gimoteá
+  ud: gimotee
+  nosotros: gimoteemos
+  vosotros: gimotead
+  uds: gimoteen

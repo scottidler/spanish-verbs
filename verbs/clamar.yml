@@ -1,0 +1,142 @@
+infinitivo: clamar
+gerundio: clamando
+participio-pasado: clamado
+presente-indicativo:
+  yo: clamo
+  tu: clamas
+  vos: clamas
+  ud: clama
+  nosotros: clamamos
+  vosotros: clamáis
+  uds: claman
+preterito-perfecto-simple:
+  yo: clamé
+  tu: clamaste
+  vos: clamaste
+  ud: clamó
+  nosotros: clamamos
+  vosotros: clamasteis
+  uds: clamaron
+preterito-imperfecto:
+  yo: clamaba
+  tu: clamabas
+  vos: clamabas
+  ud: clamaba
+  nosotros: clamábamos
+  vosotros: clamabais
+  uds: clamaban
+futuro-simple:
+  yo: clamaré
+  tu: clamarás
+  vos: clamarás
+  ud: clamara
+  nosotros: clamaremos
+  vosotros: clamaréis
+  uds: clamarán
+condicional-simple:
+  yo: clamaría
+  tu: clamarías
+  vos: clamarías
+  ud: clamaría
+  nosotros: clamaríamos
+  vosotros: clamaríais
+  uds: clamarían
+presente-perfecto:
+  yo: he clamado
+  tu: has clamado
+  vos: has clamado
+  ud: ha clamado
+  nosotros: hemos clamado
+  vosotros: habéis clamado
+  uds: han clamado
+preterito-pluscuamperfecto:
+  yo: había clamado
+  tu: habías clamado
+  vos: habías clamado
+  ud: había clamado
+  nosotros: habíamos clamado
+  vosotros: habíais clamado
+  uds: habían clamado
+futuro-perfecto:
+  yo: habré clamado
+  tu: habrás clamado
+  vos: habrás clamado
+  ud: habrá clamado
+  nosotros: habremos clamado
+  vosotros: habréis clamado
+  uds: habrán clamado
+condicional-perfecto:
+  yo: habría clamado
+  tu: habrías clamado
+  vos: habrías clamado
+  ud: habría clamado
+  nosotros: habríamos clamado
+  vosotros: habríais clamado
+  uds: habrían clamado
+presente-subjuntivo:
+  yo: clame
+  tu: clames
+  vos: clames
+  ud: clame
+  nosotros: clamemos
+  vosotros: claméis
+  uds: clamen
+preterito-perfecto-subjuntivo:
+  yo: haya clamado
+  tu: hayas clamado
+  vos: hayas clamado
+  ud: haya clamado
+  nosotros: hayamos clamado
+  vosotros: hayáis clamado
+  uds: hayan clamado
+imperfecto-subjuntivo:
+  yo:
+    - clamara
+    - clamase
+  tu:
+    - clamaras
+    - clamases
+  vos:
+    - clamaras
+    - clamases
+  ud:
+    - clamara
+    - clamase
+  nosotros:
+    - clamáramos
+    - clamásemos
+  vosotros:
+    - clamarais
+    - clamaseis
+  uds:
+    - clamaran
+    - clamasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera clamado
+    - hubiese clamado
+  tu:
+    - hubieras clamado
+    - hubieses clamado
+  vos:
+    - hubieras clamado
+    - hubieses clamado
+  ud:
+    - hubiera clamado
+    - hubiese clamado
+  nosotros:
+    - hubiéramos clamado
+    - hubiésemos clamado
+  vosotros:
+    - hubierais clamado
+    - hubieseis clamado
+  uds:
+    - hubieran clamado
+    - hubiesen clamado
+imperativo:
+  tu: clama
+  vos: clamá
+  ud: clame
+  nosotros: clamemos
+  vosotros: clamad
+  uds: clamen

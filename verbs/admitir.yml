@@ -1,0 +1,142 @@
+infinitivo: admitir
+gerundio: admitiendo
+participio-pasado: admitido
+presente-indicativo:
+  yo: admito
+  tu: admites
+  vos: admites
+  ud: admite
+  nosotros: admitimos
+  vosotros: admitís
+  uds: admiten
+preterito-perfecto-simple:
+  yo: admití
+  tu: admitiste
+  vos: admitiste
+  ud: admitió
+  nosotros: admitimos
+  vosotros: admitisteis
+  uds: admitieron
+preterito-imperfecto:
+  yo: admitía
+  tu: admitías
+  vos: admitías
+  ud: admitía
+  nosotros: admitíamos
+  vosotros: admitíais
+  uds: admitían
+futuro-simple:
+  yo: admitiré
+  tu: admitirás
+  vos: admitirás
+  ud: admitirá
+  nosotros: admitiremos
+  vosotros: admitiréis
+  uds: admitirán
+condicional-simple:
+  yo: admitiría
+  tu: admitirías
+  vos: admitirías
+  ud: admitiría
+  nosotros: admitiríamos
+  vosotros: admitiríais
+  uds: admitirían
+presente-perfecto:
+  yo: he admitido
+  tu: has admitido
+  vos: has admitido
+  ud: ha admitido
+  nosotros: hemos admitido
+  vosotros: habéis admitido
+  uds: han admitido
+preterito-pluscuamperfecto:
+  yo: había admitido
+  tu: habías admitido
+  vos: habías admitido
+  ud: había admitido
+  nosotros: habíamos admitido
+  vosotros: habíais admitido
+  uds: habían admitido
+futuro-perfecto:
+  yo: habré admitido
+  tu: habrás admitido
+  vos: habrás admitido
+  ud: habrá admitido
+  nosotros: habremos admitido
+  vosotros: habréis admitido
+  uds: habrán admitido
+condicional-perfecto:
+  yo: habría admitido
+  tu: habrías admitido
+  vos: habrías admitido
+  ud: habría admitido
+  nosotros: habríamos admitido
+  vosotros: habríais admitido
+  uds: habrían admitido
+presente-subjuntivo:
+  yo: admita
+  tu: admitas
+  vos: admitas
+  ud: admita
+  nosotros: admitamos
+  vosotros: admitáis
+  uds: admitan
+preterito-perfecto-subjuntivo:
+  yo: haya admitido
+  tu: hayas admitido
+  vos: hayas admitido
+  ud: haya admitido
+  nosotros: hayamos admitido
+  vosotros: hayáis admitido
+  uds: hayan admitido
+imperfecto-subjuntivo:
+  yo:
+    - admitiera
+    - admitiese
+  tu:
+    - admitieras
+    - admitieses
+  vos:
+    - admitieras
+    - admitieses
+  ud:
+    - admitiera
+    - admitiese
+  nosotros:
+    - admitiéramos
+    - admitiésemos
+  vosotros:
+    - admitierais
+    - admitieseis
+  uds:
+    - admitieran
+    - admitiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera admitido
+    - hubiese admitido
+  tu:
+    - hubieras admitido
+    - hubieses admitido
+  vos:
+    - hubieras admitido
+    - hubieses admitido
+  ud:
+    - hubiera admitido
+    - hubiese admitido
+  nosotros:
+    - hubiéramos admitido
+    - hubiésemos admitido
+  vosotros:
+    - hubierais admitido
+    - hubieseis admitido
+  uds:
+    - hubieran admitido
+    - hubiesen admitido
+imperativo:
+  tu: admite
+  vos: admití
+  ud: admita
+  nosotros: admitamos
+  vosotros: admitid
+  uds: admitan

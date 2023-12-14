@@ -1,0 +1,142 @@
+infinitivo: poder
+gerundio: pudiendo
+participio-pasado: podido
+presente-indicativo:
+  yo: puedo
+  tu: puedes
+  vos: puedes
+  ud: puede
+  nosotros: podemos
+  vosotros: podéis
+  uds: pueden
+preterito-perfecto-simple:
+  yo: pude
+  tu: pudiste
+  vos: pudiste
+  ud: pudo
+  nosotros: pudimos
+  vosotros: pudisteis
+  uds: pudieron
+preterito-imperfecto:
+  yo: podía
+  tu: podías
+  vos: podías
+  ud: podía
+  nosotros: podíamos
+  vosotros: podíais
+  uds: podían
+futuro-simple:
+  yo: podré
+  tu: podrás
+  vos: podrás
+  ud: podrá
+  nosotros: podremos
+  vosotros: podréis
+  uds: podrán
+condicional-simple:
+  yo: podría
+  tu: podrías
+  vos: podrías
+  ud: podría
+  nosotros: podríamos
+  vosotros: podríais
+  uds: podrían
+presente-perfecto:
+  yo: he podido
+  tu: has podido
+  vos: has podido
+  ud: ha podido
+  nosotros: hemos podido
+  vosotros: habéis podido
+  uds: han podido
+preterito-pluscuamperfecto:
+  yo: había podido
+  tu: habías podido
+  vos: habías podido
+  ud: había podido
+  nosotros: habíamos podido
+  vosotros: habíais podido
+  uds: habían podido
+futuro-perfecto:
+  yo: habré podido
+  tu: habrás podido
+  vos: habrás podido
+  ud: habrá podido
+  nosotros: habremos podido
+  vosotros: habréis podido
+  uds: habrán podido
+condicional-perfecto:
+  yo: habría podido
+  tu: habrías podido
+  vos: habrías podido
+  ud: habría podido
+  nosotros: habríamos podido
+  vosotros: habríais podido
+  uds: habrían podido
+presente-subjuntivo:
+  yo: pueda
+  tu: puedas
+  vos: puedas
+  ud: pueda
+  nosotros: podamos
+  vosotros: podáis
+  uds: puedan
+preterito-perfecto-subjuntivo:
+  yo: haya podido
+  tu: hayas podido
+  vos: hayas podido
+  ud: haya podido
+  nosotros: hayamos podido
+  vosotros: hayáis podido
+  uds: hayan podido
+imperfecto-subjuntivo:
+  yo:
+    - pudiera
+    - pudiese
+  tu:
+    - pudieras
+    - pudieses
+  vos:
+    - pudieras
+    - pudieses
+  ud:
+    - pudiera
+    - pudiese
+  nosotros:
+    - pudiéramos
+    - pudiésemos
+  vosotros:
+    - pudierais
+    - pudieseis
+  uds:
+    - pudieran
+    - pudiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera podido
+    - hubiese podido
+  tu:
+    - hubieras podido
+    - hubieses podido
+  vos:
+    - hubieras podido
+    - hubieses podido
+  ud:
+    - hubiera podido
+    - hubiese podido
+  nosotros:
+    - hubiéramos podido
+    - hubiésemos podido
+  vosotros:
+    - hubierais podido
+    - hubieseis podido
+  uds:
+    - hubieran podido
+    - hubiesen podido
+imperativo:
+  tu: puede
+  vos: podé
+  ud: pueda
+  nosotros: podamos
+  vosotros: poded
+  uds: puedan

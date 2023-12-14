@@ -1,0 +1,142 @@
+infinitivo: exceder
+gerundio: excediendo
+participio-pasado: excedido
+presente-indicativo:
+  yo: excedo
+  tu: excedes
+  vos: excedes
+  ud: excede
+  nosotros: excedemos
+  vosotros: excedéis
+  uds: exceden
+preterito-perfecto-simple:
+  yo: excedí
+  tu: excediste
+  vos: excediste
+  ud: excedió
+  nosotros: excedimos
+  vosotros: excedisteis
+  uds: excedieron
+preterito-imperfecto:
+  yo: excedía
+  tu: excedías
+  vos: excedías
+  ud: excedía
+  nosotros: excedíamos
+  vosotros: excedíais
+  uds: excedían
+futuro-simple:
+  yo: excederé
+  tu: excederás
+  vos: excederás
+  ud: excederá
+  nosotros: excederemos
+  vosotros: excederéis
+  uds: excederán
+condicional-simple:
+  yo: excedería
+  tu: excederías
+  vos: excederías
+  ud: excedería
+  nosotros: excederíamos
+  vosotros: excederíais
+  uds: excederían
+presente-perfecto:
+  yo: he excedido
+  tu: has excedido
+  vos: has excedido
+  ud: ha excedido
+  nosotros: hemos excedido
+  vosotros: habéis excedido
+  uds: han excedido
+preterito-pluscuamperfecto:
+  yo: había excedido
+  tu: habías excedido
+  vos: habías excedido
+  ud: había excedido
+  nosotros: habíamos excedido
+  vosotros: habíais excedido
+  uds: habían excedido
+futuro-perfecto:
+  yo: habré excedido
+  tu: habrás excedido
+  vos: habrás excedido
+  ud: habrá excedido
+  nosotros: habremos excedido
+  vosotros: habréis excedido
+  uds: habrán excedido
+condicional-perfecto:
+  yo: habría excedido
+  tu: habrías excedido
+  vos: habrías excedido
+  ud: habría excedido
+  nosotros: habríamos excedido
+  vosotros: habríais excedido
+  uds: habrían excedido
+presente-subjuntivo:
+  yo: exceda
+  tu: excedas
+  vos: excedas
+  ud: exceda
+  nosotros: excedamos
+  vosotros: excedáis
+  uds: excedan
+preterito-perfecto-subjuntivo:
+  yo: haya excedido
+  tu: hayas excedido
+  vos: hayas excedido
+  ud: haya excedido
+  nosotros: hayamos excedido
+  vosotros: hayáis excedido
+  uds: hayan excedido
+imperfecto-subjuntivo:
+  yo:
+    - excediera
+    - excediese
+  tu:
+    - excedieras
+    - excedieses
+  vos:
+    - excedieras
+    - excedieses
+  ud:
+    - excediera
+    - excediese
+  nosotros:
+    - excediéramos
+    - excediésemos
+  vosotros:
+    - excedierais
+    - excedieseis
+  uds:
+    - excedieran
+    - excediesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera excedido
+    - hubiese excedido
+  tu:
+    - hubieras excedido
+    - hubieses excedido
+  vos:
+    - hubieras excedido
+    - hubieses excedido
+  ud:
+    - hubiera excedido
+    - hubiese excedido
+  nosotros:
+    - hubiéramos excedido
+    - hubiésemos excedido
+  vosotros:
+    - hubierais excedido
+    - hubieseis excedido
+  uds:
+    - hubieran excedido
+    - hubiesen excedido
+imperativo:
+  tu: excede
+  vos: excedé
+  ud: exceda
+  nosotros: excedamos
+  vosotros: exceded
+  uds: excedan

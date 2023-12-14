@@ -1,0 +1,142 @@
+infinitivo: madurar
+gerundio: madurando
+participio-pasado: madurado
+presente-indicativo:
+  yo: maduro
+  tu: maduras
+  vos: maduras
+  ud: madura
+  nosotros: maduramos
+  vosotros: maduráis
+  uds: maduran
+preterito-perfecto-simple:
+  yo: maduré
+  tu: maduraste
+  vos: maduraste
+  ud: maduró
+  nosotros: maduramos
+  vosotros: madurasteis
+  uds: maduraron
+preterito-imperfecto:
+  yo: maduraba
+  tu: madurabas
+  vos: madurabas
+  ud: maduraba
+  nosotros: madurábamos
+  vosotros: madurabais
+  uds: maduraban
+futuro-simple:
+  yo: maduraré
+  tu: madurarás
+  vos: madurarás
+  ud: madurará
+  nosotros: maduraremos
+  vosotros: maduraréis
+  uds: madurarán
+condicional-simple:
+  yo: maduraría
+  tu: madurarías
+  vos: madurarías
+  ud: maduraría
+  nosotros: maduraríamos
+  vosotros: maduraríais
+  uds: madurarían
+presente-perfecto:
+  yo: he madurado
+  tu: has madurado
+  vos: has madurado
+  ud: ha madurado
+  nosotros: hemos madurado
+  vosotros: habéis madurado
+  uds: han madurado
+preterito-pluscuamperfecto:
+  yo: había madurado
+  tu: habías madurado
+  vos: habías madurado
+  ud: había madurado
+  nosotros: habíamos madurado
+  vosotros: habíais madurado
+  uds: habían madurado
+futuro-perfecto:
+  yo: habré madurado
+  tu: habrás madurado
+  vos: habrás madurado
+  ud: habrá madurado
+  nosotros: habremos madurado
+  vosotros: habréis madurado
+  uds: habrán madurado
+condicional-perfecto:
+  yo: habría madurado
+  tu: habrías madurado
+  vos: habrías madurado
+  ud: habría madurado
+  nosotros: habríamos madurado
+  vosotros: habríais madurado
+  uds: habrían madurado
+presente-subjuntivo:
+  yo: madure
+  tu: madures
+  vos: madures
+  ud: madure
+  nosotros: maduremos
+  vosotros: maduréis
+  uds: maduren
+preterito-perfecto-subjuntivo:
+  yo: haya madurado
+  tu: hayas madurado
+  vos: hayas madurado
+  ud: haya madurado
+  nosotros: hayamos madurado
+  vosotros: hayáis madurado
+  uds: hayan madurado
+imperfecto-subjuntivo:
+  yo:
+    - madurara
+    - madurase
+  tu:
+    - maduraras
+    - madurases
+  vos:
+    - maduraras
+    - madurases
+  ud:
+    - madurara
+    - madurase
+  nosotros:
+    - maduráramos
+    - madurásemos
+  vosotros:
+    - madurarais
+    - maduraseis
+  uds:
+    - maduraran
+    - madurasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera madurado
+    - hubiese madurado
+  tu:
+    - hubieras madurado
+    - hubieses madurado
+  vos:
+    - hubieras madurado
+    - hubieses madurado
+  ud:
+    - hubiera madurado
+    - hubiese madurado
+  nosotros:
+    - hubiéramos madurado
+    - hubiésemos madurado
+  vosotros:
+    - hubierais madurado
+    - hubieseis madurado
+  uds:
+    - hubieran madurado
+    - hubiesen madurado
+imperativo:
+  tu: madura
+  vos: madurá
+  ud: madure
+  nosotros: maduremos
+  vosotros: madurad
+  uds: maduren

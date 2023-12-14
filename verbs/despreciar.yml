@@ -1,0 +1,142 @@
+infinitivo: despreciar
+gerundio: despreciando
+participio-pasado: despreciado
+presente-indicativo:
+  yo: desprecio
+  tu: desprecias
+  vos: desprecias
+  ud: desprecia
+  nosotros: despreciamos
+  vosotros: despreciáis
+  uds: desprecian
+preterito-perfecto-simple:
+  yo: desprecié
+  tu: despreciaste
+  vos: despreciaste
+  ud: despreció
+  nosotros: despreciamos
+  vosotros: despreciasteis
+  uds: despreciaron
+preterito-imperfecto:
+  yo: despreciaba
+  tu: despreciabas
+  vos: despreciabas
+  ud: despreciaba
+  nosotros: despreciábamos
+  vosotros: despreciabais
+  uds: despreciaban
+futuro-simple:
+  yo: despreciaré
+  tu: despreciarás
+  vos: despreciarás
+  ud: despreciará
+  nosotros: despreciaremos
+  vosotros: despreciaréis
+  uds: despreciarán
+condicional-simple:
+  yo: despreciaría
+  tu: despreciarías
+  vos: despreciarías
+  ud: despreciaría
+  nosotros: despreciaríamos
+  vosotros: despreciaríais
+  uds: despreciarían
+presente-perfecto:
+  yo: he despreciado
+  tu: has despreciado
+  vos: has despreciado
+  ud: ha despreciado
+  nosotros: hemos despreciado
+  vosotros: habéis despreciado
+  uds: han despreciado
+preterito-pluscuamperfecto:
+  yo: había despreciado
+  tu: habías despreciado
+  vos: habías despreciado
+  ud: había despreciado
+  nosotros: habíamos despreciado
+  vosotros: habíais despreciado
+  uds: habían despreciado
+futuro-perfecto:
+  yo: habré despreciado
+  tu: habrás despreciado
+  vos: habrás despreciado
+  ud: habrá despreciado
+  nosotros: habremos despreciado
+  vosotros: habréis despreciado
+  uds: habrán despreciado
+condicional-perfecto:
+  yo: habría despreciado
+  tu: habrías despreciado
+  vos: habrías despreciado
+  ud: habría despreciado
+  nosotros: habríamos despreciado
+  vosotros: habríais despreciado
+  uds: habrían despreciado
+presente-subjuntivo:
+  yo: desprecie
+  tu: desprecies
+  vos: desprecies
+  ud: desprecie
+  nosotros: despreciemos
+  vosotros: despreciéis
+  uds: desprecien
+preterito-perfecto-subjuntivo:
+  yo: haya despreciado
+  tu: hayas despreciado
+  vos: hayas despreciado
+  ud: haya despreciado
+  nosotros: hayamos despreciado
+  vosotros: hayáis despreciado
+  uds: hayan despreciado
+imperfecto-subjuntivo:
+  yo:
+    - despreciara
+    - despreciase
+  tu:
+    - despreciaras
+    - despreciases
+  vos:
+    - despreciaras
+    - despreciases
+  ud:
+    - despreciara
+    - despreciase
+  nosotros:
+    - despreciáramos
+    - despreciásemos
+  vosotros:
+    - despreciarais
+    - despreciaseis
+  uds:
+    - despreciaran
+    - despreciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera despreciado
+    - hubiese despreciado
+  tu:
+    - hubieras despreciado
+    - hubieses despreciado
+  vos:
+    - hubieras despreciado
+    - hubieses despreciado
+  ud:
+    - hubiera despreciado
+    - hubiese despreciado
+  nosotros:
+    - hubiéramos despreciado
+    - hubiésemos despreciado
+  vosotros:
+    - hubierais despreciado
+    - hubieseis despreciado
+  uds:
+    - hubieran despreciado
+    - hubiesen despreciado
+imperativo:
+  tu: desprecia
+  vos: desprecia
+  ud: desprecie
+  nosotros: despreciemos
+  vosotros: despreciad
+  uds: desprecien

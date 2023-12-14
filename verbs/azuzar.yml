@@ -1,0 +1,142 @@
+infinitivo: azuzar
+gerundio: azuzando
+participio-pasado: azuzado
+presente-indicativo:
+  yo: azuzo
+  tu: azuzas
+  vos: azuzas
+  ud: azuza
+  nosotros: azuzamos
+  vosotros: azuzáis
+  uds: azuzan
+preterito-perfecto-simple:
+  yo: azuzé
+  tu: azuzaste
+  vos: azuzaste
+  ud: azuzó
+  nosotros: azuzamos
+  vosotros: azuzasteis
+  uds: azuzaron
+preterito-imperfecto:
+  yo: azuzaba
+  tu: azuzabas
+  vos: azuzabas
+  ud: azuzaba
+  nosotros: azuzábamos
+  vosotros: azuzabais
+  uds: azuzaban
+futuro-simple:
+  yo: azuzaré
+  tu: azuzarás
+  vos: azuzarás
+  ud: azuzará
+  nosotros: azuzaremos
+  vosotros: azuzaréis
+  uds: azuzarán
+condicional-simple:
+  yo: azuzaría
+  tu: azuzarías
+  vos: azuzarías
+  ud: azuzaría
+  nosotros: azuzaríamos
+  vosotros: azuzaríais
+  uds: azuzarían
+presente-perfecto:
+  yo: he azuzado
+  tu: has azuzado
+  vos: has azuzado
+  ud: ha azuzado
+  nosotros: hemos azuzado
+  vosotros: habéis azuzado
+  uds: han azuzado
+preterito-pluscuamperfecto:
+  yo: había azuzado
+  tu: habías azuzado
+  vos: habías azuzado
+  ud: había azuzado
+  nosotros: habíamos azuzado
+  vosotros: habíais azuzado
+  uds: habían azuzado
+futuro-perfecto:
+  yo: habré azuzado
+  tu: habrás azuzado
+  vos: habrás azuzado
+  ud: habrá azuzado
+  nosotros: habremos azuzado
+  vosotros: habréis azuzado
+  uds: habrán azuzado
+condicional-perfecto:
+  yo: habría azuzado
+  tu: habrías azuzado
+  vos: habrías azuzado
+  ud: habría azuzado
+  nosotros: habríamos azuzado
+  vosotros: habríais azuzado
+  uds: habrían azuzado
+presente-subjuntivo:
+  yo: azuce
+  tu: azuces
+  vos: azuces
+  ud: azuce
+  nosotros: azucemos
+  vosotros: azucéis
+  uds: azucen
+preterito-perfecto-subjuntivo:
+  yo: haya azuzado
+  tu: hayas azuzado
+  vos: hayas azuzado
+  ud: haya azuzado
+  nosotros: hayamos azuzado
+  vosotros: hayáis azuzado
+  uds: hayan azuzado
+imperfecto-subjuntivo:
+  yo:
+    - azuzara
+    - azuzase
+  tu:
+    - azuzaras
+    - azuzases
+  vos:
+    - azuzaras
+    - azuzases
+  ud:
+    - azuzara
+    - azuzase
+  nosotros:
+    - azuzáramos
+    - azuzásemos
+  vosotros:
+    - azuzarais
+    - azuzaseis
+  uds:
+    - azuzaran
+    - azuzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera azuzado
+    - hubiese azuzado
+  tu:
+    - hubieras azuzado
+    - hubieses azuzado
+  vos:
+    - hubieras azuzado
+    - hubieses azuzado
+  ud:
+    - hubiera azuzado
+    - hubiese azuzado
+  nosotros:
+    - hubiéramos azuzado
+    - hubiésemos azuzado
+  vosotros:
+    - hubierais azuzado
+    - hubieseis azuzado
+  uds:
+    - hubieran azuzado
+    - hubiesen azuzado
+imperativo:
+  tu: azuza
+  vos: azuzá
+  ud: azuce
+  nosotros: azucemos
+  vosotros: azuzad
+  uds: azucen

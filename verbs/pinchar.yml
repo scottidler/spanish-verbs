@@ -1,0 +1,142 @@
+infinitivo: pinchar
+gerundio: pinchando
+participio-pasado: pinchado
+presente-indicativo:
+  yo: pincho
+  tu: pinchas
+  vos: pinchas
+  ud: pincha
+  nosotros: pinchamos
+  vosotros: pincháis
+  uds: pinchan
+preterito-perfecto-simple:
+  yo: pinché
+  tu: pinchaste
+  vos: pinchaste
+  ud: pinchó
+  nosotros: pinchamos
+  vosotros: pinchasteis
+  uds: pincharon
+preterito-imperfecto:
+  yo: pinchaba
+  tu: pinchabas
+  vos: pinchabas
+  ud: pinchaba
+  nosotros: pinchábamos
+  vosotros: pinchabais
+  uds: pinchaban
+futuro-simple:
+  yo: pincharé
+  tu: pincharás
+  vos: pincharás
+  ud: pinchará
+  nosotros: pincharemos
+  vosotros: pincharéis
+  uds: pincharán
+condicional-simple:
+  yo: pincharía
+  tu: pincharías
+  vos: pincharías
+  ud: pincharía
+  nosotros: pincharíamos
+  vosotros: pincharíais
+  uds: pincharían
+presente-perfecto:
+  yo: he pinchado
+  tu: has pinchado
+  vos: has pinchado
+  ud: ha pinchado
+  nosotros: hemos pinchado
+  vosotros: habéis pinchado
+  uds: han pinchado
+preterito-pluscuamperfecto:
+  yo: había pinchado
+  tu: habías pinchado
+  vos: habías pinchado
+  ud: había pinchado
+  nosotros: habíamos pinchado
+  vosotros: habíais pinchado
+  uds: habían pinchado
+futuro-perfecto:
+  yo: habré pinchado
+  tu: habrás pinchado
+  vos: habrás pinchado
+  ud: habrá pinchado
+  nosotros: habremos pinchado
+  vosotros: habréis pinchado
+  uds: habrán pinchado
+condicional-perfecto:
+  yo: habría pinchado
+  tu: habrías pinchado
+  vos: habrías pinchado
+  ud: habría pinchado
+  nosotros: habríamos pinchado
+  vosotros: habríais pinchado
+  uds: habrían pinchado
+presente-subjuntivo:
+  yo: pinche
+  tu: pinches
+  vos: pinches
+  ud: pinche
+  nosotros: pinchemos
+  vosotros: pinchéis
+  uds: pinchen
+preterito-perfecto-subjuntivo:
+  yo: haya pinchado
+  tu: hayas pinchado
+  vos: hayas pinchado
+  ud: haya pinchado
+  nosotros: hayamos pinchado
+  vosotros: hayáis pinchado
+  uds: hayan pinchado
+imperfecto-subjuntivo:
+  yo:
+    - pinchara
+    - pinchase
+  tu:
+    - pincharas
+    - pinchases
+  vos:
+    - pincharas
+    - pinchases
+  ud:
+    - pinchara
+    - pinchase
+  nosotros:
+    - pincháramos
+    - pinchásemos
+  vosotros:
+    - pincharais
+    - pinchaseis
+  uds:
+    - pincharan
+    - pinchasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pinchado
+    - hubiese pinchado
+  tu:
+    - hubieras pinchado
+    - hubieses pinchado
+  vos:
+    - hubieras pinchado
+    - hubieses pinchado
+  ud:
+    - hubiera pinchado
+    - hubiese pinchado
+  nosotros:
+    - hubiéramos pinchado
+    - hubiésemos pinchado
+  vosotros:
+    - hubierais pinchado
+    - hubieseis pinchado
+  uds:
+    - hubieran pinchado
+    - hubiesen pinchado
+imperativo:
+  tu: pincha
+  vos: pinchá
+  ud: pinche
+  nosotros: pinchemos
+  vosotros: pinchad
+  uds: pinchen

@@ -1,0 +1,142 @@
+infinitivo: emplear
+gerundio: empleando
+participio-pasado: empleado
+presente-indicativo:
+  yo: empleo
+  tu: empleas
+  vos: empleas
+  ud: emplea
+  nosotros: empleamos
+  vosotros: empleáis
+  uds: emplean
+preterito-perfecto-simple:
+  yo: empleé
+  tu: empleaste
+  vos: empleaste
+  ud: empleó
+  nosotros: empleamos
+  vosotros: empleasteis
+  uds: emplearon
+preterito-imperfecto:
+  yo: empleaba
+  tu: empleabas
+  vos: empleabas
+  ud: empleaba
+  nosotros: empleábamos
+  vosotros: empleabais
+  uds: empleaban
+futuro-simple:
+  yo: emplearé
+  tu: emplearás
+  vos: emplearás
+  ud: empleará
+  nosotros: emplearemos
+  vosotros: emplearéis
+  uds: emplearán
+condicional-simple:
+  yo: emplearía
+  tu: emplearías
+  vos: emplearías
+  ud: emplearía
+  nosotros: emplearíamos
+  vosotros: emplearíais
+  uds: emplearían
+presente-perfecto:
+  yo: he empleado
+  tu: has empleado
+  vos: has empleado
+  ud: ha empleado
+  nosotros: hemos empleado
+  vosotros: habéis empleado
+  uds: han empleado
+preterito-pluscuamperfecto:
+  yo: había empleado
+  tu: habías empleado
+  vos: habías empleado
+  ud: había empleado
+  nosotros: habíamos empleado
+  vosotros: habíais empleado
+  uds: habían empleado
+futuro-perfecto:
+  yo: habré empleado
+  tu: habrás empleado
+  vos: habrás empleado
+  ud: habrá empleado
+  nosotros: habremos empleado
+  vosotros: habréis empleado
+  uds: habrán empleado
+condicional-perfecto:
+  yo: habría empleado
+  tu: habrías empleado
+  vos: habrías empleado
+  ud: habría empleado
+  nosotros: habríamos empleado
+  vosotros: habríais empleado
+  uds: habrían empleado
+presente-subjuntivo:
+  yo: emplee
+  tu: emplees
+  vos: emplees
+  ud: emplee
+  nosotros: empleemos
+  vosotros: empleéis
+  uds: empleen
+preterito-perfecto-subjuntivo:
+  yo: haya empleado
+  tu: hayas empleado
+  vos: hayas empleado
+  ud: haya empleado
+  nosotros: hayamos empleado
+  vosotros: hayáis empleado
+  uds: hayan empleado
+imperfecto-subjuntivo:
+  yo:
+    - empleara
+    - emplease
+  tu:
+    - emplearas
+    - empleases
+  vos:
+    - emplearas
+    - empleases
+  ud:
+    - empleara
+    - emplease
+  nosotros:
+    - empleáramos
+    - empleásemos
+  vosotros:
+    - emplearais
+    - empleaseis
+  uds:
+    - emplearan
+    - empleasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera empleado
+    - hubiese empleado
+  tu:
+    - hubieras empleado
+    - hubieses empleado
+  vos:
+    - hubieras empleado
+    - hubieses empleado
+  ud:
+    - hubiera empleado
+    - hubiese empleado
+  nosotros:
+    - hubiéramos empleado
+    - hubiésemos empleado
+  vosotros:
+    - hubierais empleado
+    - hubieseis empleado
+  uds:
+    - hubieran empleado
+    - hubiesen empleado
+imperativo:
+  tu: emplea
+  vos: empleá
+  ud: emplee
+  nosotros: empleemos
+  vosotros: emplead
+  uds: empleen

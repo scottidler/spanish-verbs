@@ -1,0 +1,142 @@
+infinitivo: forjar
+gerundio: forjando
+participio-pasado: forjado
+presente-indicativo:
+  yo: forjo
+  tu: forjas
+  vos: forjás
+  ud: forja
+  nosotros: forjamos
+  vosotros: forjáis
+  uds: forjan
+preterito-perfecto-simple:
+  yo: forjé
+  tu: forjaste
+  vos: forjaste
+  ud: forjó
+  nosotros: forjamos
+  vosotros: forjasteis
+  uds: forjaron
+preterito-imperfecto:
+  yo: forjaba
+  tu: forjabas
+  vos: forjabas
+  ud: forjaba
+  nosotros: forjábamos
+  vosotros: forjabais
+  uds: forjaban
+futuro-simple:
+  yo: forjaré
+  tu: forjarás
+  vos: forjarás
+  ud: forjará
+  nosotros: forjaremos
+  vosotros: forjaréis
+  uds: forjarán
+condicional-simple:
+  yo: forjaría
+  tu: forjarías
+  vos: forjarías
+  ud: forjaría
+  nosotros: forjaríamos
+  vosotros: forjaríais
+  uds: forjarían
+presente-perfecto:
+  yo: he forjado
+  tu: has forjado
+  vos: has forjado
+  ud: ha forjado
+  nosotros: hemos forjado
+  vosotros: habéis forjado
+  uds: han forjado
+preterito-pluscuamperfecto:
+  yo: había forjado
+  tu: habías forjado
+  vos: habías forjado
+  ud: había forjado
+  nosotros: habíamos forjado
+  vosotros: habíais forjado
+  uds: habían forjado
+futuro-perfecto:
+  yo: habré forjado
+  tu: habrás forjado
+  vos: habrás forjado
+  ud: habrá forjado
+  nosotros: habremos forjado
+  vosotros: habréis forjado
+  uds: habrán forjado
+condicional-perfecto:
+  yo: habría forjado
+  tu: habrías forjado
+  vos: habrías forjado
+  ud: habría forjado
+  nosotros: habríamos forjado
+  vosotros: habríais forjado
+  uds: habrían forjado
+presente-subjuntivo:
+  yo: forje
+  tu: forjes
+  vos: forjes
+  ud: forje
+  nosotros: forjemos
+  vosotros: forjéis
+  uds: forjen
+preterito-perfecto-subjuntivo:
+  yo: haya forjado
+  tu: hayas forjado
+  vos: hayas forjado
+  ud: haya forjado
+  nosotros: hayamos forjado
+  vosotros: hayáis forjado
+  uds: hayan forjado
+imperfecto-subjuntivo:
+  yo:
+    - forjara
+    - forjase
+  tu:
+    - forjaras
+    - forjases
+  vos:
+    - forjaras
+    - forjases
+  ud:
+    - forjara
+    - forjase
+  nosotros:
+    - forjáramos
+    - forjásemos
+  vosotros:
+    - forjarais
+    - forjaseis
+  uds:
+    - forjaran
+    - forjasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera forjado
+    - hubiese forjado
+  tu:
+    - hubieras forjado
+    - hubieses forjado
+  vos:
+    - hubieras forjado
+    - hubieses forjado
+  ud:
+    - hubiera forjado
+    - hubiese forjado
+  nosotros:
+    - hubiéramos forjado
+    - hubiésemos forjado
+  vosotros:
+    - hubierais forjado
+    - hubieseis forjado
+  uds:
+    - hubieran forjado
+    - hubiesen forjado
+imperativo:
+  tu: forja
+  vos: forjá
+  ud: forje
+  nosotros: forjemos
+  vosotros: forjad
+  uds: forjen

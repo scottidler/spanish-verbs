@@ -1,0 +1,142 @@
+infinitivo: oír
+gerundio: oyendo
+participio-pasado: oído
+presente-indicativo:
+  yo: oigo
+  tu: oyes
+  vos: oyes
+  ud: oye
+  nosotros: oímos
+  vosotros: oís
+  uds: oyen
+preterito-perfecto-simple:
+  yo: oí
+  tu: oíste
+  vos: oíste
+  ud: oyó
+  nosotros: oímos
+  vosotros: oísteis
+  uds: oyeron
+preterito-imperfecto:
+  yo: oía
+  tu: oías
+  vos: oías
+  ud: oía
+  nosotros: oíamos
+  vosotros: oíais
+  uds: oían
+futuro-simple:
+  yo: oiré
+  tu: oirás
+  vos: oirás
+  ud: oirá
+  nosotros: oiremos
+  vosotros: oiréis
+  uds: oirán
+condicional-simple:
+  yo: oiría
+  tu: oirías
+  vos: oirías
+  ud: oiría
+  nosotros: oiríamos
+  vosotros: oiríais
+  uds: oirían
+presente-perfecto:
+  yo: he oído
+  tu: has oído
+  vos: has oído
+  ud: ha oído
+  nosotros: hemos oído
+  vosotros: habéis oído
+  uds: han oído
+preterito-pluscuamperfecto:
+  yo: había oído
+  tu: habías oído
+  vos: habías oído
+  ud: había oído
+  nosotros: habíamos oído
+  vosotros: habíais oído
+  uds: habían oído
+futuro-perfecto:
+  yo: habré oído
+  tu: habrás oído
+  vos: habrás oído
+  ud: habrá oído
+  nosotros: habremos oído
+  vosotros: habréis oído
+  uds: habrán oído
+condicional-perfecto:
+  yo: habría oído
+  tu: habrías oído
+  vos: habrías oído
+  ud: habría oído
+  nosotros: habríamos oído
+  vosotros: habríais oído
+  uds: habrían oído
+presente-subjuntivo:
+  yo: oiga
+  tu: oigas
+  vos: oigas
+  ud: oiga
+  nosotros: oigamos
+  vosotros: oigáis
+  uds: oigan
+preterito-perfecto-subjuntivo:
+  yo: haya oído
+  tu: hayas oído
+  vos: hayas oído
+  ud: haya oído
+  nosotros: hayamos oído
+  vosotros: hayáis oído
+  uds: hayan oído
+imperfecto-subjuntivo:
+  yo:
+    - oyera
+    - oyese
+  tu:
+    - oyeras
+    - oyese
+  vos:
+    - oyeras
+    - oyese
+  ud:
+    - oyera
+    - oyese
+  nosotros:
+    - oyéramos
+    - oyésemos
+  vosotros:
+    - oyerais
+    - oyeseis
+  uds:
+    - oyeran
+    - oyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera oído
+    - hubiese oído
+  tu:
+    - hubieras oído
+    - hubieses oído
+  vos:
+    - hubieras oído
+    - hubieses oído
+  ud:
+    - hubiera oído
+    - hubiese oído
+  nosotros:
+    - hubiéramos oído
+    - hubiésemos oído
+  vosotros:
+    - hubierais oído
+    - hubieseis oído
+  uds:
+    - hubieran oído
+    - hubiesen oído
+imperativo:
+  tu: oye
+  vos: oí
+  ud: oiga
+  nosotros: oigamos
+  vosotros: oíd
+  uds: oigan

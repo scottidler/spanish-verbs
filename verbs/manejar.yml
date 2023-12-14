@@ -1,0 +1,142 @@
+infinitivo: manejar
+gerundio: manejando
+participio-pasado: manejado
+presente-indicativo:
+  yo: manejo
+  tu: manejas
+  vos: manejas
+  ud: maneja
+  nosotros: manejamos
+  vosotros: manejáis
+  uds: manejan
+preterito-perfecto-simple:
+  yo: manejé
+  tu: manejaste
+  vos: manejaste
+  ud: manejó
+  nosotros: manejamos
+  vosotros: manejasteis
+  uds: manejaron
+preterito-imperfecto:
+  yo: manejaba
+  tu: manejabas
+  vos: manejabas
+  ud: manejaba
+  nosotros: manejábamos
+  vosotros: manejabais
+  uds: manejaban
+futuro-simple:
+  yo: manejaré
+  tu: manejarás
+  vos: manejarás
+  ud: manejará
+  nosotros: manejaremos
+  vosotros: manejaréis
+  uds: manejarán
+condicional-simple:
+  yo: manejaría
+  tu: manejarías
+  vos: manejarías
+  ud: manejaría
+  nosotros: manejaríamos
+  vosotros: manejaríais
+  uds: manejarían
+presente-perfecto:
+  yo: he manejado
+  tu: has manejado
+  vos: has manejado
+  ud: ha manejado
+  nosotros: hemos manejado
+  vosotros: habéis manejado
+  uds: han manejado
+preterito-pluscuamperfecto:
+  yo: había manejado
+  tu: habías manejado
+  vos: habías manejado
+  ud: había manejado
+  nosotros: habíamos manejado
+  vosotros: habíais manejado
+  uds: habían manejado
+futuro-perfecto:
+  yo: habré manejado
+  tu: habrás manejado
+  vos: habrás manejado
+  ud: habrá manejado
+  nosotros: habremos manejado
+  vosotros: habréis manejado
+  uds: habrán manejado
+condicional-perfecto:
+  yo: habría manejado
+  tu: habrías manejado
+  vos: habrías manejado
+  ud: habría manejado
+  nosotros: habríamos manejado
+  vosotros: habríais manejado
+  uds: habrían manejado
+presente-subjuntivo:
+  yo: maneje
+  tu: manejes
+  vos: manejes
+  ud: maneje
+  nosotros: manejemos
+  vosotros: manejéis
+  uds: manejen
+preterito-perfecto-subjuntivo:
+  yo: haya manejado
+  tu: hayas manejado
+  vos: hayas manejado
+  ud: haya manejado
+  nosotros: hayamos manejado
+  vosotros: hayáis manejado
+  uds: hayan manejado
+imperfecto-subjuntivo:
+  yo:
+    - manejara
+    - manejase
+  tu:
+    - manejaras
+    - manejases
+  vos:
+    - manejaras
+    - manejases
+  ud:
+    - manejara
+    - manejase
+  nosotros:
+    - manejáramos
+    - manejásemos
+  vosotros:
+    - manejarais
+    - manejaseis
+  uds:
+    - manejaran
+    - manejasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera manejado
+    - hubiese manejado
+  tu:
+    - hubieras manejado
+    - hubieses manejado
+  vos:
+    - hubieras manejado
+    - hubieses manejado
+  ud:
+    - hubiera manejado
+    - hubiese manejado
+  nosotros:
+    - hubiéramos manejado
+    - hubiésemos manejado
+  vosotros:
+    - hubierais manejado
+    - hubieseis manejado
+  uds:
+    - hubieran manejado
+    - hubiesen manejado
+imperativo:
+  tu: maneja
+  vos: manejá
+  ud: maneje
+  nosotros: manejemos
+  vosotros: manejad
+  uds: manejen

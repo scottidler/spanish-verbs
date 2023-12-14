@@ -1,0 +1,142 @@
+infinitivo: amortiguar
+gerundio: amortiguando
+participio-pasado: amortiguado
+presente-indicativo:
+  yo: amortiguo
+  tu: amortiguas
+  vos: amortiguas
+  ud: amortigua
+  nosotros: amortiguamos
+  vosotros: amortiguáis
+  uds: amortiguan
+preterito-perfecto-simple:
+  yo: amortigüé
+  tu: amortiguaste
+  vos: amortiguaste
+  ud: amortiguó
+  nosotros: amortiguamos
+  vosotros: amortiguasteis
+  uds: amortiguaron
+preterito-imperfecto:
+  yo: amortiguaba
+  tu: amortiguabas
+  vos: amortiguabas
+  ud: amortiguaba
+  nosotros: amortiguábamos
+  vosotros: amortiguabais
+  uds: amortiguaban
+futuro-simple:
+  yo: amortiguaré
+  tu: amortiguarás
+  vos: amortiguarás
+  ud: amortiguará
+  nosotros: amortiguaremos
+  vosotros: amortiguaréis
+  uds: amortiguarán
+condicional-simple:
+  yo: amortiguaría
+  tu: amortiguarías
+  vos: amortiguarías
+  ud: amortiguaría
+  nosotros: amortiguaríamos
+  vosotros: amortiguaríais
+  uds: amortiguarían
+presente-perfecto:
+  yo: he amortiguado
+  tu: has amortiguado
+  vos: has amortiguado
+  ud: ha amortiguado
+  nosotros: hemos amortiguado
+  vosotros: habéis amortiguado
+  uds: han amortiguado
+preterito-pluscuamperfecto:
+  yo: había amortiguado
+  tu: habías amortiguado
+  vos: habías amortiguado
+  ud: había amortiguado
+  nosotros: habíamos amortiguado
+  vosotros: habíais amortiguado
+  uds: habían amortiguado
+futuro-perfecto:
+  yo: habré amortiguado
+  tu: habrás amortiguado
+  vos: habrás amortiguado
+  ud: habrá amortiguado
+  nosotros: habremos amortiguado
+  vosotros: habréis amortiguado
+  uds: habrán amortiguado
+condicional-perfecto:
+  yo: habría amortiguado
+  tu: habrías amortiguado
+  vos: habrías amortiguado
+  ud: habría amortiguado
+  nosotros: habríamos amortiguado
+  vosotros: habríais amortiguado
+  uds: habrían amortiguado
+presente-subjuntivo:
+  yo: amortigue
+  tu: amortigües
+  vos: amortigües
+  ud: amortigue
+  nosotros: amortiguemos
+  vosotros: amortiguéis
+  uds: amortigüen
+preterito-perfecto-subjuntivo:
+  yo: haya amortiguado
+  tu: hayas amortiguado
+  vos: hayas amortiguado
+  ud: haya amortiguado
+  nosotros: hayamos amortiguado
+  vosotros: hayáis amortiguado
+  uds: hayan amortiguado
+imperfecto-subjuntivo:
+  yo:
+    - amortiguara
+    - amortiguase
+  tu:
+    - amortiguaras
+    - amortiguases
+  vos:
+    - amortiguaras
+    - amortiguases
+  ud:
+    - amortiguara
+    - amortiguase
+  nosotros:
+    - amortiguáramos
+    - amortiguásemos
+  vosotros:
+    - amortiguarais
+    - amortiguaseis
+  uds:
+    - amortiguaran
+    - amortiguasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera amortiguado
+    - hubiese amortiguado
+  tu:
+    - hubieras amortiguado
+    - hubieses amortiguado
+  vos:
+    - hubieras amortiguado
+    - hubieses amortiguado
+  ud:
+    - hubiera amortiguado
+    - hubiese amortiguado
+  nosotros:
+    - hubiéramos amortiguado
+    - hubiésemos amortiguado
+  vosotros:
+    - hubierais amortiguado
+    - hubieseis amortiguado
+  uds:
+    - hubieran amortiguado
+    - hubiesen amortiguado
+imperativo:
+  tu: amortigua
+  vos: amortiguá
+  ud: amortigue
+  nosotros: amortigüemos
+  vosotros: amortiguad
+  uds: amortigüen

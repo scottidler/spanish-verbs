@@ -1,0 +1,142 @@
+infinitivo: pasear
+gerundio: paseando
+participio-pasado: paseado
+presente-indicativo:
+  yo: paseo
+  tu: paseas
+  vos: paseás
+  ud: pasea
+  nosotros: paseamos
+  vosotros: paseáis
+  uds: pasean
+preterito-perfecto-simple:
+  yo: paseé
+  tu: paseaste
+  vos: paseaste
+  ud: paseó
+  nosotros: paseamos
+  vosotros: paseasteis
+  uds: pasearon
+preterito-imperfecto:
+  yo: paseaba
+  tu: paseabas
+  vos: paseabas
+  ud: paseaba
+  nosotros: paseábamos
+  vosotros: paseabais
+  uds: paseaban
+futuro-simple:
+  yo: pasearé
+  tu: pasearás
+  vos: pasearás
+  ud: paseará
+  nosotros: pasearemos
+  vosotros: pasearéis
+  uds: pasearán
+condicional-simple:
+  yo: pasearía
+  tu: pasearías
+  vos: pasearías
+  ud: pasearía
+  nosotros: pasearíamos
+  vosotros: pasearíais
+  uds: pasearían
+presente-perfecto:
+  yo: he paseado
+  tu: has paseado
+  vos: has paseado
+  ud: ha paseado
+  nosotros: hemos paseado
+  vosotros: habéis paseado
+  uds: han paseado
+preterito-pluscuamperfecto:
+  yo: había paseado
+  tu: habías paseado
+  vos: habías paseado
+  ud: había paseado
+  nosotros: habíamos paseado
+  vosotros: habíais paseado
+  uds: habían paseado
+futuro-perfecto:
+  yo: habré paseado
+  tu: habrás paseado
+  vos: habrás paseado
+  ud: habrá paseado
+  nosotros: habremos paseado
+  vosotros: habréis paseado
+  uds: habrán paseado
+condicional-perfecto:
+  yo: habría paseado
+  tu: habrías paseado
+  vos: habrías paseado
+  ud: habría paseado
+  nosotros: habríamos paseado
+  vosotros: habríais paseado
+  uds: habrían paseado
+presente-subjuntivo:
+  yo: pasee
+  tu: pasees
+  vos: pasees
+  ud: pasee
+  nosotros: paseemos
+  vosotros: paseéis
+  uds: paseen
+preterito-perfecto-subjuntivo:
+  yo: haya paseado
+  tu: hayas paseado
+  vos: hayas paseado
+  ud: haya paseado
+  nosotros: hayamos paseado
+  vosotros: hayáis paseado
+  uds: hayan paseado
+imperfecto-subjuntivo:
+  yo:
+    - paseara
+    - pasease
+  tu:
+    - pasearas
+    - paseases
+  vos:
+    - pasearas
+    - paseases
+  ud:
+    - paseara
+    - pasease
+  nosotros:
+    - paseáramos
+    - paseásemos
+  vosotros:
+    - pasearais
+    - paseaseis
+  uds:
+    - pasearan
+    - paseasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera paseado
+    - hubiese paseado
+  tu:
+    - hubieras paseado
+    - hubieses paseado
+  vos:
+    - hubieras paseado
+    - hubieses paseado
+  ud:
+    - hubiera paseado
+    - hubiese paseado
+  nosotros:
+    - hubiéramos paseado
+    - hubiésemos paseado
+  vosotros:
+    - hubierais paseado
+    - hubieseis paseado
+  uds:
+    - hubieran paseado
+    - hubiesen paseado
+imperativo:
+  tu: pasea
+  vos: paseá
+  ud: pasee
+  nosotros: paseemos
+  vosotros: pasead
+  uds: paseen

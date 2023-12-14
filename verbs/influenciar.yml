@@ -1,0 +1,142 @@
+infinitivo: influenciar
+gerundio: influenciando
+participio-pasado: influenciado
+presente-indicativo:
+  yo: influencio
+  tu: influencias
+  vos: influencias
+  ud: influencia
+  nosotros: influenciamos
+  vosotros: influenciáis
+  uds: influencian
+preterito-perfecto-simple:
+  yo: influencié
+  tu: influenciaste
+  vos: influenciaste
+  ud: influenció
+  nosotros: influenciamos
+  vosotros: influenciasteis
+  uds: influenciaron
+preterito-imperfecto:
+  yo: influenciaba
+  tu: influenciabas
+  vos: influenciabas
+  ud: influenciaba
+  nosotros: influenciábamos
+  vosotros: influenciabais
+  uds: influenciaban
+futuro-simple:
+  yo: influenciaré
+  tu: influenciarás
+  vos: influenciarás
+  ud: influenciará
+  nosotros: influenciaremos
+  vosotros: influenciaréis
+  uds: influenciarán
+condicional-simple:
+  yo: influenciaría
+  tu: influenciarías
+  vos: influenciarías
+  ud: influenciaría
+  nosotros: influenciaríamos
+  vosotros: influenciaríais
+  uds: influenciarían
+presente-perfecto:
+  yo: he influenciado
+  tu: has influenciado
+  vos: has influenciado
+  ud: ha influenciado
+  nosotros: hemos influenciado
+  vosotros: habéis influenciado
+  uds: han influenciado
+preterito-pluscuamperfecto:
+  yo: había influenciado
+  tu: habías influenciado
+  vos: habías influenciado
+  ud: había influenciado
+  nosotros: habíamos influenciado
+  vosotros: habíais influenciado
+  uds: habían influenciado
+futuro-perfecto:
+  yo: habré influenciado
+  tu: habrás influenciado
+  vos: habrás influenciado
+  ud: habrá influenciado
+  nosotros: habremos influenciado
+  vosotros: habréis influenciado
+  uds: habrán influenciado
+condicional-perfecto:
+  yo: habría influenciado
+  tu: habrías influenciado
+  vos: habrías influenciado
+  ud: habría influenciado
+  nosotros: habríamos influenciado
+  vosotros: habríais influenciado
+  uds: habrían influenciado
+presente-subjuntivo:
+  yo: influya
+  tu: influyas
+  vos: influyas
+  ud: influya
+  nosotros: influyamos
+  vosotros: influyáis
+  uds: influyan
+preterito-perfecto-subjuntivo:
+  yo: haya influenciado
+  tu: hayas influenciado
+  vos: hayas influenciado
+  ud: haya influenciado
+  nosotros: hayamos influenciado
+  vosotros: hayáis influenciado
+  uds: hayan influenciado
+imperfecto-subjuntivo:
+  yo:
+    - influenciara
+    - influenciase
+  tu:
+    - influenciaras
+    - influenciases
+  vos:
+    - influenciaras
+    - influenciases
+  ud:
+    - influenciara
+    - influenciase
+  nosotros:
+    - influenciáramos
+    - influenciásemos
+  vosotros:
+    - influenciarais
+    - influenciaseis
+  uds:
+    - influenciaran
+    - influenciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera influenciado
+    - hubiese influenciado
+  tu:
+    - hubieras influenciado
+    - hubieses influenciado
+  vos:
+    - hubieras influenciado
+    - hubieses influenciado
+  ud:
+    - hubiera influenciado
+    - hubiese influenciado
+  nosotros:
+    - hubiéramos influenciado
+    - hubiésemos influenciado
+  vosotros:
+    - hubierais influenciado
+    - hubieseis influenciado
+  uds:
+    - hubieran influenciado
+    - hubiesen influenciado
+imperativo:
+  tu: influencia
+  vos: influenciá
+  ud: influya
+  nosotros: influyamos
+  vosotros: influenciad
+  uds: influyan

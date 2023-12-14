@@ -1,0 +1,156 @@
+infinitivo: peinarse
+gerundio: peinándose
+participio-pasado: peinado
+
+presente-indicativo:
+  yo: me peino
+  tu: te peinas
+  vos: te peinas
+  ud: se peina
+  nosotros: nos peinamos
+  vosotros: os peináis
+  uds: se peinan
+
+preterito-perfecto-simple:
+  yo: me peiné
+  tu: te peinaste
+  vos: te peinaste
+  ud: se peinó
+  nosotros: nos peinamos
+  vosotros: os peinasteis
+  uds: se peinaron
+
+preterito-imperfecto:
+  yo: me peinaba
+  tu: te peinabas
+  vos: te peinabas
+  ud: se peinaba
+  nosotros: nos peinábamos
+  vosotros: os peinabais
+  uds: se peinaban
+
+futuro-simple:
+  yo: me peinaré
+  tu: te peinarás
+  vos: te peinarás
+  ud: se peinará
+  nosotros: nos peinaremos
+  vosotros: os peinaréis
+  uds: se peinarán
+
+condicional-simple:
+  yo: me peinaría
+  tu: te peinarías
+  vos: te peinarías
+  ud: se peinaría
+  nosotros: nos peinaríamos
+  vosotros: os peinaríais
+  uds: se peinarían
+
+presente-perfecto:
+  yo: me he peinado
+  tu: te has peinado
+  vos: te has peinado
+  ud: se ha peinado
+  nosotros: nos hemos peinado
+  vosotros: os habéis peinado
+  uds: se han peinado
+
+preterito-pluscuamperfecto:
+  yo: me había peinado
+  tu: te habías peinado
+  vos: te habías peinado
+  ud: se había peinado
+  nosotros: nos habíamos peinado
+  vosotros: os habíais peinado
+  uds: se habían peinado
+
+futuro-perfecto:
+  yo: me habré peinado
+  tu: te habrás peinado
+  vos: te habrás peinado
+  ud: se habrá peinado
+  nosotros: nos habremos peinado
+  vosotros: os habréis peinado
+  uds: se habrán peinado
+
+condicional-perfecto:
+  yo: me habría peinado
+  tu: te habrías peinado
+  vos: te habrías peinado
+  ud: se habría peinado
+  nosotros: nos habríamos peinado
+  vosotros: os habríais peinado
+  uds: se habrían peinado
+
+presente-subjuntivo:
+  yo: me peine
+  tu: te peines
+  vos: te peines
+  ud: se peine
+  nosotros: nos peinemos
+  vosotros: os peinéis
+  uds: se peinen
+
+preterito-perfecto-subjuntivo:
+  yo: me haya peinado
+  tu: te hayas peinado
+  vos: te hayas peinado
+  ud: se haya peinado
+  nosotros: nos hayamos peinado
+  vosotros: os hayáis peinado
+  uds: se hayan peinado
+
+imperfecto-subjuntivo:
+  yo:
+    - me peinara
+    - me peinase
+  tu:
+    - te peinaras
+    - te peinases
+  vos:
+    - te peinaras
+    - te peinases
+  ud:
+    - se peinara
+    - se peinase
+  nosotros:
+    - nos peináramos
+    - nos peinásemos
+  vosotros:
+    - os peinarais
+    - os peinaseis
+  uds:
+    - se peinaran
+    - se peinasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera peinado
+    - me hubiese peinado
+  tu:
+    - te hubieras peinado
+    - te hubieses peinado
+  vos:
+    - te hubieras peinado
+    - te hubieses peinado
+  ud:
+    - se hubiera peinado
+    - se hubiese peinado
+  nosotros:
+    - nos hubiéramos peinado
+    - nos hubiésemos peinado
+  vosotros:
+    - os hubierais peinado
+    - os hubieseis peinado
+  uds:
+    - se hubieran peinado
+    - se hubiesen peinado
+
+imperativo:
+  tu: peínate
+  vos: peináte
+  ud: píñese
+  nosotros: peinémonos
+  vosotros: peinaos
+  uds: píñense

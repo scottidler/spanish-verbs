@@ -1,0 +1,142 @@
+infinitivo: asear
+gerundio: aseando
+participio-pasado: aseado
+presente-indicativo:
+  yo: aseo
+  tu: aseas
+  vos: aseas
+  ud: asea
+  nosotros: aseamos
+  vosotros: aseáis
+  uds: asean
+preterito-perfecto-simple:
+  yo: aseé
+  tu: aseaste
+  vos: aseaste
+  ud: aseó
+  nosotros: aseamos
+  vosotros: aseasteis
+  uds: asearon
+preterito-imperfecto:
+  yo: aseaba
+  tu: aseabas
+  vos: aseabas
+  ud: aseaba
+  nosotros: aseábamos
+  vosotros: aseabais
+  uds: aseaban
+futuro-simple:
+  yo: asearé
+  tu: asearás
+  vos: asearás
+  ud: aseará
+  nosotros: asearemos
+  vosotros: asearéis
+  uds: asearán
+condicional-simple:
+  yo: asearía
+  tu: asearías
+  vos: asearías
+  ud: asearía
+  nosotros: asearíamos
+  vosotros: asearíais
+  uds: asearían
+presente-perfecto:
+  yo: he aseado
+  tu: has aseado
+  vos: has aseado
+  ud: ha aseado
+  nosotros: hemos aseado
+  vosotros: habéis aseado
+  uds: han aseado
+preterito-pluscuamperfecto:
+  yo: había aseado
+  tu: habías aseado
+  vos: habías aseado
+  ud: había aseado
+  nosotros: habíamos aseado
+  vosotros: habíais aseado
+  uds: habían aseado
+futuro-perfecto:
+  yo: habré aseado
+  tu: habrás aseado
+  vos: habrás aseado
+  ud: habrá aseado
+  nosotros: habremos aseado
+  vosotros: habréis aseado
+  uds: habrán aseado
+condicional-perfecto:
+  yo: habría aseado
+  tu: habrías aseado
+  vos: habrías aseado
+  ud: habría aseado
+  nosotros: habríamos aseado
+  vosotros: habríais aseado
+  uds: habrían aseado
+presente-subjuntivo:
+  yo: asee
+  tu: asees
+  vos: asees
+  ud: asee
+  nosotros: aseemos
+  vosotros: aseéis
+  uds: aseen
+preterito-perfecto-subjuntivo:
+  yo: haya aseado
+  tu: hayas aseado
+  vos: hayas aseado
+  ud: haya aseado
+  nosotros: hayamos aseado
+  vosotros: hayáis aseado
+  uds: hayan aseado
+imperfecto-subjuntivo:
+  yo:
+    - aseara
+    - asease
+  tu:
+    - asearas
+    - aseases
+  vos:
+    - asearas
+    - aseases
+  ud:
+    - aseara
+    - asease
+  nosotros:
+    - aseáramos
+    - aseásemos
+  vosotros:
+    - asearais
+    - aseaseis
+  uds:
+    - asearan
+    - aseasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera aseado
+    - hubiese aseado
+  tu:
+    - hubieras aseado
+    - hubieses aseado
+  vos:
+    - hubieras aseado
+    - hubieses aseado
+  ud:
+    - hubiera aseado
+    - hubiese aseado
+  nosotros:
+    - hubiéramos aseado
+    - hubiésemos aseado
+  vosotros:
+    - hubierais aseado
+    - hubieseis aseado
+  uds:
+    - hubieran aseado
+    - hubiesen aseado
+imperativo:
+  tu: asea
+  vos: aseá
+  ud: asee
+  nosotros: aseemos
+  vosotros: asead
+  uds: aseen

@@ -1,0 +1,142 @@
+infinitivo: codiciar
+gerundio: codiciando
+participio-pasado: codiciado
+presente-indicativo:
+  yo: codicio
+  tu: codicias
+  vos: codicias
+  ud: codicia
+  nosotros: codiciamos
+  vosotros: codiciáis
+  uds: codician
+preterito-perfecto-simple:
+  yo: codicié
+  tu: codiciaste
+  vos: codiciaste
+  ud: codició
+  nosotros: codiciamos
+  vosotros: codiciasteis
+  uds: codiciaron
+preterito-imperfecto:
+  yo: codiciaba
+  tu: codiciabas
+  vos: codiciabas
+  ud: codiciaba
+  nosotros: codiciábamos
+  vosotros: codiciabais
+  uds: codiciaban
+futuro-simple:
+  yo: codiciaré
+  tu: codiciarás
+  vos: codiciarás
+  ud: codiciará
+  nosotros: codiciaremos
+  vosotros: codiciaréis
+  uds: codiciarán
+condicional-simple:
+  yo: codiciaría
+  tu: codiciarías
+  vos: codiciarías
+  ud: codiciaría
+  nosotros: codiciaríamos
+  vosotros: codiciaríais
+  uds: codiciarían
+presente-perfecto:
+  yo: he codiciado
+  tu: has codiciado
+  vos: has codiciado
+  ud: ha codiciado
+  nosotros: hemos codiciado
+  vosotros: habéis codiciado
+  uds: han codiciado
+preterito-pluscuamperfecto:
+  yo: había codiciado
+  tu: habías codiciado
+  vos: habías codiciado
+  ud: había codiciado
+  nosotros: habíamos codiciado
+  vosotros: habíais codiciado
+  uds: habían codiciado
+futuro-perfecto:
+  yo: habré codiciado
+  tu: habrás codiciado
+  vos: habrás codiciado
+  ud: habrá codiciado
+  nosotros: habremos codiciado
+  vosotros: habréis codiciado
+  uds: habrán codiciado
+condicional-perfecto:
+  yo: habría codiciado
+  tu: habrías codiciado
+  vos: habrías codiciado
+  ud: habría codiciado
+  nosotros: habríamos codiciado
+  vosotros: habríais codiciado
+  uds: habrían codiciado
+presente-subjuntivo:
+  yo: codicie
+  tu: codicies
+  vos: codicies
+  ud: codicie
+  nosotros: codiciemos
+  vosotros: codiciéis
+  uds: codicien
+preterito-perfecto-subjuntivo:
+  yo: haya codiciado
+  tu: hayas codiciado
+  vos: hayas codiciado
+  ud: haya codiciado
+  nosotros: hayamos codiciado
+  vosotros: hayáis codiciado
+  uds: hayan codiciado
+imperfecto-subjuntivo:
+  yo:
+    - codiciara
+    - codiciase
+  tu:
+    - codiciaras
+    - codiciases
+  vos:
+    - codiciaras
+    - codiciases
+  ud:
+    - codiciara
+    - codiciase
+  nosotros:
+    - codiciáramos
+    - codiciásemos
+  vosotros:
+    - codiciarais
+    - codiciaseis
+  uds:
+    - codiciaran
+    - codiciasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera codiciado
+    - hubiese codiciado
+  tu:
+    - hubieras codiciado
+    - hubieses codiciado
+  vos:
+    - hubieras codiciado
+    - hubieses codiciado
+  ud:
+    - hubiera codiciado
+    - hubiese codiciado
+  nosotros:
+    - hubiéramos codiciado
+    - hubiésemos codiciado
+  vosotros:
+    - hubierais codiciado
+    - hubieseis codiciado
+  uds:
+    - hubieran codiciado
+    - hubiesen codiciado
+imperativo:
+  tu: codicia
+  vos: codicá
+  ud: codicie
+  nosotros: codiciemos
+  vosotros: codiciad
+  uds: codicien

@@ -1,0 +1,142 @@
+infinitivo: reconstruir
+gerundio: reconstruyendo
+participio-pasado: reconstruido
+presente-indicativo:
+  yo: reconstruyo
+  tu: reconstruyes
+  vos: reconstruís
+  ud: reconstruye
+  nosotros: reconstruimos
+  vosotros: reconstruís
+  uds: reconstruyen
+preterito-perfecto-simple:
+  yo: reconstruí
+  tu: reconstruiste
+  vos: reconstruiste
+  ud: reconstruyó
+  nosotros: reconstruimos
+  vosotros: reconstruisteis
+  uds: reconstruyeron
+preterito-imperfecto:
+  yo: reconstruía
+  tu: reconstruías
+  vos: reconstruías
+  ud: reconstruía
+  nosotros: reconstruíamos
+  vosotros: reconstruíais
+  uds: reconstruían
+futuro-simple:
+  yo: reconstruiré
+  tu: reconstruirás
+  vos: reconstruirás
+  ud: reconstruirá
+  nosotros: reconstruiremos
+  vosotros: reconstruiréis
+  uds: reconstruirán
+condicional-simple:
+  yo: reconstruiría
+  tu: reconstruirías
+  vos: reconstruirías
+  ud: reconstruiría
+  nosotros: reconstruiríamos
+  vosotros: reconstruiríais
+  uds: reconstruirían
+presente-perfecto:
+  yo: he reconstruido
+  tu: has reconstruido
+  vos: has reconstruido
+  ud: ha reconstruido
+  nosotros: hemos reconstruido
+  vosotros: habéis reconstruido
+  uds: han reconstruido
+preterito-pluscuamperfecto:
+  yo: había reconstruido
+  tu: habías reconstruido
+  vos: habías reconstruido
+  ud: había reconstruido
+  nosotros: habíamos reconstruido
+  vosotros: habíais reconstruido
+  uds: habían reconstruido
+futuro-perfecto:
+  yo: habré reconstruido
+  tu: habrás reconstruido
+  vos: habrás reconstruido
+  ud: habrá reconstruido
+  nosotros: habremos reconstruido
+  vosotros: habréis reconstruido
+  uds: habrán reconstruido
+condicional-perfecto:
+  yo: habría reconstruido
+  tu: habrías reconstruido
+  vos: habrías reconstruido
+  ud: habría reconstruido
+  nosotros: habríamos reconstruido
+  vosotros: habríais reconstruido
+  uds: habrían reconstruido
+presente-subjuntivo:
+  yo: reconstruya
+  tu: reconstruyas
+  vos: reconstruyas
+  ud: reconstruya
+  nosotros: reconstruyamos
+  vosotros: reconstruyáis
+  uds: reconstruyan
+preterito-perfecto-subjuntivo:
+  yo: haya reconstruido
+  tu: hayas reconstruido
+  vos: hayas reconstruido
+  ud: haya reconstruido
+  nosotros: hayamos reconstruido
+  vosotros: hayáis reconstruido
+  uds: hayan reconstruido
+imperfecto-subjuntivo:
+  yo:
+    - reconstruyera
+    - reconstruyese
+  tu:
+    - reconstruyeras
+    - reconstruyeses
+  vos:
+    - reconstruyeras
+    - reconstruyeses
+  ud:
+    - reconstruyera
+    - reconstruyese
+  nosotros:
+    - reconstruyéramos
+    - reconstruyésemos
+  vosotros:
+    - reconstruyerais
+    - reconstruyeseis
+  uds:
+    - reconstruyeran
+    - reconstruyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reconstruido
+    - hubiese reconstruido
+  tu:
+    - hubieras reconstruido
+    - hubieses reconstruido
+  vos:
+    - hubieras reconstruido
+    - hubieses reconstruido
+  ud:
+    - hubiera reconstruido
+    - hubiese reconstruido
+  nosotros:
+    - hubiéramos reconstruido
+    - hubiésemos reconstruido
+  vosotros:
+    - hubierais reconstruido
+    - hubieseis reconstruido
+  uds:
+    - hubieran reconstruido
+    - hubiesen reconstruido
+imperativo:
+  tu: reconstruye
+  vos: reconstruí
+  ud: reconstruya
+  nosotros: reconstruyamos
+  vosotros: reconstruid
+  uds: reconstruyan

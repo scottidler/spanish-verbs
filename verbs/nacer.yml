@@ -1,0 +1,142 @@
+infinitivo: nacer
+gerundio: naciendo
+participio-pasado: nacido
+presente-indicativo:
+  yo: nazco
+  tu: naces
+  vos: naces
+  ud: nace
+  nosotros: nacemos
+  vosotros: nacéis
+  uds: nacen
+preterito-perfecto-simple:
+  yo: nací
+  tu: naciste
+  vos: naciste
+  ud: nació
+  nosotros: nacimos
+  vosotros: nacisteis
+  uds: nacieron
+preterito-imperfecto:
+  yo: nacía
+  tu: nacías
+  vos: nacías
+  ud: nacía
+  nosotros: nacíamos
+  vosotros: nacíais
+  uds: nacían
+futuro-simple:
+  yo: naceré
+  tu: nacerás
+  vos: nacerás
+  ud: nacerá
+  nosotros: naceremos
+  vosotros: naceréis
+  uds: nacerán
+condicional-simple:
+  yo: nacería
+  tu: nacerías
+  vos: nacerías
+  ud: nacería
+  nosotros: naceríamos
+  vosotros: naceríais
+  uds: nacerían
+presente-perfecto:
+  yo: he nacido
+  tu: has nacido
+  vos: has nacido
+  ud: ha nacido
+  nosotros: hemos nacido
+  vosotros: habéis nacido
+  uds: han nacido
+preterito-pluscuamperfecto:
+  yo: había nacido
+  tu: habías nacido
+  vos: habías nacido
+  ud: había nacido
+  nosotros: habíamos nacido
+  vosotros: habíais nacido
+  uds: habían nacido
+futuro-perfecto:
+  yo: habré nacido
+  tu: habrás nacido
+  vos: habrás nacido
+  ud: habrá nacido
+  nosotros: habremos nacido
+  vosotros: habréis nacido
+  uds: habrán nacido
+condicional-perfecto:
+  yo: habría nacido
+  tu: habrías nacido
+  vos: habrías nacido
+  ud: habría nacido
+  nosotros: habríamos nacido
+  vosotros: habríais nacido
+  uds: habrían nacido
+presente-subjuntivo:
+  yo: nazca
+  tu: nazcas
+  vos: nazcas
+  ud: nazca
+  nosotros: nazcamos
+  vosotros: nazcáis
+  uds: nazcan
+preterito-perfecto-subjuntivo:
+  yo: haya nacido
+  tu: hayas nacido
+  vos: hayas nacido
+  ud: haya nacido
+  nosotros: hayamos nacido
+  vosotros: hayáis nacido
+  uds: hayan nacido
+imperfecto-subjuntivo:
+  yo:
+    - naciera
+    - naciese
+  tu:
+    - nacieras
+    - nacieses
+  vos:
+    - nacieras
+    - nacieses
+  ud:
+    - naciera
+    - naciese
+  nosotros:
+    - naciéramos
+    - naciésemos
+  vosotros:
+    - nacierais
+    - nacieseis
+  uds:
+    - nacieran
+    - naciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera nacido
+    - hubiese nacido
+  tu:
+    - hubieras nacido
+    - hubieses nacido
+  vos:
+    - hubieras nacido
+    - hubieses nacido
+  ud:
+    - hubiera nacido
+    - hubiese nacido
+  nosotros:
+    - hubiéramos nacido
+    - hubiésemos nacido
+  vosotros:
+    - hubierais nacido
+    - hubieseis nacido
+  uds:
+    - hubieran nacido
+    - hubiesen nacido
+imperativo:
+  tu: nace
+  vos: nacé
+  ud: nazca
+  nosotros: nazcamos
+  vosotros: naced
+  uds: nazcan

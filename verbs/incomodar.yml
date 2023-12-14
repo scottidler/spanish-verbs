@@ -1,0 +1,142 @@
+infinitivo: incomodar
+gerundio: incomodando
+participio-pasado: incomodado
+presente-indicativo:
+  yo: incomodo
+  tu: incomodas
+  vos: incomodas
+  ud: incomoda
+  nosotros: incomodamos
+  vosotros: incomodáis
+  uds: incomodan
+preterito-perfecto-simple:
+  yo: incomodé
+  tu: incomodaste
+  vos: incomodaste
+  ud: incomodó
+  nosotros: incomodamos
+  vosotros: incomodasteis
+  uds: incomodaron
+preterito-imperfecto:
+  yo: incomodaba
+  tu: incomodabas
+  vos: incomodabas
+  ud: incomodaba
+  nosotros: incomodábamos
+  vosotros: incomodabais
+  uds: incomodaban
+futuro-simple:
+  yo: incomodaré
+  tu: incomodarás
+  vos: incomodarás
+  ud: incomodará
+  nosotros: incomodaremos
+  vosotros: incomodaréis
+  uds: incomodarán
+condicional-simple:
+  yo: incomodaría
+  tu: incomodarías
+  vos: incomodarías
+  ud: incomodaría
+  nosotros: incomodaríamos
+  vosotros: incomodaríais
+  uds: incomodarían
+presente-perfecto:
+  yo: he incomodado
+  tu: has incomodado
+  vos: has incomodado
+  ud: ha incomodado
+  nosotros: hemos incomodado
+  vosotros: habéis incomodado
+  uds: han incomodado
+preterito-pluscuamperfecto:
+  yo: había incomodado
+  tu: habías incomodado
+  vos: habías incomodado
+  ud: había incomodado
+  nosotros: habíamos incomodado
+  vosotros: habíais incomodado
+  uds: habían incomodado
+futuro-perfecto:
+  yo: habré incomodado
+  tu: habrás incomodado
+  vos: habrás incomodado
+  ud: habrá incomodado
+  nosotros: habremos incomodado
+  vosotros: habréis incomodado
+  uds: habrán incomodado
+condicional-perfecto:
+  yo: habría incomodado
+  tu: habrías incomodado
+  vos: habrías incomodado
+  ud: habría incomodado
+  nosotros: habríamos incomodado
+  vosotros: habríais incomodado
+  uds: habrían incomodado
+presente-subjuntivo:
+  yo: incomode
+  tu: incomodes
+  vos: incomodes
+  ud: incomode
+  nosotros: incomodemos
+  vosotros: incomodéis
+  uds: incomoden
+preterito-perfecto-subjuntivo:
+  yo: haya incomodado
+  tu: hayas incomodado
+  vos: hayas incomodado
+  ud: haya incomodado
+  nosotros: hayamos incomodado
+  vosotros: hayáis incomodado
+  uds: hayan incomodado
+imperfecto-subjuntivo:
+  yo:
+    - incomodara
+    - incomodase
+  tu:
+    - incomodaras
+    - incomodases
+  vos:
+    - incomodaras
+    - incomodases
+  ud:
+    - incomodara
+    - incomodase
+  nosotros:
+    - incomodáramos
+    - incomodásemos
+  vosotros:
+    - incomodarais
+    - incomodaseis
+  uds:
+    - incomodaran
+    - incomodasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera incomodado
+    - hubiese incomodado
+  tu:
+    - hubieras incomodado
+    - hubieses incomodado
+  vos:
+    - hubieras incomodado
+    - hubieses incomodado
+  ud:
+    - hubiera incomodado
+    - hubiese incomodado
+  nosotros:
+    - hubiéramos incomodado
+    - hubiésemos incomodado
+  vosotros:
+    - hubierais incomodado
+    - hubieseis incomodado
+  uds:
+    - hubieran incomodado
+    - hubiesen incomodado
+imperativo:
+  tu: incomoda
+  vos: incomodá
+  ud: incomode
+  nosotros: incomodemos
+  vosotros: incomodad
+  uds: incomoden

@@ -1,0 +1,142 @@
+infinitivo: contálar
+gerundio: contálando
+participio-pasado: contáledo
+presente-indicativo:
+  yo: contálo
+  tu: contálás
+  vos: contálás
+  ud: contála
+  nosotros: contálamos
+  vosotros: contaláis
+  uds: contálan
+preterito-perfecto-simple:
+  yo: contalé
+  tu: contalaste
+  vos: contalaste
+  ud: contaló
+  nosotros: contalamos
+  vosotros: contalasteis
+  uds: contalaron
+preterito-imperfecto:
+  yo: contalaba
+  tu: contalabas
+  vos: contalabas
+  ud: contalaba
+  nosotros: contalábamos
+  vosotros: contalabais
+  uds: contalaban
+futuro-simple:
+  yo: contalaré
+  tu: contalarás
+  vos: contalarás
+  ud: contalará
+  nosotros: contalaremos
+  vosotros: contalaréis
+  uds: contalarán
+condicional-simple:
+  yo: contalaría
+  tu: contalarías
+  vos: contalarías
+  ud: contalaría
+  nosotros: contalaríamos
+  vosotros: contalaríais
+  uds: contalarían
+presente-perfecto:
+  yo: he contáledo
+  tu: has contáledo
+  vos: has contáledo
+  ud: ha contáledo
+  nosotros: hemos contáledo
+  vosotros: habéis contáledo
+  uds: han contáledo
+preterito-pluscuamperfecto:
+  yo: había contáledo
+  tu: habías contáledo
+  vos: habías contáledo
+  ud: había contáledo
+  nosotros: habíamos contáledo
+  vosotros: habíais contáledo
+  uds: habían contáledo
+futuro-perfecto:
+  yo: habré contáledo
+  tu: habrás contáledo
+  vos: habrás contáledo
+  ud: habrá contáledo
+  nosotros: habremos contáledo
+  vosotros: habréis contáledo
+  uds: habrán contáledo
+condicional-perfecto:
+  yo: habría contáledo
+  tu: habrías contáledo
+  vos: habrías contáledo
+  ud: habría contáledo
+  nosotros: habríamos contáledo
+  vosotros: habríais contáledo
+  uds: habrían contáledo
+presente-subjuntivo:
+  yo: contále
+  tu: contáles
+  vos: contáles
+  ud: contále
+  nosotros: contálemos
+  vosotros: contaléis
+  uds: contálen
+preterito-perfecto-subjuntivo:
+  yo: haya contáledo
+  tu: hayas contáledo
+  vos: hayas contáledo
+  ud: haya contáledo
+  nosotros: hayamos contáledo
+  vosotros: hayáis contáledo
+  uds: hayan contáledo
+imperfecto-subjuntivo:
+  yo:
+    - contalara
+    - contalase
+  tu:
+    - contalaras
+    - contalases
+  vos:
+    - contalaras
+    - contalases
+  ud:
+    - contalara
+    - contalase
+  nosotros:
+    - contaláramos
+    - contalásemos
+  vosotros:
+    - contalarais
+    - contalaseis
+  uds:
+    - contalaran
+    - contalasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera contáledo
+    - hubiese contáledo
+  tu:
+    - hubieras contáledo
+    - hubieses contáledo
+  vos:
+    - hubieras contáledo
+    - hubieses contáledo
+  ud:
+    - hubiera contáledo
+    - hubiese contáledo
+  nosotros:
+    - hubiéramos contáledo
+    - hubiésemos contáledo
+  vosotros:
+    - hubierais contáledo
+    - hubieseis contáledo
+  uds:
+    - hubieran contáledo
+    - hubiesen contáledo
+imperativo:
+  tu: contá
+  vos: contá
+  ud: contá
+  nosotros: contásemos
+  vosotros: contad
+  uds: contáden

@@ -1,0 +1,142 @@
+infinitivo: abultar
+gerundio: abultando
+participio-pasado: abultado
+presente-indicativo:
+  yo: abulto
+  tu: abultas
+  vos: abultas
+  ud: abulta
+  nosotros: abultamos
+  vosotros: abultáis
+  uds: abultan
+preterito-perfecto-simple:
+  yo: abulté
+  tu: abultaste
+  vos: abultaste
+  ud: abultó
+  nosotros: abultamos
+  vosotros: abultasteis
+  uds: abultaron
+preterito-imperfecto:
+  yo: abultaba
+  tu: abultabas
+  vos: abultabas
+  ud: abultaba
+  nosotros: abultábamos
+  vosotros: abultabais
+  uds: abultaban
+futuro-simple:
+  yo: abultaré
+  tu: abultarás
+  vos: abultarás
+  ud: abultará
+  nosotros: abultaremos
+  vosotros: abultaréis
+  uds: abultarán
+condicional-simple:
+  yo: abultaría
+  tu: abultarías
+  vos: abultarías
+  ud: abultaría
+  nosotros: abultaríamos
+  vosotros: abultaríais
+  uds: abultarían
+presente-perfecto:
+  yo: he abultado
+  tu: has abultado
+  vos: has abultado
+  ud: ha abultado
+  nosotros: hemos abultado
+  vosotros: habéis abultado
+  uds: han abultado
+preterito-pluscuamperfecto:
+  yo: había abultado
+  tu: habías abultado
+  vos: habías abultado
+  ud: había abultado
+  nosotros: habíamos abultado
+  vosotros: habíais abultado
+  uds: habían abultado
+futuro-perfecto:
+  yo: habré abultado
+  tu: habrás abultado
+  vos: habrás abultado
+  ud: habrá abultado
+  nosotros: habremos abultado
+  vosotros: habréis abultado
+  uds: habrán abultado
+condicional-perfecto:
+  yo: habría abultado
+  tu: habrías abultado
+  vos: habrías abultado
+  ud: habría abultado
+  nosotros: habríamos abultado
+  vosotros: habríais abultado
+  uds: habrían abultado
+presente-subjuntivo:
+  yo: abulte
+  tu: abultes
+  vos: abultes
+  ud: abulte
+  nosotros: abultemos
+  vosotros: abultéis
+  uds: abulten
+preterito-perfecto-subjuntivo:
+  yo: haya abultado
+  tu: hayas abultado
+  vos: hayas abultado
+  ud: haya abultado
+  nosotros: hayamos abultado
+  vosotros: hayáis abultado
+  uds: hayan abultado
+imperfecto-subjuntivo:
+  yo:
+    - abultara
+    - abultase
+  tu:
+    - abultaras
+    - abultases
+  vos:
+    - abultaras
+    - abultases
+  ud:
+    - abultara
+    - abultase
+  nosotros:
+    - abultáramos
+    - abultásemos
+  vosotros:
+    - abultarais
+    - abultaseis
+  uds:
+    - abultaran
+    - abultasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera abultado
+    - hubiese abultado
+  tu:
+    - hubieras abultado
+    - hubieses abultado
+  vos:
+    - hubieras abultado
+    - hubieses abultado
+  ud:
+    - hubiera abultado
+    - hubiese abultado
+  nosotros:
+    - hubiéramos abultado
+    - hubiésemos abultado
+  vosotros:
+    - hubierais abultado
+    - hubieseis abultado
+  uds:
+    - hubieran abultado
+    - hubiesen abultado
+imperativo:
+  tu: abulta
+  vos: abultá
+  ud: abulte
+  nosotros: abultemos
+  vosotros: abultad
+  uds: abulten

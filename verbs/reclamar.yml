@@ -1,0 +1,142 @@
+infinitivo: reclamar
+gerundio: reclamando
+participio-pasado: reclamado
+presente-indicativo:
+  yo: reclamo
+  tu: reclamas
+  vos: reclamás
+  ud: reclama
+  nosotros: reclamamos
+  vosotros: reclamáis
+  uds: reclaman
+preterito-perfecto-simple:
+  yo: reclamé
+  tu: reclamaste
+  vos: reclamaste
+  ud: reclamó
+  nosotros: reclamamos
+  vosotros: reclamasteis
+  uds: reclamaron
+preterito-imperfecto:
+  yo: reclamaba
+  tu: reclamabas
+  vos: reclamabas
+  ud: reclamaba
+  nosotros: reclamábamos
+  vosotros: reclamabais
+  uds: reclamaban
+futuro-simple:
+  yo: reclamaré
+  tu: reclamarás
+  vos: reclamarás
+  ud: reclamará
+  nosotros: reclamaremos
+  vosotros: reclamaréis
+  uds: reclamarán
+condicional-simple:
+  yo: reclamaría
+  tu: reclamarías
+  vos: reclamarías
+  ud: reclamaría
+  nosotros: reclamaríamos
+  vosotros: reclamaríais
+  uds: reclamarían
+presente-perfecto:
+  yo: he reclamado
+  tu: has reclamado
+  vos: has reclamado
+  ud: ha reclamado
+  nosotros: hemos reclamado
+  vosotros: habéis reclamado
+  uds: han reclamado
+preterito-pluscuamperfecto:
+  yo: había reclamado
+  tu: habías reclamado
+  vos: habías reclamado
+  ud: había reclamado
+  nosotros: habíamos reclamado
+  vosotros: habíais reclamado
+  uds: habían reclamado
+futuro-perfecto:
+  yo: habré reclamado
+  tu: habrás reclamado
+  vos: habrás reclamado
+  ud: habrá reclamado
+  nosotros: habremos reclamado
+  vosotros: habréis reclamado
+  uds: habrán reclamado
+condicional-perfecto:
+  yo: habría reclamado
+  tu: habrías reclamado
+  vos: habrías reclamado
+  ud: habría reclamado
+  nosotros: habríamos reclamado
+  vosotros: habríais reclamado
+  uds: habrían reclamado
+presente-subjuntivo:
+  yo: reclame
+  tu: reclames
+  vos: reclames
+  ud: reclame
+  nosotros: reclamemos
+  vosotros: reclaméis
+  uds: reclamen
+preterito-perfecto-subjuntivo:
+  yo: haya reclamado
+  tu: hayas reclamado
+  vos: hayas reclamado
+  ud: haya reclamado
+  nosotros: hayamos reclamado
+  vosotros: hayáis reclamado
+  uds: hayan reclamado
+imperfecto-subjuntivo:
+  yo:
+    - reclamara
+    - reclamase
+  tu:
+    - reclamaras
+    - reclamases
+  vos:
+    - reclamaras
+    - reclamases
+  ud:
+    - reclamara
+    - reclamase
+  nosotros:
+    - reclamáramos
+    - reclamásemos
+  vosotros:
+    - reclamarais
+    - reclamaseis
+  uds:
+    - reclamaran
+    - reclamasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reclamado
+    - hubiese reclamado
+  tu:
+    - hubieras reclamado
+    - hubieses reclamado
+  vos:
+    - hubieras reclamado
+    - hubieses reclamado
+  ud:
+    - hubiera reclamado
+    - hubiese reclamado
+  nosotros:
+    - hubiéramos reclamado
+    - hubiésemos reclamado
+  vosotros:
+    - hubierais reclamado
+    - hubieseis reclamado
+  uds:
+    - hubieran reclamado
+    - hubiesen reclamado
+imperativo:
+  tu: reclama
+  vos: reclamá
+  ud: reclame
+  nosotros: reclamemos
+  vosotros: reclamad
+  uds: reclamen

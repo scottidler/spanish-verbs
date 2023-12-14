@@ -1,0 +1,142 @@
+infinitivo: simular
+gerundio: simulando
+participio-pasado: simulado
+presente-indicativo:
+  yo: simulo
+  tu: simulas
+  vos: simulas
+  ud: simula
+  nosotros: simulamos
+  vosotros: simuláis
+  uds: simulan
+preterito-perfecto-simple:
+  yo: simulé
+  tu: simulaste
+  vos: simulaste
+  ud: simuló
+  nosotros: simulamos
+  vosotros: simulasteis
+  uds: simularon
+preterito-imperfecto:
+  yo: simulaba
+  tu: simulabas
+  vos: simulabas
+  ud: simulaba
+  nosotros: simulábamos
+  vosotros: simulabais
+  uds: simulaban
+futuro-simple:
+  yo: simularé
+  tu: simularás
+  vos: simularás
+  ud: simulará
+  nosotros: simularemos
+  vosotros: simularéis
+  uds: simularán
+condicional-simple:
+  yo: simularía
+  tu: simularías
+  vos: simularías
+  ud: simularía
+  nosotros: simularíamos
+  vosotros: simularíais
+  uds: simularían
+presente-perfecto:
+  yo: he simulado
+  tu: has simulado
+  vos: has simulado
+  ud: ha simulado
+  nosotros: hemos simulado
+  vosotros: habéis simulado
+  uds: han simulado
+preterito-pluscuamperfecto:
+  yo: había simulado
+  tu: habías simulado
+  vos: habías simulado
+  ud: había simulado
+  nosotros: habíamos simulado
+  vosotros: habíais simulado
+  uds: habían simulado
+futuro-perfecto:
+  yo: habré simulado
+  tu: habrás simulado
+  vos: habrás simulado
+  ud: habrá simulado
+  nosotros: habremos simulado
+  vosotros: habréis simulado
+  uds: habrán simulado
+condicional-perfecto:
+  yo: habría simulado
+  tu: habrías simulado
+  vos: habrías simulado
+  ud: habría simulado
+  nosotros: habríamos simulado
+  vosotros: habríais simulado
+  uds: habrían simulado
+presente-subjuntivo:
+  yo: simule
+  tu: simules
+  vos: simules
+  ud: simule
+  nosotros: simulemos
+  vosotros: simuléis
+  uds: simulen
+preterito-perfecto-subjuntivo:
+  yo: haya simulado
+  tu: hayas simulado
+  vos: hayas simulado
+  ud: haya simulado
+  nosotros: hayamos simulado
+  vosotros: hayáis simulado
+  uds: hayan simulado
+imperfecto-subjuntivo:
+  yo:
+    - simulara
+    - simulase
+  tu:
+    - simularas
+    - simulases
+  vos:
+    - simularas
+    - simulases
+  ud:
+    - simulara
+    - simulase
+  nosotros:
+    - simuláramos
+    - simulásemos
+  vosotros:
+    - simularais
+    - simulaseis
+  uds:
+    - simularan
+    - simulasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera simulado
+    - hubiese simulado
+  tu:
+    - hubieras simulado
+    - hubieses simulado
+  vos:
+    - hubieras simulado
+    - hubieses simulado
+  ud:
+    - hubiera simulado
+    - hubiese simulado
+  nosotros:
+    - hubiéramos simulado
+    - hubiésemos simulado
+  vosotros:
+    - hubierais simulado
+    - hubieseis simulado
+  uds:
+    - hubieran simulado
+    - hubiesen simulado
+imperativo:
+  tu: simula
+  vos: simulá
+  ud: simule
+  nosotros: simulemos
+  vosotros: simulad
+  uds: simulen

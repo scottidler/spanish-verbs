@@ -1,0 +1,156 @@
+infinitivo: cuéntamer
+gerundio: contándome
+participio-pasado: contado
+
+presente-indicativo:
+  yo: cuéntamero
+  tu: cuéntameres
+  vos: cuéntameres
+  ud: cuéntamere
+  nosotros: cuéntameremos
+  vosotros: cuéntamereis
+  uds: cuéntameren
+
+preterito-perfecto-simple:
+  yo: me conté
+  tu: te contaste
+  vos: te contaste
+  ud: se contó
+  nosotros: nos contamos
+  vosotros: os contasteis
+  uds: se contaron
+
+preterito-imperfecto:
+  yo: me contaba
+  tu: te contabas
+  vos: te contabas
+  ud: se contaba
+  nosotros: nos contábamos
+  vosotros: os contabais
+  uds: se contaban
+
+futuro-simple:
+  yo: me contaré
+  tu: te contarás
+  vos: te contarás
+  ud: se contará
+  nosotros: nos contaremos
+  vosotros: os contaréis
+  uds: se contarán
+
+condicional-simple:
+  yo: me contaría
+  tu: te contarías
+  vos: te contarías
+  ud: se contaría
+  nosotros: nos contaríamos
+  vosotros: os contaríais
+  uds: se contarían
+
+presente-perfecto:
+  yo: me he contado
+  tu: te has contado
+  vos: te has contado
+  ud: se ha contado
+  nosotros: nos hemos contado
+  vosotros: os habéis contado
+  uds: se han contado
+
+preterito-pluscuamperfecto:
+  yo: me había contado
+  tu: te habías contado
+  vos: te habías contado
+  ud: se había contado
+  nosotros: nos habíamos contado
+  vosotros: os habíais contado
+  uds: se habían contado
+
+futuro-perfecto:
+  yo: me habré contado
+  tu: te habrás contado
+  vos: te habrás contado
+  ud: se habrá contado
+  nosotros: nos habremos contado
+  vosotros: os habréis contado
+  uds: se habrán contado
+
+condicional-perfecto:
+  yo: me habría contado
+  tu: te habrías contado
+  vos: te habrías contado
+  ud: se habría contado
+  nosotros: nos habríamos contado
+  vosotros: os habríais contado
+  uds: se habrían contado
+
+presente-subjuntivo:
+  yo: me cuéntamere
+  tu: te cuéntameres
+  vos: te cuéntameres
+  ud: se cuéntamere
+  nosotros: nos cuéntameremos
+  vosotros: os cuéntamereis
+  uds: se cuéntameren
+
+preterito-perfecto-subjuntivo:
+  yo: me haya contado
+  tu: te hayas contado
+  vos: te hayas contado
+  ud: se haya contado
+  nosotros: nos hayamos contado
+  vosotros: os hayáis contado
+  uds: se hayan contado
+
+imperfecto-subjuntivo:
+  yo:
+    - me contara
+    - me contase
+  tu:
+    - te contaras
+    - te contases
+  vos:
+    - te contaras
+    - te contases
+  ud:
+    - se contara
+    - se contase
+  nosotros:
+    - nos contáramos
+    - nos contásemos
+  vosotros:
+    - os contarais
+    - os contaseis
+  uds:
+    - se contaran
+    - se contasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera contado
+    - me hubiese contado
+  tu:
+    - te hubieras contado
+    - te hubieses contado
+  vos:
+    - te hubieras contado
+    - te hubieses contado
+  ud:
+    - se hubiera contado
+    - se hubiese contado
+  nosotros:
+    - nos hubiéramos contado
+    - nos hubiésemos contado
+  vosotros:
+    - os hubierais contado
+    - os hubieseis contado
+  uds:
+    - se hubieran contado
+    - se hubiesen contado
+
+imperativo:
+  tu: cuéntameme
+  vos: cuéntamete
+  ud: cuéntamere
+  nosotros: cuéntameremos
+  vosotros: cuéntameros
+  uds: cuéntameren

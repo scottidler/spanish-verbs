@@ -1,0 +1,142 @@
+infinitivo: atragantar
+gerundio: atragantando
+participio-pasado: atragantado
+presente-indicativo:
+  yo: atraganto
+  tu: atragantas
+  vos: atragantas
+  ud: atraganta
+  nosotros: atragantamos
+  vosotros: atragantáis
+  uds: atragantan
+preterito-perfecto-simple:
+  yo: atraganté
+  tu: atragantaste
+  vos: atragantaste
+  ud: atragantó
+  nosotros: atragantamos
+  vosotros: atragantasteis
+  uds: atragantaron
+preterito-imperfecto:
+  yo: atragantaba
+  tu: atragantabas
+  vos: atragantabas
+  ud: atragantaba
+  nosotros: atragantábamos
+  vosotros: atragantabais
+  uds: atragantaban
+futuro-simple:
+  yo: atragantaré
+  tu: atragantarás
+  vos: atragantarás
+  ud: atragantará
+  nosotros: atragantaremos
+  vosotros: atragantaréis
+  uds: atragantarán
+condicional-simple:
+  yo: atragantaría
+  tu: atragantarías
+  vos: atragantarías
+  ud: atragantaría
+  nosotros: atragantaríamos
+  vosotros: atragantaríais
+  uds: atragantarían
+presente-perfecto:
+  yo: he atragantado
+  tu: has atragantado
+  vos: has atragantado
+  ud: ha atragantado
+  nosotros: hemos atragantado
+  vosotros: habéis atragantado
+  uds: han atragantado
+preterito-pluscuamperfecto:
+  yo: había atragantado
+  tu: habías atragantado
+  vos: habías atragantado
+  ud: había atragantado
+  nosotros: habíamos atragantado
+  vosotros: habíais atragantado
+  uds: habían atragantado
+futuro-perfecto:
+  yo: habré atragantado
+  tu: habrás atragantado
+  vos: habrás atragantado
+  ud: habrá atragantado
+  nosotros: habremos atragantado
+  vosotros: habréis atragantado
+  uds: habrán atragantado
+condicional-perfecto:
+  yo: habría atragantado
+  tu: habrías atragantado
+  vos: habrías atragantado
+  ud: habría atragantado
+  nosotros: habríamos atragantado
+  vosotros: habríais atragantado
+  uds: habrían atragantado
+presente-subjuntivo:
+  yo: atragante
+  tu: atragantes
+  vos: atragantes
+  ud: atragante
+  nosotros: atragantemos
+  vosotros: atragantéis
+  uds: atraganten
+preterito-perfecto-subjuntivo:
+  yo: haya atragantado
+  tu: hayas atragantado
+  vos: hayas atragantado
+  ud: haya atragantado
+  nosotros: hayamos atragantado
+  vosotros: hayáis atragantado
+  uds: hayan atragantado
+imperfecto-subjuntivo:
+  yo:
+    - atragantara
+    - atragantase
+  tu:
+    - atragantaras
+    - atragantases
+  vos:
+    - atragantaras
+    - atragantases
+  ud:
+    - atragantara
+    - atragantase
+  nosotros:
+    - atragantáramos
+    - atragantásemos
+  vosotros:
+    - atragantarais
+    - atragantaseis
+  uds:
+    - atragantaran
+    - atragantasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera atragantado
+    - hubiese atragantado
+  tu:
+    - hubieras atragantado
+    - hubieses atragantado
+  vos:
+    - hubieras atragantado
+    - hubieses atragantado
+  ud:
+    - hubiera atragantado
+    - hubiese atragantado
+  nosotros:
+    - hubiéramos atragantado
+    - hubiésemos atragantado
+  vosotros:
+    - hubierais atragantado
+    - hubieseis atragantado
+  uds:
+    - hubieran atragantado
+    - hubiesen atragantado
+imperativo:
+  tu: atraganta
+  vos: atragantá
+  ud: atragante
+  nosotros: atragantemos
+  vosotros: atragantad
+  uds: atraganten

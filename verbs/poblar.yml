@@ -1,0 +1,142 @@
+infinitivo: poblar
+gerundio: poblando
+participio-pasado: poblado
+presente-indicativo:
+  yo: pueblo
+  tu: pueblas
+  vos: pueblas
+  ud: puebla
+  nosotros: poblamos
+  vosotros: pobláis
+  uds: poblan
+preterito-perfecto-simple:
+  yo: poblé
+  tu: poblaste
+  vos: poblaste
+  ud: pobló
+  nosotros: poblamos
+  vosotros: poblasteis
+  uds: poblaron
+preterito-imperfecto:
+  yo: poblaba
+  tu: poblabas
+  vos: poblabas
+  ud: poblaba
+  nosotros: poblábamos
+  vosotros: poblabais
+  uds: poblaban
+futuro-simple:
+  yo: poblaré
+  tu: poblarás
+  vos: poblarás
+  ud: poblará
+  nosotros: poblaremos
+  vosotros: poblaréis
+  uds: poblarán
+condicional-simple:
+  yo: poblaría
+  tu: poblarías
+  vos: poblarías
+  ud: poblaría
+  nosotros: poblaríamos
+  vosotros: poblaríais
+  uds: poblarían
+presente-perfecto:
+  yo: he poblado
+  tu: has poblado
+  vos: has poblado
+  ud: ha poblado
+  nosotros: hemos poblado
+  vosotros: habéis poblado
+  uds: han poblado
+preterito-pluscuamperfecto:
+  yo: había poblado
+  tu: habías poblado
+  vos: habías poblado
+  ud: había poblado
+  nosotros: habíamos poblado
+  vosotros: habíais poblado
+  uds: habían poblado
+futuro-perfecto:
+  yo: habré poblado
+  tu: habrás poblado
+  vos: habrás poblado
+  ud: habrá poblado
+  nosotros: habremos poblado
+  vosotros: habréis poblado
+  uds: habrán poblado
+condicional-perfecto:
+  yo: habría poblado
+  tu: habrías poblado
+  vos: habrías poblado
+  ud: habría poblado
+  nosotros: habríamos poblado
+  vosotros: habríais poblado
+  uds: habrían poblado
+presente-subjuntivo:
+  yo: pueble
+  tu: puebles
+  vos: puebles
+  ud: pueble
+  nosotros: pobleamos
+  vosotros: pobleáis
+  uds: pueblen
+preterito-perfecto-subjuntivo:
+  yo: haya poblado
+  tu: hayas poblado
+  vos: hayas poblado
+  ud: haya poblado
+  nosotros: hayamos poblado
+  vosotros: hayáis poblado
+  uds: hayan poblado
+imperfecto-subjuntivo:
+  yo:
+    - poblara
+    - poblase
+  tu:
+    - poblaras
+    - pobleases
+  vos:
+    - poblaras
+    - pobleases
+  ud:
+    - poblara
+    - poblase
+  nosotros:
+    - pobláramos
+    - poblásemos
+  vosotros:
+    - poblarais
+    - poblaseis
+  uds:
+    - poblaran
+    - poblasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera poblado
+    - hubiese poblado
+  tu:
+    - hubieras poblado
+    - hubieses poblado
+  vos:
+    - hubieras poblado
+    - hubieses poblado
+  ud:
+    - hubiera poblado
+    - hubiese poblado
+  nosotros:
+    - hubiéramos poblado
+    - hubiésemos poblado
+  vosotros:
+    - hubierais poblado
+    - hubieseis poblado
+  uds:
+    - hubieran poblado
+    - hubiesen poblado
+imperativo:
+  tu: pobla
+  vos: poblá
+  ud: pueblo
+  nosotros: pobleamos
+  vosotros: poblad
+  uds: pueblen

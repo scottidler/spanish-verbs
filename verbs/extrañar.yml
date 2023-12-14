@@ -1,0 +1,142 @@
+infinitivo: extrañar
+gerundio: extrañando
+participio-pasado: extrañado
+presente-indicativo:
+  yo: extraño
+  tu: extrañas
+  vos: extrañas
+  ud: extraña
+  nosotros: extrañamos
+  vosotros: extrañáis
+  uds: extrañan
+preterito-perfecto-simple:
+  yo: extrañé
+  tu: extrañaste
+  vos: extrañaste
+  ud: extrañó
+  nosotros: extrañamos
+  vosotros: extrañasteis
+  uds: extrañaron
+preterito-imperfecto:
+  yo: extrañaba
+  tu: extrañabas
+  vos: extrañabas
+  ud: extrañaba
+  nosotros: extrañábamos
+  vosotros: extrañabais
+  uds: extrañaban
+futuro-simple:
+  yo: extrañaré
+  tu: extrañarás
+  vos: extrañarás
+  ud: extrañará
+  nosotros: extrañaremos
+  vosotros: extrañaréis
+  uds: extrañarán
+condicional-simple:
+  yo: extrañaría
+  tu: extrañarías
+  vos: extrañarías
+  ud: extrañaría
+  nosotros: extrañaríamos
+  vosotros: extrañaríais
+  uds: extrañarían
+presente-perfecto:
+  yo: he extrañado
+  tu: has extrañado
+  vos: has extrañado
+  ud: ha extrañado
+  nosotros: hemos extrañado
+  vosotros: habéis extrañado
+  uds: han extrañado
+preterito-pluscuamperfecto:
+  yo: había extrañado
+  tu: habías extrañado
+  vos: habías extrañado
+  ud: había extrañado
+  nosotros: habíamos extrañado
+  vosotros: habíais extrañado
+  uds: habían extrañado
+futuro-perfecto:
+  yo: habré extrañado
+  tu: habrás extrañado
+  vos: habrás extrañado
+  ud: habrá extrañado
+  nosotros: habremos extrañado
+  vosotros: habréis extrañado
+  uds: habrán extrañado
+condicional-perfecto:
+  yo: habría extrañado
+  tu: habrías extrañado
+  vos: habrías extrañado
+  ud: habría extrañado
+  nosotros: habríamos extrañado
+  vosotros: habríais extrañado
+  uds: habrían extrañado
+presente-subjuntivo:
+  yo: extrañe
+  tu: extrañes
+  vos: extrañes
+  ud: extrañe
+  nosotros: extrañemos
+  vosotros: extrañéis
+  uds: extrañen
+preterito-perfecto-subjuntivo:
+  yo: haya extrañado
+  tu: hayas extrañado
+  vos: hayas extrañado
+  ud: haya extrañado
+  nosotros: hayamos extrañado
+  vosotros: hayáis extrañado
+  uds: hayan extrañado
+imperfecto-subjuntivo:
+  yo:
+    - extrañara
+    - extrañase
+  tu:
+    - extrañaras
+    - extrañases
+  vos:
+    - extrañaras
+    - extrañases
+  ud:
+    - extrañara
+    - extrañase
+  nosotros:
+    - extrañáramos
+    - extrañásemos
+  vosotros:
+    - extrañarais
+    - extrañaseis
+  uds:
+    - extrañaran
+    - extrañasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera extrañado
+    - hubiese extrañado
+  tu:
+    - hubieras extrañado
+    - hubieses extrañado
+  vos:
+    - hubieras extrañado
+    - hubieses extrañado
+  ud:
+    - hubiera extrañado
+    - hubiese extrañado
+  nosotros:
+    - hubiéramos extrañado
+    - hubiésemos extrañado
+  vosotros:
+    - hubierais extrañado
+    - hubieseis extrañado
+  uds:
+    - hubieran extrañado
+    - hubiesen extrañado
+imperativo:
+  tu: extraña
+  vos: extrañá
+  ud: extrañe
+  nosotros: extrañemos
+  vosotros: extrañad
+  uds: extrañen

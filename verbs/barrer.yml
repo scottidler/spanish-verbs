@@ -1,0 +1,142 @@
+infinitivo: barrer
+gerundio: barriendo
+participio-pasado: barrido
+presente-indicativo:
+  yo: barro
+  tu: barres
+  vos: barres
+  ud: barre
+  nosotros: barremos
+  vosotros: barréis
+  uds: barren
+preterito-perfecto-simple:
+  yo: barrí
+  tu: barriste
+  vos: barriste
+  ud: barrió
+  nosotros: barrimos
+  vosotros: barristeis
+  uds: barrieron
+preterito-imperfecto:
+  yo: barría
+  tu: barrías
+  vos: barrías
+  ud: barría
+  nosotros: barríamos
+  vosotros: barríais
+  uds: barrían
+futuro-simple:
+  yo: barreré
+  tu: barrerás
+  vos: barrerás
+  ud: barrerá
+  nosotros: barreremos
+  vosotros: barreréis
+  uds: barrerán
+condicional-simple:
+  yo: barrería
+  tu: barrerías
+  vos: barrerías
+  ud: barrería
+  nosotros: barreríamos
+  vosotros: barreríais
+  uds: barrerían
+presente-perfecto:
+  yo: he barrido
+  tu: has barrido
+  vos: has barrido
+  ud: ha barrido
+  nosotros: hemos barrido
+  vosotros: habéis barrido
+  uds: han barrido
+preterito-pluscuamperfecto:
+  yo: había barrido
+  tu: habías barrido
+  vos: habías barrido
+  ud: había barrido
+  nosotros: habíamos barrido
+  vosotros: habíais barrido
+  uds: habían barrido
+futuro-perfecto:
+  yo: habré barrido
+  tu: habrás barrido
+  vos: habrás barrido
+  ud: habrá barrido
+  nosotros: habremos barrido
+  vosotros: habréis barrido
+  uds: habrán barrido
+condicional-perfecto:
+  yo: habría barrido
+  tu: habrías barrido
+  vos: habrías barrido
+  ud: habría barrido
+  nosotros: habríamos barrido
+  vosotros: habríais barrido
+  uds: habrían barrido
+presente-subjuntivo:
+  yo: barra
+  tu: barras
+  vos: barras
+  ud: barra
+  nosotros: barramos
+  vosotros: barráis
+  uds: barran
+preterito-perfecto-subjuntivo:
+  yo: haya barrido
+  tu: hayas barrido
+  vos: hayas barrido
+  ud: haya barrido
+  nosotros: hayamos barrido
+  vosotros: hayáis barrido
+  uds: hayan barrido
+imperfecto-subjuntivo:
+  yo:
+    - barriera
+    - barriese
+  tu:
+    - barreras
+    - barrases
+  vos:
+    - barreras
+    - barrases
+  ud:
+    - barriera
+    - barriese
+  nosotros:
+    - barriéramos
+    - barriésemos
+  vosotros:
+    - barrerais
+    - barraseis
+  uds:
+    - barrieran
+    - barrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera barrido
+    - hubiese barrido
+  tu:
+    - hubieras barrido
+    - hubieses barrido
+  vos:
+    - hubieras barrido
+    - hubieses barrido
+  ud:
+    - hubiera barrido
+    - hubiese barrido
+  nosotros:
+    - hubiéramos barrido
+    - hubiésemos barrido
+  vosotros:
+    - hubierais barrido
+    - hubieseis barrido
+  uds:
+    - hubieran barrido
+    - hubiesen barrido
+imperativo:
+  tu: barre
+  vos: barré
+  ud: barra
+  nosotros: barramos
+  vosotros: barred
+  uds: barran

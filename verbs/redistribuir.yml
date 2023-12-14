@@ -1,0 +1,142 @@
+infinitivo: redistribuir
+gerundio: redistribuyendo
+participio-pasado: redistribuido
+presente-indicativo:
+  yo: redistribuyo
+  tu: redistribuyes
+  vos: redistribuís
+  ud: redistribuye
+  nosotros: redistribuimos
+  vosotros: redistribuís
+  uds: redistribuyen
+preterito-perfecto-simple:
+  yo: redistribuí
+  tu: redistribuiste
+  vos: redistribuiste
+  ud: redistribuyó
+  nosotros: redistribuimos
+  vosotros: redistribuisteis
+  uds: redistribuyeron
+preterito-imperfecto:
+  yo: redistribuía
+  tu: redistribuías
+  vos: redistribuías
+  ud: redistribuía
+  nosotros: redistribuíamos
+  vosotros: redistribuíais
+  uds: redistribuían
+futuro-simple:
+  yo: redistribuiré
+  tu: redistribuirás
+  vos: redistribuirás
+  ud: redistribuirá
+  nosotros: redistribuiremos
+  vosotros: redistribuiréis
+  uds: redistribuirán
+condicional-simple:
+  yo: redistribuiría
+  tu: redistribuirías
+  vos: redistribuirías
+  ud: redistribuiría
+  nosotros: redistribuiríamos
+  vosotros: redistribuiríais
+  uds: redistribuirían
+presente-perfecto:
+  yo: he redistribuido
+  tu: has redistribuido
+  vos: has redistribuido
+  ud: ha redistribuido
+  nosotros: hemos redistribuido
+  vosotros: habéis redistribuido
+  uds: han redistribuido
+preterito-pluscuamperfecto:
+  yo: había redistribuido
+  tu: habías redistribuido
+  vos: habías redistribuido
+  ud: había redistribuido
+  nosotros: habíamos redistribuido
+  vosotros: habíais redistribuido
+  uds: habían redistribuido
+futuro-perfecto:
+  yo: habré redistribuido
+  tu: habrás redistribuido
+  vos: habrás redistribuido
+  ud: habrá redistribuido
+  nosotros: habremos redistribuido
+  vosotros: habréis redistribuido
+  uds: habrán redistribuido
+condicional-perfecto:
+  yo: habría redistribuido
+  tu: habrías redistribuido
+  vos: habrías redistribuido
+  ud: habría redistribuido
+  nosotros: habríamos redistribuido
+  vosotros: habríais redistribuido
+  uds: habrían redistribuido
+presente-subjuntivo:
+  yo: redistribuya
+  tu: redistribuyas
+  vos: redistribuyas
+  ud: redistribuya
+  nosotros: redistribuyamos
+  vosotros: redistribuyáis
+  uds: redistribuyan
+preterito-perfecto-subjuntivo:
+  yo: haya redistribuido
+  tu: hayas redistribuido
+  vos: hayas redistribuido
+  ud: haya redistribuido
+  nosotros: hayamos redistribuido
+  vosotros: hayáis redistribuido
+  uds: hayan redistribuido
+imperfecto-subjuntivo:
+  yo:
+    - redistribuyera
+    - redistribuyese
+  tu:
+    - redistribuyeras
+    - redistribuyeses
+  vos:
+    - redistribuyeras
+    - redistribuyeses
+  ud:
+    - redistribuyera
+    - redistribuyese
+  nosotros:
+    - redistribuyéramos
+    - redistribuyésemos
+  vosotros:
+    - redistribuyerais
+    - redistribuyeseis
+  uds:
+    - redistribuyeran
+    - redistribuyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera redistribuido
+    - hubiese redistribuido
+  tu:
+    - hubieras redistribuido
+    - hubieses redistribuido
+  vos:
+    - hubieras redistribuido
+    - hubieses redistribuido
+  ud:
+    - hubiera redistribuido
+    - hubiese redistribuido
+  nosotros:
+    - hubiéramos redistribuido
+    - hubiésemos redistribuido
+  vosotros:
+    - hubierais redistribuido
+    - hubieseis redistribuido
+  uds:
+    - hubieran redistribuido
+    - hubiesen redistribuido
+imperativo:
+  tu: redistribuye
+  vos: redistribuí
+  ud: redistribuya
+  nosotros: redistribuyamos
+  vosotros: redistribuid
+  uds: redistribuyan

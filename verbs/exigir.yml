@@ -1,0 +1,142 @@
+infinitivo: exigir
+gerundio: exigiendo
+participio-pasado: exigido
+presente-indicativo:
+  yo: exijo
+  tu: exiges
+  vos: exiges
+  ud: exige
+  nosotros: exigimos
+  vosotros: exigís
+  uds: exigen
+preterito-perfecto-simple:
+  yo: exigí
+  tu: exigiste
+  vos: exigiste
+  ud: exigió
+  nosotros: exigimos
+  vosotros: exigisteis
+  uds: exigieron
+preterito-imperfecto:
+  yo: exigía
+  tu: exigías
+  vos: exigías
+  ud: exigía
+  nosotros: exigíamos
+  vosotros: exigíais
+  uds: exigían
+futuro-simple:
+  yo: exigiré
+  tu: exigirás
+  vos: exigirás
+  ud: exigirá
+  nosotros: exigiremos
+  vosotros: exigiréis
+  uds: exigirán
+condicional-simple:
+  yo: exigiría
+  tu: exigirías
+  vos: exigirías
+  ud: exigiría
+  nosotros: exigiríamos
+  vosotros: exigiríais
+  uds: exigirían
+presente-perfecto:
+  yo: he exigido
+  tu: has exigido
+  vos: has exigido
+  ud: ha exigido
+  nosotros: hemos exigido
+  vosotros: habéis exigido
+  uds: han exigido
+preterito-pluscuamperfecto:
+  yo: había exigido
+  tu: habías exigido
+  vos: habías exigido
+  ud: había exigido
+  nosotros: habíamos exigido
+  vosotros: habíais exigido
+  uds: habían exigido
+futuro-perfecto:
+  yo: habré exigido
+  tu: habrás exigido
+  vos: habrás exigido
+  ud: habrá exigido
+  nosotros: habremos exigido
+  vosotros: habréis exigido
+  uds: habrán exigido
+condicional-perfecto:
+  yo: habría exigido
+  tu: habrías exigido
+  vos: habrías exigido
+  ud: habría exigido
+  nosotros: habríamos exigido
+  vosotros: habríais exigido
+  uds: habrían exigido
+presente-subjuntivo:
+  yo: exija
+  tu: exijas
+  vos: exijas
+  ud: exija
+  nosotros: exijamos
+  vosotros: exijáis
+  uds: exijan
+preterito-perfecto-subjuntivo:
+  yo: haya exigido
+  tu: hayas exigido
+  vos: hayas exigido
+  ud: haya exigido
+  nosotros: hayamos exigido
+  vosotros: hayáis exigido
+  uds: hayan exigido
+imperfecto-subjuntivo:
+  yo:
+    - exigiera
+    - exigiese
+  tu:
+    - exigieras
+    - exigieses
+  vos:
+    - exigieras
+    - exigieses
+  ud:
+    - exigiera
+    - exigiese
+  nosotros:
+    - exigiéramos
+    - exigiésemos
+  vosotros:
+    - exigierais
+    - exigieseis
+  uds:
+    - exigieran
+    - exigiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera exigido
+    - hubiese exigido
+  tu:
+    - hubieras exigido
+    - hubieses exigido
+  vos:
+    - hubieras exigido
+    - hubieses exigido
+  ud:
+    - hubiera exigido
+    - hubiese exigido
+  nosotros:
+    - hubiéramos exigido
+    - hubiésemos exigido
+  vosotros:
+    - hubierais exigido
+    - hubieseis exigido
+  uds:
+    - hubieran exigido
+    - hubiesen exigido
+imperativo:
+  tu: exige
+  vos: exigí
+  ud: exija
+  nosotros: exijamos
+  vosotros: exigid
+  uds: exijan

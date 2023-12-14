@@ -1,0 +1,142 @@
+infinitivo: presionar
+gerundio: presionando
+participio-pasado: presionado
+presente-indicativo:
+  yo: presiono
+  tu: presionas
+  vos: presionas
+  ud: presiona
+  nosotros: presionamos
+  vosotros: presionáis
+  uds: presionan
+preterito-perfecto-simple:
+  yo: presioné
+  tu: presionaste
+  vos: presionaste
+  ud: presionó
+  nosotros: presionamos
+  vosotros: presionasteis
+  uds: presionaron
+preterito-imperfecto:
+  yo: presionaba
+  tu: presionabas
+  vos: presionabas
+  ud: presionaba
+  nosotros: presionábamos
+  vosotros: presionabais
+  uds: presionaban
+futuro-simple:
+  yo: presionaré
+  tu: presionarás
+  vos: presionarás
+  ud: presionará
+  nosotros: presionaremos
+  vosotros: presionaréis
+  uds: presionarán
+condicional-simple:
+  yo: presionaría
+  tu: presionarías
+  vos: presionarías
+  ud: presionaría
+  nosotros: presionaríamos
+  vosotros: presionaríais
+  uds: presionarían
+presente-perfecto:
+  yo: he presionado
+  tu: has presionado
+  vos: has presionado
+  ud: ha presionado
+  nosotros: hemos presionado
+  vosotros: habéis presionado
+  uds: han presionado
+preterito-pluscuamperfecto:
+  yo: había presionado
+  tu: habías presionado
+  vos: habías presionado
+  ud: había presionado
+  nosotros: habíamos presionado
+  vosotros: habíais presionado
+  uds: habían presionado
+futuro-perfecto:
+  yo: habré presionado
+  tu: habrás presionado
+  vos: habrás presionado
+  ud: habrá presionado
+  nosotros: habremos presionado
+  vosotros: habréis presionado
+  uds: habrán presionado
+condicional-perfecto:
+  yo: habría presionado
+  tu: habrías presionado
+  vos: habrías presionado
+  ud: habría presionado
+  nosotros: habríamos presionado
+  vosotros: habríais presionado
+  uds: habrían presionado
+presente-subjuntivo:
+  yo: presione
+  tu: presiones
+  vos: presiones
+  ud: presione
+  nosotros: presionemos
+  vosotros: presionéis
+  uds: presionen
+preterito-perfecto-subjuntivo:
+  yo: haya presionado
+  tu: hayas presionado
+  vos: hayas presionado
+  ud: haya presionado
+  nosotros: hayamos presionado
+  vosotros: hayáis presionado
+  uds: hayan presionado
+imperfecto-subjuntivo:
+  yo:
+    - presionara
+    - presionase
+  tu:
+    - presionaras
+    - presionases
+  vos:
+    - presionaras
+    - presionases
+  ud:
+    - presionara
+    - presionase
+  nosotros:
+    - presionáramos
+    - presionásemos
+  vosotros:
+    - presionarais
+    - presionaseis
+  uds:
+    - presionaran
+    - presionasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera presionado
+    - hubiese presionado
+  tu:
+    - hubieras presionado
+    - hubieses presionado
+  vos:
+    - hubieras presionado
+    - hubieses presionado
+  ud:
+    - hubiera presionado
+    - hubiese presionado
+  nosotros:
+    - hubiéramos presionado
+    - hubiésemos presionado
+  vosotros:
+    - hubierais presionado
+    - hubieseis presionado
+  uds:
+    - hubieran presionado
+    - hubiesen presionado
+imperativo:
+  tu: presiona
+  vos: presioná
+  ud: presione
+  nosotros: presionemos
+  vosotros: presionad
+  uds: presionen

@@ -1,0 +1,142 @@
+infinitivo: bromear
+gerundio: bromeando
+participio-pasado: bromeado
+presente-indicativo:
+  yo: broméo
+  tu: bromeas
+  vos: bromeás
+  ud: bromea
+  nosotros: bromeamos
+  vosotros: bromeáis
+  uds: bromeán
+preterito-perfecto-simple:
+  yo: bromeé
+  tu: bromeaste
+  vos: bromeaste
+  ud: bromeó
+  nosotros: bromeamos
+  vosotros: bromeasteis
+  uds: bromearon
+preterito-imperfecto:
+  yo: bromeaba
+  tu: bromeabas
+  vos: bromeabas
+  ud: bromeaba
+  nosotros: bromeábamos
+  vosotros: bromeabais
+  uds: bromeaban
+futuro-simple:
+  yo: bromearé
+  tu: bromearás
+  vos: bromearás
+  ud: bromeará
+  nosotros: bromearemos
+  vosotros: bromearéis
+  uds: bromearán
+condicional-simple:
+  yo: bromearía
+  tu: bromearías
+  vos: bromearías
+  ud: bromearía
+  nosotros: bromearíamos
+  vosotros: bromearíais
+  uds: bromearían
+presente-perfecto:
+  yo: he bromeado
+  tu: has bromeado
+  vos: has bromeado
+  ud: ha bromeado
+  nosotros: hemos bromeado
+  vosotros: habéis bromeado
+  uds: han bromeado
+preterito-pluscuamperfecto:
+  yo: había bromeado
+  tu: habías bromeado
+  vos: habías bromeado
+  ud: había bromeado
+  nosotros: habíamos bromeado
+  vosotros: habíais bromeado
+  uds: habían bromeado
+futuro-perfecto:
+  yo: habré bromeado
+  tu: habrás bromeado
+  vos: habrás bromeado
+  ud: habrá bromeado
+  nosotros: habremos bromeado
+  vosotros: habréis bromeado
+  uds: habrán bromeado
+condicional-perfecto:
+  yo: habría bromeado
+  tu: habrías bromeado
+  vos: habrías bromeado
+  ud: habría bromeado
+  nosotros: habríamos bromeado
+  vosotros: habríais bromeado
+  uds: habrían bromeado
+presente-subjuntivo:
+  yo: bromee
+  tu: bromees
+  vos: bromees
+  ud: bromee
+  nosotros: bromeemos
+  vosotros: bromeéis
+  uds: bromeen
+preterito-perfecto-subjuntivo:
+  yo: haya bromeado
+  tu: hayas bromeado
+  vos: hayas bromeado
+  ud: haya bromeado
+  nosotros: hayamos bromeado
+  vosotros: hayáis bromeado
+  uds: hayan bromeado
+imperfecto-subjuntivo:
+  yo:
+    - bromeara
+    - bromeara
+  tu:
+    - bromearas
+    - bromearas
+  vos:
+    - bromearas
+    - bromearas
+  ud:
+    - bromeara
+    - bromeara
+  nosotros:
+    - bromeáramos
+    - bromeásemos
+  vosotros:
+    - bromeareis
+    - bromearais
+  uds:
+    - bromearan
+    - bromearen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera bromeado
+    - hubiese bromeado
+  tu:
+    - hubieras bromeado
+    - hubieses bromeado
+  vos:
+    - hubieras bromeado
+    - hubieses bromeado
+  ud:
+    - hubiera bromeado
+    - hubiese bromeado
+  nosotros:
+    - hubiéramos bromeado
+    - hubiésemos bromeado
+  vosotros:
+    - hubierais bromeado
+    - hubieseis bromeado
+  uds:
+    - hubieran bromeado
+    - hubiesen bromeado
+imperativo:
+  tu: bromea
+  vos: bromeá
+  ud: bromee
+  nosotros: bromeemos
+  vosotros: bromeád
+  uds: bromeen

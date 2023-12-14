@@ -1,0 +1,142 @@
+infinitivo: hinchar
+gerundio: hinchando
+participio-pasado: hinchado
+presente-indicativo:
+  yo: hincho
+  tu: hinches
+  vos: hinches
+  ud: hincha
+  nosotros: hinchamos
+  vosotros: hincháis
+  uds: hinchan
+preterito-perfecto-simple:
+  yo: hinché
+  tu: hinchaste
+  vos: hinchaste
+  ud: hinchar
+  nosotros: hinchamos
+  vosotros: hinchasteis
+  uds: hincharon
+preterito-imperfecto:
+  yo: hinchaba
+  tu: hinchabas
+  vos: hinchabas
+  ud: hinchaba
+  nosotros: hinchábamos
+  vosotros: hinchabais
+  uds: hinchaban
+futuro-simple:
+  yo: hincharé
+  tu: hincharás
+  vos: hincharás
+  ud: hinchará
+  nosotros: hincharemos
+  vosotros: hincharéis
+  uds: hincharán
+condicional-simple:
+  yo: hincharía
+  tu: hincharías
+  vos: hincharías
+  ud: hincharía
+  nosotros: hincharíamos
+  vosotros: hincharíais
+  uds: hincharían
+presente-perfecto:
+  yo: he hinchado
+  tu: has hinchado
+  vos: has hinchado
+  ud: ha hinchado
+  nosotros: hemos hinchado
+  vosotros: habéis hinchado
+  uds: han hinchado
+preterito-pluscuamperfecto:
+  yo: había hinchado
+  tu: habías hinchado
+  vos: habías hinchado
+  ud: había hinchado
+  nosotros: habíamos hinchado
+  vosotros: habíais hinchado
+  uds: habían hinchado
+futuro-perfecto:
+  yo: habré hinchado
+  tu: habrás hinchado
+  vos: habrás hinchado
+  ud: habrá hinchado
+  nosotros: habremos hinchado
+  vosotros: habréis hinchado
+  uds: habrán hinchado
+condicional-perfecto:
+  yo: habría hinchado
+  tu: habrías hinchado
+  vos: habrías hinchado
+  ud: habría hinchado
+  nosotros: habríamos hinchado
+  vosotros: habríais hinchado
+  uds: habrían hinchado
+presente-subjuntivo:
+  yo: hinche
+  tu: hinches
+  vos: hinches
+  ud: hinche
+  nosotros: hinchemos
+  vosotros: hinchéis
+  uds: hinchen
+preterito-perfecto-subjuntivo:
+  yo: haya hinchado
+  tu: hayas hinchado
+  vos: hayas hinchado
+  ud: haya hinchado
+  nosotros: hayamos hinchado
+  vosotros: hayáis hinchado
+  uds: hayan hinchado
+imperfecto-subjuntivo:
+  yo:
+    - hinchara
+    - hinchase
+  tu:
+    - hincharas
+    - hinchases
+  vos:
+    - hincharas
+    - hinchases
+  ud:
+    - hinchara
+    - hinchase
+  nosotros:
+    - hincháramos
+    - hinchásemos
+  vosotros:
+    - hincháis
+    - hincháis
+  uds:
+    - hincharan
+    - hinchasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera hinchado
+    - hubiese hinchado
+  tu:
+    - hubieras hinchado
+    - hubieses hinchado
+  vos:
+    - hubieras hinchado
+    - hubieses hinchado
+  ud:
+    - hubiera hinchado
+    - hubiese hinchado
+  nosotros:
+    - hubiéramos hinchado
+    - hubiésemos hinchado
+  vosotros:
+    - hubierais hinchado
+    - hubieseis hinchado
+  uds:
+    - hubieran hinchado
+    - hubiesen hinchado
+imperativo:
+  tu: hincha
+  vos: hinchá
+  ud: hinche
+  nosotros: hinchemos
+  vosotros: hinchen
+  uds: hinchen

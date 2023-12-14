@@ -1,0 +1,142 @@
+infinitivo: derrumbar
+gerundio: derrumbando
+participio-pasado: derrumbado
+presente-indicativo:
+  yo: derrumbo
+  tu: derrumbas
+  vos: derrumbas
+  ud: derrumba
+  nosotros: derrumbamos
+  vosotros: derrumbáis
+  uds: derrumban
+preterito-perfecto-simple:
+  yo: derrumbé
+  tu: derrumbaste
+  vos: derrumbaste
+  ud: derrumbó
+  nosotros: derrumbamos
+  vosotros: derrumbasteis
+  uds: derrumbaron
+preterito-imperfecto:
+  yo: derrumbaba
+  tu: derrumbabas
+  vos: derrumbabas
+  ud: derrumbaba
+  nosotros: derrumbábamos
+  vosotros: derrumbabais
+  uds: derrumbaban
+futuro-simple:
+  yo: derrumbaré
+  tu: derrumbarás
+  vos: derrumbarás
+  ud: derrumbará
+  nosotros: derrumbaremos
+  vosotros: derrumbaréis
+  uds: derrumbarán
+condicional-simple:
+  yo: derrumbaría
+  tu: derrumbarías
+  vos: derrumbarías
+  ud: derrumbaría
+  nosotros: derrumbaríamos
+  vosotros: derrumbaríais
+  uds: derrumbarían
+presente-perfecto:
+  yo: he derrumbado
+  tu: has derrumbado
+  vos: has derrumbado
+  ud: ha derrumbado
+  nosotros: hemos derrumbado
+  vosotros: habéis derrumbado
+  uds: han derrumbado
+preterito-pluscuamperfecto:
+  yo: había derrumbado
+  tu: habías derrumbado
+  vos: habías derrumbado
+  ud: había derrumbado
+  nosotros: habíamos derrumbado
+  vosotros: habíais derrumbado
+  uds: habían derrumbado
+futuro-perfecto:
+  yo: habré derrumbado
+  tu: habrás derrumbado
+  vos: habrás derrumbado
+  ud: habrá derrumbado
+  nosotros: habremos derrumbado
+  vosotros: habréis derrumbado
+  uds: habrán derrumbado
+condicional-perfecto:
+  yo: habría derrumbado
+  tu: habrías derrumbado
+  vos: habrías derrumbado
+  ud: habría derrumbado
+  nosotros: habríamos derrumbado
+  vosotros: habríais derrumbado
+  uds: habrían derrumbado
+presente-subjuntivo:
+  yo: derrumbe
+  tu: derrumbes
+  vos: derrumbes
+  ud: derrumbe
+  nosotros: derrumbemos
+  vosotros: derrumbéis
+  uds: derrumben
+preterito-perfecto-subjuntivo:
+  yo: haya derrumbado
+  tu: hayas derrumbado
+  vos: hayas derrumbado
+  ud: haya derrumbado
+  nosotros: hayamos derrumbado
+  vosotros: hayáis derrumbado
+  uds: hayan derrumbado
+imperfecto-subjuntivo:
+  yo:
+    - derrumbara
+    - derrumbase
+  tu:
+    - derrumbaras
+    - derrumbases
+  vos:
+    - derrumbaras
+    - derrumbases
+  ud:
+    - derrumbara
+    - derrumbase
+  nosotros:
+    - derrumbáramos
+    - derrumbásemos
+  vosotros:
+    - derrumbarais
+    - derrumbaseis
+  uds:
+    - derrumbaran
+    - derrumbasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera derrumbado
+    - hubiese derrumbado
+  tu:
+    - hubieras derrumbado
+    - hubieses derrumbado
+  vos:
+    - hubieras derrumbado
+    - hubieses derrumbado
+  ud:
+    - hubiera derrumbado
+    - hubiese derrumbado
+  nosotros:
+    - hubiéramos derrumbado
+    - hubiésemos derrumbado
+  vosotros:
+    - hubierais derrumbado
+    - hubieseis derrumbado
+  uds:
+    - hubieran derrumbado
+    - hubiesen derrumbado
+imperativo:
+  tu: derrumba
+  vos: derrumbá
+  ud: derrumbe
+  nosotros: derrumbemos
+  vosotros: derrumbad
+  uds: derrumben

@@ -1,0 +1,142 @@
+infinitivo: empeorar
+gerundio: empeorando
+participio-pasado: empeorado
+presente-indicativo:
+  yo: empeoro
+  tu: empeoras
+  vos: empeoras
+  ud: empeora
+  nosotros: empeoramos
+  vosotros: empeoráis
+  uds: empeoran
+preterito-perfecto-simple:
+  yo: empeoré
+  tu: empeoraste
+  vos: empeoraste
+  ud: empeoró
+  nosotros: empeoramos
+  vosotros: empeorasteis
+  uds: empeoraron
+preterito-imperfecto:
+  yo: empeoraba
+  tu: empeorabas
+  vos: empeorabas
+  ud: empeoraba
+  nosotros: empeorábamos
+  vosotros: empeorabais
+  uds: empeoraban
+futuro-simple:
+  yo: empeoraré
+  tu: empeorarás
+  vos: empeorarás
+  ud: empeorará
+  nosotros: empeoraremos
+  vosotros: empeoraréis
+  uds: empeorarán
+condicional-simple:
+  yo: empeoraría
+  tu: empeorarías
+  vos: empeorarías
+  ud: empeoraría
+  nosotros: empeoraríamos
+  vosotros: empeoraríais
+  uds: empeorarían
+presente-perfecto:
+  yo: he empeorado
+  tu: has empeorado
+  vos: has empeorado
+  ud: ha empeorado
+  nosotros: hemos empeorado
+  vosotros: habéis empeorado
+  uds: han empeorado
+preterito-pluscuamperfecto:
+  yo: había empeorado
+  tu: habías empeorado
+  vos: habías empeorado
+  ud: había empeorado
+  nosotros: habíamos empeorado
+  vosotros: habíais empeorado
+  uds: habían empeorado
+futuro-perfecto:
+  yo: habré empeorado
+  tu: habrás empeorado
+  vos: habrás empeorado
+  ud: habrá empeorado
+  nosotros: habremos empeorado
+  vosotros: habréis empeorado
+  uds: habrán empeorado
+condicional-perfecto:
+  yo: habría empeorado
+  tu: habrías empeorado
+  vos: habrías empeorado
+  ud: habría empeorado
+  nosotros: habríamos empeorado
+  vosotros: habríais empeorado
+  uds: habrían empeorado
+presente-subjuntivo:
+  yo: empeore
+  tu: empeores
+  vos: empeores
+  ud: empeore
+  nosotros: empeoremos
+  vosotros: empeoréis
+  uds: empeoren
+preterito-perfecto-subjuntivo:
+  yo: haya empeorado
+  tu: hayas empeorado
+  vos: hayas empeorado
+  ud: haya empeorado
+  nosotros: hayamos empeorado
+  vosotros: hayáis empeorado
+  uds: hayan empeorado
+imperfecto-subjuntivo:
+  yo:
+    - empeorara
+    - empeorase
+  tu:
+    - empeoraras
+    - empeorases
+  vos:
+    - empeoraras
+    - empeorases
+  ud:
+    - empeorara
+    - empeorase
+  nosotros:
+    - empeoráramos
+    - empeorásemos
+  vosotros:
+    - empeorarais
+    - empeoraseis
+  uds:
+    - empeoraran
+    - empeorasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera empeorado
+    - hubiese empeorado
+  tu:
+    - hubieras empeorado
+    - hubieses empeorado
+  vos:
+    - hubieras empeorado
+    - hubieses empeorado
+  ud:
+    - hubiera empeorado
+    - hubiese empeorado
+  nosotros:
+    - hubiéramos empeorado
+    - hubiésemos empeorado
+  vosotros:
+    - hubierais empeorado
+    - hubieseis empeorado
+  uds:
+    - hubieran empeorado
+    - hubiesen empeorado
+imperativo:
+  tu: empeora
+  vos: empeorá
+  ud: empeore
+  nosotros: empeoremos
+  vosotros: empeorad
+  uds: empeoren

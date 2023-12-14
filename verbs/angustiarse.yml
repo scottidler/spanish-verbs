@@ -1,0 +1,156 @@
+infinitivo: angustiarse
+gerundio: angustiándose
+participio-pasado: angustiado
+
+presente-indicativo:
+  yo: me angustio
+  tu: te angustias
+  vos: te angustias
+  ud: se angustia
+  nosotros: nos angustiamos
+  vosotros: os angustiáis
+  uds: se angustian
+
+preterito-perfecto-simple:
+  yo: me angustié
+  tu: te angustiaste
+  vos: te angustiaste
+  ud: se angustió
+  nosotros: nos angustiamos
+  vosotros: os angustiasteis
+  uds: se angustiaron
+
+preterito-imperfecto:
+  yo: me angustiaba
+  tu: te angustiabas
+  vos: te angustiabas
+  ud: se angustiaba
+  nosotros: nos angustiábamos
+  vosotros: os angustiabais
+  uds: se angustiaban
+
+futuro-simple:
+  yo: me angustiaré
+  tu: te angustiarás
+  vos: te angustiarás
+  ud: se angustiará
+  nosotros: nos angustiaremos
+  vosotros: os angustiaréis
+  uds: se angustiarán
+
+condicional-simple:
+  yo: me angustiaría
+  tu: te angustiarías
+  vos: te angustiarías
+  ud: se angustiaría
+  nosotros: nos angustiaríamos
+  vosotros: os angustiaríais
+  uds: se angustiarían
+
+presente-perfecto:
+  yo: me he angustiado
+  tu: te has angustiado
+  vos: te has angustiado
+  ud: se ha angustiado
+  nosotros: nos hemos angustiado
+  vosotros: os habéis angustiado
+  uds: se han angustiado
+
+preterito-pluscuamperfecto:
+  yo: me había angustiado
+  tu: te habías angustiado
+  vos: te habías angustiado
+  ud: se había angustiado
+  nosotros: nos habíamos angustiado
+  vosotros: os habíais angustiado
+  uds: se habían angustiado
+
+futuro-perfecto:
+  yo: me habré angustiado
+  tu: te habrás angustiado
+  vos: te habrás angustiado
+  ud: se habrá angustiado
+  nosotros: nos habremos angustiado
+  vosotros: os habréis angustiado
+  uds: se habrán angustiado
+
+condicional-perfecto:
+  yo: me habría angustiado
+  tu: te habrías angustiado
+  vos: te habrías angustiado
+  ud: se habría angustiado
+  nosotros: nos habríamos angustiado
+  vosotros: os habríais angustiado
+  uds: se habrían angustiado
+
+presente-subjuntivo:
+  yo: me angustie
+  tu: te angusties
+  vos: te angusties
+  ud: se angustie
+  nosotros: nos angustiemos
+  vosotros: os angustiéis
+  uds: se angustien
+
+preterito-perfecto-subjuntivo:
+  yo: me haya angustiado
+  tu: te hayas angustiado
+  vos: te hayas angustiado
+  ud: se haya angustiado
+  nosotros: nos hayamos angustiado
+  vosotros: os hayáis angustiado
+  uds: se hayan angustiado
+
+imperfecto-subjuntivo:
+  yo:
+    - me angustiara
+    - me angustiase
+  tu:
+    - te angustiaras
+    - te angustiases
+  vos:
+    - te angustiaras
+    - te angustiases
+  ud:
+    - se angustiara
+    - se angustiase
+  nosotros:
+    - nos angustiáramos
+    - nos angustiásemos
+  vosotros:
+    - os angustiarais
+    - os angustiaseis
+  uds:
+    - se angustiaran
+    - se angustiasen
+
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera angustiado
+    - me hubiese angustiado
+  tu:
+    - te hubieras angustiado
+    - te hubieses angustiado
+  vos:
+    - te hubieras angustiado
+    - te hubieses angustiado
+  ud:
+    - se hubiera angustiado
+    - se hubiese angustiado
+  nosotros:
+    - nos hubiéramos angustiado
+    - nos hubiésemos angustiado
+  vosotros:
+    - os hubierais angustiado
+    - os hubieseis angustiado
+  uds:
+    - se hubieran angustiado
+    - se hubiesen angustiado
+
+imperativo:
+  tu: angústiate
+  vos: angustiate
+  ud: angústiese
+  nosotros: angustiémonos
+  vosotros: angustiaos
+  uds: angústiese

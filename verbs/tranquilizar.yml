@@ -1,0 +1,142 @@
+infinitivo: tranquilizar
+gerundio: tranquilizando
+participio-pasado: tranquilizado
+presente-indicativo:
+  yo: tranquilizo
+  tu: tranquilizas
+  vos: tranquilizas
+  ud: tranquiliza
+  nosotros: tranquilizamos
+  vosotros: tranquilizáis
+  uds: tranquilizan
+preterito-perfecto-simple:
+  yo: tranquilicé
+  tu: tranquilizaste
+  vos: tranquilizaste
+  ud: tranquilizó
+  nosotros: tranquilizamos
+  vosotros: tranquilizasteis
+  uds: tranquilizaron
+preterito-imperfecto:
+  yo: tranquilizaba
+  tu: tranquilizabas
+  vos: tranquilizabas
+  ud: tranquilizaba
+  nosotros: tranquilizábamos
+  vosotros: tranquilizabais
+  uds: tranquilizaban
+futuro-simple:
+  yo: tranquilizaré
+  tu: tranquilizarás
+  vos: tranquilizarás
+  ud: tranquilizará
+  nosotros: tranquilizaremos
+  vosotros: tranquilizaréis
+  uds: tranquilizarán
+condicional-simple:
+  yo: tranquilizaría
+  tu: tranquilizarías
+  vos: tranquilizarías
+  ud: tranquilizaría
+  nosotros: tranquilizaríamos
+  vosotros: tranquilizaríais
+  uds: tranquilizarían
+presente-perfecto:
+  yo: he tranquilizado
+  tu: has tranquilizado
+  vos: has tranquilizado
+  ud: ha tranquilizado
+  nosotros: hemos tranquilizado
+  vosotros: habéis tranquilizado
+  uds: han tranquilizado
+preterito-pluscuamperfecto:
+  yo: había tranquilizado
+  tu: habías tranquilizado
+  vos: habías tranquilizado
+  ud: había tranquilizado
+  nosotros: habíamos tranquilizado
+  vosotros: habíais tranquilizado
+  uds: habían tranquilizado
+futuro-perfecto:
+  yo: habré tranquilizado
+  tu: habrás tranquilizado
+  vos: habrás tranquilizado
+  ud: habrá tranquilizado
+  nosotros: habremos tranquilizado
+  vosotros: habréis tranquilizado
+  uds: habrán tranquilizado
+condicional-perfecto:
+  yo: habría tranquilizado
+  tu: habrías tranquilizado
+  vos: habrías tranquilizado
+  ud: habría tranquilizado
+  nosotros: habríamos tranquilizado
+  vosotros: habríais tranquilizado
+  uds: habrían tranquilizado
+presente-subjuntivo:
+  yo: tranquilice
+  tu: tranquilices
+  vos: tranquilices
+  ud: tranquilice
+  nosotros: tranquilicemos
+  vosotros: tranquilicéis
+  uds: tranquilicen
+preterito-perfecto-subjuntivo:
+  yo: haya tranquilizado
+  tu: hayas tranquilizado
+  vos: hayas tranquilizado
+  ud: haya tranquilizado
+  nosotros: hayamos tranquilizado
+  vosotros: hayáis tranquilizado
+  uds: hayan tranquilizado
+imperfecto-subjuntivo:
+  yo:
+    - tranquilizara
+    - tranquilizase
+  tu:
+    - tranquilizaras
+    - tranquilizases
+  vos:
+    - tranquilizaras
+    - tranquilizases
+  ud:
+    - tranquilizara
+    - tranquilizase
+  nosotros:
+    - tranquilizáramos
+    - tranquilizásemos
+  vosotros:
+    - tranquilizarais
+    - tranquilizaseis
+  uds:
+    - tranquilizaran
+    - tranquilizasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera tranquilizado
+    - hubiese tranquilizado
+  tu:
+    - hubieras tranquilizado
+    - hubieses tranquilizado
+  vos:
+    - hubieras tranquilizado
+    - hubieses tranquilizado
+  ud:
+    - hubiera tranquilizado
+    - hubiese tranquilizado
+  nosotros:
+    - hubiéramos tranquilizado
+    - hubiésemos tranquilizado
+  vosotros:
+    - hubierais tranquilizado
+    - hubieseis tranquilizado
+  uds:
+    - hubieran tranquilizado
+    - hubiesen tranquilizado
+imperativo:
+  tu: tranquiliza
+  vos: tranquilizá
+  ud: tranquilice
+  nosotros: tranquilicemos
+  vosotros: tranquilizad
+  uds: tranquilicen

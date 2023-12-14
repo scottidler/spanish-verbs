@@ -1,0 +1,142 @@
+infinitivo: representar
+gerundio: representando
+participio-pasado: representado
+presente-indicativo:
+  yo: represento
+  tu: representas
+  vos: representas
+  ud: representa
+  nosotros: representamos
+  vosotros: representáis
+  uds: representan
+preterito-perfecto-simple:
+  yo: representé
+  tu: representaste
+  vos: representaste
+  ud: representó
+  nosotros: representamos
+  vosotros: representasteis
+  uds: representaron
+preterito-imperfecto:
+  yo: representaba
+  tu: representabas
+  vos: representabas
+  ud: representaba
+  nosotros: representábamos
+  vosotros: representabais
+  uds: representaban
+futuro-simple:
+  yo: representaré
+  tu: representarás
+  vos: representarás
+  ud: representará
+  nosotros: representaremos
+  vosotros: representaréis
+  uds: representarán
+condicional-simple:
+  yo: representaría
+  tu: representarías
+  vos: representarías
+  ud: representaría
+  nosotros: representaríamos
+  vosotros: representaríais
+  uds: representarían
+presente-perfecto:
+  yo: he representado
+  tu: has representado
+  vos: has representado
+  ud: ha representado
+  nosotros: hemos representado
+  vosotros: habéis representado
+  uds: han representado
+preterito-pluscuamperfecto:
+  yo: había representado
+  tu: habías representado
+  vos: habías representado
+  ud: había representado
+  nosotros: habíamos representado
+  vosotros: habíais representado
+  uds: habían representado
+futuro-perfecto:
+  yo: habré representado
+  tu: habrás representado
+  vos: habrás representado
+  ud: habrá representado
+  nosotros: habremos representado
+  vosotros: habréis representado
+  uds: habrán representado
+condicional-perfecto:
+  yo: habría representado
+  tu: habrías representado
+  vos: habrías representado
+  ud: habría representado
+  nosotros: habríamos representado
+  vosotros: habríais representado
+  uds: habrían representado
+presente-subjuntivo:
+  yo: represente
+  tu: representes
+  vos: representes
+  ud: represente
+  nosotros: representemos
+  vosotros: representéis
+  uds: representen
+preterito-perfecto-subjuntivo:
+  yo: haya representado
+  tu: hayas representado
+  vos: hayas representado
+  ud: haya representado
+  nosotros: hayamos representado
+  vosotros: hayáis representado
+  uds: hayan representado
+imperfecto-subjuntivo:
+  yo:
+    - representara
+    - representase
+  tu:
+    - representaras
+    - representases
+  vos:
+    - representaras
+    - representases
+  ud:
+    - representara
+    - representase
+  nosotros:
+    - representáramos
+    - representásemos
+  vosotros:
+    - representarais
+    - representaseis
+  uds:
+    - representaran
+    - representasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera representado
+    - hubiese representado
+  tu:
+    - hubieras representado
+    - hubieses representado
+  vos:
+    - hubieras representado
+    - hubieses representado
+  ud:
+    - hubiera representado
+    - hubiese representado
+  nosotros:
+    - hubiéramos representado
+    - hubiésemos representado
+  vosotros:
+    - hubierais representado
+    - hubieseis representado
+  uds:
+    - hubieran representado
+    - hubiesen representado
+imperativo:
+  tu: representa
+  vos: representá
+  ud: represente
+  nosotros: representemos
+  vosotros: representad
+  uds: representen

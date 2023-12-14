@@ -1,0 +1,142 @@
+infinitivo: amontonar
+gerundio: amontonando
+participio-pasado: amontonado
+presente-indicativo:
+  yo: amontono
+  tu: amontonas
+  vos: amontonás
+  ud: amontona
+  nosotros: amontonamos
+  vosotros: amontonáis
+  uds: amontonan
+preterito-perfecto-simple:
+  yo: amontoné
+  tu: amontonaste
+  vos: amontonaste
+  ud: amontonó
+  nosotros: amontonamos
+  vosotros: amontonasteis
+  uds: amontonaron
+preterito-imperfecto:
+  yo: amontonaba
+  tu: amontonabas
+  vos: amontonabas
+  ud: amontonaba
+  nosotros: amontonábamos
+  vosotros: amontonabais
+  uds: amontonaban
+futuro-simple:
+  yo: amontonaré
+  tu: amontonarás
+  vos: amontonarás
+  ud: amontonará
+  nosotros: amontonaremos
+  vosotros: amontonaréis
+  uds: amontonarán
+condicional-simple:
+  yo: amontonaría
+  tu: amontonarías
+  vos: amontonarías
+  ud: amontonaría
+  nosotros: amontonaríamos
+  vosotros: amontonaríais
+  uds: amontonarían
+presente-perfecto:
+  yo: he amontonado
+  tu: has amontonado
+  vos: has amontonado
+  ud: ha amontonado
+  nosotros: hemos amontonado
+  vosotros: habéis amontonado
+  uds: han amontonado
+preterito-pluscuamperfecto:
+  yo: había amontonado
+  tu: habías amontonado
+  vos: habías amontonado
+  ud: había amontonado
+  nosotros: habíamos amontonado
+  vosotros: habíais amontonado
+  uds: habían amontonado
+futuro-perfecto:
+  yo: habré amontonado
+  tu: habrás amontonado
+  vos: habrás amontonado
+  ud: habrá amontonado
+  nosotros: habremos amontonado
+  vosotros: habréis amontonado
+  uds: habrán amontonado
+condicional-perfecto:
+  yo: habría amontonado
+  tu: habrías amontonado
+  vos: habrías amontonado
+  ud: habría amontonado
+  nosotros: habríamos amontonado
+  vosotros: habríais amontonado
+  uds: habrían amontonado
+presente-subjuntivo:
+  yo: amontone
+  tu: amontones
+  vos: amontones
+  ud: amontone
+  nosotros: amontonemos
+  vosotros: amontonéis
+  uds: amontonen
+preterito-perfecto-subjuntivo:
+  yo: haya amontonado
+  tu: hayas amontonado
+  vos: hayas amontonado
+  ud: haya amontonado
+  nosotros: hayamos amontonado
+  vosotros: hayáis amontonado
+  uds: hayan amontonado
+imperfecto-subjuntivo:
+  yo:
+    - amontonara
+    - amontonase
+  tu:
+    - amontonaras
+    - amontonases
+  vos:
+    - amontonaras
+    - amontonases
+  ud:
+    - amontonara
+    - amontonase
+  nosotros:
+    - amontonáramos
+    - amontonásemos
+  vosotros:
+    - amontonarais
+    - amontonaseis
+  uds:
+    - amontonaran
+    - amontonasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera amontonado
+    - hubiese amontonado
+  tu:
+    - hubieras amontonado
+    - hubieses amontonado
+  vos:
+    - hubieras amontonado
+    - hubieses amontonado
+  ud:
+    - hubiera amontonado
+    - hubiese amontonado
+  nosotros:
+    - hubiéramos amontonado
+    - hubiésemos amontonado
+  vosotros:
+    - hubierais amontonado
+    - hubieseis amontonado
+  uds:
+    - hubieran amontonado
+    - hubiesen amontonado
+imperativo:
+  tu: amontona
+  vos: amontoná
+  ud: amontone
+  nosotros: amontonemos
+  vosotros: amontonad
+  uds: amontonen

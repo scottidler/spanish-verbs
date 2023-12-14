@@ -1,0 +1,142 @@
+infinitivo: danzar
+gerundio: danzando
+participio-pasado: danzado
+presente-indicativo:
+  yo: danzo
+  tu: danzas
+  vos: danzas
+  ud: danza
+  nosotros: danzamos
+  vosotros: danzáis
+  uds: danzan
+preterito-perfecto-simple:
+  yo: dancé
+  tu: danzaste
+  vos: danzaste
+  ud: danzó
+  nosotros: danzamos
+  vosotros: danzasteis
+  uds: danzaron
+preterito-imperfecto:
+  yo: danzaba
+  tu: danzabas
+  vos: danzabas
+  ud: danzaba
+  nosotros: danzábamos
+  vosotros: danzabais
+  uds: danzaban
+futuro-simple:
+  yo: danzaré
+  tu: danzarás
+  vos: danzarás
+  ud: danzará
+  nosotros: danzaremos
+  vosotros: danzaréis
+  uds: danzarán
+condicional-simple:
+  yo: danzaría
+  tu: danzarías
+  vos: danzarías
+  ud: danzaría
+  nosotros: danzaríamos
+  vosotros: danzaríais
+  uds: danzarían
+presente-perfecto:
+  yo: he danzado
+  tu: has danzado
+  vos: has danzado
+  ud: ha danzado
+  nosotros: hemos danzado
+  vosotros: habéis danzado
+  uds: han danzado
+preterito-pluscuamperfecto:
+  yo: había danzado
+  tu: habías danzado
+  vos: habías danzado
+  ud: había danzado
+  nosotros: habíamos danzado
+  vosotros: habíais danzado
+  uds: habían danzado
+futuro-perfecto:
+  yo: habré danzado
+  tu: habrás danzado
+  vos: habrás danzado
+  ud: habrá danzado
+  nosotros: habremos danzado
+  vosotros: habréis danzado
+  uds: habrán danzado
+condicional-perfecto:
+  yo: habría danzado
+  tu: habrías danzado
+  vos: habrías danzado
+  ud: habría danzado
+  nosotros: habríamos danzado
+  vosotros: habríais danzado
+  uds: habrían danzado
+presente-subjuntivo:
+  yo: dance
+  tu: dances
+  vos: dances
+  ud: dance
+  nosotros: dancemos
+  vosotros: danzáis
+  uds: dancen
+preterito-perfecto-subjuntivo:
+  yo: haya danzado
+  tu: hayas danzado
+  vos: hayas danzado
+  ud: haya danzado
+  nosotros: hayamos danzado
+  vosotros: hayáis danzado
+  uds: hayan danzado
+imperfecto-subjuntivo:
+  yo:
+    - danzara
+    - danzase
+  tu:
+    - danzaras
+    - danzases
+  vos:
+    - danzaras
+    - danzases
+  ud:
+    - danzara
+    - danzase
+  nosotros:
+    - danzáramos
+    - danzásemos
+  vosotros:
+    - danzarais
+    - danzaseis
+  uds:
+    - danzaran
+    - danzasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera danzado
+    - hubiese danzado
+  tu:
+    - hubieras danzado
+    - hubieses danzado
+  vos:
+    - hubieras danzado
+    - hubieses danzado
+  ud:
+    - hubiera danzado
+    - hubiese danzado
+  nosotros:
+    - hubiéramos danzado
+    - hubiésemos danzado
+  vosotros:
+    - hubierais danzado
+    - hubieseis danzado
+  uds:
+    - hubieran danzado
+    - hubiesen danzado
+imperativo:
+  tu: danza
+  vos: danzá
+  ud: dance
+  nosotros: dancemos
+  vosotros: danzad
+  uds: dancen

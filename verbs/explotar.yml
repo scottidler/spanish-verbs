@@ -1,0 +1,142 @@
+infinitivo: explotar
+gerundio: explotando
+participio-pasado: explotado
+presente-indicativo:
+  yo: exploto
+  tu: explotas
+  vos: explotás
+  ud: explota
+  nosotros: explotamos
+  vosotros: explotáis
+  uds: explotan
+preterito-perfecto-simple:
+  yo: exploté
+  tu: explotaste
+  vos: explotaste
+  ud: explotó
+  nosotros: explotamos
+  vosotros: explotasteis
+  uds: explotaron
+preterito-imperfecto:
+  yo: explotaba
+  tu: explotabas
+  vos: explotabas
+  ud: explotaba
+  nosotros: explotábamos
+  vosotros: explotabais
+  uds: explotaban
+futuro-simple:
+  yo: explotaré
+  tu: explotarás
+  vos: explotarás
+  ud: explotará
+  nosotros: explotaremos
+  vosotros: explotaréis
+  uds: explotarán
+condicional-simple:
+  yo: explotaría
+  tu: explotarías
+  vos: explotarías
+  ud: explotaría
+  nosotros: explotaríamos
+  vosotros: explotaríais
+  uds: explotarían
+presente-perfecto:
+  yo: he explotado
+  tu: has explotado
+  vos: has explotado
+  ud: ha explotado
+  nosotros: hemos explotado
+  vosotros: habéis explotado
+  uds: han explotado
+preterito-pluscuamperfecto:
+  yo: había explotado
+  tu: habías explotado
+  vos: habías explotado
+  ud: había explotado
+  nosotros: habíamos explotado
+  vosotros: habíais explotado
+  uds: habían explotado
+futuro-perfecto:
+  yo: habré explotado
+  tu: habrás explotado
+  vos: habrás explotado
+  ud: habrá explotado
+  nosotros: habremos explotado
+  vosotros: habréis explotado
+  uds: habrán explotado
+condicional-perfecto:
+  yo: habría explotado
+  tu: habrías explotado
+  vos: habrías explotado
+  ud: habría explotado
+  nosotros: habríamos explotado
+  vosotros: habríais explotado
+  uds: habrían explotado
+presente-subjuntivo:
+  yo: explote
+  tu: explotes
+  vos: explotes
+  ud: explote
+  nosotros: explotemos
+  vosotros: explotéis
+  uds: exploten
+preterito-perfecto-subjuntivo:
+  yo: haya explotado
+  tu: hayas explotado
+  vos: hayas explotado
+  ud: haya explotado
+  nosotros: hayamos explotado
+  vosotros: hayáis explotado
+  uds: hayan explotado
+imperfecto-subjuntivo:
+  yo:
+    - explotara
+    - explotase
+  tu:
+    - explotaras
+    - explotases
+  vos:
+    - explotaras
+    - explotases
+  ud:
+    - explotara
+    - explotase
+  nosotros:
+    - explotáramos
+    - explotásemos
+  vosotros:
+    - explotarais
+    - explotaseis
+  uds:
+    - explotaran
+    - explotasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera explotado
+    - hubiese explotado
+  tu:
+    - hubieras explotado
+    - hubieses explotado
+  vos:
+    - hubieras explotado
+    - hubieses explotado
+  ud:
+    - hubiera explotado
+    - hubiese explotado
+  nosotros:
+    - hubiéramos explotado
+    - hubiésemos explotado
+  vosotros:
+    - hubierais explotado
+    - hubieseis explotado
+  uds:
+    - hubieran explotado
+    - hubiesen explotado
+imperativo:
+  tu: explota
+  vos: explotá
+  ud: explote
+  nosotros: explotemos
+  vosotros: explotad
+  uds: exploten

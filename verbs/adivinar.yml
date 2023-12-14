@@ -1,0 +1,142 @@
+infinitivo: adivinar
+gerundio: adivinando
+participio-pasado: adivinado
+presente-indicativo:
+  yo: adivino
+  tu: adivinas
+  vos: adivinás
+  ud: adivina
+  nosotros: adivinamos
+  vosotros: adivináis
+  uds: adivinan
+preterito-perfecto-simple:
+  yo: adiviné
+  tu: adivinaste
+  vos: adivinaste
+  ud: adivinó
+  nosotros: adivinamos
+  vosotros: adivinasteis
+  uds: adivinaron
+preterito-imperfecto:
+  yo: adivinaba
+  tu: adivinabas
+  vos: adivinabas
+  ud: adivinaba
+  nosotros: adivinábamos
+  vosotros: adivinabais
+  uds: adivinaban
+futuro-simple:
+  yo: adivinaré
+  tu: adivinarás
+  vos: adivinarás
+  ud: adivinará
+  nosotros: adivinaremos
+  vosotros: adivinaréis
+  uds: adivinarán
+condicional-simple:
+  yo: adivinaría
+  tu: adivinarías
+  vos: adivinarías
+  ud: adivinaría
+  nosotros: adivinaríamos
+  vosotros: adivinaríais
+  uds: adivinarían
+presente-perfecto:
+  yo: he adivinado
+  tu: has adivinado
+  vos: has adivinado
+  ud: ha adivinado
+  nosotros: hemos adivinado
+  vosotros: habéis adivinado
+  uds: han adivinado
+preterito-pluscuamperfecto:
+  yo: había adivinado
+  tu: habías adivinado
+  vos: habías adivinado
+  ud: había adivinado
+  nosotros: habíamos adivinado
+  vosotros: habíais adivinado
+  uds: habían adivinado
+futuro-perfecto:
+  yo: habré adivinado
+  tu: habrás adivinado
+  vos: habrás adivinado
+  ud: habrá adivinado
+  nosotros: habremos adivinado
+  vosotros: habréis adivinado
+  uds: habrán adivinado
+condicional-perfecto:
+  yo: habría adivinado
+  tu: habrías adivinado
+  vos: habrías adivinado
+  ud: habría adivinado
+  nosotros: habríamos adivinado
+  vosotros: habríais adivinado
+  uds: habrían adivinado
+presente-subjuntivo:
+  yo: adivine
+  tu: adivines
+  vos: adivines
+  ud: adivine
+  nosotros: adivinemos
+  vosotros: adivinéis
+  uds: adivinen
+preterito-perfecto-subjuntivo:
+  yo: haya adivinado
+  tu: hayas adivinado
+  vos: hayas adivinado
+  ud: haya adivinado
+  nosotros: hayamos adivinado
+  vosotros: hayáis adivinado
+  uds: hayan adivinado
+imperfecto-subjuntivo:
+  yo:
+    - adivinara
+    - adivinase
+  tu:
+    - adivinaras
+    - adivinases
+  vos:
+    - adivinaras
+    - adivinases
+  ud:
+    - adivinara
+    - adivinase
+  nosotros:
+    - adivináramos
+    - adivinásemos
+  vosotros:
+    - adivinarais
+    - adivinaseis
+  uds:
+    - adivinaran
+    - adivinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera adivinado
+    - hubiese adivinado
+  tu:
+    - hubieras adivinado
+    - hubieses adivinado
+  vos:
+    - hubieras adivinado
+    - hubieses adivinado
+  ud:
+    - hubiera adivinado
+    - hubiese adivinado
+  nosotros:
+    - hubiéramos adivinado
+    - hubiésemos adivinado
+  vosotros:
+    - hubierais adivinado
+    - hubieseis adivinado
+  uds:
+    - hubieran adivinado
+    - hubiesen adivinado
+imperativo:
+  tu: adivina
+  vos: adiviná
+  ud: adivine
+  nosotros: adivinemos
+  vosotros: adivinad
+  uds: adivinen

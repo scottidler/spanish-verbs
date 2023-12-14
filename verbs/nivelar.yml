@@ -1,0 +1,142 @@
+infinitivo: nivelar
+gerundio: nivelando
+participio-pasado: nivelado
+presente-indicativo:
+  yo: nivelo
+  tu: nivelas
+  vos: nivelas
+  ud: nivela
+  nosotros: nivelamos
+  vosotros: niveláis
+  uds: nivelan
+preterito-perfecto-simple:
+  yo: nivelé
+  tu: nivelaste
+  vos: nivelaste
+  ud: niveló
+  nosotros: nivelamos
+  vosotros: nivelasteis
+  uds: nivelaron
+preterito-imperfecto:
+  yo: nivelaba
+  tu: nivelabas
+  vos: nivelabas
+  ud: nivelaba
+  nosotros: nivelábamos
+  vosotros: nivelabais
+  uds: nivelaban
+futuro-simple:
+  yo: nivelaré
+  tu: nivelarás
+  vos: nivelarás
+  ud: nivelará
+  nosotros: nivelaremos
+  vosotros: nivelaréis
+  uds: nivelarán
+condicional-simple:
+  yo: nivelaría
+  tu: nivelarías
+  vos: nivelarías
+  ud: nivelaría
+  nosotros: nivelaríamos
+  vosotros: nivelaríais
+  uds: nivelarían
+presente-perfecto:
+  yo: he nivelado
+  tu: has nivelado
+  vos: has nivelado
+  ud: ha nivelado
+  nosotros: hemos nivelado
+  vosotros: habéis nivelado
+  uds: han nivelado
+preterito-pluscuamperfecto:
+  yo: había nivelado
+  tu: habías nivelado
+  vos: habías nivelado
+  ud: había nivelado
+  nosotros: habíamos nivelado
+  vosotros: habíais nivelado
+  uds: habían nivelado
+futuro-perfecto:
+  yo: habré nivelado
+  tu: habrás nivelado
+  vos: habrás nivelado
+  ud: habrá nivelado
+  nosotros: habremos nivelado
+  vosotros: habréis nivelado
+  uds: habrán nivelado
+condicional-perfecto:
+  yo: habría nivelado
+  tu: habrías nivelado
+  vos: habrías nivelado
+  ud: habría nivelado
+  nosotros: habríamos nivelado
+  vosotros: habríais nivelado
+  uds: habrían nivelado
+presente-subjuntivo:
+  yo: nivele
+  tu: niveles
+  vos: niveles
+  ud: nivele
+  nosotros: nivelemos
+  vosotros: niveléis
+  uds: niveles
+preterito-perfecto-subjuntivo:
+  yo: haya nivelado
+  tu: hayas nivelado
+  vos: hayas nivelado
+  ud: haya nivelado
+  nosotros: hayamos nivelado
+  vosotros: hayáis nivelado
+  uds: hayan nivelado
+imperfecto-subjuntivo:
+  yo:
+    - nivelara
+    - nivelase
+  tu:
+    - nivelaras
+    - nivelases
+  vos:
+    - nivelaras
+    - nivelases
+  ud:
+    - nivelara
+    - nivelase
+  nosotros:
+    - niveláramos
+    - nivelásemos
+  vosotros:
+    - nivelarais
+    - nivelaseis
+  uds:
+    - nivelaran
+    - nivelasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera nivelado
+    - hubiese nivelado
+  tu:
+    - hubieras nivelado
+    - hubieses nivelado
+  vos:
+    - hubieras nivelado
+    - hubieses nivelado
+  ud:
+    - hubiera nivelado
+    - hubiese nivelado
+  nosotros:
+    - hubiéramos nivelado
+    - hubiésemos nivelado
+  vosotros:
+    - hubierais nivelado
+    - hubieseis nivelado
+  uds:
+    - hubieran nivelado
+    - hubiesen nivelado
+imperativo:
+  tu: nivela
+  vos: nivelá
+  ud: nivele
+  nosotros: nivelemos
+  vosotros: nivelad
+  uds: niveles

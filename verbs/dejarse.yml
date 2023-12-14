@@ -1,0 +1,142 @@
+infinitivo: dejarse
+gerundio: dejándose
+participio-pasado: dejado
+presente-indicativo:
+  yo: me dejo
+  tu: te dejas
+  vos: te dejás
+  ud: se deja
+  nosotros: nos dejamos
+  vosotros: os dejáis
+  uds: se dejan
+preterito-perfecto-simple:
+  yo: me dejé
+  tu: te dejaste
+  vos: te dejaste
+  ud: se dejó
+  nosotros: nos dejamos
+  vosotros: os dejasteis
+  uds: se dejaron
+preterito-imperfecto:
+  yo: me dejaba
+  tu: te dejabas
+  vos: te dejabas
+  ud: se dejaba
+  nosotros: nos dejábamos
+  vosotros: os dejabais
+  uds: se dejaban
+futuro-simple:
+  yo: me dejaré
+  tu: te dejarás
+  vos: te dejarás
+  ud: se dejará
+  nosotros: nos dejaremos
+  vosotros: os dejaréis
+  uds: se dejarán
+condicional-simple:
+  yo: me dejaría
+  tu: te dejarías
+  vos: te dejarías
+  ud: se dejaría
+  nosotros: nos dejaríamos
+  vosotros: os dejaríais
+  uds: se dejarían
+presente-perfecto:
+  yo: me he dejado
+  tu: te has dejado
+  vos: te has dejado
+  ud: se ha dejado
+  nosotros: nos hemos dejado
+  vosotros: os habéis dejado
+  uds: se han dejado
+preterito-pluscuamperfecto:
+  yo: me había dejado
+  tu: te habías dejado
+  vos: te habías dejado
+  ud: se había dejado
+  nosotros: nos habíamos dejado
+  vosotros: os habíais dejado
+  uds: se habían dejado
+futuro-perfecto:
+  yo: me habré dejado
+  tu: te habrás dejado
+  vos: te habrás dejado
+  ud: se habrá dejado
+  nosotros: nos habremos dejado
+  vosotros: os habréis dejado
+  uds: se habrán dejado
+condicional-perfecto:
+  yo: me habría dejado
+  tu: te habrías dejado
+  vos: te habrías dejado
+  ud: se habría dejado
+  nosotros: nos habríamos dejado
+  vosotros: os habríais dejado
+  uds: se habrían dejado
+presente-subjuntivo:
+  yo: me deje
+  tu: te dejes
+  vos: te dejes
+  ud: se deje
+  nosotros: nos dejemos
+  vosotros: os dejéis
+  uds: se dejen
+preterito-perfecto-subjuntivo:
+  yo: me haya dejado
+  tu: te hayas dejado
+  vos: te hayas dejado
+  ud: se haya dejado
+  nosotros: nos hayamos dejado
+  vosotros: os hayáis dejado
+  uds: se hayan dejado
+imperfecto-subjuntivo:
+  yo:
+    - me dejara
+    - me dejase
+  tu:
+    - te dejaras
+    - te dejases
+  vos:
+    - te dejaras
+    - te dejases
+  ud:
+    - se dejara
+    - se dejase
+  nosotros:
+    - nos dejáramos
+    - nos dejásemos
+  vosotros:
+    - os dejarais
+    - os dejaseis
+  uds:
+    - se dejaran
+    - se dejasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera dejado
+    - me hubiese dejado
+  tu:
+    - te hubieras dejado
+    - te hubieses dejado
+  vos:
+    - te hubieras dejado
+    - te hubieses dejado
+  ud:
+    - se hubiera dejado
+    - se hubiese dejado
+  nosotros:
+    - nos hubiéramos dejado
+    - nos hubiésemos dejado
+  vosotros:
+    - os hubierais dejado
+    - os hubieseis dejado
+  uds:
+    - se hubieran dejado
+    - se hubiesen dejado
+imperativo:
+  tu: déjate
+  vos: dejáte
+  ud: déjese
+  nosotros: dejémonos
+  vosotros: dejaos
+  uds: déjense

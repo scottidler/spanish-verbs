@@ -1,0 +1,142 @@
+infinitivo: asirlar
+gerundio: asirlando
+participio-pasado: asirlado
+presente-indicativo:
+  yo: asirlo
+  tu: asirles
+  vos: asirles
+  ud: asirle
+  nosotros: asirles
+  vosotros: asirles
+  uds: asirles
+preterito-perfecto-simple:
+  yo: asirlé
+  tu: asirlaste
+  vos: asirlaste
+  ud: asirlo
+  nosotros: asirlamos
+  vosotros: asirlasteis
+  uds: asirlaron
+preterito-imperfecto:
+  yo: asirlaba
+  tu: asirlabas
+  vos: asirlabas
+  ud: asirlaba
+  nosotros: asirlábamos
+  vosotros: asirlabais
+  uds: asirlaban
+futuro-simple:
+  yo: asirlaré
+  tu: asirlarás
+  vos: asirlarás
+  ud: asirlará
+  nosotros: asirlaremos
+  vosotros: asirlaréis
+  uds: asirlarán
+condicional-simple:
+  yo: asirlaría
+  tu: asirlarías
+  vos: asirlarías
+  ud: asirlaría
+  nosotros: asirlaríamos
+  vosotros: asirlaríais
+  uds: asirlarían
+presente-perfecto:
+  yo: he asirlado
+  tu: has asirlado
+  vos: has asirlado
+  ud: ha asirlado
+  nosotros: hemos asirlado
+  vosotros: habéis asirlado
+  uds: han asirlado
+preterito-pluscuamperfecto:
+  yo: había asirlado
+  tu: habías asirlado
+  vos: habías asirlado
+  ud: había asirlado
+  nosotros: habíamos asirlado
+  vosotros: habíais asirlado
+  uds: habían asirlado
+futuro-perfecto:
+  yo: habré asirlado
+  tu: habrás asirlado
+  vos: habrás asirlado
+  ud: habrá asirlado
+  nosotros: habremos asirlado
+  vosotros: habréis asirlado
+  uds: habrán asirlado
+condicional-perfecto:
+  yo: habría asirlado
+  tu: habrías asirlado
+  vos: habrías asirlado
+  ud: habría asirlado
+  nosotros: habríamos asirlado
+  vosotros: habríais asirlado
+  uds: habrían asirlado
+presente-subjuntivo:
+  yo: asirle
+  tu: asirles
+  vos: asirles
+  ud: asirle
+  nosotros: asirles
+  vosotros: asirles
+  uds: asirles
+preterito-perfecto-subjuntivo:
+  yo: haya asirlado
+  tu: hayas asirlado
+  vos: hayas asirlado
+  ud: haya asirlado
+  nosotros: hayamos asirlado
+  vosotros: hayáis asirlado
+  uds: hayan asirlado
+imperfecto-subjuntivo:
+  yo:
+    - asirlara
+    - asirlase
+  tu:
+    - asirleras
+    - asirleses
+  vos:
+    - asirleras
+    - asirleses
+  ud:
+    - asirlara
+    - asirlase
+  nosotros:
+    - asirláramos
+    - asirlásemos
+  vosotros:
+    - asirlerais
+    - asirleséis
+  uds:
+    - asirlaran
+    - asirlasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera asirlado
+    - hubiese asirlado
+  tu:
+    - hubieras asirlado
+    - hubieses asirlado
+  vos:
+    - hubieras asirlado
+    - hubieses asirlado
+  ud:
+    - hubiera asirlado
+    - hubiese asirlado
+  nosotros:
+    - hubiéramos asirlado
+    - hubiésemos asirlado
+  vosotros:
+    - hubierais asirlado
+    - hubieseis asirlado
+  uds:
+    - hubieran asirlado
+    - hubiesen asirlado
+imperativo:
+  tu: asirle
+  vos: asirles
+  ud: asirle
+  nosotros: asirlemos
+  vosotros: asirles
+  uds: asirles

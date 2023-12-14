@@ -1,0 +1,142 @@
+infinitivo: arruinar
+gerundio: arruinando
+participio-pasado: arruinado
+presente-indicativo:
+  yo: arruino
+  tu: arruinas
+  vos: arruinas
+  ud: arruina
+  nosotros: arruinamos
+  vosotros: arruináis
+  uds: arruinan
+preterito-perfecto-simple:
+  yo: arruiné
+  tu: arruinaste
+  vos: arruinaste
+  ud: arruinó
+  nosotros: arruinamos
+  vosotros: arruinasteis
+  uds: arruinaron
+preterito-imperfecto:
+  yo: arruinaba
+  tu: arruinabas
+  vos: arruinabas
+  ud: arruinaba
+  nosotros: arruinábamos
+  vosotros: arruinabais
+  uds: arruinaban
+futuro-simple:
+  yo: arruinaré
+  tu: arruinarás
+  vos: arruinarás
+  ud: arruinará
+  nosotros: arruinaremos
+  vosotros: arruinaréis
+  uds: arruinarán
+condicional-simple:
+  yo: arruinaría
+  tu: arruinarías
+  vos: arruinarías
+  ud: arruinaría
+  nosotros: arruinaríamos
+  vosotros: arruinaríais
+  uds: arruinarían
+presente-perfecto:
+  yo: he arruinado
+  tu: has arruinado
+  vos: has arruinado
+  ud: ha arruinado
+  nosotros: hemos arruinado
+  vosotros: habéis arruinado
+  uds: han arruinado
+preterito-pluscuamperfecto:
+  yo: había arruinado
+  tu: habías arruinado
+  vos: habías arruinado
+  ud: había arruinado
+  nosotros: habíamos arruinado
+  vosotros: habíais arruinado
+  uds: habían arruinado
+futuro-perfecto:
+  yo: habré arruinado
+  tu: habrás arruinado
+  vos: habrás arruinado
+  ud: habrá arruinado
+  nosotros: habremos arruinado
+  vosotros: habréis arruinado
+  uds: habrán arruinado
+condicional-perfecto:
+  yo: habría arruinado
+  tu: habrías arruinado
+  vos: habrías arruinado
+  ud: habría arruinado
+  nosotros: habríamos arruinado
+  vosotros: habríais arruinado
+  uds: habrían arruinado
+presente-subjuntivo:
+  yo: arruine
+  tu: arruines
+  vos: arruines
+  ud: arruine
+  nosotros: arruinemos
+  vosotros: arruinéis
+  uds: arruinen
+preterito-perfecto-subjuntivo:
+  yo: haya arruinado
+  tu: hayas arruinado
+  vos: hayas arruinado
+  ud: haya arruinado
+  nosotros: hayamos arruinado
+  vosotros: hayáis arruinado
+  uds: hayan arruinado
+imperfecto-subjuntivo:
+  yo:
+    - arruinara
+    - arruinase
+  tu:
+    - arruinaras
+    - arruinases
+  vos:
+    - arruinaras
+    - arruinases
+  ud:
+    - arruinara
+    - arruinase
+  nosotros:
+    - arruináramos
+    - arruinásemos
+  vosotros:
+    - arruinarais
+    - arruinaseis
+  uds:
+    - arruinaran
+    - arruinasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera arruinado
+    - hubiese arruinado
+  tu:
+    - hubieras arruinado
+    - hubieses arruinado
+  vos:
+    - hubieras arruinado
+    - hubieses arruinado
+  ud:
+    - hubiera arruinado
+    - hubiese arruinado
+  nosotros:
+    - hubiéramos arruinado
+    - hubiésemos arruinado
+  vosotros:
+    - hubierais arruinado
+    - hubieseis arruinado
+  uds:
+    - hubieran arruinado
+    - hubiesen arruinado
+imperativo:
+  tu: arruina
+  vos: arruiná
+  ud: arruine
+  nosotros: arruinemos
+  vosotros: arruinad
+  uds: arruinen

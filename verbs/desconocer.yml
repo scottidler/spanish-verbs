@@ -1,0 +1,142 @@
+infinitivo: desconocer
+gerundio: desconociendo
+participio-pasado: desconocido
+presente-indicativo:
+  yo: desconozco
+  tu: desconoces
+  vos: desconoces
+  ud: desconoce
+  nosotros: desconocemos
+  vosotros: desconocéis
+  uds: desconocen
+preterito-perfecto-simple:
+  yo: desconocí
+  tu: desconociste
+  vos: desconociste
+  ud: desconoció
+  nosotros: desconocimos
+  vosotros: desconocisteis
+  uds: desconocieron
+preterito-imperfecto:
+  yo: desconocía
+  tu: desconocías
+  vos: desconocías
+  ud: desconocía
+  nosotros: desconocíamos
+  vosotros: desconocíais
+  uds: desconocían
+futuro-simple:
+  yo: desconoceré
+  tu: desconocerás
+  vos: desconocerás
+  ud: desconocerá
+  nosotros: desconoceremos
+  vosotros: desconoceréis
+  uds: desconocerán
+condicional-simple:
+  yo: desconocería
+  tu: desconocerías
+  vos: desconocerías
+  ud: desconocería
+  nosotros: desconoceríamos
+  vosotros: desconoceríais
+  uds: desconocerían
+presente-perfecto:
+  yo: he desconocido
+  tu: has desconocido
+  vos: has desconocido
+  ud: ha desconocido
+  nosotros: hemos desconocido
+  vosotros: habéis desconocido
+  uds: han desconocido
+preterito-pluscuamperfecto:
+  yo: había desconocido
+  tu: habías desconocido
+  vos: habías desconocido
+  ud: había desconocido
+  nosotros: habíamos desconocido
+  vosotros: habíais desconocido
+  uds: habían desconocido
+futuro-perfecto:
+  yo: habré desconocido
+  tu: habrás desconocido
+  vos: habrás desconocido
+  ud: habrá desconocido
+  nosotros: habremos desconocido
+  vosotros: habréis desconocido
+  uds: habrán desconocido
+condicional-perfecto:
+  yo: habría desconocido
+  tu: habrías desconocido
+  vos: habrías desconocido
+  ud: habría desconocido
+  nosotros: habríamos desconocido
+  vosotros: habríais desconocido
+  uds: habrían desconocido
+presente-subjuntivo:
+  yo: desconozca
+  tu: desconozcas
+  vos: desconozcas
+  ud: desconozca
+  nosotros: desconozcamos
+  vosotros: desconozcáis
+  uds: desconozcan
+preterito-perfecto-subjuntivo:
+  yo: haya desconocido
+  tu: hayas desconocido
+  vos: hayas desconocido
+  ud: haya desconocido
+  nosotros: hayamos desconocido
+  vosotros: hayáis desconocido
+  uds: hayan desconocido
+imperfecto-subjuntivo:
+  yo:
+    - desconociera
+    - desconociese
+  tu:
+    - desconocieras
+    - desconocieses
+  vos:
+    - desconocieras
+    - desconocieses
+  ud:
+    - desconociera
+    - desconociese
+  nosotros:
+    - desconociéramos
+    - desconociésemos
+  vosotros:
+    - desconocierais
+    - desconocieseis
+  uds:
+    - desconocieran
+    - desconociesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera desconocido
+    - hubiese desconocido
+  tu:
+    - hubieras desconocido
+    - hubieses desconocido
+  vos:
+    - hubieras desconocido
+    - hubieses desconocido
+  ud:
+    - hubiera desconocido
+    - hubiese desconocido
+  nosotros:
+    - hubiéramos desconocido
+    - hubiésemos desconocido
+  vosotros:
+    - hubierais desconocido
+    - hubieseis desconocido
+  uds:
+    - hubieran desconocido
+    - hubiesen desconocido
+imperativo:
+  tu: desconoce
+  vos: desconocé
+  ud: desconozca
+  nosotros: desconozcamos
+  vosotros: desconoced
+  uds: desconozcan

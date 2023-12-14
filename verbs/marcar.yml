@@ -1,0 +1,142 @@
+infinitivo: marcar
+gerundio: marcando
+participio-pasado: marcado
+presente-indicativo:
+  yo: marco
+  tu: marcas
+  vos: marcas
+  ud: marca
+  nosotros: marcamos
+  vosotros: marcáis
+  uds: marcan
+preterito-perfecto-simple:
+  yo: marqué
+  tu: marcaste
+  vos: marcaste
+  ud: marcó
+  nosotros: marcamos
+  vosotros: marcasteis
+  uds: marcaron
+preterito-imperfecto:
+  yo: marcaba
+  tu: marcabas
+  vos: marcabas
+  ud: marcaba
+  nosotros: marcábamos
+  vosotros: marcabais
+  uds: marcaban
+futuro-simple:
+  yo: marcaré
+  tu: marcarás
+  vos: marcarás
+  ud: marcará
+  nosotros: marcaremos
+  vosotros: marcaréis
+  uds: marcarán
+condicional-simple:
+  yo: marcaría
+  tu: marcarías
+  vos: marcarías
+  ud: marcaría
+  nosotros: marcaríamos
+  vosotros: marcaríais
+  uds: marcarían
+presente-perfecto:
+  yo: he marcado
+  tu: has marcado
+  vos: has marcado
+  ud: ha marcado
+  nosotros: hemos marcado
+  vosotros: habéis marcado
+  uds: han marcado
+preterito-pluscuamperfecto:
+  yo: había marcado
+  tu: habías marcado
+  vos: habías marcado
+  ud: había marcado
+  nosotros: habíamos marcado
+  vosotros: habíais marcado
+  uds: habían marcado
+futuro-perfecto:
+  yo: habré marcado
+  tu: habrás marcado
+  vos: habrás marcado
+  ud: habrá marcado
+  nosotros: habremos marcado
+  vosotros: habréis marcado
+  uds: habrán marcado
+condicional-perfecto:
+  yo: habría marcado
+  tu: habrías marcado
+  vos: habrías marcado
+  ud: habría marcado
+  nosotros: habríamos marcado
+  vosotros: habríais marcado
+  uds: habrían marcado
+presente-subjuntivo:
+  yo: marque
+  tu: marques
+  vos: marques
+  ud: marque
+  nosotros: marquemos
+  vosotros: marquéis
+  uds: marquen
+preterito-perfecto-subjuntivo:
+  yo: haya marcado
+  tu: hayas marcado
+  vos: hayas marcado
+  ud: haya marcado
+  nosotros: hayamos marcado
+  vosotros: hayáis marcado
+  uds: hayan marcado
+imperfecto-subjuntivo:
+  yo:
+    - marcara
+    - marcase
+  tu:
+    - marcaras
+    - marcases
+  vos:
+    - marcaras
+    - marcases
+  ud:
+    - marcara
+    - marcase
+  nosotros:
+    - marcáramos
+    - marcásemos
+  vosotros:
+    - marcarais
+    - marcaseis
+  uds:
+    - marcaran
+    - marcasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera marcado
+    - hubiese marcado
+  tu:
+    - hubieras marcado
+    - hubieses marcado
+  vos:
+    - hubieras marcado
+    - hubieses marcado
+  ud:
+    - hubiera marcado
+    - hubiese marcado
+  nosotros:
+    - hubiéramos marcado
+    - hubiésemos marcado
+  vosotros:
+    - hubierais marcado
+    - hubieseis marcado
+  uds:
+    - hubieran marcado
+    - hubiesen marcado
+imperativo:
+  tu: marca
+  vos: marcá
+  ud: marque
+  nosotros: marquemos
+  vosotros: marcad
+  uds: marquen

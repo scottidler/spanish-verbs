@@ -1,0 +1,142 @@
+infinitivo: concentrar
+gerundio: concentrando
+participio-pasado: concentrado
+presente-indicativo:
+  yo: concentro
+  tu: concentras
+  vos: concentras
+  ud: concentra
+  nosotros: concentramos
+  vosotros: concentráis
+  uds: concentran
+preterito-perfecto-simple:
+  yo: concentré
+  tu: concentraste
+  vos: concentraste
+  ud: concentró
+  nosotros: concentramos
+  vosotros: concentrasteis
+  uds: concentraron
+preterito-imperfecto:
+  yo: concentraba
+  tu: concentrabas
+  vos: concentrabas
+  ud: concentraba
+  nosotros: concentrábamos
+  vosotros: concentrabais
+  uds: concentraban
+futuro-simple:
+  yo: concentraré
+  tu: concentrarás
+  vos: concentrarás
+  ud: concentrará
+  nosotros: concentraremos
+  vosotros: concentraréis
+  uds: concentrarán
+condicional-simple:
+  yo: concentraría
+  tu: concentrarías
+  vos: concentrarías
+  ud: concentraría
+  nosotros: concentraríamos
+  vosotros: concentraríais
+  uds: concentrarían
+presente-perfecto:
+  yo: he concentrado
+  tu: has concentrado
+  vos: has concentrado
+  ud: ha concentrado
+  nosotros: hemos concentrado
+  vosotros: habéis concentrado
+  uds: han concentrado
+preterito-pluscuamperfecto:
+  yo: había concentrado
+  tu: habías concentrado
+  vos: habías concentrado
+  ud: había concentrado
+  nosotros: habíamos concentrado
+  vosotros: habíais concentrado
+  uds: habían concentrado
+futuro-perfecto:
+  yo: habré concentrado
+  tu: habrás concentrado
+  vos: habrás concentrado
+  ud: habrá concentrado
+  nosotros: habremos concentrado
+  vosotros: habréis concentrado
+  uds: habrán concentrado
+condicional-perfecto:
+  yo: habría concentrado
+  tu: habrías concentrado
+  vos: habrías concentrado
+  ud: habría concentrado
+  nosotros: habríamos concentrado
+  vosotros: habríais concentrado
+  uds: habrían concentrado
+presente-subjuntivo:
+  yo: concentre
+  tu: concentres
+  vos: concentres
+  ud: concentre
+  nosotros: concentremos
+  vosotros: concentréis
+  uds: concentren
+preterito-perfecto-subjuntivo:
+  yo: haya concentrado
+  tu: hayas concentrado
+  vos: hayas concentrado
+  ud: haya concentrado
+  nosotros: hayamos concentrado
+  vosotros: hayáis concentrado
+  uds: hayan concentrado
+imperfecto-subjuntivo:
+  yo:
+    - concentrara
+    - concentrase
+  tu:
+    - concentraras
+    - concentrases
+  vos:
+    - concentraras
+    - concentrases
+  ud:
+    - concentrara
+    - concentrase
+  nosotros:
+    - concentráramos
+    - concentrásemos
+  vosotros:
+    - concentrarais
+    - concentraseis
+  uds:
+    - concentraran
+    - concentrasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera concentrado
+    - hubiese concentrado
+  tu:
+    - hubieras concentrado
+    - hubieses concentrado
+  vos:
+    - hubieras concentrado
+    - hubieses concentrado
+  ud:
+    - hubiera concentrado
+    - hubiese concentrado
+  nosotros:
+    - hubiéramos concentrado
+    - hubiésemos concentrado
+  vosotros:
+    - hubierais concentrado
+    - hubieseis concentrado
+  uds:
+    - hubieran concentrado
+    - hubiesen concentrado
+imperativo:
+  tu: concentra
+  vos: concentrá
+  ud: concentre
+  nosotros: concentremos
+  vosotros: concentrad
+  uds: concentren

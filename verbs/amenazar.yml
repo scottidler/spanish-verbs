@@ -1,0 +1,142 @@
+infinitivo: amenazar
+gerundio: amenazando
+participio-pasado: amenazado
+presente-indicativo:
+  yo: amenazo
+  tu: amenazas
+  vos: amenazas
+  ud: amenaza
+  nosotros: amenazamos
+  vosotros: amenazáis
+  uds: amenazan
+preterito-perfecto-simple:
+  yo: amenacé
+  tu: amenazaste
+  vos: amenazaste
+  ud: amenazó
+  nosotros: amenazamos
+  vosotros: amenazasteis
+  uds: amenazaron
+preterito-imperfecto:
+  yo: amenazaba
+  tu: amenazabas
+  vos: amenazabas
+  ud: amenazaba
+  nosotros: amenazábamos
+  vosotros: amenazabais
+  uds: amenazaban
+futuro-simple:
+  yo: amenazaré
+  tu: amenazarás
+  vos: amenazarás
+  ud: amenazará
+  nosotros: amenazaremos
+  vosotros: amenazaréis
+  uds: amenazarán
+condicional-simple:
+  yo: amenazaría
+  tu: amenazarías
+  vos: amenazarías
+  ud: amenazaría
+  nosotros: amenazaríamos
+  vosotros: amenazaríais
+  uds: amenazarían
+presente-perfecto:
+  yo: he amenazado
+  tu: has amenazado
+  vos: has amenazado
+  ud: ha amenazado
+  nosotros: hemos amenazado
+  vosotros: habéis amenazado
+  uds: han amenazado
+preterito-pluscuamperfecto:
+  yo: había amenazado
+  tu: habías amenazado
+  vos: habías amenazado
+  ud: había amenazado
+  nosotros: habíamos amenazado
+  vosotros: habíais amenazado
+  uds: habían amenazado
+futuro-perfecto:
+  yo: habré amenazado
+  tu: habrás amenazado
+  vos: habrás amenazado
+  ud: habrá amenazado
+  nosotros: habremos amenazado
+  vosotros: habréis amenazado
+  uds: habrán amenazado
+condicional-perfecto:
+  yo: habría amenazado
+  tu: habrías amenazado
+  vos: habrías amenazado
+  ud: habría amenazado
+  nosotros: habríamos amenazado
+  vosotros: habríais amenazado
+  uds: habrían amenazado
+presente-subjuntivo:
+  yo: amenace
+  tu: amenaces
+  vos: amenaces
+  ud: amenace
+  nosotros: amenacemos
+  vosotros: amenacéis
+  uds: amenacen
+preterito-perfecto-subjuntivo:
+  yo: haya amenazado
+  tu: hayas amenazado
+  vos: hayas amenazado
+  ud: haya amenazado
+  nosotros: hayamos amenazado
+  vosotros: hayáis amenazado
+  uds: hayan amenazado
+imperfecto-subjuntivo:
+  yo:
+    - amenazara
+    - amenazase
+  tu:
+    - amenazaras
+    - amenazases
+  vos:
+    - amenazaras
+    - amenazases
+  ud:
+    - amenazara
+    - amenazase
+  nosotros:
+    - amenazáramos
+    - amenazásemos
+  vosotros:
+    - amenazarais
+    - amenazaseis
+  uds:
+    - amenazaran
+    - amenazasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera amenazado
+    - hubiese amenazado
+  tu:
+    - hubieras amenazado
+    - hubieses amenazado
+  vos:
+    - hubieras amenazado
+    - hubieses amenazado
+  ud:
+    - hubiera amenazado
+    - hubiese amenazado
+  nosotros:
+    - hubiéramos amenazado
+    - hubiésemos amenazado
+  vosotros:
+    - hubierais amenazado
+    - hubieseis amenazado
+  uds:
+    - hubieran amenazado
+    - hubiesen amenazado
+imperativo:
+  tu: amenaza
+  vos: amenazá
+  ud: amenace
+  nosotros: amenacemos
+  vosotros: amenazad
+  uds: amenacen

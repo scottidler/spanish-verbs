@@ -1,0 +1,142 @@
+infinitivo: pisar
+gerundio: pisando
+participio-pasado: pisado
+presente-indicativo:
+  yo: piso
+  tu: pisas
+  vos: pisas
+  ud: pisa
+  nosotros: pisamos
+  vosotros: pisáis
+  uds: pisan
+preterito-perfecto-simple:
+  yo: pisé
+  tu: pisaste
+  vos: pisaste
+  ud: pisó
+  nosotros: pisamos
+  vosotros: pisasteis
+  uds: pisaron
+preterito-imperfecto:
+  yo: pisaba
+  tu: pisabas
+  vos: pisabas
+  ud: pisaba
+  nosotros: pisábamos
+  vosotros: pisabais
+  uds: pisaban
+futuro-simple:
+  yo: pisaré
+  tu: pisarás
+  vos: pisarás
+  ud: pisará
+  nosotros: pisaremos
+  vosotros: pisaréis
+  uds: pisarán
+condicional-simple:
+  yo: pisaría
+  tu: pisarías
+  vos: pisarías
+  ud: pisaría
+  nosotros: pisaríamos
+  vosotros: pisaríais
+  uds: pisarían
+presente-perfecto:
+  yo: he pisado
+  tu: has pisado
+  vos: has pisado
+  ud: ha pisado
+  nosotros: hemos pisado
+  vosotros: habéis pisado
+  uds: han pisado
+preterito-pluscuamperfecto:
+  yo: había pisado
+  tu: habías pisado
+  vos: habías pisado
+  ud: había pisado
+  nosotros: habíamos pisado
+  vosotros: habíais pisado
+  uds: habían pisado
+futuro-perfecto:
+  yo: habré pisado
+  tu: habrás pisado
+  vos: habrás pisado
+  ud: habrá pisado
+  nosotros: habremos pisado
+  vosotros: habréis pisado
+  uds: habrán pisado
+condicional-perfecto:
+  yo: habría pisado
+  tu: habrías pisado
+  vos: habrías pisado
+  ud: habría pisado
+  nosotros: habríamos pisado
+  vosotros: habríais pisado
+  uds: habrían pisado
+presente-subjuntivo:
+  yo: pise
+  tu: pises
+  vos: pises
+  ud: pise
+  nosotros: pisemos
+  vosotros: piséis
+  uds: pisen
+preterito-perfecto-subjuntivo:
+  yo: haya pisado
+  tu: hayas pisado
+  vos: hayas pisado
+  ud: haya pisado
+  nosotros: hayamos pisado
+  vosotros: hayáis pisado
+  uds: hayan pisado
+imperfecto-subjuntivo:
+  yo:
+    - pisara
+    - pisase
+  tu:
+    - pisaras
+    - pisases
+  vos:
+    - pisaras
+    - pisases
+  ud:
+    - pisara
+    - pisase
+  nosotros:
+    - pisáramos
+    - pisásemos
+  vosotros:
+    - pisarais
+    - pisaseis
+  uds:
+    - pisaran
+    - pisasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera pisado
+    - hubiese pisado
+  tu:
+    - hubieras pisado
+    - hubieses pisado
+  vos:
+    - hubieras pisado
+    - hubieses pisado
+  ud:
+    - hubiera pisado
+    - hubiese pisado
+  nosotros:
+    - hubiéramos pisado
+    - hubiésemos pisado
+  vosotros:
+    - hubierais pisado
+    - hubieseis pisado
+  uds:
+    - hubieran pisado
+    - hubiesen pisado
+imperativo:
+  tu: pisa
+  vos: pisá
+  ud: pise
+  nosotros: pisemos
+  vosotros: pisad
+  uds: pisen

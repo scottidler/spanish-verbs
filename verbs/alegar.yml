@@ -1,0 +1,142 @@
+infinitivo: alegar
+gerundio: alegando
+participio-pasado: alegado
+presente-indicativo:
+  yo: alego
+  tu: alegas
+  vos: alegas
+  ud: alega
+  nosotros: alegamos
+  vosotros: alegáis
+  uds: alegan
+preterito-perfecto-simple:
+  yo: alegué
+  tu: alegaste
+  vos: alegaste
+  ud: alegó
+  nosotros: alegamos
+  vosotros: alegasteis
+  uds: alegaron
+preterito-imperfecto:
+  yo: alegaba
+  tu: alegabas
+  vos: alegabas
+  ud: alegaba
+  nosotros: alegábamos
+  vosotros: alegabais
+  uds: alegaban
+futuro-simple:
+  yo: alegaré
+  tu: alegarás
+  vos: alegarás
+  ud: alegará
+  nosotros: alegaremos
+  vosotros: alegaréis
+  uds: alegarán
+condicional-simple:
+  yo: alegaría
+  tu: alegarías
+  vos: alegarías
+  ud: alegaría
+  nosotros: alegaríamos
+  vosotros: alegaríais
+  uds: alegarían
+presente-perfecto:
+  yo: he alegado
+  tu: has alegado
+  vos: has alegado
+  ud: ha alegado
+  nosotros: hemos alegado
+  vosotros: habéis alegado
+  uds: han alegado
+preterito-pluscuamperfecto:
+  yo: había alegado
+  tu: habías alegado
+  vos: habías alegado
+  ud: había alegado
+  nosotros: habíamos alegado
+  vosotros: habíais alegado
+  uds: habían alegado
+futuro-perfecto:
+  yo: habré alegado
+  tu: habrás alegado
+  vos: habrás alegado
+  ud: habrá alegado
+  nosotros: habremos alegado
+  vosotros: habréis alegado
+  uds: habrán alegado
+condicional-perfecto:
+  yo: habría alegado
+  tu: habrías alegado
+  vos: habrías alegado
+  ud: habría alegado
+  nosotros: habríamos alegado
+  vosotros: habríais alegado
+  uds: habrían alegado
+presente-subjuntivo:
+  yo: alegue
+  tu: alegues
+  vos: alegues
+  ud: alegue
+  nosotros: aleguemos
+  vosotros: aleguéis
+  uds: aleguen
+preterito-perfecto-subjuntivo:
+  yo: haya alegado
+  tu: hayas alegado
+  vos: hayas alegado
+  ud: haya alegado
+  nosotros: hayamos alegado
+  vosotros: hayáis alegado
+  uds: hayan alegado
+imperfecto-subjuntivo:
+  yo:
+    - alegara
+    - alegase
+  tu:
+    - alegaras
+    - alegases
+  vos:
+    - alegaras
+    - alegases
+  ud:
+    - alegara
+    - alegase
+  nosotros:
+    - alegáramos
+    - alegásemos
+  vosotros:
+    - alegarais
+    - alegaseis
+  uds:
+    - alegaran
+    - alegasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera alegado
+    - hubiese alegado
+  tu:
+    - hubieras alegado
+    - hubieses alegado
+  vos:
+    - hubieras alegado
+    - hubieses alegado
+  ud:
+    - hubiera alegado
+    - hubiese alegado
+  nosotros:
+    - hubiéramos alegado
+    - hubiésemos alegado
+  vosotros:
+    - hubierais alegado
+    - hubieseis alegado
+  uds:
+    - hubieran alegado
+    - hubiesen alegado
+imperativo:
+  tu: alega
+  vos: alegá
+  ud: alegue
+  nosotros: aleguemos
+  vosotros: alegad
+  uds: aleguen

@@ -1,0 +1,142 @@
+infinitivo: rectificar
+gerundio: rectificando
+participio-pasado: rectificado
+presente-indicativo:
+  yo: rectifico
+  tu: rectificas
+  vos: rectificas
+  ud: rectifica
+  nosotros: rectificamos
+  vosotros: rectificáis
+  uds: rectifican
+preterito-perfecto-simple:
+  yo: rectifiqué
+  tu: rectificaste
+  vos: rectificaste
+  ud: rectificó
+  nosotros: rectificamos
+  vosotros: rectificasteis
+  uds: rectificaron
+preterito-imperfecto:
+  yo: rectificaba
+  tu: rectificabas
+  vos: rectificabas
+  ud: rectificaba
+  nosotros: rectificábamos
+  vosotros: rectificabais
+  uds: rectificaban
+futuro-simple:
+  yo: rectificaré
+  tu: rectificarás
+  vos: rectificarás
+  ud: rectificará
+  nosotros: rectificaremos
+  vosotros: rectificaréis
+  uds: rectificarán
+condicional-simple:
+  yo: rectificaría
+  tu: rectificarías
+  vos: rectificarías
+  ud: rectificaría
+  nosotros: rectificaríamos
+  vosotros: rectificaríais
+  uds: rectificarían
+presente-perfecto:
+  yo: he rectificado
+  tu: has rectificado
+  vos: has rectificado
+  ud: ha rectificado
+  nosotros: hemos rectificado
+  vosotros: habéis rectificado
+  uds: han rectificado
+preterito-pluscuamperfecto:
+  yo: había rectificado
+  tu: habías rectificado
+  vos: habías rectificado
+  ud: había rectificado
+  nosotros: habíamos rectificado
+  vosotros: habíais rectificado
+  uds: habían rectificado
+futuro-perfecto:
+  yo: habré rectificado
+  tu: habrás rectificado
+  vos: habrás rectificado
+  ud: habrá rectificado
+  nosotros: habremos rectificado
+  vosotros: habréis rectificado
+  uds: habrán rectificado
+condicional-perfecto:
+  yo: habría rectificado
+  tu: habrías rectificado
+  vos: habrías rectificado
+  ud: habría rectificado
+  nosotros: habríamos rectificado
+  vosotros: habríais rectificado
+  uds: habrían rectificado
+presente-subjuntivo:
+  yo: rectifique
+  tu: rectifiques
+  vos: rectifiques
+  ud: rectifique
+  nosotros: rectifiquemos
+  vosotros: rectifiquéis
+  uds: rectifiquen
+preterito-perfecto-subjuntivo:
+  yo: haya rectificado
+  tu: hayas rectificado
+  vos: hayas rectificado
+  ud: haya rectificado
+  nosotros: hayamos rectificado
+  vosotros: hayáis rectificado
+  uds: hayan rectificado
+imperfecto-subjuntivo:
+  yo:
+    - rectificara
+    - rectificase
+  tu:
+    - rectificaras
+    - rectificases
+  vos:
+    - rectificaras
+    - rectificases
+  ud:
+    - rectificara
+    - rectificase
+  nosotros:
+    - rectificáramos
+    - rectificásemos
+  vosotros:
+    - rectificarais
+    - rectificaseis
+  uds:
+    - rectificaran
+    - rectificasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rectificado
+    - hubiese rectificado
+  tu:
+    - hubieras rectificado
+    - hubieses rectificado
+  vos:
+    - hubieras rectificado
+    - hubieses rectificado
+  ud:
+    - hubiera rectificado
+    - hubiese rectificado
+  nosotros:
+    - hubiéramos rectificado
+    - hubiésemos rectificado
+  vosotros:
+    - hubierais rectificado
+    - hubieseis rectificado
+  uds:
+    - hubieran rectificado
+    - hubiesen rectificado
+imperativo:
+  tu: rectifica
+  vos: rectificá
+  ud: rectifique
+  nosotros: rectifiquemos
+  vosotros: rectificad
+  uds: rectifiquen

@@ -1,0 +1,142 @@
+infinitivo: rezumar
+gerundio: rezumando
+participio-pasado: rezumado
+presente-indicativo:
+  yo: rezumo
+  tu: rezumas
+  vos: rezumas
+  ud: rezuma
+  nosotros: rezumamos
+  vosotros: rezumáis
+  uds: rezuman
+preterito-perfecto-simple:
+  yo: rezumé
+  tu: rezumaste
+  vos: rezumaste
+  ud: rezumó
+  nosotros: rezumamos
+  vosotros: rezumasteis
+  uds: rezumaron
+preterito-imperfecto:
+  yo: rezumaba
+  tu: rezumabas
+  vos: rezumabas
+  ud: rezumaba
+  nosotros: rezumábamos
+  vosotros: rezumabais
+  uds: rezumaban
+futuro-simple:
+  yo: rezumaré
+  tu: rezumarás
+  vos: rezumarás
+  ud: rezumará
+  nosotros: rezumaremos
+  vosotros: rezumaréis
+  uds: rezumarán
+condicional-simple:
+  yo: rezumaría
+  tu: rezumarías
+  vos: rezumarías
+  ud: rezumaría
+  nosotros: rezumaríamos
+  vosotros: rezumaríais
+  uds: rezumarían
+presente-perfecto:
+  yo: he rezumado
+  tu: has rezumado
+  vos: has rezumado
+  ud: ha rezumado
+  nosotros: hemos rezumado
+  vosotros: habéis rezumado
+  uds: han rezumado
+preterito-pluscuamperfecto:
+  yo: había rezumado
+  tu: habías rezumado
+  vos: habías rezumado
+  ud: había rezumado
+  nosotros: habíamos rezumado
+  vosotros: habíais rezumado
+  uds: habían rezumado
+futuro-perfecto:
+  yo: habré rezumado
+  tu: habrás rezumado
+  vos: habrás rezumado
+  ud: habrá rezumado
+  nosotros: habremos rezumado
+  vosotros: habréis rezumado
+  uds: habrán rezumado
+condicional-perfecto:
+  yo: habría rezumado
+  tu: habrías rezumado
+  vos: habrías rezumado
+  ud: habría rezumado
+  nosotros: habríamos rezumado
+  vosotros: habríais rezumado
+  uds: habrían rezumado
+presente-subjuntivo:
+  yo: rezume
+  tu: rezumes
+  vos: rezumes
+  ud: rezume
+  nosotros: rezumemos
+  vosotros: rezuméis
+  uds: rezumen
+preterito-perfecto-subjuntivo:
+  yo: haya rezumado
+  tu: hayas rezumado
+  vos: hayas rezumado
+  ud: haya rezumado
+  nosotros: hayamos rezumado
+  vosotros: hayáis rezumado
+  uds: hayan rezumado
+imperfecto-subjuntivo:
+  yo:
+    - rezumara
+    - rezumase
+  tu:
+    - rezumaras
+    - rezumases
+  vos:
+    - rezumaras
+    - rezumases
+  ud:
+    - rezumara
+    - rezumase
+  nosotros:
+    - rezumáramos
+    - rezumásemos
+  vosotros:
+    - rezumarais
+    - rezumaseis
+  uds:
+    - rezumaran
+    - rezumasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera rezumado
+    - hubiese rezumado
+  tu:
+    - hubieras rezumado
+    - hubieses rezumado
+  vos:
+    - hubieras rezumado
+    - hubieses rezumado
+  ud:
+    - hubiera rezumado
+    - hubiese rezumado
+  nosotros:
+    - hubiéramos rezumado
+    - hubiésemos rezumado
+  vosotros:
+    - hubierais rezumado
+    - hubieseis rezumado
+  uds:
+    - hubieran rezumado
+    - hubiesen rezumado
+imperativo:
+  tu: rezuma
+  vos: rezumá
+  ud: rezume
+  nosotros: rezumemos
+  vosotros: rezumad
+  uds: rezumen

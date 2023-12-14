@@ -1,0 +1,142 @@
+infinitivo: reprender
+gerundio: reprendiendo
+participio-pasado: reprendido
+presente-indicativo:
+  yo: reprendo
+  tu: reprendes
+  vos: reprendés
+  ud: reprende
+  nosotros: reprendemos
+  vosotros: reprendéis
+  uds: reprenden
+preterito-perfecto-simple:
+  yo: reprendí
+  tu: reprendiste
+  vos: reprendiste
+  ud: reprendió
+  nosotros: reprendimos
+  vosotros: reprendisteis
+  uds: reprendieron
+preterito-imperfecto:
+  yo: reprendía
+  tu: reprendías
+  vos: reprendías
+  ud: reprendía
+  nosotros: reprendíamos
+  vosotros: reprendíais
+  uds: reprendían
+futuro-simple:
+  yo: reprenderé
+  tu: reprenderás
+  vos: reprenderás
+  ud: reprenderá
+  nosotros: reprenderemos
+  vosotros: reprenderéis
+  uds: reprenderán
+condicional-simple:
+  yo: reprendería
+  tu: reprenderías
+  vos: reprenderías
+  ud: reprendería
+  nosotros: reprenderíamos
+  vosotros: reprenderíais
+  uds: reprenderían
+presente-perfecto:
+  yo: he reprendido
+  tu: has reprendido
+  vos: has reprendido
+  ud: ha reprendido
+  nosotros: hemos reprendido
+  vosotros: habéis reprendido
+  uds: han reprendido
+preterito-pluscuamperfecto:
+  yo: había reprendido
+  tu: habías reprendido
+  vos: habías reprendido
+  ud: había reprendido
+  nosotros: habíamos reprendido
+  vosotros: habíais reprendido
+  uds: habían reprendido
+futuro-perfecto:
+  yo: habré reprendido
+  tu: habrás reprendido
+  vos: habrás reprendido
+  ud: habrá reprendido
+  nosotros: habremos reprendido
+  vosotros: habréis reprendido
+  uds: habrán reprendido
+condicional-perfecto:
+  yo: habría reprendido
+  tu: habrías reprendido
+  vos: habrías reprendido
+  ud: habría reprendido
+  nosotros: habríamos reprendido
+  vosotros: habríais reprendido
+  uds: habrían reprendido
+presente-subjuntivo:
+  yo: reprénda
+  tu: reprendas
+  vos: reprendas
+  ud: reprénda
+  nosotros: reprendamos
+  vosotros: reprendáis
+  uds: reprendan
+preterito-perfecto-subjuntivo:
+  yo: haya reprendido
+  tu: hayas reprendido
+  vos: hayas reprendido
+  ud: haya reprendido
+  nosotros: hayamos reprendido
+  vosotros: hayáis reprendido
+  uds: hayan reprendido
+imperfecto-subjuntivo:
+  yo:
+    - reprendiera
+    - reprendiese
+  tu:
+    - reprendieras
+    - reprendieses
+  vos:
+    - reprendieras
+    - reprendieses
+  ud:
+    - reprendiera
+    - reprendiese
+  nosotros:
+    - reprendiéramos
+    - reprendiésemos
+  vosotros:
+    - reprendierais
+    - reprendieseis
+  uds:
+    - reprendieran
+    - reprendiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reprendido
+    - hubiese reprendido
+  tu:
+    - hubieras reprendido
+    - hubieses reprendido
+  vos:
+    - hubieras reprendido
+    - hubieses reprendido
+  ud:
+    - hubiera reprendido
+    - hubiese reprendido
+  nosotros:
+    - hubiéramos reprendido
+    - hubiésemos reprendido
+  vosotros:
+    - hubierais reprendido
+    - hubieseis reprendido
+  uds:
+    - hubieran reprendido
+    - hubiesen reprendido
+imperativo:
+  tu: reprende
+  vos: reprendé
+  ud: reprénda
+  nosotros: reprendamos
+  vosotros: reprended
+  uds: reprendan

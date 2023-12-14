@@ -1,0 +1,142 @@
+infinitivo: relevar
+gerundio: relevando
+participio-pasado: relevado
+presente-indicativo:
+  yo: relevo
+  tu: relevas
+  vos: relevas
+  ud: releva
+  nosotros: relevamos
+  vosotros: releváis
+  uds: relevan
+preterito-perfecto-simple:
+  yo: relevé
+  tu: relevaste
+  vos: relevaste
+  ud: relevó
+  nosotros: relevamos
+  vosotros: relevasteis
+  uds: relevaron
+preterito-imperfecto:
+  yo: relevaba
+  tu: relevabas
+  vos: relevabas
+  ud: relevaba
+  nosotros: relevábamos
+  vosotros: relevabais
+  uds: relevaban
+futuro-simple:
+  yo: relevaré
+  tu: relevarás
+  vos: relevarás
+  ud: relevará
+  nosotros: relevaremos
+  vosotros: relevaréis
+  uds: relevarán
+condicional-simple:
+  yo: relevaría
+  tu: relevarías
+  vos: relevarías
+  ud: relevaría
+  nosotros: relevaríamos
+  vosotros: relevaríais
+  uds: relevarían
+presente-perfecto:
+  yo: he relevado
+  tu: has relevado
+  vos: has relevado
+  ud: ha relevado
+  nosotros: hemos relevado
+  vosotros: habéis relevado
+  uds: han relevado
+preterito-pluscuamperfecto:
+  yo: había relevado
+  tu: habías relevado
+  vos: habías relevado
+  ud: había relevado
+  nosotros: habíamos relevado
+  vosotros: habíais relevado
+  uds: habían relevado
+futuro-perfecto:
+  yo: habré relevado
+  tu: habrás relevado
+  vos: habrás relevado
+  ud: habrá relevado
+  nosotros: habremos relevado
+  vosotros: habréis relevado
+  uds: habrán relevado
+condicional-perfecto:
+  yo: habría relevado
+  tu: habrías relevado
+  vos: habrías relevado
+  ud: habría relevado
+  nosotros: habríamos relevado
+  vosotros: habríais relevado
+  uds: habrían relevado
+presente-subjuntivo:
+  yo: releve
+  tu: releves
+  vos: releves
+  ud: releve
+  nosotros: releveamos
+  vosotros: relevéis
+  uds: releven
+preterito-perfecto-subjuntivo:
+  yo: haya relevado
+  tu: hayas relevado
+  vos: hayas relevado
+  ud: haya relevado
+  nosotros: hayamos relevado
+  vosotros: hayáis relevado
+  uds: hayan relevado
+imperfecto-subjuntivo:
+  yo:
+    - relevase
+    - relevase
+  tu:
+    - relevases
+    - relevases
+  vos:
+    - relevases
+    - relevases
+  ud:
+    - relevase
+    - relevase
+  nosotros:
+    - relevásemos
+    - relevásemos
+  vosotros:
+    - relevaseis
+    - relevaseis
+  uds:
+    - relevasen
+    - relevasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera relevado
+    - hubiese relevado
+  tu:
+    - hubieras relevado
+    - hubieses relevado
+  vos:
+    - hubieras relevado
+    - hubieses relevado
+  ud:
+    - hubiera relevado
+    - hubiese relevado
+  nosotros:
+    - hubiéramos relevado
+    - hubiésemos relevado
+  vosotros:
+    - hubierais relevado
+    - hubieseis relevado
+  uds:
+    - hubieran relevado
+    - hubiesen relevado
+imperativo:
+  tu: releva
+  vos: relevá
+  ud: releve
+  nosotros: releveamos
+  vosotros: relevad
+  uds: releven

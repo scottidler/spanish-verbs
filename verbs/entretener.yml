@@ -1,0 +1,142 @@
+infinitivo: entretener
+gerundio: entreteniendo
+participio-pasado: entretenido
+presente-indicativo:
+  yo: entretengo
+  tu: entretienes
+  vos: entretenes
+  ud: entretiene
+  nosotros: entretenemos
+  vosotros: entretenéis
+  uds: entretienen
+preterito-perfecto-simple:
+  yo: entretuve
+  tu: entretuviste
+  vos: entretuviste
+  ud: entretuvo
+  nosotros: entretuvimos
+  vosotros: entretuvisteis
+  uds: entretuvieron
+preterito-imperfecto:
+  yo: entretenía
+  tu: entretenías
+  vos: entretenías
+  ud: entretenía
+  nosotros: entreteníamos
+  vosotros: entreteníais
+  uds: entretenían
+futuro-simple:
+  yo: entretendré
+  tu: entretendrás
+  vos: entretendrás
+  ud: entretendrá
+  nosotros: entretendremos
+  vosotros: entretendréis
+  uds: entretendrán
+condicional-simple:
+  yo: entretendría
+  tu: entretendrías
+  vos: entretendrías
+  ud: entretendría
+  nosotros: entretendríamos
+  vosotros: entretendríais
+  uds: entretendrían
+presente-perfecto:
+  yo: he entretenido
+  tu: has entretenido
+  vos: has entretenido
+  ud: ha entretenido
+  nosotros: hemos entretenido
+  vosotros: habéis entretenido
+  uds: han entretenido
+preterito-pluscuamperfecto:
+  yo: había entretenido
+  tu: habías entretenido
+  vos: habías entretenido
+  ud: había entretenido
+  nosotros: habíamos entretenido
+  vosotros: habíais entretenido
+  uds: habían entretenido
+futuro-perfecto:
+  yo: habré entretenido
+  tu: habrás entretenido
+  vos: habrás entretenido
+  ud: habrá entretenido
+  nosotros: habremos entretenido
+  vosotros: habréis entretenido
+  uds: habrán entretenido
+condicional-perfecto:
+  yo: habría entretenido
+  tu: habrías entretenido
+  vos: habrías entretenido
+  ud: habría entretenido
+  nosotros: habríamos entretenido
+  vosotros: habríais entretenido
+  uds: habrían entretenido
+presente-subjuntivo:
+  yo: entretenga
+  tu: entretengas
+  vos: entretengas
+  ud: entretenga
+  nosotros: entretengamos
+  vosotros: entretengáis
+  uds: entretengan
+preterito-perfecto-subjuntivo:
+  yo: haya entretenido
+  tu: hayas entretenido
+  vos: hayas entretenido
+  ud: haya entretenido
+  nosotros: hayamos entretenido
+  vosotros: hayáis entretenido
+  uds: hayan entretenido
+imperfecto-subjuntivo:
+  yo:
+    - entretuviera
+    - entretuviese
+  tu:
+    - entretuvieras
+    - entretuvieses
+  vos:
+    - entretuvieras
+    - entretuvieses
+  ud:
+    - entretuviera
+    - entretuviese
+  nosotros:
+    - entretuviéramos
+    - entretuviésemos
+  vosotros:
+    - entretuvierais
+    - entretuvieseis
+  uds:
+    - entretuvieran
+    - entretuviesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera entretenido
+    - hubiese entretenido
+  tu:
+    - hubieras entretenido
+    - hubieses entretenido
+  vos:
+    - hubieras entretenido
+    - hubieses entretenido
+  ud:
+    - hubiera entretenido
+    - hubiese entretenido
+  nosotros:
+    - hubiéramos entretenido
+    - hubiésemos entretenido
+  vosotros:
+    - hubierais entretenido
+    - hubieseis entretenido
+  uds:
+    - hubieran entretenido
+    - hubiesen entretenido
+imperativo:
+  tu: entretén
+  vos: entretené
+  ud: entretenga
+  nosotros: entretengamos
+  vosotros: entretened
+  uds: entretengan

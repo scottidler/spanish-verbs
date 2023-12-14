@@ -1,0 +1,142 @@
+infinitivo: reportar
+gerundio: reportando
+participio-pasado: reportado
+presente-indicativo:
+  yo: reporto
+  tu: reportas
+  vos: reportas
+  ud: reporta
+  nosotros: reportamos
+  vosotros: reportáis
+  uds: reportan
+preterito-perfecto-simple:
+  yo: reporté
+  tu: reportaste
+  vos: reportaste
+  ud: reportó
+  nosotros: reportamos
+  vosotros: reportasteis
+  uds: reportaron
+preterito-imperfecto:
+  yo: reportaba
+  tu: reportabas
+  vos: reportabas
+  ud: reportaba
+  nosotros: reportábamos
+  vosotros: reportabais
+  uds: reportaban
+futuro-simple:
+  yo: reportaré
+  tu: reportarás
+  vos: reportarás
+  ud: reportará
+  nosotros: reportaremos
+  vosotros: reportaréis
+  uds: reportarán
+condicional-simple:
+  yo: reportaría
+  tu: reportarías
+  vos: reportarías
+  ud: reportaría
+  nosotros: reportaríamos
+  vosotros: reportaríais
+  uds: reportarían
+presente-perfecto:
+  yo: he reportado
+  tu: has reportado
+  vos: has reportado
+  ud: ha reportado
+  nosotros: hemos reportado
+  vosotros: habéis reportado
+  uds: han reportado
+preterito-pluscuamperfecto:
+  yo: había reportado
+  tu: habías reportado
+  vos: habías reportado
+  ud: había reportado
+  nosotros: habíamos reportado
+  vosotros: habíais reportado
+  uds: habían reportado
+futuro-perfecto:
+  yo: habré reportado
+  tu: habrás reportado
+  vos: habrás reportado
+  ud: habrá reportado
+  nosotros: habremos reportado
+  vosotros: habréis reportado
+  uds: habrán reportado
+condicional-perfecto:
+  yo: habría reportado
+  tu: habrías reportado
+  vos: habrías reportado
+  ud: habría reportado
+  nosotros: habríamos reportado
+  vosotros: habríais reportado
+  uds: habrían reportado
+presente-subjuntivo:
+  yo: reporte
+  tu: reportes
+  vos: reportes
+  ud: reporte
+  nosotros: reportemos
+  vosotros: reportéis
+  uds: reporten
+preterito-perfecto-subjuntivo:
+  yo: haya reportado
+  tu: hayas reportado
+  vos: hayas reportado
+  ud: haya reportado
+  nosotros: hayamos reportado
+  vosotros: hayáis reportado
+  uds: hayan reportado
+imperfecto-subjuntivo:
+  yo:
+    - reportara
+    - reportase
+  tu:
+    - reportaras
+    - reportases
+  vos:
+    - reportaras
+    - reportases
+  ud:
+    - reportara
+    - reportase
+  nosotros:
+    - reportáramos
+    - reportásemos
+  vosotros:
+    - reportarais
+    - reportaseis
+  uds:
+    - reportaran
+    - reportasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera reportado
+    - hubiese reportado
+  tu:
+    - hubieras reportado
+    - hubieses reportado
+  vos:
+    - hubieras reportado
+    - hubieses reportado
+  ud:
+    - hubiera reportado
+    - hubiese reportado
+  nosotros:
+    - hubiéramos reportado
+    - hubiésemos reportado
+  vosotros:
+    - hubierais reportado
+    - hubieseis reportado
+  uds:
+    - hubieran reportado
+    - hubiesen reportado
+imperativo:
+  tu: reporta
+  vos: reportá
+  ud: reporte
+  nosotros: reportemos
+  vosotros: reportad
+  uds: reporten

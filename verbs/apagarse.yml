@@ -1,0 +1,142 @@
+infinitivo: apagarse
+gerundio: apagándose
+participio-pasado: apagado
+presente-indicativo:
+  yo: me apago
+  tu: te apagas
+  vos: te apagas
+  ud: se apaga
+  nosotros: nos apagamos
+  vosotros: os apagáis
+  uds: se apagan
+preterito-perfecto-simple:
+  yo: me apagué
+  tu: te apagaste
+  vos: te apagaste
+  ud: se apagó
+  nosotros: nos apagamos
+  vosotros: os apagasteis
+  uds: se apagaron
+preterito-imperfecto:
+  yo: me apagaba
+  tu: te apagabas
+  vos: te apagabas
+  ud: se apagaba
+  nosotros: nos apagábamos
+  vosotros: os apagabais
+  uds: se apagaban
+futuro-simple:
+  yo: me apagaré
+  tu: te apagarás
+  vos: te apagarás
+  ud: se apagará
+  nosotros: nos apagaremos
+  vosotros: os apagaréis
+  uds: se apagarán
+condicional-simple:
+  yo: me apagaría
+  tu: te apagarías
+  vos: te apagarías
+  ud: se apagaría
+  nosotros: nos apagaríamos
+  vosotros: os apagaríais
+  uds: se apagarían
+presente-perfecto:
+  yo: me he apagado
+  tu: te has apagado
+  vos: te has apagado
+  ud: se ha apagado
+  nosotros: nos hemos apagado
+  vosotros: os habéis apagado
+  uds: se han apagado
+preterito-pluscuamperfecto:
+  yo: me había apagado
+  tu: te habías apagado
+  vos: te habías apagado
+  ud: se había apagado
+  nosotros: nos habíamos apagado
+  vosotros: os habíais apagado
+  uds: se habían apagado
+futuro-perfecto:
+  yo: me habré apagado
+  tu: te habrás apagado
+  vos: te habrás apagado
+  ud: se habrá apagado
+  nosotros: nos habremos apagado
+  vosotros: os habréis apagado
+  uds: se habrán apagado
+condicional-perfecto:
+  yo: me habría apagado
+  tu: te habrías apagado
+  vos: te habrías apagado
+  ud: se habría apagado
+  nosotros: nos habríamos apagado
+  vosotros: os habríais apagado
+  uds: se habrían apagado
+presente-subjuntivo:
+  yo: me apague
+  tu: te apagues
+  vos: te apagues
+  ud: se apague
+  nosotros: nos apaguemos
+  vosotros: os apaguéis
+  uds: se apaguen
+preterito-perfecto-subjuntivo:
+  yo: me haya apagado
+  tu: te hayas apagado
+  vos: te hayas apagado
+  ud: se haya apagado
+  nosotros: nos hayamos apagado
+  vosotros: os hayáis apagado
+  uds: se hayan apagado
+imperfecto-subjuntivo:
+  yo:
+    - me apagara
+    - me apagase
+  tu:
+    - apagaras
+    - apagases
+  vos:
+    - apagaras
+    - apagases
+  ud:
+    - apagara
+    - apagase
+  nosotros:
+    - apagáramos
+    - apagásemos
+  vosotros:
+    - apagarais
+    - apagaseis
+  uds:
+    - apagaran
+    - apagasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera apagado
+    - me hubiese apagado
+  tu:
+    - hubieras apagado
+    - hubieses apagado
+  vos:
+    - hubieras apagado
+    - hubieses apagado
+  ud:
+    - hubiera apagado
+    - hubiese apagado
+  nosotros:
+    - hubiéramos apagado
+    - hubiésemos apagado
+  vosotros:
+    - hubierais apagado
+    - hubieseis apagado
+  uds:
+    - hubieran apagado
+    - hubiesen apagado
+imperativo:
+  tu: apágate
+  vos: apága
+  ud: apágue
+  nosotros: apaguémonos
+  vosotros: apagaos
+  uds: apáguense

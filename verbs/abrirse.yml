@@ -1,0 +1,142 @@
+infinitivo: abrirse
+gerundio: abriéndose
+participio-pasado: abierto
+presente-indicativo:
+  yo: me abro
+  tu: te abres
+  vos: te abrís
+  ud: se abre
+  nosotros: nos abrimos
+  vosotros: os abrís
+  uds: se abren
+preterito-perfecto-simple:
+  yo: me abrí
+  tu: te abriste
+  vos: te abriste
+  ud: se abrió
+  nosotros: nos abrimos
+  vosotros: os abristeis
+  uds: se abrieron
+preterito-imperfecto:
+  yo: me abría
+  tu: te abrías
+  vos: te abrías
+  ud: se abría
+  nosotros: nos abríamos
+  vosotros: os abríais
+  uds: se abrían
+futuro-simple:
+  yo: me abriré
+  tu: te abrirás
+  vos: te abrirás
+  ud: se abrirá
+  nosotros: nos abriremos
+  vosotros: os abriréis
+  uds: se abrirán
+condicional-simple:
+  yo: me abriría
+  tu: te abrirías
+  vos: te abrirías
+  ud: se abriría
+  nosotros: nos abriríamos
+  vosotros: os abriríais
+  uds: se abrirían
+presente-perfecto:
+  yo: me he abierto
+  tu: te has abierto
+  vos: te has abierto
+  ud: se ha abierto
+  nosotros: nos hemos abierto
+  vosotros: os habéis abierto
+  uds: se han abierto
+preterito-pluscuamperfecto:
+  yo: me había abierto
+  tu: te habías abierto
+  vos: te habías abierto
+  ud: se había abierto
+  nosotros: nos habíamos abierto
+  vosotros: os habíais abierto
+  uds: se habían abierto
+futuro-perfecto:
+  yo: me habré abierto
+  tu: te habrás abierto
+  vos: te habrás abierto
+  ud: se habrá abierto
+  nosotros: nos habremos abierto
+  vosotros: os habréis abierto
+  uds: se habrán abierto
+condicional-perfecto:
+  yo: me habría abierto
+  tu: te habrías abierto
+  vos: te habrías abierto
+  ud: se habría abierto
+  nosotros: nos habríamos abierto
+  vosotros: os habríais abierto
+  uds: se habrían abierto
+presente-subjuntivo:
+  yo: me abra
+  tu: te abras
+  vos: te abras
+  ud: se abra
+  nosotros: nos abramos
+  vosotros: os abráis
+  uds: se abran
+preterito-perfecto-subjuntivo:
+  yo: me haya abierto
+  tu: te hayas abierto
+  vos: te hayas abierto
+  ud: se haya abierto
+  nosotros: nos hayamos abierto
+  vosotros: os hayáis abierto
+  uds: se hayan abierto
+imperfecto-subjuntivo:
+  yo:
+    - me abriera
+    - me abriese
+  tu:
+    - te abrieras
+    - te abrieses
+  vos:
+    - te abrieras
+    - te abrieses
+  ud:
+    - se abriera
+    - se abriese
+  nosotros:
+    - nos abriéramos
+    - nos abriésemos
+  vosotros:
+    - os abrierais
+    - os abrieseis
+  uds:
+    - se abrieran
+    - se abriesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - me hubiera abierto
+    - me hubiese abierto
+  tu:
+    - te hubieras abierto
+    - te hubieses abierto
+  vos:
+    - te hubieras abierto
+    - te hubieses abierto
+  ud:
+    - se hubiera abierto
+    - se hubiese abierto
+  nosotros:
+    - nos hubiéramos abierto
+    - nos hubiésemos abierto
+  vosotros:
+    - os hubierais abierto
+    - os hubieseis abierto
+  uds:
+    - se hubieran abierto
+    - se hubiesen abierto
+imperativo:
+  tu: ábrete
+  vos: abríte
+  ud: ábrese
+  nosotros: abrámonos
+  vosotros: abríos
+  uds: ábranse

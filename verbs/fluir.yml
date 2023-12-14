@@ -1,0 +1,142 @@
+infinitivo: fluir
+gerundio: fluyendo
+participio-pasado: fluido
+presente-indicativo:
+  yo: fluyo
+  tu: fluyes
+  vos: fluyes
+  ud: fluye
+  nosotros: fluimos
+  vosotros: fluís
+  uds: fluyen
+preterito-perfecto-simple:
+  yo: fluí
+  tu: fluiste
+  vos: fluiste
+  ud: fluyó
+  nosotros: fluimos
+  vosotros: fuisteis
+  uds: fluyeron
+preterito-imperfecto:
+  yo: fluía
+  tu: fluías
+  vos: fluías
+  ud: fluía
+  nosotros: fluíamos
+  vosotros: fluíais
+  uds: fluían
+futuro-simple:
+  yo: fluiré
+  tu: fluirás
+  vos: fluirás
+  ud: fluirá
+  nosotros: fluiremos
+  vosotros: fluiréis
+  uds: fluirán
+condicional-simple:
+  yo: fluiría
+  tu: fluirías
+  vos: fluirías
+  ud: fluiría
+  nosotros: fluiríamos
+  vosotros: fluiríais
+  uds: fluirían
+presente-perfecto:
+  yo: he fluido
+  tu: has fluido
+  vos: has fluido
+  ud: ha fluido
+  nosotros: hemos fluido
+  vosotros: habéis fluido
+  uds: han fluido
+preterito-pluscuamperfecto:
+  yo: había fluido
+  tu: habías fluido
+  vos: habías fluido
+  ud: había fluido
+  nosotros: habíamos fluido
+  vosotros: habíais fluido
+  uds: habían fluido
+futuro-perfecto:
+  yo: habré fluido
+  tu: habrás fluido
+  vos: habrás fluido
+  ud: habrá fluido
+  nosotros: habremos fluido
+  vosotros: habréis fluido
+  uds: habrán fluido
+condicional-perfecto:
+  yo: habría fluido
+  tu: habrías fluido
+  vos: habrías fluido
+  ud: habría fluido
+  nosotros: habríamos fluido
+  vosotros: habríais fluido
+  uds: habrían fluido
+presente-subjuntivo:
+  yo: fluya
+  tu: fluyas
+  vos: fluyas
+  ud: fluya
+  nosotros: fluyamos
+  vosotros: fluyáis
+  uds: fluyan
+preterito-perfecto-subjuntivo:
+  yo: haya fluido
+  tu: hayas fluido
+  vos: hayas fluido
+  ud: haya fluido
+  nosotros: hayamos fluido
+  vosotros: hayáis fluido
+  uds: hayan fluido
+imperfecto-subjuntivo:
+  yo:
+    - fluiera
+    - fluyera
+  tu:
+    - fluieras
+    - fluyeras
+  vos:
+    - fluieras
+    - fluyeras
+  ud:
+    - fluiera
+    - fluyera
+  nosotros:
+    - fluyéramos
+    - fluyésemos
+  vosotros:
+    - fluyerais
+    - fluyeseis
+  uds:
+    - fluyeran
+    - fluyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera fluido
+    - hubiese fluido
+  tu:
+    - hubieras fluido
+    - hubieses fluido
+  vos:
+    - hubieras fluido
+    - hubieses fluido
+  ud:
+    - hubiera fluido
+    - hubiese fluido
+  nosotros:
+    - hubiéramos fluido
+    - hubiésemos fluido
+  vosotros:
+    - hubierais fluido
+    - hubieseis fluido
+  uds:
+    - hubieran fluido
+    - hubiesen fluido
+imperativo:
+  tu: fluye
+  vos: fluye
+  ud: fluya
+  nosotros: fluyamos
+  vosotros: fluíd
+  uds: fluyan

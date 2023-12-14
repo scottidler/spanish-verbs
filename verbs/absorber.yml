@@ -1,0 +1,142 @@
+infinitivo: absorber
+gerundio: absorbiendo
+participio-pasado: absorbido
+presente-indicativo:
+  yo: absorbo
+  tu: absorbes
+  vos: absorbes
+  ud: absorbe
+  nosotros: absorbemos
+  vosotros: absorbéis
+  uds: absorben
+preterito-perfecto-simple:
+  yo: absorbí
+  tu: absorbiste
+  vos: absorbiste
+  ud: absorbío
+  nosotros: absorbimos
+  vosotros: absorbisteis
+  uds: absorbieron
+preterito-imperfecto:
+  yo: absorbía
+  tu: absorbías
+  vos: absorbías
+  ud: absorbía
+  nosotros: absorbíamos
+  vosotros: absorbíais
+  uds: absorbían
+futuro-simple:
+  yo: absorberé
+  tu: absorberás
+  vos: absorberás
+  ud: absorberá
+  nosotros: absorbemos
+  vosotros: absorberéis
+  uds: absorberán
+condicional-simple:
+  yo: absorbería
+  tu: absorberías
+  vos: absorberías
+  ud: absorbería
+  nosotros: absorberíamos
+  vosotros: absorberíais
+  uds: absorberían
+presente-perfecto:
+  yo: he absorbido
+  tu: has absorbido
+  vos: has absorbido
+  ud: ha absorbido
+  nosotros: hemos absorbido
+  vosotros: habéis absorbido
+  uds: han absorbido
+preterito-pluscuamperfecto:
+  yo: había absorbido
+  tu: habías absorbido
+  vos: habías absorbido
+  ud: había absorbido
+  nosotros: habíamos absorbido
+  vosotros: habíais absorbido
+  uds: habían absorbido
+futuro-perfecto:
+  yo: habré absorbido
+  tu: habrás absorbido
+  vos: habrás absorbido
+  ud: habrá absorbido
+  nosotros: habremos absorbido
+  vosotros: habréis absorbido
+  uds: habrán absorbido
+condicional-perfecto:
+  yo: habría absorbido
+  tu: habrías absorbido
+  vos: habrías absorbido
+  ud: habría absorbido
+  nosotros: habríamos absorbido
+  vosotros: habríais absorbido
+  uds: habrían absorbido
+presente-subjuntivo:
+  yo: absorba
+  tu: absorbas
+  vos: absorbas
+  ud: absorba
+  nosotros: absorbamos
+  vosotros: absorbáis
+  uds: absorban
+preterito-perfecto-subjuntivo:
+  yo: haya absorbido
+  tu: hayas absorbido
+  vos: hayas absorbido
+  ud: haya absorbido
+  nosotros: hayamos absorbido
+  vosotros: hayáis absorbido
+  uds: hayan absorbido
+imperfecto-subjuntivo:
+  yo:
+    - absorbiera
+    - absorbiese
+  tu:
+    - absorbieras
+    - absorbieses
+  vos:
+    - absorbieras
+    - absorbieses
+  ud:
+    - absorbiera
+    - absorbiese
+  nosotros:
+    - absorbiéramos
+    - absorbiésemos
+  vosotros:
+    - absorbierais
+    - absorbieseis
+  uds:
+    - absorbieran
+    - absorbiesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera absorbido
+    - hubiese absorbido
+  tu:
+    - hubieras absorbido
+    - hubieses absorbido
+  vos:
+    - hubieras absorbido
+    - hubieses absorbido
+  ud:
+    - hubiera absorbido
+    - hubiese absorbido
+  nosotros:
+    - hubiéramos absorbido
+    - hubiésemos absorbido
+  vosotros:
+    - hubierais absorbido
+    - hubieseis absorbido
+  uds:
+    - hubieran absorbido
+    - hubiesen absorbido
+imperativo:
+  tu: absorbe
+  vos: absorbé
+  ud: absorba
+  nosotros: absorbamos
+  vosotros: absorbed
+  uds: absorban

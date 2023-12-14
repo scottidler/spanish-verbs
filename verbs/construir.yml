@@ -1,0 +1,142 @@
+infinitivo: construir
+gerundio: construyendo
+participio-pasado: construido
+presente-indicativo:
+  yo: construyo
+  tu: construyes
+  vos: construís
+  ud: construye
+  nosotros: construimos
+  vosotros: construís
+  uds: construyen
+preterito-perfecto-simple:
+  yo: construí
+  tu: construiste
+  vos: construiste
+  ud: construyó
+  nosotros: construimos
+  vosotros: construisteis
+  uds: construyeron
+preterito-imperfecto:
+  yo: construía
+  tu: construías
+  vos: construías
+  ud: construía
+  nosotros: construíamos
+  vosotros: construíais
+  uds: construían
+futuro-simple:
+  yo: construiré
+  tu: construirás
+  vos: construirás
+  ud: construirá
+  nosotros: construiremos
+  vosotros: construiréis
+  uds: construirán
+condicional-simple:
+  yo: construiría
+  tu: construirías
+  vos: construirías
+  ud: construiría
+  nosotros: construiríamos
+  vosotros: construiríais
+  uds: construirían
+presente-perfecto:
+  yo: he construido
+  tu: has construido
+  vos: has construido
+  ud: ha construido
+  nosotros: hemos construido
+  vosotros: habéis construido
+  uds: han construido
+preterito-pluscuamperfecto:
+  yo: había construido
+  tu: habías construido
+  vos: habías construido
+  ud: había construido
+  nosotros: habíamos construido
+  vosotros: habíais construido
+  uds: habían construido
+futuro-perfecto:
+  yo: habré construido
+  tu: habrás construido
+  vos: habrás construido
+  ud: habrá construido
+  nosotros: habremos construido
+  vosotros: habréis construido
+  uds: habrán construido
+condicional-perfecto:
+  yo: habría construido
+  tu: habrías construido
+  vos: habrías construido
+  ud: habría construido
+  nosotros: habríamos construido
+  vosotros: habríais construido
+  uds: habrían construido
+presente-subjuntivo:
+  yo: construya
+  tu: construyas
+  vos: construyas
+  ud: construya
+  nosotros: construyamos
+  vosotros: construyáis
+  uds: construyan
+preterito-perfecto-subjuntivo:
+  yo: haya construido
+  tu: hayas construido
+  vos: hayas construido
+  ud: haya construido
+  nosotros: hayamos construido
+  vosotros: hayáis construido
+  uds: hayan construido
+imperfecto-subjuntivo:
+  yo:
+    - construyera
+    - construyese
+  tu:
+    - construyeras
+    - construyeses
+  vos:
+    - construyeras
+    - construyeses
+  ud:
+    - construyera
+    - construyese
+  nosotros:
+    - construyéramos
+    - construyésemos
+  vosotros:
+    - construyerais
+    - construyeseis
+  uds:
+    - construyeran
+    - construyesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera construido
+    - hubiese construido
+  tu:
+    - hubieras construido
+    - hubieses construido
+  vos:
+    - hubieras construido
+    - hubieses construido
+  ud:
+    - hubiera construido
+    - hubiese construido
+  nosotros:
+    - hubiéramos construido
+    - hubiésemos construido
+  vosotros:
+    - hubierais construido
+    - hubieseis construido
+  uds:
+    - hubieran construido
+    - hubiesen construido
+imperativo:
+  tu: construye
+  vos: construí
+  ud: construya
+  nosotros: construyamos
+  vosotros: construid
+  uds: construyan

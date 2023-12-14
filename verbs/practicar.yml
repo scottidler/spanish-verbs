@@ -1,0 +1,142 @@
+infinitivo: practicar
+gerundio: practicando
+participio-pasado: practicado
+presente-indicativo:
+  yo: practico
+  tu: practicas
+  vos: practicas
+  ud: practica
+  nosotros: practicamos
+  vosotros: practicáis
+  uds: practican
+preterito-perfecto-simple:
+  yo: practiqué
+  tu: practicaste
+  vos: practicaste
+  ud: practicó
+  nosotros: practicamos
+  vosotros: practicasteis
+  uds: practicaron
+preterito-imperfecto:
+  yo: practicaba
+  tu: practicabas
+  vos: practicabas
+  ud: practicaba
+  nosotros: practicábamos
+  vosotros: practicabais
+  uds: practicaban
+futuro-simple:
+  yo: practicaré
+  tu: practicarás
+  vos: practicarás
+  ud: practicará
+  nosotros: practicaremos
+  vosotros: practicaréis
+  uds: practicarán
+condicional-simple:
+  yo: practicaría
+  tu: practicarías
+  vos: practicarías
+  ud: practicaría
+  nosotros: practicaríamos
+  vosotros: practicaríais
+  uds: practicarían
+presente-perfecto:
+  yo: he practicado
+  tu: has practicado
+  vos: has practicado
+  ud: ha practicado
+  nosotros: hemos practicado
+  vosotros: habéis practicado
+  uds: han practicado
+preterito-pluscuamperfecto:
+  yo: había practicado
+  tu: habías practicado
+  vos: habías practicado
+  ud: había practicado
+  nosotros: habíamos practicado
+  vosotros: habíais practicado
+  uds: habían practicado
+futuro-perfecto:
+  yo: habré practicado
+  tu: habrás practicado
+  vos: habrás practicado
+  ud: habrá practicado
+  nosotros: habremos practicado
+  vosotros: habréis practicado
+  uds: habrán practicado
+condicional-perfecto:
+  yo: habría practicado
+  tu: habrías practicado
+  vos: habrías practicado
+  ud: habría practicado
+  nosotros: habríamos practicado
+  vosotros: habríais practicado
+  uds: habrían practicado
+presente-subjuntivo:
+  yo: practique
+  tu: practiques
+  vos: practiques
+  ud: practique
+  nosotros: practiquemos
+  vosotros: practiquéis
+  uds: practiquen
+preterito-perfecto-subjuntivo:
+  yo: haya practicado
+  tu: hayas practicado
+  vos: hayas practicado
+  ud: haya practicado
+  nosotros: hayamos practicado
+  vosotros: hayáis practicado
+  uds: hayan practicado
+imperfecto-subjuntivo:
+  yo:
+    - practicara
+    - practicase
+  tu:
+    - practicaras
+    - practicases
+  vos:
+    - practicaras
+    - practicases
+  ud:
+    - practicara
+    - practicase
+  nosotros:
+    - practicáramos
+    - practicásemos
+  vosotros:
+    - practicarais
+    - practicaseis
+  uds:
+    - practicaran
+    - practicasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera practicado
+    - hubiese practicado
+  tu:
+    - hubieras practicado
+    - hubieses practicado
+  vos:
+    - hubieras practicado
+    - hubieses practicado
+  ud:
+    - hubiera practicado
+    - hubiese practicado
+  nosotros:
+    - hubiéramos practicado
+    - hubiésemos practicado
+  vosotros:
+    - hubierais practicado
+    - hubieseis practicado
+  uds:
+    - hubieran practicado
+    - hubiesen practicado
+imperativo:
+  tu: practica
+  vos: practicá
+  ud: practique
+  nosotros: practiquemos
+  vosotros: practicad
+  uds: practiquen
