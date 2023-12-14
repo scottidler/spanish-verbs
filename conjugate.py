@@ -136,9 +136,10 @@ def main(args):
                         file.write(corrected_yaml)
                     logger.info(f'Corrected and created "{verb}" -> {file_path}')
                 else:
-                    logger.error(f'Failed to correct "{verb}"')
+                    logger.error(f'Failed to correct "{verb}". Error: {corrected_error_message}')
         except Exception as e:
             sys.stderr.write(f'Error processing "{verb}": {e}\n')
+
 
 if __name__ == '__main__':
     main(sys.argv[1:])
