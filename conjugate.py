@@ -11,7 +11,6 @@ import logging
 yaml = YAML(typ='safe')
 yaml.default_flow_style = False
 
-# Configure logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 logger = logging.getLogger(__name__)
 
@@ -25,10 +24,11 @@ def validate_conjugation(conjugation_yaml, schema):
     try:
         conjugation = yaml.load(conjugation_yaml)
         validate(instance=conjugation, schema=schema)
-        return True
+        return True, None
     except ValidationError as e:
-        logger.error(f'Validation error: {e}')
-        return False
+        return False, e.message
+    except Exception as e:
+        return False, f'YAML parsing error: {e}'
 
 def get_conjugation(verb, prompt):
     try:
@@ -39,21 +39,41 @@ def get_conjugation(verb, prompt):
                 {'role': 'user', 'content': prompt}
             ]
         )
-        content = response.choices[0].message['content']
-        return content.strip()
+        return response.choices[0].message['content'].strip()
     except Exception as e:
         logger.error(f'Error "{verb}": {e}')
         return None
 
+def get_corrected_conjugation(verb, original_prompt, error_message):
+    correction_prompt = (
+        f'Original task for "{verb}":\n{original_prompt}\n\n'
+        f'Validation Error: {error_message}\n\n'
+        f'Please provide a corrected version of the conjugation for "{verb}", '
+        'ensuring it conforms to the schema requirements.'
+    )
+    try:
+        response = openai.ChatCompletion.create(
+            model='gpt-3.5-turbo',
+            messages=[
+                {'role': 'system', 'content': 'You are a helpful assistant.'},
+                {'role': 'user', 'content': correction_prompt}
+            ]
+        )
+        return response.choices[0].message['content'].strip()
+    except Exception as e:
+        logger.error(f'Error in correction attempt for "{verb}": {e}')
+        return None
+
+def tab_in_content(content, spaces=2):
+    return ''.join(' ' * spaces + line if line.strip() else line for line in content)
+
 def main(args):
     parser = argparse.ArgumentParser(description='Get verb conjugations using ChatGPT API.')
     parser.add_argument('verbs', nargs='+', help='List of infinitive verbs')
-    parser.add_argument('-o', '--output', metavar='PATH', default='verbs', help='default="%(default)s"; Output directory')
+    parser.add_argument('-o', '--output', default='verbs', help='Output directory (default: verbs)')
     parser.add_argument('-p', '--prompt-only', action='store_true', help='Print prompt only and exit')
     parser.add_argument('-f', '--force', action='store_true', help='Force re-conjugation and file rewrite')
     ns = parser.parse_args(args)
-
-    schema_yaml = load_schema('schema.yml')
 
     if OPENAI_API_KEY:
         openai.api_key = OPENAI_API_KEY
@@ -63,10 +83,15 @@ def main(args):
 
     try:
         with open(f'{ns.output}/hablar.yml', 'r') as file:
-            example_yaml = file.read()
+            example_yaml = tab_in_content(file, 2)
     except FileNotFoundError:
-        sys.stderr.write('Example file \'hablar.yml\' not found. Please provide an example YAML file.\n')
+        sys.stderr.write("Example file 'hablar.yml' not found. Please provide an example YAML file.\n")
         return
+
+    with open('schema.yml', 'r') as schema_file:
+        schema_content = tab_in_content(schema_file, 2)
+
+    schema_yaml = load_schema('schema.yml')
 
     output_dir = ns.output
     if not os.path.exists(output_dir):
@@ -82,30 +107,38 @@ def main(args):
             logger.info(f'Existing "{verb}": {file_path}')
             continue
 
+        prompt = (
+            f'Conjugate the Spanish verb "{verb}" in all 14 tenses and moods, '
+            'as well as the infinitive, gerundio and past participle.\n\n'
+            f'Follow this example:\n{example_yaml}\n\n'
+            f'Validation will use this schema:\n{schema_content}\n\n'
+            'Your response should be in YAML format and conform to the field names '
+            'and structure specified in the schema above.'
+        )
+
+        if ns.prompt_only:
+            print(prompt)
+            continue
+
         try:
-            prompt = (
-                f'Conjugate the Spanish verb "{verb}" in all 14 tenses and moods, as well as the infinitive, gerundio and past participle.\n\n'
-                f'{example_yaml}\n\n'
-                'Here is the schema that will be used to validate your response via jsonschema.\n\n'
-                f'{schema_yaml}\n\n'
-                'Your response should be in yaml. You must conform to all of the field names you see in the example above.'
-                'The only field that will differ is the name of the verb which should match my query: "{verb}"'
-                'Make sure you provide ALL 17 top-level fields as specified in the example yaml and the schema.'
-            )
-
-            if ns.prompt_only:
-                print(prompt)
-                continue
-
             conjugation_yaml = get_conjugation(verb, prompt)
-            if conjugation_yaml and validate_conjugation(conjugation_yaml, schema_yaml):
+            is_valid, error_message = validate_conjugation(conjugation_yaml, schema_yaml)
+            if is_valid:
                 with open(file_path, 'w') as file:
                     file.write(conjugation_yaml)
                 logger.info(f'Created "{verb}" -> {file_path}')
             else:
-                logger.error(f'Failed "{verb}"')
+                logger.error(f'Validation error for "{verb}": {error_message}')
+                corrected_yaml = get_corrected_conjugation(verb, prompt, error_message)
+                is_corrected_valid, corrected_error_message = validate_conjugation(corrected_yaml, schema_yaml)
+                if is_corrected_valid:
+                    with open(file_path, 'w') as file:
+                        file.write(corrected_yaml)
+                    logger.info(f'Corrected and created "{verb}" -> {file_path}')
+                else:
+                    logger.error(f'Failed to correct "{verb}"')
         except Exception as e:
-            logger.error(f'Error "{verb}": {e}')
+            sys.stderr.write(f'Error processing "{verb}": {e}\n')
 
 if __name__ == '__main__':
     main(sys.argv[1:])
