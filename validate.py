@@ -1,43 +1,41 @@
 #!/bin/env python3
 
+import os
 import sys
-import jsonschema
+import requests
 import argparse
-from ruamel.yaml import YAML
+from pathlib import Path
 
-yaml = YAML(typ='safe', pure=True)
+MWD_API_KEY = os.environ.get('MWD_API_KEY')
 
-def validate_conjugation_file(conjugation_file_path, schema_file_path):
-    try:
-        # Load the YAML file containing verb conjugations
-        with open(conjugation_file_path, 'r', encoding='utf-8') as file:
-            conjugation_data = yaml.load(file)
+def is_valid_spanish_verb(verb, api_key):
+    url = f'https://dictionaryapi.com/api/v3/references/spanish/json/{verb}?key={api_key}'
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        return bool(data and 'shortDef' in data[0])
+    return False
 
-        # Load the JSON schema
-        with open(schema_file_path, 'r', encoding='utf-8') as schema_file:
-            schema = yaml.load(schema_file)
+def rename_invalid_files(directory):
+    for file in Path(directory).glob('*.yml'):
+        verb = file.stem
+        if not is_valid_spanish_verb(verb, MWD_API_KEY):
+            new_filename = file.with_suffix('.yml.to-be-deleted')
+            file.rename(new_filename)
+            print(f"Renamed invalid verb file: {file} -> {new_filename}")
 
-        # Validate the conjugation data against the schema
-        jsonschema.validate(conjugation_data, schema)
-        return True
-    except Exception as e:
-        #print(f"Validation error: {e}", file=sys.stderr)
-        print(f"Validation error: {e}")
-        return False
+def parse_arguments():
+    parser = argparse.ArgumentParser(description='Validate and rename Spanish verb YAML files.')
+    parser.add_argument('-d', '--directory', default='verbs', help='Directory containing .yml files')
+    return parser.parse_args()
 
-def main(args):
-    parser = argparse.ArgumentParser(description="Validate conjugation files against a JSON schema")
-    parser.add_argument("verbs", metavar='VERB', nargs='+', help="Path(s) to the conjugation YAML file(s)")
-    parser.add_argument("-s", "--schema", metavar='FILE', default='verb-schema.yml', help="Path to the JSON schema file")
+def main():
+    args = parse_arguments()
+    if not MWD_API_KEY:
+        print('Error: MWD_API_KEY environment variable not set.', file=sys.stderr)
+        sys.exit(1)
+    rename_invalid_files(args.directory)
 
-    args = parser.parse_args(args)
-
-    for verb_file in args.verbs:
-        if validate_conjugation_file(verb_file, args.schema):
-            print(f"Validation successful for {verb_file}")
-        else:
-            print(f"Validation failed for {verb_file}")
-
-if __name__ == "__main__":
-    main(sys.argv[1:])
+if __name__ == '__main__':
+    main()
 
