@@ -1,0 +1,143 @@
+meaning: to dive
+infinitivo: zambullir
+gerundio: zambullendo
+participio-pasado: zambullido
+presente-indicativo:
+  yo: zambullo
+  tu: zambulles
+  vos: zambulles
+  ud: zambulle
+  nosotros: zambullimos
+  vosotros: zambullís
+  uds: zambullen
+preterito-perfecto-simple:
+  yo: zambullí
+  tu: zambulliste
+  vos: zambulliste
+  ud: zambulló
+  nosotros: zambullimos
+  vosotros: zambullisteis
+  uds: zambulleron
+preterito-imperfecto:
+  yo: zambullía
+  tu: zambullías
+  vos: zambullías
+  ud: zambullía
+  nosotros: zambullíamos
+  vosotros: zambullíais
+  uds: zambullían
+futuro-simple:
+  yo: zambulliré
+  tu: zambullirás
+  vos: zambullirás
+  ud: zambullirá
+  nosotros: zambulliremos
+  vosotros: zambulliréis
+  uds: zambullirán
+condicional-simple:
+  yo: zambulliría
+  tu: zambullirías
+  vos: zambullirías
+  ud: zambulliría
+  nosotros: zambulliríamos
+  vosotros: zambulliríais
+  uds: zambullirían
+presente-perfecto:
+  yo: he zambullido
+  tu: has zambullido
+  vos: has zambullido
+  ud: ha zambullido
+  nosotros: hemos zambullido
+  vosotros: habéis zambullido
+  uds: han zambullido
+preterito-pluscuamperfecto:
+  yo: había zambullido
+  tu: habías zambullido
+  vos: habías zambullido
+  ud: había zambullido
+  nosotros: habíamos zambullido
+  vosotros: habíais zambullido
+  uds: habían zambullido
+futuro-perfecto:
+  yo: habré zambullido
+  tu: habrás zambullido
+  vos: habrás zambullido
+  ud: habrá zambullido
+  nosotros: habremos zambullido
+  vosotros: habréis zambullido
+  uds: habrán zambullido
+condicional-perfecto:
+  yo: habría zambullido
+  tu: habrías zambullido
+  vos: habrías zambullido
+  ud: habría zambullido
+  nosotros: habríamos zambullido
+  vosotros: habríais zambullido
+  uds: habrían zambullido
+presente-subjuntivo:
+  yo: zambulla
+  tu: zambullas
+  vos: zambullas
+  ud: zambulla
+  nosotros: zambullamos
+  vosotros: zambulláis
+  uds: zambullan
+preterito-perfecto-subjuntivo:
+  yo: haya zambullido
+  tu: hayas zambullido
+  vos: hayas zambullido
+  ud: haya zambullido
+  nosotros: hayamos zambullido
+  vosotros: hayáis zambullido
+  uds: hayan zambullido
+imperfecto-subjuntivo:
+  yo:
+    - zambullera
+    - zambullese
+  tu:
+    - zambulleras
+    - zambulleses
+  vos:
+    - zambulleras
+    - zambulleses
+  ud:
+    - zambullera
+    - zambullese
+  nosotros:
+    - zambulléramos
+    - zambullésemos
+  vosotros:
+    - zambullerais
+    - zambulleaseis
+  uds:
+    - zambulleran
+    - zambullesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera zambullido
+    - hubiese zambullido
+  tu:
+    - hubieras zambullido
+    - hubieses zambullido
+  vos:
+    - hubieras zambullido
+    - hubieses zambullido
+  ud:
+    - hubiera zambullido
+    - hubiese zambullido
+  nosotros:
+    - hubiéramos zambullido
+    - hubiésemos zambullido
+  vosotros:
+    - hubierais zambullido
+    - hubieseis zambullido
+  uds:
+    - hubieran zambullido
+    - hubiesen zambullido
+imperativo:
+  tu: zambulle
+  vos: zambullí
+  ud: zambulla
+  nosotros: zambullamos
+  vosotros: zambullid
+  uds: zambullan
