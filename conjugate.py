@@ -16,6 +16,9 @@ logger = logging.getLogger(__name__)
 
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 
+def tab_in_content(content, spaces=2):
+    return ''.join(' ' * spaces + line if line.strip() else line for line in content)
+
 def load_schema(schema_file):
     with open(schema_file, 'r') as file:
         return yaml.load(file)
@@ -64,15 +67,75 @@ def get_corrected_conjugation(verb, original_prompt, error_message):
         logger.error(f'Error in correction attempt for "{verb}": {e}')
         return None
 
-def tab_in_content(content, spaces=2):
-    return ''.join(' ' * spaces + line if line.strip() else line for line in content)
+def conjugate(verb, file_path, prompt, output_dir, schema_yaml):
+    try:
+        conjugation_yaml = get_conjugation(verb, prompt)
+        is_valid, error_message = validate_conjugation(conjugation_yaml, schema_yaml)
+        if is_valid:
+            with open(file_path, 'w') as file:
+                file.write(conjugation_yaml)
+            logger.info(f'Created "{verb}" -> {file_path}')
+        else:
+            logger.error(f'Validation error for "{verb}": {error_message}')
+            corrected_yaml = get_corrected_conjugation(verb, prompt, error_message)
+            is_corrected_valid, corrected_error_message = validate_conjugation(corrected_yaml, schema_yaml)
+            if is_corrected_valid:
+                with open(file_path, 'w') as file:
+                    file.write(corrected_yaml)
+                logger.info(f'Corrected and created "{verb}" -> {file_path}')
+            else:
+                logger.error(f'Failed to correct "{verb}". Error: {corrected_error_message}')
+    except Exception as e:
+        sys.stderr.write(f'Error processing "{verb}": {e}\n')
+
+def get_verb_meaning(verb):
+    try:
+        prompt = (
+            f'Provide the English meaning (including "to") of the Spanish verb "{verb}" as a concise definition. '
+            'If there are multiple meanings, separate them with commas. Provide only the definitions, nothing more.'
+            'hablar: to speak, to talk'
+            'comer: to eat'
+            'vivir: to live'
+        )
+        response = openai.ChatCompletion.create(
+            model='gpt-3.5-turbo',
+            messages=[
+                {'role': 'system', 'content': 'You are a helpful assistant.'},
+                {'role': 'user', 'content': prompt}
+            ]
+        )
+        return response.choices[0].message['content'].strip()
+    except Exception as e:
+        logger.error(f'Error fetching meaning for "{verb}": {e}')
+        return None
+
+def add_meaning_to_file(verb, output_dir):
+    file_path = os.path.join(output_dir, f'{verb}.yml')
+    if not os.path.exists(file_path):
+        logger.error(f'File for "{verb}" not found: {file_path}')
+        return
+
+    meaning = get_verb_meaning(verb)
+    if not meaning:
+        logger.error(f'Could not find meaning for "{verb}"')
+        return
+
+    with open(file_path, 'r') as file:
+        content = file.readlines()
+
+    content.insert(0, f'meaning: {meaning}\n')
+
+    with open(file_path, 'w') as file:
+        file.writelines(content)
+    logger.info(f'Added meaning to "{verb}" -> {file_path}')
 
 def main(args):
-    parser = argparse.ArgumentParser(description='Get verb conjugations using ChatGPT API.')
-    parser.add_argument('verbs', nargs='+', help='List of infinitive verbs')
-    parser.add_argument('-o', '--output', default='verbs', help='Output directory (default: verbs)')
-    parser.add_argument('-p', '--prompt-only', action='store_true', help='Print prompt only and exit')
-    parser.add_argument('-f', '--force', action='store_true', help='Force re-conjugation and file rewrite')
+    parser = argparse.ArgumentParser(description='get verb conjugations using ChatGPT API.')
+    parser.add_argument('verbs', nargs='+', help='list of infinitive verbs')
+    parser.add_argument('-o', '--output', default='verbs', help='output directory (default: verbs)')
+    parser.add_argument('-p', '--prompt-only', action='store_true', help='print prompt only and exit')
+    parser.add_argument('-a', '--add-meaning', action='store_true', help='toggle to add meaning to the verb file')
+    parser.add_argument('-f', '--force', action='store_true', help='force re-conjugation and file rewrite')
     ns = parser.parse_args(args)
 
     if OPENAI_API_KEY:
@@ -103,43 +166,30 @@ def main(args):
         prefix = f'{index}/{count} ({percentage}%)'
         file_path = os.path.join(output_dir, f'{verb}.yml')
 
-        if not ns.force and os.path.exists(file_path):
-            logger.info(f'Existing "{verb}": {file_path}')
-            continue
-
         prompt = (
-            f'Conjugate the Spanish verb "{verb}" in all 14 tenses and moods, '
-            'as well as the infinitive, gerundio and past participle.\n\n'
+            f'We are building a Spanish verb conjugation yaml file for "{verb}".'
+            'The first step is definiting the infinitive of the verb'
+            'Below are three examples of the meaning for: hablar, comer and vivir; note the "to" in each'
+            'meaning: to speak, to talk'
+            'meaning: to eat'
+            'meaning: to live'
+            'Then we definine the infinitivo and conjugate the gerundio, participio-pasado'
+            'Finally we conjugate the verb in all 14 tenses and moods\n\n'
             f'Follow this example:\n{example_yaml}\n\n'
             f'Validation will use this schema:\n{schema_content}\n\n'
-            'Your response should be in YAML format and conform to the field names '
+            'Your response should be in YAML format and conform to the field names, order '
             'and structure specified in the schema above.'
         )
 
         if ns.prompt_only:
             print(prompt)
-            continue
-
-        try:
-            conjugation_yaml = get_conjugation(verb, prompt)
-            is_valid, error_message = validate_conjugation(conjugation_yaml, schema_yaml)
-            if is_valid:
-                with open(file_path, 'w') as file:
-                    file.write(conjugation_yaml)
-                logger.info(f'Created "{verb}" -> {file_path}')
-            else:
-                logger.error(f'Validation error for "{verb}": {error_message}')
-                corrected_yaml = get_corrected_conjugation(verb, prompt, error_message)
-                is_corrected_valid, corrected_error_message = validate_conjugation(corrected_yaml, schema_yaml)
-                if is_corrected_valid:
-                    with open(file_path, 'w') as file:
-                        file.write(corrected_yaml)
-                    logger.info(f'Corrected and created "{verb}" -> {file_path}')
-                else:
-                    logger.error(f'Failed to correct "{verb}". Error: {corrected_error_message}')
-        except Exception as e:
-            sys.stderr.write(f'Error processing "{verb}": {e}\n')
-
+        elif ns.add_meaning:
+            add_meaning_to_file(verb, output_dir)
+        else:
+            if not ns.force and os.path.exists(file_path):
+                logger.info(f'Existing "{verb}": {file_path}')
+                continue
+            conjugate(verb, file_path, prompt, output_dir, schema_yaml)
 
 if __name__ == '__main__':
     main(sys.argv[1:])

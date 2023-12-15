@@ -36,6 +36,7 @@ definitions:
 
 type: object
 properties:
+  meaning: {type: string}
   infinitivo: {type: string}
   gerundio: {type: string}
   participio-pasado: {type: string}
