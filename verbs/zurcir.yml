@@ -1,0 +1,143 @@
+meaning: to sew, to darn
+infinitivo: zurcir
+gerundio: zurciendo
+participio-pasado: zurcido
+presente-indicativo:
+  yo: zurzo
+  tu: zurces
+  vos: zurces
+  ud: zurce
+  nosotros: zurcimos
+  vosotros: zurcís
+  uds: zurcen
+preterito-perfecto-simple:
+  yo: zurcí
+  tu: zurciste
+  vos: zurciste
+  ud: zurció
+  nosotros: zurcimos
+  vosotros: zurcisteis
+  uds: zurcieron
+preterito-imperfecto:
+  yo: zurcía
+  tu: zurcías
+  vos: zurcías
+  ud: zurcía
+  nosotros: zurcíamos
+  vosotros: zurcíais
+  uds: zurcían
+futuro-simple:
+  yo: zurciré
+  tu: zurcirás
+  vos: zurcirás
+  ud: zurcirá
+  nosotros: zurciremos
+  vosotros: zurciréis
+  uds: zurcirán
+condicional-simple:
+  yo: zurciría
+  tu: zurcirías
+  vos: zurcirías
+  ud: zurciría
+  nosotros: zurciríamos
+  vosotros: zurciríais
+  uds: zurcirían
+presente-perfecto:
+  yo: he zurcido
+  tu: has zurcido
+  vos: has zurcido
+  ud: ha zurcido
+  nosotros: hemos zurcido
+  vosotros: habéis zurcido
+  uds: han zurcido
+preterito-pluscuamperfecto:
+  yo: había zurcido
+  tu: habías zurcido
+  vos: habías zurcido
+  ud: había zurcido
+  nosotros: habíamos zurcido
+  vosotros: habíais zurcido
+  uds: habían zurcido
+futuro-perfecto:
+  yo: habré zurcido
+  tu: habrás zurcido
+  vos: habrás zurcido
+  ud: habrá zurcido
+  nosotros: habremos zurcido
+  vosotros: habréis zurcido
+  uds: habrán zurcido
+condicional-perfecto:
+  yo: habría zurcido
+  tu: habrías zurcido
+  vos: habrías zurcido
+  ud: habría zurcido
+  nosotros: habríamos zurcido
+  vosotros: habríais zurcido
+  uds: habrían zurcido
+presente-subjuntivo:
+  yo: zurza
+  tu: zurzas
+  vos: zurzas
+  ud: zurza
+  nosotros: zurzamos
+  vosotros: zurzáis
+  uds: zurzan
+preterito-perfecto-subjuntivo:
+  yo: haya zurcido
+  tu: hayas zurcido
+  vos: hayas zurcido
+  ud: haya zurcido
+  nosotros: hayamos zurcido
+  vosotros: hayáis zurcido
+  uds: hayan zurcido
+imperfecto-subjuntivo:
+  yo:
+    - zurciera
+    - zurciese
+  tu:
+    - zurcieras
+    - zurcieses
+  vos:
+    - zurcieras
+    - zurcieses
+  ud:
+    - zurciera
+    - zurciese
+  nosotros:
+    - zurciéramos
+    - zurciésemos
+  vosotros:
+    - zurcierais
+    - zurcieseis
+  uds:
+    - zurcieran
+    - zurciesen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera zurcido
+    - hubiese zurcido
+  tu:
+    - hubieras zurcido
+    - hubieses zurcido
+  vos:
+    - hubieras zurcido
+    - hubieses zurcido
+  ud:
+    - hubiera zurcido
+    - hubiese zurcido
+  nosotros:
+    - hubiéramos zurcido
+    - hubiésemos zurcido
+  vosotros:
+    - hubierais zurcido
+    - hubieseis zurcido
+  uds:
+    - hubieran zurcido
+    - hubiesen zurcido
+imperativo:
+  tu: zurce
+  vos: zurcí
+  ud: zurza
+  nosotros: zurzamos
+  vosotros: zurcid
+  uds: zurzan
