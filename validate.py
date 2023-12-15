@@ -13,8 +13,18 @@ def is_valid_spanish_verb(verb, api_key):
     response = requests.get(url)
     if response.status_code == 200:
         data = response.json()
-        return bool(data and 'shortDef' in data[0])
-    return False
+        print(verb)
+        #print(data)
+        #print()
+
+        if isinstance(data, list) and len(data) > 0:
+            if isinstance(data[0], dict) and ('shortDef' in data[0] or 'suppl' in data[0]):
+                return True
+            return False
+        else:
+            raise Exception(f'Unexpected response type: {type(data)}')
+    else:
+        return False
 
 def rename_invalid_files(directory):
     for file in Path(directory).glob('*.yml'):
