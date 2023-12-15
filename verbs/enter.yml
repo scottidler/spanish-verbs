@@ -1,3 +1,4 @@
+meaning: to enter, to go in
 infinitivo: enter
 gerundio: enterando
 participio-pasado: enterado
@@ -90,7 +91,7 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis entrado
   uds: hayan entrado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - entrara
     - entrase
   tu:
