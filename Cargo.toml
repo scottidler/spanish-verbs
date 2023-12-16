@@ -1,0 +1,12 @@
+[package]
+name = "conjure"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.4.11", features = ["derive"] }
+eyre = "0.6.11"
+serde = { version = "1.0.193", features = ["derive"] }
+serde_yaml = "0.9.27"
