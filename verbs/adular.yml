@@ -1,0 +1,143 @@
+meaning: to flatter
+infinitivo: adular
+gerundio: adulando
+participio-pasado: adulado
+presente-indicativo:
+  yo: adulo
+  tu: adulas
+  vos: adulas
+  ud: adula
+  nosotros: adulamos
+  vosotros: aduláis
+  uds: adulan
+preterito-perfecto-simple:
+  yo: adulé
+  tu: adulaste
+  vos: adulaste
+  ud: aduló
+  nosotros: adulamos
+  vosotros: adulasteis
+  uds: adularon
+preterito-imperfecto:
+  yo: adulaba
+  tu: adulabas
+  vos: adulabas
+  ud: adulaba
+  nosotros: adulábamos
+  vosotros: adulabais
+  uds: adulaban
+futuro-simple:
+  yo: adularé
+  tu: adularás
+  vos: adularás
+  ud: adulará
+  nosotros: adularemos
+  vosotros: adularéis
+  uds: adularán
+condicional-simple:
+  yo: adularía
+  tu: adularías
+  vos: adularías
+  ud: adularía
+  nosotros: adularíamos
+  vosotros: adularíais
+  uds: adularían
+presente-perfecto:
+  yo: he adulado
+  tu: has adulado
+  vos: has adulado
+  ud: ha adulado
+  nosotros: hemos adulado
+  vosotros: habéis adulado
+  uds: han adulado
+preterito-pluscuamperfecto:
+  yo: había adulado
+  tu: habías adulado
+  vos: habías adulado
+  ud: había adulado
+  nosotros: habíamos adulado
+  vosotros: habíais adulado
+  uds: habían adulado
+futuro-perfecto:
+  yo: habré adulado
+  tu: habrás adulado
+  vos: habrás adulado
+  ud: habrá adulado
+  nosotros: habremos adulado
+  vosotros: habréis adulado
+  uds: habrán adulado
+condicional-perfecto:
+  yo: habría adulado
+  tu: habrías adulado
+  vos: habrías adulado
+  ud: habría adulado
+  nosotros: habríamos adulado
+  vosotros: habríais adulado
+  uds: habrían adulado
+presente-subjuntivo:
+  yo: adule
+  tu: adules
+  vos: adules
+  ud: adule
+  nosotros: adulemos
+  vosotros: aduléis
+  uds: adulen
+preterito-perfecto-subjuntivo:
+  yo: haya adulado
+  tu: hayas adulado
+  vos: hayas adulado
+  ud: haya adulado
+  nosotros: hayamos adulado
+  vosotros: hayáis adulado
+  uds: hayan adulado
+imperfecto-subjuntivo:
+  yo:
+    - adulara
+    - adulase
+  tu:
+    - adularas
+    - adulases
+  vos:
+    - adularas
+    - adulases
+  ud:
+    - adulara
+    - adulase
+  nosotros:
+    - aduláramos
+    - adulásemos
+  vosotros:
+    - adularais
+    - adulaseis
+  uds:
+    - adulan
+    - adulasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera adulado
+    - hubiese adulado
+  tu:
+    - hubieras adulado
+    - hubieses adulado
+  vos:
+    - hubieras adulado
+    - hubieses adulado
+  ud:
+    - hubiera adulado
+    - hubiese adulado
+  nosotros:
+    - hubiéramos adulado
+    - hubiésemos adulado
+  vosotros:
+    - hubierais adulado
+    - hubieseis adulado
+  uds:
+    - hubieran adulado
+    - hubiesen adulado
+imperativo:
+  tu: adula
+  vos: adulá
+  ud: adule
+  nosotros: adulemos
+  vosotros: adulad
+  uds: adulen
