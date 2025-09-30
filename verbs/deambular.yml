@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis deambulado
   uds: hayan deambulado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - deambulara
     - deambulase
-  tu: 
+  tu:
     - deambularas
     - deambulases
-  vos: 
+  vos:
     - deambularas
     - deambulases
-  ud: 
+  ud:
     - deambulara
     - deambulase
-  nosotros: 
+  nosotros:
     - deambuláramos
     - deambulásemos
-  vosotros: 
+  vosotros:
     - deambularais
     - deambulaseis
-  uds: 
+  uds:
     - deambularan
     - deambulasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera deambulado
     - hubiese deambulado
-  tu: 
+  tu:
     - hubieras deambulado
     - hubieses deambulado
-  vos: 
+  vos:
     - hubieras deambulado
     - hubieses deambulado
-  ud: 
+  ud:
     - hubiera deambulado
     - hubiese deambulado
-  nosotros: 
+  nosotros:
     - hubiéramos deambulado
     - hubiésemos deambulado
-  vosotros: 
+  vosotros:
     - hubierais deambulado
     - hubieseis deambulado
-  uds: 
+  uds:
     - hubieran deambulado
     - hubiesen deambulado
 imperativo:

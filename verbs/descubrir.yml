@@ -2,7 +2,7 @@ meaning: to discover
 infinitivo: descubrir
 gerundio: descubriendo
 participio-pasado: descubierto
-presente-indicativo: 
+presente-indicativo:
   yo: descubro
   tu: descubres
   vos: descubrís
@@ -90,26 +90,26 @@ preterito-perfecto-subjuntivo:
   nosotros: hayamos descubierto
   vosotros: hayáis descubierto
   uds: hayan descubierto
-imperfecto-subjuntivo: 
-  yo: 
+imperfecto-subjuntivo:
+  yo:
     - descubriera
     - descubriese
-  tu: 
+  tu:
     - descubrieras
     - descubrieses
-  vos: 
+  vos:
     - descubrieras
     - descubrieses
-  ud: 
+  ud:
     - descubriera
     - descubriese
-  nosotros: 
+  nosotros:
     - descubriéramos
     - descubriésemos
-  vosotros: 
+  vosotros:
     - descubrierais
     - descubrieseis
-  uds: 
+  uds:
     - descubrieran
     - descubriesen
 pluscuamperfecto-subjuntivo:

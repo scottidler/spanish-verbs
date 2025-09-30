@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis arrastrado
   uds: hayan arrastrado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - arrastrara
     - arrastrase
-  tu: 
+  tu:
     - arrastraras
     - arrastrases
-  vos: 
+  vos:
     - arrastraras
     - arrastrases
-  ud: 
+  ud:
     - arrastrara
     - arrastrase
-  nosotros: 
+  nosotros:
     - arrastráramos
     - arrastrásemos
-  vosotros: 
+  vosotros:
     - arrastrarais
     - arrastraseis
-  uds: 
+  uds:
     - arrastraran
     - arrastrasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera arrastrado
     - hubiese arrastrado
-  tu: 
+  tu:
     - hubieras arrastrado
     - hubieses arrastrado
   vos:
     - hubieras arrastrado
     - hubieses arrastrado
-  ud: 
+  ud:
     - hubiera arrastrado
     - hubiese arrastrado
-  nosotros: 
+  nosotros:
     - hubiéramos arrastrado
     - hubiésemos arrastrado
-  vosotros: 
+  vosotros:
     - hubierais arrastrado
     - hubieseis arrastrado
-  uds: 
+  uds:
     - hubieran arrastrado
     - hubiesen arrastrado
 imperativo:

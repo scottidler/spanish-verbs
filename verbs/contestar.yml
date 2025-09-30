@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis contestado
   uds: hayan contestado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - contestara
     - contestase
-  tu: 
+  tu:
     - contestaras
     - contestases
-  vos: 
+  vos:
     - contestaras
     - contestases
-  ud: 
+  ud:
     - contestara
     - contestase
-  nosotros: 
+  nosotros:
     - contestáramos
     - contestásemos
-  vosotros: 
+  vosotros:
     - contestarais
     - contestaseis
-  uds: 
+  uds:
     - contestaran
     - contestasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera contestado
     - hubiese contestado
-  tu: 
+  tu:
     - hubieras contestado
     - hubieses contestado
-  vos: 
+  vos:
     - hubieras contestado
     - hubieses contestado
-  ud: 
+  ud:
     - hubiera contestado
     - hubiese contestado
-  nosotros: 
+  nosotros:
     - hubiéramos contestado
     - hubiésemos contestado
-  vosotros: 
+  vosotros:
     - hubierais contestado
     - hubieseis contestado
-  uds: 
+  uds:
     - hubieran contestado
     - hubiesen contestado
 imperativo:

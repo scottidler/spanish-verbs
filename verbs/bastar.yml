@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis bastado
   uds: hayan bastado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - bastara
     - bastase
-  tu: 
+  tu:
     - bastaras
     - bastases
-  vos: 
+  vos:
     - bastaras
     - bastases
-  ud: 
+  ud:
     - bastara
     - bastase
-  nosotros: 
+  nosotros:
     - bastáramos
     - bastásemos
-  vosotros: 
+  vosotros:
     - bastarais
     - bastaseis
-  uds: 
+  uds:
     - bastaran
     - bastasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera bastado
     - hubiese bastado
-  tu: 
+  tu:
     - hubieras bastado
     - hubieses bastado
-  vos: 
+  vos:
     - hubieras bastado
     - hubieses bastado
-  ud: 
+  ud:
     - hubiera bastado
     - hubiese bastado
-  nosotros: 
+  nosotros:
     - hubiéramos bastado
     - hubiésemos bastado
-  vosotros: 
+  vosotros:
     - hubierais bastado
     - hubieseis bastado
-  uds: 
+  uds:
     - hubieran bastado
     - hubiesen bastado
 imperativo:

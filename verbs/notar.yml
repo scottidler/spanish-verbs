@@ -1,143 +1,143 @@
 meaning: to notice, to observe
-infinitivo: notar 
-gerundio: notando 
-participio-pasado: notado 
-presente-indicativo: 
-  yo: noto 
-  tu: notas 
-  vos: notas 
-  ud: nota 
-  nosotros: notamos 
-  vosotros: notáis
-  uds: notan 
-preterito-perfecto-simple: 
-  yo: noté 
-  tu: notaste 
-  vos: notaste 
-  ud: notó 
+infinitivo: notar
+gerundio: notando
+participio-pasado: notado
+presente-indicativo:
+  yo: noto
+  tu: notas
+  vos: notas
+  ud: nota
   nosotros: notamos
-  vosotros: notasteis 
-  uds: notaron 
-preterito-imperfecto: 
-  yo: notaba 
-  tu: notabas 
-  vos: notabas 
-  ud: notaba 
-  nosotros: notábamos 
-  vosotros: notabais 
-  uds: notaban 
-futuro-simple: 
-  yo: notaré 
-  tu: notarás 
-  vos: notarás 
-  ud: notará 
-  nosotros: notaremos 
-  vosotros: notaréis 
-  uds: notarán 
-condicional-simple: 
-  yo: notaría 
-  tu: notarías 
-  vos: notarías 
-  ud: notaría 
-  nosotros: notaríamos 
-  vosotros: notaríais 
-  uds: notarían 
-presente-perfecto: 
-  yo: he notado 
-  tu: has notado 
-  vos: has notado 
-  ud: ha notado 
-  nosotros: hemos notado 
-  vosotros: habéis notado 
-  uds: han notado 
-preterito-pluscuamperfecto: 
-  yo: había notado 
-  tu: habías notado 
-  vos: habías notado 
-  ud: había notado 
-  nosotros: habíamos notado 
-  vosotros: habíais notado 
-  uds: habían notado 
-futuro-perfecto: 
-  yo: habré notado 
-  tu: habrás notado 
-  vos: habrás notado 
-  ud: habrá notado 
-  nosotros: habremos notado 
-  vosotros: habréis notado 
-  uds: habrán notado 
-condicional-perfecto: 
-  yo: habría notado 
-  tu: habrías notado 
-  vos: habrías notado 
-  ud: habría notado 
-  nosotros: habríamos notado 
-  vosotros: habríais notado 
-  uds: habrían notado 
-presente-subjuntivo: 
-  yo: note 
-  tu: notes 
-  vos: notes 
-  ud: note 
-  nosotros: notemos 
-  vosotros: notéis 
-  uds: noten 
-preterito-perfecto-subjuntivo: 
-  yo: haya notado 
-  tu: hayas notado 
-  vos: hayas notado 
-  ud: haya notado 
-  nosotros: hayamos notado 
-  vosotros: hayáis notado 
-  uds: hayan notado 
-imperfecto-subjuntivo: 
-  yo: 
-    - notara 
-    - notase 
-  tu: 
-    - notaras 
-    - notases 
-  vos: 
-    - notaras 
-    - notases 
-  ud: 
-    - notara 
-    - notase 
-  nosotros: 
-    - notáramos 
-    - notásemos 
-  vosotros: 
-    - notarais 
-    - notaseis 
-  uds: 
-    - notaran 
-    - notasen 
-pluscuamperfecto-subjuntivo: 
-  yo: 
-    - hubiera notado 
-    - hubiese notado 
-  tu: 
-    - hubieras notado 
-    - hubieses notado 
-  vos: 
-    - hubieras notado 
-    - hubieses notado 
-  ud: 
-    - hubiera notado 
-    - hubiese notado 
-  nosotros: 
-    - hubiéramos notado 
-    - hubiésemos notado 
-  vosotros: 
-    - hubierais notado 
-    - hubieseis notado 
-  uds: 
-    - hubieran notado 
-    - hubiesen notado 
-imperativo: 
-  tu: nota 
-  vos: notá 
-  ud: note 
-  nosotros: notemos 
-  vosotros: notad 
+  vosotros: notáis
+  uds: notan
+preterito-perfecto-simple:
+  yo: noté
+  tu: notaste
+  vos: notaste
+  ud: notó
+  nosotros: notamos
+  vosotros: notasteis
+  uds: notaron
+preterito-imperfecto:
+  yo: notaba
+  tu: notabas
+  vos: notabas
+  ud: notaba
+  nosotros: notábamos
+  vosotros: notabais
+  uds: notaban
+futuro-simple:
+  yo: notaré
+  tu: notarás
+  vos: notarás
+  ud: notará
+  nosotros: notaremos
+  vosotros: notaréis
+  uds: notarán
+condicional-simple:
+  yo: notaría
+  tu: notarías
+  vos: notarías
+  ud: notaría
+  nosotros: notaríamos
+  vosotros: notaríais
+  uds: notarían
+presente-perfecto:
+  yo: he notado
+  tu: has notado
+  vos: has notado
+  ud: ha notado
+  nosotros: hemos notado
+  vosotros: habéis notado
+  uds: han notado
+preterito-pluscuamperfecto:
+  yo: había notado
+  tu: habías notado
+  vos: habías notado
+  ud: había notado
+  nosotros: habíamos notado
+  vosotros: habíais notado
+  uds: habían notado
+futuro-perfecto:
+  yo: habré notado
+  tu: habrás notado
+  vos: habrás notado
+  ud: habrá notado
+  nosotros: habremos notado
+  vosotros: habréis notado
+  uds: habrán notado
+condicional-perfecto:
+  yo: habría notado
+  tu: habrías notado
+  vos: habrías notado
+  ud: habría notado
+  nosotros: habríamos notado
+  vosotros: habríais notado
+  uds: habrían notado
+presente-subjuntivo:
+  yo: note
+  tu: notes
+  vos: notes
+  ud: note
+  nosotros: notemos
+  vosotros: notéis
+  uds: noten
+preterito-perfecto-subjuntivo:
+  yo: haya notado
+  tu: hayas notado
+  vos: hayas notado
+  ud: haya notado
+  nosotros: hayamos notado
+  vosotros: hayáis notado
+  uds: hayan notado
+imperfecto-subjuntivo:
+  yo:
+    - notara
+    - notase
+  tu:
+    - notaras
+    - notases
+  vos:
+    - notaras
+    - notases
+  ud:
+    - notara
+    - notase
+  nosotros:
+    - notáramos
+    - notásemos
+  vosotros:
+    - notarais
+    - notaseis
+  uds:
+    - notaran
+    - notasen
+pluscuamperfecto-subjuntivo:
+  yo:
+    - hubiera notado
+    - hubiese notado
+  tu:
+    - hubieras notado
+    - hubieses notado
+  vos:
+    - hubieras notado
+    - hubieses notado
+  ud:
+    - hubiera notado
+    - hubiese notado
+  nosotros:
+    - hubiéramos notado
+    - hubiésemos notado
+  vosotros:
+    - hubierais notado
+    - hubieseis notado
+  uds:
+    - hubieran notado
+    - hubiesen notado
+imperativo:
+  tu: nota
+  vos: notá
+  ud: note
+  nosotros: notemos
+  vosotros: notad
   uds: noten

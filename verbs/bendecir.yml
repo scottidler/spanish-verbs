@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis bendecido
   uds: hayan bendecido
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - bendijera
     - bendiciera
-  tu: 
+  tu:
     - bendijeras
     - bendicieras
-  vos: 
+  vos:
     - bendijeras
     - bendicieras
-  ud: 
+  ud:
     - bendijera
     - bendiciera
-  nosotros: 
+  nosotros:
     - bendijéramos
     - bendiciéramos
-  vosotros: 
+  vosotros:
     - bendijerais
     - bendicierais
-  uds: 
+  uds:
     - bendijeran
     - bendicieran
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera bendecido
     - hubiese bendecido
-  tu: 
+  tu:
     - hubieras bendecido
     - hubieses bendecido
-  vos: 
+  vos:
     - hubieras bendecido
     - hubieses bendecido
-  ud: 
+  ud:
     - hubiera bendecido
     - hubiese bendecido
-  nosotros: 
+  nosotros:
     - hubiéramos bendecido
     - hubiésemos bendecido
-  vosotros: 
+  vosotros:
     - hubierais bendecido
     - hubieseis bendecido
-  uds: 
+  uds:
     - hubieran bendecido
     - hubiesen bendecido
 imperativo:

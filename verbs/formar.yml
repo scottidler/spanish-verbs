@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis formado
   uds: hayan formado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - formara
     - formase
-  tu: 
+  tu:
     - formaras
     - formasest
-  vos: 
+  vos:
     - formaras
     - formasest
-  ud: 
+  ud:
     - formara
     - formase
-  nosotros: 
+  nosotros:
     - formáramos
     - formásemos
-  vosotros: 
+  vosotros:
     - formarais
     - formaséis
-  uds: 
+  uds:
     - formaran
     - formasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera formado
     - hubiese formado
-  tu: 
+  tu:
     - hubieras formado
     - hubieses formado
-  vos: 
+  vos:
     - hubieras formado
     - hubieses formado
-  ud: 
+  ud:
     - hubiera formado
     - hubiese formado
-  nosotros: 
+  nosotros:
     - hubiéramos formado
     - hubiésemos formado
-  vosotros: 
+  vosotros:
     - hubierais formado
     - hubieseis formado
-  uds: 
+  uds:
     - hubieran formado
     - hubiesen formado
 imperativo:

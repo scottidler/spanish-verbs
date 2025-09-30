@@ -2,7 +2,7 @@ meaning: to finalize, to complete
 infinitivo: ultimar
 gerundio: ultimando
 participio-pasado: ultimado
-presente-indicativo: 
+presente-indicativo:
   yo: ultimo
   tu: ultimas
   vos: ultimas
@@ -10,7 +10,7 @@ presente-indicativo:
   nosotros: ultimamos
   vosotros: ultimáis
   uds: ultiman
-preterito-perfecto-simple: 
+preterito-perfecto-simple:
   yo: ultimé
   tu: ultimaste
   vos: ultimaste
@@ -18,7 +18,7 @@ preterito-perfecto-simple:
   nosotros: ultimamos
   vosotros: ultimasteis
   uds: ultimaron
-preterito-imperfecto: 
+preterito-imperfecto:
   yo: ultimaba
   tu: ultimabas
   vos: ultimabas
@@ -26,7 +26,7 @@ preterito-imperfecto:
   nosotros: ultimábamos
   vosotros: ultimabais
   uds: ultimaban
-futuro-simple: 
+futuro-simple:
   yo: ultimaré
   tu: ultimarás
   vos: ultimarás
@@ -34,7 +34,7 @@ futuro-simple:
   nosotros: ultimaremos
   vosotros: ultimaréis
   uds: ultimarán
-condicional-simple: 
+condicional-simple:
   yo: ultimaría
   tu: ultimarías
   vos: ultimarías
@@ -42,7 +42,7 @@ condicional-simple:
   nosotros: ultimaríamos
   vosotros: ultimaríais
   uds: ultimarían
-presente-perfecto: 
+presente-perfecto:
   yo: he ultimado
   tu: has ultimado
   vos: has ultimado
@@ -50,7 +50,7 @@ presente-perfecto:
   nosotros: hemos ultimado
   vosotros: habéis ultimado
   uds: han ultimado
-preterito-pluscuamperfecto: 
+preterito-pluscuamperfecto:
   yo: había ultimado
   tu: habías ultimado
   vos: habías ultimado
@@ -58,7 +58,7 @@ preterito-pluscuamperfecto:
   nosotros: habíamos ultimado
   vosotros: habíais ultimado
   uds: habían ultimado
-futuro-perfecto: 
+futuro-perfecto:
   yo: habré ultimado
   tu: habrás ultimado
   vos: habrás ultimado
@@ -66,7 +66,7 @@ futuro-perfecto:
   nosotros: habremos ultimado
   vosotros: habréis ultimado
   uds: habrán ultimado
-condicional-perfecto: 
+condicional-perfecto:
   yo: habría ultimado
   tu: habrías ultimado
   vos: habrías ultimado
@@ -74,7 +74,7 @@ condicional-perfecto:
   nosotros: habríamos ultimado
   vosotros: habríais ultimado
   uds: habrían ultimado
-presente-subjuntivo: 
+presente-subjuntivo:
   yo: ultime
   tu: ultimes
   vos: ultimes
@@ -82,7 +82,7 @@ presente-subjuntivo:
   nosotros: ultimemos
   vosotros: ultiméis
   uds: ultimen
-preterito-perfecto-subjuntivo: 
+preterito-perfecto-subjuntivo:
   yo: haya ultimado
   tu: hayas ultimado
   vos: hayas ultimado
@@ -90,7 +90,7 @@ preterito-perfecto-subjuntivo:
   nosotros: hayamos ultimado
   vosotros: hayáis ultimado
   uds: hayan ultimado
-imperfecto-subjuntivo: 
+imperfecto-subjuntivo:
   yo:
     - ultimara
     - ultimase
@@ -112,7 +112,7 @@ imperfecto-subjuntivo:
   uds:
     - ultimaran
     - ultimasen
-pluscuamperfecto-subjuntivo: 
+pluscuamperfecto-subjuntivo:
   yo:
     - hubiera ultimado
     - hubiese ultimado
@@ -134,7 +134,7 @@ pluscuamperfecto-subjuntivo:
   uds:
     - hubieran ultimado
     - hubiesen ultimado
-imperativo: 
+imperativo:
   tu: ultima
   vos: ultimá
   ud: ultime

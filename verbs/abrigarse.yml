@@ -103,48 +103,48 @@ preterito-perfecto-subjuntivo:
   uds: se hayan abrigado
 
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - me abrigara
     - me abrigase
-  tu: 
+  tu:
     - te abrigaras
     - te abrigases
-  vos: 
+  vos:
     - te abrigaras
     - te abrigases
-  ud: 
+  ud:
     - se abrigara
     - se abrigase
-  nosotros: 
+  nosotros:
     - nos abrigáramos
     - nos abrigásemos
-  vosotros: 
+  vosotros:
     - os abrigarais
     - os abrigaseis
-  uds: 
+  uds:
     - se abrigaran
     - se abrigasen
 
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - me hubiera abrigado
     - me hubiese abrigado
-  tu: 
+  tu:
     - te hubieras abrigado
     - te hubieses abrigado
-  vos: 
+  vos:
     - te hubieras abrigado
     - te hubieses abrigado
-  ud: 
+  ud:
     - se hubiera abrigado
     - se hubiese abrigado
-  nosotros: 
+  nosotros:
     - nos hubiéramos abrigado
     - nos hubiésemos abrigado
-  vosotros: 
+  vosotros:
     - os hubierais abrigado
     - os hubieseis abrigado
-  uds: 
+  uds:
     - se hubieran abrigado
     - se hubiesen abrigado
 

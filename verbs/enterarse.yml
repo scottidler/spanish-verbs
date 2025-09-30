@@ -103,48 +103,48 @@ preterito-perfecto-subjuntivo:
   uds: se hayan enterado
 
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - me enterara
     - me enterase
-  tu: 
+  tu:
     - te enteraras
     - te enterases
-  vos: 
+  vos:
     - te enteraras
     - te enterases
-  ud: 
+  ud:
     - se enterara
     - se enterase
-  nosotros: 
+  nosotros:
     - nos enteráramos
     - nos enterásemos
-  vosotros: 
+  vosotros:
     - os enterarais
     - os enteraseis
-  uds: 
+  uds:
     - se enteraran
     - se enterasen
 
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - me hubiera enterado
     - me hubiese enterado
-  tu: 
+  tu:
     - te hubieras enterado
     - te hubieses enterado
-  vos: 
+  vos:
     - te hubieras enterado
     - te hubieses enterado
-  ud: 
+  ud:
     - se hubiera enterado
     - se hubiese enterado
-  nosotros: 
+  nosotros:
     - nos hubiéramos enterado
     - nos hubiésemos enterado
-  vosotros: 
+  vosotros:
     - os hubierais enterado
     - os hubieseis enterado
-  uds: 
+  uds:
     - se hubieran enterado
     - se hubiesen enterado
 

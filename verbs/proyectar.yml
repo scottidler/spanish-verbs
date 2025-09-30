@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis proyectado
   uds: hayan proyectado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - proyectara
     - proyectase
-  tu: 
+  tu:
     - proyectaras
     - proyectases
-  vos: 
+  vos:
     - proyectaras
     - proyectases
-  ud: 
+  ud:
     - proyectara
     - proyectase
-  nosotros: 
+  nosotros:
     - proyectáramos
     - proyectásemos
-  vosotros: 
+  vosotros:
     - proyectarais
     - proyectaseis
-  uds: 
+  uds:
     - proyectaran
     - proyectasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera proyectado
     - hubiese proyectado
-  tu: 
+  tu:
     - hubieras proyectado
     - hubieses proyectado
-  vos: 
+  vos:
     - hubieras proyectado
     - hubieses proyectado
-  ud: 
+  ud:
     - hubiera proyectado
     - hubiese proyectado
-  nosotros: 
+  nosotros:
     - hubiéramos proyectado
     - hubiésemos proyectado
-  vosotros: 
+  vosotros:
     - hubierais proyectado
     - hubieseis proyectado
-  uds: 
+  uds:
     - hubieran proyectado
     - hubiesen proyectado
 imperativo:

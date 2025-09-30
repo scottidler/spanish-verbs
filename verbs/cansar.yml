@@ -2,7 +2,7 @@ meaning: to tire, to weary
 infinitivo: cansar
 gerundio: cansando
 participio-pasado: cansado
-presente-indicativo: 
+presente-indicativo:
   yo: canso
   tu: cansas
   vos: cansás
@@ -10,7 +10,7 @@ presente-indicativo:
   nosotros: cansamos
   vosotros: cansáis
   uds: cansan
-preterito-perfecto-simple: 
+preterito-perfecto-simple:
   yo: cansé
   tu: cansaste
   vos: cansaste
@@ -18,7 +18,7 @@ preterito-perfecto-simple:
   nosotros: cansamos
   vosotros: cansasteis
   uds: cansaron
-preterito-imperfecto: 
+preterito-imperfecto:
   yo: cansaba
   tu: cansabas
   vos: cansabas
@@ -26,7 +26,7 @@ preterito-imperfecto:
   nosotros: cansábamos
   vosotros: cansabais
   uds: cansaban
-futuro-simple: 
+futuro-simple:
   yo: cansaré
   tu: cansarás
   vos: cansarás
@@ -34,7 +34,7 @@ futuro-simple:
   nosotros: cansaremos
   vosotros: cansaréis
   uds: cansarán
-condicional-simple: 
+condicional-simple:
   yo: cansaría
   tu: cansarías
   vos: cansarías
@@ -42,7 +42,7 @@ condicional-simple:
   nosotros: cansaríamos
   vosotros: cansaríais
   uds: cansarían
-presente-perfecto: 
+presente-perfecto:
   yo: he cansado
   tu: has cansado
   vos: has cansado
@@ -50,7 +50,7 @@ presente-perfecto:
   nosotros: hemos cansado
   vosotros: habéis cansado
   uds: han cansado
-preterito-pluscuamperfecto: 
+preterito-pluscuamperfecto:
   yo: había cansado
   tu: habías cansado
   vos: habías cansado
@@ -58,7 +58,7 @@ preterito-pluscuamperfecto:
   nosotros: habíamos cansado
   vosotros: habíais cansado
   uds: habían cansado
-futuro-perfecto: 
+futuro-perfecto:
   yo: habré cansado
   tu: habrás cansado
   vos: habrás cansado
@@ -66,7 +66,7 @@ futuro-perfecto:
   nosotros: habremos cansado
   vosotros: habréis cansado
   uds: habrán cansado
-condicional-perfecto: 
+condicional-perfecto:
   yo: habría cansado
   tu: habrías cansado
   vos: habrías cansado
@@ -74,7 +74,7 @@ condicional-perfecto:
   nosotros: habríamos cansado
   vosotros: habríais cansado
   uds: habrían cansado
-presente-subjuntivo: 
+presente-subjuntivo:
   yo: canse
   tu: canses
   vos: canses
@@ -82,7 +82,7 @@ presente-subjuntivo:
   nosotros: cansemos
   vosotros: canséis
   uds: cansen
-preterito-perfecto-subjuntivo: 
+preterito-perfecto-subjuntivo:
   yo: haya cansado
   tu: hayas cansado
   vos: hayas cansado
@@ -90,51 +90,51 @@ preterito-perfecto-subjuntivo:
   nosotros: hayamos cansado
   vosotros: hayáis cansado
   uds: hayan cansado
-imperfecto-subjuntivo: 
-  yo: 
+imperfecto-subjuntivo:
+  yo:
     - cansara
     - cansase
-  tu: 
+  tu:
     - cansaras
     - cansases
-  vos: 
+  vos:
     - cansaras
     - cansases
-  ud: 
+  ud:
     - cansara
     - cansase
-  nosotros: 
+  nosotros:
     - cansáramos
     - cansásemos
-  vosotros: 
+  vosotros:
     - cansarais
     - cansaseis
-  uds: 
+  uds:
     - cansaran
     - cansasen
-pluscuamperfecto-subjuntivo: 
-  yo: 
+pluscuamperfecto-subjuntivo:
+  yo:
     - hubiera cansado
     - hubiese cansado
-  tu: 
+  tu:
     - hubieras cansado
     - hubieses cansado
-  vos: 
+  vos:
     - hubieras cansado
     - hubieses cansado
-  ud: 
+  ud:
     - hubiera cansado
     - hubiese cansado
-  nosotros: 
+  nosotros:
     - hubiéramos cansado
     - hubiésemos cansado
-  vosotros: 
+  vosotros:
     - hubierais cansado
     - hubieseis cansado
-  uds: 
+  uds:
     - hubieran cansado
     - hubiesen cansado
-imperativo: 
+imperativo:
   tu: cansa
   vos: cansá
   ud: canse

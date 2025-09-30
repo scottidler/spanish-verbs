@@ -5,7 +5,7 @@ participio-pasado: orientado
 
 presente-indicativo:
   yo: me oriento
-  tu: te orientas 
+  tu: te orientas
   vos: te orientas
   ud: se orienta
   nosotros: nos orientamos
@@ -19,7 +19,7 @@ preterito-perfecto-simple:
   ud: se orientó
   nosotros: nos orientamos
   vosotros: os orientasteis
-  uds: se orientaron 
+  uds: se orientaron
 
 preterito-imperfecto:
   yo: me orientaba

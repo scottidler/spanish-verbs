@@ -91,16 +91,16 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis apoyado
   uds: hayan apoyado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - apoyara
     - apoyase
-  tu: 
+  tu:
     - apoyaras
     - apoyases
-  vos: 
+  vos:
     - apoyaras
     - apoyases
-  ud: 
+  ud:
     - apoyara
     - apoyase
   nosotros:

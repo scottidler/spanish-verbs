@@ -2,7 +2,7 @@ meaning: to sniff, to scent
 infinitivo: ventear
 gerundio: venteando
 participio-pasado: venteado
-presente-indicativo: 
+presente-indicativo:
   yo: venteo
   tu: venteas
   vos: venteás
@@ -10,7 +10,7 @@ presente-indicativo:
   nosotros: venteamos
   vosotros: ventean
   uds: ventean
-preterito-perfecto-simple: 
+preterito-perfecto-simple:
   yo: ventée
   tu: venteaste
   vos: venteaste
@@ -18,7 +18,7 @@ preterito-perfecto-simple:
   nosotros: venteamos
   vosotros: venteasteis
   uds: ventearon
-preterito-imperfecto: 
+preterito-imperfecto:
   yo: venteaba
   tu: venteabas
   vos: venteabas
@@ -26,7 +26,7 @@ preterito-imperfecto:
   nosotros: venteábamos
   vosotros: venteabais
   uds: venteaban
-futuro-simple: 
+futuro-simple:
   yo: ventearé
   tu: ventearás
   vos: ventearás
@@ -34,7 +34,7 @@ futuro-simple:
   nosotros: ventearemos
   vosotros: ventearéis
   uds: ventearán
-condicional-simple: 
+condicional-simple:
   yo: ventearía
   tu: ventearías
   vos: ventearías
@@ -42,7 +42,7 @@ condicional-simple:
   nosotros: ventearíamos
   vosotros: ventearíais
   uds: ventearían
-presente-perfecto: 
+presente-perfecto:
   yo: he venteado
   tu: has venteado
   vos: has venteado
@@ -50,7 +50,7 @@ presente-perfecto:
   nosotros: hemos venteado
   vosotros: habéis venteado
   uds: han venteado
-preterito-pluscuamperfecto: 
+preterito-pluscuamperfecto:
   yo: había venteado
   tu: habías venteado
   vos: habías venteado
@@ -58,7 +58,7 @@ preterito-pluscuamperfecto:
   nosotros: habíamos venteado
   vosotros: habíais venteado
   uds: habían venteado
-futuro-perfecto: 
+futuro-perfecto:
   yo: habré venteado
   tu: habrás venteado
   vos: habrás venteado
@@ -66,7 +66,7 @@ futuro-perfecto:
   nosotros: habremos venteado
   vosotros: habréis venteado
   uds: habrán venteado
-condicional-perfecto: 
+condicional-perfecto:
   yo: habría venteado
   tu: habrías venteado
   vos: habrías venteado
@@ -74,7 +74,7 @@ condicional-perfecto:
   nosotros: habríamos venteado
   vosotros: habríais venteado
   uds: habrían venteado
-presente-subjuntivo: 
+presente-subjuntivo:
   yo: venteé
   tu: venteés
   vos: venteés
@@ -82,7 +82,7 @@ presente-subjuntivo:
   nosotros: venteemos
   vosotros: venteéis
   uds: venteén
-preterito-perfecto-subjuntivo: 
+preterito-perfecto-subjuntivo:
   yo: haya venteado
   tu: hayas venteado
   vos: hayas venteado
@@ -90,7 +90,7 @@ preterito-perfecto-subjuntivo:
   nosotros: hayamos venteado
   vosotros: hayáis venteado
   uds: hayan venteado
-imperfecto-subjuntivo: 
+imperfecto-subjuntivo:
   yo:
     - venteara
     - ventease
@@ -112,7 +112,7 @@ imperfecto-subjuntivo:
   uds:
     - ventearan
     - venteasen
-pluscuamperfecto-subjuntivo: 
+pluscuamperfecto-subjuntivo:
   yo:
     - hubiera venteado
     - hubiese venteado
@@ -134,7 +134,7 @@ pluscuamperfecto-subjuntivo:
   uds:
     - hubieran venteado
     - hubiesen venteado
-imperativo: 
+imperativo:
   tu: ventea
   vos: venteá
   ud: ventee

@@ -113,25 +113,25 @@ imperfecto-subjuntivo:
     - "se tragaran"
     - "se tragasen"
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - "me hubiera tragado"
     - "me hubiese tragado"
-  tu: 
+  tu:
     - "te hubieras tragado"
     - "te hubieses tragado"
-  vos: 
+  vos:
     - "te hubieras tragado"
     - "te hubieses tragado"
-  ud: 
+  ud:
     - "se hubiera tragado"
     - "se hubiese tragado"
-  nosotros: 
+  nosotros:
     - "nos hubiéramos tragado"
     - "nos hubiésemos tragado"
-  vosotros: 
+  vosotros:
     - "os hubierais tragado"
     - "os hubieseis tragado"
-  uds: 
+  uds:
     - "se hubieran tragado"
     - "se hubiesen tragado"
 imperativo:

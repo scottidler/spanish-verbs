@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis postrado
   uds: hayan postrado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - postrara
     - postrase
-  tu: 
+  tu:
     - postraras
     - postrases
-  vos: 
+  vos:
     - postraras
     - postrases
-  ud: 
+  ud:
     - postrara
     - postrase
-  nosotros: 
+  nosotros:
     - postráramos
     - postrásemos
-  vosotros: 
+  vosotros:
     - postrarais
     - postraseis
-  uds: 
+  uds:
     - postraran
     - postrasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera postrado
     - hubiese postrado
-  tu: 
+  tu:
     - hubieras postrado
     - hubieses postrado
-  vos: 
+  vos:
     - hubieras postrado
     - hubieses postrado
-  ud: 
+  ud:
     - hubiera postrado
     - hubiese postrado
-  nosotros: 
+  nosotros:
     - hubiéramos postrado
     - hubiésemos postrado
-  vosotros: 
+  vosotros:
     - hubierais postrado
     - hubieseis postrado
-  uds: 
+  uds:
     - hubieran postrado
     - hubiesen postrado
 imperativo:

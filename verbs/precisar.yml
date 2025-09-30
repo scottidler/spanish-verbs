@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis precisado
   uds: hayan precisado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - precisara
     - precisase
-  tu: 
+  tu:
     - precisaras
     - precisases
-  vos: 
+  vos:
     - precisaras
     - precisases
-  ud: 
+  ud:
     - precisara
     - precisase
-  nosotros: 
+  nosotros:
     - precisáramos
     - precisásemos
-  vosotros: 
+  vosotros:
     - precisarais
     - precisaseis
-  uds: 
+  uds:
     - precisaran
     - precisasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera precisado
     - hubiese precisado
-  tu: 
+  tu:
     - hubieras precisado
     - hubieses precisado
-  vos: 
+  vos:
     - hubieras precisado
     - hubieses precisado
-  ud: 
+  ud:
     - hubiera precisado
     - hubiese precisado
-  nosotros: 
+  nosotros:
     - hubiéramos precisado
     - hubiésemos precisado
-  vosotros: 
+  vosotros:
     - hubierais precisado
     - hubieseis precisado
-  uds: 
+  uds:
     - hubieran precisado
     - hubiesen precisado
 imperativo:

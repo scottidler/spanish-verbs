@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis preguntado
   uds: hayan preguntado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - preguntara
     - preguntase
-  tu: 
+  tu:
     - preguntaras
     - preguntases
-  vos: 
+  vos:
     - preguntaras
     - preguntases
-  ud: 
+  ud:
     - preguntara
     - preguntase
-  nosotros: 
+  nosotros:
     - preguntáramos
     - preguntásemos
-  vosotros: 
+  vosotros:
     - preguntarais
     - preguntaseis
-  uds: 
+  uds:
     - preguntaran
     - preguntasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera preguntado
     - hubiese preguntado
-  tu: 
+  tu:
     - hubieras preguntado
     - hubieses preguntado
-  vos: 
+  vos:
     - hubieras preguntado
     - hubieses preguntado
-  ud: 
+  ud:
     - hubiera preguntado
     - hubiese preguntado
-  nosotros: 
+  nosotros:
     - hubiéramos preguntado
     - hubiésemos preguntado
-  vosotros: 
+  vosotros:
     - hubierais preguntado
     - hubieseis preguntado
-  uds: 
+  uds:
     - hubieran preguntado
     - hubiesen preguntado
 imperativo:

@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: os hayáis enrollado
   uds: se hayan enrollado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - me enrollara
     - me enrollase
-  tu: 
+  tu:
     - te enrollaras
     - te enrollases
-  vos: 
+  vos:
     - te enrollaras
     - te enrollases
-  ud: 
+  ud:
     - se enrollara
     - se enrollase
-  nosotros: 
+  nosotros:
     - nos enrolláramos
     - nos enrollásemos
-  vosotros: 
+  vosotros:
     - os enrollarais
     - os enrollaseis
-  uds: 
+  uds:
     - se enrollaran
     - se enrollassen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - me hubiera enrollado
     - me hubiese enrollado
-  tu: 
+  tu:
     - te hubieras enrollado
     - te hubieses enrollado
-  vos: 
+  vos:
     - te hubieras enrollado
     - te hubieses enrollado
-  ud: 
+  ud:
     - se hubiera enrollado
     - se hubiese enrollado
-  nosotros: 
+  nosotros:
     - nos hubiéramos enrollado
     - nos hubiésemos enrollado
   vosotros:
     - os hubierais enrollado
     - os hubieseis enrollado
-  uds: 
+  uds:
     - se hubieran enrollado
     - se hubiesen enrollado
 imperativo:

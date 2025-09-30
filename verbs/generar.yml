@@ -91,7 +91,7 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis generado
   uds: hayan generado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - generara
     - generase
   tu:

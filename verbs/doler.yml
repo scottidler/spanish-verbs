@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: os hayáis dolido
   uds: se hayan dolido
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - me doliera
     - me doliese
-  tu: 
+  tu:
     - te dolieras
     - te dolieses
-  vos: 
+  vos:
     - te dolieras
     - te dolieses
-  ud: 
+  ud:
     - se doliera
     - se doliese
-  nosotros: 
+  nosotros:
     - nos doliéramos
     - nos diésemos
-  vosotros: 
+  vosotros:
     - os dolierais
     - os dolieseis
-  uds: 
+  uds:
     - se dolieran
     - se doliesen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - me hubiera dolido
     - me hubiese dolido
-  tu: 
+  tu:
     - te hubieras dolido
     - te hubieses dolido
-  vos: 
+  vos:
     - te hubieras dolido
     - te hubieses dolido
-  ud: 
+  ud:
     - se hubiera dolido
     - se hubiese dolido
-  nosotros: 
+  nosotros:
     - nos hubiéramos dolido
     - nos hubiésemos dolido
-  vosotros: 
+  vosotros:
     - os hubierais dolido
     - os hubieseis dolido
-  uds: 
+  uds:
     - se hubieran dolido
     - se hubiesen dolido
 imperativo:

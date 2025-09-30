@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis transcurrido
   uds: hayan transcurrido
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - transcurriera
     - transcurriese
-  tu: 
+  tu:
     - transcurrieras
     - transcurrieses
-  vos: 
+  vos:
     - transcurrieras
     - transcurrieses
-  ud: 
+  ud:
     - transcurriera
     - transcurriese
-  nosotros: 
+  nosotros:
     - transcurriéramos
     - transcurriésemos
-  vosotros: 
+  vosotros:
     - transcurrierais
     - transcurrieseis
-  uds: 
+  uds:
     - transcurrieran
     - transcurriesen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera transcurrido
     - hubiese transcurrido
-  tu: 
+  tu:
     - hubieras transcurrido
     - hubieses transcurrido
-  vos: 
+  vos:
     - hubieras transcurrido
     - hubieses transcurrido
-  ud: 
+  ud:
     - hubiera transcurrido
     - hubiese transcurrido
-  nosotros: 
+  nosotros:
     - hubiéramos transcurrido
     - hubiésemos transcurrido
-  vosotros: 
+  vosotros:
     - hubierais transcurrido
     - hubieseis transcurrido
-  uds: 
+  uds:
     - hubieran transcurrido
     - hubiesen transcurrido
 imperativo:

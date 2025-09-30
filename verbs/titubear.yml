@@ -91,47 +91,47 @@ preterito-perfecto-subjuntivo:
   vosotros: hayáis titubeado
   uds: hayan titubeado
 imperfecto-subjuntivo:
-  yo: 
+  yo:
     - titubeara
     - titubease
-  tu: 
+  tu:
     - titubearas
     - titubeases
-  vos: 
+  vos:
     - titubearas
     - titubeases
-  ud: 
+  ud:
     - titubeara
     - titubease
-  nosotros: 
+  nosotros:
     - titubeáramos
     - titubeásemos
-  vosotros: 
+  vosotros:
     - titubearais
     - titubeaseis
-  uds: 
+  uds:
     - titubearan
     - titubeasen
 pluscuamperfecto-subjuntivo:
-  yo: 
+  yo:
     - hubiera titubeado
     - hubiese titubeado
-  tu: 
+  tu:
     - hubieras titubeado
     - hubieses titubeado
-  vos: 
+  vos:
     - hubieras titubeado
     - hubieses titubeado
-  ud: 
+  ud:
     - hubiera titubeado
     - hubiese titubeado
-  nosotros: 
+  nosotros:
     - hubiéramos titubeado
     - hubiésemos titubeado
-  vosotros: 
+  vosotros:
     - hubierais titubeado
     - hubieseis titubeado
-  uds: 
+  uds:
     - hubieran titubeado
     - hubiesen titubeado
 imperativo:

@@ -2,7 +2,7 @@ meaning: to take advantage of, to make the most of
 infinitivo: aprovechar
 gerundio: aprovechando
 participio-pasado: aprovechado
-presente-indicativo: 
+presente-indicativo:
   yo: aprovecho
   tu: aprovechas
   vos: aprovechás
@@ -10,7 +10,7 @@ presente-indicativo:
   nosotros: aprovechamos
   vosotros: aprovecháis
   uds: aprovechan
-preterito-perfecto-simple: 
+preterito-perfecto-simple:
   yo: aproveché
   tu: aprovechaste
   vos: aprovechaste
@@ -18,7 +18,7 @@ preterito-perfecto-simple:
   nosotros: aprovechamos
   vosotros: aprovechasteis
   uds: aprovecharon
-preterito-imperfecto: 
+preterito-imperfecto:
   yo: aprovechaba
   tu: aprovechabas
   vos: aprovechabas
@@ -26,7 +26,7 @@ preterito-imperfecto:
   nosotros: aprovechábamos
   vosotros: aprovechabais
   uds: aprovechaban
-futuro-simple: 
+futuro-simple:
   yo: aprovecharé
   tu: aprovecharás
   vos: aprovecharás
@@ -34,7 +34,7 @@ futuro-simple:
   nosotros: aprovecharemos
   vosotros: aprovecharéis
   uds: aprovecharán
-condicional-simple: 
+condicional-simple:
   yo: aprovecharía
   tu: aprovecharías
   vos: aprovecharías
@@ -42,7 +42,7 @@ condicional-simple:
   nosotros: aprovecharíamos
   vosotros: aprovecharíais
   uds: aprovecharían
-presente-perfecto: 
+presente-perfecto:
   yo: he aprovechado
   tu: has aprovechado
   vos: has aprovechado
@@ -50,7 +50,7 @@ presente-perfecto:
   nosotros: hemos aprovechado
   vosotros: habéis aprovechado
   uds: han aprovechado
-preterito-pluscuamperfecto: 
+preterito-pluscuamperfecto:
   yo: había aprovechado
   tu: habías aprovechado
   vos: habías aprovechado
@@ -58,7 +58,7 @@ preterito-pluscuamperfecto:
   nosotros: habíamos aprovechado
   vosotros: habíais aprovechado
   uds: habían aprovechado
-futuro-perfecto: 
+futuro-perfecto:
   yo: habré aprovechado
   tu: habrás aprovechado
   vos: habrás aprovechado
@@ -66,7 +66,7 @@ futuro-perfecto:
   nosotros: habremos aprovechado
   vosotros: habréis aprovechado
   uds: habrán aprovechado
-condicional-perfecto: 
+condicional-perfecto:
   yo: habría aprovechado
   tu: habrías aprovechado
   vos: habrías aprovechado
@@ -74,7 +74,7 @@ condicional-perfecto:
   nosotros: habríamos aprovechado
   vosotros: habríais aprovechado
   uds: habrían aprovechado
-presente-subjuntivo: 
+presente-subjuntivo:
   yo: aproveche
   tu: aproveches
   vos: aproveches
@@ -82,7 +82,7 @@ presente-subjuntivo:
   nosotros: aprovechemos
   vosotros: aprovechéis
   uds: aprovechen
-preterito-perfecto-subjuntivo: 
+preterito-perfecto-subjuntivo:
   yo: haya aprovechado
   tu: hayas aprovechado
   vos: hayas aprovechado
@@ -90,7 +90,7 @@ preterito-perfecto-subjuntivo:
   nosotros: hayamos aprovechado
   vosotros: hayáis aprovechado
   uds: hayan aprovechado
-imperfecto-subjuntivo: 
+imperfecto-subjuntivo:
   yo:
     - aprovechara
     - aprovechase
@@ -112,7 +112,7 @@ imperfecto-subjuntivo:
   uds:
     - aprovecharan
     - aprovechasen
-pluscuamperfecto-subjuntivo: 
+pluscuamperfecto-subjuntivo:
   yo:
     - hubiera aprovechado
     - hubiese aprovechado
@@ -134,7 +134,7 @@ pluscuamperfecto-subjuntivo:
   uds:
     - hubieran aprovechado
     - hubiesen aprovechado
-imperativo: 
+imperativo:
   tu: aprovecha
   vos: aprovechá
   ud: aproveche

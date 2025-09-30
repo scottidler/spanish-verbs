@@ -2,7 +2,7 @@ meaning: to scale, to climb, to escalate
 infinitivo: escalar
 gerundio: escalando
 participio-pasado: escalado
-presente-indicativo: 
+presente-indicativo:
   yo: escalo
   tu: escalas
   vos: escalas
@@ -10,7 +10,7 @@ presente-indicativo:
   nosotros: escalamos
   vosotros: escaláis
   uds: escalan
-preterito-perfecto-simple: 
+preterito-perfecto-simple:
   yo: escalé
   tu: escalaste
   vos: escalaste
@@ -18,7 +18,7 @@ preterito-perfecto-simple:
   nosotros: escalamos
   vosotros: escalasteis
   uds: escalaron
-preterito-imperfecto: 
+preterito-imperfecto:
   yo: escalaba
   tu: escalabas
   vos: escalabas
@@ -26,7 +26,7 @@ preterito-imperfecto:
   nosotros: escalábamos
   vosotros: escalabais
   uds: escalaban
-futuro-simple: 
+futuro-simple:
   yo: escalaré
   tu: escalarás
   vos: escalarás
@@ -34,7 +34,7 @@ futuro-simple:
   nosotros: escalaremos
   vosotros: escalaréis
   uds: escalarán
-condicional-simple: 
+condicional-simple:
   yo: escalaría
   tu: escalarías
   vos: escalarías
@@ -42,7 +42,7 @@ condicional-simple:
   nosotros: escalaríamos
   vosotros: escalaríais
   uds: escalarían
-presente-perfecto: 
+presente-perfecto:
   yo: he escalado
   tu: has escalado
   vos: has escalado
@@ -50,7 +50,7 @@ presente-perfecto:
   nosotros: hemos escalado
   vosotros: habéis escalado
   uds: han escalado
-preterito-pluscuamperfecto: 
+preterito-pluscuamperfecto:
   yo: había escalado
   tu: habías escalado
   vos: habías escalado
@@ -58,7 +58,7 @@ preterito-pluscuamperfecto:
   nosotros: habíamos escalado
   vosotros: habíais escalado
   uds: habían escalado
-futuro-perfecto: 
+futuro-perfecto:
   yo: habré escalado
   tu: habrás escalado
   vos: habrás escalado
@@ -66,7 +66,7 @@ futuro-perfecto:
   nosotros: habremos escalado
   vosotros: habréis escalado
   uds: habrán escalado
-condicional-perfecto: 
+condicional-perfecto:
   yo: habría escalado
   tu: habrías escalado
   vos: habrías escalado
@@ -74,7 +74,7 @@ condicional-perfecto:
   nosotros: habríamos escalado
   vosotros: habríais escalado
   uds: habrían escalado
-presente-subjuntivo: 
+presente-subjuntivo:
   yo: escale
   tu: escales
   vos: escales
@@ -82,7 +82,7 @@ presente-subjuntivo:
   nosotros: escalemos
   vosotros: escaléis
   uds: escalen
-preterito-perfecto-subjuntivo: 
+preterito-perfecto-subjuntivo:
   yo: haya escalado
   tu: hayas escalado
   vos: hayas escalado
@@ -90,7 +90,7 @@ preterito-perfecto-subjuntivo:
   nosotros: hayamos escalado
   vosotros: hayáis escalado
   uds: hayan escalado
-imperfecto-subjuntivo: 
+imperfecto-subjuntivo:
   yo:
     - escalara
     - escalase
@@ -112,7 +112,7 @@ imperfecto-subjuntivo:
   uds:
     - escalaran
     - escalasen
-pluscuamperfecto-subjuntivo: 
+pluscuamperfecto-subjuntivo:
   yo:
     - hubiera escalado
     - hubiese escalado
@@ -134,7 +134,7 @@ pluscuamperfecto-subjuntivo:
   uds:
     - hubieran escalado
     - hubiesen escalado
-imperativo: 
+imperativo:
   tu: escala
   vos: escalá
   ud: escale
