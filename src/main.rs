@@ -1,7 +1,6 @@
 use std::{fs, path::Path};
 
 use clap::{Parser, Subcommand};
-use serde_yaml;
 use serde::{Deserialize, Serialize};
 
 #[derive(Parser, Debug)]
@@ -23,7 +22,10 @@ enum Tense {
     #[clap(name = "presente", about = "Conjugations for Presente Indicativo")]
     PresenteIndicativo(TenseArgs),
 
-    #[clap(name = "preterito", about = "Conjugations for Preterito Perfecto Simple")]
+    #[clap(
+        name = "preterito",
+        about = "Conjugations for Preterito Perfecto Simple"
+    )]
     PreteritoPerfectoSimple(TenseArgs),
 
     #[clap(name = "imperfecto", about = "Conjugations for Preterito Imperfecto")]
@@ -38,7 +40,10 @@ enum Tense {
     #[clap(name = "pres-perf", about = "Conjugations for Presente Perfecto")]
     PresentePerfecto(TenseArgs),
 
-    #[clap(name = "pret-plus", about = "Conjugations for Preterito Pluscuamperfecto")]
+    #[clap(
+        name = "pret-plus",
+        about = "Conjugations for Preterito Pluscuamperfecto"
+    )]
     PreteritoPluscuamperfecto(TenseArgs),
 
     #[clap(name = "fut-perf", about = "Conjugations for Futuro Perfecto")]
@@ -50,19 +55,24 @@ enum Tense {
     #[clap(name = "pres-subj", about = "Conjugations for Presente Subjuntivo")]
     PresenteSubjuntivo(TenseArgs),
 
-    #[clap(name = "pret-perf-subj", about = "Conjugations for Preterito Perfecto Subjuntivo")]
+    #[clap(
+        name = "pret-perf-subj",
+        about = "Conjugations for Preterito Perfecto Subjuntivo"
+    )]
     PreteritoPerfectoSubjuntivo(TenseArgs),
 
     #[clap(name = "imp-subj", about = "Conjugations for Imperfecto Subjuntivo")]
     ImperfectoSubjuntivo(TenseArgs),
 
-    #[clap(name = "plus-subj", about = "Conjugations for Pluscuamperfecto Subjuntivo")]
+    #[clap(
+        name = "plus-subj",
+        about = "Conjugations for Pluscuamperfecto Subjuntivo"
+    )]
     PluscuamperfectoSubjuntivo(TenseArgs),
 
     #[clap(name = "imperativo", about = "Conjugations for Imperativo")]
     Imperativo(TenseArgs),
 }
-
 
 #[derive(Debug, Serialize, Deserialize)]
 struct VerbConjugation {
@@ -203,19 +213,41 @@ fn main() -> eyre::Result<()> {
         }
     } else if let Some(tense) = args.tense {
         match tense {
-            Tense::PresenteIndicativo(args) => handle_tense(&verb_conjugation.presente_indicativo, args),
-            Tense::PreteritoPerfectoSimple(args) => handle_tense(&verb_conjugation.preterito_perfecto_simple, args),
-            Tense::PreteritoImperfecto(args) => handle_tense(&verb_conjugation.preterito_imperfecto, args),
+            Tense::PresenteIndicativo(args) => {
+                handle_tense(&verb_conjugation.presente_indicativo, args)
+            }
+            Tense::PreteritoPerfectoSimple(args) => {
+                handle_tense(&verb_conjugation.preterito_perfecto_simple, args)
+            }
+            Tense::PreteritoImperfecto(args) => {
+                handle_tense(&verb_conjugation.preterito_imperfecto, args)
+            }
             Tense::FuturoSimple(args) => handle_tense(&verb_conjugation.futuro_simple, args),
-            Tense::CondicionalSimple(args) => handle_tense(&verb_conjugation.condicional_simple, args),
-            Tense::PresentePerfecto(args) => handle_tense(&verb_conjugation.presente_perfecto, args),
-            Tense::PreteritoPluscuamperfecto(args) => handle_tense(&verb_conjugation.preterito_pluscuamperfecto, args),
+            Tense::CondicionalSimple(args) => {
+                handle_tense(&verb_conjugation.condicional_simple, args)
+            }
+            Tense::PresentePerfecto(args) => {
+                handle_tense(&verb_conjugation.presente_perfecto, args)
+            }
+            Tense::PreteritoPluscuamperfecto(args) => {
+                handle_tense(&verb_conjugation.preterito_pluscuamperfecto, args)
+            }
             Tense::FuturoPerfecto(args) => handle_tense(&verb_conjugation.futuro_perfecto, args),
-            Tense::CondicionalPerfecto(args) => handle_tense(&verb_conjugation.condicional_perfecto, args),
-            Tense::PresenteSubjuntivo(args) => handle_tense(&verb_conjugation.presente_subjuntivo, args),
-            Tense::PreteritoPerfectoSubjuntivo(args) => handle_tense(&verb_conjugation.preterito_perfecto_subjuntivo, args),
-            Tense::ImperfectoSubjuntivo(args) => handle_tense_with_alternatives(&verb_conjugation.imperfecto_subjuntivo, args),
-            Tense::PluscuamperfectoSubjuntivo(args) => handle_tense_with_alternatives(&verb_conjugation.pluscuamperfecto_subjuntivo, args),
+            Tense::CondicionalPerfecto(args) => {
+                handle_tense(&verb_conjugation.condicional_perfecto, args)
+            }
+            Tense::PresenteSubjuntivo(args) => {
+                handle_tense(&verb_conjugation.presente_subjuntivo, args)
+            }
+            Tense::PreteritoPerfectoSubjuntivo(args) => {
+                handle_tense(&verb_conjugation.preterito_perfecto_subjuntivo, args)
+            }
+            Tense::ImperfectoSubjuntivo(args) => {
+                handle_tense_with_alternatives(&verb_conjugation.imperfecto_subjuntivo, args)
+            }
+            Tense::PluscuamperfectoSubjuntivo(args) => {
+                handle_tense_with_alternatives(&verb_conjugation.pluscuamperfecto_subjuntivo, args)
+            }
             Tense::Imperativo(args) => handle_imperative_tense(&verb_conjugation.imperativo, args),
         }
     }
