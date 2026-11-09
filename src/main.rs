@@ -5,7 +5,7 @@ use serde_yaml;
 use serde::{Deserialize, Serialize};
 
 #[derive(Parser, Debug)]
-#[clap(author, version = env!("GIT_DESCRIBE"), about, long_about = None)]
+#[clap(author, version = env!("BUILD_VERSION"), about, long_about = None)]
 struct Cli {
     verb: String,
     #[clap(subcommand)]
